@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the raise.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226143927id_/https%3A//www.raise.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raise.com privacy policy that was archived on 2016-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326120238id_/https%3A//www.raise.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js "><!--<![endif]--><head>
 <meta charset="utf-8">
 <!--[if IE]>
 <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c7547534a6","applicationID":"3038472","transactionName":"clZXQ0NWVVhVFxZCElBNUFQeSUtdRgRaSDlBVlVeUkA=","queueTime":0,"applicationTime":37,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMAVVBUGwAAV1lWAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"c7547534a6","applicationID":"3038472","transactionName":"clZXQ0NWVVhVFxZCElBNUFQeSUtdRgRaSDlBVlVeUkA=","queueTime":0,"applicationTime":37,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgMAVVBUGwAAV1lWAAM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(5),c=t(16),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(5),t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 <![endif]-->
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
 <title>Privacy Policy - Raise</title>
@@ -14,7 +14,7 @@
 
 <meta content="Raise.com" property="og:title">
 <meta content="website" property="og:type">
-<meta content="//d36cmr08aasnby.cloudfront.net/assets/raise_og_image-cdb8dd7a834d64e6cbfbff762260bc86.jpg" property="og:image">
+<meta content="//d36cmr08aasnby.cloudfront.net/assets/raise_og_image-f62c540e473ba4b90d5d8cb00355a84c.jpg" property="og:image">
 <meta content="https://www.raise.com/privacy-policy" property="og:url">
 <meta content="www.raise.com" property="og:site_name">
 <meta content="Marketplace to buy and sell unwanted gift cards." property="og:description">
@@ -22,34 +22,51 @@
 <meta content="297060650333120" property="fb:admins">
 <meta content="6474123c6cd6106e999b40f2aa1089b2" name="p:domain_verify">
 <link href="https://plus.google.com/104087994382075060242" rel="publisher">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="JJtkyvalCKJF81HsagPZ/bm5LbpDWa8Py0yALC5xeqI=" name="csrf-token">
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/favicon-eb20ad95869d0dcd27d803f61351d1cd.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="//d36cmr08aasnby.cloudfront.net/assets/apple-touch-icon-56f9ed9c487667308e939cd07a6340c7.png" rel="apple-touch-icon" type="image/png">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="+MIYF3tIUtCVCo2ICMj6RUmTpV2veP2wrnPtSfB+MriscELFNzxvM1qDCYMfORvCdgOHBhohd7UYgYfrImL4VQ==">
+<link rel="shortcut icon" type="image/x-icon" href="//d36cmr08aasnby.cloudfront.net/assets/store/favicon-e4f2dccc90729b5499beef9f0687ba8b.ico">
+<link rel="apple-touch-icon" type="image/png" href="//d36cmr08aasnby.cloudfront.net/assets/apple-touch-icon-c8217633e1097a1dd8bc636dca54d46b.png">
 <link href="https://www.raise.com/privacy-policy" rel="canonical">
 
 <!--[if lt IE 9]>
 <script src='//html5shim.googlecode.com/svn/trunk/html5.js'></script>
 <![endif]-->
-<script type="text/javascript" id="ftr__script" async="" src="https://cdn4.forter.com/script.js?sn=3326ea178bfb"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K56899"></script><script>
+<script type="text/javascript" id="ftr__script" async="" src="https://cdn4.forter.com/script.js?sn=3326ea178bfb"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K56899"></script><script async="" src="//d3tvtfb6518e3e.cloudfront.net/1/opbeat.js"></script>
+<script>
+  //<![CDATA[
+    (function() {
+      var config = {
+        appId: "828e87ba24",
+        orgId: "a399d1274c13447c9ec8b9c7e4b757d0",
+        libraryPathPattern: '(node_modules|bower_components|webpack)'
+      };
+      window._opbeat = window._opbeat || function() {
+        (window._opbeat.q = window._opbeat.q || []).push(arguments)
+      };
+      window._opbeat('config', config);
+    })();
+  //]]>
+</script>
+
+<script>
   //<![CDATA[
     !function(e,t,n){function a(e){var t=r.className,n=Modernizr._config.classPrefix||"";if(c&&(t=t.baseVal),Modernizr._config.enableJSClass){var a=new RegExp("(^|\\s)"+n+"no-js(\\s|$)");t=t.replace(a,"$1"+n+"js$2")}Modernizr._config.enableClasses&&(t+=" "+n+e.join(" "+n),c?r.className.baseVal=t:r.className=t)}function s(e,t){return typeof e===t}function i(){var e,t,n,a,i,o,r;for(var c in u){if(e=[],t=u[c],t.name&&(e.push(t.name.toLowerCase()),t.options&&t.options.aliases&&t.options.aliases.length))for(n=0;n<t.options.aliases.length;n++)e.push(t.options.aliases[n].toLowerCase());for(a=s(t.fn,"function")?t.fn():t.fn,i=0;i<e.length;i++)o=e[i],r=o.split("."),1===r.length?Modernizr[r[0]]=a:(!Modernizr[r[0]]||Modernizr[r[0]]instanceof Boolean||(Modernizr[r[0]]=new Boolean(Modernizr[r[0]])),Modernizr[r[0]][r[1]]=a),l.push((a?"":"no-")+r.join("-"))}}function o(){return"function"!=typeof t.createElement?t.createElement(arguments[0]):c?t.createElementNS.call(t,"http://www.w3.org/2000/svg",arguments[0]):t.createElement.apply(t,arguments)}var l=[],r=t.documentElement,c="svg"===r.nodeName.toLowerCase(),u=[],f={_version:"3.0.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,t){var n=this;setTimeout(function(){t(n[e])},0)},addTest:function(e,t,n){u.push({name:e,fn:t,options:n})},addAsyncTest:function(e){u.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=f,Modernizr=new Modernizr;var p=o("input"),d="search tel url email datetime date month week time datetime-local number range color".split(" "),m={};Modernizr.inputtypes=function(e){for(var a,s,i,o=e.length,l=":)",c=0;o>c;c++)p.setAttribute("type",a=e[c]),i="text"!==p.type&&"style"in p,i&&(p.value=l,p.style.cssText="position:absolute;visibility:hidden;",/^range$/.test(a)&&p.style.WebkitAppearance!==n?(r.appendChild(p),s=t.defaultView,i=s.getComputedStyle&&"textfield"!==s.getComputedStyle(p,null).WebkitAppearance&&0!==p.offsetHeight,r.removeChild(p)):/^(search|tel)$/.test(a)||(i=/^(url|email|number)$/.test(a)?p.checkValidity&&p.checkValidity()===!1:p.value!=l)),m[e[c]]=!!i;return m}(d),i(),a(l),delete f.addTest,delete f.addAsyncTest;for(var g=0;g<Modernizr._q.length;g++)Modernizr._q[g]();e.Modernizr=Modernizr}(window,document);
   //]]>
 </script>
 
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/application-41d2d345afc89695a44b2f7f120f3499.css" media="all" rel="stylesheet" type="text/css">
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/sell_page-27c51444c883607cbc977c1427fc0b0b.css" media="all" rel="stylesheet" type="text/css">
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/application-0cb2772ee3ed71c62a4916c1edf3f304.css">
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/sell_page-e057d54d27e7e0500e6e282521b51c88.css">
 <!--[if IE 9]>
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/ie9-1dd76396f47d742961d6b931e700bc94.css" media="all" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/ie9-8f8ead31d776d1ce27738db08a2d0dae.css" />
 <![endif]-->
 <!--[if IE 8]>
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/ie8-d5addbde2ba77ac85d612bbff5b8bad8.css" media="all" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/ie8-41fbb14cb5265011a78ce172bba961c4.css" />
 <![endif]-->
 <!--[if lt IE 9]>
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/browser_warning-edd14c64c7d0853e57e45a9b16825fde.css" media="all" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/browser_warning-16ef2a0dae752c4787de77d1f587f4fb.css" />
 <![endif]-->
 <noscript>
-<link href="//d36cmr08aasnby.cloudfront.net/assets/store/browser_warning-edd14c64c7d0853e57e45a9b16825fde.css" media="all" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" media="all" href="//d36cmr08aasnby.cloudfront.net/assets/store/browser_warning-16ef2a0dae752c4787de77d1f587f4fb.css" />
 </noscript>
 
 
@@ -69,13 +86,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <nav id="mobile-navigation">
 <ul class="unstyled">
 <li>
-<form accept-charset="UTF-8" action="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<form action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
 <input autocomplete="off" class="mobile-navigation-search add-clear hidden-tablet" name="keywords" placeholder="Search by brand" type="text">
 </form>
 
 </li>
-<li class="remove-on-login"><a href="/buy-gift-cards" class="">Buy Gift Cards</a></li>
-<li class="remove-on-login"><a href="/sell-gift-cards" class="">Sell Gift Cards</a></li>
+<li class="remove-on-login"><a class="" href="/buy-gift-cards">Buy Gift Cards</a></li>
+<li class="remove-on-login"><a class="" href="/sell-gift-cards">Sell Gift Cards</a></li>
 <li class="header remove-on-login">&nbsp;</li>
 <li id="mobile_sign_up"><a href="/user/sign_up">Sign Up</a></li>
 <li class="remove-on-login"><a href="/user/sign_in">Log In</a></li>
@@ -85,29 +102,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <header class="navbar navbar-fixed-top transparent">
 <nav class="navbar-inner">
 <div class="mobile-cart hidden-desktop">
-<a href="/cart" class="cart-btn" rel="nofollow">&nbsp;
+<a rel="nofollow" class="cart-btn" href="/cart">&nbsp;
 </a></div>
 <a class="btn btn-navbar toggle-mobile-nav">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </a>
-<strong><a href="/" class="brand raise-logo">Raise</a></strong>
-<form accept-charset="UTF-8" action="/search" class="navbar-search hidden-phone" id="form-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<strong><a class="brand raise-logo" href="/">Raise</a></strong>
+<form id="form-search" class="navbar-search hidden-phone" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
 <input autocomplete="off" class="search-query add-clear" name="keywords" placeholder="Search by brand" type="text">
 </form>
 
 <ul class="nav nav-buy-sell">
-<li class="hidden-phone"><a href="/buy-gift-cards" class="hover-nav">Buy Gift Cards</a></li>
-<li class="hidden-phone"><a href="/sell-gift-cards" class="hover-nav">Sell Gift Cards</a></li>
+<li class="hidden-phone"><a class="hover-nav" href="/buy-gift-cards">Buy Gift Cards</a></li>
+<li class="hidden-phone"><a class="hover-nav" href="/sell-gift-cards">Sell Gift Cards</a></li>
 </ul>
 <ul class="nav visible-desktop">
-<li class="hidden-desktop"><a href="/buy-gift-cards" class="hover-nav">Buy Gift Cards</a></li>
-<li class="hidden-desktop"><a href="/sell-gift-cards" class="hover-nav">Sell Gift Cards</a></li>
+<li class="hidden-desktop"><a class="hover-nav" href="/buy-gift-cards">Buy Gift Cards</a></li>
+<li class="hidden-desktop"><a class="hover-nav" href="/sell-gift-cards">Sell Gift Cards</a></li>
+<li class="visible-desktop"><a class="hover-nav" id="desktop_help" href="/faq">Help</a></li>
 <li class="visible-desktop" id="desktop_sign_up"><a href="/user/sign_up">Sign Up</a></li>
-<li class="visible-desktop remove-on-login"><a href="/user/sign_in" id="login">Log In</a></li>
+<li class="visible-desktop remove-on-login"><a id="login" href="/user/sign_in">Log In</a></li>
 <li class="cart hidden-phone">
-<a href="/cart" class="cart-btn" rel="nofollow">&nbsp;
+<a rel="nofollow" class="cart-btn" href="/cart">&nbsp;
 </a></li>
 </ul>
 <div class="cart-widget-container" data-remote="/cart/widget"></div>
@@ -137,26 +155,56 @@ We recommend updating your web browser to experience the full functionality of R
 <div class="container">
 <div class="row-fluid">
 <div class="span3 sidebar hidden-phone">
-<ul class="nav nav-list nav-sidebar-filter hidden-phone">
+<ul class="nav nav-list nav-sidebar-filter static-sidebar hidden-phone">
 <li class="nav-header">How it Works</li>
-<li><a href="/how-it-works" class="">Overview</a></li>
-<li><a href="/how-to-buy-gift-cards" class="">How to Buy Gift Cards</a></li>
-<li><a href="/sell/gift-card" class="">How to Sell Gift Cards</a></li>
-<li><a href="/how-to-manage-your-account" class="">Account Management</a></li>
-<li><a href="/return-policy" class="">Return Policy</a></li>
-<li><a href="/rewards" class="">Raise Rewards</a></li>
-<li><a href="/shipping-policy" class="">Shipping &amp; Delivery</a></li>
+<li>
+<a class="" href="/how-it-works">Overview</a>
+</li>
+<li>
+<a class="" href="/how-to-buy-gift-cards">How to Buy Gift Cards</a>
+</li>
+<li>
+<a class="" href="/sell/gift-card">How to Sell Gift Cards</a>
+</li>
+<li>
+<a class="" href="/how-to-manage-your-account">Account Management</a>
+</li>
+<li>
+<a class="" href="/return-policy">Return Policy</a>
+</li>
+<li>
+<a class="" href="/rewards">Raise Rewards</a>
+</li>
+<li>
+<a class="" href="/shipping-policy">Shipping &amp; Delivery</a>
+</li>
 <li class="nav-header">Resources</li>
-<li><a href="/partnerships" class="">Partnership Program</a></li>
-<li><a href="/affiliates" class="">Affiliate Program</a></li>
-<li><a href="/faq" class="">FAQs</a></li>
-<li><a href="/gift-card-balance" class="">Gift Card Balances</a></li>
+<li>
+<a class="" href="/partnerships">Partnership Program</a>
+</li>
+<li>
+<a class="" href="/affiliates">Affiliate Program</a>
+</li>
+<li>
+<a class="" href="/faq">Help</a>
+</li>
+<li>
+<a class="" href="/gift-card-balance">Gift Card Balances</a>
+</li>
 <!-- %li= link_to "Pess & News", affiliates_path, class: "#{active_class_exact('affiliates')}" -->
 <li class="nav-header">Member Support</li>
-<li><a href="/contact" class="">Contact Us</a></li>
-<li><a href="/business-inquiries/new" class="">Business Inquiries</a></li>
-<li><a href="/privacy-policy" class="">Privacy Policy</a></li>
-<li><a href="/terms" class="">Terms and Conditions</a></li>
+<li>
+<a class="" href="/contact">Contact Us</a>
+</li>
+<li>
+<a class="" href="/business-inquiries/new">Business Inquiries</a>
+</li>
+<li class="active">
+<a class="" href="/privacy-policy">Privacy Policy</a>
+</li>
+<li>
+<a class="" href="/terms">Terms and Conditions</a>
+</li>
 </ul>
 
 </div>
@@ -201,7 +249,7 @@ We recommend updating your web browser to experience the full functionality of R
 <h2>Raise's Use of Remarketing with Google Analytics</h2>
 <p>Raise uses a feature of Google Analytics called 'Remarketing Lists' to place a cookie (the 'DoubleClick' cookie) on your computer when you land on a specified page on our website. This cookie captures anonymous information about your page visits. Google Analytics data, along with the DoubleClick cookie, allow us to serve you ads based on your prior visits to our website.</p>
 <p>Ads are served and displayed through the Google Display Network and targeted partner websites relevant to the gift card industry. Raise uses a combination of first-party cookies from Google Analytics along with third-party cookies from DoubleClick to tag computers when you visit specific pages on the website in order to tailor a relevant message while you visit other partnered websites in the Google Display Network within the specified cookie duration.</p>
-<p>You may opt out of DoubleClick's use of cookies by visiting the <a href="https://www.google.com/settings/ads/onweb/#display_optout" target="_blank">DoubleClick opt-out page</a> or the <a href="http://www.networkadvertising.org/choices/" target="_blank">Network Advertising Initiative opt-out page.</a></p>
+<p>You may opt out of DoubleClick's use of cookies by visiting the <a target="_blank" href="https://www.google.com/settings/ads/onweb/#display_optout">DoubleClick opt-out page</a> or the <a target="_blank" href="http://www.networkadvertising.org/choices/">Network Advertising Initiative opt-out page.</a></p>
 <h2>Policy Changes</h2>
 <p>Raise will from time to time update, modify or amend our Privacy Policy with information that is necessary. It is your sole responsibility to fully read and understand our policy and all updates, modifications, and amendments. If we make any changes to our Privacy Policy, we will notify you either by amending this Agreement, by email, or by means of notice on our homepage.</p>
 
@@ -260,7 +308,7 @@ We recommend updating your web browser to experience the full functionality of R
 <ul class="unstyled">
 <li class="header-footer">Resources</li>
 <li><a href="/affiliates">Affiliate Program</a></li>
-<li><a href="/faq">FAQs</a></li>
+<li><a href="/faq">Help</a></li>
 <li><a href="/gift-card-balance">Gift Card Balance</a></li>
 <li><a href="/press">Press</a></li>
 </ul>
@@ -277,37 +325,38 @@ We recommend updating your web browser to experience the full functionality of R
 <div class="span3">
 <ul class="unstyled">
 <li class="header-footer">Stay Connected</li>
-<li><a href="https://www.raise.com/blog" target="_blank">Raise Blog</a></li>
-<li class="facebook"><a href="https://www.facebook.com/RaiseMarketplace" target="_blank">Facebook</a></li>
-<li class="twitter"><a href="https://twitter.com/RaiseMarket" target="_blank">Twitter</a></li>
-<li class="pinterest"><a href="http://www.pinterest.com/raise/" target="_blank">Pinterest</a></li>
+<li><a target="_blank" href="https://www.raise.com/blog">Raise Blog</a></li>
+<li class="facebook"><a target="_blank" href="https://www.facebook.com/RaiseMarketplace">Facebook</a></li>
+<li class="twitter"><a target="_blank" href="https://twitter.com/RaiseMarket">Twitter</a></li>
+<li class="pinterest"><a target="_blank" href="http://www.pinterest.com/raise/">Pinterest</a></li>
 </ul>
 </div>
 </div>
 <div class="row">
 <div class="span12">
-<p class="copyright">All Content © 2015 Raise Marketplace Inc. Raise and the Raise logo are registered trademarks belonging to Raise. All trademarks not owned by Raise that appear on this site are the property of their respective owners. Raise is not the issuer of any of the gift cards or other closed-loop products on Raise and is not related to any merchant whose trademarks and gift cards appear on Raise for sale. All gift cards sold on Raise are backed by our 100-Day Guarantee. For questions about redeeming gift cards, contact Raise Member Services at (888) 578-8422 or support@raise.com.</p>
+<p class="copyright">All Content © 2016 Raise Marketplace Inc. Raise and the Raise logo are registered trademarks belonging to Raise. All trademarks not owned by Raise that appear on this site are the property of their respective owners. Raise is not the issuer of any of the gift cards or other closed-loop products on Raise and is not related to any merchant whose trademarks and gift cards appear on Raise for sale. All gift cards sold on Raise are backed by our 100-Day Guarantee. For questions about redeeming gift cards, contact Raise Member Services at (888) 578-8422 or support@raise.com.</p>
 </div>
 </div>
 </div>
 </footer>
 <div class="zendesk-chat-container"></div>
 
-<script src="//d36cmr08aasnby.cloudfront.net/assets/store/application-bdbaa53b94614f5a4f9208c363c31288.js" type="text/javascript"></script>
-<script src="//cdn.optimizely.com/js/3360440750.js" type="text/javascript"></script>
+<script src="//d36cmr08aasnby.cloudfront.net/assets/store/application-266db15441331a49cf86f0801291480f.js"></script>
+<script src="//cdn.optimizely.com/js/3360440750.js"></script>
 
     <script>
       (function(scope) {
-        if (!_ || !_.merge) return;
-        var data = {"Raise":{"data":{"listings":{"maxPrice":2000,"maxPriceErr":"Your gift card balance exceeds the <strong>$2,000 limit</strong>."}}}};
+        if (!scope._ || !scope._.merge) return;
+        var data = {"Raise":{"data":{"authenticity_token":"Y1SZU3C98vcQ+ASSbVzSYuB6z5wEZdgrIcwCcrfXdvU35sOBPMnPFN9xgJl6rTPl3+rtx7E8Ui6XPmjQZcu8GA=="}}};
         for (var prop in data) {
           if (data.hasOwnProperty(prop)) {
             scope[prop] = scope[prop] || {};
-            scope[prop] = _.merge(scope[prop], data[prop]);
+            scope[prop] = scope._.merge(scope[prop], data[prop]);
           }
         }
       })(window);
     </script>
+
 
 <div id="google-analytics-hook"></div>
 <div id="neoreach-event-hook"></div>
