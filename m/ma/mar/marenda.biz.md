@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104064401id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marenda.biz privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326034509id_/http%3A//marenda.biz/about-marenda/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Marenda.biz
 
