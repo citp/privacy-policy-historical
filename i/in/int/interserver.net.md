@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209205427id_/http%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interserver.net privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326110443id_/https%3A//www.interserver.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Interserver Privacy Policy
+# Interserver Privacy Policy Details
 
 This is the web site of InterServer, Inc.
 
