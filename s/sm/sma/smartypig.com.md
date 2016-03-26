@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906212850id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326060411id_/https%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
@@ -6,9 +6,9 @@
 
 The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/web/20150906212850id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 115k)
+[Download Privacy Policy](https://web.archive.org/web/20160326060411id_/https%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 115k)
 
-Last Updated: February 18, 2015 
+Last Updated: November 5, 2015 
 
 * * *
 
@@ -18,11 +18,7 @@ In this disclosure, you'll find details about our privacy policies and procedure
 
 Your Savings Account with BBVA Compass is governed by the BBVA Compass Consumer Privacy Disclosure. Please see the BBVA Compass Consumer Privacy Disclosure for details on the BBVA Compass privacy policies.
 
-This privacy policy applies to [www.smartypig.com ](http://www.smartypig.com/) owned and operated by SmartyPig, LLC ("SmartyPig"). This privacy policy describes how SmartPig, LLC collects and uses the personally identifiable information you provide on our web site: [www.smartypig.com ](http://www.smartypig.com/). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
-
-SmartyPig, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements <http://www.truste.com/privacy-program-requirements/> including transparency, accountability and choice regarding the collection and use of your personally identifiabe information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.smartypig.com ](http://www.smartypig.com/). 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@smartypig.com](mailto:privacy@smartypig.com). If you are not satisfied with our response you can contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](http://watchdog.truste.com/pvr.php?page=complaint).
+This privacy policy applies to www.smartypig.com owned and operated by SmartyPig, LLC. This privacy policy describes how SmartPig, LLC collects and uses the personally identifiable information you provide on our web site: www.smartypig.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
 #### SmartyPig Site Privacy Policy
 
@@ -123,7 +119,7 @@ We use other third-party service providers such as our banking, identity verific
 
 #### Security 
 
-The security of your personally identifiable information is important to us. When you enter sensitive information (such as your social security number and financial information) during registration, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
+The security of your personally identifiable information is important to us. When you enter sensitive information (such as your social security number) during registration, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our Web site, you can email us at [support@smartypig.com](mailto:support@smartypig.com).
 
