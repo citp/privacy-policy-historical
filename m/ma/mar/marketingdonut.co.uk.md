@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104061122id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326055114id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, cookies | Marketing Donut
 
@@ -40,5 +40,5 @@ If you have any questions concerning anything on this page, please contact [info
 
 [Atom Content Marketing Ltd](http://www.atomcontentmarketing.co.uk/ "Atom Content Marketing Ltd")
 
-4th Floor, Albert House, 111 Victoria Street, Bristol, BS1 6AX  
-Telephone: 0117 904 2224
+CityPoint, Temple Gate, Bristol, BS1 6PL  
+Telephone: 0117 373 6160
