@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722040622id_/http%3A//www.fastrecharge.com/prepaid_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrecharge.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326112509id_/https%3A//www.fastrecharge.com/fastrecharge_FR_privacy.aspx) for the most accurate reproduction.*
 
-# FASTRECHARGE.COM :: Privacy policy
+# Privacy Policy
 
 FastRecharge is committed to protecting the privacy of your personal information. This privacy policy applies solely to information collected by the Site. This Privacy Policy is incorporated into and subject to the terms of the Site's Terms and Conditions. If you do not agree to the terms of this Privacy Policy, You must discontinue using the services on this Site and terminate you registration. By using or accessing the Site, You expressly and impliedly accept the practices described in this Privacy Policy.
 
@@ -25,7 +25,3 @@ If there is a change in the privacy policy, it will prominently be posted in the
 If at any point the Site decides to use personally identifiable information in a manner different from that stated at the time it was collected, it would be notified to you by way of an email.
 
 Users will have a choice to allow/disallow the Site the use of their information in this different manner, and the Site will then use information in accordance with the privacy policy under which the information was collected. The Site encourages you to periodically review this page for the latest information on Site's privacy practices.
-
-[](https://web.archive.org/web/20150722040622id_/http%3A//www.fastrecharge.com/default.aspx)   
-  
-
