@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908092118id_/https%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.com.au privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326134529id_/https%3A//www.mightyape.com.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape Australia
 
