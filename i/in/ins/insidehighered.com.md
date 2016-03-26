@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924033715id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehighered.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326021703id_/https%3A//www.insidehighered.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy | Inside Higher Ed
+# Privacy
 
 _Inside Higher Ed  _values and vows to protect your privacy. We guarantee that we will not, under any circumstances, sell, trade or make public your personal information, unless you specifically designate otherwise (participants in our credentials database, for instance, can request that we provide information about them to specific employers). We'll keep confidential all personal information that you give us. In addition, you will always have the option to edit the information you've given us or to have your personal information removed from our records.
 
