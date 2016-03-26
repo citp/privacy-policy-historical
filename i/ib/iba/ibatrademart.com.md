@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibatrademart.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140156id_/http%3A//www.ibatrademart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibatrademart.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326083253id_/http%3A//www.ibatrademart.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Indian Brokers Association
 
