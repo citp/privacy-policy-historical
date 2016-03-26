@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809224058id_/http%3A//appirio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326055313id_/https%3A//appirio.com/privacy) for the most accurate reproduction.*
 
 # Appirio, Inc. Privacy Policy - Appirio
 
 [](https://privacy.truste.com/privacy-seal/Appirio-Inc/validation?rid=8f5bcc44-bbcc-4021-8104-1c889c1a5710 "TRUSTe European Safe Harbor certification")
 
   
-Appirio Inc (“Appirio”) has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.appirio.com](http://www.appirio.com/).
+The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.appirio.com](http://www.appirio.com/). In order to view our relationship TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-This privacy statement covers the Web site [www.appirio.com](http://www.appirio.com/) (“Site”) and personally identifiable information about users of our services and products (“Services”) . Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+This privacy statement covers the Web site [www.appirio.com](http://www.appirio.com/) (“Site”) and personally identifiable information about users of our services and products (“Services”) owned and operated by Appirio Inc. (“Appirio”). Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 **Dispute Resolution**
 
@@ -53,15 +53,15 @@ We may combine this automatically collected log information with other informati
 
 **Local Storage Object**
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
+We use HTML 5 local storage objects (LSOs) to store content information and preferences [or – other uses]. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 **Testimonials**
 
 We post testimonials on our web site which contain personally identifiable information such as the customer’s name. We do obtain the customer’s consent prior to posting the testimonial to post their name along with their testimonial. If you want to remove your personally identifiable information that is being displayed on our website under public pages please send your request to [security@appirio.com](mailto:security@appirio.com).
 
-**Blogs, Forums and Chartrooms**
+**Blogs, Forums and Chatrooms**
 
 If you use a bulletin board, blog, or chat room on this Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [security@appirio.com](mailto:security@appirio.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
 
@@ -70,6 +70,8 @@ If you use a bulletin board, blog, or chat room on this Site, you should be awar
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Onward Transfer**
+
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
 
 We may provide or provide access to your personally identifiable information and the data generated by cookies and the aggregate information to the vendors and service agencies that we may engage to assist us. For example, a consultant may have access to your personally identifiable information while the consultant is performing services on our behalf if the services require access to your systems. Such third parties are required to agree to a confidentiality agreement with us regarding your personally identifiable information and we only authorize them to use your personally identifiable information that they may have access to as necessary to perform services on our behalf and not for their own marketing purposes. We also may provide your personally identifiable information to our third party business service partners and they may use your personally identifiable information to send you marketing and promotional information. You may opt-out of having your information shared with our third party business service partners by emailing us at: [security@appirio.com](mailto:security@appirio.com).
 
@@ -115,4 +117,4 @@ San Francisco, CA 94102
 Tel: (415) 268-9911  
 Toll Free: (888) 680-SaaS (7227)
 
-Effective Date March 9, 2015
+Effective Date November 17, 2015
