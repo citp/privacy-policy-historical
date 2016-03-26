@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the w3-markup.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911204121id_/http%3A//w3-markup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3-markup.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326082452id_/https%3A//w3-markup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - W3 Markup
 
 Sucessful outsourcing is pivotal to business development in today's market place. We take pride in maintaining your privacy and long-term relationships as well.
+
+You can check the prices for our services at our [order now page](https://web.archive.org/order). But we may charge additional fees if the number of hours required for the work on the customer's HTML page significantly exceeds our standard number of hours per web page. In certain circumstances, we may refuse to work on such a project and return the full amount paid by the customer for our services.
 
 We also respect your artwork and your business. Your artwork will only be used at your direction. We do not use your artwork elsewhere. We understand and honor your intellectual property rights.
 
@@ -11,9 +13,7 @@ We guarantee that all communications between the company and client are confiden
 
 When we do collect information from you it will include an email address, specifications or client requests, source files etc.
 
-All work will be sent to the email address you provide.
-
-That email address will not be used for any other purpose, nor will it be sold etc.
+All work will be sent to the email address you provide. That email address will not be used for any other purpose, nor will it be sold etc.
 
 To protect against unauthorized access to your uploaded information, we use multiple and redundant layers of security at the electronic, physical and operative levels to ensure your data is 100% secure 100% of the time.
 
