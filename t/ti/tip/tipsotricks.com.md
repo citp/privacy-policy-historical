@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316232310id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsotricks.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326024607id_/http%3A//www.tipsotricks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | tipsOtricks
+# Privacy Policy
 
   * **tipsOtricks** collects visitors’ information through third party website statistics service (statscounter.com). As with most other websites, visitors’ data collected are contained in (online) log files. The information in these log files include your IP address, your ISP, the browser you used to visit the blog, the time you spent on the blog and which pages you viewed throughout the blog.
 
