@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906132624id_/http%3A//www.unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326204416id_/http%3A//www.unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
 
 # Cookies and privacy | Unicef UK
 
@@ -45,17 +45,28 @@ We use cookies so that we can give you a better experience when you return to ou
 
 ## 3. **Submitting personal information**
 
-When you supply any personal information to Unicef we have legal obligations towards you in the way we deal with that data. We have to collect the information fairly, (see the notices on particular web pages which let you know why we are requesting the information) and to let you know how we will use it and whether we will pass the information on to anyone else.
+When you supply any personal information to Unicef we have legal obligations towards you in the way we deal with that data. We will always handle your data in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communication Regulations. We have to collect the information fairly, (see the notices on particular web pages which let you know why we are requesting the information) and to let you know how we will use it and whether we will pass the information on to anyone else.
+
+**How do we collect information?**
+
+We obtain personal information from you when you enquire about our activities, register with us, make a donation to us, or otherwise provide us with personal information.
+
+**What information do we collect?**
+
+The personal information we collect might include name, date of birth, email address, postal address, telephone number and credit/debit cards.
+
+We also gather general information about the use of our websites, such as which pages users visit most often and which services or events are of most interest. We may also collect information about how users interact with Unicef UK emails, for example, how many people opened the email and which pages users visit when they click on links in emails. Wherever possible, we use aggregated or anonymous information that does not identify individuals.
 
 ## 4\. **How is your information used?**
 
 We will use the information you provide to us to, for example:-
 
-  * fulfil your requests, for example competition entries, participation in campaigns and provision of information
+  * to provide you with the services, products or information you have requested, or include you in prize draws or competitions you have entered 
   * process donations or other payments and verify financial transactions
   * process orders, deliver products and communicate with you about orders
   * identify visitors
   * provide a personalised service to you when you visit our websites e.g. by customising the content and/or layout of our pages for each individual user, or sending you a personalised email to help you complete your donation/transaction on our website
+  * provide a personalised service to you when you receive our emails and improve our emails to provide you with the best service
   * record any contact we have with you
   * prevent or detect fraud or abuses of our websites and enable third parties to carry out technical, logistical or other functions on our behalf
   * in aggregate (and therefore anonymously) to profile use of our websites and carry out research on our users' demographics, interests and behaviour to help us gain a better understanding of how our users navigate and use our websites, and to enable us to improve our service to you
@@ -66,6 +77,8 @@ We will use the information you provide to us to, for example:-
 We may use other companies to provide services on our behalf, including packaging, mailing and delivering purchases, answering customers’ questions about products or services, sending postal mail and emails, analysing data and processing credit card payments. We will only provide those companies with the information they need to deliver the service. We may disclose aggregate statistics about our site visitors, customers and sales in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
 
 One particular service we use is the Google Analytics Demographics and Interest Reporting. You can [opt out and configure how your information is used here](http://www.google.com/settings/ads). If you would like to opt out of all Google Analytics tracking services then you can find out about a [browser plugin here](https://tools.google.com/dlpage/gaoptout/). 
+
+We may share your data with partners, agents or service providers to understand our supporters more effectively and to further our charitable aims. These partners will not use your data to contact or market to you.
 
 We may disclose personal information if required to do so by law or if we believe that such action is necessary to protect and defend the rights, property or personal safety of Unicef UK, our websites or our visitors and for other lawful purposes.
 
@@ -79,7 +92,7 @@ We do agree from time to time with other like-minded organisations to contact ea
 
 When submitting your personal information, you will be given the option not to be included in mailings or other contacts from Unicef or other organisations. If you don’t object to us sending you this information, and later decide that you no longer wish to be contacted, you can let us know by emailing: [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
-Alternatively, you can let us know your comminications preferences by [completing this preferences form](https://www.unicef.org.uk/asp/regions/events/application_new/?event=24F5282C-FFAC-4424-96C2-047BFA40ECCD). 
+Alternatively, you can let us know your communications preferences by [completing this preferences form](https://www.unicef.org.uk/asp/regions/events/application_new/?event=24F5282C-FFAC-4424-96C2-047BFA40ECCD). 
 
 If we contact you by email, each time you receive a message you will also have the option to decline to receive further information from us.      
 
@@ -119,4 +132,4 @@ We may make changes to this statement from time to time. If we change our Privac
 
 By using our sites, you consent to the collection and use of information by Unicef in accordance with this statement. If you do not agree to this statement, please do not use our sites.
 
-This Statement was last updated March 2015.
+This Statement was last updated December 2015.
