@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cdn77.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316012752id_/https%3A//www.cdn77.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdn77.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326201012id_/https%3A//www.cdn77.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CDN77.com
 
 ### Information about our organization and web site
 
-CDN77.com main activity is commercial software development, sales, service, and support. Our privacy policy covers CDN77.com and its web site (the "Site"), [www.cdn77.com](http://www.cdn77.com/).
+CDN77.com main activity is commercial software development, sales, service, and support. Our privacy policy covers CDN77.com and its web site (the "Site"), [www.cdn77.com](https://www.cdn77.com/).
 
 ### Providing visitors with anonymous access
 
