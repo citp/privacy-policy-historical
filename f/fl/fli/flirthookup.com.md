@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425043739id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirthookup.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328013333id_/http%3A//www.flirthookup.com/site/privacy) for the most accurate reproduction.*
 
 # Flirt and Hook Up - Find people, socialize, hookup and chat.
 
