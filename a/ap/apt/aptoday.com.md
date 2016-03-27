@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aptoday.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101105158id_/http%3A//www.aptoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptoday.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328005447id_/http%3A//www.aptoday.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Aptoday.com
 
