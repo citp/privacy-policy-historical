@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbywinters.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914212723id_/http%3A//www.abbywinters.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbywinters.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328014005id_/http%3A//www.abbywinters.com/about/privacypolicy) for the most accurate reproduction.*
 
 # About : Privacy policy | abbywinters.com
 
