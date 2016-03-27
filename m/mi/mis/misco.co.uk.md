@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208193441id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327170010id_/http%3A//www.misco.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Statement - Misco.co.uk
 
@@ -50,7 +50,7 @@ We may also contact you with relevant promotional material when you do not compl
 
 We will not rent, sell or otherwise disclose your Personal Information to unrelated third parties without your consent, except as stated in this Privacy Policy.
 
-If you do not want to receive information from third parties you may opt out, by going to My Account>Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [list-cleaning@misco.co.uk](https://web.archive.org/web/20151208193441id_/http%3A//www.misco.co.uk/list-cleaning@misco.co.uk).
+If you do not want to receive information from third parties you may opt out, by going to My Account>Update eDeal and Catalogue Preferences and un-ticking the relevant box. You may also email your request to [list-cleaning@misco.co.uk](https://web.archive.org/web/20160327170010id_/http%3A//www.misco.co.uk/list-cleaning@misco.co.uk).
 
 ### Service Providers
 
