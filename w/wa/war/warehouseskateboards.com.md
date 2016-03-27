@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083840id_/https%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327012541id_/https%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Warehouse Skateboards
 
