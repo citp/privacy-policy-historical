@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milliondollarjourney.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217155049id_/http%3A//www.milliondollarjourney.com/disclaimerprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milliondollarjourney.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327134659id_/http%3A//www.milliondollarjourney.com/disclaimerprivacy) for the most accurate reproduction.*
 
 # Disclaimer/Privacy | Million Dollar Journey
 
