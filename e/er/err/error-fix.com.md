@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the error-fix.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814031839id_/http%3A//error-fix.com/m/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the error-fix.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327183132id_/http%3A//error-fix.com/m/privacy-policy.php) for the most accurate reproduction.*
 
 # Error-Fix.com PC's: Troubleshooting
 
