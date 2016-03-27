@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jemsite.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920053943id_/http%3A//www.jemsite.com/forums/faq.php%3Ffaq%3Dprivacy%23faq_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jemsite.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327182216id_/http%3A//www.jemsite.com/forums/faq.php%3Ffaq%3Dprivacy%23faq_statement) for the most accurate reproduction.*
 
 # Jemsite - FAQ: Privacy Statement
 
