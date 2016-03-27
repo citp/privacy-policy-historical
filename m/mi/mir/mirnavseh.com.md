@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirnavseh.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109042906id_/http%3A//net4smart.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirnavseh.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327010306id_/http%3A//net4smart.com/info/policy) for the most accurate reproduction.*
 
 # Net4Smart - Policy Info
 
