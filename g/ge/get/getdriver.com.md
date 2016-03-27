@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320120249id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdriver.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327190250id_/http%3A//www.getdriver.com/privacy) for the most accurate reproduction.*
 
 # Privacy - GetDriver
 
@@ -14,15 +14,14 @@ Other Third Party ad servers or ad networks ( **Chitika** & **Adversal** ) may a
 **Collection of Personal Information**  
 When visiting GetDriver.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**Links to third party Websites**  
+**Links to Third Party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-**Changes to this Privacy Statement**  
+**Changes to This Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding our privacy policy then you may contact us at  
-[](http://www.getdriver.com/contact)
+[  
+http://www.getdriver.com/contact](http://www.getdriver.com/contact)
 
-<http://www.getdriver.com/contact>
-
-Drivers and Downloads for Windows 8.1, Windows 8, Windows 7, Vista, XP, Linux & Mac OS
+Drivers and Downloads for Windows 10, Windows 8.1, Windows 8, Windows 7, Vista, XP, Linux & Mac OS
