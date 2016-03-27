@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studenthandouts.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228032208id_/http%3A//www.studenthandouts.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studenthandouts.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327135907id_/http%3A//www.studenthandouts.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Student Handouts
 
@@ -8,8 +8,6 @@ These companies may use information (not including your name, address, email add
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, click [ here](http://www.google.com/privacy_ads.html).
 
-[ ](http://www.studenthandouts.com/forms.htm)
-
-[ ](http://www.studenthandouts.com/grades.htm)                    [ ](http://www.studenthandouts.com/lessonplanning.htm)                    [ ](http://www.studenthandouts.com/misc.htm)
+[](http://www.studenthandouts.com/misc.htm)
 
 [ About Google Ads](http://www.studenthandouts.com/aboutgoogleads.htm) **           ** [ Privacy Policy](http://www.studenthandouts.com/privacypolicy.htm) **           ** [ Terms of Use](http://www.studenthandouts.com/termsofuse.htm)
