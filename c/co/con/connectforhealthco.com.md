@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185738id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327214429id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connect for Health Colorado
 
-Protecting your privacy is very important to us. We’re telling you about connectforhealthco.com’s privacy policy so you know what information we collect, why we collect it, and what we do with it.
+## Connect for Health Colorado Privacy Policy
 
-Connectforhealthco.com doesn’t collect any personally identifiable information (PII) about you during your visit to our website unless you choose to provide it to us. We do, however, collect information from visitors who read, browse, and/or download information from our site. We do this so we can understand how the public uses the site and how to make it more helpful.
+Protecting your privacy is very important to us. We’re telling you about Connect for Health Colorado’s privacy policy so you know what information we collect, why we collect it, and what we do with it.
+
+Connectforhealthco.com doesn’t collect any personally identifiable information (PII) about you during your visit to our website unless you choose to provide it to us. We do, however, collect information from visitors who read, browse, and/or download information from our site. We do this so we can understand how the public uses the site and how to make it more helpful. We will not knowingly disclose your personal information to a third party, except as provided in this statement.
 
 ## Types of information we collect
 
@@ -25,16 +27,16 @@ We may use the information you provide in computer matching programs with any of
   * Issuers of qualified health plans, as applicable, which are certified by Colorado Division of Insurance;
   * Agents and brokers, as designated or nominated by the applicant/enrollee, who are certified by the Marketplace to assist applicants/enrollees;
   * Financial institutions (banks, credit unions, etc.) including Network Merchants, Inc. for all ACH/ credit card payments;
-  * Connect for Health Colorado contractors engaged to perform a function for the Marketplace; and
+  * Connect for Health Colorado contractors engaged to perform a function for the Marketplace;
   * Anyone else as required by law.
 
 
 
-The Marketplace will also use the information you provide as part of the ongoing operation of this organization, including activities such as performing oversight and quality control activities, combatting fraud, and responding to any concerns about the security or confidentiality of the information. We use your personally identifiable information (“PII”) for our internal business purposes only, and we do not sell or trade it.
+The Marketplace will also use the information you provide as part of the ongoing operation of this organization, including activities such as performing oversight and quality control activities, combatting fraud, and responding to any concerns about the security or confidentiality of the information. If you are already enrolled through Connect for Health Colorado, we may share your information with other organizations or government agencies when necessary to fulfill a required Exchange minimum function, but we do not sell it.
 
 As part of overall performance and effectiveness monitoring, the Marketplace utilizes Google Analytics to identify and track customer activities to analyze communication campaigns, website navigation, and potential bottlenecks.
 
-For additional information about Google Analytics, please see [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
+For additional information about Google™ Analytics, please see how [Google Uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
 
 We also automatically collect and temporarily store the following types of information about your visits using a variety of Web measurement software tools. The tools collect information automatically and continuously. This information is analyzed and available to designated staff to inform their work in support of the website. This information includes:
 
@@ -49,7 +51,9 @@ We also automatically collect and temporarily store the following types of infor
 
 We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.
 
-##  How Connectforhealthco.com uses cookies
+By submitting personal information to Connect for Health Colorado or by using our Sites, you agree that we may collect, use and disclose any such personal information in accordance with this Privacy Statement and as permitted or required by law. If you do not agree with these terms, please do not provide your personal information.
+
+## How Connectforhealthco.com uses cookies
 
 When you visit any website, its server may generate a piece of text known as a “cookie” to place on your computer. The cookie allows the server to “remember” specific information about your visit while you are connected. The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from Connectforhealthco.com pages collect only information about your browser’s visit to the site. They do not collect personal information about you.
 
@@ -57,13 +61,13 @@ There are two types of cookies, single session (temporary), and multi-session (p
 
 How to opt out or disable cookies
 
-If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at Connectforhealthco.com Instructions for disabling or opting out of cookies in the most popular browsers are located at http://www.usa.gov/optout_instructions.shtml.
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources at Connectforhealthco.com Instructions for disabling or opting out of cookies in the most popular browsers are located at <http://www.usa.gov/optout_instructions.shtml>.
 
 Please note that by opting out of cookies, you will disable cookies from all sources, not just from Connectforhealthco.com.
 
 ## Protection of your data
 
-Connect for Health Colorado has significant protections in place to ensure the privacy of your personal information. The Marketplace system is being implemented in compliance with federal and state rules, regulations, and laws designed to protect customer information.
+Connect for Health Colorado has significant protections in place to ensure the privacy of your personal information. The Marketplace system is implemented in compliance with federal and state rules, regulations, and laws designed to protect customer information.
 
 You will be asked to provide only the minimum information necessary to determine eligibility for relevant health plan options. Multiple layers of physical, administrative, and electronic protections have been put in place to protect all information from unauthorized use, access, or malicious activity. Personnel procedures and processes have been developed with an emphasis on privacy.
 
@@ -71,19 +75,19 @@ Connect for Health Colorado (and contractors) adhere to standards as defined in 
 
 Under ACA regulations, any person who knowingly and willfully uses or discloses information in violation of section 1411(g) of the Affordable Care Act will be subject to a civil penalty of not more than $25,000 per person or entity, per use or disclosure, in addition to other penalties that may be prescribed by law.
 
-The Marketplace system will be tested, inspected, and audited by independent third parties and federal and state organizations. Effective customer privacy and security are a top priority as part of our overall mission to provide this service to Colorado.
+The Marketplace system is tested, inspected, and audited by independent third parties and federal and state organizations. Effective customer privacy and security are a top priority as part of our overall mission to provide this service to Colorado.
 
-You have the right to see whatever information we have about you. You also have the right to have this information corrected if we have any incorrect information on file.
+You have the right to see whatever information we have about you. You also have the right to have this information corrected if we have any incorrect information on file. To make a request for review of this information, please contact the Privacy and Security Officer using the information provided below.
 
-If you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process or as personal identifier.
+If you choose to receive alerts or e-newsletters, we collect your email address to complete the subscription process or as your personal identifier.
 
-If you choose to provide us with PII through an email message, request for information, paper or electronic form, questionnaire, survey, etc., we will maintain the information you provide only as long as needed to respond to your question or to fulfill the stated purpose of the communication.
+If you choose to provide us with PII through an email message, request for information, paper or electronic form, questionnaire, survey, etc., we will maintain the information you provide only as long as needed or as required by law.
 
-If in order to contact you we store your personal information in a record system designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), we will safeguard the information you provide in accordance with the Privacy Act of 1974, as amended (5 U.S.C. Section 552a) .
+If in order to contact you we store your personal information in a record system designed to retrieve information about you by personal identifier (name, personal email address, home mailing address, personal or mobile phone number, etc.), we will safeguard the information you provide in accordance with the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). In the event of a disclosure or breach of unsecured personal information we will notify affected individuals. You may request a paper copy of this notice of disclosure.
 
 ## How Connectforhealthco.com uses third-party websites and applications
 
-Connectforhealthco.com uses a variety of technologies and social media services to communicate and interact with citizens. These third-party website and application (TPWA) tools include popular social networking and media sites, open source software communities, and more. Examples include Facebook, Twitter, and YouTube.
+Connectforhealthco.com uses a variety of technologies and social media services to communicate and interact with citizens. These third-party website and application (TPWA) tools include popular social networking and media sites, collaborative software communities, and more. Examples include Facebook®, Twitter™, and YouTube™.
 
 TPWAs are not exclusively operated or controlled by Connectforhealthco.com. Users of TPWAs often share information with the general public, user community, and/or the third party operating the website. These actors may use this information in a variety of ways. TPWAs could cause PII to become available or accessible to Connectforhealthco.com and the public, regardless of whether the information is explicitly asked for or collected by us.
 
@@ -93,13 +97,18 @@ If you have an account with a third-party website and choose to “like,” “f
 
 Links to other sites
 
-Connectforhealthco.com links to other Colorado sites, other government sites, and occasionally to private organizations. Once you leave Connectforhealthco.com, you are subject to the privacy policy for the sites you are visiting. C4HCO is not responsible for the contents of any off-site web page. A link to a page does not constitute an endorsement.
+Connectforhealthco.com links to other Colorado sites, other government sites, and to organizations that are involved with required Exchange minimum functions. Once you leave Connectforhealthco.com, you are subject to the privacy policy of the sites you are visiting. Connect for Health Colorado is not responsible for the contents  and privacy under-taking of any non-ConnectforHealthCO.com web page. A hyperlink to a non-ConnectforHealthCO.com web page does not constitute an endorsement.
+
+**Changes to this Privacy Statement**
+
+If we change our privacy policy, the changes will be posted directly to this privacy statement, and any other places we deem appropriate. We reserve the right to modify this privacy statement at any time.
 
 If you have questions or suggestions, please contact us at:  
 Connect for Health Colorado  
 3773 Cherry Creek N. Dr. Suite 1025  
 Denver, CO 80209  
-720-496-2530  
-Privacy@connectforhealthco.com
+1 (720) 496-2530
 
-Effective Date: November 10, 2014
+Privacy@ConnectforHealthCO.com
+
+Effective Date: September 3, 2015
