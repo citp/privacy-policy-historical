@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordstromrack.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122632id_/https%3A//www.nordstromrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordstromrack.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327041542id_/https%3A//www.nordstromrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -217,7 +217,7 @@ To access the Nordstrom In-Store Prosthesis Privacy Policy click [here](http://s
 
 ##  Canada Privacy Policy 
 
-To access the Nordstrom Canada Privacy Policy click [here](http://ca.nordstrom.com/privacy). 
+To access the Nordstrom Canada Privacy Policy click [here](http://shop.nordstrom.com/c/canada-privacy-policy). 
 
 ##  Careers Privacy 
 
