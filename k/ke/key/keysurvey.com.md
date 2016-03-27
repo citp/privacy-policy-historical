@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909123617id_/https%3A//www.keysurvey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327150352id_/https%3A//www.keysurvey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Key Survey
 
-Key Survey, Form.com, and WorldAPP are the official trademarks of WorldAPP, Inc ("WorldAPP"). This privacy policy applies to [www.form.com](http://form.com/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) owned and operated by WorldAPP, Inc. The sites are governed by WorldAPP's Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what information we collect, how the information you may provide to WorldAPP is used by the company, and how such information is both protected and made available on our Web sites.
+Key Survey, Form.com, and WorldAPP are the official trademarks of WorldAPP, Inc ("WorldAPP"). This privacy policy applies to [form.com](http://form.com/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) owned and operated by WorldAPP, Inc. The sites are governed by WorldAPP's Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what information we collect, how the information you may provide to WorldAPP is used by the company, and how such information is both protected and made available on our Web sites.
 
 We may update this privacy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
 We encourage you to periodically review this page for the latest information on our privacy practices.
 
-WorldAPP, Inc has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our WorldAPP websites, [www.keysurvey.co.uk](https://www.keysurvey.co.uk/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [www.form.com](http://form.com/) our service platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WorldAPP.
+The TRUSTe certification covers only our collection, use and disclosure of information we collect through our WorldAPP websites, [www.keysurvey.co.uk](https://www.keysurvey.co.uk/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [form.com](http://form.com/) our associated service platforms. It does not cover information that may be collected from our downloadable software and mobile applications. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WorldAPP. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -20,7 +20,7 @@ WorldAPP complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S
 
 WorldAPP collects your Name, Company name, Title, Phone, and Email address when you request product information or support from WorldAPP. If you register for an account on Form.com or Key Survey we will also collect the Username (your email address by default) and Password you create for your account.
 
-### Information We Collect When You Purchase and Information Related to Data Collected through www.form.com, our Platform Service
+### Information We Collect When You Purchase and Information Related to Data Collected through form.com, our Platform Service
 
 WorldAPP collects your First Name, Middle Name, Last Name, Phone, E-mail, Company, Address, and CC information when you purchase services on Form.com or Key Survey.
 
@@ -43,11 +43,11 @@ We also use aggregate information to determine what is of interest to our users 
 
 ### Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name on the [www.form.com](https://www.keysurvey.com/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) sites. If you want your testimonial updated or removed please contact us at (781) 849-8118 or send an e-mail to [support@worldapp.com](mailto:support@worldapp.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name on the [form.com](http://form.com/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/) and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) sites. If you want your testimonial updated or removed please contact us at (781) 849-8118 or send an e-mail to [support@worldapp.com](mailto:support@worldapp.com).
 
 ### Descriptive References
 
-WorldAPP is authorized to make descriptive references to Customer's company name and URL on [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/), and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) sites and collateral promotional materials. All references to Client's name and URL will insure the benefit to the Client. If you want your company name and URL removed please contact us at (781) 849-8118 or send an e-mail to [support@worldapp.com](mailto:support@worldapp.com).
+WorldAPP is authorized to make descriptive references to Customer's company name and URL on [form.com](http://form.com/), [www.keysurvey.com](https://www.keysurvey.com/), [www.keysurvey.fr](https://www.keysurvey.fr/), and [www.keysurvey.co.uk](https://www.keysurvey.co.uk/) sites and collateral promotional materials. All references to Client's name and URL will insure the benefit to the Client. If you want your company name and URL removed please contact us at (781) 849-8118 or send an e-mail to [support@worldapp.com](mailto:support@worldapp.com).
 
 ### Miscellaneous Information
 
@@ -59,7 +59,7 @@ When you publish your forms or surveys on the Form.com and Key Survey servers, w
 
 WorldAPP will not attempt to read your form results at any time unless explicitly instructed to do so by you. We do not own the contents of the data for your form. WorldAPP will only have access to your forms for purposes of backup and troubleshooting. When WorldAPP receives your form results, we will store them in a secure location. We will only allow your form results to be downloaded directly into your desktop software. WorldAPP has extensive security measures in place to protect your results while stored on our servers and we will prosecute any attempt to access this information without authorization.
 
-###  Data Retention 
+###  Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@worldapp.com](mailto:support@worldapp.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -89,11 +89,11 @@ Each survey/form cookie, along with its purpose and lifespan, is listed below.
 
 Cookie Name  |  Purpose  |  Lifespan   
 ---|---|---  
-**JSessionID** |  This cookie lasts until the browser is closed.   
-It is used to identify your session with the server, so the server recognizes its conversation with a particular user.   
+**JSessionID** |  This cookie lasts until the browser is closed.  
+It is used to identify your session with the server, so the server recognizes its conversation with a particular user.  
 These are necessary for a smooth experience with the application.  |  Session   
-**SurveyID** |  If you are taking a survey on the system, it stores this cookie on your computer.   
-This is so that if you leave the survey and return later, you can continue where you left off. It works together with the RID cookie to deliver your survey content to you upon your return.   
+**SurveyID** |  If you are taking a survey on the system, it stores this cookie on your computer.  
+This is so that if you leave the survey and return later, you can continue where you left off. It works together with the RID cookie to deliver your survey content to you upon your return.  
 If you don't use this cookie, and the survey is not set up to use username and password or unique URLs, then the server will give someone returning to their survey a brand new survey. A duplicate response will likely be created in the reports as well.  |  10 years   
 **RID** |  RID (Respondent ID) is a cookie that works with the SurveyID cookie to identify someone who has left a survey and is now returning. If you don't use this cookie, and the survey is not set up to use username and password or unique URLs, then the server will give someone returning to their survey a brand new survey. A duplicate response will likely be created in the reports as well.  |  10 years   
 **CIntVerification** |  This cookie is used to test to see if your web browser has cookies enabled. The WorldAPP server also uses this cookie to help improve the server and web page speed by load-balancing traffic.  |  1 day   
@@ -132,7 +132,6 @@ Persistent
 **KSuserReff     
 KSuserReffCounter ** |  These cookies track the pages you visited on our website. If you fill out one of our forms, for a test account or a contact form, this information will also be tied to this cookie. WorldAPP uses this information to better understand if the web site is acting efficiently to deliver the content you are looking for.  |  10 years   
 **Is_returning** |  This cookie is used to record the fact that you have come back to our website after a previous visit. If you sign up for an account or fill out a contact form, this information will also be tied to this cookie.  |  10 years   
-**ELQSTATUS** |  These cookies are used only for the WorldAPP email campaign management. They only track ‘anonymous' information, meaning information that cannot identify you as an individual. These cookies are set by Pardot, a tool WorldAPP uses to manage email campaigns.  |  18 years   
 **Id  
 _drt_ ** |  This cookie is used by Google to serve targeted ads to website visitors, WorldAPP does not serve targeted ads. These cookies are set by Google, and more information can be found in  [Google's Privacy Policy](http://www.google.com/intl/en/policies/privacy/) .  |  1 year   
 **Ks_help_uid** |  WorldAPP uses this cookie to make sure the correct Help Page opens for each user, as Help Pages are targeted to the page from which they were requested.  |  Session   
@@ -153,7 +152,7 @@ WorldAPP does not target its web site to children, and we will never knowingly c
 
 ### Access to Your Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at support@worldapp.com, by contacting us by telephone (781) 849-8118 or postal mail at the contact information listed below. We will respond to your request to access within 24 hours from the moment we received it. If it cannot be process within 24 hours - we will notify you accordingly.
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [support@worldapp.com](mailto:support@worldapp.com), by contacting us by telephone (781) 849-8118 or postal mail at the contact information listed below. We will respond to your request to access within 24 hours from the moment we received it. If it cannot be processed within 24 hours - we will notify you accordingly.
 
 WorldAPP has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to WorldAPP’s Client (the data controller). If requested to remove data we will respond within 30 days.
 
@@ -161,11 +160,35 @@ WorldAPP has no direct relationship with the individuals whose personal data it 
 
 Any information collected and processed by WorldAPP is treated with the utmost confidentiality. WorldAPP will not share, sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary form tool. All company-specific information gathered through Form.com and Key Survey will be the property of the customer.
 
+### Internal Dispute Resolution Process
+
+In the event that a customer feels WorldAPP privacy policy has been violated, would like to report a vulnerability, or has a security concern regarding WorldAPP services, the customer may submit a request to the WorldAPP Customer Support team by email at [support@worldapp.com](mailto:support@worldapp.com) or by phone (781) 849-8118 x1.
+
+WorldAPP will review the submitted request and assign it a tracking number. WorldAPP will then respond to the customer, acknowledging receipt of the request, and outline the next steps in the process.
+
+To help WorldAPP more effectively respond to customer requests, customers are asked to provide any supporting material that would be useful in the investigation:
+
+  * A detailed description of the complaint, incident, or vulnerability
+  * Date and time of the occurrence
+  * Individuals involved in the occurrence
+  * Tool output
+  * Any other pertinent information
+
+
+
+The information customers share with WorldAPP as part of this process is kept confidential within WorldAPP and will not be shared with third parties without the customer’s permission.
+
+If the case has been confirmed, WorldAPP will work to investigate and validate the reported incident or vulnerability. WorldAPP classifies any and all confirmed privacy and security incident reports as Critical and aims for a maximum of one business hour initial response time. If additional information is required in order to validate or reproduce the issue, WorldAPP will work with the customer to obtain it.
+
+In the event that violations of WorldAPP Privacy and/or Security policy are discovered, WorldAPP will immediately seek a solution to the violating actions.
+
+Upon completion of the investigation, information on the resolution will be delivered to the customer.
+
 ### Service Providers
 
-We use other third parties such as an email service provider to send out emails on our behalf, and a payment processing company to bill you for services. We only share the information we collect with the third parties for the purposes of providing that service. 
+We use other third parties such as an email service provider to send out emails on our behalf, and a payment processing company to bill you for services. We only share the information we collect with the third parties for the purposes of providing that service.
 
-###  Security 
+###  Security
 
 If you choose to upgrade your account on Form.com or Key Survey via logging into your account. You do so over a secure connection utilizing Secure Sockets Layer (SSL). This ensures that your personal information is not at risk. We do not store your credit card information. All transactions are executed with VeriSign technology, a Web-based transaction management tool. When you register with us or log in to our website, you can use a secure connection, ensuring that no one can steal your username and password, and use that to access any other information about you.
 
@@ -183,7 +206,7 @@ When you provide your email address to receive WorldAPP newsletters we will only
 
 ### Referrals
 
-If you choose to use the Form.com or Key Survey referral service to refer a company to our site, we will ask you for you and your contact's name, phone number and email address. We will make one attempt to contact the referred company using the data you provided. WorldAPP stores this information for the purpose of sending contact emails and tracking the success of our referral program. If we are contacting you because your email address was submitted to us via our referral service and wish to request your email address no longer be used by us, you may do so by contacting us at **(781) 849-8118** or email us at [support@worldapp.com](mailto:support@worldapp.com).
+If you choose to use the Form.com or Key Survey referral service to refer a company to our site, we will ask for your contact's name, phone number and email address. We will make one attempt to contact the referred company using the data you provided. WorldAPP stores this information for the purpose of sending contact emails and tracking the success of our referral program. If we are contacting you because your email address was submitted to us via our referral service and wish to request your email address no longer be used by us, you may do so by contacting us at (781) 849-8118 or email us at [support@worldapp.com](mailto:support@worldapp.com).
 
 ### Public Forums
 
@@ -191,17 +214,17 @@ Our Web site offers publicly accessible blogs or community forums. Our community
 
 ### Live Chat
 
-We use live chat to assist you with any product or service related questions or if you need support/technical assistance. In order to provide you with support, our live chat support agents will ask you for personal information such as name and emails address. If our live chat is offline we will collect your name and email address so that we may reply to your request later.
+We use live chat to assist you with any product or service related questions or if you need support/technical assistance. In order to provide you with support, our live chat support agents will ask you for personal information such as name and email address. If our live chat is offline we will collect your name and email address so that we may reply to your request later.
 
-###  Anti SPAM Policy 
+###  Anti SPAM Policy
 
 The information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. WorldAPP and its users agree to never initiate any SPAM emailing. WorldAPP anti-spam policy falls in compliance with US CAN-SPAM Act of 2003 S. 877
 
-###  Third Party Web Sites 
+###  Third Party Web Sites
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of WorldAPP. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-###  Third Party Advertisers 
+###  Third Party Advertisers
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -215,11 +238,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button, t
 
 ### Single Sign-on
 
-You can log in to our site using sing-in services such as Salesforce.com or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Salesforce.com give you the option to post information about your activities on this website to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Salesforce.com or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Salesforce.com give you the option to post information about your activities on this website to your profile page to share with others within your network.
 
 ### Public Member Directory
 
-We will list you in our publicly accessible member directory when you become a new member in our community forums. If you wish to request removal of your information from our directory, you can contact us at customercare@worldapp.com.
+We will list you in our publicly accessible member directory when you become a new member in our community forums. If you wish to request removal of your information from our directory, you can contact us at [customercare@worldapp.com](mailto:customercare@worldapp.com).
 
 ### Legal Disclosure
 
