@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223230950id_/http%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327041159id_/http%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
 
 # Lou & Grey | Customer Service Privacy & Security
 
