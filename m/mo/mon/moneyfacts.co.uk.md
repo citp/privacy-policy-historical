@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2014-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141001185742id_/http%3A//downloads.moneyfacts.co.uk/moneyfacts/pdf/moneyfactsprivacycookiepolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyfacts.co.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327041526id_/http%3A//downloads.moneyfacts.co.uk/moneyfacts/pdf/moneyfactsprivacycookiepolicy.pdf) for the most accurate reproduction.*
 
 # Moneyfacts.co.uk Privacy and Cookie Policy
 
@@ -32,21 +32,25 @@ decide whether you want to give it to us.
 If we are requested to provide any information to assist with law enforcement enquiries, we will do
 so.
 The information we hold:
-The information we hold about individuals is limited to name, gender, email address and your
-preferences for our regular emails.
-Moneyfacts.co.uk has a number of partnerships in place which aim to offer users the broadest
-service possible. If you provide personal information to a third party to use their services, e.g. via a
-lead form, they may pass us your information. If you have opted-in to receiving emails from
+The information we hold about individuals is limited to name, gender, email address, mobile phone
+number and your preferences for our regular emails.
+Moneyfacts.co.uk has a number of third party relationships in place which aim to offer users the
+broadest service possible. We aim to be as clear as possible about all these relationships so you
+know who you are dealing with. In some cases you will provide your information direct to the third
+party, and in some cases Moneyfacts.co.uk will collect your information and pass it to the third party
+to fulfil your request. If you provide personal information to a third party to use their services, e.g.
+via a lead form, they may pass us your information, including the details of any transaction you
+make. This allows us to track any introduction fees. If you have opted-in to receiving emails from
 Moneyfacts.co.uk via a third party, they will pass us your name and email address. We will ensure
 that your personal information is captured and passed securely at all times.
 We do not hold sensitive information, but just enough to know who you are and the products you
 are interested in. We will only use this for the purpose specified when you gave us your information,
 and it will not be passed to any third party, other than to fulfil your request, e.g. for a call back from
 an adviser.
-If you place a comment on our blog website, we will display your user name against your comment.
-You can choose a user name that does not reveal your identity.
 
 
+If you place a comment on our Community Forum we will display your user name against your
+comment. You can choose a user name that does not reveal your identity.
 Cookie Policy
 About Cookies
 Cookies are small text files that are placed on your computer (or other device you use to access the
@@ -92,66 +96,71 @@ Moneyfacts respects the privacy of customers using its site. The Moneyfacts site
 designed to provide information and allow you to apply for different products and services. We
 monitor usage of the site by tracking your IP Address and automatically recording your activity
 around the site on the Web Server. Moneyfacts may share aggregated activity information with
-advertisers, business partners, sponsors and other third parties (For example: we may disclose
-how frequently the average user visits the site). However, (unless otherwise required by law) we will
-not identify or disclose personal information about you.
+advertisers, third party firms we deal with, sponsors and other third parties (For example: we may
 
 
+disclose how frequently the average user visits the site). However, (unless otherwise required by
+law) we will not identify or disclose personal information about you.
 The Moneyfacts.co.uk site uses cookies for the following reasons:
-     1. We, or our partners may use performance cookies to help us analyse the way our
-         customers use the site, including information about your computer, your domain name, IP
-         address, operating system, browser version, how long you stay on a page, the route you
-         took to navigate through the pages and the website you visited prior to reaching our site.
-         We use Google Analytics for this purpose. This also helps us measure the effectiveness of
-         our site features, offerings, advertisements, and e-mail communications (by determining
-         which e-mails you open and act upon), and also applies to the Moneyfacts Blog website.
-     2. We use strictly necessary cookies and performance cookies to help us identify when a user
-         clicks a 'proceed' button to apply or find out more about a product or service. We do this so
-         we can show the provider how many people using Moneyfacts.co.uk clicked on a particular
-         product or service to fulfil any commercial arrangement we may have in place. We use
-         Google Analytics for this purpose. If we couldn’t use this type of cookie, we would not make
-         any money and would be unable to offer our services; Read more about how we earn
-         money.
-     3. We use targeting / advertising cookies to display advertising on our site. We use cookies
-         from a third party website called Doubleclick for this purpose. When any advert is shown on
-         the site, a targeting / advertising cookie may be placed on your computer. Please note, our
-         advertisers may also use both session and persistent cookies over which we have no
-         control. We may also place on you’re computer a tracking cookie from our partner
-         company Captify Media Limited which are designed to display to you relevant
-         advertisements on other websites that you subsequently visit, based on your browsing
-         history. No personal data is passed to our advertising partners and they cannot identify you
-         or contact you directly. The cookies used for this purpose process only the search terms
-         you use and technical information relating to your PC. Users may prevent Captify cookies
-         from being set on their devices at http://www.captify.co.uk/privacy.php
-     4. We send out regular information by email. These emails will contain a tracking cookie
-         which allows us to identify whether the email has been opened. This does not include any
-         personal information about you.
+     We, or our chosen third parties may use performance cookies to help us analyse the way our
+     customers use the site, including information about your computer, your domain name, IP
+     address, operating system, browser version, how long you stay on a page, the route you took
+     to navigate through the pages and the website you visited prior to reaching our site. We use
+     Google Analytics, Sessioncam, SumoMe, Visual Website Optimiser for this purpose. This
+     includes advertising features which provide access to aggregated demographic information
+     about website users (such as geographic location, age profile and gender). This also helps us
+     measure the effectiveness of our site features, offerings, advertisements, and e-mail
+     communications (by determining which e-mails you open and act upon), and also applies to the
+     Moneyfacts Blog website. You can opt out of Google Analytics by clicking here and
+     downloading the app. However, this means that the your customer experience on the website
+     may not be as relevant.
+     We use strictly necessary cookies and performance cookies to help us identify when a user
+     clicks a 'proceed' button to apply or find out more about a product or service. We do this so we
+     can show the provider how many people using Moneyfacts.co.uk clicked on a particular product
+     or service to fulfil any commercial arrangement we may have in place. We use Google
+     Analytics for this purpose. If we couldn’t use this type of cookie, we would not make any money
+     and would be unable to offer our services; Read more about how we earn money. We may
+     also use this type of cookie in blog.moneyfacts.co.uk and community.moneyfacts.co.uk.
+     We use targeting / advertising cookies to display advertising on our site. We use cookies from
+     third party websites including Doubleclick and Facebook for this purpose. When any advert is
+     shown on the site, a targeting / advertising cookie may be placed on your computer. Please
+     note, our advertisers may also use both session and persistent cookies over which we have no
+     control. We may also place on you’re computer a tracking cookie from Captify Media Limited
+     which is designed to display to you relevant advertisements on other websites that you
+     subsequently visit, based on your browsing history. No personal data is passed to companies
+     that advertise with us and they cannot identify you or contact you directly. The cookies used for
+     this purpose process only the search terms you use and technical information relating to your
+     PC. Users may prevent Captify cookies from being set on their devices at
+     http://www.captify.co.uk/privacy.php
+     We send out regular information by email. These emails will contain a tracking cookie which
+     allows us to identify whether the email has been opened. This does not include any personal
+     information about you.
 We may also provide links to third party sites such as Twitter, who may use their own cookies which
 we have no control over. Please refer to their cookie policy for full details.
 Third parties who advertise on Moneyfacts.co.uk may deploy advertising and targeting cookies to
 your device. These are mainly by digital marketing companies that track your movements around
 the web to maximise the efficiency of marketing campaigns. We have no control over these
 cookies. Examples of these cookies include:
-             Mookie1.com
-             Atdmt.com
-             Adnxs.com
-             Ad.yieldmanager.com
-             Media6degrees.com
-             Xgraph.com
+             Mookie1.com
+             Atdmt.com
+             Adnxs.com
+             Ad.yieldmanager.com
+             Media6degrees.com
+             Xgraph.com
 If you do not wish to receive cookies then you can disable these within your browser (this will not
 normally apply to pixel tags and the other file types). The Help portion of the toolbar on most
 browsers should tell you how to prevent your browser from accepting new cookies (including those
 from specific websites), how to have the browser notify you when you receive a new cookie, or how
+
+
 to disable non-essential types of cookies. However, this may mean that not all of the functions of
 the site will be available to you.
 Other sites
-This Privacy and Cookie Policy applies to Moneyfacts.co.uk only. We do not exercise control over
-third party sites displayed when you have clicked through from within our charts via a 'proceed'
-button, from advertising displayed on our site or one of our partners. These third party sites may
-place their own cookies or other files on your computer, collect data or collect personal information
-from you.
-
-
+This Privacy and Cookie Policy applies Moneyfacts.co.uk, community.moneyfacts.co.uk and
+blob.moneyfacts.co.uk only. We do not exercise control over third party sites displayed when you
+have clicked through from within our charts via a 'proceed' button, from advertising displayed on our
+site or one of our chosen third parties. These third party sites may place their own cookies or other
+files on your computer, collect data or collect personal information from you.
 Your rights
 Under the Data Protection Act you have the right to access any information we hold about you on
 our records. The Act allows us to charge a fee of £10 to receive this information. If any details are
@@ -165,6 +174,9 @@ contact you occasionally about other products and services that may interest you
 us not to do so. If you wish to be removed from our mailing list at any time, simply click here and
 you will be removed immediately. We will not give your e-mail address to any third parties.
 Telephone calls
-We may record telephone conversations to offer you additional security, resolve complaints and
-improve our service standards. Conversations may also be monitored for staff training purposes.
-Last updated: April 2014
+We or our chosen third parties may record telephone conversations to offer you additional security,
+resolve complaints and improve our service standards. Conversations may also be monitored for
+staff training purposes. We may also have access to non-personalised information about telephone
+calls made to our chosen third parties to monitor performance. This includes time to answer, call
+duration and the town you are calling from, but not your telephone number.
+Last updated: February 2016
