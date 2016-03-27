@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910080446id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droptask.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327153302id_/https%3A//www.droptask.com/privacy-policy) for the most accurate reproduction.*
 
 # DropTask - Privacy Policy
 
