@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennisduel.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504171555id_/http%3A//s4.tennisduel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisduel.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327224935id_/http%3A//s4.tennisduel.com/privacy-policy) for the most accurate reproduction.*
 
-# Tennis Duel
+# Tennis Duel: Free online tennis game
 
 **Tennis Duel**  
 Privacy Policy
