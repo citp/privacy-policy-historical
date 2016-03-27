@@ -1,101 +1,47 @@
-> *The following text is extracted and transformed from the watemi.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228163821id_/http%3A//watemi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watemi.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327135233id_/http%3A//watemi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watemi
+# Privacy Policy | The most complete online store for your needs
 
-**Privacy Policy for watemi.com**
+  
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@watemi.com](mailto:contact@watemi.com).
 
-At watemi.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by watemi.com and how it is used.
+### USE OF PERSONALLY IDENTIFIABLE INFORMATION
 
-**Log Files**  
-Like many other Web sites, watemi.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Information submitted to forms on the website is governed according to the following terms of the Electronic Personal Information Privacy Policy: 
 
-**Cookies and Web Beacons**  
-watemi.com use cookies.
+  * ### General: 
 
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser  
-(if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+To protect your privacy when visiting our website, we have adopted the following policies to safeguard any personal information you may voluntarily submit. Any information collected will be used for the purposes of responding to inquiries and the general improvement of our Internet services. 
 
-As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you  
-from having to log in more than is necessary for security. Cookies, in conjunction with our Webserver’s log files, allow us to calculate the aggregate  
-number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site  
-and better serve our clients. Cookies do not allow us to gather any personal information about you andwe do not intentionally store any personal  
-information thatyour browser provided to us in your cookies.
+Any personal information collected from visitors to our site is done on a voluntary basis. Information such as names, addresses, phone numbers, e-mail addresses, etc. will be used only to respond to inquiries, or for specific marketing activities, events or services. 
 
-**What information do we collect?**
+  * ### User Submissions: 
 
-We collect information from you when you register on our site.
+Information supplied to our site, including but not limited to feedback, data, answers, questions, comments, suggestions, plans, ideas or the like, will not be treated as proprietary or as confidential and we assume no obligation to protect such information from disclosure. Further, the submission of such information shall not restrict the use of such information for any commercial or non-commercial purpose whatever and shall be free to reproduce, use, disclose, and distribute the information to others without restriction. You are prohibited from posting or transmitting to or from this site any unlawful, threatening, libelous, defamatory, obscene, pornographic, or other material that would violate any law. 
 
-When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+  * ### Information Collection: 
 
-**DoubleClick DART Cookie**
+Our web service tracks visitors to the site and collects generalized information on the number of visits, most popular page views, domain names, geographic information, downloads, site search terms, etc. Additionally, some pages throughout the site may request specific information submitted by a form or e-mail. We may also retain electronic communications sent by visitors. This information will only be used by us as a means of continuously improving our services. 
 
-.:: Google, as a third party vendor, uses cookies to serve ads on watemi.com.
+We uses an SMTP gateway to forward e-mail and to log e-mail transactions. Logs of e-mail transactions include: 
 
-.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to watemi.com and other sites on the Internet.
+    * Date and time of message 
+    * Name and IP address of connecting host
+    * Email address of message originator
+    * The address of recipient
+  * ### Children’s Privacy: 
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+We do not knowingly solicit or collect personally identifiable information online from children under the age of 13 and we do not ask for age-identifying information from our visitors. If you have reason to believe that a child under the age of 13 has submitted personally identifiable information online which would be against our policy, then we ask you to notify us immediately and we will take all reasonable measures to delete such information and not use such information for any purpose (except where necessary to protect the safety of the child or others as required by law). 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
-**Google Adsense**
+  * ### Cookies: 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on watemi.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Some sections of the website may deposit pieces of information called “cookies” on your computer. A cookie is a small piece of information stored by a browser on your computer's hard drive. Cookie technology does not collect personally identifiable information. If a cookie is sent to your computer, your browser only permits that website to access the cookie it sent. It does not allow access to cookies sent by other websites. 
 
-watemi.com has no access to or control over these cookies that are used by third-party advertisers.
+If you choose to do so, you can change your browser's cookie configuration. Check the “Help” section of your browser for more information. We does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). We comply with the provisions of the CAN-SPAM Act of 2003, as amended. If you believe you have received such a message, contact. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. watemi.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  * ### Notice to California and Vermont Residents: 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We do not disclose personal information about you to nonaffiliated third parties except as permitted under applicable law. No further action is required on your part. If our policy should change, we will obtain your consent before any information is shared as provided under your state laws. For California residents we will also provide you with a California Privacy Notice before doing so. 
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:  
-;  
-To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To send periodic emails
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business,  
-or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site  
-policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy  
-Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may  
-make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all  
-directed to people who are at least 13 years old or older.
-
-**Your Consent**
-
-By using our site, you consent to our  
-[privacy policy](http://watemi.com/privacy-policy).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 06/15/2013
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the  
-information below.
-
-[contact@watemi.com](mailto:contact@watemi.com)
