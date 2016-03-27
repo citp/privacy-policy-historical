@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popkey.co privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925034815id_/http%3A//popkey.co/privacy%3Fref%3Dfooter_section) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popkey.co privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327185833id_/http%3A//popkey.co/privacy%3Fref%3Dfooter_section) for the most accurate reproduction.*
 
 # Privacy policy | PopKey
 
