@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alt-codes.net privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114725id_/http%3A//www.alt-codes.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alt-codes.net privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327055204id_/http%3A//www.alt-codes.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Alt Codes
 
@@ -19,8 +19,12 @@ Some of these advertisers may use technology such as cookies and web beacons whe
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
-### Google and the DoubleClick DART cookie
+### Cookies
 
-\- Google, as a third party vendor, uses cookies to serve ads on alt-codes.net.  
-\- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Alt-codes.net use Google Adsense ads network. This network has used cookies to [DoubleClick Dart](http://www.google.com/doubleclick/) for Google Publishers's web sites. Google ,used this cookies for publish to ads of Advertiser's as3 th. Part seller.  
+Using this section, pusblish the ads which of the thesame as like to content around the Internet.  
+Visit to [Google Privacy Policy](http://www.google.com/policies/privacy/ads/), you can suspend the DART cookies how to make it.
+
+When the Google visit our web sites, use 3th part ads network ( etc. Adnet, Adcash... ) services fort this. This Ads Networks; use your personal informations ( name, address, email or gsm numbers ) for the their services; view ads to visitors interested to products and service around the internet.
+
+For all this to, Privacy Policy and Rules which of used the Networks, you can download or read atteched file [NAI Self- Regulatory Principles For Publishers ( PDF ) ](http://www.networkadvertising.org/sites/default/files/imce/principles.pdf)
