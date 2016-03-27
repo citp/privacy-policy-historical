@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910190803id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328012705id_/https%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Paymentwall - Paymentwall
 
