@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729121415id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybangaloreproperty.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327160502id_/http%3A//www.mybangaloreproperty.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
