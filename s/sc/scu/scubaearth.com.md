@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914160407id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scubaearth.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327114035id_/https%3A//www.scubaearth.com/about-scubaearth.aspx%3Fpagetype%3Dprivacy) for the most accurate reproduction.*
 
-# Research, plan and share your scuba diving experiences in ScubaEarth
+# 
 
 PADI® and its affiliated companies (the PADI Companies) are committed to respecting the privacy of customers – including participants of the PADI Companies’ Experience and Training Programs (Training Programs), persons making inquiries and visitors to the PADI websites, padi.com and ScubaEarth®. This Privacy Policy covers personally identifiable information that may be provided to the PADI Companies during such interactions. As is explained below, the information provided during various types of interactions may be treated differently. Changes to the policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law. 
 
