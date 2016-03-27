@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesnappy.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715215907id_/http%3A//gamesnappy.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesnappy.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327061750id_/http%3A//gamesnappy.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GameSnappy.com - Free Online Games
 
