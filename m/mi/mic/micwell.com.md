@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613060450id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327042145id_/http%3A//www.micwell.com/static/help.do%3Fpage%3Dprivacy%26index%3D2) for the most accurate reproduction.*
 
 # Buy Quality Prom Dresses Online! - MicWell.com
 
