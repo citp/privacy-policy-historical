@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the afbank.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905064414id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afbank.com privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328003153id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<!-- master_navitem: upper_privacy -->
@@ -148,13 +148,37 @@ $(document).ready(function() {
 
 	$(".secured_visa_disclosure").click(function(event){
 
-		var disclosurePDF = "/shared/disclosures/visa_secured_disclosures/afbank.com.pdf#toolbar=1";
+		var disclosurePDF = "/shared/disclosures/visa_secured_disclosures/credit-card-999-afbank.com.pdf#toolbar=1";
 		var disclosureHTML = '<embed src="' + disclosurePDF + '" width="850" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html" />';
-		var disclosureTitle = "Secured Visa Credit Card Disclosure";
+		var disclosureTitle = "Visa Credit Card Disclosure";
 		var dialogDiv = '<div id="secured_visa_disclosure" style="text-align:left; padding:10px; font-family:arial;"></div>';
 		
 		//Prevent the default action on the link if it's not checkbox
 		if( event.target.name != "DISCLOSURE_REVIEWED__visa_secured_disclosure" )
+			event.preventDefault();
+			
+		//Dialog buttons for this dialog...
+		var disclosureButtons = {
+			"Expand View": function(){
+				printPDF( disclosurePDF );
+			},
+			"Close": function(){
+				$(this).dialog("close");
+			}
+		};
+		//Pass parameters to createDialog.  Pass empty quotes for each parameter to use default values.
+		createDialog( dialogDiv, disclosurePDF, disclosureHTML, disclosureTitle, disclosureButtons, 640, 870);	
+	});
+	
+	$(".secured_visa_disclosure20").click(function(event){
+
+		var disclosurePDF = "/shared/disclosures/visa_secured_disclosures/credit-card-20-afbank.com.pdf#toolbar=1";
+		var disclosureHTML = '<embed src="' + disclosurePDF + '" width="850" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html" />';
+		var disclosureTitle = "Credit Builder Secured Visa Credit Card Disclosure";
+		var dialogDiv = '<div id="secured_visa_disclosure" style="text-align:left; padding:10px; font-family:arial;"></div>';
+		
+		//Prevent the default action on the link if it's not checkbox
+		if( event.target.name != "DISCLOSURE_REVIEWED__visa_secured_disclosure20" )
 			event.preventDefault();
 			
 		//Dialog buttons for this dialog...
@@ -254,14 +278,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<td style="text-align: right;">
 				<table cellspacing="0" cellpadding="0" border="0" style="border: 0px; width: 100%;">
 					<tbody><tr>
-						<td style="text-align: right;">
+						<td style="text-align: right; float: right;">
 							<ul>
 								<li><a href="/customer-service/" title="Customer Service">Customer Service</a></li>
 								<li><a href="/bank/employment.cfm" title="Careers">Careers</a></li>
-								<li><a href="/forms/comments.cfm" title="How Are We Doing?">How Are We Doing?</a></li>
 							</ul>
 						</td>
-						<td style="padding-left: 10px;">
+						<td style="padding-left: 10px; width: 130px;">
 							<input type="button" id="btnShowLocationsSearch" value="Hours &amp; Locations">
 							<div id="overlay" class="web_dialog_overlay"></div>
 							<div id="dialog" class="web_dialog">
@@ -352,6 +375,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				
 				
+											<option value="CA|NAS Lemoore">NAS Lemoore, CA</option>
+			
+				
+				
 											<option value="CA|San Diego">San Diego, CA</option>
 			
 				
@@ -439,10 +466,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				
 				
-											<option value="CO|LaJunta">LaJunta, CO</option>
-			
-				
-				
 											<option value="CO|Lakewood">Lakewood, CO</option>
 			
 				
@@ -486,14 +509,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 											<option value="FL" style="color: #000; background-color: #dde3e8;">Florida</option>
 				
 				
-											<option value="FL|Bradenton">Bradenton, FL</option>
-			
-				
-				
-											<option value="FL|Clearwater">Clearwater, FL</option>
-			
-				
-				
 											<option value="FL|Daytona Beach">Daytona Beach, FL</option>
 			
 				
@@ -514,11 +529,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				
 				
-											<option value="FL|Seminole">Seminole, FL</option>
+											<option value="FL|Tampa">Tampa, FL</option>
 			
 				
 				
-											<option value="FL|Tampa">Tampa, FL</option>
+											<option value="FL|Tyndall AFB">Tyndall AFB, FL</option>
 			
 				
 					
@@ -579,6 +594,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				
 					
 											<option value="MO" style="color: #000; background-color: #dde3e8;">Missouri</option>
+				
+				
+											<option value="MO|Blue Springs">Blue Springs, MO</option>
+			
 				
 				
 											<option value="MO|Branson">Branson, MO</option>
@@ -663,13 +682,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				
 					
-											<option value="ND" style="color: #000; background-color: #dde3e8;">North Dakota</option>
-				
-				
-											<option value="ND|Grand Forks AFB">Grand Forks AFB, ND</option>
-			
-				
-					
 											<option value="TX" style="color: #000; background-color: #dde3e8;">Texas</option>
 				
 				
@@ -731,7 +743,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									</form>
 									
 									<hr>
-									<a href="http://www.moneypass.com/atm-locator.aspx" title="MoneyPass" class="speedbump">Find surcharge-free ATMs nationwide with MoneyPass™</a>
+									<a href="https://www.moneypass.com/atm-locator.aspx" title="MoneyPass" class="speedbump">Find surcharge-free ATMs nationwide with MoneyPass™</a>
 
 									
 								</div>
@@ -823,7 +835,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="/personal/creditloans/" title="Loans">Loans</a></li>
 				
 					
-				<li><a href="/personal/creditcards/" title="Credit Cards">Credit Cards</a></li>
+				<li><a href="/personal/credit-cards/" title="Cards">Cards</a></li>
 				
 					
 				<li><a href="/personal/ib/" title="Online Banking">Online Banking</a></li>
@@ -1013,10 +1025,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		
 		
-		
-		
-		
-		
 	
 	<div id="wrapper" class="clearfix">
 		<div id="maincol">
@@ -1068,11 +1076,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<td>
 								
 										<div class="pagetitleText">
-											Privacy Policy
+											Privacy Policy 	
 										</div>
 									
 										<div class="pagesubtitleText">
-											Protecting your financial and personal privacy is important to us.
+											Protecting your financial and personal privacy is important to us. 
 										</div>
 									
 								</td>
@@ -1317,7 +1325,7 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 			
 			<table border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
-				<td id="footer1TD">
+				<td id="footer1TD" nowrap="">
 				
 					<a href="/" title="Home Page">Home</a><br>
 				
@@ -1331,25 +1339,25 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 				</td>
 				<td id="footer1TD" nowrap="">
 					<a href="/personal/" title="Personal Banking" class="bold">Personal Banking</a>
-					<br><a href="/personal/ib/" title="Online Banking">Online Banking</a>
-					<br><a href="/personal/mobilebanking/" title="Mobile Banking">Mobile Banking</a>
-					<br><a href="/personal/accounts-checking/" title="Accounts">Accounts</a>
+					<br><a href="/personal/accounts-checking/" title="Checking">Checking</a>
+					<br><a href="/personal/accounts-savings/" title="Savings">Savings</a>
 					<br><a href="/personal/creditloans/" title="Credit &amp; Loans">Loans</a>
+					<br><a href="/personal/credit-cards/" title="Credit Cards">Cards</a>
+					<br><a href="/personal/ib/" title="Online Banking">Online Banking</a>
+					<br><a href="/personal/mobilebanking/" title="Mobile Banking">Mobile Banking</a>			
 					<br><a href="/personal/" title="More Personal Banking">More...</a>
 					<br>
 				</td>
 				
-				
-					<td id="footer1TD" nowrap="">
-							<a href="/business/" title="Business Banking" class="bold">Business Banking</a>	
-							<br><a href="/business/openanaccount.cfm" title="Open an Account">Open an Account</a>
-							<br><a href="/business/manageyourbusiness.cfm" title="Manage Your Busines">Manage Your Busines</a>
-							<br><a href="/business/borrowmoney.cfm" title="Borrow Money">Borrow Money</a>
-							<br><a href="/business/makepayments.cfm" title="Make Payments">Make Payments</a>
-							<br><a href="/business/receivepayments.cfm" title="Receive Payments">Receive Payments</a>
-							<br><a href="/business/reducefraud.cfm" title="Reduce Fraud">Reduce Fraud</a>
-					</td>
-				
+				<td id="footer1TD" nowrap="">
+						<a href="/business/" title="Business Banking" class="bold">Business Banking</a>	
+						<br><a href="/business/openanaccount.cfm" title="Open an Account">Open an Account</a>
+						<br><a href="/business/manageyourbusiness.cfm" title="Manage Your Busines">Manage Your Busines</a>
+						<br><a href="/business/borrowmoney.cfm" title="Borrow Money">Borrow Money</a>
+						<br><a href="/business/makepayments.cfm" title="Make Payments">Make Payments</a>
+						<br><a href="/business/receivepayments.cfm" title="Receive Payments">Receive Payments</a>
+						<br><a href="/business/reducefraud.cfm" title="Reduce Fraud">Reduce Fraud</a>
+				</td>
 				<td id="footer1TD">
 					<a href="/mortgage/" title="Personal Banking" class="bold">Mortgages</a>
 					<br><a href="/mortgage/gettingstarted.cfm" title="Getting Started">Getting Started</a>
@@ -1365,7 +1373,7 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 					<a href="/bank/" title="About Us">About Us</a><br>
 					<a href="/financialeducation/" title="Financial Education">Financial Education</a><br>				
 					<a href="/bank/employment.cfm" title="Careers at Academy Bank">Careers</a><br>
-					<a href="/forms/comments.cfm" title="How Are We Doing?">How Are We Doing?</a><br>
+					<a href="/forms/comments.cfm" title="Website Feedback">Website Feedback</a><br>
 				</td>
 			</tr>
 		</tbody></table>
@@ -1381,7 +1389,7 @@ E-mail: <a href="mailto:privacy@afbank.com">privacy@afbank.com</a><br></p>
 	
 	<div id="footer3">
 		©
-		1996-2015 Armed Forces Bank, N.A.
+		1996-2016 Armed Forces Bank, N.A.
 		
 		All rights reserved.
 		<br>The persons pictured on this website are not actual customers of the bank.
