@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the erslist.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503130647id_/http%3A//www.leolist.cc/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erslist.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328012522id_/http%3A//www.leolist.cc/policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeoList
 
-At LeoList.com __ we recognize that your privacy is important. This Policy discloses the privacy practices for LeoList.com __ (hereafter referred to as "Company") and our family of Websites (collectively, the "Site"), as well as related products and services we may offer to you (collectively referred to as the "Services"). This Policy also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of this Site.  
+At LeoList.cc we recognize that your privacy is important. This Policy discloses the privacy practices for LeoList.cc (hereafter referred to as "Company") and our family of Websites (collectively, the "Site"), as well as related products and services we may offer to you (collectively referred to as the "Services"). This Policy also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of this Site.  
 
 
 You acknowledge that this Privacy Policy is designed to be read in connection with our Terms of Service, and that by accessing or using our Site, you agree to be bound by the Site's terms and conditions, as well as this Policy.
 
 We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and by updating any privacy information on this page. Your continued use of the Site and or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy.
 
-If you have any questions about this Policy, please feel free to contact us at: legal@LeoList.com
+If you have any questions about this Policy, please feel free to contact us at: legal@LeoList.cc
 
  **1\. Types of Information We Collect**
 
-In order to use different services offered by LeoList.com it will be necessary to gather certain information from you. Use of this information will be limited to the purposes for which it was intended and will not be used for unanticipated commercial purposes. Information will be used to the extent necessary to improve functionality and comply with applicable laws.
+In order to use different services offered by LeoList.cc it will be necessary to gather certain information from you. Use of this information will be limited to the purposes for which it was intended and will not be used for unanticipated commercial purposes. Information will be used to the extent necessary to improve functionality and comply with applicable laws.
 
-LeoList.com passively gathers information including cookies and IP addresses. This information will not be shared with third parties for commercial purposes but to improve functionality by tracking user preferences, enhance site navigation, and detect fraud or intrusive activities. 
+LeoList.cc passively gathers information including cookies and IP addresses. This information will not be shared with third parties for commercial purposes but to improve functionality by tracking user preferences, enhance site navigation, and detect fraud or intrusive activities. 
 
 Other activities including registration of accounts and submission of advertising content may require us to gather certain personal information which may include but is not limited to your name, age and location. When verification services are requested or required we will ask for additional personal information such as your telephone number. Other services where personal information may be collected include: (a) entering a sweepstakes or contest; (b) signing up for special offers; (c) sending us an email, self-publishing or signing up for subscription services; (d) submitting payment information when ordering and purchasing products and services on our Site (e) submitting a complaint form.
 
@@ -37,11 +37,11 @@ We also reserve the right to report to law enforcement agencies any activities t
 
 **5\. Updating Information**
 
-You may access and edit information that you have submitted to us. Either through your account interface or by emailing LeoList.com when you are unable to edit or update information on your account and you would like it deleted or removed.
+You may access and edit information that you have submitted to us. Either through your account interface or by emailing LeoList.cc when you are unable to edit or update information on your account and you would like it deleted or removed.
 
- **Attn:** Privacy Compliance Officer
+Attn: Privacy Compliance Officer
 
- **  Email:** privacy@LeoList.com
+ Email: legal@LeoList.cc
 
 Please include your name, address, and/or email address when you contact us.
 
@@ -68,20 +68,18 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 Sharing non-public information about yourself (i.e. your name, phone number, email address, etc.) in public areas on this Site is done so at your own risk. If you choose to make such voluntary disclosures, this Privacy Policy shall not apply to such information you have shared.   
 
 
-LeoList.com has no control over information you have shared on third party websites or off of this website.   
+LeoList.cc has no control over information you have shared on third party websites or off of this website.   
 
 
 If you choose to interact with other users of LeoListoutside of the website this is done so at your own risk. LeoList cannot screen all users or substantiate allegations reported by other users. Use common sense and your better judgement.
 
-If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at: privacy@LeoList.com
+If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your PII, or our privacy practices, please contact us at: legal@LeoList.cc
 
- **9\. Law Enforcement Cooperation Policy  
-**
+ **9\. Law Enforcement Cooperation Policy**  
+
 
 As discussed above, the information you have voluntarily shared with us or that you have chosen to report may be shared with law enforcement or government agencies whenever appropriate.
 
-User information and Terms of Service violation reports are archived according to the LeoList.com document retention policy and will be made available whenever necessary.
+User information and Terms of Service violation reports are archived according to the LeoList.cc document retention policy and will be made available whenever necessary.
 
-  
-Law enforcement requests for information should be directed to legal@LeoList.com.  
-
+Law enforcement requests for information should be directed to legal@LeoList.cc.
