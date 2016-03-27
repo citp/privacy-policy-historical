@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085533id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327222304id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordPress Themes by Themekraft
 
@@ -10,7 +10,7 @@
 
 
 
-Below is our privacy policy which incorporates the following goals:
+Below is our privacy policy which incorporates the following goals: 
 
 [Themekraft](http://themekraft.com/) is an Open Source Community with the possibility to purchase Premium Products (Themes, Plugins, Services). It is Themekraft’s policy to respect your privacy regarding any information we may collect while operating our website.
 
