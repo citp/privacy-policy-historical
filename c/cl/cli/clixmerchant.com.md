@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixmerchant.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909092719id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixmerchant.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327113250id_/http%3A//scholarshipzone.com/privacy) for the most accurate reproduction.*
 
 # Scholarship Zone Privacy Statement
 
@@ -69,7 +69,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 ### Registry Compliance:
 
-By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from scholarshipzone.com, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls.
+By submitting your personal and/or financial information on our site, you hereby give us, our affiliated sites, sponsors, etc. permission to use your information to contact you. You are also consenting to receive phone calls from scholarshipzone.com, our affiliates, and our partners for contact via telephone.
 
 ### LSOs
 
@@ -124,6 +124,6 @@ Effective: July 10th, 2015
 ### Contact Information
 
 Email us at: [Info@scholarshipzone.com](mailto:info@scholarshipzone.com)  
-Or write to us at: Free College Scholarships LLC, 135 Townsend St, Ste 615, San Francisco, CA 94107
+Or write to us at: Free College Scholarships LLC, 4104 24th St. Suite 947, San Francisco, CA 94114
 
 [](http://www.bbb.org/greater-san-francisco/business-reviews/scholarships-and-financial-aid/free-college-scholarships-in-san-francisco-ca-192171#bbblogo "Free College Scholarships, LLC, Scholarships & Financial Aid, San Francisco, CA")
