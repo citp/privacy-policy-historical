@@ -1,29 +1,43 @@
-> *The following text is extracted and transformed from the mismatchedpear.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818045039id_/http%3A//www.mismatchedpear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mismatchedpear.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327204741id_/http%3A//mismatchedpear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | FINE JEWELRY -NECKLACE-RINGS-BRACELETS-PLUS MORE
+# Privacy Policy | MisMatched Pear
 
-## Privacy
+#### Your Privacy
 
-FINE JEWELRY -NECKLACE-RINGS-BRACELETS-PLUS MORE takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Routine Information Collection**
+This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+#### Pubmatic Cookie
 
-**Cookies and Web Beacons**
+This site also uses PubMatic, Inc.’s Sell Side Platform services. To read more about how PubMatic uses cookies or to opt out of PubMatic’s cookie usage, please visit: <http://www.pubmatic.com/opt-out> .
 
-Where necessary, FINE JEWELRY -NECKLACE-RINGS-BRACELETS-PLUS MORE uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+#### Google Adsense and the DoubleClick DART Cookie
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**Controlling Your Privacy.**
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, this site has no access or control over these cookies that may be used by third party advertisers.
 
-**Special Note About Google Advertising**
+#### Amazon Affiliates Program
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out](http://www.google.com/privacy_ads.html) of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-**Contact Information**
+#### Third Party Advertising
 
-Concerns or questions about this privacy policy can be directed to us via our [contact page](https://web.archive.org/contact-us) for further clarification.
+We use third party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+#### Collection of Personal Information
+
+When visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+#### Links to Third Party Websites
+
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+
+#### Changes to this Privacy Statement
+
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of this site then you may contact us using our [Contact Page](https://web.archive.org/contact-us/).
