@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709075140id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327043241id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Kraken | Buy, Sell, and Trade Bitcoins - Privacy Policy
 
 ##  Payward Privacy Policy 
 
-Last updated: **September 2nd, 2013**
+Last updated: **November 17th, 2015**
 
 This Privacy Policy explains how Payward, Inc., and its wholly owned subsidiaries (collectively, " **Payward** ," " **we** " or " **us** "), collects, uses, discloses and protects your information. This policy applies to information we collect when you access or use Payward's websites and mobile applications (collectively, " **Payward Services** ") or otherwise interact with us as described below. Payward provides the Payward Services through local operating entities that are wholly owned subsidiaries of Payward, Inc. (each, a " **Payward Company** "). To determine which Payward Company collects your information and is responsible for processing your data, please refer to our list of affiliated companies: [/about/payward](https://web.archive.org/about/payward).
 
@@ -60,7 +60,7 @@ We may use your information as follows:
 
 The Payward Company in the U.S. (" **Payward Ventures, Inc.** ") processes data on behalf of all Payward Companies. If you are located in any jurisdiction other than the U.S., your data will be transferred to Payward Ventures, Inc. for processing as directed by Payward Company responsible for your data processing. If the Payward Company responsible for processing your data is Payward Ventures, Inc., then your information will be processed solely by that U.S. entity and your information will not be transferred to any other Payward Company.
 
-By accessing or using the Payward Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. Please refer to the "Safe Harbor Compliance" section below if you are a resident of the European Union or Switzerland.
+By accessing or using the Payward Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. Please refer to the "U.S. – EU / Swiss Safe Harbor Compliance" section below if you are a resident of the European Union or Switzerland.
 
 #### DISCLOSURE OF INFORMATION
 
@@ -94,9 +94,11 @@ We allow other entities to provide analytics services on our behalf. These entit
 
 We implement reasonable security practices and procedures to help protect the confidentiality and security of your information, including any nonpublic personal information. We protect your information using reasonable physical, technical and administrative security measures, including by limiting access to your information to employees with a need to know such information.
 
-#### SAFE HARBOR COMPLIANCE
+#### U.S. – EU / SWISS SAFE HARBOR COMPLIANCE
 
-Payward Ventures, Inc. is located in the U.S. and complies with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework and has certified our adherence to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to personal data transferred from Switzerland and the EU to the U.S. Payward Ventures, Inc. has elected to use JAMS to resolve any escalated disputes regarding our adherence to the Safe Harbor Principles where such disputes could not be resolved by first contacting us at [https://support.kraken.com](https://support.kraken.com/). For more information about the Safe Harbor program and to view Payward Ventures Inc.’s certification, please visit the U.S. Department of Commerce's Safe Harbor website.
+Payward complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Payward has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Payward’s certification, please visit <http://www.export.gov/safeharbor/>
+
+If you have a complaint regarding Payward’s compliance with the U.S.-EU Safe Harbor Framework or the U.S.-Swiss Safe Harbor Framework, first contact us through support at [https://support.kraken.com](https://support.kraken.com/). Payward has elected to use JAMS arbitration as an independent recourse mechanism available to settle unresolved complaints regarding Payward’s Safe Harbor commitments. Please refer to the section titled “Applicable Law; Arbitration” in our Terms of Service <https://www.kraken.com/en-us/legal>
 
 #### YOUR CHOICES
 
