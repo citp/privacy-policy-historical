@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908084105id_/https%3A//www.myinvestorsbank.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327021121id_/https%3A//www.myinvestorsbank.com/home/privacy) for the most accurate reproduction.*
 
 # Investors Bank - Privacy
 
