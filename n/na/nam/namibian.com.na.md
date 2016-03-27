@@ -1,8 +1,108 @@
-> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005141129id_/http%3A//namibian.com.na/indexx.php%3Fpage_type%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namibian.com.na privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327165828id_/http%3A//www.namibian.com.na/index.php%3Fpage%3Dcustom%26type%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # The Namibian
 
-## Your Privacy
+##  Sport 
+
+[view all](http://www.namibian.com.na/index.php?section=1&category-id=4&sub-category-id=0)
+
+* * *
+
+2016-03-27
+
+## [Oshana end hosts run to reach final](http://www.namibian.com.na/index.php?page=read&id=38763 "Click to read full article")
+
+Oshana was in no mood to repay the hospitality the hosts graciously afforded visitors to Rundu by edging Kavango East 2-0 in the second semi-final.
+
+* * *
+
+2016-03-27
+
+## [Sharks unbeaten run ends as Crusaders keep 2002 record alive](http://www.namibian.com.na/index.php?page=read&id=38762 "Click to read full article")
+
+WELLINGTON - It has been 14 years since the Canterbury Crusaders became the last team to go through a Super season undefeated and their captain Kieran Read ensured it will be another year at least before that record is matched.
+
+* * *
+
+2016-03-27
+
+## [Khomas outclass Omaheke to reach final](http://www.namibian.com.na/index.php?page=read&id=38761 "Click to read full article")
+
+Four-time champion Khomas Region trumped Omaheke 3-0 on Sunday to reach The Namibian Newspaper Cup final.
+
+* * *
+
+##  Entertainment 
+
+[view all](http://www.namibian.com.na/index.php?section=1&category-id=6&sub-category-id=0)
+
+* * *
+
+2016-03-23
+
+## [Nam model bags five awards at Future Fashion Faces World in Turkey](http://www.namibian.com.na/index.php?page=read&id=38650 "Click to read full article")
+
+FRESH from her successful participation at the Future Fashion Faces World, 23-year-old Rachel Mengela was pleased to have won multiple awards. “I'm very happy, I even cried tears of joy when I received those titles as I didn't expect to win anything at all,” she said.
+
+* * *
+
+2016-03-23
+
+## [OYO dance pair take '66%' to The Netherlands](http://www.namibian.com.na/index.php?page=read&id=38651 "Click to read full article")
+
+TWO members of the Ombetja Yehinga Organisation (OYO) dance troupe, Junita Philander and Monray Garoeb, have taken the dance troupe's '66%' to The Netherlands.
+
+* * *
+
+2016-03-23
+
+## ['Spotlight'](http://www.namibian.com.na/index.php?page=read&id=38652 "Click to read full article")
+
+A TRUE story is more disturbing than fiction in 'Spotlight' (2016), this year's Academy Award's Best Picture winner.
+
+* * *
+
+##  Business 
+
+[view all](http://www.namibian.com.na/index.php?section=1&category-id=2&sub-category-id=0)
+
+* * *
+
+2016-03-24
+
+## [Namibia missed India-Africa summit 'to avoid duplication'](http://www.namibian.com.na/index.php?page=read&id=38691 "Click to read full article")
+
+ALTHOUGH Namibia was invited to the 11th India-Africa Business Conclave that took place in New Delhi last week, they could not attend because the country had a delegation at a similar exercise in the same country some five months ago.
+
+* * *
+
+2016-03-24
+
+## [Uranium production to triple in 2017](http://www.namibian.com.na/index.php?page=read&id=38693 "Click to read full article")
+
+NAMIBIA'S uranium production is expected to be three times the volume produced in 2015, according to statistics issued by finance minister Calle Schlettwein in parliament recently.
+
+* * *
+
+2016-03-23
+
+## [Business climate index drops to 163](http://www.namibian.com.na/index.php?page=read&id=38622 "Click to read full article")
+
+THE IJG Business Climate Index fell in January, down another 3,4 points, taking the total decline in the last three months to 7,3 points, and the index to a level of 163, IJG Securities and the Institute for Public Policy Research said in a statement yesterday.
+
+* * *
+
+## Poll
+
+[View older polls](http://www.namibian.com.na/index.php?page=poll&id=0)
+
+* * *
+
+Is the 6% increase in salary for MPs justified?
+
+##  Your Privacy 
+
+* * *
 
 The Namibian is fully committed to respecting and protecting your privacy. We have structured our web site so that, in general, you can visit The Namibian on the Web without identifying yourself or revealing any personal information.
 
@@ -10,38 +110,41 @@ Once you choose to provide us personally identifiable information (any informati
 
 This statement regarding the privacy of the personally identifiable information you provide online covers the five foundation principles of fair information:
 
-Awareness   |   Choice   |   Accuracy & Access   |   Security   |   Oversight
+  
 
-####  _Awareness_
+
+## Awareness
 
 The Namibian provides this Online Privacy Statement to make you aware of our privacy policy, practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every page on www.namibian.com.na.
 
- _ _What we collect__
-
+  *  _What we collect_  
 On some pages of www.namibian.com.na you can make requests, and register to receive materials, or become a member of The Namibian's online community. The types of personal information collected at these pages are your name, surname, e-mail address and address details.
 
 In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our products, and more detailed contact preferences. Some electronic newsletters record anonymous data about articles you have expressed interest in.
 
-Some www.namibian.com.na web pages use cookies, a data analysis technique. To learn more, click here: How The Namibian uses cookies.
+Some www.namibian.com.na web pages use cookies, a data analysis technique.
 
- _ _How we use it__
-
+  *  _How we use it_  
 The Namibian uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on service and benefits, and to personalise our web sites for you.
 
 From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact.
 
 We will also follow anylocal requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable.
 
- _ _Who we share it with__
-
+  *  _Who we share it with_  
 The Namibian will not sell, rent, or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other entities of The Namibian and/or business partners who are acting on our behalf for the uses described in 'how we use it'.
 
 Such entities and/or business partners, including those in the Republic of Namibia and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
 
- _ _Children's Privacy Protection__  
-The Namibian also takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests.
+  *  _Children's Privacy Protection_  
+The Namibian also takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be an active participant in their child's online activities and interests.  
 
-#### _Choice_
+
+
+
+* * *
+
+## Choice
 
 The Namibian will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice.
 
@@ -49,7 +152,12 @@ As previously stated, we will also provide you the opportunity to let us know if
 
 Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy.
 
-#### _Accuracy & Access_
+  
+
+
+* * *
+
+## Accuracy & Access
 
 The Namibian strives to keep your personally identifiable information accurate. We will provide you with access to your information, including making every effort to provide you with online access to your registration data so that you may view, update or correct your information at the HP site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personally identifiable information, return to the web page where you originally entered it and follow the instructions on that web page. Certain areas of The Namibian's web site may limit access to specific individuals through the use of passwords and through providing personally data.
 
@@ -57,15 +165,30 @@ Links to third party web sites on the site are provided solely as a convenience 
 
 The Namibian has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policy. Thus, The Namibian does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
 
-#### _Security_
+  
+
+
+* * *
+
+## Security
 
 The Namibian is committed to ensuring the security of your information. To prevent unauthorised access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-#### _Oversight_
+  
 
-If you have comments or questions about our privacy policy, please [email](mailto:info@namibian.com.na) us.
 
-#### _How The Namibian uses Cookies_
+* * *
+
+## Oversight
+
+If you have comments or questions about our privacy policy, please email ([info at namibian.com.na]()) us.
+
+  
+
+
+* * *
+
+## How The Namibian uses Cookies
 
 A cookie is a piece of text asking permission to be placed on your computer's hard drive. If you agree, then your browser adds the text in a small file. The purpose of a cookie is to help us analyse web traffic or let us know when you visit a particular site.
 
@@ -80,3 +203,13 @@ In this case, The Namibian uses this information only for statistical analysis p
 Overall, cookies help us give you a better web site to use, by letting us monitor what's working and what isn't through site traffic analysis. The Namibian wants to be sure you understand that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you chose to share with us. This practice is strictly enforced. We know that a lot of people have concerns about cookies, but in talking with many of our customers, we believe that the benefit we both gain from their proper use is worthwhile. We value the relationships we have with our customers, so we respect these concerns. The Namibian works to continuously improve the www.namibian.com.na web experience and personal data privacy policy and practices.
 
 You may set your web browser (MicroSoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely. You can delete the files that contains cookies; those files are stored as part of your internet browser.
+
+  
+
+
+* * *
+
+  
+
+
+* * *
