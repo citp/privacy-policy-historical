@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204065540id_/http%3A//try.linkresearchtools.com/hs-fs/hub/452968/file-2399011484-pdf/LinkResearchTools-Privacy-Statement-20150126-EN.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327124916id_/http%3A//www.linkresearchtools.com/wp-content/uploads/2015/12/LinkResearchTools-Privacy-Statement-20150126-EN.pdf) for the most accurate reproduction.*
 
 # 
 
