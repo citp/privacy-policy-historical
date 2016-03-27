@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219110747id_/http%3A//magesy.me/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327090750id_/http%3A//magesy.me/policy.html) for the most accurate reproduction.*
 
 # Magesy - Privacy Policy
 
