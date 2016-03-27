@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachersday2015.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907220942id_/http%3A//teachersday2015.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachersday2015.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328015545id_/http%3A//teachersday2015.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Happy Teachers Day, 2015, Quotes, Speech, Poems, Wishes, Messages
+# Privacy Policy | Happy Teachers Day, 2016, Quotes, Speech, Poems, Wishes, Messages
 
 This Privacy Policy governs the manner in which Happy Teachers Day collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://teachersday2015.com](http://teachersday2015.com/) website (“Site”).
 
@@ -72,9 +72,3 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on September 01, 2015
-
-#### Incoming search terms:
-
-  * [teachers day speech in marathi brouncer](http://teachersday2015.com/privacy-policy "teachers day speech in marathi brouncer")
-
-
