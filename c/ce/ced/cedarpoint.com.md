@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055106id_/https%3A//www.cedarpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarpoint.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327123329id_/https%3A//www.cedarpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Cedar Point | Cedar Point
 
@@ -24,11 +24,11 @@ _If you are purchasing a Season Pass for a child under the age of 13 you must ei
 
   
      **-   Signing Up For Our Newsletter**  
-Many of our Sites provide you with an opportunity to sign up to receive updates through our newsletter. When you sign up for a newsletter, we will ask for certain personally identifiable information, such as your name, email address, phone number, date of birth, gender and street address. This information is stored by us and used to send you our newsletter. We may also use the information to contact you about other activities, events or products that you we believe you may be interested in. You can opt out of receiving our newsletters at any time by clicking the “unsubscribe” link that is included in every email.
+Many of our Sites provide you with an opportunity to sign up to receive updates through our newsletter. When you sign up for a newsletter, we will ask for certain personally identifiable information, such as your name, email address, phone number, date of birth, gender and street address. This information is stored by us and used to send you our newsletter. We may also use the information to contact you about other activities, events or products that we believe you may be interested in. You can opt out of receiving our newsletters at any time by clicking the “unsubscribe” link that is included in every email.
 
   
      **-   Booking Accommodations**  
-Certain of the Sites allow you to book accommodations at one or our hotels or resorts. To complete your reservation, we require you to provide certain information, including your, name, phone number, email address, street address and Billing Information (your “ _ **Reservation Data**_ ”). If you pay for your accommodations online or use a credit card to pay in person, we use a third-party credit card processor to process the credit card transaction (see “ _Third-Party Payment Processors_ ” below). We store your Reservation Data, along with records of your communications with us and a history of your visits, in encrypted fashion on our servers. In addition, we maintain printed guest folios that include your Reservation Data, stay history and record of correspondence for a period of seven (7) years.
+Certain of the Sites allow you to book accommodations at one of our hotels or resorts. To complete your reservation, we require you to provide certain information, including your, name, phone number, email address, street address and Billing Information (your “ _ **Reservation Data**_ ”). If you pay for your accommodations online or use a credit card to pay in person, we use a third-party credit card processor to process the credit card transaction (see “ _Third-Party Payment Processors_ ” below). We store your Reservation Data, along with records of your communications with us and a history of your visits, in encrypted fashion on our servers. In addition, we maintain printed guest folios that include your Reservation Data, stay history and record of correspondence for a period of seven (7) years.
 
   
      **-   Contests and Promotions**  
