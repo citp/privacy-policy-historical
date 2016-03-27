@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bubbler.me privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207012715id_/http%3A//bubbler.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bubbler.me privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328001249id_/http%3A//bubbler.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -105,19 +105,24 @@
 							<div class="container-fluid">
 								<div class="page-header">
 									<h1>Login</h1>
-									<p style="color: red;">Logging in and registration is temporarily disabled due to works on improving Bubbler</p>
 								</div>
 								<form action="" method="post" name="login" role="form" id="loginForm">
+									<input type="hidden" name="method" value="update">
+									<input type="hidden" name="csrf" value="D0ZxRyotttQUcAVNMdrzvJLLWZkAxbouD0NIPohtlaoXPAm0bd7egACsetDHU70v">
 									<div class="form-group">
-										<label for="loginEmail">Username or Email</label>
-										<input type="text" class="form-control" id="loginEmail" placeholder="Username or Email" name="username" disabled="">
+										<label for="login-email">Email address</label>
+										<input type="email" class="form-control" id="login-email" placeholder="Email" name="login[email]">
 									</div>
 									<div class="form-group">
-										<label for="loginPassword">Password</label>
-										<input type="password" class="form-control" id="loginPassword" placeholder="Password" name="password" disabled="">
+										<label for="login-password">Password</label>
+										<input type="password" class="form-control" id="login-password" placeholder="Password" name="login[password]">
 									</div>
-									<hr>
-									<button type="submit" class="btn btn-primary" disabled="disabled">Login</button>
+									<div class="checkbox">
+										<label>
+											<input type="checkbox" name="login[remember]"> Remember me on this device
+										</label>
+									</div>
+									<button type="submit" class="btn btn-primary">Login</button>
 								</form>
 							</div>
 						</div>
@@ -127,28 +132,32 @@
 							<div class="container-fluid">
 								<div class="page-header">
 									<h1>Register</h1>
-									<p style="color: red;">Logging in and registration is temporarily disabled due to works on improving Bubbler</p>
 								</div>
 								<form action="" method="post" name="register" role="form" id="registerForm">
+									<input type="hidden" name="method" value="create">
+									<input type="hidden" name="csrf" value="D0ZxRyotttQUcAVNMdrzvJLLWZkAxbouD0NIPohtlaoXPAm0bd7egACsetDHU70v">
 									<div class="form-group">
-										<label for="registerUsername">Username</label>
-										<input type="text" class="form-control" id="registerUsername" placeholder="Username" name="username" disabled="">
+										<label for="register-username">Username</label>
+										<input type="text" class="form-control" id="register-email" placeholder="Username" name="register[username]">
 									</div>
 									<div class="form-group">
-										<label for="registerEmail">Email</label>
-										<input type="email" class="form-control" id="registerEmail" placeholder="Email" name="email" disabled="">
-
+										<label for="register-displayname">Display name</label>
+										<input type="text" class="form-control" id="register-displayname" placeholder="Display Name" name="register[displayname]">
 									</div>
 									<div class="form-group">
-										<label for="registerPassword">Password</label>
-										<input type="password" class="form-control" id="registerPassword" placeholder="Password" name="password" disabled="">
+										<label for="register-email">Email address</label>
+										<input type="email" class="form-control" id="register-email" placeholder="Email" name="register[email]">
 									</div>
 									<div class="form-group">
-										<label for="registerPasswordConfirm">Confirm Password</label>
-										<input type="password" class="form-control" id="registerPasswordConfirm" placeholder="Confirm Password" name="passwordc" disabled="">
+										<label for="register-password">Password</label>
+										<input type="password" class="form-control" id="register-password" placeholder="Password" name="register[password]">
 									</div>
-									<hr>
-									<button type="submit" class="btn btn-primary" disabled="disabled">Register</button>
+									<div class="form-group">
+										<label for="register-passwordc">Confirm password</label>
+										<input type="password" class="form-control" id="register-passwordc" placeholder="Confirm password" name="register[passwordc]">
+									</div>
+									<div class="g-recaptcha" data-sitekey="6Lc7cQsTAAAAALS_X7_t4z43fHdos0t6qliM7Gaf"></div>
+									<button type="submit" class="btn btn-primary">Register</button>
 								</form>
 							</div>
 						</div>
@@ -231,6 +240,7 @@
 <script src="http://bubbler.me/js/bootstrap.min.js"></script>
 <script src="http://bubbler.me/js/formValidation.min.js"></script>
 <script src="http://bubbler.me/js/formValidation.bootstrap.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <div class="footer-navbar">
 	<div class="container">
 		<nav class="navbar navbar-inverse navbar-static-top">
