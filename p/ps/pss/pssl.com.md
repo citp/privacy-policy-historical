@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327133615id_/http%3A//www.pssl.com/lp/help.rsp%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pssl.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327025748id_/http%3A//www.pssl.com/lp/help.rsp%23Privacy) for the most accurate reproduction.*
 
-# PSSL.com - Company Information | ProSound And Stage Lighting
+# PSSL.com - Company Information | ProSound and Stage Lighting
 
 Help from our Customer Care Center
 
@@ -10,7 +10,7 @@ Index
 
 "I've been a professional DJ/MC for over 26 years. I have always relied on ProSound And Stage Lighting for all of my audio and lighting needs. The staff at PSSL are friendly and very knowledgeable. I recommend PSSL to all my colleagues in the industry!"
 
-**Bill - Long Beach, CA**                [View more testimonials...](http://www.pssl.com/testimonials)
+**Bill - Long Beach, CA**                [View more testimonials...](https://www.pssl.com/testimonials)
 
 Contact us
 
@@ -35,8 +35,8 @@ Outside the USA: |   | 1-714-891-6375
   
 |    
   
-|    
-|  **Visit Our Will Call center:**  
+|   
+| **Visit Our Will Call center:**  
 ---|---  
 | 
 
@@ -58,7 +58,7 @@ ProSound And Stage Lighting (PSSL or PSSL.com as we have become to be known) has
 
 "PSSL.com has always helped me in making the right decision in purchasing the latest in sound technology. Our company produces music programs for the fitness industry as well as mobile event services. Because of the great deals, support and service, I am always on target when it comes to creating cutting edge music programs. My clients demand only the best in music. With PSSL.com by my side, I can't fail!"
 
-**Brian - Los Angeles, CA**                [View more testimonials...](http://www.pssl.com/testimonials)
+**Brian - Los Angeles, CA**                [View more testimonials...](https://www.pssl.com/testimonials)
 
 How to Shop PSSL.com
 
@@ -68,7 +68,7 @@ Sorting through 1000's of products is no easy task. That's why we have 4 easy wa
 
 **Browse:** Use our browsing tool to help you narrow down your search by product, brand name, category, clearance or sale product. The drop downs will direct you towards the item or information you are looking for.
 
-**Quick Shop:** If you know the specific items you want to purchase, including the item numbers, you can simply click on the Shopping Cart, enter the item numbers in the [Quick Shop](http://www.pssl.com/Cart) area and quickly proceed to the check out. This is the most convenient shopping method for our Catalog shoppers.
+**Quick Shop:** If you know the specific items you want to purchase, including the item numbers, you can simply click on the Shopping Cart, enter the item numbers in the [Quick Shop](https://www.pssl.com/Cart) area and quickly proceed to the check out. This is the most convenient shopping method for our Catalog shoppers.
 
 **Call Us: 800-268-5520:** Our Customer Care Center will take your order over the phone, assist you in finding the product you are looking for and help you order on-line, by mail or by fax. Download faxable mail-order form in [Word](https://web.archive.org/c/OrderForms/PSSLOrderForm0409.doc) format or [Acrobat](https://web.archive.org/c/OrderForms/PSSLOrderForm0409.pdf) format.
 
@@ -84,7 +84,7 @@ Download faxable mail-order form in [Word](https://web.archive.org/c/OrderForms/
 
 "You always have the greatest customer service and the best equipment at the most competitive prices. No matter where I am in the world I always know where I will get my equipment from, PSSL.com. "
 
-**Rob - Chester, VA**                [View more testimonials...](http://www.pssl.com/testimonials)
+**Rob - Chester, VA**                [View more testimonials...](https://www.pssl.com/testimonials)
 
 Shopping Cart
 
@@ -112,21 +112,23 @@ Our website uses cookies to store information between visits. Cookies are a mech
 
 Payment Options
 
-**Credit Cards:** We gladly accept Visa, Master Card, American Express, and Discover, with verifiable shipping address. For your protection, orders are sent only to the billing address of the cardholder. Special arrangements may be made for orders that need to ship to an alternate address. Credit cards are not charged until your order is shipped.
+**Credit Cards:** We gladly accept Visa, Master Card, American Express, and Discover, with verifiable shipping address. For your protection, orders are sent only to the billing address of the cardholder. Special arrangements may be made for orders that need to ship to an alternate address. Credit cards are not charged until your order is shipped. 
 
-**Checks & Money Orders:** Preprinted personal and business check orders can be shipped immediately upon verification approval. Other check orders are held for up to 14 days. Verifiable U.S. Bank cashiers checks and United States Postal Service money orders are shipped immediately. Other money orders are held for up to 14 days.
+**Checks & Money Orders:** Preprinted personal and business check orders can be shipped immediately upon verification approval. Other check orders are held for up to 14 days. Verifiable U.S. Bank cashiers checks and United States Postal Service money orders are shipped immediately. Other money orders are held for up to 14 days. 
 
-**Western Union Quick Pay:** You can quickly and easily wire us your payment by visiting any one of 17,000 Western Union offices worldwide. Same day transfers of up to $5,000 are only $12.95. Your order will ship the same day when we receive the transfer by 2 PM (Pacific time). Click [here](http://www.westernunion.com/info/agentInquiryIntl.asp?POPUP=true&PAGE_NAME=homePage#) to find the Western Union location nearest you.
+**Wire Transfer:** You can quickly and easily wire us your payment by requesting our Electronic Funds Transfer information. By choosing this option, we will hold and prepare your order. Simply continue the checkout process and note your order number (given at end of process). We will be notified of your request and will contact you to supply the account information. Funds transfers are generally received the same day but can take up to 72 hours to receive. 
 
-**Purchase Orders:** For the convenience of our larger businesses; institutional and government customers, purchase orders will be accepted on D&B (Dun and Bradstreet) approved businesses. Orders can be placed by phone providing a confirming fax or mailed copy of the purchase order is received. Minimum $100 for first time PO's. Call 1-800-678-9700 or [email](http://www.pssl.com/email) our Institutional/Government Sales department.
+**Purchase Orders:** For the convenience of our larger businesses; institutional and government customers, purchase orders will be accepted on D&B (Dun and Bradstreet) approved businesses. Orders can be placed by phone providing a confirming fax or mailed copy of the purchase order is received. Minimum $100 for first time PO's. Call 1-800-678-9700 or [email](https://www.pssl.com/email) our Institutional/Government Sales department. 
 
-**Business Leasing** Why tie up your business cash when you can make low monthly payments? Please call 1-800-268-5520 or [email](http://www.pssl.com/email) for information. Leasing for business use may be available on systems $5,000 and more.
+**Business Leasing:** Why tie up your business cash when you can make low monthly payments? Visit our [Leasing/Financing page](https://www.pssl.com/Financing) to learn more. Or you can call us at 1-800-268-5520 or [email](https://www.pssl.com/Contact) for information. Leasing for business use may be available on systems $5,000 and more. 
 
-**Layaway:** We're happy to work with you on layaway's. Give us a ring to let us know the gear that you're interested in. Have other Payment Questions? [Email](http://www.pssl.com/email) us or you can also download a faxable mail-order form in [Word](http://www.pssl.com/c/OrderForms/PSSLOrderForm0409.doc) format or [Acrobat](http://www.pssl.com/c/OrderForms/PSSLOrderForm0409.pdf) format. 
+**Paypal Credit** : With Pay Pal Credit (formerly Bill Me Later), you have the flexibility to pay for your purchases over time or all at once. Visit our [Leasing/Financing page](https://www.pssl.com/Financing) to learn more. 
+
+**Layaway:** We're happy to work with you on layaway's. Give us a ring to let us know the gear that you're interested in. Have other Payment Questions? [Email](https://www.pssl.com/email) us or you can also download a faxable mail-order form in [Word](https://www.pssl.com/c/OrderForms/PSSLOrderForm0409.doc) format or [Acrobat](https://www.pssl.com/c/OrderForms/PSSLOrderForm0409.pdf) format. 
 
 Gift Certificates
 
-So you want to give the "gift of music" but you're not sure where to start. Those DJ's and musicians can be so particular so give them the gift of CHOICE with a PSSL.com gift certificate. That way you'll be giving them EXACTLY what they need and precisely what they want because THEY pick it out. Gift certificates are available in most any denomination and can be redeemed by phone or through the mail. So pick up a few today and we'll deliver your gift certificate to the destination of your choice in 3 business days. [Click here to see our gift certificates](http://www.pssl.com/gift-certificates). 
+So you want to give the "gift of music" but you're not sure where to start. Those DJ's and musicians can be so particular so give them the gift of CHOICE with a PSSL.com gift certificate. That way you'll be giving them EXACTLY what they need and precisely what they want because THEY pick it out. Gift certificates are available in most any denomination and can be redeemed by phone or through the mail. So pick up a few today and we'll deliver your gift certificate to the destination of your choice in 3 business days. [Click here to see our gift certificates](https://www.pssl.com/gift-certificates). 
 
 International Orders Terms and Conditions
 
@@ -134,7 +136,7 @@ International Orders Terms and Conditions
 
 **Prices and Exchange Rate:** Prices shown in currencies other than US Dollars are estimates based on current exchange rates. We will charge your credit card in US Dollars on the day your order is shipped, and the conversion to your local currency will be done at the prevailing rate by your credit card issuer.
 
-**Payment:** All payments must be received in U.S. dollars. We accept money orders, wire transfers, Western Union and preprinted checks. **We do not accept international credit cards**.
+**Payment:** All payments must be received in U.S. dollars. We accept money orders, wire transfers and preprinted checks. **We do not accept international credit cards**.
 
 **U.S. Power / Voltage:** Products are U.S. models and may have power/voltage requirements different from that of the destination country..
 
@@ -166,13 +168,13 @@ All other US Territories
 
 **
 
-For other payment options, shipping questions or other assistance placing an order, please [e-mail](http://www.pssl.com/email) or call 714-891-5914 or fax 714-891-6375. 
+For other payment options, shipping questions or other assistance placing an order, please [e-mail](https://www.pssl.com/email) or call 714-891-5914 or fax 714-891-6375. 
 
 110% Low Price Guarantee
 
 PSSL.com guarantees low prices on everything we carry*. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention.
 
-If you've already purchased from us and find a lower advertised price within 30 days of your purchase, contact us via [e-mail](http://www.pssl.com/email) or phone and we'll refund 110% of the difference after verification. Limit of one refund per item. Our price match guarantee doesn't apply to closeout items, out of stock items, or pricing from PSSL.com.
+If you've already purchased from us and find a lower advertised price within 30 days of your purchase, contact us via [e-mail](https://www.pssl.com/email) or phone and we'll refund 110% of the difference after verification. Limit of one refund per item. Our price match guarantee doesn't apply to closeout items, out of stock items, or pricing from PSSL.com.
 
 * This guarantee does not apply to discontinued items or special order items. Offer not valid for auction or member-only web sites, used or refurbished items and does not include shipping charges. Guarantee does not apply to Apple products. Guarantee not available to dealers, distributors or their family members or their employees. 
 
@@ -184,7 +186,7 @@ There are three types of promotional offers available: a monetary rebate, a gift
 
 For monetary rebates we display both the price you'll pay for the item and your final net price after you claim your rebate.
 
-It's best to print Mail-In offer coupons from our Web site at the time you make your purchase--just click the See details link on the item's product detail page. For Mail-In rebates, please print, fill out, and mail the rebates to the specified address. Most Mail-In offers require that you send in the original or a copy of the UPC barcode; be sure to keep the item's packaging until the rebate arrives. If you need a receipt to enclose with the form, print an invoice for your order by clicking the ["My Account"](http://www.pssl.com/MyAccount) link at the top of our Web site and then selecting "Order History and Status" link. Choose the correct order and choose the "View Details" link, then print. If you have a manufacturer's offer, please contact the manufacturer to check the status. To see a list of current rebate offers [click here](http://www.pssl.com/Rebates). 
+It's best to print Mail-In offer coupons from our Web site at the time you make your purchase--just click the See details link on the item's product detail page. For Mail-In rebates, please print, fill out, and mail the rebates to the specified address. Most Mail-In offers require that you send in the original or a copy of the UPC barcode; be sure to keep the item's packaging until the rebate arrives. If you need a receipt to enclose with the form, print an invoice for your order by clicking the ["My Account"](https://www.pssl.com/MyAccount) link at the top of our Web site and then selecting "Order History and Status" link. Choose the correct order and choose the "View Details" link, then print. If you have a manufacturer's offer, please contact the manufacturer to check the status. To see a list of current rebate offers [click here](https://www.pssl.com/Rebates). 
 
 Shipping
 
@@ -208,17 +210,17 @@ Freight Truck (oversized items marked with * Must Ship Via Truck)
 2nd Day Air (Please allow an additional 24 hours for delivery)  
 Next Day Air (Please allow an additional 24 hours for delivery)  
 USPS PO Box - FPO/APO Parcel Post  
-Air Freight (oversized items marked with * Must Ship Via Truck). Please call us at 1-800-268-5520 or [email us](http://www.pssl.com/email) for a quote.
+Air Freight (oversized items marked with * Must Ship Via Truck). Please call us at 1-800-268-5520 or [email us](https://www.pssl.com/email) for a quote.
 
 Heavier items are identified with the words "Must Ship Via Truck" in our product displays. These items may increase your shipping charges.
 
-Need to ship to other International destinations? Call us at 1-800-268-5520, 1-714-891-5914 outside the USA or [email us](http://www.pssl.com/email).
+Need to ship to other International destinations? Call us at 1-800-268-5520, 1-714-891-5914 outside the USA or [email us](https://www.pssl.com/email).
 
 **Shipments to Alaska and Hawaii:** Shipments to Alaska and Hawaii are shipped via Next Day Air or Second Day Air service. Please allow an additional 24 hours for delivery. Please call 800-268-5520 for shipping quotes on oversized items.
 
-See [International Orders](http://www.pssl.com/lp/help.rsp#InternationalOrders) for information on shipping.
+See [International Orders](https://www.pssl.com/help#InternationalOrders) for information on shipping.
 
-Have other shipping questions? Call us at 1-800-268-5520, 1-714-891-5914 outside the USA or [email us](http://www.pssl.com/email).
+Have other shipping questions? Call us at 1-800-268-5520, 1-714-891-5914 outside the USA or [email us](https://www.pssl.com/email).
 
 Taxes
 
@@ -226,15 +228,15 @@ PSSL.com does not collect sales tax on purchases except in California. CA reside
 
 Returns and Exchanges
 
-If you are not completely satisfied with your purchase from PSSL.com, simply return it to us within 30 days of the invoice date for a refund or exchange*. It is important to [email](http://www.pssl.com/email) or call 800-268-5520 for a return authorization number. Re-pack the item in new condition. Please **double box** item including its original packaging (including all inserts, manuals and accessories) and send it back to us. Products in perfect "like new" condition will receive an exchange or refund for the full merchandise value (less shipping and handling). On defective items, we will gladly pay the shipping charges to return it to us.
+If you are not completely satisfied with your purchase from PSSL.com, simply return it to us within 30 days of the invoice date for a refund or exchange*. It is important to [email](https://www.pssl.com/email) or call 800-268-5520 for a return authorization number. Re-pack the item in new condition. Please **double box** item including its original packaging (including all inserts, manuals and accessories) and send it back to us. Products in perfect "like new" condition will receive an exchange or refund for the full merchandise value (less shipping and handling). On defective items, we will gladly pay the shipping charges to return it to us.
 
 ***Return And Exchange Exceptions:** No returns or exchanges on computers, Apple products, CD or DVD duplicators, clothing, lamps, bulbs, opened effects juice, gels, videos, cartridges, styluses, carpet, LPs, CDs, bulk-cable, blank cassettes and CDs, slipmats, software, microphones, headphones, mouth pieces or any other expendable supplies. **No refunds:** On bubble, haze or fog machines or lighting equipment. They may be exchanged for same or greater value of the same type of item. THERE IS NO CREDIT FOR SHIPPING AND HANDLING FEES. All approved returns must be in new condition with all original boxes, accessories and packaging, or they will be subject to a minimum 25% restocking fee. Any returns unclaimed for over 30 days will be discarded. Gear that has been rack mounted, damaged gear due to misuse and any product that looks used and cannot be re-sold as new, will automatically be evaluated for a minimum 25% restocking fee. All returns will be processed within 72 hours of receipt.
 
-You can [email](http://www.pssl.com/email) or call us with your questions, comments or concerns at any time. 
+You can [email](https://www.pssl.com/email) or call us with your questions, comments or concerns at any time. 
 
 Factory Trained Sales Advisors
 
-Our sales representatives have hands-on experience with our gear and can help you with questions. Not interested in the technical details? No problem. Just [email](http://www.pssl.com/email) or give us a call 800-268-5520. Your sales representative will simply ask you a few questions about what you'd like your gear or system to do. You'll get great advice on how to select the gear that meets your needs. 
+Our sales representatives have hands-on experience with our gear and can help you with questions. Not interested in the technical details? No problem. Just [email](https://www.pssl.com/email) or give us a call 800-268-5520. Your sales representative will simply ask you a few questions about what you'd like your gear or system to do. You'll get great advice on how to select the gear that meets your needs. 
 
 Free After-Your-Purchase Tech Support
 
@@ -245,10 +247,10 @@ As a professional, you rely on your equipment to help you do your job. Don't get
 Extended Protection Plans
 
 **Why do I need this?**  
-[Extended Protection Plans](http://www.pssl.com/Warranty) provide you with easy protection from potentially high future repair costs. Planning ahead and taking action now can save you the stress of dealing with unqualified servicers should your product become defective. Saving time and money is in everybody's best interests. We are here for you.
+[Extended Protection Plans](https://www.pssl.com/Warranty) provide you with easy protection from potentially high future repair costs. Planning ahead and taking action now can save you the stress of dealing with unqualified servicers should your product become defective. Saving time and money is in everybody's best interests. We are here for you.
 
 **What is covered?**  
-[Extended Protection Plans](http://www.pssl.com/Warranty) are extensions of your manufacturers' written warranty a few added bonus features. Any malfunctions that would normally be covered within the terms and conditions of the original written warranty would be covered through the life of the [Extended Protection Plan](http://www.pssl.com/Warranty). "Our Shield Means You're Protected".
+[Extended Protection Plans](https://www.pssl.com/Warranty) are extensions of your manufacturers' written warranty a few added bonus features. Any malfunctions that would normally be covered within the terms and conditions of the original written warranty would be covered through the life of the [Extended Protection Plan](https://www.pssl.com/Warranty). "Our Shield Means You're Protected".
 
 **Benefits of Owning an Extended Protection Plan**
 
@@ -280,9 +282,9 @@ Order Status and Tracking
 Providing the items you ordered are in stock, you will receive a shipping confirmation email within 24 hours of placing your order. This email will provide you with the shipping confirmation numbers necessary to track your order.
 
 If you did not provide us with an email address, please keep your Order Confirmation number readily available from time of purchase. Our Customer Care Center will be able to track your package for you.  
-Just [email](http://www.pssl.com/email) or call 800-268-5520.
+Just [email](https://www.pssl.com/email) or call 800-268-5520.
 
-You can view your order status at anytime by visiting the [Order Status](http://www.pssl.com/MyAccount/OrdHistory.rsp) link at the top of our Web site. 
+You can view your order status at anytime by visiting the [Order Status](https://www.pssl.com/MyAccount/OrdHistory.rsp) link at the top of our Web site. 
 
 Free Catalog
 
@@ -290,7 +292,7 @@ The PSSL.com catalog is packed with the best Pro Audio, Recording, DJ Gear, Pro 
 
 Email Newsletters
 
-Sign up for our E-Newsletters and be the first to know about exclusive red-hot deals, new products, tech tips and in-depth product reviews. To sign up [click here](https://web.archive.org/catalog), to unsubscribe or change your Personal Marketing Preferences [click here](http://www.pssl.com/MyAccount/Account.rsp). 
+Sign up for our E-Newsletters and be the first to know about exclusive red-hot deals, new products, tech tips and in-depth product reviews. To sign up [click here](https://web.archive.org/catalog), to unsubscribe or change your Personal Marketing Preferences [click here](https://www.pssl.com/MyAccount/Account.rsp). 
 
 The Buck Stops Here
 
@@ -298,7 +300,7 @@ As a PSSL.com customer, if you are dissatisfied for any reason, please write, em
 
 Privacy
 
-Your privacy is very important to us. Please be assured that your e-mail address and phone number will never be sold, rented or shared - period! If you would like to cancel your email newsletter and or free catalog subscription, just give us a call or update your [personal email and mail preferences](http://www.pssl.com/MyAccount/Account.rsp).
+Your privacy is very important to us. Please be assured that your e-mail address and phone number will never be sold, rented or shared - period! If you would like to cancel your email newsletter and or free catalog subscription, just give us a call or update your [personal email and mail preferences](https://www.pssl.com/MyAccount/Account.rsp).
 
 At PSSL.com we protect your privacy as if it were our own. We use the information you provide to us for six purposes only: to process your order(s), to reply to your questions, provide our newsletter via email, to provide our print catalog via postal mail, to facilitate a transaction you chose to enter into with our third party partner(s) and to incorporate your feedback into improvements to our Web site. We will not give, sell, or rent your personal information, including email address, or specific account activity to anyone for any reason without your prior consent except as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
@@ -332,7 +334,7 @@ Cypress, CA 90630
 
 Phone: 1-800-268-5520  
 Fax: 1-888-777-5329  
-To email: [Click here](http://www.pssl.com/email)
+To email: [Click here](https://www.pssl.com/email)
 
 General Terms & Conditions
 
@@ -358,10 +360,10 @@ General Terms & Conditions
 
 **We Guarantee Your Total Satisfaction.** With more than 30 years of helping outfit music professionals across the globe, our guarantee is more than just words. Our Exclusive 5-Star  Guarantee makes it easy, convenient, and safe for you to shop at PSSL.com 24 hours a day, seven days a week. We are so sure that we are the best place to buy Pro gear at discounted prices, that we guarantee it. We stand behind the finest quality, selection, service, and security available online today. **Your total satisfaction is our top priority.**
 
-  1. **Huge Selection - 1000's of products In Stock!** In addition to most orders shipping the same day they're placed (by 2pm PST), PSSL.com has one of the largest selections of professional equipment available anywhere. In addition to having the top sellers, our buyers work diligently to search out and discover unique hard to find items. In addition, if there's a product you are looking for, we'll search for that item, or a comparable product and will try to make it available to you at significant savings! Just [email](http://www.pssl.com/email) us or give us a call 800-268-5520.
+  1. **Huge Selection - 1000's of products In Stock!** In addition to most orders shipping the same day they're placed (by 2pm PST), PSSL.com has one of the largest selections of professional equipment available anywhere. In addition to having the top sellers, our buyers work diligently to search out and discover unique hard to find items. In addition, if there's a product you are looking for, we'll search for that item, or a comparable product and will try to make it available to you at significant savings! Just [email](https://www.pssl.com/email) us or give us a call 800-268-5520.
   2. **Hassle Free Returns** Nearly all of your purchases at PSSL.com are covered by our 30-day return program (some exclusions apply, see our return and exchange program details). We also pledge a 24-hour response time (Monday through Friday) on your e-mail requests. Our specially-trained staff of Sales Advisors and Customer Service Representatives are available via our toll-free number 800-268-5520 or by email.
   3. **Free Tech Support from Factory Trained Sales Advisors** Our sales representatives have hands-on experience with our gear and can help you with your questions before and after your purchase. You'll get great advice on how to select the gear that meets your needs, then PSSL.com's Sales Advisors are available to help you set up and use anything you've purchased from us.
-  4. **110% Price Guarantee** PSSL.com guarantees low prices on everything we carry. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention (both before and after the sale). Click [here](http://www.pssl.com/lp/help.rsp#LowPrice) for details
+  4. **110% Price Guarantee** PSSL.com guarantees low prices on everything we carry. If you should see a lower price from another authorized U.S. dealer on an identical item, even if it's an "advertised special," we'll not only meet that price, we'll beat it by 10% of the difference to thank you for bringing it to our attention (both before and after the sale). Click [here](https://www.pssl.com/help#LowPrice) for details
   5. **Authorized Dealer** As a professional, you rely on your equipment to help you do your job. Don't get caught without your valuable factory warranty. PSSL.com is an Authorized Retailer for every brand we offer. That means you can count on the warranty for your equipment being honored. Plus, it means our experts receive thorough, ongoing training direct from the manufacturers. So, you can count on PSSL.com for expert advice and support before and after you make your purchase. You may find a great deal that's too good to be true, but chances are it's not from an authorized dealer and your warranty could be void. With PSSL.com, your valuable manufactures warranty is guaranteed.
 
 
