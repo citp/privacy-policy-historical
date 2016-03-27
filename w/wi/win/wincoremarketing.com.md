@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincoremarketing.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127150600id_/http%3A//wincoremarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincoremarketing.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327112147id_/http%3A//wincoremarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for WinCoreMarketing.com
 
