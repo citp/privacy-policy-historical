@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140018id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327013146id_/http%3A//www.crabtree-evelyn.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 06/18/2015 
+Last Updated: 12/16/2015 
 
 At Crabtree & Evelyn we understand and respect your concerns about the privacy and security of your personal information. We are committed to maintaining and using your information responsibly. We collect information for one reason - to help serve you better.
 
@@ -15,6 +15,8 @@ Please take a moment to read our Privacy Policy. It explains what types of infor
   * What choices do I have?
   * What about links to other websites?
   * How is my personal information protected?
+  * Do you collect information from children?
+  * How do you respond to Do Not Track signals?
   * Your California Privacy Rights.
 
 
@@ -35,23 +37,21 @@ We collect personally identifiable information that you provide, such as your na
 
 
 
-We do not knowingly collect information from children under the age of 13.
-
 #### Do you use cookies or pixel tags?
 
 Like most websites, the Site employs various types of technology, including cookies and pixel tags, that receive and store information when you interact with the Site.
 
-Cookies are small files that are stored by your browser on your computer when you visit a website. They enable you to shop on the Site and are used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, we use cookies to remember what items are in your shopping cart, to recognize you when you return to the Site, to study how customers navigate the Site, and to deliver personalized marketing. Cookies do not store personally identifiable information. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive but, if you do, you will not be able to access or use portions of the Site. Consult your browser's 'help' section for instructions on how to disable cookies. You can learn more about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
+Cookies are small files that are stored by your browser on your computer when you visit a website. They enable you to shop on the Site and are used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, we use cookies to remember what items are in your shopping cart, to recognize you when you return to the Site, to study how customers navigate the Site, and to deliver personalized marketing. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive but, if you do, you will not be able to access or use portions of the Site. Consult your browser's 'help' section for instructions on how to disable cookies. You can learn more about cookies at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 Pixel tags (also called web beacons) are tiny graphic images on the Site and in our emails. They assist in delivering cookies and help us determine whether a specific action has been taken, like viewing a web page on the Site or opening an email. 
 
-We also may allow other companies to collect anonymous information when you interact with the Site to serve ads on behalf of us and others across the Internet. These companies typically use industry-standard technology like cookies and pixel tags to collect non-personally identifiable information such as products you viewed. To learn more, please visit [http://www.aboutads.info](http://www.aboutads.info/).
+We also may allow other companies to collect information when you interact with the Site to serve ads on behalf of us and others across the Internet. These companies typically use industry-standard technology like cookies and pixel tags to collect information such as products you viewed. To learn more, please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
 #### Disclosure as to Google Analytics Features
 
 We have enabled and use on the Site applications available from Google, termed Google Analytics Advertising Features. These include: Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google AdWords. These Advertising Features work together with cookies and cookie technology.
 
-The Advertising Features collect specific visitor cookie data, such as the source, medium, and keyword used to visit the Site, and other information, such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics only to improve this Site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information.
+The Advertising Features collect specific visitor cookie data, such as the source, medium, and keyword used to visit the Site, and other information, such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics only to improve this Site. Google Analytics collects only the IP address assigned to you on the date you visit this Site.
 
 We use Remarketing with Google Analytics in conjunction with Google AdWords to display content specific advertisements to visitors that have previously visited our Site when those visitors go to other websites that have the Google Display Network implemented.
 
@@ -101,6 +101,14 @@ For your convenience, the Site may include links which will take you to other we
 #### How is my personal information protected?
 
 We maintain administrative, technical, and physical safeguards to protect your information. Also, for your security, we do not store your credit card or debit card information.
+
+#### Do you collect personal information from children?
+
+Our Site is not directed at children and we do not knowingly collect personal information from children under the age of 13 without verifiable parental consent. If we learn that a child under the age of 13 has submitted personal information online without verifiable parental consent, we will take all reasonable measures to delete such information and to not use it for any purpose (except as necessary to protect the safety of the child or others as required or permitted by law). If you become aware of any personal information we have collected from children under 13, please contact us.
+
+#### How do you respond to Do Not Track signals? 
+
+Do Not Track (DNT) is a privacy preference that users can set in some web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals and therefore, we do not recognize DNT. 
 
 #### Your California Privacy Rights.
 
