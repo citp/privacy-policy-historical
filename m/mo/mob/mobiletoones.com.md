@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930223904id_/https%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327023136id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Toones
 
-> [Home](https://www.mobiletoones.com/) > Privacy Policy 
+> [Home](http://www.mobiletoones.com/) > Privacy Policy 
 
 MobileToones.com values the users of our website. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("MobileToones.com Services").   
 To understand how we treat the information you give us as you use Mobile Toones, you should read this policy. 
