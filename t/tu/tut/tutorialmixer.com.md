@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialmixer.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429155355id_/http%3A//www.tutorialmixer.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialmixer.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327105419id_/http%3A//www.tutorialmixer.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ We adhere to the Children's Privacy Act. You must be 18 years of age to join or 
 
 ENFORCEMENT
 
-If for some reason you believe TutorialMixer.com has not adhered to these principles, please notify us at: http://membersupportsite.com/ , support @ TutorialMixer.com.com or by certified mail, return receipt requested, MemberSpeed, Inc 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States, Telephone 612-590-1467 and Facsimile 320-396-0046. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe TutorialMixer.com has not adhered to these principles, please notify us at: http://checkthisoutrightnow.net/support/ , support @ TutorialMixer.com.com or by certified mail, return receipt requested, Nonstop Info Publishing LLC. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 ELECTRONIC PRODUCT REGISTRATION 
 
