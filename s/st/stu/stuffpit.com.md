@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffpit.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220054048id_/http%3A//www.stuffpit.com/stuff/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffpit.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327061939id_/http%3A//www.stuffpit.com/stuff/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
