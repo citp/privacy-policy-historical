@@ -1,183 +1,150 @@
-<!--The following is the downloaded HTML source of the rollbar.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315031952id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rollbar.com privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328003343id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <meta charset="utf-8">
+<!DOCTYPE html><html class="no-js"><head>
+    
+  
+  <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/EjPSytCQjKkLitMZZFeOZftGIi8OVAAi/analytics.min.js"></script><script crossorigin="" src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.nojson.min.js"></script><script type="text/javascript">
+  var _rollbarConfig = {
+    globalAlias: "_rollbar",
+    rollbarJsUrl: "//d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.nojson.min.js",
+    accessToken: "326ccb82067342a69d9ed1c69b0c47c2",
+    captureUncaught: true,
+    uncaughtErrorLevel: "error",
+    endpoint: "https://api.rollbar.com/api/1/",
+    payload: {
+      environment: "production",
+      context: "about/privacy",
+      server: {
+        host: "dal05web2"
+      },
+      client: {
+        javascript: {
+          source_map_enabled: true,
+          code_version: "fee7d96ce431c462a73aa2de58f2f5469596844a",
+          guess_uncaught_frames: true
+        }
+      }
+    }
+  };
+  !function(r){function o(e){if(t[e])return t[e].exports;var n=t[e]={exports:{},id:e,loaded:!1};return r[e].call(n.exports,n,n.exports,o),n.loaded=!0,n.exports}var t={};return o.m=r,o.c=t,o.p="",o(0)}([function(r,o,t){"use strict";var e=t(1).Rollbar,n=t(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.8/rollbar.min.js";var a=e.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,o){"use strict";function t(r){return function(){try{return r.apply(this,arguments)}catch(o){try{console.error("[Rollbar]: Internal error",o)}catch(t){}}}}function e(r,o,t){window._rollbarWrappedError&&(t[4]||(t[4]=window._rollbarWrappedError),t[5]||(t[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,t),o&&o.apply(window,t)}function n(r){var o=function(){var o=Array.prototype.slice.call(arguments,0);e(r,r._rollbarOldOnError,o)};return o.belongsToShim=!0,o}function a(r){this.shimId=++s,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var o=a;return t(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var t=this,e="scope"===r;e&&(t=new o(this));var n=Array.prototype.slice.call(arguments,0),a={shim:t,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),e?t:void 0})}function l(r,o){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){var t=o.addEventListener;o.addEventListener=function(o,e,n){t.call(this,o,r.wrap(e),n)};var e=o.removeEventListener;o.removeEventListener=function(r,o,t){e.call(this,r,o&&o._wrapped?o._wrapped:o,t)}}}var s=0;a.init=function(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShimQueue=[],r._rollbarWrappedError=null,o=o||{};var i=new a;return t(function(){if(i.configure(o),o.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var t,a,s="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<s.length;++t)a=s[t],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return r[e]=i,i})()},a.prototype.loadFull=function(r,o,e,n,a){var i=function(){var o;if(void 0===r._rollbarPayloadQueue){var t,e,n,i;for(o=new Error("rollbar.js did not load");t=r._rollbarShimQueue.shift();)for(n=t.args,i=0;i<n.length;++i)if(e=n[i],"function"==typeof e){e(o);break}}"function"==typeof a&&a(o)},l=!1,s=o.createElement("script"),u=o.getElementsByTagName("script")[0],p=u.parentNode;s.crossOrigin="",s.src=n.rollbarJsUrl,s.async=!e,s.onload=s.onreadystatechange=t(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{p.removeChild(s)}catch(r){}l=!0,i()}}),p.insertBefore(s,u)},a.prototype.wrap=function(r,o){try{var t;if(t="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(o){throw o._rollbarContext=t()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._wrapped._isWrap=!0;for(var e in r)r.hasOwnProperty(e)&&(r._wrapped[e]=r[e])}return r._wrapped}catch(n){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),p=0;p<u.length;++p)a.prototype[u[p]]=i(u[p]);r.exports={Rollbar:a,_rollbarWindowOnError:e}},function(r,o){"use strict";r.exports=function(r,o){return function(t){if(!t&&!window._rollbarInitialized){var e=window.RollbarNotifier,n=o||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,e.processPayloads()}}}}]);
+  </script>
+
+  
+    <meta name="google-site-verification" content="nPf9fY-s7QK8Xvf_yEQn7EKKkp7lYEDuVwRie_9dGTg">
+    <meta name="msvalidate.01" content="044B6E018C2D806C378C09993CDEF8D5">
+
+  
+    <script src="//cdn.optimizely.com/js/2190651848.js"></script>
+
+  
+
+
+
     <title>Privacy Policy - Rollbar</title>
     
-    
-  <meta name="description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, and Flash libraries available.">
+  <meta name="description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, and iOS libraries available.">
   <meta name="keywords" content="error tracking, error reporting, exception tracking, log analysis, log monitoring, log aggregation, crash reporting, splunk alternative, airbrake alternative">
 
   <meta property="og:title" content="Rollbar">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://rollbar.com">
   <meta property="og:site_name" content="Rollbar">
-  <meta property="og:description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, and Flash libraries available.">
+  <meta property="og:description" content="Rollbar collects errors that happen in your application, notifies you, and analyzes them so you can debug and fix them. Ruby, Python, PHP, Node.js, JavaScript, Android, iOS libraries available.">
 
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    
-    <meta name="google-site-verification" content="nPf9fY-s7QK8Xvf_yEQn7EKKkp7lYEDuVwRie_9dGTg">
-    <meta name="msvalidate.01" content="044B6E018C2D806C378C09993CDEF8D5">
-
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
     
-
-
-    <!-- CSS -->
-    <link href="//d37gvrvc0wt4s1.cloudfront.net/static/css2/bootstrap.min.css?ts=1426292003v6" rel="stylesheet">
-    <link href="https://d37gvrvc0wt4s1.cloudfront.net/static/css2/stylesheet.min.css?ts=1426292003v6" rel="stylesheet">
-    <link href="//d37gvrvc0wt4s1.cloudfront.net/static/css2/custom.min.css?ts=1426292003v6" rel="stylesheet">
-    <style type="text/css">
-      body.heroku .navbar-fixed-top { margin-top: 33px; }
-      body.heroku { margin-top: 33px; }
-      .boomerang > .logo { background: none; }
-    </style>
-    <!-- End CSS -->
-
-    <link rel="icon" type="image/png" href="//d37gvrvc0wt4s1.cloudfront.net/static/img/favicon.ico?ts=1362039166v6">
-
+  
     
-  <script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.2/rollbar.min.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KMS6W7"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-  var _rollbarConfig = {
-    globalAlias: "_rollbar",
-    rollbarJsUrl: "//d37gvrvc0wt4s1.cloudfront.net/js/v1.2/rollbar.min.js",
-    accessToken: "326ccb82067342a69d9ed1c69b0c47c2",
-    captureUncaught: true,
-    endpoint: "https://api.rollbar.com/api/1/",
-    payload: {
-      environment: "production",
-      context: "about/privacy",
-      server: {
-        host: "dal05web1"
-      },
-      client: {
-        javascript: {
-          source_map_enabled: true,
-          code_version: "fdddbeb015108bafd299e5146dab6770d26f5699",
-          guess_uncaught_frames: true
-        }
-      }
-    }
-  };
-
-  !function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d,e){var f=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=h,e.parentNode.insertBefore(a,e)},this.logger),h=g(function(){var b;if(void 0===a._rollbarPayloadQueue){var c,d,f,g;for(b=new Error("rollbar.js did not load");c=a._rollbarShimQueue.shift();)for(f=c.args,g=0;g<f.length;++g)if(d=f[g],"function"==typeof d){d(b);break}}"function"==typeof e&&e(b)},this.logger);g(function(){c?f():a.addEventListener?a.addEventListener("load",f,!1):a.attachEvent("onload",f)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(d="function"==typeof c?c:function(){return c||{}},"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw c._rollbarContext=d(),c._rollbarContext._wrappedSource=b.toString(),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
-  </script>
-
-    
-
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    
+    <noscript>
+      <style>body{display:inherit !important;}</style>
+    </noscript>
     <script type="text/javascript">
-      var _gaq = _gaq || [];
-      var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-      _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-      _gaq.push(['_setAccount', 'UA-38870420-1']);
-      _gaq.push(['_setDomainName', 'rollbar.com']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-
+      if (self === top) {
+        var antiClickjack = document.getElementById("antiClickjack");
+        antiClickjack.parentNode.removeChild(antiClickjack);
+       } else {
+        top.location = self.location;
+       }
     </script>
 
 
-    
-
-    
+    <link rel="stylesheet" href="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/css/styles.min.css?ts=1458943383v8">
 
     
   </head>
-
+<!--[if IE 9]>
+  <body class="ie9">
+<![endif]-->
+<!--[if gt IE 9]><!-->
   <body>
+<!--<![endif]-->
+    <!--[if lt IE 9]>
+      <div class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+    <![endif]-->
     
-<script>
-  dataLayer = [{
-    'loggedIn': 'false'
-  }];
+
+
+<div class="pricing-top-marquee">
   
-</script>
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KMS6W7"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KMS6W7');</script>
 
-    <div>
-      
-  <header>
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-          <div class="brand logodiv">
-            <a class="logo" href="/"></a>
-          </div>
-          <div class="nav-collapse">
-            
-    <ul class="nav nav-pills pull-right">
-      <li><a href="/demo/" target="_blank">Demo</a></li>
-      <li><a href="/error-tracking/">Features</a></li>
-      <li><a href="/pricing/">Pricing</a></li>
-      <li><a href="/docs/">Docs</a></li>
-      <li><a href="/blog/">Blog</a></li>
-      <li><span><a href="/login/" class="btn">Log In</a></span></li>
-      <li><span><a id="signup-button" href="/signup/" class="btn btn-primary">Sign Up</a></span></li>
-    </ul>
 
-          </div>
-        </div>
-      </div>
+<nav class="navbar top-header" role="navigation">
+  <div class="container">
+    <a href="/?dr" style="text-decoration:none;">
+      <div class="logo"></div>
+    </a>
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
     </div>
-  </header>
- 
-    </div> 
-    <div class="main-stage">
-      
-  
-<div class="auth-content container-fluid">
-  <style>
-    .policy-contents a {
-      text-decoration: underline;
-    }
-    .policy-contents p {
-      margin-bottom: 20px;
-    }
-    .policy-contents section {
-      font-family: arial,sans-serif !important;
-      font-size: 13px;
-      line-height: 1.54;
-      color: #444;
-    }
-    .policy-contents section strong {
-      font-weight: bold;
-    }
-  </style>
-  <section class="row-fluid">
-    <div class="span8 offset2">
-      <div class="well policy-contents" style="color:#333">
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav top-nav">
         
+  <li><a href="/demo/" target="_blank">Live Demo</a></li>
+  <li><a href="/features/">Features</a></li>
+  <li><a href="/pricing/">Pricing</a></li>
+  <li><a href="/enterprise/">Enterprise</a></li>
+  <li><a href="/docs/">Docs</a></li>
+  <li class="divider"></li>
+    <li><a href="/login/">Log In</a></li>
+    <span class="or">or</span>
+    <li class="cta"><a href="/signup/">Free Trial</a></li>
 
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
 
-<div class="page-header">
-  <h1 style="text-align:center;">Rollbar Privacy Policy</h1> 
+  <div class="pricing-hero-section about-hero-section">
+    <div class="container">
+      
+  <h1>Rollbar Privacy Policy</h1>
+
+    </div>
+  </div><!-- end .pricing-hero-section -->
 </div>
+
+
+
+<link rel="stylesheet" href="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/css/policy.min.css?ts=1458943383v8">
+
+<div class="container policy-contents">
+  
+
+
+
 
 
 
@@ -278,11 +245,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section>
   <h4>EU Safe Harbor Framework</h4>
   <p>
-    Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the <a href="http://export.gov/safeharbor/">Safe Harbor</a> program, and to view <a href="http://safeharbor.export.gov/companyinfo.aspx?id=25383">our certification</a>, please visit the U.S. Department of Commerce website.
+    Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the <a href="http://export.gov/safeharbor/">Safe Harbor</a> program, and to view <a href="https://safeharbor.export.gov/companyinfo.aspx?id=25383">our certification</a>, please visit the U.S. Department of Commerce website.
   </p>
   <p>
     <a href="https://safeharbor.export.gov/list.aspx">We self-certify compliance with</a><br>
-    <a href="http://www.export.gov/safeharbor"><img src="//d37gvrvc0wt4s1.cloudfront.net/static/img2/safeharbor.png?ts=1422486005v6"></a>
+    <a href="http://www.export.gov/safeharbor"><img src="//d37gvrvc0wt4s1.cloudfront.net/static/img2/safeharbor.png?ts=1422486005v8"></a>
   </p>
 </section>
 
@@ -305,165 +272,87 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
 
 
-      </div>
-    </div>
-  </section>
 </div>
 
 
-
-
-
-    </div>
-    
-  <footer class="row-fluid">
-    <div class="container-fluid">
+    <footer>
       <div class="container">
-        <div class="row-fluid footer-content">
-          <div class="right-col pull-left offset1">
-            <div class="item pull-left">
-              <strong>Rollbar</strong>
-              <ul>
-                <li><a href="/pricing/">Pricing</a></li>
-                <li><a href="https://rollbar.com/outbound_redirect?url=https%3A%2F%2Fangel.co%2Frollbar%2Fjobs&amp;h=f25ed09">Jobs</a></li>
-                <li><a href="/blog/">Blog</a></li>
-                <li><a href="http://status.rollbar.com/">Status</a></li>
-                <li><a href="/contact/">Contact Us</a></li>
-                <li><a href="/tos/">Terms of Service</a></li>
-                <li><a href="/privacy/">Privacy Policy</a></li>
-              </ul>
-            </div>
-            <div class="item pull-left">
-              <strong>Features</strong>
-              <ul>
-              <li><a href="/error-tracking/">Error Tracking</a></li>
+        <div class="row">
+          <div class="col-sm-2 col-sm-offset-1 footer-column">
+            <h5>Rollbar</h5>
+            <ul>
+              <li><a href="/pricing/">Pricing Plans</a></li>
+              <li><a href="/about/">About</a></li>
+              <li><a href="https://rollbar.com/outbound_redirect?url=https%3A%2F%2Frollbar.recruiterbox.com%2F&amp;h=98303ce">Jobs</a></li>
+              <li><a href="/contact/">Contact Us</a></li>
+              <li><a href="/tos/">Terms of Service</a></li>
+              <li><a href="/privacy/">Privacy Policy</a></li>
+              <li><a href="/about/responsible-disclosure-policy/">Responsible Disclosure Policy</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-2 footer-column">
+            <h5>Features</h5>
+            <ul>
+              <li><a href="/features/">Error Tracking</a></li>
               <li><a href="/features/dashboard/">Dashboard</a></li>
               <li><a href="/features/deploys/">Track Deploys</a></li>
               <li><a href="/features/people/">Person Tracking</a></li>
               <li><a href="/features/hosts/">Host Tracking</a></li>
               <li><a href="/features/bugtrackers/">Bug Tracker Integration</a></li>
               <li><a href="/features/github/">GitHub Integration</a></li>
-              </ul>
-            </div>
-            <div class="item pull-left">
-              <strong>Resources</strong>
+            </ul>
+          </div>
+          <div class="col-sm-2 footer-column">
+            <h5>Resources</h5>
+            <ul>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/docs/">Docs</a></li>
+              <li><a href="https://twitter.com/search?f=realtime&amp;q=%23changelog%20from%3Arollbar&amp;src=typd">Change Log</a></li>
+              <li><a href="http://status.rollbar.com/">Service Status</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-3 footer-column">
+            <h5>Languages</h5>
+            <div class="col-sm-6" style="padding-left: 0;">
               <ul>
-                <li><a href="/blog/">Blog</a></li>
-                <li><a href="/docs/">Docs</a></li>
-                <li><a href="/blog/categories/changelog/">Change Log</a></li>
-                <li><a href="/posts/">Posts (Beta)</a></li>
-
+                <li><a href="/error-tracking/javascript/">Javascript</a></li>
+                <li><a href="/error-tracking/ruby/">Ruby</a></li>
+                <li><a href="/error-tracking/python/">Python</a></li>
+                <li><a href="/error-tracking/.net/">.NET</a></li>
+                <li><a href="/error-tracking/php/">PHP</a></li>
+                <li><a href="/error-tracking/java/">Java</a></li>
+                <li><a href="/error-tracking/ios/">iOS</a></li>
               </ul>
             </div>
-            <div class="item pull-left languages">
-              <strong>Languages</strong>
-              <div>
-                <div class="item pull-left">
-                  <ul>
-                    <li><a href="/error-tracking/javascript/">Javascript</a></li>
-                    <li><a href="/error-tracking/ruby/">Ruby</a></li>
-                    <li><a href="/error-tracking/python/">Python</a></li>
-                    <li><a href="/error-tracking/.net/">.NET</a></li>
-                    <li><a href="/error-tracking/php/">PHP</a></li>
-                    <li><a href="/error-tracking/java/">Java</a></li>
-                    <li><a href="/error-tracking/ios/">iOS</a></li>
-                  </ul>
-                </div>
-                <div class="item pull-left">
-                  <ul>
-                    <li><a href="/error-tracking/node.js/">Node.js</a></li>
-                    <li><a href="/error-tracking/android/">Android</a></li>
-                    <li><a href="/error-tracking/clojure/">Clojure</a></li>
-                    <li><a href="/error-tracking/golang/">Golang</a></li>
-                    <li><a href="/error-tracking/erlang/">Erlang</a></li>
-                    <li><a href="/error-tracking/haskell/">Haskell</a></li>
-                    <li><a href="/error-tracking/coldfusion/">ColdFusion</a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="item pull-left">
-              <strong>Connect</strong>
+            <div class="col-sm-6" style="padding-left: 0;">
               <ul>
-                <li><a href="https://github.com/rollbar">Github</a></li>
-                <li><a href="http://twitter.com/rollbar">Twitter</a></li>
-                <li><a href="https://plus.google.com/+Rollbar">Google +</a></li>
+                <li><a href="/error-tracking/node.js/">Node.js</a></li>
+                <li><a href="/error-tracking/android/">Android</a></li>
+                <li><a href="/error-tracking/clojure/">Clojure</a></li>
+                <li><a href="/error-tracking/golang/">Golang</a></li>
+                <li><a href="/error-tracking/erlang/">Erlang</a></li>
+                <li><a href="/error-tracking/haskell/">Haskell</a></li>
+                <li><a href="/error-tracking/coldfusion/">ColdFusion</a></li>
               </ul>
-              
             </div>
           </div>
+          <div class="col-sm-1 footer-column">
+            <h5>Connect</h5>
+            <ul>
+              <li><a href="https://github.com/rollbar">GitHub</a></li>
+              <li><a href="http://twitter.com/rollbar">Twitter</a></li>
+              <li><a href="https://plus.google.com/+Rollbar">Google+</a></li>
+            </ul>
+          </div>
         </div>
-        <div class="row-fluid footer-content-bottom">
-          <p>© 2014 Rollbar, Inc.</p>
-        </div>
-      </div>
-    </div>
-  </footer>
-
-
-    <!-- JS -->
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-
-    <script>
-      // Delay $(document).ready from executing
-      $.holdReady(true);
-
-      var scriptIndex = 0;
-      var deferredScriptsToLoad = [
-        
-  "//d37gvrvc0wt4s1.cloudfront.net/static/js2/bootstrap.min.js?ts=1386370117v6",
-  "//d37gvrvc0wt4s1.cloudfront.net/static/js2/all.min.js?ts=1426292013v6"
-
-      ];
-
-      function loadScript(url) {
-        var element = document.createElement("script");
-        element.src = url;
-        element.setAttribute('crossorigin', 'anonymous');
-        document.body.appendChild(element);
-      }
-
-      function onDocumentLoad() {
-        loadScript(deferredScriptsToLoad[scriptIndex]);
-        
-        // load deferred gravatar images
-        $('.gravatar-img').each(function() {
-          var $this = $(this);
-          $this.replaceWith('<img src="' + $this.attr('data-gravatar-url') + '" class="' + $this.attr('data-class') + '" alt="' + $this.attr('data-alt') + '"></img>');
-        });
-      }
-
-      $(document.body).on('script-ready', function() {
-        scriptIndex++;
-
-        if (scriptIndex < deferredScriptsToLoad.length) {
-          loadScript(deferredScriptsToLoad[scriptIndex]);
-        } else {
-          // All scripts have been loaded and evaluated, execute $(document).ready
-          $.holdReady(false);
-        }
-      });
-
-      if (window.addEventListener) {
-        window.addEventListener("load", onDocumentLoad, false);
-      } else if (window.attachEvent) {
-        window.attachEvent("onload", onDocumentLoad);
-      } else {
-        window.onload = onDocumentLoad;
-      }
-
-      window.timestampOffset = 1426389592.32 - (new Date().getTime() / 1000);
-    </script>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $("body").tooltip({selector: '[data-toggle=tooltip]'});
-      });
-
-      
-
-    </script>
-
+        <hr>
+      </div><!-- end .container -->
+      <div class="copyright-info">© 2012-15 Rollbar, Inc.</div>
+    </footer>
+    
+    <script src="//d37gvrvc0wt4s1.cloudfront.net/static/homepage/js/all.min.js?ts=1458943387v8"></script>
+    
+    
     
   <script type="text/javascript">
     function setCSRFToken(csrfToken) {
@@ -501,61 +390,61 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       });
     }
 
-    setCSRFToken("a9bcd23b6794d59670043fcb07e5721638b7d7b8");
+    setCSRFToken("a9e6ec0f2e5f3d1867718216d795c34ad5d2b2dd|cf3c3ee4124da0d1a3dd11168d93870337176da9");
   </script>
 
 
     
-
-    
+  
     <script type="text/javascript">
-      $(document).ready(function() {
-        window._pa = window._pa || {};
-        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-        pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5150bf6d718969000200036f.js";
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-      });
+      window._pa = window._pa || {};
+      
     </script>
 
-    
+  
+
+  
+    <script type="text/javascript">
+      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+      
+      var traits = {
+        marketing_segment: "website",
+        logged_in: false,
+        public_page: true
+      };
+        analytics.identify(traits);
+      analytics.load("EjPSytCQjKkLitMZZFeOZftGIi8OVAAi");
+      analytics.page();
+      }}();
+    </script>
+
+
+      <style type="text/css">
+          #habla_beta_container_do_not_rely_on_div_classes_or_names{display:none;}
+
+        #habla_topbar_div{-webkit-animation-name: disabled_animation !important;}
+
+        textarea#habla_wcsend_input:focus {
+          -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+        }
+      </style>
+
+
+
 
     
   
-
-
-    
-
-    <!-- End JS -->
   
+<!-- BREACH attack prevention
+uu74Z/tibHMAj1euewNv93nahz9i/8D46s/y/1JPH0I/3m62WXbi8bZZh6Q+Rwe+6Efs5WtFkOHrCr1k
+c9cTcsHW0NaTxBbL1OJuy+9M4LqYVOu5SvzFazTW+OxRJkpEfqppAoTtea8pPfWSNoGk+SdEDI6IzEfz
+5L6nhzk6Z4aYdlsCK62aMsKTSSinXK9CDKqU0UuhuQzxtapafRoNYw55kgcX3XnrXHE2jlWFcPYuxdQl
+O9Z6JAJW0Pv7D+FGJrPefYRivS5zh6frrLDBLbP4XCOgSMBtZWlB7V71IWG70NxnHVrXuG+SX/xh9rxI
+o4KDg66kb4Z+8lMvGw==
+-->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 </body></html>
