@@ -1,46 +1,34 @@
-> *The following text is extracted and transformed from the vszs.com privacy policy that was archived on 2012-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120321084808id_/http%3A//www.vszs.com/%3Fpage_id%3D2031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vszs.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327195526id_/http%3A//vszs.com/privacy.html) for the most accurate reproduction.*
 
-# International Financial News » privacy policy
+# Privacy Policy
 
-### Overview
-
-The following provides detail about our Privacy Policy. In general, we use the personal information that we collect from you to process orders, identify personal preferences and match your needs with relevant products and services.
-
-**Note:** This policy only applies to Vszs.com web sites and not to the web sites of other companies, individuals or organisations to which we provide links.
-
-### Consent
-
-You signify your consent to us collecting and using your personal information by your use of this website. This is because when you visit the website we automatically collect information about your computer and your Internet connection including:
-
-  * Your computer’s IP address
-  * The type and version of browser and operating system you use
-  * Your internet domain
-  * The URL of the linking page, if you arrived at Financial News Online via a link from another website
-  * Website usage information
+  
 
 
+**Privacy Policy for www.vszs.com**
 
-Personal details, however, such as your name, address and email address will be collected through Vszs.com registration and order forms.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at affordgame@gmail.com.
 
-We will use your personal details for the following reasons:
+At www.vszs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.vszs.com and how it is used.
 
-  * To fulfill requests and orders
-  * Personalise the content and advertising you receive based on your personal preferences
-  * Notify you of new products, features and Promotions relevant to Vszs.com
-  * Allow trusted third parties to contact you with information – Should you choose to opt in
-  * Ensure, to the best of our abilities, that our website is compatible with browsers and operating systems used by most our visitors
-  * For in house research to improve our understanding of customer needs and for market research purposes. The results of all research will be presented as anonymous or aggregated information, unless individuals grant approval
+**Log Files**  
+Like many other Web sites, www.vszs.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
+**Cookies and Web Beacons**  
+www.vszs.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Chitika, .
 
-### How do we protect your information
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.vszs.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-When you input your information, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. In addition, we have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorized access to comply with the UK Data Protection Act of 1998. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+www.vszs.com has no access to or control over these cookies that are used by third-party advertisers.
 
-### Cookies
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.vszs.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. When you visit Vszs sites our computer server will recognize the cookie. This allows the user to move quickly and easily around the site and if you are a subscriber you will not have to login each time. Cookies also allow us to collect information about your visits, so that we can track the most popular features and services.
+**DoubleClick DART cookies**
 
-Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. However if you delete a cookie from your hard drive any settings such as a stored user name or password will have to be reset when you login again. If you choose not to receive cookies, you will not be able to use or access the full range of Financial News Online services.
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting?. The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information? It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
 
-We also use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users and assess traffic patterns, and we may include web beacons and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
