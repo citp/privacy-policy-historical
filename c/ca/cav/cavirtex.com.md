@@ -1,79 +1,119 @@
-> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502075141id_/https%3A//www.cavirtex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavirtex.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327043241id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# Canadian Virtual Exchange
+# Kraken | Buy, Sell, and Trade Bitcoins - Privacy Policy
 
-### Personal Information Protection Policy
+##  Payward Privacy Policy 
 
-CAVIRTEX is committed to safeguarding the personal information entrusted to us by our users. We manage your personal information in accordance with Alberta's Personal Information Protection Act and other applicable laws. This policy outlines the principles and practices we follow in protecting your personal information.
+Last updated: **November 17th, 2015**
 
-This policy applies to CAVIRTEX and its subsidiaries. The policy also applies to any person providing services on our behalf.
+This Privacy Policy explains how Payward, Inc., and its wholly owned subsidiaries (collectively, " **Payward** ," " **we** " or " **us** "), collects, uses, discloses and protects your information. This policy applies to information we collect when you access or use Payward's websites and mobile applications (collectively, " **Payward Services** ") or otherwise interact with us as described below. Payward provides the Payward Services through local operating entities that are wholly owned subsidiaries of Payward, Inc. (each, a " **Payward Company** "). To determine which Payward Company collects your information and is responsible for processing your data, please refer to our list of affiliated companies: [/about/payward](https://web.archive.org/about/payward).
 
-#### What is personal information?
+We may amend this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some circumstances, we may provide you with additional notice, including, for example, by adding a statement to the homepage of the Payward Services or by sending you an email notification. We strongly encourage you to review the Privacy Policy whenever you access or use Payward Services to stay informed about our information practices and your privacy rights and choices.
 
-Personal information means information about an identifiable individual. This includes an individual's name, home address and phone number, an identifying number, financial information, etc.
+### COLLECTION OF INFORMATION
 
-#### What personal information do we collect?
+#### Information You Provide To Us
 
-We collect only the personal information that we need for the purposes of providing services to our users, including personal information needed to:
+We collect information you provide directly to us. For example, we collect information about you when you create an online account, complete a transaction, fill out a form, respond to surveys, post messages to our forums or wikis or otherwise communicate with us.
 
-  * open and manage an account
-  * contact you about account changes
-  * manage account fund transfers
-  * follow up to determine satisfaction with services
-  * meet regulatory requirements
+The types of information we may collect are as follows:
+
+  * Contact information, such as your name, mailing address, telephone number, and email address.
+  * Financial information, such as bank account numbers, credit card numbers and virtual currency account information.
+  * Government identification numbers, such as your social security number or a state-issued identification number.
+  * Biographic or demographic information, such as your date of birth, gender, occupation, employment status and any other information you choose to provide about yourself.
 
 
 
-We normally collect user information directly from our clients. We may collect your information from other persons with your consent or as authorized by law.
+#### Information We Collect From Other Sources
 
-We inform our users, before or at the time of collecting personal information, of the purposes for which we are collecting the information. However, we don't provide this notification when a user volunteers information for an obvious purpose (for example, giving us your email for email money transfers)
+We may also obtain information from other sources and combine that with information we collect through the Payward Services. For example, we may collect nonpublic personal information about you from third parties, including identity verification services.
 
-We ask for consent to collect, use or disclose client personal information, except in specific circumstances where collection, use or disclosure without consent is authorized or required by law. We may assume your consent in cases where you volunteer information for an obvious purpose.
+#### Information We Collect Automatically
 
-We ask for your express consent for some purposes and may not be able to provide certain services if you are unwilling to provide consent to the collection, use or disclosure of certain personal information. Where express consent is needed, we will normally ask clients to provide their consent via the website or email.
+When you access or use the Payward Services, we automatically collect information as follows:
 
-In cases that do not involve sensitive personal information, we may rely on "opt-out" consent. For example, we may disclose your contact information to other organizations that we believe may be of interest to you, unless you request that we do not disclose your information. You can do this by contacting us via any other methods [here](https://web.archive.org/web/20150502075141id_/https%3A//www.cavirtex.com/contact).
+  * **Transaction information:** we collect information about the transaction you complete via the Payward Services, including the amount of funds associated with a trade, the types of trades executed and other transaction information.
+  * **Location information:** with your prior consent, we may collect precise geolocation information from your mobile device when you access or use our mobile applications. For more details, please see "Your Choices" below. 
+  * **Device and Log information:** we collect information about the computer or mobile device you use to access the Payward Services, including device identifiers, mobile network information, type of operating system, and the type of browser used. We also log information about your use of the Payward Services, including access times, pages viewed, IP address, other standard web log data, and the page visited before and after navigating to our websites.
+  * **Cookies and similar tracking technologies:** we may use cookies, pixel tags, web beacons, and other tracking technologies to collect information about you when you interact with the Payward Services, including information about your browsing behavior on our Payward Services. Cookies are small data files sent from our webservers to your computer or mobile device that enable us to, for example, capture how you arrived at the Payward Services, when you return, which pages on the Payward Services you visit, and to recognize that you are already logged on when we receive a page request from your browser.
 
-A client may withdraw consent to the use and disclosure of personal information at any time, unless the personal information is necessary for us to fulfil our legal obligations. We will respect your decision, but we may not be able to provide you with certain products and services if we do not have the necessary personal information.
 
-We may collect, use or disclose client personal information without consent only as authorized by law. For example, we may not request consent when the collection, use or disclosure is reasonable for an investigation or legal proceeding, to collect a debt owed to our organization, in an emergency that threatens life, health or safety, or when the personal information is from a public telephone directory.
 
-#### How do we use and disclose personal information?
+#### USE OF INFORMATION
 
-We use and disclose client personal information only for the purposes for which the information was collected, except as authorized by law. The law also allows us to use that contact information for the purpose of collecting a debt owed to our organization, should that be necessary.
+We may use your information as follows:
 
-If we wish to use or disclose your personal information for any new business purpose, we will ask for your consent.
+  * Provide the Payward Services and customer support;
+  * Process transactions and send notices about your transactions;
+  * Manage your account(s) and send technical notices, updates, security alerts and support and administrative messages;
+  * Resolve disputes, collect fees, and troubleshoot problems;
+  * Prevent potentially prohibited or illegal activities and enforce our user agreements;
+  * Personalize, measure and improve the Payward Services; 
+  * Deliver marketing and promotional offers on behalf of Payward and others, including via SMS, voice calls or email;
+  * Link or combine your personal information with information we obtain from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected, to the extent such purpose is necessarily contemplated by the collection of such information or as otherwise notified in the Payward Services at the time of collection.
 
-#### How do we safeguard personal information?
 
-We make every reasonable effort to ensure that client information is accurate and complete. We rely on our clients to notify us if there is a change to their personal information that may affect their relationship with our organization. If you are aware of an error in our information about you, please let us know and we will correct it on request wherever possible.
 
-In some cases we may ask for a written request for correction.
+#### PROCESSING OF INFORMATION
 
-We protect client personal information in a manner appropriate for the sensitivity of the information. We make every reasonable effort to prevent any loss, misuse, disclosure or modification of personal information, as well as any unauthorized access to personal information. This site uses SSL 128 bit encryption for all data transfers over the Internet.
+The Payward Company in the U.S. (" **Payward Ventures, Inc.** ") processes data on behalf of all Payward Companies. If you are located in any jurisdiction other than the U.S., your data will be transferred to Payward Ventures, Inc. for processing as directed by Payward Company responsible for your data processing. If the Payward Company responsible for processing your data is Payward Ventures, Inc., then your information will be processed solely by that U.S. entity and your information will not be transferred to any other Payward Company.
 
-We will notify the Office of the Information and Privacy Commissioner of Alberta, without delay, of a security breach affecting personal information if it creates a real risk of significant harm to individuals.
+By accessing or using the Payward Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. Please refer to the "U.S. – EU / Swiss Safe Harbor Compliance" section below if you are a resident of the European Union or Switzerland.
 
-We retain client personal information only as long as is reasonable to fulfil the purposes for which the information was collected or for legal or business purposes.
+#### DISCLOSURE OF INFORMATION
 
-We render client personal information non-identifying, or destroy records containing personal information once the information is no longer needed.
+We may disclose any information we collect about you, whether you are a current or former customer, including nonpublic personal information and any other information we collect, to Payward Ventures, Inc. in the U.S., which processes information on behalf of all Payward Companies, and with nonaffiliated third parties, which include non-financial companies, such as email service providers and fraud verification services, and others, such as other Payward users with which you engage in transactions. We may make such disclosures:
 
-We use appropriate security measures when destroying client personal information, including complete erasure of storage devices used to store electronic records.
+(1) To service providers that perform marketing services on our behalf; and 
 
-#### Access to records containing personal information
+(2) For our everyday business purposes, such as to process transactions, maintain accounts, respond to court orders and legal investigations or report to credit bureaus. For example, in connection with our everyday business purposes, we may share information about you as follows:
 
-Clients of CAVIRTEX have a right of access to their own personal information in a record that is in our custody or under our control, subject to some exceptions. For example, organizations are required under the Personal Information Protection Act to refuse to provide access to information that would reveal personal information about another individual. Organizations are authorized under the Act to refuse access to personal information if disclosure would reveal confidential business information. Access may also be refused if the information is privileged or contained in mediation records.
+  * With any party you intend to distribute funds to, or that intends to distribute funds to you, via the Payward Services, including information about whether your account is active and whether the account has been verified.
+  * With vendors, consultants and other service providers who need access to your information to carry out work on our behalf. These service providers help with our business operations such as fraud prevention and technology services.
+  * When we believe, in our sole discretion, that the disclosure of your information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of or enforce our user agreements or other policies and agreements.
+  * In connection with, or during negotiations of, any merger, sale of Payward’s assets, financing or acquisition or all or a portion of our business to another company.
+  * With your consent or at your direction.
 
-If we refuse a request in whole or in part, we will provide the reasons for the refusal. In some cases where exceptions to access apply, we may withhold that information and provide you with the remainder of the record.
 
-You may make a request for access to your personal information by writing to our Compiliance Officer. You must provide sufficient information in your request to allow us to identify the information you are seeking.
 
-You may also request information about our use of your personal information and any disclosure of that information to persons outside our organization.
+(3) If we are under a duty to disclose or share your information to comply with our legal obligations.
 
-You may also request a correction of an error or omission in your personal information.
+**Other than in connection with a merger, sale of Payward's assets, financing or acquisition, we will not sell or rent any of your information to third parties for their own marketing purposes.**
 
-We will respond to your request within 45 calendar days, unless an extension is granted.
+Please note that third parties that support our customer identification and anti-fraud controls may retain and use information about you to perform services on our behalf and to improve their services. By using our Services, you consent to the retention and use of such information by these providers to improve their services.
 
-#### Questions and complaints
+We may also share aggregated or de-identified information with our affiliated companies or nonaffiliated third parties, which cannot reasonably be used to identify you.
 
-If you have a question or concern about any collection, use or disclosure of personal information by CAVIRTEX, or about a request for access to your own personal information, please contact our Compliance Officer. Contact details can be found [here](https://web.archive.org/web/20150502075141id_/https%3A//www.cavirtex.com/contact).
+#### ANALYTICS SERVICES PROVIDED BY OTHERS
+
+We allow other entities to provide analytics services on our behalf. These entities may use cookies, web beacons and other tracking technologies to collect information about your use of the Payward Services, including your IP address, web browser, pages viewed, time spent on pages and links clicked. This information may be used by Payward to, among other things, analyze and track data, determine the popularity of certain content, and better understand your online activity.
+
+#### SECURITY
+
+We implement reasonable security practices and procedures to help protect the confidentiality and security of your information, including any nonpublic personal information. We protect your information using reasonable physical, technical and administrative security measures, including by limiting access to your information to employees with a need to know such information.
+
+#### U.S. – EU / SWISS SAFE HARBOR COMPLIANCE
+
+Payward complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Payward has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Payward’s certification, please visit <http://www.export.gov/safeharbor/>
+
+If you have a complaint regarding Payward’s compliance with the U.S.-EU Safe Harbor Framework or the U.S.-Swiss Safe Harbor Framework, first contact us through support at [https://support.kraken.com](https://support.kraken.com/). Payward has elected to use JAMS arbitration as an independent recourse mechanism available to settle unresolved complaints regarding Payward’s Safe Harbor commitments. Please refer to the section titled “Applicable Law; Arbitration” in our Terms of Service <https://www.kraken.com/en-us/legal>
+
+#### YOUR CHOICES
+
+  * **Account Information:** You may access and review or update your online account information at any time by logging into your account and viewing your profile. If you want to close your account, please contact us at [https://support.kraken.com](https://support.kraken.com/). However, please note that if you close your account, we may retain your information as required by law or for our legitimate business purposes, such as to collect fees owed, resolve disputes, troubleshoot problems, assist with any investigations, prevent fraud or enforce our user agreements.
+  * **Communications Preferences:** You may opt out of receiving promotional communications from Payward by following the instructions in those communications. You may also opt out of receiving the Kraken newsletter or certain administrative emails by modifying your communications preferences through the settings feature of your online account. If you opt out of receiving promotional communications, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations. 
+  * **Location:** Our mobile applications may collect precise geolocation information from your mobile device with your prior consent. If you initially consent to our collection of location information, you may be able to subsequently stop the collection of this information through your device operating system settings. You may also stop our collection of location information by following the standard uninstall process to remove our mobile applications from your device.
+  * **Cookies:** We use both session and persistent cookies. Session cookies expire when you log out of your account or close your browser. Persistent cookies remain on your computer or mobile device until you erase them or they otherwise expire. Most web browsers are set to accept cookies by default. You are free to decline most of our cookies if your browser or browser add-on permits, but choosing to remove or disable our cookies may interfere with your use and functionality of the Payward Services. Additionally, we may use certain persistent cookies that are not affected by your browser settings, but will use such cookies solely for identity verification and fraud prevention purposes. For more information about cookies and how to block, delete or disable them, please refer to your browser instructions, or contact us at [https://support.kraken.com](https://support.kraken.com/).
+  * **Why can't I opt out of any sharing?** We do not engage in any sharing that would require us to provide you with an ability to opt out of such sharing. For instance, we do not share any information about you with third parties for their own marketing purposes.
+
+
+
+#### ACCESS TO INFORMATION
+
+You have a right to access the information we hold about you. We may ask you to pay a fee before providing you with this information.
+
+#### CONTACT US
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at [https://support.kraken.com](https://support.kraken.com/).
