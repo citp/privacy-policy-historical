@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109184427id_/http%3A//www.recipe4living.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipe4living.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327024303id_/http%3A//www.recipe4living.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Recipe4Living
 
