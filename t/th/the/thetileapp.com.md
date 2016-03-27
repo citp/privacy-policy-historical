@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905154356id_/https%3A//www.thetileapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327155205id_/https%3A//www.thetileapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Tile, Leaders in Bluetooth Tracking Device and App - Tile - Never Lose Your Keys, Wallet Or Anything Again
 
@@ -24,7 +24,7 @@ Whenever you sign in on your account through the Tile app on a mobile device, we
 
 In addition, we will collect, and store with your account, detailed location information about your Tile device(s) as collected and sent via other users' mobile devices with an installed and activated Tile app; these users will not have access to such information (see Section 6 on "Our Use and Sharing of your Tile Device Location Information" below). Likewise, we will collect location information about other users' Tile device(s) tracked and transmitted to us by the Tile app on your mobile device (provided the Tile app is activated on your mobile device). 
 
-Whenever you use our Services, we may further collect additional information about your usage of our Services, including by making use of third party web analysis tools (see Section 11 on "Integration of Third Party Web Analysis Services and Social Functionalities" below), such as your frequency and scope of your use of the Services, the duration of your online sessions, the sites you visit, information you read, content that you use or create, advertisements that you view or click on, your communications with other users and third parties, information about the mobile device on which you have installed the Tile app, and the geographic location of the computer system or device that you are using to log-into our Services. 
+Whenever you use our Services, we may further collect additional information about your usage of our Services, including by making use of third party web analysis tools (see Section 11 on "Integration of Third Party Web Analysis Services and Social Functionalities" below), such as your frequency and scope of your use of the Services, Tile advertisements that you view or click on, information about the mobile device on which you have installed the Tile app, and the geographic location of the computer system or device that you are using to log-into our Services. 
 
 If you decide to interact with a social network when using our Services, we may further collect certain personal information made available through your social network account (see Section 8 on "Your Sharing of your Personal Information with Social Networks" below). We will further collect any personal information you may actively provide to our service personnel if you contact our customer support hotline through our Website and/or Tile app. 
 
@@ -150,4 +150,4 @@ If there are any changes to this Privacy Policy, they will be posted on the Webs
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services after being notified of such changes will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must cease any further use of the Services. 
 
-### Last modified: 07/10/2015
+### Last modified: 11/25/2015
