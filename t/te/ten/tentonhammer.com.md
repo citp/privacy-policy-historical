@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927123849id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328015713id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ten Ton Hammer
 
