@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koken.me privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810145928id_/http%3A//koken.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koken.me privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327055028id_/http%3A//koken.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Koken
 
@@ -26,4 +26,4 @@ Koken reserves the right to update this privacy policy at any time. Updates to o
 
 Questions concerning this policy may be directed to [Koken support](http://help.koken.me/customer/portal/emails/new).
 
-_Last modified: February 20, 2014_
+_Last modified: December 1, 2015_
