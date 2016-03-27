@@ -1,31 +1,102 @@
-> *The following text is extracted and transformed from the webinarninja.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235545id_/http%3A//webinarninja.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarninja.co privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327042215id_/http%3A//webinarninja.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Webinar Ninja
 
-Like most website operators, webinaninja.co collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+The last update to our Privacy Policy was posted on February 1, 2016. This document governs the privacy policy of our Website, www.webinarninja.co. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
-webinarninja.cot’s purpose in collecting non-personally identifying information is to better understand how webinarninja.co’s visitors use its website. From time to time, webinarninja.co may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Definitions  
+"Non-Personal Information" (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.
 
-webinarninja.co also collects potentially personally-identifying information like Internet Protocol (IP) addresses. webinarninja.co does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+"Personally Identifiable Information" (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service. PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.
 
-### Gathering of Personally-Identifying Information
+Our Commitment to Your Privacy  
+Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
 
-Certain visitors to webinarninja.co’s websites choose to interact withwebinarninja.co in ways that require webinarninja.co to gather personally-identifying information. The amount and type of information that webinarninja.co gathers depends on the nature of the interaction. For example, we ask visitors who use join as members to provide a username and email address. In each case, webinarninja.co collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with webinarninja.co. webinarninja.co does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Webinar Ninja is committed to the security and privacy of all our customers. We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
 
-### Aggregated Statistics
+Webinar Ninja and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
 
-webinarninja.co may collect statistics about the behavior of visitors to its websites. For instance, webinarninja.co may reveal how many downloads a particular video received. However, webinarninja.co does not disclose personally-identifying information other than as described below.
+As a part of our commitment, we have adopted the guidelines used by the Direct Marketing Association Privacy Promise to American consumers. Other than as necessary to provide you with goods and services, we agree to (1) provide our customers with notice of their ability to opt out of information exchanges with our affiliates; (2) honor our customers’ requests not to have their information transferred to our affiliates; and (3) honor our customers’ requests not to receive solicitations from our affiliates.]
 
-### Protection of Certain Personally-Identifying Information
+Links to Other Websites  
+Our Website may contain links to other websites. You understand that these websites are not under our control and are not subject to our Privacy Policy. These websites will likely have their own privacy policies. We have no responsibility for these websites and provide links to these websites solely for your convenience.  
+You acknowledge that your use and access of these websites is solely at your own risk. It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
 
-webinarninja.co discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on webinarninja.co's behalf or to provide services available at webinarninja.co’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using webinarninja.co’s websites, you consent to the transfer of such information to them. webinarninja.co will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, webinarninja.co discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when webinarninja.co believes in good faith that disclosure is reasonably necessary to protect the property or rights of webinarninja.co, third parties, or the public at large. If you are a registered user of webinarninja.co website and have supplied your email address, webinarninja.co may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with webinarninja.co and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. webinarninja.co takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+Information We Collect  
+Generally, you control the amount and type of information you provide to us when using our Website. As a visitor to our Website, you can browse our Website to find out more about us. You are not required to provide us with any PII as a Visitor.
 
-### Cookies
+However, if you register as a Member to use our Website, you must provide PII in order for us to provide you with various features and/or functionality from our Website. As a Member, we collect your PII in the following ways:
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. webinarninja.co uses cookies to help webinarninja.co identify and track visitors, their usage of webinarninja.co website, and their website access preferences. webinarninja.co visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using webinarninja.co’s websites, with the drawback that certain features of webinarninja.co's websites may not function properly without the aid of cookies.
+At Member Registration. When you register for membership, we collect your name and email address {and other information listed}.
 
-### Privacy Policy Changes
+Online Forms. There may be online forms used in our Website. The information you enter into these online forms may contain PII.  
+Computer Information Collected. When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered NPI. We may also collect any of the following:
 
-Although most changes are likely to be minor, webinarninja.co may change its Privacy Policy from time to time, and in webinarninja.co’s sole discretion. webinarninja.co encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Cookies. Our Website uses “Cookies.” A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to identify the areas of our Website that you have visited. We may also use Cookies to identify you as a Member so that you can access various parts or features of our Website. Finally, we may use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access features on our Website correctly or at all. We never place PII in Cookies.
 
-Privacy policy adapted from [wordpress.org](http://wordpress.org/about/privacy/).
+Web Beacons. We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails. Our Web Beacons are not used to track your activity outside of our Website. We do not link NPI from Web Beacons to PII without your permission.
+
+Automatic Information. We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
+
+Google Analytics Privacy Policy  
+Our website uses “Google Analytics” to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. http://www.google.com/analytics/terms/us.html  
+You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. https://tools.google.com/dlpage/gaoptout
+
+How Information is Used  
+We use the information we receive from you as follows:  
+Providing and Improving Our Website  
+We may use the PII you provide to us along with any computer information we receive to provide our Website to you as well as to make improvements to it.
+
+Communications and Email Alerts  
+When we communicate with you about our Website, we will use the email address you provided when registering as a Member. We may also send you Website alerts regarding your use of our Website. Finally, we may also send you emails with promotional information about our Website or offers from us or our affiliates, unless you have opted out of receiving such information. You can change contact preferences at any time through your account. While you can opt-out of promotional messages, you cannot opt-out of receiving Website alerts.  
+Sharing Information with Affiliates and Other Third Parties  
+We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes. However, we may use your Non Personal Information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PII. We may provide your PII to affiliates that provide services with regards to our Website (i.e. payment processors, webhosting companies, etc.); such affiliates will only receive information necessary to provide the respective Websites and will be bound by confidentiality agreements limiting the use of such information.
+
+Community Discussion Boards  
+Our Website may offer the capability for Users to communicate with each other through online Community Discussion Boards. We do not filter or monitor what is posted on such discussion boards. If you chose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our Privacy Policy nor are we liable should you choose to disclose PII through such postings.  
+Legally Required Releases of Information  
+We may be legally required to disclose your PII, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, our Users, employees, and affiliates.
+
+Disclosures to Successors  
+If our business is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your PII to the new business. The new business would retain the right to use your PII according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.  
+Protecting the Privacy Rights of Third Parties  
+We believe in everyone’s right to privacy. If any postings you make to our Website contain information about third parties, you need to make sure you have permission to include them in your posting. While we are not legally liable for the actions of our Users, we will remove any postings for which we are notified that such postings violate the privacy rights of others.
+
+Changing Your Information  
+You may change your PII at any time using facilities found on our Website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using the Contact us information found on our Website.
+
+Opting Out of Sharing Information  
+You can always opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
+
+“Do Not Track” Settings  
+Some web browsers have settings that enable you to request that our Website does not track your movement within our Website. Our Website does not obey such settings when transmitted to and detected by our Website.
+
+Change and turn off tracking features in your browser. You can turn off tracking features and other security settings in your browser by visiting the following links:  
+For Internet Explorer visit: http://goo.gl/0taI7I  
+For Mozilla Firefox visit: http://goo.gl/IKxt9l  
+For Google Chrome visit: http://goo.gl/NQIkqE  
+For Safari visit: http://goo.gl/7XCOzL
+
+Google Analytics Opt-out Browser Add-on. Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool: http://goo.gl/Ls82zv
+
+Protecting Your Child’s Privacy  
+We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission of a parent or guardian before accessing our Website.
+
+Our Email Policy  
+We comply with the federal CAN-SPAM Act.  You can always opt out of receipt of further email correspondence from us or our affiliates.  We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
+
+Our Security Policy  
+We have taken steps to build our Website using sophisticated encryption and authentication tools to protect the security of your PII. When we collect your PII through our Website, we will encrypt your PII before it travels over the Internet using industry standards as establishing for conducting secure online transactions. We also use industry standard technologies such as secure routers and fire walls to make sure that your PII is safe. Unfortunately, we cannot fully guarantee secure data transmission over the Internet because of its nature. Once we receive your PII, we have industry standard security measures in place to protect against the loss or misuse of your PII, though again, we cannot fully guarantee against such loss or misuse. We strongly urge you to protect any password you may have for our Website and not share it with anyone. You should always log out of our Website when you are done using it, especially if you are sharing a computer with someone else or are using a computer in a public place.
+
+Use of Credit Cards  
+You may have to provide a credit card to buy products and services from our Website. We use third-party billing services and HAVE NO CONTROL over these services. We use our commercially reasonable efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use. However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
+
+International Data Transfers
+
+Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy. Personal information that you publish on our website or submit for publication on our website may be available, via the Internet, around the world. We cannot prevent the use or misuse of such information by others. You hereby agree to the transfers of personal information described within this section.
+
+Changes to Our Privacy Policy  
+We reserve the right to change this privacy policy at any time. If our company decides to change this Privacy Policy, we will post those changes on our website so our users and customers are always aware of what information we collect, use, and disclose. If at any time we decide to disclose or use your personally identifiable information in a method different from that specified at the time it was collected, we will provide advance notice by email (sent to the email on file in your account). Otherwise, we will use and disclose our users’ and customers’ personally identifiable information in agreement with the Privacy Policy that was in effect, when their information was collected. In all cases, your continued use of our website or our services and products after any change to this Privacy Policy will constitute your acceptance of such change.
+
+Questions about Our Privacy Policy  
+If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.
