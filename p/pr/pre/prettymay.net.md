@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettymay.net privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221153034id_/http%3A//www.prettymay.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettymay.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328005743id_/http%3A//www.prettymay.net/privacy.htm) for the most accurate reproduction.*
 
 # PrettyMay Call Recorder for Skype, Call Center for Skype, Skype PBX, Skype recorder, Record Skype calls, Skype for business, free trial
 
