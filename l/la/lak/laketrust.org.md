@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908163815id_/https%3A//www.laketrust.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327131438id_/https%3A//laketrust.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy - Lake Trust Credit Union
 
@@ -8,10 +8,10 @@ If after reading this notice you have questions, please contact us or call 517.2
 
 Privacy Notice  
 Lake Trust Credit Union  
-501 S. Capitol Avenue  
-Lansing, MI 48933-2320
+4605 South Old US Highway 23  
+Brighton, MI 48114
 
-**[Click Here to Download Lake Trust Credit Union Privacy Notice](https://web.archive.org/globalassets/disclosures-and-notices/privacy-notice.pdf)**
+**[Click Here to Download Lake Trust Credit Union Privacy Notice](https://web.archive.org/globalassets/disclosures-and-notices/201601-privacypolicy-disclosure.pdf)**
 
 ###   
 What Members Can Do to Help
