@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174631id_/https%3A//www.ucbi.com/About/Inside-UCBI/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucbi.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327113756id_/https%3A//www.ucbi.com/About/Inside-UCBI/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | United Community Bank
+
+rev. 12/2010
 
 FACTS | **WHAT DOES UNITED COMMUNITY BANK DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -27,7 +29,7 @@ All financial companies need to share customers’ personal information to run t
 Reasons we can share your personal information | Does United Community Bank share? | Can you limit this sharing?  
 ---|---|---  
 **For our everyday business purposes—**  
-such as to process your transactions, maintain your account(s), respond to court valid orders and as required by law, or report to credit bureaus | Yes | No  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
 **For our marketing purposes—**  
 to offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
@@ -90,14 +92,4 @@ A formal agreement between nonaffiliated financial companies that together marke
 
   * _Our joint marketing partners include Credit Card Companies_
 
-  
-  
-#### Security Statement
 
-United Community Bank is committed to maintaining the privacy and security of your personal information. Technology and new marketing practices have increased the amount of customer information collected and shared in today's marketplace. Consumers are concerned about the impact this development has or might have on their privacy and security. We are sensitive to these concerns and we are committed to taking reasonable steps to protect the privacy and security of information shared with us. Our customers are protected not only by state and federal laws, but more importantly, our commitment to them.
-
-To help us offer secure online banking services, United Community Bank uses industry-standard technology and procedures. This technology allows us to properly authenticate your identity and protect your information when you access our online banking services.
-
-We maintain rigorous security standards and procedures to prevent unauthorized access to customer information. We issue a unique Access ID and Password that identify the customer when logging on to our website Online Banking or Mobile Banking App. We use state of the art secured software for transferring data together with a very high level of encryption bit strength. Our security software also ensures that users establish sessions with only secure websites. The software further protects data by (1) authentication which ensures that the customer is actually communicating with the bank and not someone impersonating the bank; (2) encryption or scrambling of transferred data so that account information cannot be intercepted and read by a third party; and (3) assessing the data integrity by verifying that the information sent by the customer to the bank has not been altered during the transfer.
-
-Our [Security Center](https://web.archive.org/Security) provides additional resources and information about best practices to safeguard your accounts and identity.
