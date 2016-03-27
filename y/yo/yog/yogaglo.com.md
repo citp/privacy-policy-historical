@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019070046id_/https%3A//www.yogaglo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327112903id_/https%3A//www.yogaglo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | YogaGlo
 
