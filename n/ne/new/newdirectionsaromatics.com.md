@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915115142id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328010517id_/https%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Essential Oils, Aromatherapy, Candle, Soap, Cosmetic & Spa Supplies | New Directions Aromatics
+# Privacy Policy - New Directions Aromatics
 
-##  Our Privacy Commitment 
+### Our Privacy Commitment
 
 At NDA we know how important it is to protect your personal information. Whether you are shopping with us online or in person we want to make every customer experience safe and secure. In keeping with that goal, we have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information.
 
 This Policy applies to our Web Sites, in-store pick ups, and all other channels in which NDA collects and uses your personal information.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  What Information is Collected? 
+### What Information is Collected?
 
 At NDA, we collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.
 
@@ -36,9 +36,9 @@ All references to "Web Sites" in this Privacy Policy refer to www.newdirectionsa
 
 You may choose not to provide us with your personal information. However, if you make this choice we may not be able to provide you with the product, service, or information that you requested. For example, we can only make a sales transaction under customer account for which your name and address are needed at the least.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  How is Your Personal Information Used? 
+### How is Your Personal Information Used?
 
 NDA may use your personal information for a number of different business purposes, for example to:
 
@@ -54,9 +54,9 @@ NDA may use your personal information for a number of different business purpose
 
 
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Your Consent 
+### Your Consent
 
 NDA will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by law. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Privacy Policy and as may be further identified at the time of collection.
 
@@ -79,9 +79,9 @@ NDA will collect, use, or disclose your personal information only with your know
 
 
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Information NDA Collects Directly From You 
+### Information NDA Collects Directly From You
 
 Listed here are some further examples of the ways that we collect personal information directly from you and how we use it.
 
@@ -129,9 +129,9 @@ Our subscriber list is never sold or rented to other parties.
 
 From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences). Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also summarize contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules that will be available with each particular campaign. Some contests are conducted by third parties and will be subject to the third party’s policies.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Information NDA Collects Automatically 
+### Information NDA Collects Automatically
 
 In some cases, we automatically collect certain information:
 
@@ -151,9 +151,9 @@ We may use scripts from third parties which compile tracking information reports
 
 Our Web Site may contain links to other Web sites or Internet resources which are provided solely for your convenience and information. When you click on one of those links you are contacting another Web site or Internet resource. NDA has no responsibility or liability for, or control over, those other Web sites or Internet resources or their collection, use and disclosure of your personal information. We encourage you to read the privacy policies of those other Web sites to learn how they collect and use your personal information.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Does NDA Share Your Information? 
+### Does NDA Share Your Information?
 
 NDA does not sell or rent our customers’ personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
 
@@ -183,9 +183,9 @@ Any information we have about you may be transferred or disclosed to a purchaser
 
 NDA may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  How Does NDA Protect Your Information? 
+### How Does NDA Protect Your Information?
 
 The security of your personal information is a high priority for NDA. We maintain appropriate safeguards and current security standards to protect your personal information, whether recorded on paper or captured electronically, against unauthorized access, disclosure, or misuse. For example, electronic records are stored in secure, limited-access servers; we employ technological tools like firewalls and passwords; and we ensure our employees are trained on the importance of maintaining the security and confidentiality of personal information.
 
@@ -205,21 +205,21 @@ Our Web Sites have received a Mcafee Secure certificate which ensures that our W
 
 When you create an online account on our Web Sites, you need to select a personal password. To maximize your level of protection, you should choose at least 5 characters including a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and any account information. NDA will never send an unsolicited communication asking you for your password or requesting that you update your account credentials.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  How Can You Verify Your Information? 
+### How Can You Verify Your Information?
 
 You may check your information to verify, update, or correct it, and to have any obsolete information removed. If you created an account on one of our Web Sites, you can access and change your online account profile yourself. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us. Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate. You may also ask us to change your preferences regarding how we use or disclose your information, or let us know that you do not wish to receive any further communication from us.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  When is Your Information Removed?
+### When is Your Information Removed?
 
 We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. We have retention standards that meet these parameters. We destroy your information when it is no longer needed, or we remove your personally identifiable information to render it anonymous.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Contacting NDA
+### Contacting NDA
 
 If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:
 
@@ -238,12 +238,12 @@ We will respond to your request or investigate your concern as quickly as we can
 
 Please remember that email sent over the public Internet is not secure. If you send an email directly to us from your own email account the contents will not be encrypted. We strongly recommend that you do not send sensitive information (like a credit card number) to us via unencrypted email. NDA is not responsible for any transmission by you of any personal information over the public Internet.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
 
-##  Will this Privacy Policy Change? 
+###  Will this Privacy Policy Change? 
 
 **Last Update: October 26, 2010**
 
 To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.
 
-[[Back to Top]](http://www.newdirectionsaromatics.com/#)
+[Back to Top]
