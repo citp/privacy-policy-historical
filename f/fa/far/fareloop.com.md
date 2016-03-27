@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fareloop.com privacy policy that was archived on 2014-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141119181904id_/http%3A//fareloop.com/l1/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareloop.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327072357id_/http%3A//www.fareloop.com/l1/privacy-policy.html) for the most accurate reproduction.*
 
-# FareSpotter.net :: Privacy Policy
+# FareSpotter.net
 
 ## FareSpotter.net Privacy Policy
 
@@ -89,7 +89,4 @@ Attn: Privacy
 515 S. Flower Street, Suite 4400  
 Los Angeles, California 90071  
 privacy@FareSpotter.net  
-
-
-  
 
