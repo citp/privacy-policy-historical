@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231413id_/https%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327173948id_/https%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Established Men
 
