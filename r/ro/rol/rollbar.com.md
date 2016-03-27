@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031952id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328003343id_/https%3A//rollbar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rollbar
 
@@ -54,7 +54,7 @@ Because we want to improve our Services by better understanding your experience,
 
 #### EU Safe Harbor Framework
 
-Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the [Safe Harbor](http://export.gov/safeharbor/) program, and to view [our certification](http://safeharbor.export.gov/companyinfo.aspx?id=25383), please visit the U.S. Department of Commerce website. 
+Rollbar complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the [Safe Harbor](http://export.gov/safeharbor/) program, and to view [our certification](https://safeharbor.export.gov/companyinfo.aspx?id=25383), please visit the U.S. Department of Commerce website. 
 
 [We self-certify compliance with](https://safeharbor.export.gov/list.aspx)  
 [](http://www.export.gov/safeharbor)
