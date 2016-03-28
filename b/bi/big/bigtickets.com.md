@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtickets.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905212644id_/http%3A//tickets.xorbia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtickets.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328103616id_/http%3A//tickets.xorbia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xorbia TicketsXorbia Tickets
 
@@ -61,7 +61,6 @@ By using our site, You consent to our Web site privacy policy.
 
 If there are any questions regarding this privacy policy You may contact us using the information below.
 
-2752 East Ponce De Leon Ave. (Suite G)  
+2752 East Ponce De Leon Ave. (Suite I)  
 Decatur, GA 30030  
-USA  
-legal@xorbiainc.com
+[support@xorbiatickets.com](mailto:support@xorbiatickets.com)
