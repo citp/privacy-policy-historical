@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alledia.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923215617id_/https%3A//www.alledia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alledia.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328191341id_/https%3A//www.alledia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Alledia
 
