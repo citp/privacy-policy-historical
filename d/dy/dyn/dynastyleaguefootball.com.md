@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynastyleaguefootball.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221920id_/http%3A//dynastyleaguefootball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynastyleaguefootball.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328180959id_/http%3A//dynastyleaguefootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Dynasty League Football - DLF Privacy Policy
+# DLF Privacy Policy
 
 Privacy Policy for www.dynastyleaguefootball.com
 
