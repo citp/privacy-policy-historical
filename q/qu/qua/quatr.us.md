@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227051210id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quatr.us privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328075033id_/http%3A//quatr.us/privacypolicy.htm) for the most accurate reproduction.*
 
 # Quatr.us privacy policy - Quatr.us
 
-[](https://web.archive.org/web/20151227051210id_/http%3A//quatr.us/cartoons.htm)
+[](https://web.archive.org/web/20160328075033id_/http%3A//quatr.us/cartoons.htm)
 
 ## What information do we collect?
 
@@ -61,7 +61,7 @@ Also check out our cooking site at [Gevirts.com](http://www.gevirts.com/), and o
   
 
 
-[](http://amzn.to/1jSkicp)
+[](https://web.archive.org/subscription.htm)
 
 [Professor Carr](https://www.pdx.edu/history/bio-carr)
 
