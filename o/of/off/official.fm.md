@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227111132id_/http%3A//www.official.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the official.fm privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328111023id_/http%3A//official.fm/privacy) for the most accurate reproduction.*
 
 # Official.fm. Music to discover and share.
 
