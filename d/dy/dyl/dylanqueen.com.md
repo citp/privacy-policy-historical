@@ -1,49 +1,40 @@
-> *The following text is extracted and transformed from the dylanqueen.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911143143id_/http%3A//www.dylanqueen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dylanqueen.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328094721id_/http%3A//www.dylanqueen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At DylanQueen.com our target is to make your shopping experience safe, convenient and care-free. Our privacy and security programs make sure that every transaction made at our site is 100% safe and guaranteed.
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. To better protect your privacy, we provide the notice below describing our privacy policy and how your information is collected and used.By visiting QueenaBelle.com, you are accepting the practices described in this Privacy Policy.
 
-**What Information Do We Collect?**
+**Information Collection**
 
-The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us. For example, when you wish to purchase a product from this website we may collect details such as your name, address, delivery address and billing address，and other information relevant to your purchase.
+We collect personal information from you when you interact with us through our service. For example, we may ask you for personal information such as email, name, contact details, account password, instant messaging ID and/or credit or payment card information. You can correct or update your personal information at any time.
 
-As we are required by law to obtain your consent to the collection of "sensitive information", we will assume that you have given consent to the collection of all information you have provided to us for use in accordance with this Statement, unless you tell us otherwise.
+By voluntarily providing us with personal information, you hereby represent that you are the owner of such personal information or are otherwise authorized to provide it to us. You acknowledge and agree that you are consenting to our collection, use, storage and/or disclosure of such personal information in accordance with this Policy.
 
-**How We Collect Information**
+**Information Use**
 
-We may collect personal information about you when you visit our website, when you deal with us over the Email, we will not collect any personal information without your consent. We consider that your consent is granted when you complete the fields necessary to facilitate a transaction through this website.
+We collect information from you in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:
 
-How We Use Your Personal Information
+_*_ Record and quickly bring up information you’ve given   previously
 
-We generally collect your personal information for the following purposes:
+_*_ Help you quickly find information, products, and services
 
-To facilitate your access to our website, products and services
+_*_ Create content that is relevant to you
 
-To deliver products you have ordered from us
+_*_ Inform you of our latest products and special offers
 
-To seek your opinion on our products, services, marketing and website.
+_*_ Communicate with you about our Site and your orders
 
-Some of the personal information we collect is essential for us to be able to accurately identify who is using the service. Other types of personal information we collect help us to develop a profile of who is using our service, this assists us in offering products to suit the needs of the users of this website.
+## How does **DylanQueen.com** use and disclose information collected from me offline?
 
-**Disclosure of Personal Information to Third Parties**
+As we collect most information through our Site, this Privacy Policy applies only to online collection of personal information. We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
 
-We may disclose your personal information to third parties for the purpose for which the information was collected or for related purposes, for example to complete a transaction on your behalf or provide you with a product that you purchased. We engage third party contractors to perform services for us which involves the contractor handling personal information we hold. For example, we currently engage third party contractors to:
+This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
 
-**Deliver products purchased from this website**
+## Data Security
 
-Provide electronic funds transfer services, credit card account processing and related services
+The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.  
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-In these situations, the third party contractor is strictly from using any prohibited personal information about you except for the specific purpose for which we have supplied. We may also disclose your personal information to various law enforcement agencies and governments around the world for security, customs and immigration purposes. Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorized or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+## Where can I find updates to this policy?
 
-**Security of Your Personal Information**
-
-We will securely hold your personal information and we will not trade, rent or sell it. We will take all reasonable steps to keep secure any information which we hold about you. Personal information may be stored both electronically on our computer system, Firewalls, passwords, anti-virus software and email filters can protect all our electronic information.
-
-**Resolving Your Concerns**
-
-If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint via Email as soon as possible.
-
-**Changes to This Privacy Statement**
-
-We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on our site, so please visit this page periodically to ensure that you have our most current privacy statement.
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Policy on this Site and encourage you to review this Privacy Policy from time to time. Please contact us with any questions about the Privacy Policy.
