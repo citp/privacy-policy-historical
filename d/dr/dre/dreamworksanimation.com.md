@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamworksanimation.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813041544id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamworksanimation.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328165527id_/http%3A//www.dreamworksanimation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ We use a third-party payment service to process payments made through the Servic
 
 ## Use and Disclosure
 
-We use the information we collect from and about a user to provide the Services to him or her, including to measure and improve the Services and its features; to improve the user’s experience by delivering relevant content, including advertising and, if the user has agreed, marketing messages; to allow the user to participate in contests or other promotions; to provide the user with customer support; to respond to requests and inquiries; to evaluate an individual for job opportunities if he or she submits a résumé through our "careers" section; and to evaluate a reel or portfolio submitted by a user, which submission is governed by Section 7 of our _Terms of Use_ **[link to TOU]**. When the information collected from or about a user does not identify him or her, or allow contact with him or her or his or her device, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
+We use the information we collect from and about a user to provide the Services to him or her, including to measure and improve the Services and its features; to improve the user’s experience by delivering relevant content, including advertising and, if the user has agreed, marketing messages; to allow the user to participate in contests or other promotions; to provide the user with customer support; to respond to requests and inquiries; to evaluate an individual for job opportunities if he or she submits a résumé through our "careers" section; and to evaluate a reel or portfolio submitted by a user, which submission is governed by Section 7 of our **_[Terms of Use](http://www.dreamworksanimation.com/termsofuse.html)_**. When the information collected from or about a user does not identify him or her, or allow contact with him or her or his or her device, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
 
 We use and disclose the information we collect from and about users for these additional purposes:
 
