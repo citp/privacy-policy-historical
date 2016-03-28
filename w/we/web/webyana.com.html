@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the webyana.com privacy policy that was archived on 2015-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150416112134id_/http%3A//www.webyana.com/support/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webyana.com privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328205951id_/http%3A//webyana.com/support/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUVZUGwEIV1BUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//web.archive.org/web/20160328202705/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEUVZUGwEIV1BUDwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 	
     
     <meta name="keywords" content="">
@@ -10,14 +10,14 @@
     
 	<title>Privacy Policy</title>    
     
-	<link rel="icon" href="//cdnassets.com/getImage.php?url=webyana.com&amp;src=favicon.ico&amp;t=1378478507" type="image/x-icon">
-	<link rel="shortcut icon" href="//cdnassets.com/getImage.php?url=webyana.com&amp;src=favicon.ico&amp;t=1378478507" type="image/x-icon">
+	<link rel="icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/getImage.php?src=favicon.ico" type="image/x-icon">
 	
-    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/210000_239999/229871/supersite2/supersite/themes/MinimalGreen-MyTheme/css/production/production.css?v=1427464469">
+    <link rel="stylesheet" type="text/css" href="/ui/resellerdata/210000_239999/229871/supersite2/supersite/themes/MinimalGreen-MyTheme/css/production/production.css?v=1456734779">
 	
-	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.js?t=1378478505"></script>
-	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/commonScripts.js?t=1424793941"></script>
-	<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/cart.js?t=1389014535"></script>
+	<script type="text/javascript" src="/ui/supersite/en/js/jquery.js"></script>
+	<script type="text/javascript" src="/ui/supersite/en/js/commonScripts.js"></script>
+	<script type="text/javascript" src="/ui/supersite/en/js/cart.js"></script>
     
     <!--[if IE]>   
     <script type="text/javascript">
@@ -32,7 +32,7 @@
     <![endif]-->
 
     <script type="text/javascript">
-        objl10n = {"common_hello":"Hello!","common_logout":"Logout","common_notyou":"Not You","common_checkoutaftershopping":"Click here to checkout after you have finished shopping","common_shoppingcartempty":"Your shopping cart is empty.","common_processing":"Processing","common_noconnection":"No Connection","common_usethis":"Use This","common_mo":"mo","common_yr":"yr","common_from":"from"} ;
+        objl10n = {"common_hello":"Hello!","common_logout":"Logout","common_notyou":"Not You","common_checkoutaftershopping":"Click here to checkout after you have finished shopping","common_shoppingcartempty":"Your shopping cart is empty.","common_processing":"Processing","common_noconnection":"No Connection","common_usethis":"Use This","common_mo":"mo","common_yr":"yr","common_from":"from","common_invalid_vat_id":"Invalid VAT ID. If you don't have a valid VAT ID, clear the field and proceed. You can add this later from your control panel.","upsell_account":"Account","upsell_accmo":"Acc\/Mo","upsell_months":"Month(s)","upsell_accounts":"accounts","upsell_more":"Please contact us through our Support Page to buy more than 250 Accounts"} ;
     </script>
 
     <!--[if IE 6]>    
@@ -40,20 +40,20 @@
     <![endif]-->
       
      <!--[if IE 7]>     
-      	<link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1427463776">
+      	<link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie7.css?1436358367">
       <![endif]-->
       
        <!--[if IE 8]>   
-       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1427463776">
+       <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie8.css?1436358367">
       <![endif]-->
       
       <!--[if IE 9]>    
-        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1421851557">
+        <link rel="stylesheet" type="text/css" href="/ui/supersite/themes/MinimalGreen/css/ie/ie9.css?1436358367">
      <![endif]--> 
      
       <!--[if lt IE 9]>
-        <script type="text/javascript" src="//cdnassets.com//ui/supersite/themes/MinimalGreen/images/iefix/PIE.js?t=1378478507"></script>
-        <script type="text/javascript" src="//cdnassets.com//ui/supersite/themes/MinimalGreen/images/iefix/iefix.js?t=1389960289"></script>
+        <script type="text/javascript" src="/ui/supersite/themes/MinimalGreen/images/iefix/PIE.js"></script>
+        <script type="text/javascript" src="/ui/supersite/themes/MinimalGreen/images/iefix/iefix.js"></script>
     <![endif]-->
     
 </head>
@@ -75,21 +75,22 @@
 
 <div id="page-header">
 	<div id="header-wrapper">
-		
+		 
 <!-- ### Template common/header/header.html starts here ### -->
-<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.innerfade.js?t=1378478505"></script>
-<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/jquery.scrollTo.js?t=1378478505"></script>
+<script type="text/javascript" src="/ui/supersite/en/js/jquery.innerfade.js"></script>
+<script type="text/javascript" src="/ui/supersite/en/js/jquery.scrollTo.js"></script>
 
+<div class="new-header-style">
 
-<h1 id="branding">
-    <span class="logo-cont">
-        <span></span>
-        <a href="/index.php"><img src="//cdnassets.com/getImage.php?url=webyana.com&amp;src=logo.gif&amp;t=1416219912" alt=""></a>
-    </span>
-</h1>
-
+    <h1 id="branding">
+        <span class="logo-cont">
+            <span></span>
+            <a href="/index.php"><img src="/getImage.php?src=logo.gif" alt=""></a>
+        </span>
+    </h1>
+    
 <!-- ### Template common/header/includes/header_dashboard.html starts here ### -->
-<div id="top-header">
+<div id="top-header" class="new-head-gray-bg">
     <div class="top-header">    
     
         
@@ -106,23 +107,25 @@
                     <input type="hidden" name="action" value="change_display_currency">
                     <input type="hidden" name="preferred_currency">
                 </form>
-                <li class="currency-opt"><span class="ic-top-set" id="selected_currency_flag"></span><span id="current_selected_currency"></span><span class="ic-top-set ic-top-dd"></span>
+                <li class="currency-opt">
+                    <span class="dashboard-option-label">Currency:&nbsp;</span>
+                    <span id="current_selected_currency"> INR</span><span class="ic-top-set ic-top-dd"></span>
                     <ul class="user-dd" id="currency_change">
                         
-                            <li data-currencykey="AUD" data-selectedcurrency=""><span class="ic-top-set"></span> AUD</li>
-                            <li data-currencykey="CAD" data-selectedcurrency=""><span class="ic-top-set"></span> CAD</li>
-                            <li data-currencykey="CNY" data-selectedcurrency=""><span class="ic-top-set"></span> CNY</li>
-                            <li data-currencykey="EUR" data-selectedcurrency=""><span class="ic-top-set"></span> EUR</li>
-                            <li data-currencykey="GBP" data-selectedcurrency=""><span class="ic-top-set"></span> GBP</li>
-                            <li data-currencykey="INR" data-selectedcurrency="selected"><span class="ic-top-set"></span> INR</li>
-                            <li data-currencykey="RUB" data-selectedcurrency=""><span class="ic-top-set"></span> RUB</li>
-                            <li data-currencykey="TRY" data-selectedcurrency=""><span class="ic-top-set"></span> TRY</li>
-                            <li data-currencykey="USD" data-selectedcurrency=""><span class="ic-top-set"></span> USD</li>
+                            <li data-currencykey="AUD" data-selectedcurrency=""><span class="ic-top-set ic-cur-aud"></span> AUD</li>
+                            <li data-currencykey="CAD" data-selectedcurrency=""><span class="ic-top-set ic-cur-cad"></span> CAD</li>
+                            <li data-currencykey="CNY" data-selectedcurrency=""><span class="ic-top-set ic-cur-cny"></span> CNY</li>
+                            <li data-currencykey="EUR" data-selectedcurrency=""><span class="ic-top-set ic-cur-eur"></span> EUR</li>
+                            <li data-currencykey="GBP" data-selectedcurrency=""><span class="ic-top-set ic-cur-gbp"></span> GBP</li>
+                            
+                            <li data-currencykey="RUB" data-selectedcurrency=""><span class="ic-top-set ic-cur-rub"></span> RUB</li>
+                            <li data-currencykey="TRY" data-selectedcurrency=""><span class="ic-top-set ic-cur-try"></span> TRY</li>
+                            <li data-currencykey="USD" data-selectedcurrency=""><span class="ic-top-set ic-cur-usd"></span> USD</li>
                         <li class="note-cur">Prices are calculated at the daily forex rate and are for display purposes only. Payments will be made in INR</li>
                     </ul>
                 </li>
             
-            <li class="shp-cart"><a href="/checkout.php"><span class="ic-top-set ic-shp-cart"></span><span class="shp-cart-no" id="dashboard-cartItemCount"></span></a></li>
+            <li class="shp-cart"><a href="/checkout.php"><span class="ic-top-set ic-shp-cart"></span><span class="shp-cart-no" id="dashboard-cartItemCount">0</span></a></li>
         </ul>
         
         <div class="clear"></div>
@@ -133,184 +136,188 @@
 <input type="hidden" id="signout2" value="You have some item(s) in your shopping cart. All these items will be emptied and you will have to start all over again. Are you sure?">
 <!-- ### Template common/header/includes/header_dashboard.html ends here ### -->
 
+    <div class="clear"></div>
+    <div id="primary-nav">
+        <div class="nav">
+            <ul class="navigation">
 
-<div class="clear"></div>
-<div id="primary-nav">
-	<div class="nav">
-    	<ul class="navigation">		
-    
-    		<li class="first "><a href="/">Home</a></li>
-            
-            <li class="levelone ">
-            <a href="/domain-registration/index.php">Domains</a>
-                <ul class="submenu-parent" id="domainssubmenu">
-                    <li>
-                        <h3>Registration</h3>
-                        <ul>
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/index.php">Register a Domain</a>
-                                    <p>Book your domain here</p>
-                                </div>
-                            </li>
+                <li class="first "><a href="/">Home</a></li>
 
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Registration</a>
-                                    <p>Bulk Registrations at lower rates</p>
-                                </div>
-                            </li>
+                <li class="levelone ">
+                <a href="/domain-registration/index.php">Domains</a>
+                    <ul class="submenu-parent" id="domainssubmenu">
+                        <li>
+                            <h3>Registration</h3>
+                            <ul>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/index.php">Register a Domain</a>
+                                        <p>Book your domain here</p>
+                                    </div>
+                                </li>
 
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/new-domain-extensions">New Domain Extensions<span class="mnew-tag">New</span></a>
-                                    <p>Pre-register to get the name of your choice</p>
-                                </div>
-                            </li>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Registration</a>
+                                        <p>Bulk Registrations at lower rates</p>
+                                    </div>
+                                </li>
 
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/new-domain-extensions/sunrise">Sunrise Domains</a>
-                                    <p>Register domains using your trademark name</p>
-                                </div>
-                            </li>
-                            
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/idn">IDN Domain Registration</a>
-                                    <p>Book your internationalized domains here</p>
-                                </div>
-                            </li>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/new-domain-extensions">New Domain Extensions<span class="mnew-tag">New</span></a>
+                                        <p>Pre-register to get the name of your choice</p>
+                                    </div>
+                                </li>
 
-                            <li class="hide">
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a>
-                                    <p>Compare pricing across 50+ extensions</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                    
-                    <li>
-                        <h3>Transfer</h3>
-                        <ul>
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/transfer/index.php">Transfer your Domain</a>
-                                    <p>Move in your existing Domains</p>
-                                </div>
-                            </li>                    
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/transfer/bulk-domain-transfer.php">Bulk Domain Transfer</a>
-                                    <p>Save by moving domains in bulk</p>
-                                </div>
-                            </li>                    
-                        </ul>
-                    </li>
-                    
-                    <li>
-                        <h3>Add-ons</h3>
-                        <ul>
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/free-with-domain-registration.php">Free with every domain</a>
-                                    <p>Free email, DNS, theft protection and more</p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/domain-name-suggestion-tool.php">Name suggestion tool</a>
-                                    <p>Use our name spinner for ideas on your ideal domain name</p>
-                                </div>
-                            </li>
-                            <li>
-                                <span class="menu-icon"></span>
-                                <div class="menu-content">
-                                    <a href="/domain-registration/domain-whois-lookup.php">Whois lookup</a>
-                                    <p>Perform a Whois Lookup</p>
-                                </div>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            
-            
-            
-    		<li class="levelone ">
-            <a href="/web-hosting/index.php">Hosting</a>
-                <ul class="submenu-parent reduce_hosting_menu_indentation" id="hostingsubmenu">
-                    
-                    <li>
-                        <h3>Shared Hosting</h3>
-                        <ul>
-                            
-                            <li>
-                                <span class="menu-icon linuxhosting-micon"></span>
-                                <div class="menu-content">
-                                    <a href="/web-hosting/linux-php-hosting.php">Linux Shared Hosting</a>
-                                    <p>Perfect for smaller websites and blogs. Comes with cPanel, PHP, Apache and more</p>
-                                </div>
-                            </li>
-                            
-                            
-                            <li>
-                            	<span class="menu-icon windowshosting-micon"></span>
-                                <div class="menu-content">
-                                    <a href="/web-hosting/windows-hosting.php">Windows Shared Hosting</a>
-                                    <p>Perfect for smaller websites, blogs, etc. Comes with Plesk, ASP, IIS and more</p>
-                                </div>
-                            </li>
-                            
-                        </ul>	
-                    </li>
-                    
-                    
-                    
-                    
-                </ul>
-            </li>
-            
-            
-            <li class="levelone ">
-            <a href="#">Email</a>
-				<ul class="submenu-parent" id="emailsubmenu">
-                    <li>
-                        <ul>
-                            
-                            <li>
-                                <span class="menu-icon business-micon"></span>
-                                <div class="menu-content">
-                                    <a href="/business-email">Business Email</a>
-                                    <p>Simple and powerful webmail.</p>
-                                </div>
-                            </li>
-                            
-                            
-                        </ul>
-                    </li>
-                </ul>            
-            </li>
-            
-            
-            
-    	</ul>
-	</div>
-	<span class="l-corner"></span>
-	<span class="r-corner"></span>	
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/new-domain-extensions/sunrise">Sunrise Domains</a>
+                                        <p>Register domains using your trademark name</p>
+                                    </div>
+                                </li>
+                                
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/idn">IDN Domain Registration</a>
+                                        <p>Book your internationalized domains here</p>
+                                    </div>
+                                </li>
+
+                                <li class="hide">
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a>
+                                        <p>Compare pricing across 50+ extensions</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <h3>Transfer</h3>
+                            <ul>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/transfer/index.php">Transfer your Domain</a>
+                                        <p>Move in your existing Domains</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/transfer/bulk-domain-transfer.php">Bulk Domain Transfer</a>
+                                        <p>Save by moving domains in bulk</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <h3>Add-ons</h3>
+                            <ul>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/free-with-domain-registration.php">Free with every domain</a>
+                                        <p>Free email, DNS, theft protection and more</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/domain-name-suggestion-tool.php">Name suggestion tool</a>
+                                        <p>Use our name spinner for ideas on your ideal domain name</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <span class="menu-icon"></span>
+                                    <div class="menu-content">
+                                        <a href="/domain-registration/domain-whois-lookup.php">Whois lookup</a>
+                                        <p>Perform a Whois Lookup</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+                
+                
+                <li class="levelone ">
+                <a href="/web-hosting/index.php">Hosting</a>
+                    <ul class="submenu-parent reduce_hosting_menu_indentation" id="hostingsubmenu" style="width: 245px;">
+                        
+                        <li style="">
+                            <h3>Shared Hosting</h3>
+                            <ul>
+                                
+                                <li>
+                                    <span class="menu-icon linuxhosting-micon"></span>
+                                    <div class="menu-content">
+                                        <a href="/web-hosting/linux-php-hosting.php">Linux Shared Hosting</a>
+                                        <p>Perfect for smaller websites and blogs. Comes with cPanel, PHP, Apache and more</p>
+                                    </div>
+                                </li>
+                                
+                                
+                                <li>
+                                    <span class="menu-icon windowshosting-micon"></span>
+                                    <div class="menu-content">
+                                        <a href="/web-hosting/windows-hosting.php">Windows Shared Hosting</a>
+                                        <p>Perfect for smaller websites, blogs, etc. Comes with Plesk, ASP, IIS and more</p>
+                                    </div>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        
+                        
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                <li class="levelone ">
+                <a href="https://web.archive.org/web/20160328205951id_/http%3A//webyana.com/support/privacy.php#">Email</a>
+                    <ul class="submenu-parent" id="emailsubmenu">
+                        <li>
+                            <ul>
+                                
+                                <li>
+                                    <span class="menu-icon business-micon"></span>
+                                    <div class="menu-content">
+                                        <a href="/business-email">Business Email</a>
+                                        <p>Simple and powerful webmail.</p>
+                                    </div>
+                                </li>
+                                
+                                
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                
+
+                
+
+                
+
+            </ul>
+        </div>
+        <span class="l-corner"></span>
+        <span class="r-corner"></span>
+    </div>
+
 </div>
-
 
 <script type="text/javascript">
 
@@ -475,81 +482,96 @@ $(".navigation li").hover(
 	<div id="footer-wrapper">
 		
 <!-- ### Template common/footer/footer.html starts here ### -->
-<div class="footer-cols">
-	<div class="col one">
-    	<h4>Domains</h4>
-		<ul class="secondary-links">
-			<li><a href="/domain-registration/index.php">Register Domain Name</a></li>
-			<li><a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a></li>
-			<li><a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Register</a></li>
-			<li><a href="/domain-registration/transfer/bulk-domain-transfer.php">Bulk Domain Transfer</a></li>
-			<li><a href="/domain-registration/domain-whois-lookup.php">Whois Lookup</a></li>
-			<li><a href="/domain-registration/domain-name-suggestion-tool.php">Name Suggestion Tool</a></li>
-			<li><a href="/domain-registration/free-with-domain-registration.php">Free with Every Domain</a></li>
-			<li><a href="/domain-registration/promos.php" class="greytext">View Promos</a></li>
-        </ul>
-	</div>
-    
-	<div class="col two">
-    	<h4>Hosting &amp; Products</h4>
-		<ul class="secondary-links">
-            <li><a href="/web-hosting/linux-php-hosting.php">Linux Hosting</a></li>
-            <li><a href="/web-hosting/windows-hosting.php">Windows Hosting</a></li>
-            
-            
-            
-            
-            
-            
-            <li><a href="/business-email">Business Email</a></li>
-            
-            
-            
-            
-            
-        </ul>
-	</div>
-    
-    
-	<div class="col three">
-    	<h4>Infrastructure</h4>
-		<ul class="secondary-links">
-            <li><a href="/web-hosting/datacenter-network.php">Datacenter Details</a></li>
-            <li><a href="/web-hosting/hosting-security.php">Hosting Security</a></li>
-            <li><a href="/web-hosting/server-monitoring.php">24 x 7 Servers Monitoring</a></li>
-            <li><a href="/web-hosting/data-protection-recovery.php">Backup and Recovery</a></li>
-       </ul>
-	</div>
-    
-	<div class="col four">
-    	<h4>Support</h4>
-		<ul class="secondary-links">
-			<li><a target="_blank" href="http://cpanel.webyana.com/kb">View Knowledge Base</a></li>
-			<li><a href="/support/contact-us.php">Contact Support</a></li>
-			<li><a href="/support/contact-us.php">Report Abuse</a></li>
-		</ul>
+<div class="new-footer-style">
+
+    <div class="footer-cols">
+
+        <div class="col one">
+            <h4>Domains</h4>
+            <ul class="secondary-links">
+                <li><a href="/domain-registration/index.php">Register Domain Name</a></li>
+                <li><a href="/domain-registration/domain-registration-price.php">View Domain Pricing</a></li>
+                <li><a href="/domain-registration/bulk-domain-registration.php">Bulk Domain Register</a></li>
+                <li><a href="/domain-registration/transfer/bulk-domain-transfer.php">Bulk Domain Transfer</a></li>
+                <li><a href="/domain-registration/domain-whois-lookup.php">Whois Lookup</a></li>
+                <li><a href="/domain-registration/domain-name-suggestion-tool.php">Name Suggestion Tool</a></li>
+                <li><a href="/domain-registration/free-with-domain-registration.php">Free with Every Domain</a></li>
+                <li><a href="/domain-registration/promos.php" class="greytext">View Promos</a></li>
+            </ul>
+        </div>
+        
+        <div class="col two">
+            <h4>Hosting &amp; Products</h4>
+            <ul class="secondary-links">
+                <li><a href="/web-hosting/linux-php-hosting.php">Linux Hosting</a></li>
+                <li><a href="/web-hosting/windows-hosting.php">Windows Hosting</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a href="/business-email">Business Email</a></li>
+                
+                
+                
+                
+                
+                
+            </ul>
+        </div>
+        
+        
+        <div class="col three">
+            <h4>Infrastructure</h4>
+            <ul class="secondary-links">
+                <li><a href="/web-hosting/datacenter-network.php">Datacenter Details</a></li>
+                <li><a href="/web-hosting/hosting-security.php">Hosting Security</a></li>
+                <li><a href="/web-hosting/server-monitoring.php">24 x 7 Servers Monitoring</a></li>
+                <li><a href="/web-hosting/data-protection-recovery.php">Backup and Recovery</a></li>
+           </ul>
+        </div>
+        
+        <div class="col four">
+            <h4>Support</h4>
+            <ul class="secondary-links">
+                <li><a target="_blank" href="http://cpanel.webyana.com/kb">View Knowledge Base</a></li>
+                <li><a href="/support/contact-us.php">Contact Support</a></li>
+                <li><a href="/support/contact-us.php">Report Abuse</a></li>
+            </ul>
+        </div>
+        <div class="col misc">
+            <h4>Resellers</h4>
+            <ul class="secondary-links">
+                <li><a target="_blank" href="/reseller.php?action=partnersite">Join Reseller Program</a></li>
+            </ul>
+        </div>
+
     </div>
-	<div class="col misc">
-        <h4>Resellers</h4>
-        <ul class="secondary-links">
-			<li><a target="_blank" href="/reseller.php?action=partnersite">Join Reseller Program</a></li>
-        </ul>
+
+
+    <div class="copyright-info-wrapper">
+        <div class="copyright-info-container">
+            <p id="fineprint" class="lfloat">Copyright © Webyana Technologies Pvt Ltd. All rights reserved</p>
+            <span class="rfloat">&nbsp;|&nbsp;<a href="/support/legal.php" target="_blank">Legal Agreement</a></span>
+            <span class="rfloat"><a href="/support/privacy.php" target="_blank">Privacy Policy</a></span>
+            <br class="clear">
+        </div>
     </div>
 
 </div>
 
-<p id="fineprint">Copyright © Webyana Technologies Pvt Ltd. All rights reserved</p>
-<span><a href="/support/privacy.php" target="_blank">Privacy Policy</a></span> | <span><a href="/support/legal.php" target="_blank">Legal Agreement</a></span> 
-
-<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/loading_animation.js?t=1378478505"></script>
-<script type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/footerScripts.js?t=1378478505"></script>
-<script async="" type="text/javascript" src="//cdnassets.com//ui/supersite/en/js/ga_event_tracking.js?t=1407134123"></script>
+<script type="text/javascript" src="/ui/supersite/en/js/loading_animation.js"></script>
+<script type="text/javascript" src="/ui/supersite/en/js/footerScripts.js"></script>
+<script async="" type="text/javascript" src="/ui/supersite/en/js/ga_event_tracking.js"></script>
 <!-- ### Template common/footer/footer.html ends here ### -->
 
 	</div>
 </div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"8ce0a4af47","applicationID":"2831685","transactionName":"Y1RTMhNTC0dRBRFaWloeZBQIHRZBQBYKQUEaQVkW","queueTime":0,"applicationTime":100,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8ce0a4af47","applicationID":"2831685","transactionName":"Y1RTMhNTC0dRBRFaWloeZBQIHRZBQBYKQUEaQVkW","queueTime":0,"applicationTime":112,"atts":"TxNQRFtJGEk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <!-- ### Template root.html ends here ### -->
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
