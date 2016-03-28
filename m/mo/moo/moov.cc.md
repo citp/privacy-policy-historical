@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moov.cc privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908113837id_/https%3A//www.moov.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moov.cc privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328173640id_/https%3A//www.moov.cc/privacy) for the most accurate reproduction.*
 
 # Moov, Inc. Privacy Policy | Moov
 
