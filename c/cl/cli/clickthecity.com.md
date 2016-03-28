@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916155554id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328083440id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
 
 # ClickTheCity.com Privacy Policy
 
@@ -6,7 +6,7 @@ This privacy policy sets out how Surf Shop uses and protects any information tha
 
 Surf Shop is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Surf Shop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Sep 16, 2015.
+Surf Shop may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 24, 2015.
 
 ##### What we collect
 
@@ -29,9 +29,9 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
   * For Mobile Ordering Service  
-If you use our mobile ordering service, we will transmit your information (name, address, phone#), together with your order to our delivery partners so they can fulfil your order request.
+If you use our mobile ordering service, we will transmit your information (name, address, phone#), together with your order to our delivery partners so they can fulfill your order request. Our delivery partners may retain and use your information to send promotional emails about new products, special offers or other information which you may find interesting.
   * For Ticketing Service  
-If you use our ticketing service, we transmit your information (name, email address), together with the order information to our cinema partners so they can properly record your ticket purchase.
+If you use our ticketing service, we will transmit your information (name, email address), together with the order information to our cinema partners so they can properly process your ticket purchase. Our cinema partners may retain and use your information to send promotional emails about new products, special offers or other information which you may find interesting.
 
 
 
@@ -57,11 +57,12 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at helpdesk@clickthecity.com.
+  * Most of our service requires that you register with us your personal information. If you don’t want to give us any information: whenever you are asked to fill in a form, just don’t proceed and cancel it.
+  * If you have previously submitted to us your personal information, you may change your mind at any time by emailing us at helpdesk@clickthecity.com with subject "Delete Account - [email address]". By deleting your account you would not be able to access services requiring a user account.
+  * If you received a promotional email from us, you can simply click the link that says "Unsubscribe" and we will remove you from our promotional mailing list. Unsubscribing just removes you from our promotional mailing list, but you can still continue to use our account-based services we offer.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, but you can opt out at anytime.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
