@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clear-reports.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506080517id_/http%3A//www.clear-reports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear-reports.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328135944id_/http%3A//www.clear-reports.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ClearReports
 
@@ -34,7 +34,7 @@ You have the right to ask CRL for a copy of the personal information CRL hold ab
 
 ## Cookie Policy
 
-The CR website cookie policy can be found [here](https://web.archive.org/web/20150506080517id_/http%3A//www.clear-reports.com/cookies.html) and informs users what cookies are used on this site and how to manage them.
+The CR website cookie policy can be found [here](https://web.archive.org/web/20160328135944id_/http%3A//www.clear-reports.com/cookies.html) and informs users what cookies are used on this site and how to manage them.
 
 ## Newsletters
 
