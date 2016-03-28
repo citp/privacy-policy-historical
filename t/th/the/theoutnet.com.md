@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007063233id_/https%3A//www.theoutnet.com/en-US/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328184759id_/https%3A//www.theoutnet.com/en-US/Help/PrivacyPolicy%3Fcm_sp%3DFooterLink-_-HelpPrivacyPolicy-_-FooterLink) for the most accurate reproduction.*
 
 # Help | US | THE OUTNET
 
