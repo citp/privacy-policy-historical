@@ -1,113 +1,178 @@
-> *The following text is extracted and transformed from the thedailytail.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430124454id_/http%3A//taildom.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailytail.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328182608id_/https%3A//customerinsight.ca/CI/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Phelps Renovations|Phelps Homes|Prominent Homes | CustomerInsight
 
-Last updated: June 10, 2012
+CustomerInsight Inc. (“CustomerInsight” or the “Company”) is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitors”), individuals who register to use the Services as defined below (“Customers”), and individuals who register to attend the Company’s corporate events (“Attendees”). This Privacy Statement describes CustomerInsight’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by CustomerInsight (the “Services”).
 
-Taildom is a website and service operated by The Daily Tail, Inc., a Massachusetts Coropration. The Daily Tail and Taildom take your privacy very seriously. We are providing this privacy policy to inform you of our policies and procedures to collect, use and disclose information on the Taildom service (hereafter referred to as "Taildom"), as well as your choices regarding information. If you have any questions or concerns, please let us know by clicking [here](https://web.archive.org/contact "Contact us").
+CustomerInsight complies with third-party website and online requirements including transparency, accountability, and choice regarding the collection and use of your personal information. CustomerInsights’s mission, as an independent third party, is to gather customer and business intelligence with the goal of improving client and industry performance through its leading innovative solutions. If you have questions or complaints regarding CustomerInsight’s Privacy Statement or associated practices, please contact us.
 
-This policy may be modified from time to time at our sole discretion, so check back frequently. We will notify you of any changes to the policy by posting the new policy and updating the "last modified" date at the top of the Taildom privacy policy page.
+CustomerInsight is also a member of MRIA/ARIM, (Marketing Research and Intelligence Association), a Canadian not-for-profit association representing all aspects of the market intelligence and survey research industry, including social research, competitive intelligence, data mining, insight, and knowledge management. Their mission is to promote a positive environment that enhances the industry’s ability to conduct affairs effectively and to the benefit of the public and members. Privacy and consumer rights are core drivers for the continued professional development and education we insist on for our individual members, the high quality standards we demand from our corporate members, and the strict measures we maintain as leaders in corporate responsibility. As members, we are obligated to abide by strict policies and procedures with respect to confidential public information, survey questionnaires, results and maintaining ethical business  
+practices. http://www.mria-arim.ca/SPLASH/default.asp
 
-The terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way. This includes, but is not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization.
+## 1\. Web sites covered
 
-### How we collect information
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: https://www.customerInsight.ca http://www.ccaswell.com; http://www.homeownermarkofexcellence.com;  
+￼￼￼http://www.homeownerplaybook.com; www.customerinsight.net; http://www.homeownermark.com’ and http://www.customerinsightfoundation.org; (collectively referred to as “CustomerInsight’s Web sites” or “the Company’s Web sites”).
 
-We collect information when you browse Taildom. Tools like cookies and log files collect certain information about your activity on Taildom (see more details below).
+Applications may be posted by CustomerInsight and third parties. When applications are posted by CustomerInsight and the application links to this Privacy Statement, this Privacy Statement applies.
 
-We collect information that you voluntarily provide us to become a user of Taildom, and when you use certain capabilities of Taildom (such as when you provide your email on a form to send Taildom a message).
+CustomerInsight’s Web sites may contain links to other Web sites. The information practices or the content of such other Web sites is governed by the privacy statements of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
-We collect information when you register to join Taildom through Facebook, Yahoo or Google. For instance, you may create a Taildom user account and may login to Taildom using your Facebook account. If you are not registered as a Taildom user and you click on "Login with Facebook," you will be asked to enter your Facebook login and password, and then will be given the option to create a Taildom user account. Your Facebook password will not be stored in Taildom servers. The same applies to other third-party login websites such as Google and Yahoo.
+## 2\. Information collected
 
-### What information we collect and how we use it
+When expressing an interest in obtaining additional information about the Services or registering to use the Services, CustomerInsight requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). When purchasing the Services, CustomerInsight may require you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Services (“Billing Information”). CustomerInsight may also ask you to provide additional information, such as company annual closings, number of employees, or industry (“Optional Information”). Required Contact Information, Billing Information, and Optional Information about Customers are referred to collectively as “Data about CustomerInsight Customers”, or in the case of Attendees, “Data about CustomerInsight Attendees”.
 
-#### Personal Information
+As you navigate the Company’s Web sites, CustomerInsight may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web sites (such as the Web pages viewed and the links clicked). For additional information about the collection of Web Site Navigational Information by CustomerInsight and others, please contact us.
 
-When you register as a Taildom user, you will be prompted to login to Taildom through Facebook, Google or Yahoo. If you do not have an account with any of those websites, you will not be able to login to Taildom.
+## 3\. Use of information collected
 
-When you login to Taildom through Facebook, Google or Yahoo, you will be prompted to authorize these websites to provide us with some information about you that you have already provided them before – your personal Information – which may be your name, gender and email, depending on the website you choose to login to Taildom. The information we collect may depend on the privacy settings you have with Facebook, Google or Yahoo, so please consult their privacy and data practices.
+The Company uses Data about CustomerInsight Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
-Once you have established a Taildom account for you, you may enter more personal information about you on your Taildom profile page. Your personal information may include, but is not limited to, your name, gender, profile photo, date of birth, location, your personal website and email address. We use your personal information -- in some cases, in conjunction with your non-personally identifiable information (see below) -- to provide our service to you.
+The Company also uses Data about CustomerInsight Attendees to plan and host corporate events, host online surveys, focus groups, forums and social networks in which event attendees may participate, and to populate online profiles for Attendees on the Company’s Web sites. We only collect personal information that is strictly necessary for the purposes outlined in this privacy policy. Generally we collect personal information from Attendees directly or from our business partners such as new home builders, warranty providers, or industry regulators. This information could be collected in person, over the telephone, through the mail, or by electronic means, under the assumption that the builder, warranty provider or industry regulator has obtained the Attendees consent for us to obtain their customer’s personal information and conduct research on behalf of that organization. We only collect, use, or disclose personal information for the purposes we believe the Customers and Attendees would consider appropriate under the circumstances. Both Customer and Attendee’s knowledge and consent are required for the collection, use, or disclosure of personal information unless permitted or required by law. Of course, subject to reasonable and lawful limits, any Customer or Attendee can chose not to provide us with some or all personal information. However this choice may prevent us from providing the product, service or information that has been requested.
 
-#### Ways we use your Personal Information
+The Company may also use Data about CustomerInsight Customers and Data about CustomerInsight Attendees for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in the Services and to send you information regarding the Company, its affiliates, and its partners, such as information about promotions or events. CustomerInsight may also use comments provided in survey responses on www.homeownermark.com for builder profiles, however only first names and community name may be used, unless the Attendee has chosen to remain confidential in which case “Confidential” will appear instead of the first name.
 
-We ask for your personal information so that we can identify you, create an account for you and contact you.
+CustomerInsight uses credit card information solely to check the financial qualifications and collect payment from prospective Customers and Attendees.
 
-We use your personal information to create your Taildom user account, so you can use Taildom; to answer any questions or messages that you send us; and to contact you. We may send you Taildom newsletters, marketing and/or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive communications from us, follow the unsubscribe link provided in any of the communications.
+CustomerInsight uses Web Site Navigational Information to operate and improve the Company’s Web sites. The Company may also use Web Site Navigational Information alone or in combination with Data about CustomerInsight Customers and Data about CustomerInsight Attendees to provide personalized information about the Company. For additional information about the use of Web Site Navigational Information, please contact us.
 
-#### Non-Personally Identifiable Information
+## 4\. Web site Navigational Information
 
-We also collect other information that you provide as part of your registration and your use of Taildom (including personalization of your profile on Taildom) that cannot reasonably be used to identify or contact you (for example, without limitation, age and type of pets you own), which we call non-personally identifiable information. We may combine your personal information with non-personally identifiable information and aggregate it with information collected from other Taildom users to attempt to provide you with a better experience, to improve the quality and value of Taildom and to analyze and understand how users use Taildom.
+### Cookies, Web Beacons and IP Addresses
 
-#### Log Files
+CustomerInsight uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web sites (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information used on the Company’s Web sites and how this information may be used.
 
-As in most websites, we automatically gather certain information in log files, whether you visit Taildom as a registered user or as a non-registered user. These log files may include information such as the webpage you were visiting before you arrived at Taildom, the web browser you were using, search requests you make on Taildom, what pages of Taildom you visited, how much time you spent on those pages, among other statistics. We use this information, which does not identify individual users, to analyze trends, administer Taildom, track users' navigation habits on Taildom and to gather demographic information about our user base as a whole.
+### Cookies
 
-#### Cookies
+CustomerInsight uses cookies to make interactions with the Company’s Web sites easy and meaningful. When you visit one of the Company’s Web sites, CustomerInsight’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to CustomerInsight, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” or a “Live Chat” Web form), you remain anonymous to the Company.
 
-Like many websites, Taildom uses small text files called cookies that are stored on a user's computer to store information. We use persistent cookies, which stay in your computer for an extended period of time, to save your login information for future logins to Taildom, making easier for you to use Taildom. We may use session ID cookies, which expire when you close your web browser, to enable certain features of Taildom, to better understand how you interact with Taildom and to monitor how users use Taildom as a whole. You can change your browser settings to stop accepting cookies or to prompt you before accepting cookies from the websites you visit. If you do not accept cookies, however, you may not be able to use Taildom or some capabilities of the service.
+CustomerInsight uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your Web browser’s ability to accept cookies, you will be able to navigate the Company’s Web sites, but you will not be able to successfully use the Services.
 
-### How your information is shared
+The following sets out how CustomerInsight uses different categories of cookies and your options for managing cookies’ settings:
 
-#### With other Taildom users
+Type of Cookies | Description | Managing Settings  
+---|---|---  
+  
+Required cookies
 
-When you register at Taildom and submit personal information to enhance your profile or create posts, other Taildom users will see at least your name. Taildom users will automatically see your name if you login to Taildom via Google or Yahoo; and will automatically see your name, profile picture and gender if you log in to Taildom via Facebook. You will be able to change this information once you are registered at Taildom. If you choose to add more of your personal information on your Taildom profile page, Taildom users will see such personal information, including, but not limited to, your profile picture, location, personal website, your pets and information related to your pets. We recommend you to guard and refrain from disclosing at Taildom any information you consider sensitive and confidential. Providing additional personal information on your Taildom profile page is voluntary and should be compatible with the degree of interaction you want to have with other Taildom users.
+| 
 
-#### Aggregate Information and Non-Personally Identifiable Information
+Required cookies enable you to navigate the Company’s Web sites and use its features, such as accessing secure areas of the Web sites and using CustomerInsight Services.
 
-We may share aggregated information that does not include personal information and we may otherwise disclose non-personally identifiable information and log files with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your personal information.
+If you have chosen to identify yourself to CustomerInsight, the Company uses cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests.
 
-#### With Service Providers
+| 
 
-We may hire service providers and third party companies to facilitate Taildom, to provide Taildom services on our behalf, to perform service-related services (such as, but not limited to, maintenance, database management, web analytics and improvement of services) or to assist us in analyzing how Taildom is used. These third parties have access to your personal information only to perform these tasks on Taildom's behalf and are obligated not to disclose or use it for any other purpose.
+Because required cookies are essential to operate the Company’s Web sites and the Services, there is no option to opt out of these cookies.  
+  
+Performance cookies
 
-#### With Login Websites (Facebook, Google, Yahoo)
+| 
 
-We may share the information in your Taildom user account, including your personal information, with the websites you choose to login to Taildom -- Facebook, Yahoo and/or Google. These websites will access your personal information through Taildom only to log you in to Taildom.
+These cookies collect information about how Visitors use our Web site, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a Visitor. All information these cookies collect is aggregated and anonymous. It is only used to improve how the Company’s Web site functions and performs. From time-to-time, CustomerInsight engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web sites. CustomerInsight may also utilize Flash cookies for these purposes.
 
-#### With Facebook Community
+| 
 
-Taildom allows you to link your Facebook account to Taildom. When you are logged in to Taildom via Facebook, you have the option to post recent activity on Taildom back to your Facebook account (your Facebook wall or timeline). You may choose to post your activity on Taildom back to your Facebook wall at any time by clicking on checkbox next to the Facebook logo at the bottom of every Taildom post draft (shown in a popup box). The default setting is always to not publish your Taildom activity on your Facebook wall. You will have to click on the corresponding checkbox every time you would like to share your Taildom posts on your Facebook wall.
+To learn how to opt out of performance cookies using your browser settings.
 
- **Please note that even if you delete or remove all your user content from Taildom, or if you terminate your Taildom user account, Taildom is not able to delete or remove user content you posted to Facebook using the checkbox method described above. Therefore, as soon as you post such user content via Taildom to Facebook, we have no obligation and no means to remove such content. It is your obligation to access Facebook and delete whatever content you posted via Taildom.**
+To learn how to manage privacy and storage settings for Flash cookies by contacting us.  
+  
+Functionality cookies
 
-#### With Government, Law Enforcement Officials, Others
+| 
 
-Taildom may disclose your personally identifiable information as required by law, such as to comply with a subpoena or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In addition, your personally identifiable information may be transferred if Taildom is involved in a merger, acquisition, or sale of all or a portion of its assets.
+Functionality cookies allow the Company’s Web sites to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of CustomerInsight’s Services after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. CustomerInsight uses local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our Web sites to personalize your visit.
 
-### Your choices regarding information
+| 
 
-You have several choices regarding the use of information on Taildom:
+To learn how to opt out of functionality cookies using your browser settings contact us. Note that opting out may impact the functionality you receive when visiting CustomerInsight.
 
-#### Email Communications
+To learn how to manage privacy and storage settings for Flash cookies contact us.  
+  
+Targeting or Advertising cookies
 
-If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of the communications.
+| 
 
-#### Cookies
+From time-to-time, CustomerInsight engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web sites. CustomerInsight sometimes uses cookies delivered by third parties to track the performance of Company advertisements. For example, these cookies remember which browsers have visited the Company’s Web sites. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. CustomerInsight also contracts with third- party advertising networks that collect IP addresses and other information from Web beacons (see below) on the Company’s Web sites, from emails, and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-If you decide at any time that you no longer wish to accept cookies from Taildom for any of the purposes described above, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser's technical information. If you do not accept cookies, however, you may not be able to use Taildom or all its capabilities.
+Third parties, with whom the Company partners to provide certain features on our Web sites or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
 
-#### Changing or Deleting Your Information
+| 
 
-You may review, update or correct your personal information in your Taildom account by editing your profile. You may delete your account at any time by contacting us [here](https://web.archive.org/contact "Contact us"). If you delete all of your personal information, your Taildom account may become deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes, and we will use commercially reasonable efforts to honor your request.
+To learn more about these and other advertising networks and their opt-out instructions, contact us.
 
-#### Links to other websites and services
+To learn how to manage privacy and storage settings for Flash cookies contact us.  
+  
+### Web Beacons
 
-The fact that we may link to a website or online service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. If you visit a third party website via Taildom, you should read that website's privacy policy before providing any personally identifiable information or using their services.
+CustomerInsight uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, CustomerInsight may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web sites. CustomerInsight uses Web beacons to operate and improve the Company’s Web sites and email communications.
 
-### How we store and protect information
+### IP Addresses
 
-Your privacy is very important to us. We use generally accepted safeguards to preserve the integrity and security of information that Taildom collects and maintains. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you provide to us or guarantee that information on Taildom may not be accessed, disclosed, altered, or destroyed by unauthorized persons.
+When you visit CustomerInsight’s Web sites, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, CustomerInsight uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web sites.
 
-Identity theft and phishing are of great concern to Taildom, and safeguarding information to help protect you from identity theft is a top priority. We will never request your login password, your credit card information, or any national identification numbers. For more information about phishing, visit the Federal Trade Commission website [here](http://www.ftc.gov/ "FTC").
+CustomerInsight also collects IP addresses from Customers whey they log into the Services as part of the Company’s “Identity Confirmation” and “IP Range Restrictions” security features.
 
-We will make any legally required notifications of security breaches, breaches affecting confidentiality, or integrity of stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or visible posting on the Taildom homepage in the most expedient manner possible and without unreasonable delay, consistent with the needs of law enforcement or any measures required to determine the scope of the breach and restore the integrity of the system.
+## 5\. Public forums, refer a friend, and customer testimonials
 
-Your information may be transferred and maintained on computers located outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction. Wherever you are located, if you choose to provide information to us, Taildom transfers personal information to the United States and/or Canada, and processes it there. Your consent to this privacy policy and your submission of such information represents your agreement to that transfer.
+CustomerInsight may provide bulletin boards, blogs, or chat rooms on the Company’s Web sites. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. CustomerInsight is not responsible for the personal information you choose to submit in these forums.
 
-### Age limit
+CustomerInsight posts a list of Customers and testimonials on the Company’s Web sites that contain information such as Customer names and titles.
 
-Taildom is not directed to children under 13 years of age. We do not knowingly collect personally identifiable information from anyone under 13. If a parent or guardian becomes aware that his or her child has submitted personal information to Taildom without their consent, he or she should contact us via email [here](https://web.archive.org/contact "Contact us"). If we become aware that a child under 13 has provided us with personal information, we will delete such information from our files.
+CustomerInsight obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-### Contact us
+## 6\. Sharing of information collected
 
-If you have any questions about this Policy or any of the practices described herein, please contact us at PO Box 425, Lincoln, MA, 01773, call us at 262-416-1616, or send us an email [here](https://web.archive.org/contact "Contact us").
+### Service Providers
+
+CustomerInsight may share Data about CustomerInsight Customers and Data about CustomerInsight Attendees with the Company’s contracted service providers so that these service providers can provide services on our behalf. CustomerInsight may also share Data about CustomerInsight Customers with the Company’s service providers to ensure the quality of information provided. Unless described in this Privacy Statement, CustomerInsight does not share, sell, rent, or trade any information with third parties for their promotional purposes. Customer contact information, including but not limited to prospective buyer and homeowner information is held in strict confidentiality and not shared with any third party.
+
+### CustomerInsight Affiliates
+
+The Company may share Data about CustomerInsight Customers with other companies in order to work with them, including affiliates of the CustomerInsight corporate group. For example, the Company may need to share Data about CustomerInsight Customers for customer relationship management purposes.
+
+### Business Partners
+
+From time to time, CustomerInsight may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from CustomerInsight, the Company may share Data about CustomerInsight Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). CustomerInsight does not control our business partners’ use of the Data about CustomerInsight Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
+
+CustomerInsight does not share Data about CustomerInsight Attendees with business partners unless: (1) you specifically opt in to such sharing via an event registration form; or (2) you attend a Company event and have your attendee badge scanned by a business partner. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Company events. If you choose to share your information with business partners in the manners described above, your information will be subject to the business partners’ respective privacy statements.
+
+### Billing
+
+CustomerInsight typically invoices customers for services; however, at times, a third-party service provider to manage credit card processing may also occur. This service provider is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company’s behalf.
+
+### Compelled Disclosure
+
+CustomerInsight reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
+
+## 7\. International transfer of information collected
+
+To facilitate CustomerInsight’s global operations, the Company may transfer and access Data about CustomerInsight Customers and Data about CustomerInsight Attendees from around the world, including the United States. This Privacy Statement shall apply even if CustomerInsight transfers Data About CustomerInsight Customers or Data About CustomerInsight Attendees to other countries.
+
+## 8\. Communications preferences
+
+CustomerInsight offers Visitors, Customers, and Attendees who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” or “opt-out” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to info@customerinsight.ca. Customers cannot opt out of receiving transactional emails related to their account with CustomerInsight or the Services.
+
+## 9\. Correcting and updating your information
+
+Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to https://www.CustomerInsight.ca with your CustomerInsight username and password and click “Settings.” To update an organization’s information. Attendees may update or change their registration information on the event’s Web site after logging in.
+
+## 10\. Customer Data
+
+CustomerInsight Customers may electronically submit data or information to the Services for hosting and processing purposes (“Customer Data”). CustomerInsight will not review, share, distribute, or reference any such Customer Data except through consent by Customer, PHBI, ANHWP, as provided in the CustomerInsight Master Subscription Agreement, or as may be required by law. In accordance with the CustomerInsight Master Subscription Agreement, CustomerInsight may access Customer Data only for the purpose of providing the Services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
+
+## 11\. Security
+
+CustomerInsight uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Services are accessed using Internet Explorer version 7.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer (.SSL.) technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. CustomerInsight also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls, intrusion detection systems, and other advanced technology to prevent interference or access from outside intruders. CustomerInsight also offers enhanced security features within the Services that permit Customers to configure security settings to the level they deem necessary. Customers are responsible for maintaining the security and confidentiality of their CustomerInsight usernames and passwords.
+
+Because the Company uses the Services to maintain Data about CustomerInsight Customers and Data about CustomerInsight Attendees, this information, which is stored in the Services, is secured in the same manner as described above for Customer Data.
+
+## 12\. Changes to this Privacy Statement
+
+CustomerInsight reserves the right to change this Privacy Statement. CustomerInsight will provide notification of the material changes to this Privacy Statement through the Company’s Web sites at least thirty (30) business days prior to the change taking effect.
+
+## 13\. Contacting Us
+
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to CustomerInsight, CustomerInsight Inc, 36 Morrow Road, Barrie, ON, Suite 200 L4N 3V8.
+
+￼￼ 
