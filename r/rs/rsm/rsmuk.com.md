@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107035517id_/http%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmuk.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328030226id_/http%3A//www.rsmuk.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and cookies - RSM
+# Privacy and cookies | RSM UK
 
 ### Privacy and cookies statement 
 
@@ -56,7 +56,7 @@ Further information
 
 ### Manually managing cookies
 
-There are a number of ways you can manually manage cookies on your computer/device.  Read more on the [About Cookies website](http://www.aboutcookies.org/page-1).
+There are a number of ways you can manually manage cookies on your computer/device. Read more on the [About Cookies website](http://www.aboutcookies.org/page-1).
 
 If you access the Internet from more than one computer/device it is important to ensure each browser is configured to suit your cookie preferences.
 
