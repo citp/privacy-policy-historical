@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billhartzer.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152840id_/https%3A//www.billhartzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhartzer.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328220243id_/https%3A//www.billhartzer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Bill Hartzer
+# Privacy Policy
 
 **What information do I collect?**
 
