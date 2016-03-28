@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clapway.tv privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910213155id_/http%3A//clapway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapway.tv privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328162139id_/http%3A//clapway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clapway
 
@@ -16,7 +16,7 @@ Our Privacy Policy explains:
 
 
 
-If you have any questions about this Privacy Policy, please contact us at: **help@clapway.com**.
+If you have any questions about this Privacy Policy, please contact us at: **hello@clapway.com**.
 
 **Personally Identifiable Information**
 
@@ -124,7 +124,7 @@ We regularly review our compliance with our Privacy Policy. When we receive form
 
 **Children Under 13**
 
-Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at  **help@clapway.com**.
+Our site is not directed toward children under 13 and we will not knowingly collect information for any child under the age of 13. If you are the parent of a child under the age of 13 and have a concern regarding your child’s information on our site, please contact us at  **hello@clapway.com**.
 
 **Our Services are Located in the United States**
 
@@ -134,4 +134,4 @@ Our website and associated services are hosted in the United States. If you are 
 
 Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
 
-This Privacy Policy was last updated on November 26, 2014.
+This Privacy Policy was last updated on November 20, 2015.
