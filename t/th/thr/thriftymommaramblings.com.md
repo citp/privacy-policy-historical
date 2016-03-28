@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftymommaramblings.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210957id_/http%3A//thriftymommaramblings.com/about-me/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftymommaramblings.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328130302id_/http%3A//thriftymommaramblings.com/about-me/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy Policy Page | Thrifty Momma Ramblings
 
@@ -37,7 +37,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensers and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 **Advertising**
 
@@ -63,4 +63,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Thrifty Momma Ramblings  
 bclause@hotmail.com
 
-This document was last updated on February 18, 2013
+This document was last updated on February 18, 2015
