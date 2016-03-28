@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216054151id_/http%3A//www.willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willow.tv privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328184829id_/http%3A//www.willow.tv/EventMgmt/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Willow TV
 
