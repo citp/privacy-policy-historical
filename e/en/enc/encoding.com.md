@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031153158id_/http%3A//encoding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328152328id_/http%3A//www.encoding.com/privacy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy Policies
 
+## **Encoding.com Privacy Statement**
+
+  
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
-### **1.** What information does Encoding.com collect?
+####  **  
+****1\. What information does Encoding.com collect?**
 
 Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
 
@@ -12,7 +16,8 @@ We collect personally identifiable information, such as your name, email address
 
 Once you register with one of our Encoding.com sites you are no longer anonymous to us.
 
-### **2.** What is Encoding.com’ practice regarding cookies?
+####  **  
+****2\. What is Encoding.com’ practice regarding cookies?**
 
 Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
 
@@ -30,9 +35,10 @@ We use cookies and tracking technologies in a variety of ways, including:
 
 We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers’ use of tracking technology is subject to their own privacy policies.
 
-### **3.** How does Encoding.com use the information?
+####  **  
+****3\. How does Encoding.com use the information?**
 
-We use the information we gather for four general purposes:
+We use the information we gather for four general purposes: 
 
   * To customize the advertising and the content you see
   * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you
@@ -41,9 +47,10 @@ We use the information we gather for four general purposes:
 
 
 
-### **4.** How does Encoding.com share the information?
+####  **  
+****4\. How does Encoding.com share the information?**
 
-Personally identifiable information We will make your personally identifiable information available to other companies or people when:
+Personally identifiable information We will make your personally identifiable information available to other companies or people when: 
 
   * You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
   * You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
@@ -56,11 +63,12 @@ Personally identifiable information We will make your personally identifiable in
 
 
 
-**Aggregate information:** We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+Aggregate information: We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
 
-**Business transfers:** We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+Business transfers: We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
 
-### **5.** What are my options?
+####  **  
+****5\. What are my options?**
 
 Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. We also give users the following options:
 
@@ -69,18 +77,22 @@ Users who would rather not provide any of the user data requested by our registr
 
 
 
-### **6.** How can I review and update my personally identifiable information?
+####  **  
+****6\. How can I review and update my personally identifiable information?**
 
 You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
 
-### **7.** How will I know if the privacy policy is changed?
+####  **  
+****7\. How will I know if the privacy policy is changed?**
 
 Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
 
-### **8.** Privacy of children
+####  **  
+****8\. Privacy of children**
 
 None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children’s Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
 
-### Questions, Comments
+####  **  
+****Questions, Comments**
 
 Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our legal department at [legal@Encoding.com](mailto:legal@Encoding.com). We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
