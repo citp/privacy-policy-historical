@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911214340id_/http%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328080031id_/http%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
 
 # Kapost Privacy Policy
 
