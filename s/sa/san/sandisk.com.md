@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906051941id_/https%3A//www.sandisk.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328142917id_/https%3A//www.sandisk.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-**Effective Date: January 1, 2014**
+**Last updated: April 4, 2016**
 
 SanDisk respects your privacy, and is committed to providing you with a positive experience with us. This privacy statement explains how we collect, use, disclose, transfer and secure your personal information. We encourage you to read this privacy statement and those of other websites you visit.
 
@@ -12,12 +12,12 @@ This privacy statement applies across the SanDisk companies for use with SanDisk
 
 **You consent to the use of your personal information as described in this privacy statement.**
 
-Please click [here](https://www.sandisk.com/about/legal/privacy/privacy-faq.html) to see our frequently asked questions about this privacy statement. Click on the links below to go to a specific section of the privacy statement.
+Click on the links below to go to a specific section of the privacy statement.
 
   * Privacy statement updates
   * Information we collect
   * How we collect information
-  * Cookies and other technologies we use
+  * Cookies and other technologies
   * Use of personal information
   * Sharing personal information
   * How to access and update your personal information
@@ -26,17 +26,17 @@ Please click [here](https://www.sandisk.com/about/legal/privacy/privacy-faq.htm
   * Links to other websites and social media platforms
   * Children and privacy
   * Transfer of personal information, Safe Harbor
-  * Contact us with comments or questions
+  * Contact us
 
 
 
 **Privacy statement updates**
 
-SanDisk may update this privacy statement from time to time. If we change our privacy statement, we will post the revised statement on our websites along with a notice indicating that the privacy statement has been updated. The revised privacy statement will supersede and replace any previous privacy policies effective as of the date on which the revised statement is posted. Your continued use of our websites, products or services after any change represents and confirms your consent and agreement to any such changes. This Privacy Policy went into effect on January 1, 2014. The prior policy can be found here [here](https://www.sandisk.com/about/legal/privacy/archived-privacypolicy.html).
+SanDisk may update this privacy statement from time to time. If we change our privacy statement, we will post the revised statement on our websites along with a notice indicating that the privacy statement has been updated. The revised privacy statement will supersede and replace any previous privacy policies effective as of the date on which the revised statement is posted. Your continued use of our websites, products or services after any change represents and confirms your consent and agreement to any such changes. The prior statement can be found [here](https://www.sandisk.com/about/legal/privacy/archived-privacypolicy1.html).
 
 **Information we collect**
 
-We collect different types of information, including both personal and non-personal information. “Personal information” is information that can be used to identify you, including your name, postal or physical address, telephone number, e-mail address, and other information you have provided or is required to carry out a transaction, provide a service or deliver a product. Depending on where you live, personal information may also include your real-time location, your device’s Internet Protocol (IP) address or unique device identifier (UDI). We may collect and store information you or others provide in community discussions, chats, and correspondence received through our websites and correspondence sent to us directly.
+We collect different types of information, including both personal and non-personal information. “Personal information” is information that can be used to identify you, including your name, postal or physical address, telephone number, e-mail address, and other information you have provided or is required to carry out a transaction, provide a service or deliver a product. Depending on where you live, personal information may also include your real-time location, your device’s Internet Protocol (IP) address or unique device identifier (UDI). We may collect and store information you or others provide in community discussions, chats, and correspondence received through our websites and correspondence sent to us directly.
 
 Portions of our sites may only be accessible if you register. When you register we will ask you to provide a user name and password. We will retain this information to remember you when you log in. This information may be linked to other information that we collect while you are on the sites.
 
@@ -44,7 +44,7 @@ Prospective employees may submit information to apply for employment with SanDis
 
 **The collection and use of your personal information may be necessary for us to provide you with a product or service, communicate with you, or maintain our relationship with you. Please note that if you choose not to provide us with personal information, we may not be able to provide these things to you, in part or at all.**
 
-We also collect other, non-personal types of data, including device information such as the type of browser or operating system used and SanDisk software usage statistics. We use this data, and may compile and analyze the data, in order to improve products and services, and to personalize your experience with us. Examples of non-personal information includes hardware configuration, computer or device characteristics and connection information such as browser type, version and timezone setting, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through and from our websites including date and time; cookie number; and the products you viewed, searched or purchased.
+We also collect other, non-personal types of data, including device information such as the type of browser or operating system used and SanDisk software usage statistics. We use this data, and may compile and analyze the data, in order to improve products and services, and to personalize your experience with us. Examples of non-personal information include hardware configuration, computer or device characteristics and connection information such as browser type, version and time zone setting, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through and from our websites including date and time; cookie number; and the products you viewed, searched or purchased.
 
 **How we collect information**
 
@@ -54,9 +54,9 @@ Personal and non-personal information collected through one SanDisk product or s
 
 **Cookies and other technologies we use**
 
-We use cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services. Please see our [Cookie Statement](https://www.sandisk.com/about/legal/cookies.html "Cookie Policy") for additional information. By accessing SanDisk sites, you consent to the placement of cookies on your browser or device.
+We use cookies (small files placed on your hard drive), web beacons, website analytics tools, and the personal information you provide us to personalize your online experience and improve our services. Please see our [Cookie Statement](https://www.sandisk.com/about/legal/cookies.html) for additional information. By accessing SanDisk sites, you consent to the placement of cookies.
 
-This site is capable of recognizing when your Web browser is set to a “Do Not Track” setting or other mechanisms that allow you to exercise a choice regarding our collection of information listed in our Cookie Statement about your online activities over time or across third-party websites. We engage advertisers who may collect such information in order to provide advertisements that are more relevant to your interests.
+Some web browsers may have settings for “Do Not Track” signals. Browsers may have this signal on or off by default, and there is no standard as to how websites should respond. We do not currently monitor or take action regarding these signals. We encourage you to look at opt-out methods described above and in our Cookie Statement.
 
 **Use of personal information**
 
@@ -98,7 +98,7 @@ We want to be sure the information we keep for you is up to date and accurate. W
   * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](http://retail.sandisk.com/Unsubscribe-SanDisk-Default.html "Update Profile").
   * “MY SANDISK” PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.) Products purchased through our ecommerce vendor will be automatically registered with SanDisk Customer Support.
   * ECOMMERCE: If available in your region, the SanDisk Store is operated by our ecommerce vendor. To update or change information you provided when purchasing SanDisk products online through the SanDisk Store, you can contact our ecommerce vendor [here](http://info.digitalriver.com/Contact-Us.html). (If this feature is not available in your country, the link may not be active.) Please note, SanDisk may obtain your personal information for transactional purposes and product registration.
-  * OTHER INQUIRIES: If these links do not address your access needs, you can communicate with us via the [Contact us](mailto:privacy@sandisk.com) section below.
+  * OTHER INQUIRIES: If these links do not address your access needs, you can communicate with us via the Contact us section below.
 
 
 
@@ -130,18 +130,18 @@ We may transfer your personal information to SanDisk companies worldwide, or to 
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information for use by SanDisk and its authorized third parties to the United States and other countries where the privacy laws may be less strict. By providing your personal information you consent to that transfer.**
 
-SanDisk complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. SanDisk has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view SanDisk’s membership, please visit <http://www.export.gov/safeharbor/>.
+SanDisk complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries and Switzerland. SanDisk has certified that it adheres to the privacy principles. To learn more about the Safe Harbor program, please <http://www.export.gov/safeharbor/>.
 
-**Contact us with comments or questions**
+**Contact us**
 
-If you have comments or questions about this privacy statement, you can email us at one of the email addresses below or send us mail at the address below. Please include your contact information and a detailed description of your request or privacy concern.
+If you have comments or questions, you can email us or send us mail at the address below. Please include your contact information and a detailed description of your request or privacy concern.
+
+SanDisk Corporation 951 SanDisk Drive Milpitas, CA 95035 USA Attention: Privacy Officer privacy@sandisk.com
 
 SanDisk Corporation  
 ---  
 951 SanDisk Drive  
 Milpitas, CA 95035 USA  
 Attention: Privacy Officer  
-1 (408) 801-1000  
    
-Contact us  
-Global: [privacy@sandisk.com](mailto:privacy@sandisk.com)
+[privacy@sandisk.com](mailto:privacy@sandisk.com)
