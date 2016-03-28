@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10xgenomics.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029015520id_/http%3A//10xgenomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10xgenomics.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328020716id_/http%3A//www.10xgenomics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 10X Genomics
+# Privacy Policy - 10x Genomics
 
 10X Genomics, Inc. (referred to interchangeably herein as “10X”, “Company”, “we”, “us”, and possessively as “our”) may collect certain information based upon and as a result of your use of the 10X Genomics website(s) (“Site”). 10X’s collection and use of this information shall be carried out in accordance with this Privacy Policy (“Policy”).
 
