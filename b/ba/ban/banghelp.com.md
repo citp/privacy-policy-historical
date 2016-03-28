@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the banghelp.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813214034id_/http%3A//www.anonymousflirts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banghelp.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328035310id_/http%3A//www.anonymousflirts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - anonymousflirts.com
 
 ## This Privacy Policy is effective for anonymousflirts.com members  
-Last edition — 1 June 2014
+Last edition — 10 February 2016
 
-The anonymousflirts.com web-site and the service is a member of White Label Dating Provider & Dating Factory network, which is operated by Tyche Technologies AG, a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
+The anonymousflirts.com web-site and the service is a member of White Label Dating Provider & Dating Factory network, which is operated by Tyche Technologies AG (Baarerstrasse 21, CH-6300, Zug, Switzerland), a company registered under the laws of Switzerland, Reg. No. CHE-420.114.703.
 
 anonymousflirts.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the anonymousflirts.com web-site. anonymousflirts.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues.
 
@@ -18,7 +18,8 @@ anonymousflirts.com may change some clauses of this Policy from time to time, an
   5. Your individual use of anonymousflirts.com website and your interaction with other members through this site will be kept strictly private.
   6. We may from time to time send you emails containing system and site activity, notifications or promotions that we feel may be of interest to you. You may unsubscribe from anonymousflirts.com emails at any time by changing your profile settings or by following the unsubscribe link at the bottom of every anonymousflirts.com email.
   7. In the course of serving ads to this site and you using some part of the web-site, us or our third-party advertiser may place or recognize a unique cookie on your browser. Cookies are a normal part of internet operations and are also used by anonymousflirts.com to safely identify you each time you logon and use the site and to keep your session active when you don’t use the website for some time. Any information that us or third parties collect via cookies and marketing campaigns tracking software is totally anonymous.
-  8. Our members have the following choices to modify or delete their information from our database: 
+  8. If you want to unsubscribe from receiving email notifications to your external mailbox, please use the link at the bottom of each email or go to [Profile >> Account details](https://web.archive.org/myprofile/update/) page and manage your e-mail settings.  
+Our members have the following choices to modify or delete their information from our database: 
     * Send an email to [Customer support](https://web.archive.org/contacts/)
     * Log in with your password and change/delete your profile
 
