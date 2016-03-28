@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908055204id_/https%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yplanapp.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328072940id_/https%3A//yplanapp.com/page/privacy) for the most accurate reproduction.*
 
 # YPlan | Tonight's going out app
 
@@ -141,8 +141,8 @@ Please also look at our privacy policy which gives details about how we use any 
 Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [privacy@yplanapp.com](mailto:privacy@yplanapp.com), or write to us at:
 
 **YPlan**  
-81 Prospect Street  
-Suite 8022  
-Brooklyn  
-NY 11201  
-T: 
+Clover House  
+147-149 Farringdon Road  
+London  
+EC1R 3HN  
+
