@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the think360studio.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414084122id_/http%3A//think360studio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the think360studio.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328235656id_/https%3A//think360studio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Creative Digital Web Design Agency India
+# Privacy Policy | A Web Design Agency | Web development Company India
 
 This privacy policy sets out how Think 360 Solutions Private Limited (hence by referred to as “Think 360″, or “we”, or “us ) uses and protects any information that you give Think 360 Solutions Private Limited when you use this website.
 
@@ -59,11 +59,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-        * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
 
-        * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@Think 360.in
-
-
-
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at team@think360studio.com
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you as governed by the laws of India. A small fee may be payable. If you would like a copy of the information held on you please write to Think 360 Solutions Private Limited, SCO 106, Top Floor, Sector 40C, Chandigarh, India. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
