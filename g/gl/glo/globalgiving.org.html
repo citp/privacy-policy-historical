@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2015-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151107024112id_/https%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328135443id_/https%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
        
@@ -10,7 +10,9 @@
 
 <link rel="dns-prefetch" href="https://www.globalgiving.org">
 
+
 <title>Privacy Policy - GlobalGiving</title>  
+
 
 <link rel="apple-touch-icon" sizes="60x60" href="https://www.globalgiving.org/favicon/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="120x120" href="https://www.globalgiving.org/favicon/apple-touch-icon-120x120.png">
@@ -27,19 +29,52 @@
 <meta property="og:image" content="https://www.globalgiving.org/img/logos/gg_white_over_orange_pixel_1200.png">
 
 
-   <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">!function(e){"use strict";e.loadCSS=function(t,n,l){var o,r=e.document.createElement("link");if(n)o=n;else if(e.document.querySelectorAll){var s=e.document.querySelectorAll("style,link[rel=stylesheet],script");o=s[s.length-1]}else o=e.document.getElementsByTagName("script")[0];var i=e.document.styleSheets;return r.rel="stylesheet",r.href=t,r.media="only x",o.parentNode.insertBefore(r,n?o:o.nextSibling),r.onloadcssdefined=function(e){for(var t,n=0;n<i.length;n++)i[n].href&&i[n].href===r.href&&(t=!0);t?e():setTimeout(function(){r.onloadcssdefined(e)})},r.onloadcssdefined(function(){r.media=l||"all"}),r}}(this);</script>
-   <!--[if !IE]> -->
-      <script type="text/javascript">
-         loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic|Fira+Sans:400,300,500,300italic,700,400italic,500italic,700italic");
-      </script><link rel="stylesheet" href="//fonts.googleapis.com/css?subset=latin&amp;family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic|Fira+Sans:400,300,500,300italic,700,400italic,500italic,700italic" media="all">
-   <!-- <![endif]-->
-   <!--[if lte IE 9]>
-      <script type="text/javascript">
-         loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic");
-      </script>
-   <![endif]-->
+   <script src="/v2/js/modules/nav.js" async=""></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">!function(e){"use strict";e.loadCSS=function(t,n,l){var o,r=e.document.createElement("link");if(n)o=n;else if(e.document.querySelectorAll){var s=e.document.querySelectorAll("style,link[rel=stylesheet],script");o=s[s.length-1]}else o=e.document.getElementsByTagName("script")[0];var i=e.document.styleSheets;return r.rel="stylesheet",r.href=t,r.media="only x",o.parentNode.insertBefore(r,n?o:o.nextSibling),r.onloadcssdefined=function(e){for(var t,n=0;n<i.length;n++)i[n].href&&i[n].href===r.href&&(t=!0);t?e():setTimeout(function(){r.onloadcssdefined(e)})},r.onloadcssdefined(function(){r.media=l||"all"}),r}}(this);</script>
+   <!--todo move to minimal? uglify, uncss implications?-->
+   <script type="text/javascript">
+      loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,400italic,700,700italic,800");
+      loadCSS("/v2/fonts/aleo/aleo.css")
+   </script><link rel="stylesheet" href="//fonts.googleapis.com/css?subset=latin&amp;family=Open+Sans:400,400italic,700,700italic,800" media="all"><link rel="stylesheet" href="/v2/fonts/aleo/aleo.css" media="all">
    <script type="text/javascript">
       var deferred = [];
+      function loadOneJS( src, cb ){
+        "use strict";
+        var ref = window.document.getElementsByTagName( "script" )[ 0 ];
+        var script = window.document.createElement( "script" );
+        script.src = src;
+        script.async = true;
+        ref.parentNode.insertBefore( script, ref );
+        if (cb && typeof(cb) === "function") {
+          script.onload = cb;
+        }
+        return script;
+      }
+      function loadJS( srcs, cb ){
+         if (!(srcs instanceof Array)) {
+            return loadOneJS(srcs, cb);
+         }
+         var cnt = srcs.length;
+         var f = function() {
+            cnt -= 1;
+            if (cnt < 0) {
+               console.log('loadJS decremented too far');
+               return;
+            } if (cnt > 0) {
+               return;
+            }
+            cb();
+         };
+         var ret = [];
+         while (srcs.length > 0) {
+            var script = srcs.shift();
+            ret.push(loadOneJS(script, f));
+         }
+      }
+
+      
+   </script>
+   <script type="text/javascript">
+      !function e(n,r,t){function o(f,u){if(!r[f]){if(!n[f]){var a="function"==typeof require&&require;if(!u&&a)return a(f,!0);if(i)return i(f,!0);var g=new Error("Cannot find module '"+f+"'");throw g.code="MODULE_NOT_FOUND",g}var s=r[f]={exports:{}};n[f][0].call(s.exports,function(e){var r=n[f][1][e];return o(r?r:e)},s,s.exports,e,n,r,t)}return r[f].exports}for(var i="function"==typeof require&&require,f=0;f<t.length;f++)o(t[f]);return o}({1:[function(e){window.gg=window.gg||{},window.gg.templates=window.gg.templates||{},gg.cookie=e("./modules/cookies.bsfy"),gg.tracking=e("./modules/tracking.bsfy")},{"./modules/cookies.bsfy":2,"./modules/tracking.bsfy":4}],2:[function(e,n){function r(e){var n=t(e);return null==n?!1:!0}function t(e){var n=e+"=",r=document.cookie,t=null;return r.length>0&&(offset=r.indexOf(n),-1!=offset&&(offset+=n.length,end=r.indexOf(";",offset),-1==end&&(end=r.length),t=decodeURIComponent(r.substring(offset,end)))),t}function o(e,n,r,t){var o=e+"="+i(n);if(null!=r){var f=new Date,u=new Date;u.setTime(f.getTime()+864e5*r),o+="; expires="+u.toGMTString()}return null!=t&&(o+="; PATH="+t),document.cookie=o,null}function i(e){return null!=e&&""!=e&&'"'!=e.charAt(0)&&'"'!=e.charAt(e.length-1)&&(e='"'+e+'"'),e}function f(e,n){o(e,"Deleted",-1,n)}n.exports={getValue:t,set:o,exists:r,remove:f}},{}],3:[function(e,n){function r(e){for(var n=location.search.substring(1,location.search.length),r=!1,t=n.split("&"),o=0;o<t.length;o++)param_name=t[o].substring(0,t[o].indexOf("=")),param_name==e&&(r=t[o].substring(t[o].indexOf("=")+1));return r?r:!1}n.exports={getUrlParam:r}},{}],4:[function(e,n){function r(){t(o.getUrlParam("rf")?o.getUrlParam("rf"):null)}function t(e){var n=document.referrer,r=-1==n.indexOf("globalgiving")||n.indexOf("globalgiving")>14;if(r){var t="ggRefCode",o="ggConversionCode",i=gg.cookie.getValue(t),f=i||e||n;f&&gg.cookie.set(t,f,365,"/");var u=e||n||i;u&&gg.cookie.set(o,u,null,"/")}}var o=e("./params.bsfy");r(),n.exports={assignRefAndConversionCode:t}},{"./params.bsfy":3}]},{},[1]);
    </script>
 <!-- ****** STYLESHEETS ***** -->
    
@@ -79,22 +114,23 @@ mixpanel.init("1d62790938b60c23a48684ad3ebe5a36");</script>
 
 <!-- custom Mixpanel below -->
 <script>
-/* Recommended for v1.0 implementation & prototyping; to be removed later */
-mixpanel.track('page viewed', {
-    'page name' : document.title,
-    'url' : window.location.pathname
+deferred.push(function(){
+	mixpanel.track('page viewed', {
+	    'page name' : document.title,
+	    'url' : window.location.pathname,
+		 'design': 'old'
+	});
+	
+	mixpanel.track_links("header a", "click header link", {
+	   'url' : window.location.pathname,
+		'referrer': document.referrer
+	});
+	
+	mixpanel.track_links("footer a", "click footer link", {
+	   'url' : window.location.pathname,
+		'referrer': document.referrer
+	});
 });
-
-mixpanel.track_links("header a", "click header link", {
-   'url' : window.location.pathname,
-	'referrer': document.referrer
-});
-
-mixpanel.track_links("footer a", "click footer link", {
-   'url' : window.location.pathname,
-	'referrer': document.referrer
-});
-
 </script>
 <!-- end Mixpanel -->
       <script type="text/javascript" src="/javascript/globalgiving.js"></script>
@@ -105,7 +141,6 @@ mixpanel.track_links("footer a", "click footer link", {
       
       
       <script type="text/javascript" src="/javascript/responsive.js"></script>
-      <script type="text/javascript" src="/v2/js/transition2015.js"></script>
 
       
 
@@ -120,20 +155,19 @@ mixpanel.track_links("footer a", "click footer link", {
    
             
 <!--[if lte IE 9]>
-   <link href="/v2/fonts/Fira/fira.css" rel="stylesheet" type="text/css"/>
    <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->  
    </head> 
 
-<body class="text_sans
+<body class="
+   
 	
 	
-	
-">
-	<script type="text/javascript">
-	//fontfaceobserver
+ text_titleLoaded">
+   <script type="text/javascript">
+	  	//fontfaceobserver
 	(function(){'use strict';var f=[];function g(a){f.push(a);1===f.length&&l()}function m(){for(;f.length;)f[0](),f.shift()}if(window.MutationObserver){var n=document.createElement("div");(new MutationObserver(m)).observe(n,{attributes:!0});var l=function(){n.setAttribute("x",0)}}else l=function(){setTimeout(m)};function p(a){this.a=q;this.b=void 0;this.f=[];var b=this;try{a(function(a){r(b,a)},function(a){t(b,a)})}catch(c){t(b,c)}}var q=2;function u(a){return new p(function(b,c){c(a)})}function v(a){return new p(function(b){b(a)})}
 	function r(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");var c=!1;try{var d=b&&b.then;if(null!==b&&"object"===typeof b&&"function"===typeof d){d.call(b,function(b){c||r(a,b);c=!0},function(b){c||t(a,b);c=!0});return}}catch(e){c||t(a,e);return}a.a=0;a.b=b;w(a)}}function t(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");a.a=1;a.b=b;w(a)}}
 	function w(a){g(function(){if(a.a!==q)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0===a.a?"function"===typeof c?e(c.call(void 0,a.b)):e(a.b):1===a.a&&("function"===typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}p.prototype.g=function(a){return this.c(void 0,a)};p.prototype.c=function(a,b){var c=this;return new p(function(d,e){c.f.push([a,b,d,e]);w(c)})};
@@ -148,117 +182,87 @@ mixpanel.track_links("footer a", "click footer link", {
 	u();setTimeout(a,50)}}var D=Date.now();w(l,"sans-serif",k);w(m,"serif",k);w(n,"monospace",k);g.appendChild(l.a);g.appendChild(m.a);g.appendChild(n.a);document.body.appendChild(g);q=l.a.offsetWidth;r=m.a.offsetWidth;t=n.a.offsetWidth;a();y(l,function(a){d=a;u()});w(l,p.family+",sans-serif",k);y(m,function(a){e=a;u()});w(m,p.family+",serif",k);y(n,function(a){f=a;u()});w(n,p.family+",monospace",k)})})};window.FontFaceObserver=z;window.FontFaceObserver.prototype.check=z.prototype.a;}());
 
 	if(FontFaceObserver){
-	 if (!(document.cookie.indexOf("gg_sansLoaded") > -1)){
-		var sansObserver1 = new FontFaceObserver('Open Sans',{weight: 400});
-		var sansObserver2 = new FontFaceObserver('Open Sans',{weight: 300});
-		var sansObserver3 = new FontFaceObserver('Open Sans',{weight: 300,style: "italic"});
-		var sansObserver4 = new FontFaceObserver('Open Sans',{weight: 400,style: "italic"});
-		var sansObserver5 = new FontFaceObserver('Open Sans',{weight: 600});
-		var sansObserver6 = new FontFaceObserver('Open Sans',{weight: 600,style: "italic"});
-		var sansObserver7 = new FontFaceObserver('Open Sans',{weight: 700});
-		var sansObserver8 = new FontFaceObserver('Open Sans',{weight: 700,style: "italic"});
-		var sansObserver9 = new FontFaceObserver('Open Sans',{weight: 800});
-		var sansObserver0 = new FontFaceObserver('Open Sans',{weight: 800,style: "italic"});
+		var o1 = new FontFaceObserver('Open Sans',{weight: 400});
+		var o2 = new FontFaceObserver('Open Sans',{weight: 400,style: "italic"});
+		var o3 = new FontFaceObserver('Open Sans',{weight: 700});
+		var o4 = new FontFaceObserver('Open Sans',{weight: 700,style: "italic"});
+		var o5 = new FontFaceObserver('Open Sans',{weight: 800});
 	    Promise.all([
-	       sansObserver1.check(null,10000),
-	       sansObserver2.check(null,10000),
-	       sansObserver3.check(null,10000),
-	       sansObserver4.check(null,10000),
-	       sansObserver5.check(null,10000),
-	       sansObserver6.check(null,10000),
-	       sansObserver7.check(null,10000),
-	       sansObserver8.check(null,10000),
-	       sansObserver9.check(null,10000),
-	       sansObserver0.check(null,10000)
+	       o1.check(null,10000),
+	       o2.check(null,10000),
+	       o3.check(null,10000),
+	       o4.check(null,10000),
+	       o5.check(null,10000)
 	    ]).then(function(){
 	       document.body.className += " text_sansLoaded";
-	       deferred.push(function(){gg.cookie.set("gg_sansLoaded","true",365,"/")});
 	    }, function () {
 	      console.log('Font is not available');
 	    });
-	 } else {
-	    document.body.className += " text_sansLoaded";
-	 }
-	 if (!(document.cookie.indexOf("gg_titleLoaded") > -1)){
-		var titleObserver1 = new FontFaceObserver('Fira Sans',{weight: 400});
-		var titleObserver2 = new FontFaceObserver('Fira Sans',{weight: 300});
-		var titleObserver3 = new FontFaceObserver('Fira Sans',{weight: 500});
-		var titleObserver4 = new FontFaceObserver('Fira Sans',{weight: 300,style: "italic"});
-		var titleObserver5 = new FontFaceObserver('Fira Sans',{weight: 700});
-		var titleObserver6 = new FontFaceObserver('Fira Sans',{weight: 400,style: "italic"});
-		var titleObserver7 = new FontFaceObserver('Fira Sans',{weight: 500,style: "italic"});
-		var titleObserver8 = new FontFaceObserver('Fira Sans',{weight: 700,style: "italic"});
+
+      var o6 = new FontFaceObserver('Aleo',{weight: 300});
+      var o7 = new FontFaceObserver('Aleo',{weight: 400});
+		var o8 = new FontFaceObserver('Aleo',{weight: 700});
 	    Promise.all([
-	       titleObserver1.check(null,10000),
-	       titleObserver2.check(null,10000),
-	       titleObserver3.check(null,10000),
-	       titleObserver4.check(null,10000),
-	       titleObserver5.check(null,10000),
-	       titleObserver6.check(null,10000),
-	       titleObserver7.check(null,10000),
-	       titleObserver8.check(null,10000)
+	       o6.check(null,10000),
+          o7.check(null,10000),
+          o8.check(null,10000)
 	    ]).then(function(){
 	       document.body.className += " text_titleLoaded";
-	       deferred.push(function(){gg.cookie.set("gg_titleLoaded","true",365,"/")});
 	    }, function () {
 	      console.log('Font is not available');
 	    });
-	 } else {
-	    document.body.className += " text_titleLoaded";
-	 }
 	} else {
 	    document.body.className += " text_sansLoaded";
 	    document.body.className += " text_titleLoaded";
 	}
-</script><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 600; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 300; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 500; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Fira Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div>
-
+   </script><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div>
 	      
          <div class="siteWrapper2015">
       
-      <div class="grid-parent col_white">
+      <noscript>
+         <div class="col_ggPrimary1 text_7n box_horizontalPadded1 box_verticalPadded1 grid_padder col_whiteText">
+            WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <span class="col_defaultText"><a class="col_inherit" href="http://www.enable-javascript.com/" target="_blank"> Please enable Javascript</a></span> and refresh this page.</div>
+         </div>
+      </noscript>
+      <div class="grid-parent text_fontSizeZero">
          <div class="triangle-parent barSpacer col_ggPrimary1 grid-0 grid-lg-12">
-            <div class="triangle triangle_bottom triangle_noPosition js-selector0"></div>
+            <div class="triangle triangle_small triangle_bottom triangle_noPosition js-selector0" style="left: 90.3906px;"></div>
          </div>
       </div>
       <header>
          
          <form action="/dy/v2/content/search.html" class="grid-12 grid-lg-0 grid-parent col_ggPrimary1 layout_centerVertical">
-            <div class="grid-4 box_verticalPadded2 js-headerSearch-spacer">&nbsp;</div>
-            <div class="grid-6 grid-parent col_whiteText ayout_centerVertical">
-               <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="grid-7 link_subtle col_whiteText layout_center layout_centerVertical text_fontSizeSmaller text_md_fontSizeBase">
-                  <span>Giving Cart</span>
-                  <div class="sprite sprite_gcartWhite layout_inlineBlock js-cartItems layout_rel"></div>
+            <div class="grid-4 box_verticalPadded1 js-headerSearch-spacer">&nbsp;</div>
+            <div class="grid-6 grid-parent col_whiteText layout_centerVertical">
+               <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="grid-parent grid-7 link_subtle col_whiteText layout_center layout_centerVertical text_fontSizeSmaller text_md_fontSizeBase">
+                  <div class="layout_centerVertical layout_inlineBlock text_sans text_7n text_allCaps text_fontSizeSmaller"><span>Giving Cart</span><div class="sprite sprite_gcartWhite layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
                </a>
-               <div class="grid-5 layout_center layout_centerVertical text_sans text_6n col_whiteText link_subtle text_fontSizeSmall text_md_fontSizeBase layout_rel js-login">
+               <div class="grid-5 layout_center layout_centerVertical text_sans text_7n col_whiteText text_fontSizeSmall text_md_fontSizeBase layout_rel js-login">
                   <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
                </div>
             </div>
             <input tabindex="-1" class="grid-4 input_text input_text_ggPrimary1Dark col_whiteText box_verticalPadded1 js-headerSearch-input" style="width:0;padding:0;" type="text" name="q" placeholder="I care about..." title="Search for nonprofits">
-            <div class="grid-2 grid-parent col_ggPrimary1Dark layout_center layout_centerVertical layout_rel box_verticalPadded2">
+            <div class="grid-2 grid-parent col_ggPrimary1Dark layout_center layout_centerVertical layout_rel box_verticalPadded1">
                <a href="javascript:void(0);" class="js-headerSearch-show"><span class="link_linkify"></span></a>
                <input type="submit" class="grid-12 input_preventDisplay layout_inlineBlock sprite sprite_searchWhite layout_centerVertical text_fontSizeZero">
             </div>
          </form>
          
          <div class="grid-parent box_horizontalPadded2 box_verticalPadded1 layout_centerVertical">
-            <div class="grid-12 grid-lg-6 grid-parent layout_centerVertical">
+            <div class="grid-12 grid-lg-7 grid-parent layout_centerVertical">
                <a href="/" class="grid-5 layout_centerVertical">
                   <img src="/img/logos/gg_horizontal_color_300.png" srcset="/img/logos/gg_horizontal_color_300.png 1x,
                                /img/logos/gg_horizontal_color_600.png 2x" class="img-cover" alt="GlobalGiving homepage" style="max-width:260px;">
                </a>
-               <div class="grid-0 grid-lg-1 grid-xl-2"></div>
                
-               <nav class="grid-7 grid-lg-6 grid-xl-5 grid-parent layout_center layout_centerVertical link_subtle link_primary1Hover text_sans text_7n">
-                        <a href="/dy/v2/content/browse.html" class="grid-4 text_letterSpacingLooser
-                           col_defaultText">
+               <nav class="grid-7 grid-lg-6 grid-xl-6 grid-parent layout_center layout_centerVertical">
+                        <a href="/give/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+                           col_ggPrimary5LightText">
                            GIVE</a>
-                        <a href="/join/" class="grid-4 text_letterSpacingLooser
-                           col_defaultText">
+                        <a href="/join/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+                           col_ggPrimary5LightText">
                            JOIN</a>
-                        <!-- a href="/learn/" class="grid-6 grid-md-3 text_letterSpacingLooser
-                           <!-/-#if expr="$mainNavSelected = learn"-/->col_ggPrimary1Text js-selector0-target<!-/-#else-/->col_defaultText<!-/-#endif-/->">
-                           LEARN</a-->
-                        <a href="/aboutus/" class="grid-4 text_letterSpacingLooser
+                        <a href="/aboutus/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
                            col_ggPrimary1Text
                            js-selector0-target">
                            ABOUT</a>
@@ -266,28 +270,25 @@ mixpanel.track_links("footer a", "click footer link", {
                
             </div>
                
-               <div class="grid-0 grid-lg-1 layout_centerVertical"></div>
                <div class="grid-0 grid-lg-5 layout_centerVertical">
                   <div class="grid-parent layout_centerVertical">
-                        <div class="grid-0 grid-lg-6 text_fontSizeSmall box_horizontalPadded1 layout_centerVertical">
-                           <form class="grid-parent col_ggPrimary5Light2 layout_hideOverflow layout_centerVertical" action="/dy/v2/content/search.html">
-                              <input class="input_text grid-10 text_fontSizeSmall test-searchInput" type="text" placeholder="I care about..." name="q" title="Search for nonprofits">
-                              <div class="grid-parent grid-2 layout_center">
-                                 <input type="submit" class="input_preventDisplay sprite sprite_search text_fontSizeZero test-searchSubmit">
-                              </div>
-                           </form>
-                        </div>
+                     <div class="grid-3 layout_centerVertical ">
+                        <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="layout_center layout_centerVertical grid-parent col_ggPrimary5LightText">
+                           <div class="layout_centerVertical layout_inlineBlock  text_allCaps text_fontSizeSmaller"><span>Giving Cart</span><div class="sprite sprite_gcart layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
+                        </a>
+                     </div>
+                     <div class="grid-lg-6 text_fontSizeSmall box_horizontalPadded1 layout_centerVertical">
+                        <form class="grid-parent border_primary5Lighter layout_hideOverflow layout_centerVertical" action="/dy/v2/content/search.html">
+                           <input class="input_text grid-10 text_fontSizeSmall test-searchInput" type="text" placeholder="I care about..." name="q" title="Search for nonprofits">
+                           <div class="grid-parent grid-2 layout_center">
+                              <input type="submit" class="input_preventDisplay sprite sprite_search text_fontSizeZero test-searchSubmit">
+                           </div>
+                        </form>
+                     </div>
 
-                     <div class="grid-0 grid-lg-6 text_fontSizeSmall layout_centerVertical text_lineHeightNatural layout_center">
-                        <div class="grid-parent layout_centerVertical">
-                           <div class="grid-6 layout_centerVertical">
-                              <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="col_defaultText link_subtle">
-                                 <div class="layout_centerVertical layout_inlineBlock text_sans text_4n"><span>Giving Cart</span><div class="sprite sprite_gcart layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
-                              </a>
-                           </div>
-                           <div class="grid-6 layout_centerVertical text_sans text_4n col_ggPrimary3Text link_subtle layout_rel js-login">
-                              <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
-                           </div>
+                     <div class="grid-3 text_fontSizeSmall layout_centerVertical text_lineHeightNatural layout_center">
+                        <div class="text_sans text_4n col_ggPrimary3Text layout_rel js-login">
+                           <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
                         </div>
                      </div>
                   </div>
@@ -301,14 +302,13 @@ mixpanel.track_links("footer a", "click footer link", {
 <!-- Donors -->
 
 
-
-
 <!-- non-profits -->
 
 
 
 
 
+ 
  
  
  
@@ -341,11 +341,7 @@ mixpanel.track_links("footer a", "click footer link", {
 
 
 <!--sub nav -->
-<div class="col_ggPrimary1 text_sans text_6n col_whiteText link_subtle link_block layout_center">
-    <!--************* DONOR TAB > FIND A PROJECT > SUBNAV *************-->
-   
-    <!--************* DONOR TAB > GIVE GIFT CARD > SUBNAV *************-->
-   
+<div class="col_ggPrimary1 col_whiteText layout_center">
     <!--************* DONOR TAB > GIVING TOOLS > SUBNAV *************-->
    
     <!--************* NON-PROFITS > JOIN GLOBALGIVING > SUBNAV *************-->
@@ -366,42 +362,52 @@ mixpanel.track_links("footer a", "click footer link", {
                 
     
     
-   
+    
+    
 </div>
+
+
+
          
             <!-- going custom, not prepping the side with standard GG container with rounded corners-->
             <div class="siteWrapper2015">
          
       
 
-
-<link rel="stylesheet" href="/v2/css/modules/06_images/hero.css">
-
-<div class="hero img-overlay js-hero">
-	<div class="hero-text layout_centerBoth">
-		<h1 class="hero-title ruleBottom col_whiteText link_subtle link_primary1Hover text_allCaps"><a href="/aboutus">About Us</a></h1>
-	</div>
-</div>
-    <div class="grid-parent col_ggPrimary1 layout_center">
-    	<div class="grid-12 grid-md-8">
-    		<div class="grid-parent text_sans text_6n col_whiteText link_subtle link_block">
-				<a class="grid-3 box_padded1
-				
-				" href="/aboutus/impact/" onclick="trackHeaderClick(this);">Our Impact</a>
-				<a class="grid-3 box_padded1
-				
-				" href="/aboutus/team/" onclick="trackHeaderClick(this);">Our Team</a>
-				<a class="grid-3 box_padded1
-				
-				" href="/aboutus/jobs/" onclick="trackHeaderClick(this);">Jobs</a>
-				<a class="grid-3 box_padded1
-				
-				" href="/contactus/" onclick="trackHeaderClick(this);">Contact Us</a>
-			</div>
-		</div>
-    </div>
-    
-
+   <link href="/v2/css/modules/06_images/hero.css" rel="stylesheet" type="text/css">
+   <script type="text/javascript">
+      loadJS("/v2/js/modules/nav.js");
+      deferred.push(["gg.img.loadBg","js-hero","/img/banners/hero_about","jpg"]);
+   </script>
+   <div class="hero img-overlay layout_center js-hero" style="background-image: url(&quot;/img/banners/hero_about_lg.jpg&quot;);">
+      <div class="hero-text layout_inlineBlock box_topMargin3 layout_centerBoth">
+         <h1 class="hero-title col_whiteText">
+            <a class="col_inherit" href="/aboutus/">
+            About Us
+            </a>
+         </h1>
+      </div>
+   </div>
+      <nav class="heroNav col_ggSecondary1 text_8n text_allCaps text_fontSizeSmall layout_center layout_centerVertical">
+   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/impact/">Our Impact</a>
+   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/team/">Our Team</a>
+   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/jobs/">Jobs</a>
+   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/contactus/">Contact</a>
+         <div class="heroNav-overflow col_ggSecondary1 layout_abs zindex_overlayTop"></div>
+         <a class="js-heroNav-toggle" style="display:none;" href="javascript:void(0)" onclick="$(this).prev().toggle();">more&nbsp;▾</a>
+      </nav>
             <div id="siteWrapperDiv" class="siteWrapper ">   <!-- START wrapper DIV --> 
                <div id="whiteMarginBox"> 
                   <div id="mainHeader"><!-- START top  rounded corners-->
@@ -412,9 +418,6 @@ mixpanel.track_links("footer a", "click footer link", {
 
   <div class="grid_12 alpha omega bigText">
       <h1>GlobalGiving Privacy Policy</h1>
-      <p>
-      <img alt="privacy policy banner" src="https://www.globalgiving.org/img/banner_collages/banner_collage2.jpg"> 
-    </p>
   <p>
 	GlobalGiving values you and respects your privacy. We collect information to support our 
 	relationship with you, improve our services, and communicate about promotions or special 
@@ -802,229 +805,113 @@ make changes to your information and update your account at any time.
                   <div class="siteWrapper2015">
                
                   <footer>
-                    
-                    <div class="col_ggSecondary2Light col_whiteText text_sans text_3n">
-                       <div class="grid-padder">
-                          <div class="grid-parent box_verticalPadded1 text_fontSizeBase verticalRuleSeparated text_lineHeightLoose layout_centerVertical">
-                             <div class="grid-12 grid-md-4 grid-parent box_leftPadded2 box_rightPadded1 layout_centerVertical layout_lg_alignLeft">
-                                <div class="grid-6 grid-md-12 grid-lg-6 layout_alignRight layout_md_center">
-                                   Call <a class="text_sans text_7n col_whiteText link_subtle" href="tel://1.877.605.2314">1-877-605-2314</a> or 
-                                </div>
-                                <div class="grid-6 grid-md-12 grid-lg-6 layout_alignLeft layout_md_center grid-parent layout_centerVertical">
-                                   <a class="btn btn_primary2 btn_simple btn_narrow" href="/contactus/">Contact Us</a>
-                                </div>
-                             </div>
-                             <form class="grid-0 grid-md-5 box_horizontalPadded2 layout_center layout_lg_alignLeft js-footerEmailSignup text_fontSizeSmall" action="//globalgiving.us1.list-manage.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" target="_blank">
-                                <div class="grid-parent layout_centerVertical">
-                                  <label for="footer-emailSignup" class="grid-md-12 grid-lg-4">
-                                    <a class="link_subtle col_whiteText" href="/newsletter/">Get Email Updates</a>
-                                  </label>
-                                  <div class="grid-md-12 grid-lg-8 grid-parent box_verticalPaddedHalf">
-                                     <input class="input_text input_text_colSecondary2 grid-7" type="text" placeholder="your email" id="footer-emailSignup" name="EMAIL">
-                                     <a class="grid-5 btn btn_primary2 btn_simple btn_narrow text_letterSpacingNormal" href="javascript:void(0)" onclick="$('.js-footerEmailSignup').submit();" role="button" onkeyup="gg.forms.submitOnSpace($('.js-footerEmailSignup'))">Sign Up</a>
-                                  </div>
-                                </div>
-                             </form>
-                             <div class="grid-0 grid-md-3">
-                                <div class="grid-parent layout_centerVertical">
-                                  <div class="grid-md-12 grid-lg-4 layout_center layout_lg_alignRight box_verticalPadded1">
-                                    Follow Us
-                                  </div>
-                                  <div class="grid-md-12 grid-lg-8 grid-parent layout_center box_verticalPadded1 layout_centerVertical">
-                                    <a class="grid-3 layout_centerVertical" href="http://facebook.com/globalgiving">
-                                      <div class="sprite sprite_facebook layout_inlineBlock  text_fontSizeZero">facebook</div>
-                                    </a>
-                                    <a class="grid-3 layout_centerVertical" href="http://twitter.com/globalgiving">
-                                      <div class="sprite sprite_twitter layout_inlineBlock  text_fontSizeZero">twitter</div>
-                                    </a>
-                                    <a class="grid-3 layout_centerVertical" href="http://plus.google.com/+globalgiving">
-                                      <div class="sprite sprite_googlePlus layout_inlineBlock  text_fontSizeZero">google plus</div>
-                                    </a>
-                                    <a class="grid-3 layout_centerVertical" href="http://instagram.com/globalgiving">
-                                      <div class="sprite sprite_instagram layout_inlineBlock  text_fontSizeZero">instagram</div>
-                                    </a>
-                                  </div>
-                                </div>
-                             </div>
-                          </div>
-                       </div>
-                    </div>
-                  
-                  <div class="col_ggSecondary2 text_sans text_3n grid-parent box_topPadded2">
-                    
-                      <div class="grid-12 grid-md-4 text_fontSizeSmall box_horizontalPadded2 layout_center layout_md_alignLeft">
-                         <a href="/"><img class="grid-6 grid-md-12 grid-lg-8 box_bottomMargin4" src="/img/logos/gg_horizontal_white_400.png" alt="GlobalGiving" border="0"></a>
-                         <p class="text_fontSizeSmall col_whiteText">
-                            GlobalGiving makes it easy and safe for you to give to local projects anywhere in the world, while providing nonprofits with the tools, training, and support they need to become more effective.
-                         </p>
-                         <div class="grid-0 grid-md-12 grid-lg-0">&nbsp;</div>
-                         <a class="btn btn_transparent btn_simple box_topMargin3" href="/aboutus/">How it Works</a>
-                         <div class="grid-12 grid-md-0 grid-parent layout_centerVertical layout_center box_verticalPadded4">
-                            <div class="grid-6 grid-parent layout_center">
-                              <a class="grid-3" href="http://facebook.com/globalgiving">
-                                <div class="sprite sprite_facebook layout_inlineBlock text_fontSizeZero">facebook</div>
-                              </a>
-                              <a class="grid-3" href="http://twitter.com/globalgiving">
-                                <div class="sprite sprite_twitter layout_inlineBlock text_fontSizeZero">twitter</div>
-                              </a>
-                              <a class="grid-3" href="http://plus.google.com/+globalgiving">
-                                <div class="sprite sprite_googlePlus layout_inlineBlock text_fontSizeZero">google plus</div>
-                              </a>
-                              <a class="grid-3" href="http://instagram.com/globalgiving">
-                                <div class="sprite sprite_instagram layout_inlineBlock text_fontSizeZero">instagram</div>
-                              </a>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="grid-12 grid-md-8 grid-parent box_leftPadded2 text_lineHeightBase text_sans text_3n">
-                         <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
-                            <div class="grid-6 box_rightPadded1 layout_center layout_md_alignLeft text_fontSizeSmaller">
-                               <h4><a href="/dy/v2/content/browse.html" class="link_subtle col_ggPrimary1Text">Donors</a></h4>
-                               <ul class="list list_noDecorate link_subtle col_whiteText">
-                                  <li><a href="/dy/v2/content/browse.html">Give to a Project</a></li>
-                                  <li><a href="/gifts/">Give or Redeem Gift Cards</a></li>
-                                  <li><a href="/gifts/inhonor.html">Donate in Honor</a></li>
-                                  <li><a href="/project-of-the-month-club/">Project of the Month Club</a></li>
-                               </ul>
-                            </div>
-                            <div class="grid-6 box_rightPadded1 layout_center layout_md_alignLeft text_fontSizeSmaller">
-                               <h4><a href="/non-profits/" class="link_subtle col_ggPrimary1Text">Nonprofits</a></h4>
-                               <ul class="list list_noDecorate link_subtle col_whiteText">
-                                  <li><a href="/apply/">Start Application</a></li>
-                                  <li><a href="/non-profits/features-and-benefits/">Features + Benefits</a></li>
-                                  <li><a href="http://tools.blog.globalgiving.org/">Tools + Training Blog</a></li>
-                                  <li><a href="/non-profits/features-and-benefits/pricing.html">Pricing + Fees</a></li>
-                               </ul>
-                            </div>
-                         </div>
-                         <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
-                            <div class="grid-6 box_rightPadded1 layout_center layout_md_alignLeft text_fontSizeSmaller">
-                               <h4><a href="/corporate-partners/" class="link_subtle col_ggPrimary1Text">Companies</a></h4>
-                               <ul class="list list_noDecorate link_subtle col_whiteText">
-                                  <li><a href="/corporate-partners/">Partner with Us</a></li>
-                                  <li><a href="/corporate-partners/services-we-offer/successes/">Case Studies</a></li>
-                                  <li><a href="/corporate-partners/services-we-offer/">Services We Offer</a></li>
-                                  <li><a href="/corporate-partners/services-we-offer/gift-cards/">Corporate Gift Cards</a></li>
-                               </ul>
-                            </div>
-                            <div class="grid-6 layout_center layout_md_alignLeft text_fontSizeSmaller">
-                               <h4><a href="/aboutus/" class="link_subtle col_ggPrimary1Text">About Us</a></h4>
-                               <ul class="list list_noDecorate link_subtle col_whiteText">
-                                  <li><a href="/aboutus/team/">Our Team</a></li>
-                                  <li><a href="/aboutus/impact/">Our Impact</a></li>
-                                  <li><a href="/aboutus/jobs/">Jobs</a></li>
-                                  <li><a href="/contactus/">Contact Us</a></li>
-                               </ul>
-                            </div>
-                         </div>
-                      </div>
-                        
-                      <div class="grid-12 grid-md-6 grid-parent box_horizontalPadded2 layout_center layout_centerVertical">
-                         <div class="grid-10 grid-md-6 grid-parent box_verticalPadded2">
-                            <div class="grid-8">
-                               <a href="/aboutus/media/">
-                                  <img src="/img/logos/wp.png" class="img-cover" alt="Washington Post">
-                               </a>
-                            </div>
-                            <div class="grid-4 box_horizontalPadded4">
-                               <a href="/aboutus/media/">
-                                  <img src="/img/logos/cnn.png" class="img-cover" alt="CNN">
-                               </a>
-                            </div>
-                         </div>
-                         <div class="grid-10 grid-md-6 grid-parent box_verticalPadded2">
-                            <div class="grid-4 box_rightPadded4">
-                               <a href="/aboutus/media/">
-                                  <img src="/img/logos/npr.png" class="img-cover" alt="NPR">
-                               </a>
-                            </div>
-                            <div class="grid-8">
-                               <a href="/aboutus/media/">
-                                  <img src="/img/logos/nyt.png" class="img-cover" alt="New York Times">
-                               </a>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="grid-0 grid-md-2"></div>
-                      <div class="grid-12 grid-md-4 grid-parent layout_center">
-                         <div class="grid-10 grid-parent box_verticalPadded3 layout_centerVertical">
-                            <div class="grid-4 box_bottomPadded2">
-                               <a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204">
-                                  <img src="/img/logos/bbb.png" class="img-cover" alt="BBB Accredited Charity">
-                               </a>
-                            </div>
-                            <div class="grid-4 box_bottomPadded2 box_horizontalPadded3">
-                               <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648">
-                                  <img src="/img/logos/charityNavigator.png" class="img-cover" alt="Charity Navigator Four Star Charity">
-                               </a>
-                            </div>
-                            <div class="grid-4 box_bottomPadded2">
-                               <a href="https://www.mcafeesecure.com/verify?host=www.globalgiving.org">
-                                  <img src="/img/logos/secureSite.png" class="img-cover" alt="SSL- and PCI-Verified Secure Site">
-                               </a>
-                            </div>
-                         </div>
-                      </div>
-                      
-                      
-                      <address class="grid-12 grid-md-8 grid-parent box_horizontalPadded2 box_bottomPadded2 text_lineHeightLoose col_ggPrimary2Text layout_center link_subtle">
-                        <div class="grid-12 grid-lg-7 layout_md_alignLeft text_fontSizeSmaller">
-                           <a href="/aboutus/">
-                              ©&nbsp;Copyright&nbsp;2000-2015&nbsp;GlobalGiving, a&nbsp;501(c)3&nbsp;organization (EIN:&nbsp;30‑0108263)
-                           </a>
+
+                     <div class="col_ggSecondary1Darker">
+                        <div class="grid-padder grid-parent">
+                           <div class="grid-12 grid-md-4 box_padded2 layout_center layout_md_alignLeft">
+                              <a href="/"><img class="box_bottomMargin4" src="/img/logos/gg_horizontal_white_400.png" alt="GlobalGiving" border="0" style="width:200px; max-width:100%"></a>
+                              <div class="text_fontSizeSmaller col_ggSecondary1LighterText">
+                                 GlobalGiving makes it easy and safe for you to give to local projects anywhere in the world, while providing nonprofits with the tools, training, and support they need to become more effective.
+                              </div>
+                              <div class="layout_center layout_md_alignLeft box_verticalPadded2">
+                                 <a href="http://facebook.com/globalgiving" class=" layout_centerVertical box_rightPadded1">
+                                   <div class="sprite sprite_facebook_tan layout_inlineBlock text_fontSizeZero">facebook</div></a>
+                                 <a href="http://twitter.com/globalgiving" class="layout_centerVertical box_horizontalPadded1">
+                                   <div class="sprite sprite_twitter_tan layout_inlineBlock text_fontSizeZero">twitter</div></a>
+                                 <a href="http://plus.google.com/+globalgiving" class="layout_centerVertical box_horizontalPadded1">
+                                   <div class="sprite sprite_googlePlus_tan layout_inlineBlock text_fontSizeZero">google plus</div></a>
+                                 <a href="http://instagram.com/globalgiving" class="layout_centerVertical box_leftPadded1">
+                                   <div class="sprite sprite_instagram_tan layout_inlineBlock text_fontSizeZero">instagram</div></a>
+                              </div>
+                           </div>
+                           <nav class="grid-12 grid-md-8 grid-parent box_padded2">
+                              <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
+                                 <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
+                                    <h4 class="box_bottomPadded3"><a href="/give/" class="col_ggPrimary1Text">Donors</a></h4>
+                                    <div class="text_fontSizeSmaller">
+                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/dy/v2/content/browse.html">Give to a Project</a></div>
+                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/gifts/">Give or Redeem Gift Cards</a></div>
+                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/gifts/inhonor.html">Donate in Honor</a></div>
+                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/project-of-the-month-club/">Project of the Month Club</a></div>
+                                    </div>
+                                 </div>
+                                 <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
+                                    <h4 class="box_bottomPadded3"><a href="/non-profits/" class="col_ggPrimary1Text">Nonprofits</a></h4>
+                                    <div class="col_whiteText text_fontSizeSmaller">
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/apply/">Start Application</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/non-profits/features-and-benefits/">Features + Benefits</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="http://tools.blog.globalgiving.org/">Tools + Training Blog</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/non-profits/features-and-benefits/pricing.html">Pricing + Fees</a></div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
+                                 <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
+                                    <h4 class="box_bottomPadded3"><a href="/companies/" class="col_ggPrimary1Text">Companies</a></h4>
+                                    <div class="col_whiteText text_fontSizeSmaller">
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/what-you-need/">What You Need</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/how-we-help/">How We Help</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/partners/">Our Partners</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/contact-us/">Contact Partnerships Team</a></div>
+                                    </div>
+                                 </div>
+                                 <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
+                                    <h4 class="box_bottomPadded3"><a href="/aboutus/" class="col_ggPrimary1Text">About Us</a></h4>
+                                    <div class="col_whiteText text_fontSizeSmaller">
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/team/">Our Team</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/impact/">Our Impact</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/jobs/">Jobs</a></div>
+                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/contactus/">Contact Us</a></div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </nav>
                         </div>
-                        <div class="grid-12 grid-lg-5 layout_md_alignLeft text_fontSizeSmaller">
-                           <a href="/aboutus/">
-                              1110 Vermont Ave. NW Suite 550, Washington, DC 20005 USA
+                        <div class="text_fontSizeZero"><div class="grid-12 barSpacer_short col_ggSecondary1Dark"></div></div>
+                        <div class="grid-padder grid-parent layout_centerVertical box_bottomPadded1">
+                           <a href="/aboutus/media/" class="grid-12 grid-lg-6 box_leftPadded2 box_topPadded1 layout_center layout_lg_alignLeft text_fontSizeZero">
+                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_wp layout_inlineBlock">Washington Post</div></div>
+                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_cnn layout_inlineBlock">CNN</div></div>
+                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_npr layout_inlineBlock">NPR</div></div>
+                              <div class="sprite sprite_nyt layout_inlineBlock">New York Times</div>
                            </a>
+                           <div class="grid-12 grid-lg-6 box_rightPadded2 box_topPadded1 layout_center layout_lg_alignRight text_fontSizeZero">
+                               <a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204" class="box_rightPadded2"><div class="sprite sprite_bbb layout_inlineBlock">BBB Accredited Charity</div></a>
+                               <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648" class="box_rightPadded2"><div class="sprite sprite_charityNavigator layout_inlineBlock">Charity Navigator Four Star Charity</div></a>
+                               <a href="https://www.mcafeesecure.com/verify?host=www.globalgiving.org"><div class="sprite sprite_secureSite layout_inlineBlock">SSL- and PCI-Verified Secure Site</div></a>
+                           </div>
                         </div>
-                      </address>
-                      <div class="grid-12 grid-md-4 grid-parent verticalRuleSeparated box_bottomPadded2 layout_center  layout_centerVertical link_subtle col_ggPrimary2Text text_lineHeightLoose text_sans text_6n text_allCaps">
-                         <div class="grid-4 box_rightPadded1 text_fontSizeSmaller">
-                            <a href="/aboutus/privacypol.html">Privacy +&nbsp;Terms</a>
-                         </div>
-                         <div class="grid-3 box_rightPadded1 text_fontSizeSmaller">
-                            <a href="/api/">API + Data</a>
-                         </div>
-                         <div class="grid-3 box_rightPadded1 text_fontSizeSmaller">
-                            <a href="/help.html">FAQ +&nbsp; Help</a>
-                         </div>
-                         <div class="grid-2 box_rightPadded1 text_fontSizeSmaller">
-                            <a href="http://blog.globalgiving.org">Blog</a>
-                         </div>
-                      </div>
-                  </div>
-              </footer>
+                     </div>
+
+                     <div class="col_ggSecondary1">
+                        <div class="grid-padder grid-parent box_bottomPadded1">
+                           <div class="grid-12 grid-lg-7 box_topPadded1 box_horizontalPadded2 layout_center layout_lg_alignLeft text_fontSizeSmallest">
+                              <address class="layout_inlineBlock">
+                                 <a href="/aboutus/" class="col_ggSecondary1LighterText text_4n">
+                                    ©&nbsp;Copyright&nbsp;2000-2016&nbsp;GlobalGiving, a&nbsp;501(c)3&nbsp;organization (EIN:&nbsp;30‑0108263)
+                                 </a>
+                              </address>
+                              &nbsp;&nbsp;&nbsp;
+                              <span class="col_whiteText">Questions?&nbsp;Call&nbsp;<a class="col_ggPrimary1Text text_4n" href="tel://1.877.605.2314">+1.877.605.2314</a></span>
+                           </div>
+                           <div class="grid-12 grid-lg-5 box_topPadded1 box_horizontalPadded2 layout_center layout_centerVertical grid-parent layout_lg_alignRight text_fontSizeSmallest">
+                              <a class="text_allCaps text_4n col_whiteText" href="/aboutus/privacypol.html">Privacy&nbsp;+&nbsp;Terms</a>
+                              <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
+                              <a class="text_allCaps text_4n col_whiteText" href="/api/">API&nbsp;+&nbsp;Data</a>
+                              <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
+                              <a class="text_allCaps text_4n col_whiteText" href="/help.html">FAQ&nbsp;+&nbsp;Help</a>
+                              <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
+                              <a class="text_allCaps text_4n col_whiteText" href="http://blog.globalgiving.org">Blog</a>
+                           </div>
+                        </div>
+                     </div>
+                  </footer>
                
                   </div>
                
 
       
-         <!-- ## This variable is used to include an additional JavaScript file. -->
-         
-	<script type="text/javascript">
-		deferred.push(function(){
-			gg.img.loadBg("js-hero","/img/banners/hero_about","jpg");
-		});
-	</script>
 
-      
-
-      <script type="text/javascript">
-        function loadJS( src, cb ){
-          "use strict";
-          var ref = window.document.getElementsByTagName( "script" )[ 0 ];
-          var script = window.document.createElement( "script" );
-          script.src = src;
-          script.async = true;
-          ref.parentNode.insertBefore( script, ref );
-          if (cb && typeof(cb) === "function") {
-            script.onload = cb;
-          }
-          return script;
-        }
-      </script>
-      
       
          <!-- ****** OPTIMIZELY EXPERIMENT SCRIPT ***** -->
          <script src="//cdn.optimizely.com/js/555520144.js"></script>
@@ -1062,7 +949,6 @@ make changes to your information and update your account at any time.
    
 
 
-<!-- begin olark code -->
 
 
 
