@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vespa.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112020154id_/http%3A//www.vespa.com/bundles/piaggiovespa/pdf/cookie_eng_def_a.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vespa.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328234219id_/http%3A//www.vespa.com/bundles/piaggiovespa/pdf/cookie_eng_def_a.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY – NOTIFICATION ON THE PROCESSING OF PERSONAL DATA Notification pursuant to art. 13 of Legislative Decree 196/2003
 
