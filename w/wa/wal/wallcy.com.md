@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallcy.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909074351id_/http%3A//www.wallcy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallcy.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328125355id_/http%3A//www.wallcy.com/privacy) for the most accurate reproduction.*
 
 # Wallcy - Free VPN, Unrestrict Websites, Safe Browsing!
 
@@ -35,7 +35,6 @@ In addition to the information provided by you (when registering or contacting u
   * Cookies: A cookie is a small data file that is sent to your browser for record-keeping purposes, so the same website will be able to recognize you when you will be back. We use cookies to save your registration information and to recognize you when you are using the Services. Further, we use session ID cookies to enable certain features of the Services, to better understand how you interact with the Services and to monitor aggregate usage and web traffic routing on the Services. Session cookies are deleted from your computer when you log off from the Services and close your browser. Third party service providers or advertisers may also place cookies on your browser for their own purposes. You can choose any time whether to accept such cookies or not or to delete existing cookies from browser. However, if you delete such cookies, some of the Services may not be available to you.
   * Pixel Tags: A pixel tag is a type of technology placed on a website in combination with cookie to enable tracking activity on websites.
   * Web Beacon: A web beacon is technique used to track who is reading a web page or email, when, and from which computer.
-  * Log Data: Log Data is a data that is automatically recorded by our servers when you use the Services. Log Data may include information about your device such as your IP address, browser type, the webpages you visit, the time spent on those pages, access times and dates, unique identifier that was generated for your device (if you use the Services from your mobile device then such identifier may be you mobile number). Such data is used by us in its aggregated form and is not combined with any Personal Information.
 
 
 
