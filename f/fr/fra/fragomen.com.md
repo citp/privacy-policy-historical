@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103163730id_/http%3A//www.fragomen.com/fragomen-worldwide/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragomen.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328160006id_/https%3A//www.fragomen.com/fragomen-worldwide/privacy-policies) for the most accurate reproduction.*
 
 # Fragomen Worldwide | Fragomen Worldwide
 
@@ -37,7 +37,7 @@ This sessional cookie is essential to help ensure that our websites load efficie
 **Google Analytics**  
 We use Google Analytics, a service provided by Google, to help us understand how visitors use our web site. This allows us to improve the quality and content of our websites. 
 
-For further information about the sessional and persistent cookies used as part of Google Analytics, as well as information about how Google uses this information, please see:
+For further information about the sessional and persistent cookies used as part of Google Analytics, as well as information about how Google uses this information, please see: <https://www.google.com/policies/technologies/types/>
 
 **Changing your cookie preferences**
 
