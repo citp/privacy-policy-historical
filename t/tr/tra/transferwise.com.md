@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226094932id_/https%3A//transferwise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transferwise.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328085558id_/https%3A//transferwise.com/us/privacy-policy) for the most accurate reproduction.*
 
 # TransferWise - Send Money Abroad-Privacy
 
-Dated: 26 October 2015
+Dated: 21 March 2015
 
 Protecting your data, privacy and financial details is very important to TransferWise Limited (“ **TransferWise** ”, “ **us** ” or “ **we** “). 
 
@@ -90,7 +90,7 @@ We may disclose your personal information to third parties:
 
   * if TransferWise or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; 
 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply the [Customer Agreement](https://transferwise.com/terms-of-use) and any other documents referred to on it; or to protect the rights, property, or safety of TransferWise, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection. 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply the [Customer Agreement](https://transferwise.com/terms-of-use) and any other documents referred to on it; or to protect the rights, property, or safety of TransferWise, our users, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection, investigation in connection with financial crimes or provision of assistance with law enforcement. 
 
 
 
