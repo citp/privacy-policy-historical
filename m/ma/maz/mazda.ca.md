@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.ca privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225070057id_/http%3A//www.mazda.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.ca privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328161157id_/https%3A//www.mazda.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda Canada
 
