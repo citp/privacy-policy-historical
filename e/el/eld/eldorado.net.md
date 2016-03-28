@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eldorado.net privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006161428id_/http%3A//www.eldorado.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eldorado.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328154633id_/http%3A//www.eldorado.net/privacy.html) for the most accurate reproduction.*
 
 # Eldorado Trading Company - Only The Best - Wholesale Sex Toys and Adult Novelties
 
