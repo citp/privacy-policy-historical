@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsastore.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125001659id_/https%3A//fsastore.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsastore.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328170400id_/https%3A//fsastore.com/Help/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # 
 
