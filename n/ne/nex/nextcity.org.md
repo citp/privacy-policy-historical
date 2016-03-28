@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926095934id_/https%3A//nextcity.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextcity.org privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328131635id_/https%3A//nextcity.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Next City
 
@@ -6,11 +6,13 @@ This Privacy Statement is applicable only to www.nextcity.org (the “Site”) a
 
 ### The Information We Gather About You & What We Do With It
 
-Next City collects personal information that you voluntarily provide to us through the Site under the following circumstances:
+Next City collects personal information that you voluntarily provide to us through the Site under the following circumstances: 
 
-  * If you request a subscription or purchase a product, we collect your name, email address and payment information. All credit card and billing address information used to purchase stories or subscriptions is gathered by and stored by Stripe.com. Next City never views your credit card information but may use your billing address information to deduce the regional demographics of our readership.
-  * If you post a comment to our Site, we store your email address, username and any personal information provided in your comment.
+  * If you request a subscription or purchase a product, we collect your name, email address and payment information. All credit card and billing address information used to purchase stories or subscriptions is gathered by and stored by Stripe.com. Next City never views your credit card information but may use your billing address information to deduce the regional demographics of our readership. 
+  * If you post a comment to our Site, we store your email address, username and any personal information provided in your comment. 
   * If you opt in to our e-newsletter, we collect your email address and any other information you provide, to contact you with Next City’s content and events.
+
+
   * If you choose to log in to Nextcity.org through Facebook, Facebook sends us information from your Facebook profile. Do not log in to our Site through Facebook unless you agree that we may collect, store, and use any and all information made available to us through Facebook.
 
 
@@ -31,7 +33,7 @@ You can configure your browser to accept all cookies or to alert you every time 
 
 Next City retains subscriber emails and names, which may be used for Next City’s marketing and communication purposes. Next City may occasionally send emails on behalf of carefully screened companies whose products or services may be of interest to our readers. If you would like to be removed from this list, please write to info@nextcity.org with the subject heading “Marketing List Removal.”
 
-In rare instances, we may disclose information about you to a third party if we are required to do so by law or feel that such action is necessary to prevent the misuse of our website, or the personal or public safety of our users or the public.
+In rare instances, we may disclose information about you to a third party if we are required to do so by law or feel that such action is necessary to prevent the misuse of our website, or the personal or public safety of our users or the public. 
 
 ### How We Protect Information
 
