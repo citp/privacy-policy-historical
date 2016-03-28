@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodatabases.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211084035id_/http%3A//logodatabases.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodatabases.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328164910id_/http%3A//logodatabases.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Logo Database
 
