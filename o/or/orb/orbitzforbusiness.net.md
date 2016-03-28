@@ -1,49 +1,33 @@
-> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511192550id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328203233id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05_en_US.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz for Business: Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/Orbitz-Worldwide,-LLC/validation?rid=b3c4abce-18d0-4bf1-8e3e-723558f9e4d1 "TRUSTe European Safe Harbor certification")
 
-Effective July 23, 2014
+Effective July 01, 2015
 
 ## Orbitz for Business® Privacy Policy
 
-Your privacy is very important to Orbitz for Business, Inc. This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Site (defined below) and from third party accounts to which you permit us access. Our Site is accessible only to individuals whose organizations have elected to have us offer our services to them. Our Site is not intended for, nor is it accessible to, the general public.
+Your privacy is very important to Orbitz for Business, Inc. This Privacy Policy describes the principles and practices that apply to Personal Information (defined below) collected from users of our services ("you") on our Site (defined below) and from third party accounts to which you permit us access.
 
-  
-
-
-### Simply put:
-
-  * We will not collect Personal Information without your knowledge and permission;
-  * We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy;
-  * We will allow you to view, correct or modify your Personal Information; and
-  * We will take reasonable steps to protect the security of the Personal Information we collect from you.
-
-  
-
-
-### Your California Privacy Rights
-
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please e-mail us at: [customerservice@orbitzforbusiness.net](mailto:customerservice@orbitzforbusiness.net) or write to us at: Orbitz for Business, Inc., Attn: Customer Service - Privacy, 500 West Madison Street, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information.
-
-We will respond to such requests to information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+Your organization has elected to have us offer our corporate travel services to you pursuant to a corporate agreement and subject to this Privacy Policy. Our Site is not intended for, nor is it accessible to, the general public. Your organization's policies may differ from those set forth in this Privacy Policy, and we are not responsible for any use or disclosure of your Personal Information by anyone at your organization.
 
 The remainder of this policy describes our Personal Information handling practices in detail.
 
-  1. Definitions
-  2. Consent
-  3. What Personal Information we collect
-  4. How we use the information we collect
-  5. To whom we disclose Personal Information
-  6. How we retain and store Personal Information
-  7. How we protect Personal Information
-  8. How to access, modify or close your account
-  9. Privacy
-  10. Changes to the Privacy Policy
-  11. Disputes
-  12. U.S.-EU and U.S.-Swiss Safe Harbor Frameworks
-  13. Contact Information
+1\. Definitions  
+2\. Consent  
+3\. What Personal Information we collect  
+4\. How we use the information we collect  
+5\. To whom we disclose Personal Information  
+6\. How we retain and store Personal Information  
+7\. How we protect Personal Information  
+8\. How to access, modify or close your account  
+9\. Privacy  
+10.Changes to the Privacy Policy  
+11.Disputes  
+12.U.S.-EU and U.S.-Swiss Safe Harbor Frameworks  
+13.Your California Rights  
+14.Contact Information  
 
   
   
@@ -67,7 +51,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **"Session Data"** means usage information, such as the type of Internet browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the individual's visit, the number of visits to our Site, the pages viewed and the number of cookies accumulated, and, in the case of the Orbitz for Business mobile site, also means the unique identifier of an individual's mobile device, the type of mobile device the individual uses and the application version.
 > 
-> **"Site"** means the [www.orbitzforbusiness.net](http://orbitzforbusiness.net/) site, the m.orbitzforbusiness.net mobile site or the [www.orbitzforbusiness.com](http://orbitzforbusiness.com/) site and their respective sub sites together with the respective content, Products and Services available from these sites or sub sites.
+> **"Site"** means the [www.orbitzforbusiness.net](https://orbitzforbusiness.net/) site, the m.orbitzforbusiness.net mobile site or the [www.orbitzforbusiness.com](http://orbitzforbusiness.com/) site and their respective sub sites together with the respective content, Products and Services available from these sites or sub sites.
 
   
   
@@ -75,7 +59,7 @@ The remainder of this policy describes our Personal Information handling practic
 
 > BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR SITE, AND/OR BY PERMITTING US ACCESS TO YOUR THIRD PARTY ACCOUNTS, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW.
 > 
-> If you do not agree with these terms, do not provide any Personal Information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required Personal Information, we may not be able to provide you Products or Services.
+> If you do not agree with the terms set forth below, do not provide any Personal Information to us. If you choose not to provide us with any required Personal Information, or if you withdraw your consent, we may not be able to provide you Products or Services.
 > 
 > **Minors**
 > 
@@ -83,7 +67,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **Other Travelers or Contacts**
 > 
-> If you Book Products or Services for other travelers using your Member ID and password, or if you provide us with contact information of a third party for Orbitz Care Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler or third party, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
+> If you Book Products or Services for other travelers, or if you provide us with contact information of a third party for Orbitz Care Alerts, you must make sure that you have the right to do so. By providing the Personal Information of another traveler or third party, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy. This includes corporate travel administers or arrangers who Book Products or Services for other travelers - corporate travel administers and arrangers must ensure that the traveler receives and agrees to the terms set forth in this Privacy Policy.
 
   
 
@@ -95,7 +79,7 @@ _What Personal Information we collect_
 
 > **When you register as a Member or a Guest Member**
 > 
-> When you register with us as a Member or a Guest Member, you must provide your name, e-mail address and organization's name. If you consented to have your organization share your personal travel information with us, we will match the limited information you provide with the travel profile you may have provided your organization. If you did not consent to your organization sharing your personal travel information with us, we may ask for your consent to obtain your travel profile from your organization. Such travel profile will include Personal Information that you provided your organization, such as your mailing address, travel loyalty numbers and credit card numbers for travel bookings. Your consent for your organization to share your personal travel information with us may be necessary for you to become a Member. You also must choose a password, which will be required to gain access to our Site. We might also request your home zip code passport number, and visa number(s).
+> When you register with us as a Member or a Guest Member, you must provide your name, e-mail address and organization's name. If you consented to have your organization share your personal travel information with us, we will match the limited information you provide with the travel profile you may have provided your organization. If you did not consent to your organization sharing your personal travel information with us, we may ask for your consent to obtain your travel profile from your organization. The travel profile will include Personal Information that you provided your organization, such as your mailing address, travel loyalty numbers and credit card numbers for travel bookings. Your consent for your organization to share your personal travel information with us may be necessary for you to become a Member. You also must choose a password, which will be required to gain access to our Site. We might also request your home zip code passport number, and visa number(s).
 > 
 > You may elect to provide other information. Such information may include, for example, gender, travel loyalty numbers, travel special requests, Personal Information of your administrative assistant (if applicable) and emergency contacts.
 > 
@@ -105,7 +89,7 @@ _What Personal Information we collect_
 > 
 > **When you Book Products or Services for a third party**
 > 
-> When you Book Products or Services for a third party using your Member ID and password, you must provide that third party's name and contact information, payment and billing information and other information required by the travel service provider(s).
+> When you Book Products or Services for a third party, you must provide that third party's name and contact information, payment and billing information and other information required by the travel service provider(s).
 > 
 > **When you participate in a survey or a focus group**
 > 
@@ -123,6 +107,8 @@ _What Personal Information we collect_
  _How we use the information we collect_   
 
 
+> **Personal Information**
+> 
 > We use Personal Information in order to provide and enhance the Products or Services offered:
 > 
 >   * To record your travel preferences, make reservations or acquire travel insurance on your behalf or communicate with you about your travel plans;
@@ -135,7 +121,7 @@ _What Personal Information we collect_
 >   * To develop, enhance, market, sell or provide Orbitz for Business' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
 >   * To send your organization information about your use or non-use of our Site, which we may obtain from your third party accounts to which you permit us access;
 >   * To evaluate credit standing and to match credit bureau or credit reporting agency information;
->   * To investigate, detect and protect Orbitz for Business and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
+>   * To investigate, detect and protect Orbitz for Business, Members and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
 >   * To effect a corporate transaction in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
 >   * To audit compliance with our policies and contractual obligations;
 >   * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
@@ -145,7 +131,7 @@ _What Personal Information we collect_
 > 
 > **Session Data**
 > 
-> We use Session Data, collected through cookies and pixel tags, to better understand how our Site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Site, the variety of searches of our Site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Site.
+> We use Session Data, collected through network monitoring tools,cookies and pixel tags, to better understand how our Site is navigated, how many visitors arrive at specific pages, the length and frequency of stays at our Site, the variety of searches of our Site's database, the types of browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our Site.
 > 
 > We also use this information to improve our Site's content and ease of use, to personalize and improve your individual viewing experiences on our Site and provide information that may be of interest to you.
 > 
@@ -170,12 +156,12 @@ _What Personal Information we collect_
 > From time to time, we may disclose your Personal Information as follows:
 > 
 >   * To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, or rail transportation. We provide them with the Personal Information needed to make and complete the booking or reservation;
->   * To organizations that perform services for or on behalf of Orbitz for Business, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area ("EEA').Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz for Business, and under the instructions of Orbitz for Business, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA;
+>   * To organizations that perform services for or on behalf of Orbitz for Business, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area ("EEA").Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to Orbitz for Business, and under the instructions of Orbitz for Business, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA;
 >   * To your organization about your use or non-use of the Site;
->   * To protect our Site and our rights under our [Terms and Conditions](https://www.orbitzforbusiness.net/pagedef/content/legal/terms05.jsp?popupsDisabled=false); to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain;
->   * To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
+>   * To protect our Site and our rights under our [Terms and Conditions](https://www.orbitzforbusiness.net/pagedef/content/legal/terms05_.jsp?popupsDisabled=false); to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain;
+>   * To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in connection with that business transaction;
 >   * Where the information is public; or
->   * To our insurers and to regulatory agencies.
+>   * To our insurers and to regulatory agencies to the extent required by law.
 > 
 
 > 
@@ -197,7 +183,7 @@ _What Personal Information we collect_
 > 
 > **National Security**
 > 
-> In order to protect national security and to ensure travel security, the United States Government and other governments may request access to passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such request, Orbitz for Business and/or its providers will give access to all the information you provide at the time of making the booking to the applicable government agencies of the countries to or from which you are traveling.
+> In order to protect national security and to ensure travel security, the United States government and other governments may lawfully compel us to provide passenger name records, which typically includes name, flight origin, flight destination, flight time, duration of flight, seat location, travel agent, form of payment, credit card numbers, travel itinerary, address, telephone number and meal requests. In response to such government requests, Orbitz for Business and/or its providers will provide access to the information you provide at the time of making the booking to the applicable government agencies of the countries to or from which you are traveling.
 
   
 
@@ -233,7 +219,7 @@ _What Personal Information we collect_
  _How we protect Personal Information_   
 
 
-> Orbitz for Business employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require in our contracts with them that they protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
+> Orbitz for Business employs physical, administrative and technical safeguards designed to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require them by contract to protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
 > 
 > If you choose to contact Orbitz for Business through our Site, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. Orbitz for Business assumes no liability for the loss of any information that you transmit to us via the World Wide Web. However, if you provide your credit card information on our Site's credit card forms or if you choose to search for Products and Services, through the Orbitz for Business mobile applications, that are located near you and we collect your geo-location, we encrypt the transmission of that information using secure socket layer technology (SSL).
 > 
@@ -261,15 +247,23 @@ _What Personal Information we collect_
   
 
 
-> **Cookies and pixel tags**
+> **Cookies**
 > 
-> A cookie is a small text file that our computer sends to your computer, and that your computer sends back to us each time you make a request from our Site. A cookie contains a unique identification number that identifies the visitor's browser, but not necessarily the visitor. A pixel tag is a small graphic image similar to a cookie.
+> We use cookies to understand how you use our Site, tailor our Site for you and to manage and improve our Site. A cookie is a small data file that is transferred to your computer, stored in user's web browser and contains data used when the user is browsing on the website. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please be aware that you will not be able to make a travel booking and some of our Services may not function properly if you disable cookies.
 > 
-> When you access our Site, our computer may seek to place cookies or pixel tags on your computer to collect Session Data. Cookies and pixel tags are used to help us recognize you when you visit our Site again or to help us customize your online experience. Unless a visitor specifically informs us of his/her identity (e.g. by registering with us), we will not know who the individual visitor is.
+> We use several types of cookies. 
 > 
-> Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. You can learn more about the use of cookies by visiting [http://networkadvertising.org](http://networkadvertising.org/) or [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+>   * Session cookies are used to make our Site function correctly and to ensure your experience on our Site is seamlessly executed by our infrastructure. These cookies typically expire after you leave our Site.
+>   * Persistent cookies are used to remember your preferences and information about your previous interactions on our Site and to enhance your experience on our Site. For example, these cookies remember a user's preference to store their email address and auto-populate the email field on the log-in page.
+>   * Analytics cookies are used to understand how you interact with our Site over time and across devices. For example, we collect information about which pages you view, your interaction with these pages and how you navigated to these pages. 
 > 
-> If you decide not to accept our cookies, you will be able to access those parts of our Site that are available to the general public, but you will not be able to access many of Products and Services.
+
+> 
+> We work with companies who may need to use cookies to provide their services to us (known as third party cookies). For example, these companies may track how you navigated to our Site. Some of these companies may combine anonymous information obtained in connection with your interaction with our Site with information obtained from other sources and/or your behavior on other websites. 
+> 
+> We may use pixel tags and web beacons to understand how you interact with our Site and communications, to improve our Services. For example, this allows us to determine whether you have interacted with an email from us. 
+> 
+> Some browsers have a "Do Not Track" feature that allows you to tell websites that you do not want to have your activities tracked. Our Site does not have the functionality supporting a 'Do Not Track' browser setting.
 > 
 > **Opting-Out**
 > 
@@ -277,7 +271,7 @@ _What Personal Information we collect_
 > 
 > **Monitoring**
 > 
-> Orbitz for Business may from time to time monitor and review any information transmitted or received through our Site, or through telephone or e-mail communications, for quality assurance and other purposes. We reserve the right to censor, edit, remove or prohibit the transmission or receipt of any information that Orbitz for Business deems inappropriate or in violation of our [Terms and Conditions](https://www.orbitzforbusiness.net/pagedef/content/legal/terms05.jsp?popupsDisabled=false). During monitoring the information may be examined, recorded or copied.
+> Orbitz for Business may from time to time monitor and review any information transmitted or received through our Site, or through telephone or e-mail communications, for quality assurance and other purposes. We reserve the right to censor, edit, remove or prohibit the transmission or receipt of any information that Orbitz for Business deems inappropriate or in violation of our [Terms and Conditions](https://www.orbitzforbusiness.net/pagedef/content/legal/terms05_.jsp?popupsDisabled=false). During monitoring the information may be examined, recorded or copied.
 > 
 > **Links**
 > 
@@ -313,9 +307,22 @@ _What Personal Information we collect_
  _U.S.-EU and U.S.-Swiss Safe Harbor Frameworks_   
 
 
-> Orbitz for Business complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Orbitz for Business adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the Safe Harbor Frameworks, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor Frameworks you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe Online: [here](http://watchdog.truste.com/pvr.php?page=complaint&url=), by Fax: 1-415-520-3420 or by Mail: TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about_TRUSTe/contact_us.html). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: Orbitz for Business' name, the alleged privacy violation, your contact information and whether you would like the particulars of your complaint shared with Orbitz for Business. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/consumer-privacy/watchdog-dispute-resolution/) or request this information from TRUSTe via any of the contact methods listed above. The TRUSTe dispute resolution process will be conducted in English. For human resources data, we have agreed to cooperate with Data Protection Authorities.
+> Orbitz for Business is headquartered in the United States. If you are using our Services from outside the United States, you agree that Personal Information may be transferred to and processed in the United States and other locations.
+> 
+> Orbitz for Business complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Orbitz for Business adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. As part of our participation in the Safe Harbor Frameworks, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor Frameworks you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=).The TRUSTe dispute resolution process will be conducted in English.
 
   
+
+
+13.
+
+ _Your California Rights_   
+
+
+> California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. If you are a resident of California and have an established business relationship with us, you may request the above information by e-mailing us at:[customerservice@orbitzforbusiness.net](https://web.archive.org/web/20160328203233id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/customerservice@orbitzforbusiness.net) or write to us at: Orbitz for Business, Inc., Attn: Customer Service - Privacy, 500 West Madison Street, Suite 1000, Chicago, IL 60661 with a reference to California Disclosure Information.
+> 
+> We will respond to such requests to information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+
   
 
 
