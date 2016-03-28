@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217101635id_/http%3A//naijamayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijamayor.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328063150id_/http%3A//naijamayor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NIGERIA ENTERTAINMENT
 
@@ -23,7 +23,7 @@ We may contract with third-party service providers to assist us in better unders
 
 **Childrens Online Privacy Protection**
 
-We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20151217101635id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age.  If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact [mayorbosspromo@gmail.com](https://web.archive.org/web/20160328063150id_/http://naijamayor.com/privacy-policy/mayorbosspromo@gmail.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.
 
