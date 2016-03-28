@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paydayloanguide.net privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195818id_/http%3A//paydayloanguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayloanguide.net privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328235557id_/http%3A//paydayloanguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Very Best Tips and Guide On Payday Loans
 
-### Privacy Policy:
+## Privacy Policy:
 
 PaydayLoanGuide.net (" **Paydayloanguide** ") operates Paydayloanguide.net and may operate other websites. It is Paydayloanguide's policy to respect your privacy regarding any information we may collect while operating our websites.
 
