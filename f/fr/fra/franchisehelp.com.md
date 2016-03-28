@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922064643id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328051710id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy for Franchise Help
 
 **Privacy Policy**
 
- **Effective Date:   06/27/2014**
+ **Effective Date:   01/13/16**
 
 [](https://privacy.truste.com/privacy-seal/FranchiseHelp-Holdings,-LLC/validation?rid=ab530e2e-8f79-4a7b-8887-8809d39fb495)
 
 This privacy policy applies to [www.franchisehelp.com](https://www.franchisehelp.com/) owned and operated by FranchiseHelp Holdings, LLC (Henceforward “Franchise Help” “We” “Us”). This privacy policy describes how Franchise Help collects and uses the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-FranchiseHelp Holdings, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this Web site, [www.franchisehelp.com](https://www.franchisehelp.com/).
+FranchiseHelp Holdings, LLC has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.franchisehelp.com](https://www.franchisehelp.com/).
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _support@franchisehelp.com_](mailto:support@franchisehelp.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
+ _If you have questions or complaints regarding our privacy policy or practices, please contact us at[support@franchisehelp.com](mailto:support@franchisehelp.com)_. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
- **1.   ****  Information Collection and Use**
+**1.   ****  Information Collection and Use**
 
 We collect the following personal information from you:
 
@@ -51,10 +51,10 @@ We use this information to:
 
   * Improve our Web site and marketing efforts
 
-  *  _User Data Supplementation_
 
 
 
+ _User Data Supplementation_
 
 We obtain address information about you from third party sources, such _as LeadQC, to verify your contact information to prevent fraud._
 
@@ -91,7 +91,7 @@ We may also disclose your personal information:
 
  **3.   ****  User Access and Choice**
 
-If your personally information changes, or if you no longer desire our service, you may contact us by emailing our Customer Support at [support@franchisehelp.com](mailto:support@franchisehelp.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, update or delete it by emailing our Customer Support at [support@franchisehelp.com](mailto:support@franchisehelp.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request to access within 30 days.
 
 We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -104,6 +104,9 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
  **4.   ****Tracking Technologies / Cookies**
 
+Technologies such as: cookies, beacons, tags and scripts are used by FranchiseHelp Holding, LLC and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
+
+
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.  We use cookies on this site.  We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
 We use both session ID cookies and/or persistent cookies.  We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
@@ -111,13 +114,6 @@ We use both session ID cookies and/or persistent cookies.  We use session cooki
 We set a persistent cookie to enable us to track and target the interests of our users to enhance the experience on our site.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
-
-  *  _Web Beacons / Gifs_
-
-
-
-
-We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
   *  _Analytics / Log Files_
 
@@ -128,14 +124,15 @@ As is true of most web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information.
 
-  *  _3rd Party Tracking_
+  *  _LSOs (Flash/ HTML5)  _
 
 
 
 
-The use of cookies by our affiliates and service providers is not covered by our privacy policy.  We do not have access or control over these cookies.  Our third party affiliates may also employ clear gifs images, and scripts that help them better manage their content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html ](https://web.archive.org/web/20160328051710id_/https://www.franchisehelp.com/terms-privacy/%22http%3A//www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)  
 
-  *  _Behavioral Targeting / Re-Targeting_
+
+  * _Behavioral Targeting / Re-Targeting_
 
 
 
