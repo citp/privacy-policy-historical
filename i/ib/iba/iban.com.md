@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002142056id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328050847id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
 
 # IBAN Privacy Policy
 
@@ -53,6 +53,6 @@ You may choose to decline these cookies by visiting the following site: [Google 
 
 **Statistical information** Aggregate statistical information provided by us to our advertisers or others regarding sales or website usage will not include personally identifying information.
 
-**Access to Data** Under the UK Data Protection Act 1988 individuals in the European Union  have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Veriban Limited of 100 Elmer Gardens, Isleworth, London, Middlesex, TW7 6HA, UK stating your full name, your address and all www.iban.com  publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
+**Access to Data** Under the UK Data Protection Act 1988 individuals in the European Union  have the right to be told what personal information we hold about you on our databases. You should write to us, attn Company Secretary at the following address: Veriban Limited of 9 Harcourt Close, Isleworth, Middlesex, TW7 6DD, UK stating your full name, your address and all www.iban.com  publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
 **Phone Calls** Calls to our phone numbers may be monitored or recorded. 
