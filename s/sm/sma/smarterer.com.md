@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smarterer.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418014628id_/http%3A//smarterer.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarterer.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328155035id_/http%3A//smarterer.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarterer
 
 ### Summary of Key Terms
 
-Last update: October 6th, 2014
+Last update: September 22nd, 2015
 
 ###### Personal information collected.
 
@@ -165,13 +165,15 @@ _Changes to this Privacy Policy._ We may update this Privacy Policy at any time,
 
 In order to help secure your personal information, access to your data on Smarterer is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Smarterer website. To protect any data you store on our servers, Smarterer also regularly audits its system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. However, since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Smarterer. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. 
 
-###### Safe Harbor Update, October 2nd, 2014
+###### Safe Harbor Update, September 22nd, 2015
 
 Smarterer, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Smarterer has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Smarterer's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 In compliance with the U.S.-EU Safe Harbor Privacy Principles and the U.S.-Swiss Safe Harbor Privacy Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to our Chief Privacy Officer at [dave@smarterer.com](mailto:dave@smarterer.com). 
 
-We use a self-assessment approach to assure compliance with this privacy policy and periodically verify that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Privacy Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Privacy Principles. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution, using TRUSTe as a third party resolution provider. If you feel that we have not satisfactorily addressed your complaint, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request). 
+We use a self-assessment approach to assure compliance with this privacy policy and periodically verify that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Privacy Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Privacy Principles. 
+
+Smarterer has committed to provide recourse for individuals to whom privacy data relates and to remedy problems arising out of its failure to comply with the US-EU and US-Swiss Safe Harbor Principles by cooperating with European Union Data Protection Authorities (DPAs). Smarterer will cooperate with the DPAs in the investigation and resolution of complaints brought under the Safe Harbor; and Smarterer will comply with any advice given by the DPAs where the DPAs take the view that Smarterer needs to take specific action to comply with the Safe Harbor Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Smarterer, please visit the DPA in your jurisdiction for more information and to file a complaint. 
 
 ###### How to contact us.
 
