@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529034627id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singsale.com.sg privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329001421id_/http%3A//www.singsale.com.sg/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Singsale.com.sg - Privacy
 
