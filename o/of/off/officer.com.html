@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2015-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151117004624id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officer.com privacy policy that was archived on 2016-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328163649id_/http%3A//www.officer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -28,6 +28,7 @@
 
 </script>
 <script type="text/javascript" src="http://ox-d.officer.com/w/1.0/jstag"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js"></script>
 <script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/d026e9e403e8416280248792da4f6f49.js"></script>
 
 	
@@ -90,10 +91,19 @@ var
 $(document).ready(function(){
     PlatformComponents.on('ready', function() {
 
-        // Redrawn masonry when comments change.
+        // Redraw masonry when comments change.
         PlatformComponents.on('Comments.render', function() {
             Page.reloadGrid();
             Content.setSidebarHeight();
+        })
+
+        // Show download buttons when a customer is logged in.
+        PlatformComponents.on('CustomerManager.customer.loaded', function(e) {
+
+            if (null !== PlatformComponents.getCustomer().id && undefined !== window.oTable) {
+                $('<strong>EXPORT RESULTS AS</strong>').appendTo($('#spec_search .export'));
+                window.oTable.buttons().container().appendTo( $('#spec_search .export'));
+            }
         })
 
         var hideModal = function() {
@@ -239,7 +249,7 @@ $(document).ready(function(){
 
 
 
-    
+
 
 
 
@@ -265,28 +275,28 @@ $(document).ready(function(){
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498351" data-ad-skip-fallback="true" id="openx_adunit_id__498351__674322975"></div>
+<div class="ad custom-ad ad-1658x1058 wallpaper-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498351" data-ad-skip-fallback="true" id="openx_adunit_id__498351__1775180650"></div>
 <!-- Welcome Ad container -->
 <!-- End Welcome Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498352" data-ad-skip-fallback="true" id="openx_adunit_id__498352__518828518"></div>
+<div class="ad custom-ad ad-550x480 welcome-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498352" data-ad-skip-fallback="true" id="openx_adunit_id__498352__850817718"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498348" data-ad-skip-fallback="true" id="openx_adunit_id__498348__1234553263"></div>
+<div class="ad custom-ad ad-500x500 page-peel-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498348" data-ad-skip-fallback="true" id="openx_adunit_id__498348__1513252973"></div>
 <!-- Page Peel Ad container -->
 <!-- End Page Peel Ad container -->
 
 <!-- TEST TAGS -->
 <!-- END TEST TAGS -->
 
-<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498350" data-ad-skip-fallback="true" id="openx_adunit_id__498350__1169969810"></div>
+<div class="ad custom-ad ad-1x1 take-over-ad" data-ad-unit-trigger="onload" data-instance-id="default" data-ad-unit-id="498350" data-ad-skip-fallback="true" id="openx_adunit_id__498350__664940078"></div>
 <!-- End Custom Ads -->
 
 <div class="overlay page-overlay ghost"></div>
@@ -536,11 +546,6 @@ $(document).ready(function(){
 		<a href="/careers" class="tooltip-item uppercase">Careers</a>
 	<!-- </div> -->
 </li>
-<li class="navigation-item extras section-11083" data-alias="/http://webmail.officer.com/email/scripts/loginuser.pl">
-	<!-- <div class="color-effect"> -->
-		<a href="http://webmail.officer.com/email/scripts/loginuser.pl" target="_blank" class="tooltip-item uppercase">Officer Mail</a>
-	<!-- </div> -->
-</li>
 
 
 					<li class="navigation-header alt-color-1">User</li>
@@ -575,11 +580,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498347" id="openx_adunit_id__498347__699889485"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498347" id="openx_adunit_id__498347__1442542665"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498344" id="openx_adunit_id__498344__995613009"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498344" id="openx_adunit_id__498344__1684507603"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498342" id="openx_adunit_id__498342__1035179407"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="" data-ad-unit-refresh="" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498342" id="openx_adunit_id__498342__1759450425"></div>
 
 	</div>
 	
@@ -787,11 +792,11 @@ $(document).ready(function(){
 
 	<div class="ad-container leaderboard-ad-container variable">
 
-		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498347" id="openx_adunit_id__498347__1915555221"></div>
+		<div class="ad leaderboard-ad ad-320x50" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498347" id="openx_adunit_id__498347__536663187"></div>
 
-		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498344" id="openx_adunit_id__498344__848659068"></div>
+		<div class="ad leaderboard-ad ad-728x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498344" id="openx_adunit_id__498344__840754441"></div>
 
-		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498349" id="openx_adunit_id__498349__836930565"></div>
+		<div class="ad leaderboard-ad ad-970x90" data-ad-sponsor-skip="3" data-ad-unit-refresh="true" data-ad-unit-trigger="inview" data-instance-id="default" data-ad-unit-id="498349" id="openx_adunit_id__498349__871204857"></div>
 
 	</div>
 	
@@ -802,12 +807,18 @@ $(document).ready(function(){
 
 
 
+    <iframe src="https://5326342.fls.doubleclick.net/activityi;src=5326342;type=south0;cat=offic0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+
+
 </footer>
 
 
 
+
+
+
+
 	<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="http://q1mediahydraplatform.com/ads/video/controller.php?qid=55d4f2cc9f8901a429c21d6d&amp;qz=1"></script>
 <script type="text/javascript" src="http://www.officer.com/app/merrick/files/www.officer.com/js/f5f488921506a271f0fd98853dd4ac25.js"></script>
 
 	
