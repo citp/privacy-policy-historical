@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029171617id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxibid.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328091222id_/https%3A//www.proxibid.com/asp/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Leader in Online Timed & Live Webcast Auctions Auctions Online | Proxibid
+# Proxibid Privacy Policy
 
-At, Proxibid, your privacy is one of our highest priorities. We provide this Privacy Policy to help you make an informed choice about your personal information. We desire to be open and honest at all times about information collected from you, how that information is used, and your rights regarding that information.
+At Proxibid, your privacy is one of our highest priorities. We provide this Privacy Policy to help you make an informed choice about your personal information. We desire to be open and honest at all times about information collected from you, how that information is used, and your rights regarding that information.
 
 ## NOTICE
 
  **POLICY ACCEPTANCE**
 
   * This privacy policy applies to all information collected by or supplied to [www.proxibid.com](http://www.proxibid.com/). By visiting [www.proxibid.com](http://www.proxibid.com/) you are accepting the practices described in this Privacy Policy
-  * If you choose to visit [www.proxibid.com](https://www.proxibid.com/asp/www.proxibid.com), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska. 
+  * If you choose to visit [www.proxibid.com](https://www.proxibid.com/), your visit and any dispute over privacy is subject to this Privacy Policy and our Unified User Agreement, including limitations on damages and application of the law of the State of Nebraska. 
 
 
 
@@ -28,7 +28,7 @@ At, Proxibid, your privacy is one of our highest priorities. We provide this Pri
 
  **DISPUTE RESOLUTION**
 
-  * If you believe your compliant has not been adequately addressed by Proxibid, you can raise any concerns with [PrivacyTrust](http://www.privacytrust.org/complaint/raise_privacy_complaint.php), and they will serve as a third party contact to facilitate resolution of any dispute.
+  * If you believe your complaint has not been adequately addressed by Proxibid, you can raise any concerns with [PrivacyTrust](http://www.privacytrust.org/complaint/raise_privacy_complaint.php), and they will serve as a third party contact to facilitate resolution of any dispute.
 
 
 
@@ -141,7 +141,7 @@ At, Proxibid, your privacy is one of our highest priorities. We provide this Pri
 
   * Our Web site gives you the opportunity to opt-in to receive communication from Proxibid and our partners at the point where you create your account. If you wish to remove your information from our database to stop receiving communications or our service, you may send an E-mail to:marketing@proxibid.com. 
   * Please note that Buyers who opt out may still receive communications from Sellers. Opting out of Proxibid communications has no impact upon a Seller's use of Buyer information. Buyers should contact a Seller directly to opt out of communications from a Seller. 
-  * SMS Text Disclosure. Opt in via [www.proxibid.com](https://web.archive.org/web/20151029171617id_/https%3A//www.proxibid.com/asp/www.proxibid.com) to receive SMS Text message containing auction reminders, offers acceptances and other notifications. By opting-in you specifically acknowledge that your wireless carrier may charge for messages sent or received and that you are solely responsible for such charges and that Proxibid may collect, use and disclose the information you provide to enable this service. Message frequency is variable and based on your subscription to receive notifications. One message per request for auction reminders. Text STOP to 25884 to opt out. For support: Text HELP to 258841, call 1-877-505-7770 or email [info@proxibid.com](mailto:info@proxibid.com). Participating carriers include: Alltel, AT&T, MetroPCS, Cricket, T-Mobile, U.S. Cellular, Sprint, Google Voice, Cincinnati Bell, Virgin Mobile and Verizon Wireless. 
+  * SMS Text Disclosure. Opt in via [www.proxibid.com](http://www.proxibid.com/) to receive SMS Text message containing auction reminders, offers acceptances and other notifications. By opting-in you specifically acknowledge that your wireless carrier may charge for messages sent or received and that you are solely responsible for such charges and that Proxibid may collect, use and disclose the information you provide to enable this service. Message frequency is variable and based on your subscription to receive notifications. One message per request for auction reminders. Text STOP to 25884 to opt out. For support: Text HELP to 258841, call 1-877-505-7770 or email [info@proxibid.com](mailto:info@proxibid.com). Participating carriers include: Alltel, AT&T, MetroPCS, Cricket, T-Mobile, U.S. Cellular, Sprint, Google Voice, Cincinnati Bell, Virgin Mobile and Verizon Wireless. 
 
 
 
