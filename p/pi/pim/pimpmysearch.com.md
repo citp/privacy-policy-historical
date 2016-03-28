@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimpmysearch.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331204755id_/http%3A//www.pimpmysearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimpmysearch.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328084321id_/http%3A//www.pimpmysearch.com/privacy.php) for the most accurate reproduction.*
 
 # Pimp My Search - Privacy Policy
 
