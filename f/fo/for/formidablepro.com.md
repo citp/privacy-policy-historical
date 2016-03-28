@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002081929id_/https%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328172307id_/https%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Formidable Forms
 
@@ -63,4 +63,5 @@ If visitors have any questions or suggestions regarding our privacy policy, plea
 Phone: (801) 610-9460
 
 Strategy11, LLC  
-South Jordan, UT 84095
+12180 S 300 E #785  
+Draper, UT 84020
