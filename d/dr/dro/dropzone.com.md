@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052514id_/http%3A//www.dropzone.com/about/Privacy_Statement_599.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropzone.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328043419id_/http%3A//www.dropzone.com/about/Privacy_Statement_599.html) for the most accurate reproduction.*
 
 # Privacy Statement : Skydiving Articles - Dropzone.com
 
