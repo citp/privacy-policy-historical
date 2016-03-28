@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightinsurance.org privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221060327id_/http%3A//www.rightinsurance.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightinsurance.org privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328232051id_/http%3A//rightinsurance.org/privacy-policy) for the most accurate reproduction.*
 
 # 
 
