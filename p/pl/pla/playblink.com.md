@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playblink.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217024152id_/http%3A//www.playblink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playblink.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328060511id_/http%3A//www.playblink.com/privacy.html) for the most accurate reproduction.*
 
 # Playblink - Privacy Policy
 
