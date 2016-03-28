@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050531id_/http%3A//www.cssauthor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328125656id_/http%3A//www.cssauthor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » CSS Author
 
@@ -32,7 +32,7 @@ We only provide articles and information, and we never ask for personal or priva
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-We use cookies to: 
+We use cookies to:
 
 • Understand and save user’s preferences for future visits.
 
@@ -49,7 +49,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Google 
+Google
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
