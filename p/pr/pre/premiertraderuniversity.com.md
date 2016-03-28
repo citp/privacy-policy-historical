@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiertraderuniversity.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421113757id_/http%3A//www.premiertraderuniversity.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiertraderuniversity.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328100015id_/http%3A//www.premiertraderuniversity.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premier Trader University - Online Trading Courses
 
@@ -14,6 +14,12 @@ used by us to contact consumers for marketing purposes.
 used for 3rd party promotions and other complimentary offers.
 
 Registration is not required to enter our site.
+
+Premier Trader University occasionally uses the [AdRoll display advertising network](http://www.adroll.com/) to collect visitor data on our site and then serve targeted display ads to you on other sites. Our partners use technology such as cookies and web beacons to collect this data. For more information or to opt-out of this type of advertising, please visit [AdRoll’s privacy policy](http://www.adroll.com/about/privacy).
+
+Premier Trader University uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](http://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+Premier Trader University uses Facebook advertising and retargeting. Cookies and pixels are used to understand and deliver ads and make them more relevant to you. We may also use a cookie to learn whether someone who saw an ad on Facebook later visited our website.
 
 We have an order form.
 
