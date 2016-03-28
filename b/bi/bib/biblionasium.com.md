@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919030013id_/https%3A//www.biblionasium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblionasium.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328200403id_/https%3A//www.biblionasium.com/privacy) for the most accurate reproduction.*
 
 # BiblioNasium - Kids Share Book Recommendations. Use Online Reading Logs, Find Books At Their Reading Level
 
@@ -54,6 +54,8 @@ BiblioNasium has taken several measures to keep your information safe. Our data 
 
 We use select service providers for some of the operational aspects of the website. These providers are subject to legal restrictions that prohibit their user of the information for any purpose other than to facilitate the specific outsourced related operation, unless you have explicitly given your permission for additional uses.
 
+We use Google Analytics to better understand your use of our website and to improve your experience. This third party does not share your information with any other third parties. To find out more about Google Analytics [click here](https://support.google.com/analytics/answer/6004245)
+
 ### How we keep your child's information safe:
 
 If a child is registered by a parent, the parent is required to provide a first name, last name initial, and a username with which the child will use to access the website. A parent also has the option to provide any or none of the following information: the child’s birthdate, gender, reading level and school. None of this information is required for a child to use the website. Any additional information provided, is used to enhance and personalize their experience. If we have any personal information about that child, then only friends and family, who are approved by the parent, can see those pieces of information. Other signed in users may be able to see their anonymous username, books, reviews, anonymous names of their friends and other non-personal information. People who are not signed in to BiblioNasium are not able to see any user information on our site. A verified parent must authorize all users who see any of the child´s personal information through BiblioNasium. However, it is important to remember that any information that you put on the Internet could become public. There is no such thing as “fail-safe” on the Internet, and we are not responsible for any 3rd party distribution of the information you provide. Please talk to your child about the importance of being safe while using the Internet.
@@ -80,10 +82,10 @@ In order to support the operations of the site and to develop and include all th
 
 ### Leaving the community:
 
-If you are having trouble using or enjoying BiblioNasium, or would like to review, update or have your account deleted, please contact us right away at help@BiblioNasium.com. However, if you decide you no longer want to be a part of BiblioNasium you have the right to terminate your students´, your child´s, and your own account. You can do this by going to “Settings“ menu while you are signed in and following the instructions to remove yourself as a user. Please consider contacting us with any questions or concerns that might lead to leaving our community.
+If you are having trouble using or enjoying BiblioNasium, or would like to review, update or have your account deleted, please contact us right away at help@BiblioNasium.com. However, if you decide you no longer want to be a part of BiblioNasium you have the right to terminate your students´, your child´s, and your own account. You can do this by going to “Settings” menu while you are signed in and following the instructions to remove yourself as a user. Please consider contacting us with any questions or concerns that might lead to leaving our community.
 
 ### Other information:
 
-We reserve the right to update this policy when we deem necessary. You will be notified of any changes to this Privacy Policy by the publication of a revised policy on this page. It is your responsibility to check back to this page from time to time to ensure that you are up to date on any modifications.
+We reserve the right to update this policy when we deem necessary. You will be notified of any changes to this Privacy Policy by the publication of a revised policy on this page. It is your responsibility to check back to this page from time to time to ensure that you are up to date on any modifications. If we make a material change to this policy we will contact you by email before the changes become effective to seek your consent.
 
-BiblioNasium was founded by the parents and educators at Biblio Holdings LLC, located at 1385 York Ave, New York, NY 10021. Any use of the words “us,” “we,” “our,” “BiblioNasium” and “BiblioNasium.com” in this Privacy Policy refers to Biblio Holdings LLC.
+BiblioNasium was founded by the parents and educators at Biblio Holdings LLC. You can contact us by email ([contact@Biblionasium.com](mailto:contact@Biblionasium.com)) or writing to us at PO Box 1034, New York, NY 10150. Any use of the words “us”, “we”, “our”, “BiblioNasium” and “BiblioNasium.com” in this Privacy Policy refers to Biblio Holdings LLC. 
