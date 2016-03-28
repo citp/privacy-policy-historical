@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdub.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128170626id_/http%3A//www.watchdub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdub.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328172659id_/http%3A//www.watchdub.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Privacy Policy Episodes | English Dubbed Online
 
