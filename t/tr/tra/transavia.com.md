@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061757id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329232502id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
 
 # Privacy - Transavia
 
@@ -17,7 +17,7 @@ The Transavia Airlines C.V. registered office is located in (1117 EE) Schiphol a
 
 In order to offer our Transavia products and services, it is necessary for us to process such information as your name, address, e-mail address, phone number, travel preferences, personal interests and any information required for payment purposes. You are not required to provide this information to Transavia. However, if you do not wish to provide this information, we will not always be able to provide the requested service and/or product. 
 
-Transavia does not share the information you provide with third parties without your consent. The information is also stored and protected from improper use in accordance with the requirements that may be imposed on it. This means that, among other things, only authorised personnel can access your information and Transavia uses well-established technologies for the storage and protection of your data. 
+The information is also stored and protected from improper use in accordance with the requirements that may be imposed on it. This means that, among other things, only authorised personnel can access your information and Transavia uses well-established technologies for the storage and protection of your data. 
 
 According to the Personal Data Protection Act (WBP), Transavia Airlines has registered the methods for processing your personal data with the Dutch Data Protection Authority (CBP) in The Hague. This information can be found on the CBP website at [www.collegebeschermingpersoonsgegevens.nl](https://www.collegebeschermingpersoonsgegevens.nl/). According to the ‘Loi Informatique et Libertés’, Transavia France S.A.S. has registered the methods for processing your personal data with the ‘Commission Nationale de l’Informatique et des Libertés’ (CNIL) in Paris. Information on this can be found on the CNIL website at [www.cnil.fr](https://www.cnil.fr/).
 
