@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911121220id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329123345id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | appointments | Bookeo.com
+# Privacy Policy | Bookeo.com
 
-**Effective date: December 1st, 2014**
+**Effective date: October 26th, 2015**
 
 Bookeo Pty Ltd (referred to here as "Bookeo", "us", "we") provides its Service (as defined below) to you through its web site located at bookeo.com and any of the internet subdomains of bookeo.com (the "Site"). The "Service" includes (a) the Site, (b) the system, tools and services provided by Bookeo through the Site, and (c) all software, data, text, images, sounds, video, and content made available through the Site or Service (collectively referred to as the "Content"). Any new features added to or augmenting the Service are also subject to this Privacy Policy. 
 
 By using the service and / or accessing the Site, you agree to the Privacy Policy which is set out in this document. The Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the Site and /or through your use of the Service. 
 
-Bookeo has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site bookeo.com and does not cover information that may be collected behind the login. 
+Bookeo Pty Ltd has received TRUSTE’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this website, bookeo.com, and does not cover information that may be collected through software downloaded from this website or behind the login. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us [here](http://www.bookeo.com/appointments/contact.html "Contact us") . If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
+(If you have questions or concerns regarding this Statement, you should first contact us [here](http://www.bookeo.com/contact.html). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 In this Privacy Policy, we use the following terms to describe different types of visitors to the Site. Our customers are called "Businesses" and our Businesses' customers are called "Customers". We use the word "staff" to describe persons to whom Businesses give a user account to access the Business data on the Site. These people are collectively described in this Privacy Policy as "Users" of the Site. 
 
@@ -54,9 +54,9 @@ If Bookeo is involved in a merger, acquisition, or sale of all or a portion of i
 
 ## 6\. Security
 
-We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Therefore, we cannot guarantee its absolute security. However, we will endeavour to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also make our best efforts to ensure its security on our systems.
+We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. If you have any questions about the security of your personal information, you can contact us at [info@bookeo.com](mailto:info@bookeo.com). Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Therefore, we cannot guarantee its absolute security. However, we will endeavor to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also make our best efforts to ensure its security on our systems.
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information.
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorized access to your personal information.
 
 For your safety and protection, we never store credit card numbers on our servers. Where necessary, credit card numbers are stored by our payment gateway provider ("Eway"), or by one of the payment gateways preselected by us and chosen by our Businesses with the use of encryption during transmission. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
@@ -82,7 +82,7 @@ We use cookies for our booking system, to remember users’ settings and for aut
 
 ## 10\. Access to Information
 
-We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may correct, update, amend, delete/remove, or deactivate it by emailing our Customer Support at [help@bookeo.com](mailto:help@bookeo.com). In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us.
+We will endeavor to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. If, at any time, you discover that information held about you is incorrect, you may correct, update, amend, delete/remove, or deactivate it by emailing our Customer Support at [help@bookeo.com](mailto:help@bookeo.com). We will respond to your request to access within a reasonable timeframe. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
