@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websuccess4you.biz privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705105200id_/http%3A//www.websuccess4you.biz/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websuccess4you.biz privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329151954id_/http%3A//www.websuccess4you.biz/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # 
 
