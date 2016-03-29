@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918232311id_/http%3A//www.gothscene.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329033505id_/http%3A//www.gothscene.com/privacyPolicy) for the most accurate reproduction.*
 
-# .: Privacy Policy
+# Privacy Policy
 
 #### Join for free!
 
@@ -17,13 +17,13 @@ gothscene.com (the "Site") is licensed to **Dating Media Group**
 USA Company:   
 Dating Media Group  
 6919 W. Broward Blvd. #270  
-Plantation, Florida 33317, USA  
-1-866-294-5787 
+Plantation, FL 33317  
+USA 1-866-294-5787 
 
 International Company:   
 ODS Online Dating Systems LTD  
 77, Strovolos Ave., Strovolos Center, Off. 204  
-2018 Strovolos, Nicosia  
+2018 Strovolos, Nicosia   
 CYPRUS 
 
 [Contact us](https://web.archive.org/contact)
@@ -84,7 +84,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20150918232311id_/http%3A//www.gothscene.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20160329033505id_/http%3A//www.gothscene.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
