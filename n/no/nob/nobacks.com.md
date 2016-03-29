@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobacks.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031090111id_/http%3A//nobacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobacks.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329143854id_/http%3A//nobacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | noBACKS
 
