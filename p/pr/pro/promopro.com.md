@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promopro.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126133940id_/http%3A//www.promopro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopro.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329152011id_/http%3A//www.promopro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PromoPro.com
 
@@ -10,7 +10,7 @@ PromoPro.com is committed to safeguarding your privacy online. Please read the f
 
 Personal Data
 
-Only a user's email address is collected when users provide registration to PromoPro.com. By registering, you agree that PromoPro.com may send you periodical emails promoting coupons and specials from the PromoPro.com merchant base that may be of interest to you. Email addresses are never shared or sold to third-party marketers or third-party agencies.
+We only use your email address when you give us permission to do so through signing up for our site. This memberships signifies your agreement to PromoPro sending occasional promotions that you are interested in. Email addresses are neither shared nor sold to third-party marketers or third-party agencies.
 
 Aggregated Information
 
