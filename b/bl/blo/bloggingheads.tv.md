@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -10,11 +10,11 @@ We do not collect personal information about visitors to our website unless you 
 
 ### Contact form
 
-We provide a [contact form](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
+We provide a [contact form](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
 
 ### Email subscriptions
 
-We allow users to [subscribe to our content](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
+We allow users to [subscribe to our content](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
 
 ### Disqus commenting system
 
@@ -66,17 +66,7 @@ We may update this Privacy Policy at any time. When we do, we will revise the da
 
 ## Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20150914210624id_/http%3A//bloggingheads.tv/contact).
-
-[
-
-### Rational Actors
-
-](https://web.archive.org/programs/rational-actors)
-
-[](https://web.archive.org/videos/36825?in=00:49&out=03:15)
-
-## Stephanie Slade contends that libertarian philosophy doesn’t conflict with her anti-abortion views.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/contact).
 
 [
 
@@ -84,26 +74,26 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/woodruff-strauss)
 
-[](https://web.archive.org/videos/36854?in=15:32&out=17:43)
+[](https://web.archive.org/videos/40325?in=14:03&out=15:22)
 
-## Betsy Woodruff and Daniel Strauss explain why Rick Perry was the first GOP contender to drop out.
-
-[
-
-### The DMZ
-
-](https://web.archive.org/programs/dmz)
-
-[](https://web.archive.org/videos/36819?in=13:42&out=18:45)
-
-## Bill Scher and Matt Lewis game out the House Speaker’s future. **Plus:** Should [Biden ](http://bloggingheads.tv/videos/36819?in=30:44&out=35:45)run?
+## Betsy Woodruff says the candidate has an uncanny ability to redirect attention onto himself.
 
 [
 
-### The Glenn Show
+### Foreign Entanglements
 
-](https://web.archive.org/programs/glenn-show)
+](https://web.archive.org/programs/foreign-entanglements)
 
-[](https://web.archive.org/videos/36681?in=63:14&out=68:40)
+[](https://web.archive.org/videos/40194?in=02:16&out=05:27)
 
-## Glenn Loury and Harold Pollack debate the wisdom of recent protests around the anniversary of Michael Brown’s death. **Plus:** Considering “[all lives matter](http://bloggingheads.tv/videos/36681?in=40:33&out=46:15).”
+## Southeast Asia expert Aaron Connelly says the world’s third biggest democracy sees vulnerabilities in itself where outsiders see assets.
+
+[
+
+### Foreign Entanglements
+
+](https://web.archive.org/programs/foreign-entanglements)
+
+[](https://web.archive.org/videos/40147?in=25:59&out=27:30)
+
+## Robert Farley and Matthew Duss discuss how relatively small differences in worldview can have big impacts when they play out in the real world.
