@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordtool.io privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008111122id_/http%3A//keywordtool.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordtool.io privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329025912id_/http%3A//keywordtool.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
