@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103124858id_/http%3A//www.authenteak.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329223421id_/http%3A//authenteak.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AuthenTEAK is secure and never shares customer info | Privacy Policy
 
@@ -136,4 +136,4 @@ Atlanta, GA 30318 USA
 This Policy may be amended from time to time, consistent with the requirements of the Safe Harbor Principles. A notice will be posted on our website for sixty (60) days whenever this Safe Harbor Privacy Policy is changed in a material way. 
 
   
-EFFECTIVE DATE: January 1, 2015.
+EFFECTIVE DATE: January 1, 2016.
