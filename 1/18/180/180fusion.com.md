@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922230535id_/https%3A//www.180fusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 180fusion.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329223136id_/https%3A//www.180fusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 180fusion
 
 Your privacy is very important to 180Fusion. Accordingly, this document will explain to you how 180Fusion treats any personal information that we collect and receive. By submitting your personally identifiable to us you agree to the terms of this Privacy Policy.
 
-**The Information We Collect**  
+ **The Information We Collect**  
 180Fusion receives and collects information from a variety of different sources during the course of our interactivity with our clients and the public. This policy applies to information collected on any 180Fusion website that is not otherwise publicly available. These sources include:
 
   * Name, address, phone number, email address, correspondence, and applications we receive from all sources.
@@ -17,7 +17,7 @@ Your privacy is very important to 180Fusion. Accordingly, this document will exp
 
 
 
-**Third Party Sharing**  
+ **Third Party Sharing**  
 180Fusion reserves the right to send you communications regarding 180Fusion’s services, and some third party services, related to your account with 180Fusion, without providing you the opportunity to opt out.
 
 In some instances, we may disclose or transmit personally identifiable information to a third party. Including, but not limited to:
@@ -31,23 +31,23 @@ In some instances, we may disclose or transmit personally identifiable informati
 
 Please note that all information submitted via a 180Fusion blog or forum is immediately available to be viewed by the public.
 
-**How We Secure Our Data**  
+ **How We Secure Our Data**  
 To ensure the correct use of information, maintain data accuracy, and prevent unauthorized access, appropriate electronic, physical, and managerial procedures have been put in place to safeguard and secure your personal information. 180Fusion restricts access to personal information to those with the need to know that information so that they may provide services.
 
-**External Links**  
+ **External Links**  
 180Fusion has no control over the privacy policies of websites whose links appear on our website(s). Privacy policies of these sites should be reviewed for an understanding of they use the information they collect from you.
 
-**Protection For Minors**  
+ **Protection For Minors**  
 Protection for minors is very important to 180Fusion and 180Fusion’s services are not designed to be used by anyone under the age of 18. 180Fusion does not collect or maintain any information for anyone we know to be under 18 years of age.
 
-**Updating or Accessing Personal Information**  
+ **Updating or Accessing Personal Information**  
 We ask individual clients to identify themselves before any information can be accessed, updated or removed and in some instances, we may decline to process requests that are unreasonable or require disproportionate technical effort.
 
-**Email Opt-Out**  
+ **Email Opt-Out**  
 180Fusion’s clients may opt-out of receiving email from 180Fusion by following the “unsubscribe” instructions that are provided in the emails.
 
-**Privacy Policy Updates**  
+ **Privacy Policy Updates**  
 From time to time, 180Fusion will update this Privacy Policy without notice to you. Please refer to this Privacy Policy to remain updated on any changes made to our current Privacy Policies. Each version of this Privacy Policy will include an effective date. However, your continued use of 180Fusion services serves as your acceptance of the current policy.
 
-**Contact**  
+ **Contact**  
 Should you have any questions regarding this policy, please email [support@180Fusion.com](mailto:support@180Fusion.com).
