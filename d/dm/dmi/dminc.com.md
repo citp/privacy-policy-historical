@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220234001id_/http%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dminc.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329144954id_/https%3A//dminc.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Privacy Policy - DMI
 
@@ -12,11 +12,11 @@ AUTHORIZED DOCUMENTS ARE PUBLISHED ONLINE ONLY. VERIFY ANY COPY AGAINST THE ONLI
 
 This policy describes how Digital Management, Inc. (DMI), and its successors, subsidiaries, affiliates, divisions, and groups (collectively “DMI”), collects, uses, and discloses certain personal information or personal data (“Personal Information”) that it receives in both the United States and the European Union (EU). In particular, DMI recognizes that the EU has established strict protections regarding the handling of EU Personal Data, and DMI therefore has elected to adhere to the U.S.-EU Safe Harbor Privacy Principles (the “Safe Harbor”) with respect to such Personal Information that it receives. DMI is committed to protecting the privacy and security of its online and offline visitors by maintaining the highest standards of confidentiality and security for all data collected from (i) website visitors, (ii) clients, (iii) subcontractors, (iv) business partners, and (v) end users of clients (“users”). This privacy policy describes how DMI collects information and how it is used.
 
-This privacy policy applies to all visitors to the DMI corporate website ([www.dminc.com](http://www.dminc.com/)), and information collected through our service platform and offline through other means. The use of Personal Information collected through DMI’s service shall be limited to the purpose of providing the service for which the user has engaged DMI.
+This privacy policy applies to all visitors to the DMI corporate website ([www.dminc.com](https://dminc.com/)), and information collected through our service platform and offline through other means. The use of Personal Information collected through DMI’s service shall be limited to the purpose of providing the service for which the user has engaged DMI.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=8ef90ce1-6209-4853-ba20-fcb277ab1d18 "TRUSTe Privacy Certification")
 
-DMI has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. The seal is viewable on the reference validation page by clicking the TRUSTe seal on the DMI website. The TRUSTe certification only covers our corporate website ([www.dminc.com)](http://www.dminc.com/).
+DMI has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program. The seal is viewable on the reference validation page by clicking the TRUSTe seal on the DMI website. The TRUSTe certification only covers our corporate website ([www.dminc.com)](https://dminc.com/).
 
 If you have questions or concerns regarding DMI’s privacy policy or practices, contact us at [privacy@dminc.com](mailto:privacy@dminc.com).
 
