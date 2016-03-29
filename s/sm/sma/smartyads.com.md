@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartyads.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911042021id_/http%3A//smartyads.com/info/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyads.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329093350id_/http%3A//smartyads.com/info/policy) for the most accurate reproduction.*
 
 # Privacy policy | SmartyAds.com
 
@@ -15,6 +15,10 @@ An IP address is automatically assigned to your computer every time you establis
 ### Cookies
 
 We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove them by following directions provided in your Internet browser's "help" file.
+
+### Cookie Opt-out
+
+You can "Opt-out" from having cookies stored on your PC when ads are shown from Smartyads system. To "Opt-out" click this [link](http://www.networkadvertising.org/choices/).
 
 ### Policy towards children
 
