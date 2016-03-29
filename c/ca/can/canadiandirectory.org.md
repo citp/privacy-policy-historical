@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadiandirectory.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317192917id_/http%3A//www.canadiandirectory.org/privacypolicy_canadiandirectory.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiandirectory.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329073108id_/http%3A//www.canadiandirectory.org/privacypolicy_canadiandirectory.html) for the most accurate reproduction.*
 
 # Canadian white and yellow pages for business internet website submitting. - Privacy Policy of Canadiandirectory.org
 
@@ -23,10 +23,10 @@ canadiandirectory.org chooses its advertisers and business partners carefully. H
 
 ### Statistics
 
-  * **Active Links:** 6242
-  * **Pending Links:** 67591
-  * **Todays Links:** 93
-  * **Pending Articles:** 1958
+  * **Active Links:** 6246
+  * **Pending Links:** 86401
+  * **Todays Links:** 59
+  * **Pending Articles:** 5258
   * **Total Articles:** 1
   * **Total Categories:** 13
   * **Sub Categories:** 687
