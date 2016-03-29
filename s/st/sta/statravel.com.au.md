@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022092434id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329175233id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
+
+**STA Travel Pty Ltd** (ABN 34 004 801 512) trading as STA Travel, ATAS Accreditation AO10872 and its related entities (referred to as **STA Travel** , **we** , **us** or our) endeavours to protect the privacy of all our travellers whether you visit one of our branches or our Internet site. 
+
+We have developed this privacy policy to inform you what personal information we may collect from or about you, what this information will be used for, with whom such information will be shared and the security procedures we have implemented to protect your privacy.
 
 ## What information we collect
 
@@ -28,4 +32,42 @@ We may also transfer your personal information to persons outside of Australia i
 
 ## Email subscription opt in and opt out
 
-If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/web/20151022092434id_/http%3A//www.statravel.com.au/,DanaInfo=getscmsprod.bluee.net+/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
+If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/web/20160329175233id_/http%3A//www.statravel.com.au/,DanaInfo=getscmsprod.bluee.net+/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
+
+If you subscribe to both our Deals email and Newsletter letter, the frequency of our emails is once a week on average. Very occasionally you will receive more than one per week when there is a late-breaking deal. 
+
+You can unsubscribe at any time by simply clicking on the “unsubscribe” link on our emails. 
+
+Your email address will only be used for the purpose for which you have provided it and it will not be added to an external mailing list or used for any other purpose without your consent.
+
+## ISIC card information
+
+The information submitted to us is confidential. We do not sell it to anyone. We will only use the information that you supply for the purpose of verifying your cardholder status. If you would like to view the full details of our privacy policy please go to statravel.com.au. Information and discounts are correct at time of printing and are subject to change without notice.
+
+## Third party links
+
+The STA Travel site may contain links to web sites operated and maintained by third parties over which we have no control. The information practices of those web sites are not covered by this privacy policy. Any information you provide to third party web sites will be governed under the terms of each such web site's privacy policy. We have no responsibility or liability whatsoever for the content, actions or policies of third party web sites. We encourage you to read the privacy policies of all third party web sites that link to this site because such privacy policies may be materially different from our privacy policy.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits, in order to provide advertisements about goods and services of interest to you.
+
+## Security
+
+You take on line privacy seriously, and so does STA Travel. It's our way of sustaining your trust in STA travel and our products and services. This means we will take all reasonable measures to ensure your information is secure and have implemented technology for this purpose.
+
+You'll need to enter your email address and nominated password to access the new parts of our site being added, and to be eligible for exclusive prizes and discounts.
+
+## In summary
+
+STA Travel is committed to protecting your privacy. We use the information we collect on our sites to make our service the best they can be and to enhance your overall experience. We do not sell, trade or rent your personal information to others.
+
+## Your consent
+
+By using our site, consulting us in one of our branches or over the telephone, or providing your details to make a booking, you consent to the collection and use of this information by STA Travel in accordance with this privacy policy. 
+
+If you choose not to provide your personal information to us for the purposes set out in this privacy policy, we may not be able to undertake certain activities for you such as providing you with requested information, products or services.
+
+## Feedback, access and corrections
+
+STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries or concerns, or if you wish to request access to, or to  update, your personal information, via the links below.
+
+STA Travel reserves the right to alter our privacy policy, as business needs require. Any alterations to this policy will be posted on our website in a timely manner.
