@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232523id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebollywoodgallery.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329162625id_/http%3A//thebollywoodgallery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Entertainment Photo Albums Online
+# Privacy Policy - Bollywood Movies - Hindi Songs, Hindi Movies Actress
 
-**Privacy Policy** for www.thebollywoodgallery.com  UPDATED ON AUGUST 09-2014
+**Privacy Policy** for www.thebollywoodgallery.com  UPDATED ON MAY 13-2015
 
  **Contact Email:  indianmoviespot@gmail.com**
 
@@ -24,9 +24,18 @@ www.thebollywoodgallery.com does use cookies to store information about visitors
 
  **.::** Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – **[http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+Some of our advertising partners may use cookies and web beacons on our site.
+
+### Our advertising partners include ….
 
  **Google Adsense**
+
+ **Content.ad**[  
+](http://www.flipkart.com/affiliate/landing)
+
+**Adhexa.com**
+
+ **Adhitz.com**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.thebollywoodgallery.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
