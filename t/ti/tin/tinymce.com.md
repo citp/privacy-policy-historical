@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217005233id_/http%3A//ephox.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinymce.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329171511id_/http%3A//ephox.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ephox.com
+# Privacy Policy — Ephox
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY.   **BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE.  IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.
 
@@ -12,13 +12,13 @@ By using the Site, you consent to the data collection and use practices prescrib
 
 ##  **1\. Personally Identifiable Information**
 
-“ **Personally Identifiable Information** ” means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.  Company collects the following Personally Identifiable Information from you when you use our Site: first and last name, address (including zip code), email address, telephone number, credit card number, credit card billing address, credit card expiration date, authentication data, company, country, and such other information. Company also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request.  We collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services. 
+“ **Personally Identifiable Information** ” means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home.  Company collects the following Personally Identifiable Information from you when you use our Site: first and last name, address (including zip code), email address, telephone number, credit card number, credit card billing address, credit card expiration date, authentication data, company, country, and such other information. Company also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request.  We collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services.
 
 We use your Personally Identifiable Information to complete transactions, respond to your requests, answer your questions, deliver the products and services you request, and notify you of promotions, updates, or special offers that we think may interest you. In addition, Personally Identifiable Information is used to provide the products and services that you have ordered or requested, to process payment information, to process orders, to send order confirmations, to provide customer service, optimize the operation of the Site, enhance our promotional and marketing activities, improve our products and services, to share with third parties as described in this Privacy Policy, trouble shoot, perform administrative tasks, handle disputes, enforce our agreements, comply with laws and regulations, cooperate with law enforcement activities, and other purposes that are necessary for us to provide vouchers, products and/or services you requested from us.  If you use our Site or a link to our Site to send information about a product or service to another person, we may collect and store your Personally Identifiable Information, and the Personally Identifiable Information of any recipient. We may use the recipient’s Personally Identifiable Information to allow him or her to view or access the information you requested we provide.
 
 For Personally Identifiable Information provided if and when applying for a job with us, we will use that information only to contact you regarding job opportunities that may be of interest. This information may also be used to contact you about announcements, administration, requests or inquires, your orders and account, changes to our Site or policies, promotional offerings and other marketing activities, and requesting feedback through surveys and questionnaires.
 
-We may from time to time send you promotional emails relating to our product and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails after registering an account on the Site by simply following the "unsubscribe" instructions that appear in every email from us, or updating your preferences at: [ephox.com/subscriptions](http://www.ephox.com/subscriptions/).
+We may from time to time send you promotional emails relating to our product and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails after registering an account on the Site by simply following the “unsubscribe” instructions that appear in every email from us, or updating your preferences at: [ephox.com/subscriptions](http://www.ephox.com/subscriptions/).
 
 ##  **2\. Non-Personally Identifiable Information  **
 
@@ -38,7 +38,7 @@ We may contract with third-party providers, business partners or persons to prov
 
 ##  **4\. How You Can Access or Change Your Information**
 
-If you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times. 
+If you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times.
 
 If you do not have an account with us accessible on the Site, you can access or change your Personally Identifiable Information that we collect online and maintain by emailing us at [legal@ephox.com](mailto:legal@ephox.com).
 
@@ -48,7 +48,7 @@ We may retain original and updated information for reasons such as technical con
 
 California Civil Code Section 1798.83 (“Code”) permits users of our Site who are California residents and have provided Personally Identifiable Information to us to request from us certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes.
 
-As required by the Code, at your request we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes. California law requires us to inform you, at your request, of (a) the categories of Personally Identifiable Information we collect and the third parties with whom we share that information; (b) the names and addresses of those third parties; and (c) examples of the products marketed by those third parties. To make such a request, please send an e-mail to [legal@ephox.com](mailto:legal@ephox.com) or write us at: 2300 Geng Rd, Suite 220, Palo Alto, CA 94303-3354, United States of America.
+As required by the Code, at your request we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes. California law requires us to inform you, at your request, of (a) the categories of Personally Identifiable Information we collect and the third parties with whom we share that information; (b) the names and addresses of those third parties; and (c) examples of the products marketed by those third parties. To make such a request, please send an e-mail to [legal@ephox.com](mailto:legal@ephox.com)or write us at: 2300 Geng Rd, Suite 220, Palo Alto, CA 94303-3354, United States of America.
 
 The Code allows you to control the parties with whom we share Personally Identifiable Information and the specific Personally Identifiable Information that you do not wish to be shared with those third parties. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with third parties for direct marketing purposes. The request should be emailed to the attention of our Legal Department, [legal@ephox.com](mailto:legal@ephox.com) and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Please note that there is no charge for controlling the sharing of your Personally Identifiable Information or for processing this request.
 
@@ -60,17 +60,17 @@ To help protect the privacy of the personal information you transmit through use
 
 ##  **7\. What Happens When You Link To or From Another Site**
 
-The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties.  We are not responsible for the privacy policies, practices or contents of such other sites.  Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites.  When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit. 
+The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties.  We are not responsible for the privacy policies, practices or contents of such other sites.  Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites.  When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit.
 
 ##  **8\. International Transfers**
 
-Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which Company **** or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
+Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
 
 You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content.  Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
 
 ##  **9\. Children**
 
-This Site is not intended for or directed to persons under the age of 13.  Any person who provides their information to **** Company through the Site or any other part of the Site represents to Company that they are 13 years of age or older.
+This Site is not intended for or directed to persons under the age of 13.  Any person who provides their information to Company through the Site or any other part of the Site represents to Company that they are 13 years of age or older.
 
 ## 10\. **Your Consent To This Privacy Policy and Updates.**
 
@@ -80,4 +80,4 @@ We may occasionally update this Privacy Policy.  When we do, we will indicate t
 
 ##  **11\. Contacting Company**
 
- ****If you have any questions regarding this Privacy Policy, please contact us via email at[legal@ephox.com](mailto:legal@ephox.com) or by postal mail at 2100 Geng Rd, Suite 220, Palo Alto, CA 94303, United States of America. 
+If you have any questions regarding this Privacy Policy, please contact us via email at [legal@ephox.com](mailto:legal@ephox.com) or by postal mail at 2100 Geng Rd, Suite 220, Palo Alto, CA 94303, United States of America.
