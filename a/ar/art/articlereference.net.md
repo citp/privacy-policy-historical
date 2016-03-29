@@ -1,41 +1,30 @@
-> *The following text is extracted and transformed from the articlereference.net privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810040539id_/http%3A//articlereference.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlereference.net privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329070115id_/http%3A//articlereference.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reference Directory For Articles - @articlereference.net
+# Privacy Policy | Article Reference
 
-### Privacy Policy:
+http://articlereference.net has created this privacy statement in order to demonstrate our firm commitment to privacy.  
+The following discloses the information gathering and dissemination practices for this Web site.  
+Please read the following to learn more about how we protect and respect your personal privacy while logged into our web server.
 
-Admin (" **articlereference.net** ") operates articlereference.net and may operate other websites. It is admin policy to respect your privacy regarding any information we may collect while operating our websites.
+## Third party Advertising
 
-### Website Visitors
+We use third-party advertising companies to serve ads when you visit our web site.  
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.  
+Below are links to the privacy policies of the advertising networks used by http://articlereference.net : [Google.com](http://www.google.com/privacypolicy.html)
 
-Like most website operators, articlereference.net collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. admin purpose in collecting non-personally identifying information is to better understand how admin visitors use its website. From time to time, articlereference.net may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+## Third Party Cookies
 
-articlereference.net also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on articlereference.net blogs/sites. articlereference.net only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+Cookies are small files that contain information that a website uses to store user preferences and settings.  
+Google’s use of the DART cookie enables it and its partners to display ads based on your prior visits to this website and other websites.  
+You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy/ads/).
 
-### Gathering of Personally-Identifying Information
+## External Links
 
-Certain visitors to admin websites choose to interact with articlereference.net in ways that require articlereference.net to gather personally-identifying information. The amount and type of information that articlereference.net gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [articlereference.net](http://articlereference.net/) to provide a username and email address. Those who engage in transactions with articlereference.net are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, articlereference.net collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with articlereference.net. articlereference.net does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Our site may contain links to other sites. We will make every effort to link only to sites that share our high standards and respect for privacy. However, we are not responsible for the content or the privacy practices employed by organizations sponsoring these other sites.
 
-### Aggregated Statistics
+## Spam
 
-articlereference.net may collect statistics about the behavior of visitors to its websites. articlereference.net may display this information publicly or provide it to others. However, articlereference.net does not disclose personally-identifying information other than as described below.
+The operators of this web site do not participate in the practice of spamming. Spamming is the sending of bulk, unsolicited email.
 
-### Protection of Certain Personally-Identifying Information
-
-articlereference.net discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on admin behalf or to provide services available at admin websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using admin websites, you consent to the transfer of such information to them. articlereference.net will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, articlereference.net discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when articlereference.net believes in good faith that disclosure is reasonably necessary to protect the property or rights of articlereference.net, third parties or the public at large. If you are a registered user of an articlereference.net website and have supplied your email address, articlereference.net may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with articlereference.net and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. articlereference.net takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-### Cookies
-
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. articlereference.net uses cookies to help articlereference.net identify and track visitors, their usage of articlereference.net website, and their website access preferences. articlereference.net visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using admin websites, with the drawback that certain features of admin websites may not function properly without the aid of cookies.
-
-### Business Transfers
-
-If articlereference.net, or substantially all of its assets, were acquired, or in the unlikely event that articlereference.net goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of articlereference.net may continue to use your personal information as set forth in this policy.
-
-### Ads
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by articlereference.net and does not cover the use of cookies by any advertisers.
-
-### Privacy Policy Changes
-
-Although most changes are likely to be minor, articlereference.net may change its Privacy Policy from time to time, and in admin sole discretion. articlereference.net encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a articlereference.net account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+We reserve the right at our sole discretion to modify or amend this Agreement without notice at any time.  
+You should therefore read this page regularly to learn about any changes.
