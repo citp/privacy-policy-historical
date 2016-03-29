@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngtm.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927073521id_/http%3A//www.dplivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngtm.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329152451id_/http%3A//www.dplivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # DPlivecams - Privacy Policy
 
@@ -50,4 +50,4 @@ The address for correspondence by post is
 ICF Technology, Inc.  
 PO Box 21508  
 Seattle, WA 98111  
-USA 
+USA
