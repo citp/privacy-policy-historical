@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landseaskyco.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055255id_/https%3A//www.landseaskyco.com/store/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landseaskyco.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329081440id_/https%3A//www.landseaskyco.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Land Sea and Sky, Houston TX, Takahashi Telescopes, Microscopes, Binoculars, Weather Instruments, Gifts, Service and Repair
 
