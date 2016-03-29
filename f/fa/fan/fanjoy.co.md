@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanjoy.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906135558id_/http%3A//fanjoy.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanjoy.co privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329080905id_/http%3A//fanjoy.co/pages/privacy) for the most accurate reproduction.*
 
-# Privacy - Fanjoy
+# Privacy - Fanjoy Co
 
 Fanjoy Co. (“ **Company** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.fanjoy.co, (“ **Site** ”) and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at www.fanjoy.co/privacy
 
