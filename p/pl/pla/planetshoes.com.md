@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022144017id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetshoes.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329134215id_/http%3A//www.planetshoes.com/helpcenter/policies/privacy-policy/596) for the most accurate reproduction.*
 
 # PLANET SHOES - Privacy Policy - Help Center
 
@@ -102,11 +102,15 @@ Customer Service Representatives are available to assist you Monday through Frid
 **Write:**  
 PlanetShoes.com  
 Attn: Customer Service Department  
-135 2nd Avenue  
-Waltham, MA 02451 
-
-##### Updates to this Privacy Policy
+57 Chapel Street  
+Suite 200  
+Newton, MA 02458
 
 In the event we amend this Privacy Policy, posting the amended version will serve as notice to you of that change and the amended Privacy Policy will note its effective date. 
 
 Effective May 2, 2012 
+
+  
+
+
+[](https://www.globalsign.com/ "GlobalSign Site Seal")
