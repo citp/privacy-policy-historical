@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the merajob.in privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810022332id_/http%3A//www.merajob.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merajob.in privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329050803id_/https%3A//www.merajob.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MeraJob.in
+# Privacy Policy | Merajob
 
-### Introduction
+## Introduction
 
 We at ‘MeraJob India Private Limited’ (hereinafter referred to as “MJI”), are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
