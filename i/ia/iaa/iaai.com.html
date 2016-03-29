@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iaai.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906025650id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iaai.com privacy policy that was archived on 2016-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160330005438id_/https%3A//www.iaai.com/Auctions/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript">
     var isMSIE6 = function () {
@@ -49,7 +49,7 @@
     <link rel="alternate" href="https://www.iaai.com/fr-ca/Auctions/PrivacyPolicy.aspx" hreflang="fr-ca">
     <link rel="alternate" href="https://www.iaai.com/pl-pl/Auctions/PrivacyPolicy.aspx" hreflang="pl-pl">
     <link rel="alternate" href="https://www.iaai.com/ru-ru/Auctions/PrivacyPolicy.aspx" hreflang="ru-ru">
-    <link rel="alternate" href="https://www.iaai.com/zh-cn/Auctions/PrivacyPolicy.aspx" hreflang="zh-cn"><link href="/Content/css?v=wFdxJ9ED8Aj7f9vf4VRC85LPkt30nEOG01ecWFJwFtM1" rel="stylesheet">
+    <link rel="alternate" href="https://www.iaai.com/zh-cn/Auctions/PrivacyPolicy.aspx" hreflang="zh-cn"><link href="/Content/css?v=5ruik910EDYe-jkE-qJZjeBgOGMzu58YsAZlMB7vDpc1" rel="stylesheet">
 
 
     <style type="text/css">
@@ -68,7 +68,7 @@
     <![endif]-->    
 
     <script src="/bundles/jquery?v=1uS0Nc1ne6cyC8vRlDTzUp3zvurxnYieKKuqdrtxrqE1"></script>
-<script src="/bundles/GlobalMasterJS?v=Ks1f7aMKY_7_zogN5wx1RjEnCenuhCTfXBxZpp2z0SQ1"></script>
+<script src="/bundles/GlobalMasterJS?v=E6-odtM1URsogNcYdqdRpJgboEIdMypqcpTg-J1o3L01"></script>
     
     
     <script type="text/javascript"> 
@@ -85,7 +85,7 @@
         }
     </script>       
 <link rel="canonical" href="http://www.iaai.com/auctions/privacypolicy.aspx"></head>
-<body id="ctl00_HomeBody"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: auto; left: 0px; top: 0px;"></div>
+<body id="ctl00_HomeBody">
      <div id="headerPartialView">
          <script type="application/json" id="headerVM">
             {"OutageMsg":null}    
@@ -100,12 +100,21 @@
 <!--[if lt IE 9]>
 <script src='/Scripts/html5shiv.js'></script>
 <![endif]-->
-
-<header>
+<div id="registerAndMsgSection" style="display:none">
+    <!-- ko if:OutAgeMessageVisible() -->
+    <div data-bind="if: OutAgeMessageVisible(), css: { outageMessage: OutAgeMessageVisible() }">
+        <div class="sitedownwrapper">
+            <div class="siteDownMes"><!-- ko text: OutAgeMesssage --><!-- /ko --> <span><a href="1" data-bind="click: CloseClick">X</a></span></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<div class="headerWrapper">
+    <header>
         <div id="headerContainer">
-             <a id="logosection" data-bind="attr:{href:IAAILogo()}" onclick="GAHomeEventTracker('Home Page Clicks','IAA Logo','Header');return true;">
-            <img src="/images/iaa-logo.png" alt="">
-             </a>
+            <a id="logosection" data-bind="attr:{href:IAAILogo()}" onclick="GAHomeEventTracker('Home Page Clicks','IAA Logo','Header');return true;">
+                <img src="/images/iaa-logo.png" alt="" width="87%">
+            </a>
 <script type="application/json" id="loginLinkVM">
             {"SetBuyerLogin":true,"SetLogout":false,"SetRegisterNow":true,"SetCSAToday":true,"SetWelcomeMsg":false,"UserId":null,"Password":null,"RememberMe":false,"WelcomeMsg":null,"BuyerNumber":null,"BuyerLoginText":null,"LogoutText":null,"UsernameText":null,"PasswordText":null,"RememberMeText":null,"SubmitText":null,"CsaTodayText":null,"linkIAAILogo":"/Home/Default","ServerValidationMsg":null,"IsLoginVisible":false,"RegistrationLink":null,"TitleText":null,"IsRegisterToolTipShown":false,"RegisterTooltipTimer":5}    
 </script>
@@ -113,13 +122,13 @@
     <span id="idWelcome" style="display:none" data-bind="visible: WelComeMsgVisible, text: WelcomemsgWithBuyerNo"></span> 
     <span class="loginSep" style="display: none" data-bind="visible: IsLogoutVisible"></span>
     <span style="display: none" data-bind="visible: IsLogoutVisible"><a href="/Login/LogOut">Logout</a></span>
-    <span style="display: none" data-bind="visible: IsBuyerLoginVisible"><a href="/Dashboard/Overview" onclick="GAHomeEventTracker('Home Page Clicks','Login','Login');return true;">Login</a></span>
+    <span style="display: none" data-bind="visible: IsBuyerLoginVisible"><a href="/MyDashboard/Default" onclick="GAHomeEventTracker('Home Page Clicks','Login','Login');return true;">Login</a></span>
     <span class="loginSep" data-bind="visible: IsBuyerLoginVisible"></span>
     <a style="display:none" id="_RegisterNow" data-bind="style: { display: IsBuyerLoginVisible() ? 'inline' : 'none' }, tooltipCustom: (IsBuyerLoginVisible() ? TooltipOptions: null)" href="/Registration/Free">Register Now</a>
     <a href="/Support/CustomerServiceView.aspx" id="contactLink">Contact us</a>
     <div id="HtmlForRegisterTooltip" style="display: None">
     <div>
-        <a href="/Dashboard/Overview">Sign In</a>
+        <a href="/MyDashboard/Default">Sign In</a>
     </div>
     <div>
         New Buyer? <a href="/Registration/Free">Register Now</a>
@@ -127,53 +136,7 @@
 </div>
 </div>
 
-<div id="keywordSearchSection">
-                <input id="txtSearch" type="text" autocomplete="off" value="Vehicles by Stock, VIN, Location, Specs" maxlength="70" name="search" class="searchbox ui-autocomplete-input" onchange="GAHomeEventTracker('Home Page Clicks','Keyword Search','Keyword');return true;"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-                <input id="btnSearch" type="button" value="" data-bind="click:KeywordSearchClick">
-</div>
-<script type="text/javascript">
-    $(document).ready(function () {
-        SearchText();
-    });
-    function SearchText() {
-        $("#txtSearch").autocomplete({
-            disabled: false,
-            minLength: 1,
-            delay: 700,
-            position: { my: "left top", at: "left bottom", of: document.getElementById('txtSearch'), collision: "none" },
-            open: function () {
-                $(this).autocomplete('widget').css('z-index', 9999);
-                return false;
-            },
-            select: function (event, ui) {
-                doKeywordSearch(ui.item.value);
-            },
-            source: function (request, response) {
-                $.ajax({
-                    type: "POST",
-                    url:   appRootDir + "SuggestionData.aspx/GetsuggestionData",
-                    global: false,
-                    data: "{'prefixText':'" + document.getElementById('txtSearch').value + "'}",
-                    contentType: "application/json; charset=utf-8",
-                    dataType: "json",
-                    success: function (data) {
-                        return response(data.d);
-                    },
-                    error: function (result) {
-                        //alert("Error");
-                    }
-                });
-            }
-        });
-    }
-    $("#txtSearch").live("keypress", function (e) {
-        if (e.keyCode == 13) {
-            doKeywordSearch(this.value);
-        }
-    });   
 
-</script>
- 
 <script type="application/json" id="MyAuctionCenterVM">
              {"IsDashboardVisible":false,"IsMyVehilclesVisible":false,"IsWonVehiclesVisible":false,"IsLostVehicleVisible":false,"IsProfileVisible":false,"IsAdditionalBidderVisible":false,"IsPleaseLoginVisible":true,"IsUserLoggedin":false,"IsBrokerBidderVisible":false,"IsVehicleTabSelected":false,"IsAuctionTabSelected":true,"IsServicesTabSelected":false,"IsSupportTabSelected":false,"IsMyAuctionCenterTabSelected":false,"VehiclesTabLink":0,"AuctionsTabLink":1,"LocationsTabLink":0,"CustomerServiceLink":0}
 </script>
@@ -213,9 +176,9 @@
                         </ul>
                     </li>
                     <li>
-                        <a data-bind="css: { selected: IsMyAuctionCenterTabSelected() }" href="/Dashboard/Overview" onclick="GAHomeEventTracker('Home Page Clicks','My Auction Center Menu','MyAuctionCenter'); return true;">My Auction Center<i></i></a>
+                        <a data-bind="css: { selected: IsMyAuctionCenterTabSelected() }" href="/MyDashboard/Default" onclick="GAHomeEventTracker('Home Page Clicks','My Auction Center Menu','MyAuctionCenter'); return true;">My Auction Center<i></i></a>
                         <ul id="TopNavigationSection" class="subMenu">
-                            <li><a href="/Dashboard/Overview">Please log in</a></li>
+                            <li><a href="/MyDashboard/Default">Please log in</a></li>
                                                                                                                                                                                                                             </ul>
                     </li>
                 </ul>
@@ -239,36 +202,76 @@
             <option value="/Support/SupportFaq.aspx"> FAQ</option>
             <option value="/Support/SupportDocumentCenterView.aspx"> Useful Documents and Forms</option>
             <option value="/Support/CustomerServiceView.aspx"> Contact Buyer Services</option>
-            <option value="/Dashboard/Overview">My Auction Center</option>
-            <option value="/Dashboard/Overview">Please log in</option>
+            <option value="/MyDashboard/Default">My Auction Center</option>
+            <option value="/MyDashboard/Default">Please log in</option>
                                                                                             </select>
 </nav>
 
 
 
-           
-            
+
+
 
             <!-- <a href="#" id="contactLink">Contact Us <i></i></a> -->
             <div class="clear"></div>
         </div>
-</header>
-<div class="siteDownMes">
-<div id="registerAndMsgSection" data-bind="if: OutAgeMessageVisible(), css: { outageMessage: OutAgeMessageVisible() }"><!-- ko text: OutAgeMesssage --><!-- /ko --> </div>
+    </header>
+<div id="keywordSearchSection" class="shadow">
+    <div class="search_wrapper">
+        <input id="txtSearch" type="text" autocomplete="off" value="Vehicles by Stock, VIN, Location, Specs" maxlength="70" name="search" class="searchbox" onchange="GAHomeEventTracker('Home Page Clicks','Keyword Search','Keyword');return true;">
+        <input id="btnSearch" type="button" value="" data-bind="click:KeywordSearchClick">
+        <div class="row" id="drop">
+            <div class="keywordWrapper">
+                <div class="keywordSug">
+
+                    <!--Start jQuery keyword autocomplete-->
+                    <ul id="SuggestionList"></ul>
+                    <!--End jQuery autocomplete-->
+
+                    <div class="yearRange">
+                        <h4>Year Range</h4>
+                        <span><input id="startyear" type="number" onkeypress="return inputNumeric(event)" oninput="OnInputStartYear()" min="1900" max="2025" placeholder="yyyy"></span>
+                        <span class="yearTo">To</span>
+                        <span><input id="endyear" type="number" onkeypress="return inputNumeric(event)" oninput="OnInputEndYear()" min="1900" max="2025" placeholder="yyyy"></span>
+                    </div>
+                </div>
+                <div class="keywordTerm">
+                    <div class="arrow-right"></div>
+                    <h4>Filter Your  Search</h4>
+                    <div class="keywordCheckbox"><input type="checkbox" name="keywordTerm" value="Auction Today" id="auction1"><label for="auction1" class="label-checkbox"> Auction Today</label></div>
+                    <div class="keywordCheckbox"><input type="checkbox" name="keywordTerm" value="Auction Tomorrow" id="auction2"><label for="auction2" class="label-checkbox"> Auction Tomorrow</label></div>
+                    <hr>
+                    <div class="keywordCheckbox"> <input type="checkbox" name="keywordTerm" value="Buy Now" id="buyNow"><label for="buyNow" class="label-checkbox"> Buy Now</label></div>
+                    <div class="keywordCheckbox"> <input type="checkbox" name="keywordTerm" value="Clean Title" id="cleanTitle"><label for="cleanTitle" class="label-checkbox"> Clean Title</label></div>
+                    <div class="keywordCheckbox"> <input type="checkbox" name="keywordTerm" value="Run and Drive" id="runAndDrive"><label for="runAndDrive" class="label-checkbox"> Run &amp; Drive</label></div>
+                    <div class="keywordCheckbox"> <input type="checkbox" name="keywordTerm" value="Public" id="Public"><label for="Public" class="label-checkbox"> Available to the Public</label></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
 <script src="/Scripts/ViewModels/toggleUIPopup.js?v=35030" type="text/javascript"></script>
 <script type="application/json" id="auctionToggleUIVM">{"ToggleUIPrefrenceVisible":false,"LearnMoreLinkVisible":false,"LearnMoreText":"","ToggleRedirectURL":"","ToggleText":"","RedirectTo":""}</script>
 <script src="/Scripts/ViewModels/googleanalytics.js"></script>
 
 
-<div id="ToggleUIDiv" class="newAuctionToggle" style="display:none" data-bind="visible: ShowLearnMoreLink() || ShowToggleLink()">
-    <span class="newAuctionIcon"><a style="display:none" data-bind="visible: ShowLearnMoreLink(), click: LearnMoreClick, text: LearnMoreText()" href="#"></a></span>
-    <span>
-        <ul style="display:none" data-bind="visible: ShowToggleLink()">
-            <li><a data-bind="click: ToggleClick, text: ToggleText()" href="#"></a></li>
-        </ul>
-    </span>
+<div id="ToggleUIDiv" style="display:none" data-bind="visible: ShowLearnMoreLink() || ShowToggleLink()">
+    <div class="newAuctionToggle">
+        <span class="newAuctionIcon"><a style="display:none" data-bind="visible: ShowLearnMoreLink(), click: LearnMoreClick, text: LearnMoreText()" href="#"></a></span>
+        <span>
+            <ul style="display:none" data-bind="visible: ShowToggleLink()">
+                <li><a data-bind="click: ToggleClick, text: ToggleText()" href="#"></a></li>
+            </ul>
+        </span>
+    </div>
 </div>
 </div>
+
 
 
 
@@ -297,13 +300,12 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=226AQNtnjk3UrReCxTB-A_cJB-4li9vI_jNLT7k_oBjRhBUBJFn9jAT2pvc1YDXC5dd-a_5hnNRbLvye_6hz0w5WP7o1&amp;t=635369962285126825" type="text/javascript"></script>
+<script src="/WebResource.axd?d=226AQNtnjk3UrReCxTB-A_cJB-4li9vI_jNLT7k_oBjRhBUBJFn9jAT2pvc1YDXC5dd-a_5hnNRbLvye_6hz0w5WP7o1&amp;t=635331836433534000" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=9_4MJSlXW1vRYiq8qxJbm5qDp7mkgVGqp2G7ipxkMh1HkNkyOXUEXYUx3QS9Nlafldd3G-vABIOS8VWDFjOi5umEA2QyrZ13iOfUISj448NXcYbjhpsab3FA1QAV76vQJrWqL2uvEALI2hJ_zOuDYxAFrL7eI7joP9aMDJ_GauSP3yPS0&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=YG3G3dN3TZaI0dIs_ejR81WXBXnWmZs2Kfeg8LETeGhjfIs4PEI-qqBiCgjZbKDEBaZP4rUmNOHYupabtCjztcueddQJEa33WZJJo-_NGs596BQpWvKf4NkasbTBxyOQH9TZy4hjyUxzia9uhuFgCYQczYZXDs2RafPDZnDsKpi8SqWw0&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9_4MJSlXW1vRYiq8qxJbm5qDp7mkgVGqp2G7ipxkMh1HkNkyOXUEXYUx3QS9Nlafldd3G-vABIOS8VWDFjOi5umEA2QyrZ13iOfUISj448NXcYbjhpsab3FA1QAV76vQJrWqL2uvEALI2hJ_zOuDYxAFrL7eI7joP9aMDJ_GauSP3yPS0&amp;t=42a7acab" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=YG3G3dN3TZaI0dIs_ejR81WXBXnWmZs2Kfeg8LETeGhjfIs4PEI-qqBiCgjZbKDEBaZP4rUmNOHYupabtCjztcueddQJEa33WZJJo-_NGs596BQpWvKf4NkasbTBxyOQH9TZy4hjyUxzia9uhuFgCYQczYZXDs2RafPDZnDsKpi8SqWw0&amp;t=42a7acab" type="text/javascript"></script>
 <script src="../Scripts/Localized/Tooltips.js" type="text/javascript"></script>
-<script src="../Scripts/wz_tooltip.js" type="text/javascript"></script>
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3F3B59F7">
@@ -508,7 +510,6 @@ var VinMaskedRecordCount='ctl00_VinMaskedRecordCount';//]]>
                 </div>
 
                 <div class="footerCol" id="colLogos">
-                    <a href="http://www.informationweek.com/2014-informationweek-elite-100-winners/d/d-id/1127899" target="_new" id="InformationWeekLogo" onclick="TrackEventInGA(footerExternalL, footerClick, footerInformationWeek2014);return true;">InformationWeek Elite 100 2014</a>
                     <a href="https://www.1car1difference.com/" target="_new" onclick="TrackEventInGA(footerExternalL, footerClick, footer1Car1DifferenceIcon);return true;" id="oneCarLogo">One Car One Difference</a>
                 </div>
             </div>
@@ -540,7 +541,7 @@ var VinMaskedRecordCount='ctl00_VinMaskedRecordCount';//]]>
 </div>
 
 <script type="application/json" id="tzVM">
-             {"LstCountry":[{"Key":"AFGHANISTAN","Value":"1"},{"Key":"ALGERIA","Value":"3"},{"Key":"ARGENTINA","Value":"10"},{"Key":"AUSTRALIA","Value":"13"},{"Key":"AUSTRIA","Value":"14"},{"Key":"BAHAMAS","Value":"16"},{"Key":"BANGLADESH","Value":"18"},{"Key":"BELARUS","Value":"20"},{"Key":"BELGIUM","Value":"21"},{"Key":"BOLIVIA","Value":"26"},{"Key":"BRAZIL","Value":"30"},{"Key":"BULGARIA","Value":"33"},{"Key":"CANADA","Value":"38"},{"Key":"CHILE","Value":"43"},{"Key":"CHINA","Value":"44"},{"Key":"COLOMBIA","Value":"47"},{"Key":"CROATIA (HRVATSKA)","Value":"54"},{"Key":"CUBA","Value":"55"},{"Key":"CZECH REPUBLIC","Value":"57"},{"Key":"DENMARK","Value":"58"},{"Key":"DOMINICAN REPUBLIC","Value":"61"},{"Key":"EGYPT","Value":"64"},{"Key":"EL SALVADOR","Value":"65"},{"Key":"ESTONIA","Value":"68"},{"Key":"ETHIOPIA","Value":"69"},{"Key":"FIJI","Value":"72"},{"Key":"FINLAND","Value":"73"},{"Key":"FRANCE","Value":"74"},{"Key":"GERMANY","Value":"82"},{"Key":"GHANA","Value":"83"},{"Key":"GREECE","Value":"85"},{"Key":"GUATEMALA","Value":"90"},{"Key":"HONDURAS","Value":"96"},{"Key":"HUNGARY","Value":"98"},{"Key":"ICELAND","Value":"99"},{"Key":"INDIA","Value":"100"},{"Key":"INDONESIA","Value":"101"},{"Key":"IRAN (ISLAMIC REPUBLIC OF)","Value":"102"},{"Key":"IRAQ","Value":"103"},{"Key":"IRELAND","Value":"104"},{"Key":"ISRAEL","Value":"105"},{"Key":"ITALY","Value":"106"},{"Key":"JAMAICA","Value":"107"},{"Key":"JAPAN","Value":"108"},{"Key":"JORDAN","Value":"109"},{"Key":"KAZAKHSTAN","Value":"110"},{"Key":"KENYA","Value":"111"},{"Key":"KOREA, REPUBLIC OF","Value":"114"},{"Key":"KUWAIT","Value":"115"},{"Key":"LEBANON","Value":"119"},{"Key":"MADAGASCAR","Value":"128"},{"Key":"MALAYSIA","Value":"130"},{"Key":"MEXICO","Value":"139"},{"Key":"MOROCCO","Value":"145"},{"Key":"MYANMAR","Value":"147"},{"Key":"NEPAL","Value":"150"},{"Key":"NETHERLANDS","Value":"151"},{"Key":"NEW ZEALAND","Value":"154"},{"Key":"NICARAGUA","Value":"155"},{"Key":"NIGERIA","Value":"157"},{"Key":"NORWAY","Value":"161"},{"Key":"PAKISTAN","Value":"163"},{"Key":"PARAGUAY","Value":"168"},{"Key":"PERU","Value":"169"},{"Key":"PHILIPPINES","Value":"170"},{"Key":"POLAND","Value":"172"},{"Key":"PORTUGAL","Value":"173"},{"Key":"PUERTO RICO","Value":"174"},{"Key":"ROMANIA","Value":"177"},{"Key":"RUSSIAN FEDERATION","Value":"178"},{"Key":"SAUDI ARABIA","Value":"186"},{"Key":"SINGAPORE","Value":"190"},{"Key":"SOUTH AFRICA","Value":"195"},{"Key":"SPAIN","Value":"197"},{"Key":"SUDAN","Value":"201"},{"Key":"SWEDEN","Value":"205"},{"Key":"SWITZERLAND","Value":"206"},{"Key":"TAIWAN","Value":"208"},{"Key":"THAILAND","Value":"211"},{"Key":"TURKEY","Value":"217"},{"Key":"UKRAINE","Value":"222"},{"Key":"UNITED ARAB EMIRATES","Value":"223"},{"Key":"UNITED KINGDOM","Value":"224"},{"Key":"UNITED STATES","Value":"225"},{"Key":"URUGUAY","Value":"227"},{"Key":"UZBEKISTAN","Value":"228"},{"Key":"VENEZUELA","Value":"231"},{"Key":"VIET NAM","Value":"232"},{"Key":"YEMEN","Value":"237"},{"Key":"ZIMBABWE","Value":"240"}],"LstCity":[{"Key":"Anchorage","Value":"111"},{"Key":"Atlanta","Value":"118"},{"Key":"Boston","Value":"123"},{"Key":"Chicago","Value":"120"},{"Key":"Denver","Value":"115"},{"Key":"Detroit","Value":"124"},{"Key":"Honolulu","Value":"119"},{"Key":"Houston","Value":"129"},{"Key":"Indianapolis","Value":"121"},{"Key":"Los Angeles","Value":"113"},{"Key":"Miami","Value":"117"},{"Key":"Minneapolis","Value":"125"},{"Key":"Montgomery","Value":"110"},{"Key":"New Orleans","Value":"122"},{"Key":"New York","Value":"127"},{"Key":"Philadelphia","Value":"128"},{"Key":"Phoenix","Value":"112"},{"Key":"San Francisco","Value":"114"},{"Key":"Seattle","Value":"130"},{"Key":"St. Paul","Value":"126"},{"Key":"Washington DC","Value":"116"}],"DisplayTime":"09:56 PM","TZAbbreviation":"CDT","SelectedCountry":"225","SelectedCity":"Chicago","DisplayInitialized":true}
+             {"LstCountry":[{"Key":"AFGHANISTAN","Value":"1"},{"Key":"ALGERIA","Value":"3"},{"Key":"ARGENTINA","Value":"10"},{"Key":"AUSTRALIA","Value":"13"},{"Key":"AUSTRIA","Value":"14"},{"Key":"BAHAMAS","Value":"16"},{"Key":"BANGLADESH","Value":"18"},{"Key":"BELARUS","Value":"20"},{"Key":"BELGIUM","Value":"21"},{"Key":"BOLIVIA","Value":"26"},{"Key":"BRAZIL","Value":"30"},{"Key":"BULGARIA","Value":"33"},{"Key":"CANADA","Value":"38"},{"Key":"CHILE","Value":"43"},{"Key":"CHINA","Value":"44"},{"Key":"COLOMBIA","Value":"47"},{"Key":"CROATIA (HRVATSKA)","Value":"54"},{"Key":"CUBA","Value":"55"},{"Key":"CZECH REPUBLIC","Value":"57"},{"Key":"DENMARK","Value":"58"},{"Key":"DOMINICAN REPUBLIC","Value":"61"},{"Key":"EGYPT","Value":"64"},{"Key":"EL SALVADOR","Value":"65"},{"Key":"ESTONIA","Value":"68"},{"Key":"ETHIOPIA","Value":"69"},{"Key":"FIJI","Value":"72"},{"Key":"FINLAND","Value":"73"},{"Key":"FRANCE","Value":"74"},{"Key":"GERMANY","Value":"82"},{"Key":"GHANA","Value":"83"},{"Key":"GREECE","Value":"85"},{"Key":"GUATEMALA","Value":"90"},{"Key":"HONDURAS","Value":"96"},{"Key":"HUNGARY","Value":"98"},{"Key":"ICELAND","Value":"99"},{"Key":"INDIA","Value":"100"},{"Key":"INDONESIA","Value":"101"},{"Key":"IRAN (ISLAMIC REPUBLIC OF)","Value":"102"},{"Key":"IRAQ","Value":"103"},{"Key":"IRELAND","Value":"104"},{"Key":"ISRAEL","Value":"105"},{"Key":"ITALY","Value":"106"},{"Key":"JAMAICA","Value":"107"},{"Key":"JAPAN","Value":"108"},{"Key":"JORDAN","Value":"109"},{"Key":"KAZAKHSTAN","Value":"110"},{"Key":"KENYA","Value":"111"},{"Key":"KOREA, REPUBLIC OF","Value":"114"},{"Key":"KUWAIT","Value":"115"},{"Key":"LEBANON","Value":"119"},{"Key":"MADAGASCAR","Value":"128"},{"Key":"MALAYSIA","Value":"130"},{"Key":"MEXICO","Value":"139"},{"Key":"MOROCCO","Value":"145"},{"Key":"MYANMAR","Value":"147"},{"Key":"NEPAL","Value":"150"},{"Key":"NETHERLANDS","Value":"151"},{"Key":"NEW ZEALAND","Value":"154"},{"Key":"NICARAGUA","Value":"155"},{"Key":"NIGERIA","Value":"157"},{"Key":"NORWAY","Value":"161"},{"Key":"PAKISTAN","Value":"163"},{"Key":"PARAGUAY","Value":"168"},{"Key":"PERU","Value":"169"},{"Key":"PHILIPPINES","Value":"170"},{"Key":"POLAND","Value":"172"},{"Key":"PORTUGAL","Value":"173"},{"Key":"PUERTO RICO","Value":"174"},{"Key":"ROMANIA","Value":"177"},{"Key":"RUSSIAN FEDERATION","Value":"178"},{"Key":"SAUDI ARABIA","Value":"186"},{"Key":"SINGAPORE","Value":"190"},{"Key":"SOUTH AFRICA","Value":"195"},{"Key":"SPAIN","Value":"197"},{"Key":"SUDAN","Value":"201"},{"Key":"SWEDEN","Value":"205"},{"Key":"SWITZERLAND","Value":"206"},{"Key":"TAIWAN","Value":"208"},{"Key":"THAILAND","Value":"211"},{"Key":"TURKEY","Value":"217"},{"Key":"UKRAINE","Value":"222"},{"Key":"UNITED ARAB EMIRATES","Value":"223"},{"Key":"UNITED KINGDOM","Value":"224"},{"Key":"UNITED STATES","Value":"225"},{"Key":"URUGUAY","Value":"227"},{"Key":"UZBEKISTAN","Value":"228"},{"Key":"VENEZUELA","Value":"231"},{"Key":"VIET NAM","Value":"232"},{"Key":"YEMEN","Value":"237"},{"Key":"ZIMBABWE","Value":"240"}],"LstCity":[{"Key":"Anchorage","Value":"111"},{"Key":"Atlanta","Value":"118"},{"Key":"Boston","Value":"123"},{"Key":"Chicago","Value":"120"},{"Key":"Denver","Value":"115"},{"Key":"Detroit","Value":"124"},{"Key":"Honolulu","Value":"119"},{"Key":"Houston","Value":"129"},{"Key":"Indianapolis","Value":"121"},{"Key":"Los Angeles","Value":"113"},{"Key":"Miami","Value":"117"},{"Key":"Minneapolis","Value":"125"},{"Key":"Montgomery","Value":"110"},{"Key":"New Orleans","Value":"122"},{"Key":"New York","Value":"127"},{"Key":"Philadelphia","Value":"128"},{"Key":"Phoenix","Value":"112"},{"Key":"San Francisco","Value":"114"},{"Key":"Seattle","Value":"130"},{"Key":"St. Paul","Value":"126"},{"Key":"Washington DC","Value":"116"}],"DisplayTime":"07:54 PM","TZAbbreviation":"CDT","SelectedCountry":"225","SelectedCity":"Chicago","DisplayInitialized":true}
 </script>
 
 <div id="timezoneSection" data-bind="with: timeZoneVM, css: {&nbsp;longTimeZone: TimeWithAbbreviation().length > 15}">
@@ -584,8 +585,7 @@ var VinMaskedRecordCount='ctl00_VinMaskedRecordCount';//]]>
             <div class="clear"></div>
 
             <div id="copyright"> 
-                <p class="hiddenDevices">Two Westbrook Corporate Center, Suite 500 Westchester, IL 60154 | (P) 877-937-4243 or 708-492-7080 | (F) 708-492-7999 | 
-                <a href="mailto:cservice@iaai.com">cservice@iaai.com</a></p>
+                <p class="hiddenDevices">Two Westbrook Corporate Center, Suite 500 Westchester, IL 60154 | <a href="/Support/CustomerServiceView.aspx">Contact Buyer Services</a></p>
                 <span>© 2015 Insurance Auto Auctions, Inc. All Rights Reserved</span> <span class="hiddenDevices">|  
                 <a href="/Auctions/AuctionRules.aspx" onclick="TrackEventInGA(footerInternalL, footerClick, footerRulesAgr);return true;">Auction Rules/Buyer Agreement</a> | <a href="/Auctions/TermsOfUse.aspx" onclick="TrackEventInGA(footerInternalL, footerClick, footerTerms);return true;">Terms of Use</a> |  <a href="/Auctions/PrivacyPolicy.aspx" onclick="TrackEventInGA(footerInternalL, footerClick, footerPrivacyP);return true;">Privacy Policy</a></span>
             </div>
@@ -609,6 +609,45 @@ var VinMaskedRecordCount='ctl00_VinMaskedRecordCount';//]]>
             }
             catch (err) { }
         })();
-    </script>    
+    </script>  
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
+    <div id="fadeRegModalPopUp" class="black_overlayFade" style="display:none"></div>
+    
+<div id="feedbackPop" class="lightboxWrap" style="display:none">
+    <div id="questions" class="popWrapper">
+        <div class="whiteContent">
+            <div class="popContent">
+                <p id="header1"></p>
+                <div>
+                    <textarea id="inputtext" maxlength="1024"></textarea>
+                </div>
+            </div>
+        </div>
+        <div class="bottomNav ">
+            <input type="button" id="closeModal" name="delete" value="Cancel" class="btn btn-lg btn-secondary btn-close-popup">
+           <input type="submit" id="feedbackSubmit" value="Submit" class="btn btn-primary btn-lg btn-submit-popup">
+        </div>
+    </div>
+</div>
+
+    <div id="confirmationPopUP" class="lightboxWrap" style="display:none">
+         <div id="feedbackConfirmation" class="popWrapper">
+        <div class="whiteContent">
+            <div class="popHeader">
+                <span>
+                    <input type="button" value="" class="popUpCloseIcon">
+                </span>
+            </div>
+             <div class="popContent">
+                 <p>Thank you for your feedback</p>
+             </div>
+        </div>
+        <div class="bottomNav ">
+           <input type="submit" id="closeFeedback" value="Close" class="btn btn-primary btn-lg btn-close-popup">
+        </div>
+    </div>
+  </div>
+
+
+
+</body></html>
