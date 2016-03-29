@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604131437id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329034616id_/https%3A//www.nzsale.co.nz/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Nzsale.co.nz - Privacy
 
-NZSALE.CO.NZ, referred to below as Nzsale, is an online retailer of consumer goods owned and operated by Ozsale Pty Limited.
+MYSALE.MY, referred to below as MySale, is an online retailer of consumer goods owned and operated by Ozsale Pty Limited.
 
-Nzsale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page.
+MySale values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us at contactus@nzsale.co.nz or call 09 415 5922.
 
-## NZSALE's Commitment to Online Security
+If you wish to unsubscribe from our daily notifications you can do so by clicking the unsubscribe link at the bottom of any of our email notifications or by visiting www.nzsale.co.nz/unsubscribe.aspx.
+
+NZSALE 25 Barrys Point Road, Takapuna Auckland 0632 NZ
+
+## MYSALE's Commitment to Online Security
 
 Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details is NEVER stored on the Internet with our system.
 
 ## How Your Information May Be Shared
 
-We never sell or rent your personal information. NZSALE generally does not share your personal information with others unless this is necessary for the purposes for which you gave it to us but there may be times when we need to disclose your personal information. NZSALE may release personal information under the following circumstances and/or to the following parties: 
+We never sell or rent your personal information. MYSALE generally does not share your personal information with others unless this is necessary for the purposes for which you gave it to us but there may be times when we need to disclose your personal information. MYSALE may release personal information under the following circumstances and/or to the following parties: 
 
   * Where release is required or authorised by law (for example, a subpoena) or regulation or is requested by a law enforcement agency or emergency services;
   * Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;
