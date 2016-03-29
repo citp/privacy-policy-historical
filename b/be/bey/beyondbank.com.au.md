@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225181742id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbank.com.au privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329034340id_/http%3A//www.beyondbank.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Your privacy is important to us | Beyond Bank
 
@@ -244,6 +244,11 @@ You can access the Privacy Statements from the Companies here:
 
 
 
+  
+**More Than Money website**  
+The More Than Money website is a resource provided by Beyond Bank to teachers, schools, parents/carers and students.  The site is designed to provide a financial education program and information for schools on fundraising. Information collected via accessing this site is used for the purposes of providing this program and marketing, which is subject to the provisions of this Privacy Policy.  
+ 
+
 **9\. Access**
 
 You may request access to the personal information (including credit-related information) that we hold about you at any time from our Privacy Officer whose details are in paragraph 14 of this Privacy Policy.
@@ -276,7 +281,7 @@ If you have any questions, concerns or complaints about this Privacy Policy, or 
 Once a complaint has been lodged, the Privacy Officer will respond to you as soon as possible. We will aim to deal with your complaint at the source of your complaint  
 If you are still not satisfied, you can contact external bodies that deal with privacy complaints. These are Financial Ombudsman Scheme which is our external dispute resolution scheme, the Federal Privacy Commissioner or, in the case of insurance-related privacy complaints, the Australian Prudential Regulation Authority. Any of these bodies may forward your complaint to another external dispute resolution body if it considers the complaint would be better handled by that other body.
 
-Financial Ombudsman Service Post: GPO Box 3, Melbourne VIC 3001 Telephone: 1300 780 808 Website: [www.fos.org.au](http://www.fos.org.au/)
+Financial Ombudsman Service Post: GPO Box 3, Melbourne VIC 3001 Telephone: 1800 367 287 Website: [www.fos.org.au](http://www.fos.org.au/)
 
 Federal Privacy Commissioner Post: GPO Box 5218 Sydney NSW 2001 Telephone: 1300 363 992 Website: [www.oaic.gov.au](http://www.oaic.gov.au/)
 
