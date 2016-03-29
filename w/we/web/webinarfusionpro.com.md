@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webinarfusionpro.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316172438id_/https%3A//www.webinarfusionpro.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarfusionpro.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329025430id_/https%3A//www.webinarfusionpro.com/p/privacy) for the most accurate reproduction.*
 
 # Webinar Fusion Pro Terms
 
