@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711094128id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepower.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330011200id_/http%3A//www.phonepower.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Phone Power - Privacy Policy | VoIP Service & FREE VoIP Phone Calls
 
@@ -29,6 +29,6 @@ All customer/visitor information, not just the sensitive information mentioned a
 **Questions:** Any questions or comments regarding privacy should be sent to [support@phonepower.com](mailto:support@phonepower.com) or mailed to: 
 
 **Customer Service**  
-Phone Power  
-20847 Sherman Way  
-Winnetka, CA 91306 
+PhonePower  
+9221 Corbin Ave. Suite 155  
+Northridge, CA 91324 
