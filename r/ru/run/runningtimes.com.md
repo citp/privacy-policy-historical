@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218201109id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningtimes.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329090229id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -14,9 +14,9 @@ Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lif
 ---|---|---  
 [](http://www.runnersworld.com/) | [](http://www.runningtimes.com/) | [](http://www.bicycling.com/)  
   | [](http://www.rodalenews.com/) | [](http://www.rodales.com/signup/index) | [](http://www.fitbie.com/)  
-[](http://www.rodalegrow.com/) | [](http://www.rodaleinc.com/products/events) | [](http://www2.rodaleinc.com/products/books)  
+[](https://www.rodaleu.com/) | [](http://www.rodaleinc.com/products/events) | [](http://www2.rodaleinc.com/products/books)  
 [](http://www.rodalewellness.com/rodalewellness/index)| [](http://www.rodalesorganiclife.com/)| [](http://www.eatclean.com/)  
-[](https://www.rodaleu.com/) | [](http://www.rodalesorganiclife.com/) |    
+| [](http://www.rodalesorganiclife.com/) |    
   
 This privacy policy applies to all information gathering activities of Rodale, on and offline. The policy describes how we handle information provided to us or collected on Internet sites where this privacy policy is posted. It also explains how we handle information provided to us or collected on applications we make available on or through third-party sites or platforms, if it is disclosed to you in connection with your use, purchase or download of the application. We may make changes to this policy. Please check back frequently for updates. Unless otherwise noted, any changes to this policy will take effect immediately upon being posted. Your continued use of Rodale sites, applications, products and services after the effective date of the changes constitutes your consent. 
 
