@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008012117id_/https%3A//www.stlouisfed.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329075048id_/https%3A//www.stlouisfed.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# St. Louis Fed | Web Site Privacy Policy
+# Privacy Policy | St. Louis Fed
 
-This is the web site of the Federal Reserve Bank of St. Louis. The Bank respects your privacy.
+This is the website of the Federal Reserve Bank of St. Louis. The Bank respects your privacy.
 
 ## Personal Information
 
