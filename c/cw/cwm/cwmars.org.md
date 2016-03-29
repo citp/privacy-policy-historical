@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cwmars.org privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127030111id_/http%3A//www.cwmars.org/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwmars.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329144555id_/http%3A//www.cwmars.org/content/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | C/W MARS, Inc.
 
 ## You are here
 
 [Home](https://web.archive.org/) » Privacy Policy
+
+Submitted by Central.Site.Staff on December 11, 2013 - 11:53am
 
 C/W MARS is committed to the protection of patron privacy. The Network does not require personal information to use the online catalog, electronic databases, or the Internet. C/W MARS keeps no permanent record of the Internet sites visited by library patrons, the electronic databases accessed, or the searches performed by individual patrons. In accordance with Massachusetts General Laws Chapter 78 Section 7: "That part of the records of a public library which reveals the identity and intellectual pursuits of a person using such library shall not be a public record … " C/W MARS considers circulation and registration records identifying the names, addresses, and telephone numbers of library patrons, as well as the materials borrowed or accessed electronically, not to be part of the public record. The USA PATRIOT Act of 2001 (P.L. 107- 56) supercedes state law and expands the federal government's authority for access to library records and documents to protect against international terrorism and clandestine intelligence activities. It also expands federal law enforcements' authorization to track telephone and electronic communication, including any dialing, routing, addressing, or signaling information and the actual content of the communication.
 
