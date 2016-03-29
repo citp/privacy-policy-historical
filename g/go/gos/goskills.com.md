@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319221409id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goskills.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329094141id_/https%3A//www.goskills.com/Privacy) for the most accurate reproduction.*
 
-# Privacy | GoSkills.com
+# Privacy policy | GoSkills.com
 
-Please read our privacy policy, part of our [terms of use](https://web.archive.org/terms).
+### Please read our privacy policy, part of our [terms of use](https://web.archive.org/Terms).
 
 We collect personal information about users in order to provide GoSkills software services and to interact with and respond to users and also to organizations that GoSkills is provided to on an organizational basis.
 
@@ -12,9 +12,11 @@ You are encouraged to review and update your personal information, as appropriat
 
 In addition, for the purpose of analyzing user trends and internet traffic (see the section about cookies and measuring website traffic below), we may collect details of your visit to our website, information about your computer, Internet Protocol (IP) address, operating system and browser, etc.
 
-In the case of services provided on an organizational basis, for example where users redeem a coupon issued for their organization’s staff to use, we may report personal information about users to the organization’s administrators – for their own legitimate purposes and also for our own, including redeeming access coupon codes.
-
 We reserve the right to collect any other information at our discretion, and to notify users of news and other important information via email.
+
+### Organization access
+
+In the case of services provided on an organizational basis, for example where you redeem a coupon issued for your organization’s staff to use, organization administrators will have access to your user profiles, course, progress and certificates, regardless of whether those courses were paid for by the organiazation. If you would prefer that your organization does not see information about those courses for which the organization has not paid, you may use multiple GoSkills accounts, with separate email addresses for different courses.
 
 ### Data storage
 
@@ -22,7 +24,15 @@ We will store your personal information on servers located at approved locations
 
 ### Confidentiality and security
 
-We will not disclose your personal information to third parties unless: you authorize us, or we are required to do so to enforce our terms of use or fulfil agreements with organizations that GoSkills is provided to on an organizational basis, or when the GoSkills certificate authenticity verification process necessarily reveals your certificate details to someone who knows your name and certificate verification number.
+We will not disclose your personal information to third parties unless:
+
+  * you authorize us to, or
+  * we are required to by law, or
+  * we are required to do so to enforce our terms of use or fulfil agreements with organizations that GoSkills is provided to on an organizational basis, or
+  * when the GoSkills certificate authenticity verification process necessarily reveals your certificate details to someone who knows your name and certificate verification number, or
+  * you participate in the ‘double days’ referral program (your first name will be shown to the person who referred you).
+
+
 
 We strive to keep users’ personal information as secure as possible. However, as it’s impossible for any exchange of data to be completely secure, all transmissions of data are at users’ own risk.
 
@@ -34,7 +44,7 @@ We will not use (nor allow third parties to use) such tools to track or collect 
 
 ### Advertising
 
-We use the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by using cookie settings or permanently by using a browser plugin. 
+We use remarketing services to advertise on third party websites to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example viewing the information page for a course might mean you see an advertisement for the course on a search results page. Third-parties sometimes use cookies to serve ads based on someone’s past visits to the website. Of course, any data collected will be used in accordance with our own privacy policy and the third parties’ privacy policies. Some third parties allow you to set preferences for how they advertise to you, and if you want to you can opt out of interest-based advertising entirely by using cookie settings or permanently by using a browser plugin. 
 
 ### Links to other sites
 
