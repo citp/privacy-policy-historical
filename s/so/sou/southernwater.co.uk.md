@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009193636id_/https%3A//www.southernwater.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernwater.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329025023id_/https%3A//www.southernwater.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -106,7 +106,7 @@ New legislation came into force in the UK on May 26, 2011 that affects most webs
 
 Most web browsers allow some control of cookies through browser settings.
 
-More information about cookies, including how to block and/or delete them, via a range of common browsers, can be found at these third-party websites: [www.aboutcookies.org](http://www.aboutcookies.org/default.aspx?page=1) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+More information about cookies, including how to block and/or delete them, via a range of common browsers, can be found at these third-party websites: [www.aboutcookies.org.uk](http://www.aboutcookies.org.uk/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
   13. **Does Southern Water use cookies?**  
     * We've taken steps to limit the need for cookies on our websites to comply with the latest legislation.
