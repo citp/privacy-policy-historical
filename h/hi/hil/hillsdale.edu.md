@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055902id_/http%3A//hillsdale.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329043427id_/http%3A//www.hillsdale.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hillsdale College
 
 ## Privacy Policy
 
-Welcome visitors!  This Privacy Policy explains the information collected by Hillsdale College from visitor activity at [www.hillsdale.edu](http://www.hillsdale.edu/home) (the “Site”) and how we use it.
+Welcome visitors!  This Privacy Policy explains the information collected by Hillsdale College from visitor activity at [www.hillsdale.edu](http://hillsdale.edu/home) (the “Site”) and how we use it.
 
 #### How you accept this Policy
 
