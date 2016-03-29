@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053652id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329095140id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
-# Earnings Disclaimer and Privacy Policy - James Clear
+# Earnings Disclaimer and Privacy Policy | James Clear
 
 **FTC EARNINGS DISCLAIMER**
 
@@ -38,8 +38,10 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 JamesClear.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe JamesClear.com to have any information from or about anyone under 13, please contact us at the address listed below.
 
-We can be reached by contacting:  
-Email: james (at) jamesclear.com
+ATTN: James Clear  
+PO Box 52132  
+Durham, NC 27717  
+United States
 
 **Changes to this Policy**
 
