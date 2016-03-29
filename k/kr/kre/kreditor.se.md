@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922163920id_/https%3A//www.klarna.com/us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kreditor.se privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329033312id_/https%3A//www.klarna.com/us/privacy-statement) for the most accurate reproduction.*
 
 # Klarna - Privacy Statement
 
@@ -66,7 +66,7 @@ Our products and services are not designed for children under 13. If we discover
 
 **Contact Us**
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at legal_us@klarna.com 
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at legal.us@klarna.com 
 
 **Changes to this Policy**
 
