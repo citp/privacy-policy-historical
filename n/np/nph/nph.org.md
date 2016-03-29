@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018083514id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nph.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329210910id_/https%3A//www.nph.org/ws/contact/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # NPH International - Privacy Statement
 
@@ -135,10 +135,10 @@ If you have any questions about this Privacy Policy or the NPH Site, you may con
 
 |  | 
 
-| Sponsor a Child  
+| Donate  
 ---  
-Donate  
+Sponsor a Child  
   
   
-Rosalia and Ruth on the first day of school.  
-(NPH Guatemala - 2010)
+Everybody in the photo!  
+(NPH El Salvador - 2010)
