@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907041128id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/200492852-Privacy-Policy-Data-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329061617id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/200492852-Privacy-Policy-Data-Security) for the most accurate reproduction.*
 
 # Privacy Policy & Data Security – Help
 
@@ -72,7 +72,7 @@ Do you have Trusted Shop (Internet Shopping is Safe) accreditation? You can shop
 
 Can I be removed from your mailing list?
 
-BULK POWDERS™ will send you special offers and promotions by post and email. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post, let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
+BULK POWDERS™ will send you special offers and promotions by post, email and SMS. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post or SMS, let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
 
 **Why did I receive your brochure when I didn't request it?**
 
@@ -81,7 +81,7 @@ We may have received your details from a third party company. If you do not wish
 
 **Can I go back on your Mailing List?**
 
-If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at [sales@bulkpowders.com](mailto:sales@bulkpowders.com).
+If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at sales@bulkpowders.com.
 
 **Will you pass my data on to third parties?**
 
