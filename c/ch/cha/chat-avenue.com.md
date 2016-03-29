@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907191325id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329195540id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
@@ -12,7 +12,7 @@ Children under 13 are NOT allowed to use any of our chat rooms or allowed to par
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. This information is used for tracking purposes only and are not and cannot be used to obtain personal information about you or anyone else. 
 
-This Web site does NOT request any personal information or collect any information that personally identifies you or allows you to be personally contacted, in order to participate. Your Internet Service Provider (but not your e-mail address) of visitors, the e-mail addresses of those who communicate with us via e-mail and signs up for our message forums. This information will never be shared or sold. All communication from emails to us by users known or identified as being under the age of 13 are deleted immediately.
+This Web site does NOT request any personal information or collect any information that personally identifies you or allows you to be personally contacted, in order to participate. Our access logs or stored information may reveal your Internet Service Provider (but not your e-mail address), your IP address and the e-mail addresses of those who communicate with us via e-mail and signs up for our message forums. This information will never be shared or sold. All communication from emails to us by users known or identified as being under the age of 13 are deleted immediately.
 
 The web site server logs will store the IP address of individual accessing this web site. The IP address, through your ISP, can identify the household where the user accessed this website. This information is not accessible by our website or our staff, but we may report unlawful activity to your ISP in order to identify you for possible legal action. 
 
@@ -22,11 +22,11 @@ This IP address will never be shared or revealed unless under the following circ
 
 2) If our attorney requests this information relevant to a pending or current legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter at hand. 
 
-Please note that IP addresses are only stored for a short period of time and may or may not be available at time of request. 
+Please note that IP addresses are only stored for a limited period of time and may or may not be available at the time of request. Any formal requests should be done sooner rather than later. 
 
 Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-This site utilizes chat rooms, mobile apps, and forums which can potentially result in the disclosure of personal information publicly. If we become aware of this (regardless of the users age), we will delete any personal information including, but not limited to, email addresses, phone numbers, names, and home addresses immediately. Please note that we DO NOT store logs of chat conversations.
+This site utilizes chat rooms, web cams, audio, mobile apps, and forums which can potentially result in the disclosure of personal information publicly. If we become aware of this (regardless of the users age), we will delete any personal information including, but not limited to, email addresses, phone numbers, names, and home addresses immediately. Please note that we DO NOT store logs of chat conversations. It is the responsibility of the user to not disclose any personal information to those they come in contact with via our chat rooms.
 
 ## **_For Parents: Children's Privacy_**
 
