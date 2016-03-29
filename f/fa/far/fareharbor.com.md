@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029095046id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329031208id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FareHarbor
 
-**Aloha! Our team here at FareHarbor Holdings, Inc. (“FareHarbor”) values your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Below you will find our Privacy Policy. We encourage you to please read our policy to learn about our privacy practices so you can better understand what we collect from you, why we collect it and your rights. Remember, by visiting our website or using our services, you are accepting our practices. Mahalo!**
+**Aloha! Our team here at FareHarbor Holdings, Inc. (“FareHarbor”) values your trust, and makes it a high priority to ensure the security and confidentiality of the personal information you provide to us. Below you will find our Privacy Policy. We encourage you to please read our policy to learn about our privacy practices so you can better understand what we collect from you, why we collect it and your rights. Remember, by visiting our website or using our services, you are accepting our practices. Mahalo!**
 
 ## What information do we collect?
 
