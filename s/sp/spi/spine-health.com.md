@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226151923id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329110438id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Spine-health Privacy Policy
 
@@ -49,6 +49,10 @@ Similarly, Veritas Health Web sites provide links to other Web resources and con
 Some Veritas Health Web pages may use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, also called an action tag, single pixel (1x1), clear GIF, or Web bug. Web beacons can recognize certain types of anonymous information on a visitor's computer, such as a visitor's IP address, time and date of a page view, type of browser, and the existence of cookies previously set by that server. This is information that is available to any Web server you visit. Web beacons do not give any "extra" information away; they are simply a convenient way to gather the simplest of statistics and manage cookies. 
 
 Web beacons are typically used by a third-party to monitor the activity of a site. You have the option to render some Web beacons unusable by rejecting their associated cookies. The Web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded and we do not tie the information gathered in a Web beacon to personally identifiable information.
+
+  * **Web Analytics**
+
+Veritas Health uses Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go [here](https://support.google.com/analytics/answer/6004245?hl=en).
 
 
 
