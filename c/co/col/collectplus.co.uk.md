@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906022242id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectplus.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329152923id_/http%3A//www.collectplus.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: CollectPlus Courier Services
+# Privacy Policy | CollectPlus
 
 This is the privacy policy for www.collectplus.co.uk (the Site). The Site is operated by Drop & Collect Ltd. trading as CollectPlus (we, us and our). For the purposes of the UK Data Protection Act 1998, we are the data controller. 
 
