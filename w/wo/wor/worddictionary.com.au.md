@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worddictionary.com.au privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002234115id_/http%3A//worddictionary.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worddictionary.com.au privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329060336id_/http%3A//worddictionary.com.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Worddictionary.com.au
 
