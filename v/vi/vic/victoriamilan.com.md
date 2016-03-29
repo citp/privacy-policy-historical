@@ -1,90 +1,79 @@
-> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007074345id_/http%3A//www.victoriamilan.com/info_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoriamilan.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329193122id_/https%3A//www.victoriamilan.us/info_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Here is why you are safe with us
+## Digisec Global IPR Ltd. Privacy Policy
 
-  * We are SSL enabled and sensitive data is always encrypted on Victoria Milan
-  * Our off-site servers are Monitored 24/7
-  * We never store any credit card information
-  * We never store your real name or address
-  * Unique safety features
+Last updated: October 31, 2014
 
+## Introduction
 
+Digisec Global IPR Ltd. ("Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the Victoria Milan® websites and mobile application, including but not limited to www.victoriamilan.com (collectively our "Website" or “Victoria Milan”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-Unique safety features
+This policy applies to information we collect: on the Website; in e-mail, text and other electronic messages between you and this Website; through mobile and desktop applications you download from this Website. It does not apply to information collected by: us offline or through any other means, including on any other website operated by the Company or any third party; or any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website.
 
-  * Panic Button
-  * Anonymous image blur
-  * Auto-Logout
-  * Complete Anonymity
-  * [Read more](http://www.victoriamilan.com/how_it_works) on privacy features
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to our Privacy Policy below). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
+## Information We Collect About You and How We Collect It
 
+We collect several types of information from and about users of our Website, including information by which you may be personally identified, such as screen name, e-mail address, demographic information (date of birth, gender, relationship status), geographic location, occupation, and hobbies and interests (collectively “personal information”). We also collect information that is about you but individually does not identify you, such as your Internet connection, the equipment you use to access our Website and usage details.
 
-The Department of Defense (DoD) Cloud Security Model (CSM) provides a formalized assessment and authorization process for cloud service providers (CSPs) to gain a DoD Provisional Authorization, which can subsequently be leveraged by DoD customers.
+We collect this information: directly from you when you provide it to us; automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies.
 
-<https://aws.amazon.com/federal/>
+The email address you provide during account registration at the Website will never be visible or otherwise available to other users. We still encourage all of our members and users to create an anonymous separate email account at an email provider like Hotmail, Yahoo, AOL or similar email service. This will also secure your emails from being read by family, friends, or by accident. The only exception is if we are required to do so by a local court, or other legal authority. Safety is also ensured since Victoria Milan® uses one of Europe's most serious and secure suppliers of server services to host our websites. 
 
-In order to provide end-to-end security and end-to-end privacy, AWS builds services in accordance with customer mandates, security best practices, provides appropriate security features in those services, and documents how to use those features. The AWS cloud infrastructure has been designed and managed in alignment with regulations, standards, and best-practices.
+If you choose to upload an image to your profile, there is a risk of being recognized and linked to your real identity. We therefore advise you to use photos that do not show your face fully or use our unique AnonymousBlur™ feature to make your face unrecognizable on the photos you choose to upload. This will maintain your anonymous identity while at the same time allowing other users to get an impression of your physical appearance.
 
-<https://aws.amazon.com/security/>
+Please note that we do not accept any liability or responsibility for any damage or loss you may suffer by using this site, including as a result of not following the guidelines provided in this Privacy Policy or our terms of agreement.
 
-* * *
+Victoria Milan® is in no way involved in activities that involve the sale, redistribution or other unauthorized use of your personal information. By providing your personal information to us and using our website, you agree to our terms and conditions as described in this text and in our terms of agreement available [here](https://www.victoriamilan.us/info_terms "Terms of Service").
 
-Should you have any concerns do not hesitate to contact our expert [support team](http://www.victoriamilan.com/form_contact?rv=2). 
+Information You Provide to Us. The information we collect on or through our Website may include: information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, [posting material, or requesting further service, we may ask for information when user enters a promotion sponsored by VM, and when user reports a problem with our Website]. We also keep: records and copies of your correspondence (including e-mail addresses), if you contact us; your responses to surveys that we might ask you to complete for research purposes; details of transactions you carry out through our Website and of the fulfilment of your orders.
 
-* * *
+You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, and you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-## Management of users' personal information
+Credit Card Information. When paying via our website, you are ensured that the Company or other sites cannot access your bank account or credit card number. Victoria Milan® does not store any credit card sensitive information, and uses Payex which is a leading professional payment service for online transactions. Your Payex account is secured via BBS ePay.
 
-When registering a personal profile on the Victoria Milan® website you are asked to provide certain information like a screen name (username) of your own choosing, an email address, date of birth etc. We encourage all persons who sign up to choose a screen name that can never be traced to their real identity as well as an anonymous email account that is created for Victoria Milan® solely to ensure your full confidentiality. It is also very important to choose a password that you have never used before and we encourage you to frequently change it to maintain the confidentiality of the information you provide.
+Usage Details, IP Addresses [And Cookies/, Cookies and Other Technologies]. As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including: details of your visits to our Website, including [traffic data,] [location data,] [logs] and other communication data and the resources that you access and use on the Website; information about your computer and Internet connection, including your IP address, operating system and browser type.
 
-The email address you provide during account registration at Victoria Milan® will never be visible or otherwise available to other users. We still encourage all our members and users to create an anonymous separate email account at an email provider like Hotmail, Yahoo, AOL or similar. This will also secure your emails from being read by other members of family or friends by accident. The only exception is if we are imposed by a local court, or other legal authority. Safety is also ensured having chosen one of Europe's most serious and most secure suppliers of server services to host our websites.
+The information we collect automatically is statistical data, and does not identify any individual. It helps us to improve our Website and deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns; store information about your preferences, allowing us to customize our Website according to your individual interests; speed up your searches; recognize you when you return to our Website.
 
-If you choose to upload an image to your profile there is a risk of being recognized and linked to your real identity. We therefore advise you to use photos that do not show your face fully or use our unique AnonymousBlur™ feature to make your face unrecognizable on the photos you choose to upload. This will ensure your anonymous identity while at the same time allowing other users to get a certain impression of your appearance.
-
-Please note that we do not accept any liability or responsibility for any damage or loss you may suffer as a result of not following the guidelines provided in this Privacy Policy or our terms of agreement.
-
-Victoria Milan® is in no way involved in activities that involve the sale, redistribution or other unauthorized use of your personal information. By providing your personal information to us and using our website, you say you agree with our terms and conditions as described in this text and in our terms of agreement available [here](http://www.victoriamilan.com/info_terms "Terms of Service").
-
-All processing of personal information will follow the provisions of applicable data protection legislation and regulation. You have the right to information about the information we store about you and request that faulty information is corrected. Contact us if you have any questions or concerns about your personal information.
-
-In spite of the fact that we try to comply with the highest standards regarding the protection of any (personal and/ or private) information and abuse by others according to the applicable legislation we decline every responsibility and/or liability in the event of unauthorized use and/or loss of information.
-
-  
-
-
-## Non-sensitive information
-
-To ensure the quality of our products, we make statistical analysis of profile responses, and collect information over the web traffic. This information will never be associated with the individual user, and consequently have no consequences for you.
-
-  
-
-
-## Whether to contact you by e-mail
-
-Victoria Milan® reserves the right to use e-mail address for the purposes you through the checkbox on the website have agreed to. Thus, we may use it to answer queries you have sent us, to convey information to you and to confirm the receipt of e-mail you may have sent to us, or if we for some reason need to contact you regarding your account or the Service. Victoria Milan® will never send out spam or use the database to help others do such activities. SPAM is in this context defined as the mass mailing of unsolicited e-mail messages used for marketing purposes. E-mail marketing of Victoria Milan's activities may be sent out to all members. You may opt out of such marketing by ticking the appropriate box in your user profile or by following the link provided at the bottom of each such marketing e-mail sent you.
-
-  
-
-
-## Credit card information
-
-When paying via our website, you are ensured that Victoria Milan® or other sites can not access your bank account or credit card number. Victoria Milan® do not store any credit card sensitive information, and uses Payex which is a leading professional payment service for online transactions. Your Payex account is secured via BBS ePay.
-
-  
-
-
-## "Cookies"
-
-To be able to log in to Victoria Milan® pages you must have enabled cookies feature in your private web browser. "Cookies" is used to identify our servers for your computer so they can recognize each other. If there are any problems related to "Cookies" you will be told to put down your security. This is done by going into tools -> internet options -> privacy (tools -> internet options -> security in Internet Explorer. Consult the user manual if you are using a different web browser.
+The technologies we use for this automatic data collection may include Cookies (or browser cookies). A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. If there are any problems related to "Cookies" you will be told to put down your security. This is done by going into tools -> internet options -> privacy tools -> internet options -> security in Internet Explorer. Consult the user manual if you are using a different web browser. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Flash Cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information; Web Beacons. Pages of our the Website [and our e-mails] may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or [opened an e-mail] and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
 By using the Service and/or the Website you agree unambiguously the use of cookies in order to enable us to use, develop and/or improve the Service and the Website.
 
-  
+## How We Use Your Information
 
+We use information that we collect about you or that you provide to us, including any personal information: to present our Website and its contents to you; to provide you with information, products or services that you request from us; to fulfill any other purpose for which you provide it; to provide you with notices about your account/subscription, including expiration and renewal notices; to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection; to allow you to participate in interactive features on our Website; in any other way we may describe when you provide the information; for any other purpose with your consent. Victoria Milan® will never send out spam or use the database to help others do such activities.
 
-## Terms
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. Yes, VM does use collected info to display target audiences – RZ checked with JG
 
-In order to access our site and use our Service you must agree to and accept our terms of agreement. These terms contain all the aspects that govern the understanding between us as a provider and you as a user. The terms of agreement are available [here](http://www.victoriamilan.com/info_terms "Terms of Service").
+## Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual. We may disclose personal information that we collect or you provide as described in this privacy policy: to our subsidiaries and affiliate entities; to contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them; [to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company's assets]; for any other purpose disclosed by us when you provide the information; with your consent.
+
+## Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: • Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. • Promotional Offers from the Company. If you do not wish to have your e-mail address used by the Company to promote our own products or services, you can opt-out by [checking the relevant box located on the form on which we collect your data (the [order form/registration form])/[OTHER OPT-OUT METHOD]] or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to privacy@victoriamilan.us. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a service purchase or other transactions.
+
+## Your California Privacy Rights
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy@victoriamilan.us.
+
+## Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted [using SSL technology].]
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+## Changes to Our Privacy Policy
+
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+
+## Children
+
+Our Website is not intended for anyone under 18 years of age. No one under age 18 may provide any information to the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us. If we learn we have collected or received personal information from a child under 13, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@victoriamilan.us.
+
+Contact Information. To ask questions or comment about this privacy policy and our privacy practices, contact us at privacy@victoriamilan.us or at Digisec Global IPR Ltd. Company registration number: C56613, 33 34 Regent House, Bisazza Street Sliema Malta.
