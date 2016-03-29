@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319020449id_/http%3A//www.artrage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artrage.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329143542id_/https%3A//www.artrage.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ArtRage
 
@@ -8,7 +8,19 @@
 
  _We consider the privacy of our visitors to be extremely important._
 
-The following privacy statement discloses the information gathering, what we use, and privacy protection practices of this site, [ArtRage.com](http://www.artrage.com/ "ArtRage").
+## ArtRage Software
+
+### ArtRage Desktop Editions
+
+The ArtRage desktop editions (ArtRage 2, ArtRage Studio, ArtRage Studio Pro, ArtRage 4) does **not** use DRM (Digital Rights Management), or run any kind of background services. There is no additional software installed, and there are no ads. Once you have successfully installed ArtRage, you do not need an internet connection at all, except for the an optional update check that will alert you to updates.
+
+### ArtRage Mobile Editions
+
+The ArtRage mobile editions (ArtRage Touch and ArtRage for iPad/iPhone/Android) do not include adware or other background services. We do not collect any personal data or require an active internet connection. Licensing and updates are handled by the App store service used to install the app.
+
+## ArtRage Website
+
+The following privacy statement discloses the information gathering, what we use, and privacy protection practices of this site, [ArtRage.com](https://www.artrage.com/ "ArtRage").
 
 ### Log Files
 
