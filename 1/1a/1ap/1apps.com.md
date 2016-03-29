@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 1apps.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811104950id_/http%3A//1apps.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1apps.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329215143id_/http%3A//www.1apps.com/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to 1Apps The Premier Free Hosting Site
 
-1Apps.com has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the 1Apps.com site.
+1Apps.net has created this privacy statement to demonstrate our firm commitment to privacy. This statement sets forth our information gathering and dissemination practices for the 1Apps.net site.
 
 **  
 What This Privacy Policy Covers**
 
-·      This policy covers how 1Apps.com treats personal information that we collects and receive.  Personal information is information about you that is personally identifiable like your name, email address, IP address and that is not otherwise publicly available.
+·      This policy covers how 1Apps.net treats personal information that we collects and receive.  Personal information is information about you that is personally identifiable like your name, email address, IP address and that is not otherwise publicly available.
 
-·      This policy does not apply to the practices of companies that 1Apps.com does not own or control, or to people that 1Apps.com does not employ or manage.
+·      This policy does not apply to the practices of companies that 1Apps.net does not own or control, or to people that 1Apps.net does not employ or manage.
 
 **What We Collect and Where**
 
@@ -25,7 +25,7 @@ What This Privacy Policy Covers**
  Children  
 **
 
-The 1Apps.com service is not available for anyone who is under the age of 13 and are not allowed to register and become a member of 1Apps.com. This web site is not directed at children under 13 years of age.  ** **
+The 1Apps.net service is not available for anyone who is under the age of 13 and are not allowed to register and become a member of 1Apps.net. This web site is not directed at children under 13 years of age.  ** **
 
 **What Do We Use This Information For?**
 
@@ -33,7 +33,7 @@ The 1Apps.com service is not available for anyone who is under the age of 13 and
 **  
 We use your contact information to send you information about your account and to get in touch with you when necessary. 
 
-Customers can update contact information on 1Apps.com at any time.
+Customers can update contact information on 1Apps.net at any time.
 
 **IP addresses  
 **  
@@ -53,12 +53,12 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ·      You can edit your account information at any time.
 
-·      You can delete your 1Apps.com account at anytime by logging into your control panel.
+·      You can delete your 1Apps.net account at anytime by logging into your control panel.
 
   **Changes to this Privacy Policy**
 
- 1Apps.com may update this privacy policy at any time. If we update our privacy policy the changes will be displayed on this page.  ** **
+ 1Apps.net may update this privacy policy at any time. If we update our privacy policy the changes will be displayed on this page.  ** **
 
 **Linked Sites  
 **  
-This site contains links to external web sites. 1Apps.com is not responsible for the privacy practices or the content of these web sites.
+This site contains links to external web sites. 1Apps.net is not responsible for the privacy practices or the content of these web sites.
