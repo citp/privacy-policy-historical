@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the brightcherry.co.uk privacy policy that was archived on 2012-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120628114518id_/http%3A//www.brightcherry.co.uk/scribbles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcherry.co.uk privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329235629id_/http%3A//www.brightcherry.co.uk/scribbles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### By using this website you give your consent that all personal data that you submit may be processed by Bright Cherry in the manner and for the purposes described in the following Privacy Policy.
+### By using this website you give your consent that all personal data that you submit may be processed by BrightCherry in the manner and for the purposes described in the following Privacy Policy.
 
 #### Definitions
 
-The terms “Bright Cherryâ€, “Bright Cherry Web Design”, “we”, “us”, “our” and “ours” when used in these Terms and Conditions mean Bright Cherry. 
+The terms “Bright Cherry”, “BrightCherry Limited”, “BrightCherry”, “Bright Cherry Web Design”, “we”, “us”, “our” and “ours” when used in these Terms and Conditions mean BrightCherry Limited. 
 
 The terms “you”, “your” and “yours” when used in these Terms and Conditions mean any user of this website.
 
-The term â€œPersonal Dataâ€ refers to personally identifiable information about you, such as your name, job title, email or mailing address.
+The term “Personal Data” refers to personally identifiable information about you, such as your name, job title, email or mailing address.
 
 #### About your privacy
 
 We are committed to safeguarding the privacy of our website visitors whilst providing the highest possible quality of service. We will only use the information that we collect about you lawfully in accordance with the UK Data Protection Act 1998.
 
-If you have any questions concerning your personal information or regarding our practices, please contact: Bright Cherry, Allen House Business Centre, Unit P4, The Maltings, Station Road, Sawbridgeworth, Hertfordshire CM21 19X, telephone +44 (0)1279 729075 or send us an [email](https://web.archive.org/contact/ "Email Bright Cherry").
+If you have any questions concerning your personal information or regarding our practices, please contact: BrightCherry Limited, Allen House Business Centre, Unit P4, The Maltings, Station Road, Sawbridgeworth, Hertfordshire CM21 19X, telephone +44 (0)1279 729075 or send us an [email](https://web.archive.org/contact/ "Email BrightCherry").
 
 #### Collection of personal data
 
@@ -24,7 +24,7 @@ We collect information from details you give us when you use our website or any 
 
 We may also collect email addresses via marketing events such as trade shows and exhibitions. In such cases, we assume that people providing their email addresses are opting in to receive email messages from us. Therefore, we do not include an email opt-out mechanism when collecting event leads.
 
-If, at any time, you wish to opt out of receiving information from Bright Cherry via email, please telephone +44 (0)1279 729075 us or send us an [email](https://web.archive.org/contact/ "Email Bright Cherry").
+If, at any time, you wish to opt out of receiving information from BrightCherry Limited via email, please telephone +44 (0)1279 729075 us or send us an [email](https://web.archive.org/contact/ "Email BrightCherry Limited").
 
 #### Anonymous data collected through this website
 
@@ -32,7 +32,9 @@ We also use software tools to collect information automatically about your visit
 
 #### Cookies
 
-In order to collect the anonymous data described above, we may use temporary “cookies” that collect the domain name of the user and the date and time you visited this website. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computerâ€™s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie and this enables you to decide if you want to accept it or not.
+In order to collect the anonymous data described above, we may use temporary “cookies” that collect the domain name of the user and the date and time you visited this website. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie and this enables you to decide if you want to accept it or not.
+
+For more information on the cookies we store on your computer and how to disable them, please visit our [Cookies policy page](https://web.archive.org/scribbles/cookie-policy/ "Cookies policy page").
 
 #### Use of personal data
 
@@ -51,7 +53,7 @@ We process your personal data only for specific and limited purposes. We ask onl
 
 We do not share, sell or distribute your personal data with unrelated third parties, except under the following limited circumstances:
 
-  * Personal data may occasionally be transferred to third parties who act for or on behalf of Bright Cherry, or in connection with the business of Bright Cherry for further processing in accordance with the purposes to which you have subsequently consented.
+  * Personal data may occasionally be transferred to third parties who act for or on behalf of BrightCherry Limited, or in connection with the business of BrightCherry Limited for further processing in accordance with the purposes to which you have subsequently consented.
   * We may share or transfer the information in our databases to comply with a legal requirement, for the administration of justice, to protect your vital interest, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of a corporate sale, merger, reorganisation, dissolution or similar event.
 
 
@@ -70,7 +72,7 @@ We will disclose to you the personal data we hold about you upon receipt of your
 
 #### Links to other websites
 
-This Privacy Policy applies only to www.brightcherry.co.uk. These websites contain hyperlinks to websites that are not operated by Bright Cherry. These hyperlinks are provided for your reference and convenience only and you should note that we do not have any control over these other websites. We cannot, therefore, be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and review the privacy statement posted on any site you visit before using the site or providing any personal data about yourself.
+This Privacy Policy applies only to www.brightcherry.co.uk. These websites contain hyperlinks to websites that are not operated by BrightCherry Limited. These hyperlinks are provided for your reference and convenience only and you should note that we do not have any control over these other websites. We cannot, therefore, be responsible for the protection and privacy of any data which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and review the privacy statement posted on any site you visit before using the site or providing any personal data about yourself.
 
 #### Updates and changes to privacy policy
 
