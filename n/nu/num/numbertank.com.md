@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the numbertank.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726211432id_/http%3A//www.numbertank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbertank.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330031847id_/http%3A//www.numbertank.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Privacy Policy
+[](https://web.archive.org/)
 
 We are fully committed to protect your privacy in all respects.
 
@@ -16,7 +16,7 @@ We collect your personally identifiable information to let you avail the best of
 
 Information Collected Upon Registration
 
-Personally identifiable information that we collect upon registering as a user on Numbertank may include, full user name, password, email address, telephone number, etc.
+Personally identifiable information that we collect upon registering as a user on Numbertank may include, full name, password, email address, telephone number, etc.
 
 Additional Information
 
@@ -59,5 +59,3 @@ Numbertank is very concerned about safeguarding the confidentiality of your pers
 Our Policy Towards Children
 
 The site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-
-Feedback
