@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henricoschools.us privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814184852id_/http%3A//henricoschools.us/disclaimer-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henricoschools.us privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330055950id_/http%3A//henricoschools.us/disclaimer-privacy-statement) for the most accurate reproduction.*
 
 # Henrico County Public Schools | Disclaimer & Privacy Statement
 
@@ -6,7 +6,7 @@
 
 Some Henrico County Public Schools web pages have links to web sites “outside” of the HCPS web site. If you click on these links to visit other sites, you are subject to the privacy policies of those sites while you are visiting them, rather than the HCPS policies.
 
-Please note that by clicking on these links, you will leave the HCPS web site and enter a privately owned web site created, operated and maintained by a private business.
+**Please note** that by clicking on these links, you will leave the HCPS web site and enter a privately owned web site created, operated and maintained by a private business.
 
 The information that this private business collects and maintains as a result of your visit to its web site may differ from the information that the HCPS collects and maintains (please see the HCPS web site privacy notice for privacy protections HCPS provides to web site visitors).
 
