@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrofoodtv.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926095054id_/http%3A//afrofoodtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrofoodtv.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330032203id_/http%3A//afrofoodtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Afrofoodtv | African Recipes, African Culture, African food » Privacy Policy
 
