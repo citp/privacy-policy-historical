@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htcdesireforum.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424225318id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dhtcdesireforum.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcdesireforum.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330132133id_/http%3A//www.verticalscope.com/aboutus/privacypolicy.php%3Fsite%3Dhtcdesireforum.com) for the most accurate reproduction.*
 
 # VerticalScope - Driven by Enthusiasts
 
