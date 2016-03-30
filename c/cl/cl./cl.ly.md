@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003041803id_/http%3A//getcloudapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330194728id_/https%3A//www.getcloudapp.com/privacy) for the most accurate reproduction.*
 
 # CloudApp - Privacy
 
@@ -18,7 +18,7 @@ Despite our continual and evolving efforts to protect your personal information,
 
 ### Data Storage
 
-Aluminum.io uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run CloudApp. Although Aluminum.io owns the code, databases, and all rights to the CloudApp application, you retain all rights to your data. 
+CloudPlus uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run CloudApp. Although CloudPlus owns the code, databases, and all rights to the CloudApp application, you retain all rights to your data. 
 
 ### About our cookies
 
