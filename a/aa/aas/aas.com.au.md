@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227135841id_/http%3A//www.aas.com.au/public/Footer/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.com.au privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330181549id_/http%3A//www.aas.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# AAS | Privacy policy
+# AAS
 
 This privacy statement provides a succinct overview of how the companies of the Link Group deal with the personal information of individuals.
 
-The Link Group’s complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in March 2014.
+The Link Group's complete Privacy Policy can be accessed by calling +61 1800 502 355 (free call within Australia), 9am-5pm (Sydney time), Monday to Friday (excluding public holidays) and requesting a copy. This Privacy Statement takes into account changes made by the Privacy Amendment (Enhancing Privacy Protection) Act 2012 and was last updated in February 2016.
 
-## Personal Information Handling Practices
+### Personal Information Handling Practices
 
 **Pseudonymity and Anonymity**
 
 When contacting a company of the Link Group, you generally have the right to remain anonymous (nameless) or to use a pseudonym (fictitious name) to protect your identity. However, if you wish to make enquiries about a specific account, we may need to identify you first, before we can lawfully disclose personal information.
 
-**Collection of Information**  
+**Collection of Information**
 
 The Link Group often acts as collection agent for our Clients, and we only collect personal information that is reasonably necessary for, or directly related to, one or more of our functions or activities; or because it is required under relevant law or regulation.
 
@@ -28,7 +28,7 @@ We normally collect personal information directly from the individual or their a
 
 **Dealing with Unsolicited Information**
 
-The Link Group sometimes receives unsolicited information from individuals or other sources. If we determine that we could not have collected the information for one or more of our functions or activities, we will take reasonably practicable steps to de-identify or destroy the information. Alternatively, we will take reasonable steps to protect the information from misuse or unauthorised disclosure. Disclosure of unsolicited information we hold may be made where required or permitted by law.
+The Link Group sometimes receives unsolicited information from individuals or other sources. If we determine that we could not have collected the information for one or more of our functions or activities, we will take reasonably practicable steps to de-identify or destroy the information. Alternatively, we will take reasonable steps to protect the information from misuse or unauthorised disclosure. Disclosure of unsolicited information we hold may be made where required or permitted by law. 
 
 **Notification of Collection**
 
@@ -51,7 +51,7 @@ We do not sell personal information, and we do not give personal information to 
 
 The Link Group takes reasonable steps to confirm that third parties with whom we deal, are also compliant with the Privacy Act.
 
-In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, India, New Zealand, Papua New Guinea, South Africa, Canada, the United States, the United Kingdom, France, China [Hong Kong] and Germany.
+In executing services, activities and functions, where necessary, personal information may be disclosed to third parties and/or related bodies corporate currently located in Australia, New Zealand, the United Kingdom, France, Germany, Luxembourg, Switzerland, the United States of America, Papua New Guinea, China [Hong Kong], India, United Arab Emirates, South Africa, Canada and the Philippines.
 
 **Direct Marketing**
 
@@ -63,18 +63,18 @@ We take reasonable steps to ensure that the information we hold about you is rel
 
 When we no longer need the personal information we hold about you, we will take all reasonable and practicable steps to de-identify or destroy the information in a secure manner. Alternatively, where that is not practicable, we will take reasonable steps to protect information from misuse or unauthorised disclosure by putting the information beyond reasonable use.
 
-## Your Rights - Access and Correction
+### Your Rights - Access and Correction
 
 You have the right to access the personal information we hold about you. The Link Group encourages you to ask us to correct any personal information we hold that is out-of-date, incorrect, incomplete or misleading. To protect your privacy, we strongly urge you not to provide any personal information that is not required or that we do not ask for.
 
 If you have provided us with your email address for communications, you can delete it at any time, but if you do so, we may be unable to provide you with some services and benefits in connection with your account.
 
-## Our Obligations and How to Contact Us
+### Our Obligations and How to Contact Us
 
 The Link Group is bound by the Australian Privacy Principles [APPs] in the Privacy Act 1988. For more information refer to our complete Privacy Policy. Alternatively, you may wish to refer to the Office of the Australian Information Commissioner (OAIC) for detailed information about the APPs.
 
 Link may make changes to the Privacy Statement from time to time, without notice to any person or third party.
 
-If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkmarketservices.com.au](mailto:privacy.officer@linkmarketservices.com.au "privacy.officer@linkmarketservices.com.au") or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
+If you have any questions or if you would like to give us feedback or make a complaint about how we handle your information, contact us by phone on +61 1800 502 355 (free call within Australia), 9am–5pm (Sydney time) Monday to Friday (excluding public holidays); or by email to [privacy.officer@linkgroup.com](mailto:privacy.officer@linkgroup.com "privacy.officer@linkgroup.com") or by mail to, the Privacy Officer, Link Group, Locked Bag A14, Sydney South NSW 1235.
 
-For a printable copy of this statement, please [click here](https://www.linkmarketservices.com.au/corporate/downloads/LG_Privacy_Statement_B_v3.pdf)
+For a printable copy of the Privacy Policy, please [click here](http://linkgroup.com/docs/Link_Group_Privacy_Policy.pdf).
