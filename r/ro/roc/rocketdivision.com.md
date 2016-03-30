@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707042542id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330115436id_/http%3A//www.starwindsoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # StarWind Privacy Policy | StarWind Software
 
