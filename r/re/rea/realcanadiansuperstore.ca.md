@@ -1,148 +1,249 @@
-> *The following text is extracted and transformed from the realcanadiansuperstore.ca privacy policy that was archived on 2012-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121023061116id_/http%3A//www.realcanadiansuperstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcanadiansuperstore.ca privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330074625id_/http%3A//www.realcanadiansuperstore.ca/en_CA/company-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Real Canadian Superstore - Privacy Policy
+# Privacy Policy
 
-## Privacy Policy
+[ ](https://web.archive.org/en_CA.html)
 
-### Privacy Code
+At Loblaw Companies Limited, we respect your privacy and take great care in protecting your Personal Information. This policy demonstrates our commitment to your privacy. Read on to discover how your Personal Information is being protected.
 
-At Loblaw Companies Limited and its subsidiaries and divisions, including President's Choice Financial (collectively, "Loblaw", "we", "us", "our"), the protection of personal information has always been of great importance.  Loblaw is committed to maintaining the accuracy, confidentiality, integrity and security of your personal information.  This Privacy Code is based on the requirements of the Personal Information Protection and Electronic Documents Act ("PIPEDA"), as well as applicable provincial privacy laws and is part of our commitment to ensuring that personal information in our possession is protected and is only collected, used and disclosed in accordance with applicable laws.
+This policy applies to Loblaw Companies Limited and its subsidiaries in Canada (collectively referred to in this document as “Loblaw”, “we”, “us” or “our”). Subsidiaries of Loblaw means Loblaws Inc., President’s Choice Services Inc., President’s Choice Bank, PC Financial Insurance Broker Inc. and PC Financial Insurance Agency Inc. as well as other current and future subsidiaries of Loblaw. Subsidiaries of Loblaw does not include T&T Supermarket Inc. or ARZ Group Limited. Shoppers Drug Mart Inc. and its subsidiaries (collectively “Shoppers”) is also a subsidiary for certain purposes of this policy but Personal Information held by Shoppers is governed by separate privacy policies.  
+In this policy, we explain what Personal Information we collect, and how we use, share and manage it.  
+Please note that when you visit one of our websites, sign up for, participate in or purchase a specific product, service, program, contest, promotion or event available through Loblaw, additional terms and conditions may be provided regarding the collection, use or sharing of Personal Information in connection with that product, service, program, contest, promotion or event. Those terms and conditions will apply together with this policy.
 
-Certain subsidiaries and divisions of Loblaw Companies Limited may develop a privacy policy (each a "Privacy Policy"), to explain in greater detail how they collect, use and disclose personal information in accordance with this Privacy Code.  An example of such a policy is the Privacy Policy that applies to President's Choice Financial products and services (which Privacy Policy is available online at [www.pcfinancial.ca](http://www.pcfinancial.ca/)).  In addition, some providers of products and services are companies with whom we have a co-venture relationship and in those cases, the co-venturer's privacy policy applies to the collection, use and disclosure of your personal information by that co-venturer. 
+## Personal Information
 
-### What is personal information?
+“Personal Information” as used in this policy means information about an identifiable individual, such as the name and date of birth of that individual, and includes non-personal information that we link to Personal Information.  
 
-Personal information is any information about an identifiable person, other than certain business contact information.  It can include such things as a person's home address, date of birth, social insurance number, medical and financial information.  The type of personal information that is collected from you also depends on the nature of the transaction.  Here are some examples of the type of personal information we collect, use and/or disclose:    
 
-**Retail** :  In stores, Loblaw will collect and use such personal information as is necessary to process your transaction, including verifying your identity when required.  You may be asked to provide personal information when returning products which information is only used in the protection of Loblaw's business.  You may also be asked to provide your prescription and non-prescription use, home address and telephone number, date of birth, health insurance information and the name of your health care provider in order to receive prescription services from us.   
+This policy does not apply to the collection, use and sharing of Personal Information by our franchisees, or companies with which we have business relationships. However, if we receive from such entities Personal Information or non-personal information that we link to Personal Information, then this privacy policy will apply to our collection, use and sharing of that information.
 
-**Online** :  Loblaw asks for your name, address, email address, and other personal information when you create an account online.  You will also be asked for personal information when you make an online purchase (so that we can process your order) and when you enter contests; and if your personal information is to be used for other purposes, your consent will be obtained.   
+## What Personal Information is not
 
-### The 10 Privacy Principles
+This policy does not cover non-personal information, which is information that does not identify you. However, as stated above, when we collect non-personal information and link that non-personal information to an identifiable individual, then that information will become Personal Information and become subject to this policy.
 
-1.  **Accountability**
+Unless permitted or required by law, Loblaw will not collect, use or share Personal Information without first obtaining consent. We will obtain consent when we want to use Personal Information for a new purpose or for a purpose other than those stated at the time of collection, in this policy or in the terms and conditions of a specific product, service, program, contest, promotion or event you signed up for, participated in or purchased.
 
-Loblaw is responsible for personal information under its control, including any personal information disclosed to third parties for handling or administrative purposes.  Loblaw has designated a national Privacy Officer and other privacy officers at the local, area, subdivision or division specific level, who are accountable for Loblaw's compliance with this Privacy Code, with any Privacy Policy that applies to you and with privacy legislation.
+Consent can be “express” through words or by specific acts or “implied” by the conduct of the individual whose Personal Information is being collected, used or shared. Unless we determine that we require an additional consent for specific products, services, programs, contests, promotions or events, you agree and consent that as a provider of personal information we may collect, use, share or otherwise process your Personal Information in accordance with this policy.
 
-2.  **Identifying Purposes**
+You may withdraw your consent for certain purposes. For example, you may choose not to receive:
 
-The purposes for which personal information is collected will be identified by Loblaw at or before the time the information is collected, unless such purposes are obvious.  When we intend to use your personal information for a purpose not identified to you when the information was collected, we will identify the new purpose to you prior to use.
+·         information addressed to you personally about products, services, programs, contests, promotions or events offered by Loblaw or companies with whom we have business relationships; or
 
-With your consent, we collect personal information about you for various purposes, including the following: 
+·         invitations addressed to you personally to comment on the products, services, programs, contests, promotions or events that you use or that are available to you.
 
-  * To verify your identity and protect each party from error and fraud 
-  * To verify your eligibility for, and to provide you with, products and services 
-  * To track and analyze your use of products and services (including the number of transactions by type, product code information, brand, etc.), shopping patterns, and the channels you use to obtain those products and services, to help us serve you better, and to provide you with information about other products and services which Loblaw believes may be of interest to you 
-  * To manage and develop Loblaw's business and operations 
-  * To generate statistics and aggregate reports for internal use 
-  * To meet legal and regulatory requirements 
-  * To fulfill any other purpose set out in the Privacy Policy of any subsidiary or division of Loblaw Companies Limited that applies to you.   
+If you have a President’s Choice Financial® or PC Financial® (each referred to as “PC Financial” in this policy) product, such as a credit card account, you may withdraw consent to the sharing of Personal Information or non-personal information about your PC Financial account, such as your account or card number information, with any merchants with whom you have set up pre-authorized payments from your account.
 
+However, because of legal or regulatory requirements that we have or contractual obligations you have with us, there are limited circumstances where you may not withdraw your consent to the collection, use or sharing of your Personal Information. For example, to obtain credit products, you are required to provide consent on your application to the collection, use and sharing of your Personal Information to allow us to obtain and to update credit reports and other credit history information about you from time to time with credit bureau agencies and other entities that support the credit reporting system. Your consent for these purposes cannot be withdrawn during the time you have credit with us and for a reasonable period of time afterwards.
 
+If you choose not to provide us with certain Personal Information or if you withdraw your consent, where such withdrawal is available, we may not be able to offer you the products, services, programs, contests, promotions, events or information that you requested or that could be offered to you. For example, if you withdraw your consent to the sharing by our pharmacy of your Personal Information with your provincial drug benefit program or your private health insurance provider, we may be unable to transmit drug benefit claims, which means you will have to pay for your prescription and seek reimbursement afterwards. Similarly, if our pharmacists are unable to consult with others who provide you with care, they may, using their professional judgment, decline to fill a prescription. Please also be aware that, even if you have withdrawn your consent to receive marketing communications from us, we may continue to contact you for certain non-marketing purposes necessary for the management of our businesses, as required by law or related to products, services, programs, contests, promotions or events that you had signed up for, agreed to participate in or purchased.
 
+To withdraw or limit your consent, you can contact us as described below in “Answering Your Privacy Questions”. If you have a product, service or program, such as an insurance policy, or are participating in a contest, promotion or event, that is offered by a third party together with Loblaw or under a Loblaw brand, you may also have to provide your consent preferences or withdraw your consent with that third party separately.
 
-3.  **Consent**
+Please note that it may take some time for all of our records to reflect changes in your preferences. For example, if you request that you not receive personalized marketing communications from Loblaw, your preference may not be captured for a promotion already in progress.
 
-Loblaw will only collect, use or disclose your personal information with your knowledge and consent, except where otherwise required or permitted by law.  Consent means voluntary agreement to the collection, use and disclosure of personal information for defined purposes.  Loblaw will not, as a condition of the supply of a product or service, unreasonably require you to consent to the collection, use or disclosure of information beyond what is required in the circumstances.  The way in which consent is obtained may vary depending on the circumstances and the type of personal information involved. 
+Loblaw collects Personal Information in a variety of ways such as during the course of your purchase of, or application or request for a quote for, our products and services or your participation in one or more of our programs, contests, promotions or events. Loblaw limits the collection of Personal Information to what is reasonably required.
 
-Consent may be express (given orally, electronically or in writing) or implied (provided by an action or inaction), and can be provided directly by you or by an authorized representative.  For instance, in a Loblaw pharmacy, with some medications, we will ask for written consent to provide your personal information for the purpose of providing direct mailings to assist you with your medication.  On the other hand, when you provide us with your personal information and prescription drug plan information for the purpose of processing insurance payment of prescription drug costs by third parties, this constitutes implied consent.  In the same way, when you order flowers for delivery, certain basic information will be collected from you and this also will constitute implied consent for Loblaw to use that information for the purpose of processing your order and delivering the flowers. 
+Loblaw collects Personal Information in the following ways:
 
-**Refusal or Withdrawal of Consent** :  You may refuse to consent or you may withdraw your consent to the continued collection, use or disclosure of your personal information or tell us that you do not wish to receive any marketing communications from us at any time on sufficient notice to Loblaw.  We will do our best to accommodate your request, subject to legal or contractual restrictions, current industry standards and our technical abilities.  Your withdrawal of consent may result in Loblaw becoming unable to provide or continue to provide you with certain services, products or benefits, and in such case you will be given notice of the implications of the withdrawal of your consent so that you can make an informed decision.  Due to printing and distribution schedules, you may continue to receive some communications that were in process before we received your request.  If you have a product or service with a subsidiary or division of Loblaw Companies Limited or with a co-venturer, you also may have to refuse to consent or withdraw your consent with that subsidiary, division or co-venturer.   
+**Directly From you.  **You may provide Personal Information to us in person, by mail, over the telephone, through our websites or in any other direct manner. For example, Personal Information may be collected through our monitoring and recording of communications, such as telephone calls to our call centres.
 
-4.  **Limiting Collection**
+**From Related Companies.  **We may receive Personal Information from related companies. Any such disclosure to us by a related company will be done in accordance with that company’s privacy policy.
 
-Loblaw will only collect personal information which is necessary for the purposes identified and will only collect such information by lawful means.
+**From Third Parties.  **We may receive Personal Information from other sources. For instance, with respect to PC Financial products, services or programs, these sources may include credit reporting agencies or other financial institutions.
 
-**Collection of Information over the Phone** :  We may monitor and / or record your telephone discussions with our representatives for our mutual protection, to establish a record of the information you provide, to take or verify instructions from you, to maintain quality service levels, and to assist in staff training.  If you are not comfortable with having your telephone calls recorded, you will, where possible, have the option of communicating with us by other means. 
+**Through Technology.  **We may collect Personal Information and non-personal information through various technologies directly from you or from third parties.
 
-5.  **Limiting Use, Disclosure and Retention**
+_Point-of-Sale:_  We may receive non-personal information from sources such as our own and third party point-of-sale-systems and when we link that non-personal information to an identifiable individual it will become Personal Information.
 
-Personal information will not be used for purposes other than those for which it was collected without your consent. 
+_Video surveillance:_  We may collect Personal Information through video surveillance in areas surrounding our stores, kiosks, pavilions, bank machines, parking lots and other locations for security purposes, to protect against theft, damage to property and fraud, and may use this information to help us better understand the flow of traffic in our stores.
 
-Loblaw may disclose your personal information, including as follows: 
+_Websites, Social Media, Applications and other electronic means:_  We may collect Personal Information and non-personal information electronically, directly from you or through third parties. For instance, we may access Personal Information about you when you share information about yourself on social media networks and also when you interact with us electronically such as through our information technology systems, websites, email, mobile applications, social media properties or online advertising. For example, when you visit one of our social media sites, we may collect Personal Information that you choose to submit to us such as your name, contact information, opinions or any other information you choose to provide for the purposes of responding to an enquiry you have made, or for any other purpose disclosed to you at the time of the collection. Third parties may provide information about you to us, such as search terms you used, or refer you to us as a result of a search you conducted.
 
-  * With your consent; 
-  * To carefully select third party service providers that perform services for us or on our behalf and that we have confirmed use security and privacy standards comparable to ours; 
-  * To help us collect a debt or enforce an obligation owed to us by you; or 
-  * As otherwise required or permitted by law.
+When you interact with us, such as when you visit our websites or click on our ads, we may use, and send to your device or computer, cookies, web beacons, single-pixel gifs and other technologies to help us collect and store Personal Information or non-personal information about you or to enable us to present offers to you, including interest-based ads. These technologies are used to help us understand what actions you take on our own and on third parties’ websites and applications. For instance, we may store Personal Information and non-personal information, such as your name, email address, province and language preference, on one of these technologies to enable us to populate entry fields that you have previously completed, or present you with content specific to your region and language preference. We may also record user and usage data, such as where users click on a page, the internet protocol (“IP”) address, operating system, which website or ad the user clicked on to reach our website and which search terms were used, to help us optimize our websites, generate reports, display interest based advertisements, or understand which key words result in visits to our websites. You may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.
 
+When you visit our websites, we may place, or we may allow third-party companies (such as advertising networks) to place cookies or web beacons on your computer or device to collect information (not including your name, address, email address or telephone number) about your visits to our websites, as well as your other online activity, which may be tracked and used, in combination with other information about you, by us or third-party companies to provide advertisements on our websites and other websites about goods and services that may be of interest to you. You may delete or disable certain of these technologies, such as cookies, at any time via your browser.
 
+If you choose to download or use a mobile or location based application (“app”) created by or for Loblaw, we may receive Personal Information and non-personal information about your current location and about your mobile device, tablet, or browser, such as a unique identifier for your device. Most devices, tablets and browsers allow you to turn off the tracking of your location. However, if you do so, you may not be able to use some or all of our apps.
 
-  
-Personal information will be retained only as long as reasonably necessary for the fulfillment of the purposes for which it was collected or as required by law.  All destruction or removal of personal information from our records is done securely with due regard to the sensitivity of the information concerned. 
+We identify the purpose for which Personal Information will be used typically at or before the time the Personal Information is collected. Our use of Personal Information is limited to the purposes described in this policy, the purposes set out in the terms and conditions of any product, service, program, contest, promotion or event in connection with which Personal Information was collected, purposes required by law and purposes consistent with any of those purposes. As new purposes may develop over time, we may update this policy so we encourage you to review this policy periodically online.
 
-Loblaw will not sell, trade, rent or lease your personal information to any organization, for any purpose.
+Loblaw collects, uses and shares Personal Information for the following purposes, which involve, among other things, the activities described for each:
 
-6.  **Accuracy**
+**Provision of Products, Services, Programs, Contests, Promotions or Events**
 
-Loblaw will make reasonable efforts to ensure that personal information of individuals is as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used, but we also rely on you to provide us with any changes to your personal information, and in particular  to your contact information. 
+To provide products, services, programs, contests, promotions or events, which includes:
 
-7.  **Safeguards**
+·         Creating, administering, and maintaining accounts, such as for loyalty or warranty programs, or financial products or services, which may include processing your application or providing a quote for a product, service or program, verifying your identity, determining your eligibility for a product, service or program, or protecting parties from errors and fraud; and
 
-Loblaw uses security measures appropriate to the sensitivity of the information in order to protect personal information in any media and format against loss or theft and against unauthorized access, disclosure, copying, use or modification. 
+·         Processing your transactions and returns (including, for example, loyalty redemptions or payments made with a financial product), or contacting you about special orders.
 
-8.  **Openness**
+**Healthcare**
 
-Loblaw makes information about its policies and practices relating to the management of personal information available to you, including by posting the current version of the Privacy Code on our website at [www.loblaw.ca](http://www.loblaw.ca/). 
+In connection with the provision of healthcare services, which includes:
 
-9.  **Individual Access**
+·         Dispensing your medications and providing initial and, where appropriate, on-going counseling with respect to your prescription;
 
-Upon receipt by Loblaw of your written request, you will be informed, within a reasonable time following such request, of the existence, use and disclosure of your personal information and will be given access to that information.  Loblaw will need to verify your identity before providing you with the personal information we hold about you.  If you have a disability, then upon request, we will make reasonable accommodations to provide you with your personal information in an alternative format.  
+·         Delivering pharmacy professional services and, where appropriate, providing knowledge, information and counseling in connection with such services, such as immunization information, adaptation of prescriptions, initiation of prescriptions, medication reviews, etc.;
 
-Loblaw may not be able to provide you with access to your personal information where the information cannot be disclosed for reasons of security or commercial confidentiality, where the information is protected by legal privilege or when access is prohibited by law.  If Loblaw cannot provide access, Loblaw will inform you of the reasons why access has been denied, except when Loblaw is prohibited from doing so by law.
+·         Communicating with you to advise you of prescription refills and other health-related information and services that may be of assistance or interest to you;
 
-Loblaw may charge a reasonable fee to cover the cost of providing the information to you.  If a fee is charged, Loblaw will inform you of the approximate cost of providing the information to you prior to processing your request and will provide you with the opportunity to withdraw your request.
+·         Assisting physicians and other healthcare professionals as needed;
 
-You may challenge the accuracy and completeness of the information and have it amended as appropriate.  Please see "Contact us" below.
+·         Responding to requests made by, or on behalf of, your insurance provider to review your insurance claim(s);
 
-10.  **Challenging Compliance**
+·         Recommending products, services, programs or events to manage your healthcare needs;
 
-You may contact us with any questions, complaints or suggestions with respect to Loblaw's compliance with this Privacy Code.  If a complaint is found to be justified, appropriate measures will be taken including, if necessary, amending our practices and procedures.  Please see "Contact us" below. 
+·         Managing your patient record, including medications dispensed and services provided;
 
-**A note about contests**
+·         Obtaining and processing payments for prescription medications and pharmacy services;
 
-For any contest conducted, sponsored or authorized by Loblaw, your personal information will be collected, used and disclosed as follows: 
+·         Monitoring and investigating incidents (including incidents involving franchisees) and managing claims;
 
-  1. For contests in which entry is automatic, for example, when you complete a financial transaction that earns an automatic entry into a contest, your personal information will also be collected and used for the purposes of administering the contest. 
-  2. For contests in which you choose to enter by supplying your personal information, unless the contest rules clearly state otherwise, the personal information you supply when entering the contest will be used only for the administration of that contest. 
-  3. In some cases, you may also be given the opportunity to request or agree to receive information from us at the time you enter the contest, in which case your personal information may also be used to supply you with the information you have requested or agreed to receive. 
-  4. Contest winners must also agree to the use of certain of their personal information, such as their name, address and photograph, in any publicity concerning the contest.
+·         Facilitating eye examinations;
 
+·         If requested, referring you to other healthcare providers, such as our in-store dietitians, optometrists, or other health professionals; and
 
+·         Performing our obligations in accordance with, or complying with, applicable healthcare-related professional, legal or regulatory requirements.
 
-  
-Additional contest rules may apply. 
+**Financial Services**
 
-For contests sponsored and administered by a manufacturer (whether or not jointly sponsored or authorized by Loblaw), your personal information will be collected, used and disclosed in accordance with the information provided to you about the contest. 
+In connection with the provision of financial services (such as banking, credit card and insurance products, services, programs and events), which includes:
 
-**A note about our websites**
+·         Meeting regulatory obligations, such as “know your client” and anti-money laundering requirements, which require that we collect, among other things, your name, address, date of birth, citizenship, occupation and government-issued identification information;
 
-When you visit our websites, you do not have to provide us with any personal information.  However, certain non-identifying information may be collected automatically.  We do not consider this information to be personal information.  For example, our web server may collect the internet protocol ("IP") address and the name of the Internet Service Provider ("ISP") associated with the computer from which you accessed the website, the type and version of web browser and operating system that you are using, and the address of the website that you visited prior to our website.  If your web browser is configured to accept cookies, either temporary cookies (which remain on your system until you exit your current browser window) or permanent cookies (which remain on your system until you manually disable or delete the cookie using your browser software) may be placed on your computer.  A "cookie" is a small piece of information that our web server automatically sends to your browser for storage on your computer, which then permits our web server to recall information about your settings (such as the settings of your web browser and language preference) as a part of the anonymous information.  Please note that portions of our website will not function if you do not accept cookies. 
+·         If appropriate, pre-qualifying you for a financial product, service, program, promotion or event;
 
-For your convenience, our websites may contain links to other websites operated by third parties.  Any such websites are wholly independent from our websites and we have no control over those websites and their operators, including their privacy policies and practices.  Before providing any of your personal information on any such other website, you should review their policies on privacy and security. 
+·         Offering benefit programs, including health benefit programs;
 
-### Contact us:
+·         For investment products and services, collecting Personal Information about your investment profile, including your objectives, risk tolerance and investment knowledge;
 
-**Step 1:**
+·         Managing credit risk in evaluating credit applications, approving transactions and assessing and updating your credit worthiness on an ongoing basis, including to adjust your credit limits, your interest rates or any other features of your accounts; and
 
-To access personal information about you that is held by a subsidiary or division of Loblaw Companies Limited that has a Privacy Policy or if you have any questions, complaints or suggestions with respect to such Privacy Policy, please refer to the contact information contained in that Privacy Policy.
+·         Collecting your Social Insurance Number (“SIN”) in connection with accounts that may earn income.
 
-**Step 2:**
+Please note that you may, at your option, also provide your SIN for use as an aid to identify you with credit reporting agencies should you apply for financial products that do not earn income or for products or services for which a credit report is required.
 
-To access your personal information as held by Loblaw or if you have any questions, complaints or suggestions that could not be addressed by a subsidiary or division of Loblaw Companies Limited, you may contact the Loblaw Privacy Officer:
+Where permitted by law, we may use and/or share Personal Information collected as part of a request for a quote, an application or the processing of a claim. Such use or sharing may occur even if you do not purchase the item for which the quote was requested or your application is denied. Please note that this use does not include personal health information.
 
-By mail:    
-Loblaw Privacy Officer  
-1 President's Choice Circle  
-Brampton, ON  L6Y 5S5  
-Phone: 1.800.525.7868
+**Business Management**
 
-By email:  [loblawprivacy@loblaw.ca](mailto:loblawprivacy@loblaw.ca)
+In order to manage our businesses, which includes:
 
-**Step 3:**
+·         Maintaining the security of the public and our customers, employees and property;
 
-If you are not satisfied with our response to your complaint regarding our compliance with this Privacy Code or regarding any of our policies and practices with respect to our handling of personal information, a complaint may be made to the Federal Privacy Commissioner, 112 Kent Street, Ottawa, ON  K1A 1H3,  1.800.282.1376 or to the provincial privacy commissioner of the province where the personal information was collected or is stored.  More information, including contact information for the provincial privacy commissioners, can be obtained at the federal privacy commissioner's website, [www.privcom.gc.ca](http://www.privcom.gc.ca/).
+·         Maintaining quality service levels and to assist in training our staff and service providers;
 
-Loblaw reserves the right to modify this Policy at any time.   
-For the most current version, go to:  [www.loblaw.ca](http://www.loblaw.ca/)  
+·         Deploying and managing our information technology applications and systems, including to troubleshoot a problem or to test systems including before a change is deployed throughout a system (we use non-personal or anonymized information for such purposes as much as possible); and
+
+·         Managing and facilitating the use of our websites and mobile applications, which may include using cookies and other similar technology.
+
+We or a third party use cookies, web beacons and other site-related technologies for various purposes including session management, traffic monitoring, personalization, transactions (e.g. credit card sales), marketing or promotional purposes, to better understand which web, mobile or other electronic features you use, or to improve or to develop new products, services, programs, contests, promotions or events. For example, we may use cookies to count the number of visitors to our websites, and to compile aggregated information on websites and user activity to help us improve the functionality of our websites. Please refer to the section titled “Through Technology” in part C “How We Collect Personal Information”, and also to the terms of use on our websites, social media sites and mobile applications for more information about the Personal Information and non-personal information that is collected on those sites and applications and the purposes for which that information is used.
+
+**Communication**
+
+In order to communicate with you, which includes:
+
+·         Informing you about special offers and promotions or products, services, programs or events that Loblaw reasonably believes may be of interest to you;
+
+·         Enabling your participation in contests, promotions, surveys, chats, seminars or workshops, including contests where entry is automatic;
+
+·         Taking or verifying instructions from you;
+
+·         Responding to your enquiries;
+
+·         Providing you with information about the products, services, programs, promotions, contests and events you currently have or are participating in;
+
+·         Recommending particular products, services, programs, promotions, contests or events to meet your needs;
+
+·         Providing you with offers or services based on the location provided by your mobile device (also referred to as location based advertising) or based on your interests (For instance, if you participate in cooking classes at Loblaw you may receive offers for related products, such as cooking utensils, or if you tend to purchase low sodium items, we may send you offers for other low sodium items. In both cases we would refer to these as interest-based offers.);
+
+·         Establishing a record of the Personal Information you provide or that we receive about you; and
+
+·         Communicating changes to Loblaw policies or procedures that affect you, including this policy.
+
+Unless you tell us otherwise or consent is required by law, we may contact you by any means for which you have provided contact information.
+
+If you no longer wish to receive commercial electronic messages from us please follow the unsubscribe directions provided in every commercial electronic message we send, or you can send an email to customerservice@loblaws.ca for assistance.
+
+**Market Research**
+
+In order to understand current and future consumer interests, which includes:
+
+·         Conducting market research by tracking and analyzing current or previously collected information such as purchases, web activities (including offers viewed, opt-out preferences, bounces, click-throughs, content on social media and IP addresses) and other transactions (including the number and amount of transactions by type, location/store of purchase, product code information, brand, quantity purchased, date, time, payment method used, promotional offers used in connection with the transaction, etc.), shopping patterns, account balances, account numbers, payment history, account activity, use of mobile device (including use of features, and duration, frequency, type and location of calls and text messages), and the methods used to apply for or to access or use products, services, programs, promotions, contests or events;
+
+·         Using information from these marketing, research and statistical analyses to improve or to develop new products, services, programs, promotions, contests or events, to better understand you and communicate with you as set out above.
+
+Please note that personal health information as that term is defined in law, such as prescription or medical information, and certain financial information, such as account balances, are not shared for market research purposes among Loblaw, its subsidiaries or related companies.
+
+We are a group of related companies that are governed by this policy. Where permitted by law, we share Personal Information within our group of companies for the purposes described in this policy. Please note, however, that personal health information or financial information, is only shared within our group of companies on a limited basis, such as to process a prescription related claim or a credit card transaction, and is not shared for marketing purposes (although may be used by the company to which it was provided for some marketing purposes). For instance, health information would not be shared between a Loblaw pharmacist and the provider of health-related insurance such as through PC Financial travel medical insurance.
+
+Subject to the provisions of this policy, we may also share Personal Information and non-personal information, for the purposes described in this statement, with related companies. These related companies are not governed by this policy, but have in place their own policy or policies as well as appropriate safeguards for the protection of Personal Information. For example, to enhance your shopping experience, we may share your history of transactions through the Canadian Joe Fresh website with Joe Fresh Inc. (which operates the Joe Fresh online business in the United States). We may also share your Personal Information with Shoppers Drug Mart Inc. so that we can conduct Market Research and Communicate with you as described in this policy.
+
+We may also share Personal Information about you with other organizations outside of Loblaw that help Loblaw provide products, services, programs, promotions, contests or events or help us with our business operations. These other organizations may include sub-contractors, third party service providers, third parties that offer products, services, programs, promotions, contests or events under one of our brands, or organizations that help us improve our products, services, programs, promotions, contests or events as well as our business and technology systems, procedures and infrastructure. When Loblaw shares Personal Information with any such party, we limit the use of such Personal Information to those purposes requested by us and we require the party to have appropriate safeguards for the protection of that Personal Information.
+
+If you have a product, service or program that involves another person (e.g. a bank account that is jointly owned, or where you have a guarantor for a loan or if you add household members to your loyalty or financial account), we may share certain of your Personal Information with that person in connection with that product, service or program. In addition, if you apply for a PC Financial product, service or program, we may share your Personal Information with the financial institutions, insurance service providers, underwriters or other financial intermediaries that we work with to offer the product, service or program.
+
+**Healthcare.**  When we provide you with healthcare services, we may share your Personal Information with your healthcare providers (which may also be referred to as your “circle of care”) and your authorized family members. We may also share it with others but only with your consent, or as otherwise permitted by law. For example, we may share prescription information with designated individuals (e.g. parents, caregivers) who have authority to do so. All such sharing is done in a manner consistent with this policy.
+
+We may also share Personal Information as permitted or required by law. For example, if you fill a prescription order in one of our pharmacies, we may share Personal Information with your provincial drug benefit program, private health insurance provider, or other health claim adjudicator as necessary in order to process your claim. We also, as required by law, provide prescription-related information to regulatory authorities, government bodies and/or registries.
+
+**Other sharing.  **Canadian law permits or requires the use or sharing of Personal Information without consent in specific circumstances. These circumstances include situations when permitted or required by law or necessary to protect Loblaw, our employees, our customers, or others. Should this occur, Loblaw will not share more Personal Information than is required to fulfill that particular purpose.
+
+**Sale or transfer of business.**  From time to time, Loblaw may decide to sell or transfer all or part of its business to a related company or to a third party, to merge with another entity, to insure or securitize its assets, to engage in another form of corporate or financing transaction (including transfers made as part of insolvency or bankruptcy proceedings) or as part of a corporate reorganization or stock sale or other change in corporate control.. In addition, the manner in which products, services, programs, contests, promotions and events are provided to you, and the organization providing those products, services, programs, contests, promotions or events, may also change. If your Personal Information is required in connection with any such transactions, we will require that the parties involved, including affiliates, advisors or other service providers, agree to protect your Personal Information with policies meeting standards equivalent to those set out in this policy both during and after completion of the transaction.
+
+Similarly, the relationship between Loblaw and a third party that provides a product, service, program, contest, promotion or event under a Loblaw brand may cease. If that third party continues to provide a product, service, program, contest, promotion or event to you, your Personal Information will be subject to that third party’s privacy policy.
+
+Other than as stated in this policy or as stated in terms and conditions or as part of a consent in relation to a product, service, program, contest, promotion or event, Loblaw does not sell, trade or share for financial or other benefit any Personal Information with third parties.
+
+**_How We Protect Personal Information_**
+
+Loblaw strives to maintain appropriate physical, procedural and technical safeguards with respect to its stores, pavilions, kiosks, websites, offices and information storage facilities so as to prevent loss, misuse, unauthorized access, disclosure, or modification of Personal Information. Our safeguards also apply to our disposal or destruction of Personal Information.
+
+We also seek to ensure that any Personal Information in our custody is as accurate, current and complete as necessary for the purposes for which we use that Personal Information.
+
+**_Where We Keep Personal Information_**
+
+We store, access and use Personal Information in Canada. Unless there is a legal or regulatory requirement to keep such information in Canada, Personal Information may also be stored, accessed, or used outside of Canada. For instance, when we engage a service provider outside of Canada, Personal Information may be stored, accessed or used in any country where the service provider is located, or from which it provides services, including the United States, India, El Salvador, and the Philippines. Where Personal Information is located outside of Canada, it is subject to the laws of that jurisdiction.
+
+**_How Long We Keep Personal Information_**
+
+We actively retain Personal Information only as long as it is required for our relationship and a certain period of time afterwards to respond to queries or as required by federal and provincial laws. When this period ends, Personal Information is scheduled for destruction according to our record retention policies. Depending on the nature of the Personal Information and the purpose for which it was collected, this schedule may vary.
+
+Depending on the product, service or program you receive, you may be able to access and verify most of the Personal Information we hold about you by reviewing your account statements or accessing your account online, or calling the applicable customer service telephone number for the program, product or service about which you are enquiring.
+
+For Personal Information not available online or via telephone, Loblaw provides a right of access and review in accordance with applicable laws, and will endeavour to provide the Personal Information in question within a reasonable time. You will be asked for identification so that we may verify your identity before providing you with your Personal Information. If you require the documents in an alternative format, we will make reasonable efforts to provide you with your Personal Information in that format. If there will be charges for us to retrieve or provide you with specific information that you have requested, we will advise you of the charges that you would be responsible for and obtain your authorization before proceeding.
+
+Our policy is to respond to access requests as required by applicable laws. Loblaw may decline access to Personal Information in certain circumstances. These include where the information requested would reveal confidential information or Personal Information about someone else, or if legal or regulatory requirements prohibit providing access or permit not providing access to such information.
+
+If you are concerned about how we treat your Personal Information, please contact the appropriate Privacy Office using the contact information set out below in “Answering Your Privacy Questions”.
+
+If the Privacy Office is unable to address your concern to your satisfaction, arbitration may be an option recommended to you to settle the dispute. Arbitration is a form of dispute resolution. If the parties decide to pursue arbitration, then the parties would refer the dispute to an arbitrator who would take into account the evidence of each of the parties and render a decision.
+
+If you remain unsatisfied, you may bring the matter to the attention of the appropriate Privacy Commissioner. Some of our activities are subject to the jurisdiction of the Office of the Privacy Commissioner of Canada; other activities are subject to the jurisdiction of the Privacy Commissioner of your province of residence.
+
+Loblaw encourages you to review this policy periodically. If you have any questions about how we treat your Personal Information, please contact the appropriate Privacy Office listed below.
+
+_For enquiries about retail, pharmacy, loyalty, PC® mobile or any other general matters:_
+
+1 President's Choice Circle, Brampton, ON L6Y 5S5   
+[loblawprivacy@loblaw.ca](mailto:loblawprivacy@loblaw.ca)  
+1-855-416-1244
+
+_For President’s Choice Bank:_
+
+25 York Street, PO Box 201, 7th Floor, Toronto, ON M5J 2V5   
+[privacy@pcfinancial.ca ](mailto:privacy@pcfinancial.ca)  
+1-866-639-0012
+
+_For PC Financial Insurance Agency Inc. and PC Financial Insurance Broker Inc.:_
+
+25 York Street, PO Box 201, 7th Floor, Toronto, ON M5J 2V5   
+[privacy@pcfinancial.ca ](mailto:privacy@pcfinancial.ca)  
+1-855-416-1244
+
+If you have a product, service, program, or are participating in a promotion, contest or event that is offered by a third party under a Loblaw brand, the third party may hold certain of your Personal Information. Should you have any questions or concerns, we will direct you to the appropriate contact so that you may make enquiries as to that party’s privacy policies and practices.
+
+At Loblaw Companies Limited, we understand the responsibility that comes along with collecting, using and sharing Personal Information. In adopting and adhering to this policy, we assure you that the Personal Information we collect will be used in an appropriate and responsible manner.
+
+Last Updated: June 29, 2015  
 
