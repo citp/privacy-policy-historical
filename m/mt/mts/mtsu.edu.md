@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065658id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330185659id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
 
 # I:03:05 Privacy of Information | Middle Tennessee State University
 
@@ -32,7 +32,7 @@ A. Student Records: With regard to students’ educational records, MTSU adheres
 
 a. Students have the right to restrict release of directory information as outlined in MTSU Policy III:00:01. 
 
-b. Records are retained in accordance with [Tennessee Board of Regents Guideline G-070](https://policies.tbr.edu/guidelines/disposal-records) and the American Association of Collegiate Registrars and Admissions Officers (AACRAO) guidelines. 
+b. Records are retained in accordance with [Tennessee Board of Regents Guideline G-070](https://policies.tbr.edu/guidelines/records-retention-and-disposal-records "G-070") and the American Association of Collegiate Registrars and Admissions Officers (AACRAO) guidelines. 
 
 B. Employee Records: The Office of Human Resource Services maintains the official personnel files for the employees, except faculty. Official faculty personnel files are maintained in the Provost Office. [See MTSU Policy IV:07:17 Personnel Records](http://www.mtsu.edu/policies/business-and-finance/IV-07-17.php). With the exception of records that include medical information or other confidential information, all Human Resource Services information is public and accessibility is granted in compliance with [MTSU Policy I:03:01 Public Records – Inspecting/Copying Public Records](http://www.mtsu.edu/policies/general-policies/I-03-01.php). 
 
@@ -94,9 +94,9 @@ Several current MTSU policies are directly or indirectly related to information 
 
 A. [I:01:24 Protection of Human Subjects in Research](http://www.mtsu.edu/policies/general-policies/I-01-24.php)
 
-B. [I:03:03 Information Technology Resources Policy](http://www.mtsu.edu/policies/general-policies/I-03-03.php)
+B. [I:03:03 Information Technology Resources](http://www.mtsu.edu/policies/general-policies/I-03-03.php)
 
-C. [I:03:06 Information Security Policy](http://www.mtsu.edu/policies/general-policies/I-03-06.php "I:03:06")
+C. [I:03:06 Information Security](http://www.mtsu.edu/policies/general-policies/I-03-06.php "I:03:06")
 
 D. [I:03:10 Social Networking and Media](http://www.mtsu.edu/policies/general-policies/I-03-10.php)
 
