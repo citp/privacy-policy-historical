@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019075114id_/http%3A//tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthamendmentcenter.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330145957id_/http%3A//tenthamendmentcenter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tenth Amendment Center
 
@@ -25,6 +25,9 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 
 By e-mail: info@tenthamendmentcenter.com  
 By Phone: 213.935.0553  
-by Mail: Tenth Amendment Center, 123 S. Figueroa St. Ste 1614, Los Angeles, CA 90012
+by Mail:  
+Tenth Amendment Center  
+PO Box 13458  
+Los Angeles, CA 90013
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
