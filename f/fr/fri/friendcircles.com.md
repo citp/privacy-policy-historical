@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815135003id_/http%3A//friendcircles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendcircles.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330102242id_/http%3A//friendcircles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Social Media Network
 
