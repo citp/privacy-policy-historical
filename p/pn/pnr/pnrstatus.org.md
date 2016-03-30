@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnrstatus.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910050146id_/http%3A//pnrstatus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnrstatus.org privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330060651id_/http%3A//pnrstatus.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
