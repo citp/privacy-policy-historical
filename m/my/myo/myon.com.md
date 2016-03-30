@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911001900id_/https%3A//myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330210601id_/https%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
 
-# myON®
+# Privacy Policy - myON®
 
-## **Privacy Policy**
+* * *
 
 **Our Notice**
 
@@ -28,16 +28,18 @@ myON collects IP addresses for the purposes of system administration, to generat
 
 You may access the data collected by myON about you by sending a request to the address listed below. If you believe that an error has been made in the accuracy of the data collected from you, myON will correct such error upon adequate verification of the error and the identity of the person seeking the correction. If you wish to access, remove or correct any personally identifying data you have supplied to myON you may do so by (either/or):
 
-  * sending an e-mail request to myonreader@capstonedigital.com
+**You may contact us via:**
+
+  * sending an e-mail request to [myonreader@capstonedigital.com](mailto:myonreader@capstonedigital.com)
   * sending a letter via the U.S. Mail to:
 
+Manager of Web Site Development  
+MyON  
+1710 Roe Crest Drive  
+N. Mankato, MN 56003 
 
 
-                Manager of Web Site Development MyON
 
-                1710 Roe Crest Drive N.
-
-                Mankato, MN 56003
 
 Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections. Data Integrity
 
@@ -51,4 +53,6 @@ If for some reason you believe that myON has not adhered to its privacy policy, 
 
 By using myON.com, you agree to this policy statement regarding online privacy. myON may change the terms of its privacy policy. Changes in those terms require a notification to all customers. It is your responsibility to review the terms of this privacy policy. If you do not agree to this policy statement, then you should not use our web site. Continuing to use of myon.com following the posting of this policy means that you accept that policy. If you have any questions about this policy statement, the practices of this Web site, or your dealings with myON, you may contact us at addresses given above.
 
-**Last Revised: July 1, 2015, © 2015 Capstone Publishers**
+Last Revised: July 1, 2015
+
+© 2013 Capstone Publishers
