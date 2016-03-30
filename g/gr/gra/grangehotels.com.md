@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007213729id_/http%3A//www.grangehotels.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grangehotels.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330032426id_/https%3A//www.grangehotels.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Grange Hotels London - Best London Hotels
 
