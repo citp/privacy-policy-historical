@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216040118id_/https%3A//www.becu.org/%7E/media/Files/PDF/6524.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becu.org privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330073442id_/https%3A//www.becu.org/%7E/media/Files/PDF/6524.pdf) for the most accurate reproduction.*
 
 # 
 
