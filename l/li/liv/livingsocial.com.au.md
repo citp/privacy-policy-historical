@@ -1,89 +1,249 @@
-> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630160853id_/https%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330112753id_/http%3A//livingsocial.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# LivingSocial
+# LivingSocial - Privacy Policy
 
-This LivingSocial privacy policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through LivingSocial. This includes "Personal Information," which is information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing, as well as "Anonymous Information," which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons. 
+Livingsocial Privacy
 
-For the purpose of the Data Protection Act 1998, the data controller is LivingSocial Limited, registered in England and Wales with registration number 07227708 having its registered office at 25 Wellington Street, London WC2E 7DA. 
+  
 
-##  User Consent 
 
-By accessing or otherwise using LivingSocial, you agree to the terms and conditions of this Privacy Policy, which is incorporated into and forms a part of the LivingSocial terms of service (set forth on [http://www.livingsocial.com/terms](https://web.archive.org/privacy_policy)). You expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy. Your Personal Information may be processed and stored in other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country. Your Personal Information will not, however, be used or disclosed for purposes for which you have not given consent or which are not permitted under applicable law. 
+### Introduction
 
-##  Regarding Children 
+Livingsocial and each of its Related Bodies Corporate (also referred to as “We” in this Privacy Policy) respect your privacy. We have developed this Privacy Policy to inform you of how we protect the Personal Information that we Collect, Use, Disclose and keep secure. It also covers how Livingsocial makes the Personal Information it holds available for access to and correction by you. 
 
-Children under the age of 13 are not permitted to use LivingSocial and we do not intentionally collect or maintain Personal Information from those who are under 13 years old. Protecting the privacy of children is very important to us. Thus, if we obtain actual knowledge that a user is under 13, we will take steps to remove that user's Personal Information permanently from our databases. We recommend that children between the ages of 13 and 18 obtain their parent's permission before submitting information over the internet. By using LivingSocial, you are representing that you are at least 18 years old, or that you are at least 13 years old and have a parent's or guardian's permission to use LivingSocial. 
+This Privacy Policy has been drafted having regard to our obligations under the Privacy Act 1988 (Cth), the Privacy Amendment (Enhancing Privacy Protection) Act 2012 which includes the Australian Privacy Principles (collectively, the Privacy Act) and the Spam Act 2003 Cth (Spam Act). This Privacy Policy is a public document and has been prepared in light of Australian Privacy Principle 1 - Open and Transparent Management of Personal Information. 
 
-##  Collection of Information 
+Please take a few minutes to review this Privacy Policy. By using the Livingsocial Website, you are consenting to the Collection, Use and Disclosure of your Personal Information as set forth in this Privacy Policy. 
 
-_Personal Information that You Provide_
+### 1\. Collection of Personal Information
 
-In general, we collect Personal Information that you submit to us voluntarily through LivingSocial. We also collect information that you submit in the process of creating or editing your account and user profile on LivingSocial. For example, our registration and login process requires you to provide us with your name, valid email address and password of your choice. When you personalize your profile and use the features of LivingSocial, we will collect any information you voluntarily provide, and we may also request optional information to support your use of LivingSocial, such as your year of birth, gender and other demographic information. We collect information in the form of the content that you submit during your use of LivingSocial, such as photos, reviews, ratings and other information you choose to submit. We may also collect information about you and your friends who use LivingSocial, from any social network you may have connected from, in order to provide you with a more personalized experience. For instance, we may collect your user ID or profile information that you have permitted to be displayed through LivingSocial in order to display you as a friend or in association with your profile and collections. When you purchase a Deal, you will need to submit your credit card or other payment information so that our service providers can process your payment for the Deal. When you sign up for, or win, any contests, sweepstakes, or other activities that we make available on LivingSocial, we will collect the information designated along with such activity, which may include your contact information such as your address and phone number. If you choose to sign up to receive information about products or services that may be of interest to you, we will collect your email address and other related information. Additionally, we collect any information that you voluntarily enter, including Personal Information, into any postings, comments, or forums within the LivingSocial community. 
+1.1 Livingsocial Collects Personal Information about customers, prospective customers and Website users which is reasonably necessary for, or directly related to, one or more its functions or activities. We Collect your Personal Information in several ways, including but not limited to: 
 
-_Personal Information from Other Sources_
+(a) the registration process on our Website; 
 
-We may receive Personal Information about you from other sources with which you have registered, companies who we have partnered with (collectively, "Partners") or other third parties. We may associate this information with the other Personal Information we have collected about you. 
+(b) other instances in which you provide Personal Information via our Website; 
 
-_E-mail and E-mail Addresses_
+(c) over the phone. 
 
-If you send an e-mail to us, or fill out our "Feedback" form through LivingSocial, we will collect your e-mail address and the full content of your e-mail, including attached files, and other information you provide. We may use and display your full name and email address when you send an email notification to a friend through LivingSocial or the social network from which you have connected to LivingSocial (such as in an invitation, or when sharing your content). Additionally, we use your email address to contact you on behalf of your friends (such as when someone sends you a personal message) or notifications from a social network or other website with whom you have registered to receive such notifications. We may use this e-mail address to contact you, for things such as notifications of limited edition shop sales and other related information. You may indicate your preference to stop receiving further promotional communications as further detailed below. 
+1.2 The Personal Information that we Collect includes (but is not necessarily limited to): your first name, your last name and your email address. 
 
-_Information Collected Via Technology_
+1.3 If you wish to 'refer a friend' to Livingsocial that friend must register themselves - we will not enter Personal Information on their behalf. You can refer a friend to Livingsocial by clicking on the following link, [http://livingsocial.com.au/referral](https://web.archive.org/referral).
 
-As you use LivingSocial, certain information may be passively collected and stored on our or our service providers’ server logs, including your Internet protocol address, browser type, and operating system. We also use Cookies and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed, or on which of the advertisements displayed on LivingSocial you clicked. This type of information is collected to make LivingSocial and solutions more useful to you and to tailor the experience with LivingSocial to meet your special interests and needs. 
+1.4 At or before the time, or, if that is not practicable, as soon as practicable after, we Collect your Personal Information, we will notify you of the matters required pursuant to Australian Privacy Principal 5 – Notification of the Collection of Personal Information, by providing you with this Privacy Policy, or by notifying you of how you may access this Privacy Policy. 
 
-We engage in remarketing to market our sites across the web. When a user visits our site, a cookie is dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (http://www.networkadvertising.org/managing/opt_out.asp). 
+1.5 Livingsocial will not Collect Personal Information secretly or in an underhanded way and will not sell your Personal Information to any third party.
 
-An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. For example, we, or our service providers, may track your IP Address when you access LivingSocial to assist with ad targeting. 
+### 2\. HOW WE USE YOUR INFORMATION AND WHEN WE MAY DISCLOSE IT
 
-"Cookies" are small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience with LivingSocial. Persistent Cookies can be removed by following your Internet browser help file directions. In order to use our services offered through LivingSocial, your web browser must accept Cookies. If you choose to disable Cookies, some aspects of LivingSocial may not work properly, and you may not be able to receive our services. 
+2.1 Livingsocial holds Personal Information which it has Collected to Use and/or Disclose for its Primary Purposes, including but not limited to: 
 
-We may also enable advertisers and ad servers to promote third-party products and/or services by placing advertisements on LivingSocial. These advertisers and ad servers may use Cookies and/or "Web Beacons" (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third-party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers. 
+(a) promoting daily deals to you; 
 
-##  Use and Disclosure of Information 
+(b) answering your inquiry; 
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes the Personal Information that we collect with third parties, unless you ask or authorize us to do so. 
+(c) sending you additional materials relating to Livingsocial and products and services that may be of interest to you; and 
 
-In general, Personal Information you submit to us is used by us to provide you access to LivingSocial, to improve LivingSocial, to better tailor the features, performance, and support of LivingSocial and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers at your request. Additionally, we do share your content preferences and other information with the social network with which you have connected to LivingSocial, along with those companies and persons you have asked us to share your information with. 
+(d) providing you with effective customer service. 
 
-Additionally, we may create Anonymous Information records from Personal Information by excluding information (such as your name) that would otherwise make the Anonymous Information personally identifiable to you. Generally, we aggregate this information and use it in statistical analysis to help us analyse patterns in the use of LivingSocial. This Privacy Policy does not limit our use or disclosure of any Anonymous Information in any way, and we reserve the right to use and disclose Anonymous Information to our partners, advertisers and other third parties in our discretion. 
+(e) delivering the products and services you purchased or requested (please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested). 
 
-We may share some or all of your Personal Information with LivingSocial affiliated and group companies that are under a common control, so that they may send daily deal e-mails to you, in which case we will require them to honour this Privacy Policy. Some of those companies may be located in countries that do not require an equivalent or greater level of protection of Personal Information. 
+2.2 Livingsocial also holds Personal Information which it Uses and/or Discloses for purposes other than its Primary Purposes (Secondary Purposes). You provide your consent to us Using and/or Disclosing your Personal Information for the following Secondary Purposes:
 
-In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of ours or that acquirer’s assets may continue to process your Personal Information as set forth in this Privacy Policy. 
+(a) billing and account management; 
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend our rights or property, you, or third parties. You hereby consent to us sharing your Personal Information under the circumstances described herein. 
+(b) business planning and product development; 
 
-Please note that your personal information may be transferred, stored and processed outside the EU, including to the United States of America. Our use of your data complies with the Safe Harbor Principles as agreed upon by the United States Department of Commerce and the European Commission. Consistent with its commitment to protect personal privacy, LivingSocial adheres to these Safe Harbor Principles. 
+(c) enabling us to better understand your needs and interests; 
 
-_Regarding Tesco Clubcard holders_
+(d) improving the content, functionality and usability of our Website; 
 
-By registering your Tesco Clubcard with LivingSocial, you give your express, unambiguous consent to the sharing of your Personal Information (including but not limited to your name, Clubcard number and transaction history on Livingsocial) by us and LivingSocial affiliated and group companies to Tesco Stores Limited a company registered in England and Wales whose registered office is at Tesco House, Cheshunt, Waltham Cross, Hertfordshire, EN8 9SL and its group companies (together “Tesco”). Any Personal information which is transferred in this way may be used by Tesco for purposes of issuing, managing, redeeming and fulfilling your Tesco Points and for marketing purposes in line with your previous consents. 
+(e) improving our marketing and promotional efforts; 
 
-_The Ability Of Others To View Your Information_
+(f) displaying personalised advertising when you visit our Website; 
 
-Helping you to protect your information is a vital part of our mission. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use LivingSocial, certain information you post or provide through LivingSocial, such as your name, profile, comments, collections and reviews, may be shared with other users and posted on publicly available portions of LivingSocial, including without limitation, social media applications and other public fora in which you choose to participate. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through LivingSocial, this information may become publicly available and may be collected and used by others, including people outside the LivingSocial community. We will not have any obligations with respect to any information that you post to parts of LivingSocial available to others, and recommend that you use caution when giving out personal information to others through social media networks or otherwise. 
+(g) for any other purpose identified in any other agreement between Livingsocial and you; 
 
-_Third Party Sites And Advertising_
+(h) issues, news or other information relevant to your dealings with Livingsocial, or about Livingsocial generally, or the industries in which you or Livingsocial operates; and 
 
-LivingSocial may contain links to other websites. Please be aware that we are not responsible for the privacy practices or the content of such other websites. We encourage our users to read the privacy statements of each and every website they visit. This Privacy Policy applies solely to information collected by us through LivingSocial and does not apply to these third-party websites. The ability to access information of third-parties from LivingSocial, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content. 
+(i) as otherwise described in this Privacy Policy. 
 
-_Your Choices Regarding Your Personal Information_
+2.3 Livingsocial may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at privacy@livingsocial.com. Despite your indicated email marketing preferences, we may send you administrative emails regarding LivingSocial, including, for example, administrative and transactional confirmations, and notices of updates to our Privacy Policy if we choose to provide such notices to you in this manner. 
+(a) the Secondary Purpose is related to a Primary Purpose; and 
 
-You have the right to request a copy of the Personal Information that we hold about you. If you would like a copy of some or all of your Personal Information, please contact us at privacy@livingsocial.com. We may charge a reasonable fee for this service. We want to make sure that your information is accurate and up-to-date. You may ask us to correct or remove information which you think is inaccurate. You may change any of your profile information by editing it in the profile settings page. 
+(b) you would have a Reasonable Expectation that we would Use the information for that Secondary Purpose. 
 
-_Feedback_
+2.4 From time to time we may Disclose your Personal Information to organisations outside of Livingsocial in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
 
-If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any email we receive becomes our property. We may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you. 
+(a) billing and debt- recovery functions; 
 
-_Security_
+(b) customer inquiries; 
 
-We are committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. Even though we have taken significant steps to protect your Personal Information, no company, including us, can fully eliminate security risks associated with Personal Information. 
+(c) information technology services; 
 
-_Contact And Revisions_
+(d) marketing services (including market research); 
 
-If you have questions or concerns about our Privacy Policy, please contact us at: privacy@livingsocial.com. This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page or may otherwise post an alert on the LivingSocial website . If you object to any such changes, you must cease using LivingSocial. Continued use of LivingSocial following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
+(e) website usage analysis; and 
 
-Last updated: September 18, 2012 
+(f) to support or facilitate any of those activities described in Points 2.1 and 2.2 of this Privacy Policy 
+
+We will take reasonable practicable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your Personal Information.
+
+If you purchase a daily deal, you are issued with a unique voucher number which is also supplied to the merchant on whose behalf the deal is advertised ("the merchant"). We do not disclose your Personal Information to the merchant (although you may be requested to do so when you redeem the relevant voucher).
+
+If you purchase a product, we will disclose your name, address and other information necessary to complete the order to the merchant on whose behalf the deal is advertised (the Merchant). We will use reasonable endeavours to make sure that the Personal Information that we disclose to the Merchant on your behalf is the minimum necessary to complete the order. 
+
+2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
+
+2.6 Where you use a credit card to purchase an offer from Livingsocial of which you are not the card-holder and named on the card, you unconditionally acknowledge that you have been duly authorised by the card-holder to make purchases on Livingsocial or in general, and that, in the event of a claim from the credit-card holder (that this was an unauthorised transaction) - you indemnify Livingsocial for any claim (including legal action, fees or charge-back) that Livingsocial may face as a result of this unauthorised purchase.
+
+### 3\. Direct Marketing
+
+3.1 You consent to Livingsocial Using and/or Disclosing any Personal Information Collected from you for Direct Marketing purposes, whether Collected via telephone, the Website, or otherwise, but subject to the terms of this Privacy Policy.
+
+3.2 Unless otherwise provided in this Privacy Policy and in accordance with the Privacy Act and the Spam Act, Livingsocial retains the right to Use and Disclose your Personal Information for Direct Marketing purposes:
+
+(a) that has been Collected from you in circumstances where:
+
+(i) you have provided consent to do so; or 
+
+(ii) it is within your Reasonable Expectations; or 
+
+(iii) where it is impracticable to obtain your consent; 
+
+(b) that has been Collected from any third party in circumstances where:
+
+(i) you have provided consent to do so; or 
+
+(ii) it is impracticable to obtain your consent. 
+
+3.3 In each Direct Marketing communication, we will include a: 
+
+(a) prominent statement appearing on the relevant piece of marketing material notifying you of your right to Opt Out from further Direct Marketing; and 
+
+(b) simple means for you to Opt Out of receiving further Direct Marketing communications of that kind. 
+
+3.4 Should you Opt Out, we will stop Using and/or Disclosing your Personal Information for Direct Marketing purposes.
+
+3.5Livingsocial will not Use your Sensitive Information for Direct Marketing purposes. 
+
+### 4\. ENSURING INFORMATION IS ACCURATE AND UP-TO-DATE
+
+We take reasonable precautions to ensure that the Personal Information we Collect, Use and Disclose is complete, relevant and up-to-date.
+
+However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:
+
+(a) let us know if there are any errors in your Personal Information; and 
+
+(b) keep us up-to-date with changes to your Personal Information such as your name or address. You may change your personal details by using the relevant facility on our Website or by contacting Livingsocial care of the contact details described in Point 12. 
+
+### 5\. HOW WE PROTECT YOUR INFORMATION
+
+5.1 Livingsocial will take reasonable steps to protect the Personal Information from misuse, interference, loss and unauthorised access or disclosure. This may include taking reasonable steps to destroy or permanently de-identify Personal Information once it is no longer needed for any purpose for which it may be Used or Disclosed in accordance with Australian Privacy Principal 11.2, subject to the exceptions contained therein. 
+
+5.2 Livingsocial will not attempt to match de-identified or anonymous data Collected through surveys or such online devices as "cookies", with information identifying an individual, without the consent of the relevant individual.
+
+5.3 Livingsocial requires employees and contractors to perform their duties in a manner that is consistent with Livingsocial’s legal responsibilities in relation to privacy, including those in this Privacy Policy.
+
+5.4 Livingsocial will take reasonable steps to ensure that Personal Information is only accessible by people who have a genuine "need to know" as well as "right to know." 
+
+### 6\. HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
+
+6.1 Livingsocial will permit its records containing your Personal Information to be accessed by you when required by the Privacy Act. We may, however, refuse to provide you with access to your Personal Information if one or more of those matters contained in Australian Privacy Principle 12.3 - Access to Personal Information – applies, including but not limited to instances in which:
+
+(a) we reasonably believe that giving you access to your Personal Information would pose a serious threat to the life or to the health and safety of any individual (including you);
+
+(b) giving access to the information would have an unreasonable impact on the privacy of any other individual; 
+
+(c) your request for access is frivolous or vexatious or giving such access will be unlawful 
+
+6.2 If Livingsocial is satisfied that:
+
+(a) having regard to the purpose for which the information is held, the information is inaccurate, out of date, incomplete or irrelevant or misleading; or 
+
+(b) you (as the person to whom the Personal Information relates) request that we correct the information; 
+
+we will take reasonable steps to correct our records containing your Personal Information as soon as practically possible in accordance with the Privacy Act. 
+
+6.3 If we have refused to grant you access to your Personal Information in accordance with Point 6.1 above, we will still take all reasonable steps to provide you with access to your Personal Information in a way that meets both your needs and our needs. 
+
+6.4 If you: 
+
+(a) wish to lodge a request to access and/or correct your Personal Information; or
+
+(b) have been refused access to your Personal Information by us for any reason described in this Policy and you wish to challenge that refusal;
+
+you may do so by contacting Livingsocial’s Chief Operating Officer as per the details in in Point 12.
+
+6.5 Livingsocial will not normally charge a fee for processing an access request unless the request is complex or is resource intensive. Livingsocial does, however, reserve the right to charge an administration fee if an individual requests access to their Personal Information more than once in a three month period.
+
+6.6 Where Livingsocial offers online account management facilities, customers can use this capability to control aspects of their account, including amending or updating certain Personal Information.
+
+### 7\. OPENNESS
+
+7.1 Livingsocial's Chief Operating Officer will be the first point of contact for inquiries about privacy issues. If you wish to make an inquiry or complaint regarding privacy you should do so by contacting this office as per the details in Point 12. 
+
+7.2 You will find that Livingsocial Website contains a prominently displayed privacy statement and will include a copy of this Privacy Policy.
+
+### 8\. STAYING ANONYMOUS
+
+8.1 Livingsocial will not make it mandatory for visitors to its Website to provide Personal Information unless such Personal Information is required to answer an inquiry or provide a service. Livingsocial may however request visitors to provide Personal Information voluntarily to Livingsocial (for example, as part of a competition or questionnaire).
+
+8.2 Livingsocial will allow its customers to transact with it anonymously or by using a pseudonym wherever that is reasonable and practicable.
+
+### 9\. TRANSFERRING INFORMATION OVERSEAS
+
+9.1 If we send Personal Information overseas, Livingsocial will take steps which are both reasonable and practicable to ensure that the overseas recipient handles such information in accordance with the Privacy Act. 
+
+9.2 Livingsocial may disclose Personal Information to an overseas recipient without complying with 9.1 if: 
+
+(a) you are Expressly Informed of the intended disclosure of your Personal Information to the overseas recipient, and you provide consent accordingly; or
+
+(b) we reasonably believe that the overseas recipient is subject to a law or a binding scheme that has the effect of protecting the information in a way that, overall, is at least substantially similar to the way in which the Privacy Act seeks to protect same and you can access mechanisms to enforce the protection of your Personal Information under that law or that scheme; or 
+
+(c) the Disclosure is required or authorised by an Australian court or tribunal or under Australian law.
+
+### 10\. CHANGES TO THE PRIVACY POLICY
+
+Livingsocial may, in its sole discretion, update this Privacy Policy at any time and from time to time. Any changes will be effective when posted on the Website. Your continued use of the Website will indicate your acceptance of any changes to the Privacy Policy. All Personal Information, Collected both before and after any changes take effect, will be subject to the terms of the revised policy (for which you will be taken to have provided consent) unless you indicate otherwise by contacting Livingsocial’s Chief Operating Officer as per the details in in Point 12. We urge you to refer back to this page regularly and especially prior to providing us with any Personal Information. 
+
+### 11\. GLOSSARY
+
+"Collect" means gather, acquire or obtain by a lawful and fair means, information in circumstances where the individual is identifiable or identified. 
+
+"Direct Marketing" involves the Use and/ or Disclosure of Personal Information to communicate directly with an individual to promote goods or services through written, verbal or electronic means of communication. The goods or services which are marketed may be those of Livingsocial or a Related Body Corporate or those of an independent third party organisation.
+
+"Disclosure" generally means the release of information outside Livingsocial, including under a contract to carry out an "outsourced function."
+
+"Express Consent Consequences" includes the fact that that we will not be accountable under the Privacy Act and you will not be able to seek redress under the Privacy Act in the event that you provide consent to the disclosure of your Personal Information by us to an overseas recipient and the overseas recipient handles your Personal information in breach of the Privacy Act. 
+
+"Expressly Informed" means the circumstance where we have provided you with a clear statement (either verbal or in writing) of the Express Consent Consequences. 
+
+"Opt Out" means an individual's expressed request not to receive further Direct Marketing communications.
+
+"Personal Information" means information that is not Sensitive Information, including information or an opinion (whether information or an opinion forming part of a database), whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained from the information or opinion. This includes, but is not limited to, an individual’s name, address, telephone number and email address.
+
+"Primary Purpose" is the main reason for the Collection of any Personal Information.
+
+"Reasonable Expectation" means a reasonable individual's expectation that their personal information might be Used or Disclosed for the relevant purpose.
+
+"Related Body Corporate" is given its meaning in the Corporations Act 2001 (Cth).
+
+"Secondary Purpose" means a purpose of Use or Disclosure other than a Primary Purpose.
+
+"Sensitive Information" is given its meaning in section 6(1) of the Privacy Act 1988 (Cth). 
+
+"Use" means the handling of Personal Information within Livingsocial.
+
+"Website" means the website of Livingsocial and related webpages.
+
+### 12\. CONTACTING Livingsocial
+
+If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Chief Operating Officer of Livingsocial, care of the following details:
+
+Chief Operating Officer  
+Livingsocial  
+Level 1  
+259 Coventry Street  
+South Melbourne, VIC 3205  
+Email: [customersupport@livingsocial.com.au](mailto:customersupport@livingsocial.com.au)
