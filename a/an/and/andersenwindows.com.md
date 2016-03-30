@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the andersenwindows.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211104521id_/http%3A//www.andersenwindows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andersenwindows.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330031946id_/https%3A//www.andersenwindows.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](https://web.archive.org/)
-
-  * [Home](https://web.archive.org/)
-  * Privacy Policy
-
-
+**Last Revised on January 13, 2016**
 
 **Andersen Corporation’s General Policy Regarding Privacy**
 
@@ -144,7 +139,7 @@ To exercise your rights, you can email us or write to us at the address below. M
 
 Andersen Corporation
 
-Attention: 
+Attention: Legal Department
 
 100 Fourth Avenue North
 
