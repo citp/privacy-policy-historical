@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208040026id_/http%3A//www.appempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appempire.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330232655id_/http%3A//appempire.com/privacy-policy) for the most accurate reproduction.*
 
 # App Empire Privacy Policy - App Empire
 
@@ -80,7 +80,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.appempire.com/terms-and-conditions/](http://www.appempire.com/terms-and-conditions/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://appempire.wpengine.com/terms-and-conditions/](http://appempire.wpengine.com/terms-and-conditions/)
 
 **Your Consent**
 
@@ -95,7 +95,7 @@ This policy was last modified on 5/6/13
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.appempire.com](http://www.appempire.com/)  
+[http://appempire.wpengine.com](http://appempire.wpengine.com/)  
 App Empire  
 930 Tahoe Blvd #802-504  
 Incline Village, NV 89451  
