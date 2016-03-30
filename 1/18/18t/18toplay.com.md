@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 18toplay.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812201528id_/http%3A//www.18toplay.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 18toplay.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330114437id_/http%3A//www.18toplay.com/privacy.html%3F) for the most accurate reproduction.*
 
 # 18toplay - Privacy Policy
 
