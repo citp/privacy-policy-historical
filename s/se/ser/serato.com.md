@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031072205id_/https%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serato.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330043709id_/https%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato.com
 
@@ -84,7 +84,7 @@ Your identifiable information may be used by Serato and its employees for the fo
   * For the purposes of registering and authorizing your Serato software.
   * For the purposes of making purchases from Serato Websites.
   * For the purposes of otherwise operating Serato services or improving Serato products.
-  * If you choose to participate in the Whitelabel.net service, we may use your Identifiable Information for the purposes set out in the [Whitelabel.net End User Agreement](https://web.archive.org/legal/whitelabel-terms-and-conditions).
+  * If you choose to participate in the Whitelabel.net service, we may use your Identifiable Information for the purposes set out in the [Whitelabel.net End User Agreement](https://web.archive.org/legal/whitelabel-end-user-agreement).
   * If you choose to participate in the Playlists feature and share your Whitelabel plays with the Record Labels using Whitelabel.net, Record Labels will have access to parts of your Identifiable Information. Read more in the [Playlists Privacy Policy](https://web.archive.org/legal/playlists-privacy-policy).
   * If you choose to participate in the Playlists feature and to contribute your Playlists to Serato DJ Charts, we may use parts of your Identifiable Information to refine the Charts (for example we may take your Location to form Regional Charts, or your Genre Preferences to form Genre Charts). Read more in the [Playlists Privacy Policy](https://web.archive.org/legal/playlists-privacy-policy).
 
