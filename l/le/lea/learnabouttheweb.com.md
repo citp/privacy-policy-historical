@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807160703id_/http%3A//www.learnabouttheweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330175118id_/http%3A//www.learnabouttheweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy
 
 The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today.
 
