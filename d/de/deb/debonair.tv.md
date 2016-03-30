@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the debonair.tv privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502154125id_/http%3A//debonair.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debonair.tv privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330110752id_/http%3A//www.debonair.tv/privacy-policy) for the most accurate reproduction.*
 
 # Debonair TV - Indian live sex channels Privacy Policy
+
+The following document is presented in its original language.
 
 We know that protecting your privacy is very important to you.
 
