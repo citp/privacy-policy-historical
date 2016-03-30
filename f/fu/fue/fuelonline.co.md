@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fuelonline.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906233622id_/http%3A//www.fuelonline.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelonline.co privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330095951id_/http%3A//fuelonline.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Top Rated SEO & Social Media Company | Fuel Online
+# Top Rated SEO & Social Media Company | Fuel Online » Privacy Policy
 
 **What information do we collect?**
 
@@ -51,7 +51,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.fuelonline.co/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fuelonline.co/terms>
 
 **Your Consent**
 
@@ -67,8 +67,7 @@ This policy was last modified on 6/3/2013
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.fuelonline.co
-
+http://fuelonline.co  
 533 Church St  
 Nashville, TN 37219  
 USA  
