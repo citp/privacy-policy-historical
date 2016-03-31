@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924103508id_/https%3A//www.stylistpick.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylistpick.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331043538id_/https%3A//www.stylistpick.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
