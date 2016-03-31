@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotring.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229023000id_/http%3A//www.rotring.com/us/content/2-legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotring.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331143524id_/http%3A//www.rotring.com/en/content/2-legal-notice) for the most accurate reproduction.*
 
 # Privacy Policy - Rotring
 
