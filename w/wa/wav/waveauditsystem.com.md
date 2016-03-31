@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waveauditsystem.com privacy policy that was archived on 2014-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141021231255id_/http%3A//waveauditsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveauditsystem.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401013037id_/http%3A//waveauditsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy — Wave Audit System
 
