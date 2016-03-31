@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-telecommunications.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107011348id_/http%3A//www.china-telecommunications.com/static/privacy_policy-33.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-telecommunications.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331124511id_/http%3A//www.china-telecommunications.com/static/privacy_policy-33.html) for the most accurate reproduction.*
 
 # Privacy Policy of Our Site - About Us
 
