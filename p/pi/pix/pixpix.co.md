@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixpix.co privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812003657id_/https%3A//pixpix.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixpix.co privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331085957id_/https%3A//pixpix.co/privacy) for the most accurate reproduction.*
 
 # PixPix.co Privacy Policy
 
@@ -12,7 +12,7 @@ Like most website operators, PixPix collects non-personally-identifying informat
 
 All photographic and video content on PixPix.co comes from Instagram and was publicly available at the time of its appearing on our site. The content is owned by those who posted it and carries the copyright attributed by that owner. You can control your content's visibility by changing your Instagram settings to prevent your content from appearing on third-party sites like PixPix.co. Visit Instagram's help center to learn more about [controlling your visibility](https://help.instagram.com/116024195217477/).
 
-If you would like to prevent your profile from appearing specifically on PixPix.co, please submit a [removal request](https://pixpix.co/privacy/removal/). For all other inquiries please contact us at [PixPixco@gmail.com](mailto:pixgramco@gmail.com).
+If you would like to prevent your profile from appearing specifically on PixPix.co, please submit a [removal request](https://pixpix.co/privacy/removal/). For all other inquiries please contact us at [pixgramco@gmail.com](mailto:pixgramco@gmail.com).
 
 ## Aggregated Statistics
 
