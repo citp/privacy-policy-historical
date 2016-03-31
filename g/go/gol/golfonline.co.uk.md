@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922071140id_/https%3A//www.golfonline.co.uk/help/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfonline.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331142048id_/https%3A//www.golfonline.co.uk/help/privacy-and-security) for the most accurate reproduction.*
 
 # Golfonline : Privacy and Security
 
@@ -61,6 +61,10 @@ All Web site design, text, graphics are the property of GolfOnline.co.uk © 2001
 External Links and User Submitted Content
 
 This web site may contains links to other sites and user-generated content. Please be aware that GolfOnline.co.uk is not responsible for the privacy practices or the content of external sites. We encourage you to be aware when you leave our site and to read the privacy statements any web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Social Login (i.e.Login with Facebook or Google)
+
+Social Login is a quick and easy way to login securely with your existing Google, Facebook or other known providers of this service. You will have the option to select what information you wish to share with us from the respective provider, and don't worry we do share any of your personal information with third parties without your permission. We would simply use the information passed from your provider to either register your account automatically or login securely on our website.
 
   
 
