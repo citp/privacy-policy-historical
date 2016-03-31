@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127170328id_/http%3A//www.adblade.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331120325id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
 
 # Adblade - Privacy Policy
 
