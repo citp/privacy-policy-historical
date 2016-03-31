@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124084831id_/http%3A//zoo.sandiegozoo.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiegozoo.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401014327id_/http%3A//zoo.sandiegozoo.org/content/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Privacy Policy | San Diego Zoo
+# Privacy Policy | San Diego Zoo
 
 Website privacy policy: [www.sandiegozoo.org](http://www.sandiegozoo.org/), [www.sdzsafaripark.org](http://www.sdzsafaripark.org/), [www.sandiegozooglobal.org](http://www.sandiegozooglobal.org/)  
 rev. October 22, 2015
