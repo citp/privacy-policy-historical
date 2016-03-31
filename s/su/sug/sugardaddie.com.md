@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104110513id_/http%3A//sugardaddie.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331023033id_/http%3A//sugardaddie.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Sugar Daddy and Sugar Babe online dating personals
 
-Privacy Policy
+Sugardaddie.com Contact Phone Numbers and Privacy Policy
 
 Our Commitment To Privacy:
 
@@ -32,3 +32,13 @@ To protect your privacy and security, we will also take reasonable steps to veri
 How To Contact Us: 
 
 Should you have other questions or concerns about these privacy policies, please send us an email at management@sugardaddie.com or contact us within this site by clicking on the feedback option on the menu bar on the main page. 
+
+Or call us:
+
+Sugardaddie.com Contact Phone numbers
+
+USA and Canada 888 644 3330
+
+Australia (02) 8091 7221
+
+UK 0845-5280842
