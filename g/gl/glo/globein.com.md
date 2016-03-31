@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316132218id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331142002id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
 
-# GlobeIn | GlobeIn Privacy Policy
+# GlobeIn Privacy Policy | GlobeIn
 
 Welcome, and thank you for your interest in GlobeIn World, Inc. (“ **GlobeIn** ”, “ **we** ,” or “ **us** ”) and our Web site at [www.globein.com](https://web.archive.org/) (the “ **Site** ”), as well as all related web sites, networks, embeddable widgets, downloadable software, mobile applications (including tablet applications), and other services provided by us and on which a link to this Privacy Policy (this “ **Policy** ”) is displayed (collectively, together with the Site, our “ **Service** ”).
 
