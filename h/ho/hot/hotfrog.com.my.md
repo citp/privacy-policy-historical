@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hotfrog.com.my privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912105216id_/http%3A//www.hotfrog.com.my/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.my privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401011324id_/http%3A//www.hotfrog.com.my/Privacy.aspx) for the most accurate reproduction.*
 
 # Hotfrog Privacy Policy
 
   
 
 
-###  Can’t find an answer to your question or concerns? [Contact us](https://web.archive.org/ContactUs.aspx), we will respond. 
+###  Can’t find an answer to your question or concerns? [Contact us](http://support.hotfrog.com/customer/en_gb/portal/articles), we will respond. 
 
 Hotfrog Privacy Policy   
 Hotfrog Group 
@@ -79,15 +79,15 @@ We may contact you at any email or other address or contact point which we have 
 
 
 
-If you are receiving promotional information from Hotfrog Group and do not wish to receive this information any longer, you may remove your name from our list by contacting the Hotfrog Group Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed. 
+If you are receiving promotional information from Hotfrog Group and do not wish to receive this information any longer, you may remove your name from our list by contacting the Hotfrog Group Privacy Officer at [support.hotfrog.com](http://support.hotfrog.com/customer/en_gb/portal/articles) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed. 
 
 #### Access to the information we hold
 
-You can request access to the personal information we hold about you by making a request to the Hotfrog Group Privacy Officer via [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au). We will provide you with access unless we are legally authorised not to do so. 
+You can request access to the personal information we hold about you by making a request to the Hotfrog Group Privacy Officer via [support.hotfrog.com](http://support.hotfrog.com/customer/en_gb/portal/articles). We will provide you with access unless we are legally authorised not to do so. 
 
 #### Changing and deleting the information we have about you
 
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Hotfrog Group Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au) If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
+If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Hotfrog Group Privacy Officer at [support.hotfrog.com](http://support.hotfrog.com/customer/en_gb/portal/articles) If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
 
 We will take all reasonable steps to change or delete information in response to such a request. If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
 
@@ -110,7 +110,7 @@ CatchBot is the web crawler for Hotfrog Group. CatchBot investigates websites fo
 If you have any questions about this Privacy Policy or how Hotfrog Group deals with your personal information you can contact: 
 
 Hotfrog Group Privacy Officer   
-[legal@hotfrog.com.au](mailto:legal@hotfrog.com.au)
+[support.hotfrog.com](http://support.hotfrog.com/customer/en_gb/portal/articles)
 
 All references to Hotfrog Group in this Privacy Policy should therefore be read as references to Hotfrog Group Pty Limited (ABN 29 948 759 786), an Australian company. 
 
