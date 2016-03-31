@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130233724id_/http%3A//www.kagoo.co.uk/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kagoo.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331093137id_/http%3A//www.kagoo.co.uk/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kagoo
 
@@ -13,11 +13,11 @@ It is important that we store personal information about you so that we can prov
 
 
 
-We store all of the data that you enter within Kagoo.co.uk including your personal name, address and contact details. We also store all of your advert related information.
+We store all of the data that you enter within Kagoo.co.uk including your personal name, address and contact details.
 
 We do not store any of your financial details, including your credit card or payment details.
 
-We do not provide your personal email address or telephone number to other users of the site unless you specifically ask us to or include it in your advert text.
+We do not provide your personal email address or telephone number to other users of the site or other third party unless you specifically ask us to.
 
 ### 1 General
 
@@ -37,11 +37,9 @@ We do not provide your personal email address or telephone number to other users
 
 3.1 Our Data Controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, customer services and profiling your preferences. We will disclose your information to our service providers and agents solely for these purposes.
 
-3.2 If you wish to opt out of receiving any marketing materials from us or our service providers and agents, you may unsubscribe at any time from our communications by emailing info[at]kagoo.com 
+3.2 If you wish to opt out of receiving any marketing materials from us or our service providers and agents, you may unsubscribe at any time from our communications by emailing Kagoo<info[at]kagoo.com>
 
 3.3 Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only. We may keep your information for a reasonable period.
-
-3.4 You should be aware that providing information to a third party user of site such as a landlord, tenant or an agent through our web site will result in the information being passed to the third party and your information will then be held subject to the privacy obligations of that third party which may not conform with this Internet Privacy Policy.
 
 ### 4 Disclosure
 
