@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republictt.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201064412id_/https%3A//republictt.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republictt.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331205338id_/https%3A//republictt.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Republic Bank
 
