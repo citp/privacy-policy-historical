@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127232340id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsgravybaby.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331162015id_/http%3A//itsgravybaby.com/2011/08/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - It's Gravy, Baby!
 
