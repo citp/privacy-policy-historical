@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the targetcanada-magazine.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507191108id_/http%3A//targetcanada-magazine.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetcanada-magazine.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331233823id_/http%3A//targetcanada-magazine.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Canadian National Newspaper: About Us
 
