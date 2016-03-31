@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentsy.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507154739id_/http%3A//scentsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331231515id_/https%3A//scentsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Scentsy Corporation Privacy-Policy
 
@@ -18,7 +18,7 @@ This information can be received in any manner, including in-person discussions,
 
 ### Cookies
 
-We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+We may collect information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us to estimate our audience size and usage pattern, to store information about your preferences (and so allow us to customize our site according to your individual interests), to speed up your searches and to recognize you when you return to our site. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
 ### Information Use
 
@@ -58,7 +58,7 @@ You may request access to the PII that Scentsy has about you. You may also reque
 
 Scentsy maintains reasonable physical, administrative and technical safeguards to protect PII from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Our personnel and the personnel of our affiliates are provided access to PII about you only if they have a need to know the information in connection with a legitimate business purpose, such as (a) the provision of services to you or (b) to help identify other services that Scentsy and its affiliates offer that may be of interest or use to you.
 
-Additionally, Scentsy will only use PII for the purpose which it was intentionally collected. Scentsy will take reasonalble measures to safeguard your information and ensure that is accurate, complete and current. 
+Additionally, Scentsy will only use PII for the purpose which it was intentionally collected. Scentsy will take reasonable measures to safeguard your information and ensure that is accurate, complete and current. 
 
 ### Enforcement
 
