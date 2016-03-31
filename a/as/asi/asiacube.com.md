@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017060206id_/http%3A//asiacube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiacube.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331200836id_/http%3A//asiacube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At [AsiaCube.com](http://asiacube.com/) we are recognize that privacy of your personal information is important. [Here](http://asiacube.com/ "Here") is information on what types of personal information we receive and collect when you are visiting AsiaCube.com and how we safeguard your information. We never sell your personal information to third parties.
+At [AsiaCube.com](http://asiacube.com/) we are recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you are visiting AsiaCube.com and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**
 
