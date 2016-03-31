@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the society3.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011134153id_/http%3A//www.society3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the society3.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401014014id_/http%3A//www.society3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Society3
 
@@ -20,6 +20,9 @@ We reserve the right to use so called “meta data” from activities on our sys
 
 **5) Security**  
 We use secure login encryption and we do encrypt all passwords stored on Society3. Our team will never ask you for a password and is not able to decrypt or retrieve passwords for you.
+
+**6) Data residency**  
+All data and services are hosted in Europe.
 
 ## The Privacy Policy
 
@@ -75,9 +78,9 @@ When you are using the Society3 website, certain content, including advertisemen
 
 You should be aware that while you are on a website operated by us, you may be directed to links to other websites.  For example, Society3 provides ways for users or user organizations to expose links to their websites or links to documents and other sites. The privacy policies of these other websites are beyond our control and we take no responsibility for their practices.  Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.  We request that our users not use those links to point to any unlawful or any politically incorrect or socially not appropriate sites or documents.  While we undertake our best effort to maintain a high level of ethics, we cannot guarantee that inappropriate links will exist.
 
-**Privacy Rights for Users Outside the United States**
+**Privacy Rights for Users  **
 
-Society3 makes an effort to protect the personally identifiable information of all users of its website.  We attempt to comply with local data protection and consumer rights laws to the extent they may apply to Society3’s services.  If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Society3.      If you are located within the European Union, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the European Union to have inadequate data protection.  If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+Society3 makes an effort to protect the personally identifiable information of all users of its website.  We attempt to comply with local data protection and consumer rights laws to the extent they may apply to Society3’s services.  If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to Society3.    You should be aware that your personally identifiable information are hosted in Europe and handled under the EU privacy requirements. If you are located in a country outside Europe and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in Europe.
 
 **Changes in the Society3 Privacy Policy**
 
@@ -89,4 +92,4 @@ Society3 is committed to protect its user’s privacy.  We use secure login enc
 
 The Internet is not a 100% secure medium. Although we use reasonable efforts to protect information, the potential of somebody breaching our security measures does exist.   By using this website, you signify your assent to the Society3 Privacy Policy.  If you do not agree to this privacy policy, please do not use this website or applications.
 
-This Society3 Privacy Policy was updated September 15, 2015.
+This Society3 Privacy Policy was updated January 4, 2016.
