@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricebat.ca privacy policy that was archived on 2015-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150805010700id_/http%3A//www.pricebat.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebat.ca privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331182240id_/http%3A//www.pricebat.ca/privacy) for the most accurate reproduction.*
 
 # Privacy - Pricebat.ca
 
