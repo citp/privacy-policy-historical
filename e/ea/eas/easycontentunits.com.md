@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022010032id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331122527id_/http%3A//easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # easycontentunits.com : Privacy Policy
 
@@ -45,7 +45,12 @@ This is the web site of Big Idea Media Ltd.
 
 Our postal address is   
 Big Idea Media Ltd.  
-PO Box 74, Plymouth, PL7 1ZN
+Unit 22 Callywith Gate Industrial Estate,  
+Launceston Road,  
+Bodmin,  
+PL31 2RQ
+
+Telephone Number: 0845 468 0277
 
 We are registered with the Data Protection Register, Registration number Z8667483.
 
@@ -56,6 +61,8 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address) and information required to source your loan.
 
 The information we collect is used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
+
+We do not store credit card details nor do we share customer details with any 3rd parties 
 
 If you do not want to receive e-mail from us in the future, please let us know by or clicking on the unsubscribe link in the email.
 
