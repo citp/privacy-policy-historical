@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045900id_/https%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platt.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331191701id_/https%3A//www.platt.com/Downloads/pdfs/PRIVACYPOLICY.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY General Policy.
 
@@ -14,7 +14,7 @@ shall mean the Rexel affiliate which receives confidential information which may
 not limited to (i) Rexel Holdings USA Corp. (ii) Rexel, Inc., (iii) General Supply & Services,
 Inc.; or any of their subsidiaries, affiliates, business units or divisions including but not limited to
 (i) Parts Super Center; (ii) Rexel Energy Solutions, (iii) Gexpro, (iv) Gexpro Services, (v)
-Capitol Light and (vi) Platt Electric Supply.
+Capitol Light, (vi) Platt Electric Supply, and (vii) Brohl & Appell.
 Information We Collect.
 Online: You may visit our Website anonymously. We collect your Internet Protocol address, but
 this information generally does not reveal your identity. The data that we regularly collect about
@@ -144,5 +144,5 @@ Internet. Rexel uses reasonable precautions to keep your personally identifiable
 secure, whether it was collected online or offline. However, Rexel is not responsible for any
 breach of security or for the actions of any third parties. If you at any time have questions about
 this Privacy Policy, please send your question via email to privacy@RexelHoldingsUSA.com.
-LAST UPDATED: February 1, 2014
+LAST UPDATED: February 25, 2016
 © Copyright 2014 Rexel Holdings USA Corp. All Rights Reserved.
