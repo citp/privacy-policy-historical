@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002113411id_/https%3A//www.accenture.com/us-en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accenture.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331192540id_/https%3A//www.accenture.com/us-en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Accenture Privacy Statement
 
@@ -21,7 +21,7 @@ This privacy statement is effective September 16, 2014
 
 **How Accenture protects your personal data**
 
-Accenture protects your personal data through its ‘Binding Corporate Rules’ or ‘BCR’. These consist of:
+Accenture protects your personal data through its "Binding Corporate Rules" or "BCR". These consist of:
 
   * **Data Privacy Policy 90 -** a global data privacy policy that sets out the safeguards that apply across Accenture regardless of where we process your data
 
@@ -71,12 +71,12 @@ However, there will be other times when we need to share or disclose personal da
 
 
 **What about sensitive personal data?**  
-We do not generally seek to collect sensitive personal data through this site or otherwise. In the limited cases where we do seek to collect such data, we will do this in accordance with local data privacy law requirements. If you choose to provide us with unsolicited sensitive personal data, you consent to our using the data, subject to applicable law as described in this privacy policy. The term "sensitive personal data" refers to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories may include personal identity numbers, financial account information, racial or ethnic origin, political opinions, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, biometric or genetic data, sexual life, or criminal record (including information about suspected criminal activities).
+We do not generally seek to collect sensitive personal data through this site or otherwise. In the limited cases where we do seek to collect such data, we will do this in accordance with local data privacy law requirements. If you choose to provide us with unsolicited sensitive personal data, you consent to our using the data, subject to applicable law as described in this privacy policy. The term "sensitive personal data" refers to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories may include personal identity numbers, financial account information, racial or ethnic origin, political opinions, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, biometric or genetic data, sexual life, or criminal record (including information about suspected criminal activities).
 
 **What about data security?**  
-We take appropriate steps to maintain the security of personal data collected. Regarding your use of our websites you should understand that the open nature of the Internet is such that information and personal data may flow over networks connecting you to our systems without security measures and may be accessed and used by people other than those for whom the data is intended.
+We take appropriate steps to maintain the security of personal data collected. Regarding your use of our websites you should understand that the open nature of the Internet is such that information and personal data may flow over networks connecting you to our systems without security measures and may be accessed and used by people other than those for whom the data is intended.
 
-Our site may, from time to time, contain links to and from the sites of our partner networks, advertisers and affiliates. If you follow a link to any of these sites, please note that these sites have their own privacy policies and that we do not accept any responsibility or liability for these policies or sites. Please check these policies before you submit any personal data to these sites.
+Our site may, from time to time, contain links to and from the sites of our partner networks, advertisers and affiliates. If you follow a link to any of these sites, please note that these sites have their own privacy policies and that we do not accept any responsibility or liability for these policies or sites. Please check these policies before you submit any personal data to these sites.
 
 **Where will your personal data be processed?**  
 As a global organization with global IT systems, personal data we collect may be routed, stored, or transferred internationally throughout Accenture's worldwide organization in accordance with our Binding Corporate Rules.
@@ -91,7 +91,7 @@ You can Contact Us to exercise any of your rights or obtain a copy of Accenture�
 
 If your data was originally collected in Europe (the European Economic Area (EEA) and Switzerland) and it is transferred from an Accenture entity within Europe to an Accenture entity outside Europe you have the following additional rights under the BCR:
 
-  * to make complaints to, obtain appropriate redress and, where appropriate, receive compensation from the Accenture entity within Europe that originally obtained and processed your personal data, in respect of any damage suffered by you as a result of a breach of the Privacy Policy by any other Accenture entity to which the personal information may have been transferred under the BCR;
+  * to make complaints to, obtain appropriate redress and, where appropriate, receive compensation from the Accenture entity within Europe that originally obtained and processed your personal data, in respect of any damage suffered by you as a result of a breach of the Privacy Policy by any other Accenture entity to which the personal information may have been transferred under the BCR;
 
   * to lodge a complaint with a competent data protection authority and/ or to take action through a court to enforce compliance by Accenture with the terms of the Privacy Policy;
 
@@ -157,10 +157,10 @@ We analyze your IP and browser information to determine what is most effective a
 **What are cookies?**  
 Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user’s device. You can find more information about cookies at: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies. This opens a new window.") and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/ "Your Online Choices. This opens a new window.").
 
-Cookies do many different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that the advertisements and other content you see online are more relevant to you and your interests. They can be set by the website that you are visiting (known as first party cookies) or by another entity such as an advertising network (known as third party cookies).The cookies used on this website have been categorized on the basis of the four categories found in the [ICC UK Cookie guide](https://web.archive.org/web/20151002113411id_/https%3A//www.accenture.com/us-en/~/media/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Technology_8/Accenture-ICC-UK-Cookie-Guide.pdf "ICC UK Cookie Guide. This opens a new window."). A list of all the cookies used on this website by category is set out below. Within the four categories, cookies can either be session or persistent. Session cookies are temporary and once you close the browser window they are deleted from your device. Persistent cookies remain on your device for a longer period and are used by the website to recognize your device when you return.
+Cookies do many different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that the advertisements and other content you see online are more relevant to you and your interests. They can be set by the website that you are visiting (known as first party cookies) or by another entity such as an advertising network (known as third party cookies).The cookies used on this website have been categorized on the basis of the four categories found in the [ICC UK Cookie guide](https://web.archive.org/web/20160331192540id_/https%3A//www.accenture.com/us-en/~/media/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Technology_8/Accenture-ICC-UK-Cookie-Guide.pdf "ICC UK Cookie Guide. This opens a new window."). A list of all the cookies used on this website by category is set out below. Within the four categories, cookies can either be session or persistent. Session cookies are temporary and once you close the browser window they are deleted from your device. Persistent cookies remain on your device for a longer period and are used by the website to recognize your device when you return.
 
 **What other tracking technology do we use?**  
-We may also use web beacons (including conversion pixels) or other technologies for similar purposes and we may include these on our sites, in marketing e-mail messages or our newsletters to determine whether messages have been opened and links clicked on. Web beacons do not place information on your device, but may work in conjunction with cookies to monitor website activity and the information on cookies below also applies to web beacons and similar technologies.
+We may also use web beacons (including conversion pixels) or other technologies for similar purposes and we may include these on our sites, in marketing e-mail messages or our newsletters to determine whether messages have been opened and links clicked on. Web beacons do not place information on your device, but may work in conjunction with cookies to monitor website activity and the information on cookies below also applies to web beacons and similar technologies. Conversion pixels are small codes located on a particular web page which are triggered when someone visits a page resulting in an increase in the conversion count. 
 
 **What if I don’t want cookies?**  
 By using our website you agree that we can place cookies and other similar technologies on your device as explained below. If you want to remove existing cookies from your device you can do this using your browser options. If you want to block future cookies being placed on your device you can change your browser settings to do this. When you review your browser settings or options, you can identify the Accenture cookies by the fact they include “.accenture” in the name. For more information on managing cookies see [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies/ "All About Cookies. This opens a new window."). Current “Do Not Track” initiatives are not recognized by our website.
@@ -224,10 +224,13 @@ At Accenture we do not have third party advertising on our website but these coo
 
   4. We use reputable third parties to gather and provide us with information about our website and advertising audiences and to deliver targeted advertisements on third party sites. These third parties only use anonymous identifiers and have no way of associating these identifiers with identifiable users. Organisations such as Quantcast and Retargeter do this for us and you can find more information on their websites or by clicking the AdChoices icon in our ads.
 
+  5. We also partner with certain social media websites such as Facebook and Twitter to add conversion pixels to certain pages on our website that allow us to re-engage website visitors. A conversion pixel is a small code located on a particular web page which is triggered when someone visits a page resulting in an increase in the conversion count. These pixels enable us to advertise to those website visitors within Facebook and Twitter and continue their experience with Accenture. 
 
 
 
-**Use of cookies for marketing and analytics** – We may use information collected from our cookies to identify user behavior and to serve content and offers based on your profile, and for the other purposes described below.
+
+**Use of cookies for marketing and analytics** – We may use information collected from our cookies to identify user behavior and to serve content and offers based on your profile, and for the other purposes described below. Please note that some of these activities may be performed only in certain countries.​  
+
 
 Some of the cookies we use don't collect information that identifies a visitor. For example –
 
@@ -258,7 +261,7 @@ In other cases we can associate cookie information (including information from c
 The following describes our use of personal data for marketing purposes:
 
 Sources of marketing data  
-Targeted E-maill  
+Targeted E-mail  
 Customer Relationship Management(CRM) Databases  
 Use of Accenture Websites  
 Combining and Analyzing Personal Data
