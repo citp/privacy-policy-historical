@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modishparent.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218205058id_/http%3A//modishparent.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modishparent.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331131941id_/http%3A//modishparent.com/privacy-policy-2) for the most accurate reproduction.*
 
 # modishparent – Privacy Policy
 
