@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921214829id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401000511id_/http%3A//www.resolver.co.uk/our-privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | resolver
+# Privacy policy | Resolver
 
 **PLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING THIS SITE OR THE RESOLVER EMAIL SERVICE**
 
@@ -8,7 +8,7 @@
 
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions "Terms and conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.resolver.co.uk](https://web.archive.org/ "Home"), you are accepting and consenting to the practices described in this policy. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is resolvercouk Limited of 19A Phipp Street, London, EC2 4NP. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is resolvercouk Limited, 52 Lant Street, London, SE1 1QP. 
 
 Our nominated representative for the purpose of the Act is James Walker.
 
@@ -101,6 +101,8 @@ Where you’ve given your express permission for MoneySavingExpert.com to conta
 Save where expressly stated in this [privacy policy](http://www.moneysavingexpert.com/site/privacy-policy "http://www.moneysavingexpert.com/site/privacy-policy"), we will not share your information with third parties for the purpose of advertising or any other way of third parties contacting you.
 
 We do work with analytics and search engine providers that assist us in the improvement and optimisation of our site. 
+
+You also consent to our provision of supporting data derived from software analysis of your complaint to such service provider(s) who are the subject of your complaint , to facilitate and expedite in it's efficient resolution 
 
 We would have to disclose your personal information if we were under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/terms-and-conditions "Terms and conditions") and other agreements; or to protect the rights, property, or safety of resolvercouk Limited, our customers, or others.
 
