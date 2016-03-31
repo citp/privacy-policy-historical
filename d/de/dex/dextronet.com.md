@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908221800id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331210444id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
 
 # Dextronet Privacy Policy
 
@@ -13,6 +13,8 @@ Your credit card information is used by our BMT Micro ecommerce partner only to 
 ## The Information We Collect
 
 We collect only the necessary contact information when you contact us and personal information provided by you when you purchase a product from us.
+
+We use cookies to ensure you get the best user experience from the website. If you continue using this website, we assume that you consent to receiving all cookies on this website.
 
 ## The Way We Use Information
 
