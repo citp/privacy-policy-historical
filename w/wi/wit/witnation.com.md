@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102200945id_/http%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witnation.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331070811id_/http%3A//grantcardonetv.com/privacy) for the most accurate reproduction.*
 
-# GCTV Privacy Policy - Grant Cardone TV
+# Grant Cardone TV Privacy Policy - Grant Cardone TV
 
 ### Privacy Policy
 
@@ -66,15 +66,15 @@ Compromise of information: In the event that any information under our control i
 
 ### 4\. YOUR CHOICES ABOUT YOUR INFORMATION
 
-You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at info@whateverittakesnetwork.com.
+You control your account information and settings: You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at info@grantcardonetv.com.
 
-Opting out of collection of your information for Tracking / Advertising: Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents GCTV or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at info@whateverittakesnetwork.com.
+Opting out of collection of your information for Tracking / Advertising: Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents GCTV or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at info@grantcardonetv.com.
 
 How long we keep your User Content: Following termination or deactivation of your User account, GCTV may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
 
 ### 5\. CHILDREN’S PRIVACY
 
-GCTV does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at info@whateverittakesnetwork.com.
+GCTV does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at info@grantcardonetv.com.
 
 ### 6\. LINKS TO OTHER WEB SITES AND SERVICES
 
@@ -82,7 +82,7 @@ We are not responsible for the practices employed by websites or services linked
 
 ### 7\. HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Service, please contact us at info@whateverittakesnetwork.com.
+If you have any questions about this Privacy Policy or the Service, please contact us at info@grantcardonetv.com.
 
 ### 8\. CHANGES TO OUR PRIVACY POLICY
 
