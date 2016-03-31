@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217153636id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackanddecker.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331203111id_/http%3A//www.blackanddecker.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
