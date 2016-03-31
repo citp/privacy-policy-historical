@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907235752id_/http%3A//deliverawaydebt.com/about-2/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331183754id_/http%3A//deliverawaydebt.com/about-2/privacy) for the most accurate reproduction.*
 
 # Privacy
 
