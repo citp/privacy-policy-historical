@@ -1,37 +1,39 @@
-> *The following text is extracted and transformed from the directorygold.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328004933id_/http%3A//www.directorygold.com/more/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorygold.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331164750id_/http%3A//directorygold.com/privacy-policy) for the most accurate reproduction.*
 
-# DirectoryGold - Privacy Policy
+# Privacy Policy | DirectoryGold
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+eGDC Ltd (" **eGDC** ") operates DirectoryGold.com and may operate other websites. It is eGDC's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
+### Website Visitors
 
-We will not e-mail you in the future unless you have given us your consent. 
+Like most website operators, eGDC collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. eGDC's purpose in collecting non-personally identifying information is to better understand how eGDC's visitors use its website. From time to time, eGDC may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We will give you the chance to refuse any marketing email from us or from another trader in the future. 
+eGDC also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on DirectoryGold.com blogs/sites. eGDC only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-The type of information we will collect about you includes: 
+### Gathering of Personally-Identifying Information
 
-your name 
+Certain visitors to eGDC's websites choose to interact with eGDC in ways that require eGDC to gather personally-identifying information. The amount and type of information that eGDC gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [DirectoryGold.com](http://directorygold.com/) to provide a username and email address. Those who engage in transactions with eGDC are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, eGDC collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with eGDC. eGDC does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-email address 
+### Aggregated Statistics
 
-We will never collect sensitive information about you without your explicit consent. 
+eGDC may collect statistics about the behavior of visitors to its websites. eGDC may display this information publicly or provide it to others. However, eGDC does not disclose personally-identifying information other than as described below.
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
+### Protection of Certain Personally-Identifying Information
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the law. 
+eGDC discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on eGDC's behalf or to provide services available at eGDC's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using eGDC's websites, you consent to the transfer of such information to them. eGDC will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, eGDC discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when eGDC believes in good faith that disclosure is reasonably necessary to protect the property or rights of eGDC, third parties or the public at large. If you are a registered user of an eGDC website and have supplied your email address, eGDC may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with eGDC and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. eGDC takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first. 
+### Cookies
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. eGDC uses cookies to help eGDC identify and track visitors, their usage of eGDC website, and their website access preferences. eGDC visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using eGDC's websites, with the drawback that certain features of eGDC's websites may not function properly without the aid of cookies.
 
-eGDC Ltd, the owner of DirectoryGold is Registered with the [Data Protection Register](http://www.informationcommissioner.gov.uk/) of the United Kingdom, which regulates how we deal with your personal data. Our registration number is Z8529905. 
+### Business Transfers
 
-You may search for registration details [here](http://www.esd.informationcommissioner.gov.uk/esd/search.asp)
+If eGDC, or substantially all of its assets, were acquired, or in the unlikely event that eGDC goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of eGDC may continue to use your personal information as set forth in this policy.
 
-Our secure payment processor is PayPal. If you have any questions regarding their privacy policy, please visit their website. 
+### Ads
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by eGDC and does not cover the use of cookies by any advertisers.
 
-If you have any questions/comments about privacy, you should [contact us](http://www.directorygold.com/more/support.php). 
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, eGDC may change its Privacy Policy from time to time, and in eGDC's sole discretion. eGDC encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a DirectoryGold.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
