@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025014954id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpinspiration.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331232713id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
 
 # Privacy - WP Archive WP Archive
 
