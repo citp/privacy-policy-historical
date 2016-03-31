@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914194545id_/https%3A//support.esharesinc.com/article/166-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esharesinc.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331221450id_/https%3A//support.esharesinc.com/article/166-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eShares Help Center
 
@@ -67,4 +67,8 @@ Mountain View, California 94043
 
 We may change this privacy policy. If we make any substantiative changes, we will change the  _Content last updated_  date above. Other changes, such as grammar or spelling corrections will automatically update the timestamp at the bottom of this document.
 
-Last updated on August 10, 2015
+__
+
+Still need help? Contact Us [Contact Us](https://web.archive.org/contact)
+
+Last updated on December 16, 2015
