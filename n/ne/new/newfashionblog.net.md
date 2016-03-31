@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfashionblog.net privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507235543id_/http%3A//newfashionblog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfashionblog.net privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331082724id_/http%3A//newfashionblog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Fashion Blog
 
@@ -20,3 +20,7 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
+
+[](https://www.pinterest.com/pin/create/button/)
+
+Muhammad Aamir is an avid learner and online marketing consulting. Including guest blogger, blog posts sailing and link building. Social Profiles: [Twitter](https://twitter.com/allsubtweet), [Facebook](https://www.facebook.com/profile.php?id=100004540173233), [Google Plus](https://plus.google.com/u/0/103914892322497167668/) Contact: muhammadaamir2013@gmail.com 
