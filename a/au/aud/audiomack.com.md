@@ -1,39 +1,123 @@
-> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227165157id_/http%3A//www.audiomack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401001304id_/http%3A//www.audiomack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audiomack
 
-The Audiomack, LLC (“Audiomack”) Privacy Policy, in conjunction with the [Terms of Service](https://web.archive.org/about/terms-of-service) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Audiomack website (“Audiomack.com”) and are referred to as the "Agreement" throughout.
+Effective as of February 10, 2016
 
-Audiomack may modify the Agreement which will become effective immediately upon posting on the website. Your use of the website and any related services ("Services") indicates your acceptance of the Agreement.
+This Privacy Policy explains how Audiomack, a music service and mobile app owned and operated by Audiomack LLC, collects, uses, and manages your personal data. By using the Platform (defined below) and/or by registering for a user account, you consent to our Privacy Policy, so it’s important you read it carefully. If you do not agree to any term, provision, or concept in this Privacy Policy, you should not use the Audiomack website, mobile website, mobile apps services or platform. Please contact [support@audiomack.com](mailto:support@audiomack.com) with any privacy-related questions.
 
-Any Content uploaded by you to Audiomack becomes published Content and is not considered personally identifiable information subject to this Privacy Policy.
+Note: this Privacy Policy only applies to the Audiomack website, app, and any additional music delivery mechanism or platform hereafter developed and/or utilized in any way, shape or form by Audiomack LLC (collectively hereby referred to as the “Platform”), When using the Platform you may encounter links or ads for other services, platforms, apps, and/or websites that are not a part of the Services. Audiomack assumes no responsibility for the privacy policies or activities of such third parties, and users should be sure to check the privacy policy of any third party site or platform they use.
 
-## Internet Protocol (IP) Addresses and Cookies
+## 1 - Introduction/Overview
 
-Audiomack uses IP addresses to measure, analyze, and identify usage and trends, administer the website and collect information for its databases.
+Our Privacy Policy will provide you with a detailed explanation of how we collect and use your data on the Platform. Before we delve into the details, however, we’d like to provide you with a brief overview of our philosophy as it pertains to user privacy and to highlight some key basic ideas.
 
-A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided Audiomack. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created an account. Cookies also can enable Audiomack to track and target your interests to enhance your experience on our website.
+By using the Platform, you consent to the collection of certain types of data (outlined below). You should fully understand what we do (and don’t do) with your personal information and data.
 
-## User Information
+We’d also like to offer a brief overview of what you’re consenting to by using the Platform. All of these points will be explained in more detail below.
 
-You may review, alter or delete personal information or account information on your Account page.
+By using the Platform, you consent to;
 
-We have the right to reference and refer to usage of, and relationship with, the Customer or the Customer's company, which may be determined by the domain used in the registered email account. No press releases shall be made without the written consent of the Customer.
+Our use of cookies and other related technologies;
 
-We will not rent, sell or share your personal information with third parties. We may disclose your personal information or any of its log file information when required by United States of America (“USA”) law or in the good-faith belief that such actions are necessary to comply with a legal process served on us, protect and defend the rights or property of Audiomack or its users, identify persons who may be violating the law, the legal notice, or the rights of third parties, and cooperate with lawful investigations of destructive activities.
+The transfer of your information to a 3rd party outside of the country you reside in;
 
-Third-party websites, services, or advertising linked to Audiomack are not covered by this Privacy Policy. These websites or services may collect personally or non-personally identifiable information about you and place a cookie on your browser. Audiomack is not responsible for the privacy practices of the third-party websites, advertisers, or companies. You are solely responsible for safeguarding and protecting the secrecy of your password.
+The collection, processing, use, and sharing of your information;
 
-Audiomack is not responsible if you volunteer personal information online that is accessible to the public. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed.
+The public availability of certain kinds of personal information you elect to share by registering for an account, and your controls for sharing such information.
 
-## General
+## 2 - Information we collect about you
 
-If you are not a resident of the USA, you understand and agree that Audiomack stores and processes your information on computers located in the USA, any by providing any data to Audiomack, you consent to the transfer of such information to the USA.
+Visiting and using the Platform does not require you to provide any personal information, however, by electing to register for a user account you will provide us with certain information as you complete the registration process:
 
-In the event that Audiomack is acquired or merged with a third party company or organization, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws affecting creditors' rights, it is possible that Audiomack and its officers, owners, employees, agents, information providers and licensors may not be able to control how your personal information is treated, transferred or used.
+**Opt-In/Registration Data:**
 
-Although we intend to protect your personal information within our power, Audiomack cannot ensure, warrant, or guarantee the security of any information you add to Audiomack.com and you do so at your own risk.
+To register for an Audiomack account, you must provide us with a valid email address. If you use Social Login (e.g. Facebook) to sign up, we will receive the email address you have registered with Facebook. You may _elect_ to provide us with certain other personal information - personal/artist biography, hometown, and links to your profiles on other social media platforms (Facebook, Twitter, etc).
 
-Please e-mail reports of any violations to [info@audiomack.com](mailto:info@Audiomack.com)
+We also collect and display the date of your initial user registration on your user profile as a month and year - e.g. August ‘14.
 
-April 15, 2014
+You will also provide certain personal data if you use our Contact Us tools, on-site forms, or send us an email regarding support, your account, or other topics.
+
+You _may_ also provide other personal information through your use of the site and posting of audio material, in the track description, comments, or title fields.
+
+**Data we collect on usage, analytics, and cookies:**
+
+By using the Platform, you consent to our use of different technologies and methods that collect information about how you use, access, and interact with the Platform, which may include any of the following;
+
+Technical data such as your IP Address, geolocation, cookie data, URLs visited, mobile device ID and information, device attributes, operating system, network connection, browser type, language, and mobile app version.
+
+Details of any searches you make using the Audiomack search tools, including the date and time searches were made.
+
+Metrics concerning the duration, time, and frequency of your visits to and interactions with the Platform. Details of your subscription (if applicable), as well as information about your interactions with the Platform, specifically including but not limited to: plays, favorites, re-ups, playlist use, and interaction with other Audiomack members and/or artists.
+
+Device sensor data including lat/long, geolocation, altitude, and measurements from your mobile device's gyroscope, GPS receivers, accelerometers, and other sensors.
+
+Details of your interaction with any third-party apps, widgets, modals, and/or advertisements which are linked to or made available on the Platform.
+
+Information about the website you visited immediately prior to your interaction with the Platform. Details of any content (music, song information, descriptions) you upload to the Platform.
+
+Details concerning your interaction with any Platform methods of communication specifically including but not limited to emails and push/in-app notifications, such as whether you opened and/or clicked on such messages.
+
+We may also obtain information about you from any 3rd party providers/partners and/or advertisers on the Platform which measure ad interaction.
+
+## 3 - How we use your information
+
+We may use your information for any of the following purposes;
+
+To operate your Audiomack account, and to identify you when you use the Platform. Your email address and password are used for this identification;
+
+To identify you and your actions (uploads, favorites, re-up’s, comments, etc) on the Platform; To provide technical functionality to the Platform; for research and development of new products, services, or functionality; and analyze your use of the Platform;
+
+To provide you with technical support or assistance;
+
+To communicate with you for marketing, support, and/or promotional purposes through email, text message, push, or in-app notifications;
+
+To detect fraud or attempted manipulation of our charts, trending sections, or proprietary algorithms. Audiomack expressly reserves the right to remove any and all content from the Platform that Audiomack in its sole discretion reasonably believes is violating any copyright laws and/or is being used in any way, shape or form to manipulate any measurement system on the Platform (specifically including but not limited to any charts, trending sections, proprietary algorithms, play counts, favorites, re-up’s, download counts;
+
+To provide you with advertising, features, information, links, messaging, or other content based on your geolocation and time of use;
+
+To determine the location, orientation, and acceleration of a mobile device;
+
+To ensure compliance with our Terms of Service (TOS), this Privacy Policy, or with any applicable state, local, federal, or international Copyright Law;
+
+Information about your subscription tier (Gold, Platinum) if applicable;
+
+To show you relevant ads on behalf of advertisers and/or sponsors, which may include location and sensor data, along with demographic data you make available to us or through connected third party services, recent search history, and behavior with content, ads, or other users on the Platform;
+
+To provide you with a customized experience on the Platform.
+
+## 5 - How we use cookies and technology
+
+Audiomack uses cookies and related technology to enhance the Platform, provide you with a consistent experience, record login and registration information, and to serve you more relevant
+
+advertisements. Some ads served by third parties may use limited information about you and your interaction with the Platform to enhance the targeting or retargeting of advertisements and marketing campaigns.
+
+A cookie is a small file placed on your computer or mobile device when you visit a website which helps our site and our 3rd party advertising and data partners recognize your device the next time you visit the site. Cookies are essential for many simple functions such as recognizing a repeat visitor as logged in, and providing access to your account, favorites, playlists, and profile. Audiomack utilizes two common types of cookies - session based cookies (which expire once you close your web browser) and persistent cookies (which stay active until deleted or deactivate after a set period of time). Other technologies include pixel tags (transparent images which help us determine if a page or email has been viewed by a user), web beacons (also known as web bugs, which serve a similar function to pixel tags), and web storage. Additionally, mobile users may be tracked using Device ID and/or hashed data to identify repeat mobile usage. These combined technologies are used both by Audiomack and our 3rd party partners to ensure essential Platform functionality; target, serve, measure, and track advertising delivery, targeting, optimization, and performance; measure Platform analytics and usage; and to measure user and audience behavior, trends, demographics, and location.
+
+Audiomack does not currently respond to or acknowledge Do Not Track (DNT) requests.
+
+## 6 - Accessing and updating your information
+
+You may update your personal information at any time by visiting your Dashboard page in your user profile. Please bear in mind that profile 
+
+Your data will be deleted if you delete your account, however, please bear in mind that it may still show up on internet search engines for some time after deletion due to caching.
+
+Please note, logging out of or deleting the mobile app from your device does not delete your user account.
+
+## 7 - Transfer to other countries/territories
+
+Audiomack LLC is based in the United States and follows all applicable U.S. laws concerning data storage and privacy. Although our third party providers and services are based in the United States, there may in some circumstances be cases where data is transmitted to servers outside of the U.S. as part of the normal operation of the Platform. Please be aware that not all countries have the same data storage and privacy laws as the United States, and by using the Audiomack Platform you consent to the storage, transfer, collection, and transmission of your data to other territories as necessary.
+
+## 8 - Links
+
+The Platform contains links to third-party content, advertisements, and sites that are not owned by nor affiliated with Audiomack LLC. We cannot be held accountable for the content or privacy policy of third- party sites. Be sure to read their privacy policies to determine if you are comfortable with how they handle your information.
+
+## 9 - Children
+
+The Platform is not intended for use by those under the age of 13. We never knowingly or purposefully collect information from anyone under the age of 13, or under the legal age limit in their respective territory (“Age Limit”), under any circumstances. If you are under the Age Limit, you should not use the Platform and are expressly prohibited from registering for a user account, or transmitting any data or personal information on the Platform. If you are the parent/guardian of a child under the Age Limit and believe we have collected such information, please contact us immediately at [support@audiomack.com](mailto:support@audiomack.com) and it will be promptly removed.
+
+## 10 - Changes to our Privacy Policy
+
+We may, at our sole discretion, change the terms of this Privacy Policy at any time and for any reason. In the event that we do change this Privacy Policy, we will post notification of updates both within the Policy itself and via notifications throughout the Platform and specifically on the Audiomack website and mobile app. Please be sure to read all updates to the Privacy Policy thoroughly before continuing to use the Audiomack platform. Your continued use of the Platform constitutes acceptance of any new or changed terms in this Privacy Policy.
+
+Please contact [support@audiomack.com](mailto:support@audiomack.com) with any questions or concerns about the Privacy Policy.
