@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imobitrax.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926163752id_/http%3A//www.imobitrax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imobitrax.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331184653id_/https%3A//www.imobitrax.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Self-Hosted Mobile Tracking Software - iMobiTrax
+# Privacy Policy - iMobiTrax
 
-This Privacy Policy governs the manner in which iMobiTrax, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.imobitrax.com](http://www.imobitrax.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iMobiTrax, LLC.
+This Privacy Policy governs the manner in which iMobiTrax, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.imobitrax.com](https://www.imobitrax.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by iMobiTrax, LLC.
 
 **Personal identification information**
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 iMobiTrax, LLC may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
+  * _– To process payments_  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -55,12 +55,17 @@ iMobiTrax, LLC has the discretion to update this privacy policy at any time. Whe
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+**Refund Policy**
+
+iMobiTrax is a software license to self hosted software. Since it’s self hosted we have no idea if you used the software or not. Refunds are ONLY granted within the first 24 hours of initial purchase.
+
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[iMobiTrax, LLC](http://www.imobitrax.com/)  
-[http://www.imobitrax.com](http://www.imobitrax.com/)  
-Wall Street Tower 1101 Walnut Street Suite 1706 Kansas City, MO 64106  
+iMobiTrax, LLC  
+http://www.imobitrax.com  
+4077301945  
+1100 Walnut Street, Suite 2075, KC,MO 64106  
 support@imobitrax.com
 
-This document was last updated on June 12, 2012
+This document was last updated on December 22, 2015
