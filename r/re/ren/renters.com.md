@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renters.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906180905id_/https%3A//www.renters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renters.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331115549id_/https%3A//www.renters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Renters
 
