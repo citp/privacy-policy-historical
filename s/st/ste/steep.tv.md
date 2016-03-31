@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411061557id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331133210id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
 
 # Steep TV
 
-**Last updated:** September 15, 2014
+**Last updated:** August 3, 2015
 
 We're always working to make our services even better. One of the ways we do that is by analyzing information we collect and receive about users in order to figure out what they might be interested in. This helps us develop more engaging content and provide more effective advertising, which enables us to keep most of our services free.
 
@@ -13,6 +13,12 @@ This Privacy Policy describes how we handle the information we collect and recei
   * Third, we may provide additional information about the privacy practices of some of our Services. Although this Privacy Policy applies to all SteepTV services that refer or link to it, you should read the additional information, too. Some of this information is linked from various places in the Privacy Policy, and some is available through the individual Services that you use. We've done our best to keep this Privacy Policy short and simple, but if you have any questions about it, we hope you'll let us know.
 
 
+
+## Cookie Information and Opting Out
+
+Harmless cookies that are designed to enhance your user experience of this website are stored on your device. These consist of small data files relating to you and this website. Information stored in cookies created by SteepTV are not shared with any third party unless required to do so by law.
+
+By continuing to browse this website you are consenting to the storage of its first party cookies on your device. Should you disagree to the storage of first party cookies from this website on your device please click here to remove them and discontinue browsing this website.
 
 ## Information We Collect and Receive
 
@@ -107,13 +113,13 @@ Our Services are intended for a general audience. We do not knowingly collect, u
 
 If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child's personal information, you may contact us:
 
-By mail: Oaklane Media, Children's Online Privacy 5042 Wilshire Blvd, Los Angeles, CA 90036
+**By mail:** Oaklane Media, Children's Online Privacy 5042 Wilshire Blvd, Los Angeles, CA 90036
 
-By phone: (323) 723-3695
+**By phone:** (323) 723-3695
 
 ## How to Contact Us
 
-If you have questions or concerns about this Privacy Policy or about SteepTV's privacy practices in general, please send us an email to info@oaklanemedia.com
+If you have questions or concerns about this Privacy Policy or about SteepTV's privacy practices in general, please send us an email to [info@oaklanemedia.com](mailto:info@oaklanemedia.com)
 
 ## Changes to This Privacy Policy and Additional Information
 
