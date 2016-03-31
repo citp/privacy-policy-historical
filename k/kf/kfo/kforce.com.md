@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kforce.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920104625id_/https%3A//www.kforce.com/privacy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kforce.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331021222id_/https%3A//www.kforce.com/privacy-and-legal) for the most accurate reproduction.*
 
 # Privacy and Legal - Kforce Staffing & Solutions | IT Jobs | Finance Jobs | Accounting Jobs | Healthcare Jobs
 
