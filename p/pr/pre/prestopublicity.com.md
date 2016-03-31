@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestopublicity.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229223529id_/http%3A//prestopublicity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestopublicity.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331085933id_/http%3A//prestopublicity.com/privacy) for the most accurate reproduction.*
 
 # Privacy |
 
