@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023100955id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatland.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331230446id_/http%3A//www.hatland.com/privacy-policy.html) for the most accurate reproduction.*
 
 # hatland.com - PRIVACY POLICY
 
-|   
----  
-|  |   
-  
+[](https://web.archive.org/big-size-fitted-hats/)
+
 Sports Hats
 
-[](http://secure.trust-guard.com/certificates/2757)
+  
 
-|  | Your information is completely confidential and will not be shared with anyone else.  
+
+[](http://secure.trust-guard.com/certificates/2757)   
+
+
+|  |  | Your information is completely confidential and will not be shared with anyone else.  
 ---|---  
 At hatland.com, we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used.  
 ---  
