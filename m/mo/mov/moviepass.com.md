@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906085108id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331234705id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
 
-# Moviepass - Privacy Policy
+# MoviePass - Privacy Policy
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
