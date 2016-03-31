@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frillr.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010081657id_/http%3A//frillr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frillr.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331214302id_/http%3A//frillr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frillr
 
