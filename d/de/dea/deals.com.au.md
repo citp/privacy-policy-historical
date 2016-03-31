@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505184803id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401003451id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Deals - Privacy Policy
 
@@ -44,6 +44,8 @@ Please take a few minutes to review this Privacy Policy. By using the DEALS.COM.
       (c) sending you additional materials relating to DEALS.COM.AU and products and services that may be of interest to you; and 
 
       (d) providing you with effective customer service. 
+
+      (e) delivering the products and services you purchased or requested (please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested). 
 
 2.2 DEALS.COM.AU also holds Personal Information which it Uses and/or Discloses for purposes other than its Primary Purposes (Secondary Purposes). You provide your consent to us Using and/or Disclosing your Personal Information for the following Secondary Purposes:
 
