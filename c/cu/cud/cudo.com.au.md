@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411235259id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401005314id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Cudo - Privacy Policy
 
@@ -44,6 +44,8 @@ Please take a few minutes to review this Privacy Policy. By using the Cudo.com.a
       (c) sending you additional materials relating to Cudo.com.au and products and services that may be of interest to you; and 
 
       (d) providing you with effective customer service. 
+
+      (e) delivering the products and services you purchased or requested (please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested). 
 
 2.2 Cudo.com.au also holds Personal Information which it Uses and/or Discloses for purposes other than its Primary Purposes (Secondary Purposes). You provide your consent to us Using and/or Disclosing your Personal Information for the following Secondary Purposes:
 
@@ -92,6 +94,8 @@ If you purchase a daily deal, you are issued with a unique voucher number which 
 If you purchase a product, we will disclose your name, address and other information necessary to complete the order to the merchant on whose behalf the deal is advertised (the Merchant). We will use reasonable endeavours to make sure that the Personal Information that we disclose to the Merchant on your behalf is the minimum necessary to complete the order. 
 
 2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
+
+2.6 Where you use a credit card to purchase an offer from Cudo.com.au of which you are not the card-holder and named on the card, you unconditionally acknowledge that you have been duly authorised by the card-holder to make purchases on Cudo.com.au or in general, and that, in the event of a claim from the credit-card holder (that this was an unauthorised transaction) - you indemnify Cudo.com.au for any claim (including legal action, fees or charge-back) that Cudo may face as a result of this unauthorised purchase.
 
 ### 3\. Direct Marketing
 
