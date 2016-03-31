@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061147id_/http%3A//www.kaspersky.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331234629id_/http%3A//www.kaspersky.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaspersky Lab IN
 
@@ -111,7 +111,7 @@ You can access and change your profile by signing into your account.
 
 At your request, we will inform you what personal data we have stored about you and for what purpose(s). Should we ever have stored false data about you, despite our efforts to only store accurate and current data, we will correct it promptly upon recognition or at your request.
 
-In these cases please contact: [_privacy@kaspersky.com_](https://web.archive.org/web/20150608061147id_/http%3A//www.kaspersky.co.in/privacy@kaspersky.com)
+In these cases please contact: [_privacy@kaspersky.com_](https://web.archive.org/web/20160331234629id_/http%3A//www.kaspersky.co.in/privacy@kaspersky.com)
 
 In case you want us to delete your personal data or revoke consent granted for certain processing of your personal data, please contact us in the same way. You can also delete your account information by confirming this setting in your profile.
 
@@ -121,4 +121,4 @@ If deletion of your data should not be possible for technical or legal reasons, 
 
 
 
-Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us:  [ _privacy@kaspersky.com_](https://web.archive.org/web/20150608061147id_/http%3A//www.kaspersky.co.in/privacy@kaspersky.com)
+Should you have any further questions or suggestions regarding the protection of your personal data processed in connection with the use of our websites, please contact us:  [ _privacy@kaspersky.com_](https://web.archive.org/web/20160331234629id_/http%3A//www.kaspersky.co.in/privacy@kaspersky.com)
