@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053305id_/http%3A//www.westmarine.com/CustomerService/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmarine.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331224756id_/http%3A//www.westmarine.com/CustomerService/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy-Policy | West Marine
 
