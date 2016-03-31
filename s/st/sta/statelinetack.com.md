@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907170219id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331195821id_/http%3A//www.statelinetack.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Statelinetack.com
 
