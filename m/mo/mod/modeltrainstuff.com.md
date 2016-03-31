@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922145728id_/http%3A//www.modeltrainstuff.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modeltrainstuff.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331233152id_/http%3A//www.modeltrainstuff.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy | ModelTrainStuff.com
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20150922145728id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20160331233152id_/http%3A//www.modeltrainstuff.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
