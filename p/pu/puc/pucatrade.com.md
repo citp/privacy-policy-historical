@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pucatrade.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920110217id_/https%3A//pucatrade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pucatrade.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331154106id_/https%3A//pucatrade.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PucaTrade - Trade Magic: The Gathering Cards Online
 
