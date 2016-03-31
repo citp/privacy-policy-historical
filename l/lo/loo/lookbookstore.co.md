@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331180604id_/http%3A//www.lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security | Lookbook Store
+# Privacy & Security | We Take Online Security Seriously | Lookbook Store
 
 At Lookbook Store, we take your online security very seriously. We are committed to protecting your privacy and personal information. We've compiled this statement to explain how we collect, use, and secure your information. Please read on for more information.
 
@@ -42,14 +42,14 @@ We may disclose your personal information:
 
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the personal information you provide to us without your consent.
 
- **What are “cookies” and how does our Website use them?**  
+**What are “cookies” and how does our Website use them?**  
 We may use "cookies" to collect or log certain information. A cookie is a small piece of information that a website stores on a personal computer and which it can later retrieve. We may use cookies for some administrative purposes, for example, to store our customers' preferences for certain kinds of products or to store a password so that you do not have to input it every time you visit our website. The cookies will not contain information that will enable anyone to contact our customers via telephone, email, or any other means. If our customers are uncomfortable with the use of cookie technology, they can set their browsers to refuse cookies. Certain of our services, however, could be dependent on cookies and our customers may disable those services by refusing cookies.
 
-  
 **How We Protect Your Information?**  
 Lookbook Store utilizes some of the most advanced technology available today for Internet security purposes. Your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to Lookbook Store.
 
-**Opt out / Corrections**  
+**Opt out / Corrections**
+
 Upon your request, we will
 
   * correct or update your personal information
@@ -57,9 +57,10 @@ Upon your request, we will
 
 
 
-You can make these requests by livechat, or emailing your request to Lookbook Store’s Customer Support department at [support@lookbookstore.com](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/support@lookbookstore.com). Please do not email your credit card number or other sensitive information.  
-If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [support@lookbookstore.com](https://web.archive.org/web/20150915040134id_/http%3A//lookbookstore.co/pages/support@lookbookstore.com)
+You can make these requests by live chat, or emailing your request to Lookbook Store’s Customer Support department at  **[support@lookbookstore.com](mailto:support@lookbookstore.com)**. Please do not email your credit card number or other sensitive information.  
+  
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at  **[support@lookbookstore.com](mailto:support@lookbookstore.com)**
 
-**Changes to Our Privacy Statement**
-
-From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Lookbook Store website at www.lookbookstore.co
+  
+**Changes to Our Privacy Statement**  
+From time to time, it may be necessary for us to review and revise our privacy statement. We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Lookbook Store website at **[www.lookbookstore.co](http://www.lookbookstore.co/)**
