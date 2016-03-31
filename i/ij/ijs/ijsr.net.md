@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijsr.net privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114132256id_/http%3A//www.ijsr.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijsr.net privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331200853id_/http%3A//ijsr.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy: International Journal of Science and Research (IJSR)
 
