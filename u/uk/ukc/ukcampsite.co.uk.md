@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926120009id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401014620id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # UKCampsite.co.uk Privacy and Cookie Policy
 
    [Home](http://www.ukcampsite.co.uk/)
 
-   [Log in](http://www.ukcampsite.co.uk/chatter/login_user.asp) or [Register](http://www.ukcampsite.co.uk/chatter/register_form.asp)  
-   [](http://www.ukcampsite.co.uk/redirect.asp?redir=http://www.facebook.com/ukcampsite.co.uk)
+   [Log in](http://www.ukcampsite.co.uk/chatter/login_user.asp) or [Register](http://www.ukcampsite.co.uk/chatter/register_form.asp)
 
-| [](http://www.ukcampsite.co.uk/)| [](http://www.ukcampsite.co.uk/caravan-insurance/)  
+[](http://www.ukcampsite.co.uk/redirect.asp?redir=http://www.facebook.com/ukcampsite.co.uk)
+
+| [](http://www.ukcampsite.co.uk/)  
+| [](http://www.ukcampsite.co.uk/caravan-insurance/)  
 ---|---|---  
 [](http://www.ukcampsite.co.uk/chatter/) | [](http://www.ukcampsite.co.uk/sites/) | [](http://www.ukcampsite.co.uk/directory2) | [](http://www.ukcampsite.co.uk/articles/) | [](http://www.ukcampsite.co.uk/sites/vb/vb.asp) | [](http://www.ukcampsite.co.uk/members.asp)  
 [](http://www.ukcampsite.co.uk/tents) | [](http://www.ukcampsite.co.uk/competitions/) | [](http://www.ukcampsite.co.uk/forsale/) | [](http://www.ukcampsite.co.uk/membershop/) | [](http://www.ukcampsite.co.uk/events/) | [](http://www.ukcampsite.co.uk/contact/)  
@@ -82,7 +84,7 @@
 > 
 > We reserve the right, at any time, to modify, alter, or update these policies. All links correct at time of publication. 
 
-**5463 Visitors online !**
+**4575 Visitors online !**
 
 [Free UKCampsite.co.uk Window Sticker](http://www.ukcampsite.co.uk/membershop/sticker.asp)  -  [Recommend to Friend](http://www.ukcampsite.co.uk/recommend.asp)  -  [Pensions Auto-enrolment](http://www.rreb.co.uk/)
 
@@ -92,4 +94,4 @@
 
 [](http://www.ukcampsite.co.uk/receiver.asp)
 
-Please note we are not responsible for the content of external sites & any reviews represent the author's personal view only. Please report any error [here](http://www.ukcampsite.co.uk/contact/mail.asp). You may view our [privacy and cookie policy here](http://www.ukcampsite.co.uk/privacy.asp). All copyrights & other intellectual property rights in the design and content of this web site are reserved to the UKCampsite.co.uk © 1999 - 2015
+Please note we are not responsible for the content of external sites & any reviews represent the author's personal view only. Please report any error [here](http://www.ukcampsite.co.uk/contact/mail.asp). You may view our [privacy and cookie policy here](http://www.ukcampsite.co.uk/privacy.asp). All copyrights & other intellectual property rights in the design and content of this web site are reserved to the UKCampsite.co.uk © 1999 - 2016
