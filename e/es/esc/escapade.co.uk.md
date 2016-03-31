@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220024833id_/http%3A//www.escapade.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401003432id_/http%3A//www.escapade.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Escapade | Escapade® UK
 
@@ -20,9 +20,8 @@ We do not sell, trade or rent your personal information to others unless you hav
 
 We would also like to send you offers for goods or services from Escapade or others from time to time which we think you may find of interest. If you do not wish to receive this information, do not tick the opt-in box on our checkout page before submitting your order.
 
-## Accessing your order information 
+## Accessing your order information
 
-  
 After making a purchase from Escapade we store the contract of your purchase and will send you the details of your order as well as our general terms via e-mail. You can find the terms on our website at all times. You can also easily access the details of your recent orders in your Escapade customer account.
 
 ## Cookies
