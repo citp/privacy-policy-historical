@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the zesty.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316013932id_/https%3A//www.zesty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zesty.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331122535id_/https%3A//www.zesty.com/privacy) for the most accurate reproduction.*
 
-# Zesty - Privacy Policy
+# Zesty - San Francisco's leading office caterer
 
-### ZESTY, INC.
-
-#### Online Privacy Policy
+### Online Privacy Policy
 
 This Privacy Policy was last modified on November 3, 2013.
 
 Zesty, Inc. (“Zesty,” “we,” or “us”) are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, disclosure, and protection of information that is collected through our mobile app, website and restaurant delivery service (collectively, our “Service”), as well as your choices regarding the collection and use of information.
-
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use.
-
-Click on the links below to jump to each section:
-
-  1. How We Collect and Use Information
-  2. Sharing of Your Information
-  3. How We Protect Your Information
-  4. Your Choices About Your Information
-  5. Children’s Privacy
-  6. Links to Other Websites and Services
-  7. Changes to Our Privacy Policy
-  8. Your California Privacy Rights
-  9. Contact Us
-
-
 
 #### 1\. How We Collect and Use Information
 
@@ -113,7 +95,12 @@ Zesty may, in its sole discretion, modify or update this Privacy Policy from tim
 
 Zesty collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, Zesty customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
-2140 Taylor Street, #902, San Francisco, California, 94133
+**Zesty, Inc.**  
+277 Carolina St,  
+San Francisco, CA 94103  
+Tel: (800) HEY-ZESTY  
+Fax: (415) 651-9850  
+
 
 Alternatively, you may send us an email at [support@zesty.com](mailto:support@zesty.com) with the words "California Privacy Rights" in the subject line. 
 
@@ -121,4 +108,12 @@ Alternatively, you may send us an email at [support@zesty.com](mailto:support@ze
 
 If you have any questions about this Privacy Policy or the Service, please contact us at [support@zesty.com](mailto:support@zesty.com).
 
-2140 Taylor Street, #902, San Francisco, California, 94133 || (800) HEY-ZESTY
+**Zesty, Inc.**  
+277 Carolina St,  
+San Francisco, CA 94103  
+Tel: (800) HEY-ZESTY  
+Fax: (415) 651-9850  
+Email: [support@zesty.com](mailto:support@zesty.com)
+  *[Tel:]: Phone
+  *[Fax:]: Fax
+  *[Email:]: Email
