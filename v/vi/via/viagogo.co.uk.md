@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506005738id_/http%3A//www.viagogo.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viagogo.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331075647id_/http%3A//www.viagogo.co.uk/help/privacy) for the most accurate reproduction.*
 
 # viagogo - Buy & Sell Concert, Sport & Theatre Tickets
 
