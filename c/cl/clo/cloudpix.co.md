@@ -1,198 +1,66 @@
-> *The following text is extracted and transformed from the cloudpix.co privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708033144id_/http%3A//cloudpix.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudpix.co privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331084346id_/http%3A//cloudpix.co/privacy) for the most accurate reproduction.*
 
-# Terms of service - CloudPix
+# Privacy Policy | CloudPix
 
-Privacy Policy
+## What is this Privacy Policy for?
 
-These Terms of Use are effective on March 7, 2013.
+This privacy policy is for this website [cloudpix.co](https://cloudpix.co/) and served by CloudPix and governs the privacy of its users who choose to use it.
 
-Welcome to CloudPix ("CloudPix," "we," "us" or "our"). CloudPix provides a fast, beautiful and fun way for you to share media through our content-sharing platform.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with CloudPix services (collectively, the "Service"), and your choices about the collection and use of your information.
+## The Website
 
-By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials ("User Content"), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at [http://cloudpix.co/terms](http://cloudpix.co/terms)).
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy.
 
-Our Policy applies to all visitors, users, and others who access the Service ("Users").
+#### Use of Cookies
 
-Information we collect
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
 
-We collect the following types of information.
+Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-Information you provide us directly:
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [<http://www.google.com/privacy.html>[ ](http://www.google.com/privacy.html)].
 
-  1. Your username, password and e-mail address when you register for an CloudPix account.
+Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-  2. Profile information that you provide for your user profile (e.g., first and last name, picture). This information allows us to help you or others be "found" on CloudPix.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
-  3. User Content (e.g., photos, comments, and other materials) that you post to the Service.
+## Contact & Communication
 
-  4. Communications between you and CloudPix. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
+## Email Newsletter
 
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
 
-Finding your friends on CloudPix:
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
 
-  1. If you choose to find your friends through a search of names or usernames on CloudPix then simply type a name to search and we will perform a search on our Service.
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
 
+In compliance with Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
 
+## External Links
 
+Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites)
 
-Analytics information:
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-  1. We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, input-group-addons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+## Adverts and Sponsored Links
 
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
 
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
+## Social Media Platforms
 
-Cookies and similar technologies:
+Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
 
-  1. When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use CloudPix and provide features to you.
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
 
-  2. We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
 
+## Shortened Links in Social Media
 
-
-
-Log file information:
-
-  1. Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.
-
-  2. When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
-
-
-
-
-Device identifiers:
-
-  1. When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by CloudPix.
-
-  2. A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
-
-
-
-
-Metadata:
-
-  1. Metadata is usually technical data that is associated with User Content. For example, Metadata can describe how, when and by whom a piece of User Content was collected and how that content is formatted.
-
-  2. Users can add or may have Metadata added to their User Content including a hashtag (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings.
-
-
-
-
-How we use your information
-
-In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
-
-  1. help you efficiently access your information after you sign in
-
-  2. remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
-
-  3. provide personalized content and information to you and others, which could include online ads or other forms of marketing
-
-  4. provide, improve, test, and monitor the effectiveness of our Service
-
-  5. develop and test new products and features
-
-  6. monitor metrics such as total number of visitors, traffic, and demographic patterns
-
-  7. diagnose or fix technology problems
-
-
-
-
-SHARING OF YOUR INFORMATION
-
-We will not rent or sell your information to third parties outside CloudPix (or the group of companies of which CloudPix is a part) without your consent, except as noted in this Policy.
-
-Parties with whom we may share your information:
-
-  1. We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that CloudPix is part of, or that become part of that group ("Affiliates"). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.
-
-  2. We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
-
-  3. We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
-
-  4. We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
-
-
-
-
-Parties with whom you may choose to share your User Content:
-
-  1. Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. To change your privacy settings on the Service, please change your profile setting. Once you have shared User Content or made it public, that User Content may be re-shared by others.
-
-  2. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users or third parties have copied or saved that information.
-
-
-
-
-What happens in the event of a change of control:
-
-  1. If we sell or otherwise transfer part or the whole of CloudPix or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.
-
-
-
-
-Responding to legal requests and preventing harm:
-
-  1. We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
-
-
-
-
-HOW WE STORE YOUR INFORMATION
-
-Storage and Processing:
-
-  1. Your information collected through the Service may be stored and processed in the United States or any other country in which CloudPix, its Affiliates or Service Providers maintain facilities.
-
-  2. CloudPix, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
-
-  3. By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which CloudPix, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
-
-  4. We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, CloudPix cannot ensure the security of any information you transmit to CloudPix or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
-
-  5. Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and CloudPix, at all times. Your privacy settings may also be affected by changes the social media services you connect to CloudPix make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
-
-
-
-
-YOUR CHOICES ABOUT YOUR INFORMATION
-
-Your account information and profile/privacy settings:
-
-  1. Update your account at any time by logging in and changing your profile settings.
-
-  2. Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
-
-  3. If you have any questions about reviewing or modifying your account information, please contact us directly at support@cloudpix.co.
-
-
-
-
-How long we keep your User Content:
-
-  1. Following termination or deactivation of your account, CloudPix, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
-
-  2. If you have any questions about termination or deactivation of your account, please contact us directly at at support@cloudpix.co.
-
-
-
-
-CHILDREN'S PRIVACY
-
-CloudPix does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at at support@cloudpix.co.
-
-OTHER WEB SITES AND SERVICES
-
-We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party's own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and you allow them to access your User Content you do so at your own risk.
-
-HOW TO CONTACT US
-
-If you have any questions about this Privacy Policy or the Service, please contact us at support@cloudpix.co.
-
-CHANGES TO OUR PRIVACY POLICY
-
-CloudPix may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of CloudPix or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+This website and its owners through their social media platform accounts may share web links to relevant web pages. Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
