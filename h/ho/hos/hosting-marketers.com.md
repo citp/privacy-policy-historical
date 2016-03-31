@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting-marketers.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201112138id_/http%3A//hosting-marketers.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting-marketers.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331025732id_/https%3A//hosting-marketers.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
