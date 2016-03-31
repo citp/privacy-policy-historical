@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207121641id_/http%3A//www.honda.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.ca privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331021843id_/http%3A//honda.ca/privacy) for the most accurate reproduction.*
 
 # Honda.ca Privacy Policy
 
@@ -55,3 +55,50 @@ By supplying your personal information to Honda or by using this website, you ag
 
 
 
+
+## HondaLink Privacy Overview
+
+These terms are intended to supplement the privacy terms set forth in the general privacy policy. These additional terms and conditions apply to your HondaLink services, including telematics data and any mobile applications that provide access to those services.
+
+**What Kind of Information We Collect**
+
+The HondaLink application may collect information that personally identifies you. Your personal information is captured to help provide useful assistance and support to you in connection with your use of your vehicle. We will not sell, trade, or rent your information to others without your consent. 
+
+In order to best serve your needs, we gather and retain the following personal information: 
+
+1\. Information we receive from you, such as your name, province and email address. 
+
+2\. Information about your use of the HondaLink application and the application environment, including the type of device and operating system used to access the application, the data and time the application is accessed, and the pages and functions of the application that are used. 
+
+3\. Information we receive from Honda’s third party service providers supplying connected vehicle services, such as mapping services, a Points of Interest (POI) database, and weather services. Honda’s contracts with its service providers require them to protect your personal information. 
+
+4\. Information about your vehicle, such as location, speed, oil life, odometer mileage, fuel level, diagnostic trouble codes (e.g., when you need to schedule maintenance, when oil pressure is low) and other vehicle status and diagnostic information (whether such information is collected will vary among Honda Vehicle models). 
+
+5\. Aggregate information, which refers to data we collect about a group or category of products, services or customers, from which individual customer identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service, but no personal information will be included in the resulting data. Likewise, information about the products you purchase may be collected and combined with information about the products purchased by others. Aggregate data helps us understand trends and customer needs so that we can better consider new products and services and tailor existing products and services to customer desires. Some aggregate data is communicated to third party service providers to enable them to provide services. For example, aggregate data about the location of vehicles may be used by Honda’s third party service provider in its calculation of traffic conditions, which are then communicated to you and other HondaLink Navigation users. 
+
+**Why We Collect and Use Your Personal Information**
+
+We limit the personal information we collect from you while using the HondaLink application and the disclosure thereof to third parties to that which is necessary to, among other things: (1) provide connected vehicle services; (2) measure application activity and improve the usefulness of the application; (3) offer opportunities that we think would be of benefit to Honda owners; (4) develop future services and/or products; (5) facilitate the provision of software updates and provide product support; (6) help protect the safety of you and others; and (7) enable other related uses we may develop.
+
+**How Your Information May Be Shared with Honda’s Service Providers**
+
+When you use the application, you will voluntarily furnish personal information to Honda, which may then be shared with Honda’s affiliates and certain third party service providers. 
+
+We will not sell, trade, or rent your information to others without your consent. 
+
+However, we may disclose information which is not identifiable to you as necessary with third parties for purposes of analysis and research in order to better our services. All Service Providers are contractually obligated to keep your information confidential if it is identifiable to you and may only use such information for the purpose of providing the HondaLink service and maintaining your account as we direct. We may also disclose information to individuals designated by you to be contacted in an emergency. These individuals are identified by you during the enrollment process. The list of emergency contacts on file may be changed by calling 1-855-888-5465.
+
+**How to Access Your Information**
+
+You may update the information you provide us at any time by calling 1-855-888-5465 and, to the extent provided by law, you may request to have access and to correct your file by writing us at our mailing address or calling our customer care telephone number provided above. You may also contact us to withdraw or limit your consent to our collection, use or disclosure of your personal information. 
+
+Please note, however, that due to the nature of the HondaLink services, in some cases withdrawing consent may also require the termination of HondaLink services as some of the systems must generate certain types of data in order to function (outlined below).
+
+**Your Consent**
+
+When you consent to the HondaLink terms and conditions, you consent on behalf of yourself and occupants in your vehicle to the collection, use and disclosure of your personal information as set out in the HondaLink agreement and in the Honda Canada customer privacy policy linked above.
+
+**Full Privacy Terms  
+**
+
+To view the complete Terms and Conditions, please [click here](https://web.archive.org/Content/honda.ca/EC76B78E-5D88-407D-B1FA-1C8AE5F993ED/GenericContent_FFH/2015_HondaLink_Application_Terms_Conditions_EN.pdf).
