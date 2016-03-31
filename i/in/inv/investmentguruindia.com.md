@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentguruindia.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227232237id_/http%3A//investmentguruindia.com/PrivacynPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentguruindia.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331194102id_/http%3A//investmentguruindia.com/PrivacynPolicy) for the most accurate reproduction.*
 
 # Investment Guru Stocks Mutual Funds Commodity Currency World Market Expert Advice Free Tips Recommendation
 
