@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053618id_/http%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331223017id_/https%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
 
-# PRS Guitars | Privacy Policy
+# PRS Guitars PRS Guitars Privacy Policy
 
 Thank you for visiting www.prsguitars.com. We are committed to protecting your privacy and we voluntarily provide this privacy statement in support of this commitment. PRS Guitars wants to provide a secure, helpful experience for our users. Therefore, we will make commercially reasonable efforts to ensure that the information you provide and submit to us remains private and is used only for the purposes as set forth herein.
 
