@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twiddy.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116084030id_/http%3A//www.twiddy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiddy.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331160414id_/https%3A//www.twiddy.com/privacy.aspx) for the most accurate reproduction.*
 
-# Outer Banks Vacation Rentals &amp; Sales Privacy Policy for Twiddy.com
+# Outer Banks Vacation Rentals & Sales Privacy Policy for Twiddy.com
 
 Your right to privacy and security is of paramount important to us. We recognize that when you choose to provide us with information about yourself, you expect Twiddy to act in a responsible manner. We believe this information should only be used to help us provide you with better service. A summary discussion in the form of question/answer of our policy follows.
 
