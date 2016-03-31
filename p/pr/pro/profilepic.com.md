@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808034457id_/http%3A//www.profilepic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331160254id_/http%3A//www.profilepic.com/page/terms) for the most accurate reproduction.*
 
-# None
+# ProfilePic.com
 
 ### This Application collects some Personal Data from its Users.
 
-Last updated Thursday 23rd October 2014 01:23 AM Christopher James McGough Admin@ProfilePic.com 
+Last updated Thursday 23rd October 2014 01:23 AM 
+
+Christopher James McGough Admin@ProfilePic.com 
 
 ### Cookies Policy
 
@@ -55,6 +57,8 @@ Provides access to the photos the user has uploaded, and photos the user has bee
   * ### Share
 
 Share items on the user's behalf.
+
+
 
 
 Detailed information on the processing of Personal Data Personal Data is collected for the following purposes and using the following services: Access to third party services' accounts Additional information about Data collection and processing 
