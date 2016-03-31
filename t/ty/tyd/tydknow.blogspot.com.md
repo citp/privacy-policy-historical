@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tydknow.blogspot.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921010826id_/http%3A//tydknow.blogspot.com/p/what-information-do-we-collect-we-do.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tydknow.blogspot.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401004205id_/http%3A//tydknow.blogspot.com/p/what-information-do-we-collect-we-do.html) for the most accurate reproduction.*
 
-# Things you didn't know: Privacy Policy
+# Things you didn't know!: Privacy Policy
 
 **What information do we collect?**
 
