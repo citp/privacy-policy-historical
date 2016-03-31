@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webflow.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421011623id_/https%3A//webflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webflow.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331183919id_/https%3A//webflow.com/privacy-policy) for the most accurate reproduction.*
 
-# Dashboard - Webflow
+# Privacy policy | Webflow
 
 ### What This Privacy Policy Covers
 
@@ -28,9 +28,10 @@ All transactions are processed over an industry standard SSL/TLS connection, wit
 
 Webflow occasionally obtains IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
 
-Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.  
-Estimate the total number of users visiting Webflow's web sites from specific geographical regions.  
-Help determine which users have access privileges to certain content, services or resources that we offer. Monitor and prevent fraud and abuse.  
+  * Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
+  * Estimate the total number of users visiting Webflow's web sites from specific geographical regions.
+  * Help determine which users have access privileges to certain content, services or resources that we offer. Monitor and prevent fraud and abuse.
+
 
 
 ### Cookies
@@ -39,10 +40,13 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 If you reject all cookies, you may not be able to use Webflow services or products that require you to "sign in" and you may not be able to take full advantage of all offerings.
 
-You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. Webflow uses its own cookies for a number of purposes, including to:  
-Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. Keep track of preferences you specify while you are using the Webflow Sites, Products and Services.  
-Estimate and report our total audience size and traffic.  
-Conduct research to improve the content and services provided on the Webflow Sites, Products and Services.
+You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. Webflow uses its own cookies for a number of purposes, including to:
+
+  * Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. Keep track of preferences you specify while you are using the Webflow Sites, Products and Services.
+  * Estimate and report our total audience size and traffic.
+  * Conduct research to improve the content and services provided on the Webflow Sites, Products and Services.
+
+
 
 ### Information Relating to Children
 
@@ -74,17 +78,17 @@ We use physical, electronic, and procedural safeguards to protect personal infor
 
 In certain areas, Webflow uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
-If Webflow learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Webflow or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@webflow.com](mailto:support@webflow.com).
+If Webflow learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Webflow or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [support@webflow.com](mailto:support@webflow.com).
 
 ### Changing your Preferences and Personal Information
 
 You can edit your account information with Webflow at any time. You can delete your applicable account by visiting the applicable account deletion page; we will retain your information for as long as your account is active or as needed to provide you services, however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete such information by making the change on our user home page, or by emailing our Customer Support at [support@webflow.com](mailto:support@webflow.com).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete such information by making the change on our user home page, or by emailing our Customer Support at [support@webflow.com](mailto:support@webflow.com).
 
 ### Contacting Webflow
 
-If you have a privacy concern regarding Webflow, or this policy, please [send us an email](http://help.webflow.com/) or write to:
+If you have a privacy concern regarding Webflow, or this policy, please send us an email or write to:
 
 [legal@webflow.com](mailto:legal@webflow.com)  
 Webflow, Inc.  
