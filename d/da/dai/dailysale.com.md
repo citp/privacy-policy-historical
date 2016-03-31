@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306162626id_/http%3A//dailysale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331184655id_/http%3A//www.dailysale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,8 @@ As you shop on our Web site, the site uses its’ cookies to differentiate you f
 Sharing Information with Third Parties
 
 We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address and telephone number for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices
 
 Notice of New Services and Changes
 
