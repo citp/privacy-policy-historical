@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudcone.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070515id_/http%3A//cloudcone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudcone.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331164134id_/http%3A//www.cloudcone.com/privacy) for the most accurate reproduction.*
 
 # Cloudcone Privacy Policy
 
