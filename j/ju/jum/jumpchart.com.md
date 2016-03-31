@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023204712id_/https%3A//jumpchart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpchart.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331161819id_/https%3A//www.jumpchart.com/privacy-policy) for the most accurate reproduction.*
 
 # Jumpchart - Website Planning and Organization
 
