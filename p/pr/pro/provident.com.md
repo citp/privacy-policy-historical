@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325172930id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the provident.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331083032id_/https%3A//www.provident.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Provident Funding
 
-**_Here at Provident Funding, our continued focus on loan quality and customer service is never separate from our commitment to protect the privacy and security of those who visit us at www.provident.com. For this reason we have put together the following policy to explain just how we protect and use the information collected by us, or provided by you, through our website._**
+**_Provident Funding is focused on loan quality and customer service, and our commitment is to protect the privacy and security of those who visit us at www.provident.com. For this reason, we have have put together the following policy to explain just how we protect and use the information collected by us, or provided by you, through our website._**
 
 Provident Funding Associates, L.P. 
 
 You may visit and use certain features of our site without providing personal information necessary to register with us. Our Rate Calculator, Amortization Charts, and general information about us or our programs/offers fall under this category.
 
-However, existing or former Provident Funding customers, wishing to access their account or other non-public information on our site will need to register by creating a username and password. To register, you are required to provide your e-mail address, loan or application number, property zip code, and your social security number for identification purposes. 
+However, existing or former Provident Funding customers wishing to access their account or other non-public information on our site will need to register by creating a username and password. To register, you are required to provide your email address, loan or application number, property zip code, and your social security number for identification purposes. 
 
 If you are applying for a loan on our site, you will need to complete a loan application by providing necessary personally identifiable information, including contact, property, employment, income, assets and liabilities information, as well as various additional demographic information and declarations. 
 
-Whether you are a new or an existing customer, the information you provide allows us to establish a user profile so that we may customize your preferences, send you the information that you desire and establish security measures to ensure that only you, and those with your authorization, have access to your account.  
-It also allows you, as a customer, to securely perform the following functions: Access your loan information; upload documentation for a new loan in progress or currently serviced loan; as well as enter bank account related information for appraisal deposits or Automatic Monthly Payments (ACH) set-up. 
+Whether you are a new or an existing customer, the information you provide allows us to establish a user profile so that we may customize your preferences, send you the information that you desire, and establish security measures to ensure that only you, and those with your authorization, have access to your account. It also allows you, as a customer, to securely perform the following functions: Access your loan information; upload documentation for a new loan in progress or currently serviced loan; as well as enter bank account related information for appraisal deposits or Automatic Monthly Payments (ACH) set-up. 
 
 It also allows us to provide a faster method for you to submit and receive information to and from Provident Funding. We may also use your computer's IP address to help diagnose problems with our server, and to otherwise administer our site, as well as to gather broad aggregated demographic information such as the number of visitors from a particular geographic area. 
 
@@ -21,7 +20,7 @@ The internet is comprised of many different networks and systems that are unprot
 
   * Personal information that is stored on our secured servers is protected against unauthorized access through the use of industry standard security products and networks. As an additional layer of security, our servers are only accessible to a limited number of employees who have acknowledged our security policy and procedures and obtained special access rights to these systems. 
   * All sensitive information supplied by you will be transmitted and protected via a combination of Secure Socket Layer (SSL) encryption software and the HTTPS protocol. Together, these two features protect you by encrypting and authenticating your data communication with our website. 
-  * As an additional security benefit to our registered users, Provident Funding has created several technological amenities aimed at increasing the protection of your personal information. One benefit that we have created for our registered users is the option to directly upload loan related documentation through your online account. This is the most secure method of sending documents to us since traditional email and fax transmission is not protected by security features including SSL encryption or HTTPS protocol. For the best possible protection of your private information, we recommend using these tools for your ultimate benefit.
+  * As an additional security benefit to our registered users, Provident Funding has created several technological amenities aimed at increasing the protection of your personal information. One benefit that we have created for our registered users is the option to directly upload loan-related documentation through your online account. This is the most secure method of sending documents to us since traditional email and fax transmission is not protected by security features including SSL encryption or HTTPS protocol. For the best possible protection of your private information, we recommend using these tools for your ultimate benefit.
 
 
 
@@ -56,6 +55,6 @@ You consent to the collection and use of information by Provident Funding, as se
 
 Contact Us
 
-Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20150325172930id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
+Provident Funding welcomes your questions, comments and concerns about our privacy practices. [Click here](https://web.archive.org/web/20160331083032id_/https%3A//www.provident.com/ContactUs.aspx?wsmenu=1) to contact our customer service representatives. 
 
 **Effective Date:** This policy was last revised on 10/1/2014 and takes effect immediately and is in effect until further revised. 
