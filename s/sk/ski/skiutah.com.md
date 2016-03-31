@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114120200id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiutah.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331214208id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Ski Utah - Privacy Policy
 
@@ -6,8 +6,8 @@ Privacy Policy Statement
 
 This is the web site of Ski Utah  
 Our postal address is   
-150 W 500 S  
-Salt Lake City, UT 84101
+2749 E Parleys Way, Suite 310  
+Salt Lake City, UT 84109
 
 We can be reached via e-mail at info@skiutah.com, or you can reach us by telephone at 801-534-1779.
 
