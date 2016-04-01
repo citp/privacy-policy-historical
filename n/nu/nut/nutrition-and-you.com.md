@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111308id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401081553id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
 
