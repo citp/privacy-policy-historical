@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aztekcomputers.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101173758id_/http%3A//www.aztekcomputers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aztekcomputers.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402014923id_/http%3A//www.aztekcomputers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for AztekComputers.com
 
@@ -10,14 +10,15 @@ How much information must I share?
 The amount and type of information we collect from you depends on your activities and use of our Web site. Below, we explain what information we collect.
 
 When you add an item in shopping cart  
-IP address - We collect your IP address to minimize fraud and to also analyze our web traffic trends.
+IP address - We collect your IP address to minimize fraud and to also analyze our web traffic trends. This IP address is stored in database indefinitely. You can request for this information be removed after 90 days of completion of your transaction. This request can be made wither by email or regular mail.
 
 Referral Web site. If you come to our Web site via a link, we collect the location of the link that referred you.   
 Browser type. We collect information about the browser you are using to help optimize our Web site for visitors.   
 Movements through our Web site. We keep track of pages you visit to help provide you with a more personalized shopping experience. 
 
 When you make purchases through our Web site   
-We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone.   
+We collect your name, address and payment information to process your order. To protect credit card information we do not store any of the vital information on our servers. This information is stored at credit processing company's servers. Our staff and employees have no access to this information once entered by you. We do however have the expiration date and last four digits of the card for verification purposes. We encourage all customers to place orders online. Our staff is instructed not to take any orders over the phone. We do accationally take orders over the phone if the customer is experiencing difficulty in ordering online.  
+  
 We collect information contained in “cookies,” such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart. 
 
 When you create an E-Account on our Web site   
@@ -53,3 +54,5 @@ Simply click here. Please note that messages become our property and, unless you
 
 How can I correct inaccurate information?  
 You may correct some personal and account information maintained in your E-Account through your E-Account. To correct other information, please contact your account manager
+
+Modified Jan 23rd 2014
