@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914023315id_/http%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadshirt.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401204430id_/https%3A//www.spreadshirt.co.uk/privacy-policy-C3928) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadshirt
 
@@ -167,10 +167,6 @@ You can find more information on user terms and conditions here: [ http://www.go
 
 We need to point out that the website Google Analytics has been extended by the code “gat._anonymizeIp();“ to make anonymous gathering of IP address data (so called IP masking) possible by means of Google analytics. 
 
-### Kampyle
-
-This online offer is assisted by Kampyle, a web analysis tool by Kampyle Ltd. (“Kampyle“). The collection, processing or usage of your personal data is carried out by Kampyle. For the use of Kampyle, please refer to their separate terms of use and privacy policies that can currently be found here: [http://www.kampyle.com/privacy-policy](http://www.kampyle.com/enterprise/company/privacy-policy) and here: [http://www.kampyle.com/enterprise/company/terms-of-use](http://www.kampyle.com/terms-of-use).
-
 ### Further analytical tools
 
 Our online offer uses analysis tools to collect and store data in order to create user profiles in a pseudonymised way. These user profiles serve the purpose of analysing user behaviour, and they are used to improve our offer so that we can meet the demands of our customers. Cookies may be used for this purpose. Pseudonymised user profiles are not associated with the actual person behind the pseudonym without prior consent of this person to explicitly agree with this circumstance. You can prevent the storage of cookies by adjusting the settings of your browser software; we need to point out that this may lead to an inhibition of the full functionality of our online offer. Spreadshirt uses the following analytic tools: 
@@ -180,6 +176,8 @@ Omniture and AdLens, web analysis tools by Adobe Systems Software Ireland Limite
 Optimizeley is a web analysis tool by Optimizeley Inc. – please find more information on matters of data protection on <https://www.optimizely.com/privacy>. You can object to the collection, storage and usage of data for future activities by Optimizely if you unsubscribe on <https://www.optimizely.com/opt_out>. 
 
 Crazyegg is a web analysis tool by Crazyegg Inc. – please find more information on matters of data protection on <http://www.crazyegg.com/privacy>. You can object to the collection, storage and usage of data for future activities by Crazyegg if you unsubscribe on <http://www.crazyegg.com/opt-out>. 
+
+Hotjar is a web analysis tool by Hotjar, Ltd. – please find more information on matters of data protection on <https://www.hotjar.com/privacy>. You can object to the collection, storage and usage of data for future activities by Hotjar if you unsubscribe via the contact form on <https://www.hotjar.com/contact>. 
 
 ## 10\. Does Spreadshirt use social plug-ins?
 
