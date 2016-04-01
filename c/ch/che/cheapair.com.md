@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2012-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121216203240id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401234321id_/https%3A//www.cheapair.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CheapAir.com
+# Privacy Policy, Policies & Security | CheapAir
 
 We respect your privacy.
 
@@ -8,7 +8,7 @@ Although in the course of transacting business with you it sometimes becomes nec
 
 Booking travel with us is private, safe, and secure.
 
-## The Personal Information That We Gather
+#### The Personal Information That We Gather
 
 **When purchasing travel at CheapAir.com, we will ask for your:**
 
@@ -25,21 +25,21 @@ If you elect to make a purchase by credit card through our secure channels, we w
 
 Optionally, you can also choose to provide us with your membership numbers for frequent flyer or other loyalty programs.
 
-## How This Information is Used
+#### How This Information is Used
 
 When you register with us or make travel arrangements, we will sometimes share that information with third party vendors as is necessary to successfully complete your purchase-- including the vendors you have selected (e.g. airlines, hotels, etc.) and others who facilitate the transaction (e.g. credit card authorization companies.)
 
 We also use your information, with your permission, to occasionally alert you to information and special promotions that we believe will be valuable to you, including e-mails promoting special travel deals. You can unsubscribe to these e-mails at any time by visiting the "My Profile" section of our site.
 
-We do use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We do use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/choices/)
 
-## How This Information is Not Used
+#### How This Information is Not Used
 
 **We do not sell your name or other private profile information to third parties.**
 
 We may only disclose your personal information (i) if you violate the terms of our User Agreement or any law, rule, or regulation, or (ii) if required by law or regulatory authority (for example, court order or subpoena).
 
-## Security
+#### Security
 
 Because security is important to us, we exercise great care in providing secure transmission of your personal information before it is transferred across the Internet from your personal computer to our secure servers. We use industry-standard, secure-socket-layer (SSL) technology, which is utilized by most popular browsers, including Netscape and Microsoft Explorer, to encrypt (or convert into code) your personal information before it is transferred across the Internet. To further safeguard your most sensitive credit card information, we transfer such information across the Internet in an encrypted format and then store such information in our secure database.
 
@@ -47,20 +47,23 @@ As a member, your personal information is password-protected. If you ever forget
 
 Once your information reaches our secure servers, only authorized employees, who are trained in the proper handling of personal data, have access to it.
 
-## What are Cookies and How Does CheapAir.com Use Them
+#### What are Cookies and How Does CheapAir.com Use Them
 
 A cookie is a small file stored on your computer's hard drive, which is used to enhance your visit to our Site and provide you with information tailored to your needs. With cookies, we are able to store user preference information, keep track of a purchase transaction during a session, and enhance site security. For instance, cookies allow you to visit pages within a site without having to reintroduce yourself and they allow us to remember which flights you chose on one screen once you move to the next.
 
 **Most browsers can be set to refuse cookies. Be aware, though, that by refusing to accept a cookie, you will not be able to access many of the features of this Site.**
 
-## What Is Not Covered By This Privacy Policy
+#### What Is Not Covered By This Privacy Policy
 
 This Privacy Policy does not apply to the practices or policies of any companies or entities that we do not own or control, including links to sites that are not maintained by us, or to people that we do not employ or manage. Because these companies or entities may have privacy policies that differ from this Privacy Policy, please be sure to review their respective privacy policies before providing them with any personal information.
 
-## Questions, Comments or Concerns
+#### Questions, Comments or Concerns
 
-If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](https://web.archive.org/web/20121216203240id_/http%3A//www.cheapair.com/help@cheapair.com).
+If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](mailto:help@cheapair.com) or feel free to contact us at:
 
-## Privacy Policy Updates
+26707 West Agoura Road, Suite 204  
+Calabasas, California 91302
+
+#### Privacy Policy Updates
 
 We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted. If we change the way your personal information will be used, we will post an announcement on our homepage. We encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices.
