@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2014-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141016231319id_/https%3A//www.helpshift.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpshift.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401075514id_/https%3A//www.helpshift.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Helpshift
+# Privacy Policy | Helpshift - Mobile Customer Service Software and In-app Help Desk
+
+## Effective Date: August 12, 2013
 
 Helpshift, Inc. ("Helpshift") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the [www.helpshift.com](https://helpshift.com/) website and any related services and/or features (the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Statement.
 
