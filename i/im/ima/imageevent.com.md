@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012201949id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageevent.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401153226id_/http%3A//imageevent.com/privacy.jsp) for the most accurate reproduction.*
 
 # ImageEvent Privacy Policy
 
