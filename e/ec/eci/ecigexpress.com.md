@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2015-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150719004952id_/http%3A//www.ecigexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402003255id_/http%3A//www.ecigexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
