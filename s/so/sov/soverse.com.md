@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soverse.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113174118id_/http%3A//ezbusinesssites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soverse.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401205005id_/http%3A//ezbusinesssites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SoVerse
 
