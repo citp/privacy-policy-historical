@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mesosphere.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193222id_/https%3A//mesosphere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mesosphere.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401165740id_/https%3A//mesosphere.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mesosphere
 
@@ -6,13 +6,13 @@ We at Mesosphere know you care about how your personal information is used and s
 
 This Privacy Policy covers the use of information collected through our Website or Services. Our treatment of information or data from your use of any Mesosphere products other than the Services (for example, DCOS Community Edition) is subject to a separate agreement between you and Mesosphere.
 
-Remember that your use of Mesosphere’s Services is at all times subject to the [Terms of Use (mesosphere.com/terms)](https://web.archive.org/web/20150905193222id_/https://mesosphere.com/privacy/mesosphere.com/terms/), which incorporates this Privacy Policy. Any capitalized terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use (mesosphere.com/terms)](https://web.archive.org/web/20150905193222id_/https://mesosphere.com/privacy/mesosphere.com/terms/).
+Remember that your use of Mesosphere’s Services is at all times subject to the [Terms of Use (mesosphere.com/terms)](https://web.archive.org/web/20160401165740id_/https://mesosphere.com/privacy/mesosphere.com/terms/), which incorporates this Privacy Policy. Any capitalized terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use (mesosphere.com/terms)](https://web.archive.org/web/20160401165740id_/https://mesosphere.com/privacy/mesosphere.com/terms/).
 
 ## What Does This Privacy Policy Cover?
 
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-As noted in the [Terms of Use (mesosphere.com/terms/)](https://web.archive.org/web/20150905193222id_/https://mesosphere.com/privacy/mesosphere.com/terms/), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [contact@mesosphere.com](mailto:contact@mesosphere.com).
+As noted in the [Terms of Use (mesosphere.com/terms/)](https://web.archive.org/web/20160401165740id_/https://mesosphere.com/privacy/mesosphere.com/terms/), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [contact@mesosphere.com](mailto:contact@mesosphere.com).
 
 #### Will Mesosphere ever change this Privacy Policy?
 
