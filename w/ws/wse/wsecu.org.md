@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wsecu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065354id_/https%3A//wsecu.org/Documents/Help%2520and%2520Resources/Privacy%2520Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsecu.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401071759id_/https%3A//wsecu.org/Documents/Help%2520and%2520Resources/Privacy%2520Notice.pdf) for the most accurate reproduction.*
 
-# FACTSWHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) AND ONE WASHINGTON FINANCIAL (OWF) DO WITH YOUR PERSONAL INFORMATION?
+# FACTSWHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) AND WSECU SERVICE COMPANY, LLC, QCASH FINANCIAL, LLC AND ONE WASHINGTON FINANCIAL, LLC DO WITH YOUR PERSONAL INFORMATION?
 
-                                                                                                                           MKT-852 03.15
+                                                                                                                           MKT-852 01.16
                        WHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) AND
-     FACTS
-                       ONE WASHINGTON FINANCIAL (OWF) DO WITH YOUR PERSONAL INFORMATION?
+     FACTS             WSECU SERVICE COMPANY, LLC, QCASH FINANCIAL, LLC AND ONE WASHINGTON
+                       FINANCIAL, LLC DO WITH YOUR PERSONAL INFORMATION?
                        Financial companies choose how they share your personal information. Federal law gives consumers the
      Why?              right to limit some — but not all — sharing. Federal law also requires us to tell you how we collect, share,
                        and protect your personal information. Please read this notice carefully to understand what we do.
@@ -43,7 +43,9 @@ For non-affiliates to market to you                                        No   
 
 
 Who We Are
-Who is providing this notice?  Washington State Employees Credit Union (WSECU) and One Washington Financial (OWF).
+                               Washington State Employees Credit Union (WSECU) and WSECU Service Company, LLC,
+Who is providing this notice?
+                               QCash Financial, LLC and One Washington Financial, LLC.
 What We Do
                                To protect your personal information from unauthorized access and use, we use security
                                measures that comply with federal law. These measures include computer safeguards and
@@ -69,8 +71,10 @@ jointly with someone else?
 Definitions
                                Companies related by common ownership or control. They can be financial and
                                non-financial companies.
-Affiliates
                                Our affiliates include:
+Affiliates
+                               • WSECU Service Company, LLC
+                               • QCash Financial, LLC, a provider of financial services, including cash management
                                • One Washington Financial (OWF), a provider of financial services, including mortgages.
                                Companies not related by common ownership or control. They can be financial and
 Non-affiliates                 non-financial companies.
