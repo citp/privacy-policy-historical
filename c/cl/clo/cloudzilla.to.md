@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudzilla.to privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317152121id_/http%3A//www.cloudzilla.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudzilla.to privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401140249id_/http%3A//neodrive.co/privacy) for the most accurate reproduction.*
 
-# CloudZilla.to
+# NeoDrive
 
-Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of Cloudzilla.to (the “Website”), including information you provide when using it.
+Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of NeoDrive.co (the “Website”), including information you provide when using it.
 
 We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age. 
 
