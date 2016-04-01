@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909035801id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401140756id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Boomf
 
@@ -25,13 +25,13 @@ Instagram/Facebook name as needed
 
 #### Why do we ask for this information?
 
-To fulfil your order with Boomf  
-To communicate with you about Boomf and other Boomf products  
-To provide you with order and billing information
+To fulfil your order with Boomf.  
+To communicate with you about Boomf and other Boomf products.  
+To provide you with order and billing information.
 
 ## Payment
 
-Payment for Boomf products is made via PayPal Pro and Spreedly. We do not store credit card details nor do we share customer details with any 3rd parties
+Payment for Boomf products is made via credit/debit card and Stripe. We do not store credit card details nor do we share customer details with any 3rd parties.
 
 ## Use of your information
 
@@ -63,16 +63,16 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:  
 • whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [eat@boomf.com](mailto:eat@boomf.com).
+• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [hello@boomf.com](mailto:hello@boomf.com).
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Boomf HQ, 100 Exmouth House, 3/11 Pine Street, London EC1R 0JH.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to House of Boomf, White Bear Yard, 144a Clerkenwell Road, London EC1R 5DF.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
 Boomf Limited is registered with the Information Commissioner as a data controller.
 
-Privacy policy last updated 6th November 2013.
+Privacy policy last updated 20th August 2015.
 
 There seems to have been an error.
