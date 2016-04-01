@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.1password.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229063248id_/https%3A//agilebits.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.1password.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401233030id_/https%3A//agilebits.com/store/privacy) for the most accurate reproduction.*
 
 # AgileBits Privacy Policy
 
