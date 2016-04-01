@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoity.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121163948id_/http%3A//photoity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoity.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401225125id_/http%3A//photoity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Photography Magazine
 
