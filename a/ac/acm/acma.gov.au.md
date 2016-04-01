@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195224id_/http%3A//acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401144051id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -6,9 +6,9 @@ The Australian Communications and Media Authority (the ACMA) recognises the impo
 
 To this end, this policy sets out:
 
-  * the kinds of personal information the ACMA collects and holds
-  * how that information is collected and held by the ACMA
-  * the purposes for which the ACMA collects, holds, uses and discloses personal information.
+  * the kinds of personal information the ACMA collects and holds 
+  * how that information is collected and held by the ACMA 
+  * the purposes for which the ACMA collects, holds, uses and discloses personal information. 
 
 
 
@@ -18,7 +18,7 @@ This policy applies to all ACMA activities **** that involve the management of p
 
 ### About the ACMA
 
-The ACMA is an independent statutory authority established under the _Australian Communications and Media Authority Act 2005_ (the ACMA Act). The ACMA currently operates under the _Financial Management and Accountability Act 1997_ (the FMA Act) and, from 1 July 2014, will operate under the _Public Governance, Performance and Accountability Act_ _2013_ (the PGPA Act).   
+The ACMA is an independent statutory authority established under the _Australian Communications and Media Authority Act 2005_ (the ACMA Act). The ACMA operates under the _Public Governance, Performance and Accountability Act_ _2013_ (the PGPA Act).   
 
 The ACMA is responsible for the regulation of broadcasting, telecommunications, radiocommunications and the internet in Australia. These responsibilities are set out in a range of Acts, the principal Acts being: the _Broadcasting Services Act 1992_ ; the _Radiocommunications Act 1992_ ; the _Telecommunications Act 1997_ ; and the _Telecommunications (Consumer Protection and Service Standards) Act_ _1999_.
 
@@ -26,17 +26,17 @@ The ACMA is also responsible for the regulation of unsolicited communications un
 
 The key activities undertaken by the ACMA under these laws are:
 
-1\. **R[egulation](https://web.archive.org/theACMA/About/Corporate/Responsibilities/regulation-responsibilities-acma)**—including the development of codes of practice in consultation with industry groups and the maintenance of statutorily prescribed public registers. 
+1\. **[Regulation](https://web.archive.org/theACMA/About/Corporate/Responsibilities/regulation-responsibilities-acma)** —including the development of codes of practice in consultation with industry groups and the maintenance of statutorily prescribed public registers. 
 
-2\. **C[ompliance and enforcement](https://web.archive.org/theACMA/About/Corporate/Responsibilities/compliance-enforcement-policy)**—including the conduct of [investigations](https://web.archive.org/theACMA/Newsroom/Newsroom) of alleged breaches of an Act, legislative instrument or registered code. 
+2\. **[Compliance and enforcement](https://web.archive.org/theACMA/About/Corporate/Responsibilities/compliance-enforcement-policy)** —including the conduct of [investigations](https://web.archive.org/theACMA/Newsroom/Newsroom) of alleged breaches of an Act, legislative instrument or registered code. 
 
-3\. **P[lanning and management of radiofrequency spectrum](https://web.archive.org/Industry/Spectrum/Spectrum-planning/About-spectrum-planning)**
+3\. **[Planning and management of radiofrequency spectrum](https://web.archive.org/Industry/Spectrum/Spectrum-planning/About-spectrum-planning)**
 
 4\. **Licensing** —including the issuing and renewal of [carrier](https://web.archive.org/Industry/Telco/Carriers-and-service-providers/Licensing), [television, radio](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge), [spectrum](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) and [apparatus](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) licences. 
 
-5\. **R[evenue collection](https://web.archive.org/theACMA/About/Making-payments)**—including the collection of licence fees, taxes and charges. 
+5\. **[Revenue collection](https://web.archive.org/theACMA/About/Making-payments)** —including the collection of licence fees, taxes and charges. 
 
-6\. **R[esearch, education, advice and reporting on matters relating to the media and communications industry](https://web.archive.org/theACMA/About/The-ACMA-story/Communicating)**—including engaging in public consultations and participation in international regulatory forums.
+6\. **[Research, education, advice and reporting on matters relating to the media and communications industry](https://web.archive.org/theACMA/About/The-ACMA-story/Communicating)** —including engaging in public consultations and participation in international regulatory forums.
 
 In addition, the ACMA undertakes a range of corporate activities, including the management and recruitment of staff, procurement and contract management.   
 
@@ -54,18 +54,25 @@ You can find more information about the Privacy Act [here](http://www.oaic.gov.a
 
 ### What do we mean by personal information?
 
-The term personal information is defined in the Privacy Act _._ It means information or an opinion, whether true or not, about an identified (or reasonably identifiable) living person.  
+The term personal information is defined in the Privacy Act _._ It means information or an opinion, whether true or not, about an identified (or reasonably identifiable) living person.
+
+The term personal information is defined in the Privacy Act _._ It means information or an opinion about an identified individual, or an individual who is reasonably identifiable:  
+
+  1. whether the information or opinion is true or not; and 
+  2. whether the information or opinion is recorded in a material form or not. 
+
+
 
 The APPs impose higher obligations if the personal information is sensitive information. Sensitive information is defined in the Privacy Act and includes information or an opinion about an individual’s:
 
-  * racial or ethnic origin
-  * political opinions or membership of a political association
-  * religious beliefs or affiliations
-  * philosophical beliefs
-  * membership of a professional or trade association or trade union
-  * sexual orientation or practices
-  * criminal record
-  * health, genetic and biometric information.
+  * racial or ethnic origin 
+  * political opinions or membership of a political association 
+  * religious beliefs or affiliations 
+  * philosophical beliefs 
+  * membership of a professional or trade association or trade union 
+  * sexual orientation or practices 
+  * criminal record 
+  * health, genetic and biometric information. 
 
 
 
@@ -85,9 +92,9 @@ It is the ACMA’s usual practice to collect personal information directly from 
 
 However, we may also collect personal information from third parties where:  
 
-  * we are required or authorised to do so, for example, obtaining information for the purposes of an investigation
-  * we have your consent to do so, or
-  * it is not reasonably practicable to collect the information from you.
+  * we are required or authorised to do so, for example, obtaining information for the purposes of an investigation 
+  * we have your consent to do so, or 
+  * it is not reasonably practicable to collect the information from you. 
 
 
 
@@ -97,11 +104,11 @@ Personal information may be collected in a range of ways. The primary ways are d
 
 Personal information may be collected when you:
 
-  * complete a complaint or enquiry form
-  * send us an email
-  * post comments on our website
-  * send us a letter or facsimile
-  * contact us by telephone.
+  * complete a complaint or enquiry form 
+  * send us an email 
+  * post comments on our website 
+  * send us a letter or facsimile 
+  * contact us by telephone. 
 
 
 
@@ -143,9 +150,7 @@ A procurement may involve approaching the market to tender. The tender process w
 
 Contracts entered into by the ACMA on behalf of the Commonwealth may contain personal information. The information may include names, telephone numbers and contact details of the contracting parties.  
 
-The personal information is collected and held to enable the ACMA to meet its legal obligations, including those under the FMA Act and the _Commonwealth Procurement Rules._
-
-More information on the FMA Act and the _Commonwealth Procurement Rules_ is available [here](http://www.finance.gov.au/financial-framework/fma-legislation/%20). Information on the PGPA Act, which will replace the FMA Act from 1 July 2014, is available [here](http://www.pmra.finance.gov.au/legislation-pgpa-act/%20). 
+The personal information is collected and held to enable the ACMA to meet its legal obligations, including those under the PGPA Act and the [_Commonwealth Procurement Rules_](http://www.finance.gov.au/procurement/procurement-policy-and-guidance/commonwealth-procurement-rules/).
 
 ### Public consultation
 
@@ -177,42 +182,42 @@ Clickstream data is a record of a user’s browsing activities on the internet. 
 
 Like many websites, the ACMA’s website uses session-based cookies (or temporary cookies) and persistent cookies. A session-based cookie only lasts for as long your browsing session and ends when you close your browser. A persistent cookie remains on your computer after you close your browser and will be sent back to the website each time you visit until you clear the cookie from your browser.    
 
-You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org/page-2%20) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
+You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org/) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
 
 When you browse our website, our server collects and holds the following information: ****
 
-  * your server address
-  * your top-level domain name, for example, .gov, .com, .edu, .org, .au, .nz
-  * the pages you accessed and how long you stayed on a page
-  * the date and time you visited the site
-  * the previous site you visited
-  * your physical geographical location when you visited the site, for example, country, state/territory, city
-  * the type of browser and operating system you used, for example, Internet Explorer, Windows
-  * the type of device and brand you used, for example, tablet, Apple iPad.
+  * your server address 
+  * your top-level domain name, for example, .gov, .com, .edu, .org, .au, .nz 
+  * the pages you accessed and how long you stayed on a page 
+  * the date and time you visited the site 
+  * the previous site you visited 
+  * your physical geographical location when you visited the site, for example, country, state/territory, city 
+  * the type of browser and operating system you used, for example, Internet Explorer, Windows 
+  * the type of device and brand you used, for example, tablet, Apple iPad. 
 
 
 
 This information is collected for the following purposes:
 
-  * website and system administration, including monitoring to prevent security breaches
-  * to help us understand how users are using the site over a period of time, in order to make improvements to information, products and infrastructure
-  * to enable us to customise the information and products you receive
-  * research and development.
+  * website and system administration, including monitoring to prevent security breaches 
+  * to help us understand how users are using the site over a period of time, in order to make improvements to information, products and infrastructure 
+  * to enable us to customise the information and products you receive 
+  * research and development. 
 
 
 
 If you sign up to one or more of our subscription services, our server will collect and hold the following additional information for the purpose of customising the information and products to be provided: 
 
-  * your identity, linked to the information you provided to us in your subscription form, for example, name, last name, email address
-  * whether you opened a subscription e-mail that we sent you
-  * which links, if any, you clicked on in a subscription e-mail that we sent you.
+  * your identity, linked to the information you provided to us in your subscription form, for example, name, last name, email address 
+  * whether you opened a subscription e-mail that we sent you 
+  * which links, if any, you clicked on in a subscription e-mail that we sent you. 
 
 
 
 No attempt will be made to identify users or their browsing activities, except where:
 
-  * a user has signed up to one of our subscription services, or
-  * in the event of an investigation, when a law enforcement agency or other government agency may exercise its legal authority to inspect our internet web server logs.
+  * a user has signed up to one of our subscription services, or 
+  * in the event of an investigation, when a law enforcement agency or other government agency may exercise its legal authority to inspect our internet web server logs. 
 
 
 
@@ -232,11 +237,11 @@ We will only use your personal information for the purpose for which you have pr
 
 We will not use it for any other purpose, nor will we disclose it, unless one of the following applies:
 
-  * we have your consent to do so
-  * you have been told or you would reasonably expect, that information of the kind may be used or disclosed for the other purpose, being a purpose which is related to the original purpose or, if the information is sensitive personal information, directly related to the original purpose
-  * the use or disclosure is required or authorised by or under an Australian law, for example, the FOI Act or Part 7A of the ACMA Act (see below) or a court/tribunal order, for example, a subpoena
+  * we have your consent to do so 
+  * you have been told or you would reasonably expect, that information of the kind may be used or disclosed for the other purpose, being a purpose which is related to the original purpose or, if the information is sensitive personal information, directly related to the original purpose 
+  * the use or disclosure is required or authorised by or under an Australian law, for example, the FOI Act or Part 7A of the ACMA Act (see below) or a court/tribunal order, for example, a subpoena 
   * the ACMA reasonably believes that it is reasonably necessary for one or more [enforcement-related activities](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#_Toc380575616%20)
-  * a [permitted general situation](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-c-permitted-general-situations%20) exists.
+  * a [permitted general situation](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-c-permitted-general-situations%20) exists. 
 
 
 
@@ -252,7 +257,7 @@ The protection and security of information held by the ACMA is of critical impor
 
 The ACMA has a range of measures in place to protect the personal information we hold from misuse, interference and loss, and from unauthorised access, modification or disclosure. 
 
-All information collected by the ACMA is secured and managed in accordance with the Australian Government’s [Protective Security Policy Framework](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
+All information collected by the ACMA is secured and managed in accordance with the Australian Government’s Protective [Security Policy Framework](https://www.protectivesecurity.gov.au/), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
 
@@ -282,9 +287,9 @@ If you wish to apply for access to, or the correction of, your personal informat
 
 If you are applying for correction of personal information, you should: 
 
-  * specify the personal information
-  * explain why you consider that the personal information should be corrected, that is, why that personal information is inaccurate, out-of-date, incomplete, irrelevant or misleading
-  * provide any documents/information in support.
+  * specify the personal information 
+  * explain why you consider that the personal information should be corrected, that is, why that personal information is inaccurate, out-of-date, incomplete, irrelevant or misleading 
+  * provide any documents/information in support. 
 
 
 
@@ -303,4 +308,4 @@ Australian Communications and Media Authority
 PO Box Q500 Queen Victoria Building  
 Sydney NSW 1230
 
-Telephone: 02 6219 5555
+Telephone: 02 9334 7700
