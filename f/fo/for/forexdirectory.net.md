@@ -1,0 +1,86 @@
+> *The following text is extracted and transformed from the forexdirectory.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401034715id_/http%3A//www.forexdirectory.net/privacy.html) for the most accurate reproduction.*
+
+# Forex Directory
+
+### Privacy Policy
+
+Forex Directory is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire ForexDirectory.net Website. Forex Directory services may be hosted on partner sites on behalf of Forex Directory, and if this Forex Directory Privacy Statement is listed on that site, then it will also apply. 
+
+In keeping with our high standards in protecting your personal information, this Privacy Statement will inform you of: 
+
+What personal information our Website gathers about you How we use and with whom we share the personal information we gather Your ability to opt-out of future notifications  
+What security procedures we have in place to protect your personal information from loss, misuse, or alteration  
+How you can correct or update your personal information You acknowledge that this Privacy Statement is part of our Website terms of use, and by accessing or using our Website you acknowledge and agree to be bound by all of its terms and conditions. 
+
+Questions regarding this Privacy Statement should be directed to enquiry@forexdirectory.net. Please specify “Privacy Statement” in the subject line of your e-mail. 
+
+ForexDirectory.net is owned and operated by RDC Bancorp, Inc. 
+
+Overview  
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience. We at Forex Directory are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Website. Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us. You should be assured that we do not provide or sell personal information about our customers or site visitors to vendors that are not involved or affiliated with ForexDirectory’s products or services. 
+
+This Privacy Statement applies to the ForexDirectory Website. Many of our subsidiaries maintain their own privacy policies that may be viewed on their Websites. ForexDirectory has a “network” of Affiliates that offer our services. We strive to provide our visitors and subscribers with the highest level of privacy possible, and therefore require that our Affiliates offer no less protection than that offered in this Privacy Statement. In addition, each of our Affiliates must meet the data protection requirements of their relevant national laws. Please note that our Website contains links to other Websites. ForexDirectory is not responsible for the privacy practices, privacy statements, or content regarding these other Websites. 
+
+Privacy Policy Enforcement  
+If you feel that we are violating this Privacy Statement, please contact us at enquiry@forexdirectory.net. Please specify “Privacy Statement” in the subject line of your e-mail. We will respond as promptly as possible. 
+
+Information We Gather from You  
+Personal Information There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information: 
+
+Site Registration - for our free products and services – We use links throughout our Website to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, register or sign up for news, reports, site access, guides or seminars, or provide comments and suggestions. You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services. To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request. Purchase - If you choose to enroll for one of our products or services, we will request certain information from you. Depending on the type of product or service that you request, you may be asked to provide different personal information. For certain products and services, we may require your name, address, telephone number, e-mail address, and credit card number. Other products and services may require different or supplemental information from you in order to apply. For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service.  
+Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. 
+
+Statistical Information About Your Visit  
+When you visit our Website, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather identifies information about a visit to our Website. We may monitor statistics such as how many people visit our Website, the user’s IP address, which pages people visit, from which domains our visitors come and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Website. 
+
+Use of Cookies  
+We only use “cookies” as described in this Section. A “cookie” is a piece of information that our Web site sends to your browser, which then stores this information on your system. If a cookie is used, our Website will be able to “remember” information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to “invade” your hard drive and return to the sender personal or other information from your computer. 
+
+Our uses of “cookies” are limited to the following specific situation. That situation is with respect to temporary cookies. There are two instances in which we use temporary cookies. First, if you are accessing our services through one of our online applications our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our Website. The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser. This bit of information is erased when you close your current browser window. If you come to our Website from one of our business partners, our Web server may also send your browser a temporary cookie that reflects an “origination code” for that business partner. We use this information for statistical and marketing purposes. 
+
+Bulletin Boards, Chat Rooms and Forums  
+If you use a forum, bulletin board, chat room or other chat tool on this Website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. ForexDirectory is not responsible for the personally identifiable information you choose to submit in these forums. You are also responsible for using these forums in a manner consistent with the Rules of Engagement or other terms and conditions set forth on the relevant forum site. 
+
+How We Use and With Whom We Share the Personal Information We Gather We assure you that the personal information we gather from you is used by us only as explained below. 
+
+Sending you responses and updates  
+We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive. We may also retain this correspondence to improve our products, services, and Website, and for other disclosed purposes. Frequently we retain contact information so that we can send individuals updates or other important information about our services and products. Occasionally these updates or other important information may be sent out by third parties on our behalf. Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party’s use of the shared information to sending updates or providing services on our behalf. Our subsidiary companies may also send you information about their services and products. In situations where you have supplied your information in connection with a question or request for information about a product or service offered by a ForexDirectory business partner, we may also send the information you have supplied to the ForexDirectory business partners that offer such products or services. Please be assured that these ForexDirectory business partners have agreed to ensure the privacy and security of any transferred information and may only use the shared information to send you information about products or services about which you asked or registered for.   
+Facilitating the support, renewal, and purchase of our products and services We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services. We may provide our subsidiary companies with your information so that they may send you information about their services and products. We may also provide the information you have submitted to us to a ForexDirectory subsidiary, business partner, or independent reseller (either within or outside the United States) so that the subsidiary, business partner, or independent reseller can contact you and facilitate the support, renewal, and purchase of ForexDirectory products and services. You may receive a communication directly from one of our subsidiaries, business partners, or independent resellers. Please be assured that any subsidiary, business partner, or independent reseller who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement. To find out the names and locations of the subsidiaries, business partners, and/or independent resellers to whom we have provided your information, please contact us at the address given at the end of this Privacy Statement. 
+
+Disclosure by Law and Protection of ForexDirectory and Others  
+If we are required by law to disclose certain information to local, state, federal, national or international government or law enforcement authorities, we will do so (for example, we may disclose the identity of purchasers of certain software products to the U.S. Department of Commerce, Bureau of Export Administration, as required under the terms of our export licenses). We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, ForexDirectory may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply ForexDirectory’s agreements. 
+
+Business Transitions  
+Circumstances may arise where, whether for strategic or other business reasons, ForexDirectory decides to sell, buy, merge or otherwise reorganize businesses or business units in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is ForexDirectory’s practice to seek appropriate protection for information in these types of transactions. 
+
+Surveys  
+From time-to-time we may request information from customers via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site, and improving our customer service and product offerings. 
+
+Your Ability to Opt-Out of Further Notifications  
+From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates. If you would like to opt-out of being notified please use the unsubscribe option in our ICANN compliant emails, or please contact us at the address given at the end of this Privacy Statement. 
+
+If you receive a marketing communication from our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly. 
+
+Our Security Procedures  
+We consider the protection of all personal information we receive from our Website visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol. 
+
+How You Can Update or Correct Your Personal Information  
+If you would like to update or correct any personal information in our records you may email us at enquiry@forexdirectory.net. 
+
+Email this Page  
+If you use ForexDirectory’s “Email this page” feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient’s email address will not be used for any other purpose. 
+
+Privacy Policies and Data Collection at Third-Party Sites  
+Except as otherwise stated in this Privacy Statement, this document only addresses the use and disclosure of information we collect from you. Other Websites accessible through our Website have their own privacy policies and data collection, use, and disclosure practices. Please consult each Website's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our Website may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third-party Websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use, and disclosure practices of these third-party advertisers. You should contact these third-party advertisers directly if you have any questions about their use of the information that they collect from you. 
+
+Changes to this Privacy Statement  
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Statement, simply by posting such change, update, or modification on our Website and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on our Website. 
+
+Contact Us:  
+By Phone:  
+647 955 2739  
+Mon-Fri From 10am to 10pm Eastern Time 
+
+By Address:  
+Forex Directory  
+10 Lucinda Court, Toronto, Ontario, M3L 1R3 
