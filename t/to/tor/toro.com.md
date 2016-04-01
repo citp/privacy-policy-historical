@@ -1,75 +1,96 @@
-> *The following text is extracted and transformed from the toro.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623062845id_/http%3A//www.toro.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toro.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401233723id_/https%3A//www.toro.com/en-GB/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Notice
+# Toro | Privacy Policy
 
-  
-  
+### Toro’s Commitment to Your Privacy
 
+The Toro Company respects your privacy. Toro provides this Privacy Policy so you know about Toro's online information practices and understand how Toro treats the information we receive about you from your use of this web site (the "Site"). This Policy applies, in general, to all Internet sites operated by or on behalf of Toro and its business units worldwide. By using, browsing and/or accessing this Site, you agree to the terms of this Privacy Policy. Use of this Site is strictly voluntary. If you do not agree to the Privacy Policy and Web Site Terms and Conditions of Use, you must immediately log off the Site and may not use the Site.
 
-### THE TORO COMPANY
+### The Personal Information Toro Collects
 
-PRIVACY POLICY
+There are a few places where Toro gives you an opportunity to provide Toro your personal information. This refers to information that lets Toro know the specifics of who you are, and may include, without limitation, your first and last name; mailing address, email address, telephone and facsimile numbers, credit card number, and other personal identifying information. When you engage in certain activities on the Site, such as ordering a product or service; filling out a form to request a demo, entering a contest or sweepstakes; participating in social media activities involving things such as Facebook, Twitter, YouTube, or Foursquare, whether at this Site or the social media web sites; filling out a survey; sending feedback or product reviews; requesting owners and parts manuals; or registering your product online; Toro may ask you to provide personal information. If you choose to share any personal information with Toro, you will see that the amount and type of personal information Toro requests depends on how you use the Site. It is completely optional for you to engage in these activities. Depending upon the activity, some of the information Toro asks you to provide is identified as mandatory and some is voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
-  
-Our Commitment to Your Privacy   
+While you can generally browse this Site without telling Toro who you are or revealing personal information about yourself, Toro is, however, able to determine your IP address, which will reveal your location to Toro. Toro may use your IP address, together with other personal information that you may provide to us, such as your email address, to communicate with you directly about products and services that Toro believes may be of interest based on your activity on the Site. [OPT OUT]()
 
+### The Anonymous Information Toro Collects
 
-The Toro Company respects your privacy. We are particularly sensitive to privacy issues on the Internet and therefore we provide this Privacy Policy so you know about our online information practices and understand how we treat the information we receive about you from the Internet. 
+Subject to the preceding paragraph, your IP address, and cookies (as described below) are generally used by Toro on an anonymous basis to, among other things, (1) help diagnose problems with Toro's server, administer the Site, measure the use of the Site, improve the content of the Site; (2) to identify visitors' domain names, the type of web browsers used, the pages viewed, the websites from which a visitor found this Site, the websites to which a visitor went after leaving the Site; the search terms and search engines used to find this Site; and (3) to gather other web analytics information relating to visitors' use and navigation of the Site.
 
-  
-The Information We Collect   
-  
+**Cookies**
 
+Additionally, the Site employs the use of cookies in certain areas. Cookies are small bits of information stored on your browser. Cookies enable browsers to "remember" information related to a specific user, and also improve navigational reliability within a given site. The use of cookies allows Toro to recognise you every time you visit, and to personalise the Site to better suit your needs. If you are uncomfortable with storing cookies on your browser, you may set your browser specifically to reject cookies.
 
-In general, you can browse our Web site without telling us who you are or revealing any personal information about yourself. We are, however, able to determine your IP address. We use your IP address to help diagnose problems with our server, to administer our Web site, to measure the use of our Web site and to improve the content of our Web site. In short we use your IP to gather aggregate demographic information. There are a few places where we give you an opportunity to provide us your personal information. This refers to information that lets us know the specifics of who you are. When you engage in certain activities on our web site, such as ordering a product, entering a contest or sweepstakes, filling out a survey, sending us feedback, requesting owners and parts manuals or registering your product online, we may ask you to provide certain information. If you choose to share any personal information with us, you will see that the amount and type of personal information we request depend on how you use our Web site. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), email address, telephone and facsimile numbers, and other personal identifying information. When ordering products on our web site, you may be asked to provide a credit card number. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+Toro uses four types of cookies on the Site:
 
-Additionally, our website employs the use of cookies in certain areas. Cookies are small bits of information stored on your browser. Cookies enable browsers to "remember" information related to a specific user, and also improve navigational reliability within a given site. The use of cookies allows us to recognize you every time you visit, and to personalize our website to better suit your needs. This website utilizes cookie technology for information collected on our _Master PartsViewer_ , and _Request Owner's and Parts Manuals_ pages. If you are uncomfortable with storing cookies on your browser, you may set your browser specifically to reject cookies.
+1\. Strictly Necessary Cookies
 
-  
-The Way We Use Information   
+These cookies are essential in order to enable you to move around the Site and use its features. Without these cookies, services you have asked for cannot be provided. They are deleted when you close the browser.
 
+2\. Performance Cookies
 
-We may use your personal information for particular purposes such as processing your order or for marketing research and other marketing purposes and for providing you with the latest product and promotional information and other information that might be useful to you. We may use your personal information to deliver information to you and to contact you regarding administrative notices. We may share this information with Toro's affiliates, dealers or other business partners to support your customer relationship with The Toro Company. We must release your credit card information to the card-issuing bank to confirm payment for products purchased on our web site; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service. We will not give or sell this information to any other company for its use in marketing or solicitation. 
+These cookies collect information in an anonymous form about how visitors use the Site. They allow Toro to recognise and count the number of visitors and to see how visitors move around the Site when they are using it.
 
-  
-Updating and Correcting Your Personal Information  
-  
+3\. Functionality Cookies
 
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features and to improve your experience on the Site.
 
-You may access and correct your personal information by writing us at: 
+4\. Targeting cookies or advertising cookies
+
+These cookies are used to collect information about your browsing habits in order to enable Toro and its affiliates to provide you with information about products and services that may be of specifically of interest to you. [OPT OUT]()
+
+### Consent
+
+**For EU users only:** To comply with current legislation in the European Union, Toro asks for your consent to set the cookies described above. When you arrive on the Site a banner informing you of the types of cookies we use will appear. By clicking 'continue' you expressly consent to the use of such cookies. Once your consent has been provided, this message will not appear again when you revisit. If you do not click “continue,” your continued use of the Site will indicate your implied consent. The banner will remain, and we will set only the cookies for which implied consent is sufficient. If you, or another user of your computer, wish to withdraw your consent at any time, you can do so by altering your browser settings or by selecting the opt out options above.
+
+### The Way Toro Uses Personal Information
+
+Toro may use your personal information for particular activities, including, without limitation, processing your order; credit card processing; collections; returns management; manufacturing; storage; shipping; delivery; fulfilment; customer service; marketing and research; providing product, promotional and other information to you; and to contact you regarding administrative notices. Toro may share this information with Toro’s affiliates, dealers or other business partners in connection with any of the foregoing activities. Toro's affiliates, dealers or other business partners may use this information for marketing and solicitation purposes as permitted by applicable law. Toro must release your credit card information to credit card authorisation service providers and the credit card-issuing bank to confirm and settle payment for products or services purchased on this Site and to facilitate returns or refunds.
+
+Toro may disclose personal information in any of the following circumstances: (1) in response to a subpoena, search warrant, court order, or other legal process or request, or as may otherwise be required by applicable law or regulation; (2) to protect and defend Toro’s rights or property or those of its affiliates, dealers, business partners, or others; or (3) as Toro, in its sole discretion, believes is appropriate under exigent circumstances in response to a perceived threat to the personal safety or property of any person or organisation. In addition, since Toro’s database is a business asset, in the event Toro is reorganised or is sold to or merged with another company, you consent to the sale, assignment, or transfer of your personal information to a purchaser of all or substantially all of Toro’s business assets, or to an affiliate, as applicable.
+
+### Processing of your Personal Information.
+
+This Site is currently hosted on servers located within the United States, but the locations of Toro’s servers may change from time-to-time. Your personal information may be stored on servers located within the United States, or in another country. In addition, Toro may transfer your personal information to affiliates, dealers, business partners, or others located in the United States or other countries in accordance with, and for the purposes as described in, this Privacy Policy. In these circumstances, Toro will ensure that your personal data is adequately protected. 
+
+**BY SUBMITTING YOUR PERSONAL INFORMATION TO TORO, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE WORLD.**
+
+### Retention of your Personal Information
+
+Toro keeps your personal information as long as Toro needs it for the purposes for which it was originally collected (or to which you have subsequently consented), for other legitimate purposes (such as regulatory compliance), or as permitted by applicable law Since some of these activities may continue for an extended period of time, subject to applicable law, Toro may keep your personal information indefinitely. 
+
+### Toro’s relationship to other sites that can be accessed through this site
+
+This Site may contain links to other web sites. Additionally, other web sites may contain links to this Site. Toro does not review or monitor the web sites linked to this Site and is not responsible for the contents, terms of use, or privacy policies related to any other web sites. Where this Site contains a link to another web site owned and/or operated by Toro, such web site use may be subject to different and additional terms of use and privacy policies.
+
+### Other Information You should Know about your Privacy
+
+The Children's Online Privacy Protection Act ("COPPA") prohibits certain commercial practices related to gathering, storing, and disclosing personal information about children under the age of 13 who use the Internet. Toro will not knowingly or intentionally collect personal information about children under the age of 13 without prior parental consent. Toro cannot prohibit minors from browsing this Site, or using this Site if they supply valid security or identification information (for instance, a username and password issued to another person, such as a parent or friend). Toro must rely on parents, guardians and those responsible for supervision of children to monitor the Internet activities of children under the age of 13. Each time you submit personally identifiable information about yourself or your family through the Site, you are representing to Toro that you are 18 years of age or older.
+
+All electronic communication services such as the ones provided by Toro are required to comply with the "mandatory reporting" requirements of 42 U.S.C. § 13032(b), which requires such services to report any apparent child pornography to the National Center for Missing and Exploited Children. In the event Toro is required to make a report, it will include all information regarding the apparent child pornography it believes may be of importance. Toro will strictly comply with this reporting requirement.
+
+### Access & Correction of your Personal Information and Unsubscribing from Marketing Communications
+
+Toro strives to maintain the accuracy and integrity of the personal information in its databases and to keep that information up-to-date. Toro provides ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. Toro reserves the right to charge a fee as permitted by applicable law.
+
+If you would like to review or correct your personal information, or unsubscribe from any marketing communications that you may receive, please contact Toro by email at legal@toro.com, or send a letter to:
 
 The Toro Company  
-Attn: Privacy Compliance/Legal Department  
+Attn: Legal Department  
 8111 Lyndale Avenue South  
-Bloomington, MN 55420
+Bloomington, MN 55420-1196
 
-Please include your name, address, and/or email address when you contact us.
+All communications must be in the English language.
 
-We encourage you to promptly update your personal information if it changes. 
+Toro will respond to reasonable requests within the time limits established by applicable law or within a reasonable time if no time limit is established by applicable law. For your protection, Toro may ask you for additional information to verify your identity. In most cases, Toro will provide the access you request and correct or delete any inaccurate personal information you discover. 
 
-  
-Your Choice on Collection and Use of Your Information  
-  
+Requests to delete personal data are subject to any applicable legal and ethical reporting or document retention obligations imposed on Toro.
 
+### Toro’s Commitment to Security of Your Personal Information
 
-We may, from time to time, send you mailings, either via email or via United States Postal Services (USPS), regarding our products and services. We will send you these mailings only if you indicated that you do not object to these offers. If you have received a communication from us through email and you are not interested in receiving future emails from Toro, please use the unsubscribe link located at the bottom of the email to unsubscribe from future email communications. If you have received communications through standard USPS mail and you no longer wish to receive information from Toro, you can complete our [privacy form](https://web.archive.org/web/20070623062845id_/http%3A//www.toro.com/legal/form.html) and your name will be removed from our mailing list. You may ask to have the information on your account deleted or removed, however, because we keep track of past transactions, you cannot delete information associated with past transactions on our web site. In addition, it may be impossible to completely delete your information without some residual information because of backups.
+Toro takes what it believes to be reasonable precautions and has implemented managerial and technical procedures to try to protect the security of data and information, including personal information. Toro strives to maintain the reliability, accuracy, completeness, and current status of personal information and to protect the privacy and security of such. Unless applicable law provides otherwise, Toro does not guarantee against any loss, misuse, unauthorised disclosure, alteration or destruction of data or personal information. While Toro strives to protect your personal information, Toro cannot always guarantee the security of any information you transmit to or from this Site, and you provide such information at your own risk. You acknowledge that: (1) there are security and privacy limitations in computer systems and on the Internet which are beyond Toro's control; and (2) any such information and data, including personal information, may be viewed or tampered with by a third party while such information or data is being used, transmitted, processed, or stored.
 
-We will encourage our service partners to adopt and post privacy policies. However, the use of your personal information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control. The Toro Web site contains links to other non-Toro Web sites. Toro is not responsible for the privacy practices or the content of such Web sites and you should exercise your best judgement when sharing personal information on these Web sites.
+### Changes to Privacy Policy
 
-  
-Our Commitment to Security of Your Personal Information  
-  
+Toro may change its Privacy Policy from time to time in accordance with its data protection practices. Toro encourages you to review this Privacy Policy regularly in your use of the Site to ensure you are aware of current practices. Any use of the Site following the date on which Toro implements changes to this Privacy Policy shall constitute your acceptance of all such changes.
 
-
-We want you to have continuing trust in The Toro Company and in our products and services and, so, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure your personal information.
-
-In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
-
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through our web site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
-
-By using this Web site you are agreeing to the terms of the Toro Privacy.  
-We reserve the right to modify our privacy policy as business needs require. We will post such changes on our Web site.  
-
-
-  
-
+© The Toro Company 2015 - All Rights Reserved
