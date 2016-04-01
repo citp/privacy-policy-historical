@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esea.net privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920024756id_/https%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esea.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401062601id_/https%3A//play.esea.net/index.php%3Fs%3Dcontent%26d%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ESEA - ESEA Privacy Policy
 
@@ -6,7 +6,7 @@ ESEA Privacy Policy ****
 
 ****
   1. **Overview**  
-E-Sports Entertainment, LLC and its subsidiaries (collectively, "ESEA" or "we" or "our") respect your privacy. This privacy policy (this "Policy") informs you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used.
+Turtle Entertainment Online, Inc. and its subsidiaries (collectively, "ESEA" or "we" or "our") respect your privacy. This privacy policy (this "Policy") informs you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used.
 
 This Policy applies to all websites, servers and services owned or provided by ESEA (collectively, "ESEA Sites"). ESEA may add new sites, domain names or services from time to time. As explained below, this Policy applies only to websites owned and services maintained by ESEA and not to websites or services to which links may be provided on ESEA Sites.
 
@@ -88,9 +88,10 @@ We reserve the right, at our discretion, to make changes to this Policy at any t
 If you have any other questions, comments or complaints about this Policy, please contact us email at privacy (at) esportsea (dot) com or write to us at:
 
 Legal Counsel  
-E-Sports Entertainment, LLC  
-62 Rensselaer Drive   
-Commack, New York 11725
+Turtle Entertainment Online, Inc.  
+1212 Chestnut Street  
+Burbank, California 91506  
+USA
 
   
 
