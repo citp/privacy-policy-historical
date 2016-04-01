@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721021154id_/https%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401164241id_/https%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
 
 # Kimberly-Clark Privacy Policy
 
