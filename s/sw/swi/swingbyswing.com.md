@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025190903id_/https%3A//golf.swingbyswing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingbyswing.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401155738id_/http%3A//golf.swingbyswing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Swing by Swing Golf
 
@@ -38,7 +38,7 @@ Additionally, in some instances, we use this aggregated and non-identifying info
 
 We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-**Email Opt Out** : You can choose to opt out of receiving email from Swing by Swing at any time. You have two options to opt out of email. You can click on the unsubscribe link at the bottom of any Swing by Swing email, or visit the [Email Settings](http://www.swingbyswing.com/myaccount/subscription/) section of your My Account area.
+**Email Opt Out** : You can choose to opt out of receiving email from Swing by Swing at any time. You have two options to opt out of email. You can click on the unsubscribe link at the bottom of any Swing by Swing email, or visit the [Email Settings](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.swingbyswing.com%2Fmyaccount%2Fsubscription%2F&t=ZTU1MTEzNzBkMTdjODUxZmQ5YWQ2ZDNlN2M0MWVhY2FmNTljNjE1MCxUbU4zdWpESg%3D%3D) section of your My Account area.
 
 **Special Cases** : It is our company’s policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
 
@@ -49,6 +49,8 @@ However, we may disclose personal information about Visitors or Members, or info
 If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
 Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services.    No personally identifiable information is placed into these cookies.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to [](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&t=NjZkNmRkNTE2ZDg5YzQxNzkwMDIzYTdlZGRmODE1NTEzM2I0NDJjYixUbU4zdWpESg%3D%3D)[http://www.networkadvertising.org/managing/opt_out.asp](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp&t=NjZkNmRkNTE2ZDg5YzQxNzkwMDIzYTdlZGRmODE1NTEzM2I0NDJjYixUbU4zdWpESg%3D%3D).  Additionally, emails we send may contain a bit of code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.”
 
 **Our Company Commitment to Children’s Privacy** : Protecting children’s privacy is especially important to us. It is our policy to comply with the Children’s Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
 
@@ -62,4 +64,4 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 **Revisions to This Policy** : Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-Last updated: 1/1/2013
+Last updated: 2/18/2015
