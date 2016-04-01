@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053505id_/http%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401190124id_/https%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RevZilla
 
@@ -42,7 +42,7 @@ Upon your request, we will (a) correct or update your personal information; (b) 
 
 Upon request we may provide site visitors with access to all information that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries).
 
-With respect to security; we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  For more details, see our [Security Information Page](http://www.revzilla.com/customer-service-hacker-tested-and-secured)
+With respect to security; we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.  For more details, see our [Security Information Page](https://web.archive.org/customer-service-hacker-tested-and-secured)
 
 If we change or update this Privacy Policy, we will post changes and updates on the site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us using the information above.
 
