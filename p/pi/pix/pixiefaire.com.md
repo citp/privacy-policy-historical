@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiefaire.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025133914id_/http%3A//www.pixiefaire.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiefaire.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401084414id_/http%3A//www.pixiefaire.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixie Faire
 
