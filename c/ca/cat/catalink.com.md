@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921165648id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401191920id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
@@ -63,7 +63,7 @@ Unless you are under 18) We may use and share your personal data:
 > 
 > With selected third parties for marketing purposes including sending you brochures, catalogues, promotional fulfilment and other marketing material (and otherwise contacting you including by SMS, phone or email).
 > 
-> With suppliers who operate LMG websites, who may contact you in relation to services or literature you request or view on our websites, and with other users to forward messages from other users of LMG websites.
+> With suppliers and partners who operate LMG websites, who may contact you in relation to services they run, or literature you request/view on our websites, and with other users to forward messages from other users of LMG websites.
 > 
 > If you would not like to receive marketing information about us or third parties please visit your **My Details** page.
 > 
