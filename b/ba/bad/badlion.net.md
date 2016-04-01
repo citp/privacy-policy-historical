@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202095735id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badlion.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401194610id_/http%3A//www.badlion.net/privacy) for the most accurate reproduction.*
 
-# Badlion Network
+# Competitive Minecraft PvP | Badlion Network
 
 This Privacy Policy governs the manner in which Badlion Network collects, uses, maintains and discloses information collected from users (each, a "User") of the www.badlion.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Badlion Network.
 
