@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadesync.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127053140id_/http%3A//arcadesync.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesync.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401182515id_/http%3A//arcadesync.com/privacy-policy) for the most accurate reproduction.*
 
 # Arcadesync | Privacy Policy
 
