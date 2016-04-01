@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906230727id_/http%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401094632id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
-
-## Privacy Statement
 
 SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.
 
