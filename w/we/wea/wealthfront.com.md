@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905162206id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthfront.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401031203id_/https%3A//www.wealthfront.com/legal/privacy) for the most accurate reproduction.*
 
 # Wealthfront Privacy Policy
 
@@ -8,7 +8,7 @@ Policy Effective Date: May 9, 2015
 
 Wealthfront’s number one priority is your trust. Your privacy is essential to earning and keeping that trust. This tenet drives all of the decisions we make, as well as how we gather, use and store any information we acquire from you. 
 
-We created this Privacy Policy to be as clear and direct as possible about how we gather and use your information. To insure your privacy we store your personal data (“Personal Data”) on our own servers (i.e. not cloud-based hosting services). We avoid wherever possible using third party cloud-based tools that require us to share your Personal Data to use them. We will **never** rent, sell or trade your personal information to anyone. Ever. 
+We created this Privacy Policy to be as clear and direct as possible about how we gather and use your information. To ensure your privacy we store your personal data (“Personal Data”) on our own servers (i.e. not cloud-based hosting services). We avoid wherever possible using third-party cloud-based tools that require us to share your Personal Data to use them. We will **never** rent, sell or trade your personal information to anyone. Ever. 
 
 ## Introduction
 
@@ -20,21 +20,29 @@ For the purpose of this agreement a User is an individual who uses our website o
 
 The types of information we collect depend on whether you are a User or Client. We collect Personal Data from you when you voluntarily provide information to us. Examples of instances when we collect Personal Data include when you answer questions on our website or in our mobile application(s) to determine what kind of portfolio we might recommend if you were to become a Client, when you register to open an account, when you contact our client service organization with questions or when you become a Client. Wherever Wealthfront collects Personal Data, we make an effort to link to this Privacy Policy and other relevant terms, such as our [Terms of Use](https://web.archive.org/legal/terms). 
 
+In General
+
+Wealthfront’s servers automatically record certain information (“Non-Identifiable” or “Aggregated Data”) about your use or evaluation of our Service. Similar to other technology platforms and services, Wealthfront records information such as browsing activity, data displayed or clicked on (such as UI elements, ads, and links), and other information (such as browser type, IP address, date and time of access, cookie ID, and referrer URL). Along with cookies, Wealthfront may also use third-party tracking technology, such as Google Analytics, to record similar information regarding you and your activity on the Site. 
+
 Information Collection from Users
 
 We collect personal information such as name, address, telephone number and other optional information you may provide, such as your age, investable assets, and risk tolerance, which may include your financial goals and objectives, income information and other financial planning information about your household. 
 
-We may also collect your e-mail address and/or telephone number should you opt to engage via our website, mobile app, email or dedicated telephone number with our client service team. 
+We may collect your e-mail address and/or telephone number should you opt to engage via our website, mobile app, email or dedicated telephone number with our client service team. 
+
+We also collect account numbers and login credentials for the accounts (bank or brokerage) you choose to link to our Service, any challenge and/or security questions associated with those accounts and any information contained in those accounts. 
 
 Information Collection from Clients
 
 If you choose to become a Client, in addition to the information we collect from you as a User, as described above, we will ask you for certain information, including, but not limited to, your full legal name, contact information, birth date, Social Security Number, citizenship, investment objectives, approximate net worth, and other regulatory disclosures that may be necessary and required under Federal and certain statutory law (see our [Client Agreement](https://www.wealthfront.com/static/documents/client-agreements/WEALTHFRONT-CLIENT-ACCOUNT-AGREEMENT.pdf)). 
 
-We also collect account numbers and login credentials for the accounts (bank or brokerage) you choose to link to our Service, any challenge and/or security questions associated with those accounts and any information contained in those accounts. 
+Acting As Your Authorized Agent
 
-In General
+Wealthfront offers services, like the Portfolio Review, where Wealthfront acts as an agent to retrieve your financial account information, such as your account balances, transactions and holdings, from financial institutions you designate. Portfolio Review is an optional Service you may utilize by providing financial account credentials, allowing us to securely connect with third-party financial institutions. 
 
-Wealthfront’s servers automatically record certain information (“Non-Identifiable” or “Aggregated Data”) about your use or evaluation of our Service. Similar to other technology platforms and services, Wealthfront records information such as browsing activity, data displayed or clicked on (such as UI elements, ads, and links), and other information (such as browser type, IP address, date and time of access, cookie ID, and referrer URL). Along with cookies, Wealthfront may also use third-party tracking technology, such as Google Analytics, to record similar information regarding you and your activity on the Site. 
+By accessing and using the Wealthfront services, including but not limited to, Portfolio Review Service, you expressly authorize and direct Wealthfront, on your behalf, to electronically retrieve your account information maintained by third-party financial institutions with which you have a legally binding customer relationship (“Account Information”). Wealthfront may work with one or more third-party financial service technology providers to access and retrieve your Account Information. 
+
+Wealthfront is not responsible for and cannot guarantee the accuracy or timeliness of Account Information we retrieve on your behalf directly, from third-party technology providers, from third-party financial institutions where your accounts are held, or from third-party market data providers used to provide the Services. 
 
 ## Use of Information
 
@@ -66,7 +74,7 @@ Wealthfront takes reasonable steps to protect your Personal Data from loss, misu
 
 Advertising
 
-We do not allow third party advertising on our Website or Mobile applications. 
+We do not allow third-party advertising on our Website or Mobile applications. 
 
 Referral Program
 
@@ -84,12 +92,12 @@ Other
 
 This Privacy Policy may change from time to time. We will post any Privacy Policy changes and, if the changes are substantial, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date. 
 
-Privacy policy for Plaid Technologies, Inc.: <a href="https://www.plaid.com/legal/#privacy-policy" ,="" target="_blank"> https://www.plaid.com/legal/#privacy-policy 
+Privacy policy for Plaid Technologies, Inc.: <a href="https://www.plaid.com/legal/#privacy-policy" ,="" rel="noreferrer noopener" target="_blank"> https://www.plaid.com/legal/#privacy-policy 
 
 This document constitutes Wealthfront’s complete Privacy Policy for Wealthfront and the Services. 
 
 If you have questions or comments about this Privacy Policy, please email us at [support@wealthfront.com](mailto:support@wealthfront.com), by phone at 650.249.4250 or via physical mail at: 
 
 Wealthfront Inc.  
-541 Cowper St.  
-Palo Alto, CA 94301 
+900 Middlefield Road  
+Redwood City, CA 94063 
