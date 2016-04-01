@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kobonaty.com privacy policy that was archived on 2015-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151115042336id_/http%3A//www.kobonaty.com/content/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kobonaty.com privacy policy that was archived on 2016-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401175219id_/http%3A//www.kobonaty.com/content/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 
@@ -567,28 +567,9 @@ function dosigin(type)
 				success: function (html) {
 
 					 if(html=="done")
-
 					{
-
-								 if(type=="cart"){
-
-								  window.location.assign("http://www.kobonaty.com/deals/cart")
-
-								 }
-
-							   else if(type=="index"){
-
-					 window.location.assign(AJAXPATH)
-
-								 }
-
-								 else {
-
-								  window.location.assign(AJAXPATH)
-
-							   }
-
-		}
+					   window.location.reload();
+					}
 
 		else{
 
@@ -675,13 +656,9 @@ var name = $("#search_name").val();
 } 
 
 function register(type) 
-
 {
-
-
-
- var emailRegex = /^.{1,}@.{2,}\..{2,}/;
-
+ //var emailRegex = /^.{1,}@.{2,}\..{2,}/;
+  var emailRegex  = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
  var formemail = $("#userEmail").val();
 
  var formreemail = $("#confirmuserEmail").val();
@@ -696,13 +673,13 @@ function register(type)
 
  var mob = $("#userMobile").val();
 
-
+var hasSpace = $('#userEmail').val().indexOf(' ')>=0
 
   if($("#userFirstName").val() == "" ){
 
    $("#userFirstName").focus();
 
-   $("#user_name").html("enter the First Name");
+   $("#user_name").html("Please enter your first name.");
 
     $("#user_name").show();
 
@@ -714,21 +691,19 @@ function register(type)
 
     $("#userLastName").focus();
 
-    $("#user_lname").html("enter the Last Name");
+    $("#user_lname").html("Please enter your last name.");
 
     $("#user_lname").show();
 
     $('#user_lname').delay(3000).fadeOut();
 
-    return false;
-
-  
+    return false;  
 
   }else if($("#userEmail").val() == "" ){
 
     $("#userEmail").focus();
 
-    $("#user_email").html("enter the email");
+    $("#user_email").html("Please enter your email id");
 
     $("#user_email").show();
 
@@ -740,7 +715,7 @@ function register(type)
 
     $("#userEmail").focus();
 
-    $("#user_email").html("enter the valid email");
+    $("#user_email").html("Please enter a valid email id.");
 
     $("#user_email").show();
 
@@ -748,11 +723,23 @@ function register(type)
 
     return false;
 
-  }else if($('#confirmuserEmail').val() == ""){
+  }else if(hasSpace)
+  {
+	   $("#userEmail").focus();
+
+    $("#user_email").html("Please enter a valid email id.");
+
+    $("#user_email").show();
+
+    $('#user_email').delay(3000).fadeOut();
+
+    return false;
+  }  
+  else if($('#confirmuserEmail').val() == ""){
 
     $("#confirmuserEmail").focus();
 
-    $("#user_email1").html("Re enter the  email");
+    $("#user_email1").html("Please enter your email id again.");
 
     $("#user_email1").show();
 
@@ -764,7 +751,7 @@ function register(type)
 
     $("#confirmuserEmail").focus();
 
-    $("#user_email1").html("Re enter the valid email");
+    $("#user_email1").html("Please enter a valid email id.");
 
     $("#user_email1").show();
 
@@ -776,7 +763,7 @@ function register(type)
 
     $("#userEmail").focus();
 
-    $("#user_email").html("emails are not matching, re-enter again");
+    $("#user_email").html("Email Id is not matching. Please check and try again");
 
    $("#user_email").show();
 
@@ -788,7 +775,7 @@ function register(type)
 
     $("#userPassword").focus();
 
-    $("#user_pass").html("Enter the password");
+    $("#user_pass").html("Please enter your password.");
 
     $("#user_pass").show();
 
@@ -800,7 +787,7 @@ function register(type)
 
     $("#confirmuserPassword").focus();
 
-    $("#user_pass1").html("ReEnter the password");
+    $("#user_pass1").html("Please enter your password again.");
 
      $("#user_pass1").show();
 
@@ -812,7 +799,7 @@ function register(type)
 
     $("#userPassword").focus();
 
-    $("#user_pass").html("Password Not match");
+    $("#user_pass").html("Password is not matching. Please check and try again");
 
     $("#user_pass").show();
 
@@ -824,7 +811,7 @@ function register(type)
 
     $("#userMobile").focus();
 
-    $("#user_mob").html("Enter the mobile");
+    $("#user_mob").html("Please enter your mobile number");
 
     $("#user_mob").show();
 
@@ -842,11 +829,7 @@ function register(type)
 
     $('#user_agree').delay(3000).fadeOut();
 
-    return false; */
-
-     
-
-
+    return false; */   
 
     }else if($(name != '' && lname != '' && formemail != '' && formreemail != '' && pass != '' && pass1 != '' && mob != '')){
 
@@ -891,30 +874,9 @@ else {
 		success: function (html) {
 
                     if(html=="done")
-
-			{
-
-                   
-
-                         if(type=="cart"){
-
-                          window.location.assign("http://www.kobonaty.com/deals/cart")
-
-                         }
-
-                       else if(type=="index"){
-
-			 window.location.assign(AJAXPATH)
-
-                         }
-
-                         else {
-
-                          window.location.assign(AJAXPATH)
-
-                       }	
-
-			}
+			         {
+						  window.location.reload();
+					 }
 
 else{
 
@@ -1239,7 +1201,7 @@ $('#backToLogin').hide();
 
                 <div class="row">
 
-                    <div class="col-md-8 menu-ie-1" style="padding-right:0 !important; ">
+                    <div class="col-md-9 menu-ie-1" style="padding-right:0 !important; ">
 
                         <!-- MAIN NAVIGATION -->
 
@@ -1254,11 +1216,31 @@ $('#backToLogin').hide();
 
                                 
 
+<a href="http://www.kobonaty.com/en/index/category/buy-one-get-one-free-offers">ktb.ae
+</a>
+
+
+
+
+                                </li>
+
+
+
+    
+                                <li class="">
+
+                                
+
 <a href="http://www.kobonaty.com/en/index/category/dubai-activities-and-leisure-deals">Activities &amp; Leisure
 </a>
 
 
 <ul>
+
+
+<li class=""><a href="http://www.kobonaty.com/en/index/category/valentines-day-dubai">Valentines Day </a>
+
+ </li>
 
 
 <li class=""><a href="http://www.kobonaty.com/en/index/category/desert-safari-dubai">Desert Safari</a>
@@ -1633,7 +1615,7 @@ $('#backToLogin').hide();
 
                     </div>
 
-                    <div class="col-md-4 loginCart menu-ie-2">
+                    <div class="col-md-3 loginCart menu-ie-2">
 
                         <!-- LOGIN REGISTER LINKS -->
 
@@ -2210,12 +2192,21 @@ $('#backToLogin').hide();
     <div class="container">
       <div class="row row-wrap"> 
         <!--bank-->
-        <div class="col-md-8" style="margin-bottom:10px !important; margin-bottom:10px \9;">
+        <div class="col-md-12" style="margin-bottom:10px !important; margin-bottom:10px \9;">
           <h5>Buy now and pay later</h5>
+          
+        <div class="bank-logo-container" style="width:43%; float:left">
           <div class="bankLogo"> <a href="http://www.kobonaty.com/content/emiatesnbd" target="_blank"><img src="http://www.kobonaty.com/application/public/images/payment/footer-emirates-1.png" height="40" width="155"></a> </div>
           <div class="bankLogo"><a href="http://www.kobonaty.com/content/mashreq" target="_blank"> <img src="http://www.kobonaty.com/application/public/images/payment/footer-mashreq1.png" height="40" width="155"></a> </div>
           <div class="bankLogo"><a href="http://www.kobonaty.com/content/adcb" target="_blank"> <img src="http://www.kobonaty.com/application/public/images/payment/footer-adcb1.png" height="40" width="155"></a> </div>
-        </div>
+          </div>
+          
+          
+            <div class="ded-container" style="width:50%; float:left; padding-top:27px; ">
+          		<h5>All deals on the Kobonaty Site have been permitted under DED permit No: 303003</h5>
+          </div>
+          
+          </div>
         <!--END: end--> 
         
       </div>
@@ -2423,4 +2414,35 @@ s.parentNode.insertBefore(ga, s);
 
 
 </div>
+<!--fucntion to hide img height-->
+
+<script type="text/javascript">
+				$(document).ready(function(){
+					
+					 $(window).scroll(function(){
+							 $("span[id^='loader_'] img").css('display','none');   
+						})
+	
+				
+				});
+				</script>
+                
+                
+                <script type="text/javascript">
+				$(document).ready(function(){
+					 $("span[id^='loader_'] img").css('display','none');   
+		
+				});
+				</script>
+                
+              <script type="text/javascript">
+			  
+					function explode(){
+					  $("span[id^='loader_'] img").css('display','none');
+					}
+					setTimeout(explode, 3000);
+					
+				</script>
+                
+<!--END: fucntion to hide img height-->
 </body></html>
