@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutbookmark.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930160618id_/http%3A//aboutbookmark.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutbookmark.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401072700id_/http%3A//aboutbookmark.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy | About My Bookmark
 
