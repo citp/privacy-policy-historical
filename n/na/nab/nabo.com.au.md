@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabo.com.au privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117144344id_/https%3A//help.nabo.com.au/hc/en-us/articles/201654869-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabo.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401052046id_/https%3A//help.nabo.com.au/hc/en-us/articles/201654869-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Nabo
 
