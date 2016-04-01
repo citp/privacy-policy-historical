@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215060243id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401155019id_/http%3A//www.buytimewarnercable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuyTimeWarnerCable.com
 
@@ -14,10 +14,10 @@ This privacy policy (“Privacy Policy”) is designed to inform you about the t
 **Children**   
 This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18.
 
-**Gathering, Use and Disclosure of Non-Personally-Identifying Information**  
+ **Gathering, Use and Disclosure of Non-Personally-Identifying Information**  
 We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. “Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-**Gathering Non-Personally-Identifying Information**
+ **Gathering Non-Personally-Identifying Information**
 
 **Web Browsers**   
 Like most site operators, we gather from you Non-Personally-Identifying Information of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol (“IP”) address, operating system and browser type, and the locations of the web pages that you view right before arriving at, while navigating and immediately after leaving this Site.
@@ -84,7 +84,7 @@ We take reasonable precautions to protect the security of your information. Howe
 **Contests, Giveaways and other Promotions**   
 From time to time, we may offer Site users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. However, your participation in the promotion will not be conditioned on the consent to use your Personally-Identifying Information for purposes unrelated to the promotion.
 
-**Collection and Use of Information by Third Parties Not Covered By This Agreement**  
+ **Collection and Use of Information by Third Parties Not Covered By This Agreement**  
 Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise, you should review its privacy policies and terms of use.
 
 **For Additional Information.**   
