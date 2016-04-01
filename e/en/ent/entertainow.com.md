@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainow.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822190533id_/http%3A//www.entertainow.com/page/load/en_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainow.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401235203id_/http%3A//www.entertainow.com/page/load/en_privacypolicy) for the most accurate reproduction.*
 
 # None
 
