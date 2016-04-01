@@ -1,41 +1,98 @@
-> *The following text is extracted and transformed from the imagechef.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025200038id_/http%3A//www.imagechef.com/ic/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagechef.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401040803id_/http%3A//www.imagechef.com/ic/privacy.htm) for the most accurate reproduction.*
 
 # ImageChef Privacy Policy
 
 ImageChef Incorporated Privacy Information
 
-Information Collection and Use
+ImageChef Inc. Privacy Information
 
-ImageChef collects aggregate statistical data on web site traffic.
-
-No user information or e-mail addresses is shared with any third parties, with the exception of what is required to release to our credit card gateway partner for executing a purchase.
-
-ImageChef collects user submitted information such as name, email address, home or work address, phone number and age to authenticate users and also collects other profile data including but not limited to: personal interests, gender, age, country, self-description, DVD region, preferred language, movie interests in order to assist users in finding and communicating with each other and otherwise facilitate and enhance use of the ImageChef website ("Site") by its users. By using your Facebook login information to log into ImageChef, you also permit ImageChef to access your Facebook information, such as your profile information and privacy settings.
-
-User profile information including members' pictures and user names are displayed on the Site in order to facilitate user interaction in the ImageChef social networking community. Email addresses are used for the purposes of inviting new friends to join ImageChef, to add users to members' friends' networks, and to send notifications related to the Site and its associated services. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on the Site with each other through the ImageChef services, without disclosing their email addresses. Users' full names are never directly revealed to other members. Please note that ImageChef does not sell, rent, or otherwise distribute your personal information.
+ImageChef is aware of your right to online security. Please read this statement to better understand how ImageChef handles your personal information. 
 
   
-Cookies
+Entities collecting personal information
 
-A cookie is a small text file containing information that a website transfers to your computer's hard disk for record-keeping purposes. We use 'cookies' to monitor your visits to the Site, to analyze our site traffic patterns, and to provide a user-friendly registration and log-in process for your ease of use and to enhance our services and communication with you. A cookie does not give us access to your computer or to information beyond what you provide to us. Most web browsers automatically accept cookies. Consult your browser's manual or online help if you want information on restricting or disabling the browser's handling of cookies. You may disable the collection of cookies in your browser settings. If you disable cookies, you can still view the publicly available information on our Site, but you will not be able to take advantage of offers or activities requiring a DirectorZone All Access pass, which includes accessing user-only support areas. If you are using a shared computer and you have cookies turned on, be sure to log off when you finish accessing or using the Site.
-
-  
-Advertising Partners
-
-CyberLink allows other companies, called third-party ad servers or ad networks, to display and/or serve advertisements within the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, or JavaScript) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
-
-CyberLink does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have opted in. However, please note that if an advertiser asks CyberLink to show an advertisement to a certain audience (for example, men ages 28 - 40) or audience segment (for example, women in California who viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you have the characteristics of the audience they are trying to reach. The advertiser may also use information regarding your use of the Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
-
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt out, once you have opted in, of certain practices. CyberLinks Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
-
-We implement Google Analytics, a web analytics service provided by Google, Inc. ("Google"), to support Google features such as Display Advertising, Remarketing,Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, Google Analytics Demographics and Interest Reporting. We use Remarketing with Google Analytics to advertise online., Google uses cookies to inform, optimize and serve ads based on your past visits to our Site, and also to report how our ad impressions, and uses of ad services are related to your visits to our Site. Google may show our ads on sites you use across the internet you use. You can also opt-out from being tracked by the aforegoing mentioned Google features for thein future by following the instructions shown in the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
-
-Some of our users may be shown a special offer after first registering on our site, offered by a partner. The user's personal information will be shown and he/she will be given the option of sending that information to the partner to sign up for a service, or to decline the offer.
+Personal information on this Site is collected by ImageChef Inc. 3255-1 Scott Blvd., Ste. 101 Santa Clara, CA 95054 U.S.A. Information collected through the Site may be stored and processed by ImageChef.com.
 
   
-Confidentiality and Security
+Your Personal Information and the ImageChef Website
 
-For sales, credit card information is not stored by ImageChef. User passwords are stored in encrypted format so they may not be read by anyone. Our servers are stored in a secure remote facility.
+As a visitor to our Site, you may use any services or product developed by ImageChef Inc. In connection with this such as subscribing to newsletter updates, ImageChef may ask you to register to at our website. If you elect to engage in these activities, however, ImageChef may ask that you submit information such as name, email address, social media account information to authenticate users and also collects other profile data including but not limited to gender, age, country, in order to assist users in finding and communicating with each other and otherwise facilitate and enhance use of the ImageChef website ("Site") by its users. By using your Facebook login information to log into ImageChef, you also permit ImageChef to access your Facebook information, such as your profile information and privacy settings.
 
-Copyright © 2013 ImageChef Incorporated  
+No user information or e-mail addresses is shared with any third parties, with the exception of what is required to release to our credit card gateway partner for executing a purchase. Only in respect of this activity which the transmission of information is protected by a secure server software (SSL) that helps protect your information as it travels over the Internet by encrypting or hashing that information before it is sent to us.
+
+User profile information including user’s pictures and/or avatars and user names are displayed on the Site in order to facilitate user interaction in the ImageChef social networking community. Depending on the activity, some of the information that we ask you to provide is identified as necessary and some as voluntary. If you do not provide the necessary data with respect to a particular activity, you will not be able to engage in that activity. Email addresses are used for the purposes of inviting new friends to join ImageChef, to add users to members' friends' networks, to send notifications, to provide newsletters updates related to the Site and its associated services. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on the Site with each other through the ImageChef services, without disclosing their email addresses. Users' full names are never directly revealed to other members. Please note that ImageChef does not sell, rent, or otherwise distribute your personal information. 
+
+  
+'Cookies' and the ImageChef Website
+
+Like most corporate websites, ImageChef website does use 'cookies' to monitor your visits to our site and analyze our site traffic patterns so as to provide a user-friendly registration and log-in process for your ease of use and enhance our services and communication with you. Cookies do not give us access to your computer or information beyond what you provide to us. Consult your browser's manual or online help if you want information on restricting or disabling the browser's handling of cookies. You may disable the collection of cookies in your browser settings. If you disable cookies on your own device, you can still view the publicly available information on our Site, but you will not be able to take advantage of activities requiring a DirectorZone All Access pass, which includes accessing user-only support areas. If you are using a shared computer and you have cookies turned on, be sure to log off when you finish accessing or using the Site.
+
+If you would like to learn more about 'cookies' click [here](http://www.cookiecentral.com/faq/).
+
+  
+Use of Aggregate Information
+
+We use your Internet protocol (IP) address to collect anonymous, aggregate statistics for several reasons, including the following: to help diagnose problems with our server, to administer our Site, to help identify you and your activities on the Site (such as registering for an account, creating a templates, voting other users’ effects, connecting with other members, forming groups, participating in forum discussions) to gather broad demographic information to analyze traffic to this Site in order to understand your needs, providing interesting data and continually improve our Site for you.
+
+  
+Use of User Account Information 
+
+ImageChef collects user submitted information in order to assist users in finding and communicating with each other and otherwise facilitate and enhance use of the Site by its users. By using your Facebook login information to log into the website, you also permit the Site to access your Facebook information, such as your profile information and privacy settings. User profile information including user’s pictures and/or avatars and user names, where applicable, are displayed on the Site in order to facilitate user interaction in the social network community. Email addresses are used to send notifications related to the Site and its associated services. Users within a personal network communicate on the Site with each other through the Site services, without disclosing their email addresses. Users' full names are never directly revealed to other members unless it is chosen as their profile name/ avatar. Please note that ImageChef does not sell, rent, or otherwise distribute your personal information. 
+
+  
+Public Forums Guidelines
+
+The Site includes online community forums. Please note that information you chose to disclose in these arenas becomes publicly available and can be collected and used by others. Use caution in disclosing any information and especially personal information. 
+
+  
+Links to Other Sites
+
+The ImageChef website has many links to other websites. Links to other sites are created because we believe that you may be interested in the information that these other sites provide. Though ImageChef strives to bring you the best content from the most reliable sources, we cannot guarantee that other companies will have the same respect for the privacy of your personal information as we do. In addition, using some features might send your information to third party websites and it will be stored along with your other usage and account information of those third party websites, for example: Facebook, Twitter, etc. Specifically your use of the Facebook “Like” button where enabled on this and other Sites will result in your information being shared with Facebook and their other partners. Usage of third party websites will be subject to the third party’s terms of use and privacy policies of those websites and shall not be covered by this Privacy Information.
+
+  
+Security
+
+In order to protect your privacy and security, we urge that you create a unique password for log-in purposes to our Site. You are solely responsible for maintaining the secrecy of your unique password you set up and/or any account information at all times. The security of your personal information also depends on you to protect your unique password. Therefore, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by unauthorized third party breach of any of our services and procedures
+
+  
+Correct / Update User Profile 
+
+ImageChef allows you to supplement or modify your personal information by visiting the user account setting page.
+
+  
+Children’s Guidelines 
+
+ImageChef is committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children’s online activities. The Site is not intended for children under 13 years of age, and by the Site’s terms of service, users affirm that they are at least 13 years old. We do not knowingly collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not knowingly distribute personally identifiable information about children without parental consent. We do not knowingly give children the ability to post or distribute personal information without parental consent. We do not entice children with children-targeted games or contests that would encourage them to disclose personal information.
+
+  
+Third-party Advertisers 
+
+ImageChef allows other companies, called third-party ad servers or ad networks, to display and/or serve advertisements within the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, or JavaScript) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+
+ImageChef does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have opted in. However, please note that if an advertiser asks ImageChef to show an advertisement to a certain audience (for example, men ages 28 - 40) or audience segment (for example, women in California who viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you have the characteristics of the audience they are trying to reach. The advertiser may also use information regarding your use of the Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices.. ImageChef Private Information does not apply to, and we cannot control the activities of, such other advertisers or websites. We implement Google Analytics, a web analytics service provided by Google, Inc. (“Google”), to support Google features such as Display Advertising, Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, Google Analytics Demographics and Interest Reporting. We use Remarketing with Google Analytics to advertise online, Google uses cookies to inform, optimize and serve ads based on your past visits to our Site, and also to report how our ad impressions, uses of ad services are related to your visits to our Site. Google may show our ads on sites across the internet you use. You can also opt-out from being tracked by the foregoing mentioned Google features for the future by following the instructions shown in the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
+
+Registered users may be shown a newsletter updates after first registering on our site. The user's personal information will be shown and he/she will be given the option to sign up for a service, or to decline the offer.
+
+  
+Merger or Sale
+
+In case that ImageChef is merged with or acquired by a third party entity, we reserve the right to transfer or assign the personal information collected as part of such merger, acquisition, sale, or other change of control. Such a successor entity shall be bound by the terms and conditions of this Privacy Policy.
+
+  
+Changes to this Statement
+
+Changes to this Statement may be made from time to time. Though some specific wording may change periodically, our intentions will not. We continually strive to keep your respect by protecting your personal information.
+
+  
+Contact ImageChef
+
+If you would like to contact ImageChef about your personal information and/or privacy, please contact us through the following Web page: please click here [support@imagechef.com]()
+
+ImageChef.com adheres to the Safe Harbors principles and/or practices.
+
+ImageChef Privacy Information last updated on 2015.
+
+Copyright © 2015 ImageChef Incorporated  
 
