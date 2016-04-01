@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2014-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140821180729id_/https%3A//rsbuddy.com/osbuddy/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsbuddy.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401071746id_/https%3A//rsbuddy.com/osbuddy/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RSBuddy
 
@@ -11,8 +11,7 @@ This privacy statement sets out our policy with respect to the privacy of visito
 This policy applies to the following websites ("the Site"): 
 
 rsbuddy.com   
-osbuddy.com   
-automaton.uk 
+osbuddy.com 
 
 This policy does not apply to information obtained other than through the Site.
 
@@ -38,7 +37,7 @@ A cookie is a small information file that is saved to your computer's hard disk 
 
 ## Management of your Personal Information
 
-If you are registered user, you will be entitled to update and/or remove your personal information from our Site by following the procedure laid out at the Site and/or contacting us at support@automatonsoftware.com.
+If you are registered user, you will be entitled to update and/or remove your personal information from our Site by following the procedure laid out at the Site and/or contacting us at [support@rsbuddy.com](mailto:support@rsbuddy.com).
 
 ## Security
 
@@ -54,4 +53,4 @@ We will not hold personal information where the subject has disclosed that it is
 
 ## Comments and Suggestions
 
-We are committed to developing a practical and user-friendly privacy policy. If you have any comments or suggestions regarding this, please send them to: [support@automatonsoftware.com](mailto:support@automatonsoftware.com). 
+We are committed to developing a practical and user-friendly privacy policy. If you have any comments or suggestions regarding this, please send them to: [support@rsbuddy.com](mailto:support@rsbuddy.com). 
