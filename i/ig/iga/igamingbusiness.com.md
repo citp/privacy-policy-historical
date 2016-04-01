@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908031911id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402002412id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGaming Business
 
