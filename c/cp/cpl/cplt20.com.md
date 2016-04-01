@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110125623id_/http%3A//cplt20.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplt20.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401053448id_/http%3A//cplt20.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy CPL T20
 
@@ -19,5 +19,3 @@ Please be aware that communications over the Internet, such as emails/webmails, 
 ## Privacy Support
 
 CPL reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation.
-
-## CPL ON Twitter & facebook
