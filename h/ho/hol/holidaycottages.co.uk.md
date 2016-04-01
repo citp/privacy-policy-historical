@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211225849id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401174649id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - holidaycottages.co.uk
 
 Commitment to your privacy
 
-This site is owned and operated by Simply Cottages Ltd trading as “holidaycottages.co.uk". Your privacy on the Internet is of the utmost importance to us. At holidaycottages.co.uk, we want to make your experience online satisfying and safe.
+This site is owned and operated by ‘holidaycottages.co.uk part of The Travel Chapter Ltd’. Your privacy on the Internet is of the utmost importance to us. At holidaycottages.co.uk, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
