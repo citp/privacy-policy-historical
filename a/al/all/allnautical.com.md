@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnautical.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231235746id_/http%3A//www.allnautical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnautical.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401222351id_/http%3A//www.allnautical.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllNautical
 
