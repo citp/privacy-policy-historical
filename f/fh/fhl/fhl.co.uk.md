@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512072108id_/http%3A//www.fhl.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401102921id_/http%3A//www.fhl.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# FHL - NetSuite Cloud Solutions Provider
+# NetSuite Partner for Cloud Solutions | FHL
 
 First Hosted Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the First Hosted Ltd Web site and governs data collection and usage. By using the First Hosted Ltd website, you consent to the data practices described in this statement.
 
