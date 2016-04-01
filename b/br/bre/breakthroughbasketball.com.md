@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910015014id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakthroughbasketball.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401173729id_/https%3A//www.breakthroughbasketball.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BreakthroughBasketball.com Privacy Policy
 
