@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muquam.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115025030id_/http%3A//www.muquam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muquam.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401133648id_/http%3A//www.muquam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,6 +89,6 @@ We may use re-targetting features of ad platforms like Google AdWords, Facebook,
    
 We are confident that you agree that we have the BEST privacy policy in the industry. You are welcome to write to us at [**cs@muquam.com**](mailto:cs@muquam.com)? for any clarifications.
 
-Muquam.com © Copyright 2015 
+Muquam.com © Copyright 2015-2016 
 
 0  0 [ ](http://www.muquam.com/#)
