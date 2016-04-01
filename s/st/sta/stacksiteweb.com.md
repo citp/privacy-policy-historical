@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksiteweb.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206005052id_/http%3A//stacksiteweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksiteweb.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401201743id_/http%3A//stacksiteweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: StackSiteWeb
 
