@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906092505id_/https%3A//www.cubby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubby.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401162026id_/https%3A//www.cubby.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Cubby.com
 
