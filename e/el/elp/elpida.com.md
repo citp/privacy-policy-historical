@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511160735id_/http%3A//www.micron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elpida.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401084137id_/https%3A//www.micron.com/privacy) for the most accurate reproduction.*
 
 # Micron Technology, Inc. - Privacy
 
@@ -73,11 +73,9 @@ Micron believes in ethical business practices. You may review our Code of Busine
 
 ### U.S. Commerce Department Safe Harbor Principles
 
-Micron adheres to the U.S. Commerce Department European Union and Switzerland Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at <http://export.gov/safeharbor>.
+Micron complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Micron has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com). 
-
-Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+In compliance with the European and Switzerland Safe Harbor Principles, Micron commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Micron at [privacy@micron.com](mailto:privacy@micron.com). Micron has further committed to refer unresolved privacy complaints under the European Union and Switzerland Safe Harbor Principles to an independent dispute resolution mechanism, the BBB SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Micron, please visit the BBB SAFE HARBOR website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 ### Change of Control
 
@@ -85,4 +83,7 @@ If another company acquires assets related to this website, or if we experience 
 
 ### Updates/Effective Date
 
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Privacy Policy will apply to information we have received and information we receive after the revised Privacy Policy is effective. When we do amend this Privacy Policy, the revised Policy will be posted here so please visit this Web page to view the most current Privacy Policy. The effective date of this version of the Privacy Policy is February 26, 2015.
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Privacy Policy will apply to information we have received and information we receive after the revised Privacy Policy is effective. When we do amend this Privacy Policy, the revised Policy will be posted here so please visit this Web page to view the most current Privacy Policy. The effective date of this version of the Privacy Policy is May 18, 2015.
+
+  
+
