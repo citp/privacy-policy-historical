@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubefool.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314214307id_/http%3A//www.tubefoolnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubefool.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401162950id_/http%3A//www.tubefool.com/privacy.html) for the most accurate reproduction.*
 
 # Tube Fool - Youtube Marketing, Traffic, & Software Tool
 
