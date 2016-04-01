@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proposify.biz privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910075025id_/http%3A//proposify.biz/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proposify.biz privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401153728id_/http%3A//proposify.biz/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
