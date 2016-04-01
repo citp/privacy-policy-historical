@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sweetsearch.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908102119id_/http%3A//www.sweetsearch.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sweetsearch.com privacy policy that was archived on 2016-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401065417id_/http%3A//www.sweetsearch.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -92,14 +92,24 @@ src="/docroot/dulcinea/img/ss_new_logo_230x126.jpg" width="120" border="0" /></a
     <a href="/"><img src="/docroot/dulcinea/img/ss_new_logo_230x126.jpg" width="120" border="0"></a>
 
     </td>
+    <td width="400"></td>
+<!--
     <td width="400">
-          <input id="keywords" type="text" name="q" value="">
+          <input id="keywords" type="text" name="q" value="" />
     </td>
-    <td id="submit_cell" width="77"><a href="#" onclick="javascript: return submitQuery();" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/docroot/dulcinea/img/button_1.jpg',1)"><img src="/docroot/dulcinea/img/button_0.jpg" name="Image2" width="52" border="0" id="Image2"></a>
+    <td id="submit_cell" width="77">
+        <NOSCRIPT>
+                <input type="submit" value="Find >>" />
+        </NOSCRIPT>
+        <script language="Javascript">
+        var submit_cell = document.getElementById("submit_cell");
+        submit_cell.innerHTML = "<a href=\"#\" onclick=\"javascript: return submitQuery();\" onmouseout=\"MM_swapImgRestore()\" onmouseover=\"MM_swapImage('Image2','','/docroot/dulcinea/img/button_1.jpg',1)\"><img src=\"/docroot/dulcinea/img/button_0.jpg\" name=\"Image2\" width=\"52\" border=\"0\" id=\"Image2\" /></a>";
+        </script>
     </td>
     
 	<td>&nbsp;</td>
      
+-->
   </tr>
 </tbody></table>
 </form>
