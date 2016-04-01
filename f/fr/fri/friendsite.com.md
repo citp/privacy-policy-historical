@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073304id_/http%3A//friendsite.com/privacy/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsite.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401162931id_/http%3A//friendsite.com/privacy/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | FriendSite.com - The Free Social Site Where Friends Connect With New Friends
 
