@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812205417id_/http%3A//activeprospect.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadconduit.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401133026id_/http%3A//activeprospect.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ActiveProspect
+# Privacy Policy | ActiveProspect
 
 Last modified: May 18, 2014
 
