@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022052654id_/http%3A//www.ushahidi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401080538id_/https%3A//www.ushahidi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Ushahidi
 
@@ -35,6 +35,10 @@ We use the information we collect for the purposes described below:
   * for any other purpose for which the information was collected.
 
 
+
+## Use of Intercom Services
+
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <http://docs.intercom.io/privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <http://docs.intercom.io/terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us. 
 
 ## Disclosure of Information
 
