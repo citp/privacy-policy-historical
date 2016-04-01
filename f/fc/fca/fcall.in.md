@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109062935id_/http%3A//www.fcall.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcall.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401145010id_/http%3A//www.fcall.in/Privacy.aspx) for the most accurate reproduction.*
 
-# Free Call | Free Recharge | Free Online Recharge | Free Mobile Recharge Website | Free Calling
+# Free Call | Free Recharge | Free Online Recharge | Free Mobile Recharge Website | Free Calling - Fcallz.com
 
-Fcall takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Fcall you agree to the collection and use of your data by Fcall in the manner provided in this Privacy Policy.
+fcallz takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by fcallz you agree to the collection and use of your data by fcallz in the manner provided in this Privacy Policy.
 
-if you have questions or concerns regarding this statement, you should contact Fcall Customer Support Desk at 
+if you have questions or concerns regarding this statement, you should contact fcallz Customer Support Desk at 
 
 **What this Privacy Policy Covers**
 
-  * This Privacy Policy covers **Fcall** treatment of personally identifiable information that Fcall collects when you are on the site, and when you use services provided by Fcall. This policy also covers Fcall's treatment of any personally identifiable information that Fcall's business partners share with Fcall .
+  * This Privacy Policy covers **fcallz** treatment of personally identifiable information that fcallz collects when you are on the site, and when you use services provided by fcallz. This policy also covers fcallz's treatment of any personally identifiable information that fcallz's business partners share with fcallz .
 
 
 
@@ -84,7 +84,7 @@ Generally, we use anonymous traffic information to:
 
 We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
 
-Fcall will send personally identifiable information about you to other companies or people when: 
+fcallz will send personally identifiable information about you to other companies or people when: 
 
   * We have your consent to share the information; 
   * We need to share your information to provide the product or service you have requested; 
@@ -97,5 +97,5 @@ Fcall will send personally identifiable information about you to other companies
 **Refunds**
 
 If recharge fails then we will try to recharge again and if you do not get recharge within 48 hours of   
-attempting recharge you cna contact us directly at [admin@fcall.in](mailto:shaikhsahfique98@gmail.com) with all details.  
+attempting recharge you cna contact us directly at [admin@fcallz.com](mailto:shaikhsahfique98@gmail.com) with all details.  
 We will recharge your mobile again with in 24 hours.
