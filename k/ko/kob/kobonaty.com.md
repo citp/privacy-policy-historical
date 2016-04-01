@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobonaty.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115042336id_/http%3A//www.kobonaty.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobonaty.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401175219id_/http%3A//www.kobonaty.com/content/privacy_policy) for the most accurate reproduction.*
 
 # The best online daily Deals in Dubai @ Kobonaty
 
