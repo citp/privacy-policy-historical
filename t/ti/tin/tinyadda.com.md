@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tinyadda.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501185532id_/http%3A//tinyadda.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyadda.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401152230id_/http%3A//www.tinyadda.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TinyAdda » More Information » Privacy Policy
+
+**Warning** : Cannot modify header information - headers already sent by (output started at /home/angle110582/tinyadda.com/source/includes/data.php:17) in **/home/angle110582/tinyadda.com/source/includes/data.php** on line **20**
+
+**Warning** : Cannot modify header information - headers already sent by (output started at /home/angle110582/tinyadda.com/source/includes/data.php:17) in **/home/angle110582/tinyadda.com/source/includes/data.php** on line **21**
 
 When you sign up for an account with TinyAdda, we collect personal information from you including your e-mail address, and a password. 
 
