@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127041207id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401130110id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy – Allcheckdeals.com
 
