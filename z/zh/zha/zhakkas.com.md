@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122010339id_/http%3A//www.zhakkas.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zhakkas.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401032047id_/https%3A//zhakkas.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zhakkas
+# Privacy - Zhakkas
 
-This Privacy Policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users (each, a "User") of the zhakkas.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Zhakkas.
+|  This Privacy Policy governs the manner in which Zhakkas collects, uses, maintains and discloses information collected from users (each, a "User") of the zhakkas.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Zhakkas.
 
 **Personal identification information**
 
@@ -42,18 +42,18 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**Changes to this privacy policy:**
-
+**Changes to this privacy policy:  
+**   
 Zhakkas has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms:**
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting Us:**
+**Contacting us:**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Zhakkas.com  
 Police-Bazar, Shillong-793001, Meghalaya-(INDIA)
 
-This document was last updated on November 18, 2015
+This document was last updated on January 14, 2015
