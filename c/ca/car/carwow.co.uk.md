@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907195459id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwow.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401045110id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | carwow
 
 ##  Introduction 
 
-The following carwow privacy policy sets out how we use information relating to you and applies to all use of data by Digital Blurb Limited (“carwow”, “we”, “us" or “our”). This privacy policy forms a part of the website terms of use, which can be found [here](https://www.carwow.co.uk/terms-and-conditions). 
+The following carwow privacy policy sets out how we use information relating to you and applies to all use of data by carwow Limited (“carwow”, “we”, “us" or “our”). This privacy policy forms a part of the website terms of use, which can be found [here](https://www.carwow.co.uk/terms-and-conditions). 
 
 ##  Summary 
 
@@ -16,7 +16,7 @@ The following carwow privacy policy sets out how we use information relating to 
 
 
 
-For the purpose of the Data Protection Act 1998, the data controller is Digital Blurb Limited. If you have any concerns about your privacy, this carwow privacy policy or any websites operated by carwow, please contact Digital Blurb Ltd (T/A carwow), 202 Cotton Exchange Building, Old Hall Street, Liverpool L3 9LQ. 
+For the purpose of the Data Protection Act 1998, the data controller is carwow Limited. If you have any concerns about your privacy, this carwow privacy policy or any websites operated by carwow, please contact carwow Ltd, 6th Floor, New Penderel House, 283-288 High Holborn, London, WC1V 7HP. 
 
   1. ##### About the website and this privacy policy
 
@@ -88,11 +88,11 @@ For the purpose of the Data Protection Act 1998, the data controller is Digital 
     2. We may make changes to this privacy policy in the future, which will be posted on this page. You should check this page from time to time to ensure you are aware of any changes. Where appropriate we may notify you of changes by email or by putting a notice on the Website. 
     3. All questions, comments or enquiries should be directed to us. We will try to respond to you within 48 hours. 
 
-DIGITAL BLURB LIMITED  
+CARWOW LIMITED  
 Company Number 07103079  
 hello@carwow.co.uk  
-Digital Blurb Ltd (T/A carwow)  
-202 Cotton Exchange Building  
-Old Hall Street  
-Liverpool  
-L3 9LQ 
+carwow Ltd  
+6th Floor, New Penderel House  
+283-288 High Holborn  
+London  
+WC1V 7HP 
