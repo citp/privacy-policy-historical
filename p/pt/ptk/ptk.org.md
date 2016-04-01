@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194817id_/http%3A//www.ptk.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptk.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401154748id_/http%3A//www.ptk.org/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Phi Theta Kappa Honor Society
+# Phi Theta Kappa Honor Society
 
 Pages within the Phi Theta Kappa website may contain links to sites operated by other entities, whose information distribution practices may differ from Phi Theta Kappa's. Visitors should consult the other sites' privacy notices to determine their policy as to information that is submitted to, or collected by, these third parties. Phi Theta Kappa cannot control or be held responsible for information distribution practices of websites other than our own.
 
@@ -33,4 +33,4 @@ Jackson, MS
 
 This privacy policy is subject to change.
 
-2/14/14 
+2/14/14
