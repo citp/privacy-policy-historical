@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108051600id_/https%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicallyeasy.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401191023id_/http%3A//technicallyeasy.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Technically Easy
+# Privacy Policy • Technically Easy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin AT technicallyeasy.net.
 
