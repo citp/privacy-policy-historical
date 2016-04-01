@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tlo.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927161317id_/http%3A//www.tlo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlo.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401023612id_/http%3A//tlo.com/privacy.html) for the most accurate reproduction.*
 
 # TLO Privacy Statement
 
