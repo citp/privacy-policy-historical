@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darwinex.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319191935id_/https%3A//www.darwinex.com/en/privacyandpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darwinex.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401201514id_/https%3A//www.darwinex.com/en/privacyandpolicy) for the most accurate reproduction.*
 
 # Darwinex > Legal Documents - The forex broker that pairs skilled traders with investors' capital
 
