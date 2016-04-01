@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sicknetwork.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408172448id_/https%3A//mainwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sicknetwork.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401095236id_/https%3A//mainwp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MainWP
+# Privacy Policy - MainWP WordPress Management
 
 **Welcome to MainWP (the “Site”).**  
 We understand that privacy online is important to users of our Site, especially when conducting business.  
@@ -24,7 +24,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by MainWP is securely stored and is not accessible to third parties or employees of MainWP except for use as indicated above. 
+Personally Identifiable Information collected by MainWP is securely stored and is not accessible to third parties or employees of MainWP except for use as indicated above.
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [support@mainwp.com](mailto:support@mainwp.com)
