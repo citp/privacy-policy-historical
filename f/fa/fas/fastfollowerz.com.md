@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906102346id_/https%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastfollowerz.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401162114id_/https%3A//www.fastfollowerz.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
