@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesmoney.in privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818083651id_/http%3A//timesmoney.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesmoney.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401052431id_/http%3A//www.timesmoney.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TimesMoney
 
@@ -68,4 +68,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [Here...](https://web.archive.org/web/20140818083651id_/http%3A//timesmoney.in/contacts.php)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us [Here...](https://web.archive.org/web/20160401052431id_/http%3A//www.timesmoney.in/contacts.php)
