@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919181420id_/https%3A//www.sccu.com/Terms-Disclosures/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401020714id_/https%3A//www.sccu.com/Terms-Disclosures/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Notice I Space Coast Credit Union | Space Coast Credit Union
 
   * Personal 
-    * ## PERSONAL
+    * ## Personal
 
       *         * [ Loans ](https://web.archive.org/Personal/Loans)
           * [ Auto / Vehicles ](https://web.archive.org/Personal/Loans/Auto-Vehicle-Loans)
@@ -26,14 +26,13 @@
           * [ Investment Services ](https://web.archive.org/Personal/Investments-Insurance/Investment-Services)
           * [ Insurance Products ](https://web.archive.org/Personal/Insurance-Products)
       *         * [ Deposit & Loan Rates ](https://web.archive.org/Personal/Deposit-Loan-Rates)
-    * [Start Application](https://web.archive.org/web/20150919181420id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20160401020714id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * Business Services 
-    * ## BUSINESS SERVICES
+    * ## Business Services
 
       *         * [ Savings ](https://web.archive.org/Business-Services/Business-Savings-Accounts)
           * [ Share Savings ](https://web.archive.org/Business-Services/Business-Savings-Accounts/Savings-Membership-Account)
           * [ Money Market Savings ](https://web.archive.org/BUSINESS-SERVICES/Savings/Business-Money-Market-Account)
-          * [ Certificates of Deposit ](https://web.archive.org/Business-Services/Business-Savings-Accounts/Certificates-of-Deposit)
       *         * [ Checking & Debit ](https://web.archive.org/Business-Services/Checking-Debit)
           * [ Platinum Interest Checking ](https://web.archive.org/Business-Services/Checking-Debit/Platinum-Interest-Checking)
           * [ Free Business Checking ](https://web.archive.org/Business-Services/Checking-Debit/Free-Business-Checking)
@@ -53,10 +52,10 @@
           * [ Online Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Online-Banking-Bill-Payer/Online-Banking-1)
           * [ Mobile Banking ](https://web.archive.org/Business-Services/Additional-Business-Services/Mobile-Banking/Mobile-1)
       *         * [ Business Services ](https://web.archive.org/Business-Services/Business-Services)
-          * [ Business Services Managers ](https://web.archive.org/Business-Services/Business-Services-Managers)
-    * [Start Application](https://web.archive.org/web/20150919181420id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+          * [ Commercial Loan Officers ](https://web.archive.org/Business-Services/Commercial-Loan-Officers)
+    * [Start Application](https://web.archive.org/web/20160401020714id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * Why SCCU 
-    * ## WHY SCCU
+    * ## Why SCCU
 
       *         * [ News ](https://web.archive.org/Why-SCCU/News)
       *         * [ About SCCU ](https://web.archive.org/Why-SCCU/About-SCCU)
@@ -75,7 +74,7 @@
       *         * [ Member Discount Program ](https://web.archive.org/Why-SCCU/Member-Discount-Program)
       *         * [ SCCU Blog ](https://web.archive.org/Why-SCCU/SCCU-Blog)
           * [ Spanish Blog ](https://web.archive.org/InnerPageMaster/WHY-SCCU/SCCU-Blog/Spanish-Blog-\(1\))
-    * [Start Application](https://web.archive.org/web/20150919181420id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20160401020714id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
   * PLANNING & ADVICE 
     * ## PLANNING & ADVICE
 
@@ -85,7 +84,7 @@
       *         * [ Investment Services ](https://web.archive.org/PLANNING-ADVICE/Investment-Services-\(1\))
       *         * [ Home Buying Center ](https://web.archive.org/PLANNING-ADVICE/Home-Buying-Center)
       *         * [ Articles ](https://web.archive.org/PLANNING-ADVICE/Articles)
-    * [Start Application](https://web.archive.org/web/20150919181420id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
+    * [Start Application](https://web.archive.org/web/20160401020714id_/https%3A//www.sccu.com/Terms-Disclosures/Apply-Form)
 
 [Home](https://web.archive.org/) > Why SCCU
 
