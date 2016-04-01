@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124022211id_/http%3A//www.babes.com/policy/pp.php%3Fsite%3Dbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babes.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401145654id_/http%3A//www.babes.com/policy/pp.php%3Fsite%3Dbb) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
