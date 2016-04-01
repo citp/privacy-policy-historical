@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the hipomarket.eu privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807223050id_/http%3A//www.hipomarket.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipomarket.eu privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401065525id_/https%3A//www.hipomarket.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to making your experience at HipoMarket.eu enjoyful and rewarding.  
-The following Privacy Policy applies only to HipoMarket.eu and information of our customers collected online through HipoMarket.eu. Your privacy is very important to us and definitely confidential.
+We are committed to making your experience at Hipomarket.eu enjoyful and rewarding.  
+The following Privacy Policy applies only to Hipomarket.eu and information of our customers collected online through Hipomarket.eu. Your privacy is very important to us and definitely confidential.
 
-HipoMarket.eu respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our Privacy Policy, all revisions will be posted on this page. We reserve the right to change the privacy policy any time.
+Hipomarket.eu respects and protects the privacy of its visitors. In this document, we explain how we use the information you supply us. If we update our Privacy Policy, all revisions will be posted on this page. We reserve the right to change the privacy policy any time.
 
-**Sharing and Disclosure Your Information**
+ **Sharing and Disclosure Your Information**
 
-Agents, employees and contractors of HipoMarket.eu who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation.
+Agents, employees and contractors of Hipomarket.eu who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy and the high standards of the corporation.
 
-Information about you specifically will not be used for any other purpose and we will carry out the services you requested from HipoMarket.eu.
+Information about you specifically will not be used for any other purpose and we will carry out the services you requested from Hipomarket.eu.
 
 We will not sell or rent your personally identifiable information to anyone at any time.
 
@@ -27,18 +27,18 @@ We are required to do so by law.
 
 You may delete these files from your computer at any time. You can set your web browser to notify you if such information is about to be placed on your computer, and you can choose the option in your web browser to refuse it. If you refuse the information, you may not be able to make full use of the features on our web site.
 
-If you elect to use our "Email Your Wish List" service for informing a friend about our site or products you are interested in, we may ask for your email address, your name, the email address or the name of your friend and the email address of your friend. HipoMarket.eu will automatically send the friend a one-time email on your behalf. HipoMarket.eu does not store this information. It is only used for sending this one time email.
+If you elect to use our "Email Your Wish List" service for informing a friend about our site or products you are interested in, we may ask for your email address, your name, the email address or the name of your friend and the email address of your friend. Hipomarket.eu will automatically send the friend a one-time email on your behalf. Hipomarket.eu does not store this information. It is only used for sending this one time email.
 
 Personally identifiable information may include information that you provide us by requesting information when registering for special offers or programs or when you purchase products online. This may include your name, address (including billing and shipping addresses), telephone number, e-mail address, organization, city, state and zip code. We may use this information to process and ship orders to contact you about the status of your order, and to contact you with answers to your questions, or to provide information about new and exciting products, services, promotions and corporate-related information. We may use mailings, telephone calls and e-mails to contact you.
 
-You also may create an account through HipoMarket.eu at any time by providing your email address and creating a unique password. An account is not required to visit our site or to place an order at HipoMarket.eu. Creating an account allows you to save order information, order history, track status of your orders and set your ordering preferences. For your privacy and security, we do not store credit card or Gift Card numbers in your account. You may change saved account information anytime. Simply visit the Your Account page, log in with your email address and password.
+You also may create an account through Hipomarket.eu at any time by providing your email address and creating a unique password. An account is not required to visit our site or to place an order at Hipomarket.eu. Creating an account allows you to save order information, order history, track status of your orders and set your ordering preferences. For your privacy and security, we do not store credit card or Gift Card numbers in your account. You may change saved account information anytime. Simply visit the Your Account page, log in with your email address and password.
 
-**Removal or Edit of Your Information**
+ **Removal or Edit of Your Information**
 
 If you have registered for Special E-mail Offerings, you may unsubscribe from the program, by visiting the e-mail unsubscribe page or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by contacting us via e-mail.
 
-If you wish to receive more personalized information from HipoMarket.eu or change anything about your profile such as your e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Profile page.
+If you wish to receive more personalized information from Hipomarket.eu or change anything about your profile such as your e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Profile page.
 
-Non-personally identifiable information is collected without any direct association with you specifically. In the normal course of using HipoMarket.eu, we may collect information about your habits and usage of our sites.
+Non-personally identifiable information is collected without any direct association with you specifically. In the normal course of using Hipomarket.eu, we may collect information about your habits and usage of our sites.
 
-An IP address is a number that is assigned to your computer when you are using Internet. Web servers automatically identify your computer by its IP address. HipoMarket.eu collects IP addresses for the system administrational purposes, to report aggregated information and audit the use of our site. If we are required to do so by law, for example, in response to a court order or subpoena, we will provide these IP addresses to the proper authorities.
+An IP address is a number that is assigned to your computer when you are using Internet. Web servers automatically identify your computer by its IP address. Hipomarket.eu collects IP addresses for the system administrational purposes, to report aggregated information and audit the use of our site. If we are required to do so by law, for example, in response to a court order or subpoena, we will provide these IP addresses to the proper authorities.
