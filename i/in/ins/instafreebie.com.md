@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509113104id_/http%3A//www.instafreebie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401183122id_/https%3A//www.instafreebie.com/about/privacy) for the most accurate reproduction.*
 
 # instaFreebie
 
@@ -92,7 +92,7 @@ Libboo has the discretion to update this Privacy Policy at any time. When we do,
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.instafreebie.com/about/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.instafreebie.com/about/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 ### Contacting us
 
@@ -103,4 +103,4 @@ instaFreebie c/o Libboo
 Watertown, MA 02472  
 [support@instafreebie.com](mailto:support@instafreebie.com)
 
-This document was last updated on September 30, 2014 
+This document was last updated on May 5, 2015 
