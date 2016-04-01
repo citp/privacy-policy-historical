@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usapeopledirectory.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209224200id_/http%3A//usapeopledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usapeopledirectory.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401051812id_/http%3A//usapeopledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # usapeopl - Privacy Policy
 
@@ -8,7 +8,7 @@ Our postal address is
 **8970 Alanada Dr  
 Caledonia, MI, 49316**
 
-We can be reached via e-mail [here](https://web.archive.org/web/20131209224200id_/http%3A//usapeopledirectory.com/contact.php)  
+We can be reached via e-mail [here](https://web.archive.org/web/20160401051812id_/http%3A//usapeopledirectory.com/contact.php)  
 or you can reach us by telephone at (888) 294-0051
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
