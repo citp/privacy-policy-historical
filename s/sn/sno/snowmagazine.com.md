@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502084453id_/http%3A//snowmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowmagazine.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401044625id_/http%3A//snowmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
