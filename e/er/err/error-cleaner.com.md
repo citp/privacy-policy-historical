@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the error-cleaner.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814063537id_/http%3A//error-cleaner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the error-cleaner.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401204445id_/http%3A//error-cleaner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
