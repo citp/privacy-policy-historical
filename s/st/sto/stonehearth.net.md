@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stonehearth.net privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926060617id_/http%3A//stonehearth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonehearth.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401173547id_/http%3A//stonehearth.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stonehearth
+# Privacy Policy – Stonehearth
 
 #### **STONEHEARTH.NET PRIVACY POLICY**
 
@@ -38,7 +38,7 @@ We use cookies to understand and save your preferences for future visits and com
 
 #### **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, or entities that acquire us or that we merge with, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 #### **Children’s Online Privacy Protection Act and players under 13**
 
@@ -70,9 +70,9 @@ contact@radiant-entertainment.com
 
 Radiant Entertainment Privacy Manager
 
-300 Third Street
+5150 El Camino Real
 
-Suite 7
+Suite D30
 
 Los Altos, CA 94022
 
@@ -80,4 +80,4 @@ Los Altos, CA 94022
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-#### _This document was last updated May 27, 2015._
+#### _This document was last updated January 28, 2016._
