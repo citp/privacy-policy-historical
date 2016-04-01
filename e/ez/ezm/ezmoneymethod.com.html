@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the ezmoneymethod.com privacy policy that was archived on 2014-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141208013536id_/http%3A//projectpayday.com/privacy.cgi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezmoneymethod.com privacy policy that was archived on 2016-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401213822id_/http%3A//projectpayday.com/privacy.cgi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
-
+<base href="http://www.projectpayday.com">
 <title>Project Payday - Realistic Extra Income for the Average Joe</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="shortcut icon" href="favicon.ico">
 
@@ -16,41 +17,106 @@ a:link, a:visited, a:hover, a:active {
 	color: #014e0a;
 }
 
-body,td,p {
-	font-family: Verdana, Arial, Helvetica;
-	font-size: 14px;
-	color: #000000;
+@media only screen and (max-width: 1026px) {
+
+	#header, #cust1, #cust2, #cust3, #cust4, #cust5, #cust6, #cust7, #cust8, #cust9, #cust10, #cust11, #cust12, #cust13, #cust14, #cust15, #cust16 {
+		display:none;
+	}
+
+	#headermobile, #cust1m, #cust2m, #cust3m, #cust4m, #cust5m, #cust6m, #cust7m, #cust8m, #cust9m, #cust10m, #cust11m, #cust12m, #cust13m, #cust14m, #cust15m, #cust16m {
+		display:block;
+	}
+	
+	.headerlinks {
+		text-align:center;
+	}
+
+	body,td,p,input {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 14px;
+		color: #000000;
+	}
+	
+	font.header,td.header {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 22px;
+		font-weight: bolder;
+		color: #26701b;
+	}
+	
+	font.join,td.join {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 18px;
+		font-weight: bolder;
+		color: #0000ff;
+	}
+	
+	font.small,td.small {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 14px;
+		color: #000000;
+	}
+	
+	font.fine,td.fine {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 14px;
+		color: #000000;
+	}
+	
+
 }
 
-font.header,td.header {
-	font-family: Verdana, Arial, Helvetica;
-	font-size: 22px;
-	font-weight: bolder;
-	color: #26701b;
-}
+@media screen and (min-width: 1026px) {
 
-font.join,td.join {
-	font-family: Verdana, Arial, Helvetica;
-	font-size: 18px;
-	font-weight: bolder;
-	color: #0000ff;
-}
+	#header, #cust1, #cust2, #cust3, #cust4, #cust5, #cust6, #cust7, #cust8, #cust9, #cust10, #cust11, #cust12, #cust13, #cust14, #cust15, #cust16 {
+		display:block;
+	}
 
-font.small,td.small {
-	font-family: Verdana, Arial, Helvetica;
-	font-size: 12px;
-	color: #000000;
-}
+	#headermobile, #cust1m, #cust2m, #cust3m, #cust4m, #cust5m, #cust6m, #cust7m, #cust8m, #cust9m, #cust10m, #cust11m, #cust12m, #cust13m, #cust14m, #cust15m, #cust16m {
+		display:none;
+	}
 
-font.fine,td.fine {
-	font-family: Verdana, Arial, Helvetica;
-	font-size: 10px;
-	color: #000000;
+	.headerlinks {
+		text-align:right;
+	}
+
+	body,td,p,input {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 14px;
+		color: #000000;
+	}
+	
+	font.header,td.header {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 22px;
+		font-weight: bolder;
+		color: #26701b;
+	}
+	
+	font.join,td.join {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 18px;
+		font-weight: bolder;
+		color: #0000ff;
+	}
+	
+	font.small,td.small {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 12px;
+		color: #000000;
+	}
+	
+	font.fine,td.fine {
+		font-family: Verdana, Arial, Helvetica;
+		font-size: 10px;
+		color: #000000;
+	}
+	
+
 }
 
 -->
 </style>
-
 <script language="javascript" type="text/javascript">
 <!--
 
@@ -98,18 +164,59 @@ function showPop3(strFile){
   function checkForm2() {
     var why = "";
 
-    why += checkFirst(info.firstname.value);
-    why += checkLast(info.lastname.value);
-    why += checkEmail(info.email.value);
-    why += checkEmail2(info.email.value,info.email2.value);
-    why += checkPassword(info.password.value);
-    why += checkPassword2(info.password.value,info.password2.value);
+    why += checkFirst(document.getElementById('firstname').value);
+    why += checkLast(document.getElementById('lastname').value);
+    why += checkEmail(document.getElementById('email').value);
+    why += checkEmail2(document.getElementById('email').value,document.getElementById('email2').value);
+    why += checkPassword(document.getElementById('joinpassword').value);
+    why += checkPassword2(document.getElementById('joinpassword').value,document.getElementById('joinpassword2').value);
 
     if (why != "") {
       alert("Oops! Please fix the errors listed below:\n\n" + why);
       return false;
     }
 
+    return true;
+}
+
+  function checkForm3() {
+    var why = "";
+		
+    why += checkFirst(document.getElementById('firstnamemob').value);
+    why += checkLast(document.getElementById('lastnamemob').value);
+    why += checkEmail(document.getElementById('emailmob').value);
+    why += checkEmail2(document.getElementById('emailmob').value,document.getElementById('email2mob').value);
+    why += checkPassword(document.getElementById('joinpasswordmob').value);
+    why += checkPassword2(document.getElementById('joinpasswordmob').value,document.getElementById('joinpassword2mob').value);
+
+    if (why != "") {
+      alert("Oops! Please fix the errors listed below:\n\n" + why);
+      return false;
+    }
+
+    return true;
+}
+
+
+function checkFormHeader() {
+    var why = "";
+
+    var form_val = document.getElementById('useridheader').value;
+    if (form_val.length < 5){
+        why += "You entered an invalid email address or User Id.\n";
+    }
+
+    form_val = document.getElementById('passwordheader').value;
+    if ((form_val.length < 4)||(form_val.length > 20)){
+        why += "Your password must be 4-20 characters.\n";
+    }
+
+    if (why != "") {
+       alert("Oops! Please fix the errors listed below:\n\n" + why);
+       return false;
+    }
+
+   leaving=false;
     return true;
 }
 
@@ -175,9 +282,12 @@ function checkPassword2 (strng,strng2) {
 </head>
 
 <body bgcolor="#ffffff"><center>
-  <table border="0" style="bordercolor:#000000" bgcolor="#ffffff" width="800" cellpadding="0" cellspacing="0">
+  <table style="max-width:800px" border="0" bgcolor="#ffffff" cellpadding="0" cellspacing="0">
     <tbody><tr>
       <td>
+
+	<!-- Begin Desktop Header -->
+	<div id="header">
         <table border="0" width="100%" cellpadding="0" cellspacing="0">
           <tbody><tr>
             <td>
@@ -185,7 +295,7 @@ function checkPassword2 (strng,strng2) {
                           width: 100%;
                           height: 159px;
                           background-repeat: no-repeat;
-                          background-position: center center;"><!-- id=header -->
+													"><!-- id=header -->
                 <div style="margin-top:20px;
                               width: 370px;
                               float: right;
@@ -293,9 +403,22 @@ function checkPassword2 (strng,strng2) {
             </td>
           </tr>
         </tbody></table>
+				</div>
+			<!-- End Desktop View -->
+
+<!-- Begin Mobile Header -->
+<div id="headermobile">
+        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td align="center"><img src="images/header.jpg" width="250" alt="" border="0"><br>&nbsp;</td>
+					</tr>
+        </tbody></table>
+	</div>
+	<!-- End Mobile Header -->
+	
 
 <table border="0" width="100%" cellpadding="10" cellspacing="0">
-<tbody><tr><td align="right"><a href="javascript: history.go(-1)">Return to the Previous Page</a> • <a href="/index.cgi">Home</a></td></tr>
+<tbody><tr><td class="headerlinks"><a href="javascript: history.go(-1)">Return to the Previous Page</a> • <a href="/index.cgi">Home</a></td></tr>
 <tr><td>
 	<font color="#26701b"><b>Project Payday Privacy Policy</b></font><br><br>
 	We take your privacy very seriously, and we've created this Privacy Policy in order
@@ -432,12 +555,13 @@ function checkPassword2 (strng,strng2) {
     
   <br><br>
 
-  <table border="0" width="700" cellpadding="0" cellspacing="0">
+  <table border="0" style="max-width:700px" cellpadding="0" cellspacing="0">
     <tbody><tr>
       <td align="center">
         <font class="fine">
           <a href="/home.cgi" onclick="leaving=false">Home</a> •
 <a href="/affiliates.cgi" onclick="leaving=false">Affiliates</a> •
+<a href="/login.cgi" onclick="leaving=false">Login</a> •
 <a href="/guarantee.cgi" onclick="leaving=false">$100 Guarantee</a> •
 <a href="/disclaimer.cgi" onclick="leaving=false">Earnings Disclaimer</a> •
 Privacy Policy •
@@ -455,7 +579,7 @@ Privacy Policy •
     </tr>
     <tr>
       <td align="center">
-        <font class="fine">Copyright © 2007-2014 ProjectPayday.com, LLC. All Rights Reserved.</font>
+        <font class="fine">© Copyright 2016 ProjectPayday.com, LLC. All Rights Reserved.</font>
       </td>
     </tr>
   </tbody></table>
