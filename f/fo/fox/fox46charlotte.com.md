@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox46charlotte.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127205840id_/http%3A//www.fox46charlotte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox46charlotte.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401222103id_/http%3A//www.fox46charlotte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WJZY
 
