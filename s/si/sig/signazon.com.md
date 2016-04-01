@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signazon.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151101id_/http%3A//www.signazon.com/privacy.aspx%3Fn%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signazon.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402012245id_/http%3A//www.signazon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Signazon
 
