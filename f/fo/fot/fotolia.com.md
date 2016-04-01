@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124021705id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401220344id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
 
 # Fotolia - Royalty-free licenses and other agreements from our image bank
 
-This Privacy Policy, as amended from time to time (the “Policy”), governs Fotolia’s collection and use of your personal information. By using the [Fotolia.com](https://www.fotolia.com/ "Fotolia.com") Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. This Policy is governed by the laws of the State of New York irrespective of your location. By using Fotolia’s Website, you agree to be bound by the English-language version of this Policy, found at <http://us.fotolia.com/Info/Agreements/PrivacyPolicy>, and acknowledge that, in the event of conflict between the English-language version and this translated version, the English-language version shall prevail. If you have questions related to our Policy, please contact the applicable Zone Manager, listed below. Your Zone Manager is dependent on the zone in which you are registered. 
+This Privacy Policy, as amended from time to time (the “Policy”), governs Fotolia’s collection and use of your personal information. By using the [Fotolia.com](https://www.fotolia.com/ "Fotolia.com") Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. This Policy is governed by the laws of the State of California irrespective of your location. By using Fotolia’s Website, you agree to be bound by the English-language version of this Policy, found at <http://us.fotolia.com/Info/Agreements/PrivacyPolicy>, and acknowledge that, in the event of conflict between the English-language version and this translated version, the English-language version shall prevail. If you have questions related to our Policy, please contact the applicable Zone Manager, listed below. Your Zone Manager is dependent on the zone in which you are registered. 
 
 **US Zone**   
 [enterprise@fotolia.com](mailto:enterprise@fotolia.com)   
-41 East 11th Street,   
-11th Floor   
-New York, NY 10003   
+345 Park Ave   
+San Jose, CA 95110   
 USA 
 
 This Website is intended for adults. If you are between the ages of 13 and 18, please ask your parent or legal guardian for permission before you enter Fotolia’s Website. 
