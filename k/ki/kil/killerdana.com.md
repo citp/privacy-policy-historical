@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132117id_/http%3A//www.killerdana.com/pages/partners_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401224617id_/http%3A//www.killerdana.com/pages/partners_privacy_policy) for the most accurate reproduction.*
 
 # - KillerDana.com Surf Store
 
-This website, www.killerdana.com, including, if applicable, the mobile version (collectively, the "Website") is operated by Fanatics, Inc. ("Fanatics") or one of its subsidiaries or affiliates ("Fanatics Entities") on behalf of Killer Dana Mobile Store and/or its affiliated entities ("Partner Entities"). When used herein, the terms "we," "us" or "our" include Fanatics, the Fanatics Entities and the Partner Entities.
+This website, www.killerdana.com, including, if applicable, the mobile version (collectively, the "Website") is operated by Fanatics, Inc. ("Fanatics") or one of its subsidiaries or affiliates ("Fanatics Entities") on behalf of Killer Dana and/or its affiliated entities ("Partner Entities"). When used herein, the terms "we," "us" or "our" include Fanatics, the Fanatics Entities and the Partner Entities.
 
 We take very seriously the protection and proper use of your personal and non-personal information. We want you to understand what information may be collected from you, how such information is used, and the choices you have regarding the use of this information. Accordingly, this policy ("Privacy Policy") explains how we collect, use and disclose your personal and other information through this Website. We will treat your information consistent with this Privacy Policy unless you have consented otherwise. Also, you may opt-out of certain uses and disclosures of your personal information, as further explained in this Privacy Policy.
 
@@ -88,6 +88,6 @@ We are committed to the preservation of online privacy for all of our visitors, 
 For questions or concerns relating to this Privacy Policy, we can be contacted at:
 
 www.killerdana.com c/o Fanatics Retail Group Fulfillment, Inc.  
-5245 Commonwealth Avenue  
-Jacksonville, FL 32254  
+8100 Nations Way  
+Jacksonville, FL 32256  
 [privacy@fanaticsretailgroup.com](mailto:privacy@fanaticsretailgroup.com "Email Us")
