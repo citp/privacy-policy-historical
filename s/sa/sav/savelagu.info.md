@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savelagu.info privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204191034id_/http%3A//www.savelagu.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savelagu.info privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402014350id_/http%3A//www.savelagu.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Savelagu.com
 
