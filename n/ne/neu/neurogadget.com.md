@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neurogadget.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215185335id_/http%3A//neurogadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurogadget.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401185252id_/http%3A//neurogadget.com/privacy-policy) for the most accurate reproduction.*
 
-# Neurogadget Privacy Policy - Neurogadget.com
+# Neurogadget Privacy Policy - Neurogadget
 
 You should acknowledge that Neurogadget may collect ‘user information’ of our visitors / users for providing improved and customized services. However, the collection, processing and use of personal information shall be governed by this Privacy Policy.
 
