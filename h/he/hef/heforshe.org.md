@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heforshe.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091015id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heforshe.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401051553id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
 
 # About the website: Privacy notice | UN Women – Headquarters
 
