@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purechat.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025214831id_/https%3A//www.purechat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purechat.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401032157id_/https%3A//purechat.com/privacy) for the most accurate reproduction.*
 
-# Free Live Chat Software for Websites | Privacy
+# Pure Chat Privacy Policy
 
 ### Use of Information
 
