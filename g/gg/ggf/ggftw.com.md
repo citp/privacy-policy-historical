@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggftw.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052531id_/http%3A//ggftw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggftw.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401042528id_/http%3A//ggftw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ggFTW MMORPG Community
 
