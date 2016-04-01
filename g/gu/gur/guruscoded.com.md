@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guruscoded.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211192545id_/http%3A//guruscoded.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruscoded.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401211905id_/http%3A//guruscoded.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies » Guruscoded
 
