@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobalert4u.in privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025134552id_/http%3A//www.jobalert4u.in/p/privacy-policy-if-you-require-any-more.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalert4u.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401220936id_/http%3A//www.jobalert4u.in/p/privacy-policy-if-you-require-any-more.html) for the most accurate reproduction.*
 
 # |jobalert4u.in
 
