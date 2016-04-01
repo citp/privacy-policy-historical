@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coursementor.com privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004120859id_/http%3A//coursementor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursementor.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401110226id_/http%3A//coursementor.com/privacy.html) for the most accurate reproduction.*
 
 # privacy | CourseMentor.com
 
-| [](https://web.archive.org/web/20141004120859id_/http%3A//coursementor.com/index.htm) |  | 
+| [](https://web.archive.org/web/20160401110226id_/http%3A//coursementor.com/index.htm) |  | 
 
 Your source for Education and Training  
   
