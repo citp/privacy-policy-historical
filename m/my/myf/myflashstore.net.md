@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflashstore.net privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920142821id_/https%3A//www.myflashstore.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflashstore.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401171244id_/https%3A//www.myflashstore.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - myFlashStore
 
