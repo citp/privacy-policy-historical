@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218041318id_/http%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401235950id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -177,8 +177,8 @@ Monday to Friday
 
 If you believe that we have interfered with your privacy in our handling of your personal information, you may lodge a complaint by contacting us on the above contact details or in writing to: Corporate Compliance, Allianz Australia Limited, GPO Box 4049, Sydney, NSW 2001.
 
-We will attempt to resolve your complaint in accordance with our Complaints Resolution Process. You can obtain a copy of our [Complaints Resolution Process](http://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure) by contacting us or going to the following web address:  
-http://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure.
+We will attempt to resolve your complaint in accordance with our Complaints Resolution Process. You can obtain a copy of our [Complaints Resolution Process](https://web.archive.org/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure) by contacting us or going to the following web address:  
+https://www.allianz.com.au/aalaus/aalaus.nsf/File?Open&s=aucu+complaints+and+disputes+brochure.
 
 If you are unhappy with the resolution of your complaint or with the way that Allianz has handled your complaint through the Complaints Resolution Process, you may be able to refer the matter to the Financial Ombudsman Service (FOS) subject to its Terms of Reference or the Office of the Australian Information Commissioner. The contact details for these bodies are as follows:
 
