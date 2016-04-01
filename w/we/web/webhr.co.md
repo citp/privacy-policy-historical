@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhr.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235632id_/http%3A//webhr.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhr.co privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401091542id_/http%3A//webhr.co/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of WebHR
 
