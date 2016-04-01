@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jiujik.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315000834id_/http%3A//www.jiujik.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jiujik.com privacy policy that was archived on 2016-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401094627id_/http%3A//www.jiujik.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:wb="http://open.weibo.com/wb" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"><head profile="http://www.w3.org/1999/xhtml/vocab">
 		<!--New Relic tag -->
@@ -11,7 +11,7 @@
         <link rel="apple-touch-icon" sizes="144x144" href="/sites/default/themes/jj_theme/images/apple-touch-icon-144x144.png">
         <link rel="apple-touch-icon-precomposed" href="/sites/default/themes/jj_theme/images/apple-touch-icon-precomposed.png">	
 
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8OWFNWGwEIUVVRDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
 <link rel="canonical" href="http://www.jiujik.com/privacy-policy">
 <meta name="news_keywords" content="business association directories, career advice, career forum, career handbook, company profile, employer directories, employers in hong kong, hong kong career, employment agency, employment agencies, jobs in hong kong, job vacancies in hong kong, job seekers, hong kong job market, hong kong job site, hong kong jobs, learning resources, hong kong vacancies, professional association directories, South China Morning Post">
 <meta name="keywords" content="business association directories, career advice, career forum, career handbook, company profile, employer directories, employers in hong kong, hong kong career, employment agency, employment agencies, jobs in hong kong, job vacancies in hong kong, job seekers, hong kong job market, hong kong job site, hong kong jobs, learning resources, hong kong vacancies, professional association directories, South China Morning Post">
@@ -22,15 +22,15 @@
 <link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_19tHKmKtcZbY-jWvyx--RHdQfeO3qsG7jbbofVm25H8.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://myjobs.jiujik.com/css/myjobs/jquery.msgbox.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://myjobs.jiujik.com/css/jquery.ui.autocomplete.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_yRf_B1T8PJCQYDai_gpfxFQxfAzU-ydj_6rRjuxMEBM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_ART34W3tT3i-YQyRpugTOT0ByWdWGrqQespgC1pkofM.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie7_override.css?nl85oq" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie7_override.css?o4y6sq" media="all" />
 <![endif]-->
 
 <!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie8_override.css?nl85oq" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.jiujik.com/sites/default/themes/jj_theme/css/ie8_override.css?o4y6sq" media="all" />
 <![endif]-->
         <script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_kPKw9MerbP1HIOaFCy9zwrUWSGUa2iKyW6ih9PEtqck.js"></script>
 <script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_dTzpEfg5C8aCKXF1xNgEebophY6fm3bvn1HT7ZtCxpM.js"></script>
@@ -40,15 +40,14 @@ var $ = jQuery;
 //--><!]]>
 </script>
 <script type="text/javascript" src="http://myjobs.jiujik.com/js/jquery.ui.autocomplete.js"></script>
-<script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_ERLIifEXZ5Ah02FgTcxXymIK-4KiANwbSKQAEt9eo_I.js"></script>
+<script type="text/javascript" src="http://www.jiujik.com/sites/default/files/js/js_q8VxTHk3DnNxiO7s_X41pk1VeRYqdbhIlRyw7LE6GqA.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jj_theme","theme_token":"Mqd1rF7vzTbEP9m95Vwmry48Ru7_lB-SDTo-RcYB_vM","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"0":1,"http:\/\/myjobs.jiujik.com\/js\/jquery.ui.autocomplete.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.corner.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.msgBox.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.easing.1.3.js":1,"sites\/default\/themes\/jj_theme\/js\/shared.js":1,"sites\/default\/themes\/jj_theme\/js\/cookies.js":1,"sites\/default\/themes\/jj_theme\/js\/scripts.js":1,"sites\/default\/themes\/jj_theme\/js\/core.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custompage\/custompage.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"http:\/\/myjobs.jiujik.com\/css\/myjobs\/jquery.msgbox.css":1,"http:\/\/myjobs.jiujik.com\/css\/jquery.ui.autocomplete.css":1,"sites\/default\/themes\/jj_theme\/css\/style.css":1,"sites\/default\/themes\/jj_theme\/css\/drupal_cms.css":1,"sites\/default\/themes\/jj_theme\/css\/mock.css":1,"sites\/default\/themes\/jj_theme\/css\/home_extra.css":1,"sites\/default\/themes\/jj_theme\/css\/print.css":1,"sites\/default\/themes\/jj_theme\/css\/ie7_override.css":1,"sites\/default\/themes\/jj_theme\/css\/ie8_override.css":1}},"cms_url":"http:\/\/www.jiujik.com\/","myjobs_url":"http:\/\/myjobs.jiujik.com\/","mobile_url":"http:\/\/m.jiujik.com\/"});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"jj_theme","theme_token":"QbVompmnwyYUoIlqKmT6Ku-8maeD0lY-HXrbwhJLjgk","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"0":1,"http:\/\/myjobs.jiujik.com\/js\/jquery.ui.autocomplete.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.corner.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.msgBox.js":1,"sites\/default\/themes\/jj_theme\/js\/jquery.easing.1.3.js":1,"sites\/default\/themes\/jj_theme\/js\/shared.js":1,"sites\/default\/themes\/jj_theme\/js\/cookies.js":1,"sites\/default\/themes\/jj_theme\/js\/scripts.js":1,"sites\/default\/themes\/jj_theme\/js\/core.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custompage\/custompage.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"http:\/\/myjobs.jiujik.com\/css\/myjobs\/jquery.msgbox.css":1,"http:\/\/myjobs.jiujik.com\/css\/jquery.ui.autocomplete.css":1,"sites\/default\/themes\/jj_theme\/css\/style.css":1,"sites\/default\/themes\/jj_theme\/css\/drupal_cms.css":1,"sites\/default\/themes\/jj_theme\/css\/mock.css":1,"sites\/default\/themes\/jj_theme\/css\/home_extra.css":1,"sites\/default\/themes\/jj_theme\/css\/print.css":1,"sites\/default\/themes\/jj_theme\/css\/ie7_override.css":1,"sites\/default\/themes\/jj_theme\/css\/ie8_override.css":1}},"cms_url":"http:\/\/www.jiujik.com\/","myjobs_url":"http:\/\/myjobs.jiujik.com\/","mobile_url":"http:\/\/m.jiujik.com\/"});
 //--><!]]>
 </script>
         
-        
-        <!--<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>//-->
+                       <!--<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>//-->
 
         <!-- Start: GPT Sync -->
         <script type="text/javascript">
@@ -196,7 +195,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <li class="itm-events "><a href="/events">Recruitment Day</a>
 			  <div id="hot_icon"></div>
 			  </li>
-              <li class="itm-courses "><a href="/education">Courses</a></li>
+              <li class="itm-courses"><a href="http://education.jiujik.com">Courses</a></li>
               <li class="itm-resourses "><a href="/resources">Resources</a></li>
             </ul>
             <ul class="right clean for-employers">
@@ -215,28 +214,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <div class="jobs-column">
                   <div class="caption">Latest Job</div>
                   <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OTHERS-Job-Description/Event+Executive/1158459">Event Executive</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RENAISSANCE+HARBOUR+VIEW+HOTEL+HONG+KONG-Company-Name/RENAISSANCE+HARBOUR+VIEW+HOTEL+HONG+KONG">RENAISSANCE HARBOUR VIEW HOTEL HONG KONG</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-OTHERS-Job-Description/Assistant+Events+Operations+Manager/1471887">Assistant Events Operations Manager</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+ABERDEEN+MARINA+CLUB-Company-Name/THE+ABERDEEN+MARINA+CLUB">The Aberdeen Marina Club</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OTHERS-COURIERS-DRIVERS-OTHERS-Job-Description/兼職司機/1158539">兼職司機</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE-Company-Name/BO-LO_A_GNE">BO-LO'GNE</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-OTHERS-Job-Description/AV+Technician/1471815">AV Technician</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+ABERDEEN+MARINA+CLUB-Company-Name/THE+ABERDEEN+MARINA+CLUB">The Aberdeen Marina Club</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OTHERS-EMPLOYEE-RELATIONS-GENERALIST-HR-Job-Description/Human+Resources+Officer/1157971">Human Resources Officer</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+RITZ-CARLTON,+HONG+KONG-Company-Name/THE+RITZ-CARLTON,+HONG+KONG">THE RITZ-CARLTON, HONG KONG</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/-Job-Description/Senior+Duty+Engineer+資深當值工程師/1470393">Senior Duty Engineer 資深當值工程師</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/EMPIRE+HOTELS-Company-Name/EMPIRE+HOTELS">EMPIRE HOTELS</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OTHERS-HELP-DESK-IT-SUPPORT-NETWORK-SYSTEM-ADMIN-Job-Description/Information+Technology+Specialist/1157970">Information Technology Specialist</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/THE+RITZ-CARLTON,+HONG+KONG-Company-Name/THE+RITZ-CARLTON,+HONG+KONG">THE RITZ-CARLTON, HONG KONG</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/-Job-Description/Craftsman+木工/1470385">Craftsman 木工</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/EMPIRE+HOTELS-Company-Name/EMPIRE+HOTELS">EMPIRE HOTELS</a></dd>
 </dl>                </div>
                 <div class="articles-column">
                   <div class="caption">Latest News / Update</div>
                   <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E7%BE%8E%E9%A3%9F%E9%85%8D%E9%85%92-%E7%B6%93%E9%A9%97%E6%90%AD%E5%A4%A0"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/1283_wine_e_0.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E7%BE%8E%E9%A3%9F%E9%85%8D%E9%85%92-%E7%B6%93%E9%A9%97%E6%90%AD%E5%A4%A0">美食配酒 經驗搭夠</a></dt>
-  <dd>不少生意的促成，是透過餐桌上的會談，有時也會在用餐時淺嘗兩杯。</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%8F%90%E4%BE%9B%E4%BA%8B%E6%A5%AD%E7%A9%BA%E9%96%93-%E5%87%9D%E8%81%9A%E9%85%92%E5%BA%97%E4%BA%BA%E6%89%8D"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/Activity%20-%20Laugther%20Yoga-W109.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%8F%90%E4%BE%9B%E4%BA%8B%E6%A5%AD%E7%A9%BA%E9%96%93-%E5%87%9D%E8%81%9A%E9%85%92%E5%BA%97%E4%BA%BA%E6%89%8D">提供事業空間 凝聚酒店人才</a></dt>
+  <dd>酒店業的人才競爭向來激烈，求職者不乏選擇，僱主自得從人力資源策略著手，締造理想的工作環境，以充裕的培訓及事業發展空間推動員工成長，藉此吸引及保留人才。</dd>
 </dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%86%92%E4%BD%A0%E9%86%92%E9%85%92%E8%A6%81%E8%A8%A3"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/1281_wine_e_1.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%86%92%E4%BD%A0%E9%86%92%E9%85%92%E8%A6%81%E8%A8%A3">醒你醒酒要訣</a></dt>
-  <dd>上期談了「醒酒」，俗稱「透氣」，是為了讓酒與空氣有更多的接觸，令香味展現出來，或去除沉澱物。而晶瑩剔透的醒酒器( Decanter )除了有尊貴的外表，更有實際的用途。</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E5%8A%A0%E5%BC%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98-%E6%A7%8B%E5%BB%BA%E5%92%8C%E8%AB%A7%E5%B7%A5%E4%BD%9C%E9%96%93"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/SCMP_03MAR16_JJ_WINGON53__YAN_0231_56215589-W109.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E5%8A%A0%E5%BC%B7%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AD%98-%E6%A7%8B%E5%BB%BA%E5%92%8C%E8%AB%A7%E5%B7%A5%E4%BD%9C%E9%96%93">加強精神健康知識 構建和諧工作間</a></dt>
+  <dd>香港人生活節奏急促，工作壓力大，久而久之更或會形成情緒問題，影響心理健康。有見及此，香港永安旅遊有限公司 ( 永安旅遊 ) 特別為員工舉辦「精神健康急救證書課程」，...</dd>
 </dl>                </div>
                 <div class="clear"></div>
               </div>
@@ -244,28 +243,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <div class="jobs-column">
                   <div class="caption">Latest Job</div>
                   <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/GRADUATE-TRAINEE-RETAIL-SALES-OTHERS-Job-Description/Shop+Assistant+_s_+Retail+Sales+_s_+Sales+Advisor+_s_+Sales+Associate+_s_+Senior+Sales+_s_+Shop+Manager++(店+務+員+_s_+店+務+助理_s_+售+貨+員+)+(Full+Time)+x+Many/1160212">Shop Assistant / Retail Sales / Sales Advisor / Sales Associate / Senior Sales / Shop Manager  (店 務 員 / 店 務 助理/ 售 貨 員 ) (Full Time) x Many</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/JOB+CENTER+CONSULTANCY+LIMITED-Company-Name/JOB+CENTER+CONSULTANCY+LIMITED">Job Center Consultancy Limited</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CUSTOMER-SERVICE-SALES-SUPPORT-TELEMARKETING-CALL-CENTRE-Job-Description/Customer+Service+Assistant+(6-month+Contract)/1471951">Customer Service Assistant (6-month Contract)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/AMWAY+HONG+KONG+LIMITED-Company-Name/AMWAY+HONG+KONG+LIMITED">AMWAY HONG KONG LIMITED</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/GRADUATE-TRAINEE-CUSTOMER-SERVICE-SALES-SUPPORT-TELEMARKETING-CALL-CENTRE-Job-Description/顧客服務大使+(熱線中心+_s_+客戶服務中心)+5天工作,+$13-17K/1160174">顧客服務大使 (熱線中心 / 客戶服務中心) 5天工作, $13-17K</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/HARMAN+SEARCH+COMPANY+LIMITED-Company-Name/HARMAN+SEARCH+COMPANY+LIMITED">Harman Search Company Limited</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/PROPERTY-AGENCY-PROPERTY-SALES-OTHERS-Job-Description/Assistant+Officer+-+Sales+(2)+Department/1471704">Assistant Officer - Sales (2) Department</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/HENDERSON+LAND+DEVELOPMENT+CO+LTD-Company-Name/HENDERSON+LAND+DEVELOPMENT+CO+LTD">HENDERSON LAND DEVELOPMENT CO LTD</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/TELECOMMUNICATION-WIRELESS-RADIO-TELECOMMUNICATION-RETAIL-SALES-Job-Description/(電訊門市)+營業代表$14-17K+(歡迎畢業生)+_s_+高級營業代表$18-23K+Retail+Sales/1160173">(電訊門市) 營業代表$14-17K (歡迎畢業生) / 高級營業代表$18-23K Retail Sales</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/HARMAN+SEARCH+COMPANY+LIMITED-Company-Name/HARMAN+SEARCH+COMPANY+LIMITED">Harman Search Company Limited</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CUSTOMER-SERVICE-SALES-SUPPORT-RETAIL-SALES-OTHERS-Job-Description/Part-time+Sales+長期_s_短期兼職運動用品店務員(大量空缺提供)/1471590">Part-time Sales 長期/短期兼職運動用品店務員(大量空缺提供)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ROYAL+SPORTING+HOUSE-Company-Name/ROYAL+SPORTING+HOUSE">ROYAL SPORTING HOUSE</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CLERICAL-ADMIN-OPERATION-OPERATIONS-FACILITY-PROPERTY-MANAGEMENT-PROPERTY-AGENCY-Job-Description/地產代理或見習地產代理+_s_+地產文員/1160170">地產代理或見習地產代理 / 地產文員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/天生地產公司-Company-Name/天生地產公司">天生地產公司</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/傢俬度尺專員(月薪可達$15,000以上)/1471509">傢俬度尺專員(月薪可達$15,000以上)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/實惠家居有限公司-Company-Name/實惠家居有限公司">實惠家居有限公司</a></dd>
 </dl>                </div>
                 <div class="articles-column">
                   <div class="caption">Latest News / Update</div>
                   <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%89%93%E9%80%A0%E5%B0%88%E6%A5%AD%E5%BD%A2%E8%B1%A1-%E8%A6%8B%E5%B7%A5%E5%A2%9E%E5%84%AA%E5%8B%A2"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/FB_ZOEY_e_0.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%89%93%E9%80%A0%E5%B0%88%E6%A5%AD%E5%BD%A2%E8%B1%A1-%E8%A6%8B%E5%B7%A5%E5%A2%9E%E5%84%AA%E5%8B%A2">打造專業形象 見工增優勢</a></dt>
-  <dd>根據哈佛大學研究顯示，來自同樣學歷背景的人，外表較為優勝的，被取錄的機會相對地提高。因此，要提升面試成功機會，絕不能輕視見工形象及妝容。</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%80%86%E5%B8%82%E4%B8%AD%E6%89%BE%E6%A9%9F%E6%9C%83"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_252422464-W109.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E9%80%86%E5%B8%82%E4%B8%AD%E6%89%BE%E6%A9%9F%E6%9C%83">逆市中找機會 </a></dt>
+  <dd>筆者在復活節假期第一天便不約而同接到兩位業界朋友來電，第一位說對餐飲業前景未敢樂觀，另一位更說零售業倒閉潮開始了。兩個都是壞消息，但同樣是早已預料的事。</dd>
 </dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%AD%B7%E7%9C%BC%E8%B2%BC%E5%A3%AB-%E4%B8%8A%E7%8F%AD%E6%97%8F%E8%A6%81%E7%9F%A5"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/NEWYEAR-CELEBRATION__AAL102_a_1.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%AD%B7%E7%9C%BC%E8%B2%BC%E5%A3%AB-%E4%B8%8A%E7%8F%AD%E6%97%8F%E8%A6%81%E7%9F%A5">護眼貼士 上班族要知</a></dt>
-  <dd>&nbsp;</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%9F%B9%E8%B6%B3%E8%85%AB-%E4%BF%82%E4%B9%9C%E6%9D%B1%E6%9D%B1%EF%BC%9F"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/xie%20400cmyk-W109.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E8%9F%B9%E8%B6%B3%E8%85%AB-%E4%BF%82%E4%B9%9C%E6%9D%B1%E6%9D%B1%EF%BC%9F">蟹足腫 係乜東東？</a></dt>
+  <dd>你們有沒有好奇，為甚麼有些人的心口，或是手臂會有一條粗粗紅紅，又微微隆起的疤痕呢？其實這種疤痕叫做蟹足腫，是一種疤痕組織增生引起的良性皮膚病變。</dd>
 </dl>                </div>
                 <div class="clear"></div>
               </div>
@@ -273,30 +272,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <div class="jobs-column">
                   <div class="caption">Latest Job</div>
                   <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/INVESTMENT-SECURITIES-OTHERS-Job-Description/Financial+Planning+Manager_s_Financial+Planning+Officer/1155670">Financial Planning Manager/Financial Planning Officer</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/MANULIFE-Company-Name/MANULIFE">Manulife</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OPERATIONS-RETAIL-BANKING-BRANCH-BANKING-Job-Description/Assistant+Manager,+Settlement/1471942">Assistant Manager, Settlement</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/FINANCIAL-ANALYST-ASSET-MANAGEMENT-BUSINESS-DEVELOPMENT-Job-Description/2015+Management+Trainee+Programme/1160233">2015 Management Trainee Programme</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ASIA+STAR+RECRUITMENT-Company-Name/ASIA+STAR+RECRUITMENT">ASIA STAR RECRUITMENT</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CREDIT-OTHERS-Job-Description/Officer,+Operations+(Credit+Card)+(Contract+Period+until+November+26,+2016)/1471934">Officer, Operations (Credit Card) (Contract Period until November 26, 2016)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/INVESTMENT-SECURITIES-INSURANCE-AGENT-BROKER-GENERAL-MANAGEMENT-Job-Description/AXA+Associates+_s_+見習理財經理/1142573">AXA Associates / 見習理財經理</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/安盛金融有限公司-Company-Name/安盛金融有限公司">安盛金融有限公司</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/DERIVATIVES-EQUITIES-INVESTMENT-SECURITIES-Job-Description/Manager,+Investment+Product/1471929">Manager, Investment Product</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/TELEMARKETING-CALL-CENTRE-ASSET-MANAGEMENT-OTHERS-Job-Description/金融營業員+_s_+團隊/1155944">金融營業員 / 團隊</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/訊匯集團有限公司-Company-Name/訊匯集團有限公司">訊匯集團有限公司</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RESEARCH-ANALYSIS-RETAIL-BANKING-BRANCH-BANKING-OTHERS-Job-Description/Senior+Business+Analyst+(Contract+Period+until+November+26,+2016)/1471925">Senior Business Analyst (Contract Period until November 26, 2016)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH-Company-Name/BANK+OF+COMMUNICATIONS+CO^^,+LTD^^+HONG+KONG+BRANCH">Bank of Communications Co., Ltd. Hong Kong Branch</a></dd>
 </dl>                </div>
                 <div class="articles-column">
                   <div class="caption">Latest News / Update</div>
                   <dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E7%87%9F%E5%95%86%E9%AC%A5%E6%99%BA-%E5%89%B5%E6%84%8F%E5%8F%96%E5%8B%9D-acca%E5%95%86%E6%A5%AD%E7%AD%96%E5%8A%83%E5%A4%A7%E6%AF%94%E6%8B%BC"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/4gal_a_1.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E7%87%9F%E5%95%86%E9%AC%A5%E6%99%BA-%E5%89%B5%E6%84%8F%E5%8F%96%E5%8B%9D-acca%E5%95%86%E6%A5%AD%E7%AD%96%E5%8A%83%E5%A4%A7%E6%AF%94%E6%8B%BC">營商鬥智 創意取勝 ACCA商業策劃大比拼</a></dt>
-  <dd>&nbsp;</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E5%B7%A5%E4%BD%9C%E6%96%B0%E8%B6%A8%E5%8B%A2%E8%A6%81%E6%9C%89%E7%94%9F%E6%84%8F%E4%BA%BA%E9%A0%AD%E8%85%A6"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_140668648-W109.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E5%B7%A5%E4%BD%9C%E6%96%B0%E8%B6%A8%E5%8B%A2%E8%A6%81%E6%9C%89%E7%94%9F%E6%84%8F%E4%BA%BA%E9%A0%AD%E8%85%A6">會計工作新趨勢要有生意人頭腦</a></dt>
+  <dd>會計工作涉及內部核數、全盤會計、內部監控及遵守規章等不同範疇，隨著環球經濟市場的變動，澳洲會計師公會早前一項調查指出，今年負責危機管理、策略想法、網上行銷知識三方面，最有增聘人手的需要，...</dd>
 </dl><dl class="article">
-  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E4%BA%BA%E9%A1%9E%E6%B0%B8%E9%81%A0%E9%83%BD%E8%A2%AB%E3%80%8C%E9%80%99%E6%AC%A1%E4%B8%8D%E5%90%8C%E3%80%8D%E6%84%9A%E5%BC%84"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/stock-illustration-31867022-money-of-magic_0.jpg"></a></dt>
-  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E4%BA%BA%E9%A1%9E%E6%B0%B8%E9%81%A0%E9%83%BD%E8%A2%AB%E3%80%8C%E9%80%99%E6%AC%A1%E4%B8%8D%E5%90%8C%E3%80%8D%E6%84%9A%E5%BC%84">人類永遠都被「這次不同」愚弄</a></dt>
-  <dd>&nbsp;
-最貴的四個英文字是「這次不同」( this time it's different ) ── 約翰．坦伯頓爵士。
-&nbsp;</dd>
+  <dt class="thumbnail"><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E6%A5%AD%E9%9C%80%E6%B1%82%E5%B0%88%E6%89%8D-%E4%BB%A5%E8%BF%8E%E6%8E%A5%E6%9B%B4%E5%A4%9A%E5%A5%91%E6%A9%9F"><img src="http://www.jiujik.com/sites/default/files/rsa/menu_thumb/shutterstock_129182672-W109_0.jpg"></a></dt>
+  <dt><a target="_blank" href="http://www.jiujik.com/resources/article/%E6%9C%83%E8%A8%88%E6%A5%AD%E9%9C%80%E6%B1%82%E5%B0%88%E6%89%8D-%E4%BB%A5%E8%BF%8E%E6%8E%A5%E6%9B%B4%E5%A4%9A%E5%A5%91%E6%A9%9F">會計業需求專才 以迎接更多契機</a></dt>
+  <dd>職業訓練局 ( VTC ) 會計業訓練委員會 ( 下稱「委員會」 ) 發表《2015年會計業人力調查報告》。委員會對會計業未來人力需求持審慎樂觀態度，預測到2020年的會計業主要職能的人力需求，...</dd>
 </dl>                </div>
                 <div class="clear"></div>
               </div>
@@ -304,32 +301,32 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                 <div class="jobs-column">
                   <div class="caption">Latest Job</div>
                   <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/短期兼職店務助理/1158334">短期兼職店務助理</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ESPRIT+RETAIL+(HONG+KONG)+LTD-Company-Name/ESPRIT+RETAIL+(HONG+KONG)+LTD">ESPRIT RETAIL (HONG KONG) LTD</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/兼職店務員+(時薪$35-41)/1471507">兼職店務員 (時薪$35-41)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/實惠家居有限公司-Company-Name/實惠家居有限公司">實惠家居有限公司</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/兼職倉務助理/1158330">兼職倉務助理</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ESPRIT+RETAIL+(HONG+KONG)+LTD-Company-Name/ESPRIT+RETAIL+(HONG+KONG)+LTD">ESPRIT RETAIL (HONG KONG) LTD</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CLEANER-DISHWASHER-KITCHEN-WORKER-FOOD-BEVERAGE-Job-Description/(葵興)兼職潔淨員/1471318">(葵興)兼職潔淨員</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-SALES-Job-Description/兼職店務員/1158331">兼職店務員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/ESPRIT+RETAIL+(HONG+KONG)+LTD-Company-Name/ESPRIT+RETAIL+(HONG+KONG)+LTD">ESPRIT RETAIL (HONG KONG) LTD</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/食品包裝員/1471317">食品包裝員</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CUSTOMER-SERVICE-SALES-SUPPORT-OTHERS-Job-Description/Temporary+Sales+Service+Assistant+(Customer+Service+Team+-+Part+Time+_s_+Full+Time)/1159041">Temporary Sales Service Assistant (Customer Service Team - Part Time / Full Time)</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CHEUNG+KONG+(HOLDINGS)+LIMITED-Company-Name/CHEUNG+KONG+(HOLDINGS)+LIMITED">CHEUNG KONG (HOLDINGS) LIMITED</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CHEF-COOK-FOOD-BEVERAGE-Job-Description/(兼職)食品製作員/1471310">(兼職)食品製作員</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl>                </div>
                 <div class="jobs-column">
                   <div class="caption">&nbsp;</div>
                   <dl class="first">
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/MARKETING-CORPORATE-COMMUNICATIONS-MARKETING-CUSTOMER-TRADE-MARKETING-DIRECT-SALES-Job-Description/市場自由兼職推廣員/1159148">市場自由兼職推廣員</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/HKT+BUSINESS+SERVICES+LIMITED-Company-Name/HKT+BUSINESS+SERVICES+LIMITED">HKT BUSINESS SERVICES LIMITED</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/兼職侍應/1471156">兼職侍應</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/RETAIL-BANKING-BRANCH-BANKING-OTHERS-Job-Description/Part-time+Teller/1158946">Part-time Teller</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OCBC+WING+HANG+BANK+LIMITED-Company-Name/OCBC+WING+HANG+BANK+LIMITED">OCBC WING HANG BANK LIMITED</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-CHEF-COOK-FOOD-BEVERAGE-Job-Description/兼職西式廚師/1471154">兼職西式廚師</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/OTHERS-COURIERS-DRIVERS-OTHERS-Job-Description/兼職司機/1158539">兼職司機</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE-Company-Name/BO-LO_A_GNE">BO-LO'GNE</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CATERING-SERVICE-FOOD-BEVERAGE-WAITER-WAITRESS-Job-Description/兼職侍應(金鐘_s_中環)/1471149">兼職侍應(金鐘/中環)</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl><dl>
-  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CHANNEL-DISTRIBUTION-CUSTOMER-SERVICE-SALES-SUPPORT-DIRECT-SALES-Job-Description/**筍工大量招聘**兼職Apps推廣員,+最少+$50時薪加_p_厚佣金!/1158583">**筍工大量招聘**兼職Apps推廣員, 最少 $50時薪加+厚佣金!</a></dt>
-  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/EASYVAN+HONG+KONG-Company-Name/EASYVAN+HONG+KONG">EasyVan Hong Kong</a></dd>
+  <dt><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/CASHIER-CATERING-SERVICE-FOOD-BEVERAGE-Job-Description/(兼職)烘焙店店務員/1471137">(兼職)烘焙店店務員</a></dt>
+  <dd><a target="_blank" href="http://myjobs.jiujik.com/Job-Search/BO-LO_A_GNE+CAFE+_N_+81+BAN-Company-Name/BO-LO_A_GNE+CAFE+_N_+81+BAN">Bo-Lo'GNE Cafe &amp; 81 Ban</a></dd>
 </dl>                </div>
                 <div class="clear"></div>
               </div>
@@ -519,7 +516,8 @@ function autoLoginHandle(data){
       $("form[name='topLoginForm']").submit();
     }
   }
-</script>	
+</script>
+	
 	<div id="wrapper">
 		<div id="block-system-main" class="block block-system">
 			<div class="content_block fullwidth">
@@ -740,7 +738,7 @@ function autoLoginHandle(data){
       <div class="links-package inline-block list">
         <h4 class="lead">Other Resources</h4>
         <a href="http://www.scmp.com/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_scmp.png"></a>
-        <a href="http://www.cpjobs.com/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_cp.png"></a>
+        <a href="http://www.cpjobs.com/hk/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_cp.png"></a>
         <a href="http://www.educationpost.com.hk/" target="_blank"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_logo_ep.png"></a>
         <a class="mobile-link" href="http://m.jiujik.com/"><img src="http://www.jiujik.com/sites/default/themes/jj_theme/images/ico_footer_mobile.png">&nbsp;&nbsp;<nobr>Mobile Version - JiuJik.com</nobr></a>
         <div class="clear-both"></div>
@@ -749,7 +747,7 @@ function autoLoginHandle(data){
     <div class="large-3 small-6 columns" style="width: 160px;">
       <div class="links-package">
         <h4 class="lead">Latest e-book</h4>
-        <a href="http://www.jiujik.com/ecopy-archive"><img src="http://www.jiujik.com/static/jj-ecopy/20150313/COVER001.jpg" width="173" height="209"></a>
+        <a href="http://www.jiujik.com/ecopy-archive"><img src="http://www.jiujik.com/static/jj-ecopy/20160401/COVER001.jpg" width="173" height="209"></a>
         <p>Published every Tue and Fri</p>
       </div>
     </div>
@@ -759,7 +757,7 @@ function autoLoginHandle(data){
   <div class="row advert-grid">
     <div class="container gutter-left-right">
       <div class="large-6 small-12 columns">
-        <p> Copyright © 2015 South China Morning Post Publishers Ltd. All rights reserved.</p>
+        <p> Copyright © 2016 South China Morning Post Publishers Ltd. All rights reserved.</p>
       </div>
       <div class="large-6 small-12 columns last-child">
         <div class="links-package"><ul>
@@ -831,6 +829,6 @@ function autoLoginHandle(data){
         </noscript>
 		<!--New Relic -->
 		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"8fe53df881","applicationID":"2543897","transactionName":"ZVEANkZTVhICAUQKXFwbNxBdHVEPBwdITUNaRA==","queueTime":0,"applicationTime":142,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>		
-    
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8fe53df881","applicationID":"2854380","transactionName":"ZVEANkZTVhICAUQKXFwbNxBdHVEPBwdITUNaRA==","queueTime":0,"applicationTime":34,"ttGuid":"","agentToken":"","atts":"SRYDQA5JRRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
