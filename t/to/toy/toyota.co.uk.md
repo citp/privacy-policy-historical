@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906235313id_/https%3A//www.toyota.co.uk/footer/privacy-policy.json) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401140630id_/https%3A//www.toyota.co.uk/footer/privacy-policy.json) for the most accurate reproduction.*
 
 # Privacy Policy | Toyota UK
 
-Toyota (GB) PLC and Toyota Financial Services (UK) PLC (“we”) are committed to protecting and respecting your privacy. On this page we describe how we may make use of any personal data that you may supply to us when you visit this website. Please read the following to carefully understand our views and practices regarding your personal data and how we will treat it. By visiting _www.toyota.co.uk_ you are accepting and consenting to the practices set out in this policy. 
+Toyota (GB) PLC and Toyota Financial Services (UK) PLC (“we”) are committed to protecting and respecting your privacy. On this page we describe how we may make use of any personal data that you may supply to us when you visit this website. Please read the following to carefully understand our views and practices regarding your personal data and how we will treat it. By visiting www.toyota.co.uk you are accepting and consenting to the practices set out in this policy. 
 
 For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is Toyota (GB) PLC of Great Burgh, Burgh Heath, Epsom, Surrey KT18 5UX.
 
@@ -76,18 +76,29 @@ This website may contain links to and from other websites (e.g. social media sit
 
 You have the right to ask us not to process your personal data for marketing purposes. We will inform you before collecting your data if we intend to use your data for such purposes. You can exercise your right to prevent such processing by selecting the appropriate boxes on the forms we use to collect your data. 
 
-You may withdraw your consent to the continued processing of the personal data that you have supplied to us on this website at any time by contacting us at: 
+You may withdraw your consent to the continued processing of the personal data that you have supplied to us on this website at any time by contacting us by any of the means linked to via our contact-us form: 
 
 (a) Toyota (GB) PLC, PO Box 814, Portsmouth, PO6 9AY; or   
-(b) _ToyotaCCInformation@listening.co.uk_
+(b) [_https://forms.toyota.co.uk/contact-us_](https://forms.toyota.co.uk/contact-us)
 
-If you withdraw your consent to us using the personal data that you have provided to us through this website then we will suppress such data from our databases and instruct any affiliate or agency that has access to your data to do likewise. If you withdraw your consent to us processing your personal data we shall not be obliged to fulfil any outstanding request that you have made through this website.
+If you withdraw your consent to us using the personal data that you have provided to us through this website then we will suppress such data from our databases and instruct any affiliate or agency that has access to your data to do likewise. If you withdraw your consent to us processing your personal data we shall not be obliged to fulfill any outstanding request that you have made through this website.
 
 ##### Access to your information
 
 You have the right to access the information that we hold about you at any time. All data subject access requests made under the Act should be sent to: 
 
 Legal & Compliance   
+Toyota (GB) PLC   
+Great Burgh   
+Burgh Heath   
+Epsom   
+Surrey   
+KT18 5UX
+
+Or, in respect of Toyota Financial Services & ‘My Finance,’ to: 
+
+Legal & Compliance   
+Toyota Financial Services (UK) PLC   
 Toyota (GB) PLC   
 Great Burgh   
 Burgh Heath   
@@ -106,6 +117,15 @@ You should note that we may change this privacy policy without notice. Please ch
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: 
 
 Legal & Compliance   
+Toyota (GB) PLC   
+Great Burgh   
+Burgh Heath   
+Epsom
+
+Or, in respect of Toyota Financial Services & ‘My Finance,’ to: 
+
+Legal & Compliance   
+Toyota Financial Services (UK) PLC   
 Toyota (GB) PLC   
 Great Burgh   
 Burgh Heath   
