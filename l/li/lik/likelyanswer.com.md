@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likelyanswer.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217172802id_/http%3A//www.likelyanswer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likelyanswer.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401145015id_/http%3A//www.likelyanswer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
