@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandmetric.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110014602id_/http%3A//www.demandmetric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandmetric.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401060629id_/http%3A//www.demandmetric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Metric
 
