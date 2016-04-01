@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129021203id_/http%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokoglam.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401171050id_/http%3A//sokoglam.com/pages/policies) for the most accurate reproduction.*
 
 # Privacy Policy – Soko Glam
-
-Now through Sunday: 30% off sitewide + Free US Shipping on orders over $50 with code BLACKFRIDAY30* Exclusions Apply
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
