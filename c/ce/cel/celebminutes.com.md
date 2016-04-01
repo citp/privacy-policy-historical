@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebminutes.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105034557id_/http%3A//www.celebminutes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebminutes.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401234924id_/http%3A//www.celebminutes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CelebMinutes
 
