@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412003656id_/http%3A//nairapark.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401154922id_/http%3A//nairapark.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy :: NairaPark.com
+# NairaPark :: Maintenance in Progress
 
 The website www.nairapark.com and its sub-sites which are mobile.nairapark.com, forum.nairapark.com and r.nairapark.com shall henceforth be called "Nairapark.com". By accessing or using Nairapark.com, you agree to have read and understood the Privacy Policy as stipulated below: 
 
@@ -8,7 +8,7 @@ If you decide to use any of our services, you may be requested to provide inform
 
 By submitting your information, you consent to the use of that information as set out in this policy though changes are made continuously. Your continuous use of our services therefore signifies that you agree to such changes. This policy only covers Nairapark.com and does not cover any link within our website to other websites. 
 
-We use certain information supplied to communicate with you. We may also use these information for statistics and other information relating to your use of our site and our services for the purpose of monitoring our website usage in order to help us develop the website and improve generally on our services. Subsequently, we may submit your email address or phone number to third parties for the purpose of giving you special offers we might not be able to give you but we shall not be held responsible for their operations, including, but not limited to, their information practices. In addition, please know that we are legally bound to disclose your entire information to Security Operatives on request if you are charged with any criminal offence. 
+We use certain information supplied to communicate with you. We may also use these information for statistics and other information relating to your use of our site and our services for the purpose of monitoring our website usage in order to help us develop the website and improve generally on our services. Subsequently, we may also share some information you provided with third parties for the purpose of giving you special offers we might not be able to give you but we shall not be held responsible for their operations, including, but not limited to, their information practices. In addition, please know that we are legally bound to disclose your entire information to Security Operatives on request if you are charged with any criminal offence. 
 
 Occasionally, we may wish to provide you with information about special features of our website or any other service or products we think may be of interest to you but if you would rather not want to receive such information, kindly send an e-mail to admin@nairapark.com describing your resentment. 
 
