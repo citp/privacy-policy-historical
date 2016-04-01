@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001020724id_/http%3A//discovermodus.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermodus.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401205857id_/http%3A//discovermodus.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Modus
 
