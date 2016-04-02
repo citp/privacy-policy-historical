@@ -1,82 +1,73 @@
-> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316093804id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehome.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402124428id_/https%3A//www.hivehome.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Hive Home
 
-## Privacy Policy
+##### How we’ll use and protect our information about you
 
-### How we store, protect and use information you give us
+This section explains how we use the information we collect about you in your dealings with us – some of which will be classified as sensitive under the Data Protection Act. We’ll meet the standards set out in this clause whether or not you become a customer.
 
-This privacy policy applies to all personal information we hold about individuals, sole traders and partnerships. It doesn’t apply to information we hold about companies and other organisations.
+We collect information about you in a number of ways. For example, you might give it to us, we might collect it through our dealings with you, or it might be collected from our devices such as Hive Active Heating™ or smart meters. We might also get it from companies that offer databases of information, like credit-reference agencies.
 
-Hivehome.com is brought to you by British Gas, which is owned by Centrica plc. Centrica plc and its subsidiary companies believe it is important to protect your privacy, and so we are committed to giving you a personalised service that meets your needs in a way that also protects that privacy.
+If we significantly change the information we ask for, or the way we use it, we’ll tell you.
 
-This policy explains how we may collect information about you and then use it to meet your needs. It also explains some of the security measures we take to protect your privacy, as well as giving you information about things that we won’t do.
+##### How we can use your information
 
-When we first ask you for your personal information, or when you take a new service or product from us, we will give you the opportunity to tell us if you do or do not want to receive information from us about other services or products. You can normally do this by ticking a box on an application form or contract. You may change your mind at any time by emailing us at the address below.
+We and our agents can use your information to do the following.
 
-### 1\. Using your personal information
-
-1.1 We and our agents may use your information to:
-
-  * Provide you with the services you have asked for (which may include loyalty and incentive schemes we may run from time to time).
-  * Offer you accounts, services and products from time to time from us or our partners. To help us make these offers we may use an automated scoring system, which also uses information from credit reference agencies, as well as other companies.
-  * Help run, and contact you about improving the way we run, any accounts, services and products we have provided before, now or in the future.
-  * Create statistics, test computer systems, analyse customer information, create profiles and create marketing opportunities (including using information about what you buy from us and how you pay for it. For example, the amount of gas you use and any discounts we have offered you).
+  * Give you the services you’ve asked for, which can include loyalty and incentive programmes.
+  * Offer you services, accounts and products, again including loyalty and incentive programmes. We can use an automated scoring system to help us choose what to offer you. That system uses information from credit-reference agencies and other companies.
+  * Contact you to ask how we can improve the way we manage your account and provide you with services.
+  * Create statistics, test computer systems and do analysis. The information and analysis can include you and your household, your income and your lifestyle. It can also include the way you use energy. We can use our analysis to create profiles and marketing opportunities.
   * Help prevent and detect debt, fraud and loss.
-  * Help train our staff.
-  * Contact you in any way (including by email, phone, text or multimedia message or other forms of electronic communications (such as a message through your smart meters)) about products and services we and our selected partners are offering.
+  * Help us keep you, your family and your household healthy, safe and secure.
+  * Help us train our staff.
+  * Contact you in any way about products and services we (and our selected partners) are offering. This can include by email, phone and text message, as well as any other form of electronic communication (such as through your smart meter if you have one). It can also include visiting you.
+  * Your [Hive Active Heating™](https://web.archive.org/products/hive-active-heating) allows us to see when your heating and hot water is switched on or off and at what temperature the thermostat is set. We can use this information to check how the controls on your boiler are working and may contact you, as described above, if we think your system isn’t working as effectively as it might. We will not use the information to contact you about products and services that we or our partners offer unless you have given us permission to do so.
 
 
 
-1.2 We may also monitor and record any communications we have with you, including phone conversations and emails, to make sure we are providing a good service and meeting our regulatory and legal responsibilities.
+We may also monitor and record our phone calls, conversations and other communications with you to make sure we’re living up to the standards we want, as well as the relevant laws and regulations.
 
-### 2\. Sources of information
+We can use any of our information to contact you. We can contact you by post, email, phone, text message or any other kind of electronic communication (such as through your smart meter if you have one). We can also visit you.
 
-When we contact you, we may use any information we hold about you to do so. So we may contact you by email, phone, text message or other forms of electronic communications (such as using smart meters) or by visiting you. If we are contacting you to tell you about any offers, as far as possible, do so in line with how you have told us you would prefer to receive marketing information (your recorded marketing preferences). You can ask us not to send you any information on our offers at any time by contacting us and giving us your account details.
+If we contact you to tell you about offers, when possible we’ll do it the way you’ve told us you’d prefer to get marketing information.
 
-### 3\. Disclosing information
+If you no longer have an account with us, or if you don’t use our products any more, we can still keep your information. We can then contact you to tell you about offers, from us and other companies, that might interest you.
 
-3.1 We may allow other people and organisations to use information we hold about you (including other Centrica Group companies such as those using the British Gas, Scottish Gas and Dyno Group brands):
+You can ask us not to tell you about offers – either at all, or just in particular ways – whenever you like. Just get in touch with us and give us your account details.
 
-  * to provide services you have asked for, which may include providing information to members of your family or household, anyone acting on your behalf or other people who may be interested (such as landlords or letting agents),
-  * as part of the process of selling one or more of our businesses,
-  * if we have been asked (for example by Ofgem or a lawyer) to provide information for legal or regulatory purposes,
-  * as part of current or future legal action,
-  * as part of government data-sharing initiatives, for example, those designed to help stop fuel poverty,
-  * to help manage any loyalty or rewards schemes.
+##### Sharing your information with other organisations
+
+We can let other people and organisations use our information about you. The other organisations include other Centrica group companies, such as those using the British Gas, Scottish Gas and Dyno Group brands.
+
+We and those other people and organisations can use information about you for the following purposes.
+
+  * To provide services you’ve asked for. This can mean giving information to members of your family or household. It could also mean giving information to anyone acting on your behalf, other people who might be interested, or those who introduced you to British Gas (such as a landlord or letting agent).
+  * As part of the process of selling one or more of our businesses.
+  * To help prevent and detect debt, fraud or loss. This can include giving information about you to a credit-reference agency.
+  * To transfer some or all of a debt you have to another organisation.
+  * To provide information for legal or regulatory purposes (for example, if Ofgem, another regulator or a lawyer asks for it).
+  * In any current or future legal action.
+  * To take part in any data-sharing initiatives run by the Government, regulators or the industry (for example, initiatives meant to reduce fuel poverty, where people can’t afford to pay for heating and electricity, or those to help groups of vulnerable customers).
+  * To help manage loyalty or reward programmes.
 
 
 
-3.2 From time to time these other people or organisations maybe outside the European Economic Area (EEA), and as a result we may pass your information to countries that do not have the same standards or protection for personal information as the UK.
+We may sometimes use partners from outside the European Economic Area (EEA), where the laws and regulations on personal information may be less strict than in the UK. Even so, we’ll continue to hold ourselves and our partners to the standards set out in this privacy statement.
 
-3.3 If you give us information on behalf of someone else, you confirm you have given them the information set out in this document, and that they have given permission for us to use their personal information in the way we have described in clause 10. If you give us sensitive information about yourself or other people (such as health details or details of any criminal convictions of members of your household), you agree (and confirm that the person the information is about has agreed) that we can use this information in the way set out in this document.
+##### If you’re giving us information about someone else
 
-3.4 You are entitled to have a copy of the information we hold on you and to have any inaccurate information corrected. We may charge a small fee for providing a copy of any information we hold about you. For more information about this please contact our Privacy Unit at Lakeside West, 30 The Causeway, Staines, TW18 3BY. Or you can email [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com)
+If you’re giving us information on behalf of someone else, you confirm that they’ve seen these terms and conditions and given you permission for us to use their information the way we’ve described here.
 
-### 4\. Protecting your information
+And if you give us sensitive information about yourself or other people, for example, health details or details of any criminal convictions of members of your household, you also agree and confirm that the person the information is about has agreed, that we can use this information in the way we’ve described here.
 
-We have strict security measures to protect personal information. This includes following certain procedures (for example, checking your identity when you phone us) and encrypting (encoding) data on our websites.
+##### To see what information we hold about you
 
-### 5\. The internet
+You’ve the right to have a copy of the information we hold about you, for a small charge, and to ask for us to correct any mistakes. Email [privacy@britishgas.co.uk](mailto:privacy@britishgas.co.uk) or write to:
 
-If you communicate with us using the internet, we may occasionally email you about our services and products. When you first give us personal information through our website, we will normally give you the opportunity to say whether you would prefer us not to contact you by email. However, you can always send us an email (at the address set out below) at any time if you change your mind.
+Centrica Privacy Team  
+Lakeside West  
+30 The Causeway  
+Staines  
+TW18 3BY  
 
-Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered - this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
-
-We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
-
-If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
-
-### 6\. Cookies
-
-We use 'cookies' on our site. Visit cookie policy to find out more and manage cookies.
-
-### 7\. Links
-
-This website may contain links to other sites or recommended suppliers. Please remember that we are not responsible for the privacy practices of these other sites. This privacy policy applies only to information collected on this website.
-
-### 8\. Further information
-
-If you would like any more information or you have any comments about our privacy policy, please either write to us at Data Protection Manager, Privacy Unit - Legal, Centrica plc, Lakeside West, 30 The Causeway, Staines, Middlesex, TW18 3BY, United Kingdom or email us at [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com)
-
-We may amend this policy from time to time, in which case we will publish the amended version on our website, and you can ask us for a copy by writing to the above address or by emailing us at [CentricaDataProtection@centrica.com](mailto:CentricaDataProtection@centrica.com)
