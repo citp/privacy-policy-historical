@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717083750id_/http%3A//mediafunnel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafunnel.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402141417id_/http%3A//mediafunnel.com/privacy) for the most accurate reproduction.*
 
 # Cloud10Apps, Inc. ("MediaFunnel") Privacy Statement | MediaFunnel
 
