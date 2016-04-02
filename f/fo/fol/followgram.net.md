@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the followgram.net privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415114101id_/http%3A//followgram.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followgram.net privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402073602id_/http%3A//followgram.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Best Way to Get Instagram Followers and Likes | smmexpert.net
+# Privacy policy | Followgram.net
 
-What information does SMMExpert.net collect?
+What information does Followgram.net collect?
 
 We do not require you to create an account or share any personally identifiable information in order to use our site. However, we do collect some non-personally identifiable information automatically. Further, solely at your option, you can choose to share some contact information with us.
 
@@ -18,21 +18,21 @@ Name
 E-mail address  
 Website 
 
-Does SMMExpert.net SHARE my personally identifiable information with others?  
-SMMExpert.net does NOT share information that we have about you with anyone. We do not share, sell, rent, or trade personally identifiable information with third parties for any reason.
+Does Followgram.net SHARE my personally identifiable information with others?  
+Followgram.net does NOT share information that we have about you with anyone. We do not share, sell, rent, or trade personally identifiable information with third parties for any reason.
 
-Does SMMExpert.net use COOKIES to collect information about me?  
+Does Followgram.net use COOKIES to collect information about me?  
 A cookie is a small data file that we transfer to your computer’s hard drive through your web browser when you visit our site. Cookies enable our systems to recognize your computer so that we can provide you with personalized service and features, and to track traffic patterns. Although our cookies may contain a unique user ID, they do not collect or store any of your personally identifiable information.
 
-Also, in the course of advertising, a third party advertiser may place or recognize a unique cookie on your browser. SMMExpert.net assumes no responsibility for any cookies placed on your browser by such third-party advertisers.
+Also, in the course of advertising, a third party advertiser may place or recognize a unique cookie on your browser. Followgram.net assumes no responsibility for any cookies placed on your browser by such third-party advertisers.
 
-How does SMMExpert.net SECURE the information collected?  
-SMMExpert.net has security measures in place and takes reasonable precautions to protect against the loss, misuse, and unauthorized access of your personal information under our control.
+How does Followgram.net SECURE the information collected?  
+Followgram.net has security measures in place and takes reasonable precautions to protect against the loss, misuse, and unauthorized access of your personal information under our control.
 
-Does SMMExpert.net collect information from CHILDREN?  
-At SMMExpert.net, we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 13.
+Does Followgram.net collect information from CHILDREN?  
+At Followgram.net, we are committed to protecting the privacy of children. We will not knowingly or intentionally collect personal information online from children under the age of 13.
 
 If you are under 13 years of age, please do not submit any personal information through our website without the express consent and participation of a parent or guardian.
 
-Does this policy cover OTHER sites linked from SMMExpert.net?  
+Does this policy cover OTHER sites linked from Followgram.net?  
 This policy covers our online practices and does not apply to any third party sites, including card issuers or other sites that may be linked from our website. We encourage you to read the terms and conditions and privacy policies of those other sites to learn how they collect and use information about you.
