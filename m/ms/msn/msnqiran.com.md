@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnqiran.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329213943id_/http%3A//msnqiran.com/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnqiran.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402180923id_/http%3A//msnqiran.com/docs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Qiran.com, Muslim Matrimonial, Muslim Marriage, Muslim Singles
 
