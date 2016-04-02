@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906075832id_/https%3A//www.ama.org/Pages/privacypolicy.aspx%3Fclicksrc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402153506id_/https%3A//www.ama.org/Pages/privacypolicy.aspx%3Fclicksrc%3Dfooter) for the most accurate reproduction.*
 
 # American Marketing Association's Privacy Policy
 
