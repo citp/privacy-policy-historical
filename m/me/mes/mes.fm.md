@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mes.fm privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011072903id_/http%3A//matheasysolutions.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mes.fm privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402204229id_/http%3A//mes.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Math Easy Solutions
 
-This Privacy Policy governs the manner in which Math Easy Solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the matheasysolutions.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Math Easy Solutions. 
+This Privacy Policy governs the manner in which Math Easy Solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the mes.fm website ("Site"). This privacy policy applies to the Site and all products and services offered by Math Easy Solutions. 
 
 ## Personal identification information
 
@@ -22,7 +22,7 @@ Math Easy Solutions may collect and use Users personal information for the follo
 
 \- To improve customer service 
 
-Information you provide helps us respond to your customer service requests and support needs more efficiently. 
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
 \- To personalize user experience
 
@@ -38,7 +38,7 @@ We may use the information Users provide about themselves when placing an order 
 
 \- To run a promotion, contest, survey or other Site feature
 
-To send Users information they agreed to receive about topics we think will be of interest to them. 
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
 \- To send periodic emails
 
@@ -76,6 +76,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@mes.fm 
 
-This document was last updated on October 4, 2014 
+This document was last updated on Jan 8, 2016 
 
 Privacy policy created by http://www.generateprivacypolicy.com 
