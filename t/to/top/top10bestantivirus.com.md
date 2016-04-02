@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bestantivirus.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707051346id_/http%3A//top10bestantivirus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestantivirus.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402081553id_/http%3A//top10bestantivirus.com/privacy) for the most accurate reproduction.*
 
 # Top 10 best antivirus
 
