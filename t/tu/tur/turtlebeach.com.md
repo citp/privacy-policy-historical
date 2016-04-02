@@ -1,47 +1,109 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134952id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402054606id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
 
 # privacy - Turtle Beach Corporation
 
-Voyetra Turtle Beach, Inc. ("Turtle Beach") is the owner of this website (the "Turtle Beach Web Site") and is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Turtle Beach Web Site and governs data collection and usage. By using the Turtle Beach Web Site, you consent to the data practices described in this statement.
+By accessing or using the websites of Turtle Beach and its affiliates (collectively, the “Site”), you agree to the terms of this Privacy Policy.  We reserve the right, at our discretion, to change, modify, add or remove portions of this Privacy Policy at any time. Please check this page periodically for changes.  Your continued use of the Site indicates your acceptance of any revised Privacy Policy.  This Privacy Policy was most recently updated in March, 2016. 
 
-## Collection of your Personal Information
+COLLECTING PERSONAL INFORMATION
 
-Turtle Beach collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Turtle Beach also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+_What is personal information?_
 
-There is also information about your computer hardware and software that is automatically collected by Turtle Beach. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Turtle Beach for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Turtle Beach Web Site.
+We consider information that personally identifies you or that can be used to contact you (such as your name, email address or billing information), and any data that is linked to such information, to be personal information.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Turtle Beach public message boards, this information may be collected and used by others. Note: Turtle Beach does not read any of your private online communications.
+_What personal information is collected?_
 
-Turtle Beach encourages you to review the privacy statements of Web sites you choose to link to from Turtle Beach so that you can understand how those Web sites collect, use and share your information. Turtle Beach is not responsible for the privacy statements or other content on Web sites outside of the Turtle Beach and Turtle Beach family of Web sites.
+  * When you purchase a product from the Site, we may collect your name, mailing and billing address(es), telephone number, email address and/or credit card or checking account information.
+  * When you create an account with the Site, we may collect your name and email address.  In addition, you are required to establish a password to create an account with the Site.
+  * When you register a product, we may collect your name, address, telephone number and email address.
+  * When you join one of our mailing lists, we may collect your name and email address.
+  * When you contact our online customer support, we may collect your name, telephone number, email address and mailing address.
+  * When you register for contests or give-aways hosted by the Site, we may collect your name, email address, telephone number and/or address.
 
-## Use of your Personal Information
 
-Turtle Beach collects and uses your personal information to operate the Turtle Beach Web Site and deliver the services you have requested. Turtle Beach also uses your personally identifiable information to inform you of other products or services available from Turtle Beach and its affiliates. Turtle Beach may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Turtle Beach does not sell, rent or lease its customer lists to third parties. Turtle Beach may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Turtle Beach may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Turtle Beach, and they are required to maintain the confidentiality of your information.
+_How is personal information used by Turtle Beach?_
 
-Turtle Beach does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+Turtle Beach collects and uses your personal information:
 
-Turtle Beach keeps track of the Web sites and pages our customers visit within the Turtle Beach Web Site, in order to determine what Turtle Beach services are the most popular. This data is used to deliver customized content and advertising within the Turtle Beach Web Site to customers whose behavior indicates that they are interested in a particular subject area.
+  * To complete orders for products placed on the Site and to communicate with you about such orders (for example, order and shipment confirmations);
+  * To respond to requests for support or otherwise provide customer service;
+  * To inform you of other products or services available from Turtle Beach and its affiliates and about promotions and events;
+  * To conduct research about your opinion of current products and services or of potential new products or services;
+  * To notify you of the results of any contests or give-aways;
+  * To research and analyze data and trends to improve our products and services; and
+  * To send you important notices about the website and your account, including updates to terms and conditions.
 
-Turtle Beach web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Turtle Beach or the site; (b) protect and defend the rights or property of Turtle Beach; and, (c) act under exigent circumstances to protect the personal safety of users of Turtle Beach web sites, or the public.
 
-## Use of Cookies
 
-The Turtle Beach Web Site uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+COLLECTING NON-PERSONAL INFORMATION
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Turtle Beach Web Site pages, or register with the Turtle Beach site or services, a cookie helps Turtle Beach to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Turtle Beach web site, the information you previously provided can be retrieved, so you can easily use the Turtle Beach features that you customized.
+In addition to your personal information, we may collect information that, by itself, does not specifically identify you.  This non-personal information is used to help us learn what products are of the most interest to users and to improve Site design and content. Some examples of non-personal information that we collect and use are:
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Turtle Beach services or web sites you visit.
+  * When you register an account on the Site, in addition to collecting personal information, we may collect your age, gender and country of residence.
+  * When you purchase a product, create an account, register a product or contact customer support, in addition to collecting personal information, we may obtain information about the products that you own or use.
+  * When you are using our Site, we may log your IP address (a number that identifies your computer on the Internet) for system administration and troubleshooting purposes and to examine overall Site traffic trends.
+  * We use cookies (which are small data files stored on your computer) and other similar technologies to collect information about your activities on the Site and to allow us to customize portions of the Site to your preferences.   For example, we may obtain information about which pages of the Site you visit, what terms you use in searching the Site and/or what products you purchase.  In addition, we use cookies to remind us of who you are and to tailor our product selection to you, which helps personalize your experience on the Site.
 
-## Security of your Personal Information
 
-Turtle Beach secures your personal information from unauthorized access, use or disclosure. Turtle Beach secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-## Changes to this Statement
+The cookie, by itself, does not provide any personal information, such as your name or email address. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.) However, you may not be able to use some features of the Site if you set your browser to reject cookies.
 
-Turtle Beach will occasionally update this Statement of Privacy to reflect company and customer feedback. Turtle Beach encourages you to periodically review this Statement to be informed of how Turtle Beach is protecting your information.
+The information collected by cookies may be collected directly by us, or it may be collected by a third-party service provider. These data are anonymous and are not linked to any information that personally identifies you.
 
-## Contact Information
+In some jurisdictions, cookies can only be set or accessed with consent.  Your use of the Site signifies your consent. 
 
-Turtle Beach welcomes your comments regarding this Statement of Privacy. If you believe that Turtle Beach has not adhered to this Statement, please contact Turtle Beach at [webmaster@turtlebeach.com](mailto:webmaster@turtlebeach.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Non-personal information may be collected, used or disclosed for any purpose. In the event that any non-personal information is associated with your personal information, such information is also treated as personal information for purposes of this Privacy Policy.
+
+SHARING YOUR INFORMATION & THIRD PARTY PARTNERSHIPS
+
+On occasion, Turtle Beach may share personal information collected from the Site with selected third-party companies who assist Turtle Beach in providing products and services or in advertising and marketing efforts. The information we provide to third parties for such purposes may include your name, address, email address and purchase information, which will help arrange product delivery, provide customer support or target marketing communications.  The third parties to whom we provide such information agree to keep it confidential, and may not use it to send advertisements or other communications on behalf of anyone other than Turtle Beach and its affiliates.
+
+Turtle Beach does not sell, rent or lease its customer lists to third parties. Turtle Beach or the third-party companies that assist us with marketing may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information is not transferred to the third party.
+
+_Co-Branding  
+_Turtle Beach may enter into a “co-branding” relationship with another company or organization. At times, we may communicate with customers on behalf of that company and customers may be directed to a partner website to purchase a specific item or learn about their services. In these cases, both Turtle Beach and the partner company may receive personal information you provide and you should refer to the privacy policy of the “co-branding” partner to learn about how they handle your personal information.
+
+_Links from the Site to Third-Party Websites  
+_The Site may contain links to third-party websites.  Turtle Beach is not responsible for the collection or use of personal information by such third-party websites. Please refer to the privacy policies of the third-party website to learn about how they handle your personal information.
+
+_Links to the Site from Third-Party Websites  
+_Turtle Beach may use outside marketing companies to place advertisements or links to the Site on third-party websites. The marketing company or the operator of such third-party website may collect information about people who click on an advertisement for or link to the Site. Turtle Beach is not responsible for the collection or use of information by such marketing companies or third-party websites. Please refer to their privacy policies to learn about how they handle your personal information.
+
+_Merger or Acquisition; Legal Compliance  
+_In the event that Turtle Beach is merged with or acquired by another company, or in the event of a transfer of our assets, we may disclose or transfer personal information and other information about usage of the Site in connection with such a transaction. In the event of such a transfer, we will notify you of the change of control of your personal information. You should also be aware that courts may have the authority under certain circumstances to permit personal information and other information about usage of the Site to be shared or transferred to third parties without your permission.
+
+DISCLOSURE OF YOUR PERSONAL INFORMATION
+
+We will not use or disclose your personal information except: (1) as described in this Privacy Policy; (2) after obtaining your permission to a specific use or disclosure; (3) if it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Turtle Beach, or to others; (4) if we are required to do so in order to comply with any valid legal process or governmental request (such as a court order, search warrant, subpoena, civil discovery request, or statutory requirement); or (5) as we otherwise believe is required by law.
+
+SECURITY OF OUR SITE
+
+We use encryption and authentication tools to protect the security of the information that you share with us. Once we receive your personal information via the Site, we do our best to protect its security on our systems. For example, we protect personal information we gather on a secured server that is located behind a firewall and not directly connected to the Internet.
+
+Unfortunately, however, no transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to or from the Site, and you do so at your own risk. Accordingly, we disclaim liability for any theft, loss, or interception of or any unauthorized access or damage to any data or communications. By using the Site, you acknowledge that you understand and agree to assume these risks.
+
+Please keep in mind that if you disclose personally identifiable information or personally sensitive data through public forums and bulletin boards on the Site, this information may be collected and used by others.  You are responsible for the personal information that you choose to share on the Site’s public forums and bulletin boards.
+
+In addition, anyone with access to the email address and password you use to create an account with the Site can obtain access to the personal information you have provided to us. We urge you to keep your password in a safe place and not share it with anyone. Always sign out from your account and close your browser window when you have finished your visit to our Site, especially if you are using a shared or public computer, to ensure that others cannot access your account. You are responsible for maintaining the confidentiality of your account password, and you are responsible for any access to or use of the Site by any person or entity using your password, whether or not such access or use has been authorized by you.
+
+OPTING OUT
+
+While we hope that the information included in this Privacy Policy has helped you better understand how we use and protect your information to provide you with better service, we understand that you may still choose to not receive information from Turtle Beach or our partners.
+
+As a part of our commitment to your privacy, we agree to honor customers’ requests not to receive mail or email from Turtle Beach.
+
+When registering with the Site, you are provided with the opportunity to “opt-in” to our promotional emails.  If you have previously opted to receive, or otherwise currently receive, promotional emails from us, you may unsubscribe by emailing webmaster@turtlebeach.com.  Immediately after unsubscribing, you will no longer receive marketing emails from Turtle Beach. You may still receive e-mails regarding your transactions, for example, confirming that you have placed an order or that a product you have ordered has shipped.
+
+CHILDREN AND PRIVACY
+
+The Site is not intended for or directed to children under the age of 13 years. We will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. By using the Site, you represent and warrant that you are at least 13 years old. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information.
+
+A parent or legal guardian who needs to access, change or delete personal information regarding their child should contact webmaster@turtlebeach.com.
+
+REVIEWING AND REVISING YOUR ACCOUNT INFORMATION
+
+You may review and make changes to the personal information that is stored in your user account by logging into the applicable portion of the Site.  To access, correct or request the deletion of other personal information in our possession, email webmaster@turtlebeach.com.  We will honor such requests to the extent that the request is not unreasonably burdensome or infringe on the rights of others.
+
+CONTACT INFORMATION
+
+If you have any comments on or questions about this Privacy Policy or believe that Turtle Beach has not adhered to this Privacy Policy or any privacy law, please contact webmaster@turtlebeach.com.  We will use commercially reasonable efforts to promptly determine and remedy any problem.
