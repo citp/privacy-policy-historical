@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073713id_/http%3A//www.crazyshirts.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402121202id_/https%3A//www.crazyshirts.com/category/customer-service/privacy-security.do) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - Crazy Shirts Official Site
-
-  
-Crazy Shirts is Committed To Your Privacy. 
+# Privacy and Security - Crazy Shirts Official Site
 
 The purpose of this Privacy Policy is to inform you about information we may collect from or about you, what we do with that information and provide you with information about the opt-out process. 
 
@@ -15,7 +12,7 @@ Customer Service Department
 99-969 Iwaena Street  
 Aiea, Hawaii 96701
 
-Call us at 1-800-771-2720 or [email us](https://web.archive.org/category/customer+service/contact+us.do). 
+Call us at 1-800-771-2720 or [email us](https://web.archive.org/category/customer-service/contact-us.do). 
 
 **The Information We Collect**   
 We collect transaction information and email addresses. We collect only the minimum information necessary to complete your order online; this is the same information required to complete telephone orders - name, billing and shipping address, telephone number, and payment information. We require customer email address for online orders so that we may notify you of your order status or merchandise return status. Additionally, if you opt-in, we may send you emails promoting our products, announcing special events and offering other special limited-time discounts, such as free shipping, that may be used by online customers. 
@@ -44,4 +41,4 @@ We read and respond to every message that is sent to us. A customer care represe
 If any changes are made to our privacy policy in whole or in part, we will inform you by posting a notice on our web site. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our web site and will replace any prior policies that are inconsistent. This policy was posted in April 2007. 
 
 **Your Feedback**  
-To help us improve our privacy policy and practice, please give us your feedback. You may can [email us](https://web.archive.org/category/customer+service/contact+us.do) or call us at at 1.800.771.2720. 
+To help us improve our privacy policy and practice, please give us your feedback. You may can [email us](https://web.archive.org/category/customer-service/contact-us.do) or call us at at 1.800.771.2720. 
