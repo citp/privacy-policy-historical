@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the xero.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810171735id_/https%3A//www.xero.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xero.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402185337id_/https%3A//www.xero.com/about/privacy) for the most accurate reproduction.*
 
-# Financial Accounting | Xero Privacy Policy
+# Privacy Policy | Xero Accounting Software
+
+## Privacy Policy
 
 At Xero, we take privacy very seriously. We’ve updated our privacy policy ( **Policy** ) to ensure that we communicate to You, in the clearest way possible, how we treat personal information. We encourage You to read this Policy carefully. It will help You make informed decisions about sharing Your personal information with us.
 
@@ -26,7 +28,7 @@ You can always choose not to provide Your personal information to Xero, but it m
 
 ### Xero may receive personal information from You about others
 
-Through Your use of the Service, Xero may also collect information from You about someone else. If You provide Xero with personal information about someone else, You must ensure that You are authorized to disclose that information to Xero and that, without Xero taking any further steps required by applicable data protection or privacy laws, Xero may collect, use and disclose such information for the purposes described in this Policy.
+Through Your use of the Service, Xero may also collect information from You about someone else. If You provide Xero with personal information about someone else, You must ensure that You are authorised to disclose that information to Xero and that, without Xero taking any further steps required by applicable data protection or privacy laws, Xero may collect, use and disclose such information for the purposes described in this Policy.
 
 This means that You must take reasonable steps to ensure the individual concerned is aware of and/or consents to the various matters detailed in this Policy, including the fact that their personal information is being collected, the purposes for which that information is being collected, the intended recipients of that information, the individual's right to obtain access to that information, Xero’s identity, and how to contact Xero.
 
@@ -46,7 +48,7 @@ Xero collects Your personal information so that we can provide You with the Serv
 
 
 
-By using the Service, You consent to Your personal information being collected, held and used in this way and for any other use You authorize. Xero will only use Your personal information for the purposes described in this Policy or with Your express permission.
+By using the Service, You consent to Your personal information being collected, held and used in this way and for any other use You authorise. Xero will only use Your personal information for the purposes described in this Policy or with Your express permission.
 
 It is Your responsibility to keep Your password to the Service safe. You should notify us as soon as possible if You become aware of any misuse of Your password, and immediately change your password within the Service or via the [“Forgotten Password”](https://login.xero.com/ForgottenPassword) process.
 
@@ -75,11 +77,11 @@ If You do not want Your personal information to be transferred to a server locat
 
 ### Xero takes steps to protect your personal information
 
-Xero is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorized access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued by leading certificate authorities Entrust & GTE Cybertrust, and all Data transferred between You and the Service is encrypted. You can find out more about our security arrangements and our data protection measures on our [security page](http://www.xero.com/security).
+Xero is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorised access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued by leading certificate authorities Entrust & GTE Cybertrust, and all Data transferred between You and the Service is encrypted. You can find out more about our security arrangements and our data protection measures on our [security page](http://www.xero.com/about/security).
 
 However, the Internet is not in itself a secure environment and we cannot give an absolute assurance that Your information will be secure at all times. Transmission of personal information over the Internet is at Your own risk and You should only enter, or instruct the entering of, personal information to the Service within a secure environment.
 
-We will advise You at the first reasonable opportunity upon discovering or being advised of a security breach where Your personal information is lost, stolen, accessed, used, disclosed, copied, modified, or disposed of by any unauthorized persons or in any unauthorized manner.
+We will advise You at the first reasonable opportunity upon discovering or being advised of a security breach where Your personal information is lost, stolen, accessed, used, disclosed, copied, modified, or disposed of by any unauthorised persons or in any unauthorised manner.
 
 ### Xero only discloses Your Personal Information in limited circumstances
 
@@ -103,13 +105,13 @@ We’ll only keep Your personal information for as long as we require it for the
 
 ### Xero uses cookies
 
-In providing the Service, Xero utilizes "cookies". A cookie is a small text file that is stored on Your computer for record-keeping purposes. A cookie does not identify You personally or contain any other information about You but it does identify Your computer.
+In providing the Service, Xero utilises "cookies". A cookie is a small text file that is stored on Your computer for record-keeping purposes. A cookie does not identify You personally or contain any other information about You but it does identify Your computer.
 
 We and some of our affiliates and third-party service providers may use a combination of “persistent cookies” (cookies that remain on Your hard drive for an extended period of time) and “session ID cookies” (cookies that expire when You close Your browser) on the Website to, for example, track overall site usage, and track and report on Your use and interaction with ad impressions and ad services.
 
 You can set your browser to notify You when You receive a cookie so that You will have an opportunity to either accept or reject it in each instance. However, You should note that refusing cookies may have a negative impact on the functionality and usability of the Website.
 
-We do not respond to or honor “Do Not Track” requests at this time.
+We do not respond to or honour “Do Not Track” requests at this time.
 
 ### You can opt-out of any email communications
 
@@ -128,7 +130,7 @@ If You wish to complain about how we have handled Your personal information, ple
 
 
 
-Our Privacy Officer will endeavor to:
+Our Privacy Officer will endeavour to:
 
   * provide an initial response to Your query or complaint within 10 business days, and
   * investigate and attempt to resolve Your query or complaint within 30 business days or such longer period as is necessary and notified to you by our Privacy Officer.
