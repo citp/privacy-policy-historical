@@ -1,80 +1,97 @@
-> *The following text is extracted and transformed from the laird-assessors.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707095334id_/http%3A//www.laird-assessors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laird-assessors.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402083423id_/http%3A//www.laird-assessors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Laird Assessors
+# privacy-policy | Laird Assessors
 
-## What is this Privacy Policy for?
+## Privacy Policy
 
-This privacy policy is for this website www.Laird-Assessors.com and served by Laird Assessors and governs the privacy of its users who choose to use it.
+Laird Assessors Limited (“We”) are committed to protecting and respecting your privacy.
 
-The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
+This policy (together with our [terms of use](http://www.laird-assessors.com/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.Laird-Assessors.com you are accepting and consenting to the practices described in this policy.
 
-## The Website
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Laird Assessors Limited of 188-2000 Pensby Road, Wirral, CH60 7RJ.
 
-This website and it’s owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply’s to all UK national laws and requirements for user privacy.
+Our nominated representative for the purpose of the Act is Mr E N Ellis.
 
-#### Use of Cookies
+## Information we may collect from you
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for website’s to obtain explicit consent from users before leaving behind or reading files such as cookies on a users computer / device.
+We may collect and process the following data about you:
 
-Cookies are small files saved to the users computers hard drive that track, save and store information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website.  
-Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
-
-This website uses tracking software to monitor it’s visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website but will not store, save or collect personal information. You can read Google’s privacy policy here for further information [[http://www.google.com/privacy.html ](http://www.google.com/privacy.html)].
-
-Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
-
-## Contact & Communication
-
-Users contacting this website and/or it’s owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
-
-This website and it’s owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
-
-## Email Newsletter
-
-This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
-
-Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website’s email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
-
-Email marketing campaigns published by this website or it’s owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
-
-In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
-
-## External Links
-
-Although this website only looks to include quality, safe and relevant external links users should always adopt a policy of caution before clicking any external web links mentioned throughout this website.
-
-The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
-## Adverts and Sponsored Links
-
-This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
-
-Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it’s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
-
-## Social Media Platforms
-
-Communication, engagement and actions taken through external social media platforms that this website and it’s owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
-
-Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor it’s owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
-
-This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
-
-## Shortened Links in Social Media
-
-This website and it’s owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url’s [web addresses] (this is an example: http://bit.ly/zyVUBo).
-
-Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners. Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
-## Resources & Further Information
-
-  * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
-  * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
-  * [Privacy and Electronic Communications Regulations 2003 – The Guide](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide.aspx)
-  * [Twitter Privacy Policy](http://twitter.com/privacy)
-  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
-  * [Google Privacy Policy](http://www.google.com/privacy.html)
-  * [Linkedin Privacy Policy](http://www.linkedin.com/static?key=privacy_policy)
-  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/)
+  * **Information you give us.**  You may give us information about you by filling in forms on our site www.Laird-Assessors.com (our site) or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, vehicles owned by you and any recent road traffic accidents.
+  * **Information we collect about you.**  With regard to each of your visits to our site we may automatically collect the following information: 
+    * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+    * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+  * **Information we receive from other sources.**  We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
 
+
+## Cookies
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [LINK].
+
+## Uses made of the information
+
+We use information held about you in the following ways:
+
+  * **Information you give to us.**  We will use this information: 
+    * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+    * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+    * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form);
+    * to notify you about changes to our service;
+    * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * **Information we collect about you.**  We will use this information: 
+    * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+    * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
+    * to allow you to participate in interactive features of our service, when you choose to do so;
+    * as part of our efforts to keep our site safe and secure;
+    * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+    * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+  * **Information we receive from other sources.  **We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+
+
+## Disclosure of your information
+
+We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may share your information with selected third parties including:
+
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you, including the provision of financial products and services
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+
+
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Laird Assessors Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [INSERT AS LINK TO WEBSITE'S TERMS OF USE] and other agreements; or to protect the rights, property, or safety of Laird Assessors Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## Where we store your personal data
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+## Your rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@laird-assessors.com](mailto:info@laird-assessors.com).
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+## Access to information
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+
+## Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@laird-assessors.com](mailto:info@laird-assessors.com).
