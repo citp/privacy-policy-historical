@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064041id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanns.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402123349id_/http%3A//vanns.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Vanns.com™ | Privacy Policy Statement
 
@@ -72,8 +72,6 @@ Updated 07/2014
 |   
 | |   
   
-[ ](http://vanns.com/search.aspx?find=canon)
-
 [ ](https://web.archive.org/search.aspx?find=AUDIOQUEST)
 
 [ ](https://web.archive.org/search.aspx?find=LG&log=false&manufacturer=188)
