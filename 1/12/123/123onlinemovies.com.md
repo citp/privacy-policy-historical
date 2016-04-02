@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712035535id_/http%3A//movies.rangu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402043406id_/http%3A//movies.rangu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rangu.com
 
