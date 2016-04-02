@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-dating-ukraine.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035227id_/http%3A//www.online-dating-ukraine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-dating-ukraine.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402181943id_/http%3A//www.online-dating-ukraine.com/privacy.html) for the most accurate reproduction.*
 
 # Online dating Ukraine | Privacy statement
 
@@ -96,7 +96,7 @@ London W1A 6US, United Kingdom
 **
 
 **Toll free phone:** ** ** ** ** **   ** **       ** **    ** **1-866-Y-SINGLE** **      ** ** ** ** ** **(** ** ** **1-866-974-6453** ** ** **)**  
-**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (312) 252-0005** **     ** ** ** ******or  ** ** ** **   ** **       ** **    ** **+44 (0) 2030261229**
+**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (312) 252-0005** **     ** ** ** ******or  ** ** ** **   ** **       ** **    ****+44 (0) 2030261229 - temporarily out of order**
 
 **Fax: +1 (360) 525-0025**
 
