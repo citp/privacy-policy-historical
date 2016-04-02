@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emergenc.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209175155id_/http%3A//www.emergenc.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emergenc.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402123403id_/http%3A//www.emergenc.com/misc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Emergen-C
 
