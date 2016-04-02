@@ -1,219 +1,132 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085512id_/http%3A//thomsonreuters.com/site/financial-risk-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403001013id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy statement | Thomson Reuters Financial & Risk
+# Privacy Policy - PE HUB
 
-Scope
+Effective Date: October 3, 2014.
 
-Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the collection of personal information via products, websites, competitions, events, webinars and some mobile applications operated by **Thomson Reuters Financial and Risk Businesses**.
+  1. **Overview**
 
-**For the purposes of this Privacy Statement, Thomson Reuters Corporation (Ontario) is considered a joint controller with Reuters Limited (England) AND Thomson Reuters Finance S.A. (Luxembourg), which form part of the Thomson Reuters Group of Companies. Contact information can be found below.**
 
-Our products and/or websites may contain links to sites maintained by others, or by other parts of Thomson Reuters. This Privacy Statement does not reflect the privacy practices of those products and sites. It also does not cover the information practices at [Reuters.com](http://www.reuters.com/privacy-policy "Reuters.com Privacy Statement"), [ThomsonReuters.com](http://thomsonreuters.com/privacy-statement/ "Thomson Reuters Privacy 
 
-Policy") or [World-check.com](http://www.world-check.com/privacy-statement "World-Check.com Privacy Statement"). Please see the links above or via these sites for their specific Privacy Statements.
+Welcome to the websites, applications and services provided by Buyouts Insider/Argosy Group LLC (“Buyouts Insider”), which include without limitation [www.buyoutsinsider.com](http://www.buyoutsinsider.com/), [www.pehub.com](http://www.pehub.com/), [www.buyoutsnews.com](http://www.buyoutsnews.com/), [www.vcjnews.com](http://www.vcjnews.com/), [www.prattsguide.com](https://www.pehub.com/pratts/), [www.partnerconnectevents.com](http://www.partnerconnectevents.com/) and [www.investmentbenchmarks.com](http://investmentbenchmarks.com/) (the “Sites”).  This Privacy Policy, together with any documents it expressly incorporates by reference, governs your access to and use of the Sites on all platforms, whether accessed via web browser, mobile device, non-browser application, or e-mail, and to our paid subscription service. It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Sites. In this Privacy Policy, “you” and “your” refer to you as the user of the Sites. “Buyouts Insider,” “we,” “us” and “our” refer to Buyouts Insider and our successors, partners, affiliates, subsidiaries and assigns.
 
-Highlights
+Buyouts Insider takes privacy concerns seriously. This Privacy Policy outlines what information is collected when you visit the Sites. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.
 
-**What personal information is collected and how is that information used?**
+The Sites contain links to websites hosted by third parties. We are not responsible for the privacy practices or content of such third-party websites. We encourage you to be aware when you leave the Sites and to read the privacy statements of each and every website that collects Personally Identifiable Information (“PII”) about you.
 
-  * We collect information about individuals, users and professional's in variety of ways including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using the products, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology.
-  * We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you.
-  * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
+By using the Sites, you expressly accept and agree to be bound and abide by this Privacy Policy and our Terms of Use, incorporated herein by reference. If you do not agree to be bound by this Privacy Policy, you may not access or use the Sites.
 
+  2. **Changes to This Policy**
 
 
-More Details
 
-**How is my personal information protected?**
+Buyouts Insider may at any time change this Privacy Policy to reflect any changes in our practices, service offerings, or market regulations. If the policy is updated, we will update the Effective Date at the top of the policy. Your continued use of Buyouts Insider after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates.
 
-  * We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information you or your employer provides to us.
-  * Thomson Reuters complies with Data Protection/Privacy regulations, laws and industry best practices in respects to security around personal information.
-  * If you are located in the European Economic Area ("EEA"), or a country with data protection/privacy law, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. By giving your information you consent to these transfers.
+  3. **Information We Collect About You**
 
 
 
-More Details
+Buyouts Insider gathers information about its users mainly to enhance their experience on the Sites. This information is used to bring you content that is relevant to your interests. Additionally, Buyouts Insider, along with our advertising partners, may collect information about you anonymously to provide you with targeted advertising messages that are catered to your location, interests, and the Sites behaviors. You can opt out of information gathering for advertising purposes with certain of our third-party partners below. This collected information includes 1) personal information you provide to us and 2) non-personal information we automatically collect through technology.
 
-**Who has access to the personal information?**
+A) Personal Information You Provide To Buyouts Insider
 
-  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents, suppliers and contractors, or as otherwise described in this Privacy Statement.
-  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back- office functions with other Thomson Reuters companies; in accordance with this Privacy Statement
-  * We will not disclose any personal information or information about your usage of our products, websites or mobile applications to unaffiliated third parties, except as necessary to enhance the product experience, service the legal agreement between us and your employer, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
+When using the Sites, you may provide Buyouts Insider with PII, including but not limited to:
 
+  * Personal contact information (name, zip code, e-mail address, and phone numbers)
+  * User names (including social media user names)
+  * Correspondence with Buyouts Insider staff
+  * Billing Information (for paid Buyouts Insider products)
+  * Contact information for Buyouts Insider event tickets
 
 
-More Details
 
-**How may you correct, amend, or delete your personal information, or update your preferences?**
+You may also provide information to be published or displayed on public areas of the Sites (“User Contributions”). Your User Contributions are posted on the Sites at your own risk. We cannot control the actions of other users of the Sites who view your User Contributions or with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-  * You may amend update or delete your information at any time via the products or services, via our Customer Center, or via the Marketing Preference Center link at the bottom of any email communication.
-  * If you have problems with the preference center please contact us.
-  * If you have any additional questions or concerns related to this statement and/or our practices, [email us](mailto:privacy.enquiries@thomsonreuters.com "Privacy Officer") or write to the data controller stated above to the attention of the Global Privacy Officer.
-  * Should you require a copy of the Privacy Statement in a language other than English please [contact us](mailto:privacy.enquiries@thomsonreuters.com "Privacy Officer").
+If you are a Registered User and under the age of 18 years old, Buyouts Insider allows you to request removal of your User Contributions. For more information on the removal of User Contributions, see our Terms of Use.
 
+You are not required to provide Buyouts Insider with any PII in order to use the Sites. Certain PII you provide to us can be updated through the account settings of registered users. PII that is collected is the sole property of Buyouts Insider, and that information is not distributed to third parties unless required by law.
 
+B) Non-Personal Information We Automatically Collect About You
 
-More Details
+This type of information is collected anonymously through the use of technology, such as third-party cookies, web beacons, and other similar methods. No PII is collected through these methods. Non-personal information we automatically collect may include, but is not limited to:
 
-Back to Top
+  * Hardware/software information (geographic location, IP address, browser type, device type, operating system, bandwidth, etc.)
+  * Analytics information (time spent on the Sites, number of pages viewed, referring web page, browsing information, social sharing, etc.)
+  * Advertising information (type of ads seen, number of times ads were served, pages where the ads were served, etc.)
+  * Information collected through cookies, web beacons, and similar technologies.
 
-Full Privacy Statement
 
-**What personal information does Thomson Reuters collect and how do we use it?**
 
-We collect information about individuals, users and professional's in a variety of ways: including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using a product, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology. We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
+Some of the technology used includes but is not limited to:
 
-**User-supplied information**
+Cookies: A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, you may be unable to access certain parts of the Sites. Unless you have adjusted your browser setting so that it will refuse cookies, the Sites will issue cookies when you direct your browser to the Sites.
 
-When you register for our services - directly or via your Employer, or order products via our sites or directly with us, we ask you to provide some personal information, for example, your name, address, phone number, email address, if required payment card information, and/or certain additional categories of information resulting from use of our products, websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. 
+Web beacons: The Sites content may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Buyouts Insider, for example, to count users who have accessed the Sites and for other related statistics, for example, recording the popularity of certain Sites’s content and verifying system and server integrity.
 
-**Marketing**
+For more information on cookies, web beacons, and other similar technologies, please visit the Internet Advertising Bureau’s Interactive Glossary.
 
-We may use certain information you provide to offer you products and services that we believe may be of interest to you or for market research purposes. If you don't wish to receive such offers or to be contacted directly, you may opt out (unsubscribe) as described below.
+C) Information Third-Parties Collect About You
 
-**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**
+This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any PII. Information third parties collect about you includes but is not limited to:
 
-**Otherwise see the paragraph below on 'HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?'**
+  * Demographic information (gender, age, HHI, job title, interests, etc.)
+  * Advertising information (clicks, interactions, post-impression performance data)
+  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
+  * Research information (data collected from partners such as Nielsen, Comscore, Quantcast, etc.)
 
-In certain countries if you use our products and/or services in the course of your employment, Thomson Reuters will only send you unsolicited marketing via email if your employer has given its consent for you to receive email communications from Thomson Reuters, or if your employer has allowed Thomson Reuters to contact you directly and gain your consent to receive marketing.
 
-If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control and training purposes.
+  4. **What Is Done With The Collected Information?**
 
-Some Thomson Reuters products and/or websites make messenger, chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential.
 
-**Usage and Web server logs**
 
-When you visit our products or web sites, we may track information about your usage and/or visit, and store that information on in usage or web server logs, which are records of the activities on our products or sites. Our servers automatically capture and save the information electronically. Some examples of the information we may collect include:
+Sites Content: Buyouts Insider potentially provides you with content that is relevant and personalized to your reading interests.
 
-  * Your unique Internet protocol address
-  * The name of your unique Internet service provider
-  * The city, state, and country from which you access our website
-  * The kind of browser or computer you use
-  * The number of links you click within the site
-  * The date and time of your visit
-  * The web page from which you arrived to our site
-  * The pages you viewed on the site
-  * Certain searches/queries that you conducted via our product(s) and/or website(s)
+Email Communications: Buyouts Insider may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the Sites, alerts, and promotional messages from advertising partners. You have the right to opt-out of these emails through our Newsletters & Alerts tab that can viewed in  your profile.
 
+Sites Analysis: Buyouts Insider uses the information collected through third-party sources to learn and analyze how the Sites are used. We use this information to enhance the Sites by making improvements based on the data collected.
 
+Advertising: Display Ads are delivered from our ad server. No PII is exchanged with any type of advertising message on Buyouts Insider.
 
-The information we collect in usage or web server logs helps us administer the product and site, analyze its usage, protect the product and/or website and its content from inappropriate use, and improve the user's experience.  
+  5. **How We Share Information Collected**
 
 
-**Thomson Reuters Messenger**
 
-If you are a user of this product, any personal information you post can be visible to other users. This privacy policy will not apply in these instances. Please refer to the Terms of Use.
+There are very few specific circumstances when your information is shared outside of the company. These circumstances include but are not limited to:
 
-In addition, Thomson Reuters may be required by your Employer and/or by laws or regulations to store messages, and conversations to meet regulatory and compliance obligations for a certain period of time. This includes public and private interaction between users. Moderators, Compliance and/or Legal professionals in your business may have access to historical or live conversations.  
+  * If you post User Contributions or use social media applications in conjunction with the Sites, the information you submit (including your social media user name) is viewable to the public.
+  * Buyouts Insider may need to disclose PII to comply with a judicial proceeding, a court order, or any other legal process.
+  * We employ third-party services to distribute email newsletters, and these third-parties have access to specific information only for the purposes of fulfilling contracts on our behalf.
+  * In the event Buyouts Insider goes through a Buyouts transaction, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ PII will, in most instances, be part of the assets transferred.
 
-To develop the product and/or communities, Thomson Reuters may analyze certain data.  
 
+  6. **Email Policy**
 
-**Cookies**
 
-In order to offer and provide a customize and personal service through our products and websites, we may use cookies to store and help track information about you.
 
-A cookie is a small text file sent to your device that we use to store limited information about your use of the product or website. We use cookies to provide you with certain functionality (such as to enable access to secure log-in areas and to save you having to re-enter information into product or website forms) and to personalize our product or website content. Without cookies, this functionality would be unavailable.  
+Buyouts Insider is committed to complying with all U.S. privacy laws, such as the CAN-SPAM Act, and all other applicable privacy laws, such as Canada’s Anti-Spam Legislation, and it is our intention that our email communications be pursuant to such laws.
 
+With the exceptions noted above, Buyouts Insider does not allow any third-party company to use your email address for commercial purposes without your expressed permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt-out of any specific newsletters or mailings, please login to your profile to change your newsletter settings.
 
-**By using our products and websites you agree that we can place these types of cookies on your device.**  
+  7. **Children Under 13**
 
 
-**Third Party Services**
 
-We may also use analytics tools provided by Google, Inc. ("Google") or other similar providers. Analytics tools serve cookies through our products or website and collects aggregated data on an anonymized basis about users and visitors' use of the product or website. The data collected enables us to understand aggregated user or visitor activity and how we may improve our product or website offering. This data is collected and used on an anonymized, aggregated basis only and does not enable any user or visitor to be personally identified.  
+Buyouts Insider is not intended for children under 13 years of age. No one under age 13 may provide any information to or on Buyouts Insider. Buyouts Insider does not knowingly target advertising to, or collect information from, children under the age of 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, register on the Sites, use any of the interactive or public comment features on the Sites, or provide any information about yourself to us, including your name, telephone number, email address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at customerservice@buyoutsinsider.com.
 
+  8. **Data Retention**
 
-In addition, we may also use marketing automation tools (specific Company information can be given upon request). These companies serve cookies to profile users or visitors' interests and activity. We use data collected through these cookies to serve users or visitors with information, new articles and advertising tailored to their specific needs and requirements.  This data is collected on an anonymized basis, except where users or visitors have previously registered to receive marketing communications from us or subsequently choose to do so.  Where this is the case, cookies set may enable us to identify the user or visitor. Where visitors have registered to receive marketing communications from us, we use the tools provided by these companies to send targeted e-mail marketing and track the effectiveness of our e-mail campaigns, including through the use of clear gif images in e-mails.
 
-You have the right to refuse or disable cookies served through our products or website although, if you choose to do so, certain functionality may become unavailable to you. As the means by which you may do this vary from browser to browser, we recommend that you visit your browser's help menu for further information.
 
-Our email and promotional communications may also include "Clear Image" gifs to track results of an email campaign. To turn off gifs you can do so in the email itself, or visit your email client's help menu. 
+Your personal information is retained for as long as necessary to fulfill the purposes outlined in this Privacy Policy.
 
-We respect your right to choose whether or not to accept cookies and clear gifs.
+  9. **Security**
 
-**Please note that if you do not set your browser and e-mail settings to disable cookies and clear gifs, you will be indicating your consent to receive them.**  
 
 
-If you wish to find out more about cookies and clear gifs, you may like to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"), an independent third party resource that explains what cookies and clear gifs are and how you may manage them. Please note that we are not responsible for, and have no control over, the content of this third party website.
+Buyouts Insider uses commercially reasonable controls to safeguard data against unauthorized use and theft.
 
-Back to Top
+  10. **Contact Us**
 
-**How does Thomson Reuters Financial & Risk protect the personal information that it collects?**
 
-We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our products and/or websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software.
 
-Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement, and as required under Data Protection/Privacy laws.
-
-**Transfer of personal information to other countries**
-
-If you are located in the European Economic Area ("EEA"), or a country with data protection/privacy law, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. **By giving your information you consent to these transfers.** Thomson Reuters will only transfer personal information to the extent it is necessary to fulfill the purpose outlined above.
-
-Recipients of data are other companies in the Thomson Reuters group of companies and third party service providers.
-
-We will take appropriate steps to provide an adequate level of protection to all personal information against the standards set within the EEA, as a minimum. No matter where you reside your data shall be processed in accordance with the provisions set out in this Privacy Statement.
-
-Back to Top
-
-**Who has access to the personal information?**
-
-We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
-
-  * When the data is collected from publicly available domains including but not limited to  websites, company directories, company registrars, publicly available government lists, search engines and similar technology.
-  * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns).
-  * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property.
-
-
-
-We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access in accordance with this Statement.
-
-We will not disclose any information about your usage to unaffiliated third parties, except as necessary to enhance the product experience, service the legal agreement between us and your employer, service the account, collaboration between Thomson Reuters products, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
-
-We may also use statistics regarding usage for product development and enhancement purposes.
-
-Your access to some of our products, services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your product, account or service at the end of each session. You may also wish to close your product terminal or browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place.
-
-Back to Top
-
-**How may I correct, amend, or delete my personal information and/or update my preferences?**
-
-You can amend, update or delete your personal information whenever you like. Please go to your profile settings in your product or services being used. Or contact your Customer Center for assistance.
-
-**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**
-
-In certain countries if you use our products and/or services in the course of your employment, Thomson Reuters will only send you unsolicited marketing via email if your employer has given its consent for you to receive email communications from Thomson Reuters, or if your employer has allowed Thomson Reuters to contact you directly and gain your consent to receive marketing.
-
-**If you are having problems with the preference center link – please email the following with a copy of the email communication you received:**
-
-[Eikon or financial product users](mailto:TRFRPrivacy@thomsonreuters.com)
-
-[Risk and Compliance users](mailto:Accelus@thomsonreuters.com "Accelus email")
-
-[World-Check users](http://info.accelus.thomsonreuters.biz/content/UpdateSubscriptions "World-Check Subscription Updates")
-
-**Safe Harbor Certification**
-
-Thomson Reuters US Financial and Risk Businesses are Thomson Reuters Markets LLC, Thomson Reuters Global Markets Inc, and Thomson Reuters G R C Inc.
-
-Thomson Reuters US Financial and Risk Businesses and their wholly owned and controlled subsidiaries comply with the U.S-EU Safe Harbor Framework and the U.S-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.Thomson Reuters Financial and Risk Businesses have certified that they adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view certification, please visit <http://www.export.gov/safeharbor/>.
-
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
-
-[](http://www.export.gov/safeharbor/)
-
-**QUESTIONS?**
-
-If you would like to see the data Thomson Reuters holds on you (there can be a charge for this service) or if you have any questions or concerns related to this statement and/or our practices, or a complaint or dispute, please [email us](mailto:privacy.enquiries@thomsonreuters.com "Privacy Officer") or write to the data controller stated above to the attention of the Global Privacy Officer.
-
-**TRANSLATIONS**
-
-Should you require a copy of the Privacy Statement in a language other than English please [email us](mailto:privacy.enquiries@thomsonreuters.com "Privacy Officer").
-
-**PRIVACY STATEMENT CHANGES**
-
-If Thomson Reuters information practices change in a significant way, we will post the policy changes here. Thomson Reuters reserves the right to change this Privacy Statement at any time by posting an updated version here. All previous versions will not be valid.  
-
-
-This Privacy Statement was last updated on 29th May 2015.
-
-Back to Top 
+If you have any questions or suggestions for this Privacy Policy, please email questions to [customerservice@buyoutsinsider.com](mailto:customerservice@buyoutsinsider.com). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
