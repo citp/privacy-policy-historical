@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hathway.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225230748id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hathway.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402131158id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
