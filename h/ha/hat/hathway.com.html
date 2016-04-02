@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hathway.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225230748id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hathway.com privacy policy that was archived on 2016-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402131158id_/http%3A//www.hathway.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     
@@ -8,7 +8,7 @@
 PrivacyPolicy    </title>
 
     
-    <link href="/Styles/Layout?v=OmF3ZwdMtZvI6I4eo2oMBMu_vOA5q9AF406FghNbOHU1" rel="stylesheet">
+    <link href="/Styles/Layout?v=vBmd58t9n1K69-uah36IprQXDtRl8k3YXaYCQ5X27J01" rel="stylesheet">
 
     <link href="/assets/css/font.css" rel="stylesheet">
 
@@ -17,6 +17,7 @@ PrivacyPolicy    </title>
     <link href="/assets/scroll/jquery.fs.selecter.css" rel="stylesheet">
 
     <link href="/assets/css/plug.css" rel="stylesheet">
+
 
 
     <style type="text/css">
@@ -44,14 +45,16 @@ PrivacyPolicy    </title>
                     Login
        		<div class="loginpanel_head">
                    <div class="header_login"><a href="http://selfcare.hathway.com/" target="_blank">Digital TV</a></div>
-                   <div class="header_login"><a href="http://payonline.hathway.com/mqsubscribe/selfcare/Default.aspx?tabid=103&amp;ctl=Login" target="_blank">Broadband</a></div>
+                  <div class="header_login"><a onclick="javascript:RedirectFrom('login')">Broadband</a></div> 
+		  
                </div>
                 </div>
                 <div class="login" id="btnUpload2" style="width: 112px;">
                     Quick Recharge
                 <div id="quickRecharge" class="loginpanel_head" style="margin: 0;">
                     <div class="header_login"><a href="http://selfcare.hathway.com/" target="_blank">Digital TV</a></div>
-                    <div class="header_login"><a href="http://payonline.hathway.com/HathwayPG/QuickBill/QuickBill.html" target="_blank">Broadband</a></div>
+                    <div class="header_login"><a onclick="javascript:RedirectFrom('quickrecharge')">Broadband</a></div>
+ 
                 </div>
                 </div>
 
@@ -141,13 +144,14 @@ PrivacyPolicy    </title>
                         <ul>
                             <li><a href="/Broadband/HomeBroadband">Home Broadband</a> </li>
                             <li><a href="/Broadband/BusinessBroadband">Business Broadband</a> </li>
-                            <li class="qp"><a target="_blank" href="http://payonline.hathway.com/HathwayPG/QuickBill/QuickBill.html">Quick pay</a></li>
+                            
+			    <li class="qp"><a target="_blank" style="cursor: pointer;" onclick="javascript:RedirectFrom('quickrecharge')">Quick Pay</a></li>
                         </ul>
                     </li>
                     <li><a href="/About/InvestorRelations">Investor Relations</a>
-                          <ul>
+                        <ul>
                             <li><a href="/EAnnualReports/index.html">E-Financial Report 2015</a></li>
-                         </ul>
+                        </ul>
                     </li>
 
                     <li><a href="/About/ContactUs">Contact Us</a></li>
@@ -231,7 +235,9 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                         </div>
                         <div id="broadband1" class="bd1">
                             <img src="/assets/img/home/broadband.png">
-                            <a target="_blank" href="http://payonline.hathway.com/HathwayPG/QuickBill/QuickBill.html">Broadband</a>
+                            
+			    <a target="_blank" style="cursor:pointer" onclick="javascript:RedirectFrom('quickrecharge')">Broadband</a>
+			    
                         </div>
                     </div>
                 </li>
@@ -306,7 +312,7 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
                         <li><a href="/About/MediaRoom" target="_blank">Media Room</a></li>
                         <li><a href="/Home/PrivacyPolicy" target="_blank">Privacy Policy</a></li>
                         <li><a href="/Home/TermsAndConditions" target="_blank">Terms &amp; Conditions</a></li>
-                        
+
                     </ul>
                     <ul>
                         <li>
@@ -367,7 +373,8 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
         <div class="footer_border">
             <div class="copy_panel">
                 <div class="copyright">Copyright 2015 - Till Date © Hathway. All Rights Reserved.</div>
-                                <div class="powered"><span>Powered by</span><a href="http://www.gracenote.com/" target="_blank"><img style="height: 36px;margin-top: 8px;" src="/assets/img/common/gracenote_logo.png" alt=""></a></div>
+                
+                <div class="powered"><span>Powered by</span><a href="http://www.gracenote.com/" target="_blank"><img style="height: 36px;margin-top: 8px;" src="/assets/img/common/gracenote_logo.png" alt=""></a></div>
             </div>
         </div>
         <!-- TemplateBeginEditable name="footer_js" -->
@@ -385,7 +392,21 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
         </div>
     </div>
 
+
+
+
     <script type="text/javascript">
+
+        function RedirectFrom(type)
+        {
+            if (type == "quickrecharge")
+                localStorage.setItem("QuickRecharge", "true");
+            else
+                localStorage.setItem("QuickRecharge", "false");
+
+            location.href = "/Home/BroadbandLogin";
+        }
+
         window.onload = function () {
             if (isIE() < 9 && isIE() != false) {
                 location.href = "/Home/Support";
@@ -539,6 +560,81 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
             /* ---TOOLTIP---- */
             $('.tooltip').tooltipster();
 
+            $("[id='normalSearch']").autocomplete({
+                source: function (request, response) {
+                    $.ajax({
+                        url: "/Home/GetAdvanceAutoCompleteData",
+                        data: "{'autocompleteword':'" + request.term + "'}",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        ProcessData: true,
+                        dataFilter: function (data) {
+                            return data;
+                        },
+                        success: function (msg) {
+                            if (msg.AutoCompleteLi != null && msg.AutoCompleteLi != "") {
+                                response($.map(msg.AutoCompleteLi, function (item) {
+                                    var strClass = "";
+                                    if (item.id == "1")
+                                        strClass = "chanel_ico";
+                                    else if (item.id == "2")
+                                        strClass = "digitalpacks_ico";
+                                    else if (item.id == "3")
+                                        strClass = "";
+                                    else if (item.id == "4")
+                                        strClass = "pages_ico";
+                                    else if (item.id == "5")
+                                        strClass = "program_ico";
+                                    else if (item.id == "6")
+                                        strClass = "brodbandplan_ico";
+
+                                    return {
+                                        //label: item.autoprompt,
+                                        value: item.value,
+                                        avatar: strClass,
+                                        id: item.contentid,
+                                        type: item.id
+                                    }
+                                }));
+
+                                $(".search_content .search_count span").text("“" + request.term + "”");
+                                $(".search_content .search_count").show();
+                            }
+                            else {
+                                $(".search_content .search_count").hide();
+                                $("ul.ui-autocomplete").slideUp();
+                            }
+                        },
+                        error: function (XMLHttpRequest, textStatus, errorThrown) {
+
+                        }
+                    });
+                },
+                focus: function (event, ui) {
+                    $(".search_input_box").val(ui.item.value);
+                    $(".search_content .search_count span").text("“" + ui.item.value + "”");
+
+                    return false;
+                },
+                select: function (event, ui) {
+                    $(".search_input_box").val(ui.item.value);
+                    $(".search_button").trigger("click");
+                },
+                open: function () {
+                    $(this).autocomplete("widget")
+                           .appendTo(".search_content #autoComplete")
+                           .css("position", "static");
+                }
+            }).data("ui-autocomplete")._renderItem = function (ul, item) {
+                return $("<li>").data("ui-autocomplete-item", item).append("<a data-aHref='" + item.value + "'><span class='" + item.avatar + "'> " + item.value + "</span></a>").appendTo(ul);
+            };
+
+            $("[id='normalSearch']").autocomplete().data("ui-autocomplete").close = function (e) {
+                console.log("close event");
+                //clearTimeout(this.closing), this.menu.element.is(":visible") && (this.menu.element.hide(), this._trigger("close", e));
+            };
+
             $(".search_input_box").keyup(function (e) {
                 $(".search_area").css("border", "0px solid");
                 var searchstr = $.trim($(".search_input_box").val());
@@ -676,71 +772,71 @@ the Hathway website will be deemed an acceptance of the privacy policy existing 
 
             var eventName = "Home";
             var headendName = "Hathway" + opName;
-            var sessionId = "n0cuhriiysyuln4ypp1qtscn";
-    var subPage = "";
+            var sessionId = "jb5zqazzvhnknwmvzcgodwum";
+            var subPage = "";
 
-    if (pageLink.toLowerCase().match("/aboutus$") || pageLink.toLowerCase().match("/aboutus/$"))
-    { eventName = "About Us" }
-    else if (pageLink.toLowerCase().match("/digitalcabletv$") || pageLink.toLowerCase().match("/digitalcabletv/$"))
-    { eventName = "Digital Cable TV" }
-    else if (pageLink.toLowerCase().match("/hd-pvr$") || pageLink.toLowerCase().match("/hd-pvr/$"))
-    { eventName = "HD-PVR" }
-    else if (pageLink.toLowerCase().match("/packs$") || pageLink.toLowerCase().match("/packs/$"))
-    { eventName = "Packs" }
-    else if (pageLink.toLowerCase().match("/comparepacks$") || pageLink.toLowerCase().match("/comparepacks/$"))
-    { eventName = "Compare Packs" }
-    else if (pageLink.toLowerCase().match("/exclusivechannels$") || pageLink.toLowerCase().match("exclusivechannels/$"))
-    { eventName = "Exclusive Channels" }
-    else if (pageLink.toLowerCase().match("/tvguide/index$") || pageLink.toLowerCase().match("/tvguide/index/$"))
-    { eventName = "Tv Guide" }
-    else if (pageLink.toLowerCase().match("/broadband$") || pageLink.toLowerCase().match("/broadband/$"))
-    { eventName = "Broadband" }
-    else if (pageLink.toLowerCase().match("/broadband/homebroadband$") || pageLink.toLowerCase().match("/broadband/homebroadband/$"))
-    { eventName = "Home Broadband" }
-    else if (pageLink.toLowerCase().match("/broadband/businessbroadband$") || pageLink.toLowerCase().match("/broadband/businessbroadband/$"))
-    { eventName = "Business Broadband" }
-    else if (pageLink.toLowerCase().match("/investorrelations$") || pageLink.toLowerCase().match("/investorrelations/$"))
-    { eventName = "Investor Relations" }
-    else if (pageLink.toLowerCase().match("/investorcontact$") || pageLink.toLowerCase().match("/investorcontact/$"))
-    { eventName = "Investor Contact" }
-    else if (pageLink.toLowerCase().match("/contactus$") || pageLink.toLowerCase().match("/contactus/$"))
-    { eventName = "Contact Us" }
-    else if (pageLink.toLowerCase().match("/newconnection$") || pageLink.toLowerCase().match("/newconnection/$"))
-    { eventName = "New Connection" }
-    else if (pageLink.toLowerCase().match("/customerservice$") || pageLink.toLowerCase().match("/customerservice/$"))
-    { eventName = "Customer Service" }
-    else if (pageLink.toLowerCase().match("/faqs$") || pageLink.toLowerCase().match("/faqs/$"))
-    { eventName = "FAQs" }
-    else if (pageLink.toLowerCase().match("/nodalofficer$") || pageLink.toLowerCase().match("/nodalofficer/$"))
-    { eventName = "Nodal Officer" }
-    else if (pageLink.toLowerCase().match("/feedback$") || pageLink.toLowerCase().match("/feedback/$"))
-    { eventName = "Online Feedback" }
-    else if (pageLink.toLowerCase().match("/understandyourbill$") || pageLink.toLowerCase().match("/understandyourbill/$"))
-    { eventName = "Understand Your Bill" }
-    else if (pageLink.toLowerCase().match("/broadbandpaymentoptions$") || pageLink.toLowerCase().match("/broadbandpaymentoptions/$"))
-    { eventName = "Broadband Payment Options" }
-    else if (pageLink.toLowerCase().match("/dropbox$") || pageLink.toLowerCase().match("/dropbox/(.*)$"))
-    { eventName = "Drop Box - " + pageLink.match("/DropBox/(.*)$")[1] }
-    else if (pageLink.toLowerCase().match("/relationshipcenters$") || pageLink.toLowerCase().match("/relationshipcenters/(.*)$"))
-    { eventName = "Relationship Centers - " + pageLink.match("/RelationshipCenters/(.*)$")[1] }
-    else if (pageLink.toLowerCase().match("/fairaccesspolicy$") || pageLink.toLowerCase().match("/fairaccesspolicy/$"))
-    { eventName = "Fair Access Policy" }
-    else if (pageLink.toLowerCase().match("/fairusagepolicy$") || pageLink.toLowerCase().match("/fairusagepolicy/$"))
-    { eventName = "Fair Usage Policy" }
-    else if (pageLink.toLowerCase().match("/appellateauthority$") || pageLink.toLowerCase().match("/appellateauthority/$"))
-    { eventName = "Appellate Authority" }
+            if (pageLink.toLowerCase().match("/aboutus$") || pageLink.toLowerCase().match("/aboutus/$"))
+            { eventName = "About Us" }
+            else if (pageLink.toLowerCase().match("/digitalcabletv$") || pageLink.toLowerCase().match("/digitalcabletv/$"))
+            { eventName = "Digital Cable TV" }
+            else if (pageLink.toLowerCase().match("/hd-pvr$") || pageLink.toLowerCase().match("/hd-pvr/$"))
+            { eventName = "HD-PVR" }
+            else if (pageLink.toLowerCase().match("/packs$") || pageLink.toLowerCase().match("/packs/$"))
+            { eventName = "Packs" }
+            else if (pageLink.toLowerCase().match("/comparepacks$") || pageLink.toLowerCase().match("/comparepacks/$"))
+            { eventName = "Compare Packs" }
+            else if (pageLink.toLowerCase().match("/exclusivechannels$") || pageLink.toLowerCase().match("exclusivechannels/$"))
+            { eventName = "Exclusive Channels" }
+            else if (pageLink.toLowerCase().match("/tvguide/index$") || pageLink.toLowerCase().match("/tvguide/index/$"))
+            { eventName = "Tv Guide" }
+            else if (pageLink.toLowerCase().match("/broadband$") || pageLink.toLowerCase().match("/broadband/$"))
+            { eventName = "Broadband" }
+            else if (pageLink.toLowerCase().match("/broadband/homebroadband$") || pageLink.toLowerCase().match("/broadband/homebroadband/$"))
+            { eventName = "Home Broadband" }
+            else if (pageLink.toLowerCase().match("/broadband/businessbroadband$") || pageLink.toLowerCase().match("/broadband/businessbroadband/$"))
+            { eventName = "Business Broadband" }
+            else if (pageLink.toLowerCase().match("/investorrelations$") || pageLink.toLowerCase().match("/investorrelations/$"))
+            { eventName = "Investor Relations" }
+            else if (pageLink.toLowerCase().match("/investorcontact$") || pageLink.toLowerCase().match("/investorcontact/$"))
+            { eventName = "Investor Contact" }
+            else if (pageLink.toLowerCase().match("/contactus$") || pageLink.toLowerCase().match("/contactus/$"))
+            { eventName = "Contact Us" }
+            else if (pageLink.toLowerCase().match("/newconnection$") || pageLink.toLowerCase().match("/newconnection/$"))
+            { eventName = "New Connection" }
+            else if (pageLink.toLowerCase().match("/customerservice$") || pageLink.toLowerCase().match("/customerservice/$"))
+            { eventName = "Customer Service" }
+            else if (pageLink.toLowerCase().match("/faqs$") || pageLink.toLowerCase().match("/faqs/$"))
+            { eventName = "FAQs" }
+            else if (pageLink.toLowerCase().match("/nodalofficer$") || pageLink.toLowerCase().match("/nodalofficer/$"))
+            { eventName = "Nodal Officer" }
+            else if (pageLink.toLowerCase().match("/feedback$") || pageLink.toLowerCase().match("/feedback/$"))
+            { eventName = "Online Feedback" }
+            else if (pageLink.toLowerCase().match("/understandyourbill$") || pageLink.toLowerCase().match("/understandyourbill/$"))
+            { eventName = "Understand Your Bill" }
+            else if (pageLink.toLowerCase().match("/broadbandpaymentoptions$") || pageLink.toLowerCase().match("/broadbandpaymentoptions/$"))
+            { eventName = "Broadband Payment Options" }
+            else if (pageLink.toLowerCase().match("/dropbox$") || pageLink.toLowerCase().match("/dropbox/(.*)$"))
+            { eventName = "Drop Box - " + pageLink.match("/DropBox/(.*)$")[1] }
+            else if (pageLink.toLowerCase().match("/relationshipcenters$") || pageLink.toLowerCase().match("/relationshipcenters/(.*)$"))
+            { eventName = "Relationship Centers - " + pageLink.match("/RelationshipCenters/(.*)$")[1] }
+            else if (pageLink.toLowerCase().match("/fairaccesspolicy$") || pageLink.toLowerCase().match("/fairaccesspolicy/$"))
+            { eventName = "Fair Access Policy" }
+            else if (pageLink.toLowerCase().match("/fairusagepolicy$") || pageLink.toLowerCase().match("/fairusagepolicy/$"))
+            { eventName = "Fair Usage Policy" }
+            else if (pageLink.toLowerCase().match("/appellateauthority$") || pageLink.toLowerCase().match("/appellateauthority/$"))
+            { eventName = "Appellate Authority" }
 
-    if ($("#tab-container").length > 0) {
-        subPage = $.trim($("#tab-container .easy_tabs a.active").text());
-    }
+            if ($("#tab-container").length > 0) {
+                subPage = $.trim($("#tab-container .easy_tabs a.active").text());
+            }
 
-    wizrocket.event.push(eventName + ((subPage != null && subPage != "") ? " (" + subPage + ")" : "") + " Page Browse", {
-        "Headend Name": headendName,
-        "MSO ID": "0",
-        "User ID": sessionId,
-        "Email ID": ""
-    });
-}
+            wizrocket.event.push(eventName + ((subPage != null && subPage != "") ? " (" + subPage + ")" : "") + " Page Browse", {
+                "Headend Name": headendName,
+                "MSO ID": "0",
+                "User ID": sessionId,
+                "Email ID": ""
+            });
+        }
 
     </script>
 
