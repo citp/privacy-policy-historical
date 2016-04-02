@@ -1,23 +1,57 @@
-<!--The following is the downloaded HTML source of the apollohosting.com privacy policy that was archived on 2015-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026055604id_/http%3A//www.apollohosting.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apollohosting.com privacy policy that was archived on 2016-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402095742id_/http%3A//www.apollohosting.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>ApolloHosting's Privacy Policy</title>
+<title>Verio's Privacy Policy</title>
 <meta name="keywords" content="web hosting, domain names, web site, search engine optimization, hosting, servers">
 <meta name="description" content="Small business web hosting offering additional business services such as: domain name registrations, email accounts, web services, FrontPage help, online community resources and various small business solutions.">
 <meta name="robots" content="noodp, noydir">
 <meta name="rating" content="General">
 <meta name="distribution" content="Global">
-<link rel="shortcut icon" href="http://images.apollohosting.com/icons/favicon_apo.ico">
-<link rel="apple-touch-icon" href="http://images.apollohosting.com/icons/apple-touch-icons/apple-touch-icon-apollo.png">
+<link rel="shortcut icon" href="http://images.verio.com/icons/favicon_apo.ico">
+<link rel="apple-touch-icon" href="http://images.verio.com/icons/apple-touch-icons/apple-touch-icon-verio.png">
 <link rel="stylesheet" type="text/css" href="/xslt/elements/generic_csscomponent.css">
+
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PPRPX8"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 window.V = window.V || {};
 V.cart = V.cart || {
 	items: []
 };
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.verio.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 750);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
 </script>
 
 
@@ -32,7 +66,7 @@ V.cart = V.cart || {
 
 
 
-		<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=66651396"></script></head><body id="stylesheet1"><block>
+		</head><body id="stylesheet1"><block>
 			<style>
 				.quicklinks {width: 200px; float: right; margin: 0 0 2em 2em;}
 				.info_msg {width: 400px;}
@@ -43,10 +77,10 @@ V.cart = V.cart || {
 				  var _gaq = _gaq || [];
 				
 				  _gaq.push(['_setAccount', 'UA-456224-37'],
-				  		['_setDomainName', '.apollohosting.com'],
+				  		['_setDomainName', '.verio.com'],
 						['_trackPageview'],
 						['b._setAccount', 'UA-456224-53'],
-						['b._setDomainName', '.apollohosting.com'],
+						['b._setDomainName', '.verio.com'],
 						['b._trackPageview']);
 				
 				  (function() {
@@ -60,7 +94,7 @@ V.cart = V.cart || {
 
 
 
-<script>dataLayer = [{"userType":"anonymous","pageType":"","userID":"","pageClass":"","step":"","flow":""}];</script>
+<script>dataLayer = [{"userType":"anonymous","pageClass":"","step":"","pageType":"","flow":"","userID":""}];</script>
 
 
 
@@ -80,7 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a class="cpbar-webmail icon" href="/mail/">WebMail</a></li>
 <li><a class="cpbar-file-manager icon" href="/controlpanel/FileManager/">FileManager</a></li>
 </ul>
-<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.apollohosting.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1445838964"><input type="hidden" name="__token_val__" value="29421f128871532673ffe787c7eb91ae">
+<div class="login-status login-form"><form method="post" enctype="application/x-www-form-urlencoded" action="https://secure.verio.com/secureLogin"><input type="hidden" name="__token_timestamp__" value="1459591062"><input type="hidden" name="__token_val__" value="fe25905b0fa35fcb270c6abf1d71ce6a">
 <input type="hidden" name="destination" value="/controlpanel/"><ul>
 <li>
 <label>Username</label><input maxlength="50" size="15" name="credential_0" class="formfield">
@@ -93,18 +127,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </form></div>
 </div></div>
 <div id="hd">
-<h1><a href="/">ApolloHosting</a></h1>
+<h1><a href="/">Verio</a></h1>
 <h2>Powerful Web Hosting and Domain Names for Home and Business</h2>
-<p class="support-chat"><a class="gtm_chat" href="https://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;byhref=1&amp;ref=chatbubble" target="chat66651396" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/66651396/?cmd=file&amp;file=visitorWantsToChat&amp;site=66651396&amp;referrer='+escape(document.location),'chat66651396','width=472,height=320');return false;">Click here to chat with a live specialist.</a></p>
-<div class="support-phone">
-						Sales &amp; Support <a href="/support/contact.bml">877-525-4678</a>
-</div>
+<p class="support-chat"><a class="gtm_chat" href="#chat">Click here to chat with a live specialist.</a></p>
 <p class="awards-tag">Award Winning Web Hosting</p>
 <ul id="nav">
-<li title="menu1" class="first"><a href="/apollo/hosting.bml">Web Hosting</a></li>
+<li title="menu1" class="first"><a href="/verio/hosting.bml">Web Hosting</a></li>
 <li title="menu2"><a href="/product/services.bml">Products</a></li>
-<li title="menu3"><a href="/apollo/about.bml">About Us</a></li>
-<li title="menu4"><a href="/referral/programs.bml">Affiliate Program</a></li>
+<li title=""><a href="/domains/new-domain-extensions.bml">Domains</a></li>
+<li title="menu4"><a href="/verio/about.bml">About Us</a></li>
 <li title="menu5"><a href="/support/index.bml">Support</a></li>
 <li title="menu6" class="last"><a href="/controlpanel/index.bml">Control Panel</a></li>
 </ul>
@@ -119,12 +150,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							});
 						</script><div id="dropdown-menu-content" style="display: block;">
 <div id="menu1Container" class="trans95" style="visibility: hidden;"><div id="menu1Content" class="menu" style="top: -400px;"><div class="options">
-<a href="/apollo/hosting.bml">Web Hosting</a><a href="/apollo/windows-hosting.bml">Windows Hosting</a><a href="/apollo/vps-hosting.bml">VPS Hosting</a>
+<a href="/verio/hosting.bml">Web Hosting</a><a href="/verio/windows-hosting.bml">Windows Hosting</a>
 </div></div></div>
 <div id="menu2Container" class="trans95" style="visibility: hidden;"><div id="menu2Content" class="menu" style="top: -400px;"><div class="options">
-<a href="/apollo/hosting.bml">Web Hosting</a><a href="/product/domaincredits.bml">Domains</a><a href="/product/ssl_certificate.bml">SSL Certificates</a><a href="/product/exchangeHosting.bml">Microsoft Exchange</a><a href="/product/marketing.bml">Search Marketing</a><a href="/design/">Web Design</a><a href="/product/services.bml">Add-Ons &amp; Services</a>
+<a href="/verio/hosting.bml">Web Hosting</a><a href="/product/domaincredits.bml">Domains</a><a href="/product/ssl_certificate.bml">SSL Certificates</a><a href="/product/exchangeHosting.bml">Microsoft Exchange</a><a href="/product/marketing.bml">Search Marketing</a><a href="/design/">Web Design</a><a href="/product/services.bml">Add-Ons &amp; Services</a>
 </div></div></div>
-<div id="menu3Container" class="trans95" style="visibility: hidden;"><div id="menu3Content" class="menu" style="top: -400px;"><div class="options"><a href="/about/technology.bml">Technology</a></div></div></div>
+<div id="menu4Container" class="trans95" style="visibility: hidden;"><div id="menu4Content" class="menu" style="top: -400px;"><div class="options"><a href="/about/technology.bml">Technology</a></div></div></div>
 <div id="menu5Container" class="trans95" style="visibility: hidden;"><div id="menu5Content" class="menu" style="top: -400px;"><div class="options">
 <a href="/support/contact.bml">Contact Us</a><a href="/knowledgebase/beta/">Knowledgebase</a><a href="/support/user-guide/">User Guide</a>
 </div></div></div>
@@ -149,7 +180,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li><a href="/legal/legal_dmca.bml">Digital Millennium Copyright Act</a></li>
 	<li><a href="/legal/legal_website_agree.bml">Web Site Development Agreement</a></li>
 	<li><a href="/legal/legal_seoagreement.bml">SEO Agreement</a></li>		
-	<li><a href="/affiliate/affiliateagreement.bml">Affiliate Agreement</a></li>
 
 	<li><a href="/legal/report_spam_and_abuse.bml">Report Member Violations</a></li>
 
@@ -158,7 +188,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 <div id="main" class="main"><block>
-			<h1>ApolloHosting's Privacy Policy</h1>
+			<h1>Verio's Privacy Policy</h1>
 
 
 
@@ -188,19 +218,19 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 			</div>
 -->		 
 			<p>
-				We respect your privacy and want to make your experience visiting our website located at <a href="http://www.apollohosting.com">www.apollohosting.com</a> 
+				We respect your privacy and want to make your experience visiting our website located at <a href="http://www.verio.com">www.verio.com</a> 
 				and using our services as enjoyable and rewarding as possible.  This Privacy Policy describes what personal 
 				information of our subscribers ("Subscribers") and visitors ("Visitors") (collectively, "Users") is collected 
-				and how and when it might be used or shared  by ApolloHosting with its parent company, The Endurance International 
-				Group, Inc. ("Endurance," and collectively with ApolloHosting, the "Company") or trusted partners to deliver or 
+				and how and when it might be used or shared  by Verio with its parent company, The Endurance International 
+				Group, Inc. ("Endurance," and collectively with Verio, the "Company") or trusted partners to deliver or 
 				enhance our services.
 			</p>
 			
 			<ul id="legal">
 				<li>
 					<b>WHO WE ARE.</b>
-				ApolloHosting provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, 
-				individuals, non-profit organizations and others.  As part of the Endurance corporate family, ApolloHosting is able to provide a 
+				Verio provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, 
+				individuals, non-profit organizations and others.  As part of the Endurance corporate family, Verio is able to provide a 
 				variety and range of products and services to help Users with their technological needs.  
 				To learn more about the Endurance corporate family, click <a href="http://www.enduranceinternational.com">here</a>.  	
 				</li>
@@ -355,19 +385,19 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 							<b>Public Forums.</b>  Please remember that any information you may disclose or post in our User directory, spotlights/case studies, 
 							testimonials, forums, or other public areas of our websites or the Internet, becomes public information. You should exercise caution 
 							when deciding to disclose personal information in these public areas. To request removal of your personal information from our community 
-							forums or testimonials, contact us at <a href="mailto:legal@apollohosting-inc.com">legal@apollohosting-inc.com</a>. In some cases, we may not be able to remove your personal information, in 
+							forums or testimonials, contact us at <a href="mailto:legal@verio-inc.com">legal@verio-inc.com</a>. In some cases, we may not be able to remove your personal information, in 
 							which
 							 case we will let you know why we are unable to do so.
 						</li>
 						<li>
 							<p>
-								<b>Unsubscribe/Opt-out.</b>  When you become a Subscriber of <a href="mailto:support@apollohosting-inc.com">support@apollohosting-inc.com</a>, you are automatically subscribed to receive transactional notices 
-								about your account, email newsletters and news of special promotions offered through ApolloHosting and/or in conjunction with our partners.
+								<b>Unsubscribe/Opt-out.</b>  When you become a Subscriber of <a href="mailto:support@verio-inc.com">support@verio-inc.com</a>, you are automatically subscribed to receive transactional notices 
+								about your account, email newsletters and news of special promotions offered through Verio and/or in conjunction with our partners.
 							</p>
 							<p>
-								To unsubscribe from ApolloHosting newsletters and promotional mailings, please update your preferences with our <a href="http://www.apollohosting.com/utils/Subscribe.bml">Subscription Manager tool</a> or 
-								email us at <a href="mailto:support@apollohosting-inc.com">ApolloHosting support</a>. If you would like to cancel your ApolloHosting subscription, please contact ApolloHosting support through our 
-								<a href="http://www.apollohosting.com/controlpanel/sconsole/">online support form</a> or call us at 877-525-4678.  You may also unsubscribe through the links provided in promotional email messages 
+								To unsubscribe from Verio newsletters and promotional mailings, please update your preferences with our <a href="http://www.verio.com/utils/Subscribe.bml">Subscription Manager tool</a> or 
+								email us at <a href="mailto:support@verio-inc.com">Verio support</a>. If you would like to cancel your Verio subscription, please contact Verio support through our 
+								<a href="http://www.verio.com/controlpanel/sconsole/">online support form</a> or call us at 855.765.0425.  You may also unsubscribe through the links provided in promotional email messages 
 								sent by us or our partners/affiliates.
 							</p>
 
@@ -383,7 +413,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 							<p>
 								To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact 
 								and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, 
-								you can contact ApolloHosting support by phone 877-525-4678 or through our <a href="http://www.apollohosting.com/controlpanel/sconsole/">online support form</a>.
+								you can contact Verio support by phone 855.765.0425 or through our <a href="http://www.verio.com/controlpanel/sconsole/">online support form</a>.
 							</p>
 						</li>
 					</ul>
@@ -421,7 +451,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 				</li>
 				<li id="contact">
 					<b>CONTACT US REGARDING THIS POLICY.</b>  If you have any questions about this Privacy Policy or the practices described herein, 
-					you may contact: Legal, ApolloHosting, 10 Corporate Dr., Suite 300, Burlington, MA 01803 or <a href="mailto:legal@apollohosting-inc.com">legal@apollohosting-inc.com</a>.
+					you may contact: Legal, Verio, 10 Corporate Dr., Suite 300, Burlington, MA 01803 or <a href="mailto:legal@verio-inc.com">legal@verio-inc.com</a>.
 				</li>
 				<li id="resellers">
 					<b>APPLICABLE TO ALL RESELLER RELATIONSHIPS.</b>  In addition to all of the terms and conditions set forth above, the following terms 
@@ -445,7 +475,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 					</ul>
 				</li>
 			</ul>		 
-			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on April 30, 2015.</strong></p><strong>
+			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on May 29, 2015.</strong></p><strong>
 </strong><p></p>
 		</block></div>
 </div>
@@ -453,11 +483,10 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <div class="yui-gb footer-nav">
 <div class="yui-g first">
 <div class="yui-u first">
-<h3><a href="/apollo/index.bml">Hosting Solutions</a></h3>
+<h3><a href="/verio/index.bml">Hosting Solutions</a></h3>
 <ul>
-<li><a href="/apollo/unix-compare-plans.bml">Web Hosting</a></li>
-<li><a href="/apollo/windows-hosting.bml">Windows Hosting</a></li>
-<li><a href="/apollo/vps-hosting.bml">VPS Hosting</a></li>
+<li><a href="/verio/unix-compare-plans.bml">Web Hosting</a></li>
+<li><a href="/verio/windows-hosting.bml">Windows Hosting</a></li>
 </ul>
 <h3><a href="/domains/new-domain-extensions.bml">Domain Registration</a></h3>
 </div>
@@ -468,7 +497,6 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <li><a href="/product/services.bml?service=domains">Domain Services</a></li>
 <li><a href="/product/services.bml?service=mail">Email Services</a></li>
 <li><a href="/product/services.bml?service=commerce">E-Commerce Services</a></li>
-<li><a href="/product/services.bml?service=scripting">Scripting &amp; Add-ons</a></li>
 <li><a href="/product/services.bml?service=marketing">Marketing Services</a></li>
 </ul>
 </div>
@@ -484,9 +512,9 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 </ul>
 </div>
 <div class="yui-u about-us">
-<h3><a href="/apollo/about.bml">About Us</a></h3>
+<h3><a href="/verio/about.bml">About Us</a></h3>
 <ul>
-<li><a href="/apollo/about.bml">Who We Are</a></li>
+<li><a href="/verio/about.bml">Who We Are</a></li>
 <li><a href="/support/contact.bml">Contact Us</a></li>
 <li><a href="/referral/programs.bml">Partnership Programs</a></li>
 </ul>
@@ -505,30 +533,23 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 </div>
 </div>
 <div class="yui-gd copyright">
-<div class="yui-u first"><p>© <script type="text/javascript"> document.write(new Date().getFullYear()) </script>2020&nbsp;ApolloHosting. All rights reserved.</p></div>
+<div class="yui-u first"><p>© <script type="text/javascript"> document.write(new Date().getFullYear()) </script>2020&nbsp;Verio. All rights reserved.</p></div>
 <div class="yui-u"><ul>
 <li><a href="/legal/">Terms of Service</a></li>
 <li><a href="/legal/legal_privacy.bml">Privacy</a></li>
 <li><a href="/support/sitemap.bml">Sitemap</a></li>
-<li><a href="/apollo/hosting.bml">Website Hosting</a></li>
+<li><a href="/verio/hosting.bml">Website Hosting</a></li>
 </ul></div>
 </div>
-<script language="JavaScript" src="/generalAppC/javascripts/dropdown-navigation-ah.js" type="text/javascript"></script><style type="text/css">#menu1Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><script type="text/javascript">window.onload=document.getElementById("dropdown-menu-content").style.display="block";</script>
+<script language="JavaScript" src="/generalAppC/javascripts/dropdown-navigation-ah.js" type="text/javascript"></script><style type="text/css">#menu1Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu1Container, #menu1Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu2Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu2Container, #menu2Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu3Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu3Container, #menu3Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu4Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu4Container, #menu4Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu5Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu5Container, #menu5Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><style type="text/css">#menu6Container { visibility:hidden; left:0px; top:179px; overflow:hidden; z-index:10000; }#menu6Container, #menu6Content { position:absolute; width:155px; height:400px; clip:rect(0 155 400 0); }</style><script type="text/javascript">
+			window.onload = function () {
+				if (document.getElementById("dropdown-menu-content")) {
+					document.getElementById("dropdown-menu-content").style.display="block";
+				}
+			}
+			</script>
 </div></div>
 </div>
-
-
-
-
-	<script type="text/javascript">
-		window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'66651396',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
-	</script>
-
-
-
-
-
-
 
 
 
