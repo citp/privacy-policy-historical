@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bongacash.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231152349id_/http%3A//bongacash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacash.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402153227id_/http%3A//bongacash.com/privacy) for the most accurate reproduction.*
 
-# BongaCash - The best adult webcam affiliate program
+# BongaCash affiliate program privacy policy
 
 Beronata Services has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by us. 
 
