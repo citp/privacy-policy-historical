@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telechargement.fr privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228222217id_/http%3A//corporate.nexway.com/legal-notice-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telechargement.fr privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402135614id_/http%3A//corporate.nexway.com/legal-notice-privacy) for the most accurate reproduction.*
 
 # Nexway | Legal notice & Privacy
 
