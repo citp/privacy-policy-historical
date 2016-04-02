@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123723id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402185853id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,11 +6,11 @@
 
 Like most websites we use cookies. This is to ensure that we give you the best experience possible.
 
-Continuing to use www.cabi.org/privacy-policy means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use.
+Continuing to use www.cabi.org means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use.
 
 **Sign up for the CABI e-zine Newsletter**
 
-  * Your are here:
+  * You are here:
   * [Home](https://web.archive.org/)
   * Privacy policy
 
