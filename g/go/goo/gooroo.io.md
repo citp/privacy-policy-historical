@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooroo.io privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223210536id_/https%3A//gooroo.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooroo.io privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403013649id_/https%3A//gooroo.io/pages/privacy) for the most accurate reproduction.*
 
 # Gooroo privacy policy | Gooroo
 
