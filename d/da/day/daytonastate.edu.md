@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonastate.edu privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810042127id_/https%3A//webapps.daytonastate.edu/ICS/ClientConfig/HtmlContent/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonastate.edu privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402210644id_/https%3A//webapps.daytonastate.edu/ICS/ClientConfig/HtmlContent/Privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -16,7 +16,7 @@ Daytona State's Web site provides links to a wide variety of other web sites. Da
 **Updates and Questions**  
 Daytona State reserves the right, at its discretion, to change this policy at any time.  Please check back periodically for updates.
 
-Contact us with any questions at [web_services@falconmail.daytonastate.edu](mailto:web_services@falconmail.daytonastate.edu "Web Support")  
+Contact us with any questions at [web_services@daytonastate.edu](mailto:web_services@daytonastate.edu "Web Support")  
 Send mail to:  
 Daytona State College  
 Attention: Web Services  
@@ -41,7 +41,5 @@ Daytona State College could receive a number of notices related to the copyright
     * Gnutella, Limewire, Morpheus, BitTorrent, Ares, Aimster, Bearshare, Kazaa, Imesh and Napster are a few of the more common names from over the years. There are dozens and dozens of applications that fall into this category. Having LimeWire, KaZaA, Blubster, Grokster, BitTorrent, Gnutella, iMesh,CuteMX, Scour, FreeNetfile or any other music or movie file-sharing software on your computer opens the door to liability. While file-sharing software may itself be lawful, there is usually a copyright on the music, video or other files being shared. Unless the copyright owner gives explicit written permission, file sharing is a violation of copyright law.
   * **What about "fair use"?**
     * Fair use covers things like making a copy of a purchased CD for use in your MP3 player or car. It does not allow you to download music for free that you would normally have to purchase.
-  * **Where can I find legal sites to download music and get more information?**
-    * You can find a list of legal sites, more Frequently Asked Questions and additional resources at [www.campusdownloading.com](htttp://www.campusdownloading.com).
 
 
