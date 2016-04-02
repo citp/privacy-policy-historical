@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912095052id_/http%3A//www.gpro.net/gb/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpro.se privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402230436id_/http%3A//gpro.net/gb/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy policy - Grand Prix Racing Online
 
@@ -28,6 +28,4 @@ GPRO may set, and access GPRO cookies on your computer. These cookies are necess
 • Keeping track of preferences set by the player while using GPRO.   
 • Determining our registered user total and to estimate data volumes and capacity required.   
 • Conducting research into GPRO's content and services to improve areas of the service in the future.   
-• Protecting the security of your account by prompting for re-entry of a password after a certain elapsed time.  
-  
-757020757020646f776e20646f776e206c656674207269676874206c65667420726967687420422041
+• Protecting the security of your account by prompting for re-entry of a password after a certain elapsed time.
