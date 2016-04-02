@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323054213id_/https%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cappex.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402133008id_/https%3A//www.cappex.com/page/about/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Cappex
 
@@ -128,8 +128,7 @@ Alternatively, you may contact us at:
 
 Privacy at Cappex  
 Cappex.com, LLC  
-230 W. Monroe St.  
-Suite 1200  
+311 S. Wacker Dr., Suite 5900  
 Chicago, IL 60606
 
-Last Updated: February 6, 2014
+Last Updated: February 3, 2016
