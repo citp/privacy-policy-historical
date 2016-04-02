@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817020306id_/http%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmemory.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402114853id_/https%3A//www.pmemory.com/privacy-policy) for the most accurate reproduction.*
 
 # Memory improvement, Memory development, Improve your Memory, Mnemonics, Brain power, Memory skills, Memorization techniques, Memory Loss, Memory strategies
 
