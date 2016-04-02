@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxopen.co.uk privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717010203id_/https%3A//www.fxopen.co.uk/en/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxopen.co.uk privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402103538id_/https%3A//www.fxopen.co.uk/en/policy/privacy) for the most accurate reproduction.*
 
 # Privacy
 
