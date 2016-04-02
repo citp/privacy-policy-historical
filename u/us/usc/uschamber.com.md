@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905171611id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402175834id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Chamber of Commerce
 
@@ -6,15 +6,15 @@
 
 **Effective Date:   March 30, 2015**
 
-The U.S. Chamber of Commerce knows that your privacy is important to you, and we want you to know that it is important to us too.  We created this Policy to explain the types of information we collect through our Web sites on which it is posted (including mobile optimized versions of our Web sites) and the various social networking platforms that we use (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information.  This Privacy Policy applies if you are using this Site for personal, family or household purposes, and does not apply to any business entities. 
+The U.S. Chamber of Commerce knows that your privacy is important to you, and we want you to know that it is important to us too.  We created this Policy to explain the types of information we collect through our Web sites on which it is posted (including mobile optimized versions of our Web sites) and the various social networking platforms that we use (each, a “Site”), how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses and disclosures of your information.  This Privacy Policy applies if you are using this Site for personal, family or household purposes, and does not apply to any business entities. 
 
 Here are a few general principles to keep in mind as you read through this Policy:
 
-  * The Site is owned and operated by the Chamber of Commerce of the United States of America and its affiliated organizations (referred to collectively in this policy as "the U.S. Chamber," as well as "we," "us," "our" and other similar pronouns).   
+  * The Site is owned and operated by the Chamber of Commerce of the United States of America and its affiliated organizations (referred to collectively in this policy as “the U.S. Chamber,” as well as “we,” “us,” “our” and other similar pronouns).   
  
 
 
-  * CALIFORNIA'S "SHINE THE LIGHT" LAW, CIVIL CODE SECTION 1798.83, REQUIRES CERTAIN BUSINESSES TO RESPOND TO REQUESTS FROM CALIFORNIA CUSTOMERS ASKING ABOUT THE BUSINESSES' PRACTICES RELATED TO DISCLOSING PERSONAL INFORMATION TO THIRD PARTIES FOR THE THIRD PARTIES' DIRECT MARKETING PURPOSES.  YOU MAY REQUEST INFORMATION REGARDING OUR SHARING OF PERSONAL INFORMATION WITH THIRD PARTIES FOR THE THIRD PARTIES' DIRECT MARKETING PURPOSES BY CONTACTING US IN WRITING AT CUSTOMER SERVICE, U.S. CHAMBER OF COMMERCE, 1615 H STREET NW, WASHINGTON, DC 20062, OR BY SENDING AN E-MAIL TO [WEBMASTER@USCHAMBER.COM](mailto:WEBMASTER@USCHAMBER.COM).  
+  * CALIFORNIA’S “SHINE THE LIGHT” LAW, CIVIL CODE SECTION 1798.83, REQUIRES CERTAIN BUSINESSES TO RESPOND TO REQUESTS FROM CALIFORNIA CUSTOMERS ASKING ABOUT THE BUSINESSES’ PRACTICES RELATED TO DISCLOSING PERSONAL INFORMATION TO THIRD PARTIES FOR THE THIRD PARTIES' DIRECT MARKETING PURPOSES.  YOU MAY REQUEST INFORMATION REGARDING OUR SHARING OF PERSONAL INFORMATION WITH THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES BY CONTACTING US IN WRITING AT CUSTOMER SERVICE, U.S. CHAMBER OF COMMERCE, 1615 H STREET NW, WASHINGTON, DC 20062, OR BY SENDING AN E-MAIL TO [WEBMASTER@USCHAMBER.COM](mailto:WEBMASTER@USCHAMBER.COM).  
  
   * This Privacy Policy does not apply to any Web site or areas of any Web sites that are directed to kids under 13.  
  
@@ -36,13 +36,13 @@ You may have the right to opt-in to or opt-out of certain of our uses and disclo
 
 **_User-Provided Information_**
 
-"Personal Information" is information that can be used to identify you as an individual or allow someone to contact you, as well as information attributed with such information.  We collect Personal Information such as your name; company name; postal addresses; e-mail addresses; telephone numbers; fax numbers; photograph; gender; credit card and other payment information; purchase, site browsing and transaction history; job history and application information; and interests, hobbies and demographic information. For example, we collect Personal Information when you conduct a transaction on our Site; create an account on our Site; sign up for our newsletters; register for events; donate through our Site; submit forms for grassroots action; make online purchases; enter sweepstakes and contests; complete surveys; contribute to a chat room, bulletin board, list serve, blog, wiki or other social forum on the Site; or submit a comment or question to us using a "contact us" or similar feature on the Site.
+“Personal Information” is information that can be used to identify you as an individual or allow someone to contact you, as well as information attributed with such information.  We collect Personal Information such as your name; company name; postal addresses; e-mail addresses; telephone numbers; fax numbers; photograph; gender; credit card and other payment information; purchase, site browsing and transaction history; job history and application information; and interests, hobbies and demographic information. For example, we collect Personal Information when you conduct a transaction on our Site; create an account on our Site; sign up for our newsletters; register for events; donate through our Site; submit forms for grassroots action; make online purchases; enter sweepstakes and contests; complete surveys; contribute to a chat room, bulletin board, list serve, blog, wiki or other social forum on the Site; or submit a comment or question to us using a “contact us” or similar feature on the Site.
 
-A "tell-a-friend" or online greeting card tool provided on the Site and/or in our e-mails allows you to send information about our articles, products and offerings to another person.  When you use these offerings, we may ask you for the name and information of the other person, and that information will be protected pursuant to this privacy policy.
+A “tell-a-friend” or online greeting card tool provided on the Site and/or in our e-mails allows you to send information about our articles, products and offerings to another person.  When you use these offerings, we may ask you for the name and information of the other person, and that information will be protected pursuant to this privacy policy.
 
 **_Site Usage Information_**
 
-As is the case with many Web sites, our servers automatically collect your IP address when you visit our Site, and we may associate that with your domain name or that of your Internet access provider.  If you visit a mobile optimized version of the Site, we may receive data from or about the mobile phone or devices that you use to access the Site, including type of device and mobile carrier.  We may also capture certain "clickstream data" pertaining to your Site usage.  Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site.
+As is the case with many Web sites, our servers automatically collect your IP address when you visit our Site, and we may associate that with your domain name or that of your Internet access provider.  If you visit a mobile optimized version of the Site, we may receive data from or about the mobile phone or devices that you use to access the Site, including type of device and mobile carrier.  We may also capture certain “clickstream data” pertaining to your Site usage.  Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site.
 
 Among other things, this information enables us to generate analytics reports on the usage of our Site.  To opt-out of your Site usage being included in our Google Analytics reports, [you may follow these instructions](https://tools.google.com/dlpage/gaoptout).
 
@@ -52,7 +52,7 @@ In addition, we may deploy various tracking technologies on the Site to collect 
  
   * HTML5 (the language some Web sites are coded in) may be used to store information on your computer or device about your Site usage activities.  This information can be retrieved by us to determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users.  
  
-  * A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image - typically just one-pixel - that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you've opened one of our e-mails or seen one of our Web pages.
+  * A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our e-mails or seen one of our Web pages.
 
 
 
@@ -62,7 +62,7 @@ These tracking technologies may be deployed by us and/or by our service provider
 
 **Do-Not-Track Disclosures**
 
-Some Web browsers may transmit "do-not-track" (DNT) signals to the Web sites with which the user communicates.  Because of differences in how Web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, Web sites should do when they receive such signals, we currently do not change our tracking practices (which are explained in more detail under the Site Usage Information section above) in response to DNT settings in your Web browser.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+Some Web browsers may transmit “do-not-track” (DNT) signals to the Web sites with which the user communicates.  Because of differences in how Web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, Web sites should do when they receive such signals, we currently do not change our tracking practices (which are explained in more detail under the Site Usage Information section above) in response to DNT settings in your Web browser.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
 Our third party partners, such as ad networks, Web analytics companies and social media and networking platforms, collect information about your online activities over time and across our Site and other online properties.  These third parties do not change their tracking practices in response to DNT settings in your Web browser and we do not obligate these parties to honor DNT settings.  We utilize Google Analytics for our Web analytics and you can opt-out from your data being used by Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout>.  To opt-out of internet-based behavioral advertising, visit <http://www.aboutads.info/choices> or <http://www.networkadvertising.org/choices>.
 
@@ -92,7 +92,7 @@ We or our service providers may also use your information to assess the level of
 
 **Social Networking**
 
-We maintain presence on several social networking and blogging platforms, such as Facebook and Twitter.  We also incorporate some third party social networking features onto our Site that allow you to share and/or publicly post content or information from our Site to your profile on a third party social network.  Through these platforms and features, we receive some Personal Information and some Site Usage Information about you, and this Privacy Policy applies to that information as well.  In addition, third party social networking platforms and blogging platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information.  If you choose to use the third party social networking features on our Site, we may suggest language for you to post on your social network (such as "John Smith read our U.S. Chamber Blog").
+We maintain presence on several social networking and blogging platforms, such as Facebook and Twitter.  We also incorporate some third party social networking features onto our Site that allow you to share and/or publicly post content or information from our Site to your profile on a third party social network.  Through these platforms and features, we receive some Personal Information and some Site Usage Information about you, and this Privacy Policy applies to that information as well.  In addition, third party social networking platforms and blogging platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information.  If you choose to use the third party social networking features on our Site, we may suggest language for you to post on your social network (such as “John Smith read our U.S. Chamber Blog”).
 
 **Do we share Personal Information and Site Usage Information with others?**
 
@@ -116,19 +116,19 @@ You may review, update or modify certain of the Personal Information that is sto
 
 While we endeavor to protect the security and integrity of sensitive Personal Information collected via this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
 
-If you correspond with us by e-mail or using Web forms like a "contact us" feature on our Site, you should be aware that your transmission might not be secure.  A third party could view the information you send in transit by such means.  We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+If you correspond with us by e-mail or using Web forms like a “contact us” feature on our Site, you should be aware that your transmission might not be secure.  A third party could view the information you send in transit by such means.  We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
 If you create an account on our Site, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity.  Please notify us of any unauthorized use of your password or account or any other breach of security.
 
 If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.**   **If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at** **[webmaster@uschamber.com](mailto:webmaster@uschamber.com).**
 
-**"Linked-To" Web Sites**
+**“Linked-To” Web Sites**
 
 The Site may contain links, banners, widgets or advertisements that lead to other Web sites.  We are not responsible for these other sites, and so their posted privacy policies (not this Policy) will govern the collection and use of your information on them.  We encourage you to read the privacy statements of each Web site visited after leaving the Site to learn about how your information is treated by others.
 
 **Changes to this Privacy Policy**
 
-We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new "Effective Date."  In some cases (for example, if we significantly expand our use or sharing of your Personal Information),  we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.   In some cases, we may request your consent to the changes.
+We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Effective Date.”  In some cases (for example, if we significantly expand our use or sharing of your Personal Information),  we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.   In some cases, we may request your consent to the changes.
 
 **Contact Us**
 
