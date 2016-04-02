@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the culrav.org privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528070256id_/http%3A//www.culrav.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culrav.org privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403013539id_/http%3A//www.culrav.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Press Release & Article Distribution
+# Privacy Policy – Culrav.org
 
-**What information do we collect?** We collect information from you when you register on our site or place an order.
+**What information do we collect?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
+We collect information from you when you register on our site or place an order.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
@@ -62,7 +62,8 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.culrav.org/  
+http://www.culrav.org/
+
 504 Mogra Building Nandanvan Society Vishal Nagar  
 Pune, Maharastra 411027  
 India  
