@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330043402id_/https%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402045106id_/https%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Competitions | FPD.ie
 
-This privacy statement was last reviewed August 2014.
+This privacy statement was last reviewed August 2015.
 
 This privacy statement covers the site [www.Freeprizedraws.ie](http://www.freeprizedraws.ie/)
 
@@ -16,7 +16,7 @@ To obtain information on the legislation governing data collection and processin
 
 Freeprizedraws will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following consent statement is prominently displayed before you can join Freeprizedraws.
 
-‘By ticking this box you understand and agree to all the [terms and conditions](https://www.winnersville.co.uk/page/terms-and-conditions) and our [privacy policy](https://www.winnersville.co.uk/page/privacy-policy). By registering with Freeprizedraws you agree to be contacted by Freeprizedraws and by carefully selected third parties for marketing purposes and understand you can be contacted by telephone, mobile, email and postal. Contact by telephone by third party brands overrides any preferences on the N.D.D. You can unsubscribe from such communications at any time
+‘By ticking this box you understand and agree to all the [terms and conditions](https://www.winnersville.co.uk/page/terms-and-conditions) and our [privacy policy](https://www.winnersville.co.uk/page/privacy-policy). By registering with Freeprizedraws you agree to be contacted by Freeprizedraws and by carefully selected third parties for marketing purposes and understand you can be contacted by telephone, mobile, email and postal. You can unsubscribe from such communications at any time. A List of the Third parties is listed on the consent statement on the web site. 
 
 Every time you visit the website or use the service and provide us with information, by doing so you are accepting the policies and practices described in this Privacy Policy at that time. 
 
@@ -26,7 +26,7 @@ Go To: <http://bit.ly/1qJibtk>
 
 **Who this applies to**
 
-This policy applies to individuals who have registered with Freeprizedraws and websites which Freeprizedraws provides prize draw services too. This policy was last reviewed: August 2014.
+This policy applies to individuals who have registered with Freeprizedraws and websites which Freeprizedraws provides prize draw services too. This policy was last reviewed: August 2015.
 
 **What this applies to**
 
@@ -44,15 +44,13 @@ We pay particular attention to the 2011 Electronic EU regulation and new regulat
 
 We strictly observe the tweleve month.
 
-We have appointed a Data Protection Officer at Freeprizedraws to ensure our data collection and our use of data complies fully with the relevant data protection regulations in place and protects your rights at all times. If you have any queries or need further information on the data we hold on you do contact our data protection office on [datacompliance@Freeprizedraws.ie](mailto:datacompliance@Freeprizedraws.ie)
+We have appointed a Data Protection Officer at Freeprizedraws to ensure our data collection and our use of data complies fully with the relevant data protection regulations in place and protects your rights at all times. If you have any queries or need further information on the data we hold on you do contact our data protection officer on [datacompliance@dataxcel.ie](mailto:datacompliance@Freeprizedraws.ie)
 
 We are also preparing our company in preparation for the new EU wide DP legislation expected to be released in 2017
 
 We will only use your personal data: - fairly and lawfully; - as set out in the Official Rules and/or this Policy; -to the extent necessary for these purposes.
 
-Each questionnaire on Freeprizedraws is sponsored by a client. By giving a positive response and entering the questionnaire you are giving your consent for the sponsor / client process the information you have provided and to send you information about products and/or services that may be of interest to you. The information you provide may be used, by Freeprizedraws and its Clients, to provide you with information and offers by post, SMS, mobile phone or telephone. If you would prefer not to receive such offers, from Freeprizedraws, please indicate your preference by going to the my preference page http://bit.ly/XvJfzE
-
-Your consent to join our database overrides your preference with the NDD and you may receive marketing calls and sms messages from approved third party brand partners.
+Each questionnaire on Freeprizedraws is sponsored by a client. By giving a positive response and entering the questionnaire you are giving your consent for the sponsor / client process the information you have provided and to send you information about products and/or services that may be of interest to you. The information you provide may be used, by Freeprizedraws and its Clients, to provide you with information and offers by email, Post, SMS, Mobile phone or Landline Telephone. If you would prefer not to receive such offers, from Freeprizedraws, please indicate your preference by going to the my preference page http://bit.ly/XvJfzE
 
 Commercially we aim to match your profile to relevant brand partner offers so the information you receive is relevant and within the context of your life stage and available purchasing power. For Example’ If you have provided your car insurance renewal data and have consented for third parties to contact you about one month before your renewal date we will work with third party brand partners to send you a car insurance quote tailored to your needs saving you time researching the market in full’  
 
@@ -76,16 +74,14 @@ We have appropriate security measures in place to protect against loss, misuse, 
 
 **IP Address & Cookies**
 
-We use a tag of a third-party service provider, VisualDNA, to anonymously collect information about users' browsing activity on our website (this does not include names, addresses or any other personal information). This information is linked to a cookie that VisualDNA sets in your browser. This information allows us and VisualDNA to build a profile so that your online experience can be made more relevant to your specific interests. You have the right to opt out from VisualDNA's service by clicking [here](http://my.visualdna.com/) and choosing the ‘Cookie Settings’ option.
+We automatically collect your IP address and record the web page from which you originated if you are using the service’s website. Cookies are used to increase your security, not infringe on your privacy. In order to monitor, facilitate, administer and optimise the website and service for users and to earmark any possible technical issues that may arise within the website or the service. 
 
-VisualDNA does not store or share personally identifiable information with any third party, other than in anonymised, aggregated form. To learn more, visit VisualDNA's privacy policy at http://www.visualdna.com/privacy-policy/ and VisualDNA’s cookie policy at http://www.visualdna.com/cookie-policy/.
+We may use your IP address to help identify you, tend to any difficulties and to gather demographic and profile information. We also use the ‘cookies’ to collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our website. Most browsers automatically accept cookies, but you can modify your web browser
 
-We automatically collect your IP address and record the web page from which you originated if you are using the service’s website. Cookies are used to increase your security, not infringe on your privacy. In order to monitor, facilitate, administer and optimise the website and service for users and to earmark any possible technical issues that may arise within the website or the service, we  
-may use your IP address to help identify you, tend to any difficulties and to gather demographic and profile information. We also use the ‘cookies’ to collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our website. Most browsers automatically accept cookies, but you can modify your web browser  
 setting to decline cookies. If you choose to do this you may not be able to avail of some or all of the functionalities that the website or the service may offer. If you have any queries about this information: Contact us by post:
 
 Data Compliance  Dept., Freeprizedraws C/O Dataxcel Ltd,Ormonde House, 10 Ormonde Road, Kilkenny, County Kilkenny, Republic Of Ireland
 
-By email: [datacompliance@Freeprizedraws.co.uk ](mailto:datacompliance@Winnersville.co.uk%20)
+By email: [datacompliance@dataxcel.ie](mailto:datacompliance@Winnersville.co.uk%20)
 
-By Telephone: 00353 56 7790295
+By Telephone: 00353 56 779 0295
