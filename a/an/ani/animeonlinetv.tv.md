@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animeonlinetv.tv privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117191124id_/http%3A//www.animeonlinetv.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonlinetv.tv privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402180931id_/http%3A//animeonline.co/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Drama cool
+# Watch Anime online with english sub - animeonline
 
 **Cookies & 3rd Party Advertisements**
 
