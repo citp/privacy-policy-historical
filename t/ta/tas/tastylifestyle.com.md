@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastylifestyle.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222131644id_/http%3A//tastylifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastylifestyle.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402073125id_/http%3A//tastylifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Tasty Lifestyle
 
