@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vitatra.com privacy policy that was archived on 2015-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150427114608id_/http%3A//www.vitatra.com/main/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitatra.com privacy policy that was archived on 2016-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402175127id_/http%3A//www.vitatra.com/main/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -7,26 +7,39 @@
     <meta name="description" content="vitatra,vitamin,lowest price,free shipping,비타민,최저가,무료배송,ビタミン、低価格、送料無料">
     <meta name="keywords" content="vitamin,baby,grocery,house,beauty,food,lowest price,free shipping,비타민,베이비,그로세리,하우스,푸드,최저가,구매대행,무료배송">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="google-site-verification" content="7rjIf_f-sqHHr2ExUATV4XowFX4c5Lr_kpfrLXy4hR8">
 	    <meta name="format-detection" content="telephone=no">
     <link rel="stylesheet" href="/shop_assets/css/normalize.css">
-    <link rel="stylesheet" href="/shop_assets/css/base.css">
+    <link rel="stylesheet" href="/shop_assets/css/base.css?v=2">
     <link rel="stylesheet" href="/shop_assets/css/idangerous.swiper.css">
-    <link rel="stylesheet" href="/shop_assets/css/override.css?v=4">
+    <link rel="stylesheet" href="/shop_assets/css/override.css?v=7">
     <link rel="stylesheet" href="/shop_assets/css/SmartNotification.css">
     <link rel="stylesheet" href="/shop_assets/css/common.css">
+
+
+	
+
+
+
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	var LANG = {};
+	</script>
+	
+
 
 	<!-- FAVICONS -->
 	<link rel="shortcut icon" href="/shop_assets/img/favicon/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/shop_assets/img/favicon/favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon" href="/shop_assets/img/favicon/favicon.png">
 
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/shop_assets/js/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="/shop_assets/js/vendor/modernizr-2.6.2.min.js"></script>
     <script src="/shop_assets/js/vendor/jquery-1.8.2.min.js"></script>
     <script src="/shop_assets/js/vendor/idangerous.swiper-2.6.min.js"></script>
     <script src="/shop_assets/js/vendor/jquery.vticker-min.js"></script>
     <script src="/shop_assets/js/vendor/jquery.placeholder.js"></script>
     <script src="/shop_assets/js/plugins.js"></script>
     <script src="/shop_assets/js/common.js?v=3"></script>
+    <script src="/shop_assets/js/tt.js"></script>
     <script src="/shop_assets/js/SmartNotification.js"></script>
     <!--[if lt IE 9]>
         <script src="/shop_assets/js/vendor/respond.js"></script>
@@ -47,14 +60,47 @@ ga('send', 'pageview');
 var HTTP_SHOP_URL = 'http://www.vitatra.com';  
 var HTTPS_SHOP_URL = 'https://www.vitatra.com';
 </script>
-    <div id="wrap">
+
+
+    <div id="wrap" style="position:relative;">
+      <!-- header wrap -->
+	  <div class="header_wrap_style">
         <!-- header -->
-        <div id="header">
+        <div id="header" class="header_style">
             <div class="header">
 				                <h1><a href="/"><img src="/shop_assets/img/common/logo_trans.png" alt="Vitatra"></a></h1>
+
                 <div class="utill">
-                    <p><strong>Best Quality! Lowest Price!</strong>Smart Shopping, VITATRA<em></em></p>
-                                        <ul>
+                    <p><strong>Best Quality! Lowest Price!</strong>Smart Shopping, VITATRA</p>
+					
+
+                    
+
+                    <ul class="top_menu">
+
+
+						
+												<script>
+						function selected_lang(lang) {
+							var lang = $('#select_lang').val();
+							var country = $('#select_country').val();
+							var days = 30;
+                            setCookie('user_lang', lang, days);
+
+                            $("#layer_background").hide();
+                            $("#layer_language_choice").hide();
+                            if(getCookie('lang') != lang || getCookie('country') != country) {
+                                $.post('/main/set_lang', {'lang' : lang, 'country' : country}, function(res) {
+                                    if(res=='SUCCESS') {
+                                        location.reload();
+                                    }
+                                });
+                            }
+						}
+						</script>
+
+
+
                                                 <li><a href="/account/login">Sign in</a></li>
                                                 <li><a href="/account/dashboard">My account</a></li>
                         <li><a href="/account/wishlists">Wishlists</a></li>
@@ -193,9 +239,9 @@ var HTTPS_SHOP_URL = 'https://www.vitatra.com';
                         <p style="width: 440px;">
 						                            <span><a href="/product/search?top_search=Casmara">Casmara</a></span>
 						                            <span><a href="/product/search?top_search=Kikkerland">Kikkerland</a></span>
-						                            <span><a href="/product/search?top_search=Oogaa">Oogaa</a></span>
-						                            <span><a href="/product/search?top_search=Nature's Baby">Nature's Baby</a></span>
-						                            <span><a href="/product/search?top_search=Progressive">Progressive</a></span>
+						                            <span><a href="/product/search?top_search=Sabon">Sabon</a></span>
+						                            <span><a href="/product/search?top_search=Godiva">Godiva</a></span>
+						                            <span><a href="/product/search?top_search=Centrum">Centrum</a></span>
 						                        </p>
                     </div>
                 </div>
@@ -203,11 +249,11 @@ var HTTPS_SHOP_URL = 'https://www.vitatra.com';
                     <strong>Now trending</strong>
                     <div id="h_rolling" style="overflow: hidden; position: relative; height: 20px;">
                         <ul style="position: absolute; margin: 0px; padding: 0px;">
-						                            <li style="margin: 0px; padding: 0px;"><span><em>1</em></span><a href="http://www.vitatra.com/product/brand/603">Repechage</a></li>
-						                            <li style="margin: 0px; padding: 0px;"><span><em>2</em></span><a href="/product/search?top_search=kinderville">kinderville</a></li>
-						                            <li style="margin: 0px; padding: 0px;"><span><em>3</em></span><a href="/product/brand/481">Crabtree &amp; Evelyn </a></li>
-						                            <li style="margin: 0px; padding: 0px;"><span><em>4</em></span><a href="/product/search?top_search=California Baby">California Baby</a></li>
-						                            <li style="margin: 0px; padding: 0px;"><span><em>5</em></span><a href="/product/search?top_search=sarabeth">sarabeth</a></li>
+						                            <li style="margin: 0px; padding: 0px;"><span><em>1</em></span><a href="http://www.vitatra.com/product/brand/697">Phytomer</a></li>
+						                            <li style="margin: 0px; padding: 0px;"><span><em>2</em></span><a href="http://www.vitatra.com/product/brand/560">Babyganics</a></li>
+						                            <li style="margin: 0px; padding: 0px;"><span><em>3</em></span><a href="http://www.vitatra.com/product/brand/819">Aveeno</a></li>
+						                            <li style="margin: 0px; padding: 0px;"><span><em>4</em></span><a href="http://www.vitatra.com/product/brand/476">BuiltNY</a></li>
+						                            <li style="margin: 0px; padding: 0px;"><span><em>5</em></span><a href="http://www.vitatra.com/product/brand/703">Acure</a></li>
 						                        </ul>
                     </div>
                 </div>
@@ -227,7 +273,635 @@ var HTTPS_SHOP_URL = 'https://www.vitatra.com';
 
                 <!-- library -->
                 <div id="gnb">
-                    <div class="category"><div class="menu"><a href="javascript:void(0)"><span>CATEGORY</span></a></div><div class="category_open" style="display:none;"><ul><li><a href="/product/category/368" class="big-cate"><span>VITAMIN</span></a><div id="gnb_sub" class="sub_vitamin"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/368-607">Baby &amp; Children</a></li><li class="noline"><a href="/product/category/368-613">Senior</a></li><li class=""><a href="/product/category/368-621">Maternity</a></li><li class="noline"><a href="/product/category/368-628">Women</a></li><li class=""><a href="/product/category/368-637">Men</a></li><li class="noline"><a href="/product/category/368-385">Multi Vitamins</a></li><li class=""><a href="/product/category/368-392">Vitamin A-Z</a></li><li class="noline "><a href="/product/category/368">ALL</a></li></ul></div><div><a href="/product/brand/516"><img src="/webdata/display/nav_category_368.jpg" alt="vitamin shop now"></a></div></div></li><li><a href="/product/category/370" class="big-cate"><span>BABY</span></a><div id="gnb_sub" class="sub_baby"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/370-398">Accessories</a></li><li class="noline"><a href="/product/category/370-399">Bath &amp; Skincare</a></li><li class=""><a href="/product/category/370-400">Blanket</a></li><li class="noline"><a href="/product/category/370-401">Bottle</a></li><li class=""><a href="/product/category/370-402">Diapering</a></li><li class="noline"><a href="/product/category/370-403">Feeding</a></li><li class=""><a href="/product/category/370-405">Juice &amp; Drinks</a></li><li class="noline "><a href="/product/category/370">ALL</a></li></ul></div><div><a href="/product/brand/471"><img src="/webdata/display/nav_category_370.jpg" alt="baby shop now"></a></div></div></li><li><a href="/product/category/371" class="big-cate"><span>GROCERY</span></a><div id="gnb_sub" class="sub_grocery"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/371-415">Baking &amp; mixes</a></li><li class="noline"><a href="/product/category/371-418">Coffee &amp; Tea</a></li><li class=""><a href="/product/category/371-419">Cookies</a></li><li class="noline"><a href="/product/category/371-604">Chocolate &amp; Candies</a></li><li class=""><a href="/product/category/371-422">Dried fruit</a></li><li class="noline"><a href="/product/category/371-423">Drink mix</a></li><li class=""><a href="/product/category/371-425">Gummy</a></li><li class="noline "><a href="/product/category/371">ALL</a></li></ul></div><div><a href="/product/brand/518"><img src="/webdata/display/nav_category_371.jpg" alt="grocery shop now"></a></div></div></li><li><a href="/product/category/372" class="big-cate"><span>HOUSE</span></a><div id="gnb_sub" class="sub_house"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/372-656">Accessories</a></li><li class="noline"><a href="/product/category/372-439">Apron</a></li><li class=""><a href="/product/category/372-434">Bath &amp; Shower</a></li><li class="noline"><a href="/product/category/372-435">Candle</a></li><li class=""><a href="/product/category/372-436">Dish Detergent </a></li><li class="noline"><a href="/product/category/372-438">Kitchen &amp; Dining</a></li><li class=""><a href="/product/category/372-440">Laundry</a></li><li class="noline "><a href="/product/category/372">ALL</a></li></ul></div><div><a href="/product/brand/535"><img src="/webdata/display/nav_category_372.jpg" alt="house shop now"></a></div></div></li><li><a href="/product/category/373" class="big-cate"><span>BEAUTY</span></a><div id="gnb_sub" class="sub_beauty"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/373-445">Bath &amp; Shower</a></li><li class="noline"><a href="/product/category/373-447">Cosmetics</a></li><li class=""><a href="/product/category/373-448">Deodorant</a></li><li class="noline"><a href="/product/category/373-450">Foot Care</a></li><li class=""><a href="/product/category/373-451">Lip Care</a></li><li class="noline"><a href="/product/category/373-452">Massage Oil</a></li><li class=""><a href="/product/category/373-444">Skin care</a></li><li class="noline "><a href="/product/category/373">ALL</a></li></ul></div><div><a href="/product/brand/603"><img src="/webdata/display/nav_category_373.jpg" alt="beauty shop now"></a></div></div></li><li><a href="/product/category/374" class="big-cate"><span>FOOD</span></a><div id="gnb_sub" class="sub_food"><div class="gnb_sub_bg"></div><div><ul><li class=""><a href="/product/category/374-453">Berry</a></li><li class="noline"><a href="/product/category/374-454">Dried fruit</a></li><li class=""><a href="/product/category/374-458">Gummy</a></li><li class="noline"><a href="/product/category/374-460">Honey</a></li><li class=""><a href="/product/category/374-457">Jam</a></li><li class="noline"><a href="/product/category/374-456">Nuts</a></li><li class=""><a href="/product/category/374-461">Pancake mix</a></li><li class="noline "><a href="/product/category/374">ALL</a></li></ul></div><div><a href="/product/brand/586"><img src="/webdata/display/nav_category_374.jpg" alt="food shop now"></a></div></div></li><li><a href="/product/category/530" class="big-cate"><span>★ EVENT ★</span></a></li></ul></div></div>					
+                    <div class="category">
+    <div class="menu">
+        <a href="javascript:void(0)">
+            <span>CATEGORY</span>
+        </a>
+    </div>
+    <div class="category_open" style="display:none;">
+        <ul>
+
+			
+            <li>
+                <a href="/product/category/368" class="big-cate"><span>VITAMIN</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-1">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/368-607">Children Health</a> 
+
+									
+									<div class="gnb_sub2 s2-1">
+										<span class="arr2">Arrow</span>
+										<div class="cont2">
+											<div>
+												<ul>
+
+													
+													<li><a href="/product/category/368-607-608">Multi Vitamins</a></li>
+													
+													<li><a href="/product/category/368-607-609">Probiotiocs</a></li>
+													
+													<li><a href="/product/category/368-607-610">Immune Support</a></li>
+													
+													<li><a href="/product/category/368-607-611">Calcium</a></li>
+													
+													<li><a href="/product/category/368-607-612">Other</a></li>
+													
+
+												</ul>
+											</div>
+										</div>
+									</div>
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-621">Maternity Health</a> 
+
+									
+									<div class="gnb_sub2 s2-2">
+										<span class="arr2">Arrow</span>
+										<div class="cont2">
+											<div>
+												<ul>
+
+													
+													<li><a href="/product/category/368-621-622">Multi Vitamins</a></li>
+													
+													<li><a href="/product/category/368-621-623">Folic Acid</a></li>
+													
+													<li><a href="/product/category/368-621-624">DHA &amp; Omega 3</a></li>
+													
+													<li><a href="/product/category/368-621-625">Probiotiocs</a></li>
+													
+													<li><a href="/product/category/368-621-626">Calcium</a></li>
+													
+													<li><a href="/product/category/368-621-627">Other</a></li>
+													
+
+												</ul>
+											</div>
+										</div>
+									</div>
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-628">Women Health</a> 
+
+									
+									<div class="gnb_sub2 s2-3">
+										<span class="arr2">Arrow</span>
+										<div class="cont2">
+											<div>
+												<ul>
+
+													
+													<li><a href="/product/category/368-628-629">Multi Vitamins</a></li>
+													
+													<li><a href="/product/category/368-628-630">Diet</a></li>
+													
+													<li><a href="/product/category/368-628-631">Skin &amp; Hair &amp; Nails</a></li>
+													
+													<li><a href="/product/category/368-628-632">Probiotiocs</a></li>
+													
+													<li><a href="/product/category/368-628-633">Stress &amp; Insomnia</a></li>
+													
+													<li><a href="/product/category/368-628-634">Vision &amp; Eye Care</a></li>
+													
+													<li><a href="/product/category/368-628-635">Bladder &amp; Uterus</a></li>
+													
+													<li><a href="/product/category/368-628-636">Other</a></li>
+													
+
+												</ul>
+											</div>
+										</div>
+									</div>
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-637">Men Health</a> 
+
+									
+									<div class="gnb_sub2 s2-4">
+										<span class="arr2">Arrow</span>
+										<div class="cont2">
+											<div>
+												<ul>
+
+													
+													<li><a href="/product/category/368-637-638">Multi Vitamins</a></li>
+													
+													<li><a href="/product/category/368-637-639">Liver &amp; Lung</a></li>
+													
+													<li><a href="/product/category/368-637-640">Stomach &amp; Intestine</a></li>
+													
+													<li><a href="/product/category/368-637-641">Cardiovascular</a></li>
+													
+													<li><a href="/product/category/368-637-642">Fatigue</a></li>
+													
+													<li><a href="/product/category/368-637-643">Prostate</a></li>
+													
+													<li><a href="/product/category/368-637-644">Other</a></li>
+													
+
+												</ul>
+											</div>
+										</div>
+									</div>
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-880">Multi Vitamins</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-392">Vitamin A-Z</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-386">Omega 3,6,9</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-389">Probiotiocs</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/368-383">Iron&amp;Mineral</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/368" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/370" class="big-cate"><span>BABY&amp;KIDS</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-2">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/370-902">Oral&amp;Dental Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-903">Hair&amp;Body Wash</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-887">Ointment&amp;Balm</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-886">Lotion&amp;Cream</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-904">Sun&amp;Bug Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-900">Art&amp;School Supplies</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-901">Toys&amp;Development</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-891">Bath Toy&amp;Swim</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/370-898">Bottles&amp;Tableware</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/370" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/371" class="big-cate"><span>GROCERY</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-3">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/371-906">Tea</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-905">Coffee&amp;Cocoa</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-907">Drink Mix/Beverages</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-937">Jam&amp;Honey</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-909">Sugar&amp;Salt&amp;Syrup</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-911">Seasoning&amp;Oil&amp;Sauces</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-910">Baking Mixes</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-908">Nuts&amp;Dried Fruits</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/371-912">Jelly&amp;Gum</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/371" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/372" class="big-cate"><span>HOUSE</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-4">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/372-938">Home Deco</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-919">Cups&amp;Mugs</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-920">Plates&amp;Dishes</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-936">Bottles&amp;Tumblers</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-922">Cooking Utensils</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-921">Aprons&amp;Mitts</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-923">Dish Detergent</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-924">Cleaning Detergent</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/372-925">Laundry Detergent</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/372" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/373" class="big-cate"><span>BEAUTY</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-5">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/373-859">Face Cleanser</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-943">Toner&amp;Lotion&amp;Mist</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-862">Face Mask&amp;Peels</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-866">Serum&amp;Cream&amp;Ampoule</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-941">Body Wash&amp;Scrubs</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-942">Body Lotions&amp;Oils</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-852">Hand&amp;Foot Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-451">Sun&amp;Lip Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/373-853">Hair Care</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/373" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/374" class="big-cate"><span>PERSONAL CARE</span></a>
+
+				
+                <div class="gnb_sub sub_1 s1-6">
+					<span class="arr">Arrow</span>
+					<div class="cont">
+						<div class="gnb_sub_bg"></div>
+						<div>
+							<ul>
+
+								
+								<li>
+									<a href="/product/category/374-841">Body Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-448">Deodorant</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-711">Feminine Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-718">General Health</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-844">Hair Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-842">Hand Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-434">Oral&amp;Dental Care</a> 
+
+									
+
+								</li>
+								
+								<li>
+									<a href="/product/category/374-843">Sun Care</a> 
+
+									
+
+								</li>
+								
+
+							</ul>
+							<a href="/product/category/374" class="more">more &gt;</a>
+						</div>
+					</div>
+				</div>
+				
+
+            </li>
+			
+            <li>
+                <a href="/product/category/530" class="big-cate"><span>★ EVENT ★</span></a>
+
+				
+
+            </li>
+			
+
+        </ul>
+    </div>
+</div>
+					
                     <div class="gnb">
                         <ul>
 							                                                                <li class=""><a href="/product/brand_main">BRAND</a></li>
@@ -241,6 +915,8 @@ var HTTPS_SHOP_URL = 'https://www.vitatra.com';
             </div>
         </div>
         <!--// header -->
+	  </div>
+      <!--// header wrap -->
 
         <!-- container -->
         <div id="container">
@@ -371,8 +1047,7 @@ The products and information found on www.vitatra.com are not intended to replac
 These statements have not been evaluated by the Food and Drug Administration. Our dietary supplements are not intended to <br>
 diagnose, treat, cure or prevent any disease or medical condition. Individual results may vary. Vitatra.com urges you to seek<br> 
 the advice of a qualified professional for any health concern lasting more than two weeks, and to share with your provider any <br>
-information pertaining to your health and well-being, including the use of supplemental nutrition.<br>
-© 2012 Vitatra.com. All Rights Reserved.
+information pertaining to your health and well-being, including the use of supplemental nutrition.<br>© 2012 Vitatra.com. All Rights Reserved.
                 </address>
             </div>
         </div>
@@ -381,6 +1056,55 @@ information pertaining to your health and well-being, including the use of suppl
 
 
     
+
+
+    <div class="nation_bg_modal" id="layer_background"></div>
+
+
+
+	
+
+
+
+	<script src="/shop_assets/js/wSelect.min.js"></script>
+    <div class="layer_wrap_modal" id="layer_language_choice">
+        <div class="layer_language_choice">
+            <div class="language_choice">
+                <h3 style="color:#139a6a;font-size:35px;font-family:'나눔바른고딕', 'NanumBarunGothic', 'ng';">Thank you for visiting VITATRA.</h3>
+                <div class="language-area">
+                    <ul class="clearfix">
+                        <li>
+                            <div class="tit">Destination</div>
+                            <div class="content-box">
+                                <select name="country" class="select-i wSelect-el" id="select_country" tabindex="1">
+								                                    <option value="US" data-icon="/shop_assets/img/common/ico_us.jpg" selected="">United States</option>
+								                                    <option value="KR" data-icon="/shop_assets/img/common/ico_kr.jpg">South Korea</option>
+								                                    <option value="HK" data-icon="/shop_assets/img/common/ico_hk.jpg">Hong Kong</option>
+								                                    <option value="CN" data-icon="/shop_assets/img/common/ico_cn.jpg">China</option>
+								                                </select><div class="wSelect wSelect-theme-classic" style="width: 171px;"><div class="wSelect-arrow"></div><div class="wSelect-selected wSelect-option-icon" style="background-image: url(&quot;/shop_assets/img/common/ico_us.jpg&quot;);">United States</div><div class="wSelect-options-holder"><div class="wSelect-options" style="height: 131px;"><div class="wSelect-option wSelect-option-selected" style="display: block;"><div class="wSelect-option-value wSelect-option-icon" style="background-image: url(&quot;/shop_assets/img/common/ico_us.jpg&quot;);">United States</div></div><div class="wSelect-option" style="display: block;"><div class="wSelect-option-value wSelect-option-icon" style="background-image: url(&quot;/shop_assets/img/common/ico_kr.jpg&quot;);">South Korea</div></div><div class="wSelect-option" style="display: block;"><div class="wSelect-option-value wSelect-option-icon" style="background-image: url(&quot;/shop_assets/img/common/ico_hk.jpg&quot;);">Hong Kong</div></div><div class="wSelect-option wSelect-option-last" style="display: block;"><div class="wSelect-option-value wSelect-option-icon" style="background-image: url(&quot;/shop_assets/img/common/ico_cn.jpg&quot;);">China</div></div></div></div></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="tit">Language</div>
+                            <div class="content-box">
+                                <select name="lang" id="select_lang" class="select-i wSelect-el" tabindex="1">
+									<option value="US" selected="">English</option>
+									<option value="KR">Korean</option>
+                                </select><div class="wSelect wSelect-theme-classic" style="width: 59px;"><div class="wSelect-arrow"></div><div class="wSelect-selected">English</div><div class="wSelect-options-holder"><div class="wSelect-options" style="height: 65px;"><div class="wSelect-option wSelect-option-selected" style="display: block;"><div class="wSelect-option-value">English</div></div><div class="wSelect-option wSelect-option-last" style="display: block;"><div class="wSelect-option-value">Korean</div></div></div></div></div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="btn_center">
+                    <div class="btnTy1"><a href="javascript:selected_lang();"><span>Submit</span></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $('.select-i').wSelect();
+    </script>
+
 
     <script type="text/javascript">
         function history_preview(){
@@ -460,7 +1184,15 @@ information pertaining to your health and well-being, including the use of suppl
             $("#vcodePopupLayer").show();
             $("#vcodePopupLayer").popup_layer_center();
         }
-
+        
+        $(function(){
+            if($.inArray(getCookie('country'), ['KR','HK','CN']) != -1   && getCookie('user_lang') == null){
+                showSelectNation();
+            }
+			$('.select_environment').click(function() {
+                showSelectNation();
+			});
+        });
     </script>
 
 
