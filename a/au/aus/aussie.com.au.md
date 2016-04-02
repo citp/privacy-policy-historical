@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015105741id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402091626id_/https%3A//www.aussie.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -42,7 +42,7 @@ The Privacy Officer
 Aussie  
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
-[Leave us a message online](http://idr.aussie.com.au/privacy/privacyform.aspx).
+Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
 
 ## Why do we exchange your information with another organisation?
 
@@ -91,7 +91,7 @@ Where your information is sent overseas it is likely to be to one of the followi
 
 It is important for us, and for you, that the information we hold is accurate and up to date. In this, we rely on you to help us. We ask that you contact us whenever there are any changes to your personal information, so that we can update our records.
 
-The personal information we hold about you is yours to access and correct, and as such we can provide you with general information, such as your name, address and contact details quite easily. There is no fee for making the initial request. More detailed information may not be as easy for us to access, and if necessary, in some cases there may be an access charge to cover the time we spend locating, compiling and explaining the information you ask for. If there is an access charge, we’ll give you an estimate up front and confirm that you’d like us to proceed. Generally, the access charge is based on an hourly rate plus any photocopying costs or other out-of-pocket expenses. You’ll need to make the payment before we start.
+The personal information we hold about you is yours to access and correct, and as such we can provide you with general information, such as your name, address and contact details quite easily. There is no fee for making the initial request. More detailed information may not be as easy for us to access, and if necessary, in some cases there may be an access charge to cover the time we spend locating, compiling and explaining the information you ask for. If there is an access charge, we'll give you an estimate up front and confirm that you'd like us to proceed. Generally, the access charge is based on an hourly rate plus any photocopying costs or other out-of-pocket expenses. You'll need to make the payment before we start.
 
 The process of providing you with access to or correcting your personal information may take up to 30 working days from the date of your request. If we refuse to give you access to or correct your information, we must give you written notice setting out the reasons for the refusal and the mechanisms available for you to complain about the refusal.
 
@@ -101,7 +101,7 @@ The Privacy Officer
 Aussie  
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
-[Leave us a message online](http://idr.aussie.com.au/privacy/privacyform.aspx).
+Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
 
 ## Security and storage of your personal information
 
@@ -115,7 +115,7 @@ We take great care with the information we hold about you. Our aim is to ensure 
 
 ### Online security
 
-Our website uses encryption techniques to enhance your privacy and security when using Aussie’s website.
+Our website uses encryption techniques to enhance your privacy and security when using Aussie's website.
 
 ### What are 'cookies' and how do they work?
 
@@ -123,13 +123,13 @@ Cookies are small data files that are downloaded from our web servers, and store
 
 ### If you have a privacy complaint
 
-At Aussie, we value our customers. We will always aim to be fair and responsive. If you have a complaint, including a complaint about Aussie’s compliance with the APPs, you have the right to expect that we will handle it in a friendly and professional way. When we receive a complaint, we look on it as valuable feedback that may help us to improve the services we offer and to ensure your needs are met in a satisfactory and appropriate manner. If you wish to complain, at any time, about the handling, use or disclosure of your personal information, or about Aussie’s compliance with the APPs, just write to us at the following address:
+At Aussie, we value our customers. We will always aim to be fair and responsive. If you have a complaint, including a complaint about Aussie's compliance with the APPs, you have the right to expect that we will handle it in a friendly and professional way. When we receive a complaint, we look on it as valuable feedback that may help us to improve the services we offer and to ensure your needs are met in a satisfactory and appropriate manner. If you wish to complain, at any time, about the handling, use or disclosure of your personal information, or about Aussie's compliance with the APPs, just write to us at the following address:
 
 The Privacy Officer  
 Aussie  
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
-[Lodge your complaint online](http://idr.aussie.com.au/privacy/privacyform.aspx).
+Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
 
 We will make all efforts possible to investigate your complaint, and advise you of the outcome as soon as possible. If the matter is not resolved to your satisfaction, you can then refer your complaint to the Australian Information Commissioner, who can be contacted at:
 
@@ -146,7 +146,7 @@ The Privacy Officer
 Aussie  
 LOCKED BAG 19 ROYAL EXCHANGE NSW 1225
 
-[Leave us a message online](http://idr.aussie.com.au/privacy/privacyform.aspx).
+Please [email us](mailto:privacy@aussie.com.au) with your privacy request.
 
 ## RMG Privacy Policy
 
