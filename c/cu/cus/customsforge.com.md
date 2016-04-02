@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813123813id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402093247id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomsForge
 
@@ -7,11 +7,19 @@ Register now to gain access to all of our features. Once registered and logged i
 
 ### Learn & Play Rocksmith!
 
-Want to play the songs you love? Registration and everything is 100% free.
+Want to play the songs you love? Registration and the use of this website is 100% free.
 
 The only thing you need is a legal copy of Rocksmith 2014 w/ a cable. [Click here to buy it.](http://http//amzn.com/B00D6PTMHI)
 
+Having trouble logging in or registering? Please use our Staff Contact form: http://customsforge.com/contactus/
+
   
+
+
+### We're 100% funded by donations. Please keep us running by clicking the link below to donate.
+
+[April Goal is up!](http://customsforge.com/donate/goal-69-april-goal/) \- Thank you for your donations.
+
   
 
 
