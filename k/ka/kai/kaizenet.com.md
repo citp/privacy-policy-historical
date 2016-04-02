@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaizenet.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021644id_/http%3A//www.kaizenet.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaizenet.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402102421id_/http%3A//www.kaizenet.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
