@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205100329id_/http%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402212231id_/http%3A//www.topcashback.in/Privacy) for the most accurate reproduction.*
 
 # TopCashback - Privacy
 
@@ -29,9 +29,9 @@ We aim to be very flexible and transparent in the use of members details. If use
 
 If any user feels this site is not following its stated information policy, then they may inform us through our [contact us](https://web.archive.org/Help) form.
 
-How Secure Is Your Data Held By Us? At Top CashBack, we treat the security of your data extremely seriously and have a number of measures in place to ensure that your data isn’t compromised or accessed unless absolutely necessary to offer our services 
+How Secure Is Your Data Held By Us? At TopCashback, we treat the security of your data extremely seriously and have a number of measures in place to ensure that your data isn’t compromised or accessed unless absolutely necessary to offer our services 
 
-All of our data is held on secure servers and password/payment details are encrypted. Only staff members of Top CashBack have access to this data and they may only see the last 4 digits of details such as your bank account number.
+All of our data is held on secure servers and password/payment details are encrypted. Only staff members of TopCashback have access to this data and they may only see the last 4 digits of details such as your bank account number.
 
 Cookie Policy We recommend that all users enable cookies in their browsers to make full use of the site and to ensure that any purchases on third party websites are recorded. Cookies are small pieces of data or information that are stored by a user’s browser on to their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. 
 
