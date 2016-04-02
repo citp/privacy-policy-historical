@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921033034id_/http%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hetmanrecovery.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403005655id_/https%3A//hetmanrecovery.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for HetmanRecovery.com Visitors | Hetman Software
 
-Hetman Software makes your privacy a top priority. This document discloses the collection, use, and storage of personal information by Hetman Software and http://hetmanrecovery.com/ (hereinafter referred to as “Web site”) visitors.
+Hetman Software makes your privacy a top priority. This document discloses the collection, use, and storage of personal information by Hetman Software and https://hetmanrecovery.com/ (hereinafter referred to as “Web site”) visitors.
 
 ## Cookies and Visitor Tracking
 
