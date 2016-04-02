@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205225610id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402223433id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KeepTruckin Electronic Logs
 
@@ -36,7 +36,7 @@ _Information Disclosed for Our Protection and the Protection of Others._ It is o
 
 We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-We use Amazon's S3 storage service to store some of your information (for example, your documents). You can find more information on Amazon's data security from the [S3 site](http://aws.amazon.com/articles/1697).
+We use Amazon's S3 storage service to store some of your information (for example, your documents). You can find more information on Amazon's data security from the [S3 FAQs](https://aws.amazon.com/s3/faqs/).
 
 #### Links to Other Sites
 
@@ -60,4 +60,4 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 #### Questions?
 
-Please contact us at support@keeptruckin.com or at 350 Sansome St, Ste 500, San Francisco, CA 94104 if you have any questions about our Privacy Policy.
+Please contact us at support@keeptruckin.com or at 350 Sansome Street, Suite 500, San Francisco, CA 94104 if you have any questions about our Privacy Policy.
