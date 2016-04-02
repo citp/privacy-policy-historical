@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507050735id_/https%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophos.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403014319id_/https%3A//www.sophos.com/en-us/legal/sophos-group-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Sophos Group Privacy Policy - Legal - Cloud Antivirus, Endpoint, UTM, Encryption, Mobile, DLP, Server, Web, Wireless Security, Network Storage and Next-Gen Firewall Solutions | Sophos Data Protection for Business
+# Sophos Group Privacy Policy - Legal
 
-This document was last updated on 15 October 2014.
+This document was last updated on 25 November 2015.
 
 ### General
 
@@ -36,35 +36,64 @@ If you are making a job application or inquiry, you may provide us with a copy o
 
 Our resellers and distributors may visit our partner portal Site. We may use the customer and prospect information provided on that Site in order to provide the products and services.
 
-### Providing products and services
+### Account management
 
-If you purchase or use our products or services, we may use your personal data for purposes which include but are not limited to:
+If you obtain products or services from us, we may use your contact details and (where applicable) payment information for the purposes of (i) providing training, customer support and account management, (ii) order processing and billing, (iii) verifying your usage of the products and services in accordance with the terms and conditions of your agreement with us, (iv) carrying out end user compliance checks for export control purposes; (v) issuing license expiry, renewal and other related notices, and (vi) maintaining our company accounts and records. 
 
-  * verifying your credentials, 
+### Product and service related data
+
+If you purchase or use our products or services, we may collect the following types of information: (i) product type, product version, product features and operating systems being used; (ii) processing times; (iii) customer identification code and company name, and (iv) IP address of the machine which returns the above listed information.
+
+We may use such information for purposes which include but are not limited to:
+
+  * verifying your credentials and compliance with any usage restrictions, 
   * carrying out end user compliance checks for export control purposes, 
-  * issuing virus information alerts and other alert messages, 
-  * providing training sessions for which you have registered, 
+  * providing the products/services and any associated maintenance and technical support, 
+  * providing virus, incident and other alerts, and information about product upgrades, updates, renewals and product lifecycle changes,
   * providing maintenance and technical support, 
   * providing information about product upgrades, updates and renewals, 
   * generating logs, statistics and reports on service usage, service performance and malware infection, 
-  * developing and enhancing products, services, and our infrastructure, 
-  * processing orders and generating billing information.
+  * evaluating, developing and enhancing products, services, and our infrastructure, 
+  * planning development roadmaps and product lifecycle strategies. 
 
 
+
+Some products and services also collect or generate an ID code for each machine which reports back to us. This ID code is only used to enable us to distinguish between unique machines so that (i) we do not duplicate reports from the same source; and (ii) we can determine the number of unique machines that are using the products and services. If this ID code is collected together with other information which could identify an individual when combined, we anonymize the ID code to prevent this from occurring. 
 
 Certain products and services may include features that collect additional personal data for other purposes, as described below. For detailed information, please also refer to the applicable product or service description.
 
-**Sophos Mobile Security**   
+### Sophos Home Products
+
+We may directly and remotely communicate with your protected devices for the purposes of, without limitation (i) applying policy and configuration changes to such devices; and (ii) extracting usage information, service performance information, and infection logs.
+
+In order to continuously improve the protection levels in the Sophos Home products, it may be necessary for us to collect and process certain information relating to you and to users connected to your account. You acknowledge and agree that the information we collect may include confidential and/or personal data, including without limitation (i) names and email addresses; (ii) account usernames; (iii) IP addresses; (iv) usage information; (v) details of changes or attempted changes to executable files, pathnames and scripts, (vi) infection logs; and (vii) files suspected of being infected with malware. We are committed to safeguarding the privacy of your personal data and will never share this outside Sophos.
+
+You warrant that you have obtained all necessary permissions and provided the necessary notifications to share the above information with us for the purposes described from all users connected to your account.
+
+### Sophos Mobile Security 
+
 When an application is downloaded on a device or the user initiates a check of all installed applications on an Android device, Sophos Mobile Security sends queries to our cloud infrastructure in order to validate the reputation of the applications. Each query contains a fingerprint generated from the Android application (the APK file) under investigation.
 
 A unique device identifier is also generated locally on each mobile device during installation of Sophos Mobile Security. We do not associate this identifier with any personal data. Periodically the product sends statistical feedback packets to us, including the unique device identifier and service performance information.
 
-**Mail Archiving Service**   
-The Mail Archiving Service stores a copy of emails sent and received by you, in accordance with the retention policies established by your administrator. In the event that your emails include sensitive personal data, you expressly provide your consent for us to store such data. Your administrator may conduct searches and retrieve emails from the archive. The archive is encrypted and logically separated from the archives of our other customers. Your administrator can request that the archive is stored in either the USA or the European Economic Area (“EEA).
+### Sophos Firewall Products
 
-Your administrator may ask us to download and return the contents of the email archive at any time, subject to payment of the applicable fees specified in our then current price list. The contents of the email archive will be permanently deleted within approximately six weeks of expiry/termination of the service or the return of the data (if applicable). 
+You acknowledge and agree that the Sophos Firewall and Firewall Manager Products may provide us with the below information, which will be used for the purpose of improving product stability, prioritizing feature refinements and enhancing protection. 
 
-**Sophos Mobile Control**   
+    (a). Configuration and Usage Data, including without limitation (i) device model, firmware and license information, such as model, hardware version, vendor, firmware version, and country; (ii) aggregated product usage information, such as product features in use (on/off, count), amount of configured objects, policies, managed devices, groups, templates (iii) CPU, memory, and disk usage information; (iv) product errors; and 
+
+    (b). Application Usage and Threat Data, including without limitation (i) IPS alerts; (ii) virus detected and the URL where the virus was found; (iii) spam; (iv) ATP threats; and (v) applications used and unclassified applications.
+
+Information about unclassified applications is used to improve and enlarge network visibility and the application control library. 
+
+    (c). Monitoring Threshold Data, includes (i) monitoring threshold values per model; and (ii) alert threshold criteria and values per model.
+
+Monitoring Threshold data is used to improve the default threshold settings and alert criteria included within the product across models.
+
+Configuration and Usage Data does not include user-specific information or personal data and cannot be disabled. Application Usage and Threat Data, and Monitoring Threshold Data collection is enabled by default, but you may disable collection of such data within the product at any time. 
+
+### Sophos Mobile Control 
+
 When Sophos Mobile Control is installed or updated, you may receive Apple push notifications, Google cloud to device messaging for Android, SMS text messages, and other remote communications. 
 
 Sophos Mobile Control will store a list of users and mobile devices, and will record any applications downloaded or modifications made to such devices. Your administrator can also configure Sophos Mobile Control to track the geographic location of mobile devices and to lock or wipe a mobile device that has been lost or stolen.
@@ -149,4 +178,4 @@ If you want to request any information about your personal data or believe that 
 
 ### Notification of changes
 
-This privacy policy was last updated on 15 October 2014. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
+This privacy policy was last updated on 25 November 2015. We reserve the right to amend or vary this policy at any time and the revised policy will apply from the date posted on the Site. You accept that by doing this, we have provided you with sufficient notice of the amendment or variation.
