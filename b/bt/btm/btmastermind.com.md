@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btmastermind.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201061644id_/http%3A//btmastermind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btmastermind.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402233337id_/http%3A//btmastermind.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Breakthrough Mastermind
+# Privacy Policy - Breakthrough Mastermind
 
 Your privacy is very important to us. We strictly enforce our privacy policy. We want to make your venture as enjoyable and rewarding as possible.
 
