@@ -1,51 +1,43 @@
-> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811053951id_/http%3A//www.wealthresult.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402154452id_/https%3A//constative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WealthResult.com
+# Privacy Policy | Constative.com
 
-We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. This privacy policy is subject to change without notice.
+These is the Privacy Statement for Constative.com. There will be additional Privacy Statements that apply to other services connected with Constative.com offered by Palness Media. Please you must read these at the time you register or subscribe for these services or any services associated herein.
 
-**Privacy Regarding Tracking by Third-Parties**
-
-WealthResult.com uses DoubleClick, Google, and other third-party Ad Servers to serve and display Advertisements on this site. WealthResult.com does not provide personally identifiable information to Ad Servers. These Ad Servers and Advertisers may use cookies, pixel trackers, or other internet technology to improve the effectiveness and targeting of Advertisements to you within this site and any other place where that third-party is serving Advertisements.
-
-WealthResult.com does not have access to, nor control over, advertisers’ or ad service providers’ cookies or how they may be used or how they were collected. In many cases, this information could be used to show you ads based on your interests on other Web sites.
-
-You have options and choices about the collection and use of information by third-parties on WealthResult.com:
-
-If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so within the Network Advertising Initiative
-
-Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to WealthResult.com or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the advertising opt-out page.
-
-If a user wish to subscribe to our email updates (provided by Google through Feedburner), we ask for only email  
-address. This subscriptions provide easy tools for users of The Said Service to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
-
-This privacy policy is reviewed and revised from time to time. You may wish to revisit it regularly. Your use of this site and/or your registration for any of our products or services constitutes an acceptance of this privacy policy.
-
-**Comment Policy**
-
-Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
-
-  *     Comments deemed to be spam or questionable will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic.
-  *     Comments including profanity will be deleted.
-  *     Comments containing language or concepts that could be deemed offensive will be deleted.
-  *     Comments that attack a person individually will be deleted.
+  * We respects your privacy. You should only receive marketing emails from Constative.com and/or from PALNESS preferred third parties which you have agreed to. It will be made clear to you where you have these choices. We may, however, email you occasionally with information or questions about your account.
+  * We will only collect and use your information where we have legitimate business reasons, and we are legally entitled to do so.
+  * We will be transparent about the information we will collect on you and how we will use your information.
+  * We will only use your information for the purpose(s) for which they were originally collected and we will ensure any old information is securely disposed of.
+  * Constative.com is accessible via the internet. This means that any collected information can be accessed from anywhere in the world.
+  * If PALNESS or our service providers transfer your information outside of your country, or outside the European Economic Area (EEA), all protection required under the law shall remain in place.
 
 
 
-We The Owners of WealthResult.com reserves the right to edit or delete any comments submitted to this blog without notice. This comment policy is subject to change at anytime.
+Any personal information identifying any visitor to Our Sites or Subscriber (“Personal Information”) if required, is asked for explicitly in the relevant page on the Constative.com. We may occasionally inform you of new features, services, and products from the Company.
 
-**HOW YOUR INFORMATION IS USED**
+We may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable the Constative.com to relate your use of the Constative.com to information that you have specifically and knowingly provided to the Us.
 
-The use of your information depends on your consent. By visiting WealthResult.com, you agree to have  “cookies”, log files and/or “clear GIFs” stored onto your computer/web browser, which will not be shared with other companies.
+**Log Files**  
+Like many other Web sites, Constative.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Personal Information:** We do not share, sell, or buy personal information. We may share the Personal Information we collect from you only with your consent. The information you submit is used only for internal purposes and to provide quality customer service to you as well as to send you our latest updates.
+**Cookies and Web Beacons**  
+Constative.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Protection of rights:**  
-We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (I) comply with legal requests and processes; (II) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (III) defend or respond to claims brought or threatened against PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of our Services or others; or (IV) otherwise protect or assert the rights, property, interests or personal safety of PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
+**DoubleClick DART Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on Constative.com.  
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to Constative.com and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Here](https://www.google.com/privacy_ads.html)  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
+Google Adsense  
+Chitika  
+Amazon
 
-**Record Keeping:** It may be necessary for PALNESS MEDIA to keep records of certain Personal Information you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Constative.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**Non-personal Information:**  
-Information that is automatically gathered, including through the use of cookies (as defined above), may be shared among our Websites, if applicable.
+Constative.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Notifications of claimed infringement should be forwarded to: admin@palness.com
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Constative.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+If at any time you believe that Constative.com have not adhered to the principles of these privacy policy, please notify us by e-mail to legal@palness.com and we will use all commercially reasonable efforts to promptly determine and correct the problem.
