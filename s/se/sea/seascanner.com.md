@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seascanner.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929121527id_/http%3A//www.seascanner.com/datenschutz.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seascanner.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402235316id_/http%3A//www.seascanner.com/data-privacy) for the most accurate reproduction.*
 
 # Data Privacy
 
@@ -8,7 +8,7 @@ We are happy to welcome you on our website. The protection of your personal data
 
 As a German firm, we are bound to high legal requirements concerning privacy protection. In the following, we would like to point out how we comply with these provisions.
 
-### What kind of personal data is collected?
+#### What kind of personal data is collected?
 
 We only collect personal data when you send these to us by way of our contact or booking form for a personal consultation. In this process, we collect only the required data: 
 
@@ -20,17 +20,17 @@ We only collect personal data when you send these to us by way of our contact or
 
 Further personal data are not collected. We do log the requests to our web server for diagnostic purposes and for optimizing our web site for a better user experience. We do not save any personal data on your computer (we do not use "tracking cookies").
 
-### How is the collected data used?
+#### How is the collected data used?
 
 We only use your data for the purpose of counseling and booking. Upon request, you can sign up for our newsletter, which will be sent out approx. every 14 days. You can unsubscribe from the newsletter at any time through a link that is provided at the bottom of each newsletter mail.
 
-### How is my payment data protected?
+#### How is my payment data protected?
 
 Since we generally work with invoices, your payment data is not transmitted via the Internet.
 
 With some tour operators (e.g. CUNARD, Royal Caribbean, Celebrity), your can pay via credit card. For the transmission of this data, we provide you with a link to an SSL-encrypted form. You should not send credit card data via e-mail.
 
-### Can my data be passed on to third parties?
+#### Can my data be passed on to third parties?
 
 We never pass on your data to third parties not involved in the booking process. Only the respective service provider (e.g. tour operator, hotel, travel insurance) obtains your data for the purpose of carrying out the booking. For the processing of personal data by these service providers, other privacy standards (eventually also from other legislations) may apply, which we will enquire for you upon request.
 
