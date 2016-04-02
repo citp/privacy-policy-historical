@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthresult.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811053951id_/http%3A//www.wealthresult.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthresult.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402180114id_/https%3A//www.wealthresult.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WealthResult.com
 
@@ -16,8 +16,7 @@ If you wish to opt out of Advertising companies tracking and tailoring advertise
 
 Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to WealthResult.com or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the advertising opt-out page.
 
-If a user wish to subscribe to our email updates (provided by Google through Feedburner), we ask for only email  
-address. This subscriptions provide easy tools for users of The Said Service to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
+If a user wish to subscribe to our email updates (provided through Mailchimp and Feedburner), we ask for only email address and names. This subscriptions provide easy tools for users of The Said Service to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
 
 This privacy policy is reviewed and revised from time to time. You may wish to revisit it regularly. Your use of this site and/or your registration for any of our products or services constitutes an acceptance of this privacy policy.
 
@@ -40,12 +39,10 @@ The use of your information depends on your consent. By visiting WealthResult.co
 
 **Personal Information:** We do not share, sell, or buy personal information. We may share the Personal Information we collect from you only with your consent. The information you submit is used only for internal purposes and to provide quality customer service to you as well as to send you our latest updates.
 
-**Protection of rights:**  
-We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (I) comply with legal requests and processes; (II) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (III) defend or respond to claims brought or threatened against PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of our Services or others; or (IV) otherwise protect or assert the rights, property, interests or personal safety of PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
+**Protection of rights:** We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (I) comply with legal requests and processes; (II) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (III) defend or respond to claims brought or threatened against PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of our Services or others; or (IV) otherwise protect or assert the rights, property, interests or personal safety of PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
 
 **Record Keeping:** It may be necessary for PALNESS MEDIA to keep records of certain Personal Information you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes.
 
-**Non-personal Information:**  
-Information that is automatically gathered, including through the use of cookies (as defined above), may be shared among our Websites, if applicable.
+**Non-personal Information:** Information that is automatically gathered, including through the use of cookies (as defined above), may be shared among our Websites, if applicable.
 
 Notifications of claimed infringement should be forwarded to: admin@palness.com
