@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautybar.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210103957id_/http%3A//www.beautybar.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybar.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402145452id_/https%3A//www.beautybar.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Legal: BeautyBar.com
 
