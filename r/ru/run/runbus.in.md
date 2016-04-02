@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the runbus.in privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321034228id_/http%3A//www.runbus.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runbus.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402130735id_/https%3A//www.runbus.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of runBus.in
 
   * We are going to give complete importance to your trust which you place on us and our website. This is the reason we approach you with the secured transaction and also with some of the high standards as well. You can also read our policy to get to know the complete policy in terms of gathering your information. 
 
-  * ### Important Note:
+  * Important Note:
 
 Our privacy policy can be change at point of the time without providing any further notices and you can be aware of any type of changes in the privacy policy by reviewing our policies.
 
@@ -12,7 +12,7 @@ If you are visiting our runbus.in website then you must agree with the condition
 
 By using this website all your personal information is used as per the current accordance with privacy policy and also this policy get in corporate in terms of use. 
 
-  * ### 1\. Anthology of your identification personal and another information 
+  * 1\. Anthology of your identification personal and another information 
 
 We are going to store all your information related to the browsing so that we get some simple and ease to provide you the smooth, safe and also efficient user experience and thus allows us to provide some of the best services that you used more frequently to give you the better experience. 
 
@@ -22,7 +22,7 @@ We do collect and check the cookies of our pages and we also have some of the sp
 
 If you done any type of transaction through our website then we are going to collect few extra information as well which includes the number and expiration detail of the debit/ credit card, billing address and another necessary information as well and if you choose to put reviews or you go with the free account then we are going to use all this information to give you the special offers and to resolve dispute as well. 
 
-  * ### 2\. Sharing Personal Information 
+  * 2\. Sharing Personal Information 
 
 We are surely going to share all the personal contact information to all the companies to whom we have the complete faith and who will preserve and disclosure of information is reasonably necessary to 
 
@@ -34,11 +34,11 @@ To save in front of harm to rights.
 
 We are surely going to share all the personal contact information to all the companies to whom we have the complete faith and who will preserve and disclosure of information is reasonably necessary to 
 
-  * ### 3\. For Security
+  * 3\. For Security
 
 All our data is get stored on a dedicated and secured server so that there would not be any type of chances for the information leak or even the data lost and thus we have some of the specialized anti- virus which are installed on our pc and thus our strict security will going to restrict any unwanted transfer of data. 
 
-  * ### 4\. Your Consent 
+  * 4\. Your Consent 
 
 All your information whether it is personal or professional will be used as per this privacy policy but not in the limited way.
 
