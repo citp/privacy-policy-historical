@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064617id_/http%3A//www.loonmtn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402182304id_/http%3A//www.loonmtn.com/privacy-policy) for the most accurate reproduction.*
 
 # Boyne Resorts Privacy Policy
 
