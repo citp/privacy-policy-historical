@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171142id_/https%3A//www.foxcreekleather.com/help%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcreekleather.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402064506id_/https%3A//www.foxcreekleather.com/help%23privacy) for the most accurate reproduction.*
 
 # Contact Us – Fox Creek Leather
 
@@ -99,7 +99,15 @@ Back to the top
     1. Do I have to pay return shipping?
     2. Do I need a return authorization number?
     3. What if I refuse my package?
-  7. Miscellaneous
+  7. Warranty & Repairs
+    1. Who pays for shipping on Warranty/Repair work?
+    2. Do all repairs need to be done at Fox Creek Leather?
+    3. Can I replace my item with a different style or size under the lifetime guarantee?
+    4. I need to wear my gear soon. Can you send me a replacement or loaner right away?
+    5. My product is discontinued. What happens if it needs to be replaced under the lifetime guarantee?
+    6. Fox Creek is installing my patches on a replacement vest/jacket. What happens if I am not happy with them?
+    7. How soon will my gear be repaired and returned to me?
+  8. Miscellaneous
     1. Do you have an affiliate program?
     2. Do you have a catalog you can send me?
     3. Do you have a layaway program?
@@ -107,7 +115,7 @@ Back to the top
     5. How do I pay with PayPal?
     6. Can I change my shipping address on a package that's in transit?
     7. Are the Easy Brackets covered under warranty?
-  8. Do you have a store?
+  9. Do you have a store?
     1. What are your hours and location?
     2. Are there hotels or camping nearby?
     3. How far away from me are you?
@@ -241,7 +249,39 @@ No. Just fill out the [returns & exchanges form](https://web.archive.org/help/#r
 
 Refused packages will incur the appropriate service charge.
 
-  7. Miscellaneous 
+  7. Warranty & Repairs
+
+Please be sure to include the best phone number to reach you and the name the item was ordered under when returning any product for warranty/repair work. Products may be either Repaired or Replaced at our sole discretion.
+
+    1. Who pays for shipping on Warranty/Repair work? 
+
+The customer is responsible for returning the item to Fox Creek Leather. The repair/replacement will be returned to the customer at Fox Creek Leather's expense via standard ground shipping. Expedited shipping is available at the customer's expense. Please ask for a quote.
+
+    2. Do all repairs need to be done at Fox Creek Leather? 
+
+Some repairs can be done at local leather or shoe shops. If you need a simple repair done locally, please submit a quote to us at [customerservice@foxcreekleather.com](mailto:customerservice@foxcreekleather.com?subject=Local%20repair). We will contact you within 1 business day to let you know how much of the charge we will reimburse.
+
+    3. Can I replace my item with a different style or size under the lifetime guarantee? 
+
+No. If we determine the item should be replaced, we will send you an identical size and style. 
+
+    4. I need my gear this weekend. Can you send me a replacement or loaner today? 
+
+We cannot send replacements until we receive an item to evaluate whether it should be repaired or replaced, and we do not loan gear. Some repairs take longer than others - allow 3-4 weeks plus shipping time to receive your repaired gear. If you know you will be needing the repaired item on a specific date, please call (1-276-773-3131 or 800-766-4165) before sending it to us. 
+
+    5. My product is discontinued. What happens if it needs to be replaced under the lifetime guarantee? 
+
+If your product style has been discontinued and is determined to need replacement under the lifetime guarantee, we will give you a store credit for the original purchase price. This store credit may be used on any future purchase(s) at Fox Creek Leather.
+
+    6. Who is responsible for reinstalling patches on my replaced/repaired item? 
+
+Fox Creek Leather's Lifetime Guarantee ONLY covers the leather apparel purchased at Fox Creek Leather. Any patches/pins or other adornment added by the customer is not covered under the warranty. Fox Creek Leather sometimes installs patches at customer's request and expense, but that is not our primary sewing function. While we do everything in our power to follow your explicit instructions, we do NOT guarantee the results.
+
+    7. How soon will my gear be repaired and returned to me? 
+
+Once we receive your item in our Independence, Virginia facility, it will be placed in the production line. While repairs are important to us, they do not take precedence over current orders. If you need a rush put on your item, please call 1-276-773-3131 or 800-766-4165. We will evaluate if a RUSH can be placed on your repair and a RUSH fee of $50-150 must be paid before the work is accelerated. The fee is determined by the complexity of the repair. 
+
+  8. Miscellaneous 
     1. Do you have an affiliate program? 
 
 Yes, please [click here](http://affiliate.foxcreekleather.com/) for information about our program.
@@ -272,7 +312,7 @@ If the package was shipped via USPS then we have no way of changing the shipping
 
 [Click here](http://www.greatbikegear.com/index.php/limited-warranty/) to read the manufacture warranty.
 
-  8. Come visit us at our store! 
+  9. Come visit us at our store! 
     1. What are your hours and location? 
 
 Our store is located at 2029 Elk Creek Parkway in Independence, VA. Our hours are Monday-Friday 8:00am-6:00pm, Saturday 10:00pm-4:00pm EST. For more information, please [contact us](https://web.archive.org/help/).
@@ -306,16 +346,16 @@ Back to the top
 
 Custom orders incur an alteration fee. This is added to the regular price of the item because sale prices are not valid on custom orders. [Contact us](http://www.foxcreekleather.com/help/) if you have questions regarding alteration fees for a special or custom order.
 
-Special orders on jackets and chaps may take up to 8-10 weeks. Special orders on vests take 4-6 weeks. We realize this is a long time, but such a high quality garment with a lifetime guarantee is well worth the wait. 
+Special orders on jackets, vests, and chaps may take up to 8-10 weeks. We realize this is a long time, but such a high quality garment with a lifetime guarantee is well worth the wait. 
 
 We will try to fit any body. However, we are limited as to what we can alter or change about a pattern. With the exception of chaps, all orders will be made from scratch as an item cannot be altered. Below is a list of what we can do to customize your leather garment. 
 
 #### Jackets and Chaps
 
-  * We can add or remove length from the sleeves and/or body. However, we will not remove length from the sleeve and add length to the body or vice versa. It has to be done in 1" increments with a maximum of 4". Cost - $80.
+  * We can add or remove length from the sleeves and/or body. However, we will not remove length from the sleeve and add length to the body or vice versa. It has to be done in 1" increments with a maximum of 4". Cost - $125.
   * We can make an item without certain features (such as epaulets, reflective piping, the perforated piece on the Bomber, removable liner, etc.). Cost - $0.
   * We cannot alter the collar type/size and we cannot alter the shoulder width.
-  * We cannot make backwards or odd sized chaps (such as XL waist, S thigh) but we can alter the pair that fits your thigh to fit you in the waist. Cost - $30.
+  * We cannot make backwards or odd sized chaps (such as XL waist, S thigh) but we can alter the pair that fits your thigh to fit you in the waist. Cost - $40.
   * Extra long or larger chaps may be made with additional panels to keep the cost/time down.
   * We have the ability to make larger sizes than what we stock but we are limited. The price would depend on what you need. We would send you the closest thing in stock to try before we would special order it for you.
 
@@ -323,9 +363,9 @@ We will try to fit any body. However, we are limited as to what we can alter or 
 
 #### Vests
 
-  * We can add or remove length from the body in 1" increments with a maximum of 4". The length must be adjusted the same in the front as in the back. Cost - $40.
-  * We can make a vest with the gun pocket on the right hand side for left handed persons or with two standard pockets instead of a gun pocket. Cost - $40.
-  * We can make a vest with a different type of snap. Cost - $20.
+  * We can add or remove length from the body in 1" increments with a maximum of 4". The length must be adjusted the same in the front as in the back. Cost - $60.
+  * We can make a vest with the gun pocket on the right hand side for left handed persons or with two standard pockets instead of a gun pocket. Cost - $60.
+  * We can make a vest with a different type of snap. Cost - depends on snap chosen.
   * We have the ability to make larger sizes than what we stock but we are limited. The price would depend on what you need. We would send you the closest thing in stock to try before we would special order it for you.
 
 
@@ -387,7 +427,7 @@ If you have any questions regarding your return or exchange, please [contact us]
 
 Back to the top
 
-_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial shipment only. The customer is responsible for any subsequent shipping when exchanging their order. This is to keep from raising prices._
+_Due to rising shipping costs, Fox Creek Leather has chosen to pay shipping on the initial U.S. shipment only. The customer is responsible for any subsequent shipping when exchanging their order. This is to keep from raising prices._
 
 We offer free standard shipping (before tax) within the United States (including Hawaii, Alaska, and Puerto Rico). At our discretion, we may ship your package via USPS First Class, USPS Priority Mail, UPS Surepost, or UPS Ground. If you provide a PO Box, please also provide a street address.
 
@@ -395,7 +435,7 @@ Using the available free options, shipping times all vary between 1-7 business d
 
 Orders to APO or FPO addresses are shipped free of charge via USPS First Class or Priority Mail. 
 
-All international shipping fees are the responsibility of the customer. We ship internationally via USPS, UPS, or DHL. Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method. If you are shipping wildlife products including deerskin, buffalo, and elkskin for delivery outside the USA there will be a $15 handling charge and a delay of shipping by about 1 business week. This is because those items have to be inspected by the US Dept of Wildlife. 
+All international shipping fees are the responsibility of the customer. We ship internationally via USPS or UPS. Please note, Fox Creek Leather is not responsible for any brokerage, duties, clearance fees, added value taxes, and/or other fees incurred due to your location or chosen shipping method. If you are shipping wildlife products including deerskin, buffalo, and elkskin for delivery outside the USA there will be a $15 handling charge and a delay of shipping by about 1 business week. This is because those items have to be inspected by the US Dept of Wildlife. **Please note for international customers only:** Do not return your order to us via UPS. Please use your local courier. Fox Creek Leather does not pay import fees. 
 
 If your order is placed before 9:30am Eastern Time we will ship all in-stock items that day. Orders placed after 9:30am will be shipped the following day.
 
@@ -504,30 +544,20 @@ Independence VA, 24348
 
 Back to the top
 
-Summary: Clean your leathers before conditioning and allow them to air dry. Use a mink oil based conditioner that does not contain beeswax or silicone unless you need exceptional waterproofing.
+The easiest, most economical way to clean leather is with a damp rag. If your leathers are really filthy, a soft bristle brush and a little water will take care of almost any amount of crud that you could manage to embed on your jacket. I like to use a damp rag and have an old tooth brush handy to clean out seams, creases, and zippers. If you are working on something that looks like hell struck with a bat, you can use saddle soap or [Montana Pitch Blend Leather Oil Soap](https://web.archive.org/products/134-mpb-leather-soap). Air dry your leather at room temperature* and apply a good conditioner. For all leather outerwear that will be exposed to the elements, I am partial to [Montana Pitch Blend Leather Dressing](https://web.archive.org/products/107-mpb-leather-dressing). It is a blend of pine pitch, mink oil, and beeswax. It will soften up the most neglected leather and it is water repellent. I resurrected an old brittle bomber jacket that was rotting in my closet and had mold on it. I used a variety of leather care products on different parts of the jacket and the Leather Dressing was the hands down winner. 
 
-Proper care is important to the longevity of your motorcycle leathers. Neglected leathers can dry and rot while well cared for leathers will increase in beauty as they age. At Fox Creek we use semi-aniline leather, which will readily absorb conditioning oils because there is no finish on its surface. A well conditioned set of leathers will attain a beautiful luster that shows off the natural full grain of the leather.
+All light colored rags blacken when the cleaning and conditioning products are rubbed into our black leather. No reason to panic. All of our leather is drum dyed. There is plenty of dye to go around. Follow the directions when using the Montana Pitch Blend Leather Oil Soap. If you put it on a rag and rub it in full strength your rag will darken considerably. You are not gaining anything by using it full strength. Follow the directions and use it with water. 
 
-The basic idea behind leather conditioning is to replace the natural oils that the leather loses during daily wear. These oils lubricate the leather, keeping it supple, and repel water and dirt which can break down the integrity of your leathers. All of our jackets, vests and chaps are treated with mink oil when they are made. Mink oil is an animal oil and is easily absorbed by the leather. It is an excellent conditioner because it closely resembles the leather's natural oils.
+Proper care is important to the longevity of your motorcycle leathers. Neglected leathers can dry and rot while well cared for leathers will increase in beauty as they age. At Fox Creek we use semi-aniline leather, which readily absorbs conditioning oils because there is a very little finish on its surface. A well conditioned set of leathers will attain a beautiful luster that shows off the natural full grain of the leather. The basic idea behind leather conditioning is to replace the natural oils that the leather loses during daily wear. These oils lubricate the leather, keeping it supple, and repel water and dirt which can break down the integrity of your leathers. 
 
-How often you treat your leathers depends on how hard and how often you ride. We normally recommend treating your leathers every 3-4 months of active riding. However, if conditions are harsh you may find it necessary to do so more often. For example, if you are caught in a hard downpour on a bike that offers little protection from the elements you may wish to condition your leathers after they dry to replace oils that were lost to the rain. If you ever notice that your leathers feel dry or stiff, it is a sign that they need to be conditioned. It is best to avoid letting them reach that state. Over time you will fall into a schedule for caring for your leathers that is appropriate for your riding habits.
+_*High heat from a source like a wood stove will shrink wet or damp leather. It will not shrink the leather in a uniform manner. It shrinks the leather in spots and ruins it completely. I would also advise against drying your leather in intense hot sunlight. Well conditioned leather is less susceptible to heat damage._
 
-First, clean your leathers before you condition them. Never condition dirty or wet leathers, the conditioning oils will trap the water and dirt in the leather causing it to degrade faster. If your leathers are not noticeably soiled, wipe them down with a slightly damp cloth and let them dry at room temperature overnight. If your leathers need a more thorough cleaning we recommend using a cleaner such as [Montana Pitch Blend Leather Cleaner](https://web.archive.org/products/134-mpb-leather-soap). Regardless, allow your leathers to air dry completely at room temperature before you condition them.
+The [Original Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually contains a dye pigment that restores lost color. It also cleans, nourishes, and waterproofs. Doc Bailey's Leather Black gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. Doc Bailey's Leather Black actually penetrates deep into the leather to restores lost color. As a finishing touch, special waxes lock the color in which protects and waterproofs your leather.
 
-Next, choose a conditioner based on your riding needs. For most people we recommend [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil). It contains only pure mink oil and pine pitch. The pine pitch helps to preserve your leathers by acting as an antimicrobial agent. It also has a slight pleasing natural pine scent. [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil) provides good waterproofing.
+Apply a small amount of Doc Bailey's Leather Black to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed. 
 
-In the case that you need exceptional waterproofing, we recommend [Montana Pitch Blend Leather Dressing](https://web.archive.org/products/107-mpb-leather-dressing), a mink oil and beeswax blend. Beeswax and silicone both waterproof by blocking the pores of your leathers, which can also trap dirt and moisture. Please take extra care in cleaning and drying your leathers before using either of these products.
+### **Caring for Elkskin Leather**
 
-To treat your garment spread a small amount of your conditioner of choice on a soft cloth and gently work it into the leather. Once you have conditioned the entire garment allow it to sit for half an hour and fully absorb the conditioner. At this point you can give your leathers a second application of conditioner if necessary. If not, wipe off any excess conditioner with a clean dry cloth.
+Light colored Elkskin will darken considerably when you apply conditioners and oils. Elkskin also tends to be more absorbent than other leathers so be conservative when applying oil. Elkskin can take a lot of abuse and be restored to it's original condition. Elkskin can also be washed. Melinda, our office manager, asked JR, one of our stitchers, to make her an elkskin purse. Somehow candy caramel melted inside the purse and it stuck together. Melinda threw it in a washing machine, dried it on high heat and it came out good as new. I am not endorsing this procedure. I'd recommend hand washing with a mild soap and drying it at room temperature. Elkskin is as tough as it is beautiful.
 
-Any of the above conditioners can be used together. One popular combination is to apply a first coat of [Montana Pitch Blend Leather Oil](https://web.archive.org/products/108-mpb-leather-oil) and a second coat of [Montana Pitch Blend Leather Dressing](https://web.archive.org/products/107-mpb-leather-dressing). This thoroughly conditions your garment and adds a little extra waterproofing.
-
-###  The Original Doc Bailey's Leather Black 
-
-[The Original Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually contains a dye pigment that restores lost color. It also cleans, nourishes and waterproofs. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) gently cleans leather with specially formulated detergents which actually lift dirt out, opening the pores of the leather allowing the lanolin oil to flow into the leather nourishing and softening it. [Doc Bailey's Leather Black](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) actually penetrates deep into the leather to restores lost color. As a finishing touch, special waxes lock the color in which protects and waterproofs your leather.
-
-Apply a small amount of [Doc Bailey's Leather Black ](https://web.archive.org/products/957-doc-bailey-s-leather-black-kit) to a clean, dry sponge and wipe even over the surface to be treated. Rinse sponge after use. Allow to cure for 12 hours before exposing to moisture. Buff for higher shine if desired. Do not use on Buckskin or Suede. Product will darken all leather, always test in a discrete area. Reapply every 6 months or as needed.
-
-Fox Creek Leather Staff
-
-If you have suggestions or corrections, please [contact us](https://web.archive.org/help/).
+Paul & the Fox Creek Leather Staff
