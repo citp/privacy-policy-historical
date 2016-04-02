@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispply.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421134301id_/http%3A//www.dispply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispply.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402222338id_/http%3A//dispply.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Dispply – App Advertising and Monetization Platform
 
