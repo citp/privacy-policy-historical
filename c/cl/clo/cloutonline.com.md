@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cloutonline.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215132707id_/http%3A//www.cloutonline.com/clout/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloutonline.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402081015id_/http%3A//www.cloutonline.com/clout/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – CLOUT MAGAZINE
+
+## PRIVACY POLICY
 
 **STATEMENT**  
 Since your privacy is of the utmost importance to us, we have provided this Statement about privacy and information usage by CloutOnline.com. Any information gathered by CloutOnline.com will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. CloutOnline.com will not sell, rent or trade your personal information to any third party. We will take special care to protect the privacy and security of your information. By visiting CloutOnline.com, you are accepting the practices described in this Privacy Statement.
