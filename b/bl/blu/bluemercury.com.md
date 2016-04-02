@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227121120id_/http%3A//www.bluemercury.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402043953id_/http%3A//www.bluemercury.com/privacy.aspx) for the most accurate reproduction.*
 
 # Bluemercury Privacy Policy
 
