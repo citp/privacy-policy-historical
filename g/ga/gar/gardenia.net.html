@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gardenia.net privacy policy that was archived on 2015-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151005104215id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gardenia.net privacy policy that was archived on 2016-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160402074953id_/https%3A//www.gardenia.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   <title>Privacy</title>    <!-- title tag pulled from CMS -->
@@ -44,7 +44,10 @@
                           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-58257149-1', 'auto');
+  //
   ga('send', 'pageview');
+  //
+  //
 
   // Start Alexa Certify Javascript
   _atrk_opts = { atrk_acct:"oKtNi1a4ZP00gW", domain:"gardenia.net",dynamic: true};
@@ -316,6 +319,7 @@
 
 
 
+
 <ol class="breadcrumb">
   <li><a href="/">Home</a></li>
   
@@ -331,7 +335,8 @@
   
 </ol>
   </div>
-  <div class="col-sm-3 hidden-xs">
+  <div class="col-sm-3">
+    <div style="display:none;" class="my-cart text-right"><a href="/garden-design-tool"><span class="cart-count">0</span> Saved Plants <img src="https://assets-production-webvanta-com.s3-us-west-2.amazonaws.com/000000/51/74/original/icons/icn-myplants.png" alt="My Plants"></a></div>
     <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="follow-links"><div class="addthis_custom_follow"></div></div> 
   </div>
@@ -667,7 +672,7 @@ function googleTranslateElementInit() {
           <li>© 2015 Gardenia.net</li>
           <li><a href="/privacy">Privacy</a></li>
           <li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
-          <li class="last">Created with Webvanta <a href="http://www.webvanta.com">Cloud CMS for Database-Driven Sites</a></li>
+          <li class="last">Created with Webvanta <a target="_blank" href="//www.webvanta.com">Cloud CMS for Database-Driven Sites</a></li>
         </ul>
       </div>
     </div>
@@ -682,79 +687,81 @@ function googleTranslateElementInit() {
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-            
-            
+          
+          
         </div>
         <div class="modal-body">
-                
-                
+          
+          
 
-                <form id="plantCalculator" action="#" method="get" class="form-horizontal">
-                  
-                  
-                  <div class="form-group form-group-sm">
-                    <label for="area_unit" class="control-label col-sm-7">Measurement Unit</label>
-                    <div class="col-sm-5">
-                      <select class="form-control" id="area_unit" name="area_unit">
-                        <option value="ft">Feet</option>
-                        <option value="m">Meters</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="form-group form-group-sm">
-                    <label for="area_shape" class="control-label col-sm-7">Shape of Your Area</label>
-                    <div class="col-sm-5">
-                      <select class="form-control" id="area_shape" name="area_shape">
-                        <option value="rectangle">Rectangle</option>
-                        <option value="triangle">Triangle</option>
-                        <option value="circle">Circle</option>
-                        <option value="oval">Oval</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="form-group form-group-sm shape_circle_not">
-                    <label for="area_length" class="control-label col-sm-7">Average Length of Area</label>
-                    <div class="col-sm-5">
-                      <div class="input-group">
-                        <input type="number" class="form-control" name="area_length" id="area_length" min="1" value="10">
-                        <span class="input-group-addon"><span class="area_unit">ft</span></span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group form-group-sm shape_circle_not">
-                    <label for="area_width" class="control-label col-sm-7">Average Width of Area</label>
-                    <div class="col-sm-5">
-                      <div class="input-group">
-                        <input type="number" class="form-control" name="area_width" id="area_width" min="1" value="10">
-                        <span class="input-group-addon"><span class="area_unit">ft</span></span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group form-group-sm shape_circle" style="display:none">
-                    <label for="area_radius" class="control-label col-sm-7">Radius of Area</label>
-                    <div class="col-sm-5">
-                      <div class="input-group">
-                        <input type="number" class="form-control" name="area_radius" id="area_radius" min="1" value="5">
-                        <span class="input-group-addon"><span class="area_unit">ft</span></span>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="form-group">
-                    <div class="col-sm-12">
-                      <button id="calc_submit" class="btn-calc btn pull-right">Calculate</button>
-                    </div>
-                  </div>
-                </form>
-                <br>
-            <div class="plantCaluculatorResults well">
-              <h4>Your Shopping List</h4>
-              <table class="table" id="shopping_list">
-                <tbody><tr><th>Plant</th><th>Quantity</th></tr>
-                
-                
-
-              </tbody></table>
+          <form id="plantCalculator" action="#" method="get" class="form-horizontal">
+            
+            
+            <div class="form-group form-group-sm">
+              <label for="area_unit" class="control-label col-sm-7">Measurement Unit</label>
+              <div class="col-sm-5">
+                <select class="form-control" id="area_unit" name="area_unit">
+                  <option value="ft">Feet</option>
+                  <option value="m">Meters</option>
+                </select>
+              </div>
             </div>
+            <div class="form-group form-group-sm">
+              <label for="area_shape" class="control-label col-sm-7">Shape of Your Area</label>
+              <div class="col-sm-5">
+                <select class="form-control" id="area_shape" name="area_shape">
+                  <option value="rectangle">Rectangle</option>
+                  <option value="triangle">Triangle</option>
+                  <option value="circle">Circle</option>
+                  <option value="oval">Oval</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-group form-group-sm shape_circle_not">
+              <label for="area_length" class="control-label col-sm-7">Average Length of Area</label>
+              <div class="col-sm-5">
+                <div class="input-group">
+                  <input type="number" class="form-control" name="area_length" id="area_length" min="1" value="10">
+                  <span class="input-group-addon"><span class="area_unit">ft</span></span>
+                </div>
+              </div>
+            </div>
+            <div class="form-group form-group-sm shape_circle_not">
+              <label for="area_width" class="control-label col-sm-7">Average Width of Area</label>
+              <div class="col-sm-5">
+                <div class="input-group">
+                  <input type="number" class="form-control" name="area_width" id="area_width" min="1" value="10">
+                  <span class="input-group-addon"><span class="area_unit">ft</span></span>
+                </div>
+              </div>
+            </div>
+            <div class="form-group form-group-sm shape_circle" style="display:none">
+              <label for="area_radius" class="control-label col-sm-7">Radius of Area</label>
+              <div class="col-sm-5">
+                <div class="input-group">
+                  <input type="number" class="form-control" name="area_radius" id="area_radius" min="1" value="5">
+                  <span class="input-group-addon"><span class="area_unit">ft</span></span>
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-sm-12">
+                <button id="calc_submit" class="btn-calc btn pull-right">Calculate</button>
+              </div>
+            </div>
+          </form>
+          <div id="changeNote"></div>
+
+          <br>
+          <div class="plantCaluculatorResults well">
+            <h4>Your Shopping List</h4>
+            <table class="table" id="shopping_list">
+              <tbody><tr><th>Plant</th><th>Quantity</th></tr>
+              
+              
+
+            </tbody></table>
+          </div>
 
         </div>
         <div class="modal-footer">
