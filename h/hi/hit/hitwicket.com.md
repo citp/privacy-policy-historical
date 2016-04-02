@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204191116id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwicket.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402071327id_/http%3A//hitwicket.com/privacy) for the most accurate reproduction.*
 
 # Hitwicket - Privacy Site
 
 Octathorpe Web-Consultants Pvt Ltd, a company with its registered address at Hyderabad, India, the publisher of Hitwicket.com, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website, [www.hitwicket.com](http://www.hitwicket.com/)
+
+### Secure Payment
+
+The merchant name on the card/bank statement will either show our payments processing partner's name i.e. CCavenue or PayU or it will show our parent company's name i.e Octathorpe Web-consultants Pvt. Ltd for all payments made through Indian payment gateways. 
 
 ### Information that we collect
 
@@ -66,7 +70,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 ### Opt-Out
 
-You can choose to terminate your Hitwicket account at any time by letting us know at [Hitwicket support](https://web.archive.org/site/renderContactSupport). E-mail messages may be sent to all registered users. You can opt out from The Hitwicket Newsletter under Preferences > Settings. Hitwicket may continue to store information collected from you even after your account has been terminated in order to help in their game optimization studies. 
+If you do not login to your Hitwicket account for more than 4 weeks, the account will be frozen and you will not receive any emails from us. However, if you wish to terminate your Hitwicket account at any time, you can mail us at Hitwicket support. You can opt out from The Hitwicket Newsletter under Preferences> Settings. 
 
 ### Contacting Hitwicket
 
