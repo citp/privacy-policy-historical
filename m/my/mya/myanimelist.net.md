@@ -1,117 +1,135 @@
-> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627181118id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.MyAnimeList.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402064235id_/http%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - CraveOnline
+# Privacy Policy - MyAnimeList.net
 
-**[www.MyAnimeList.net](http://www.myanimelist.net/) ****(the “Website”)**
+LAST UPDATED: [1/9/2015]
 
-  **Privacy Policy**
+In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](http://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net).
 
-This privacy policy was last modified on March 13, 2013. 
+  * Scope
+  * What information the Site collects
+  * How we use the information that we collect
+  * Information sharing
+  * Your choices
+  * Access
+  * Children under 13
+  * Confidentiality and security
+  * Visitors from outside of the United States
+  * Changes to the privacy policy
+  * Questions and suggestions
 
-CraveOnline Media, LLC (“Crave”), a subsidiary of Evolve Media, LLC (“Evolve”), knows that you care how information about you is used and shared.  Evolve, Crave and any and all entities that control, are controlled by, or are affiliated or under common control with, Evolve are collectively referred to herein as "Company" "we," "us" or “our”.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy. 
 
-Information We Collect 
 
-**User-Provided Information:**   You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our Site.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
+This privacy policy is applicable only to the Site and does not extend to information collected by any other websites or to the practices or procedures of companies that the Company does not control. Note that the Site may contain links to other websites, such as ad banners linking to another website. In such cases, this Privacy Policydoes not apply to information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit.
 
-**Cookies Information:   **When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the Site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. 
+You do not need to provide information directly to us in order to view the Site. However, when you using certain functions on the Site, such as accessing certain features or content, registering for certain services, or contacting the Site directly, we may ask for the following information, which may include:
 
-**Log File Information:   **Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information. 
+  * contact information, such as name and email address;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the Site; and
+  * correspondence you send to us.
 
-**Clear Gifs Information:   **When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users. 
 
-**New Technology:**   As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way but are protected by confidentiality. 
 
-How We Use Your Information 
+When you use, interact with and visit the Site, certain information may automatically be collected, including:
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. 
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies.;
+  * your computer's Internet Protocol (IP) address;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * aggregated data about email click-through rates and user video viewing;
+  * activities within community discussions;
+  * standard server log information;
 
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content. 
 
-By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to legal[at]evolvemediallc.com with the words "No email" and the Site name in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. 
 
-Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
+We may access information about you from third-party sources and platforms (such as Google Analytics Demographics and Interests Reports social networking sites, databases, online marketing firms, and ad targeting firms), including:
 
-Company reserves the right, but has no obligation, to monitor the User Content you post on the Site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party. 
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
+  * demographic data, such as age range, gender, and interests;
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services; and
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad.
+  * Please note that the Site may combine information we obtain from third-party sources with the information that we collect.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in. 
 
-How We Share Your Information 
 
-**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers). 
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. Using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested.  
+Third-party advertisers and advertising platforms also may serve targeted ads on the Site. Please remember that the information practices of third-party advertisers or platforms collecting data on our Site are not covered by this privacy policy.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
+We may use the information that we collect to send you e-mail communications, such as information about changes to the Site or your account, promotional messages about our email newsletters, and our own or our marketing partners' products and services.
 
-Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.  Please note we may not provide notice prior to disclosure in such cases. 
+We may use the information that we collect to fulfill your requests for products, services, and information. We may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards.
 
-**Non-Personally Identifiable Information:**  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services. 
+To provide you with an open and civil, discussion forum, we track user involvement in our community discussions. Our forum moderators monitor discussions and delete comments that we deem inappropriate in our forums. For more information on this process, please see the Site's community rules, forum rules or comment policies about comment moderation guidelines.
 
-Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. 
+In order to learn more about how the Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to better tailor our content and design to suit our visitors' needs, to increase our Site's functionality, and to monitor and analyze use of the Site and.
 
-Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. 
+We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms of Use](https://web.archive.org/about/terms_of_use), and to otherwise protect our rights and the rights of our users.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers. 
+By using the Site, you consent to the uses stated above and any other use of information identified in this privacy policy. In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-How We Protect Your Information 
+The Company values your privacy, and shares information about the Site's users only under certain circumstances. We will make information about you available to other companies, applications, or people only in situations listed below:
 
-Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+  * We may employ third parties to perform Site-related services, including maintenance services, database management, data processing, analytics, marketing, and email and text message distribution. Access to your information is granted to these third parties only for the purpose of performing these tasks on our behalf.
+  * Aggregated information or information that does not directly identify you may be shared with third parties to help us develop services, content, and advertising that may be of interest to the users. We do not share contact information with third parties that advertise on the Site unless you opt-in or otherwise agree to have such information shared with or otherwise disclosed to a third party for marketing purposes.
+  * We may share information about you to respond to judicial proceedings, court orders, subpoenas, search warrants, legal process, or other law enforcement measures, to establish or exercise our rights, and/or to defend against legal actions or claims.
+  * We may share information about you to prevent, investigate, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms of Use, or as otherwise required by law.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
+  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
+  * We may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times. 
 
-Compromise of Personal Information 
 
-In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+Once we share your information with another party, the information received by that party becomes subject to the other party's privacy policies. Please note that third parties may independently collect data about you, through cookies, clicks on links, or other means when you visit or view ads on the Site.
 
-Your Choices About Your Information 
+If the Site functionality permits, you can deactivate your account at any time by visiting the preferences page for your profile or delete any content you provide from the Site, though we may retain a copy of any deactivated accounts or deleted content for compliance purposes. When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. For more information, please review our [Terms of Use](https://web.archive.org/about/terms_of_use).
 
-You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you. 
+As discussed below, some information is collected about you automatically through cookies and other tracking technologies.
 
-**Children's Privacy**
+  * Cookies. You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/) if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, [youradchoices.ca/choices](http://youradchoices.ca/choices) if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia.
+  * Flash Cookies. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
 
-Protecting the privacy of young children is especially important.  The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. 
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please visit the [NAI's website](http://www.networkadvertising.org/choices/).
 
-If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other Service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.  
 
-Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. 
 
-If you believe that we might have any information from or about a child under 13, please contact us at legal[at]evolvemediallc.com. 
 
-Third Parties 
+Cookies are small amounts of information stored in files within your computer's browser. Websites can access only the cookies that they have stored on your computer.
 
-We expect our partners, advertisers and affiliates to respect the privacy of our users.  Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our Site, may have their own privacy and data collection policies and practices. 
+  * To improve Site services, and to track Site analytics and use;
+  * To research and measure the effectiveness of our interactive online features, content, advertisements, and other communications;
+  * To customize advertisements you see when you visit the Site; and
+  * To recognize your browser as a previous visitor and save and recall any preferences that may have been set while you visited the Site. We may save login information so that you do not need to sign in when you revisit the Site.
 
-You should also be aware that if you voluntarily disclose personally identifiable information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this document. 
 
-Links to Other Sites: We are not responsible for the practices employed by websites linked to or from our Site nor the information or content contained therein.  Please remember that when you use a link to go from our Site to another website, our Privacy Policy is no longer in effect.  User browsing and interaction on any other website, including those that have a link on our Site, is subject to that other website's own rules and policies. Please read over those rules and policies before proceeding. 
 
-**Third Party Advertisements and Technologies:**
+The Site's third-party partners may use Flash cookies, known as locally shared objects (LSOs), to track user behaviors in various ways. LSOs keep collections of cookie-like data stored in a directory on a user's computer, and are installed through Adobe's Flash video player.
 
-We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  In the course of advertisements being served to you, a unique third-party cookie or other advertising technology may be placed on your browser.  This advertising technology uses information derived from your visits to the Site to target advertising within this Site.  This information is used for many purposes, for example, it helps us try to ensure that you do not see the same advertisements over and over again. We also use this information to help select and display targeted advertisements that we believe may be of interest to you (sometimes called “online behavioral advertising” or “interest-based advertising” or “OBA”).  We also use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this Site, to learn which banner ads bring users to our Site and to deliver more relevant advertising. 
+We may use web beacons (also called pixels, transparent GIFs, web bugs, or action tags). Web beacons are technologies are strings of code that deliver a tiny graphic image on a web page or in an email. Web beacons can recognize certain types of information on your computer such as the time and date a page is viewed, cookies, and a description of the page on which the web beacon is placed. In general, any file served as part of a web page can act as a web beacon.
 
-In addition, our advertisers or other third parties may use other third-party advertising technology to target advertising on the Site and other websites.  We do not control the data collection and use practices of these other third parties. You should read the privacy notices of the websites you visit in order to determine what companies may be collecting information on those websites. 
+Web beacons may be used for various tracking purposes, like determining whether or not you are logged into the Site and whether or not you are connected to a third-party service.
 
-OBA Opt Out 
+Third parties may use web beacons on the Site to receive research, auditing, and reporting information, or to understand your interests and tailor advertisements tailored to your interests.
 
-If you would like to “opt-out” of being served OBA on the Site by our third-party advertising companies, click on the Ad Choices icon below and select the companies whose OBA technology you would like to block on the Site. 
+Some of the advertisements you see on the Site are from third parties, such as advertising agencies, advertisers, ad networks, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies to understand your interests and tailor certain advertisements to your interests.
 
-You may also “opt-out” of other third party programs using OBA technology on your web browser: (a) for users targeted in the United States by visiting <http://www.aboutads.info/choices>  and (b) for users targeted in Europe by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/), selecting the country where you are located, and selecting “Your Ad Choices”. 
+The Company does not have control over, or access to the information these third parties may collect. Such third parties' information practices are not covered by this Privacy Policy.
 
-For more information about online advertising, please visit (a) [www.aboutads.info/consumers](http://www.aboutads.info/consumers/)   regarding United States online choices and/or (b) [www.youronlinechoices.com](http://www.youronlinechoices.com/) regarding European online choices. 
+If you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
 
-Notification Procedures 
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties' direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail [legal@myanimelist.net](mailto:legal@myanimelist.net).
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+If you choose to share personal information with us, you may update or amend this information by contacting us at [legal@myanimelist.net](mailto:legal@myanimelist.net). Please include in your email the name of the Site to which you provided the information you wish to amend.
 
-Changes to Our Privacy Policy 
+The Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete such information The Site is designed to be of service and interest to users ages 13 and older. If you are a minor over the age of 13, you may only use this Site with the permission and under the supervision of your parent or guardian. If you are a minor under the age of 13, you are not allowed to provide any personal information to the Company, on the Site or through any other service provided by the Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address.
 
-We reserve the right to change this policy at any time.  Please check this page periodically for changes.  Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.     
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.  
+Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us.
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at legal[at]evolvemediallc.com, or send mail to: 
+The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
 
-Evolve Media, LLC 
+Please check this page periodically for changes as we reserve the right to change this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
 
-5140 W. Goldleaf Circle, Third Floor 
-
-Los Angeles, CA   90056 
-
-Attn:  General Counsel 
+If you have any questions, inquires, requests, or complaints concerning this Privacy Policy or our information collection practices, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net) or by regular mail Attn: Privacy Officer, 185 Berry Street, San Francisco, CA 94107 USA.
