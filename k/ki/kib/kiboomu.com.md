@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815113731id_/http%3A//kiboomukidssongs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402121444id_/http%3A//thekiboomers.com/home-page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Kiboomu Kids Songs for our clients
+# PRIVACY POLICY
 
 ### Privacy Policy for Kiboomu Kids Songs
 
@@ -26,5 +26,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ### Contacting Kiboomu Kids Songs
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-[ info@kiboomu.com](mailto:info@kiboomu.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@kiboomu.com](mailto:info@kiboomu.com)
