@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319112150id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akonter.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402210127id_/http%3A//www.akonter.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Akonter
 
@@ -26,8 +26,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 Akonter bookmarks is a social bookmarking service which lets you save favorites and share bookmarks by Tags, particularly shopping, business, services and marketing websites. 
 
 [ ](https://www.facebook.com/akonter "Follow us on Facebook") [ ](https://twitter.com/akonterr "Follow us on twitter") [ ](https://plus.google.com/103263747725718063263 "Follow us on Google")
-
-[](https://web.archive.org/MxnDmv/)
 
   
 
