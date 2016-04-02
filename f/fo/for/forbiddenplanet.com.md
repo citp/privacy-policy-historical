@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905105750id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402132315id_/https%3A//forbiddenplanet.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies @ ForbiddenPlanet.com
+# Privacy and Cookies @ ForbiddenPlanet.com - UK and Worldwide Cult Entertainment Megastore
 
 ### Personal Information
 
