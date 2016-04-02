@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sogoodblog.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053702id_/http%3A//www.sogoodblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogoodblog.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402155720id_/http%3A//www.sogoodblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » So Good Blog
+# Privacy Policy - So Good Blog
 
 So Good Blog is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the So Good Blog Web site and governs data collection and usage. By using the So Good Blog website, you consent to the data practices described in this statement.
 
