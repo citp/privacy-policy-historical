@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122003504id_/http%3A//www.candere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402094708id_/http%3A//www.candere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,6 +23,10 @@ Thank you for visiting Candere.com. Candere respects your privacy and we underst
  We sometimes use non-personally identifiable, summary or aggregate information that we collect to improve the design and content of our website and to enable us to further enhance your shopping experience with Candere. We may also share such aggregate information with third parties for that purpose.
 
  The personal information which you provide to Candere is an asset of the company and may be included in the assets transferred to an acquirer if Candere is acquired by a third party. In the event of such a transfer, any personal information transferred shall remain subject to the terms and promises contained in this Privacy Policy.
+
+  **SMS Policy**
+
+ SMS notifications are sent only to those who have subscribed to Candere's newsletters or updates. Subscribers' or customers' information will not be shared elsewhere; we respect your privacy. 
 
   **Security**
 
