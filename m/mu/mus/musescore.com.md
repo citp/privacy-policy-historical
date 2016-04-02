@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musescore.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906040444id_/https%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musescore.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402125147id_/https%3A//musescore.com/legal/privacy) for the most accurate reproduction.*
 
 # MuseScore Privacy Policy | MuseScore
 
@@ -66,7 +66,7 @@ If You choose to terminate Your Account, Your Personal Account Data will be dele
 
 ### Who can you contact if you have questions?
 
-If you have questions or concerns about this Privacy Policy, its implementation, or Your Personal Data, please [contact MuseScore](http://musescore.com/contact) or via [privacy@musescore.com](mailto:privacy@musescore.com).
+If you have questions or concerns about this Privacy Policy, its implementation, or Your Personal Data, please [contact MuseScore](https://web.archive.org/contact) or via [privacy@musescore.com](mailto:privacy@musescore.com).
 
 ### What law governs this Privacy Policy?
 
