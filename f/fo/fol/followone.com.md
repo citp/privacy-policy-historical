@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followone.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816205228id_/https%3A//www.followone.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followone.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402104440id_/https%3A//www.followone.com/help/privacy) for the most accurate reproduction.*
 
 # Followone - Privacy Policy
 
