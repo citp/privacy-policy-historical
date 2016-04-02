@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927015812id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403003334id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - HelpwithCooking.com
+
+Let's get cooking! Sign up for our free meal planner, [click here](http://www.helpwithcooking.com/meal-planner/) for more details. 
 
 This privacy policy covers the treatment of personal identifiable information that HelpwithCooking.com collects when you are on the HelpwithCooking.com website. 
 
