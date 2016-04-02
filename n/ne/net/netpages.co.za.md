@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netpages.co.za privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316223558id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpages.co.za privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402154425id_/http%3A//www.netpages.co.za/Privacy-Policy) for the most accurate reproduction.*
 
 # Privay Policy - NetPages
 
-[Home](http://www.netpages.co.za/) > Privacy Policy
+[Home](http://www.netpages.co.za/) » Privacy Policy
 
 In the course of availing various services we provide from time to time through our website NetPages.co.za you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar Personal Information ("Personal Information"). The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media.
 
