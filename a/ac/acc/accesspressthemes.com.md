@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accesspressthemes.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080959id_/https%3A//accesspressthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesspressthemes.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402124145id_/https%3A//accesspressthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 The accesspressthemes.com Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
