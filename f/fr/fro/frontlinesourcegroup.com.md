@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912152452id_/https%3A//www.frontlinesourcegroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlinesourcegroup.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402133836id_/https%3A//www.frontlinesourcegroup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Frontline Source Group - Temporary Staffing Agency and Direct Hire Employment Career Firm
+# Privacy Policy - Frontline Source Group
 
-Because we want to demonstrate our commitment to users' privacy, we have disclosed our information practices. If users have questions or concerns regarding this statement, they should contact Frontline Source Group, Inc. customer service at Questions/Concerns.
+## Because we want to demonstrate our commitment to users' privacy, we have disclosed our information practices. If users have questions or concerns regarding this statement, they should contact Frontline Source Group, Inc. customer service at Questions/Concerns.
 
 **Scope**
 
@@ -30,6 +30,6 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
     [Email Company Contact](https://www.frontlinesourcegroup.com/contact.html)
 
-    Frontline Source Group™  
+    Frontline Source Group, Inc.  
     Corporate Address: 901 Main Street, Suite 4010, Dallas, TX 75202  
     Web Address: [www.FrontlineSourceGroup.com](https://www.frontlinesourcegroup.com/)
