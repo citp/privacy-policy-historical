@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525055259id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402122300id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wire Realm
 
@@ -45,6 +45,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Wire Realm is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age you should not use The Wire Realm or send information about yourself to us.
 
 **Online Privacy Policy Only**
 
