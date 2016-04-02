@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deviantcliplive.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812155946id_/http%3A//www.deviantcliplive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantcliplive.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402031547id_/http%3A//www.deviantcliplive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # DeviantClipLive - Privacy Policy
 
