@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allthewebdirectory.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810204955id_/http%3A//allthewebdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthewebdirectory.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402235313id_/http%3A//allthewebdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All The Web Directory
+# Privacy Policy –
 
 COLLECTION OF PERSONAL INFORMATION  
 When you use our Products or Websites, you may be asked for personally identifiable information such as your name, address, date of birth, email address, telephone number.
