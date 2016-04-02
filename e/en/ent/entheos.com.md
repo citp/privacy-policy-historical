@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913153829id_/https%3A//www.entheos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402131111id_/https%3A//www.entheos.com/privacy) for the most accurate reproduction.*
 
 # The Academy for Optimal Living | en*theos
 
