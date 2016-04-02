@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localwiki.org privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912015932id_/https%3A//localwiki.org/main/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwiki.org privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402194457id_/https%3A//localwiki.org/main/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guide - LocalWiki
 
