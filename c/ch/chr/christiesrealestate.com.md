@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060443id_/http%3A//www.christiesrealestate.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiesrealestate.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402220626id_/http%3A//www.christiesrealestate.com/eng/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Christie's International Real Estate
 
