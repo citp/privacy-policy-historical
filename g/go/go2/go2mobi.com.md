@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206221927id_/http%3A//www.go2mobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2mobi.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402163453id_/https%3A//www.go2mobi.com/privacy) for the most accurate reproduction.*
 
-# Privacy-policy - Go2mobi
+# Go2mobi - Go2mobi Privacy Policy
 
-Go2mobi is a dedicated Mobile Demand Side Platform (DSP). We help agencies and advertisers to plan, execute, evaluate and optimize their mobile advertising campaigns via our platform (the ‘Platform’). This Privacy Policy is intended to provide you with information on our privacy and data protection policies as they pertain to our Platform, and website, located at www.go2mobi.com, (our ‘Website’).
+Go2mobi is a dedicated Mobile Demand Side Platform (DSP). We help agencies and advertisers to plan, execute, evaluate and optimize their mobile advertising campaigns via our platform (the ‘Platform’). This Privacy Policy is intended to provide you with information on our privacy and data protection policies as they pertain to our Platform, and website, located at www.go2mobi.com, (our ‘Website’).
 
 If you are looking for the privacy policy for the ads you may have seen on another website or smartphone application you can view the privacy policy for the Go2mobi RTB here.
 
