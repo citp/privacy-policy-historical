@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025011729id_/http%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftboard.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402165529id_/https%3A//www.shiftboard.com/shiftboard-privacy.html) for the most accurate reproduction.*
 
 # Shiftboard Privacy Policy and Commitment
 
@@ -20,7 +20,7 @@ As with any online or offline service provider, our privacy policy, in conjuncti
 
 ## Scope
 
-This notice describes the Shiftboard Privacy Policy and confidential practices that apply to Shiftboard products, services and account information sharing with any affiliated organizations (collectively, Shiftboard "services"). 
+This notice describes the Shiftboard Privacy Policy and confidential practices that apply to Shiftboard products, services and account information sharing with any affiliated organizations (collectively, Shiftboard "services").
 
 ## Personal information & data we collect
 
@@ -28,13 +28,13 @@ This notice describes the Shiftboard Privacy Policy and confidential practices t
   * Shiftboard collects and stores personal information whenever you use Shiftboard applications and services that require information persistence, such as scheduling, messaging, task management, and other software program information.
   * Shiftboard uses cookies and other technologies to provide your online experience and also to assess in aggregate, the ways in which people use our services.  
 
-  * Shiftboard's servers store information when you visit a Shiftboard service, use our products, or otherwise access a Shiftboard URL. Stored information includes the URL, IP address, browser types and language, and also the date and time of your request.
+  * Shiftboard servers store information when you visit a Shiftboard service, use our products, or otherwise access a Shiftboard URL. Stored information includes the URL, IP address, browser types and language, and also the date and time of your request.
 
 
 
 ## Uses
 
-  * We routinely use personal information to provide the services you've requested to use, including services that display customized content and third party information to which you have subscribed.
+  * We routinely use personal information to provide the services you have requested to use, including services that display customized content and third party information to which you have subscribed.
   * We also routinely use personal information for auditing, research, security controls and product analysis to both safely operate and perpetually improve Shiftboard technologies and services.
   * We may share aggregated non-personal information such as overall site usage, popularity of products, and other statistical information with third parties outside of Shiftboard.
   * When we use third parties to assist us in processing or handling your personal information, we require that they comply with our Privacy Policies and any other confidentiality and security measures we have in place.
@@ -47,7 +47,7 @@ This notice describes the Shiftboard Privacy Policy and confidential practices t
 
   * We offer many choices when asking for personal information, whenever possible. Specific third party Shiftboard sites may ask for additional information and you can choose to provide these third parties your personal information. You can find more information about your choices in the privacy notices or FAQs for specific services.
   * You may decline to provide personal information to us and you may refuse cookies to be functional within your browser, however some Shiftboard features or specific services may not operate properly as a result.
-  * We make good faith efforts to provide you and any specific people with whom you've agreed to share your information, access to your personal information upon request and to let you correct or update such data if it is inaccurate, when reasonably possible. 
+  * We make good faith efforts to provide you and any specific people with whom you have agreed to share your information, access to your personal information upon request and to let you correct or update such data if it is inaccurate, when reasonably possible.
 
 
 
@@ -59,7 +59,26 @@ For information about policies underwhich your information is safeguarded by thi
 
 For more information about Shiftboard privacy practices, please contact us at any time. You can also write to us at:
 
-**Privacy and Legal Matters  
+### Privacy and Legal Matters
+
+c/o Shiftboard, Inc.  
+PO Box 21329  
+Seattle, WA 98111 (USA) 
+
+## Have questions or concerns about your Privacy?
+
+###  [Contact Us](https://web.archive.org/shiftboard-contact.html "Contact: Communicate with Shiftboard - We are here to help")
+
+Privacy and Legal Matters 
+
 c/o Shiftboard, Inc.  
 506 Second Ave, Suite 3000  
-Seattle, WA 98104 (USA)**
+Seattle, WA 98104 (USA) 
+
+"Everyone can be productive in other areas of the business instead of responding to last minute scheduling fire-drills. Because of Shiftboard&lquot;s user friendliness, we are covering more shifts and handling fewer questions."
+
+—Trish Marquis  
+Scheduling Manager  
+Associated Order Processors 
+
+[Contact Center - Case Study](https://web.archive.org/casestudies/aop.html)
