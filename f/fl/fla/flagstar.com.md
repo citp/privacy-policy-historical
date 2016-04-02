@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083651id_/https%3A//www.flagstar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402065833id_/https%3A//www.flagstar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-rev. 9/14
+rev. 9/15
 
  
 
@@ -42,12 +42,12 @@ How does Flagstar Bank collect my personal information? | We collect your person
   * • Use your debit cards
 
 We also collect your personal information from others, such as credit bureaus or other companies.  
-Why can't I limit all sharing? | Federal law gives you the right to limit only sharing for:  
+Why can't I limit all sharing? | Federal law gives you the right to limit only:  
 
 
-  * • Affiliates' everyday business purposes – information about your creditworthiness
+  * • Sharing affiliates' everyday business purposes – information about your creditworthiness
   * • Affiliates from using your information to market to you
-  * • Nonaffiliates to market to you
+  * • Sharing nonaffiliates to market to you
 
 State laws and individual companies may give you additional rights to limit sharing.  
   
