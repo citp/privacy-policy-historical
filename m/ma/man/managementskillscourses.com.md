@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the managementskillscourses.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317015230id_/http%3A//www.managementskillscourses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementskillscourses.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402075908id_/http%3A//www.managementskillscourses.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Develop Your Management And Business Skills
+# Privacy Policy
 
 **PRIVACY POLICY for  www.managementskillscourses.com**
 
