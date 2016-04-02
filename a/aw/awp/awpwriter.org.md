@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055844id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpwriter.org privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403004822id_/https%3A//www.awpwriter.org/privacy_policy) for the most accurate reproduction.*
 
 # AWP: Privacy Policy
 
