@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolo.in privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144949id_/http%3A//www.jolo.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolo.in privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402204739id_/https%3A//jolo.in/privacy.php) for the most accurate reproduction.*
 
 # Jolo Multi API- Largest recharge, bill and sms api provider of India
 
