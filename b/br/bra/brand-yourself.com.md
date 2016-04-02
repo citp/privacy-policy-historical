@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163855id_/https%3A//brandyourself.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brand-yourself.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402044239id_/https%3A//brandyourself.com/info/about/privacy) for the most accurate reproduction.*
 
 # Reputation Services, Privacy and Security
 
 ## Last updated: Nov 21, 2013
 
-* * *
-
 We do not take responsibility for any content that a user may post on brandyourself.com (the “Website”). Information that is posted on the Website must abide by the [Terms of Service](https://web.archive.org/info/about/terms). We will take reasonable measures to ensure that personal information is kept private. All information is posted at the user's risk. 
 
 ### The Information We Collect
+
+* * *
 
 When you register with BrandYourself, you provide us willingly with certain personal information like your name, address, email address, demographic information, financial information, employment information and/or other personal information. 
 
@@ -20,15 +20,21 @@ You may also create a BrandYourself profile. When you do so, you post content at
 
 ### Children Under Age 13
 
+* * *
+
 The Website is not directed toward anyone under the age of 13, and BrandYourself does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for BrandYourself. No one under age 13 may provide any personal information to or on BrandYourself. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us. 
 
 ### Children Between the Ages of 13 and 18
+
+* * *
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet. 
 
 ### Use of Information Obtained by BrandYourself
 
-We may use personal information about you by including it in our company directory located at <http://brandyourself.com/directory> (or such other web address or medium, including without limitation print or other electronic form, as determined by us) (“Directory”), or otherwise with your consent. We may occasionally use your name and email address to send you notifications regarding new services offered by BrandYourself that we think you may find valuable. (You can customize the type and frequency of our email communication in your settings). We may also send you service-related announcements from time to time through the general operation of the service. 
+* * *
+
+We may occasionally use your name and email address to send you notifications regarding new services offered by BrandYourself that we think you may find valuable. (You can customize the type and frequency of our email communication in your settings). We may also send you service-related announcements from time to time through the general operation of the service. 
 
 We may use information about you that we collect from other sources to help you search engine optimize your links. For example, we may analyze the name you use on your Facebook profile and let you know you should change it to help your Facebook profile rank higher in search results. 
 
@@ -42,21 +48,31 @@ In the event of a change in control of our company or sale of substantially all 
 
 ### Sharing Your Information with Third Parties
 
+* * *
+
 Other than (a) in the Directory, (b) if necessary to operate the Website, (c) required by law to protect our right or the rights of others, or (d) with your consent, we will not share your information with third parties. We may let you choose to share information with marketers or electronic commerce providers through sponsored groups or other on-site offers. 
 
 ### Links
+
+* * *
 
 BrandYourself may contain links to other websites not maintained by or related to us. We are of course not responsible for the privacy practices or policies of such other web sites. To the extent that you disclose personally identifiable information to any such third parties, different rules may apply to their use and disclosure of personal information that you disclose to them. Users should be aware when leaving our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by BrandYourself. 
 
 ### Third Party Advertising
 
+* * *
+
 Third party advertisers have no access to your contact information stored on BrandYourself unless you choose to share it with them. This privacy policy covers the use of cookies by BrandYourself and does not cover the use of cookies or other tracking technologies by any of its advertisers. 
 
 ### Changing or Removing Information
 
+* * *
+
 Access and control over personal information on BrandYourself is available. You may also contact us with your change or removal request at [support@brandyourself.com](mailto:support@brandyourself.com). 
 
 ### Security
+
+* * *
 
 We limit access to personally identifiable information about you to our employees and third party agents who we reasonably believe need to have access to such information to provide you with the information or services you request from us. 
 
@@ -64,9 +80,13 @@ The Website has security measures in place to help protect against the loss, mis
 
 ### Visiting our Website from Outside the US
 
+* * *
+
 This Privacy Policy is intended to cover collection of information the Website from residents of the United States. If you are visiting the Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
 
 ### Terms of Service, Notices and Revisions
+
+* * *
 
 Your use of BrandYourself, and any disputes arising from it, is subject to this Privacy Policy as well as our [Terms of Service](https://web.archive.org/info/about/terms) and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. 
 
