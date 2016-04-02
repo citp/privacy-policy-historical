@@ -1,75 +1,92 @@
-> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910114159id_/http%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remingtonproducts.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402140547id_/http%3A//www.remingtonproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SPECTRUM BRANDS HOLDINGS, INC. PRIVACY POLICY | Remington Products
 
-This privacy policy is effective on October 21, 2013.
+This Privacy Policy (the “Policy”) is effective as of October 1, 2015.
 
-This policy describes Spectrum Brands Holdings, Inc.’s and its affiliated companies and subsidiaries (collectively “Spectrum”) practices with respect to information it collects and receives from users of this Site, including the types of information collected, how it is used, and with whom it is shared. 
+This Policy describes Spectrum Brands Holdings, Inc.’s and its affiliated companies and subsidiaries (collectively “Spectrum”) practices with respect to information it collects and receives from users of this Website (the “Site”), including the types of information collected, how it is used, and with whom it is shared.
 
-This Privacy Policy applies only to information we collect from this Site, and does not apply to any other business activity of Spectrum. By using our site, you consent to the collection, maintenance and use of this information by us. If you do not agree to the terms of this policy and do not consent to the collection, use and maintenance of information as described in this policy, you should leave the Site immediately. 
+This Policy applies only to information we collect from this Site and does not apply to any other business activity of Spectrum. By accessing and using our Site, you consent to the collection, maintenance and use of this information by us. If you do not agree to the terms of this policy and do not consent to the collection, use and maintenance of information as described in this Policy, you should leave the Site immediately.
 
-We reserve the right to revise this policy at any time. When we do, we will give you notice of the revised Privacy Policy by posting the revised Privacy Policy on the Site and by revising the “effective date” at the top of this Privacy Policy. You are responsible for regularly reviewing the current privacy policy. 
+We reserve the right to revise this Policy at any time. When we do, we will give you notice of the revised Privacy Policy by posting the revised Privacy Policy on the Site and by revising the “effective date” at the top of the Policy. You are responsible for regularly reviewing the current policy.
 
-**PRIVACY OF CHILDREN**
+### PRIVACY OF CHILDREN
 
-The Site is a general audience website. We do not intentionally collect personally identifiable information (as defined below) from users of this Site who are under the age of thirteen. If we become aware that a user of our Site is under the age of 13 and has provided information to us (e.g., placed an order, or entered a sweepstakes, contest or other promotion) using our Site, we will remove that child’s personal information from our files. We may use the information to provide notices to the parents of users under the age of 13 where that may be necessary. 
+The Site is a general audience website. We do not intentionally collect Personally Identifiable Information (as defined below) from users of this Site who are under the age of thirteen (13). If we become aware that a user of our Site is under the age of 13 and has provided information to us (e.g., placed an order, entered a sweepstakes, contest or other promotion, etc.) using our Site, we will remove that child’s personal information from our files. We may use the information to provide notices to the parents of users under the age of 13 where that may be necessary.
 
-**WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?**
+### WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?
 
-We collect and store “personally identifiable information” and “automatic information.”
+We collect and store “Personally Identifiable Information” and “Automatic Information.”
 
-**Personal Information.** “Personally identifiable information” is information that tells us who you are, such as your first name, your last name, your postal address and zip code, your e-mail address, your telephone number, your hobbies and interests, and/or information regarding your pets and purchases.
+**Personal Information.** “Personally Identifiable Information” is information that tells us who you are, such as your first and last name, your postal address and zip code, your e-mail address, your telephone number, your hobbies and interests, and/or information regarding your pets and purchases.
 
-We may collect information from you if you register with our site or sign up for our newsletter, purchase products on our site, enter a sweepstakes or contest, submit a rebate or coupon request, or otherwise voluntarily provide the information to us (e.g., via our “Contact Us” web page, or in connection with ratings, reviews, requests for advice, suggestions, testimonials or any user-generated content, such as photographs and/or videos).
+We may collect information from you if you register with our site or sign up for our newsletter, purchase products on our site, enter a sweepstakes or contest, submit a rebate or coupon request, or otherwise voluntarily provide the information to us (e.g., via our “Contact Us” webpage or in connection with ratings, reviews, requests for advice, suggestions, testimonials or any user generated content, such as photographs and/or videos).
 
-You can choose not to provide personally identifiable information to us. However, if you do not provide such information, you will not be able to enter a sweepstakes or contest, and we may not respond to your “Contact Us” inquiry, send our newsletter to you, and/or process your rebate or coupon request.
+You can choose not to provide Personally Identifiable Information to us. However, if you do not provide such information, you will be unable to enter a sweepstakes or contest, and we may not be able to respond to your “Contact Us” inquiry, send our newsletter to you, and/or process your rebate or coupon request.
 
-We may use the personally identifiable information we collect to process a rebate, coupon or other request that has been placed by you, notify you regarding sweepstakes and contests, send our newsletter to you, and/or for marketing Spectrum’s products and services (or those of affiliated companies or marketing partners) via email, postal mail and otherwise.
+We may use the Personally Identifiable Information we collect to process a rebate, coupon or other request that has been placed by you, notify you regarding sweepstakes and contests, send our newsletter to you, and/or for marketing Spectrum’s products and services (or those of affiliated companies or marketing partners) via email, postal mail and otherwise.
 
-**Automatic Information.** “Automatic information” is information automatically collected by our web server (which may be hosted by a third-party), or third-party services (such as Google Analytics), that your web browser makes available whenever you visit our Site.
+**Automatic Information.** “Automatic Information” is information automatically collected by our webserver (which may be hosted by a third party), or third party services (such as Google Analytics), that your web browser makes available whenever you visit our Site.
 
-Automatic Information is not generally associated with Personally Identifiable Information but, if it is, the Automatic Information will be treated as Personally Identifiable Information.
+Automatic Information is not generally associated with Personally Identifiable Information, but if it is, the Automatic Information will be treated like Personally Identifiable Information.
 
-We receive and store certain types of information whenever you interact with us. This includes HTML "cookies." A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies provide a means for web sites that you visit to keep track of your online patterns and preferences. Among other things, cookies help us identify returning users, and they help us customize our service to a user’s needs. By understanding which areas of the Site a user visits, cookies allow us to present information, products and specials that are of personal interest.
+We receive and store certain types of information whenever you interact with us. This includes HTML “Cookies.” A “Cookie” is a small amount of data that is sent to your browser from a webserver and stored on your computer’s hard drive. Cookies provide a means for websites that you visit to keep track of your online patterns and preferences. Among other things, Cookies help us identify returning users, and they help us customize our services to a user’s needs. By understanding which areas of the Site a user visits, Cookies allow us to present information, products and specials that may be of interest.
 
-Spectrum may also use Flash cookies, which track a user’s Internet use across websites, and are not deleted or controlled by users in the same manner as standard HTML cookies.
+Spectrum may also use “Flash Cookies,” which track a person’s Internet use across websites and are not deleted or controlled by users in the same manner as standard HTML Cookies.
 
-In addition to cookies, for each visitor to the Site, our web server automatically recognizes and/or collects (where possible) certain information, such as your domain name, IP address, type of computer, type of web browser, screen size and characteristics (e.g., color, resolution), and operating system, and the city, state and/or country in which you are located. An IP address is a number assigned to your computer when you connect to the Internet. We may also collect information regarding your Internet browsing history (e.g., the site you visited before accessing our Site, the search engine and search terms that you used, and information about your previous visits to our Site), the length of your visit, the pages you viewed, your Internet service provider, the language settings on your computer, and certain software (e.g., Java support).
+In addition to Cookies, for each visitor to the Site, our webserver automatically recognizes and/or collects (where possible) certain information, such as your domain name, IP address, type of computer, type of web browser, screen size and characteristics (e.g., color, resolution), and operating system, and the city, state and/or country in which you are located. An “IP Address” is a number assigned to your computer when you connect to the Internet. We may also collect information regarding your Internet browsing history (e.g., the site you visited before accessing our Site, the search engine and search terms that you used, and information about your previous visits to our Site), the length of your visit, the pages you viewed, your Internet service provider, the language settings on your computer, and certain software (e.g., Java support).
 
-We may use such information for purposes of system administration, to improve the design and content of the Site, and/or to enable us to personalize your Internet experience. We also may use such information in the aggregate to analyze Site usage and/or to assess the traffic to the Site.
+We may use such information for purposes of system administration, to improve the design and content of the Site, and/or to enable us to personalize your Internet experience. We may also use such information in the aggregate to analyze Site usage and/or to assess the traffic to the Site.
 
-**HOW DO WE SHARE THE INFORMATION WE COLLECT?**
+This site may have Google Analytics enabled. To find out how Google Analytics collects and processes data, read “How Google uses data when you use our partners' sites or apps” (located at www.google.com/policies/privacy/partners/).
 
-We may transfer and otherwise disclose your personally identifiable information and automatic information to third parties that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
+### HOW DO WE SHARE THE INFORMATION WE COLLECT?
 
-Without limiting the generality of the foregoing, we may transfer or otherwise disclose such information to third parties (a) for their marketing purposes, (b) that perform services on behalf of Spectrum, (c) in connection with the sale or purchase of subsidiaries or business units or the sale of Spectrum’s assets, (d) to conform to legal requirements or comply with legal process, (e) to protect and defend the rights or property of Spectrum or its affiliated companies, (f) to identify, contact and/or bring legal action against someone who may have breached our Terms of Use, and/or (g) to act to protect the interests of our site, users or others.
+We may transfer and otherwise disclose your Personally Identifiable Information and Automatic Information to third parties that are either subject to this Policy or follow practices at least as protective as those described in this Policy.
 
-**IS THE INFORMATION COLLECTED SECURE?**
+Without limiting the generality of the foregoing, we may transfer or otherwise disclose such information to third parties (a) for their marketing purposes, (b) that perform services on behalf of Spectrum, (c) in connection with the sale or purchase of subsidiaries or business units or the sale of Spectrum’s assets, (d) to meet any applicable law, regulation, legal process or enforceable governmental request, (e) to protect and defend the rights or property of Spectrum or its affiliated companies, (f) to identify, contact and/or bring legal action against someone who may have breached our Terms of Use, and/or (g) to act to protect the interests of our Site, users or others as we deem necessary.
+
+### IS THE INFORMATION COLLECTED SECURE?
 
 Information transmitted on the Internet and/or stored on systems attached to the Internet is not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties.
 
-**CAN I ACCESS THE INFORMATION COLLECTED?**
+### CAN I ACCESS THE INFORMATION COLLECTED?
 
-If you would like to review the personally identifiable information that we have collected about you online, please send your name, street address, telephone number and e-mail address to us by regular mail to the following address:
+If you would like to review the Personally Identifiable Information that we have collected about you online, please send your name, street address, telephone number and e-mail address to us by regular mail to the following address:
 
-Spectrum Brands, Inc. 3001 Deming Way, Middleton, WI 53562-1431 attention: Information Services Department.
+Spectrum Brands, Inc.  
+Attention: Legal Department  
+3001 Deming Way  
+Middleton, WI 53562-1431 
 
-We will send you the personally identifiable information that we have collected about you online. If you would like to correct any factual errors, please note such corrections and send them to us at the same address listed above, so that we may make the corrections that you have requested.
+We will send you the Personally Identifiable Information that we have collected about you online. If you would like to correct any factual errors, please note such correction and send them to us at the same address listed above so that we may make the corrections that you have requested.
 
-**DO I HAVE ANY CHOICES REGARDING THE INFORMATION COLLECTED?**
+### YOUR CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83 permits users of our Site that are California residents to request a notice identifying the categories of personal information we share with third parties for their direct marketing purposes. To make such a request, please submit a written request, specifying that you would like a “California Privacy Notice,” to the following address:
+
+Spectrum Brands, Inc.  
+Attention: Legal Department  
+3001 Deming Way  
+Middleton, WI 53562-1431 
+
+**California Do Not Track Disclosure.** Spectrum does not track users’ behavior on our Site or across websites for the purpose of serving targeted ads and therefore our Sites do not respond to browser Do Not Track (DNT) signals. Third parties that have content embedded on Spectrum’s sites may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific Spectrum website from a certain IP address. Third parties cannot collect any other personally identifiable information from Spectrum’s websites unless you provide it to them directly.
+
+### DO I HAVE ANY CHOICES REGARDING THE INFORMATION COLLECTED?
 
 You can choose not to provide personal information. 
 
-**CHANGES TO THIS PRIVACY POLICY**
+### CHANGES TO THIS PRIVACY POLICY
 
-We reserve the right to revise this Privacy Policy at anytime. When we do, we will also revise the "effective" date at the top of this Privacy Policy. You are responsible for regularly reviewing the current Privacy Policy. The most current version of the Privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located at the bottom of our web pages. Your continued use of the Site after we post any revisions constitutes your agreement to any such revisions. If any such revisions are unacceptable to you, do not access the Site and do not submit any information to us.
+We reserve the right to revise this Policy at any time. When we do, we will also revise the “effective date” at the top of this Policy. You are responsible for regularly reviewing the current policy. The most current version of the Privacy Policy can be reviewed by clicking on the “Privacy” or “Privacy Policy” hypertext located at the bottom of our webpages. Your continued use of the Site after we post any revisions constitutes your agreement to any such revisions. If any such revisions are unacceptable to you, do not access the Site and do not submit any information to us.
 
-**Links to Other Websites**
+**Links to Other Websites.** While you are using this Site, you may be linked or directed to other third party sites outside of our Site that are beyond our control. Each of these third party sites may have a privacy policy that differs from ours. For example, you might click on a link or banner advertisement that takes you off of our Site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. It is your responsibility to review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties.
 
-While you are using this Site, you may be linked or directed to other third party sites outside of the Site that are beyond our control. Each of these third party sites may have a privacy policy different from ours. For example, you might click on a link or banner ad that will take you off the Site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties.
+### CONTACT INFORMATION
 
-**CONTACT INFORMATION**
+We welcome your comments regarding this Policy. If you have questions or concerns regarding this Policy, please contact us by U.S. mail at: 
 
-We welcome your comments regarding this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please e-mail us at [www.spectrumbrands.com](http://www.spectrumbrands.com/) or contact us by U.S. mail at:
-
-Spectrum Brands, Inc., 3001 Deming Way, Middleton, WI 53562-1431 attention: Legal Department.
+Spectrum Brands, Inc.  
+Attention: Legal Department  
+3001 Deming Way  
+Middleton, WI 53562-1431 
