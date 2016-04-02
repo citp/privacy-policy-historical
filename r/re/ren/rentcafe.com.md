@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentcafe.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910121658id_/https%3A//www.rentcafe.com/apartments/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentcafe.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403013206id_/https%3A//www.rentcafe.com/apartments/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Apartments for Rent - RENTCafé
+# RENTCafé Privacy Policy
 
   **** ** _UNITED STATES RENTCafé PRIVACY POLICY_**
 
