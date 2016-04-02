@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025828id_/https%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancourier.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402133353id_/https%3A//www.christiancourier.com/privacy) for the most accurate reproduction.*
 
 # Christian Courier
 
@@ -14,28 +14,4 @@ Questions and or comments submitted through this web site, by email, telephone, 
 
 We will NEVER share your personal contact information with third parties unless you have given us explicit permission to do so, such as in order to fulfill a third party offer that you have accepted from us. By permitting us to collect this information, you will be able to receive free information on products and services that may be of interest to you, including related third party offers that we may send to you. You also enable us to personalize your experience with us so that we can provide you with the highest quality of service. By submitting your email address on this web site, you agree to receive email from us. You can cancel your participation in any of these email lists at any time by clicking the opt-out link or other unsubscribe option that is included in the respective email. We only send emails to people who have authorized us to contact them, either directly, or through a third party. We do not send unsolicited commercial emails, because we hate spam as much as you do.
 
-In addition, you agree that by submitting your email address on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations.
-
-## Third Party Actions
-
-We do not control and are not liable for the actions of any third parties who we may promote. We pride ourselves in working with quality companies, but have no control over the actions of those third parties. While we are not liable for any of the actions of those third parties, you should feel free to give us feedback from time to time on your experiences with any third parties to whom we work with so that we may enhance our future service to all customers.
-
-## Cookies
-
-We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site.
-
-## IP Addresses
-
-We may use your IP address to help prevent fraud, to help diagnose problems with our server, to gather broad demographic information, and to offer you products and services.
-
-## Third Party Web Sites
-
-This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
-
-## Commitment to Data Security
-
-All information collected from you is stored in a technically and physically secure environment. We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
-
-## Contacting Us
-
-We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please send them to us by visiting our [contact page](https://web.archive.org/contact)
+In addition, you agree that by submitting your email address on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR
