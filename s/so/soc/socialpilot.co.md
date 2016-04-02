@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialpilot.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002235id_/http%3A//socialpilot.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialpilot.co privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402141321id_/http%3A//socialpilot.co/privacy) for the most accurate reproduction.*
 
-# SocialPilot - Privacy Policy
+# SocialPilot: Privacy Policy
 
-We collect your personal information enter by your on registration page. We track our visitor's navigation pattern and pages they access the more with the help of google analytics. The information we collect is not sold for any commercial purpose. We share your details with 3rd party in following circumstances 
+We collect your personal information enter by your on registration page. We track our visitor’s navigation pattern and pages they access the more with the help of google analytics. The information we collect is not sold for any commercial purpose. We share your details with 3rd party in following circumstances
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
   * We transfer information about you if SocialPilot is acquired by or merged with another company.
 
 
@@ -19,7 +19,7 @@ We collect your personal information enter by your on registration page. We trac
 
 ### Cookies
 
-  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
   * Cookies are required to use the SocialPilot service.
 
 
@@ -30,7 +30,7 @@ SocialPilot uses third party vendors and hosting partners to provide the necessa
 
 ### Disclosure
 
-SocialPilot may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
+SocialPilot may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
 ### Changes
 
