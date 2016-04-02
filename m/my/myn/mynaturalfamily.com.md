@@ -1,37 +1,20 @@
-> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317023929id_/http%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402153756id_/http%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Natural Family
 
-This privacy notice discloses the privacy practices for MyNaturalFamily.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
-
-  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
-  2. What choices are available to you regarding the use of your data.
-  3. The security procedures in place to protect the misuse of your information.
-  4. How you can correct any inaccuracies in the information.
-
-
+This privacy notice discloses the privacy practices for MyNaturalFamily.com. The bottom line is that this website doesn’t colect any information about you personally. I do get reports about general demographics, such as how many male or female visitors I have, how long you look at each post and what posts you read. But I use this information strictly to improve my blog. I have no ability to look up any information on a personal level.
 
 **Information Collection, Use, and Sharing**
 
-We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+The little bit of information I may or may not have about you is information that you give to me. I do not sell or rent any information, such as email addresses. I wouldn’t like that and I’m sure you wouldn’t either. I want you to be able to trust me, if nothing else.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
-
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
+The only thing I use your email address for is to email you and I try to keep those emails to a minimum. If you used your email to sign up for one of my mailing lists, I assume that you want to receive updates from me and I will continue to send you emails until you unsubscribe at the bottom of one of the emails.
 
 ### Non-Personal Information We Collect
 
-For our online behavioral advertising (OBA) services, we collect only non-personally identifiable information. All data collected for those services is anonymous. We do not collect any personally identifiable information (PII) for use with My Natural Family.
+For our online behavioral advertising (OBA) services, we collect only non-personally identifiable information. All data collected for those services is anonymous. We do not collect any personally identifiable information (PII) for use with My Natural Family. I have no idea what the name of your dog is, where you live, what color your hair is or what your mother’s maiden name is.
 
-We collect information through the use of common internet technologies, such as cookies and beacons, on the web sites of those companies that participate in our online behavioral advertising services. We do not install software on users’ computers or track keystrokes. We may also use third parties cookies or web beacons to collect Non-Personal identifiable information on our or other websites.
-
-**Orders**
-
-We request information from you on our order form. To buy from us, you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill your orders. If we have trouble processing an order, we’ll use this information to contact you.
-
-**Cookies**
-
-We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
+Any information I collect is through Google Analytics, which is on pretty much every website. And some of the affiliate links you click on may use cookies solely to keep track of how long ago  you click on the link so I can get credit for telling you about the product.
 
 **Links**
 
@@ -39,29 +22,6 @@ This web site contains links to other sites. Please be aware that we are not res
 
 **Your Access to and Control Over Information**
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+Since the only data I have about you is your email address, all you need to do is unsubscribe at the bottom of any email I send you and then we will stop sending you emails.
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
-  * Express any concern you have about our use of your data.
-
-
-
-**Security**
-
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
-
-Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
-
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately at[sales@mommybearmedia.com](mailto:service@mommybearmedia.com).**
-
-**Opt Out**
-
-For information about opting out of the Blogger Network and ad serving partners please visit<http://www.thebloggernetwork.com/privacy-policy/>
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately at[help@mynaturalfamily.com](mailto:help@mynaturalfamily.com).**
