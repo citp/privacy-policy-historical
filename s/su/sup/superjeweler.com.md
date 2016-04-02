@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017174246id_/http%3A//www.superjeweler.com/cp/index/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402211820id_/http%3A//www.superjeweler.com/cp/index/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | SuperJeweler.com
+# Privacy Policy
 
 **Updated January 1, 2015**
 
@@ -65,8 +65,8 @@ If a user's personally identifiable information changes (such as your zip code, 
 **Choice/Opt-Out**  
 Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in our e-mail.
 
-**Conversant Statement and Opt Out**  
-We work with Conversant to display retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non-Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. If you do not want Conversant to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To opt out of these ads, please click here.
+**Newsletter**  
+In subscribing for a newsletter you agree that SuperJeweler.com located at 18 East 48th St, 3rd Floor, New York, NY 10017 may use the data you entered to inform you by e-mail about the contents and/or products selected by you. You may revoke your consent at any time with effect for the future, either by written notice to SuperJeweler.com 18 East 48th St, 3rd Floor, New York, NY 10017 or by email to [sales@superjeweler.com](mailto:sales@superjeweler.com). You may also unsubscribe from any newsletter via the link provided at the end of each newsletter. We transfer your data to our service providers only for data administration and hosting purposes.
 
 **Changes to This Policy**  
 We reserve the right to change this privacy policy, and any of our policies or procedures concerning the treatment of information collected through the site, without prior notice. You can determine when this privacy policy was last revised by referring to date at the top of this page. Any changes to our privacy policy will become effective upon posting of the revised policy on the Internet, accessible through the site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect. We encourage you to periodically review our privacy policy to ensure familiarity with our most current version.
