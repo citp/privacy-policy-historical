@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodartsuniverse.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205071432id_/http%3A//woodartsuniverse.com/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodartsuniverse.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402062248id_/http%3A//woodartsuniverse.com/catalog/privacy.php%3FosCsid%3D3e53f04365eb3d12ff3ea51d9339929d) for the most accurate reproduction.*
 
 # Wood Arts Universe
 
