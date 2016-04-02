@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231052011id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402230127id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forever New
 
