@@ -1,65 +1,149 @@
-> *The following text is extracted and transformed from the vaya.net.au privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413015211id_/http%3A//www.vaya.net.au/%3Foption%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaya.net.au privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402020359id_/http%3A//www.vaya.net.au/%3Foption%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Vaya | Privacy Policy
 
-This is Vaya's privacy policy, which outlines our commitment to you in respect of the collection and use of personal information.
+**Introduction  **  
+This statement includes:  
+>    our _collection statement_ , explaining aspects of our collection and use of personal information  
+>    our _privacy policy_ , further explaining how we manage personal information.
 
- **The kinds of personal information that Vaya collects and holds**
+**Collection from third party sources**  
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from:  
+>   publicly available sources like phone books  
+>   other companies in our group that you may have dealt with  
+>   third parties like our business partners, your authorised representative/s and wholesalers  
+>   information brokers  
+>   other telecommunication and information service providers that interact with us in providing products to you (eg overseas when you use a roaming mobile service)  
+>   fraud checking agencies  
+>   our dealers, contractors and other representatives that you may deal with  
+>   our websites and how you use them  
+>   various parties listed under _Disclosing personal information_ in our Privacy Policy.
 
-In order for Vaya  to provide services to you, we will need to collect from you (and hold) , some personal information about you. That information may include your name, your address, your telephone numbers, including your mobile number, email addresses, bank account or credit card details, password details for accessing Vaya services. You may also choose to provide similar details to of your authorised representative, such as another family member. You must ensure that you have obtained the consent of such persons to us collecting and holding their personal information.
+**Collection under law**  
+We may be required to collect personal information under the _Telecommunications Act 1997_ and laws made under it (eg if we supply a pre-paid public mobile telecommunications service, we are required by law to carry out an identity check.)  
+We may be required to collect information, relating to an individual or a communication to which an individual is a party, under the ‘data Retention’ provisions of the _Telecommunications (interception and Access) Act 1979_ (‘Data Retention Law’).
 
-If you are unwilling to provide us with some details, we may not be able to supply you with a service that you wish to acquire. It is not possible to acquire services from Vaya under a pseudonym.
+**Why we collect and hold personal information**  
+We collect and hold personal information because:  
+>   we may need to use it to operate our business  
+>   we may need to provide it to other parties in connection with our business  
+>   we may need it to comply with the law, including the Data  
+Retention Law.  
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.
 
-**How Vaya collects and holds personal information**
+**Unavailability of personal information**  
+If we cannot collect the information we need about you, we may not be able to supply the products or service you want.
 
-Vaya collects personal information about you when you apply for a service either over the telephone, through an online process, or through completion of a form with a Vaya dealer or directly when you require assistance with service provisioning or fault management.
+**Access and correction**  
+Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold. 
 
-The personal information will be held in secure electronic databases. Vaya will use reasonable measures to ensure that the personal information is accessible only to appropriately qualified staff.
+**Complaints**  
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.
 
-**The purposes for which Vaya collects, holds, uses and discloses personal information**
+**Personal information**  
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form. For the purposes of the Data Retention Law, it also refers to information retained for the purposes of that law, if it relates to an individual or a communication to which the individual is a party.
 
-Vaya will only use your personal information for the following purposes:
+**Kinds of personal information we collect and hold**  
+Broadly, we may collect and hold:  
+>    _personal details_ like name, date of birth, gender, occupa  on and driver licence number  
+>    _contact details_ like physical, postal, work and email addresses and phone numbers  
+>    _financial details_ like bank account, credit card numbers and your billing and payment history with us  
+>    _service-related details_ like your user name, encrypted password and service usage history, support incidents, enquiries and complaints  
+>    _other details_ relating to special situations like specific health information if you apply for priority assistance and information about any authorised representative you appoint  
+>    _Data Retention Law details_ (where that law applies) like subscriber and account details, service details, detailed about  
+telecommunications devices, the source and destination of communications, the date and   me of communications and connection to services, the type of a communication or service and loca  on details.  
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.
 
-  * To verify your identity;
-  * To provide and develop the services that you require;
-  * To administer and manage those services including charging, billing, obtaining payment, fault management, complaint handling and debt collection;
-  * To communicate with you directly, via email, fax, phone, SMS and by other means of communication about service usage, service charges, new Vaya products and services, complaint and fault management, and other ways the service provided to you could be improved;
-  * To conduct appropriate checks for credit worthiness and for fraud; and
-  * To comply with requests for information issued to Vaya by agencies and courts that are entitled to obtain the information under Australian law.
+**Collecting personal information**  
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or at our premises, or fill in an application form).  
+In other cases, we may collect personal information about you from:  
+>   publicly available sources like phone books  
+>   other companies in our group that you may have dealt with  
+>   third parties like our business partners, your authorised representative/s and wholesalers  
+>   information brokers  
+>   other telecommunication and information service providers that interact with us in providing products to you (eg overseas when you use a roaming mobile service)  
+>   fraud checking agencies  
+>   our dealers, contractors and other representatives that you may deal with  
+>   our websites and how you use them  
+>   various parties listed under _Disclosing personal information_ below.
 
+**Holding personal information**  
+We hold personal information in hard and/or soft copy at our ofices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration. Where required by the Data Retention Law, it will be encrypted. 
 
+**Why we collect and hold personal information**  
+We collect and hold personal information because:  
+>   we may need to use it to operate our business  
+>   we may need to provide it to other parties in connection with our business  
+>   we may need it to comply with the law, including the Data Retention Law.
 
-The above uses may require disclosure of the personal information to third parties including: 
+**Using personal information**  
+We may use personal information:  
+>   to identify you  
+>   for credit checks  
+>   to prevent fraud  
+>   to supply products (including goods and/or services) to you  
+>   to give you information about us and our products, and product owners  
+>   for direct marketing – see _Direct marketing_ for details  
+>   to improve our products, our marketing and our website  
+>   to answer your enquiries  
+>   to give you customer support and service  
+>   to better understand your needs and respond to them  
+>   to manage and plan our products and business  
+>   to charge and bill you for products you use  
+>   to collect payment from you  
+>   to monitor, manage, test and improve our network and facilities  
+>   to comply with various laws that apply to us, including the _Telecommunications Act 1997_ , the Data Retention Law and our obligations under any carrier licence that we hold  
+>   for other purposes related to the operation of our business.
 
-  * to service providers who provide services to us, such as providers of telecommunications services;
-  * to credit reporting agencies;
-  * to third parties where you have given consent to the disclosure; and
-  * to government, law enforcement and regulatory bodies where this is necessary for us to comply with our legal obligations.
+**Disclosing personal information**  
+We may disclose personal information as reasonably required:  
+>   to contractors and suppliers who supply or support us in:  
+•    market research, sales and marketing  
+•    direct marketing – see _Direct marketing_ for details  
+•    identity and fraud checking  
+•    credit management  
+•    service provisioning  
+•    installation, maintenance and repairs  
+•    helpdesk and enquiries  
+•    support and complaint management  
+•    communications and mailing  
+•    billing, debt recovery and credit management  
+•    network and product design and maintenance  
+•    corporate strategy  
+•    legal and regulatory advice and compliance  
+•    accounting and financial planning  
+•    risk management  
+•    otherwise providing goods and services that we use to operate our business and provide products and support to you  
+>   to your authorised representative/s  
+>   if you ask us to do so  
+>   to our agents, dealers and members of our corporate group  
+>   to our business partners and wholesale suppliers  
+>   to other telecommunication and information service providers that interact with us in providing products to you (eg overseas when you use a roaming mobile service)  
+>   to the manager of the Integrated Public Number Database, the Australian Communications and Media Authority, police, law enforcement and national security agencies and other authorities when and as required by law  
+>   to authorised agencies under the Data Retention Law   
+>   to organisation’s that provide credit or finance to us  
+>   to persons who invest in or acquire all or part of our business or company, or are considering doing so.  
+Some of these parties may be based overseas eg Philippines,India and countries where you use roaming services while travelling. 
 
+**Direct marketing**  
+We may use and disclose personal information to direct market to you products offered by us, our agents, dealers and members of our corporate group, and our business partners, where we think the orders will be of interest to you, using:  
+>   post  
+>   email  
+>   electronic messaging  
+>   social media  
+>   targeted web content  
+>   other direct marketing channels.  
+Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.
 
+**Accessing and correcting personal information**  
+Please contact us for these purposes using the details in _Contacting us_ below.  We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.
 
-**How you may access personal information and seek the correction of such information**
+**Complaints**  
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall:  
+>   acknowledge your complaint within a reasonable time  
+>    give you an estimated first response time  
+>   allocate your complaint to a suitably senior staff member  
+>    process and respond to your complaint as soon as we reasonably can.
 
-We will take all reasonable steps to ensure that your personal information which we collect, use or disclose is accurate, complete and up-to-date. You can access and correct some of the personal information (such as contact details) that we hold about you by securely logging in to our website. You can also request that incorrect information about you be corrected or deleted. 
-
-If you wish to access the information we hold about you, please send an email to our privacy compliance officer (see contact details below) and we will respond to you within 30 days. A handling fee may be payable so that we can obtain the information you require.
-
-**How you may complain about a breach of privacy**
-
-If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Vaya's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied. 
-
-**Disclosure of personal information to overseas recipients**
-
-Vaya wholly owns and operates customer support and sales team in the Philippines and also India. It is not an outsourced arrangement. Personal information will be stored on servers that are located in Australia but our customer support, helpdesk, sales, complaint handling and compliance staff who are based in the Philippines and India make use of that information by accessing it for the purposes described in this privacy policy. Vaya controls the servers and the data and uses its preventative measures to ensure that the personal information is kept secure so that it is not disclosed, including by limiting storage devices and internet access within the working environments in the Philippines and India. All staff in the Philippines/India are required to comply with Australian privacy laws.
-
-**Privacy Officer**  
-Vaya's privacy officer can be contacted in the following ways: 
-
-Phone: 1300 00 8292
-
-Mail:       Vaya Privacy Officer- PO BOX 402 Fortitude Valley QLD 4006  
-Email:    [solutions@vaya.net.au](mailto:solutions@vaya.net.au)
-
-**Policy Updates**
-
-Vaya is continuously improving and enhancing its products and services to our clients and we may update this policy from time to time. Any changes to this policy will be updated on this page on the Vaya website.
+**Contating us**  
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 1300008292 or email to talk@vaya.net.au. 
