@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217061046id_/http%3A//www.rcsworks.com/en/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcsworks.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402075721id_/http%3A//rcsworks.com/en/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # RCS Privacy and Cookie Notice | RCS Sound Software
 
