@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantdelights.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909235409id_/http%3A//www.plantdelights.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantdelights.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402163725id_/http%3A//www.plantdelights.com/index/page/static/subpage/privacy_policy) for the most accurate reproduction.*
 
 # Plant Delights Nursery Privacy Policy
 
@@ -73,7 +73,6 @@ CalOPPA is the first state law in the nation to require commercial websites and 
     * By emailing us
     * By calling us
     * By logging in to their account
-    * By chatting with us
 
 
 
