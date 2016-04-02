@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alegriashoes.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222162608id_/http%3A//www.alegriashoes.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alegriashoes.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402131621id_/http%3A//www.alegriashoes.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
