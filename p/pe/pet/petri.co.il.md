@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328192014id_/http%3A//www.petri.com/blue-whale-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403052848id_/https%3A//www.petri.com/blue-whale-web-privacy-policy) for the most accurate reproduction.*
 
 # Blue Whale Web Privacy Policy
 
