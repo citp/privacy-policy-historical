@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icstation.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025165258id_/http%3A//www.icstation.com/privacy-policy-i-64.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icstation.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403181259id_/http%3A//www.icstation.com/privacy-policy-i-64.html) for the most accurate reproduction.*
 
 # Privacy Policy - ICStation
 
