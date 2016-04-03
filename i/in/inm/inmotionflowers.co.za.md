@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmotionflowers.co.za privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140317id_/http%3A//www.inmotionflowers.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmotionflowers.co.za privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403102852id_/http%3A//www.inmotionflowers.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | inMotion Flowers
 
