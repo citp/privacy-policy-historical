@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clothes2order.ie privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517052420id_/http%3A//www.clothes2order.ie/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothes2order.ie privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404005053id_/http%3A//www.clothes2order.ie/pages/privacy/%3Foscsid%3D59ab39d07292bf0b1140ffc21c874738) for the most accurate reproduction.*
 
 # Privacy Policy - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
 
