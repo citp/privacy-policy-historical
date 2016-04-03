@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226170237id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foghop.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404010802id_/http%3A//foghop.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Games at Foghop.com - Play Free Online Games
+# Privacy Policy | 3D Games 2 Play Online | Games at Foghop.com - Play Free Online Games
 
 Foghop respects the privacy rights of its customers and protects the personal information collected, stored and used in connection with Foghop products, services and websites (the "Services"). To further this commitment, we have adopted this Privacy Policy to guide how we collect, store, and use the information you provide us.  
 
