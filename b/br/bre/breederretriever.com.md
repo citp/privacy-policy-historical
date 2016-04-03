@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206164236id_/http%3A//www.breederretriever.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breederretriever.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403220738id_/http%3A//www.breederretriever.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](http://www.breederretriever.com/redirect.php?url=http://www.truste.org/ivalidate.php?url=www.breederretriever.com&sealid=101)
+# Breeder Retriever - A Fun Website About Dogs and Puppies
 
 Effective 05/04/2007
 
