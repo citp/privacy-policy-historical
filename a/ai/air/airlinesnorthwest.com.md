@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airlinesnorthwest.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606112505id_/http%3A//www.airlinesnorthwest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlinesnorthwest.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403042338id_/http%3A//www.airlinesnorthwest.com/privacy) for the most accurate reproduction.*
 
 # Airlines Northwest | Privacy Policy
 
