@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206045640id_/http%3A//crystalheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalheels.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404005507id_/http%3A//crystalheels.com/privacy%3FosCsid%3Dc57635fb151acfe3867b87cfccaf1094) for the most accurate reproduction.*
 
 # Privacy Policy | CrystalHeels.com
 
