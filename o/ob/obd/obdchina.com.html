@@ -1,708 +1,1138 @@
-<!--The following is the downloaded HTML source of the obdchina.com privacy policy that was archived on 2014-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140208001018id_/http%3A//www.obdchina.com/obdchina-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the obdchina.com privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403215213id_/http%3A//www.obdchina.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy</title>
-<meta name="description" content="This is the OBDchina Privacy Policy.">
-<meta name="keywords" content=" OBDchina Privacy Policy,  Privacy Policy">
-<meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.obdchina.com/skin/frontend/default/obdchina/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.obdchina.com/skin/frontend/default/obdchina/favicon.ico" type="image/x-icon">
-<!--[if lt IE 7]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+<title>privacy_policy : OBD China, The auto OBD tools discount</title>
+<meta name="ROBOTS" content="All">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="Mileage Programmer ECU Chip Tuning Tool Airbag Reset Tool Brands Auto Diagnostic Tool Auto Locksmith Tool Auto Repair Software Others promotion Auto Accessories OBD tools, OBD China,OBD, online shopping privacy_policy">
+  
+<meta name="description" content="OBD China : privacy_policy - Mileage Programmer ECU Chip Tuning Tool Airbag Reset Tool Brands Auto Diagnostic Tool Auto Locksmith Tool Auto Repair Software Others promotion Auto Accessories OBD tools, OBD China,OBD, online shopping">
+ 
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="author" content="obdchina.com">
+
+
+
+
+
+<base href="http://www.obdchina.com/">
+
+
+<link rel="canonical" href="http://www.obdchina.com/index.php?main_page=privacy_policy">
+
+
+
+
+<link href="css/base.css" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="css/small_page.css" media="all"><link rel="stylesheet" type="text/css" href="includes/templates/classic/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/classic/css/stylesheet_categories_menu.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/classic/css/stylesheet_css_buttons.css">
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/classic/css/print_stylesheet.css">
+
 <script type="text/javascript">
-//<![CDATA[
-    var BLANK_URL = 'http://www.obdchina.com/js/blank.html';
-    var BLANK_IMG = 'http://www.obdchina.com/js/spacer.gif';
-//]]>
+
+	if (typeof jQuery == 'undefined') {
+
+		document.write('<script type="text/javascript" src="js/jquery.latest.js">\x3C/script>');
+
+	}
+
+</script><script type="text/javascript" src="js/jquery.latest.js"></script>
+
+<link href="css/side_menu.css" type="text/css" rel="stylesheet">
+<script src="js/side_menu.js" type="text/javascript"></script><script type="text/javascript">
+/**
+ * $.float
+ * @extends jquery.1.4
+ * @fileOverview 创建一个悬浮层，支持上、下、左、右、右中、左中浮动
+ * @author 明河共影
+ * @email mohaiguyan12@126.com
+ * @version 0.1
+ * @date 2010-04-18
+ * Copyright (c) 2010-2010 明河共影
+ * @example
+ *    $("#to-right").float({position:"rm"}); //右中位置浮动
+ */
+jQuery.fn.float= function(settings){
+	if(typeof settings == "object"){
+		settings = jQuery.extend({
+			//延迟
+			delay : 1000,
+			//位置偏移
+			offset : {
+				left : 0,
+				right : 0,
+				top : 0,
+				bottom : 0
+			},
+			style : null, //样式
+			width:100,  //宽度
+			height:100, //高度
+			position:"rm" //位置
+		}, settings || {});	
+		var winW = $(window).width();
+		var winH = $(window).height();
+		
+		 //根据参数获取位置数值
+		function getPosition($applyTo,position){
+			var _pos = null;
+			switch(position){
+				case "rm" : 
+					$applyTo.data("offset","right");
+					$applyTo.data("offsetPostion",settings.offset.right);
+					_pos = {right:settings.offset.right,top:winH/2-$applyTo.innerHeight()/2};
+				break;
+				case "lm" :
+					$applyTo.data("offset","left");
+					$applyTo.data("offsetPostion",settings.offset.left);
+					_pos = {left:settings.offset.left,top:winH/2-$applyTo.innerHeight()/2};
+				break;
+				case "rb" :
+					_pos = {right:settings.offset.right,top:winH - $applyTo.innerHeight()};
+				break;
+				case "lb" :
+					_pos = {left:settings.offset.left,top:winH - $applyTo.innerHeight()};
+				break;
+				case "l" : 
+					_pos = {left:settings.offset.left,top:settings.offset.top};
+				break;
+				case "r" : 
+					_pos = {right:settings.offset.right,top:settings.offset.top};
+				break;				
+				case "t" :
+					$applyTo.data("offset","top");
+					$applyTo.data("offsetPostion",settings.offset.top);					
+					_pos = {left:settings.offset.left,top:settings.offset.top};
+				break;
+				case "b" :
+					$applyTo.data("offset","bottom");
+					$applyTo.data("offsetPostion",settings.offset.bottom);					
+					_pos = {left:settings.offset.left,top:winH - $applyTo.innerHeight()};				
+				break;
+			}
+			return _pos;
+		}
+		//设置容器位置
+		function setPosition($applyTo,position,isUseAnimate){
+			var scrollTop = $(window).scrollTop();
+			var scrollLeft = $(window).scrollLeft();
+			var _pos = getPosition($applyTo,position);
+			_pos.top += scrollTop;
+			isUseAnimate && $applyTo.stop().animate(_pos,settings.delay) || $applyTo.css(_pos);
+		} 
+		return this.each(function(){
+			var $this =  $(this);
+			$this.css("position","absolute");
+			settings.style && $this.css(settings.style);
+			setPosition($this,settings.position);
+			$(this).data("isAllowScroll",true);
+			$(window).scroll(function(){
+				$this.data("isAllowScroll") && setPosition($this,settings.position,true);
+			});
+		})	
+	}else{
+		var speed = arguments.length > 1 && arguments[1] || "fast"; 
+		this.each(function(){		   
+			if(settings == "clearOffset"){
+					var _c = {};
+					if($(this).data("offset")){
+						 _c[$(this).data("offset")] = 0; 
+						 $(this).data("isAllowScroll",false);
+						 $(this).stop().animate(_c,speed);
+					}
+			}else if(settings == "addOffset"){
+					var _c = {};
+					if($(this).data("offset") && $(this).data("offsetPostion")){
+						 _c[$(this).data("offset")] = $(this).data("offsetPostion"); 
+						 $(this).stop().animate(_c,speed);
+						 $(this).data("isAllowScroll",true);
+					}
+									   
+			}else if(settings == "setScrollDisable"){
+				$(this).data("isAllowScroll",false);
+			}else if(settings == "setScrollUsable"){
+				$(this).data("isAllowScroll",true);	
+			}
+		})
+	}
+}
 </script>
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/new_home_.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/breadcrumbs.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/noitems_shoppingcart.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/base/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/topmenu.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/topmenu_non_home.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/narrow.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/jquery.loadmask.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/print.css" media="print">
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://www.obdchina.com/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/jquery/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/lib/ccard.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/prototype/validation.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/scriptaculous/builder.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/scriptaculous/dragdrop.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/scriptaculous/controls.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/scriptaculous/slider.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/varien/js.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/varien/form.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/varien/menu.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/mage/translate.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/home_js.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/breadcrumbs/breadcrumbs.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/topmenu/topmenu.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/mobile.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/jquery/jquery.loadmask.min.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/jquery/jcountdown.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/js/simplecron/trigger.js"></script>
-<!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.obdchina.com/skin/frontend/default/obdchina/css/styles-ie.css" media="all" />
-<![endif]-->
-<!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.obdchina.com/js/lib/ds-sleight.js"></script>
-<script type="text/javascript" src="http://www.obdchina.com/skin/frontend/base/default/js/ie6.js"></script>
-<![endif]-->
-
 <script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.obdchina.com';
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
-//]]>
-</script>
-<script type="text/javascript">
-    //var simplecron = {"trigger_url":"simplecron","base_url":"http:\/\/www.obdchina.com\/"};
-</script><script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script><script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-23242258-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+$(function(){
+	$(".customer").float({
+		delay : 500,//延迟
+		position:"rm" //位置
+	});
+});
 </script>
 
 </head>
-<body class=" cms-page-view cms-obdchina-privacy-policy-html">
-<div class="wrapper">
-        <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-    <div class="page">
-        <div class="header-container">
-    <div class="header" style="margin: 0 auto;padding: 0 0 5px;position: relative;text-align: left;width: 100%;z-index: 1600;">
-    	<div style="margin:0 auto;width:1000px;">
-    	<div class="row-1-nav-bar-top-fix-box" style="margin-bottom:10px;margin-top:2px;">
-    		<div class="c">
-    			<div class="col1 fleft">
-    				<!-- //html content -->
-		        	 
-  		<p id="langSelector">
-	Language:<a href="http://www.obdchina.com/" class="selected">English</a>&nbsp;&nbsp;</p>
-<div id="uniLanguage" class="btn-group fleft">
-	<button class="btn btn-mini">More</button>
-	
-	<button class="btn btn-mini dropdown-toggle" data-toggle=""><span class="caret"></span></button>
-	<ul class="dropdown-menu pull-left moreLanguageList" style="left:112px;min-width: 120px;">
-		<li><a href="http://es.obdchina.com">Español</a></li>
-	</ul>
-	
-</div>
-  		
 
-		       		  <span class="separator" style="float:left">|</span>
-		       		  <div id="curSelector" class="btn-group curSelector fleft" style="position:relative;">
-	<button class="btn btn-mini"><a href="" rel="nofollow">
-	<span>$ </span>USD</a>
-	</button>
-	<button class="btn btn-mini dropdown-toggle" data-toggle=""><span class="caret"></span></button>
-	<ul class="dropdown-menu" style="left: 175px">
-						<li class="sel_CNY">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/CNY/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>CN¥</em>
-			<span class="span_">CNY</span>
-			</a>
-		</li>
-				<li class="sel_CAD">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/CAD/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>CA$</em>
-			<span class="span_">CAD</span>
-			</a>
-		</li>
-				<li class="sel_JPY">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/JPY/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>¥</em>
-			<span class="span_">JPY</span>
-			</a>
-		</li>
-				<li class="sel_EUR">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/EUR/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>€</em>
-			<span class="span_">EUR</span>
-			</a>
-		</li>
-				<li class="sel_AUD">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/AUD/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>AU$</em>
-			<span class="span_">AUD</span>
-			</a>
-		</li>
-				<li class="sel_USD">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/USD/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>$</em>
-			<span class="span_">USD</span>
-			</a>
-		</li>
-				<li class="sel_GBP">
-			<a href="http://www.obdchina.com/directory/currency/switch/currency/GBP/uenc/aHR0cDovL3d3dy5vYmRjaGluYS5jb20vb2JkY2hpbmEtcHJpdmFjeS1wb2xpY3kuaHRtbA,,/" rel="nofollow">
-			<em>£</em>
-			<span class="span_">GBP</span>
-			</a>
-		</li>
-				<script type="text/javascript">
-	jQuery('#curSelector').hover(function() {
-	      jQuery(this).find('.dropdown-menu').show();
-	    }, function() {
-	    	jQuery(this).find('.dropdown-menu').hide();
-	    });
-	</script>
-			</ul>
-</div>
-		        	<!-- //html content -->
-    			</div>
-    			<div class="col2 fright">
-    				<div class="quick-access">
-			        	<!--<p class="welcome-msg">OBD China | Auto OBD(OBD2,OBDII) Tools Platform for obd scanner,car key,codes,software and auto electronics </p>-->
-			            <div class="header_bottom">
-			            	<div id="UAP-livechat" class="btn-group open">
-			            		<div class="header_live_chat">
-				            		<button class="btn btn-mini live-chat" style="*line-height:14px;"><i class="icon-live-chat"></i>Customer Service</button>
-				            		<button class="btn btn-mini dropdown-toggle" data-toggle=""><span class="caret"></span></button>
-				            		<ul class="dropdown-menu pull-right" style="top:18px;">
-				            			<div class="customer_service_box">
-<div class="row1">
-<div class="crword"><span> HI,This is <label>OBDCHINA</label>,I am your exclusive service manager and responsible for all of your questions at OBDCHINA. I will dedicate to solve all your problems quickly and effectively. </span></div>
-</div>
-<div class="row2">
-<div class="s-livechat"><label class="tt"><a>LIVE CHAT</a>&nbsp;</label>(09:00:00-24:00:00 HKT/GMT+8 )</div>
-<div class="s-email"><label class="tt"><a href="mailto:service@obdchina.com" target="_blank">E-mail</a>&nbsp;</label>(09:00:00-24:00:00 HKT/GMT+8 )</div>
-<div class="s-phone"><label class="tt">Phone</label>&nbsp;(086)15919988180</div>
-</div>
-</div>				            		</ul>
-			            		</div>
-			            	</div>
-							<ul class="links">
-			<li class="first">
-	 <a href="http://www.obdchina.com/customer/account/login/" title="Sign">[<label style="color:#FF6600;cursor:pointer;">Sign</label>]</a>
-	</li>
-    <li>
-		<a title="Registration" href="http://www.obdchina.com/customer/account/login/">[<label style="cursor:pointer;">Registration</label>]</a>
-	</li>
-		<li class="top_account_dd dropdowngouzi">
-		<dl class="headerDropDown">
-			<dt>
-				<a href="http://www.obdchina.com/customer/account/" title="My Account">My Account</a>
-			</dt>
-		</dl>
-		<dd style="display: none;">
-			<ul>
-				<li class="tad-order">
-					<a ref="nofollow" href="http://www.obdchina.com/sales/order/history/" title="My Order">My Order</a>
-				</li>
-				<li class="tad-profile">
-					<a ref="nofollow" href="http://www.obdchina.com/customer/account/edit/" title="My Profile">My Profile</a>
-				</li>
-				<li class="tad-reviews">
-					<a ref="nofollow" href="http://www.obdchina.com/review/customer/" title="My Reviews">My Reviews</a>
-				</li>
-				<li class="tad-ab">
-					<a ref="nofollow" href="http://www.obdchina.com/customer/address/" title="Address Book">Address Book</a>
-				</li>
-				<li class="tad-reviews">
-					<a ref="nofollow" href="http://www.obdchina.com/ordertickets/chat/list/" title="My Tickets">My Tickets</a>
-				</li>
-			</ul>
-		</dd>
+<body style="">
 
-	</li>
-		<li>
-		<a class="top-link-blog" title="Blog" href="http://www.obdchina.com/blog" target="_blank">Blog</a>
-	</li>
 	
-	<li class="top_link_help dropdowngouzi">
-		<dl class="headerDropDown">
-			<dt>
-				<a href="http://www.obdchina.com/faq/">Help</a>
-			</dt>
-		</dl>
-		<dd style="display: none;">
-			<ul>
-				<li>
-					<a ref="nofollow" href="http://www.obdchina.com/faq/" style="cursor:help;">Knowledgebase</a>
-				</li>
-				<li>
-					<a ref="nofollow" href="http://www.obdchina.com/about-obdchina.html">Contact us</a>
-				</li>
-			</ul>
-		</dd>
-	</li>
-</ul>
-<script type="text/javascript">
-	jQuery('.dropdowngouzi').hover(function(){
-		jQuery(this).find('.headerDropDown').addClass('over');
-		jQuery(this).find('dd').show();
-	},function(){
-		jQuery(this).find('.headerDropDown').removeClass('over');
-		jQuery(this).find('dd').hide();
-	});
-</script>			            </div>
-		        	</div>
-    			</div>
-    		</div>
-    	</div>
-    	</div>
-    	<div class="clearfix"></div>
-    	<!--
-    	<div class="topggg" style="margin:0 auto;margin-top:26px;margin-left:-520px;background-color:#090909;width:1440px;height:100px;position: relative;">
-    		<a href="http://www.obdchina.com/info.php?a=2014newyear&utm_source=2014newyear&utm_medium=web" target="_blank" title="2013 Year-End Stock Clearance Sales all products up to 85% off, buy now in obdchina.com">
-    			<img src="http://www.obdchina.com/plug/2014newyear/topbanner.jpg" /></a>
-    	</div>
-    	-->
-    	
-    	<div class="row-2-nav-c-box" style="margin:0 auto;margin-bottom: 10px;margin-top: 0px;width: 1000px;">
-    		<div class="col1">
-    			  		        <a href="http://www.obdchina.com/" title="OBD China | Auto OBD(OBD2,OBDII) Tools Platform for obd scanner,car key,codes,software and auto electronics" class="logo">
-		        	<strong>OBD China | Auto OBD(OBD2,OBDII) Tools Platform for obd scanner,car key,codes,software and auto electronics</strong>
-		        	<img src="http://www.obdchina.com/skin/frontend/default/obdchina/images/logo.jpg" alt="OBD China | Auto OBD(OBD2,OBDII) Tools Platform for obd scanner,car key,codes,software and auto electronics"></a>
-		        		       
-    		</div>
-    		<div class="col3">
-    			<div id="uniYourCart" class="">
-					<dl id="cartContainer" class="js_toggleCart cartWidth">
-					<!--{CART_SIDEBAR_070f370fafc00cac67ce3d6d4e073c96}--><dt class="navSp" id="cartInfo">
-	<a href="http://www.obdchina.com/checkout/cart/" class="" rel="nofollow">
-	<span class="" id="cartItem">
-		<span class="">
-			<span id="cartText">
-								Cart( <span id="cartCount">0</span> )			</span>
-			<i class=""></i>
-		</span>
-	</span></a>
-</dt><!--/{CART_SIDEBAR_070f370fafc00cac67ce3d6d4e073c96}-->						<dd id="scQuickEntry">
-							<div class="scHeader"><div class="icon_down"></div></div>
-							<div id="scProductList" class="productList grid-m-l">
-								<!--{CART_SIDEBAR_d165d6f96854719981d6f73ffee64333}--><div class="block block-cart">
-        	
-	<div class="block-content">
-		<div class="cart-sidebar-header">
-			<div class="csh-title"><span>Shopping Cart</span></div>
-		</div>
+ <div id="top">
+
+	<!-- shiyi cuxiao -->
+
+	
+	<!-- end shiyi cuxiao -->
+
+	<!--//万圣节-->
+
+	
+ <!--1 start-->
+
+ <div id="header" style="height:10px; margin-top:5px;">
+
+  <div class="topbar hei12">
+
+   <ul>
+
+   
+    <li>Currency: <span style="color:#ff6600">USD</span><img class="vm" src="images/home_pic1.gif">
+
+     <div class="languagecurrency">
+
+      <ul>
+
+	  
+       <li><a rel="nofollow" href="/privacy_policy.html?currency=EUR">EUR</a></li>
+
+       
+       <li><a rel="nofollow" href="/privacy_policy.html?currency=GBP">GBP</a></li>
+
+       
+       <li><a rel="nofollow" href="/privacy_policy.html?currency=CAD">CAD</a></li>
+
+       
+       <li><a rel="nofollow" href="/privacy_policy.html?currency=AUD">AUD</a></li>
+
+       
+      </ul>
+
+     </div>
+
+    </li>
+
+   </ul>
+
+  </div>
+
+  <div class="help hei12">
+
+   <ul class="links">
+
+   	
+    <li class="first"><a rel="nofollow" href="http://www.obdchina.com/index.php?main_page=login" title="">[sign in]</a></li><li>|</li>
+
+    <li class="first"><a rel="nofollow" href="http://www.obdchina.com/index.php?main_page=login" title="">[Register ]</a></li><li>|</li>
+
+	&nbsp;
+
 		
-	            <p class="empty">You have no items in your shopping cart.</p>
+    <li class="first"><a rel="nofollow" href="/payment_methods.html" title="">Payment</a></li><li>|</li>
+
+    <li class="first"><a rel="nofollow" href="/warranty_policy.html" title="">Warranty Policy</a></li><li>|</li>
+
+    <li><a rel="nofollow" href="/faqs_all.html" title="Help">Help</a></li>
+
+   </ul>
+
+  </div>
+
+  <div class="clear"></div>
+
+ </div>
+
+ <!--1 end-->
+
+ <!--2 start-->
+
+ <div class="header-logo" style="margin-top:15px;">
+
+  <div class="logo"><a href="/"><img alt="OBDCHINA auto OBD tools supplier" src="images/logo.jpg" width="160" height="56"></a></div>
+
+   <div class="Wholesale">
+
+    <ul>
+
+     <li style="padding-top:10px;"><a rel="nofollow" href="/"><img alt="obdchina seven days no reason to return" src="images/Seven Days .png" width="223" height="49"></a></li>
+
+     <li style="padding-top:10px;"><a rel="nofollow" href="/"><img alt="obdchina free repair service 365 days" src="images/365day.png" width="153" height="48"></a></li>
+
+     <li style="padding-top:18px;"><a rel="nofollow" href="/"><img alt="obdchina one to one after sales" src="images/after-sales.png" width="119" height="40"></a></li>
+
+     <li style="padding-top:24px;">
+
+        <a rel="nofollow" href="/shopping_cart.html"> <div class="home_cart"><span class="shopping">(0)</span></div> </a>
+
+     </li>
+
+    </ul>
+
+   </div>
+
+  </div>
+
+  <!--2 end-->
+
+  <!--3 start-->  
+
+  <div id="header-nav">
+
+  	
+
+  	
+  	<div id="sidemenu"><div class="sidebar_menu"><div id="menu_banner_01" class="litem"><span><a href="/" class="home" title="Home Page">Home</a><em style="border-right: 1px solid #DDDDDD;display: block;height: 15px;position: absolute;right: 1px;top: 9px;width: 1px;"></em></span></div><div id="menu_banner_13" class="litem "><span><a title="Brands" href="http://www.obdchina.com/discount-brands_c13.html">Brands<em class=" has dow_ico"></em></a></span><div class="subitem"><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="Launch X431" href="http://www.obdchina.com/discount-launch-x431_c19.html"><img src="/images/logo_launch_x431_120x40.gif"></a></li><li class="sub_category_self addborder">
+
+					<a title="Nanning Yanhua" href="http://www.obdchina.com/discount-nanning-yanhua_c20.html"><img src="/images/logo_yanhua_120x40.gif"></a></li><li class="sub_category_self addborder">
+
+					<a title="Autel" href="http://www.obdchina.com/discount-autel_c22.html"><img src="/images/logo_autel_120x40.gif"></a></li><li class="sub_category_self addborder">
+
+					<a title="LISHI tools" href="http://www.obdchina.com/discount-lishi-tools_c61.html"><img src="/images/logo_lishi_120x40.gif"></a></li></ul></div><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="XTool Series" href="http://www.obdchina.com/discount-xtool-series_c72.html"><img src="/images/logo_xtool_120x40.gif"></a></li><li class="sub_category_self addborder">
+
+					<a title="SPX Autoboss" href="http://www.obdchina.com/discount-spx-autoboss_c21.html"><img src="/images/spx-autoboss-series.jpg"></a></li><li class="sub_category_self addborder">
+
+					<a title="JTC Auto Tool" href="http://www.obdchina.com/discount-jtc-auto-tool_c74.html"><img src="/images/OBD-jtc-tool_03.jpg"></a></li><li class="sub_category_self addborder">
+
+					<a title="ELM327" href="http://www.obdchina.com/discount-elm327_c102.html"><img src="/images/categories/elm327.jpg"></a></li></ul></div></div></div><div id="menu_banner_14" class="litem "><span><a title="Auto Diagnostic Tool" href="http://www.obdchina.com/discount-auto-diagnostic-tool_c14.html">Auto Diagnostic Tool<em class=" has dow_ico"></em></a></span><div class="subitem"><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="Special Diagnostic Tool" href="http://www.obdchina.com/discount-special-diagnostic-tool_c80.html">Special Diagnostic Tool<em class="dow_ico"></em></a><ul><li><a title="Diag Tool for Ford" href="http://www.obdchina.com/discount-diag-tool-for-ford_c89.html"><span>Diag Tool for Ford</span></a></li><li><a title="Diag Tool for GM" href="http://www.obdchina.com/discount-diag-tool-for-gm_c90.html"><span>Diag Tool for GM</span></a></li><li><a title="Diag Tool for BMW" href="http://www.obdchina.com/discount-diag-tool-for-bmw_c76.html"><span>Diag Tool for BMW</span></a></li><li><a title="Diag Tool for VAG/VW/Audi" href="http://www.obdchina.com/discount-diag-tool-for-vagvwaudi_c4.html"><span>Diag Tool for VAG/VW/Audi</span></a></li><li><a title="Diag Tool for Porsche" href="http://www.obdchina.com/discount-diag-tool-for-porsche_c63.html"><span>Diag Tool for Porsche</span></a></li><li><a title="Diag Tool for Benz" href="http://www.obdchina.com/discount-diag-tool-for-benz_c29.html"><span>Diag Tool for Benz</span></a></li><li><a title="Diag Tool for Nissan" href="http://www.obdchina.com/discount-diag-tool-for-nissan_c73.html"><span>Diag Tool for Nissan</span></a></li><li><a title="Diag Tool for Toyota" href="http://www.obdchina.com/discount-diag-tool-for-toyota_c92.html"><span>Diag Tool for Toyota</span></a></li><li><a title="Diag Tool for Volvo" href="http://www.obdchina.com/discount-diag-tool-for-volvo_c94.html"><span>Diag Tool for Volvo</span></a></li><li><a title="Other Auto Brands" href="http://www.obdchina.com/discount-other-auto-brands_c91.html"><span>Other Auto Brands</span></a></li></ul></li></ul></div><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="Universal Diagnostic Tool" href="http://www.obdchina.com/discount-universal-diagnostic-tool_c85.html">Universal Diagnostic Tool<em class="dow_ico"></em></a><ul><li><a title="Car Universal Diag Tool" href="http://www.obdchina.com/discount-car-universal-diag-tool_c86.html"><span>Car Universal Diag Tool</span></a></li><li><a title="Heavy-duty Diag Tool" href="http://www.obdchina.com/discount-heavyduty-diag-tool_c87.html"><span>Heavy-duty Diag Tool</span></a></li><li><a title="Motocycle Diag Tool" href="http://www.obdchina.com/discount-motocycle-diag-tool_c88.html"><span>Motocycle Diag Tool</span></a></li></ul></li><li class="sub_category_self addborder">
+
+					<a title="Auto Code Scanner" href="http://www.obdchina.com/discount-auto-code-scanner_c11.html">Auto Code Scanner</a></li></ul></div></div></div><div id="menu_banner_15" class="litem "><span><a title="Auto Locksmith Tool" href="http://www.obdchina.com/discount-auto-locksmith-tool_c15.html">Auto Locksmith Tool<em class=" has dow_ico"></em></a></span><div class="subitem"><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="Auto Service" href="http://www.obdchina.com/discount-auto-service_c79.html">Auto Service<em class="dow_ico"></em></a><ul><li><a title="Immo Emulator" href="http://www.obdchina.com/discount-immo-emulator_c98.html"><span>Immo Emulator</span></a></li><li><a title="Key Cutting Machine" href="http://www.obdchina.com/discount-key-cutting-machine_c32.html"><span>Key Cutting Machine</span></a></li><li><a title="Pin Code Reader Tool" href="http://www.obdchina.com/discount-pin-code-reader-tool_c33.html"><span>Pin Code Reader Tool</span></a></li><li><a title="Lock Picks" href="http://www.obdchina.com/discount-lock-picks_c37.html"><span>Lock Picks</span></a></li></ul></li></ul></div><div class="subitem_list fleft"><ul><li class="sub_category_self addborder">
+
+					<a title="Car Key Programmer" href="http://www.obdchina.com/discount-car-key-programmer_c95.html">Car Key Programmer<em class="dow_ico"></em></a><ul><li><a title="Universal Type" href="http://www.obdchina.com/discount-universal-type_c96.html"><span>Universal Type</span></a></li><li><a title="Single Type" href="http://www.obdchina.com/discount-single-type_c97.html"><span>Single Type</span></a></li></ul></li><li class="sub_category_self addborder">
+
+					<a title="Key Cutting Machine" href="http://www.obdchina.com/discount-key-cutting-machine_c104.html">Key Cutting Machine</a></li><li class="sub_category_self addborder">
+
+					<a title="Car Chip &amp; Eprom" href="http://www.obdchina.com/discount-car-chip-eprom_c35.html">Car Chip &amp; Eprom</a></li></ul></div></div></div><div id="menu_banner_5" class="litem "><span><a title="Mileage Programmer" href="http://www.obdchina.com/discount-mileage-programmer_c5.html">Mileage Programmer<em class=" nohas dow_ico"></em></a></span></div><div id="menu_banner_6" class="litem "><span><a title="ECU Chip Tuning Tool" href="http://www.obdchina.com/discount-ecu-chip-tuning-tool_c6.html">ECU Chip Tuning Tool<em class=" nohas dow_ico"></em></a></span></div><div id="menu_banner_16" class="litem "><span><a title="Auto Repair Software" href="http://www.obdchina.com/discount-auto-repair-software_c16.html">Auto Repair Software<em class=" nohas dow_ico"></em></a></span></div><div id="menu_banner_100" class="litem"><span><a href="###">All Categories<span class="hover_dow_ico"></span></a></span><div class="subitem" style="width:900px;display:none"><div class="allcategoriesbox"><dl><dt><span><a href="http://www.obdchina.com/auto-diagnostic-tool_c14.html" title="Auto Diagnostic Tool">Auto Diagnostic Tool<em class="dow_ico"></em></a></span></dt><dd><span class="firstdd"><a href="http://www.obdchina.com/special-diagnostic-tool_c80.html" title="Special Diagnostic Tool">Special Diagnostic Tool</a></span><ul class="all_last"><li><span><a href="http://www.obdchina.com/diag-tool-for-ford_c89.html" title="Diag Tool for Ford">Diag Tool for Ford</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-gm_c90.html" title="Diag Tool for GM">Diag Tool for GM</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-bmw_c76.html" title="Diag Tool for BMW">Diag Tool for BMW</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-vagvwaudi_c4.html" title="Diag Tool for VAG/VW/Audi">Diag Tool for VAG/VW/Audi</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-porsche_c63.html" title="Diag Tool for Porsche">Diag Tool for Porsche</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-benz_c29.html" title="Diag Tool for Benz">Diag Tool for Benz</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-nissan_c73.html" title="Diag Tool for Nissan">Diag Tool for Nissan</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-toyota_c92.html" title="Diag Tool for Toyota">Diag Tool for Toyota</a></span></li><li><span><a href="http://www.obdchina.com/diag-tool-for-volvo_c94.html" title="Diag Tool for Volvo">Diag Tool for Volvo</a></span></li><li><span><a href="http://www.obdchina.com/other-auto-brands_c91.html" title="Other Auto Brands">Other Auto Brands</a></span></li></ul></dd><dd><span><a href="http://www.obdchina.com/universal-diagnostic-tool_c85.html" title="Universal Diagnostic Tool">Universal Diagnostic Tool</a></span><ul class="all_last"><li><span><a href="http://www.obdchina.com/car-universal-diag-tool_c86.html" title="Car Universal Diag Tool">Car Universal Diag Tool</a></span></li><li><span><a href="http://www.obdchina.com/heavyduty-diag-tool_c87.html" title="Heavy-duty Diag Tool">Heavy-duty Diag Tool</a></span></li><li><span><a href="http://www.obdchina.com/motocycle-diag-tool_c88.html" title="Motocycle Diag Tool">Motocycle Diag Tool</a></span></li></ul></dd><dd><span><a href="http://www.obdchina.com/auto-code-scanner_c11.html" title="Auto Code Scanner">Auto Code Scanner</a></span></dd><dd><span><a href="http://www.obdchina.com/discount-cables-and-others_c30.html" title="Cables and Others">Cables and Others</a></span></dd></dl><dl><dt><span><a href="http://www.obdchina.com/auto-locksmith-tool_c15.html" title="Auto Locksmith Tool">Auto Locksmith Tool<em class="dow_ico"></em></a></span></dt><dd><span class="firstdd"><a href="http://www.obdchina.com/car-key-programmer_c95.html" title="Car Key Programmer">Car Key Programmer</a></span><ul class="all_last"><li><span><a href="http://www.obdchina.com/universal-type_c96.html" title="Universal Type">Universal Type</a></span></li><li><span><a href="http://www.obdchina.com/single-type_c97.html" title="Single Type">Single Type</a></span></li></ul></dd><dd><span><a href="http://www.obdchina.com/key-cutting-machine_c104.html" title="Key Cutting Machine">Key Cutting Machine</a></span></dd><dd><span><a href="http://www.obdchina.com/auto-service_c79.html" title="Auto Service">Auto Service</a></span><ul class="all_last"><li><span><a href="http://www.obdchina.com/immo-emulator_c98.html" title="Immo Emulator">Immo Emulator</a></span></li><li><span><a href="http://www.obdchina.com/key-cutting-machine_c32.html" title="Key Cutting Machine">Key Cutting Machine</a></span></li><li><span><a href="http://www.obdchina.com/pin-code-reader-tool_c33.html" title="Pin Code Reader Tool">Pin Code Reader Tool</a></span></li><li><span><a href="http://www.obdchina.com/lock-picks_c37.html" title="Lock Picks">Lock Picks</a></span></li></ul></dd><dd><span><a href="http://www.obdchina.com/car-chip-eprom_c35.html" title="Car Chip &amp; Eprom">Car Chip &amp; Eprom</a></span></dd></dl><dl><dt><span><a href="http://www.obdchina.com/discount-auto-accessories_c99.html" title="Auto Accessories">Auto Accessories<em class="dow_ico"></em></a></span></dt><dd><span class="firstdd"><a href="http://www.obdchina.com/discount-hot-car-accessories_c105.html" title="Hot Car Accessories">Hot Car Accessories</a></span></dd><dd><span><a href="http://www.obdchina.com/discount-spark-plug_c100.html" title="Spark Plug">Spark Plug</a></span></dd></dl><dl class="last"><dt><span><a href="http://www.obdchina.com/mileage-programmer_c5.html" title="Mileage Programmer">Mileage Programmer</a></span></dt></dl><dl><dt><span><a href="http://www.obdchina.com/ecu-chip-tuning-tool_c6.html" title="ECU Chip Tuning Tool">ECU Chip Tuning Tool</a></span></dt></dl><dl><dt><span><a href="http://www.obdchina.com/discount-airbag-reset-tool_c7.html" title="Airbag Reset Tool">Airbag Reset Tool</a></span></dt></dl><dl><dt><span><a href="http://www.obdchina.com/auto-repair-software_c16.html" title="Auto Repair Software">Auto Repair Software</a></span></dt></dl><dl class="last"><dt><span><a href="http://www.obdchina.com/discount-others_c18.html" title="Others">Others</a></span></dt></dl><dl><dt><span><a href="http://www.obdchina.com/discount-promotion_c38.html" title="promotion">promotion</a></span></dt></dl><div class="clear allcategories_brand_box"><p><a href="http://www.obdchina.com/brands_c13.html" title="Brands">Brands<span class="dow_ico_s"></span></a></p><ul><li><a href="http://www.obdchina.com/launch-x431_c19.html" title="Launch X431"><img src="/images/logo_launch_x431_120x40.gif"></a></li><li><a href="http://www.obdchina.com/nanning-yanhua_c20.html" title="Nanning Yanhua"><img src="/images/logo_yanhua_120x40.gif"></a></li><li><a href="http://www.obdchina.com/autel_c22.html" title="Autel"><img src="/images/logo_autel_120x40.gif"></a></li><li><a href="http://www.obdchina.com/lishi-tools_c61.html" title="LISHI tools"><img src="/images/logo_lishi_120x40.gif"></a></li><li><a href="http://www.obdchina.com/xtool-series_c72.html" title="XTool Series"><img src="/images/logo_xtool_120x40.gif"></a></li><li><a href="http://www.obdchina.com/spx-autoboss_c21.html" title="SPX Autoboss"><img src="/images/spx-autoboss-series.jpg"></a></li><li><a href="http://www.obdchina.com/jtc-auto-tool_c74.html" title="JTC Auto Tool"><img src="/images/OBD-jtc-tool_03.jpg"></a></li><li><a href="http://www.obdchina.com/elm327_c102.html" title="ELM327"><img src="/images/categories/elm327.jpg"></a></li></ul></div></div></div></div></div></div>
+
+   
+
+  </div>
+
+
+
+  <!--3 end-->
+
+              <!--4 start-->
+
+              <div id="header" style="width:1010px;height: 30px; clear: both;background-image:none;background-color:#FFF;padding-bottom:10px;">
+
+                <div class="newarrival hei12">
+
+                  <ul>
+
+               
+
+                    <li><a rel="nofollow" href="/contact_us.html">Contact Us</a></li>
+
+                    <li><a rel="nofollow" href="/payment_methods.html">Payment Methods</a></li>
+
+                    <li><a rel="nofollow" href="/warranty_policy.html">Warranty Policy</a></li>
+
+
+                  </ul>
+
+                </div>
+
+                
+
+                <div class="search">
+
+			<form action="/index.php" method="get">
+
+            <input name="main_page" type="hidden" value="advanced_search_result">
+
+                <input name="search_in_description" type="hidden" value="1">
+
+               <input name="inc_subcat" type="hidden" value="1">
+
+               <input type="hidden" name="form_type" value="1">
+
+                    <div class="left">Search</div>
+
+                    <div class="right">
+
+                      <div style="float: left; width: 100px;">
+
+               <select name="categories_id" style="width:120px; height:24px;">
+  <option value="" selected="selected">All Categories</option>
+  <option value="13">Brands</option>
+  <option value="14">Auto Diagnostic Tool</option>
+  <option value="15">Auto Locksmith Tool</option>
+  <option value="5">Mileage Programmer</option>
+  <option value="6">ECU Chip Tuning Tool</option>
+  <option value="7">Airbag Reset Tool</option>
+  <option value="16">Auto Repair Software</option>
+  <option value="18">Others</option>
+  <option value="99">Auto Accessories</option>
+  <option value="38">promotion</option>
+</select>
+
+					  </div>
+
+                      <div style="float: left; margin-left:20px;*margin-left:10px;*margin-top:-1.5px;">
+
+                        <input id="autocomplete-query" style="overflow:hidden; zoom:1;width:200px; *width:189px;height: 24px; background:url(images/home_pic3.gif) no-repeat; border:0px;padding-left: 8px; line-height: 24px;" name="keyword" type="text" autocomplete="off">
+
+                      </div>
+
+                      <div style="position: absolute; left:958px; top:4px;">
+
+                        <input src="images/home_pic2.gif" type="image">
+
+                      </div>
+
                     </div>
-</div>
-	<script type="text/javascript">
-	jQuery('#cartContainer').hover(function() {
-	      jQuery('#scQuickEntry').show();
-	      jQuery('#cartContainer').addClass('over');
-	    }, function() {
-	      jQuery('#scQuickEntry').hide();
-	      jQuery('#cartContainer').removeClass('over');
-	    });
-	</script>
-<!--/{CART_SIDEBAR_d165d6f96854719981d6f73ffee64333}-->							</div>
-						</dd>
-					</dl>
-				</div>
-    		</div>
-    		<div class="col2 col2bg">
-    			<div class="c">
-    				<div class="b1"><span><a href="http://www.obdchina.com/info.php?a=credibility#t06" target="_blank">15 Days No Reason To Return</a></span></div>
-    				<div class="b2"><span><a href="http://www.obdchina.com/info.php?a=credibility#t04" target="_blank">Ligtning-fast Delivery</a></span></div>
-    				<div class="b3"><span><a href="http://www.obdchina.com/info.php?a=credibility#t08" target="_blank">Life-time Maintenance</a></span></div>
-    			</div>
-    		</div>
-    		<script type="text/javascript">
-    			jQuery('.header-container .header .row-2-nav-c-box .col2 .c .b1').hover(function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg').addClass('col2bg2');
-    			},function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg2').addClass('col2bg');
-    			});
-    			jQuery('.header-container .header .row-2-nav-c-box .col2 .c .b2').hover(function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg').addClass('col2bg3');
-    			},function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg3').addClass('col2bg');
-    			});
-    			jQuery('.header-container .header .row-2-nav-c-box .col2 .c .b3').hover(function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg').addClass('col2bg4');
-    			},function(){
-    				jQuery('.header-container .header .row-2-nav-c-box .col2').removeClass('col2bg4').addClass('col2bg');
-    			});
-    		</script>
-    	</div>
-    	    </div>
-</div>
-<div id="mainNav" class="w-mainNav  clearfix">
-	<div class="allCates navSp w-mainNavBox">
-	<dl>
-		<dt class="navHome">
-			<a href="http://www.obdchina.com/" class="linkAllCate" title="Home"><span class="navHomeIcon"></span></a>
-		</dt>
-				<dd class="cateWrap">
-			<div class="cate  is_brand"><h2><a href="http://www.obdchina.com/wholesale-brands-c13.html" title="Brands">Brands<span>&nbsp;(324)</span><em></em><label class="split-line"></label></a></h2><div class="subMenu"><div class="subCate  is_brand"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-launch-x431-series-c19.html" title="Launch X431 Series"><img src="http://www.obdchina.com/media//catalog/category/logo_launch_x431_120x40_2.gif"></a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-nanning-yanhua-series-c20.html" title="Nanning Yanhua Series"><img src="http://www.obdchina.com/media//catalog/category/logo_yanhua_120x40_1.gif"></a></h3></dt></dl><br class="clear"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-spx-autoboss-series-c21.html" title="SPX Autoboss Series"><img src="http://www.obdchina.com/media//catalog/category/spx-autoboss-series_1.jpg"></a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-autel-series-c22.html" title="Autel  Series"><img src="http://www.obdchina.com/media//catalog/category/logo_autel_120x40_1.gif"></a></h3></dt></dl><br class="clear"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-lishi-series-c61.html" title="LISHI Series"><img src="http://www.obdchina.com/media//catalog/category/logo_lishi_120x40_1.gif"></a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-xtool-series-c72.html" title="XTool Series"><img src="http://www.obdchina.com/media//catalog/category/logo_xtool_120x40_1.gif"></a></h3></dt></dl><br class="clear"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-jtc-auto-tool-c74.html" title="JTC Auto Tool"><img src="http://www.obdchina.com/media//catalog/category/jtc-auto-tool_1.jpg"></a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-elm327-c102.html" title="ELM327"><img src="http://www.obdchina.com/media//catalog/category/elm327.jpg"></a></h3></dt></dl></div></div></div><div class="cate "><h2><a href="http://www.obdchina.com/wholesale-auto-diagnostic-tool-c14.html" title="Auto Diagnostic Tool">Auto Diagnostic Tool<span>&nbsp;(530)</span><em></em><label class="split-line"></label></a></h2><div class="subMenu"><div class="subCate "><dl><dt><h3><a href="http://www.obdchina.com/wholesale-special-diagnostic-tool-c80.html" title="Special Diagnostic Tool">Special Diagnostic Tool</a></h3></dt><dd class="ddfirst"><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-vagvwaudi-c4.html" title="Diag Tool for VAG">Diag Tool for VAG</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-toyota-c92.html" title="Diag Tool for Toyota">Diag Tool for Toyota</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-benz-c29.html" title="Diag Tool for Benz">Diag Tool for Benz</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-porsche-c63.html" title="Diag Tool for Porsche">Diag Tool for Porsche</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-nissan-c73.html" title="Diag Tool for Nissan">Diag Tool for Nissan</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-bmw-c76.html" title="Diag Tool for BMW">Diag Tool for BMW</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-volvo-c94.html" title="Diag Tool for Volvo">Diag Tool for Volvo</a></h4></dd></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-universal-diagnostic-tool-c85.html" title="Universal Diagnostic Tool">Universal Diagnostic Tool</a></h3></dt><dd class="ddfirst"><h4><a href="http://www.obdchina.com/wholesale-car-universal-diag-tool-c86.html" title="Car Universal Diag Tool">Car Universal Diag Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-heavyduty-diag-tool-c87.html" title="Heavy-duty Diag Tool">Heavy-duty Diag Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-motocycle-diag-tool-c88.html" title="Motocycle Diag Tool">Motocycle Diag Tool</a></h4></dd></dl><br class="clear"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-auto-code-scanner-c11.html" title="Obd2 Code Scanner">Obd2 Code Scanner</a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-cables-and-others-c30.html" title="Cables and Others">Cables and Others</a></h3></dt></dl></div></div></div><div class="cate "><h2><a href="http://www.obdchina.com/wholesale-auto-locksmith-tool-c15.html" title="Auto Locksmith Tool">Auto Locksmith Tool<span>&nbsp;(412)</span><em></em><label class="split-line"></label></a></h2><div class="subMenu"><div class="subCate "><dl><dt><h3><a href="http://www.obdchina.com/wholesale-car-key-programmer-c95-20.html" title="Car Key Programmer">Car Key Programmer</a></h3></dt></dl><dl><dt><h3><a href="http://www.obdchina.com/wholesale-auto-service-c79.html" title="Auto Service">Auto Service</a></h3></dt><dd class="ddfirst"><h4><a href="http://www.obdchina.com/wholesale-key-cutting-machine-c32.html" title="Key Cutting Machine">Key Cutting Machine</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-pin-code-reader-tool-c33.html" title="Pin Code Reader Tool">Pin Code Reader Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-lock-picks-c37.html" title="Lock Picks">Lock Picks</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-immo-emulator-c98.html" title="Immo Emulator">Immo Emulator</a></h4></dd></dl><br class="clear"><dl><dt><h3><a href="http://www.obdchina.com/wholesale-car-chip-eprom-c35.html" title="Car Chip &amp; Eprom">Car Chip &amp; Eprom</a></h3></dt></dl></div></div></div><div class="cate "><h2><a href="http://www.obdchina.com/wholesale-mileage-programmer-c5.html" title="Mileage Programmer">Mileage Programmer<span>&nbsp;(63)</span><em></em><label class="split-line"></label></a></h2></div><div class="cate "><h2><a href="http://www.obdchina.com/wholesale-ecu-chip-tuning-tool-c6.html" title="ECU Chip Tuning Tool">ECU Chip Tuning Tool<span>&nbsp;(138)</span><em></em><label class="split-line"></label></a></h2></div>			<div class="cate allcategorieswrapper last">
-				<h2><a href="">All Categories<em></em></a></h2>
-				<div class="subMenu" style="width: 900px; top: 37px; display: none; left:-785px;">
-					<div class="subCate">
-						<div class="allcategoriesbox">
-		<div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-auto-diagnostic-tool-c14.html" title="Auto Diagnostic Tool">Auto Diagnostic Tool<span>&nbsp;(530)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-special-diagnostic-tool-c80.html" title="Special Diagnostic Tool">Special Diagnostic Tool</a></h3></dt><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-vagvwaudi-c4.html" title="Diag Tool for VAG">Diag Tool for VAG</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-toyota-c92.html" title="Diag Tool for Toyota">Diag Tool for Toyota</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-benz-c29.html" title="Diag Tool for Benz">Diag Tool for Benz</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-porsche-c63.html" title="Diag Tool for Porsche">Diag Tool for Porsche</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-nissan-c73.html" title="Diag Tool for Nissan">Diag Tool for Nissan</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-bmw-c76.html" title="Diag Tool for BMW">Diag Tool for BMW</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-diag-tool-for-volvo-c94.html" title="Diag Tool for Volvo">Diag Tool for Volvo</a></h4></dd></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-universal-diagnostic-tool-c85.html" title="Universal Diagnostic Tool">Universal Diagnostic Tool</a></h3></dt><dd><h4><a href="http://www.obdchina.com/wholesale-car-universal-diag-tool-c86.html" title="Car Universal Diag Tool">Car Universal Diag Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-heavyduty-diag-tool-c87.html" title="Heavy-duty Diag Tool">Heavy-duty Diag Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-motocycle-diag-tool-c88.html" title="Motocycle Diag Tool">Motocycle Diag Tool</a></h4></dd></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-auto-code-scanner-c11.html" title="Obd2 Code Scanner">Obd2 Code Scanner</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-cables-and-others-c30.html" title="Cables and Others">Cables and Others</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-auto-locksmith-tool-c15.html" title="Auto Locksmith Tool">Auto Locksmith Tool<span>&nbsp;(412)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-car-key-programmer-c95-20.html" title="Car Key Programmer">Car Key Programmer</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-auto-service-c79.html" title="Auto Service">Auto Service</a></h3></dt><dd><h4><a href="http://www.obdchina.com/wholesale-key-cutting-machine-c32.html" title="Key Cutting Machine">Key Cutting Machine</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-pin-code-reader-tool-c33.html" title="Pin Code Reader Tool">Pin Code Reader Tool</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-lock-picks-c37.html" title="Lock Picks">Lock Picks</a></h4></dd><dd><h4><a href="http://www.obdchina.com/wholesale-immo-emulator-c98.html" title="Immo Emulator">Immo Emulator</a></h4></dd></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-car-chip-eprom-c35.html" title="Car Chip &amp; Eprom">Car Chip &amp; Eprom</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-car-electronic-tool-c45.html" title="Car Electronic Tool">Car Electronic Tool<span>&nbsp;(295)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-endoscope-c60.html" title="Endoscope">Endoscope</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-car-cleaning-c47.html" title="Car cleaning">Car cleaning</a></h3></dt></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-others-c48.html" title="others">others</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-testing-meters-c49.html" title="Testing Meters">Testing Meters</a></h3></dt></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-refrigerant-handling-system-c50.html" title="Refrigerant Handling System">Refrigerant Handling System</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-cmos-cable-c62.html" title="CMOS Cable">CMOS Cable</a></h3></dt></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-battery-tester-c64.html" title="Battery Tester">Battery Tester</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-densitometer-c93.html" title="Densitometer">Densitometer</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-auto-electronics-c55.html" title="Auto Electronics">Auto Electronics<span>&nbsp;(350)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-car-led-lights-c51.html" title="Car Led Lights">Car Led Lights</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-motorcycle-gadgets-c52.html" title="Motorcycle Gadgets">Motorcycle Gadgets</a></h3></dt></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-led-c56.html" title="LED">LED</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-gps-c57.html" title="GPS">GPS</a></h3></dt></dl><br class="clear"><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-mp3-adapter-c58.html" title="MP3 Adapter">MP3 Adapter</a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-car-inverter-c59.html" title="Car Inverter">Car Inverter</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-auto-accessories-c99.html" title="Auto Accessories">Auto Accessories<span>&nbsp;(88)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-spark-plug-c100.html" title="Spark Plug">Spark Plug</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-mileage-programmer-c5.html" title="Mileage Programmer">Mileage Programmer<span>&nbsp;(63)</span><em class="dow_ico"></em></a></h2></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-ecu-chip-tuning-tool-c6.html" title="ECU Chip Tuning Tool">ECU Chip Tuning Tool<span>&nbsp;(138)</span><em class="dow_ico"></em></a></h2></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-auto-special-tool-c75.html" title="Auto Special Tool">Auto Special Tool<span>&nbsp;(84)</span><em class="dow_ico"></em></a></h2></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-promotion-c38.html" title="promotion">promotion<span>&nbsp;(190)</span><em class="dow_ico"></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/2013-year-end-clearance-sales.html" title="2013 Year-End Clearance Sales">2013 Year-End Clearance Sales</a></h3></dt></dl></div></div></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-airbag-reset-tool-c7.html" title="Airbag Reset Tool">Airbag Reset Tool<span>&nbsp;(37)</span><em class="dow_ico"></em></a></h2></div><div class="cate2"><h2><a href="http://www.obdchina.com/wholesale-unit-testing-meters-c17.html" title="UNI-T Testing Meters">UNI-T Testing Meters<span>&nbsp;(24)</span><em class="dow_ico"></em></a></h2></div><div class="cate2 last"><h2><a href="http://www.obdchina.com/wholesale-others-c18.html" title="Others">Others<span>&nbsp;(141)</span><em class="dow_ico"></em></a></h2></div><br class="clear"><div class="cate2 allcategory_brand"><h2><a href="http://www.obdchina.com/wholesale-brands-c13.html">Brands<span>&nbsp;(324)</span><em></em></a></h2><div class="subMenu2"><div class="subCate"><dl class="firstdd"><dt><h3><a href="http://www.obdchina.com/wholesale-launch-x431-series-c19.html" title="Launch X431 Series"><img src="http://www.obdchina.com/media//catalog/category/logo_launch_x431_120x40_2.gif"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-nanning-yanhua-series-c20.html" title="Nanning Yanhua Series"><img src="http://www.obdchina.com/media//catalog/category/logo_yanhua_120x40_1.gif"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-spx-autoboss-series-c21.html" title="SPX Autoboss Series"><img src="http://www.obdchina.com/media//catalog/category/spx-autoboss-series_1.jpg"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-autel-series-c22.html" title="Autel  Series"><img src="http://www.obdchina.com/media//catalog/category/logo_autel_120x40_1.gif"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-lishi-series-c61.html" title="LISHI Series"><img src="http://www.obdchina.com/media//catalog/category/logo_lishi_120x40_1.gif"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-xtool-series-c72.html" title="XTool Series"><img src="http://www.obdchina.com/media//catalog/category/logo_xtool_120x40_1.gif"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-jtc-auto-tool-c74.html" title="JTC Auto Tool"><img src="http://www.obdchina.com/media//catalog/category/jtc-auto-tool_1.jpg"></a></h3></dt></dl><dl class=""><dt><h3><a href="http://www.obdchina.com/wholesale-elm327-c102.html" title="ELM327"><img src="http://www.obdchina.com/media//catalog/category/elm327.jpg"></a></h3></dt></dl></div></div></div>	</div></div></div></div></dd></dl>
-</div>	
-					</div>
-				</div>
-			</div>
+
+                
+
+				</form>
+
+                  
+
+  </div> 
+
+ </div>
+
+           
+
+           
+
+
+
+
+
+              
+
+  </div> 
+
+
+<div class="bodyccc-wrap">
+
+<div class="bodyccc">
+
+<!-- bof tpl_privacy_policy_default.php -->
+	<div class="centerColumn" id="privacy_policy">
+
+		<div id="privacy_policy-content" class="content">
 		
-			
+<!--top start-->
 
-<script>
-	var specialOfferWidth = 180;
-	var colWidth = 210;
-	var borderWidth = 2;
-	
-	(function($){
-		$().ready(function(){
-			$('.allCates div.cate').hover(function(){
-				
-				if($(this).find('.subMenu').length){
-					
-					$(this).find('.subMenu').css({'width':(function(col,special){
-						return (colWidth*(col>=2?2:1)+specialOfferWidth*(special>0?1:0))+'px';
-					})( $(this).find('.subMenu .subCate dl').length, $(this).find('.subMenu .specialOffer').length) } );
-					
-					$(this).find('.subMenu').css({'top':'37px'});
-					$(this).addClass('hover').find('h2 a em').show().end().find('.subMenu').show();
-					//
-					_class = $(this).attr('class');
-					
-					if(_class.indexOf('allcategorieswrapper')>0){ //all category
-						$(this).find('.subMenu').css({'width':'920px','left':'-801px'});
-					}else if(_class.indexOf('is_brand')>0){ //brand
-						$(this).find('.subMenu').css({'width':'340px'});
-					}
-					
-				}else{
-					$(this).addClass('hover').find('h2 a em').hide();
-				}
-			},function(){
-				if($(this).find('.subMenu').length){
-					//$(this).removeClass('hover').find('.subMenu').hide().end().find('h2 a em').hide();
-					$(this).removeClass('hover').find('.subMenu').hide().end();
-				}else{
-					$(this).removeClass('hover');
-				}
-				
-			});
-		});
-	})(jQuery);
-	
-	</script>	
+<!--main start-->
+<div class="main">
+ <!--left start-->
+ <div class="main_l">
+   <div class="wrap_menu">
+     <dl class="mod_menu">
+       <dt class="mod_hd">
+         <h3>Company Info </h3>
+       </dt>
+       <dd class="mod_bd">
+         <ul class="list_menu"><li><a href="http://www.obddiscount.com/about_us.html" target="_blank">About us</a></li>
+           <li><a href="http://www.obddiscount.com/our_customers.html" target="_blank">Our Customers</a></li>
+           <li><a href="http://www.obddiscount.com/faqs_all.html?fcPath=19" target="_blank">FAQ</a></li>
+           <li><a rel="nofollow" href="http://www.obddiscount.com/faqs_all.html" target="_blank"><font><font>Help Center</font></font></a></li>
+         </ul>
+       </dd>
+     </dl>
+     
+     
+     <dl class="mod_menu">
+       <dt class="mod_hd">
+         <h3>Customer Service</h3>
+       </dt>
+       <dd class="mod_bd">
+         <ul class="list_menu"><li><a rel="nofollow" href="http://www.obddiscount.com/contact_us.html" target="_blank">Contact Us</a></li>
+           <li class="status_hover"><a rel="nofollow" href="http://www.obddiscount.com/faq_info.html?faqs_id=59" target="_blank"><font><font>Shopping Guide</font></font></a></li>
+           <li><a href="http://www.obddiscount.com/shippinginfo.html" target="_blank">Dropship</a><a href="dropship.html" target="_blank"></a></li>
+           <li><a href="http://remoteareas.dhl.com/jsp/first.jsp" target="_blank">Remote Area</a><a href="#" target="_blank"></a></li>
+         </ul>
+       </dd>
+     </dl>
+     
+     <dl class="mod_menu">
+       <dt class="mod_hd">
+         <h3>Company policies</h3>
+       </dt>
+       <dd class="mod_bd">
+         <ul class="list_menu">
+           <li><a href="#" target="_blank">shipping and handing</a></li>
+           <li><a rel="nofollow" href="http://www.obddiscount.com/index.php?main_page=faq_info&amp;faqs_id=151" target="_blank"><font><font>Payment Methods</font></font></a></li>
+           <li><a href="http://www.obddiscount.com/warranty_policy.html" target="_blank">Warranty Policy</a><a href="#" target="_blank"></a></li>
+           <li><a rel="nofollow" href="http://www.obddiscount.com/faq_info.html?faqs_id=93&amp;fcPath=16" target="_blank">Return Policy</a></li>
+         </ul>
+       </dd>
+     </dl>
+     
+     <dl class="mod_menu">
+       <dt class="mod_hd">
+         <h3>Security &amp; Privacy</h3>
+       </dt>
+       <dd class="mod_bd">
+         <ul class="list_menu">
+           <li><a href="http://www.obddiscount.com/privacy.html" target="_blank">Privacy Policy</a></li>
+           <li><a href="http://www.obddiscount.com/term_of_use.html" target="_blank">Terms of use</a></li>
+         </ul>
+       </dd>
+     </dl>
+     
+   </div>
+ </div>
+ <!--left end-->
+ 
+ <!--right start-->
+ <div class="main_r">
+ <div class="page-title">
+   <h1><font><font>Privacy Policy</font></font></h1><div><font><font><p align="center" class="MsoNormal" style="text-align: center;">&nbsp;<span lang="EN-US"><o:p></o:p></span></p>
 
-<div id="secNav" class="w-secNav clearfix">
-	<div id="secNavWrapper">
-		<div class="secNav-n">
-			<ul>
-				<!--<li class="first"><a href="http://www.obdchina.com/products/new/" title="New Arrival">New Arrival</a></li>
-				<li class="seg">.</li>-->
-				<li class="first"><a href="http://www.obdchina.com/wholesale-promotion-c38.html">Monthly Clearance</a></li>
-				<li class="seg">.</li>
-				<!--<li><a href="">Tech Support</a></li>
-				<li class="seg">.</li>-->
-				<li><a href="http://www.obdchina.com/obdchina-payment-method.html" title="Payment">Payment</a></li>
-				<li class="seg">.</li>
-				<li><a href="http://www.obdchina.com/contact-us.html" title="Contact Us">Contact Us</a></li>
-				<li class="seg">.</li>
-				<li class="last"><a href="http://www.obdchina.com/info.php?a=credibility" title="Our Guarantee" target="_blank" style="color:#FF0000;">Our Guarantee</a></li>
-			</ul>
-		</div>
-		<div class="mainSearch ">
-			<div id="searchWrap" class="">
-				<div id="searchWrapInner" class="">
-					 <form id="search_mini_form" action="http://www.obdchina.com/catalogsearch/result/" class="" method="get">
-    <div class="form-search">
-    	<select name="cat" id="cat">
-           <option value="">All Categories</option>
-           <option value="192">Brands</option>
-<option value="200">Mileage Programmer</option>
-<option value="201">ECU Chip Tuning Tool</option>
-<option value="202">Airbag Reset Tool</option>
-<option value="203">Auto Diagnostic Tool</option>
-<option value="222">Auto Locksmith Tool</option>
-<option value="240">UNI-T Testing Meters</option>
-<option value="241">Others</option>
-<option value="242">promotion</option>
-<option value="243">Car Electronic Tool</option>
-<option value="252">Auto Electronics</option>
-<option value="259">Auto Special Tool</option>
-<option value="265">Auto Accessories</option>
-        </select>
-        <input id="search" type="text" name="q" value="" class="input-text searchArea" maxlength="128">
-        <p class="searchBtnWrap">
-        	<button type="submit" style="height:25px;" title="Search" class="searchBtn navSp"><span class="ir">Search</span></button></p>
-        
-        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
-            searchForm.initAutocomplete('http://www.obdchina.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
-        
-    </div>
-</form>
-				</div>
-			</div>
+<p align="left" class="MsoNormal"><b><span lang="EN-US">obddiscount.com</span></b><span lang="EN-US"> take your
+privacy very seriously and we will not share any information you give us with
+anyone else unless required by law. We will never sell, rent or otherwise
+distribute the information that you or your users submit on our website. We
+take your privacy seriously and we want you to feel comfortable using our
+services.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">ABOUT US<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">OBDDiscount &nbsp; is a registered trade-based company.we are
+the largest distributor and wholesaler of the OBD and locksmith products to the
+worldwide from China.Based with the advanced production and quality system,the
+sufficient stock and professional technical experts support,OBDDISCOUNT provide
+our every customer with the highest quality product and service.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">Our major
+product categories include:car professional diagnostic equipment, automotive
+universal equipment, obd scanner, auto repair data, Mileage Programmer, auto
+key programmer, key cutter, car chip, key, ecu programmer, automotive
+electronics etc.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal" style="margin: 2.4pt 2.4pt 0.0001pt 0cm;"><span lang="EN-US">Our
+major product manufacturers include:Launch X431, Autoboss,Autel,Xtool,LISHI,NanNing
+YanHua, etc.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">Our
+products are sold to hundreds thousands of resellers and end-users in more than
+200 countries and regions.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">In order
+to provide you with the best products, efficient and quality customer services,
+and timely updates,we record a variety of information from your visit in our
+site. Thank you for accessing the website of obddiscount.com (The"Site").We
+respect your privacy and protect your personal information. To know more, please
+read our Privacy Notice.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">OBDDiscount.COM PRIVACY POLICY <o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">To better
+protect your privacy, we provide the notice below explaining our online
+information practices and the choices you can make about the way your
+information is collected and used. <o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">This
+Privacy Notice explains how we collect, use, and (under certain conditions)
+disclose your personal information. This Privacy Notice also explains the steps
+we have taken to secure your personal information. Finally, this Privacy Notice
+explains your options regarding the collection, use, and disclosure of your
+personal information. By visiting our Site, you accept the practices described
+in this Notice.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">This
+Privacy Notice only applies to this Site. This privacy policy does not
+necessarily apply to our offline collection of your personal information.
+Please see below for details. We are not responsible for the content or privacy
+practices on any non-obddiscount.com website to which this site links or that
+links to this Site.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">Information Collection And Use<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">1.
+Information Collection. We collect information from you in several different
+ways on this Site. One goal in collecting personal information from you is to
+provide an efficient, meaningful, and customized experience. For example, we
+can use your personal information to:<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">* Help
+make this Site easier for you to use by not having to enter information more
+than once.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">* Help
+you quickly find information, products, and services.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">* Help
+us create content on this Site that is most relevant to you.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">* Alert
+you to new information, products, and services that we offer.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(a)
+Registration and Ordering. Before using certain parts of this Site or ordering
+products, you must complete an online registration form. During registration,
+you will be prompted to provide us with certain personal information, including
+but not limited to your name, shipping and billing address(es), phone number,
+email address, and credit card number. In addition, we may also ask you for
+your country of residence and/or your organization's country of operation, so
+that we can comply with applicable laws and regulations, and for your gender.
+These kinds of personal information are used for billing purposes, to fulfill
+your orders, to communicate with you about your order and our Site, and for
+internal marketing purposes. If we encounter a problem when processing your
+order, we may use the personal information you provide us with to contact you.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(b)
+Email Addresses. Several locations of the Site permit you to enter your email
+address for purposes including but not limited to: to register for free
+promotional notices; to request us to notify you when we receive a new brand,
+or new product style; to sign up for our email newsletter. Your participation
+in a contest is completely voluntary, and you may choose whether to participate
+and disclose information to us. We use this information to notify contest
+winners and to award prizes. We may post the names and cities of contest
+winners on our Site.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(c)
+Cookies and Other Technology. Like many sites, this Site employs cookies and
+web beacons (also known as clear GIF technology or "action tags") to
+speed your navigation of the Site, recognize you and your access privileges,
+and track your Site usage.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(i)
+Cookies are small pieces of information that are stored as text files by your
+Internet browser on your computer's hard drive. Most Internet browsers are
+initially set to accept cookies. You can set your browser to refuse cookies
+from websites or to remove cookies from your hard drive, but if you do, you
+will not be able to access or use portions of this Site. We have to use cookies
+to enable you to select products, place them in an online shopping cart, and to
+purchase those products. If you do this, we keep a record of your browsing
+activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A
+USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are
+not "spyware."<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(ii) Web
+beacons assist in delivering cookies and help us determine whether a web page
+on this Site has been viewed and, if so, how many times. For example, any
+electronic image on this Site, such as an ad banner, can function as a web
+beacon.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(iii) We
+may use third-party advertising companies to help us tailor site content to
+users or to serve ads on our behalf. These companies may employ cookies and web
+beacons to measure advertising effectiveness (such as which web pages are
+visited or what products are purchased and in what amount). Any information
+that these third parties collect via cookies and web beacons is not linked to
+any personal information collected by us.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(d) Log
+Files. As is true of most websites, the Site server automatically recognizes
+the Internet URL from which you access this Site. We may also log your Internet
+protocol ("IP") address, Internet service provider, and date/time
+stamp for system administration, order verification, internal marketing, and
+system troubleshooting purposes. (An IP address may indicate the location of
+your computer on the Internet.)<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(e) Age.
+We respect children's privacy. We do not knowingly or intentionally collect
+personal information from children under age 13. Elsewhere on this Site, you
+have represented and warranted that you are either 18 years of age or using the
+Site with the supervision of a parent or guardian. If you are under the age of
+13, please do not submit any personal information to us, and rely on a parent
+or guardian to assist you.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(f)
+Product Reviews. You may choose to submit a product review. If you post a
+review, we will ask for your email address and geographic location. If you
+submit a review, your geographic location will be visible to other users (your
+email address will be kept private). Also, any personally identifiable
+information that you submit as part of the review can be read or used by other
+visitors to the Site. We are not responsible for any personally identifiable
+information that you choose to submit as part of your review. We believe you
+can post a helpful review without disclosing any personal information.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">2. Information Use and Disclosure.<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(a)
+Internal Use. We use your personal information to process your order and
+provide you with customer service. We may internally use your personal
+information to improve our Site's content and layout, to improve our outreach
+and for our own marketing efforts (including marketing our services and
+products to you), and to determine general marketplace information about
+visitors to this Site.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(b)
+Communications with You: We will use your personal information to communicate
+with you about our site, and your orders and deliveries. Also, we may send you
+a confirmation email when you register with us. We may send you a
+service-related announcement on the rare occasions when it is necessary (for
+example, if we must temporarily suspend our service for maintenance.) Also, you
+may submit your email address for reasons such as to request us to notify you
+when we receive a new brand, new product style, or product; to sign up for our
+email newsletter and special offers. If you submit your email address, we will
+use it to deliver the information to you. We always permit you to unsubscribe
+or opt out of future emails (see opt out section below for more details).
+Because we have to communicate with you about orders that you choose to place,
+you cannot opt out of receiving emails related to your orders.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(c)
+External Use. We want to provide you with excellent service and to offer you a
+great selection — we primarily sell merchandise, not information. We do not
+sell, rent, trade, license, or otherwise disclose your specific personal
+information or financial information to anyone, except that:<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(i) As
+do most catalog and Internet wholesalers, we sometimes use others to perform
+specific functions on our behalf. When we disclose information to these service
+providers, we disclose information to help them to perform their service. For
+example, in order to deliver products to you, we must share some information.
+We partner with third parties (such as DHL, and UPS) to ship products, to
+ensure delivery, and so that we can obtain feedback, improve the quality of our
+service, and measure and improve the quality of the service of the third party.
+In the example of shippers, we provide them some personally identifiable
+information such as your name, shipping address, email, and phone number.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(ii)
+Similarly, to help you buy products and provide customer service to you, we
+must provide your credit card number to financial-services corporations such as
+credit-card processors and issuers. When we submit your credit card number for
+authorization, we use state-of-the-art data encryption to protect your
+information. (More on this below in the Data Security section.)<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(iii) We
+may be required to disclose such information in response to requests from
+law-enforcement officials conducting investigations, subpoenas, a court order,
+or if we are otherwise required to disclose such information by law. We also
+will release personal information where disclosure is necessary to protect our
+legal rights, enforce our Terms of Use or other agreements, or to protect
+ourselves or others. For example, we may share information to reduce the risk
+of fraud or if someone uses or attempts to use our Site for illegal reasons or
+to commit fraud.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(iv) We
+will not sell (or trade or rent) personally identifiable information to other
+companies as part of our regular course of business. However, it is possible
+that we might acquire or merge with or be acquired by another company or that
+we might dispose of some or all of our assets. If that happens, your personal
+information may be disclosed to another company, but that disclosure will be
+subject to the Privacy Notice in effect.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">(v) We
+may share non-personal information (such as the number of daily visitors to a
+particular web page, or the size of an order placed on a certain date) with
+third parties such as advertising partners. This information does not directly
+personally identify you or any user.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US" style="font-size: 12pt;">DATA SECURITY<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">This
+Site incorporates physical, electronic, and administrative procedures to
+safeguard the confidentiality of your personal information, including Secure
+Sockets Layer ("SSL") for all financial transactions through this
+Site. We use SSL encryption to protect your personal information online, and we
+also take several steps to protect your personal information in our facilities.
+Access to your personal information is restricted. Only employees who need
+access to your personal information to perform a specific job are granted
+access to your personal information. Finally, we rely on third-party service
+providers for the physical security of some of our computer hardware. We
+believe that their security procedures are adequate. For example, when you
+visit our Site, you access servers that are kept in a secure physical
+environment, behind a locked cage and an electronic firewall. <o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">While we
+use industry-standard precautions to safeguard your personal information, we
+cannot guarantee complete security. 100% complete security does not presently
+exist anywhere online or offline.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">OPT OUT/CORRECTIONS<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">Upon
+your request, we will (a) correct or update your personal information; (b) stop
+sending emails to your email address; and/or (c) disable your account to
+prevent any future purchases through that account. You can make these requests
+at the customer information section, or by telephoning, or emailing your
+request to OBDDISCOUNT’s Customer Support department at sales@obddiscount.com.
+Please do not email your credit card number or other sensitive information.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">OFFLINE COLLECTION, USE &amp; DISCLOSURE OF
+INFORMATION<o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">As you
+might expect from obddiscount.com, the majority of information that we collect is
+obtained through our Site, and this Privacy Policy applies only to that online
+collection of personal information. We also try to protect the privacy of you
+personal information that is collected offline. For example, customers may call
+us to place an order or to ask questions. During the call, we will ask only for
+the personal information we need in order to place the order or to answer the
+question. When we need to store information (such as order information), we
+will enter it into our database through SSL encryption (See the Data Security
+section above for more information). There are other ways we could learn of
+personal information offline (for example, we suppose someone could send us a
+letter including some return address information), and this Policy does not
+discuss or try to predict all of those methods or uses. As mentioned, we
+primarily sell merchandise, not information, and we will try to treat offline
+collection, uses, and disclosures consistently with our relevant online
+practices.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">CHANGES TO THIS PRIVACY POLICY <o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">This
+privacy policy is subject to change. If we make any substantive changes in the
+way that we use the information collected through the Site or the Service, we
+will post a clear and conspicuous notice of those changes on the Site and in
+this privacy policy.<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+<p align="left" class="MsoNormal"><b><span lang="EN-US">CHOICE AND OPT-OUT <o:p></o:p></span></b></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">If you
+no longer wish to receive the Company's promotional communications, you may
+"opt-out" of receiving them by following the instructions included in
+each communication or by e-mailing the Company at sales@obddiscount.com<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">&nbsp;<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US">All right
+reserved by OBDDISCOUNT website!<o:p></o:p></span></p>
+
+<p align="left" class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p></font></font></div></div>
+ </div>
+ <!--right end-->
+ <div class="clear"></div>
+</div>
+           
+<!--main end-->
+
+
+
 		</div>
 	</div>
-</div>
-<script type="text/javascript">
-jQuery('.header_live_chat,#uniLanguage').hover(function(){
-			jQuery(this).find('ul').show();
-		},function(){
-			jQuery(this).find('ul').hide();
-		}
-	); 
-</script>        <div class="main-container col1-layout">
-            <div class="main">
-                <!--{PAGE_BREADCRUMBS_543a5b6e41f0aa0c0796e05a9f7735b4}-->
-<div id="breadcrumb">
-	<ul class="w-breadcrumb clearfix">
-									<li class="home">
-					<a title="Go to Home Page" href="http://www.obdchina.com/"><span></span><i></i></a>
-				</li>
-												<li class="root">
-					<a title="Privacy Policy" href="">Privacy Policy<i></i></a>
-				</li>
-						</ul>
-	</div>
-<!--/{PAGE_BREADCRUMBS_543a5b6e41f0aa0c0796e05a9f7735b4}-->                <div class="col-main">
-                    <!--{GLOBAL_MESSAGES_44c0cbfd4b9a17cc501db910d6f1688c}--><!--/{GLOBAL_MESSAGES_44c0cbfd4b9a17cc501db910d6f1688c}-->                        <div class="page-title">
-        <h1>OBDchina Privacy Policy</h1>
-    </div>
-<!--{MESSAGES_15a4736887ce772df3b5262cb3ebe3b8}--><!--/{MESSAGES_15a4736887ce772df3b5262cb3ebe3b8}--><p style="text-align: left;" align="center"><strong style="color: #000000;">obdchina.com</strong><span style="color: #000000;"> take your privacy very seriously and we will not share any information you give us with anyone else unless required by law. We will never sell, rent or otherwise distribute the information that you or your users submit on our website. We take your privacy seriously and we want you to feel comfortable using our services.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>ABOUT US</strong></span></p>
-<p align="left"><span style="color: #000000;">OBDCHINA LLC (“OBDCHINA”, ”we”, ”us”,”our”) is a registered trade-based company.we are the largest distributor and wholesaler of the OBD and locksmith products to the worldwide from China.Based with the advanced production and quality system,the sufficient stock and professional technical experts support,OBDCHINA provide our every customer with the highest quality product and service.</span></p>
-<p align="left"><span style="color: #000000;">Our major product categories include:car professional diagnostic equipment, automotive universal equipment, obd scanner, auto repair data, Mileage Programmer, auto key programmer, key cutter, car chip, key, ecu programmer, automotive electronics etc.</span></p>
-<p align="left"><span style="color: #000000;">Our major product manufacturers include:Launch X431, Autoboss,Autel,Xtool,LISHI,NanNing YanHua, etc.</span></p>
-<p align="left"><span style="color: #000000;">Our products are sold to hundreds thousands of resellers and end-users in more than 200 countries and regions.</span></p>
-<p align="left"><span style="color: #000000;">In order to provide you with the best products, efficient and quality customer services, and timely updates,we record a variety of information from your visit in our site. Thank you for accessing the website of obdchina.com (The"Site").We respect your privacy and protect your personal information. To know more, please read our Privacy Notice.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>OBDCHINA.COM PRIVACY POLICY </strong></span></p>
-<p align="left"><span style="color: #000000;">To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.</span></p>
-<p align="left"><span style="color: #000000;">This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.</span></p>
-<p align="left"><span style="color: #000000;">This Privacy Notice only applies to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-obdchina.com website to which this site links or that links to this Site.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>Information Collection And Use</strong></span></p>
-<p align="left"><span style="color: #000000;">1. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:</span></p>
-<p align="left"><span style="color: #000000;">* Help make this Site easier for you to use by not having to enter information more than once.</span></p>
-<p align="left"><span style="color: #000000;">* Help you quickly find information, products, and services.</span></p>
-<p align="left"><span style="color: #000000;">* Help us create content on this Site that is most relevant to you.</span></p>
-<p align="left"><span style="color: #000000;">* Alert you to new information, products, and services that we offer.</span></p>
-<p align="left"><span style="color: #000000;">(a) Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide us with certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our Site, and for internal marketing purposes. If we encounter a problem when processing your order, we may use the personal information you provide us with to contact you.</span></p>
-<p align="left"><span style="color: #000000;">(b) Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for free promotional notices; to request us to notify you when we receive a new brand, or new product style; to sign up for our email newsletter. Your participation in a contest is completely voluntary, and you may choose whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post the names and cities of contest winners on our Site.</span></p>
-<p align="left"><span style="color: #000000;">(c) Cookies and Other Technology. Like many sites, this Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.</span></p>
-<p align="left"><span style="color: #000000;">(i) Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THIS SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."</span></p>
-<p align="left"><span style="color: #000000;">(ii) Web beacons assist in delivering cookies and help us determine whether a web page on this Site has been viewed and, if so, how many times. For example, any electronic image on this Site, such as an ad banner, can function as a web beacon.</span></p>
-<p align="left"><span style="color: #000000;">(iii) We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.</span></p>
-<p align="left"><span style="color: #000000;">(d) Log Files. As is true of most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)</span></p>
-<p align="left"><span style="color: #000000;">(e) Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.</span></p>
-<p align="left"><span style="color: #000000;">(f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>2. Information Use and Disclosure.</strong></span></p>
-<p align="left"><span style="color: #000000;">(a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;">(b) Communications with You: We will use your personal information to communicate with you about our site, and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product; to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;">(c) External Use. We want to provide you with excellent service and to offer you a great selection — we primarily sell merchandise, not information. We do not sell, rent, trade, license, or otherwise disclose your specific personal information or financial information to anyone, except that:</span></p>
-<p align="left"><span style="color: #000000;">(i) As do most catalog and Internet wholesalers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as DHL, and UPS) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.</span></p>
-<p align="left"><span style="color: #000000;">(ii) Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in the Data Security section.)</span></p>
-<p align="left"><span style="color: #000000;">(iii) We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.</span></p>
-<p align="left"><span style="color: #000000;">(iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it is possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Notice in effect.</span></p>
-<p align="left"><span style="color: #000000;">(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>DATA SECURITY</strong></span></p>
-<p align="left"><span style="color: #000000;">This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.</span></p>
-<p align="left"><span style="color: #000000;">While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>OPT OUT/CORRECTIONS</strong></span></p>
-<p align="left"><span style="color: #000000;">Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to OBDCHINA’s Customer Support department at service@obdchina.com. Please do not email your credit card number or other sensitive information.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>OFFLINE COLLECTION, USE &amp; DISCLOSURE OF INFORMATION</strong></span></p>
-<p align="left"><span style="color: #000000;">As you might expect from obdchina.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>CHANGES TO THIS PRIVACY POLICY </strong></span></p>
-<p align="left"><span style="color: #000000;">This privacy policy is subject to change. If we make any substantive changes in the way that we use the information collected through the Site or the Service, we will post a clear and conspicuous notice of those changes on the Site and in this privacy policy.</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;"><strong>CHOICE AND OPT-OUT </strong></span></p>
-<p align="left"><span style="color: #000000;">If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at service@obchina.com</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>
-<p align="left"><span style="color: #000000;">All right reserved by OBDCHINA website!</span></p>
-<p align="left"><span style="color: #000000;">&nbsp;</span></p>                </div>
-				            </div>
-        </div>
-        <div class="footer-container-row1">
-	<div class="fcrc">
-		<div id="mini-joinOurCommunity" class="w-joinOurCommunity widget">
-<ul>
-<li id="mini-google" class="mini-google"><a href="https://plus.google.com/u/0/b/115552444103403339583/115552444103403339583/posts" rel="nofollow" target="_blank">add us (+1) Google Plus</a></li>
-<li class="mini-twitter"><a href="http://twitter.com/OBDChina" rel="nofollow" target="_blank">talk to @obdchina Twitter</a></li>
-<li class="mini-facebook"><a href="http://facebook.com/OBDChinafans" rel="nofollow" target="_blank">engage with <br>us daily Facebook</a></li>
-<li class="mini-youtube"><a href="http://youtube.com/OBDChinaVideos" rel="nofollow" target="_blank">watch our <br>videos Youtube</a></li>
-<li class="mini-likendin"><a href="http://www.linkedin.com/in/obdchina" rel="nofollow" target="_blank">for wholesale &amp; distribution Linkedin</a></li>
-</ul>
-</div>	</div>
-</div>
+<!-- eof tpl_privacy_policy_default.php -->
 <div class="footer-container">
-    <div class="footer">
-        <div id="siteEntries" class="clear">
-        	<!--
-        	<div id="productGuide">
-				<h3>Compare Products and Vote Now!</h3>
-<p><a target="_top">Vote for Products</a> | <a target="_top">New Products</a> | <a target="_top">Product Reviews</a></p>
-<h4>Hot Categories</h4>
-<p><a target="_top">Wedding dresses online</a>, <a target="_top">evening dresses</a>, <a target="_top">Wedding Dresses 2013</a>, <a target="_top">Bridesmaid dresses</a>, <a target="_top">cocktail dresses</a>, <a target="_top">women's dresses</a>, <a>Mother of the bride dresses</a>, <a>Wedding Dresses with Sleeves</a></p>        	</div>
-        	-->
-        	<div class="fcp">
-        		<div id="customerHelp">
-	        	<dl><dt>Company Information</dt><dd><a href="http://www.obdchina.com/about-obdchina.html" rel="nofollow">About us</a></dd><dd><a href="http://www.obdchina.com/info.php?a=credibility" target="_blank">Our Guarantee</a></dd><dd><a href="http://www.obdchina.com/blog" target="_blank">Blog</a></dd></dl><dl><dt>Customer Service</dt><dd><a href="http://www.obdchina.com/contact-us.html" rel="nofollow">Contact Us</a></dd><dd><a href="###" rel="nofollow">Shopping Guide</a></dd><dd><a href="http://www.obdchina.com/obdchina-payment-method.html " rel="nofollow">Payment Methods</a></dd><dd><a href="http://www.obdchina.com/obdchina-shipping-delivery.html" rel="nofollow">Shipping &amp; Delivery</a></dd><dd><a href="http://www.obdchina.com/sales/order/history" rel="nofollow" target="_blank">Track Your Order</a></dd></dl><dl><dt>Policy</dt><dd><a href="http://www.obdchina.com/obdchina-warranty-policy.html" rel="nofollow">Warranty Policy</a></dd><dd><a href="http://www.obdchina.com/obdchina-return-policy.html" rel="nofollow">Return Policy</a></dd><dd><a href="http://www.obdchina.com/obdchina-privacy-policy.html " rel="nofollow">Privacy Policy</a></dd><dd><a href="http://www.obdchina.com/obdchina-term-of-use.html " rel="nofollow">Terms of use</a></dd></dl><dl><dt>Other Business</dt><dd><a href="###">Wholesale</a></dd><dd><a href="http://www.obdchina.com/obdchina-dropship.html" rel="nofollow">Dropship</a></dd><dd><a href="###" rel="nofollow">Partners Link</a></dd></dl>	        	</div>
-	            <div class="mfn">
-	            	<div id="popularPages" style="line-height:20px;">
-						
-<ul class="tags-link">
-<li><a href="/Mostpopular" title="Popular Tags"><font>Popular Tags:</font></a></li>
 
-	<li><a title="A" href="http://www.obdchina.com/Mostpopular/A/">A</a></li>
+    <div class="footer">    
 
-	<li><a title="B" href="http://www.obdchina.com/Mostpopular/B/">B</a></li>
+    <table class="scoial-footer">
 
-	<li><a title="C" href="http://www.obdchina.com/Mostpopular/C/">C</a></li>
+<tbody>
 
-	<li><a title="D" href="http://www.obdchina.com/Mostpopular/D/">D</a></li>
+<tr>
 
-	<li><a title="E" href="http://www.obdchina.com/Mostpopular/E/">E</a></li>
+<td width="47"> <a target="_blank" rel="nofollow" href="/"><img alt="OBDdiscount google+ page" src="images/google.gif"></a></td>
 
-	<li><a title="F" href="http://www.obdchina.com/Mostpopular/F/">F</a></li>
+<td width="155">
 
-	<li><a title="G" href="http://www.obdchina.com/Mostpopular/G/">G</a></li>
+<p><a rel="nofollow" target="_blank" href="/"><font><font>add us (+1)</font></font></a></p>
 
-	<li><a title="H" href="http://www.obdchina.com/Mostpopular/H/">H</a></li>
+<p><a rel="nofollow" target="_blank" href="/"><font><font>Google Plus</font></font></a></p>
 
-	<li><a title="I" href="http://www.obdchina.com/Mostpopular/I/">I</a></li>
+</td>
 
-	<li><a title="J" href="http://www.obdchina.com/Mostpopular/J/">J</a></li>
+<td width="47"><a rel="nofollow" target="_blank" href="http://twitter.com/OBDdiscount"><img alt="OBDdiscount twitter page" src="images/twitter.png"></a></td>
 
-	<li><a title="K" href="http://www.obdchina.com/Mostpopular/K/">K</a></li>
+<td width="128">
 
-	<li><a title="L" href="http://www.obdchina.com/Mostpopular/L/">L</a></li>
+<p><a rel="nofollow" target="_blank" href="http://twitter.com/OBDdiscountfans"><font><font>talk to @OBDdiscount</font></font></a></p>
 
-	<li><a title="M" href="http://www.obdchina.com/Mostpopular/M/">M</a></li>
+<p><a rel="nofollow" target="_blank" href="http://twitter.com/OBDdiscountfans"><font><font>Twitter</font></font></a></p>
 
-	<li><a title="N" href="http://www.obdchina.com/Mostpopular/N/">N</a></li>
+</td>
 
-	<li><a title="O" href="http://www.obdchina.com/Mostpopular/O/">O</a></li>
+<td width="47"><a rel="nofollow" target="_blank" href="http://facebook.com/OBDdiscountfans"><img alt="OBDdiscount facebook fans page" src="images/facebook.gif"></a></td>
 
-	<li><a title="P" href="http://www.obdchina.com/Mostpopular/P/">P</a></li>
+<td width="150">
 
-	<li><a title="Q" href="http://www.obdchina.com/Mostpopular/Q/">Q</a></li>
+<p><a rel="nofollow" target="_blank" href="http://facebook.com/OBDdiscountfans"><font><font>engage with us daily</font></font></a></p>
 
-	<li><a title="R" href="http://www.obdchina.com/Mostpopular/R/">R</a></li>
+<p><a rel="nofollow" target="_blank" href="http://facebook.com/OBDdiscountfans"><font><font>Facebook</font></font></a></p>
 
-	<li><a title="S" href="http://www.obdchina.com/Mostpopular/S/">S</a></li>
+</td>
 
-	<li><a title="T" href="http://www.obdchina.com/Mostpopular/T/">T</a></li>
+<td width="47"><a rel="nofollow" target="_blank" href="http://youtube.com/OBDdiscountVideos"> <img alt="OBDdiscount  youtube page" src="images/youtube.GIF"></a></td>
 
-	<li><a title="U" href="http://www.obdchina.com/Mostpopular/U/">U</a></li>
+<td width="143">
 
-	<li><a title="V" href="http://www.obdchina.com/Mostpopular/V/">V</a></li>
+<p><a rel="nofollow" target="_blank" href="http://youtube.com/OBDdiscountVideos"><font><font>watch our videos</font></font></a></p>
 
-	<li><a title="W" href="http://www.obdchina.com/Mostpopular/W/">W</a></li>
+<p><a rel="nofollow" target="_blank" href="http://youtube.com/OBDdiscountVideos"><font><font>Youtube</font></font></a></p>
 
-	<li><a title="X" href="http://www.obdchina.com/Mostpopular/X/">X</a></li>
+</td>
 
-	<li><a title="Y" href="http://www.obdchina.com/Mostpopular/Y/">Y</a></li>
+<td width="47"><a target="_blank" rel="nofollow" href="http://www.linkedin.com/in/obddiscount"><img style="width: 49px; height: 49px;" src="images/linkin.gif" alt="OBDdiscount linkedin page"></a></td>
 
-	<li><a title="Z" href="http://www.obdchina.com/Mostpopular/Z/">Z</a></li>
+<td width="145">
 
-	<li><a title="0-9" href="http://www.obdchina.com/Mostpopular/0-9/">0-9</a></li>
+<p><a rel="nofollow" target="_blank" href="http://www.linkedin.com/in/obddiscount"><font><font>for wholesale &amp; distribution</font></font></a></p>
+
+<p><a rel="nofollow" target="_blank" href="http://www.linkedin.com/in/obddiscount"><font><font>Linkedin</font></font></a></p>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<div class="line">&nbsp;</div>
+
+
+
+
+
+
+
+
+
+<div class="payment">
+
+<div class="payment-list">
+
+<ul>
+
+
+
+<li>
+
+<div class="top"><font><font>Product Tags:</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li>
+
+ <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/A/">A</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/B/">B</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/C/">C</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/D/">D</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/E/">E</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/F/">F</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/G/">G</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/H/">H</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/I/">I</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/J/">J</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/K/">K</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/L/">L</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/M/">M</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/N/">N</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/O/">O</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/P/">P</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/Q/">Q</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/R/">R</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/S/">S</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/T/">T</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/U/">U</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/V/">V</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/W/">W</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/X/">X</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/Y/">Y</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/Z/">Z</a></span> <span><a class="blue b_" target="_top" href="http://www.obdchina.com/producttags/0-9/">0-9</a></span>  
+
+  
+
+</li><li>
+
+ <span><a href="/Wholesale/auto-diagnostic.html">auto diagnostic</a></span>
+
+ <span> <a href="/Wholesale/lexia-3.html">lexia 3</a></span>
+
+ <span><a href="/Wholesale/mb-star-c3.html">mb star c3</a></span>
+
+ <span><a href="/Wholesale/benz-star-c4.html">benz star c4</a></span>
+
+ <span><a href="/Wholesale/launch-x431-diagun.html">launch x431 diagun</a></span>
+
+ <span><a href="/Wholesale/autoboss-v30.html">autoboss v30</a></span>
+
+ <span><a href="/Wholesale/vas5054.html">vas5054</a></span>
+
+ <span><a href="/Wholesale/renault-can-clip.html">renault can clip</a></span>
+
+ <span><a href="http://www.obdii.co.uk">OBD II</a></span>
+
+ <span><a href="/Wholesale/BMW-OPS.html">BMW OPS</a></span>
+
+ <span><a href="/Wholesale/digimaster-2.html">digimaster 2</a></span>
+
+ <span><a href="/Wholesale/tacho-2008.html">tacho </a></span>
+
+</li>
+
+
+
 </ul>
-<script type="text/javascript">decorateGeneric($$('ul.tags-link li'), ['first','last'])</script>        			</div>
-        			<div id="footerSub">
-						<form action="http://www.obdchina.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
-    	<div style="padding-bottom:10px;">
-	    	<h3>Subscribe To Our Newsletter:</h3>
-		</div>
-		<div>
-			<input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
-        	<button type="submit" title="Subscribe" value=" " class="subscribeBtn"></button>
-		</div>
-        
-</form>
-    <script type="text/javascript">
-    //<![CDATA[
-        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
-    //]]>
-    </script>
-        			</div>
-	            </div>
-	            <div class="clear"></div>
-        	</div>
-        	<br class="clear">
-	        <div id="footerShippingPayment" class="shipping-payment">
-	        	<p><img src="http://www.obdchina.com/media/wysiwyg/other_images/footer_shipping_payment.jpg" alt=""></p>	        </div>
-	   		<div id="footer_other_site" class="footer_other_site clearfix"><p><a href="http://www.obdchina.com/lexia-3-pp2000-p-11.html"><span><span>lexia 3</span></span></a> | <a href="http://www.obdchina.com/launch-x431-diagun-iii-p-1643.html"><span><span>launch x431</span></span></a> <a href="http://www.obdchina.com/mb-star-c3-with-usb-cable-to-support-new-pc-without-com-port-p-8.html"><span><span>mb star c3</span></span></a> <a href="http://www.obdchina.com/autoboss-v30-scanner-p-1276.html"><span><span>autoboss v30</span></span></a> | <a href="http://www.obdchina.com/maxidas-ds708-scanner-p-6.html"><span><span>DS708</span></span></a> | <a href="http://www.obdchina.com/bmw-icom-a-b-c-with-thinkpad-x61-hdd-for-bmw-dedicated-scan-tool-p-2401.html"><span><span>BMW ICOM</span></span></a> | <a href="http://www.obdchina.com/super-ad900-key-transponder-programmer-p-28.html"><span><span>AD900</span></span></a> | <a href="http://www.obdchina.com/sbb-key-programmer-new-version-p-29.html"><span><span>SBB key programmer</span></span></a></p></div>     
-        </div>
-        
-			   
-        <address>© 2013 OBDCHINA.COM. Auto Diagnostic tool co. ,ltd ,a professional OBD manufacturer.All rights reserved.</address>
+
+</div>
+
+</li>
+
+<li>
+
+<div class="top"><font><font>Company Information</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li><a rel="nofollow" href="/about_us.html"><font><font>About us</font></font></a></li>
+
+<li><a rel="nofollow" href="/our_customers.html"><font><font>Our Customers</font></font></a></li>
+
+<li><a rel="nofollow" href="/index.php?main_page=faq_info"><font><font>FAQ</font></font></a></li>
+
+<li><a rel="nofollow" href="/faqs_all.html"><font><font>Help Center</font></font></a></li>
+
+</ul>
+
+</div>
+
+</li>
+
+<li>
+
+<div class="top"><font><font>Customer Service</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li><a rel="nofollow" href="/about_us.html"><font><font>Contact Us</font></font></a></li>
+
+<li><a rel="nofollow" href="/faqs_all.html"><font><font>Help Center</font></font></a></li>
+
+<li><a rel="nofollow" href="/shopping_guide.html"><font><font>Shopping Guide</font></font></a></li>
+
+<li><a rel="nofollow" href="/dropship.html"><font><font>Dropship</font></font></a></li>
+
+
+</ul>
+
+</div>
+
+</li>
+
+<li>
+
+<div class="top"><font><font>Company policies</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li><a rel="nofollow" href="/shipping_methods.html"><font><font>shipping and handing</font></font></a></li>
+
+<li><a rel="nofollow" href="/payment_methods.html"><font><font>Payment Methods</font></font></a></li>
+
+<li><a rel="nofollow" href="/warranty_policy.html"><font><font>Warranty Policy</font></font></a></li>
+
+<li><a rel="nofollow" href="/return_policy.html"><font><font>Return Policy</font></font></a></li>
+<li><a href="/blog"><font><font>Blog</font></font></a></li>
+
+</ul>
+
+</div>
+
+</li>
+
+
+
+<li>
+
+<div class="top"><font><font>Security &amp; Privacy</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li><a rel="nofollow" href="/privacy_policy.html"><font><font>Privacy Policy</font></font></a></li>
+
+<li><a rel="nofollow" href="/term_of_use.html"><font><font>Terms of use</font></font></a></li>
+
+</ul>
+
+</div>
+
+</li>
+
+
+
+<li>
+
+<div class="top"><font><font>Partner with us</font></font></div>
+
+<div class="payment-col">
+
+<ul>
+
+<li><a rel="nofollow" href="/online_affiliate.html"><font><font>Online Affiliate Coopration</font></font></a></li>
+
+<li><a rel="nofollow" href="/local_affiliate.html"><font><font>Local Affiliate Coopration</font></font></a></li>
+<li><a rel="nofollow" href="/wholesale.html"><font><font>Wholesale</font></font></a></li>
+
+</ul>
+
+</div>
+
+</li>
+
+
+
+</ul>
+
+</div>
+
+</div>
+
+<p><img alt="obdchina shipping and payment way" src="images/home_pic6.jpg" width="630" height="60"></p>	
+
+<div class="footer-link">  
+
+<ul>
+
+ <li><a href="http://www.obdchina.com/lexia-3-pp2000-p-11.html"><font><font>lexia 3</font></font></a></li>
+ <li class=" footer-template-links-last"><a href="http://www.obdchina.com/launch-x431-diagun-iii-p-1643.html"><font><font>launch x431</font></font></a></li>
+ <li class="last"><a href="http://www.obdchina.com/mb-star-c3-with-usb-cable-to-support-new-pc-without-com-port-p-8.html"><font><font>mb star c3</font></font></a></li>
+ <li class="first"><a href="http://www.obdchina.com/autoboss-v30-scanner-p-1276.html"><font><font>autoboss v30</font></font></a></li>
+ <li><a href="http://www.obdchina.com/maxidas-ds708-scanner-p-6.html"><font><font>DS708</font></font></a></li>
+ <li><a href="http://www.obdchina.com/bmw-icom-a-b-c-with-thinkpad-x61-hdd-for-bmw-dedicated-scan-tool-p-2401.html"><font><font>BMW ICOM</font></font></a></li>
+ <li><a href="http://www.obdchina.com/super-ad900-key-transponder-programmer-p-28.html"><font><font>AD900</font></font></a></li>
+ <li><a href="http://www.obdchina.com/Wholesale-autel-series_c22.html"><font><font>Autel</font></font></a></li>
+ <li class=" last" style="border-style:none;"><a href="http://www.obdchina.com/sbb-key-programmer-new-version-p-29.html"><font><font>SBB key programmer</font></font></a></li>
+
+</ul>
+
+<div class="clear"></div>  
+
+</div>  
+
+<address><font><font>© 2008-2013</font></font><a href="http://www.obdchina.com"><font><font> obddiscount.com </font></font></a>&nbsp;<font><font>Obd Tool Discount</font></font>,<font><font>ltd 
+
+</font></font>a professional <a href="http://www.obdchina.com">OBD</a> tool supplier.All rights reserved.</address>
+
     </div>
-</div>
-            
 
-<div id="float_scroll">
-	<div title="" id="scroll_top_"></div>
-	<div title="" id="scroll_center_"></div>
-	<div title="" id="scroll_bottom_"></div>
 </div>
-<script type="text/javascript">
-//jQuery().ready(function(){
-	
-	var h = jQuery("body").height();
-	var s_h =jQuery(window).height();
-	var s_c =  h>s_h?parseInt((h-s_h)/2):parseInt(h/2);
-    jQuery('#float_scroll').hide();
-    jQuery(window).scroll(function() {
-        if(jQuery(window).scrollTop() >= 100){
-            jQuery('#float_scroll').fadeIn(400);
-		}else{
-		   jQuery('#float_scroll').fadeOut(200);
-		}
-    });
-     jQuery('#scroll_top_').click(function(){jQuery('html,body').animate({scrollTop: '0px'}, 800);});
-	 jQuery('#scroll_center_').click(function(){jQuery('html,body').animate({scrollTop:s_c+'px'}, 800);});
-     jQuery('#scroll_bottom_').click(function(){jQuery('html,body').animate({scrollTop:h+'px'}, 800);
-   });
-//});
-</script>
-<div style="display:none"><script src="http://s13.cnzz.com/stat.php?id=3723275&amp;web_id=3723275&amp;show=pic" language="JavaScript"></script></div>
 
+</div>
+
+</div>
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_4745976'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/stat.php%3Fid%3D4745976%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script><span id="cnzz_stat_icon_4745976"></span><script src=" https://s95.cnzz.com/stat.php?id=4745976&amp;show=pic" type="text/javascript"></script></div>
+
+
+
+
+<div class="customer">
+<!-- LiveZilla Chat Button Link Code (ALWAYS PLACE IN BODY ELEMENT) --><!-- LiveZilla Tracking Code (ALWAYS PLACE IN BODY ELEMENT) --><div id="livezilla_tracking" style="display:none"><script async="" type="text/javascript" src="http://www.obdchina.com/livezilla/server.php?a=138b8&amp;rqst=track&amp;output=jcrpt&amp;nse=0.1304440637173918"></script></div><script type="text/javascript">
+var script = document.createElement("script");script.async=true;script.type="text/javascript";var src = "http://www.obdchina.com/livezilla/server.php?a=138b8&rqst=track&output=jcrpt&nse="+Math.random();setTimeout("script.src=src;document.getElementById('livezilla_tracking').appendChild(script)",1);</script><noscript><img src="http://www.obdchina.com/livezilla/server.php?a=138b8&amp;rqst=track&amp;output=nojcrpt" width="0" height="0" style="visibility:hidden;" alt=""></noscript><!-- http://www.LiveZilla.net Tracking Code --><a href="javascript:void(window.open('http://www.obdchina.com/livezilla/chat.php?a=a132a','','width=610,height=760,left=0,top=0,resizable=yes,menubar=no,location=no,status=yes,scrollbars=yes'))" class="lz_cbl"><img src="http://www.obdchina.com/livezilla/image.php?a=e5ea6&amp;id=3&amp;type=inlay" width="85" height="140" style="border:0px;" alt="Live Chat "></a><!-- http://www.LiveZilla.net Chat Button Link Code --><div style="margin-top:2px;"><a href="skype:shijitenglong?chat" target="_blank" title="Live Chat " style="font-size:11px;color:#b7b7b7;text-decoration:none;font-family:verdana,arial,tahoma;"><img src="/skype.gif"></a></div>
+</div>
 
 
 
