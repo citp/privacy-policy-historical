@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180437id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403133102id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -54,7 +54,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
   
 **Do We Disclose The Info We Collect To Outside Parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Mac of all trades. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include mac of all trades. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
   
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
@@ -90,7 +90,7 @@ This online privacy policy applies only to information collected through our web
   
 **Terms & Conditions**
 
-Please also visit our [Terms & Condition](https://web.archive.org/web/20150907180437id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms & Condition](https://web.archive.org/web/20160403133102id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
   
 **Your Consent**
