@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319190840id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403055512id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
 
 # NOTEFULL
 
@@ -26,17 +26,24 @@ The contents of this statement may be altered at any time, at our discretion. I
 
 * * *
 
-5 entries 
+6 entries 
 
 * * *
 
 | 
 
+[Reply](https://web.archive.org/content.php?pgID=406&cid=46013&action=reply#comments)
+
+Kris wrote on Wednesday November 18, 2015 6:39am   
+Hi,\r\nThere is no \"contact us\" site except this and \"talk to us\". I registered a few weeks ago and i forgot my password. Even i put my zip code and my email, it always comes out it didn\'t match. I want to purchase some self-study kit but i could not register to do it. Could you please help me out? my email is hnakamura@mednet.ucla.edu. Thanks!   
+---  
+  
+* * *  
+  
 [Reply](https://web.archive.org/content.php?pgID=406&cid=41987&action=reply#comments)
 
 elsa chen wrote on Sunday August 3, 2014 9:55am   
 i agree   
----  
   
 * * *  
   
