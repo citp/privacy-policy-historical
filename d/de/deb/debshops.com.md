@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025070337id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403050101id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.*
 
-# Juniors Clothing & Teen Clothing │ Deb Shops
+# Trendy Plus Size Clothing for Women | Deb Shops
 
 Softree Inc. (“Debshops”) values our customers and respects your privacy. We collect information about you in our stores and through our Website in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. As described in this policy, we may share your information among our brands, as may be applicable, and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. We may also share your information when we are legally required to do so.
 
