@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906102411id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackread.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403093527id_/https%3A//www.hackread.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - HackRead
 
@@ -6,7 +6,7 @@ This privacy policy sets out how [**HackRead**](http://hackread.com/ "HackRead")
 
 [ **HackRead**](http://hackread.com/ "HackRead") is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-[bw_company] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: September 2012
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 2012.
 
 ### What we collect
 
@@ -15,7 +15,6 @@ We may collect the following information:
   * name and job title
   * contact information including email address
   * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
 
 
 
@@ -24,9 +23,8 @@ We may collect the following information:
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * We may use the information to improve our readership
+  * We may periodically send promotional emails about new service, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 
 
@@ -54,19 +52,19 @@ These cookies are essential in order to enable you to move around the website an
 
 ### Category 2: performance cookies
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+These cookies collect information about how visitors use a website, for instance, which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and, therefore, anonymous. It is only used to improve how a website works.
 
 By using our website, you agree that we can place these type of cookies on your device.
 
 ### Category 3: functionality cookies
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+These cookies allow the website to remember choices you make (such as your username, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
 By using our website, you agree that we can place these type of cookies on your device.
 
 ### Category 4: targeting cookies or advertising cookies
 
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisations.
 
 A list of all the cookies used on this website by category is set out below.
 
@@ -79,16 +77,12 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [bw_mailto]
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at **[admin@hackread.com](mailto:admin@hackread.comead.com).**
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may not use your personal information to send any promotional information about third parties.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998.
 
-A small fee will be payable.
-
-If you would like a copy of the information held on you please write to: [bw_address]
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please **[write to or email us as](http://admin@hackread.com/)** soon as possible. We will promptly correct any information found to be incorrect.
