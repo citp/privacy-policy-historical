@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the natporn.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612115707id_/http%3A//www.natporn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natporn.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403171342id_/http%3A//natporn.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NatPorn
+# Privacy Policy - NATPORN
 
 This document details important information regarding the use and disclosure of User Data collected on NatPorn.com
 
@@ -10,7 +10,7 @@ This site expressly and strictly limits its membership and/or viewing privileges
 
 DATA COLLECTED
 
-  * Personal Information:   
+  * Personal Information:   
 
     * Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
     * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
@@ -37,7 +37,7 @@ USES
 DISCLOSURE OF INFORMATION
 
   * if under duty to do so NatPorn.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of NatPorn.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is NatPorn.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material NatPorn.com shall forward all available information to all relevant authorities and this without notice.   
+  * Should you deliberately upload any illegal material NatPorn.com shall forward all available information to all relevant authorities and this without notice.   
 \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
 
@@ -51,3 +51,6 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
+
+  
+
