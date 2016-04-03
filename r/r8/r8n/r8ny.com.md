@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r8ny.com privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112121458id_/http%3A//r8ny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r8ny.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404014859id_/http%3A//r8ny.com/privacy-policy) for the most accurate reproduction.*
 
 # Room Eight | Privacy Policy
 
