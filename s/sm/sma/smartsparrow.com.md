@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910065630id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403080534id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Smart Sparrow - Adaptive Learning Platform
+# Privacy Policy
 
-Smart Sparrow Pty Ltd ACN 148 030 451 (“Smart Sparrow”, “us” or “we”), the operator of [www.smartsparrow.com](https://www.smartsparrow.com/) (the “Website”) and provider of associated products, software and services (collectively referred to as the “Services”) respects the importance of privacy protection. Accordingly, Smart Sparrow complies with the Privacy Act 1988 (Cth) (the **Act** ).
+Smart Sparrow Pty Ltd ACN 148 030 451 (“Smart Sparrow”, “us” or “we”), the operator of [www.smartsparrow.com](https://web.archive.org/) (the “Website”) and provider of associated products, software and services (collectively referred to as the “Services”) respects the importance of privacy protection. Accordingly, Smart Sparrow complies with the Privacy Act 1988 (Cth) (the Act).
 
 Some of the information you provide us as part of your dealings with us is “Personal Information” under the Act. This Privacy Policy sets out how we collect, handle, use, transmit and disclose your Personal Information and applies to you unless you give us explicit consent to act otherwise.
 
 _For the purposes of this Privacy Policy:_
 
-**Data Hosting Service Provider** means Amazon Web Services, Inc. (and its related companies) and any other person or entity Smart Sparrow may engage from time to time to provide similar or equivalent services; and
+**Data Hosting Service Provider**   
+means Amazon Web Services, Inc. (and its related companies) and any other person or entity Smart Sparrow may engage from time to time to provide similar or equivalent services; and
 
-**Personal Information** means any information or data that you provide us in any form from time to time which relates to a living individual who can be identified from, or whose identity is apparent or can reasonably be ascertained from, that information or data alone or in conjunction with other information already held by the recipient, controller or processor of such information or data and includes any expression of opinion about the individual and any indication of the intentions of the recipient or any other person in respect of that individual.
+**Personal Information**   
+means any information or data that you provide us in any form from time to time which relates to a living individual who can be identified from, or whose identity is apparent or can reasonably be ascertained from, that information or data alone or in conjunction with other information already held by the recipient, controller or processor of such information or data and includes any expression of opinion about the individual and any indication of the intentions of the recipient or any other person in respect of that individual.
 
-This Privacy Policy should be read in conjunction with our [Terms and Conditions.](https://www.smartsparrow.com/terms-conditions/)
+This Privacy Policy should be read in conjunction with our [Terms and Conditions.](https://web.archive.org/terms/)
+
+* * *
 
 ### What types of Personal Information do we collect?
 
@@ -107,7 +111,7 @@ You cannot refuse to receive information which we are required to provide you by
 
 ### Changes to this Privacy Policy
 
-We may amend this Privacy Policy from time to time by posting the amended version on our Website at <http://www.smartsparrow.com/privacy/>.
+We may amend this Privacy Policy from time to time by posting the amended version on our Website at [smartsparrow.com/privacy](https://web.archive.org/privacy/).
 
 We suggest that you visit our Website regularly to keep up to date with any changes.
 
