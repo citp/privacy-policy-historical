@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217142232id_/https%3A//www.interexchange.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404014754id_/https%3A//www.interexchange.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InterExchange
 
