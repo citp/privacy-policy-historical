@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918131053id_/http%3A//www.intermarkets.net/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refdesk.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403042022id_/http%3A//www.intermarkets.net/legal/index.html) for the most accurate reproduction.*
 
 # Intermarkets Privacy Policy - Intermarkets, Inc.
 
