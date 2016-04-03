@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitution.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026205005id_/http%3A//constitution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitution.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403142534id_/http%3A//constitution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ The Constitution
 
@@ -14,31 +14,31 @@ We will collect personal identification information from Users only if they volu
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web Browser Cookies**
+**Cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We allow third-party companies to collect certain information when you visit this Site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. [AdChoices](https://quantcast.com/adchoices-pub?pub=WoWE9Qi0n5mnqUmRPHkWRQ)
 
-How we use collected information
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting http://www.google.com/ads/preferences/
 
-Constitution.com collects and uses Users’ personal information for the following purposes:
+To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/
 
-  * To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * To process transactions  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+**How we use collected information**
+
+This Site collects and uses Users’ personal information for the following purposes:
+
+  * To improve customer service; Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To personalize user experience; We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site; We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To process transactions; We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
   * To administer a content, promotion, survey or other Site feature
   * To send Users information they agreed to receive about topics we think will be of interest to them.
   * To send periodic emails
 
 
 
-The email address Users provide for order processing will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions.
+The email address Users provide for order processing will be used to send them information and updates pertaining to their order, and information and updates about other store items. It may also be used to respond to their inquiries, and/or other requests or questions.
 
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the unsubscribe link at the bottom of each email or [contact us](http://libertyalliance.com/contact-us/) online.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We do not rent, sell or barter your email address to third parties. Users may receive occasional emails from underwriters of this website; such sponsorships enable us to continue to bring you the latest news and information free of charge. If at any time the User would like to unsubscribe from receiving future emails, simply click the Unsubscribe link at the bottom of each email or [contact us](http://libertyalliance.com/contact-us/) online.
 
 **How We Protect Your Information**
 
@@ -58,11 +58,11 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Copyright**
 
-All content on Constitution.com is copyrighted. Reposting and reuse are permissible only with the expressed permission. [iCopyright.com](http://license.icopyright.net/rights/learnMore.act?topic=copyright-dos-and-donts) offers guidelines regarding what actions exceed the scope of “fair use.”
+All content on this Site is copyrighted. Reposting and reuse are permissible only with the expressed permission. [iCopyright.com](http://license.icopyright.net/rights/learnMore.act?topic=copyright-dos-and-donts) offers guidelines regarding what actions exceed the scope of “fair use.”
 
 **Changes to This Privacy Policy**
 
-Constitution.com has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+This Site has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance of These Terms**
 
@@ -70,4 +70,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](http://libertyalliance.com/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please feel free to [contact us](https://web.archive.org/contact-us/).
