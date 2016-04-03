@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axamansard.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124060815id_/https%3A//www.axamansard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axamansard.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403095255id_/https%3A//www.axamansard.com/privacy-policy) for the most accurate reproduction.*
 
-# AXA Mansard - Privacy Policy
+# Privacy Policy
 
 **1\. Introduction**  
 Any references to 'our', 'us', 'we' or 'company' within this policy are deemed to refer to AXA Mansard, its subsidiaries, and affiliates.
