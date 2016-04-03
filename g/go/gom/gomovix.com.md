@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomovix.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208033735id_/http%3A//www.gomovix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomovix.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403143742id_/http%3A//prod3.gomovix.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy - goMovix
 
