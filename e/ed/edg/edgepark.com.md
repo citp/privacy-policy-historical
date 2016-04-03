@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122231id_/https%3A//www.edgepark.com/WebsitePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgepark.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403185001id_/https%3A//www.edgepark.com/WebsitePrivacy) for the most accurate reproduction.*
 
 # Edgepark Medical Supplies
 
@@ -59,7 +59,7 @@ You can opt out of receiving our marketing e-mails. If you are a registered user
 
 ## These sites and children.
 
-Our platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can e-mail us at [edgeparkcareteam@edgepark.com](https://web.archive.org/web/20150905122231id_/https%3A//www.edgepark.com/edgeparkcareteam@edgepark.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
+Our platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can e-mail us at [edgeparkcareteam@edgepark.com](https://web.archive.org/web/20160403185001id_/https%3A//www.edgepark.com/edgeparkcareteam@edgepark.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
 Parents, you can learn more about how to protect children's privacy on-line [here](http://business.ftc.gov/privacy-and-security/childrens-privacy).
 
