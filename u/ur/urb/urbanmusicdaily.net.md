@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanmusicdaily.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052016id_/https%3A//www.urbanmusicdaily.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanmusicdaily.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403085525id_/https%3A//www.urbanmusicdaily.me/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY • URBANMUSiCDAiLY ♫
 
