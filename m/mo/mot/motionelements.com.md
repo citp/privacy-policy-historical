@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908052942id_/http%3A//www.motionelements.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404005901id_/http%3A//www.motionelements.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MotionElements
+# Privacy Policy
 
 MotionElements respects your right to privacy and utilizes the following practices in regards to any information we are provided about users of the MotionElements Website. Please review this Privacy Policy prior to using the MotionElements website since it may be changed periodically without notice to you.
 
