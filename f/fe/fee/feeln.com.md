@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feeln.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123212350id_/https%3A//www.feeln.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feeln.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403040613id_/https%3A//www.feeln.com/privacypolicy) for the most accurate reproduction.*
 
 # Feeln - Privacy Policy
 
