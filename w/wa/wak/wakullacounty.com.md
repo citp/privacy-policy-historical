@@ -1,100 +1,70 @@
-> *The following text is extracted and transformed from the wakullacounty.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakullacounty.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403092107id_/http%3A//www.wakullacounty.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# WakullaCounty.com Privacy Policy | WakullaCounty.com
 
-**Go Daddy Respects Your Privacy**
+WakullaCounty.com Privacy Policy | WakullaCounty.com
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+[](http://www.epik.com/hosting)
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### Privacy Policy
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Spectacular.com, LLC respects your privacy. This Privacy Policy sets forth how we handle information we obtain from you and learn about you when you visit our Website. Please read this Privacy Policy before using the Website or submitting any personal information. By using the Website, you are accepting the practices described in this Privacy Policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the Privacy Policy whenever you visit the Website to make sure that you understand how any personal and public information will be used.
 
-**Information Collection and Use**
+**I. Collection of Information and Usage When Visiting Website**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+When you visit our Website you may provide us with two types of information: personally identifiable information you knowingly choose to disclose that is collected on an individual basis (including, but not limited to, your name, address, telephone number and email address) and non-personal, aggregate information (such as information regarding the pages on our Website that you have visited, your IP address, website browser, operating system, polling modules or surveys).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**A. Personally Identifiable Information:** The only personally identifying information that we collect and store about you is the information that you choose to provide to us. For example, we gather your personally identifiable information when you send us an email, sign-up for our newsletter, fill out any of our online forms, enter a contest, sweepstakes or promotion, register a new account or sign-in to an existing account.  
+**B. Non-Personally Identifiable Information:** Our servers automatically collect Website usage information each time you visit the Website. The Website usage information includes but is not limited to the following: the domain names, operating system in use (including, but not limited to, Macintosh, Windows, Linux), browser (including, but not limited to, Firefox, Netscape, Internet Explorer) and version, the Website that referred you to us, and other similar information. This information may be aggregated to measure the number of visits, average time spent on the Website, pages viewed, time and date of visits, and other similar information. We collect all of this information to allow us to detect broad demographic trends, to provide information tailored to your interests and to enhance your experience on the Website. We may use and disclose Website non-personally identifiable usage information, for example, to measure the use of our Website, explain the usefulness of our Website, and to improve the content of our Website.  
+**C. Cookies:** The Website may use cookies depending on the features offered. Cookies are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Website, and understanding how visitors use the Website. A cookie is a small piece of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return to our Website. You may be able to set your browser to notify you when you receive a cookie. Personal information cannot be collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Our cookies collect general information that enhances our ability to serve you and measure the usefulness of our Website. Aggregate non-personally identifiable cookie information may be shared with third parties to explain the usefulness of our Website, and to improve the content of our Website.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**II. Collection of Information and Usage of Publicly Identifiable Information**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may collect "publicly identifiable", "publicly accessible"or "publicly available" information ("Publicly Identifiable Information") that is made available through websites indexed on the major search engines or through domain name Whois lookup services. To provide a good user experience and content for our Website, we collect certain Publicly Identifiable Information that is strictly and solely utilized and publicly displayed in the course of providing a useful visitor experience. Please contact admin@spectacular.com with your questions and requests regarding our Collection of Information and Usage of Publicly Identifiable Information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**III. Monitoring Security Threats**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+For Website security purposes and to ensure that this service remains available to all users, Spectacular.com, LLC uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Spectacular.com, LLC will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**IV. California Privacy Rights**
 
-**Security**
+Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: Spectacular.com, LLC, P.O. Box 112601, Naples, Florida, 34108, USA, and admin@spectacular.com.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**V. Third Party Ad Server Networks**
 
-**Updating Your Information**
+The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other Websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website's third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser and track certain behavioral information regarding users of your computer via a Device Identifier. These third party cookies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific Privacy Policy, not this one.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**VI. Public Forums**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**VII. Keeping Your Information Secure**
 
-      iii.      You may call us at: (480) 505-8800
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.  
+**  
+VIII. Other Websites; Links**
 
-       iv.      You may fax us at: (480) 505-8844
+Our Website may link to or contain links to other third party Websites that we do not control or maintain, such as in connection with articles, news, or purchasing products and services referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party Website. We encourage you to note when you leave our Website and to read the privacy statements of all third party Websites before submitting any personally identifiable information.
 
-**Sending Emails**
+**IX. Distribution of Information**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**X. Children Under Age 18**
 
-**Compliance with Laws and Law Enforcement**
+If you are under age 18, please do not attempt to register at this Website, or provide any personally identifiable information about yourself to us (including, but not limited to, your name, address, telephone number and email address) through any of the methods mentioned above under Section I.(A), (including, but not limited to, email, signing-up for a newsletter, filling out any of our online forms, or entering a contest, sweepstakes or promotion). If we learn that we have collected personally identifiable information from a person under age 18, we will delete that information as quickly as possible. We will never knowingly accept or collect information from children under the age of 18. If this information ever is collected, Spectacular.com, LLC will immediately comply with all provisions of the Children's Online Privacy Protection Act. If you believe that we might have any information from a child under age 18, please contact us at admin@spectacular.com.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**XI. Contact and Opt-Out Information**
 
-**Third Party Service Providers**
+You may contact us as at admin@spectacular.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change on our Website as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**XII. Sole Statement**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+This Privacy Policy as posted on this Website is the sole statement of our Privacy Policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
 
-**Supplementation of Information**
+This Privacy Policy was last modified on February 19, 2015.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+[](http://www.epik.com/hosting)
 
-**Contests/Surveys**
+  
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
