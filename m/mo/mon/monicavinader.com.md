@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928234641id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monicavinader.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403202527id_/http%3A//www.monicavinader.com/us/customer-care/privacy-and-security/privacy-promise) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,10 +37,10 @@ We may automatically collect information such as the type of internet browser an
 Monica Vinader | monicavinader.com uses cookies to enable some of the basic functionality that is required for you to browse and shop on the Site, such as remembering which products you have added to your basket. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties | Strictly Necessary  
 Social Media Plugins | Sites such as Facebook and Pinterest use cookies in order to be able to share and discuss our Products on social networks | Performance cookies  
 Session and persistent  
-Media Forge | These cookies help us to provide you with personalised adverts when you visit other select websites | Advertising cookies  
+Criteo | These cookies help us to provide you with personalised adverts when you visit other select websites, and help us to understand the effectiveness of those adverts. | Advertising cookies  
 Session and Persistent
 
-To opt-out of Media Forge:  
+To opt-out of Criteo:  
 <http://www.networkadvertising.org/choices/>  
   
 DoubleClick  
