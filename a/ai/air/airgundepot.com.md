@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108173918id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404002635id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement discloses the privacy practices for http://www.airgundepot.com
+This privacy statement discloses the privacy practices for Airgun Depot, LLC (http://www.airgundepot.com).
 
 If you feel that this company is not abiding by its posted privacy policy, you should first contact Security Administrator by e-mail: inquiries[at]airgundepot.com.
 
