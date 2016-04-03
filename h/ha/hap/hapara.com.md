@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814045010id_/http%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403033828id_/http%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ■ Hapara
+# Privacy Policy | Hapara
 
 **PRIVACY POLICY**
 
@@ -25,7 +25,7 @@ _This privacy policy covers the following topics:_
 
 
 
-**What Information We Collect**
+### What Information We Collect
 
 _Contact Information_ : Our website serves as a channel for Hapara to share information about our services. We collect information on our website from visitors who may wish to purchase our services or seek support. A visitor to our website may elect to leave contact information if they’d like us to get in touch.
 
@@ -35,7 +35,7 @@ _Student information_ : most Hapara services require access to a student identif
 
 _Other Information_ : Like most websites, our website uses automatic data collection technology (Google Analytics) when you visit our website or use the services. We may collect information such as your IP address, Internet service provider, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the website you visit, number of links you click while on the website, search terms, operating system, website traffic and related statistics, keywords and/or other data.
 
-**How We Collect and Use Information**
+### How We Collect and Use Information
 
 _Contact Information:_ on our website we gather information from visitors via web forms. These web forms use Secure Socket Layer (SSL) encryption technology to provide an industry standard safeguard against access by other users of the Internet. Visitors volunteer the information they wish to share.
 
@@ -63,27 +63,27 @@ _Acquisition:_ If all or substantially all of our assets are acquired, we expect
 
 _Other disclosure:_ we may disclose your information to government authorities, and to other third parties when compelled to do so by government authorities or required by law, including but not limited to in response to court orders and subpoenas. We also may disclose your information when we have reason to believe someone is intending to or is causing harm to other users, or anyone else that could be harmed by such activities, or our rights or property.
 
-**Student-generated content**
+### Student-generated content
 
 Our service can be used to grant teachers and school officials access to student-generated content in various applications inside of their school’s Google Apps for Education domain. This might include student’s documents in Google Drive, blog posts in Blogger, or emails in Gmail.  We rely upon Google’s security measures, outlined in [Google’s Privacy Policy](https://www.google.com/edu/trust/), to ensure that the information access is secure and limited to the teachers and school officials that use our service. Student-generated content is not stored by Hapara.
 
-**How we protect your Information**
+### How we protect your Information
 
 Hapara takes very seriously the security and privacy of the data of the students in the schools we serve. Hapara complies with applicable laws and regulations, which govern or apply to the provision of our services. Hapara has also committed to comply with the [Student Privacy Pledge](http://studentprivacypledge.org/?page_id=45), coordinated by FutureofPrivacy.org
 
 Hapara has strict procedures and controls to protect information stored in our servers. Access to information is limited to those employees who require it to perform their job functions. We use two-factor authentication, SSL (Secure Socket Layer) encryption, physical access controls to files and buildings, and other industry-standard best practices.
 
-**Links to External Websites**
+### Links to External Websites
 
 The website may contain links to third party websites. Hapara has no control over the privacy practices of these websites. As such, we are not responsible for the privacy policies of those third party websites. You should check the applicable third party privacy policy and terms of use when visiting any other websites, and before providing any personal information to other websites.
 
-**Accessing and Modifying Information**
+### Accessing and Modifying Information
 
 Upon request, we will grant you reasonable access to personal information that our agents and we have about you for the purpose of reviewing and/or requesting changes. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our databases.
 
 Parents have the right to ask that the online records of their children under the age of 13 be removed from the storage of any online service provider. If you wish to request that Hapara remove your child’s records from our database, please contact the appropriate official at your child’s school and ask them to carry out this action in collaboration with the Hapara team.
 
-**Important Notice to Non-U.S. Residents/Safe Harbor Certification**
+### Important Notice to Non-U.S. Residents/Safe Harbor Certification
 
 We comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit  [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
 
@@ -93,10 +93,10 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, we commit to r
 
 We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-**Changes to this Privacy Policy**
+### Changes to this Privacy Policy
 
 We may change this privacy policy from time to time. When material changes are made to this privacy policy, Hapara customers will be notified through the contact email given to us at least two weeks prior to modification taking effect.  In that time, the primary administrative contact for a Hapara customer can request that we delete the school’s data from our systems (see above) if that school does not wish to be bound by the new policy.
 
-**How to Learn More**
+### How to Learn More
 
 Hapara’s principal headquarters are located at 425 Broadway St. Redwood City, California. We can be reached by telephone at 650 847-1371. To learn more about our privacy policy, you can email us at [**privacy@hapara.com**](mailto:privacy@hapara.com)
