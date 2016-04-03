@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909053134id_/https%3A//www.thersa.org/privacy-policy/%23cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403034546id_/https%3A//www.thersa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RSA
 
@@ -245,3 +245,7 @@ Any contractual representations contained therein on behalf of the RSA must not 
 Whilst the RSA takes all reasonable precautions to ensure that e-mails from the Society are virus free, no responsibility will be taken for viruses transmitted from its systems. 
 
 Registered in England and Wales as a Charity, Number 212424.
+
+## ACCESSIBILITY
+
+The site has been built according to the W3C’s Web Content accessibility Guidelines 1.0 level AA.
