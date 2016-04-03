@@ -1,35 +1,22 @@
-> *The following text is extracted and transformed from the badhed.com privacy policy that was archived on 2013-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130227031638id_/http%3A//www.badhed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badhed.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403172128id_/http%3A//www.badhed.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Badhed - Privacy
+# Privacy Policy
 
-**ZATTIKKA LIMITED PRIVACY STATEMENT INFORMATION COLLECTION**
+This Privacy Policy was last modified on 24th July 2015.
 
-Any information collected by Zattikka Ltd will be used only by Zattikka Ltd to improve our products, services, and our website. Zattikka Ltd also may direct website visitors to websites operated by third parties, though Zattikka Ltd does not guarantee the security of any personal information disclosed on those sites. Zattikka Ltd may occasionally ask you to provide us with information such as your name, email address, or your interests. Of course, you never have to answer any of these questions, but that may limit what services we can offer you. If you do not enter this information when required then you may not be able to enter contests, download demos, or receive prizes from Eidos. 
+Welcome! This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-**REGISTRATION FORMS:**
+Information Collection And Use  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
-In our registration forms, Zattikka Ltd may ask you for contact information, such as your email address or phone number, to send you materials or information about Zattikka Ltd. In our registration forms, Zattikka Ltd may ask you for demographic information, such as your age or gender, for internal profiling purposes. 
+Log Data  
+Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**FEATURED CONTESTS:**
+Cookies  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive. Like many sites, we use "cookies" to collect and store information - including data which is essential to the proper function of many games. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site / games. Ultimately it is your choice whether to access this Site, and whether you wish to allow cookies to be stored.
 
-In our featured contests, Zattikka Ltd may ask you for contact information, such as your email address or phone number, to send you materials or information.In our featured contests, Zattikka Ltd may ask you for demographic information, such as your age or gender, for internal profiling purposes. 
+Security  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-**MISCELLANEOUS:**
-
-Zattikka Ltd may also use registration forms, informational questionnaires, order forms, featured contests to gather, demographic information. This information is used for internal profiling purposes. 
-
-**COOKIES:**
-
-Zattikka Ltd does use cookies on its website, http://www.gimme5games.com. Cookies are a feature of your web browser that allow websites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. 
-
-**INTERNET PROTOCOL (IP) ADDRESSES:**
-
-An IP address is the unique number assigned to you by your server or Internet Service Provider; they generally do not identify you personally. Zattikka Ltd does keep track of the IP address you are using to access http://www.gimme5games.com for internal profiling and site security purposes. 
-
-**DATA QUALITY:**
-
-Zattikka Ltd ensures data quality, such as the accuracy of information obtained from website visitors to http://www.gimme5games.com. Access to information kept by Zattikka Ltd is strictly controlled to prevent fraud and/or unauthorized use. 
-
-**CONTACT INFORMATION - QUESTIONS & COMPLAINTS:**
-
-Any questions or complaints about http://www.gimme5games.com or this privacy statement can be resolved by contacting Zattikka Ltd. Please address all mail to Web Master, c/o Zattikka Ltd, Harbottle & Lewis, 14 Hanover Square, London, W1S 1HP, England. Or you can email us at [contact@gimme5games.com](mailto:contact@gimme5games.com)
+Changes To This Privacy Policy  
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
