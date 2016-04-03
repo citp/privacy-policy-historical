@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220035807id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutonline.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403103117id_/http%3A//www.sproutonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sprout
 
