@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themattwalshblog.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907234245id_/http%3A//themattwalshblog.com/comments-policy-privacy-policy/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themattwalshblog.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404005142id_/http%3A//themattwalshblog.com/comments-policy-privacy-policy/%23privacy-policy) for the most accurate reproduction.*
 
 # Comments Policy - The Matt Walsh Blog
 
