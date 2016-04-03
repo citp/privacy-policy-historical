@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feistyfrugalandfabulous.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022175245id_/http%3A//feistyfrugalandfabulous.com/media-kit/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feistyfrugalandfabulous.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403195203id_/http%3A//feistyfrugalandfabulous.com/media-kit/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Feisty Frugal & Fabulous
 
 Privacy Policy for http://feistyfrugalandfabulous.com/
 
