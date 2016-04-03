@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929083904id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmcdonalds.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403165802id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: AboutMcDonalds.com
+# Privacy Policy - McDonald's Corporate website :: AboutMcDonalds.com
 
 At McDonald's Corporation ("McDonald's"), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception.  We are committed to protecting and safeguarding the privacy of visitors to our Web sites, including mobile Web sites, ("Sites") and users of our mobile device applications ("Mobile Apps"), especially for children.
 
