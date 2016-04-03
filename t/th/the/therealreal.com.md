@@ -1,91 +1,108 @@
-> *The following text is extracted and transformed from the therealreal.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908102731id_/https%3A//www.therealreal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealreal.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403095239id_/https%3A//www.therealreal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The RealReal
 
-We respect your privacy. Here is how we do so.
+Effective Date: February, 2016 
 
-## Opinion Polls and Surveys
+The RealReal, Inc. ("The RealReal", "us", or "we") is committed to respecting and protecting the privacy of our Users. This Privacy Policy, which is part of our overall Terms of Service, covers personal information collected about our Users, which includes users of The RealReal Service (as defined in our Terms of Service), visitors to our web Site (www.therealreal.com, or "the Site"), and Consignors to The RealReal (who are subject to additional Consignment Terms). 
 
-Opinion Polls and Surveys. We want to know what you think. Therefore, you be asked from time to time to give your opinion. Questions and answers are stored but they are not linked to identifying information about you. We may share this information with third parties occasionally. If we do so, the poll will be labeled as such. 
+Please review this Privacy Policy to better understand our practices as they apply to personal information. By using The RealReal Service or accessing the Site, you consent to the data practices described in this Privacy Policy. If you do not agree to this Privacy Policy, or any of the terms in the Terms of Service (including the Consignment Terms if you are a Consignor), you may not continue to use The RealReal Service or visit the Site. 
 
-## Contests and Sweepstakes
+## Changes to our Privacy Policy
 
-Sweepstakes. When you enter a contest or sweepstakes by The RealReal and/or one of our partners, we may ask you to provide additional information or answer certain questions in order to participate in a promotion. We may contact you in connection with a particular contest or sweepstakes in order to update you regarding your status, administer the promotion, let you know that a promotion has ended or for other prize-fulfillment needs or contest- and sweepstakes-related messages. 
+From time to time, we may modify this Privacy Policy in our sole discretion. If we make any updates or changes to this Privacy Policy, all modifications will be posted to this Site, and will be effective immediately upon our posting. Using The RealReal Service, or using the Site, after updates are posted and effective constitutes acceptance of any changes. 
 
-## Search
+## What Personal Information Do We Collect?
 
-When you search on our site, we store the search terms and the visited pages so that we can continuously improve the quality of our search results. 
+We collect personal information of all Users of The RealReal (including visitors to its Site), which may include name, phone number, address, email address, and payment information. We may require you to provide personal information to interact with or register for the Site. We require you to register for the Site in order to use The RealReal Service or to act as a Consignor to The RealReal. If you participate in our opinion polls, surveys, contests, or sweepstakes, we may collect additional personal information about you in connection with your response or entry. 
 
-## Log information
+Additionally, you may choose to make other personal information available to us in connection with the consignment of an item, when you submit a video or blog for publication on the Site, email us, or invite a friend to join the Site. 
 
-When you visit our site, our servers will automatically log information. This information may include your Web page request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser. We collect log information so that we can properly administer our system and gather aggregate information about how our site is being used, including the pages visitors are viewing. 
+## Use of Personal Information We Collect
 
-## Cookies
+We use the personal information we collect to provide you with information, products, and services that you request and that we believe may be of interest to you. We use the personal information that we collect to register users, process requests and orders (including membership registration), communicate with you, provide you with other services, offers, and updates, as well as to administer our Site and comply with applicable laws. 
 
-We and our advertisers do collect anonymous information about your use of our site through cookies. The cookie does not tell us who you are. Only you can tell us that. We do not store any identifying information in any cookies on your computer. Cookies are used to tailor advertising specifically to you and to make sure that you do not see the same advertisement repeatedly. Our Web advertising partners will employ their technology to do this. These ads will be targeted only on the basis of the non-personal information that is automatically transmitted on the Internet, such as information collected in our Web logs and the approximate geographic location of your computer. 
+### Communicating with You
 
-We also may have agreements with companies, sometimes called Ad Networks, that serve advertising on behalf of third parties. These Ad Networks may place or recognize a unique cookie, sometimes called a third party cookie, on your browser. We do not control Ad Networks or what they do with the information they collect, we have relationships only with organizations that have agreed to participate in the Network Advertising Initiative (NAI) and abide by NAI principles, which prohibit members from connecting personally identifiable information to information they collect through cookies without your explicit consent. 
+We may communicate with you about topics we believe you may be interested in, including through newsletters, alerts, and reminders about recurring event sales. From time to time we may send you service-related emails, such as a welcome email when you register for the Site. 
 
-Your browser software can be set to reject all cookies or to accept cookies only from our site. Most browsers offer instructions on how to reset the browser to reject cookies in the Help section of the toolbar. If you reject our cookies, we won't take it personally, but you may not be able to log in or use certain functions and conveniences of our site. 
+If you provide us personal information when you communicate with us (including in person, by phone, or via email) this information may be shared with a Customer Care representative, employee, or expert that is most likely to be able to address your inquiry. This information will be used only for the purpose of responding to your inquiry. 
 
-We may obtain third party information and correlate that information with information we have collected under this policy with the intent of being smarter at providing you with the information you find most helpful. If we do this, we will treat the acquired information like the information that we collected ourselves. We will not share information we obtain from third parties in personally identifiable form. However, we may share aggregated, non-personal information, as described in this policy - that may include information we obtained from third parties in a form that does not permit you to be identified. 
+### Invitations
 
-We will not rent, sell or share personal information about you with third parties except to provide you with a product or service you request or under certain circumstances as described below. In all other cases, we will ask for your permission before we disclose your personal information. 
+When you invite a friend to join our Site, we will automatically send your friend an email invitation on your behalf. We will not use your friend’s email address for any other purpose unless they join our Site or request further information or response from us. Similarly, when you email a message using the Invite a Friend function, we do not store the email addresses that are used to facilitate the email communication. 
 
-## Disclosure for Legal Reasons 
+### Opinion Polls and Surveys
 
-There will be occasions when it is imperative that we do release personal information to third parties. Here are the circumstances that will dictate such an action from us: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse or illegal conduct. In the event that we are legally compelled to disclose your personal information to a third party, we will make reasonable efforts to notify you unless doing so would violate the law or court order. 
+We may share personal information we collect from your responses to opinion polls or surveys with third parties. If we do so, we will provide you with notice and the opportunity to consent. 
 
-## Agents and Contractors 
+### Contests and Sweepstakes
 
-Contractors sometimes have access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services and/or content for the operation and maintenance of our site. Access to your personal information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. Contractors have an obligation under their contracts with us to keep your information confidential and to comply with our privacy and security policies. 
+If you enter a contest or sweepstakes conducted by The RealReal and/or one of our partners, we may contact you in connection with that particular contest or sweepstakes, including in order to update you regarding your status, administer the promotion, or let you know that a promotion has ended. 
 
-Aggregated, Non-Personal Information: We may share aggregated information about you with third parties. This is information that is combined with the non-personal information of other users and does not allow you to be identified or contacted. Depending on the circumstances, we may or may not charge third parties for this aggregated information. We also may not limit the third parties' use of the aggregated information. 
+### Online Tracking
 
-## Our Pledge to You
+Like most websites, we, our service providers, and our third-party partners may collect certain information about your interaction with our Site. This information may be stored in log files. Information stored in log files may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and other information. 
 
-If we need to collect personal information from you that is not provided through registration, we will be very clear on why we need this information, how it will be used and who it will be shared with. You can always decline to provide us with this information. 
+We collect this information through the use of cookies and other similar technologies. We use this information to analyze demographic and other trends, administer the site, track aggregate usage of the Site, and provide you with relevant advertising. 
 
-## Submitted Materials
+Because an industry-standard Do-Not-Track protocol is not yet established, the choices we offer will continue to operate as described in this Privacy Policy independent of any Do-Not-Track signals. 
 
-Please recognize that if you submit a video or blog in any format for publication on the site, we will assume that you have secured the permission of those mentioned or shown in the submitted materials. We will not and cannot assume any liability for materials submitted. If materials are submitted that breach our privacy policy and terms of use and those materials are displayed on the site, the Disclosure for Legal Reasons clause will apply. See Terms of Service for further clarification. 
+Your Privacy Choices, and right to control our use of your personal information, are described below. 
 
-## Email Communications
+## Sharing of Personal Information
 
-Email communication that you send to us via the email links on our site may be shared with a Customer Care representative, employee or the expert that is most likely to be able to address your inquiry. If you provide personal information in your email, it will be used only for the purposes of answering your email. From time to time we may send you service-related emails, such as a welcome email when you register with our site. 
+### Third Parties
 
-## Invitations 
+We may provide contractors access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services and/or content for the operation and maintenance of our Site or Service. Access to your personal information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We require our contractors to keep the personal information they are provided confidential and to comply with the terms of this Privacy Policy. 
 
-When you invite a friend to join our site, your circle (network of friends) or your group, we will automatically send your friend an email invitation on your behalf. We will not use your friend's email address for any other purpose. Similarly, when you email a message using the Invite a Friend function, the email addresses are used to facilitate the email communication and are not retained by us. 
+We will not rent, sell or share your personal information with third parties without your consent except to provide you with a product or service you request or as described in this Privacy Policy. 
 
-## Newsletters and Alerts
+### Legal Disclaimer
 
-At various places on the site you will be given the option to receive recurring event sales newsletters and to set alerts and reminders. You can unsubscribe from newsletters by clicking on the Unsubscribe link. You can manage your alerts in the Your Account area. 
+We may disclose personal information pursuant to a request from law enforcement or pursuant to other legal or regulatory process, or as otherwise required by law, or, in our sole discretion, to protect our rights, property or interests, including to enforce this Privacy Policy or our Terms of Service. In the event that we are legally compelled to disclose your personal information to a third party, we will make reasonable efforts to notify you unless doing so would violate the law or court order. 
 
-## Other Important Information 
+In our sole discretion, we may also disclose information we collect to a third party when we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct. 
 
-Employees who misuse information are subject to disciplinary action, including termination. 
+Information collected from this site may also be transferred as part of a merger or other combination, or as part of a restructuring, bankruptcy, transfer of assets, or to our successors in interest. 
 
-  * We have physical, technical and procedural safeguards to help protect your personal information.
-  * In areas that contain your personal information, we use secure socket layer (SSL) encryption to help protect this information while it is in transit between our servers and your computer.
+## Your Privacy Choices
 
+### Updates to Your Information
 
+At your request, we will make efforts to update, change or delete personal information The RealReal maintains about you. In order to enforce the terms of this Privacy Policy, resolve disputes, or provide information to satisfy applicable governmental laws, regulations, investigations or proceedings, we may need to retain your personal information in our files. 
 
-## Keeping Your Information Secure 
+### Choice/Opt-out
 
-Choose your passwords carefully. Always create a password that's easy for you to remember but difficult for someone else to figure out. Don't use your name, address, phone number, initials, Social Security number, license plate or birthday. Don't use names of your friends, family or pets, company names, common numerical sequences or the word "password". 
+Users who no longer wish to receive our newsletters, alerts, or promotional communications may opt-out of receiving these communications. 
 
-## Log Out and Close Your Browser
+### How to Exercise Your Choices
 
-Open browsers invite snoops. When you finish your online session, close your browser to erase any information it may have temporarily stored on your computer. 
+You may notify us of your choices or preferences by accessing your “Account Info” on the Site, or by contacting us as set forth in the “How to Contact Us” section below. 
 
-Install Antivirus Software and Spyware Protection. Viruses are dangerous. Many viruses are sent as email attachments. They can slip into your system without your knowledge the moment you open the email. Some viruses such as Trojan Horses can capture the contents of your system, including your passwords. Installing up-to-date antivirus software and running it will help thwart these and other unwanted programs. 
+## Additional Information
 
-Spyware is a program or technology that aids in gathering information about a person or organization often without their knowledge and includes programs like hijackers and keyloggers. The best way to identify whether or not spyware is installed on your computer is to run and regularly update antispyware programs. Similar to antivirus software, antispyware software identifies and helps you remove spyware. 
+### Third Party Websites
 
-## Changes to this Policy 
+This Site contains links to other websites provided by third parties. Please be aware that we do not control these third party websites or any of the content contained on those websites. Once you have left our Site, we cannot be responsible for the privacy practices of such other websites. We encourage you to exercise caution and to read the privacy policy for the website you visit. The inclusion of hyperlinks to third party websites on our site in no way constitutes an endorsement by us of such websites' content, actions or policies. 
 
-We may update this Policy. We will notify you about material changes in the way we treat personal information by sending a notice to the email address specified in your account. We may also make nonmaterial changes to our Policy that generally will not affect our use of your personal information. If you don't agree with the new Policy, you always have the option of closing your account. Please see instructions for closing your account above. Our current Policy, identified by its effective date, will be posted on the site and you should check it frequently. 
+### Aggregated Information
+
+We may share aggregated information about you with third parties. Aggregated information is non-personal information about you that is combined with the non-personal information of other users. We may not limit the third parties' use of the aggregated information. 
+
+### Your California Privacy Rights
+
+California's "Shine The Light" law permits California residents to annually request and obtain information free of charge about what personal information is disclosed to third parties for direct marketing purposes in the preceding calendar year. The RealReal does not distribute your personal information to outside parties for their direct marketing, except as provided for in this Privacy Policy, without your consent. 
+
+### Access by Children or Minors
+
+Our Site is not directed to children under the age of 13, and our Terms of Service prohibit minors from using our Site or Service. We do not knowingly collect any information from children under 13. 
+
+### Security
+
+We take precautions to protect information that we collect from our Users. We protect the information entrusted to us through physical, technical and administrative safeguards. These protections include restricting access to personal information to employees who need the information to perform a specific job. The RealReal provides its employees training on its security and privacy practices. 
+
+However, no information security safeguards can be guaranteed to be completely secure, so you should use caution whenever providing personal information online, electronically or otherwise. 
 
 ## How to Contact Us
 
@@ -97,7 +114,3 @@ The RealReal
 Attn: Legal Department  
 660 4th St. #601   
 San Francisco, CA 94107 
-
-By email: [contact@TheRealReal.com](mailto:contact@therealreal.com)
-
-Posted June 01, 2011; Updated October 27, 2013 
