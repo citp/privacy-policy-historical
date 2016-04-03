@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127140636id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdburnerxp.se privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403183800id_/https%3A//cdburnerxp.se/help/policies/privacy) for the most accurate reproduction.*
 
 # CDBurnerXP: Privacy Policy
-
-If you contact us using the contact form (at <http://cdburnerxp.se/contact>), only the data you entered in one of the fields will be stored. 
-
-The information you submitted will not be shared with third parties, but only used to answer your request by those who received it. 
 
 ## Error reports
 
