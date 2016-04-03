@@ -1,226 +1,167 @@
-> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126165347id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundslikenashville.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403082755id_/http%3A//www.soundslikenashville.com/privacy-policy) for the most accurate reproduction.*
 
-# Universal Music - Security and Privacy Policy
+# Privacy Policy | Sounds Like Nashville | Sounds Like Nashville
 
-## YOUR PEACE OF MIND
+**Sounds Like Nashville Privacy Policy**
 
-Universal Music Operations Limited ("Universal Music" "us" or "we") operates this website and respects the security and privacy concerns of users of this and all its websites. We are notified under the Data Protection Act 1998 (the "Act") and comply with the Act in all our dealings with your personal data.
+**Publication Date: July 21, 2015**
 
-By using the website you agree to the terms of this Privacy Policy. As a general rule and other than via cookies (see the sections below headed "Third Party Cookies" and "Cookies"), no personal data (i.e. name, address, telephone number, e-mail address) is automatically collected from users of this website. However, there may be circumstances in which users voluntarily supply such personal data and in this event, any such personal data will be kept secure and confidential and will be used only for those purposes made known to users at the time the personal data is collected, or for the purposes specified in this Privacy Policy. We will also add your registered email address and personal details to our database if you register for updates from Universal Music via Facebook Connect. We follow strict security procedures for the storage and disclosure of personal data you have given us in order to prevent unauthorised access.
+Sounds Like Nashville (“we”) are committed to protecting and respecting your privacy.
 
-Personal data collected via this website is controlled by:
+This privacy policy (together with our[ terms of use ](http://www.soundslikenashville.com/terms/)and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
-Universal Music Operations Limited,   
-364-366 Kensington High Street,  
-London,  
-W14 8NS.
+BY VISITING THIS WEBSITE (THE “SITE”) YOU ARE ACCEPTING AND CONSENTING TO THE PRACTICES DESCRIBED IN THIS POLICY (INCLUDING AS UPDATED OR AMENDED FROM TIME TO TIME). IF, FOR ANY REASON, YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE STOP USING THE SITE IMMEDIATELY.
 
-## THE PERSONAL DATA WE COLLECT
+Please click on the sections below to learn more about our privacy policy:
 
-We may collect the following personal data from you:
+**• WHO WE ARE**
 
-  * your name, email address and other contact details you provide from time to time;
-  * your payment information, such as credit and debit card details;
-  * details around your use of the website (see the sections below headed "Third Party Cookies" and "Cookies"); and
-  * any other information that you provide when filling in forms, posting information on the website and/or the forums or when you contact us.
+The Site is operated by Sounds Like Nashville, LLC., 401 Commerce Street – Suite 140
 
+Nashville, TN 37219.
 
+**• INFORMATION WE MAY COLLECT FROM YOU**
 
-We may also appoint third parties to collect and process personal data on our behalf for certain purposes such as targeted advertising and enabling single sign on functionality and social network integration as described here.
+When you use the Site or contact us by telephone, e-mail, social media, SMS, we may collect and process the following data about you:
 
-## DATA COLLECTED FROM FACEBOOK LOGIN/REGISTRATIONS
+Information you give us, including:
 
-If you use Facebook to register for email updates or to login to a website from one of our artists, we may import personal data from your Facebook profile into our database.
+Forms filled out by you on the Site;
 
-We will only import personal data which you have made publicly available and it will be safeguarded in line with our standard privacy policy.
+Content of correspondence with us by phone, e-mail or otherwise;
 
-The personal data we may collect (if available) is:
+Site registration;
 
-  * Your email address
-  * Your first and last name
-  * Your location (Hometown and country)
-  * Your gender
-  * Your date of birth
-  * Your likes
-  * Your social activity with respect to the artist
+Subscriptions or orders placed on the Site;
 
+Participation in discussion boards or other social media functions on the Site;
 
+Entering a competition, promotion or survey;
 
-## OUR USE OF PERSONAL DATA
+Reporting a problem or requesting support for the Site.
 
-The personal data collected is used to:
+The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description, photographs or images and comments.
 
-  * provide users with information on the relevant Universal Music Artist;
-  * to customise the user's online experience and to improve the content of the website;
-  * for internal review of the web pages visited by the user;
-  * to track the progress and number of entries in promotions and contests;
-  * to track the number of users of the website and where appropriate, the products purchased through the website; and
-  * to provide users with information about produces or services that we, or carefully selected third parties, believe will be of interest to users (please see the sections directly headed "Sharing Personal Data" and "Direct Marketing").
+Information we collect about you.
 
+With regard to each of your visits to our Site we may automatically collect the following information:
 
+Technical information, including IP address, login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
 
-## KEEPING AND MAINTAINING PERSONAL DATA
+Information about your visit, including the full URL clickstream to, through and from our site (including date and time);
 
-How long we keep your personal data depends on the context in which you provide it and the purposes for which we use it, but we will only ever retain your personal data for as long as is necessary for these purposes. Specifically:
+Pages you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
-  * we will keep your personal data for as long as is necessary to provide you with products and/or services that you have requested or purchased;
-  * we will keep your contact information for marketing purposes for as long as we have your consent for: (i) us to send you marketing information about our products and services by you not opting-out of receiving this marketing information; and/or (ii) third parties to provide you with information about products or services that may be of interest to you by you opting-in to receiving this marketing information; 
-  * we will keep records of any transactions for up to six years so we can respond to any complaints or disputes that arise during this time; and
-  * we will keep other information about you if it is necessary for us to do so and for us to comply with law or to protect or own, or other persons', interests.
+We do not collect personal information about your online activities over time and across third party (non-Sounds Like Nashville) websites.
 
+Third party partners may collect personal information about your online activities over time and across third party websites or online services through your use of the Site.
 
+**• HOW YOUR INFORMATION MAY BE USED**
 
-You can request details of the personal data that we hold about you by contacting [info@umusic.com](mailto:info@umusic.com) and requesting the personal data that you would like access to. We may charge you a fee of up to £10 for this service. If you think any information we have about you is incorrect or incomplete, please write or e-mail us as soon as possible. If required, we will correct or update any information as soon as possible
+We use information held about you in the following ways:
 
-## SHARING PERSONAL DATA 
+Information you give to us. We will use this information:
 
-As Universal Music is part of a worldwide group of companies, Universal Music may from time to time transfer your data to another Universal Music group company and your data will then be used within the Universal Music group of companies. By agreeing to this Privacy Policy, you consent to us providing your personal data to the Universal Music group companies (as such group companies may be updated from time to time).
+To help us respond to your queries;
 
-Some Universal Music group companies are located in other jurisdictions (including but not limited to jurisdictions outside of the European Economic Area). Personal data will only be so transferred to these other jurisdictions in circumstances where it is necessary or appropriate to achieve the purposes set out in this Privacy Policy or the purposes made known to you at the time personal data is collected. For example, if a user opts in to receive information and promotions from Universal Music, we may transfer data to the Universal Music group company such other jurisdictions in order for the Universal Music group company to you with relevant information and promotions as described above. Communications may therefore come from local Universal Music group companies, be in your local language and promote localised events/promotions. You will be given the opportunity to opt out of those local communications on any email you receive from them. 
+To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
 
-Sometimes we will share your personal data with third parties outside of the Universal group and we may do this for the following reasons:
+To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
 
-  * to provide you with a service and/or product, but your personal data will only be used to provide you with this service and/or product;
-  * to provide you with information about promotions and offers if you have given your consent to receive these communications in accordance with the section headed "Direct Marketing";
-  * where it is necessary to comply with law or to protect our or another person's rights, property or safety (including to prevent fraud and to reduce payment risk – see the section headed "Financial"); and/or
-  * in the event that we sell or buy any business or assets.
+To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data;
 
+To notify you about changes to the Site;
 
+To manage your access to the Site;
 
-Where a relevant artist and/or its management company have entered into an agreement with Universal Music to have access to consumer data collected from the use of the website for future marketing purposes, we may allow access of your personal data to them. However, we will not do so unless they have confirmed to us that they are registered with the Data Protection Act. Should Universal Music and the artist part company, the artist may still directly contact you with future marketing regarding the artist in question going forward, but at all times you will be given clear guidance on their privacy policy and an option to opt out of future mailings from them.   
+To allow you to interact with our Site, for example by posting comments;
 
+To allow you to share information from our Site on third party social media platforms;
 
-## TRANSFER OF PERSONAL DATA OVERSEAS
+To comply with legal and regulatory requirements;
 
-Generally we store and process your personal data within the United Kingdom, but sometimes we may transfer your personal data to a jurisdiction outside of the European Economic Area (including to Universal Music group companies as mentioned above) and your personal data will then be processed in these jurisdictions. Certain approved third parties appointed by us to collect and process personal data on our behalf may transfer personal data outside of the European Economic Area for the purposes of processing personal data where their servers are located outside of the European Economic Area. Please note that privacy laws in these other jurisdictions may not provide the same level of protection as those within the European Economic Area. By using this website you agree to this processing and transfer of personal data outside of the European Economic Area. We will take all steps that are reasonably necessary to ensure that your personal data is treated securely and is used in accordance with this Privacy Policy even when your personal data is transferred to, and processed in, a jurisdiction outside of the European Economic Area and no matter where your personal data is processed, this Privacy Policy will remain in effect. We shall take all steps reasonably necessary to ensure that any third parties who transfer personal data outside of the European Economic Area as described above shall have the appropriate protections in place to satisfy the requirements of the Data Protection Act.  
+Information we collect about you. We will use this information:
 
+To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-## DIRECT MARKETING
+To improve our site to ensure that content is presented in the most effective manner for you and for your computer;
 
-Where users have signed up and not opted out from receiving information and promotions from us, the personal data may also be used to notify users of future Universal Music product releases and information on the artist concerned together with news on other Universal Music artists, related products and services which may be of interest to users. You hereby give us your consent to receive marketing information from us for these purposes by choosing not to opt-out on the registration form.
+To allow you to participate in interactive features of the Site, when you choose to do so;
 
-If at any time you wish to stop receiving information you can opt out or reply to the e-mail address at the bottom of each e-mail you receive from us. You can also opt out of any SMS communications you receive from us. Alternatively you can e-mail us at [info@umusic.com](mailto:info@umusic.com) and tell us what you would like us to do.
+As part of our efforts to keep our Site safe and secure;
 
-we may market third party products or services ourselves that are expressly connected with the relevant artist, such as ring-tones. We may also, occasionally include advertising for third party products or services on the website, or in newsletters or other artist mailings you receive from us.
+To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
 
-You give us your consent to receiving marketing information from third parties (including artists and their management companies) about their products and services by choosing to opt-in on the registration form. We do not pass your details to third parties for the purposes of allowing them to market their products or service to you, UNLESS you have ticked this UNLESS you have ticked the third party box on our registration forms giving us permission to do so. 
+To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them;
 
-You give us your consent to receiving marketing information from our group companies.
+Information we receive from other sources.
 
-Please note that the opt-ins and opt-outs on this website cover all means of us communicating with you, including by email, post, phone SMS text message and other electronic means. 
+We may combine information from other sources with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-When you choose to opt-in or opt-out through this website, this opt-in or opt-out will only apply to the personal data stored about you on this website's databases. If you have provided personal data to one of our group companies through another channel, the use of that personal data will not be affected by the opt-ins or opt-outs that you select on this website.
+**• DISCLOSURE OF YOUR INFORMATION**
 
-If you register for artist update via SMS to 82665 you will be registered for email and mobile updates. Please note this is a UK Only service. Texts are completely FREE to you with the exception of the initial registration text which will cost your standard network charge. To stop receiving text messages in the future all you have to do is text STOP [KEYWORD] to 82665 - the relevant keyword will have been given to you at initial registration and on any subsequent text messages. To stop receiving emails just click on Opt-Out link on any of the emails you receive from us.
+We may share your personal information with any Sounds Like Nashville Company, and with selected third parties including:
 
-## USE BY CHILDREN
+Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
-If you are under the age of 16 you should obtain the consent of your parents or legal guardians for submitting any personal data to this website.
+Aggregate or anonymized data to advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
 
-Children under the age of 13 should not submit any personal data without the written consent of their parents or legal guardian. If you are a child under 13 and want to submit personal data to us please ask your parent or legal guardian to send us an email at [info@umusic.com](mailto:info@umusic.com) with the subject 'Parental Consent' specifying that they consent to us collecting your personal data through this website. You and your parents or legal guardians should also read the Safe Surfing Guide here. Parents or legal guardians may review or change the personal data of their children or refuse further collection of any such personal data by sending an email to us at [info@umusic.com](mailto:info@umusic.com)
+Analytics and search engine providers that assist us in the improvement and optimization of our Site.
 
-## THIRD PARY COOKIES
+We may disclose your personal information to third parties:
 
-Some of the advertisements you see on this and some artist sites are generated by third parties. Some of these third parties generate their own "anonymous cookies" to track how many unique users have seen a particular ad, and how many times they have seen it. These third party cookies cannot be used to identify an individual user, but only for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users). We may also allow the artist and/or its management company to collect and process data (including personal data) from users via third party cookies or similar technologies used on this website for the purposes of statistical analysis and targeted advertising provided that they have confirmed to us that they are registered with the Data Protection Act. Where the artist and/or its management processes personal data collected via third party cookies they will do so in accordance with their own strict privacy policy and not this privacy policy. Again, we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all Universal Music may also appoint approved third parties to collect and process data (including personal data) on our behalf using such third party's cookies or similar technologies for the purposes of targeted advertising. For more information on third party cookies that are used on this website, please see our cookies policy here: <http://www.umusic.co.uk/cookie-info.html>.
+In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-If you wish to block third party cookies, you can do so in your browser's security settings - indeed, the majority of browsers will block them by default. 
+If any of the Sounds Like Nashville Companies or substantially all of their assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-## COOKIES
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://privacypolicy.umusic.com/terms/) (INSERT SNL TERMS OF USE LINK) and other agreements; or to protect the rights, property, or safety of Sounds Like Nashville, LLC., our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-Universal uses cookies and for more information on our use of cookies, please see our cookies policy : <http://www.umusic.co.uk/cookie-info.html>
+To any other third party with your consent to do so.
 
-## Google Analytics
+**• WHERE WE STORE YOUR PERSONAL INFORMATION**
 
-Google Analytics uses cookies to define user sessions, as well as to provide a number of key features in the Google Analytics reports. Please click [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) for information about how Google Analytics uses cookies and details of what cookies are set by Google.
+All the information you provide may be transferred or accessed by entities around the world as described in this policy. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. We have put in place appropriate technical and organizational procedure to safeguard the information we collected on this Site.
 
-We may use Google Analytics for the following purposes:
+The security of your personal information is important to us. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-**Remarketing:** (showing our ads on third party websites). Universal Music and third-party vendors, including Google, use cookies to inform, optimise and serve ads based on someone's past visits to our website.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
-**Google Display Network Impression Reporting:** Universal Music and third-party vendors, use cookies to report how our ad impressions, other uses of ad services and interactions with these ad impressions and ad services are related to visits to our site.
+**• TRACKING TECHNOLOGIES**
 
-**Google Analytics Demographics and Interest Reporting:** Universal Music use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics to inform our marketing strategy.
+We and our affiliates, analytics and service providers use technologies such as cookies, beacons, tags and scripts. These technologies are used in analyzing trends, administering the site, remembering preferences, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-Visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads using Google's Ad [Settings](https://www.google.com/settings/ads) page.
+We also use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-Visitors can opt out of Google Analytics using this [link](https://tools.google.com/dlpage/gaoptout/).
+**• SOCIAL MEDIA**
 
-For more information on our cookies, please visit our [cookies](http://www.umusic.co.uk/cookie-info.html) page.
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-## FORUMS
+You may be able to log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-We will do our best to assess any possible risks for users of our forums (and in particular, for children) from third parties when they use the forums, and we will decide in each case whether it is appropriate to use moderation of the relevant forum (including what kind of moderation to use) in the light of those risks. However, we are under no obligation to oversee, monitor or moderate any forum we provide on the website, and we have no liability or responsibility for any loss or damage arising from the use of any forum by you in contravention of our standards in this section, whether the forum is moderated by us or not. While the administrators and moderators of our forums will attempt to remove or edit any generally objectionable material as quickly as possible, it is impossible to review every message. Therefore you must acknowledge that all posts made to these forums express the views and opinions of the author and not the administrators, moderators or webmaster (except for posts by these people) and hence will not be held liable.
+**• CHILDREN**
 
-We ask that you agree to not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-oriented or any other material that may violate any applicable laws. Doing so may lead to you being immediately and permanently banned (and your service provider being informed). The IP address of all posts is recorded to aid in enforcing these conditions. You agree that the webmaster, administrator and moderators of the forum have the right to remove, edit, move or close any topic at any time should they see fit. As a user you agree to any information you have entered above being stored in a database. While this information will not be disclosed to any third party without your consent the webmaster, administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised.
+The Site is not directed toward children under 13 years of age nor does Sounds Like Nashville knowingly collect information from children under 13. If you are under 13 years of age, you are not permitted to submit any personally identifiable information to Sounds Like Nashville.
 
-Our forum system uses cookies to store information on your local computer. These cookies do not contain any of the information you enter on this form; they serve only to improve your viewing pleasure. The e-mail address you enter will be used for confirming your registration details and password (and for sending new passwords should you forget your current one). When you register to use and to post comments on this board you will also be signed up to receive updates about new releases, preferential ticket purchase opportunities, PA's, exclusive competitions and music downloads from the artist. The first email you will be sent will contain your username and password plus a confirmation link. If you are happy to receive the updates from the artist just click on the confirmation link within that email, if you do not click on that link you will not receive updates via email from the artist.
+**• YOUR RIGHTS**
 
-As a member of our artists' Community Server based forums, you will find that your username and password will work on many of our other artist/label boards. We may from time to time contact you about forum development & improvements or to introduce you to new music based community environments that Universal Music may offer in the future.
+You are responsible for keeping your information current and up-to-date. You may update your information by contacting us at the contact information listed below.
 
-We also recommend that you read the Safe Surf advice on all our forums before you register.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove it by making the change on our member information page or by contacting us at the contact information listed below.
 
-## RESEARCH
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We are always looking to improve our user experience on the website and to find out more about our users' tastes in music. We conduct research by sending out questionnaires from time to time by email. If you receive one you do not need to complete it if you do not want to. If at any time you wish to stop receiving research questionnaires you can reply to the email address at the bottom of the email you receive. Alternatively email us at [info@umusic.com](mailto:info@umusic.com) and tell us you do not want to receive any more questionnaires.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at the contact information listed below.
 
-## FORWARDING WEB PAGES
+Where provided under applicable law, you may have the right to ask us for a list of your personal data we share with third parties and information regarding those third parties, if the third parties use the personal data for their direct marketing purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at the contact information listed below.
 
-If we provide you with the opportunity to email a web page to another person, we will need to collect your email address and the email address of those to whom you send the page. We will use the email addresses collected this way for no other purpose expect to send the web page, and the addresses will be deleted once the page has been sent unless you have opted in to receive information and promotions from us as set out above using the same email address, in which case we will retain your email address for this purpose unless and until you notify us that you wish to stop receiving information.
+**• LINKS TO THIRD PARTY SITES**
 
-## FINANCIAL
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-We may use your financial information (including credit card transactions) to check your qualifications and bill you for and otherwise facilitate your purchase of products and services. When you make a purchase on the website, we will provide your financial information (including credit card transactions) to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information (including credit card transactions) with applicable Event Partners, primarily but not exclusively for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event. When you purchase products or services of third parties (such as magazine subscriptions) offered on the website, we will provide your financial information (including credit card transactions) to those third parties. Any of these various third parties are authorised to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control.
+**• CHANGES TO OUR PRIVACY POLICY**
 
-## HOW WE USE AND WHEN WE SHARE BROAD DEMOGRAPHIC INFORMATION
+Any material changes we may make to our privacy policy in the future will be posted on this page prior to the change becoming effective and notify you through the Site or, where appropriate, by e-mail. Please check back frequently to see any updates or changes to our privacy policy. These changes will become effective upon obtaining your consent, if necessary, as required under local law. If you do not agree or consent to these updates or changes, do not continue to use the Site.
 
-We may use, and may transfer to others to use, broad demographic information that may include data from your activity at the website, but not personal data. For example, we use broad demographic information to tailor the site to the interests of our visitors, and we may share it with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. We reserve the right to use such broad demographic information, and to allow others to make use of it, without limitation or restriction, and without further notice to you, in our sole and absolute discretion and is the sole and absolute discretion of those with whom we share such information.
+**• CONTACT**
 
-## SHARING DATA WITH THIRD PARTIES WORKING ON BEHALF OF UNIVERSAL MUSIC
-
-Universal Music works with a number of carefully selected third party companies that provide a broad range of online solutions, from traffic analysis and advertising to user experience enhancements, such as enabling you to use the same login details across multiple websites.
-
-It is sometimes necessary for Universal Music to provide these companies with access to limited personal information about our users. In such cases Universal Music will share only the personal data required to for these companies to perform their functions and will not allow them to use this data for any other purposes. A selection of these third party companies include:
-
-## Appreciation Engine:
-
-Universal Music uses Appreciation Engine to provide single-sign-on functionality, social network integration and user analytics for a number of Universal Music websites and registration forms. This enables you to login to an artist website or register for artist updates by using your social media accounts such as a Facebook or Twitter account for example, rather than using an email address and password. If you do choose to use an email address and password, these credentials will allow you to access other Universal Music websites & forms as your unique ID will be stored via the Appreciation Engine login.
-
-The Appreciation Engine collects personally identifiable information such as names and email addresses, demographic information, location and behavioural information in accordance with the preferences you gave when setting up your social account. Appreciation Engine may transfer the personal data outside of the European Economic Area for the purposes of processing personal data as Appreciation Engine's servers are located outside of the European Economic Area. Appreciation Engine is Safe Harbor certified and Universal Music shall take all steps reasonably necessary to ensure that Appreciation Engine have the appropriate protections in place to satisfy the requirements of the Data Protection Act.
-
-Universal Music will also have access to the data collected by Appreciation Engine on our behalf while facilitating user interaction with our websites and other online properties, such as apps. This may include personal and behavioural data, such as which websites on the Universal Music network a specific user has visited and the comments a user has made on Facebook about a Universal Music artist.
-
-This data will be used as part of Universal Music's combined digital marketing strategy, which includes communication via email, SMS, social media and online advertising. You can find more information [appreciationengine.com](http://theappreciationengine.com/)
-
-## Comufy:
-
-Comufy is a service that enables Universal Music to communicate with fans of our artists via Facebook notifications. If you provide us with your Facebook ID, by registering for one of our mailing lists or websites using Facebook, or any other means, we may provide Comufy with your Facebook ID and/or email address to enable us to communicate with you about your requested artist via Facebook apps, notifications and other channels. If you do not wish to receive these notifications, please log into Facebook and set the notification permission setting of the Comufy app to 'Never'. You can find more information at [http://comufy.com](http://comufy.com/)
-
-## Facebook:
-
-Facebook allows companies like Universal Music to target specific users with advertising campaigns across their service. To enable Facebook to identify these users it is necessary for us to provide them with a 'hashed' non personally identifiable fingerprint of your email. Facebook will be able to match your email address if they already exist in their database (because the fingerprints will be the same).
-
-This data is sent to Facebook over a secure connection and compared with their user database. Any non-matches are ignored while matches will be made available to Universal Music for targeted advertising campaigns across the Facebook service. 
-
-If we decide to include you in a list of users to be targeted with an advertising campaign on Facebook, we will use an interface managed by Facebook to hash your email into a non personally identifiable format before transmitting this to Facebook.
-
-You can find more information about Facebook advertising here: <https://www.facebook.com/about/privacy/advertising>
-
-## THIRD PARTIES
-
-When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors. Operators of such linked sites may acquire personal data about you through registration procedures or other means and may use that personal data in accordance with their own privacy policies, over which we have no control. Your access and use of linked sites is solely at your own risk.
-
-## SECURITY
-
-Whenever we obtain your personal data we take reasonable precautions to protect it from unauthorised access or disclosure, but we cannot act as insurers of the security of your personal data transmitted over the internet. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or missions beyond our reasonable control.
-
-## DISCLOSURE
-
-If you are a member of the artists community you should note that when you complete your member profile this information can be viewed by other members. Accordingly, you should not provide any information in your member profile that you do not wish to share with third parties and you should have no privacy expectations with respect to the information contained within it. You should be aware that if you voluntarily disclose information online in a public accessible area, such as in your member profile, a message board or chat room, that information may be collected an used by others. We do not control the actions of our visitors. If you disclose personal data in your member profile message board or any other public accessible place on the internet you do so at your own risk and should understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes. Please remember the protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online.
-
-## GENERAL
-
-Universal may make changes to this privacy policy from time to time but will not change the way we use your personal data provided previously without your consent.
-
-If any provision of this Privacy Policy is held to be invalid or unenforceable, such provision shall be struck out and the remaining provisions shall be enforced. Universal's failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches.
-
-This Privacy Policy is governed in all respects by the laws of England and Wales. Legal proceedings related to the matters set out in the Privacy Policy shall be brought in and adjudicated solely in the courts of England and Wales.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Sounds Like Nashville, LLC 401 Commerce Street – Suite 140 Nashville, TN 37219.
