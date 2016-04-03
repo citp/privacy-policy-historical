@@ -1,62 +1,87 @@
-> *The following text is extracted and transformed from the loxb.com privacy policy that was archived on 2011-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110924031454id_/http%3A//www.loxb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loxb.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403122442id_/http%3A//loxb.com/privacy.html) for the most accurate reproduction.*
 
-# Video Games: Wii, PlayStation 3, Xbox 360, Nintendo DS, PSP
+# vodbuzz Game Privacy
 
-##  PRIVACY POLICY
+loxb Online Privacy Policy
 
-Welcome to loxb.com (the "Site").
+Thank you for visiting loxb. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this website and in the loxb service.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by loxb.com (collectively, "Services") ("Authorized Customers").
+The information we collect
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+At loxb’ web site, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, credit card information, and information about your interests in and use of various products, programs, and services.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+You can also submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card, to send a link or message to a friend about loxb products or services, or the site, or other material, and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people include: recipient's name, address, e-mail address, telephone number….
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+At certain parts of our site, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+We also may collect certain non-personally identifiable information when you visit many of our web pages or when you utilize the loxb service, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 'XP, Vista or Mac OS…) the domain name of your Internet service provider (e.g., America Online, Earthlink…), your activities while visiting our web pages, and your activities while using the loxb service (e.g., which of our web pages you viewed, or which games within the loxb service you played, etc.). Functions within the loxb desktop application will automatically transmit this data back to us on a regular basis.
 
- [](http://www.resellfire.com/)
+How we use the information
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+We may use the information you provide about yourself and any other information we collect about you to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings (including, without limitation, customer service inquiries), and to offer you other products, programs or services that we believe may be of interest to you. We assume that any information that you provide us in connection with loxb service, including any account and sign-up information, is both accurate and truthful. loxb cannot and will not be held responsible or liable for any misrepresentation or inaccuracy contained in or resulting from information that you provide.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by loxb.com is securely stored and is not accessible to third parties or employees of loxb.com except for use as indicated above.
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for customer service assistance, for an online newsletter, or to contact you about your account with us.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [admin@loxb.com](mailto:admin@loxb.com)
+We use the information that you provide about others to enable us to send them your gifts, messages, or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+The information we collect in connection with the loxb service and our online forums and communities is used to provide an interactive experience. We use this information to facilitate your participation and, from time to time, to offer you products, programs, or services.
 
-**How does loxb.com use login information?**  
-loxb.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us.
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-loxb.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+We sometimes use information that we collect to improve the design and content of our service and to enable us to personalize your experience with us. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [admin@loxb.com](mailto:admin@loxb.com)
+Agents and contractors of loxb who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for loxb.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [admin@loxb.com](mailto:admin@loxb.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+Provided you haven’t opted out of the “Email me about loxb’s Partner or 3rd party special offers” option, either upon registration or thereafter, loxb may disclose personally identifiable information to companies whose practices are not covered by this privacy notice (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that may want to market products or services to you. We may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+Cookies and web beacons
+
+To enhance your experience with our websites and the loxb service, many of our web pages use "cookies" and "web beacons." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages ( e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
+
+"Web beacons" or clear .gifs are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. We may use web beacons on our sites from time to time for this and other purposes.
+
+Collection of information by third-party sites, ad servers and sponsors
+
+loxb website may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+
+loxb website sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. loxb has no control over these third parties' use of this information. The loxb site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+
+loxb website may use a reputable third party to present or serve the advertisements that you may see at its Web pages. These third party ad servers may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our privacy policy. For more information on such third-party ad servers, please see the section below, entitled "Third-Party Ad Servers".
+
+Our commitment to security
+
+We put in place physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+How you can access or correct information
+
+For instructions on how you can access the personally identifiable information that this loxb site has collected about you online, or how to correct factual errors in such information, please follow the directions at the bottom of this policy.
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+Special note for parents
+
+Visitors to loxb's website may participate in activities without providing any personally identifiable information. However, if a user wants to receive emails from loxb, or wants to access loxb's broadband gaming network, we ask the user to provide us with personal information, including name, screen name, e-mail address, gender, and/or age information. If a visitor to loxb's website self-identifies as under 13 years of age, we will either collect no personally identifiable information from that individual, inform the child that a parent's verifiable consent is required, or we will collect the e-mail address of the user's parent in addition to the user's e-mail address. We use the parent's e-mail address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. For children joining the loxb service, we will ask parents to create sub accounts and obtain their prior consent prior to collecting personally identifiable information from their children. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's personally identifiable information with outside third parties not bound by this privacy notice for their own marketing purposes.
+
+Please send a letter or postcard to our Privacy Manager at the mailing address provided below if you would like to review any of the personally identifiable information we have collected online from your child, or if you would like to do any of the following:
+
+* access personally identifiable information that loxb's website has collected online from your child,
+
+* correct factual errors in such information,
+
+* request to have this information deleted, or
+
+* request that we no longer collect or maintain such information.
+
+Please be sure to include your e-mail address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to verify your identity before granting you access to the personal information that we collect and maintain about your child. If you have any questions, or concerns regarding our privacy policy and/or practices, please contact us at the e-mail address, mailing address or telephone number listed below.
+
+How to contact us
+
+If you have any questions or concerns about the loxb online policy for this site or its implementation you may contact us on [http://support.loxb.com](http://support.gametap.com/).
+
+Updates & effective date
+
+From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. The Privacy Notice posted on this site was updated on or about March 20, 2009.
