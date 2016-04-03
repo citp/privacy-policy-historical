@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2015-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150706012453id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcbanksmartapply.com privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403092322id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -34,7 +34,6 @@
     function getNewImage() {
         return (window.Image ? new Image() : document.createElement('img'));
     }
-
     //Gets the browser specific XmlHttpRequest Object
     function getXmlHttpRequestObject() {
         if (window.XMLHttpRequest) {
@@ -47,46 +46,13 @@
         }
         return false;
     }
-
     function getParameterByName(name) {
         name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
         var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
                 results = regex.exec(location.search);
         return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
     }
-
-    window.onerror = function(msg, url, linenumber) {
-        var errdt = new Date();
-        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
-        var receiveReq = getXmlHttpRequestObject();
-        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
-        // TODO: need to verify if the parameters should be converted to utf8 format
-        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
-            //Setup the connection as a GET call
-            //True explicity sets the request to asyncronous (default).
-            // This replace is to replace all possible attack words to some other by changing major vowels to numbers
-            // otherwise the session will be expired and the customer is punished.
-            if (msg != null && typeof(msg) == "string") {
-                msg = msg.replace(/a/gi, "@");
-                msg = msg.replace(/e/gi, "3");
-                msg = msg.replace(/i/gi, "1");
-                msg = msg.replace(/o/gi, "0");
-            }
-            receiveReq.open("GET", ctx + "images/jserror.gif?linenumber=" + linenumber + "&url=" + url + "&msg=" + msg + "&dt=" + errdt, true);
-            //Make the actual request.
-            receiveReq.send(null);
-        }
-        return false;
-    };
-
-    var st = new Date();
-    var loc = escape(window.location);
     var ctx = "/";
-    var unique_id = "null";
-    var start_time = "";
-    var req = ctx + "images/started.gif?id=" + unique_id + "&t=" + start_time;
-    getNewImage().src = req;
-
     
     function firePixel() {
         setTimeout(function() {
@@ -126,7 +92,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/N391478737/bundles/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/919774943/bundles/main.css">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" media="screen" href="https://d348z50i2vdtcc.cloudfront.net/1474426547/bundles/ie.css" />
 <![endif]-->
@@ -196,14 +162,14 @@
             <div id="hdfcBBLogo"><span class="gb powered-by" title="Powered by bankbazaar.com"></span></div>
             <div class="footer">
 	<div class="footer_content">
-	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© 2015 HDFC Bank Ltd. All rights reserved.
+	    <span class="float_right gb verisign lazy-load {src:'/security-seals.html'}"></span><span class="copy">© 2016 HDFC Bank Ltd. All rights reserved.
             <a href="/privacy-policy.html" target="_blank">Privacy</a> | <a href="/website-usage.html" target="_blank">Website Usage Terms</a></span>
 	</div>
 </div></div>
     </div>
 </div>
 
-<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1436071678411/jawr_loader.js"></script>
+<input type="hidden" name="website" value="HDFC_WHITELABEL" id="website"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1459461188169/jawr_loader.js"></script>
 <script type="text/javascript">
     JAWR.loader.getURLs = function (path, ptype) {
         var paths = [];
@@ -241,7 +207,7 @@
         return paths;
     }
 
-</script><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1436071678411/jawr_loader.js"></script>
+</script><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/1459461188169/jawr_loader.js"></script>
 <script type="text/javascript">
     JAWR.loader.getURLs = function (path, ptype) {
         var paths = [];
@@ -279,8 +245,8 @@
         return paths;
     }
 
-</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/869955139/bundles/site-wide.js"></script>
-<script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/N401210762/bundles/site-wide-lazy.js"></script>
+</script><input type="hidden" name="isTrackingRequired" value="false" id="isTrackingRequired"><script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/N1696429908/bundles/site-wide.js"></script>
+<script type="text/javascript" src="https://d348z50i2vdtcc.cloudfront.net/N687348434/bundles/site-wide-lazy.js"></script>
 <script type="text/javascript">
 if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
   window.onpageshow = function(evt) {
@@ -331,53 +297,18 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 
 
 <script type="text/javascript">
-    var et = new Date();
-    var pageLoad = et - st;
-    var loc = escape(window.location);
-    var ctx = "/";
-    var req = ctx + "images/loaded.gif?id=" + unique_id + "&t=" + start_time;
-    getNewImage().src = req;
-
-    function addLoadEvent(func) {
-        var oldonload = window.onload;
-        if (typeof window.onload != 'function') {
-            window.onload = func;
-        } else {
-            window.onload = function() {
-                oldonload();
-                func();
-            }
-        }
-    }
-    addLoadEvent(function() {
-        var ct = new Date();
-        // Ajax get call implemented in javascript as jquery libraries would not be loaded before this call
-        var receiveReq = getXmlHttpRequestObject();
-        //If our XmlHttpRequest object is not in the middle of a request, start the new asyncronous call.
-        if (receiveReq.readyState == 4 || receiveReq.readyState == 0) {
-            //True explicity sets the request to asyncronous (default).
-            receiveReq.open("GET", ctx + "images/completed.gif?id=" + unique_id + "&t=" + start_time + "&ajax=" + true, true);
-            //Make the actual request.
-            receiveReq.send(null);
-        }
-    });
-
     window.onpageshow = function(event) {
         if (event.persisted) {
             window.location.reload()
         }
     };
-
 </script>
 
 <div class="dontshow">
 
         f28yewHTCRqa5tc - pingdom check string.
     </div>
-<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="productShortName" value="L" id="productShortName"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="https://d348z50i2vdtcc.cloudfront.net" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><input type="hidden" name="" value="false" id="offlineChannel"><input type="hidden" name="appEmailPresent" value="" id="appEmailPresent"><input type="hidden" name="pageName" value="miscPage" id="pageName"><input type="hidden" name="variantName" value="" id="variantName"><input type="hidden" id="firstInsuranceRedirectLink" value="https://buy.insuranzone.com">
-<input type="hidden" id="insuranzoneRedirectUrl" value="https://buy.insuranzone.com/insurance/.html">
-
-<div class="dontshow">
+<input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="productShortName" value="L" id="productShortName"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="HDFC_WHITELABEL" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="https://d348z50i2vdtcc.cloudfront.net" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><input type="hidden" name="" value="false" id="offlineChannel"><input type="hidden" name="appEmailPresent" value="" id="appEmailPresent"><input type="hidden" name="pageName" value="miscPage" id="pageName"><input type="hidden" name="variantName" value="" id="variantName"><input type="hidden" name="firstInsuranceRedirectLink" value="" id="firstInsuranceRedirectLink"><input type="hidden" name="insuranzoneRedirectUrl" value="https://buy.insuranzone.com/insurance/.html" id="insuranzoneRedirectUrl"><input type="hidden" name="variantName" value="" id="variantName"><input type="hidden" name="prefillFlowStatus" value="false" id="prefill-active-param"><input type="hidden" name="prefillFlowEditStatus" value="false" id="prefill-edit-param"><div class="dontshow">
     </div>
 
 
