@@ -1,39 +1,49 @@
-> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717141034id_/http%3A//intech-bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403032333id_/http%3A//intech-bb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Intech-BB.com
+# PRIVACY POLICY | Intech
 
-**Privacy policy**
+**PRIVACY POLICY**
 
-For users of smartphone seller sites, privacy is really an important deal. During the time of conducting a business online, things become far important regarding privacy. Here are points to express our privacy policy for users of the site.
+At http://www.intech-bb.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.intech-bb.com/ and how we use it.
 
-**Collection of personally identifiable information**
+**Log Files**  
+Like many other Web sites, http://www.intech-bb.com/ makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We are permitted for collection of identifiable information. We collect full information of authorized customers such as phone numbers, address and email addresses apart from name. The size and type of business with advertisement inventory is also secured by us.
+**Cookies and Web Beacons**  
+http://www.intech-bb.com/ uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
 
-**Use of personally identifiable information**
+**DoubleClick DART Cookie**
 
-In order to customize the site, make things suitable according to customers, meeting buy and sell requests and sending mails to customers, we use the personally identifiable information. Also to contact to visitors and customers regarding exclusive records, survey and deal, we can use the same info.
+→ Google, as a third party vendor, uses cookies to serve ads on http://www.intech-bb.com/.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.intech-bb.com/ and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**Third party issues**
+**Our Advertising Partners**
 
-Apart from collecting information directly, our third party service dealers collection information from visitors and customers and we can’t know that how this information is being used by the third party. Still we can ask those parties to reveal the way they use that information. Also, some of these groups fully act as a connective link and don’t save any kind of information from visitors.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-**Storage of this kind of information**
+  * Google
+  * Amazon
+  * Yahoo! Publisher Network
+  * Azoogle
 
-We collect this kind of information about customers by smart phone websites is kept protected. These details are not subjected to be revealed over third party apart for the use mentioned above.
 
-**Sharing information**
 
-We can share personally identifiable information of a an authorized customers with another authorized customers who are willing for potential deals with the other customers. The kind of information we share in such case includes the list of our third party dealers, demographics of site visitors and regular clients. You can select the option of ‘opt out’ to get the information in your inbox.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://www.intech-bb.com/._
 
-**Use of cookies**
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.intech-bb.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-Cookies are applied in our sites in order to check out that what products are kept at preference by our customs. In order to keep the identity of authorized customer secured also we use cookies. For instance, the one who leaves the site without using it for 10 minutes and more after logging it, is logged from the site automatically.
+http://www.intech-bb.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-**Security of personal identifiable details**
+**Third Party Privacy Policies**
 
-Our security policy is known well by our technically expert staff and they know well to keep it protected. Only limited numbers of employees in the company who are reliable know your password. Our system is audited very frequently to check out whether the information has been kept secret and safe or not.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.intech-bb.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
 
-**Google’s DART policy**
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Google keep cookies saved as a third party vendor from our site; it uses these cookies for displaying ad and promoting services and products.
+**Children’s Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.intech-bb.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.intech-bb.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
