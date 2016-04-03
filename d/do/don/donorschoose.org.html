@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2015-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113035807id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403203535id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -10,8 +10,72 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="shortcut icon" href="http://cdn.donorschoose.net/images/favicon.ico?v=3" type="image/png">
-<link type="text/css" rel="stylesheet" href="http://cdn.donorschoose.net/gcss/general.css?version=0bf6c9a">
+<link type="text/css" rel="stylesheet" href="http://cdn.donorschoose.net/gcss/general.css?version=9bcfe72">
 
+
+
+
+<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#version=v2.2&amp;xfbml=1&amp;appId=44550081712"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-2017425730.js"></script><script type="text/javascript" async="" src="//cdn.optimizely.com/js/46959397.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    if (self !== top) {
+        hideEverything(); // adds CSS to hide body
+        top.postMessage("unblock-request", "*");
+    }
+
+    
+    function hideEverything() {
+        var css = "body { display: none; }";
+        var style = document.createElement("style");
+        style.type = "text/css";
+        style.id = "antiClickjack";
+        if (style.stylesheet) {
+            style.stylesheet.cssText = css;
+        } else {
+            style.appendChild(document.createTextNode(css));
+        }
+
+        document.querySelector("head").appendChild(style);
+    }
+
+    function receiveMessage(event) {
+        if (! isFromUs(event.origin)) return;
+
+        if (event.data === "unblock-request") {
+            event.source.postMessage("unblock", event.origin);
+        } else if (event.data === "unblock") {
+            showEverything(); // removes CSS added by hideEverything();
+        }
+    }
+
+    // The "origin" on a postMessage payload will not contain the full URL.
+    // We can only check if the message came from the right origin.
+    function getOrigin(url) {
+        var uri = new Uri(url);
+        return uri.protocol() + "://" + uri.host();
+    }
+
+    function isFromUs(origin) {
+        var pattern = /^[^.]*\.donorschoose\.org$/;
+        // only accept messages from donorschoose
+        return pattern.test(origin) ||
+                origin === getOrigin("http://storage.donorschoose.net/") ||
+                origin === getOrigin("https://storage.donorschoose.net/") ||
+                origin === getOrigin("http://cdn.donorschoose.net/") ||
+                origin === getOrigin("https://cdnsecure.donorschoose.net/");
+    }
+
+    function showEverything() {
+        var antiClickjack = document.getElementById("antiClickjack");
+        if (antiClickjack !== null) {
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        }
+    }
+
+    if (window.addEventListener) {
+        window.addEventListener("message", receiveMessage, false);
+    } else if (window.attachEvent) {
+        window.attachEvent("onmessage", receiveMessage);
+    }
+</script>
 
 
 
@@ -175,11 +239,11 @@
 
 
 <!-- SET UP GLOBAL JAVASCRIPT VARIABLES -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#version=v2.2&amp;xfbml=1&amp;appId=44550081712"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-2017425730.js"></script><script type="text/javascript" async="" src="//cdn.optimizely.com/js/46959397.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript">
 self.name = "_orig";
 
 
-var versionNum = "0bf6c9a";
+var versionNum = "9bcfe72";
 
 
 
@@ -199,11 +263,11 @@ var apiURL = "http://api.donorschoose.org/";
 
 
 
-var baseS3URL = "http://s3.donorschoose.net/donorschoose-storage/";
+var baseS3URL = "http://storage.donorschoose.net/";
 
 
 
-var secureS3URL = "https://a248.e.akamai.net/f/248/48906/1h/s3.amazonaws.com/donorschoose-storage/";
+var secureS3URL = "https://storage.donorschoose.net/";
 
 
 
@@ -236,11 +300,6 @@ var mobileOptimized = true;
 </script>
 <!-- /SET UP GLOBAL JAVASCRIPT VARIABLES -->
 
-
-<!--[if lt IE 9]>
-<script type="text/javascript" src="http://cdn.donorschoose.net/js/html5shiv.min.js"></script>
-<script src="http://cdn.donorschoose.net/js/polyfills/es5-shim-4.1.0.js"></script>
-<![endif]-->
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
@@ -330,13 +389,7 @@ var mobileOptimized = true;
 
 
 
-
-
-	
-	
-		<script type="text/javascript" crossorigin="anonymous" src="http://cdn.donorschoose.net/js/dc/general.js?version=0bf6c9a"></script>
-	
-
+<script type="text/javascript" crossorigin="anonymous" src="http://cdn.donorschoose.net/js/dc/general.js?version=9bcfe72"></script>
 
 
 
@@ -496,9 +549,7 @@ var mobileOptimized = true;
 
 
 
-    
-
-<script type="text/javascript" async="" src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript" async="" src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script></head>
 <body>
 
 
@@ -586,12 +637,22 @@ var mobileOptimized = true;
 
 
 
-
 <div id="mainHeader">
+
 <div class="promo-banner eif-banner">
 	<div class="banner-container">
 		<span class="eif-logo">Think It Up</span>
 		<p>Join the <strong>Think It Up</strong> movement and help bring innovative student learning projects to life. Think It Up is a collaboration between the Entertainment Industry Foundation and DonorsChoose.org. <a target="_top" href="http://www.donorschoose.org/classroom-support/think-it-up-partner-page/20636005/">Learn more »</a></p>
+	</div>
+</div>
+
+<div id="teacher-profile-photo-banner" class="banner-alert highlight redux" style="display:none">
+	<div class="container">
+		<i class="ss-junior ss-camera"></i>
+		<p>
+			<strong>Upload a profile photo!</strong> <a class="heap-tpp-upload-link" onclick="toggleTeacherProfilePhotoUploadOverlay(event)">Add a profile photo</a> to raise your chances of getting funded.
+		</p>
+		<a class="ss-junior close" tabindex="0" onclick="hideTeacherProfilePhotoBanner()">delete</a>
 	</div>
 </div>
 
@@ -630,29 +691,8 @@ var mobileOptimized = true;
     </div>
 </div>
 
-<!-- HIW -->
-<div id="genHIW">
-<div class="holder">
 <div id="facepile"><fb:facepile size="medium" width="230" maxrows="1" colorscheme="dark" allowtransparency="true"></fb:facepile></div>
-
-<div id="videoHIW">
-<div class="quoteHolder">
-<a id="oprahQuote" class="quote oprah" onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque"><img src="http://cdn.donorschoose.net/images/header/quote_oprah.png" alt="A revolutionary charity.  --Oprah"></a>
-<a id="colbertQuote" class="quote colbert" onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque"><img src="http://cdn.donorschoose.net/images/header/quote_colbert.png" alt="A revolutionary charity.  --Steven Colbert"></a>
 </div>
-<a class="playVideo" onmouseover="getVideoRollover();" onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque"><img src="http://cdn.donorschoose.net/images/header/video.png" alt="Introduction to Donorschoose.org with Oprah and Steven Colbert"></a>
-</div>
-
-<div id="videoHIWOn" style="position:absolute;display:none" onmouseout="getVideoRollout();">
-<a class="quote" onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque"><img src="http://cdn.donorschoose.net/images/header/quote_rollover.png" alt="Watch Oprah and Colbert show how it works"></a>
-<a class="playVideo" onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque"><img src="http://cdn.donorschoose.net/images/header/video_on.png" alt="Introduction to Donorschoose.org with Oprah and Steven Colbert"></a>
-</div>
-
-</div>
-</div>
-<!-- /HIW -->
-</div>
-
 
 <!-- IE SPECIFIC -->
 <div id="ie6_header_error_holder" style="display:none;">&nbsp;</div>
@@ -660,9 +700,6 @@ var mobileOptimized = true;
 
 
 <!-- PROMO STRIP: SITE-WIDE zone 55555 or HOMEPAGE zone 10001 -->
-
-
-
 
 
 
@@ -1009,7 +1046,6 @@ h4 {
 
 
 
-
 <!-- SET VARS FOR DONATION ACQ. TRACKING -->
 <script type="text/javascript">/* <![CDATA[ */
 var genLandingURL = location.href;
@@ -1024,7 +1060,92 @@ $(document).ready(function() {
 <!-- SET VARS FOR DONATION ACQ. TRACKING -->
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1114,11 +1235,27 @@ $(document).ready(function() {
 
 
 
-
 <!-- FOOTER -->
 
 
 
+
+<div class="newbie-banner redux">
+	<div class="container">
+		<div class="colbert-quote">
+			<p>“You know exactly who you're helping.” —Stephen Colbert</p>
+		</div>
+		<a onclick="showVideoLightBox(this.href);return returnFalse();" href="//www.youtube.com/embed/m7ouj-ehfJs?autoplay=1&amp;wmode=opaque" class="watch-video">
+			Watch the video
+		</a>
+	</div>
+</div>
+
+<div class="BSD-banner" style="display: none;">
+	<div class="container">
+		<p>Bring a classroom dream to life today, #BestSchoolDay <a target="_top" class="button-redux small tertiary" href="http://www.donorschoose.org/credits">Give now</a></p>
+	</div>
+</div>
 
 <div id="mainFooter">
 	<div class="footer-container">
@@ -1159,11 +1296,11 @@ $(document).ready(function() {
 				<div class="col col2">
 					<h5>About Us</h5>
 					<ul>
-						<li><a target="_top" href="http://www.donorschoose.org/about">How it works</a></li>
-						<li><a target="_top" href="http://www.donorschoose.org/about/story.html">Our story</a></li>
-						<li><a target="_top" href="http://www.donorschoose.org/about/finance.html">Transparency</a></li>
+						<li><a target="_top" href="http://www.donorschoose.org/about">Mission</a></li>
+						<li><a target="_top" href="http://www.donorschoose.org/about/impact.html">Impact</a></li>
+						<li><a target="_top" href="http://www.donorschoose.org/about/finance.html">Finances</a></li>
 						<li><a target="_top" href="http://www.donorschoose.org/about/meet_the_team.html">Staff &amp; Board</a></li>
-						<li><a target="_top" href="http://www.donorschoose.org/careers">Join our team</a></li>
+						<li><a target="_top" href="http://www.donorschoose.org/careers">Careers</a></li>
 					</ul>
 				</div>
 
@@ -1258,19 +1395,22 @@ $(document).ready(function() {
 			    <div class="col col2">
 					<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="AT&amp;T" class="footer-logo logo-east-att" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;East&quot;, &quot;sponsor&quot;: &quot;ATT&quot; } }"></div></a>
 			    </div>
-			    <div class="col col2">
+				<div class="col col2">
+					<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="Infosys" class="footer-logo logo-east-infosys" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;East&quot;, &quot;sponsor&quot;: &quot;Infosys&quot; } }"></div></a>
+				</div>
+				<div class="col col2">
 					<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="Burlington" class="footer-logo logo-east-burlington" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;East&quot;, &quot;sponsor&quot;: &quot;Burlington&quot; } }"></div></a>
 			    </div>
 			    <div class="col col2">
 					<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="Code dot org" class="footer-logo logo-east-codedotorg" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;West&quot;, &quot;sponsor&quot;: &quot;Codedotorg&quot; } }"></div></a>
 			    </div>
-			    <div class="col col2">
-					<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="College Football Playoff" class="footer-logo logo-east-ncaa" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;East&quot;, &quot;sponsor&quot;: &quot;NCAA&quot; } }"></div></a>
-			    </div>
 			  </div>
 
 			  	<div id="footer-partner-logos" class="fluid-container third-tier desktop">
-				    <div class="col col2 col-offset1">
+					<div class="col col2">
+						<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="College Football Playoff" class="footer-logo logo-east-ncaa" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;East&quot;, &quot;sponsor&quot;: &quot;NCAA&quot; } }"></div></a>
+					</div>
+					<div class="col col2">
 						<a target="_top" href="http://www.donorschoose.org/about/our_supporters.html"><div aria-label="Disney" class="footer-logo logo-west-disney" data-track-no-click="true" data-track="{ &quot;type&quot;:&quot;footer logo&quot;, &quot;sponsor&quot; : { &quot;region&quot;: &quot;West&quot;, &quot;sponsor&quot;: &quot;Disney&quot; } }"></div></a>
 				    </div>
 				    <div class="col col2">
@@ -1373,7 +1513,6 @@ $(document).ready(function() {
 
 
 
-
 <div id="footerBarText">
 © 2000-<script type="text/javascript" language="javascript">
 <!--
@@ -1386,60 +1525,6 @@ document.write(thisYear);
 <div id="privacyAndTerms">
 <a target="_top" href="http://www.donorschoose.org/privacy-policy">Privacy</a> <span>|</span> <a target="_top" href="http://www.donorschoose.org/user-agreement">Terms of service</a>				
 </div>
-
-
-
-<!-- GOOGLE ANALYTICS MOVED TO GATRACKINGHEADER AND GATRACKINGFOOTER -->
-
-<!-- EXACT TARGET -->
-
-<script type="text/javascript"> /* <![CDATA[ */
-//Set the number of days before your cookie should expire
-var ExpireDays = 30;
-//Do not change anything below this line
-// Note: Edited to create local variables
-function SetCookie(cookieName,cookieValue,nDays) {
-    var today = new Date();
-    var expire = new Date();
-    if (nDays==null || nDays==0) nDays=1;
-    expire.setTime(today.getTime() + 3600000*24*nDays);
-    document.cookie = cookieName + "=" + escape(cookieValue) + "; expires=" + expire.toGMTString() + "; path=/;domain=donorschoose.org";
-}
-
-function setExactTargetCookies() {
-	var qstr = document.location.search;
-	qstr = qstr.substring(1,qstr.length);
-		
-	var thevars = qstr.split("&");
-	for(var i=0;i<thevars.length;i++) {
-	    var cookiecase = thevars[i].split("=");
-	    switch(cookiecase[0]) {
-	        case "e":
-	            SetCookie("EmailAddr",cookiecase[1],ExpireDays);
-	            break;
-	        case "j":
-	            SetCookie("JobID",cookiecase[1],ExpireDays);
-	            break;
-	        case "l":
-	            SetCookie("ListID",cookiecase[1],ExpireDays);
-	            break
-	        case "jb":
-	            SetCookie("BatchID",cookiecase[1],ExpireDays);
-	            break;
-	        case "u":
-	            SetCookie("UrlID",cookiecase[1],ExpireDays);
-	            break;
-	        case "mid":
-	            SetCookie("MemberID",cookiecase[1],ExpireDays);
-	            break;
-	        default:
-	            break;
-	    }
-	}
-}
-setExactTargetCookies();
-/* ]]> */ </script>
-
 
 
 
@@ -1593,29 +1678,6 @@ function keepAliveCart() {
 keepAliveCart();
 /* ]]> */ </script>
 
-<!-- AddRoll Retargeting Pixel -->
-
-<script type="text/javascript">
-adroll_adv_id = "MLTXT2Z6CBB4LBZUNDBMFX";
-adroll_pix_id = "ULQO36I2GRBZ3GGYEQVVE4";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-  __adroll_loaded=true;
-  var scr = document.createElement("script");
-  var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-  scr.setAttribute('async', 'true');
-  scr.type = "text/javascript";
-  scr.src = host + "/j/roundtrip.js";
-  document.documentElement.firstChild.appendChild(scr);
-  if(oldonload){oldonload()}};
-}());
-</script>
-
-<!-- /AddRoll Retargeting Pixel -->
-
-				
-
     
 
 
@@ -1637,7 +1699,6 @@ window.onload = function(){
 	var scripts = document.getElementsByTagName('script');
 	var s = scripts[0]; s.parentNode.appendChild(po);
 </script>
-
 
 
 
@@ -1760,8 +1821,6 @@ if (typeof FS != "undefined") {
 </script>
 
 <!-- /GOOGLE ANALYTICS TRACKING FOOTER -->
-
-
 
 
 
