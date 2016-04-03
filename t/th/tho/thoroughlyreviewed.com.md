@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoroughlyreviewed.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209164201id_/http%3A//thoroughlyreviewed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoroughlyreviewed.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404001854id_/https%3A//thoroughlyreviewed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,9 @@ In all cases, we will only use your information as permitted by law. Notwithstan
 
 ### Use of “Cookies”
 
-**ThoroughlyReviewed.com uses “cookies”** – data that is transferred from ThoroughlyReviewed.com to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit ThoroughlyReviewed.com. Some of the advertisements appearing on ThoroughlyReviewed.com are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, please click here. If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please click here or here.
+**ThoroughlyReviewed.com uses “cookies”** – data that is transferred from ThoroughlyReviewed.com to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit ThoroughlyReviewed.com. Some of the advertisements appearing on ThoroughlyReviewed.com are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, please [click here](https://www.google.com/policies/technologies/ads/). If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please [click here](https://www.google.com/settings/u/0/ads/authenticated) or [here](https://www.google.com/settings/ads/plugin).
+
+We use Google’s DoubleClick remarketing to target users who visited our website or group of websites. We show ads which we are compensated for should your purchase products or services from these companies.
 
 ## Disclosure of Information through Business Transfers
 
@@ -34,5 +36,4 @@ As we continue to develop our business, we may buy, merge or partner with other 
 
 **If you have any questions about this Privacy Statement you may contact us at:**
 
-**Site Administrator**  
-admin@thoroghlyreviewed.com
+**[Contact Us Page](https://thoroughlyreviewed.com/contact-us/)**
