@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101103254id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403091547id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security | The Perth Mint
 
@@ -8,13 +8,15 @@
 
 Gold Corporation (trading as The Perth Mint ABN 98 838 298 431) is committed to protecting the privacy of your personal information it collects and receives, in accordance with the Australian Privacy Principles (APPs) in the _Privacy Act_ 1988 (Cth).
 
-This Privacy and Security Statement provides information on how we deal with your personal information as customers, and visitors to our website. 
+This Privacy and Security Statement provides information on how we deal with your personal information as customers, and visitors to our website. Sensitive information may also be collected and handled by us as part of the recruitment process, with your consent. 
 
-The term 'personal information' in this document means any information or an opinion about you for which you can be identified or reasonably identified. 
+The term 'personal information' in this document means any information or an opinion about you for which you can be identified or reasonably identified. The term 'sensitive information' includes, but is not limited to, information or an opinion about your racial or ethnic origin, political opinions, religious beliefs, philosophical beliefs, membership of a trade union, sexual preferences, criminal record, health information or genetic information.
 
 **What purposes for handling personal information?**
 
 The main purposes for which we collect, hold, use and disclose personal information are to provide products to our customers, and to maintain, retain, extend and grow our customer base. 
+
+We also collect, hold, use and disclose personal and sensitive information for recruitment purposes. 
 
 **What kinds of personal information we collect and hold?**
 
@@ -33,6 +35,10 @@ The personal information we collect and store may include the following:
 
 We may not be able to provide you with our products or services without your personal information. 
 
+In relation to a candidate seeking employment, we may collect and handle information including their name, address, email address, contact telephone number, gender, age, employment history, references, resume, medical history, emergency contact, taxation details, qualifications and payment details. In relation to a referee of a candidate being considered for employment, we may collect and handle information including their name, contact details, current employment information and professional opinion of candidate’s suitability for a position at Gold Corporation. 
+
+This policy does not apply to the handling of information about our employees that are ‘employee records’ and not subject to the _Privacy Act_. For information about our practices relating to employee information, please contact the Human Resources department. 
+
 **How we collect personal information?**
 
 We collect personal information directly from you in a number of ways, including:  
@@ -42,8 +48,9 @@ We collect personal information directly from you in a number of ways, including
 • from hard copy forms (i.e. Order Forms, competition entry forms and surveys);  
 • in person (i.e. when buying at The Perth Mint shop);  
 • through our website (i.e. subscriptions to our newsletter, member login and registration, and online purchase);  
-• our own records when you visit us online ( i.e. our blog); and  
-• at functions and events (i.e. business cards).
+• our own records when you visit us online ( i.e. our blog);   
+• at functions and events (i.e. business cards); and  
+• when you apply for a job with us via our website. 
 
 **How we retain personal information?**
 
@@ -72,7 +79,7 @@ If you are concerned about sending your information over the internet, you can c
 
 **How we use personal information?**
 
-The personal information we collect is generally used to process your requests and transactions, to provide you with high quality service, to tell you about products we think will be of interest to you, to customise your experience on our site, and to understand your needs so that we may provide you with the most suitable products.
+The personal information we collect is generally used to process your requests and transactions, to provide you with high quality service, to tell you about products we think will be of interest to you, to customise your experience on our site, and to understand your needs so that we may provide you with the most suitable products. Your personal and sensitive information will also be used if you submit an application for employment with us.
 
 For example, we may use your personal information to help us:  
 • provide you with information about new products, or product release;  
@@ -80,15 +87,18 @@ For example, we may use your personal information to help us:
 • create content that is relevant to you;  
 • provide you with special offers that may be of interest to you;  
 • allow you to purchase products, obtain access to your membership;   
-• notify you about changes to our services or products; and  
-• conduct surveys and market research for product and service improvement purposes, and to compile statistics and trends.
+• notify you about changes to our services or products;   
+• conduct surveys and market research for product and service improvement purposes, and to compile statistics and trends; and  
+• make decisions relating to your suitability for employment. 
 
 To help us carry out these activities and functions, on occasion, we may disclose personal information to other persons including:  
 • organisations that we engage to conduct research or analyse data;  
 • our professional advisors (i.e. auditors and lawyers); and  
 • government and regulatory authorities (as required or authorised by law).
 
-We take reasonable steps to ensure that these third parties are bound by privacy obligations in relation to your personal information.
+We also use a range of service providers to assist us with the recruitment process. This means that individuals and organisations outside of Gold Corporation will sometimes have access to personal information held by Gold Corporation and may collect or use it from or on our behalf. This may include, but is not limited to, executive search, HR & recruitment providers, security clearance providers, medical practitioners and other independent contractors and consultants.  
+
+We take reasonable steps to ensure that these third parties are bound by privacy obligations in relation to your personal and sensitive information.
 
 **Procedures for access, correction, and privacy complaint**
 
@@ -118,4 +128,4 @@ F:  +61 (08) 9221 2258
 
 Periodically we will update this privacy policy to reflect changes to privacy legislation, technological changes, company policy and customer feedback. You should refer to our website from time to time to view the current version of this privacy policy.
 
-The Perth Mint Privacy and Security Statement - last updated 17 July 2014
+The Perth Mint Privacy and Security Statement - last updated December 2015
