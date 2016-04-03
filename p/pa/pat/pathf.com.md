@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919084241id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403111247id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pathfinder Software
+# Privacy Policy - Pathfinder SoftwarePathfinder Software - Medical Software Development
 
 1\. We make every endeavor to ensure that any data given by Users of the Web Site is stored securely and without risk of corruption, theft or abuse by parties external to ourselves and our representatives.
 
