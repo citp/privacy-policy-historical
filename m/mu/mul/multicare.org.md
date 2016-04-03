@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226102921id_/http%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404005622id_/https%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MultiCare Health System
 
@@ -23,6 +23,8 @@ MultiCare has security measures in place to prevent the loss, misuse or alterati
 ### Email
 
 Transmittal of emails to this web site may not be private. Whenever you voluntarily disclose personal information online (i.e. via email), we cannot and do not provide any assurances that your information will not become known or accessible to third parties. If you provide any confidential information about you or your health to us via electronic communication, it is at your own risk. MultiCare employs strict security measures to safeguard information, but no site has been proven to be impenetrable.
+
+[Patient Consent to Allow Email Correspondence](http://www.multicare.org/file_viewer.php?id=13662)
 
 ### Opt In/Out
 
