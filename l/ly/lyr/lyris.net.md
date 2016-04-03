@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703091019id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyris.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403035329id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lyris Privacy Policy
 
 ### Effective Date: 29/01/2014
 
@@ -105,13 +105,11 @@ This Web site is not intended to nor does it seek to receive any information fro
 
 Questions or comments regarding this Statement can be submitted to us by mail or e-mail as follows:
 
-Lyris Inc   
-6401 Hollis Street   
-Suite 125   
-Emeryville, CA 94608   
-[legal@lyris.com](mailto:legal@lyris.com)   
-510.844.1505 (phone)   
-510.355.3700 (fax)
+Lyris Inc  
+401 Congress Avenue  
+Suite 2605  
+Austin, Texas 78701  
+[legal@lyris.com](mailto:legal@lyris.com)
 
 ### Amendments
 
@@ -120,3 +118,6 @@ This Statement may be amended from time to reflect changes to our information pr
 ### Information Subject to Other Policies
 
 The Company is committed to following the Principles for all Personal Information within the scope of the Safe Harbor Agreement. However, certain information is subject to policies of the Company that may differ in some respects from the general policies set forth in this Privacy Policy.
+
+  
+
