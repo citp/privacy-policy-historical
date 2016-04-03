@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905155537id_/https%3A//www.dominos.co.uk/legal/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403215815id_/https%3A//www.dominos.co.uk/legal/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Domino's Pizza
 
@@ -125,11 +125,11 @@ If you've forgotten your password, enter your email address on the 'forgotten yo
 
 Phishing is the name given to attempts to steal personal details and financial account details from a website user. "Phishers" use fake or "spoof" emails to lead users to counterfeit websites where the user is tricked into entering their personal details, such as credit card numbers, user names and passwords.
 
-If you do receive such an email or are asked for your password by anyone claiming to work for us, please report the incident using our [Contact Form](https://web.archive.org/contact/escalate) or in writing to us at Domino's Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB, for the attention of the Data Security Manager.
+If you do receive such an email or are asked for your password by anyone claiming to work for us, please report the incident using our [Contact Form](https://web.archive.org/contact/form) or in writing to us at Domino's Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB, for the attention of the Data Security Manager.
 
 ## How to get copies of or amend the information we have collected
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you, please contact us using our [Contact Form](https://web.archive.org/contact/escalate) or write to us at Domino's Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB for the attention of the Legal Department.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you, please contact us using our [Contact Form](https://web.archive.org/contact/form) or write to us at Domino's Head Office, 1 Thornbury, West Ashland, Milton Keynes MK6 4BB for the attention of the Legal Department.
 
 **Please note that we cannot provide you with any information about you held by any of our Franchisees as we do not have access to this information. To obtain a copy of any information held by a Franchisee, you should make a request of the Franchisee directly via your local Store.**
 
