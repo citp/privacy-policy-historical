@@ -1,62 +1,59 @@
-> *The following text is extracted and transformed from the cuckshare.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609234407id_/http%3A//www.cuckshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuckshare.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403180802id_/http%3A//www.cuckoldvideos.xxx/static/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-The use of this version of the Cuckshare.com website and/or Cuckshare.com software and any other related software, upgrades or updates and all related services and special offers provided by Cuckshare.com are subject to the hereunder provisions of this Privacy Policy.: 
+**CuckoldVideos.xxx Privacy Policy**
 
-**General**
+This document details important information regarding the use and disclosure of User Data collected on CuckoldVideos.xxx
 
-Cuckshare.com takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information.
+The security of your Data is very important to CuckoldVideos.xxx and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-BY USING OR ACCESSING ANY Cuckshare.com WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. Cuckshare.com MAY AMEND THIS POLICY FROM TIME TO TIME. 
+This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-If you are under the age of 18, you are not eligible to use the Service, and we ask you not to submit any personal information to us. 
+**DATA COLLECTED**
 
-**Collection of Information**
+Personal Information: 
 
-**Personal Information:** Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. 
+Non-Registered users can watch videos without registering and without any information being collected and processed.
 
-**Non personally identifiable Information:** Cuckshare.com may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the Cuckshare.com Service or website(s), and responses to the offerings and advertisements presented on Cuckshare.com s Service and/or website(s). 
+Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
-Cuckshare.com may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the Cuckshare.com website(s) and pages are visited or when the Cuckshare.com Service is used. 
+Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
 
-**How is the information being used?**
+Cookies: When you visit YouPorn.com, we may send one or more cookies to your computer that uniquely identifies your browser session. CuckoldVideos.xxx uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
 
-The information is used to operate and improve the features, offerings and content presented to you by Cuckshare.com, to personalize the content and advertisements provided to you ; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on Cuckshare.com Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. 
+Log File Information: When you visit CuckoldVideos.xxx, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
 
-_Any personally identifiable information of yours_ will not be shared with third parties unless you have consented to the sharing of this information. Cuckshare.com may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of Cuckshare.com users, but do not receive information that personally identifies you. 
+Emails: If you contact us, we may keep a record of that correspondence.
 
-_Notwithstanding the foregoing_ , your information may be accessed and disclosed if and as required by legal procedures. 
+**USES**
 
-**Cookies:**
+Your Personally identifiable information submitted to CuckoldVideos.xxx is used to provide to the user the website's features and special personalized features.
 
-Cuckshare.com may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of Cuckshare.com website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
+Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the website private mail, etc. Other Users can contact you through, private messages.
 
-Additionally, Cuckshare.com or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not Cuckshare.com. 
+Any videos that you submit to CuckoldVideos.xxx may be redistributed through the internet and other media channels, and may be viewed by the general public.
 
-Cuckshare.com does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. 
+We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
 
-**Special Note for Parents**
+We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
 
-Cuckshare.com Service and website are not intended for a general audience, and persons under the age of eighteen (18) are not permitted to register with Cuckshare.com Service and websites. 
+We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the CuckoldVideos.xxx user-experience.
 
-**Modification and Deletion of Personally Identifiable Information (Opt-Out)**
+**DISCLOSURE OF INFORMATION**
 
-In order to delete the personally identifiable information you submitted, notify us, to the following 
+if under duty to do so CuckoldVideos.xxx may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of CuckoldVideos.xxx or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is website policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
 
-[_help page_](http://www.cuckshare.com/help)
+Should you deliberately upload any illegal material CuckoldVideos.xxx shall forward all available information to all relevant authorities and this without notice. 
 
-that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
-**Modification**
+**SECURITY**
 
-If you wish to modify or update your personally identifiable information, use the web-site or application interface. If you need help, please contact us at the following 
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-[_help page_](http://www.cuckshare.com/help)
+Unfortunately, the transmission of information via the Internet is not completely secure. YouPorn.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to CuckoldVideos.xxx and you do so at your own risk.
 
-.   
-Please note that deletion of your personally identifiable information from Cuckshare.com database will not prevent Cuckshare.com from using gathered anonymous information. 
+**YOUR RIGHTS**
 
-**Third Parties Practices**
-
-This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that Cuckshare.com does not own or control, or does not employ or manage. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at support(at)cuckoldvideos.xxxx
