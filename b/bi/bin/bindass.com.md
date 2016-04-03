@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219212526id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindass.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404003556id_/http%3A//www.disney.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Disney India
 
