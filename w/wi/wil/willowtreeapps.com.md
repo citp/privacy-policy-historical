@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019034707id_/http%3A//www.willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willowtreeapps.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403124358id_/http%3A//willowtreeapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
