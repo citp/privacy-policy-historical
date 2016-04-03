@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leica-geosystems.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219020730id_/http%3A//leica-geosystems.com/home/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leica-geosystems.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403183839id_/http%3A//leica-geosystems.com/home/global/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Important Terms Used Throughout This Privacy Policy
 * * *
 
 **Introduction  
-**Leica Geosystems AG, Switzerland. ("Leica Geosystems," or "we," as appropriate) is committed to safeguarding the privacy of visitors to our Web sites and the pages therein, including [http://www.hexagongeosystems.com](http://www.hexagongeosystems.com/), [http://www.leica-geosystems.com](http://www.leica-geosystems.com/) and [http://www.disto.com](http://www.disto.com/) (collectively, the "Site") and users of the other services available through our Site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein. 
+**Leica Geosystems AG, Switzerland. ("Leica Geosystems," or "we," as appropriate) is committed to safeguarding the privacy of visitors to our Web sites and the pages therein, including [](http://www.hexagongeosystems.com/)[http://www.hexagongeosystems.com](http://www.hexagongeosystems.com/), [http://www.leica-geosystems.com](http://www.leica-geosystems.com/) and [http://www.disto.com](http://www.disto.com/) (collectively, the "Site") and users of the other services available through our Site (the "Service(s)"). We will use our best efforts to ensure that the information you provide us remains private and is used only for the purposes set forth herein. 
 
 The Privacy Policy details our commitment to protect your information and the limited manner in which we will use that information to provide and improve our provision of the Services. We've developed our Privacy Policy from industry guidelines and standards, and local, national, and international laws and requirements. All privacy practices and methods described herein only apply insofar as permitted by the applicable standards, laws and requirements and as limited by the website or interactive banner you are visiting.
 
