@@ -1,486 +1,930 @@
-<!--The following is the downloaded HTML source of the riptapparel.com privacy policy that was archived on 2014-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140706080240id_/https%3A//www.riptapparel.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the riptapparel.com privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403071349id_/https%3A//www.riptapparel.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQDWFdbGwIIU1FWAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-         
-        <meta name="description" content="RIPT Apparel Privacy Policy">
-         
-        
-          
-            <!-- for staging -->
-<!--<meta property="fb:app_id" content="341640979240278">-->
-<meta name="google-site-verification" content="CC4kA1uCvoFQG3a0kY223OBxhVVSlcguxL2J8BCoMhY">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="p:domain_verify" content="9a19b4eb790603ed419cbcff6d3466b6">
-<meta property="og:site_name" content="RIPT Apparel's Daily $10 Tees">
-<meta property="fb:app_id" content="136795866407505">
-<meta property="fb:admins" content="16913244, 16900428, 503432193">  
-          
-        
-        
-          <meta property="og:title" content="RIPT Apparel">
-          <meta property="og:type" content="product">
-          <meta property="og:description" content="RIPT Apparel features one unique Daily T-Shirt design for only $10 bucks! Cheap, Cool Daily Tees!">
-          <meta property="og:url" content="https://www.riptapparel.com/privacy-policy/">
-        
-        <title>Privacy Policy</title>
-        <link rel="shortcut icon" href="https://static-riptapparel-com.s3.amazonaws.com/img/favicon.062bc92e0a83.ico">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static-riptapparel-com.s3.amazonaws.com/img/apple-touch-icon-144x144-precomposed.3f37f3c393f5.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static-riptapparel-com.s3.amazonaws.com/img/apple-touch-icon-114x114-precomposed.66e180a8c54b.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static-riptapparel-com.s3.amazonaws.com/img/apple-touch-icon-72x72-precomposed.c7e69a527218.png">
-        <link rel="apple-touch-icon-precomposed" href="https://static-riptapparel-com.s3.amazonaws.com/img/apple-touch-icon-precomposed.6fa639f338e2.png">
-        
+<!DOCTYPE html><html class="no-js" lang="en" style="padding-top:0px !important"><!--<![endif]--><head>
 
-        
-            <link href="https://static-riptapparel-com.s3.amazonaws.com/build/master.min.b1bf517fc6f6.css" rel="stylesheet" type="text/css" media="screen,projection">
-            <!--[if IE 8]><link rel="stylesheet" type="text/css" href="https://static-riptapparel-com.s3.amazonaws.com/css/ie8.b3ee816547d4.css"><![endif]-->
-            <link href="//fonts.googleapis.com/css?family=Lilita+One|PT+Sans:400,700|PT+Sans+Caption" rel="stylesheet" type="text/css">
-        
+  <link rel="shortcut icon" href="https://ddlucpzk9mief.cloudfront.net/img/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ddlucpzk9mief.cloudfront.net/img/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ddlucpzk9mief.cloudfront.net/img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ddlucpzk9mief.cloudfront.net/img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://ddlucpzk9mief.cloudfront.net/img/apple-touch-icon-precomposed.png">
+  
+  
+  
+  <meta charset="utf-8">
+  <meta name="alexaVerifyID" content="r8YTLZUyhHFPPXkHpuJMwbTkV1c">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+  
 
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="google-translate-customization" content="6905a77c906f2bb3-a498656c704e51a0-g6c3515e36d0c85ec-13">
+  <title>
+    Privacy Policy – RIPT Apparel
+  </title>
 
-        
-        
-    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <style>
+    body { display:none }
+  </style>
 
-    <body class="single_design">
-        
+  
+    <meta name="description" content="1. Information Collection and Use RIPT Apparel collects information (such as your name, shipping and billing address, credit card number, email address, etc.) f">
+  
 
-        
-        
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  
+  <link rel="canonical" href="https://www.riptapparel.com/pages/privacy-policy"> 
 
-        
-        <div class="navbar navbar-inverse navbar-fixed-top">
-          <div class="navbar-inner">
-            <div class="container">
-              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-                <span class="icon-menu"></span>
-              </button>
-              <div class="brand">
-                <a href="/" alt="RIPT Apparel">
-                  <span class="flipOne">
-                    <img src="https://static-riptapparel-com.s3.amazonaws.com/img/ript-logo.ac2db867d88b.png">
-                  </span>
-                  <span class="flipTwo">
-                      <span class="icon-home-1"></span>
-                  </span>
-                </a>
-              </div>
-              <div class="nav-collapse collapse">
-                <ul class="nav">
-                  <li class="dropdown ">
-                    <a class="dropdown-toggle" data-toggle="dropdown" href="/graveyard/">
-                      Graveyard <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li><a href="/graveyard/">All Designs</a></li>
-                      <li class="divider"></li>
-                      
-                      <li>
-                        <a href="/graveyard/category/awesome-t-shirts/">
-                          Awesome T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/cool-t-shirts/">
-                          Cool T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/crazy-t-shirts/">
-                          Crazy T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/cute-t-shirts/">
-                          Cute T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/designer-t-shirts/">
-                          Designer T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/funny-t-shirts/">
-                          Funny T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/geeky-t-shirts/">
-                          Geeky T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/nerdy-t-shirts/">
-                          Nerdy T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/novelty-t-shirts/">
-                          Novelty T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/parody-t-shirts/">
-                          Parody T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/pop-culture-t-shirts/">
-                          Pop-Culture T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/retro-t-shirts/">
-                          Retro T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/sports-t-shirts/">
-                          Sports T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/unique-t-shirts/">
-                          Unique T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/vintage-t-shirts/">
-                          Vintage T-Shirts
-                        </a>
-                      </li>
-                      
-                      <li>
-                        <a href="/graveyard/category/zombie-t-shirts/">
-                          Zombie T-Shirts
-                        </a>
-                      </li>
-                      
-                    </ul>
-                  </li>
-                  <li>
-                    <a href="/members/" title="Artists">
-                      Artists
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/submit/wizard/" title="The RIPT Apparel Submit Wizard">
-                      Submit
-                    </a>
-                  </li>
-                  <li class="hidden-phone">
-                    <a href="http://blog.riptapparel.com/blog/">
-                      Blog
-                    </a>
-                  </li>
-                  <li class="dropdown ">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                      About <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li>
-                        <a href="/team/" title="The RIPT Apparel Team">
-                          <span class="icon-vcard"></span> Team
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/lovedones/" title="Friends of Ript">
-                          <span class="icon-heart"></span> Loved Ones
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://ript.zendesk.com/hc/" title="Contact RIPT Apparel">
-                          <span class="icon-envelope"></span> Contact
-                        </a>
-                      </li>
-                      <li>
-                        <a href="/service/" title="Terms of Service">
-                          <span class="icon-help"></span> Service
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                      Follow <b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li>
-                        <a href="http://www.facebook.com/riptapparel" title="Like us on Facebook" target="_blank">
-                          <span class="icon-square-facebook"></span> Facebook
-                        </a>
-                      </li>
-                      <li>
-                        <a href="http://www.twitter.com/riptapparel" title="Follow us on Twitter" target="_blank">
-                          <span class="icon-square-twitter"></span> Twitter
-                        </a>
-                      </li>
-                      <li>
-                        <a href="https://plus.google.com/105609328877100312272?rel=author" title="Follow us on Google+" target="_blank">
-                          <span class="icon-square-googleplus"></span> Google+
-                        </a>
-                      </li>
-                      <li>
-                        <a href="http://pinterest.com/riptapparel/pins" title="Follow us on Pinterest" target="_blank">
-                          <span class="icon-square-pinterest"></span> Pinterest
-                        </a>
-                      </li>
-                      <li>
-                        <a href="http://instagram.com/riptapparel" title="Follow us on Instragram" target="_blank">
-                          <span class="icon-square-instagram"></span> Instagram (Behind the Scenes)
-                        </a>
-                      </li>
-                      <li>
-                        <a href="http://riptapparel.tumblr.com" title="Follow us on Tumblr" target="_blank">
-                          <span class="icon-square-tumblr"></span> Tumblr
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  
-                  
-                  <li>
-                    <a href="/store/">
-                      Store
-                    </a>
-                  </li>
-                  
-                </ul>
-                
-                
-                <ul class="nav after-hours-nav">
-                    <li>
-                        <a href="/lastcall/">Last Call</a>
-                    </li>
-                </ul>
-                
+  <link href="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/styles.scss.css?17869996122656956776" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/ript.css?17869996122656956776" rel="stylesheet" type="text/css" media="all">
+  
+  <script type="text/javascript" async="" src="https://assets1.adroll.com/shopify/latest/j/shopify_rolling_bootstrap.js?adroll_adv_id=4M2634LAVNFSZDLN2PICLL&amp;adroll_pix_id=IEKXGJNQB5EGNFGHA7KMQE&amp;shop=riptapparel.myshopify.com"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  
+  <!-- Qubit Universal Variable start -->
+<script>
+(function () {
 
-              
-                <div id="header-actions">
-                    <ul class="nav  logged-out">
-                        
-                        <li class="login"><a href="/login/" title="Login to Your RIPT Apparel Account" rel="nofollow">Login</a></li>
-                        <li class="join"><a href="/registration/" title="Register at RIPT Apparel">Join</a></li>
-                        
-                    </ul>
-                    <div id="cart-actions">
-                        
-                        
-                        <a href="/cart/" title="RIPT Apparel Shopping Cart" class="js-live-count" data-count-url="/cart/count/"><span class="icon-cart"></span><strong class="js-live-count-quantity">0</strong> item<span class="js-live-count-pluralize">s</span></a>
-                        
-                    </div>
-                </div>
-              
-              </div><!--/.nav-collapse -->
-            </div>
-          </div>
-        </div>
-        
+  var uv = window.universal_variable = window.universal_variable || {};
 
-        
-          <div id="alert-bar">
-            
 
-          </div>
-        
+  /*
+   * Liquid variable setting
+   * Take a bunch of the shopify variables and pass them into local JS variables
+   * to enable the mapping to Universal Variable.
+   */
 
-        
-        
-        
-            
-            
-        
-        
-          <div class="container" id="main-container">
-            
-              <div class="row-fluid">
-                
-                    
+    // http://docs.shopify.com/themes/liquid-variables/global
+    var template = "page";
+    var pageTitle = "Privacy Policy";
     
-        <h2 class="large">Privacy Policy</h2>
 
-<h4>1. Information Collection and Use</h4>
-<p>RIPT Apparel collects information (such as your name, shipping and billing address, credit card number, email address, etc.) from you that we need to:</p>
-<ul>
-	<li>- process your order;</li>
-	<li>- provide you with member support;</li>
-	<li>- allow you to use the community forums and participate in contests and other forum features; and</li>
-	<li>- send you newsletters and other communications such as polls, surveys, and special RIPT Apparel offers.</li>
+  /*
+   * Generic functions
+   * Useful for parsing shopify data into a UV-compitable format, among other things.
+   */
+
+    // Get the page category
+    var getPageCategory = function () {
+      switch (template) {
+        case "index": 
+          return "Home";
+          break;
+        case "page":
+          return "Content";
+          break;
+        case "article":
+          return "Blog";
+          break;
+        case "product":
+          return "Product";
+          break;
+        case "search":
+          return "Search";
+          break;
+        case "collection": 
+        case "collection.new":
+          return "Category";
+          break;
+        case "cart":
+          return "Basket";
+          break;
+
+        // Handle other templates, although 
+        default: 
+          return template;
+      }
+    };
+
+     
+  /*
+   * Page
+   */
+   
+    uv.design = {};
+  
+    uv.page = {
+
+      type: getPageCategory(),
+
+      breadcrumb: function () {
+        var category = getPageCategory();
+        if (category === "Product") {
+          return [ "" ];
+        } else if (category === "Category") {
+          return [ "" ];
+        } else if (category === "Content") {
+          return [ pageTitle ];
+        }
+      }()
+
+     };
+
+    /*
+    * Design Detail page
+    */
+
+  
+  
+  /*
+   * Product
+   */
+     
+    // http://docs.shopify.com/api/product
+     
+
+
+  
+  
+  /*
+   * Home page
+   */
+  
+  
+
+  /*
+   * Listing - search pages
+   */
+
+    // http://docs.shopify.com/themes/liquid-variables/search
+    
+
+ 
+  /*
+   * Basket
+   */
+    
+    
+    // http://docs.shopify.com/themes/liquid-variables/cart
+    var basketProducts = [];
+
+
+    uv.basket =  {
+
+      currency: "USD",
+
+
+      // TODO
+      // subtotal_include_tax: true,
+      // voucher: MYVOUCHER1,
+      // voucher_discount: 15,
+      // tax: 5,
+      // shipping_cost: 4.5,
+      // shipping_method: Royal Mail 1st Class,
+
+      // TODO: Check if this should be identical to subtotal
+      // ideally we'll add shipping and tax
+
+      // The items purcahased
+      line_items: []
+    };
+  
+  
+  
+  	uv.basket.subtotal = 0.00;
+    uv.basket.total = 0.00;
+
+  
+  
+  
+     
+     
+
+    // Add items to the line_items array. See 
+    // http://docs.shopify.com/themes/liquid-variables/line_item for reference.
+    // Note that the below does not create an exhaustive `product` UV parameter,
+    // it just takes the variables from within the Shopify line_item object and 
+    // passes them to the UV.
+       
+  
+     
+  
+  
+  
+
+
+
+  /*
+   * User
+   */
+
+     
+    // http://docs.shopify.com/themes/liquid-variables/customer
+    // TODO: has_transacted
+    
+
+  /*
+   * Events
+   */
+
+    uv.events = [];
+
+
+  /*
+   * Version
+   */
+
+    uv.version = "1.2.0";
+
+
+}());
+</script>
+<!-- Qubit Universal Variable end -->
+
+<!-- Opentag container REPLACE XXXX-XXXX with your own id -->
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-136718-2114138.js" async="" defer=""></script>
+<!-- Opentag container end -->
+  
+  <script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "riptapparel.myshopify.com";
+      Shopify.theme = {"name":"RIPT Apparel - Production","id":78677380,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=4M2634LAVNFSZDLN2PICLL\u0026adroll_pix_id=IEKXGJNQB5EGNFGHA7KMQE\u0026shop=riptapparel.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":7399215,"offset":-18000,"reqid":"a8bd35c3-1a3b-4a61-b105-5f99430ceba4","pageurl":"www.riptapparel.com\/pages\/privacy-policy","s":"pages-74692932","u":"df53e29efac1","p":"page","rtyp":"page","rid":74692932};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var analytics = document.createElement('script');
+          var loaded = false;
+          var trekkie_version = 1;
+          var onload = function() {
+            if (loaded) return;
+            loaded = true;
+            window.ShopifyAnalytics.lib = window.trekkie.noConflict();
+            window.ShopifyAnalytics.lib.initialize(
+              {"Google Analytics":{"trackingId":"UA-66587-7","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"Trekkie":{"appName":"storefront","environment":"production","defaultAttributes":{"shopId":7399215}}}
+            );
+
+            window.ShopifyAnalytics.lib.ready(function() {
+              
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+              var originalDocumentWrite = document.write;
+              document.write = customDocumentWrite;
+              try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+              document.write = originalDocumentWrite;
+
+              
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {}
+        );
+      
+              
+            });
+          }
+          analytics.onload = onload;
+          analytics.onreadystatechange = function() {
+            if (!/complete|loaded/.test(analytics.readyState)) return;
+            onload();
+          }
+          analytics.async = true;
+          analytics.src = "https://cdn.shopify.com/s/javascripts/trekkie.storefront.min.js?v=" + trekkie_version;
+          document.getElementsByTagName('head')[0].appendChild(analytics);
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-dabe00038c134ebede3c66ef50bfdcedb847ac379226dfb9a22bbf438ac8dbef.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script><script async="" src="https://cdn.shopify.com/s/javascripts/trekkie.storefront.min.js?v=1"></script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-dabe00038c134ebede3c66ef50bfdcedb847ac379226dfb9a22bbf438ac8dbef.js"></script>
+    <script type="text/javascript" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-0826cdefee6590321eb5c0c435eeebf7a8425a5493a9e95059c40e07e069ad52.js"></script>
+<meta id="amazon-payments-metadata" data-amazon-payments="true" data-amazon-payments-seller-id="A1P4IYRACKKOE8" data-amazon-payments-callback-url="https://www.riptapparel.com/7399215/amazon_payments/callback" data-amazon-payments-widget-library-url="https://static-na.payments-amazon.com/OffAmazonPayments/us/js/Widgets.js"><script>
+//<![CDATA[
+  window.onAmazonLoginReady = function() {
+    amazon.Login.setSandboxMode(false);
+    amazon.Login.setClientId("amzn1.application-oa2-client.e436a25f7bcd4131878330f36b8a197f");
+    amazon.Login.setRegion("US");
+    amazon.Login.setUseCookie(true);
+
+    
+  };
+
+//]]>
+</script><script src="//cdn.shopify.com/s/assets/amazon_payments-a9a34a69cad912045d29ae90c0942757bda00a5b42ae05f9962d7dc6045ea7b9.js" crossorigin="anonymous" integrity="sha256-qaNKacrZEgRdKa6QwJQnV72gCltCrgX5li19xgRep7k="></script><script>
+//<![CDATA[
+amazonPaymentsButtonHandler.assign("cart")
+//]]>
+</script>
+
+<script async="" src="//static.hotjar.com/c/hotjar-3662.js?sv=3"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+
+<body class="page-page">
+
+  <svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<symbol id="svg-r" viewBox="0 0 1024 1024">
+			<title>r</title>
+			<path class="path1" d="M674 90c0-6-6-12-14-12h-644c-8 0-14 6-16 12 0 0 0 2 0 2 0 4 2 8 4 10l128 136c8 8 12 14 12 14 6 6 16 8 24 8h338c10 0 18-2 24-8 0 0 6-6 12-14l128-136c4-2 4-6 4-10 0 0 0-2 0-2zM428 916c0 18-12 30-30 30h-122c-16 0-30-12-30-30v-596c0-16 14-30 30-30h122c18 0 30 14 30 30zM1012 922l-244-260c-6-4-12-8-18-8v-2h-186c-8 0-14 6-14 14 0 0 0 2 0 2 0 4 0 8 4 10l244 260c6 4 12 8 18 8v0h186c8 0 14-6 14-12 0 0 2-2 2-2 0-4-2-8-6-10zM750 78v0c-2 0-2 0-4 0-8 0-14 4-20 10 0 0-4 4-12 12l-128 136c-2 2-4 6-4 10 0 0 0 2 0 2 2 6 8 12 14 12h154c14 0 26 4 38 10 32 14 52 46 52 82 0 50-40 92-90 92h-262c-16 0-30 14-30 30v122c0 16 14 30 30 30h262c150 0 274-122 274-274s-122-274-274-274z"></path>
+		</symbol>
+		<symbol id="svg-ript" viewBox="0 0 3653 1024">
+			<title>ript-logo</title>
+			<path class="path1" d="M3652.704 15.643c-1.268-8.667-8.667-15.432-17.757-15.432h-878.771c-9.090 0-16.7 6.765-17.757 15.432 0 0.423-0.211 1.691-0.211 1.903 0 4.439 1.691 9.090 5.073 12.472l165.311 174.401c7.61 8.033 17.757 11.627 27.904 11.204h115.422c19.871 0 35.937 16.066 35.937 35.937v736.502c0 19.871 16.066 35.937 35.937 35.937h143.749c19.871 0 35.937-16.066 35.937-35.937v-736.502c0-19.871 16.066-35.937 35.937-35.937h115.422c10.147 0.634 20.505-3.171 27.904-11.204l165.311-174.401c3.382-3.382 5.073-8.033 5.073-12.472-0.211-0.423-0.423-1.691-0.423-1.903z"></path>
+			<path class="path2" d="M1438.758 988.063c0 19.871-16.066 35.937-35.937 35.937h-143.749c-19.871 0-35.937-16.066-35.937-35.937v-952.126c0-19.871 16.066-35.937 35.937-35.937h143.749c19.871 0 35.937 16.066 35.937 35.937v952.126z"></path>
+			<path class="path3" d="M2355.158 0.211v0c-0.423 0-558.084-0.211-558.084-0.211-19.871 0-35.937 16.066-35.937 35.937v952.126c0 19.871 16.066 35.937 35.937 35.937h143.749c19.871 0 35.937-16.066 35.937-35.937v-736.502c0-19.871 16.066-35.937 35.937-35.937l341.192 0.211c16.489 0 32.132 3.805 46.084 10.358 36.36 17.334 61.727 54.329 61.727 97.453 0 59.614-48.198 107.812-107.812 107.812h-422.157c-19.871 0-35.937 16.066-35.937 35.937v143.749c0 19.871 16.066 35.937 35.937 35.937h421.945c178.418 0 323.224-144.806 323.224-323.224 0-178.629-143.96-323.012-321.744-323.647z"></path>
+			<path class="path4" d="M601.843 675.832c-3.382-3.594-5.073-8.033-5.073-12.472 0-0.211 0.211-1.48 0.211-1.903 1.268-8.667 8.667-15.432 17.546-15.432v0c168.271-11.204 301.239-151.359 301.239-322.378 0-177.995-143.96-322.59-321.955-323.224v0c-0.846 0-459.363 0-459.363 0-19.871 0-35.937 16.066-35.937 35.937v143.749c0 19.871 16.066 35.937 35.937 35.937l458.094 0.211c16.489 0 32.132 3.805 46.084 10.358 36.36 17.334 61.727 54.329 61.727 97.453 0 59.402-48.198 107.812-107.812 107.812h-341.192c-19.448 0-35.092-15.432-35.937-34.669v-361.275c0-19.871-16.066-35.937-35.937-35.937h-143.538c-19.871 0-35.937 16.066-35.937 35.937v952.126c0 19.871 16.066 35.937 35.937 35.937h143.749c19.871 0 35.937-16.066 35.937-35.937v-306.312c0.634-19.237 16.489-34.669 35.937-34.669h42.913c7.399 1.268 15.22 5.285 20.717 11.204l336.119 354.51c5.496 5.919 12.684 9.513 20.083 10.781l0.423 0.423h218.583c9.090 0 16.489-6.765 17.757-15.432 0-0.423 0.211-1.691 0.211-1.903 0-4.439-1.691-9.090-5.073-12.472l-301.45-318.362z"></path>
+		</symbol>
+		<symbol id="svg-cart" viewBox="0 0 1024 1024">
+			<title>cart</title>
+			<path class="path1" d="M1002 170h-108c-22 0-40 16-42 38l-16 114c0 12-10 20-20 20h-730c-28 0-54 12-70 34s-20 50-12 76l66 214c12 36 44 60 82 60h616c12 0 22 8 22 20s-10 22-22 22h-598c-12 0-20 10-20 22s8 20 20 20h598c36 0 64-28 64-64 0-34-28-64-64-64h-616c-18 0-36-12-40-30l-68-212c-4-14-2-28 6-38 8-12 22-18 36-18h730c32 0 60-24 64-56l14-114h108c12 0 22-10 22-22s-10-22-22-22zM810 446l-20 192c-2 12 6 22 18 24 2 0 2 0 2 0 12 0 20-8 22-20l22-192c0-12-8-22-20-24-12 0-22 8-24 20zM256 854c-48 0-86 38-86 84 0 48 38 86 86 86s86-38 86-86c0-46-38-84-86-84zM256 982c-24 0-42-20-42-44 0-22 18-42 42-42s42 20 42 42c0 24-18 44-42 44zM726 854c-48 0-86 38-86 84 0 48 38 86 86 86 46 0 84-38 84-86 0-46-38-84-84-84zM726 982c-24 0-44-20-44-44 0-22 20-42 44-42 22 0 42 20 42 42 0 24-20 44-42 44z"></path>
+		</symbol>
+		<symbol id="svg-phone" viewBox="0 0 1024 1024">
+			<title>phone</title>
+			<path class="path1" d="M732 690c-20-20-46-32-74-32-30 0-56 12-76 32l-16 16c-90-74-174-158-248-248l16-16c42-42 42-108 0-150l-90-92c-20-20-46-30-76-30-28 0-54 10-74 30l-50 50c-50 50-58 130-20 188 146 222 340 416 562 562 24 16 52 24 82 24 40 0 78-16 106-44l50-50c40-40 40-108 0-150zM792 900l-48 50c-20 20-48 32-76 32-22 0-42-6-58-18-216-144-406-332-550-550-28-42-22-98 14-134l50-48c12-12 28-20 44-20 18 0 34 8 46 20l90 90c26 24 26 66 0 90l-30 30c-8 8-8 20 0 28 82 102 178 198 280 282 8 6 20 6 28-2l30-30c24-24 66-24 90 0l90 90c26 24 26 66 0 90zM512 0c-12 0-22 10-22 22s10 20 22 20c258 0 470 212 470 470 0 12 8 22 20 22s22-10 22-22c0-282-230-512-512-512zM512 214c164 0 298 134 298 298 0 12 10 22 22 22s22-10 22-22c0-188-154-342-342-342-12 0-22 10-22 22s10 22 22 22zM512 384c70 0 128 58 128 128 0 12 10 22 22 22s20-10 20-22c0-94-76-170-170-170-12 0-22 8-22 20s10 22 22 22z"></path>
+		</symbol>
+		<symbol id="svg-house" viewBox="0 0 1024 1024">
+			<title>house</title>
+			<path class="path1" d="M876 576c-12 0-22 10-22 22v384h-212v-300h-256v300h-214v-406c0-12-10-22-22-22s-20 10-20 22v448h298v-298h170v298h300v-426c0-12-10-22-22-22zM1020 540l-492-492c-8-8-22-8-30 0l-490 492c-8 8-8 22 0 30s22 8 30 0l476-476 474 476c6 4 10 6 16 6s10-2 16-6c8-8 8-22 0-30zM684 128h128v128c0 12 10 22 22 22s20-10 20-22v-170h-170c-12 0-22 8-22 20s10 22 22 22z"></path>
+		</symbol>
+		<symbol id="svg-ruler" viewBox="0 0 1024 1024">
+			<title>ruler</title>
+			<path class="path1" d="M0 228h1024v56h-1024zM970 284h54v512h-54zM0 740h970v56h-970zM0 284h56v456h-56zM170 284h58v342h-58zM512 284h56v342h-56zM854 284h56v342h-56zM682 284h58v228h-58zM342 284h56v228h-56z"></path>
+		</symbol>
+		<symbol id="svg-heart" viewBox="0 0 1024 1024">
+			<title>heart</title>
+			<path class="path1" d="M950 340c0-30-4-58-12-82-8-22-18-42-30-56-14-14-30-24-48-34-18-8-36-14-54-18-16-2-36-4-56-4-18 0-40 6-64 14-22 10-44 22-62 38-20 14-36 28-50 40-14 14-24 26-34 36-6 8-16 12-28 12s-22-4-28-12c-10-10-20-22-34-36-14-12-30-26-50-40-18-16-40-28-62-38-24-8-46-14-64-14-20 0-40 2-56 4-18 4-36 10-54 18-18 10-34 20-48 34-12 14-22 34-30 56-8 24-12 52-12 82 0 64 34 132 106 204l332 320 332-320c72-72 106-140 106-204zM1024 340c0 84-44 170-130 258l-356 342c-8 8-16 10-26 10s-18-2-26-10l-356-344c-4-2-8-8-16-14-6-8-16-20-32-38-14-18-26-36-38-56-12-18-22-42-30-68-10-28-14-54-14-80 0-84 24-148 72-196s116-70 202-70c22 0 46 4 72 12 24 8 46 18 68 32s40 28 54 40c16 12 30 24 44 38 14-14 28-26 44-38 14-12 32-26 54-40s44-24 68-32c26-8 50-12 72-12 86 0 154 22 202 70s72 112 72 196z"></path>
+		</symbol>
+		<symbol id="svg-fb" viewBox="0 0 1024 1024">
+			<title>fb</title>
+			<path class="path1" d="M768 210c0 0-146 0-146 0-8 0-18 6-26 16-6 10-10 24-10 38 0 0 0 104 0 104s182 0 182 0c0 0 0 152 0 152s-182 0-182 0c0 0 0 452 0 452s-174 0-174 0c0 0 0-452 0-452s-156 0-156 0c0 0 0-152 0-152s156 0 156 0c0 0 0-88 0-88 0-64 20-118 60-162s90-66 150-66c0 0 146 0 146 0s0 158 0 158z"></path>
+		</symbol>
+		<symbol id="svg-g-plus" viewBox="0 0 1024 1024">
+			<title>g-plus</title>
+			<path class="path1" d="M102 284c0-38 8-74 26-104s36-52 58-66c20-14 44-26 70-36 26-8 46-14 58-14 12-2 20-2 26-2 0 0 236 0 236 0s0 4 0 4c0 14-28 26-80 36-20 0-32 2-40 6 28 14 46 34 56 58s14 58 14 98c0 70-22 124-70 162-26 26-38 44-38 56s16 34 50 64c72 62 108 124 108 184 0 94-40 160-120 198-46 22-96 34-152 34 0 0-4 0-4 0s-6-2-6-2c0 2-2 2-4 2-16 0-34-2-54-4-20-4-46-12-78-22-30-10-56-30-76-58-18-28-28-64-28-106 0-40 10-76 32-104s50-46 86-58c34-10 64-18 90-22 24-4 48-6 72-6 0 0 2 0 2 0-12-16-20-32-24-48-6-18-8-30-8-40 0 0 2-14 2-14s-16 0-16 0c-42 0-80-12-112-32-50-30-76-84-76-164zM482 748c-4-36-18-64-44-86-28-22-62-34-106-34 0 0-16 0-16 0-44 2-84 18-118 48-30 28-46 60-42 96 2 36 20 62 54 82s74 28 122 24c46-2 84-16 112-40s40-54 38-90zM420 236c-20-74-62-112-126-112-8 0-14 2-20 2-26 10-46 30-58 64s-12 70-4 110c10 34 26 64 50 86 22 22 46 34 72 34 8 0 14 0 18-2 28-8 50-30 64-66 16-36 16-76 4-116zM818 414c0 0 152 0 152 0s0 96 0 96c0 0-152 0-152 0s0 154 0 154c0 0-98 0-98 0s0-154 0-154c0 0-152 0-152 0s0-96 0-96c0 0 152 0 152 0s0-154 0-154c0 0 98 0 98 0s0 154 0 154z"></path>
+		</symbol>
+		<symbol id="svg-insta" viewBox="0 0 1024 1024">
+			<title>insta</title>
+			<path class="path1" d="M778 512c0-18-2-34-6-52 0 0 180 0 180 0s0 354 0 354c0 38-12 70-40 98-26 26-58 40-96 40 0 0-608 0-608 0-38 0-70-14-96-40-28-28-40-60-40-98 0 0 0-354 0-354s178 0 178 0c-2 22-4 40-4 52 0 72 26 134 78 188 52 52 114 78 188 78 72 0 134-26 188-78 52-54 78-116 78-188zM816 72c38 0 70 12 96 40 28 26 40 58 40 96 0 0 0 150 0 150s-222 0-222 0c-54-74-126-112-218-112-94 0-166 38-218 112 0 0-222 0-222 0s0-150 0-150c0-38 12-70 40-96 26-28 58-40 96-40 0 0 608 0 608 0zM880 242c0 0 0-74 0-74 0-16-8-24-24-24 0 0-74 0-74 0-16 0-24 8-24 24 0 0 0 74 0 74 0 6 2 10 6 16 6 6 12 8 18 8 0 0 74 0 74 0 16 0 24-8 24-24zM676 512c0 46-16 84-48 116s-70 48-116 48c-46 0-84-16-116-48s-48-70-48-116c0-46 16-86 48-116 32-32 70-48 116-48s84 16 116 48c32 30 48 70 48 116z"></path>
+		</symbol>
+		<symbol id="svg-pin" viewBox="0 0 1024 1024">
+			<title>pin</title>
+			<path class="path1" d="M444 676c-18 88-38 160-58 216-22 56-56 100-100 132-4-50-6-92-6-122-2-32 2-70 10-114 10-44 16-78 24-106 6-28 16-62 26-102s20-74 24-100c-16-36-22-76-18-120 2-44 18-80 48-108s64-36 102-20c26 10 42 30 44 60 4 30-2 62-12 98-12 34-24 70-34 104-10 36-12 66-4 92 8 28 30 44 66 50 46 10 86-2 122-38 38-36 62-80 76-134 16-54 18-110 12-168-6-56-26-100-56-130-42-44-94-68-154-72s-116 8-166 34c-52 26-92 66-124 120s-42 112-32 174c2 14 10 32 22 54 12 20 20 36 22 48 2 10-4 34-18 68-100-24-148-102-144-236 4-94 40-174 108-240 70-64 148-104 238-114 112-12 212 8 298 58 86 52 134 126 148 224 18 120-6 230-68 326-64 96-150 140-258 132-16-2-30-6-44-10s-24-10-30-14c-6-4-18-10-32-20s-24-18-32-22z"></path>
+		</symbol>
+		<symbol id="svg-twitter" viewBox="0 0 1024 1024">
+			<title>twitter</title>
+			<path class="path1" d="M984 220c-26 36-58 70-98 100 0 0 0 24 0 24 0 88-20 174-60 256-42 82-106 152-192 208s-184 84-296 84c-110 0-208-28-298-86 10 2 26 2 48 2 90 0 170-26 240-80-42-2-80-16-112-40-34-24-56-56-68-96 6 2 18 4 34 4 18 0 36-2 52-6-46-10-82-32-112-68-28-36-42-76-42-122 0 0 0-2 0-2 24 12 54 22 86 24-58-40-86-94-86-162 0-32 8-64 26-96 106 128 238 196 400 200-4-12-6-26-6-42 0-54 18-100 56-136 38-38 84-56 138-56 56 0 102 18 140 58 40-8 82-22 122-44-14 44-42 80-84 106 38-6 76-16 112-30z"></path>
+		</symbol>
+		<symbol id="svg-tumblr" viewBox="0 0 1024 1024">
+			<title>tumblr</title>
+			<path class="path1" d="M798 930c-32 18-68 32-108 40-32 8-68 14-104 14-40 0-78-6-112-18-38-12-66-28-84-46-26-22-42-44-48-66-10-20-14-54-14-98 0 0 0-330 0-330s-102 0-102 0c0 0 0-134 0-134 36-12 68-28 94-50s46-50 62-82c18-36 28-76 32-120 0 0 132 0 132 0s0 238 0 238c0 0 222 0 222 0s0 148 0 148c0 0-222 0-222 0s0 242 0 242c0 56 4 92 10 104 6 16 16 28 32 36 18 14 42 22 70 22 46 0 92-16 140-48 0 0 0 148 0 148z"></path>
+		</symbol>
+	</defs>
+</svg>
+    
+  <div id="top-nav">
+	<div>
+
+		<button>
+			<span></span>
+			<span></span>
+			<span></span>
+		</button>
+
+		<div id="store-nav">
+<!-- 			<h5><a href="/collections/store" title="Store">Store</a></h5> -->
+			<ul id="AccessibleNav">
+  
+    
+    
+    
+      <li class="">
+        <a href="/collections/mens-t-shirts">Store</a>
+      </li>
+    
+  
+    
+    
+    
+      <li class="">
+        <a href="/collections/select-exclusive-collection/Type-Mens">Exclusive Tees</a>
+      </li>
+    
+  
+  <li class="last-call-top-nav"><a href="/pages/last-call" title="Last Call">Last Call</a></li>
 </ul>
 
-<p>As a reminder, RIPT.com is not intended for children under the age of13. If you are under 13, do not submit your personal information to this Site.</p>
+<script>    
+    $('.site-nav--has-dropdown').click( function(event){
+        event.stopPropagation();
+        $('.site-nav__dropdown').toggle();
+    });
 
+    $(document).click( function(){
+        $('.site-nav__dropdown').hide();
+    });
+</script>
+
+
+			
+		</div>
+
+		<div id="aux-nav">
+			<ul>
+				<li><a href="/pages/artists" title="Artists">Artists</a></li>
+				
+                <li><a href="/account/register" title="Register">Register</a></li>
+              	<li><a href="/account/login" title="Login">Login</a></li>
+              	
+			</ul>
+			<a id="cart" href="/cart">
+				<svg class="svg-cart" viewBox="0 0 32 32">
+					<use xlink:href="#svg-cart"></use>
+				</svg>
+				<span>0</span>
+			</a>
+		</div>
+
+		<div id="phone-cta">
+			<svg class="svg-phone" viewBox="0 0 32 32">
+				<use xlink:href="#svg-phone"></use>
+			</svg>
+			<p>
+				9am-5pm CST M-F<br>
+				<em>1-855-474-7807</em>
+			</p>
+		</div>
+
+
+	</div>
+</div>
+  <nav id="primary">
+	<ul>
+		<li id="logo">
+			<a href="/" title="RIPT">
+			  <span>
+				<span id="logo-ript">
+					<svg class="svg-ript" viewBox="0 0 3653 1024">
+						<use xlink:href="#svg-ript"></use>
+					</svg>
+				</span>
+				<span id="logo-house">
+					<svg class="svg-house" viewBox="0 0 32 32">
+						<use xlink:href="#svg-house"></use>
+					</svg>
+				</span>
+			  </span>
+			</a>
+			<span>The Best Daily<br> Pop Culture Tees</span>
+		</li>
+		<li id="today"><a href="/" title="Today's Designs">Today's<br><span>Designs</span></a></li>
+		<li id="grave"><a href="/pages/graveyard" title="Graveyard">Grave-<br><span>yard</span></a></li>
+		
+		
+		
+		<li id="submit" class="inactive"><a href="/pages/submit-a-design" title="Submit a Design">Submit a<br><span>Design</span></a></li>
+		<li id="last"><a href="/pages/last-call" title="Last Call">Last<br><span>Call</span></a></li>
+	</ul>
+</nav>
+  
+  
+  
+  <div id="page" class="row contain">
+  
+    <h1 class="half-banner green">Privacy Policy</h1>
+    
+    <div class="columns medium-8"><h4>1. Information Collection and Use</h4>
+<p>RIPT Apparel collects information (such as your name, shipping and billing address, credit card number, email address, etc.) from you that we need to:<br><br>- process your order;<br>- provide you with member support;<br>- allow you to use the community forums and participate in contests and other forum features; and<br>- send you newsletters and other communications such as polls, surveys, and special RIPT Apparel offers.<br><br>As a reminder, RIPT.com is not intended for children under the age of 13. If you are under 13, do not submit your personal information to this Site.</p>
 <h4>2. Use of Cookies and Web Beacons</h4>
 <p>RIPT Apparel will set and access our own cookies on your computer to allow you to make purchases and interact with the site. We also use web beacons to gather anonymous, aggregated statistical information (e.g. unique hits, page views, etc.) about our website traffic.</p>
-
 <h4>3. Information Sharing and Disclosure</h4>
-<p>RIPT Apparel may share information collected by us with third parties to help process your order (e.g. shipping companies, credit card processors, etc.) or to provide statistical and demographic analysis to RIPT Apparel to help us and our business partners provide you with better services and offerings.</p>
-
-<p>RIPT Apparel will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit. However, in the event that RIPT is acquired by or sold to another company, RIPT reserves its right to include your personally identifiable information among the assets transferred.</p>
-
+<p>RIPT Apparel may share information collected by us with third parties to help process your order (e.g. shipping companies, credit card processors, etc.) or to provide statistical and demographic analysis to RIPT Apparel to help us and our business partners provide you with better services and offerings.<br><br>RIPT Apparel will not share, rent, lease, or sell your personal information (e.g. your email address, your credit card information, your name, your address, etc.) to any third party for their independent use or benefit. However, in the event that RIPT is acquired by or sold to another company, RIPT reserves its right to include your personally identifiable information among the assets transferred.</p>
 <h4>4. Changes to this Privacy Policy and Contact Information</h4>
-<p>Future changes to this Privacy Policy may be made at any time. To ask questions about this policy or to remove your personal information from our database, write to us at&nbsp;<a href="mailto:legal@RIPTapparel.com">legal@RIPTapparel.com</a>.</p>
+<p>Future changes to this Privacy Policy may be made at any time. To ask questions about this policy or to remove your personal information from our database, write to us at legal@RIPTapparel.com.</p>
+<h4>5. Effective Date</h4>
+<p><strong>This privacy policy was last modified on July 07, 2011.</strong></p></div>
+    <div class="columns medium-4">
+    	
+    
+  </div>
+  
+</div>
+  
+  <div id="as-seen">
+    <div class="row">
+      <h5>As Featured In:</h5>
+      <div class="columns medium-3">
+        <a target="_new" href="https://www.tastytrade.com/tt/shows/bootstrapping-in-america/episodes/matt-ingleby-of-riptapparelcom-10-02-2014?locale=en-US"><img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/tasty-trade.png?17869996122656956776" style="width:200px;"></a>
+      </div>
+      <div class="columns medium-3">
+        <a target="_new" href="http://www.chicagobusiness.com/article/20140821/NEWS07/140829989/meet-the-new-threadless-fast-growing-t-shirt-maker-ript-apparel"><img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/crains.png?17869996122656956776"></a>
+      </div>
+      <div class="columns medium-3">
+        <a target="_new" href="http://www.chicagotribune.com/bluesky/originals/chi-ript-apparel-matt-ingleby-bsi-20140904-story.html"><img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/chicagotribune.png?17869996122656956776"></a>
+      </div>
+      <div class="columns medium-3">
+        <a target="_new" href="http://www.nbcchicago.com/blogs/inc-well/Ript-Apparels-Co-Founders-On-Taking-A-Startup-Full-Time-122516324.html"><img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/nbc5chicago.png?17869996122656956776"></a>
+      </div>
+    </div>
+  </div>
 
-<h4>5.&nbsp;&nbsp;Effective Date</h4>
-<p><strong>This privacy policy was last modified on July 07, 2011. </strong></p>
+    <div id="quickcart-modal" class="quickcart reveal-modal" data-reveal="" aria-hidden="true" role="dialog">
+      <a class="close-reveal-modal" aria-label="Close">×</a>
+      
+      
+      
+      <div id="cart-discount-message" style="margin:auto;margin-bottom:20px;padding:20px;background-color:#d9ffde;max-width:880px;">
+        You saved <b><span id="cart-discount-amount"></span></b> on your order! <a href="/cart">Check Out Now</a>
+      </div>
+      
+      <h3>Your Shopping Cart</h3>
+
+      <div class="products">
+        <div class="product">
+          <img src="" alt="">
+          <div class="product-info">
+            <div class="price">$Price</div>
+            <h6>Product Name</h6>
+            <div class="subtype">Sub Type</div>
+            <div class="size">Size</div>
+            <div class="quantity">Quantity</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <a href="/" class="continue-shopping cancel-btn">Continue Shopping</a>
+        <a href="/cart" class="checkout-btn green-btn">Checkout</a>
+      </div>
+    </div>
+
+    <footer>
+	<div>
+
+		<div id="footer-logo">
+			<svg class="svg-r" viewBox="0 0 1024 1024">
+				<use xlink:href="#svg-r"></use>
+			</svg>
+			<svg class="svg-ript" viewBox="0 0 3653 1024">
+				<use xlink:href="#svg-ript"></use>
+			</svg>
+		</div>
+
+		<nav>
+			<div>
+				<h5>About Ript</h5>
+				<ul>
+					<li><a href="/pages/submit-a-design">Submit a Design</a></li>
+					<li><a href="/pages/our-team">Our Team</a></li>
+					<li><a href="/pages/loved-ones">Loved Ones</a></li>
+				</ul>
+			</div>
+			<div>
+				<h5>Help</h5>
+				<ul>
+					<li><a href="https://ript.zendesk.com/hc/en-us">Contact Ript</a></li>
+					<li><a href="/pages/faq">FAQ</a></li>
+					<li><a href="http://blog.riptapparel.com/blog">Blog</a></li>                  
+				</ul>
+			</div>
+		</nav>
+
+		<div id="footer-cta">
+			<a class="box" href="tel:+18554747807">
+				<img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/phone.png?17869996122656956776">
+				<span>9AM-5PM CST M-F<br>
+				<em>1-855-474-7807</em></span>
+			</a>
+			<a id="chat" class="box" href="#">
+				<img src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/chat.png?17869996122656956776">
+				<span>Talk to a human<br>
+				<em>Live Chat Now</em></span>
+			</a>
+		</div>
+
+		<div class="social">
+			<ul>
+				<li>
+					<a id="facebook" href="http://www.facebook.com/riptapparel" target="_blank">
+						<svg class="svg-fb" viewBox="0 0 1024 1024">
+							<use xlink:href="#svg-fb"></use>
+						</svg>
+					</a>
+				</li>
+				<li>
+					<a id="twitter" href="http://www.twitter.com/riptapparel" target="_blank">
+						<svg class="svg-twitter" viewBox="0 0 1024 1024">
+							<use xlink:href="#svg-twitter"></use>
+						</svg>
+					</a>
+				</li>
+				<li>
+					<a id="pinterest" href="http://www.pinterest.com/riptapparel" target="_blank">
+						<svg class="svg-pin" viewBox="0 0 1024 1024">
+							<use xlink:href="#svg-pin"></use>
+						</svg>
+					</a>
+				</li>
+				<li>
+					<a id="tumblr" href="http://riptapparel.tumblr.com/" target="_blank">
+						<svg class="svg-tumblr" viewBox="0 0 1024 1024">
+							<use xlink:href="#svg-tumblr"></use>
+						</svg>
+					</a>
+				</li>
+				<li>
+					<a id="g-plus" href="https://plus.google.com/+riptapparel" target="_blank">
+						<svg class="svg-g-plus" viewBox="0 0 1024 1024">
+							<use xlink:href="#svg-g-plus"></use>
+						</svg>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+		<p id="footer-aux">
+			<a href="/pages/terms-and-conditions">Terms &amp; Conditions</a>
+			<span> &nbsp;–&nbsp; </span>
+			<a href="/pages/privacy-policy">Privacy Policy</a>
+			<span> &nbsp;–&nbsp; </span>
+			<a href="http://blog.riptapparel.com/blog">Blog</a>
+		</p>
+
+		<p id="legal">© 2009-2016 RIPT Apparel LLC. All rights reserved.</p>
+
+	</div>  
+</footer>
+    <div id="overlay"></div>
+<nav id="mobile">
+	<div>
+		<div id="mobile-phone">
+			<svg class="svg-phone" viewBox="0 0 32 32">
+				<use xlink:href="#svg-phone"></use>
+			</svg>
+			<p>
+				9am-5pm CST M-F<br>
+				<em>1-855-474-7807</em>
+			</p>
+		</div>
+		<button class="close">
+			<span></span>
+			<span></span>
+		</button>
+	</div>
+
+	<ul id="mobile-store">
+      
+    	
+    
+        <li class="">
+          <a href="/collections/mens-t-shirts">Store</a>
+        </li>
+        
+    	
+    
+        <li class="">
+          <a href="/collections/select-exclusive-collection/Type-Mens">Exclusive Tees</a>
+        </li>
+        
+      
+      	
+	</ul>
+
+	<ul id="mobile-aux">
+		<li><a href="/pages/artists" title="Artists">Artists</a></li>
+		<li><a href="#" title="Help">Help</a></li>
+		
+      		<li><a href="/account/login" title="Login">Login</a></li>
+      		<li><a href="/account/register" title="Register">Register</a></li>
+      	
+	</ul>
+</nav>
+
+    <!--[if le IE9]>
+      <script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/html5shiv.js?17869996122656956776" type="text/javascript"></script>
+    <![endif]-->
+  
     
 
-                    
-                
-              </div>
-            
-          </div><!-- end container -->
-        
+    <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-04f21dade47c181126ac61b64d757485f84671daadfa90e4956a522cda4c2948.js" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-5f52c6aafe08e99b5fd74bc04431f324d961490d08bb70ca69b5e05941aa4323.js" type="text/javascript"></script>
+    
+    
+      <script src="//cdn.shopify.com/s/assets/themes_support/shopify_common-a36b2da8ddec036c822c3310cceb06e8f3a1e48ecabb6236e44e85efd931d603.js" type="text/javascript"></script>
+      <script src="//cdn.shopify.com/s/assets/themes_support/customer_area-8e117b99b6e8454435d157c197e9375e762aba8a5888846d0f7a76b930bf1ece.js" type="text/javascript"></script>
+    
+  
+  	<script>
+      var discountsEnabled = false;
+      
+    </script>
+    
+    <!-- TODO Merge js files -->
+      <script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/ript-store.lib.min.js?17869996122656956776" type="text/javascript"></script>
+      <script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/ript.js?17869996122656956776" type="text/javascript"></script>
+    <!-- end merge -->
+  
+    <!-- <script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/scripts.js?17869996122656956776" type="text/javascript"></script> -->
 
-        
-        
-        <div class="container-fluid social-footer">
-          <div class="container">
-            <div class="row-fluid">
-              <div class="span4 followus">
-                <h4 class="visible-phone">Follow RIPT Apparel</h4>
-                <ul class="inline">
-                  <li><a href="http://www.facebook.com/riptapparel" class="icon-square-facebook" target="_blank"></a></li>
-                  <li><a href="http://www.twitter.com/riptapparel" class="icon-square-twitter" target="_blank"></a></li>
-                  <li><a href="http://riptapparel.tumblr.com" class="icon-square-tumblr" target="_blank"></a></li>
-                  <li><a href="http://www.instagram.com/riptapparel" class="icon-square-instagram" target="_blank"></a></li>
-                  <li><a href="http://www.pinterest.com/riptapparel" class="icon-square-pinterest" target="_blank"></a></li>
-                  <li><a href="https://plus.google.com/105609328877100312272?rel=author" class="icon-square-googleplus" target="_blank"></a></li>
-                  <li><a href="http://feeds.feedburner.com/riptapparel" class="icon-square-rss" target="_blank"></a></li>
-                </ul>
-              </div>
-              <div class="span8 offers form-inline">
-                <h4>Subscribe for Offers and Updates:</h4>
-                  <form action="http://app.bronto.com/public/webform/process/" target="_blank" method="post">
-                      <input type="hidden" name="fid" value="br0jmi8yx351g1yvubyh8es4ldska">
-                      <input type="hidden" name="sid" value="0f8f055f32859880cf18a5a74d3b703a">
-                      <input type="hidden" name="delid" value="">
-                      <input type="hidden" name="subid" value="">
-                      <input type="hidden" name="46790[355348]" value="true" checked="">
-                      <input class="text email input-medium" type="email" name="46787" placeholder="Your Email Address">
-                      <input class="submit btn" type="submit" name="go" value="Subscribe">
-                  </form>
-              </div>
-            </div>
-          </div>
-        </div>
+    
+  
+    
+  
+  <script>
+    Ript.api_url = "https://admin.riptapparel.com/";
+  </script>
+ 
+  
+  
+    <!-- AdRoll wants these these -->
+<script type="text/javascript">
+  adroll_adv_id = "4M2634LAVNFSZDLN2PICLL";
+  adroll_pix_id = "IEKXGJNQB5EGNFGHA7KMQE";
+  (function () {
+      var _onload = function(){
+          if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+          if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          var scr = document.createElement("script");
+          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+          scr.setAttribute('async', 'true');
+          scr.type = "text/javascript";
+          scr.src = host + "/j/roundtrip.js";
+          ((document.getElementsByTagName('head') || [null])[0] ||
+              document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+  }());
+</script>
 
-        <div class="container-fluid footer-details">
-          <div class="container">
-              <div id="footer" class="row-fluid">
-                <div class="row-fluid">
-                  <ul id="footer-nav">
-                      <li><a href="/" title="Ript Apparel: Custom T-shirts &amp; Chearp Limited Edition Graphic Tees">Home</a></li>
-                      <li><a href="/graveyard/" title="Graveyard">Graveyard</a></li>
-                      <li><a href="/store/" title="Store">Store</a></li>
-                      <li><a href="/service/" title="Terms of Service">Service</a></li>
-                      <li class="visible-desktop"><a href="/submit/wizard/" title="Submit Your Custom T-shirt to RIPT Apparel">Submit</a></li>
-                      <li><a href="/products/gift_certificates/" title="Cool T-shirt, Hoodie &amp; Sweatshirt Gift Certificates and Gifts">Gift Certificates</a></li>
-                      <li><a href="https://ript.zendesk.com/hc/" title="Contact RIPT Apparel">Contact</a></li>
-                      <li><a href="/affiliate-info/" title="RIPT Apparel Affiliate Program for T-shirts, Sweatshirts and Hoodies">Affiliate Program</a></li>
-                      <li class="visible-desktop"><a href="/widgets/non-affiliates/" title="Stick us on your blog!">Widgets</a></li>
-                      <li><a href="/orders/track/" title="Track your RIPT Apparel Order">Order Tracking</a></li>
-                      <li><a href="/terms-and-conditions/" title="Terms and Conditions">Terms &amp; Conditions</a></li>
-                      <li><a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-                  </ul>
-                </div>
-                <div class="row-fluid">
-                  <div class="all-sizes span7">
-                     <p>© 2009-2013 RIPT Apparel, LLC. All rights reserved.</p>
-                     <p class="visible-desktop"><span class="icon-desktop"></span><span class="icon-laptop"></span><span class="icon-tablet"></span><span class="icon-phone"></span>
-                      This site is built using Responsive Design just for you.</p>
-                  </div>
-                  <div class="span5 security">
-                    <div class="row-fluid">
-                      <img id="footer-brands" class="visible-desktop" src="https://static-riptapparel-com.s3.amazonaws.com/img/apparel-brands.666c981cc46f.png">
-                    </div>
-                    <div class="span12 security">
-                      <!-- PayPal Logo -->
-                        <a href="https://www.paypal.com/webapps/mpp/paypal-popup" class="paypal" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://static-riptapparel-com.s3.amazonaws.com/img/paypal-secure.db04075e48e1.gif" border="0" alt="PayPal Acceptance Mark"></a>
-                    <!-- Braintree Logo -->
-                      <a href="https://www.braintreegateway.com/merchants/nrtg7b7t5pry7mh6/verified" target="_blank">
-                        <img src="https://braintree-badges.s3.amazonaws.com/05.png" border="0">
-                      </a>
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </div>
-        
-        
-        
-        <script type="text/javascript">
-            window.ript = {
-              STATIC_URL : 'https://static\u002Driptapparel\u002Dcom.s3.amazonaws.com/',
-              is_authenticated: false,
-              apps : { }
-            };
-            var pixelezeData = pixelezeData || {};
-            pixelezeData.AccountId = "e3044fe8-a82b-40f4-91cb-a223013e1c18";
-        </script>
-        <script type="text/javascript" src="https://static-riptapparel-com.s3.amazonaws.com/build/master.min.ebba6cb70ec2.js" charset="utf-8"></script>
-        
-        
+<!-- SteelHouse Tracking Pixel -->
+<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=12249&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160403071349id_%2Fhttps%253A%2F%2Fwww.riptapparel.com%2Fpages%2Fprivacy-policy&amp;cb=4587955306316749"></script><script type="text/javascript">
+(function(){"use strict";var e=null,b="4.0.0",
+n="12249",
+additional="",
+t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
 
-        <script type="text/javascript">
-            adroll_adv_id = "4M2634LAVNFSZDLN2PICLL";
-            adroll_pix_id = "IEKXGJNQB5EGNFGHA7KMQE";
-            (function () {
-            var oldonload = window.onload;
-            window.onload = function(){
-               __adroll_loaded=true;
-               var scr = document.createElement("script");
-               var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-               scr.setAttribute('async', 'true');
-               scr.type = "text/javascript";
-               scr.src = host + "/j/roundtrip.js";
-               ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-               if(oldonload){oldonload()}};
-            }());
-        </script>
-        
-            <script type="text/javascript" src="//tags.mediaforge.com/js/2222"></script>
-        
-        
-        <!-- Adhesive - Non-Homepage -->
-        <img src="https://secure.adnxs.com/seg?add=1302973&amp;t=2" width="1" height="1">
-        
-        <!-- FB Ad Targeting -->
-        <script>(function() {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
-            var fbds = document.createElement('script');
-            fbds.async = true;
-            fbds.src = '//connect.facebook.net/en_US/fbds.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(fbds, s);
-            _fbq.loaded = true;
-            }
-            _fbq.push(['addPixelId', '705978319440850']);
-            })();
-            window._fbq = window._fbq || [];
-            window._fbq.push(['track', 'PixelInitialized', {}]);
-        </script>
-        <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=705978319440850&amp;ev=NoScript" /></noscript>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"1870456","agent":"js-agent.newrelic.com/nr-411.min.js","queueTime":1,"licenseKey":"a8c2f5de84","errorBeacon":"bam.nr-data.net","beacon":"beacon-3.newrelic.com","transactionName":"NVNWMkEFXRVTAEQKDAwZchNdB0cPXQ0fEQoSQhoHQxRASFEMXhcGDEIaEFoBRBUIE0IKFQNVTQ==","applicationTime":291}</script>
+<!-- Hotjar Insights -->
+<script>
+  (function(f,b){
+      var c;
+      f.hj=f.hj||function(){(f.hj.q=f.hj.q||[]).push(arguments)};
+      f._hjSettings={hjid:3662, hjsv:3};
+      c=b.createElement("script");c.async=1;
+      c.src="//static.hotjar.com/c/hotjar-3662.js?sv=3";
+      b.getElementsByTagName("head")[0].appendChild(c);
+  })(window,document);
+</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<!-- Retargeting pixel -->
+<script type="text/javascript">
+// Conversion Name: Retargeting Tag
+var ebRand = Math.random()+'';
+ebRand = ebRand * 1000000;
+//<![CDATA[
+document.write('<scr'+'ipt src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=529576&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
+//]]>
+</script><script src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=529576&amp;rnd=943899.1827431567"></script>
+<noscript>
+<img width="1" height="1" style="border:0" src="HTTPS://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&amp;ActivityID=529576&amp;ns=1"/>
+</noscript>
+
+<!-- FB Ad Targeting -->
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1553068524924838']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1553068524924838&amp;ev=PixelInitialized" /></noscript>
+  
+  
+  <!-- Start of ript Zendesk Widget script -->
+    <iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","ript.zendesk.com");/*]]>*/</script>
+  <!-- End of ript Zendesk Widget script -->
+
+  <input type="hidden" name="_pc_params" value="riptapparel.myshopify.com:">
+
+  <script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/jquery.cookie.min.js?17869996122656956776" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0739/9215/t/17/assets/iframeResizer.js?17869996122656956776" type="text/javascript"></script>
+
+
+
+<script>
+    $.removeCookie('comment-token', { path: '/', domain: '.riptapparel.com' });
+    $.removeCookie('comment-isAdmin', { path: '/', domain: '.riptapparel.com' });
+    $.removeCookie('comment-username', { path: '/', domain: '.riptapparel.com' });
+</script>
+
+
+
+<script>
+$(document).ready(function () {
+    $('#riptcomments').iFrameResize({
+        autoResize: true,
+        heightCalculationMethod: 'lowestElement'
+    });
+});
+</script>
+
+
+
+</body></html>
