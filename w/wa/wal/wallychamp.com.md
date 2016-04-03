@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallychamp.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128015756id_/http%3A//wallychamp.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallychamp.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403102357id_/http%3A//wallychamp.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – WallyChamp
 
