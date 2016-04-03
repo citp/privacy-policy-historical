@@ -1,16 +1,32 @@
-> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909135014id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403055752id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Gorgias for Chrome™
+# Gorgias - Respond faster to your customers
 
 Will you read my e-mails or get my contacts? 
     
 
-No! The extension inserts snippets of text and reads words to complete those snippets. Variables such as your name or your contacts name maybe be used in templates, but none of that information is sent to our servers! All is done locally on your computer. Not your contacts information, nor your e-mail contents will get to our servers. 
+No! The Chrome extension inserts snippets of text and reads words to insert the text. Variables such as your name or your contacts name maybe be used in templates. 
+
+However none of that information is sent to our servers!
+
+All is done locally on your computer. Not your contacts information, nor your e-mail contents will get to our servers.
 
 What data do you collect? 
     
 
-By default only anonymous data is collected. Data such as how many words where saved using the Chrome extension. This is done to improve the extension and get an idea of how it's used. Other than this anonymous data the extension sends statistics to Google Analytics and Mixpanel servers for the same purposes. 
+By default only anonymous and quantitative data is collected.
+
+**Anonymous** means that it's not possible for us to identify who is using the extension. We don't collect your email address, the email content or the sites you visit, etc...
+
+**Quantitative** means that we send information about the usage. Here's an example of data we collect:
+
+  * When you insert a template in your email template we send how big was the template inserted - not the content of the template 
+  * When you create a new template we send how big was that template - not the content of the template 
+  * And so on..
+
+
+
+We collect this data using Mixpanel and Google Analytics which are the industries standard
 
 Any of the above information collection can be disabled from the _Options_ menu of the extension. No hard feelings. We respect your privacy. 
 
@@ -19,7 +35,7 @@ What about my templates and other private data?
 
 Your data is your data. You own it. There is no lock-in, you can at any time, export, modify or close your account permanently. If you decide to take away your data with you we guarantee to take all the steps to ensure that your is safely erased (including backups). One exception to this is historical billing information (if any). 
 
-We remind you that visiting our website can be done anonymously (there is a Google Analytics/Mixpanel snippet though). 
+We remind you that visiting our website can be done anonymously (there is a Google Analytics / Mixpanel snippet though). 
 
 What do we use your information for? 
     
@@ -28,7 +44,7 @@ Any of the information we collect from you may be used in one of the following w
 
   * To personalize your experience (your information helps us to better respond to your individual needs). 
   * To improve our website (we continually strive to improve our service based on the information and feedback we receive from you). 
-  * To improve customer service (your information helps us to more effectively respond to your customer service and support needs).
+  * To improve customer service (your information helps us to more effectively respond to your customer service and support needs). 
 
 
 
