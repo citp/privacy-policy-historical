@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannyfans.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702063851id_/http%3A//www.membersitesupport.com/privacy.php%3Fsite%3DTrannypack.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyfans.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403061147id_/http%3A//www.membersitesupport.com/privacy.php%3Fsite%3DTrannypack.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
