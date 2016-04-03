@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectiveeducators.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912154303id_/https%3A//www.effectiveeducators.com/footer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectiveeducators.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403165522id_/https%3A//www.effectiveeducators.com/footer/policy) for the most accurate reproduction.*
 
 # Learning Sciences International Privacy Policy
 
