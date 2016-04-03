@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907210531id_/https%3A//rightsignature.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403032133id_/https%3A//www.rightsignature.com/privacy) for the most accurate reproduction.*
 
 # RightSignature | Privacy
 
