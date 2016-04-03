@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usgobuy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408212743id_/http%3A//www.usgobuy.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgobuy.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403141625id_/http%3A//www.usgobuy.com/en/privacy.html) for the most accurate reproduction.*
 
-# USGoBuy.com -Privacy Notice
+# Privacy Statement - USGoBuy
 
 **Notice:**  We at USGoBuy LLC, along with our subsidiaries and affiliates, respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect about our consumers, how we may use the information and with whom we may share it. The notice also describes the measures we take to safeguard the personal information. In addition, we tell you how you can ask us to (i) access or change the personal information we maintain about you, (ii) withdraw consent you previously provided to us, (iii) refrain from sending you certain communications, and (iv) answer questions you may have about our privacy practices. 
 
