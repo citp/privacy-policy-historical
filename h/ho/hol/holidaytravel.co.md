@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaytravel.co privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319061132id_/http%3A//www.holidaytravel.co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytravel.co privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403133040id_/http%3A//www.holidaytravel.co/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy of Holidaytravel.co
+# Privacy Policy of Holidaytravel.co - Holiday Travel
 
 **What information we collect and how** The information we collect via the Website may include:
 
