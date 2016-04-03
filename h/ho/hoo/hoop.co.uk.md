@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004202527id_/http%3A//hoop.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403043652id_/http%3A//hoop.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Hoop - Find Great Things to Do with your Kids
-
-[](https://web.archive.org/)
+# Privacy Policy — Hoop
 
 We are committed to protecting your privacy online. This policy (together with our Terms & Conditions) sets out the basis on which any personal data we collect from you, or that you provide us with will be processed by us. For the purposes of this privacy policy, both the website (hoop.co.uk) and associated mobile application shall be referred to the “App”. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
