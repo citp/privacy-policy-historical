@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193012id_/http%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growmap.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403203240id_/http%3A//growmap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
