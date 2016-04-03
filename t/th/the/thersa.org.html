@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thersa.org privacy policy that was archived on 2015-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909053134id_/https%3A//www.thersa.org/privacy-policy/%23cookiepolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thersa.org privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403034546id_/https%3A//www.thersa.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache svg inlinesvg svgclippaths wf-loading" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -19,14 +19,68 @@
     <!--Prevent IE11 requesting BrowserConfig.xml-->
     <meta name="msapplication-config" content="none">
 
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/styles.css?v=1.0">
     <link rel="stylesheet" href="/assets/css/jquery-ui.min.css">
     <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
-    
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <!-- Modernizr for older browsers -->
     <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W73N2D"></script><script src="//use.typekit.net/hjj5xsk.js" async=""></script><script src="/assets/scripts/modernizr-2.7.1.min.js"></script>
     <script src="/assets/scripts/jquery-1.10.2.min.js"></script>
     <script src="/assets/scripts/jquery-ui.min.js"></script>
+    <script src="https://apis.google.com/js/client.js?onload=loadLib"></script>
+    <script type="text/javascript">
+
+        // Replace with your client ID from the developer console.
+        var CLIENT_ID = '351647390959-o7hoeqkv7rmv4nnlsngdo4gg786b2fbg.apps.googleusercontent.com';
+
+        var apiKey = 'AIzaSyAytfFs9FCGqpp2FmjYIeih4F__1Eq9Wuc';
+
+        // Set authorized scope.
+        var SCOPES = ['https://www.googleapis.com/auth/analytics.readonly'];
+
+
+        function authorize(event) {
+            // Handles the authorization flow.
+            // `immediate` should be false when invoked from the button click.
+            var useImmdiate = event ? false : true;
+            var authData = {
+                client_id: CLIENT_ID,
+                scope: SCOPES,
+                immediate: useImmdiate
+            };
+
+            gapi.auth.authorize(authData, function (response) {
+                var authButton = document.getElementById('auth-button');
+                if (response.error) {
+                    authButton.hidden = false;
+                }
+                else {
+                    authButton.hidden = true;
+                    queryAccounts();
+                }
+            });
+        }
+
+        function loadLib() {
+            // Handle all the authorization work.
+            // Read Hello Analytics Tutorial for details.
+            gapi.client.setApiKey(apiKey);
+            gapi.client.load('analytics', 'v3', makeApiCall);
+        }
+
+        function makeApiCall() {
+            gapi.client.analytics.data.ga.get({
+                'ids': 'ga:' + "80864943",
+                'start-date': '2000-11-10',
+                'end-date': '2020-11-20',
+                'metrics': 'ga:visits',
+            }).execute(function (r) {
+                console.log(r);
+
+            });
+
+        }
+    </script>
     
     <!--[if lte IE 9]>
      <script src="/assets/scripts/libs/jquery.placeholder.js"></script>
@@ -36,7 +90,7 @@
          });
          </script>
      <![endif]-->
-    <!--[if lt IE 9]>
+    <!--[if lte IE 9]>
       <link rel="stylesheet" href="/assets/css/ie.css"/>
       <![endif]-->
 
@@ -46,18 +100,29 @@
     
     
     <script>
-    (function (d) {
-        var config = {
-            kitId: 'hjj5xsk',
-            scriptTimeout: 3000
-        },
-        h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = '//use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
-    })(document);
+        (function (d) {
+            var config = {
+                    kitId: 'hjj5xsk',
+                    scriptTimeout: 3000
+                },
+                h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = '//use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
+        })(document);
     </script>
 
+  
+    <script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+        function r(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = u.createElement(o), i, f; for (s.src = config.url || "//az416426.vo.msecnd.net/scripts/a/ai.0.js", u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i = ["Event", "Exception", "Metric", "PageView", "Trace"]; i.length;) r("track" + i.pop()); return r("setAuthenticatedUserContext"), r("clearAuthenticatedUserContext"), config.disableExceptionTracking || (i = "onerror", r("_" + i), f = e[i], e[i] = function (config, r, u, e, o) { var s = f && f(config, r, u, e, o); return s !== !0 && t["_" + i](config, r, u, e, o), s }), t
+    }({
+        instrumentationKey: "0d694414-42f5-4fe5-b295-7ea0d9f2e512"
+    });
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+    </script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
 </head>
-<body style="">
-    <!-- Google Tag Manager -->
+    <body style="">
+        <!-- Google Tag Manager -->
 <noscript>
     <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W73N2D"
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
@@ -74,7 +139,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <!-- End Google Tag Manager -->
 
 
-    <script type="text/javascript" src="/assets/scripts/cookieAcceptance.js"></script>
+        <script type="text/javascript" src="/assets/scripts/cookieAcceptance.js"></script>
 
 <div class="cookie-banner">
     <div class="container">
@@ -88,8 +153,8 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <header>
     <div class="container">
         <div class="logo">
-            <h1><a href="/"><img src="/assets/images/logo.png" alt="RSA 21st century enlightenment" width="160"></a></h1>
-        </div>
+            <p class="h1"><a href="/"><img src="/assets/images/logo.png" alt="RSA 21st century enlightenment" width="160"></a></p>
+</div>
 
         <div class="register-block ">
 
@@ -118,7 +183,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
                 <a href="#" class="searchToggle"><img src="/assets/images/icons/search-2x.png" alt="search" width="18"></a>
                 <div class="searchBar" style="display: none;">
 <form action="/search-results/" method="post"><label class="hide" for="SearchTerm">Search</label>                        <input type="text" placeholder="Search..." name="SearchTerm" id="SearchTerm" value="">
-<input name="__RequestVerificationToken" type="hidden" value="B9Lv7kSz_KLerbrtm5m8S6o4r2DUzeAlCxgpxd-appAlC-GCHJQEtKzjbuZNdYO1kZQ7A0XoMlheNN4f-vO-RbaQ32tHwZ4t-GlahNfFo5k1">                        <button>Go</button>
+<input name="__RequestVerificationToken" type="hidden" value="cZO1xKf0TNPhonmREd4yDe_tPu47-TSQ7SvxKQ_HqbPNoipgT1nrPc1qmk7y2TPGujS4NMRoyCapd0-447smzR6ZbQO3BKEzYv60JwOPirs1">                        <button>Go</button>
 </form>                </div>
                 <ul class="menu" style="max-height: 2000px; display: none;">
                     <li>
@@ -167,7 +232,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     
 </li><li>
     
-    <a href="/about-us/jobs/">Jobs</a>
+    <a href="/about-us/Jobs/">Jobs</a>
 
     
 </li></ul>
@@ -249,7 +314,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
     
 </li><li>
     
-    <a href="/fellowship/fellow-facilities/">Fellows Facilities</a>
+    <a href="/fellowship/fellow-facilities/">House Facilities</a>
 
     
 </li><li>
@@ -424,11 +489,11 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 </header>
 
 
-    <div class="wrapper" id="main-content">
+        <div class="wrapper" id="main-content">
         
-        
+            
 
-        <div class="container">
+            <div class="container">
         <div class="title-wrapper">
             <h1>Privacy Policy</h1>
         </div>
@@ -464,7 +529,7 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <h3>10. Links to Third Party Websites</h3>
 <p>This Privacy Policy applies solely to the personal data collected by The RSA and does not apply to third party websites.</p>
 <p>The RSA is not responsible for the privacy policies of third party websites. The RSA advises users to read the privacy policies of other websites before registering any personal data.</p>
-<h3>11. Security</h3>
+<h3><a id="security"></a>11. Security</h3>
 <p>The RSA holds your personal data in accordance with the security provisions of the UK Data Protection legislation. We use industry standard Secure Server Software (SSL) for your transactions with us. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.<br><br>If you have any questions about security please contact The RSA on: 020 7451 6922</p>
 <p><a href="#securitypolicy">More information on internet security</a></p>
 <h3>12. Attendance at Events</h3>
@@ -560,15 +625,17 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 <p>&nbsp;</p>
 <h2><a id="emaildisclaimer"></a>Email disclaimer</h2>
 <p>The information in any e-mail (and/or document attached) sent by or on behalf of the RSA is confidential and may be legally privileged and/or contain copyright material of the RSA. This information is intended solely for the use of the named addressee. If you are not the named addressee of an email from the RSA, please notify the sender immediately and do not disclose, copy or distribute the contents to any other person. <br> <br> Any contractual representations contained therein on behalf of the RSA must not be taken as final, and are entirely subject to contracts signed formally by an authorised representative of this organisation.<br> <br> Whilst the RSA takes all reasonable precautions to ensure that e-mails from the Society are virus free, no responsibility will be taken for viruses transmitted from its systems. <br> <br> Registered in England and Wales as a Charity, Number 212424.</p>
+<p>&nbsp;</p>
+<h2><a id="accessibility"></a>ACCESSIBILITY</h2>
+<p>The site has been built according to the W3C’s Web Content accessibility Guidelines 1.0 level AA.</p>
 </div>
 </div><div class="wrapper-25"><div class="content-wrapper">
     <h2>On this page</h2>
 <p><a href="#privacypolicy">Privacy Policy</a></p>
-<p><a href="#cookiepolicy">Cookie Policy - FAQ</a></p>
 <p><a href="#securitypolicy">Security Policy</a></p>
 <p><a href="#emaildisclaimer">Email Disclaimer</a></p>
 <h2>Related page</h2>
-<p><a href="/website-terms-conditions/">RSA Website Privacy Policy and Terms and Conditions</a></p>
+<p><a href="/website-terms-conditions/">Terms and Conditions</a></p>
 </div>
 </div></div>
     	
@@ -576,9 +643,9 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 </div>
 
 
-    </div>
+        </div>
 
-    <div class="container">
+        <div class="container">
     <footer>
 
         <ul class="follow-icons">
@@ -684,21 +751,21 @@ j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; 
 </div>
 
     
-    <script src="/assets/scripts/custom.js"></script>
+        <script src="/assets/scripts/custom.js"></script>
     
-    <script type="text/javascript">
-    piAId = '76502';
-    piCId = '1352';
+        <script type="text/javascript">
+            piAId = '76502';
+            piCId = '1352';
 
-    (function () {
-        function async_load() {
-            var s = document.createElement('script'); s.type = 'text/javascript';
-            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-        }
-        if (window.attachEvent) { window.attachEvent('onload', async_load); }
-        else { window.addEventListener('load', async_load, false); }
-    })();
-    </script>
-
+            (function () {
+                function async_load() {
+                    var s = document.createElement('script'); s.type = 'text/javascript';
+                    s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                    var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+                }
+                if (window.attachEvent) { window.attachEvent('onload', async_load); }
+                else { window.addEventListener('load', async_load, false); }
+            })();
+        </script>
+    
 </body></html>
