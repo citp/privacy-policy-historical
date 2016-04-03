@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consolegameswiki.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025023333id_/http%3A//ffxiv.consolegameswiki.com/wiki/Site_title%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consolegameswiki.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403045620id_/http%3A//ffxiv.consolegameswiki.com/wiki/Site_title%3APrivacy_policy) for the most accurate reproduction.*
 
 # Site title:Privacy policy - Final Fantasy XIV A Realm Reborn Wiki - FFXIV / FF14 ARR Community Wiki and Guide
 
