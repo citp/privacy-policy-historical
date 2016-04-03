@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the debshops.com privacy policy that was archived on 2015-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151025070337id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the debshops.com privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403050101id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><title>
-	Juniors Clothing &amp; Teen Clothing │ Deb Shops
-</title><link rel="icon" href="../Images/logo.ico" type="image/x-icon"><link rel="shortcut icon" href="../Images/logo.ico" type="image/x-icon"><link href="../css/bootstrap.css" rel="stylesheet"><link href="../css/bootstrap-custom.css" rel="stylesheet"><link href="../Styles/buttons.css" rel="stylesheet"><link href="../Styles/Catalog.css" rel="stylesheet"><link href="../Styles/Site.css" rel="stylesheet"><link href="../Scripts/jquery-ui-1.11.0.custom/jquery-ui.min.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../Html/css/styles.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/superfish-master/src/css/superfish.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/ResponsiveSlides/responsiveslides.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/css/easytabs.css" media="all">
+	Trendy Plus Size Clothing for Women | Deb Shops
+</title><link rel="icon" href="../Images/logo.ico" type="image/x-icon"><link rel="shortcut icon" href="../Images/logo.ico" type="image/x-icon"><meta name="description" content="Shop Debs for Plus Size Clothing at Affordable Prices Including Dresses, Tops, Bottoms, Denim, Accessories  and Many More. Deb Shops"><meta name="keywords" content="Trendy Plus Size, Plus, Plus Size, Plus Size Clothing, Plus Size For Women, Plus Size Clothing"><link href="../css/bootstrap.css" rel="stylesheet"><link href="../css/bootstrap-custom.css" rel="stylesheet"><link href="../Styles/buttons.css" rel="stylesheet"><link href="../Styles/Catalog.css" rel="stylesheet"><link href="../Styles/Site.css" rel="stylesheet"><link href="../Scripts/jquery-ui-1.11.0.custom/jquery-ui.min.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../Html/css/styles.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/superfish-master/src/css/superfish.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/ResponsiveSlides/responsiveslides.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/css/easytabs.css" media="all">
 
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Html/script/jquery-1.11.2.js"></script>
     <script type="text/javascript" src="/js/bootstrap.min.js"></script>
@@ -100,6 +100,12 @@
             font-weight:bold;
         }       
 
+        .footer-div{
+            font-size:15px;
+        }
+        .cartbox-wrapper{
+            z-index:1000;
+        }
         /*@media (min-device-width: 0px) and (max-device-width: 320px){
             #searchtext{
                 width: 235px;
@@ -145,234 +151,58 @@
         }*/
     </style>
 
-    <script type="text/javascript">
-
-        jQuery.fn.center = function () {
-            this.css("position", "absolute");
-            this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) +
-                                                        $(window).scrollTop()) + "px");
-            this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) +
-                                                        $(window).scrollLeft()) + "px");
-            return this;
-        }
-
-        var _HasItemInCart = false;
-
-        ShoppingCartStatus();
-        MiniShoppingCartList();
-
-        jQuery(document).ready(function () {
-            jQuery('ul.sf-menu').superfish({
-                speed: 'fast',
-                delay: 0,
-                cssArrows :false
-            });
-
-            jQuery('.rslides').responsiveSlides({
-                pager: true,
-                speed: 1000,
-                timeout: 7000
-            });
-
-            jQuery('#tab-container').easytabs();
-            jQuery('#tab-container2').easytabs();
-
-            if (jQuery(window).scrollTop() == 0) {
-                jQuery('.header-contents').css({
-                    'background': 'transparent',
-                    'opacity': '0.9'
-                });
-            } else {
-                jQuery('.header-contents').css({
-                    'background': '#fff',
-                    'opacity': '0.9'
-                });
-            }
-
-            jQuery(window).scroll(function () {
-                var height = jQuery(window).scrollTop();
-
-                if (height == 0) {
-                    jQuery('.header-contents').css({
-                        'background': 'transparent',
-                        'opacity': '0.9'
-                    });
-                } else {
-                    jQuery('.header-contents').css({
-                        'background': '#fff',
-                        'opacity': '0.9'
-                    });
-                }
-            });
-
-            var setTimeoutConst;
-            jQuery('.cart-wrapper').mouseenter(function () {
-                if (_HasItemInCart) {
-                    jQuery('.cartbox-wrapper').slideDown('fast');
-                    clearTimeout(setTimeoutConst);
-                }
-            }).mouseleave(function () {
-                if (_HasItemInCart) {
-                    setTimeoutConst = setTimeout(function () {
-                        jQuery('.cartbox-wrapper').slideUp();
-                    }, 3000);
-                }
-            });
-        });
-
-        function ShoppingCartStatus() {
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: '/Product.asmx/ShoppingCartStatus',
-                dataType: "json",
-                data: [],
-                success: function (data, textStatus) {
-
-                    if (textStatus == "success") {
-
-                        if (data.d == "0") {
-                        } else {
-                            _HasItemInCart = true;
-                        }
-
-                        $('#cartMsg').delay(1000).fadeOut('slow');
-                        $('.cartCnt').html(data.d);
-                        $('#cartCnt-mini').html(data.d);
-                    }
-                },
-                error: function (xhr, ajaxOptions, thrownError) {
-                    //xhr.responseText + ' '
-                    //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
-                }
-            });
-        }
-
-        function MiniShoppingCartList() {
-
-            $.ajax({
-                type: "POST",
-                contentType: "application/json; charset=utf-8",
-                url: '/Product.asmx/ShoppingCartList',
-                dataType: "json",
-                data: [],
-                success: function (data, textStatus) {
-
-                    if (textStatus == "success") {
-
-                        //styleid | image | title | color | size | price | qty | Total {nextline}
-                        var line = data.d.split("{nextline}");
-
-                        var html = '';
-                        for (i = 0; i < line.length - 1; i++) {
-
-                            var res = line[i].split("|");
-
-                            html += '<div class="cartbox row">';
-                            html += '<div class="col-md-5 col-sm-5 col-xs-5">';
-                            html += res[1];
-                            html += '</div>';
-                            html += '<div class="col-md-7 col-sm-7 col-xs-7 text-left">';
-                            html += '<div class="cartb cart-color">';
-                            html += 'color : <span>' + res[3] + '</span>';
-                            html += '</div>';
-                            html += '<div class="cartb cart-size">';
-                            html += '    size : <span>' + res[4] + '</span>';
-                            html += '</div>';
-                            html += '<div class="cartb cart-qty">';
-                            html += '    qty : <span>' + res[6] + '</span>';
-                            html += '</div>';
-                            html += '<div class="cartb cart-price">';
-                            html += '    price : <span>' + res[5] + '</span>';
-                            html += '</div>';
-                            html += '</div>';
-                            html += '</div>';
-
-                            $('.cart-subtotal').html('subtotal : <span>' + res[7] + '</span>');
-                        }
-
-                        var windowsize = $(window).width();
-
-                        $(window).resize(function () {
-                            var windowsize = $(window).width();
-                        });
-
-                        if (windowsize < 768) {
-                            $('.cart-product-wrap').html(html);
-                            $('.cart-wrapper .navbar-cart').center();
-                        } else {
-                            $('.cart-product-wrap').html(html);
-                        }
-
-                        ShoppingCartStatus();
-
-                        setTimeout(function () {
-                            jQuery('.cartbox-wrapper').slideUp();
-                        }, 3000);
-                    }
-                },
-                error: function (xhr, ajaxOptions, thrownError) {
-                    //xhr.responseText + ' '
-                    //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
-                }
-            });
-        }
-
-        function AddMailingList() {
-
-            var email = $("input[name='mailinglist']").val();
-            if (email == '') {
-                alert('Please enter your email address.');
-            } else {
-
-                var params = new Object();
-                params.Email = email;
-
-                $.ajax({
-                    type: "POST",
-                    contentType: "application/json; charset=utf-8",
-                    url: '/Product.asmx/AddMailingList',
-                    data: JSON.stringify(params),
-                    dataType: "json",
-                    success: function (data, textStatus) {
-
-                        if (textStatus == "success") {
-
-                            if (data.d == "{exist}") {
-                                alert("Email address already has in our mailing list.");
-                            } else if (data.d == "1") {
-                                alert("Thank You!\nyour email has been added to our mailing list.");
-                            }
-                        }
-                    },
-                    error: function (xhr, ajaxOptions, thrownError) {
-                        //xhr.responseText + ' ' 
-                        //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
-                    }
-                });
-            }
-        }
-    </script>
+    
 
     
 </head>
 
 <body>
-    <form name="aspnetForm" method="post" action="PrivacyPolicy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRknswBu/TP47SOhtFlGMKUslYIoRp4BB38H6kHbUSkrwY=">
+    <form name="aspnetForm" method="post" action="./PrivacyPolicy" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRk7HMpgCmPavh1E4vjzAaicDEGCh8zEB0gxngQHj6kuy4=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=L0b-b82GFBNWEqs-FTsd7IiiAS0Mgku8xsNP1XTMha3Am7LbN5W0YNS33oz_1OgBeJCrxm3Z3q7yN14e7n6q9pJSd4glvyoQREFYr4yFY2dkh8kpH5mx1jPbOKfH4y8jIYaDEjv5da1mMeobl7qdCA2&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/WebResource.axd?d=LAuSWP3QJo_62mtF8ZPLUO-2aWN7dNe47E3uQ5qIet96epISqsLqgwZV4CDb_q7vouSHWpXXv_5nXy33C5y5g1mdej1mkuABxr3H0u5RZ_k1&amp;t=635802997220000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=883_aUF_jIRE3HQLL0j16_NLzcCgcBg5AvdPBDo64EIN2ONvZs7RNSyE7nv6Cr9ztAGkbnpdbnfbNOdjEKs4VxGzKiQTGWyJBrmPAWNdhfQBmvnEWw74a7Dlcv49V2qomz8_mHMsjTjT0FL3Jy8xzg2&amp;t=7c776dc1" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D1987089">
+<script src="/ScriptResource.axd?d=D41tZG4EB4aRZHAKuc6TsQVO7N_ax73FhKvRuQjMHVq0mZNSapiZbPCS_cqes8nCxUipiqii08Q3uncQtodJ_Kk3H9Mm2rSnKWL-aaWTGYtYoiL1BM9-uKzxqR4-LFed48TO0mRLBep_zFtBtGSSJQ2&amp;t=7c776dc1" type="text/javascript"></script>
+<div>
 
-        
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D1987089">
+</div>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
 
         <nav class="top-menu navbar navbar-default navbar-static-top text-uppercase navbar-inverse" role="navigation" style="height:54px;">
 
@@ -415,7 +245,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div class="navbar-brand pull-right" style="padding: 0px; background-color: #000;">
                         
 
-                        <a href="/Customer/WishList.aspx">
+                        <a href="http://www.debshops.com/Customer/WishList.aspx">
                             <img src="/images/fit.png" style="padding-top: 10px; width: 36px; height: 46px; margin: 0px 6px 0px 4px;"></a>
 
                         
@@ -433,11 +263,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                             <div class="uppercase cart-wrapper">
 
-
-
                                 
-
-
 
                                 <div class="cartbox-wrapper navbar-cart">
                                     <div class="cart-product-wrap">
@@ -453,7 +279,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                     </div>
 
                                     <div class="cart-btn row">
-                                        <a href="/ShoppingCart/Default.aspx" class="text-uppercase btn-cart" style="color: #fff;">View My Bag</a>
+                                        <a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="text-uppercase btn-cart" style="color: #fff;">View My Bag</a>
                                     </div>
                                 </div>
 
@@ -481,7 +307,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <a class="divmenu modile-category" href="/category/newarrival">New Arrivals</a>
                             <ul>
                                 <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/newarrival/juniorclothes';"><a href="/category/newarrival/juniorclothes">Clothing</a></li>
+                                <li class="divmenu" onclick="location.href='/category/newarrival/back-in-stock';"><a href="/category/newarrival/back-in-stock">Back In Stock</a></li>
                                 <li class="divider"></li>
                                 <li class="divmenu" onclick="location.href='/category/newarrival/plusclothes';"><a href="/category/newarrival/plusclothes">Plus Clothing</a></li>
                                 <li class="divider"></li>
@@ -515,27 +341,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </ul>
                         </li>
 
-                        <li class="divider"></li>
-
-                        <li class="menufont">
-                            <a class="divmenu modile-category" href="/category/juniorclothes">Clothing</a>
-                            <ul>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/dresses';"><a href="/category/juniorclothes/dresses">Dresses</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/tops';"><a href="/category/juniorclothes/tops">Tops</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/denim';"><a href="/category/juniorclothes/denim">Denim</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/ROMPERS-JUMPSUITS';"><a href="/category/juniorclothes/ROMPERS-JUMPSUITS">Rompers + Jumpsuits</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/BOTTOM';"><a href="/category/juniorclothes/BOTTOM">Bottom</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/OUTERWEAR';"><a href="/category/juniorclothes/OUTERWEAR">Outwear</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/juniorclothes/INTIMATES';"><a href="/category/juniorclothes/INTIMATES">Intimates</a></li>
-                            </ul>
-                        </li>
+                        
 
                         
 
@@ -545,11 +351,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <a class="divmenu modile-category" href="/category/accessories">Accessories</a>
                             <ul>
                                 <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/accessories/jewelry-watches';"><a href="/category/accessories/jewelry-watches">Jewelry + Watches</a></li>
+                                <li class="divmenu" onclick="location.href='/category/accessories/jewelry';"><a href="/category/accessories/jewelry">Jewelry</a></li>
                                 <li class="divider"></li>
                                 <li class="divmenu" onclick="location.href='/category/accessories/hats-headwear';"><a href="/category/accessories/hats-headwear">Hats + Headwear</a></li>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/accessories/belts';"><a href="/category/accessories/belts">Belts</a></li>
+                                
                                 <li class="divider"></li>
                                 <li class="divmenu" onclick="location.href='/category/accessories/tights-socks';"><a href="/category/accessories/tights-socks">Tights + Socks</a></li>
                                 <li class="divider"></li>
@@ -578,12 +383,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li class="divider"></li>
 
                         <li class="menufont">
-                            <a class="divmenu modile-category" href="/category/trends">TRENDS</a>
+                            <a class="divmenu modile-category" href="/category/trends">Trends</a>
                             <ul>
+                                
                                 <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/trends/falllooks';"><a href="/category/trends/falllooks">FALL LOOKS</a></li>
-                                <li class="divmenu" onclick="location.href='/category/trends/halloween';"><a href="/category/trends/halloween">Halloween</a></li>
-                                <li class="divmenu" onclick="location.href='/category/trends/outerlimits';"><a href="/category/trends/outerlimits">Outer Limits</a></li>
+                                <li class="divmenu" onclick="location.href='/category/trends/festival';"><a href="/category/trends/festival">Festival</a></li>
+                                <li class="divider"></li>
+                                <li class="divmenu" onclick="location.href='/category/trends/deb-basics';"><a href="/category/trends/deb-basics">Deb Basics</a></li>
+                                <li class="divider"></li>
+                                <li class="divmenu" onclick="location.href='/category/trends/green-queen';"><a href="/category/trends/green-queen">Green Queen</a></li>
+                                <li class="divider"></li>
+                                <li class="divmenu" onclick="location.href='/category/trends/spring-fling';"><a href="/category/trends/spring-fling">Spring Fling</a></li>
+                                <li class="divider"></li>
+                                <li class="divmenu" onclick="location.href='/category/trends/be-natural';"><a href="/category/trends/be-natural">Be Natural</a></li>
                             </ul>
                         </li>
 
@@ -592,8 +404,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li class="menufont">
                             <a class="divmenu modile-category" href="/category/sale">Sale</a>
                             <ul>
-                                <li class="divider"></li>
-                                <li class="divmenu" onclick="location.href='/category/newarsalerival/juniorclothes';"><a href="/category/sale/juniorclothes">Clothing</a></li>
+                                
                                 <li class="divider"></li>
                                 <li class="divmenu" onclick="location.href='/category/sale/plusclothes';"><a href="/category/sale/plusclothes">Plus Clothing</a></li>
                                 <li class="divider"></li>
@@ -605,22 +416,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                         <li class="divider"></li>
 
-                        <li class="divmenu menufont" onclick="location.href='/Customer/WishList.aspx';">
-                            <a href="/Customer/WishList.aspx">Fitting Room</a>
+                        <li class="divmenu menufont" onclick="location.href='http://www.debshops.com/Customer/WishList.aspx';">
+                            <a href="http://www.debshops.com/Customer/WishList.aspx">Fitting Room</a>
                         </li>
 
                         <li class="divider"></li>
 
                         <li class="divmenu menufont">
                             
-                            <a href="/Customer/Login.aspx">Log In / Join</a>
+                            <a href="http://www.debshops.com/Customer/Login.aspx">Log In / Join</a>
                             
                         </li>
 
                         <li class="divider"></li>
 
-                        <li class="divmenu menufont" onclick="location.href='/ShoppingCart/Default.aspx';">
-                            <a href="/ShoppingCart/Default.aspx">My Bag <span id="cartCnt-mini">(0)</span></a>
+                        <li class="divmenu menufont" onclick="location.href='http://www.debshops.com/ShoppingCart/Default.aspx';">
+                            <a href="http://www.debshops.com/ShoppingCart/Default.aspx">My Bag <span id="cartCnt-mini">0</span></a>
                         </li>
 
                         <li class="divider"></li>
@@ -632,12 +443,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             
         </nav>
 
+        <!-- desktop header -->
+
         <div class="header">
-            <div class="toolbar">
+            <div class="toolbar hidden-xs">
                 <div class="contents">
 
                     <div class="header-search-wrapper">
-                        <p style="margin-top: 7px; margin-left: 20px;">USA FREE SHIPPING OVER $50! <a href="#" style="color: white;">CLICK FOR DETAILS</a></p>
+                        <p style="margin-top: 7px; margin-left: 20px;">Free standard shipping on orders over $50 within continental USA. <font style="color:yellow">We ship to CANADA!</font> </p>
                     </div>
 
                     <div class="header-tool-wrapper">
@@ -647,19 +460,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         </a></div>
 
                         <div class="tool-fitting uppercase">
-                            <a href="/Customer/WishList.aspx">Fitting Room</a>
+                            <a href="http://www.debshops.com/Customer/WishList.aspx">Fitting Room</a>
                         </div>
 
                         <div class="uppercase">
 
                             
-                            <a href="/Customer/Login.aspx">Log In / Join</a>
+                            <a href="http://www.debshops.com/Customer/Login.aspx">Log In / Join</a>
                             
                         </div>
 
                         <div class="uppercase cart-wrapper" style="position: relative;">
 
-                            <a href="/ShoppingCart/Default.aspx">My Bag <span class="cartCnt">(0)</span></a>
+                            <a href="http://www.debshops.com/ShoppingCart/Default.aspx">My Bag <span class="cartCnt">0</span></a>
                             <div class="cartbox-wrapper">
                                 <div class="cart-product-wrap">
                                     <div class="cartbox row">
@@ -674,7 +487,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 </div>
 
                                 <div class="cart-btn row">
-                                    <a href="/ShoppingCart/Default.aspx" class="text-uppercase btn-cart">View My Bag</a>
+                                    <a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="text-uppercase btn-cart">View My Bag</a>
                                 </div>
                             </div>
                         </div>
@@ -682,11 +495,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 </div>
             </div>
 
-            <div class="header-contents" style="background: transparent; opacity: 0.9;">
+            <div class="header-contents" style="background-color: #fff;">
                 <div class="header-title container-fluid" style="background-color: #fff;">
-                    <div class="row" style="background-color: #fff;">
+                    <div class="row" style="background-color: #fff;position:relative">
 
-                        <div style="position: fixed; float: left; text-align: left; top: 60px; z-index: 102; height: 100px; width: 250px; margin-left: 20px;">
+                        <div class="topthings-search" style="position:absolute; width: 100%; float: left; text-align: left; top: 60px; z-index: 101;left:20px; height:1px;display:block">
 
                             <input type="text" class="header-search" style="color: #000; background-color: #FFF; border: 0; border-bottom: 1px solid #000;" placeholder="SEARCH" maxlength="50">
                             <button class="header-search-button uppercase" style="background-color: #FFF; border: 0;">
@@ -694,24 +507,22 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                         </div>
 
-                        <div class="col-xs-12" style="margin-bottom: 30px; margin-top: 15px; background-color: #fff; z-index: 100;">
+                        <div class="col-xs-12 topthings" style="margin-bottom: 30px; margin-top: 15px; background-color: #fff; z-index: 100;">
                             <a class="top-logo" href="/Index.aspx">
                                 <img src="/Html/image/logo.png"></a>
                         </div>
 
-                        <div style="position: fixed; width: 100%; float: right; text-align: right; top: 60px; z-index: 101; height: 1px;"><a class="top-logo" href="http://www.loveculture.com" target="_blank">
+                        <div class="topthings" style="position:absolute; width: 100%; float: right; text-align: right; top: 30px; z-index: 101; height: 1px;"><a class="top-logo" href="http://www.loveculture.com" target="_blank">
                             <img src="/Images/lv.png"></a></div>
                     </div>
                 </div>
 
-                <div class="header-navi">
+                <div class="header-navi hidden-xs" style="border-top:1px solid #000;border-bottom:1px solid #000;margin-top:50px;padding-bottom:0px;">
 
-                    <div style="border-top: 1px solid #707070; padding-top: 0; position: absolute; width: 100%; top: 158px; height: 1px; background-color: transparent;"></div>
-
-                    <ul class="sf-menu row sf-js-enabled">
+                    <ul class="sf-menu sf-js-enabled">
                         <li class="uppercase" style="width:13%;color: #000; font-weight: bold; text-align: center;"><a href="/category/newarrival" style="color: #000; font-weight: bold; text-align: center; padding: 0px; margin: 0px;font-weight:bold;" class="sf-with-ul">New Arrivals</a>
-                            <ul style="width: 100%; display: none;">
-                                <li class="topmenulink"><a href="/category/newarrival/juniorclothes" class="topmenulink">Clothing</a></li>
+                            <ul style="width: 100%; display: none;">                                
+                                <li class="topmenulink"><a href="/category/newarrival/back-in-stock" class="topmenulink">Back In Stock</a></li>
                                 <li class="topmenulink"><a href="/category/newarrival/plusclothes" class="topmenulink">plus Clothing</a></li>
                                 <li class="topmenulink"><a href="/category/newarrival/accessories" class="topmenulink">accessories</a></li>
                                 <li class="topmenulink"><a href="/category/newarrival/shoes-bags" class="topmenulink">shoes &amp; bags</a></li>
@@ -728,22 +539,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <li class="topmenulink"><a href="/category/plusclothes/INTIMATES" class="topmenulink">INTIMATES</a></li>
                             </ul>
                         </li>
-                        <li class="uppercase" style="width:13%;color: #000; font-weight: bold; text-align: center;"><a href="/category/juniorclothes" style="color: #000; font-weight: bold; text-align: center; padding: 0px; margin: 0px;font-weight:bold;" class="sf-with-ul">Clothing</a>
-                            <ul style="width: 100%; display: none;">
-                                <li class="topmenulink"><a href="/category/juniorclothes/dresses" class="topmenulink">dresses</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/tops" class="topmenulink">Tops</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/denim" class="topmenulink">Denim</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/ROMPERS-JUMPSUITS" class="topmenulink">ROMPERS + JUMPSUITS</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/BOTTOM" class="topmenulink">Bottom</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/OUTERWEAR" class="topmenulink">OUTERWEAR</a></li>
-                                <li class="topmenulink"><a href="/category/juniorclothes/INTIMATES" class="topmenulink">INTIMATES</a></li>
-                            </ul>
-                        </li>
                         <li class="uppercase" style="width:13%;color: #000; font-weight: bold; text-align: center;"><a href="/category/accessories" style="color: #000; font-weight: bold; text-align: center; padding: 0px; margin: 0px;font-weight:bold;" class="sf-with-ul">Accessories</a>
                             <ul style="width: 100%; display: none;">
-                                <li class="topmenulink"><a href="/category/accessories/jewelry-watches" class="topmenulink">JEWELRY + WATCHES</a></li>
+                                <li class="topmenulink"><a href="/category/accessories/jewelry" class="topmenulink">JEWELRY</a></li>
                                 <li class="topmenulink"><a href="/category/accessories/hats-headwear" class="topmenulink">HATS + HEADWEAR</a></li>
-                                <li class="topmenulink"><a href="/category/accessories/belts" class="topmenulink">BELTS</a></li>
                                 <li class="topmenulink"><a href="/category/accessories/tights-socks" class="topmenulink">TIGHTS + SOCKS</a></li>
                                 <li class="topmenulink"><a href="/category/accessories/scarves-gloves" class="topmenulink">SCARVES + GLOVES</a></li>
                                 <li class="topmenulink"><a href="/category/accessories/novelty" class="topmenulink">NOVELTY</a></li>
@@ -757,15 +556,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </ul>
                         </li>
                         <li class="uppercase" style="width:13%;color: #000; font-weight: bold; text-align: center;"><a href="/category/trends" style="color: #000; font-weight: bold; text-align: center; padding: 0px; margin: 0px;font-weight:bold;" class="sf-with-ul">Trends</a>
-                            <ul style="width: 100%; display: none;">
-                                <li class="topmenulink"><a href="/category/trends/falllooks" class="topmenulink">FALL LOOKS</a></li>
-                                <li class="topmenulink"><a href="/category/trends/halloween" class="topmenulink">Halloween</a></li>
-                                <li class="topmenulink"><a href="/category/trends/outerlimits" class="topmenulink">Outer Limits</a></li>
+                            <ul style="width: 100%; display: none;">                                
+                                <li class="topmenulink"><a href="/category/trends/festival" class="topmenulink">Festival</a></li>
+                                <li class="topmenulink"><a href="/category/trends/deb-basics" class="topmenulink">Deb Basics</a></li>
+                                <li class="topmenulink"><a href="/category/trends/green-queen" class="topmenulink">Green Queen</a></li>
+                                <li class="topmenulink"><a href="/category/trends/spring-fling" class="topmenulink">Spring Fling</a></li>
+                                <li class="topmenulink"><a href="/category/trends/be-natural" class="topmenulink">Be Natural</a></li>
                             </ul>
                         </li>
                         <li class="uppercase" style="width:13%;color: #000; font-weight: bold; text-align: center;"><a href="/category/sale" style="color: #000; font-weight: bold; text-align: center; padding: 0px; margin: 0px;font-weight:bold;" class="sf-with-ul">Sale</a>
                             <ul style="width: 100%; display: none;">
-                                <li class="topmenulink"><a href="/category/sale/juniorclothes" class="topmenulink">Clothing</a></li>
                                 <li class="topmenulink"><a href="/category/sale/plusclothes" class="topmenulink">plus Clothing</a></li>
                                 <li class="topmenulink"><a href="/category/sale/accessories" class="topmenulink">accessories</a></li>
                                 <li class="topmenulink"><a href="/category/sale/shoes-bags" class="topmenulink">shoes &amp; bags</a></li>
@@ -773,8 +573,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         </li>
                     </ul>
 
-                    <div style="border-top: 1px solid #707070; padding-top: 0; position: absolute; width: 100%; top: 188px; height: 1px; background-color: transparent;"></div>
                 </div>
+
+                <div class="heightdiv"></div>
             </div>
         </div>
 
@@ -782,6 +583,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         
     <div class="content-wrapper container">
         <div class="row" style="max-width:1200px;margin:0 auto;">
+
+            <br>
+            <br>
 
             <h1>Privacy Policy</h1>
             <br>
@@ -1027,9 +831,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                 <div class="col-md-1 col-sm-1"></div>
 
-                <br>
-                <br>
-                <br>
+                <div class="col-md-12 col-sm-12 col-lg-12 clearfix" style="vertical-align:bottom;padding-top:30px;">
+                    © 2016 Debshops.com All Rights Reserved
+                </div>
 
             </div>
 
@@ -1064,27 +868,31 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                 </div>
 
-                <div class="col-centered" style="border: 0;">
+                <div class="col-centered " style="border: 0;">
                     <h4 class="uppercase">Company</h4>
-                    <a href="/SiteInfo/AboutUs">About Us</a><br>
+                    <a href="/SiteInfo/AboutUs" class="footer-div">About Us</a><br>
                 </div>
 
                 <div class="col-centered" style="content-align: left; border: 0;">
                     <h4 class="uppercase">Customer Support</h4>
-                    <a href="/SiteInfo/ContactUs">Contact Us</a><br>
-                    <a href="/SiteInfo/TermsnadCondition">Terms &amp; Conditions</a><br>
-                    <a href="/SiteInfo/PrivacyPolicy">Privacy Policy</a><br>
-                    <a href="/SiteInfo/PrivacyPolicy#001">Your Privacy Rights</a><br>
-                    <a href="/SiteInfo/ShippingPolicy">Shipping Policy</a><br>
-                    <a href="/SiteInfo/ReturnExchange">Returns &amp; Exchanges</a><br>
-                    <a href="/Customer/Login">Order Status</a><br>
+                    <a href="/SiteInfo/ContactUs" class="footer-div">Contact Us</a><br>
+                    <a href="/SiteInfo/TermsnadCondition" class="footer-div">Terms &amp; Conditions</a><br>
+                    <a href="/SiteInfo/PrivacyPolicy" class="footer-div">Privacy Policy</a><br>
+                    <a href="/SiteInfo/PrivacyPolicy#001" class="footer-div">Your Privacy Rights</a><br>
+                    <a href="/SiteInfo/ShippingPolicy" class="footer-div">Shipping Policy</a><br>
+                    <a href="/SiteInfo/ReturnExchange" class="footer-div">Returns &amp; Exchanges</a><br>
+                    <a href="/Customer/Login" class="footer-div">Order Status</a><br>
                 </div>
 
                 <div class="col-centered" style="border: 0;">
                     <h4 class="uppercase">Quick Links</h4>
-                    <a href="/SiteInfo/SizeChart">Size Guide</a><br>
-                    <a href="/Customer/Login">My Account</a><br>
-                    <a href="/SiteInfo/FAQ">FAQ</a><br>
+                    <a href="/SiteInfo/SizeChart" class="footer-div">Size Guide</a><br>
+                    <a href="/Customer/Login" class="footer-div">My Account</a><br>
+                    <a href="/SiteInfo/FAQ" class="footer-div">FAQ</a><br><br>
+                </div>
+
+                <div class="col-md-12 col-sm-12 col-lg-12 clearfix" style="vertical-align:bottom;padding-top:30px;">
+                    © 2016 Debshops.com All Rights Reserved
                 </div>
 
             </div>
@@ -1094,7 +902,289 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 
+<script type="text/javascript">
 
+    jQuery.fn.center = function () {
+        this.css("position", "absolute");
+        this.css("top", Math.max(0, (($(window).height() - $(this).outerHeight()) / 2) +
+                                                    $(window).scrollTop()) + "px");
+        this.css("left", Math.max(0, (($(window).width() - $(this).outerWidth()) / 2) +
+                                                    $(window).scrollLeft()) + "px");
+        return this;
+    }
+
+    var _HasItemInCart = false;
+
+    ShoppingCartStatus();
+
+    MiniShoppingCartList();
+
+    jQuery(document).ready(function () {
+        jQuery('ul.sf-menu').superfish({
+            speed: 'fast',
+            delay: 0,
+            cssArrows: false
+        });
+
+        jQuery('.rslides').responsiveSlides({
+            pager: true,
+            speed: 1000,
+            timeout: 7000
+        });
+
+        jQuery('#tab-container').easytabs();
+
+        jQuery('#tab-container2').easytabs();
+
+        //if (jQuery(window).scrollTop() == 0) {
+        //    jQuery('.header-navi').css({
+        //        'position': 'absolute'
+        //    });
+        //} else {
+        //    jQuery('.header-navi').css({
+        //        'position': 'absolute'
+        //    });
+        //}
+
+        jQuery(window).scroll(function () {
+            var height = jQuery(window).scrollTop();
+
+            //$('.heightdiv').html(height);
+
+            if (height > 127) {
+                jQuery('.header-navi').css({
+                    'position': 'fixed',
+                    'top': '33px',
+                    'z-index': '200',
+                    'margin': '0 auto',
+                    'width': '100%',
+                    'display': 'block',
+                    'background-color': '#fff',
+                    'border-bottom': '1px solid #000',
+                    'border-top': '1px solid #000'
+                });
+
+                $('.toolbar').css({
+                    'top': '0px',
+                    'position': 'fixed',
+                    'z-index': '101',
+                    'margin': '0 auto',
+                    'width': '100%',
+                    'display': 'block',
+                });
+
+                //$('.content-wrapper').css({
+                //    'padding-top': '40px'
+                //});
+
+                $('.topthings').css({
+                    'padding-top': '40px',
+                    'z-index': '100'
+                });
+                $('.topthings-search').css({
+                    'padding-top': '40px',
+                    'z-index': '100'
+                });
+                
+                $('.cartbox-wrapper').css({
+                    'margin-top': '40'
+                });
+
+            } else {
+                jQuery('.header-navi').css({
+                    'position': 'absolute',
+                    'top': '160px',
+                    'z-index': '101',
+                    'margin': '0 auto',
+                    'width': '100%',
+                    'display': 'block',
+                    'background-color': '#fff',
+                    'border-bottom': '1px solid #000',
+                    'border-top': '1px solid #000'
+                    
+                });
+
+                $('.toolbar').css({
+                    'top': '0px',
+                    'position': 'fixed',
+                    'z-index': '202',
+                    'margin': '0 auto',
+                    'width': '100%',
+                    'display': 'block',
+                });
+
+                $('.content-wrapper').css({
+                    'padding-top': '40px'
+                });
+
+                $('.topthings').css({
+                    'padding-top': '40px',
+                    'z-index': '100'
+                });
+                $('.topthings-search').css({
+                    'padding-top': '40px',
+                    'z-index': '201'
+                });
+
+
+                $('.cartbox-wrapper').css({
+                    'margin-top': '40'
+                });                
+
+            }
+        });
+
+        var setTimeoutConst;
+        jQuery('.cart-wrapper').mouseenter(function () {
+
+            if (_HasItemInCart) {
+                jQuery('.cartbox-wrapper').slideDown('fast');
+                clearTimeout(setTimeoutConst);
+            }
+        }).mouseleave(function () {
+            if (_HasItemInCart) {
+                setTimeoutConst = setTimeout(function () {
+                    jQuery('.cartbox-wrapper').slideUp();
+                }, 3000);
+            }
+        });
+    });
+
+    function ShoppingCartStatus() {
+
+        $.ajax({
+            type: "POST",
+            contentType: "application/json; charset=utf-8",
+            url: '/Product.asmx/ShoppingCartStatus',
+                dataType: "json",
+                data: [],
+                success: function (data, textStatus) {
+
+                    if (textStatus == "success") {
+
+                        if (data.d == "0") {
+                            _HasItemInCart = false;
+                        } else {
+                            _HasItemInCart = true;
+                        }
+
+                        $('#cartMsg').delay(1000).fadeOut('slow');
+                        $('.cartCnt').html(data.d);
+                        $('#cartCnt-mini').html(data.d);
+                    }
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    //xhr.responseText + ' '
+                    //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
+                }
+            });
+        }
+
+        function MiniShoppingCartList() {
+
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: '/Product.asmx/ShoppingCartList',
+                dataType: "json",
+                data: [],
+                success: function (data, textStatus) {
+
+                    if (textStatus == "success") {
+
+                        //styleid | image | title | color | size | price | qty | Total {nextline}
+                        var line = data.d.split("{nextline}");
+
+                        var html = '';
+                        for (i = 0; i < line.length - 1; i++) {
+
+                            var res = line[i].split("|");
+
+                            html += '<div class="cartbox row">';
+                            html += '<div class="col-md-5 col-sm-5 col-xs-5">';
+                            html += res[1];
+                            html += '</div>';
+                            html += '<div class="col-md-7 col-sm-7 col-xs-7 text-left">';
+                            html += '<div class="cartb cart-color">';
+                            html += 'color : <span>' + res[3] + '</span>';
+                            html += '</div>';
+                            html += '<div class="cartb cart-size">';
+                            html += '    size : <span>' + res[4] + '</span>';
+                            html += '</div>';
+                            html += '<div class="cartb cart-qty">';
+                            html += '    qty : <span>' + res[6] + '</span>';
+                            html += '</div>';
+                            html += '<div class="cartb cart-price">';
+                            html += '    price : <span>' + res[5] + '</span>';
+                            html += '</div>';
+                            html += '</div>';
+                            html += '</div>';
+
+                            $('.cart-subtotal').html('subtotal : <span>' + res[7] + '</span>');
+                        }
+
+                        var windowsize = $(window).width();
+
+                        $(window).resize(function () {
+                            var windowsize = $(window).width();
+                        });
+
+                        if (windowsize < 768) {
+                            $('.cart-product-wrap').html(html);
+                            $('.cart-wrapper .navbar-cart').center();
+                        } else {
+                            $('.cart-product-wrap').html(html);
+                        }
+
+                        ShoppingCartStatus();
+
+                        setTimeout(function () {
+                            jQuery('.cartbox-wrapper').slideUp();
+                        }, 3000);
+                    }
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    //xhr.responseText + ' '
+                    //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
+                }
+            });
+        }
+
+        function AddMailingList() {
+
+            var email = $("input[name='mailinglist']").val();
+            if (email == '') {
+                alert('Please enter your email address.');
+            } else {
+
+                var params = new Object();
+                params.Email = email;
+
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    url: '/Product.asmx/AddMailingList',
+                    data: JSON.stringify(params),
+                    dataType: "json",
+                    success: function (data, textStatus) {
+
+                        if (textStatus == "success") {
+
+                            if (data.d == "{exist}") {
+                                alert("Email address already has in our mailing list.");
+                            } else if (data.d == "1") {
+                                alert("Thank You!\nyour email has been added to our mailing list.");
+                            }
+                        }
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                        //xhr.responseText + ' ' 
+                        //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
+                    }
+                });
+            }
+        }
+    </script>
 
 <script>
     $('.header-search').keypress(function (e) {
