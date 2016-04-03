@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706080240id_/https%3A//www.riptapparel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403071349id_/https%3A//www.riptapparel.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Privacy Policy
+# Privacy Policy – RIPT Apparel
 
 #### 1\. Information Collection and Use
 
 RIPT Apparel collects information (such as your name, shipping and billing address, credit card number, email address, etc.) from you that we need to:
 
-  * \- process your order;
-  * \- provide you with member support;
-  * \- allow you to use the community forums and participate in contests and other forum features; and
-  * \- send you newsletters and other communications such as polls, surveys, and special RIPT Apparel offers.
+\- process your order;  
+\- provide you with member support;  
+\- allow you to use the community forums and participate in contests and other forum features; and  
+\- send you newsletters and other communications such as polls, surveys, and special RIPT Apparel offers.
 
-
-
-As a reminder, RIPT.com is not intended for children under the age of13. If you are under 13, do not submit your personal information to this Site.
+As a reminder, RIPT.com is not intended for children under the age of 13. If you are under 13, do not submit your personal information to this Site.
 
 #### 2\. Use of Cookies and Web Beacons
 
@@ -29,8 +25,8 @@ RIPT Apparel will not share, rent, lease, or sell your personal information (e.g
 
 #### 4\. Changes to this Privacy Policy and Contact Information
 
-Future changes to this Privacy Policy may be made at any time. To ask questions about this policy or to remove your personal information from our database, write to us at [legal@RIPTapparel.com](mailto:legal@RIPTapparel.com).
+Future changes to this Privacy Policy may be made at any time. To ask questions about this policy or to remove your personal information from our database, write to us at legal@RIPTapparel.com.
 
-#### 5.  Effective Date
+#### 5\. Effective Date
 
 **This privacy policy was last modified on July 07, 2011.**
