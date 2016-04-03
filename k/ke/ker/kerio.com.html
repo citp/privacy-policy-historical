@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the kerio.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906113654id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kerio.com privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403033722id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="
-not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script>console.log( 'Debug Objects: http://www.kerio.com/' );</script><script>console.log( 'Referred: 1' );</script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQUEVFNbGwEIXFVVAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script>console.log( 'Debug Objects: http://www.kerio.com/products/kerio-control' );</script><script>console.log( 'Referred: 1' );</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQUEVFNbGwEIXFVVAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
 <link rel="shortcut icon" href="http://www.kerio.com/favicon.ico" type="image/vnd.microsoft.icon">
 
 	      <script type="text/javascript">
@@ -35,8 +35,8 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 <link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__5vezWmBVo7IYE66fBqB1SrObrI6cj7KAr7DyY6F-SAA__FsuiVMgBa-QhrDeuDwrE2rgnb8WsH1sH924hplhUYQ4__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,800,700,600,300&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic" media="all">
 <link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__sdxZKeqm-PT5bCFycUShO_y_VjsflCJbgqcAc4rCI1Y__1fpf4tXk2kezwVdviMnC9NmYcEBfMqdb1WYS-CfdpQU__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__sdxZKeqm-PT5bCFycUShO_y_VjsflCJbgqcAc4rCI1Y__QOTxKYzqEf9oau1J7zz1sJ-bAlRZUVYYvoPYq_iGmn8__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
+</head>
 
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-259 node-type-kerio-basic-page i18n-en wide normal  custom ">
 
@@ -55,25 +55,31 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
   <div class="content">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="stickerMain">
 <div id="cssmenu">
-<ul><li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-connect_0.jpg" width="139" height="28" alt="Kerio Connect"></span></a>
-      <ul><li><a href="http://www.kerio.com/try-now#connect"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-connect/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/how-to-buy"><span class="smc-buy">How To Buy</span></a></li>
+<ul><li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-cloud_2.jpg" width="139" height="28" alt="Kerio Cloud"></span></a>
+      <ul><li><a href="http://demo.kerio.com/connect/client/"><span class="smc-try">Try it Now</span></a></li>
+         <li><a href="http://www.kerio.com/products/kerio-cloud/email-messaging-pricing"><span class="smc-price">Pricing</span></a></li>
+         <li><a href="http://www.kerio.com/node/343/?o=cloud"><span class="smc-buy">How To Buy</span></a></li>
+         <!--<li><a href='http://demo.kerio.com/connect/client/' target="_blank"><span class="smc-demo">Demo</span></a></li>-->
+      </ul></li>
+   <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-connect_0.jpg" width="139" height="28" alt="Kerio Connect"></span></a>
+      <ul><li><a href="http://www.kerio.com/node/1505#connect"><span class="smc-try">Try it Now</span></a></li>
+         <li><a href="http://www.kerio.com/node/1541"><span class="smc-price">Pricing</span></a></li>
+         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
          <li><a href="http://demo.kerio.com/connect/client/" target="_blank"><span class="smc-demo">Demo</span></a></li>
       </ul></li>
    <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-control_0.jpg" width="135" height="28" alt="Kerio Control"></span></a>
-      <ul><li><a href="http://www.kerio.com/try-now#control"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-control/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/how-to-buy"><span class="smc-buy">How To Buy</span></a></li>
+      <ul><li><a href="http://www.kerio.com/node/1505#control"><span class="smc-try">Try it Now</span></a></li>
+         <li><a href="http://www.kerio.com/node/1542"><span class="smc-price">Pricing</span></a></li>
+         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
          <li><a href="http://demo.kerio.com/control/admin/" target="_blank"><span class="smc-demo">Demo</span></a></li>
       </ul></li>
    <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-operator_0.jpg" width="150" height="28" alt="Kerio Operator"></span></a>
-      <ul><li><a href="http://www.kerio.com/try-now#operator"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-operator/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/how-to-buy"><span class="smc-buy">How To Buy</span></a></li>
+      <ul><li><a href="http://www.kerio.com/node/1505#operator"><span class="smc-try">Try it Now</span></a></li>
+         <li><a href="http://www.kerio.com/node/1543"><span class="smc-price">Pricing</span></a></li>
+         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
          <li><a href="http://demo.kerio.com/operator/admin" target="_blank"><span class="smc-demo">Demo</span></a></li>
       </ul></li>
-   <li><a href="https://www.samepage.io/" target="_blank"><span><img src="/sites/default/files/nav-thumb-samepage_0.jpg" width="130" height="28" alt="Samepage"></span></a></li>
+   <li><a href="https://www.samepage.io/collaboration-software" target="_blank"><span><img src="/sites/default/files/nav-thumb-samepage_0.jpg" width="130" height="28" alt="Samepage"></span></a></li>
 </ul></div>
 </div></div></div></div>  </div>
 
@@ -93,7 +99,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
       <div class="khlinks">
       </div>
       --> 
-      <div class="eight columns">
+      <div class="seven columns">
 
 	      		        <div class="region region-header-left">
     <div id="block-block-15" class="block block-block">
@@ -116,14 +122,20 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 		    		    
       </div>
       
-      <div class="eight columns sidesocial">
+      <div class="nine columns sidesocial">
           <div class="region region-header-right">
-    <div id="block-lang-dropdown-language" class="block block-lang-dropdown">
+    <div id="block-block-53" class="block block-block">
+
+    
+  <div class="content">
+    <div class="cloud-login-button"><a href="http://cloud.kerio.com">CLOUD LOGIN</a></div>  </div>
+</div>
+<div id="block-lang-dropdown-language" class="block block-lang-dropdown">
 
     
   <div class="content">
     <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy-policy" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
- <select style="width:100px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="cs">Čeština</option><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="pl">Polski</option><option value="ru">Русский</option><option value="es">Español</option><option value="sv">Svenska</option><option value="tr">Türkçe</option><option value="uk">Українська</option></select>
+ <select style="width:100px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="cs">Čeština</option><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="pl">Polski</option><option value="ru">Русский</option><option value="es">Español</option><option value="sv">Svenska</option><option value="th">ภาษาไทย</option><option value="tr">Türkçe</option><option value="uk">Українська</option></select>
 </div>
 <input type="hidden" name="cs" value="http://www.kerio.cz/">
 <input type="hidden" name="en" value="http://www.kerio.com/privacy-policy">
@@ -133,16 +145,18 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 <input type="hidden" name="ru" value="http://www.kerio.ru/privacy-policy">
 <input type="hidden" name="es" value="http://www.kerio.es/">
 <input type="hidden" name="sv" value="http://www.kerio.se/">
+<input type="hidden" name="th" value="http://www.kerio.co.th/">
 <input type="hidden" name="tr" value="http://www.kerio.com.tr/">
 <input type="hidden" name="uk" value="http://www.kerio.ua/">
 <noscript><div>
 <input type="submit" id="edit-submit" name="op" value="Go" class="button default form-submit" />
-</div></noscript><input type="hidden" name="form_build_id" value="form-BArBXL-pLOg58EoKJtiYfo-vTMLviVX7tAIAvmuOev8">
+</div></noscript><input type="hidden" name="form_build_id" value="form-McNNF55YFVSQgnU4IMd8120v8LvxByNXKsRL0TFeVt8">
 <input type="hidden" name="form_id" value="lang_dropdown_form">
 </div></form>  </div>
 </div>
   </div>
   <div class="widget widget_contacts">
+
     <ul class="social-icons homepage">
               <li>
           <div class="search-wrapper">
@@ -153,7 +167,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="40" maxlength="128">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" class="submit-search"><input type="submit" id="edit-submit--2" name="op" value="" class="button default form-submit"></button></div><input type="hidden" name="form_build_id" value="form-oEdt3Qpg2tuR1dCUZiZYLt6XHf_mm3K1CM4CW2u5AG0">
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" class="submit-search"><input type="submit" id="edit-submit--2" name="op" value="" class="button default form-submit"></button></div><input type="hidden" name="form_build_id" value="form-1BOSPt7b8s_c-6SU2CUewJdMu60y7HBNFmQ4IGAmV04">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>          </div><!--/ .search-wrapper-->
@@ -163,6 +177,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
       <li><a href="http://www.twitter.com/keriotech" target="_blank" class="smc-tw"></a></li>
     </ul><!--/ .social-icons -->	
   </div>
+
      </div>  
      
      <div class="clear"></div>
@@ -173,10 +188,12 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 					  <div class="menu">
 					      
 <ul><li><a href="http://www.kerio.com/products">Products</a><ul><li><a href="http://www.kerio.com/products">Overview</a></li>
+<li><a href="http://www.kerio.com/products/kerio-cloud">Kerio Cloud</a></li>
 <li><a href="http://www.kerio.com/products/kerio-connect">Kerio Connect</a></li>
 <li><a href="http://www.kerio.com/products/kerio-control">Kerio Control</a></li>
 <li><a href="http://www.kerio.com/products/kerio-operator">Kerio Operator</a></li>
 <li><a href="http://www.kerio.com/products/samepage">Samepage</a></li>
+<li><a href="http://www.kerio.com/third-party-tools">Third-Party Tools</a></li>
 </ul></li>
 <li><a href="http://www.kerio.com/try-now">Try Now</a></li>
 <li><a href="http://www.kerio.com/how-to-buy">How To Buy</a></li>
@@ -189,6 +206,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 <li><a href="https://secure.kerio.com/reg/?lang=en" target="_blank">Register License</a></li>
 </ul></li>
 <li><a href="http://www.kerio.com/learn-community">Learn &amp; Community</a><ul><li><a href="http://www.kerio.com/learn-community">Overview</a></li>
+<li><a href="https://samepage.io/app/#!/de092039da72e01d4ea6d09f1b4588a7c04e16a6/page-217207212169473703">Training</a></li>
 <li><a href="http://www.kerio.com/learn-community/developer-zone">Developer Zone</a></li>
 <li><a href="http://forums.kerio.com/" target="_blank">Forums</a></li>
 <li><a href="http://www.kerio.com/blog">Blog</a></li>
@@ -196,16 +214,15 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 <li><a href="http://www.kerio.com/learn-community/kerio-control-resources">Kerio Control Resources</a></li>
 <li><a href="http://www.kerio.com/learn-community/kerio-operator-resources">Kerio Operator Resources</a></li>
 </ul></li>
-<li><a href="http://www.kerio.com/partners">Partners</a><ul><li><a href="http://www.kerio.com/partners" title="">Overview</a></li>
-<li><a href="http://www.kerio.com/partners/levels">Partner Program Levels</a></li>
-<li><a href="http://www.kerio.com/partners/kerio-university">Kerio University</a></li>
-<li><a href="http://www.kerio.com/partners/samepage-referral-program">Samepage Referral Program</a></li>
-<li><a href="http://www.kerio.com/partners/kerio-cloud-solution-distributors">Kerio Cloud Solution Distributors</a></li>
-<li><a href="http://www.kerio.com/how-to-buy">Find a Partner</a></li>
+<li><a href="http://www.kerio.com/partner-program">Partners</a><ul><li><a href="http://www.kerio.com/how-to-buy">Find a Partner</a></li>
+<li><a href="http://www.kerio.com/partner-program">Partner Program</a></li>
+<li><a href="http://www.kerio.com/become-partner">Become a Partner</a></li>
+<li><a href="https://samepage.io/app/#!/de092039da72e01d4ea6d09f1b4588a7c04e16a6/home/pages">Login</a></li>
 </ul></li>
+<li><a href="http://www.kerio.com/blog">Blog</a></li>
 <li><a href="http://www.kerio.com/company">Company</a><ul><li><a href="http://www.kerio.com/company" title="">Overview</a></li>
 <li><a href="http://www.kerio.com/company/media-center">Media Center</a></li>
-<li><a href="http://www.kerio.com/company/careers">Careers</a></li>
+<li><a href="http://www.kerio.com/company/careers-old">Careers</a></li>
 <li><a href="http://www.kerio.com/blog">Blog</a></li>
 <li><a href="http://www.kerio.com/contact">Contact Us</a></li>
 </ul></li>
@@ -400,7 +417,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
   <div>
     <h5><a href="http://www.kerio.com/products">Products</a></h5>
     <p>
-      <a href="http://www.kerio.com/products/kerio-connect">Kerio Connect</a><br><a href="http://www.kerio.com/products/kerio-control">Kerio Control</a><br><a href="http://www.kerio.com/products/kerio-operator">Kerio Operator</a><br><a href="http://www.kerio.com/products/samepage">Samepage</a>
+      <a href="http://www.kerio.com/products/kerio-cloud">Kerio Cloud</a><br><a href="http://www.kerio.com/products/kerio-connect">Kerio Connect</a><br><a href="http://www.kerio.com/products/kerio-control">Kerio Control</a><br><a href="http://www.kerio.com/products/kerio-operator">Kerio Operator</a><br><a href="http://www.kerio.com/products/samepage">Samepage</a>
     </p>
     <br><h5><a href="http://www.kerio.com/try-now">Try Now</a></h5>
   </div>
@@ -434,7 +451,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
   <div>  
     <h5>Legal</h5> 
    <p>
-      <a href="http://www.kerio.com/terms-of-use">Terms of Use</a><br><a href="http://www.kerio.com/privacy-policy">Privacy Policy</a><br><a href="http://www.kerio.com/trademark-guidelines">Trademark Guidelines</a><br><a href="http://www.kerio.com/license-agreement">EULA</a><br></p>
+      <a href="http://www.kerio.com/terms-of-use">Terms of Use</a><br><a href="http://www.kerio.com/privacy-policy">Privacy Policy</a><br><a href="http://www.kerio.com/trademark-guidelines">Trademark Guidelines</a><br><a href="http://www.kerio.com/license-agreement">EULA</a><br><a href="http://www.kerio.com/cloud-terms-service">Cloud Terms of Service</a><br></p>
   </div>
 </div><!--/ .columns -->
 
@@ -446,7 +463,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
       <li><a href="http://www.linkedin.com/company/kerio-technologies" target="_blank" class="smc-li"></a></li>
       <li><a href="http://www.twitter.com/keriotech" target="_blank" class="smc-tw"></a></li>
     </ul><!--/ .social-icons --></div>
-  <div class="kCP"><p>Copyright © 2015. Kerio Technologies Inc. All rights reserved.</p></div>
+  <div class="kCP"><p>Copyright © 2016. Kerio Technologies Inc. All rights reserved.</p></div>
 </div>
 </div>
 
@@ -466,7 +483,7 @@ not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.
 	
 </div>
 
-<script type="text/javascript" src="http://www.kerio.com/sites/all/modules/labjs/labjs.min.js?nu5p64"></script>
+<script type="text/javascript" src="http://www.kerio.com/sites/all/modules/labjs/labjs.min.js?o4wpje"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 // LABjs exclusion
@@ -481,14 +498,14 @@ $L = $L.script(["http://www.kerio.com/sites/default/files/advagg_js/js__-PYVG07K
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 $L = $L.wait(function() {
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.kerio.com/sites/default/files/googleanalytics/analytics.js?nu5p64","ga");ga("create", "UA-296446-5", "auto");ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("send", "pageview");
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.kerio.com/sites/default/files/googleanalytics/analytics.js?o4wpje","ga");ga("create", "UA-296446-5", "auto");ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("send", "pageview");
 });
 //--><!]]>
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 // LABjs exclusion
-$L = $L.script(["http://www.kerio.com/sites/default/files/advagg_js/js__Fv5Tc48bK19a7hKSUGQTCNS7vKdTPnu3rJWtEead5qk__lGiDBUgC0s2tLP-dkPX7EiN4YeFYWCuJkPZ_pjbqJSQ__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.js"]);
+$L = $L.script(["http://www.kerio.com/sites/default/files/advagg_js/js__Fv5Tc48bK19a7hKSUGQTCNS7vKdTPnu3rJWtEead5qk___512NkRrqxm1gUC2Tg9Mj11U-r4fRpH3DlzH8PUn-5E__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.js"]);
 //--><!]]></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
@@ -502,7 +519,7 @@ $L = $L.wait(function() {
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 $L = $L.wait(function() {
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"goodnex_sub","theme_token":"-w7UdsLjqgVrD6ZljwA1XPfj1nSR0GSpF7Ellxl4NHg","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/tipsy\/stylesheets\/tipsy.css":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.css":1,"0":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,400italic,400,800,700,600,300\u0026subset=latin,cyrillic-ext,latin-ext,cyrillic":1,"\/\/netdna.bootstrapcdn.com\/font-awesome\/4.0.3\/css\/font-awesome.css":1,"sites\/all\/themes\/goodnex\/css\/mini_style.css":1,"sites\/all\/themes\/goodnex\/css\/mini_drupal.css":1,"sites\/all\/themes\/goodnex\/css\/mini_skeleton.css":1,"sites\/all\/themes\/goodnex\/css\/mini_layout.css":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/css\/flexslider.css":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/jquery.mediaelementplayer.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_responsive-tables.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_kerioCore.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_jcarousel.css":1},"js":{"sites\/all\/modules\/labjs\/labjs.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tipsy\/javascripts\/jquery.tipsy.js":1,"sites\/all\/modules\/tipsy\/javascripts\/tipsy.js":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/environment_indicator\/color.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/themes\/goodnex\/js\/mini_jquery.modernizr.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.easing.1.3.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.cycle.all.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.blackandwhite.min.js":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.touchswipe.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_mobile-map.js":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_config.js":1,"sites\/all\/themes\/goodnex\/js\/mini_custom.js":1,"sites\/all\/themes\/goodnex\/js\/mini_goodnex.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_smartresize.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_responsive-tables.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_customize-twitter-1.1.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.tinycarousel.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.sticky.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_munchkin.js":1,"sites\/all\/themes\/goodnex_sub\/js\/kerioCore.js":1}},"kgeoip":{"key":"US"},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"sync","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":0,"fadeDuration":"0.5","handleOversize":"resize","handleUnsupported":"link","initialHeight":10,"initialWidth":10,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.5","resizeDuration":"0.25","showMovieControls":1,"slideshowDelay":"5","viewportPadding":20,"useSizzle":0},"custom_search":{"form_target":"_self","solr":0},"tipsy":{"custom_selectors":[{"selector":".tipsy","options":{"fade":1,"gravity":"w","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":1,"tooltip_content":{"source":"attribute","selector":"data-tipsy"}}}]},"responsive_menus":[{"selectors":"#navigation","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"15px","position":"right","media_size":"767","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.kerio.com","www.kerio.ru","www.kerio.cz","www.kerio.de","www.kerio.fr","www.kerio.se","www.kerio.com.tr","www.kerio.pl"]}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"goodnex_sub","theme_token":"UHtE19rodh6qsbX8xSNyuuf_S2fEYTMo1wDT4IMtT9k","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/tipsy\/stylesheets\/tipsy.css":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.css":1,"0":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,400italic,400,800,700,600,300\u0026subset=latin,cyrillic-ext,latin-ext,cyrillic":1,"\/\/netdna.bootstrapcdn.com\/font-awesome\/4.0.3\/css\/font-awesome.css":1,"sites\/all\/themes\/goodnex\/css\/mini_style.css":1,"sites\/all\/themes\/goodnex\/css\/mini_drupal.css":1,"sites\/all\/themes\/goodnex\/css\/mini_skeleton.css":1,"sites\/all\/themes\/goodnex\/css\/mini_layout.css":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/css\/flexslider.css":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/jquery.mediaelementplayer.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_responsive-tables.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_kerioCore.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_jcarousel.css":1},"js":{"sites\/all\/modules\/labjs\/labjs.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tipsy\/javascripts\/jquery.tipsy.js":1,"sites\/all\/modules\/tipsy\/javascripts\/tipsy.js":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/environment_indicator\/color.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"sites\/all\/themes\/goodnex\/js\/mini_jquery.modernizr.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.easing.1.3.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.cycle.all.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.blackandwhite.min.js":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.touchswipe.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_mobile-map.js":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_config.js":1,"sites\/all\/themes\/goodnex\/js\/mini_custom.js":1,"sites\/all\/themes\/goodnex\/js\/mini_goodnex.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_smartresize.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_responsive-tables.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_customize-twitter-1.1.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.tinycarousel.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.sticky.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_munchkin.js":1,"sites\/all\/themes\/goodnex_sub\/js\/kerioCore.js":1}},"kgeoip":{"key":"US"},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"sync","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":0,"fadeDuration":"0.5","handleOversize":"resize","handleUnsupported":"link","initialHeight":10,"initialWidth":10,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.5","resizeDuration":"0.25","showMovieControls":1,"slideshowDelay":"5","viewportPadding":20,"useSizzle":0},"custom_search":{"form_target":"_self","solr":0},"tipsy":{"custom_selectors":[{"selector":".tipsy","options":{"fade":1,"gravity":"w","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":1,"tooltip_content":{"source":"attribute","selector":"data-tipsy"}}}]},"responsive_menus":[{"selectors":"#navigation","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"15px","position":"right","media_size":"767","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.kerio.com","www.kerio.ru","www.kerio.cz","www.kerio.de","www.kerio.fr","www.kerio.se","www.kerio.com.tr","www.kerio.pl"]}});
 });
 //--><!]]>
 </script>
@@ -514,48 +531,13 @@ $L = $L.wait(function() {Drupal.scriptsready=true;jQuery(document).trigger("scri
 //--><!]]>
 </script>
 
-<!-- Google Code for Main Kerio Websites -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 947304647;
-var google_conversion_label = "WrV0COmW4QcQx_HawwM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style='display:inline;'>
-<img height='1' width='1' style='border-style:none;' alt='' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/947304647/?value=0&amp;label=WrV0COmW4QcQx_HawwM&amp;guid=ON&amp;script=0'/>
-</div>
-</noscript>
-<script type="text/javascript">
-    adroll_adv_id = "TNZ5ZNBUONEWXMGJWDXZ7E";
-    adroll_pix_id = "UNYAQPLLZNDHLFLQI4ITUC";
- (function () {
-  var _onload = function(){
-   if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
-   if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);};
-  if (window.addEventListener) {window.addEventListener('load', _onload, false);}
-  else {window.attachEvent('onload', _onload)}}());
-</script>
-
-<!-- Google Code for Remarketing Tag NEW ACCOUNT -->
+<!-- Google Code for Remarketing Tag MCC -->
 <!--------------------------------------------------
 Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
 --------------------------------------------------->
 <script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 944172381;
+var google_conversion_id = 945113159;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
@@ -564,10 +546,10 @@ var google_remarketing_only = true;
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/944172381/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945113159/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<!-- END Google Code for Remarketing Tag NEW ACCOUNT -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3704ad241a","applicationID":"2884765","transactionName":"NFcDZkFZWhZSVBUIDg0dIFFHUVsLHFkOBQQ8QgBVVmdCDFZA","queueTime":0,"applicationTime":261,"ttGuid":"","agentToken":"","atts":"GBAAEAlDSRg=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3704ad241a","applicationID":"2884765","transactionName":"NFcDZkFZWhZSVBUIDg0dIFFHUVsLHFkOBQQ8QgBVVmdCDFZA","queueTime":0,"applicationTime":360,"ttGuid":"","agentToken":"","atts":"GBAAEAlDSRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
