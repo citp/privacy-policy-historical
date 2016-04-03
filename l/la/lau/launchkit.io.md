@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the launchkit.io privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915080132id_/https%3A//launchkit.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchkit.io privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403225834id_/https%3A//launchkit.io/privacy) for the most accurate reproduction.*
 
 # LaunchKit
 
 COMPANY WEBSITE PRIVACY POLICY
 
-Cluster Labs, Inc. (“Company” “we”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices (“Privacy Policy”). By using the Company services, or visiting the Company website at http://launchkit.io (collectively, the “Services”), you accept the practices outlined in this Privacy Policy. 
+Cluster Labs, Inc. (“Company” “we”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy practices (“Privacy Policy”). By using the Company services, or visiting the Company website at http://launchkit.io (collectively, the “Services”), you accept the practices outlined in this Privacy Policy.
 
 WHAT DOES THIS PRIVACY POLICY COVER?
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. This Privacy Policy does not information collected via third party mobile applications which utilize Company’s development platform (“Apps”). 
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. This Privacy Policy does not cover information collected via third party mobile applications which utilize Company’s development platform (“Apps”).
 
 WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?
 
@@ -16,7 +16,7 @@ Information You Provide to Us:
 
 We receive and store any information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number, and third-party account credentials (for example, your log-in credentials for iTunes or other third party sites). If you provide your third-party account credentials to us, you understand some content and/or information in those accounts (“Third Party Account Information”) may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. Certain information may be required to register with us or to take advantage of some of our features. 
 
-We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by clicking the unsubscribe link at the bottom of the emails. 
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by clicking the unsubscribe link at the bottom of the emails.
 
 Information Collected Automatically
 
@@ -62,6 +62,6 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding privacy in connection with the Services, please send us a detailed message at launchkit@getcluster.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy in connection with the Services, please send us a detailed message at help@launchkit.io. We will make every effort to resolve your concerns.
 
 Effective Date: February 12, 2015
