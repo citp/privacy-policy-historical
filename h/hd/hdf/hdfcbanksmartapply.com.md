@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfcbanksmartapply.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706012453id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcbanksmartapply.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403092322id_/https%3A//www.hdfcbanksmartapply.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Commitment
 
