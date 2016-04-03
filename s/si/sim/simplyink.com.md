@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418210651id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyink.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404010630id_/http%3A//www.simplyink.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplyink
 
