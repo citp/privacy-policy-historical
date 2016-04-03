@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808073151id_/https%3A//www.vidyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403024207id_/https%3A//www.vidyard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vidyard
+# Privacy Policy - Vidyard
 
 ## Last Updated: July 18, 2014 
 
@@ -14,7 +14,7 @@ This Privacy Policy also does not cover any information, recorded in any form, a
 
 By using a Service or otherwise providing us with your Personal Information, you are accepting the practices described in this Privacy Policy, as they may be amended by us from time to time, and agreeing to our collection and use of your information in accordance with this Privacy Policy. If you do not agree to the collection, use and disclosure of your information in this way, please do not use any of the Vidyard Properties or otherwise provide Buildscale with Personal Information (as defined below).
 
-The terms in this Privacy Policy may be changed so you should review it periodically for changes. We reserve the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at http://www.vidyard.com/privacy-policy/. Please check the Privacy Policy periodically for changes, though we may also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Vidyard Properties or the treatment of your Personal Information. Your use of the Vidyard Properties following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
+The terms in this Privacy Policy may be changed so you should review it periodically for changes. We reserve the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at https://www.vidyard.com/privacy-policy/. Please check the Privacy Policy periodically for changes, though we may also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Vidyard Properties or the treatment of your Personal Information. Your use of the Vidyard Properties following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
 
 ## A. WHAT INFORMATION BUILDSCALE COLLECTS FROM YOU
 
