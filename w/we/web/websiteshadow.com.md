@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteshadow.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204153607id_/http%3A//websiteshadow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteshadow.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403141021id_/http%3A//websiteshadow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Website Value Calculator and Web Information: Privacy Policy
 
