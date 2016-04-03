@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrapply.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029014928id_/http%3A//info.findly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrapply.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403220253id_/http%3A//info.findly.com/privacy) for the most accurate reproduction.*
 
 # Findly | Privacy and TRUSTe
 
-Effective as of July 14, 2015.
+Effective as of April 1, 2016.
 
 At Findly Talent, LLC (“Findly”, “We”, “Us”, or “Our”), we recognize that privacy is important, and we are committed to provide a safe, secure experience to you, the user (“you,” “your” or “user”).
 
@@ -12,7 +12,7 @@ You acknowledge that this Privacy Policy is designed to be read in connection wi
 
 If you do not want your information to be collected, used, and transferred as described by this Privacy Policy, you may revoke your consent to our Privacy Policy by clicking [here](http://www.findly.com/contact/) to contact us.
 
-Findly Talent, LLC has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal above. The TRUSTe program covers only information that is collected through this Site, [http://www.find.ly](http://www.find.ly/), [http://www.findly.com](http://www.findly.com/), [http://www.hrapply.com](http://www.hrapply.com/), [http://www.skillcheck.com](http://www.skillcheck.com/) and [http://www.thehive.com](http://www.thehive.com/).
+Findly Talent, LLC has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal above. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal above. The TRUSTe program covers only information that is collected through this the Findly Sites, and does not cover information that may be collected through our services.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -33,6 +33,8 @@ If you are using our Sites to look or offer yourself for work, apply for a job, 
 If you are using our Sites as Recruiter, we do not control the data practices of third parties with whom we work with to provide Services that you may choose to use, nor parties that you may request we work with to integrate other services and systems you may use.
 
 We link to other websites over which we have no control. Findly is not responsible for the privacy policies or practices of other websites. You may wish to review the privacy policies of those sites so you can understand how they collect, use and share your information.
+
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Findly Sites.
 
 Information collected on our Sites is stored in the United States; therefore, your information is subject to U.S. law.
 
@@ -160,21 +162,21 @@ We may disclose information to third parties if you consent. Your consent and su
 
 We also share aggregated information (including location data) about Findly Site visitors with third parties to serve advertisements to you on our Sites, on other sites with which we have a business relationship, and via our Services. We may also aggregate data regarding employment qualifications, education, age, experience level or other information relevant to improving the relevancy of the Services we offer you, the advertising we display and/or send to you. This aggregated data does not identify you as a user individually. This aggregated data may also be made available to you, Recruiters and fellow users of our Sites.
 
-At times we may be required by law enforcement or judicial authorities to provide information to the appropriate governmental authorities. In such cases, we will disclose information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+At times we may be required by law enforcement or judicial authorities to provide information to the appropriate governmental authorities. In such cases, we will disclose information upon receipt of a court order, subpoena, bankruptcy proceedings, or to cooperate with a law enforcement investigation when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We fully cooperate with law enforcement agencies in identifying those who use our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
 We may disclose and transfer information to a third party who acquires any or all of Findly’s business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. You will be notified via email and/or a prominent notice on our Sites of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**_Advertising Opt Out:_** Findly uses several third parties to help provide analytics services and to serve advertisements to you, these third parties include Google, Bing, MediaMath, Flurry, and others. Visit <http://www.findly.com/advertising-companies-we-work-with/> to see a list of the companies that Findly works with in connection with serving personalized ads. These third parties may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our Sites. We may tie the information gathered to your Profile to help us better serve you, however we never provide that information back to those third parties. You can opt out of third party cookies by setting your browser to decline cookies. Findly does not respond to web browser “do not track” signals. You can opt out of targeted advertising from networks Findly works with by visiting [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/ "http://preferences-mgr.truste.com"). Please note this does not opt you out of being served advertising. You will continue to receive generic ads by others.
+**_Advertising Opt Out:_** Findly uses several third parties to help provide analytics services and to serve advertisements to you, these third parties include Google, Bing, MediaMath, Flurry, and others. Visit <http://www.findly.com/advertising-companies-we-work-with/> to see a list of the companies that Findly works with in connection with serving personalized ads. These third parties may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our Sites. We may tie the information gathered to your Profile to help us better serve you, however we never provide that information back to those third parties. You can opt out of third party cookies by setting your browser to decline cookies. Findly does not respond to web browser “do not track” signals. You can opt out of targeted advertising from networks Findly works with by visiting [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/ "http://preferences-mgr.truste.com"), or if you reside in the European Union, you may visit <http://www.youronlinechoices.eu/>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads by others.
 
-**How You Updated and/or Delete your Information**
+**How You Update and/or Delete your Information**
 
-Depending on what Services you used, you may or may not be able to access, update or delete your information.  For instance, some services such Background Checks delivered by Third Parties, may be legally required to keep your information for a period of time.
+Depending on what Services you used, you may or may not be able to access, update or delete your information.  For instance, some services such as Background Checks delivered by third parties, may be legally required to keep your information for a period of time.
 
 1) If you had taken an Assessment as part of applying for a job with a specific company via the SkillCheck.com website, you need to [Contact Us](http://www.findly.com/contact/ "Contact") in order to have your assessment results deleted from that system.
 
 2) If you had applied to a job for a specific employer via the HRApply.com system, you need to visit that employer’s career website to log in and delete your profile.
 
-3) If you had joined an employer’s Talent Community, signed up for job alerts, joined TheHive.com, were referred to a job by a friend, participate as an employee in the Employee Referral program, attended a recruiting event, or are a User of any of the Findly Suite,  you may access, review, correct, update, change or delete your Profile or any Supporting Documents at any time. To make any modification, you may log into your account at [https://www.TheHive.com](https://www.thehive.com/ "https://www.TheHive.com") and make the desired changes. You may need to set/reset your password in order to gain access to update/delete your information.
+3) If you had joined an employer’s Talent Community, signed up for job alerts, joined TheHive.com, were referred to a job by a friend, participate as an employee in the Employee Referral program, attended a recruiting event, or are a User of any of the Findly Sites,  you may access, review, correct, update, change or delete your Profile or any Supporting Documents at any time. To make any modification, you may log into your account at [https://www.TheHive.com](https://www.thehive.com/ "https://www.TheHive.com") and make the desired changes. You may need to set/reset your password in order to gain access to update/delete your information.
 
 Access to or correction, update, or deletion of your Profile may be denied or limited by Findly if it would violate another person’s rights and/or as otherwise permitted by applicable law. If you wish to delete or close your account and remove your Profile altogether, you can do so at any time by visiting [https://www.TheHive.com](https://www.thehive.com/ "https://www.TheHive.com"). If you delete your Profile we will retain an archival copy of your Profile that is not accessible by you or third parties. Archival copies are retained only for as long as needed for audit and record purposes, and/or by law (“Archival Period”). We will also keep logs and information that may relate to your activity on our Site.
 
@@ -188,11 +190,7 @@ If you change your Profile, those changes will be provided to any party that acc
 
 While you are able to change and delete your Profile from our Sites, anyone who previously had your consent or otherwise viewed your Profile and/or used our Sites, may have kept a copy of it. Some Countries and States require that we, and/or Recruiters that use our Services, retain a copy of the information you provided as you used the Services. Deleting and/or changing your Profile from/on our Sites does not guarantee that these copies are also being deleted/changed.
 
-Access to or correction, update, or deletion of your Profile may be denied or limited by Findly if it would violate another person’s rights and/or as otherwise permitted by applicable law. If you wish to delete or close your account and remove your Profile altogether, you can do so at any time by visiting [https://www.TheHive.com](https://www.thehive.com/ "https://www.TheHive.com"). If you delete your Profile we will retain an archival copy of your Profile that is not accessible by you or third parties. Archival copies are retained only for as long as needed for audit and record purposes, and/or by law (“Archival Period”). We will also keep logs and information that may relate to your activity on our Site.
-
-If you wish to re-establish your Profile during the Archival Period, you may re-join our Sites, and providing you use and authenticate with the same email address as you originally used to create your Profile, your full Profile and history will be restored, minus your Name, Address, Phone number, and any Permitted Hidden Information you may have previously added. You may re-add this information.
-
-If you have additional requests regarding your information, please [contact us by clicking here](http://www.findly.com/contact/ "Contact"). Findly will respond to information access requests within Thirty (30) days of receipt. If we require additional time to respond, we will acknowledge receipt of your request within Thirty (30) days and supplement our response within the time period required by applicable law.
+If you have additional requests regarding your information, please [contact us by clicking here](http://www.findly.com/contact/ "Contact"). Findly will respond to information access requests within Thirty (30) days of receipt. If we require additional time to respond, we will acknowledge receipt of your request within a reasonable timeframe and supplement our response within the time period required by applicable law.
 
 If you have not logged onto our Site for an extended period, we may deactivate your Profile. You can reactivate your Profile simply by logging back in to any of our Sites within the Archival Period. Deactivated Profiles may be deleted. Our policy is to delete accounts and Profiles if a user does not log in within eighteen (18) months. We may extend or reduce this period at our discretion. If we change the period, we will update this notice. We will notify you at the email address you provided before we delete your account in this manner.
 
@@ -202,11 +200,15 @@ Findly takes appropriate measures to secure your personal information from accid
 
 All credit card transactions and order fulfillment activities are handled by established third party banking institutions and processing agents (such as [Authorize.net](http://authorize.net/)). They receive the information needed to verify and authorize your credit card or other payment information and to process your order. When you place an order online at Findly, your credit card information is encrypted with industry standard encryption (SSL). This makes it difficult for your credit card information to be intercepted or stolen while being transmitted. If you have any questions about security on our Web site, you can contact us at [privacy@findly.com](mailto:privacy@findly.com).
 
-**Cookies**
+**Tracking Technologies**
+
+We and our partners (who work with us to provide services such as marketing, advertising, ongoing engagement, skills testing, career training and other career content), affiliates or analytics or service providers use technologies such as cookies, beacons, scripts and tags. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
 
 Depending on how you use our Sites, we may store cookies on your computer in order to collect certain aggregate data about our users and to customize certain aspects of your specific user experience. A cookie is a small data text file that is stored on your computer that uniquely identifies your browser. Cookies may also include more personalized information, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and your first name to welcome you back to our Sites, or making it easier and faster for you to perform certain actions, such as applying to jobs. We may use cookies to perform tasks such as: monitoring aggregate site usage metrics, storing and remembering your passwords (if you allow us to do so), storing account and advertising preferences that you have set, and personalizing the Services we make available to you. However, we do not use cookies to track your browsing behaviors.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some aspects of the Findly Sites may not function properly if you elect to disable cookies.
+
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 **Social Media Widgets**
 
@@ -226,11 +228,11 @@ Findly, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. 
 
 **Contact Information**
 
-Your data is submitted to Findly Talent, LLC, a Delaware corporation, whose principal place of business is at 114 Sansome Street, Suite 400, San Francisco, 94104, USA, and your data is hosted and stored in databases and on servers situated throughout the United States.
+Your data is submitted to Findly Talent, LLC, a Delaware corporation, whose principal place of business is at 78 Battery Street, Suite 400, San Francisco, 94111, USA, and your data is hosted and stored in databases and on servers situated throughout the United States.
 
 If, at any time, you have questions or concerns about this Privacy Policy, please contact us online or at:
 
 Findly Talent, LLC  
 Chief Information Security Officer  
-114 Sansome Street, 4th Floor  
-San Francisco, CA 94104
+78 Battery Street, Suite 400  
+San Francisco, CA 94111
