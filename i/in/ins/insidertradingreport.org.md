@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidertradingreport.org privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226141756id_/http%3A//www.insidertradingreport.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidertradingreport.org privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403153437id_/http%3A//www.insidertradingreport.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Insider Trading Report
 
