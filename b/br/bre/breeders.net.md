@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the breeders.net privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706091056id_/http%3A//www.breeders.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breeders.net privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403104654id_/http%3A//www.breeders.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Breeders.NET Privacy Policy
 
 **Breeders.net Privacy Policy**
 
   
-Breeders.net is an internet website where visitors can search for and contact, our subscribers, dog breeders, who list on our site.
+Breeders.net is an Internet website where visitors can search for and contact, our subscribers, dog breeders, who list on our site.
 
 **What information do we collect from you?**
 
-When you subscribe to participate in Breeders.net and at other times, we collect your name, address, email address, phone number and zip or postal code.  This information is not shared directly with anyone.  The subscriber chooses what information will be visible to visitors.  Email addresses are not displayed.  When a visitor contacts a subscriber, it is done through a contact form to help prevent our subscribers from receiving spam.  
-In order to maximize the value of the website to its users we collect aggregate information about visits to the site (such as which pages are visited) and we collect information about   
-visitors’ computers (such as such as browser type, browser language, and IP address). This information is never shared with anyone, period.
+When you subscribe to participate in Breeders.net and at other times, we collect your name, address, email address, phone number and zip or postal code.  This information is not shared directly with anyone. The subscriber chooses what information will be visible to visitors.  Email addresses are not displayed.  When a visitor contacts a subscriber, it is done through a contact form to help prevent our subscribers from receiving Spam.
+
+In order to maximize the value of the website to its users we collect aggregate information about visits to the site (such as which pages are visited) and we collect information about visitors’ computers (such as such as browser type, browser language, and IP address). This information is never shared with anyone, period.
 
 **How do we use the information we collect from you?**
 
@@ -34,7 +34,7 @@ We may use third party network advertisers to deliver ads to you on our behalf. 
 Except as specifically set forth in this Ironclad Privacy Policy, we will not share your personally identifiable information outside of Breeders.net and its affiliates unless you specifically agree to having your personally identifiable information shared with a company that is not affiliated with us.  
 We will use information you enter about your dog only to display it on the web site or on our affiliated web site, breeders.net; it will never be sold, rented, bartered or otherwise shared to any outside party.
 
-Since the website is accessible by anyone with an internet connection and a web browser, any information, pictures and videos you post can be copied by any other internet user. Although we discourage abusive copying, the opportunity for it is an inherent part of the internet. You should never give us information, pictures or videos that you do not now or ever want someone else to have access to.
+Since the website is accessible by anyone with an Internet connection and a web browser, any information, pictures and videos you post can be copied by any other Internet user. Although we discourage abusive copying, the opportunity for it is an inherent part of the Internet. You should never give us information, pictures or videos that you do not now or ever want someone else to have access to.
 
 **Legal requirements**
 
@@ -47,7 +47,7 @@ We reserve the right to transfer your submitted information in the event of a tr
 
 **Cookies**
 
-We send "cookies" to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing user preferences in cookies and by tracking user trends - for example, we use cookies to allow you to automatically log in to the service after the first user session. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of Breeders.net may not function properly if you refuse cookies. There is a consensus among internet security experts that cookies do not represent a security or privacy risk to internet users.  
+We send "cookies" to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing user preferences in cookies and by tracking user trends - for example, we use cookies to allow you to automatically log in to the service after the first user session. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of Breeders.net may not function properly if you refuse cookies. There is a consensus among Internet security experts that cookies do not represent a security or privacy risk to Internet users.  
 **  
 External links**
 
@@ -55,7 +55,7 @@ Breeders.net may contain links to other web sites. These other sites maintain th
 
 **Notice Regarding Online Behavioral Advertising.**
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
 **Security**
 
@@ -68,7 +68,3 @@ From time to time, we may update the Ironclad Privacy Policy and we will post a 
 **Consent**
 
 By using Breeders.net, you consent to the collection and use of your personal information as outlined in this Ironclad Privacy Policy.
-
-**Questions?**
-
-If you have any questions or concerns about this Ironclad Privacy Policy, you may contact us at http://www.Breeders.net/contact.php.
