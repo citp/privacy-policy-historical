@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907093040id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403221543id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com Website
 
@@ -46,7 +46,7 @@ We use information held about you in the following ways:
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.  
 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.   
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.   
-Your data will not be used in this way and we will not pass your details on to third parties for marketing purposes unless you tick the relevant box located on [INSERT LOCATION OF TICKBOX OR LINK]
+Your data will not be used in this way and we will not pass your details on to third parties for marketing purposes unless you tick/untick the relevant box located on the relevant registration screen.
 
 **DISCLOSURE OF YOUR INFORMATION**
 
