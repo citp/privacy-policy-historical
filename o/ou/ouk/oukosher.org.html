@@ -1,55 +1,50 @@
-<!--The following is the downloaded HTML source of the oukosher.org privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905123403id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oukosher.org privacy policy that was archived on 2016-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403080039id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head class="wf-loading">
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?36WVzTlo5CUOD70OqIoInKFD08y7Wpls" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGWL6B"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUOU1BXGwYCXFRSBQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-  <title>Privacy Policy - Kosher</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html><html lang="en" class="no-js wf-loading" prefix="og: http://ogp.me/ns# 
+      fb: http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
+  <meta charset="utf-8"><script type="text/javascript" async="" src="https://widget.intercom.io/widget/adc5vt5v"></script><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGWL6B"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://use.typekit.net/qqi2ece.js" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUOU1BXGwYCXFRSBQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="com.silverpop.brandeddomains" content="www.pages01.net,advocacy.ou.org,alumni.ncsy.org,israelfreespirit.com,jliconline.org,ncsy.org,ouisrael.org,oukosher.org,teamyachad.com,tjj.ncsy.org,www.israelfreespirit.com,www.njcd.org,www.ou.org,www.ouisrael.org">
   <link rel="shortcut icon" href="/favicon.ico">  
-  <script type="text/javascript">
-       WebFontConfig = {
-         google: { families: [ 'Open+Sans:400,700,300:latin'] },
-         typekit: {id: 'qqi2ece'}
-       };
-       (function() {
-         var wf = document.createElement('script');
-         wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-             '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-         wf.type = 'text/javascript';
-         wf.async = 'true';
-         var s = document.getElementsByTagName('script')[0];
-         s.parentNode.insertBefore(wf, s);
-       })();
-     </script>
-     
-     <meta name="com.silverpop.brandeddomains" content="www.pages01.net,advocacy.ou.org,alumni.ncsy.org,israelfreespirit.com,jliconline.org,ncsy.org,ouisrael.org,oukosher.org,teamyachad.com,tjj.ncsy.org,www.israelfreespirit.com,www.njcd.org,www.ou.org,www.ouisrael.org">
-     <script src="https://www.sc.pages01.net/lp/static/js/iMAWebCookie.js?f8af068-1303250869e-a7548a3fbbe3d9f8bac3b3472c6792ee&amp;h=www.pages01.net" type="text/javascript"></script>
+
+  <title>Privacy Policy - Kosher</title>
+
+  <script>
+    (function(d) {
+      var config = {
+        kitId: 'qqi2ece',
+        scriptTimeout: 3000,
+        async: true
+      },
+      h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+    })(document);
+  </script>
+  <script src="https://www.sc.pages01.net/lp/static/js/iMAWebCookie.js?f8af068-1303250869e-a7548a3fbbe3d9f8bac3b3472c6792ee&amp;h=www.pages01.net" type="text/javascript"></script>
 
   
-  
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://oukosher.org/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - Kosher">
-<meta property="og:description" content="This Privacy Policy governs the manner in which OU Kosher collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://oukosher.org/ website (“Site”). Personal identification information...">
+<meta property="og:description" content="This Privacy Policy governs the manner in which OU Kosher collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://oukosher.org/ website (“Site”). Personal identification information We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out...">
 <meta property="og:url" content="https://oukosher.org/privacy-policy/">
 <meta property="og:site_name" content="Kosher">
 <meta property="article:publisher" content="http://www.facebook.com/oukosher">
 <meta property="fb:admins" content="507529246">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="This Privacy Policy governs the manner in which OU Kosher collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://oukosher.org/ website (“Site”). Personal identification information...">
+<meta name="twitter:description" content="This Privacy Policy governs the manner in which OU Kosher collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://oukosher.org/ website (“Site”). Personal identification information We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out...">
 <meta name="twitter:title" content="Privacy Policy - Kosher">
 <meta name="twitter:site" content="@OUKosher">
 <meta name="twitter:domain" content="Kosher">
 <meta name="twitter:creator" content="@OUKosher">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/oukosher.org\/","name":"OU Kosher","alternateName":"oukosher"}</script>
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/oukosher.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://oukosher.org/wp-includes/js/wp-emoji-release.min.js?ver=4.2" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/oukosher.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://oukosher.org/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -64,25 +59,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" href="https://oukosher.org/content/themes/ouKosher/assets/css/kosher.css?ver=4.2">
-<link rel="stylesheet" href="https://oukosher.org/content/themes/ouKosher/assets/css/responsive.css">
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js?ver=4.2"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?ver=4.2"></script>
-<script type="text/javascript" src="https://oukosher.org/content/themes/ouKosher/assets/js/bootstrap.min.js?ver=4.2"></script>
-<script type="text/javascript" src="//d3ku6o4zq18792.cloudfront.net/jwplayer/6/jwplayer.js?ver=4.2"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=4.2#pubid=orthodox"></script>
+<link rel="stylesheet" id="mainCss-css" href="https://oukosher.org/content/themes/ouKosher/assets/css/lessphp_0a53bb47f6777f5d711f4c648f4c4c0d81936855.css" type="text/css" media="all">
+<script type="text/javascript" src="https://oukosher.org/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="https://oukosher.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js?ver=4.3.1"></script>
+<script type="text/javascript" src="https://content.jwplatform.com/libraries/vJc09Bwo.js?ver=4.3.1"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=4.3.1#pubid=orthodox"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wp = {"ajaxurl":"https:\/\/oukosher.org\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://oukosher.org/content/plugins/ou-hit-counter/assets/js/console.js?ver=4.2"></script>
+<script type="text/javascript" src="https://oukosher.org/content/plugins/ou-hit-counter/assets/js/console.js?ver=4.3.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var hitConfigParams = {"post":{"hash":"06392b9f7194171433bb9d690dad73ffc67bb04f"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://oukosher.org/content/plugins/ou-hit-counter/assets/js/hit-config.js?ver=4.2"></script>
+<script type="text/javascript" src="https://oukosher.org/content/plugins/ou-hit-counter/assets/js/hit-config.js?ver=4.3.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oukosher.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://oukosher.org/wp-includes/wlwmanifest.xml"> 
+
+<link rel="shortlink" href="https://oukosher.org/?p=51545">
     <!-- The default Google DFP script -->
     <script type="text/javascript">
     var googletag = googletag || {};
@@ -132,7 +130,7 @@ var hitConfigParams = {"post":{"hash":"06392b9f7194171433bb9d690dad73ffc67bb04f"
         
         <script type="text/javascript">
         googletag.cmd.push(function() {
-          googletag.defineSlot('/20935622/oukosher_230X141', [230, 141], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
+          googletag.defineSlot('/20935622/oukosher215x140-side1', [215, 140], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
           googletag.pubads().enableSingleRequest();
           googletag.enableServices();
         });
@@ -142,7 +140,7 @@ var hitConfigParams = {"post":{"hash":"06392b9f7194171433bb9d690dad73ffc67bb04f"
         
         <script type="text/javascript">
         googletag.cmd.push(function() {
-          googletag.defineSlot('/20935622/oukosher_230X141', [230, 141], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
+          googletag.defineSlot('/20935622/oukosher215x140-side1', [215, 140], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
           googletag.pubads().enableSingleRequest();
           googletag.enableServices();
         });
@@ -152,7 +150,7 @@ var hitConfigParams = {"post":{"hash":"06392b9f7194171433bb9d690dad73ffc67bb04f"
         
         <script type="text/javascript">
         googletag.cmd.push(function() {
-          googletag.defineSlot('/20935622/oukosher_230X141', [230, 141], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
+          googletag.defineSlot('/20935622/oukosher215x140-side1', [215, 140], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
           googletag.pubads().enableSingleRequest();
           googletag.enableServices();
         });
@@ -162,33 +160,51 @@ var hitConfigParams = {"post":{"hash":"06392b9f7194171433bb9d690dad73ffc67bb04f"
         
         <script type="text/javascript">
         googletag.cmd.push(function() {
-          googletag.defineSlot('/20935622/oukosher_230X141', [230, 141], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
+          googletag.defineSlot('/20935622/oukosher215x140-side1', [215, 140], 'div-gpt-ad-1359650692954-0').addService(googletag.pubads());
           googletag.pubads().enableSingleRequest();
           googletag.enableServices();
         });
         </script>    
         
-					
-  <script type="text/javascript">jwplayer.key="EnyPjqiNlb2l/KT8QVS178S2TIvv5HlVo3DEm0rznxY=";</script>
-
+				   
+        
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/20935622/oukosher215x140-side2', [215, 140], 'div-gpt-ad-1445010989026-0').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+        </script>    
+        
+				   
+        
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/20935622/oukosher_230x141-search2', [215, 140], 'div-gpt-ad-1445011144357-0').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+        </script>    
+        
+				   
+        
+        <script type="text/javascript">
+        googletag.cmd.push(function() {
+          googletag.defineSlot('/20935622/oukosher230x141-side2', [230, 141], 'div-gpt-ad-1445010989026-0').addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+        });
+        </script>    
+        
+				  <script>
+    var $ = jQuery.noConflict();
+  </script>
+	
     <link rel="alternate" type="application/rss+xml" title="Kosher Feed" href="https://oukosher.org/feed/">
     
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-
-
-<body class="page page-id-51545 privacy-policy">
-
-
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGWL6B"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MGWL6B');</script>
-<!-- End Google Tag Manager -->
+<body class="page page-id-51545 page-template-default">
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -201,75 +217,86 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   ga('require', 'displayfeatures');
   ga('send', 'pageview');
 </script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MGWL6B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MGWL6B');</script>
+<!-- End Google Tag Manager -->
+  
+
 
 
 <div id="wrapper">
 
+<nav class="navbar navbar-default navbar-inverse navbar-static-top nav-superbar visible-md visible-lg">
+  <div class="container">
+
+    <div class="collapse navbar-collapse">
+
+       <form role="search" class="navbar-search pull-right" id="s" method="get" action="/">
+            <input type="text" value="" name="s" class="search-query" placeholder="">
+             <button><i class="fa fa-search"></i></button>
+        </form>
 
 
-        <div class="navbar navbar-static-top navbar-inverse nav-superbar visible-desktop">
-      <div class="navbar-inner">
-      <div class="container">
-    
-    
-		    <form role="search" class="navbar-search pull-right" id="s" method="get" action="/">
-		            <input type="text" value="" name="s" class="search-query" placeholder="">
-		            <button><i class="icon-search"></i></button>
-		    </form>
-		    
-		    <ul class="nav mega-enabled pull-right">
-		    	<li><a href="https://www.oudirect.org/topsite/login.aspx">Company Login</a></li>
-		    	<li><a href="/contact-us/">Contact Us</a></li>
-			    <li class="dropdown language-menu-item">
-			       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Change Language <b class="caret"></b></a>
-			       <section class="dropdown-menu country-mega-dropdown style-background transition style-fade-in">
-				        <ul class="mega-wide">
-				         <li class="nav-title">Choose a Language</li>
-				         <li><a href="/">English</a></li>
-				         <li><a href="/espanol/">en Espanol</a></li>
-				         <li><a href="http://www.oukosher.org.cn">犹太正教公会中国网</a></li>
-				        </ul>
-			       </section>
-			     </li>
-		    </ul>
+      <ul class="nav navbar-nav pull-right">
+        <li><a href="https://www.oudirect.org/topsite/login.aspx">Company Login</a></li>
+        <li><a href="/contact-us/">Contact Us</a></li>
         
-		</div>
-		</div>
-	</div>
-	
+        <li class="dropdown language-menu-item">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Change Language <b class="caret"></b></a>
+          <ul class="dropdown-menu lng-box">
+            <li class="nav-title" style="padding:5px 15px 0">Choose a Language</li>
+           <li><a href="/">English</a></li>
+           <li><a href="/espanol/">En Espanol</a></li>
+           <li><a href="http://www.oukosher.org.cn">犹太正教公会中国网</a></li>
+          </ul>
+        </li>
+      </ul>
+
+
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 
 
 
 
 
 
-<div class="navbar navbar-static-top navbar-inverse hidden-desktop">
+
+<div class="navbar navbar-static-top navbar-inverse hidden-md hidden-lg navbar-mobile">
   <div class="navbar-inner">
     <div class="container">
  
-      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+      <!-- .navbar-btn is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
-      </a>
+      </button>
  
       <!-- Be sure to leave the brand out there if you want it shown -->
       <a class="brand" href="/"><img src="https://oukosher.org/content/themes/ouKosher/assets/images/oukosher.logo.png" width="93" height="28" alt="OU Kosher"></a>
       
  
       <!-- Everything you want hidden at 940px or less, place within here -->
-      <div class="nav-collapse collapse">
+      <div class="navbar-collapse collapse">
 	        
 	        
 	        
 	        <ul class="nav">
 		        <li><a href="https://www.oudirect.org/topsite/login.aspx">Company Login</a></li>
 		    	<li><a href="/contact-us/">Contact Us</a></li>
-	        	<li style="padding:0 10px;">
-		        	<form role="search" class="navbar-search pull-right" id="s" method="get" action="/">
+	        	<li>
+		        	<form role="search" class="navbar-search" id="s" method="get" action="/">
 			            <input type="text" value="" name="s" class="search-query" placeholder="">
-		            	<button><i class="icon-search"></i></button>
+		            	<button><i class="fa fa-search"></i></button>
 		            </form>
 	        	</li>
 	        </ul>
@@ -295,25 +322,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-<div class="navbar navbar-static-top navbar-inverse nav-transparent visible-desktop">
-  <div class="navbar-inner">
+<div class="navbar navbar-inverse navbar-static-top nav-transparent navbar-main-menu visible-md visible-lg">
   <div class="container">
-    <a class="brand" href="/">
-    	<img src="https://oukosher.org/content/themes/ouKosher/assets/images/oukosher.logo.png" width="160" height="50" alt="OU Kosher">
-    </a>
+
+
+  <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#oukosher-navbar-collapse-main" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+       <a class="navbar-brand" href="/">
+            <img src="https://oukosher.org/content/themes/ouKosher/assets/images/oukosher.logo.png" width="160" height="50" alt="OU Kosher">
+          </a>
+    </div>
     
-    
-    <ul class="nav mega-enabled">
-       
-       
-       
+
+      <div class="collapse navbar-collapse" id="oukosher-navbar-collapse-main">     
+      <ul class="nav navbar-nav mega-enabled">       
        <li class="dropdown">
       	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Get <br>Certified <b class="caret"></b></a>
 		<section class="dropdown-menu certified-mega-dropdown style-background transition">
 			
-			<div class="row-fluid">
+			<div class="row">
 				
-				<div class="span4">
+				<div class="col-md-4">
 				<div class="inner">
 				
 				<a class="new-company-application-link" href="/get-certified-application/">
@@ -321,7 +355,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</a>
 				
 				
-					<ul class="further-reading-ul">	
+					<ul class="further-reading-ul list-unstyled">	
 						<li class="nav-title">Further Reading</li>
 						
 													<li><a href="/kosher-overview/why-go-kosher/">Why OU Kosher</a></li>
@@ -338,10 +372,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</ul>
 				</div>
 				</div>
-				<div class="span8">
+				<div class="col-md-8">
 				<div class="inner">
 					<h2>Get Certified</h2>
-					<p class="lead">Most Americans eat some&nbsp;<em>kosher food</em>&nbsp;every day, but chances are they’re not aware of it. Take a walk down the aisles of any supermarket and you will see that certification appears on&nbsp;<em>over 60% of America’s</em>&nbsp;produced foods that are certified kosher, from the coveted Oreo to the thirst-quenching Coca-Cola. Over&nbsp;<em>$150 billion of kosher certified</em>&nbsp;products are consumed annually, and spending continues to rise dramatically.</p>
+					<p>Most Americans eat some&nbsp;<em>kosher food</em>&nbsp;every day, but chances are they’re not aware of it. Take a walk down the aisles of any supermarket and you will see that certification appears on&nbsp;<em>over 60% of America’s</em>&nbsp;produced foods that are certified kosher, from the coveted Oreo to the thirst-quenching Coca-Cola. Over&nbsp;<em>$150 billion of kosher certified</em>&nbsp;products are consumed annually, and spending continues to rise dramatically.</p>
 	
 					<a href="/kosher-overview/why-go-kosher/" class="btn btn-danger">Read More  ›</a>
 				</div>
@@ -360,10 +394,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            	<section class="dropdown-menu industrial-mega-dropdown style-background transition style-fade-in">
            	
            	
-           	<div class="row-fluid">
-       	      		<div class="span4">
+           	<div class="row">
+       	      		<div class="col-md-4">
        		      		<div class="inner">
-       		      		<ul>
+       		      		<ul class="list-unstyled">
        		      			<li class="nav-title">Industrial</li>
        		      			       		      				<li><a href="/letter-of-certification/">Letters of Certification</a></li>
        		      			       		      				<li><a href="/about-the-ou/">What is the OU</a></li>
@@ -375,49 +409,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        		      			       		      				<li><a href="/companies/">Featured Companies</a></li>
        		      			       		      				<li><a href="/kosher-videos/">Kosher Videos</a></li>
        		      			       		      				<li><a href="/newly-certified/">Newly Certified</a></li>
-       		      			       		      				<li><a href="/blog/industrial-kosher/ ">Articles</a></li>
+       		      			       		      				<li><a href="/blog/industrial-kosher/">Articles</a></li>
        		      			       		      				<li><a href="/confidentiality-ou-kosher-certification/">Confidentiality Statement</a></li>
        		      			       		      				<li><a href="/blog/industrial-kosher/come-meet-ou-kosher-next-trade-show/">Trade Shows</a></li>
        		      			       		      				<li><a href="https://oukosher.org/kosher-overview/growth-of-kosher-certification/">Growth of Kosher</a></li>
        		      			       		      				<li><a href="http://www.oukosher.org.cn/">China Kosher</a></li>
+       		      			       		      				<li><a href="/wash-facilities/">Kosher Wash Locations</a></li>
        		      			       		      			
        		      		</ul>
        		      		</div>
        	      		</div>
        	      		
-       	      		<div class="span8">
+       	      		<div class="col-md-8">
        	      			<div class="inner alert-section">
-       	      				<ul>
+       	      				<ul class="list-unstyled">
        			      			<li class="nav-title"><a href="/companies/">Featured Companies</a></li>
        			      												    
 									    <li>
-									    	<a href="https://oukosher.org/companies/jims-organic-coffee/">
-									    	<i class="icon-double-angle-right"></i> <b>Sep 1</b>- 
-									    	Jim’s Organic Coffee</a>
+									    	<a href="https://oukosher.org/companies/explore-cuisine/">
+									    	<i class="fa fa-double-angle-right"></i> <b>Mar 29</b>- 
+									    	Explore Cuisine</a>
 									    </li>
 									
 																	    
 									    <li>
-									    	<a href="https://oukosher.org/companies/sugar-plum-chocolates/">
-									    	<i class="icon-double-angle-right"></i> <b>Aug 31</b>- 
-									    	Sugar Plum Chocolates</a>
+									    	<a href="https://oukosher.org/companies/ntalakos-andreas/">
+									    	<i class="fa fa-double-angle-right"></i> <b>Mar 22</b>- 
+									    	Ntalakos Andreas</a>
 									    </li>
 									
 																	    
 									    <li>
-									    	<a href="https://oukosher.org/companies/del-campo-tortillas-koshertilla-llc/">
-									    	<i class="icon-double-angle-right"></i> <b>Aug 31</b>- 
-									    	Del Campo Tortillas / Koshertilla LLC</a>
+									    	<a href="https://oukosher.org/companies/israfoods-2006-ltd/">
+									    	<i class="fa fa-double-angle-right"></i> <b>Mar 3</b>- 
+									    	Israfoods (2006) Ltd.</a>
 									    </li>
 									
 									       			      			
        		      			</ul>
-       		      			<ul>
-       			      			<li class="nav-title"><a href="/newly-certified/">Newly certified</a></li>
-       			      			       			      			<li><a href="https://oukosher.org/newly-certified/mocha-burger/"><i class="icon-certificate"></i> <b>Aug 25</b>- Mocha Burger</a></li>
-       			      			       			      			<li><a href="https://oukosher.org/newly-certified/e-j-gallo-winery-modesto/"><i class="icon-certificate"></i> <b>Aug 25</b>- E &amp; J Gallo Winery-Modesto</a></li>
-       			      			       			      			<li><a href="https://oukosher.org/newly-certified/poppies-international-nv/"><i class="icon-certificate"></i> <b>Aug 25</b>- Poppies International NV</a></li>
-       			      			       		      			</ul>
+
+                            <ul class="list-unstyled">
+                                <li class="nav-title"><a href="/newly-certified/">Newly certified</a></li>
+                                                                                                <li>
+                                    <a href="https://oukosher.org/newly-certified/henkel-soad-ltd"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Henkel Soad Ltd.</a>
+                                </li>
+                                                                <li>
+                                    <a href="https://oukosher.org/newly-certified/northwest-nutritional-foods-llc-dba-zing-bars"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Northwest Nutritional Foods, LLC dba Zing Bars</a>
+                                </li>
+                                                                <li>
+                                    <a href="https://oukosher.org/newly-certified/wellness-shots-co-inc-dba-vive-organic"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Wellness Shots Co., Inc. dba Vive Organic</a>
+                                </li>
+                                                            </ul>
        	      			</div>
        	      		</div>
        	      		
@@ -430,52 +472,58 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Consumer <br>Resources <b class="caret"></b></a>
             	<section class="dropdown-menu consumer-mega-dropdown style-background transition style-fade-in">
             	
-            		<div class="row-fluid">
-            		      		<div class="span4">
+            		<div class="row">
+            		      		<div class="col-md-4">
             		      			<div class="inner ">
-            				      		<ul>
+            				      		<ul class="list-unstyled">
             				      			<li class="nav-title">Consumers</li>
-            				      			            				      				<li><a href="/the-kosher-primer/">Basics of Kosher</a></li>
             				      			            				      				<li><a href="/product-search/">Product Search</a></li>
-            				      			            				      				<li><a href="/passover">Passover</a></li>
-            				      			            				      				<li><a href="/blog/consumer-news/">News</a></li>
+            				      			            				      				<li><a href="/faqs/">FAQS</a></li>
+            				      			            				      				<li><a href="/the-kosher-primer/">Basics of Kosher</a></li>
+            				      			            				      				<li><a href="/restaurants/">Restaurant Directory</a></li>
+            				      			            				      				<li><a href="/summer-lists-ous-slurpee-icee-freestyle-flavors/">Slurpee, Icee &amp; Freestyle Lists</a></li>
+            				      			            				      				<li><a href="/blog/consumer-news/pas-yisroel-list-5773/">Pas Yisroel List</a></li>
             				      			            				      				<li><a href="/ou-guide-to-checking-produce-and-more/">Checking Fruits and Vegetables</a></li>
+            				      			            				      				<li><a href="/guide-to-blessings/">Guide to Blessings</a></li>
+            				      			            				      				<li><a href="/blog/consumer-kosher/aged-cheese-list/">Aged Cheese List</a></li>
             				      			            				      				<li><a href="/kosher-videos/">Kosher Videos</a></li>
             				      			            				      				<li><a href="/educational-videos/">Kosher Educational Videos</a></li>
+            				      			            				      				<li><a href="https://oukosher.org/kosher-overview/growth-of-kosher-certification/">Growth of Kosher</a></li>
+            				      			            				      				<li><a href="/passover">Passover</a></li>
+            				      			            				      				<li><a href="/blog/consumer-news/">News</a></li>
             				      			            				      				<li><a href="/kosher-tidbits/">Kosher Tidbits</a></li>
             				      			            				      				<li><a href="/recipes/">Recipes</a></li>
-            				      			            				      				<li><a href="/restaurants/">Restaurant Directory</a></li>
             				      			            				      				<li><a href="/publication/daf-ha-kashrus/">Daf Ha-Kashrus</a></li>
             				      			            				      				<li><a href="/companies/">Featured Companies</a></li>
-            				      			            				      				<li><a href="/blog/consumer-news/pas-yisroel-list-5773/">Pas Yisroel List</a></li>
-            				      			            				      				<li><a href="/blog/consumer-kosher/aged-cheese-list/">Aged Cheese List</a></li>
-            				      			            				      				<li><a href="/guide-to-blessings/">Guide to Blessings</a></li>
             				      			            				      				<li><a href="/blog/consumer-kosher/">Articles</a></li>
-            				      			            				      				<li><a href="/faqs/">FAQS</a></li>
             				      			            				      				<li><a href="/blog/ask-ou/">ASK OU</a></li>
-            				      			            				      				<li><a href="/blog/shemittah/ ">Shemittah</a></li>
-            				      			            				      				<li><a href="https://oukosher.org/kosher-overview/growth-of-kosher-certification/">Growth of Kosher</a></li>
+            				      			            				      				<li><a href="https://oukosher.org/halacha-yomis-email/">Halacha Yomis</a></li>
             				      			            				      			
             				      		</ul>
             		      			</div>
             		      		</div>
-            		      		<div class="span8">
+            		      		<div class="col-md-8">
             		      			<div class="inner alert-section">
             		      			
-            		      				<ul>
+            		      				<ul class="list-unstyled">
             				      			<li class="nav-title"><a href="/kosher-alerts/">Kosher alerts</a></li>
-            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/kosher-alert-nathans-hot-fries-potato-snacks/"><i class="icon-warning-sign"></i> <b>Sep 1</b>- Kosher Alert Nathan’s Hot Fries Potato Snacks</a></li>
-            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/kosher-alert-restaurants-pride-potato-granules/"><i class="icon-warning-sign"></i> <b>Sep 1</b>- Kosher Alert Restaurant’s Pride Potato Granules</a></li>
-            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/ou-kosher-alert/"><i class="icon-warning-sign"></i> <b>Aug 13</b>- Kosher Alert La Fe Seasoned Rice</a></li>
+            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/ou-kosher-advisory-2/"><i class="fa fa-warning-sign"></i> <b>Apr 1</b>- Kosher Advisory – Honest Kids</a></li>
+            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/kosher-advisory-ritas-on-surf-avenue/"><i class="fa fa-warning-sign"></i> <b>Mar 31</b>- Kosher Advisory Rita’s on Surf Avenue</a></li>
+            			      				            			      				<li><a href="https://oukosher.org/kosher-alerts/kosher-alert-bicerin-liqueurs/"><i class="fa fa-warning-sign"></i> <b>Mar 23</b>- Kosher Alert Mini-Bicerin Liqueurs</a></li>
             			      				            			      			</ul>
-            		
-            		
-            			      			<ul>
-            				      			<li class="nav-title"><a href="/newly-certified/">Newly certified</a></li>
-            				      			            				      			<li><a href="https://oukosher.org/newly-certified/mocha-burger/"><i class="icon-certificate"></i> <b>Aug 25</b>- Mocha Burger</a></li>
-            				      			            				      			<li><a href="https://oukosher.org/newly-certified/e-j-gallo-winery-modesto/"><i class="icon-certificate"></i> <b>Aug 25</b>- E &amp; J Gallo Winery-Modesto</a></li>
-            				      			            				      			<li><a href="https://oukosher.org/newly-certified/poppies-international-nv/"><i class="icon-certificate"></i> <b>Aug 25</b>- Poppies International NV</a></li>
-            				      			            			      			</ul>
+
+                                        <ul class="list-unstyled">
+                                            <li class="nav-title"><a href="/newly-certified/">Newly certified</a></li>
+                                                                                                                                    <li>
+                                                <a href="https://oukosher.org/newly-certified/henkel-soad-ltd"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Henkel Soad Ltd.</a>
+                                            </li>
+                                                                                        <li>
+                                                <a href="https://oukosher.org/newly-certified/northwest-nutritional-foods-llc-dba-zing-bars"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Northwest Nutritional Foods, LLC dba Zing Bars</a>
+                                            </li>
+                                                                                        <li>
+                                                <a href="https://oukosher.org/newly-certified/wellness-shots-co-inc-dba-vive-organic"><i class="fa fa-certificate"></i> <b>Mar 31</b>- Wellness Shots Co., Inc. dba Vive Organic</a>
+                                            </li>
+                                                                                    </ul>
             		      			</div>
             		      		</div>
             		      		
@@ -490,23 +538,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
       
       
-      
-     
-           </ul>
-    
+</ul>
+   </div> 
         
     
-        
-  </div>
-  </div>
+          </div>
 </div>
 
 
 
-
-
-
-<div class="hidden-phone" style="position: relative; background: #f5f5f5 url('https://oukosher.org/content/themes/ouKosher/assets/images/GetCertifiedBanner.jpg') no-repeat left top; height: 330px; margin-bottom: 50px; ">
+<div class="hidden-xs" style="position: relative; background: #f5f5f5 url('https://oukosher.org/content/themes/ouKosher/assets/images/GetCertifiedBanner.jpg') no-repeat left top; height: 330px; margin-bottom: 50px; ">
 
 	<span class="banner-title">Get Certified</span>
 
@@ -514,7 +555,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 	<div class="subnav-menu-container">
 	<div class="container">
-	<div class="row-fluid">
+	<div class="row">
 	
 		<div class="menu-get-certified-container"><ul id="menu-get-certified" class="menu"><li id="menu-item-34310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34310"><a title="OU Kosher Application form for new companies" href="https://oukosher.org/get-kosher-certification-application/">Get Certified</a></li>
 <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://oukosher.org/kosher-overview/how-does-ou-kosher-certification-work/">How Kosher Supervision Works</a></li>
@@ -529,9 +570,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 <div class="container">
-  <div class="row-fluid">
+  <div class="row">
 
-    <div class="span8">
+    <div class="col-md-8">
             <div class="article" itemscope="" itemtype="http://schema.org/Article">
         
         <header>
@@ -581,7 +622,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </div>
           </div>
 
-    <div class="span3 offset1">
+    <div class="col-md-3 col-md-offset-1">
       <div class="sidebar">
       <div class="sidebar">
 	
@@ -602,26 +643,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<hr class="divider">               
                 
     
-    	<div id="widget_tribe_widget_builder_48312-2" class="widget-3 widget sb-mod widget_tribe_widget_builder_48312"><div style="padding: 10px; background-color: #cccccc; height: 90px;">
-<h5>Sign up for OU Kosher alerts</h5>
+    	<div id="widget_tribe_widget_builder_48312-2" class="widget sb-mod widget_tribe_widget_builder_48312"><div style="padding: 10px; background-color: #cccccc;">
+<h5>Sign up for <br>OU Kosher alerts</h5>
 <form id="newsletter_page" action="https://www.pages01.net/uojca/MainFormLists/KosherBox" method="post">
 <fieldset class="input-append">
-<div class="row-fluid">
-<div class="span8"><input class="input-block-level" id="control_EMAIL" type="text" name="Email" value="Your email address" onfocus="if(this.value==this.defaultValue)value=''" onblur="if(this.value=='')value=this.defaultValue;"></div>
-<div class="span4"><input class="btn btn-block" type="submit" value="Sign up"></div>
+<div class="input-group"><input class="form-control" id="control_EMAIL" type="text" name="Email" value="Your Email" onfocus="if(this.value==this.defaultValue)value=''" onblur="if(this.value=='')value=this.defaultValue;"><br>
+<span class="input-group-btn"><input class="btn btn-default" type="submit" value="Signup"></span>
 </div>
 <p><input id="control_COLUMN18" type="hidden" name="Collection Name" value="Kosher Website"><br>
 <input type="hidden" name="formSourceName" value="StandardForm"><br>
 <input type="hidden" name="sp_exp" value="yes"></p></fieldset>
 </form>
 </div>
-</div><div id="ouwidgetnewgoogledfp-9" class="widget-4 widget sb-mod widget_ouwidgetnewgoogledfp">      <!-- 230x141 -->
-      <div id="div-gpt-ad-1359650692954-0" style="width:230px; height:141px;">
+</div><div id="ouwidgetnewgoogledfp-9" class="widget sb-mod widget_ouwidgetnewgoogledfp">      <!-- 215x140 -->
+      <div id="div-gpt-ad-1359650692954-0" style="width:215px; height:140px;">
         <script type="text/javascript">
           googletag.cmd.push(function() { googletag.display('div-gpt-ad-1359650692954-0'); });
         </script>
       </div>
-		</div><div id="widget_tribe_widget_builder_43794-5" class="widget-5 widget-last widget sb-mod widget_tribe_widget_builder_43794"><div class="footer-ad download-app-space" style="margin-top: 20px; height: 157px; background: url('https://s3.amazonaws.com/oukosher.org/images/footer/kosher.apps.jpg') no-repeat left top; position: relative;"><a class="android" style="width: 100px; position: absolute; top: 100px; left: 15px;" href="https://play.google.com/store/apps/details?id=org.ou.kosherproducts"><img alt="" src="https://s3.amazonaws.com/oukosher.org/images/footer/android.btn.png"></a><br>
+		</div><div id="ouwidgetnewgoogledfp-12" class="widget sb-mod widget_ouwidgetnewgoogledfp">      <!-- 230x141 -->
+      <div id="div-gpt-ad-1445010989026-0" style="width:230px; height:141px;">
+        <script type="text/javascript">
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1445010989026-0'); });
+        </script>
+      </div>
+		</div><div id="widget_tribe_widget_builder_43794-5" class="widget sb-mod widget_tribe_widget_builder_43794"><div class="footer-ad download-app-space" style="margin-top: 20px; height: 157px; background: url('https://s3.amazonaws.com/oukosher.org/images/footer/kosher.apps.jpg') no-repeat left top; position: relative;"><a class="android" style="width: 100px; position: absolute; top: 100px; left: 15px;" href="https://play.google.com/store/apps/details?id=org.ou.kosherproducts"><img alt="" src="https://s3.amazonaws.com/oukosher.org/images/footer/android.btn.png"></a><br>
 <a class="iphone" style="width: 100px; position: absolute; top: 100px; right: 8px;" href="https://itunes.apple.com/ke/app/ou-kosher/id491138771?mt=8"><img alt="" src="https://s3.amazonaws.com/oukosher.org/images/footer/iphone.btn.png"></a></div>
 </div> 
 
@@ -633,43 +679,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>	
 </div>
 
-
-
-
-
 </div>
 
 <div id="footer" class="container">
-<div class="row-fluid">	
+<div class="row">	
 
 
-	<div class="span3 menu-column">
-		<a href="/"><img src="https://oukosher.org/content/themes/ouKosher/assets/images/oukosher.logo.footer.png" alt="OU Kosher"></a>
-
+	<div class="col-md-3 menu-column">
+		<a href="/"><img src="https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://oukosher.org/content/themes/ouKosher/assets/images/oukosher.logo.footer.png" alt="OU Kosher"></a>
 		<small>	
-		Kosher Hotline<br>
-		212-613-8241<br>
+			Kosher Hotline<br>
+			212-613-8241<br>
+		</small>
 		
-    </small>
 				<a href="https://www.oudirect.org/topSite/login.aspx">OU Direct</a>
 <a href="https://oukosher.org/contact-us/">Contact Us</a>
+
 		<a href="https://oukosher.org/privacy-policy/">Privacy Policy</a>
-    <span style="color: #DCDCDC; font: 300 12px 'museo-sans',arial;  padding: 4px 0;  text-transform: uppercase; display:block;">
-    APP: &nbsp;&nbsp;
-    <a href="https://play.google.com/store/apps/details?id=org.ou.kosherproducts" style="display: inline;"><span class="icon-android">&nbsp;</span>android</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://itunes.apple.com/ke/app/ou-kosher/id491138771?mt=8" style="display: inline;"><span class="icon-apple">&nbsp;</span>iphone</a>
-    </span>
-    <span style="margin: 7px 0; display:block;">
-    <a href="https://www.facebook.com/OUKosher" style="display: inline;"><img src="https://s3.amazonaws.com/oukosher.org/images/footer/kosher_f.png" alt="facebook"></a>
-    <a href="https://twitter.com/OUKosher" style="display: inline;"><img src="https://s3.amazonaws.com/oukosher.org/images/footer/kosher_t.png" alt="twitter"></a>
-    <a href="http://instagram.com/oukosher/" style="display: inline;"><img src="https://s3.amazonaws.com/oukosher.org/images/footer/kosher_i.png" alt="twitter"></a>
-    </span>
-    <a href="https://www.ou.org/"><img src="https://s3.amazonaws.com/oukosher.org/images/footer/oukosher-footer-ou-logo.png" alt="OU"></a>
-    <small style="display: block; line-height: 1.5em;">	© 2015 Orthodox Union<br>All Rights Reserved</small>	
+
+	    <span style="color: #DCDCDC; font: 300 12px 'museo-sans',arial;  padding: 4px 0;  text-transform: uppercase; display:block;">
+		    APP: &nbsp;&nbsp;
+		    <a href="https://play.google.com/store/apps/details?id=org.ou.kosherproducts" style="display: inline;"><span class="fa fa-android">&nbsp;</span>android</a>&nbsp;&nbsp;&nbsp;
+		    <a href="https://itunes.apple.com/ke/app/ou-kosher/id491138771?mt=8" style="display: inline;"><span class="fa fa-apple">&nbsp;</span>iphone</a>
+	    </span>
+
+	    <span style="margin: 7px 0; display:block;">
+		    <a href="https://www.facebook.com/OUKosher" style="display: inline;"><img src="https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://s3.amazonaws.com/oukosher.org/images/footer/kosher_f.png" alt="facebook"></a>
+		    <a href="https://twitter.com/OUKosher" style="display: inline;"><img src="https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://s3.amazonaws.com/oukosher.org/images/footer/kosher_t.png" alt="twitter"></a>
+		    <a href="http://instagram.com/oukosher/" style="display: inline;"><img src="https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://s3.amazonaws.com/oukosher.org/images/footer/kosher_i.png" alt="twitter"></a>
+	    </span>
+
+	    <a href="https://www.ou.org/"><img src="https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://s3.amazonaws.com/oukosher.org/images/footer/oukosher-footer-ou-logo.png" alt="OU"></a>
+	    <small style="display: block; line-height: 1.5em;">	© 2016 Orthodox Union<br>All Rights Reserved</small>	
 
 	</div>
 
-		<div class="span3 menu-column hidden-phone">
+
+
+	
+		
+	<div class="col-md-3 menu-column hidden-xs">
 		<h5>Consumer Resources</h5>
 		<div>
 				<a href="/product-search/">Product Search</a>
@@ -682,8 +731,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="http://oukosher.org/educational-videos/">Kosher Videos</a>
 		</div>
 	</div>
+	
 
-	<div class="span3 menu-column hidden-phone">
+		<div class="col-md-3 menu-column hidden-xs">
 		<h5>Industrial resources</h5>
 		<div>
 				<a href="http://oukosher.org/about-the-ou/">What is the OU</a>
@@ -698,11 +748,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="http://www.oukosher.org.cn/">China Kosher</a>
 		</div>
 	</div>
+	
 
-	<div class="span3 menu-column hidden-phone">
-	<h5>OU Community Services</h5>
-	<div>
-		<div class="menu-footer-ou-services-container"><a href="http://www.ou.org">Community Services</a>
+		<div class="col-md-3 menu-column hidden-xs">
+		<h5>OU Community Services</h5>
+		<div>
+				<div class="menu-footer-ou-services-container"><a href="http://www.ou.org">Community Services</a>
 <a href="http://oujobs.org">OU Job Board</a>
 <a href="http://www.ncsy.org/">NCSY</a>
 <a href="http://www.ou.org/oupress/">OU Press Book Store</a>
@@ -712,60 +763,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="http://www.ou.org/holidays/">Jewish Holidays</a>
 <a href="http://www.ou.org/events/">OU Events</a>
 <a href="http://www.ou.org/holidays/calendar/">Jewish Calendar &amp; Zmanim</a>
-</div>	</div>
-	
+</div>		</div>
 	</div>
-
+	
 
 
 
 </div>
-
 </div>
-<!--Start of Zopim Live Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-$.src="//v2.zopim.com/?36WVzTlo5CUOD70OqIoInKFD08y7Wpls";z.t=+new Date;$.
-type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
-$zopim(function() {
-    $zopim.livechat.departments.filter('Kosher');
-    $zopim.livechat.departments.setVisitorDepartment('Kosher');
 
-  });
+<script>
+  window.intercomSettings = {
+    app_id: 'adc5vt5v',
+    "oukosher_org": 1
+  };
 </script>
-<!--End of Zopim Live Chat Script-->	
-
-
-
-<script>(function(){var SPTS,track;SPTS=(function(){function SPTS(id,path){this.id=id;this.server="https://visitorinsight.silverpop.com";this.path=path;s=document.createElement('script');s.src=this.server+this.path+"?id=f8af068\x2D1303250869e\x2Da7548a3fbbe3d9f8bac3b3472c6792ee";if(document.body){document.body.appendChild(s)}else{document.appendChild(s)}}return SPTS})();track=new SPTS('f8af068\x2D1303250869e\x2Da7548a3fbbe3d9f8bac3b3472c6792ee','/t.js')}).call(this);</script><script src="https://visitorinsight.silverpop.com/t.js?id=f8af068-1303250869e-a7548a3fbbe3d9f8bac3b3472c6792ee"></script>
-
-
-
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/adc5vt5v';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><script>(function(){var SPTS,track;SPTS=(function(){function SPTS(id,path){this.id=id;this.server="https://visitorinsight.silverpop.com";this.path=path;s=document.createElement('script');s.src=this.server+this.path+"?id=f8af068\x2D1303250869e\x2Da7548a3fbbe3d9f8bac3b3472c6792ee";if(document.body){document.body.appendChild(s)}else{document.appendChild(s)}}return SPTS})();track=new SPTS('f8af068\x2D1303250869e\x2Da7548a3fbbe3d9f8bac3b3472c6792ee','/t.js')}).call(this);</script><script src="https://visitorinsight.silverpop.com/t.js?id=f8af068-1303250869e-a7548a3fbbe3d9f8bac3b3472c6792ee"></script>
 <script type="text/javascript">
-adroll_adv_id = "IYEXJJUILJBC7ME7EVYZKZ";
-adroll_pix_id = "ZPIGJHS7XFG6HOTCHZQN5X";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
+    adroll_adv_id = "IYEXJJUILJBC7ME7EVYZKZ";
+    adroll_pix_id = "ZPIGJHS7XFG6HOTCHZQN5X";
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
 </script>
-
- 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"39f5db5367","applicationID":"5285029","transactionName":"ZFxaYEBXDEVSWxJYW10WeVdGXw1YHEgHVlE=","queueTime":0,"applicationTime":215,"atts":"SBtZFghNH0s=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+	
 
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"39f5db5367","applicationID":"5285029","transactionName":"ZFxaYEBXDEVSWxJYW10WeVdGXw1YHEgHVlE=","queueTime":0,"applicationTime":230,"atts":"SBtZFghNH0s=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
