@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funsubstance.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009084633id_/http%3A//funsubstance.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsubstance.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403220839id_/http%3A//funsubstance.com/page/privacy) for the most accurate reproduction.*
 
-# FunSubstance - Privacy Policy
+# FunSubstance - privacy
 
 Last Modified: 14 June 2012 **We take your privacy very seriously.**
 
