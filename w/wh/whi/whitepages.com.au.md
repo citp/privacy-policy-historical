@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002123105id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com.au privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403023137id_/http%3A//www.about.sensis.com.au/Privacy-Collection-Statement) for the most accurate reproduction.*
 
 # Sensis Privacy Policy
 
@@ -84,7 +84,7 @@ We also require our contracted service providers to comply with privacy and conf
   * companies involved in a sale of our company or assets
   * Telstra Corporation Limited (to help them provide directory assistance services like Directory Assistance (1223, 1234) and Call Connect (12456))
   * telephone service providers who supply customer data for publication in our directories, and
-  * our directories and syndication partners, as permitted in our [Product Contract Terms](https://web.archive.org/content/dam/sas/PDFdirectory/Sensis-Terms-Booklet.pdf).
+  * our directories and syndication partners, as permitted in our [Product Contract Terms](https://web.archive.org/assets/PDFdirectory/Sensis_Terms_Booklet.pdf).
 
 
 
@@ -92,7 +92,7 @@ When we do share your information with a third party, we apply rules to make sur
 
 ### Q: When might you transfer my personal information outside of Australia?
 
-**A:** In some situations your personal information might be transferred outside of Australia. This is usually for information management and storage purposes, and most commonly occurs in the Philippines, India, United States of America, Canada and Israel. It’s important to note this list may change depending on who we partner with. But we’ll do our best to update it here when this happens.
+**A:  **In some situations your personal information might be transferred outside of Australia. This is usually for information management and storage purposes, and most commonly occurs in the Philippines, India, United States of America, Canada, Israel and Denmark. It’s important to note this list may change depending on who we partner with. But we’ll do our best to update it here when this happens.
 
 We also take active steps to make sure any disclosure of your personal information to an overseas recipient complies with the Australian Privacy Principles.
 
@@ -126,7 +126,7 @@ Some Sensis apps might collect information about your location. This can help us
 
 ### Q: How do you handle information on my credit history?
 
-**A:** If we give you credit to buy our products and services, we might collect ‘credit information’ and ‘credit eligibility information’ as referred to in the Privacy Act.
+**A:  **If we give you credit to buy our products and services, we might collect ‘credit information’ and ‘credit eligibility information’ as referred to in the Privacy Act.
 
 We’ve arranged for Telstra to look after some of these credit operations. For this reason, information we collect on your credit may be provided to Telstra. 
 
