@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231020528id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstaramateurs.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404152455id_/http%3A//www.worldstaramateurs.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
