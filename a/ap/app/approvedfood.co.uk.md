@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approvedfood.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907232841id_/http%3A//www.approvedfood.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedfood.co.uk privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404201254id_/http%3A//www.approvedfood.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Approved Food
 
@@ -8,20 +8,20 @@ To be viewed along with our standard [Terms & Conditions](https://web.archive.or
 
   
 
-  1. By accessing any part of the Website, you shall be deemed to have accepted this?Privacy Policy in full.?If you do not accept these terms in full, you must leave the Website immediately.
+  1. By accessing any part of the Website, you shall be deemed to have accepted this Privacy Policy in full. If you do not accept these terms in full, you must leave the Website immediately.
   
 
   2. Approved Food may revise this policy at any time by updating this posting. You should check the Website from time to time to review the then current terms, because they are binding on you. Certain provisions of this policy may be superseded by expressly designated legal notices or terms located on particular pages on the Website.
   
 
-  3. Approved Food Ltd. operates websites with the following domains?approvedfood.co.uk and approvedfood.biz.
+  3. Approved Food Ltd. operates websites with the following domains approvedfood.co.uk and approvedfood.biz.
   
 
 
 
 **Controllers of Personal Information**
 
-Any personal information provided to or gathered by Approved Food is controlled by Approved Food Ltd., ?(the data controllers) at?Houghton Road,?North Anston Trading Est.,?Sheffield,?S25 4JJ, UK Fast acts as data processor on behalf of the data controllers.
+Any personal information provided to or gathered by Approved Food is controlled by Approved Food Ltd.,(the data controllers) at Approved Food, Parkway Close, Sheffield, S9 4WJ, UK Fast acts as data processor on behalf of the data controllers.
 
 **What Personal Information About Customers Does Approved Food Gather?**
 
@@ -31,7 +31,7 @@ Here are the types of information we gather.
 
   
 
-  * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way.?You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.
+  * **Information You Give Us:** we receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.
   
 
   * **Automatic Information:** we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "[cookies](https://web.archive.org/cookies)" and we obtain certain types of information when your Web browser accesses our websites.
@@ -44,7 +44,7 @@ Here are the types of information we gather.
 
 **What Information Can I Access?**
 
-Approved Food gives you access to a broad range of information about your account and your interactions with Approved Food for the limited purpose of viewing and, in certain cases, updating that information.?This list will change as our website evolves.
+Approved Food gives you access to a broad range of information about your account and your interactions with Approved Food for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our website evolves.
 
 ## Visitors to our websites
 
