@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206035629id_/http%3A//www.fxsound.com/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404032040id_/http%3A//www.fxsound.com/company/legal/privacy.php) for the most accurate reproduction.*
 
 # FXsound.com Privacy Statement
 
@@ -58,7 +58,7 @@ If you have any questions about this privacy statement, the practices of this We
 **Email:** [click here to send us email](http://www.fxsound.com/support/contact/index.php)
 
 **Mailing Address:**  
-Power Technology  
-100 N HILL DR STE 24  
-BRISBANE, CA 94005  
+FXsound  
+PO Box 1308  
+White Salmon, WA 98672  
 USA
