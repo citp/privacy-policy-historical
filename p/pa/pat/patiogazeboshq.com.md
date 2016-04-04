@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408075246id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404210649id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
 
 # Friends Of The Planet Privacy Policy
 
@@ -90,4 +90,4 @@ Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyoun
 
 * * *
 
-**Copyright 2008 - 2015[FriendsOfThePlanet.com](https://web.archive.org/contact-us.php?site=PatioGazebosHQ.com)**
+**Copyright 2008 - 2016[FriendsOfThePlanet.com](https://web.archive.org/contact-us.php?site=PatioGazebosHQ.com)**
