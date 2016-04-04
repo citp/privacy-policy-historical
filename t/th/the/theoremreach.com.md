@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoremreach.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029234706id_/http%3A//theoremreach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoremreach.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404092014id_/http%3A//theoremreach.com/privacy) for the most accurate reproduction.*
 
 # TheoremReach Consumer Sampling
 
@@ -51,12 +51,6 @@ We are sensitive to the privacy and security of your personal information. Howev
 ### Compliance with Legal Proceedings
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or legal process served to us.
-
-### TCPA Compliance
-
-We will never call you without your explicit consent to call you at the current time. Upon calling you we will connect you directly to one of our partner's upon confirmation of your willingness to take the call. In rare occasions where your number may be on the National Do Not Call Registry, we will again prompt you for your permission to call you and we will only connect you to our partner's call center if you agree. Some of our partners include:
-
-Health Benefits Center, Health Benefits One, Simple Insurance Leads, Insurance Services and Health Insurance Services
 
 ### Contact Information
 
