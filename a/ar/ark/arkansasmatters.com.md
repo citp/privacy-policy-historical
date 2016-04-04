@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117171518id_/http%3A//www.arkansasmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405011749id_/http%3A//www.arkansasmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Central Arkansas - Little Rock, Pine Bluff
 
