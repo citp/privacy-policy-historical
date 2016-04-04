@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315114234id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404060756id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
 
 # NPIdb - Privacy Policy
 
@@ -7,8 +7,13 @@ NPIdb.org respect your right to privacy. None of the information we collect is p
 **Data Collection**   
 We collect no data about you except for that captured by a cookie to provide us with anonymous information about site navigation. 
 
-**Cookies**   
-Cookies are small pieces of text information created by websites and stored on your computer. We only use cookies to provide us with anonymous information about site navigation. No other information is stored in cookies, and cookies are not used for any other purpose. You should also be aware that whilst the above paragraph describes our use of cookies, some advertisers on this site may also collect data using cookies. The use of cookies and/or web beacons to collect data is used in the ad serving process. We do not have access to this data. Google uses the DART cookie to serve ads to our users based on their previous visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
+**Cookies**
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+
+
 
 **Protection**   
 We will not retain any details that you provide, except for your email address if you contact us and this will never be disclosed to third parties. Customers are free to opt out of the news services by following the instructions on the bottom of each news email if subscribed to. 
