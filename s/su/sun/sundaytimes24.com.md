@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sundaytimes24.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210161039id_/http%3A//sundaytimes24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaytimes24.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404184445id_/http%3A//sundaytimes24.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | sunday times
+# Privacy Policy – sunday times
 
 This Privacy Policy governs the manner in which Sundaytimes24 collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.Sundaytimes24.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Sundaytimes24 .
 
