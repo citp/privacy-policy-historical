@@ -1,51 +1,49 @@
-> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207193556id_/http%3A//wouldyouhitthis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wouldyouhitthis.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404071105id_/http%3A//www.ihiphop.com/privacy-policy) for the most accurate reproduction.*
 
-# WouldYouHitThis? Privacy Policy
+# Privacy Policy
 
-Privacy Policy for WouldYouHitThis.com:
+**Privacy Policy**  
+Welcome to our website, [www.iHipHop.com](http://www.ihiphop.com/) and our affiliate sites. (the “Website”). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information.  This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
 
-WouldYouHitThis.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for WouldYouHitThis.com. 
+We encourage you to read this policy to learn more about the information we collect from you, how we use and protect the information we collect from you, how we protect children and how you can opt-out of receiving communications from us.
 
-Information Automatically Logged:
+If you have any questions about our collection and use of your information, please contact us at: [support@ihiphop.com](mailto:support@ihiphop.com), subject: Privacy Policy.
 
-Your IP address is automatically logged throughout this site. This information is only available to moderators of this site and is used to determine duplicate users and ban abusive accounts.
+**1\. The Information We Collect and How We Use it a.** Personally Identifiable Information We may collect personally identifiable information (“Personal Information”) such as your name, address, telephone number and e-mail address from you. Personal Information is collected via voluntary submissions from you in connection with signing up to become a Website user. If you do not want to provide us with your Personal Information, you may still access the Website but you may not be able to participate in all Website features, including, without limitation, participating in message boards, commenting, video chat, etc.
 
-Cookies:
+We do not share personally identifiable information with unrelated third parties for their own marketing purposes without your prior permission. We ask you to keep in mind that if you voluntarily disclose personal information online – for example, in a forum made available through the Website – that information can be viewed and used by others. We are not responsible for unsolicited messages you receive from other users. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any content you post to a public area of the Website may be used by us for any purpose in our sole discretion.
 
-Our Site uses cookies to save your login information so you do not need to enter it every time you come here. We also use cookies to save your voting preferences and history.
+Your Personal Information is used by us (i) to communicate with you; (ii) administer assistance to you when requested; and (iii) as may be required by applicable laws, rules or regulations, or the Terms of Use applicable to this Website located [here](http://www.ihiphop.com/?page_id=12703). We may share your Personal Information with third parties to further the purpose for which you provide us with such information, including, without limitation, to facilitate purchases you make via the Website. We may share your Personal Information with third parties if we believe that the law requires us to do, or to protect our own property or the property of our affiliates. Additionally, in the event of a corporate restructuring (such as, a sale, merger or other asset transfer), we may share your Personal Information with a third party.
 
-Advertisers:
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personally identifiable information collected by us
 
-This site delivers advertisements to its users from its advertising partners, who may set cookies. These cookies allow our advertising partners to recognize your computer each time they display an advertisement to you and determine which advertisements are clicked. WouldYouHitThis.com does not have access or control of cookies placed by our advertising partners.
+b. Non-Personally Identifiable Information Certain non-personally identifiable information (“Non-Personal Information”) about our visitors is collected by the standard operation of our Internet servers and through the use of “cookies”. A “cookie” is a small amount of data sent to your browser from a web server and stored by your computer. We may use cookies to customize your visit to the Website and for other purposes to make your visit more convenient or to enable us to enhance our service. You may, at any time, stop or restrict the placement of cookies on your computer or delete them from your browser by adjusting your web browser preferences, in which case you may still use the Website, but it may interfere with some of its functionality.
 
-Registration Forms:
+We do not use cookies to retrieve Personal Information from your computer, or use cookies to retrieve other information from your computer for purposes that are unrelated to the Website or your interaction with the Website. We reserve the right to disclose or utilize any of this information in aggregate form, for any purpose, in our sole judgment. The Non-Personal Information we collect is used by us to improve the content of our Website and enhance your experience. Third party advertisers that serve ads on the Website may also use their own cookies (see Paragraph 4 below).
 
-Our site's registration form requires users to give us contact information in the form of a valid e-mail address and a nickname for identification/login purposes. 
+You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your Personal Information and Non-Personal Information collected by us.
 
-Contact information from the registration forms is used to get in touch with the customer when necessary. 
+**2\. Protection for Children.** This Website is not intended for, and we have no intention of collecting personally identifiable information from, children under the age of 13. Additionally, if you are 13 years old or younger, you are not authorized to register or submit any content or information to this Website without the explicit consent of your parent or legal guardian. If you live in a state where consent of a parent or guardian is required if you are under the age of 18, you may be required by us to secure such consent prior to your registration with the Website. If a child under the age of 13 has provided us with personally identifiable information, that child’s parent or legal guardian should contact us if they would like the information submitted by the child deleted from the Website. We will use all reasonable efforts to delete such information from our Website database as soon as possible following our receipt of your request. To request such removal of your child’s information, you should contact us at: [support@ihiphop.com](mailto:support@ihiphop.com).
 
-A unique identifier (in the form of a user-selectable nickname) is collected from Web site visitors for use as an account identifier in our record system. 
+**3\. Opt-Out.** If you do not want to receive email or other communications from us, please do not join our community.
 
-External Links:
+**4\. Third Party Advertising.** The ads appearing on this Website are delivered to you by  variety of online advertising partners. Non-Personal Information about your visits to this site, such as number of times you have viewed an ad, is used by these partners to serve ads to you.
 
-This site contains links to other sites. WouldYouHitThis.com is not responsible for the privacy practices or the content of such web sites. 
+**5\. Security.** We are committed to using our best efforts to maintaining the security of your Personal Information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help protect and secure the information we collect. We strive to offer you a secure and safe environment for your online credit card purchases. Although we use our best efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website.
 
-Public Forums:
+**6\. Links to Other Websites.** This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites (including but not limited to advertizing partners). We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us via this Website.
 
-This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. 
+**7\. Offers and Promotions.** We may from time to time offer you opportunities that are sponsored entirely by us or co-branded with or sponsored by third parties. Such content may include contests, sweepstakes or promotions. In connection with such opportunities, the relevant third parties may obtain Personal Information that you voluntarily submit to participate in such opportunity. We have no control over the use by such third parties’ of such information.
 
-Children's Guidelines:
+**8\. Reviewing Your Information.** You may view your Personal Information at any time by logging in to your account and viewing your personal profile. You may also contact us as set forth in Paragraph 9 below with any questions about your Personal Information.
 
-This site is not intended for children under the age of 15. 
+**9\. Contact Us.** If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at [support@ihiphop.com](mailto:support@ihiphop.com) Subject: Privacy Policy.
 
-Data Quality/Access:
+**10\. Governing Law.** This Privacy Policy and our legal obligations hereunder are subject to the laws of the state of New York and the U.S.A., regardless of your location. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in Los Angeles, California, U.S.A. in all disputes arising out of or relating to the Services.
 
-This site gives users the following options for changing and modifying information previously provided: 
+Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://www.ihiphop.com/tos and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.
 
-You can visit the following URL: http://www.wouldyouhitthis.com/profile.php
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-Contacting the Web Site:
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-triumphmediasupport@gmail.com
+This Privacy Policy was last updated on May 5, 2014.
