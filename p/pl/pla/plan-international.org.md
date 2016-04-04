@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223114920id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404092541id_/https%3A//plan-international.org/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Plan International
 
