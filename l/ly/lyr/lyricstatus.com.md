@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910130322id_/http%3A//decoda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricstatus.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404171516id_/http%3A//decoda.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
