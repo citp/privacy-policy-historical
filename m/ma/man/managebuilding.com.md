@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managebuilding.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016140450id_/http%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managebuilding.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404085435id_/http%3A//www.buildium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Buildium
 
@@ -68,9 +68,9 @@ We will email you when we make any changes to our Privacy Policy. If we expand o
 
 ## Questions
 
-If you have any questions about our Privacy Policy, please [email us](http://www.buildium.com/contact-us/) or mail us at:
+If you have any questions about our Privacy Policy, please [email](http://www.buildium.com/contact-us/) or mail us at:
 
 Buildium, LLC  
 Privacy Department  
-38 Chauncy St, 12th Floor  
-Boston, MA 02111
+225 Franklin St, #350  
+Boston, MA 02110
