@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922090938id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsection.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404200000id_/http%3A//viralsection.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ViralSection
+# Privacy Policy
 
 At ViralSection.com we make sure that all the information you store with us is private and confidential. We never sell your data with anyone and hate spammer as much as you do.
 
