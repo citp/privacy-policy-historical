@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923015655id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcuts.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404160056id_/https%3A//www.designcuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Design Cuts
 
@@ -72,7 +72,8 @@ Design Cuts
 ADDLESTONE  
 WEYBRIDGE  
 KT15 2PS  
-Tel. 01932 268 809
+Tel. 01932 268 809  
+(Please note Design Cuts do not use agencies for recruitment and do not require any third party help for any recruitment we undertake)
 
 ### Your Consent
 
