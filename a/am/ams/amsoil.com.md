@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101163544id_/http%3A//www.amsoil.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405014348id_/http%3A//www.amsoil.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AMSOIL Online Privacy Policy
 
@@ -32,7 +32,7 @@ We may update this privacy policy from time to time... Check this page occasiona
 
 AMSOIL collects information from individuals who engage with us on the Internet via our websites and the websites of our associated brands. We also collect data from individuals who request more information, such as requesting that a catalog be mailed to them, and those who subscribe to our publications, download additional information from our website, interact with us on social media and enter our contests. Additional information is also requested from anyone who subscribes to services we provide. This information is gathered for the purposes of enhancing the customer experience at AMSOIL.com and our affiliated websites, and to continually improve the quality of our products and services for our customers. **AMSOIL does not sell information to outside parties at any time for any reason.** Additionally, users can adjust and remove information at their own discretion at any time by selecting the "Unsubscribe" or "Update my preferences" link included in every email. 
 
-##### back to top of page
+##### back to top __
 
 ####  What personal information does AMSOIL gather?
 
@@ -55,7 +55,7 @@ Examples of information you can access easily at AMSOIL.com include up-to-date i
 
 
 
-##### back to top of page
+##### back to top __
 
 ####  How can my visit be associated with personal information?
 
@@ -87,7 +87,7 @@ We partner with a third-party ad network to either display advertising on our we
 
 
 
-##### back to top of page
+##### back to top __
 
 ####  How does AMSOIL use information it collects?
 
@@ -117,37 +117,37 @@ We use credit card information solely to collect payment from you. We use a thir
 
 
 
-##### back to top of page
+##### back to top __
 
 #### Service Providers
 
 We may use third parties, such as independent companies or independent AMSOIL Dealers, to provide services to our customers and visitors to our websites. To this end, we may need to share your information with these third parties to provide information, products or services to you. Examples may include fulfilling orders and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies. 
 
-##### back to top of page
+##### back to top __
 
 #### Social Media Features
 
 Our websites include social media features, such as the Facebook™ Like® button, and widgets, such as the Share This button or interactive mini-programs that run on our sites. These features may collect your IP address and which page you are visiting on our sites. They also may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. This privacy policy does not apply to these features. Your interactions with these features are governed by the privacy policy and other policies of the companies providing them. 
 
-##### back to top of page
+##### back to top __
 
 #### External Websites
 
 Our websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners or their practices. This privacy policy does not apply to these other websites, which are subject to the policies of their respective owners. 
 
-##### back to top of page
+##### back to top __
 
 #### Retention of Personal Information
 
 We retain personal information that you provide us as long as we consider it potentially useful in contacting you about AMSOIL products and services, after which time we securely delete the information. You may opt out of individual subscriptions from us by using the Unsubscribe link in every email we send, and additional information control options are available by contacting our customer service department. 
 
-##### back to top of page
+##### back to top __
 
 #### International Transfer of Information
 
 To facilitate our global operations, we may transfer and access personal information provided from customers outside the United States. Requests received from international customers will be processed by the AMSOIL International division and may be fulfilled by the AMSOIL International distributor network. Any transfer of personal information as it pertains to their services will fall under third-party privacy policies, which are created and maintained in accordance with the local laws or regulations of their respective territories. 
 
-##### back to top of page
+##### back to top __
 
 #### Does AMSOIL share the Information it receives?
 
@@ -165,7 +165,7 @@ AMSOIL may occasionally use a third-party provider to manage a promotional conte
 
 
 
-##### back to top of page
+##### back to top __
 
 #### How secure is my information with AMSOIL?
 
@@ -181,7 +181,7 @@ A variety of sophisticated security measures are in place at AMSOIL to protect o
 
 
 
-##### back to top of page
+##### back to top __
 
 #### What Choices Do I Have?
 
@@ -201,7 +201,7 @@ A variety of sophisticated security measures are in place at AMSOIL to protect o
 
 
 
-##### back to top of page
+##### back to top __
 
 #### How can I Opt out of AMSOIL communications?
 
@@ -220,13 +220,13 @@ If you provide us with your personal information, you have the following rights 
 
 
 
-##### back to top of page
+##### back to top __
 
 #### AMSOIL Anti-SPAM Policy
 
 Our privacy policy requires that every email sent form AMSOIL have an "opt-out" mechanism and other required information. To opt out of individual newsletters please use the Unsubscribe link included in the email. However, you may still receive important customer information as it relates to your order or account. We are required to send out some email such as tax information by law; customers in our Dealer network cannot opt out of receiving these and other important communications. 
 
-##### back to top of page
+##### back to top __
 
 #### Is there someone I can contact for more information?
 
@@ -237,4 +237,4 @@ Attn: Communications Dept.
 925 Tower Avenue  
 Superior, Wisconsin 54880   
   
-##### back to top of page
+##### back to top __
