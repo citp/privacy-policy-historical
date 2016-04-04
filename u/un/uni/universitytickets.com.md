@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906203754id_/http%3A//www.universitytickets.com/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitytickets.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404091730id_/http%3A//www.universitytickets.com/downloads/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
