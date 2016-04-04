@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912194237id_/https%3A//www.cqu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqu.edu.au privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404060424id_/https%3A//www.cqu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - CQU
 
-CQUniversity is committed to protecting user privacy. CQUniversity understands and appreciates that visitors and users of this website are concerned about their privacy and the confidentiality and security of any information that may be provided to us.
-
-The Queensland Government has established a privacy regime for the Queensland public sector based on the 11 Information Privacy Principles set out in Commonwealth Privacy Legislation. These are contained in an Information Standard 42 that Queensland agencies are required to adhere to. A copy of this standard can be accessed at <http://www.qgcio.qld.gov.au/02_infostand/standards.htm>.
+CQUniversity is committed to protecting user privacy. CQUniversity understands and appreciates that visitors and users of this website are concerned about their privacy and the confidentiality and security of any information that may be provided to us. The University must comply with the _Information Privacy Act 2009 Qld_ which sets out the privacy regime and Information Privacy Principles that Queensland agencies are required to adhere to. 
 
 ## CQUniversity Website
 
@@ -34,24 +32,32 @@ In these circumstances, if you are concerned about transmitting information over
 
 CQUniversity uses a variety of technologies to secure the information we collect on our servers and to secure the transmission of information to our servers. However, there is always a small possibility that your information could be inadvertently disclosed. By using our sites, you agree that CQUniversity is not liable for the inadvertent or unintentional disclosure of your information.
 
-Information you choose to provide to us will be treated as a public record and will be retained as required by the _Public Records Act 2002_ and other relevant regulations. CQUniversity may be ordered by a court, law enforcement agency or regulatory agency with jurisdiction to disclose information. CQUniversity will comply with such requests and is not obligated to notify you of such disclosure. Some software components of our sites may write small files to your computer, known as cookies. These cookies are used to improve user experience and do not contain personally identifying information.
+Information you choose to provide to us will be treated as a public record and will be retained as required by the  _Public Records Act 2002 Qld  _and other relevant regulations. CQUniversity may be ordered by a court, law enforcement agency or regulatory agency with jurisdiction to disclose information. CQUniversity will comply with such requests and is not obligated to notify you of such disclosure. 
+
+Some software components of our sites may write small files to your computer, known as cookies. These cookies are used to improve user experience and do not contain personally identifying information.
 
 ### Authorised Users
 
-If you access CQUniversity sites using passwords, computers or network connections supplied by CQUniversity, CQUniversity will have additional information about you including your identity and your relationship to the University. Notwithstanding anything in this statement, this information may be used to assess compliance with relevant University policies on use of technology.
+If you access CQUniversity sites using passwords, computers or network connections supplied by CQUniversity, the University will have additional information about you including your identity and your relationship to the University. Notwithstanding anything in this statement, this information may be used to assess compliance with relevant University policies on the use of technology and university facilities.
 
-#### Access to Personal Information
+### Payments to the University
 
-Requests for access to personal information should be directed in writing to the University's Freedom of Information (FOI) Officer who will process the request in accordance with the Queensland _Freedom of Information Act 1992_. For more information, see <http://www.cqu.edu.au/compliance/FOI>.
-
-#### Payments to the University
-
-When you pay an account or purchase something through our website, your personal and financial details are protected at all stages of the transaction. In order to process your payment, the information requested consists of name, student number, phone number, and credit card details.
+When paying an account or purchasing something through our website, your personal and financial details are protected at all stages of the transaction. In order to process your payment, the information requested consists of name, student number, phone number, and credit card details.
 
 Credit card details may be encrypted and stored locally while the connection to the credit clearing house is made. Once the transactions are complete, the encrypted details are removed.
 
-The University accepts Mastercard, Bankcard, Visa and AMEX credit card payments by electronic means through our website and via the Australia Post automated telephone service. Electronic payments can also be made using the BPay facility. In instances whereby students do not have the ability to make payment by these methods, payments can be accepted over the telephone by Accounts Receivable or Student Service Line officers, or made in person at all Australia Post locations and CQUniversity Campuses. Accounts Receivable staff in Financial Services Division can provide further information on these services.
+### Email
 
-#### Contact Person - Privacy and Security
+Email correspondence sent to this site or the University will be treated as a public record and will be retained as required by the _Public Records Act 2002_   _Qld_ and other relevant regulations.
 
-If you have queries about our privacy and security practices, please contact the Governance Directorate on 07 4923 2551 or by email to [k.white@cqu.edu.au](mailto:k.white@cqu.edu.au) in the first instance.
+Unless specified, your name and address will not be added to a mailing list, nor will we disclose these details to third parties without your consent, unless required by law. However, email messages may be monitored by authorised information technology staff for purposes such as system troubleshooting and maintenance.
+
+## Access to Personal Information
+
+Requests for access to personal information should be directed in writing to the University's Right to Information Officer who will process the request in accordance with the Queensland  _Information Privacy Act 2009_. For more information, refer to our Right to Information page at <https://www.cqu.edu.au/about-us/structure/governance/right-to-information>.
+
+## Further Information
+
+Further details of the University’s compliance with the _Information Privacy Act 2009 Qld_  are provided in our [Information Privacy Policy and Procedure](http://policy.cqu.edu.au/).
+
+If you have queries about our privacy and security practices, or wish to make a complaint, please contact the Governance Directorate on 07 4923 2551 or by email to [privacyrti@cqu.edu.au](mailto:privacyrti@cqu.edu.au) in the first instance.
