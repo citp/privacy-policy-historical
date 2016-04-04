@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the theice.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905223533id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theice.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404225953id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Intercontinental Exchange: Privacy Policy
+
+Intercontinental Exchange
+
+Privacy Policy
 
 Last Update: June 4, 2014
 
@@ -23,14 +27,14 @@ _Information We Collect About You Automatically._ We and our third party service
 We primarily use your information to provide our services to you and to respond to your inquiries. We also may use your information as follows:
 
   * To communicate with you, including to respond to your comments or requests for information, to request feedback on our products and services, and to notify you about changes to subscriptions, services and products.
-  * To help us understand our customers, to tailor and enhance our product and service offerings, anticipate and resolve problems with any products or services supplied to you, create products or services that may meet your needs, communicate with you about our products and services, provide access to restricted pages or contents of the Website.
-  * To comply with legal and/or regulatory requirements.
-  * To facilitate your purchases and to identify you when you log into your account on our Website.
-  * For marketing and advertising purposes. For example, where permitted by applicable law, we will send you emails about products and services that we believe would be of interest to you, including products and services offered by third parties. We do not, however, share your information with third parties for their own marketing purposes. We also will use the information that we collect to evaluate the success of our advertising campaigns.
-  * For Website development, research, analytics, assessing patterns of use, regulatory purposes, planning and assessing marketing initiatives by ICE. 
-  * As required or permitted by law.
 
 
+* To help us understand our customers, to tailor and enhance our product and service offerings, anticipate and resolve problems with any products or services supplied to you, create products or services that may meet your needs, communicate with you about our products and services, provide access to restricted pages or contents of the Website.
+* To comply with legal and/or regulatory requirements.
+* To facilitate your purchases and to identify you when you log into your account on our Website.
+* For marketing and advertising purposes. For example, where permitted by applicable law, we will send you emails about products and services that we believe would be of interest to you, including products and services offered by third parties. We do not, however, share your information with third parties for their own marketing purposes. We also will use the information that we collect to evaluate the success of our advertising campaigns.
+* For Website development, research, analytics, assessing patterns of use, regulatory purposes, planning and assessing marketing initiatives by ICE. 
+* As required or permitted by law.
 
 You have the option of disabling cookies and of opting out of certain tracking for advertising purposes. However, we currently do not honor browser requests not to be tracked. 
 
