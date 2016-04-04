@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slush.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050510id_/https%3A//www.iubenda.com/privacy-policy/879560/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slush.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404200806id_/https%3A//www.iubenda.com/privacy-policy/879560/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of slush.org
 
@@ -12,7 +12,7 @@ Information collected automatically from this Application (or third party servic
 
 #### User
 
-The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.
+The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refers.
 
 #### Data Subject
 
@@ -30,7 +30,7 @@ The natural person, legal person, public administration or any other body, assoc
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User's device.
 
