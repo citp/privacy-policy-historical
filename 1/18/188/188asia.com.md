@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316084721id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404221504id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 188BET – Corporate Affairs - 188BET
 
@@ -127,7 +127,7 @@ ACCESS TO YOUR PERSONAL INFORMATION AND YOUR RIGHTS
 
 You have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. The current fee for information requests is £10.
 
-Please address requests to the Data Protection Officer, Cube Limited, Clinch's House, Lord Street, Douglas, Isle of Man, IM1 1JD. You should:
+Please address requests to the Data Protection Officer, Cube Limited, Ground Floor, St George’s Court, Upper Church Street, Douglas, Isle of Man, IM1 1EE. You should:
 
   * put your request in writing
   * include proof of your identity and address (e.g. a certified copy of your driving licence or passport and a recent utility or credit card bill)
@@ -159,7 +159,7 @@ We may share your personal data with organisations who are our business partners
 
 If you prefer not to receive any further marketing communications from us, you can opt out at any time. See further “Access to your personal information and your rights” above.
 
-Un-subscription from receiving any marketing material may take up to five (5) working days to take effect.
+Un-subscription from receiving any marketing material may take up to two (2) business days to take effect
 
 COOKIES
 
@@ -173,14 +173,16 @@ WHO ARE WE?
 
 Cube Limited
 
-Clinch's House
+Ground Floor
 
-Lord Street
+St George's Court
+
+Upper Church Street
 
 Douglas
 
 Isle of Man
 
-IM1 1JD
+IM1 1EE
 
 Last updated on 07 March 2014 12:01 (GMT-4)
