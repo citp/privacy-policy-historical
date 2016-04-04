@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908051439id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404101945id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Carrotink.com
+# Privacy Policy | Carrot Ink
 
 **Privacy Policy - Effective January 27, 2012**
 
