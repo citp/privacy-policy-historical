@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacktryst.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417160542id_/http%3A//www.blacktryst.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacktryst.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404021409id_/http%3A//www.blacktryst.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Black Singles | Hot Black Girls, Women | Local Hookup | BlackTryst
 
@@ -142,7 +142,7 @@ BlackTryst
 2nd Floor  
 13 Upper Baggot Street  
 Dublin 4, Ireland  
-Telephone: +353.15262707 Fax: +353.16335198 
+Telephone: +353.15262707 Fax: +353.16335198' 
 
 ## 18) Dispute Resolution 
 
