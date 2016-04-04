@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080040id_/http%3A//www.babycenter.ca/e7814/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.ca privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404052917id_/http%3A//www.babycenter.ca/e7814/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BabyCenter Canada
 
@@ -92,3 +92,5 @@ U.S.A.
 ## Changes to This Privacy Policy
 
 If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy (v 1.0) was last updated on September 20, 2005.
+
+Last reviewed June 2014
