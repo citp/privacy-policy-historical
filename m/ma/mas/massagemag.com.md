@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagemag.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009201000id_/http%3A//www.massagemag.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagemag.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404051325id_/https%3A//www.massagemag.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - MASSAGE Magazine
 
@@ -64,4 +64,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.massagemag.com](http://www.massagemag.com/) 5150 Palm Valley Rd Ponte Vedra Beach, Florida 32082 [webmaster@massagemag.com](mailto:webmaster@massagemag.com)
+[www.massagemag.com](https://www.massagemag.com/) 820 A1A North, Suite W18 Ponte Vedra Beach, Florida 32082 [webmaster@massagemag.com](mailto:webmaster@massagemag.com)
