@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316175215id_/https%3A//www.biggerbids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbids.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404131350id_/https%3A//www.biggerbids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BiggerBids
+# Privacy Policy
 
 ## BiggerBids.com Privacy Policy
 
