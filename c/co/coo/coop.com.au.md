@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930190220id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404122943id_/http%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Coupon Deals
 
 This Privacy Policy applies to The University Co-operative Bookshop Limited trading as The Co-op (The Co-op) and each of its related bodies corporate (as defined in the Corporations Act 2001 (Cth)), who are collectively referred to as "the Co-op", "we” or "us". Our contact details are:
 
