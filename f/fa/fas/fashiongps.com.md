@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashiongps.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318195219id_/http%3A//www.fashiongps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongps.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404231459id_/http%3A//www.fashiongps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion GPS
+# Fashion GPS Privacy Policy | Fashion Technology & Software
 
 ## Fashion GPS Privacy Policy 
 
-This Privacy Policy describes the policies and procedures of Fashion GPS, Inc. (“ _we_ ”, “ _our_ ” or “ _us_ ”) on the collection, use and disclosure of your information on www.fashiongps.com (the “ _Site_ ”). We receive information about you from various sources, including: ( _i_ ) certain contact information and other information about yourself when you make an inquiry on the Site, and ( _ii_ ) your use of the Site generally. When you make an inquiry or otherwise use the Site, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
+This Privacy Policy describes the policies and procedures of Fashion GPS, Inc. (“ _we_ ”, “ _our_ ” or “ _us_ ”) on the collection, use and disclosure of your information on www.fashiongps.com and launchmetrics.com (the “ _Site_ ”). We receive information about you from various sources, including: ( _i_ ) certain contact information and other information about yourself when you make an inquiry on the Site, and ( _ii_ ) your use of the Site generally. When you make an inquiry or otherwise use the Site, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
 
 **What Does This Privacy Policy Cover?**
 
