@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114012931id_/http%3A//sweetpeasandsaffron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404105503id_/http%3A//sweetpeasandsaffron.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sweet Peas and Saffron
+# Privacy Policy | Sweet Peas And Saffron
 
 This privacy policy sets out how Sweet Peas & Saffron uses and protects any information that you give while using www.sweetpeasandsaffron.com
 
