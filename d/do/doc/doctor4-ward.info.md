@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctor4-ward.info privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813082030id_/http%3A//doctor4-ward.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctor4-ward.info privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404234437id_/http%3A//doctor4-ward.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doctor 4 Ward
 
