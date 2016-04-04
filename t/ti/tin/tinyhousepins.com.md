@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyhousepins.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004703id_/http%3A//tinyhousepins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhousepins.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404233543id_/http%3A//tinyhousepins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer, Usage Policy & DMCA Policy | Tiny House Pins
 
@@ -77,7 +77,7 @@ The following elements must be included in your copyright infringement claim:
 You can send the infringement notice to the address below:  
 DMCA Registered Agent  
 Tiny House Media LLC  
-857 3rd ST S  
+300 5TH AVE S #332  
 Naples, FL 34102  
 United States
 
