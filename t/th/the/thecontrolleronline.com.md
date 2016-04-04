@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontrolleronline.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901080151id_/http%3A//thecontrolleronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontrolleronline.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404183942id_/http%3A//thecontrolleronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Controller Online
 
@@ -36,7 +36,7 @@ _
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.thecontrolleronline.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
 
-www.thecontrolleronline.com has no access to or control over these cookies that are used by third-party advertisers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20150901080151id_/http://thecontrolleronline.com/privacy-policy/To%20learn%20more%20about%20this%20behavioral%20advertising%20practice%20or%20to%20opt-out%20of%20this%20type%20of%20advertising,%20you%20can%20visit%20http://www.networkadvertising.org/managing/opt_out.asp.).
+www.thecontrolleronline.com has no access to or control over these cookies that are used by third-party advertisers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20160404183942id_/http://www.thecontrolleronline.com/privacy-policy/To%20learn%20more%20about%20this%20behavioral%20advertising%20practice%20or%20to%20opt-out%20of%20this%20type%20of%20advertising,%20you%20can%20visit%20http://www.networkadvertising.org/managing/opt_out.asp.).
 
 **Third Party Privacy Policies**
 
