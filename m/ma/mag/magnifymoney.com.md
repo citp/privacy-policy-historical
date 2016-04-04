@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnifymoney.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230231814id_/http%3A//www.magnifymoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnifymoney.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404172123id_/http%3A//www.magnifymoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MagnifyMoney
 
