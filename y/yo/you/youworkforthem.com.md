@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youworkforthem.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910175013id_/https%3A//www.youworkforthem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youworkforthem.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404201734id_/https%3A//www.youworkforthem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YouWorkForThem
 
@@ -20,7 +20,7 @@ The personal information that you provide is protected in several ways. Access b
 
 ### Use of cookies
 
-When you visit YouWorkForThem,com, you can use the site anonymously and access most information without revealing your identity. In order to enable our shopping cart, we use 'cookies' for automated administration purposes. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your id card, helping to correlate your passwords, purchases, and preferences to your personal browser. It cannot be executed as code or deliver any type of viruses. 
+When you visit YouWorkForThem.com, you can use the site anonymously and access most information without revealing your identity. In order to enable our shopping cart, we use 'cookies' for automated administration purposes. A cookie is small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It functions as your id card, helping to correlate your passwords, purchases, and preferences to your personal browser. It cannot be executed as code or deliver any type of viruses. 
 
 Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the option to decide whether or not to accept it. (For web pages that require an authorization, cookies are not optional. Users who choose not to accept cookies will not be able to use all functions properly.) 
 
