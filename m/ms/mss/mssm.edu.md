@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssm.edu privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128195927id_/http%3A//www.mountsinaihealth.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssm.edu privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404193538id_/http%3A//www.mountsinaihealth.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Mount Sinai Health System
 
