@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317115619id_/https%3A//swiftmoney.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404221326id_/https%3A//swiftmoney.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Swift Money
 
 Your Privacy is very important to us. In order to ensure that your personal information is protected while visiting SwiftMoney, we adhere to all practices outlined within the Data Protection Act of 1998. On this page, you will find detailed information on the data and information we may have about you, as well as the steps we take to handle your privacy. The information within this page applies to current and past web users of SwiftMoney. Swift Money reserves the right to change or update our Privacy Policy at any time with or without notice. 
 
