@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myshadow.org privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919010352id_/https%3A//myshadow.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshadow.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404231213id_/https%3A//myshadow.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Me and My Shadow
+# Privacy Policy | Me and my Shadow
+
+# Privacy Policy
 
 Myshadow.org Privacy Policy explains how Myshadow.org gathers and uses Users data when they visit Myshadow.org. 
 
