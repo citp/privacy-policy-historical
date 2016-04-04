@@ -1,81 +1,70 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060303id_/https%3A//www.winndixie.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213206id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Welcome to Winn-Dixie! - Privacy Policy
+# Privacy Policy | Policies | Winn-Dixie
 
-## Our Commitment to Privacy
+Winn-Dixie is committed to protecting the privacy of its customers, and we pledge to protect the security and privacy of your personal information. By viewing this website ([www.winndixie.com](https://web.archive.org/)), Winn-Dixie’s mobile applications, Winn-Dixie’s loyalty programs, or Winn-Dixie’s social media (collectively, the “Digital Marketing Program”), you acknowledge our information collection, use, storage and disclosure practices (collectively, “Privacy Practices”) and consent to the terms of this Privacy Policy. For the purpose of this Privacy Policy, “Winn-Dixie”, “we”, “our”, or “us” refers to Winn-Dixie Stores, Inc., a Florida corporation, and includes all of our Affiliates (as defined below). 
 
-Winn-Dixie supports the consumer's right to privacy. We pledge never to knowingly loan, sell, rent or otherwise make available any personally identifiable information to third parties unrelated to improving the ways in which we serve you.
+This Privacy Policy must be read in conjunction with Winn-Dixie’s [Terms of Use](https://web.archive.org/about/terms-of-use). 
 
-This notice was developed to help better protect your privacy by explaining our online information practices and to inform you of the choices you have about the way your information is collected and used. This notice is specific to the Winn-Dixie.com website only. To make this notice easy to find, we have placed a link at the bottom of our website's pages.
+### Types of Information
 
-## The Information We Collect and How it is Used
+You have no obligation to provide personal information to Winn-Dixie. Use of the Digital Marketing Program, shopping at our stores, and participation in various Winn-Dixie initiatives (including, without limitation, the Customer Reward Card program, promotions, surveys, polls, and sweepstakes), however, may require disclosure of personal information. The types of information you may provide to Winn-Dixie include: (i) personally identifiable information (“PII”) and (ii) other nonidentifiable information (“Non-PII” and together with “PII”, “Customer Information”). PII is information that could reasonably be used to identify you, including, without limitation, your name, address, e-mail address(es), telephone number(s), birth date, financial information (including credit and debit card information), household information, demographic information, and photograph. Non-PII is information that does not identify you and may include statistical information concerning use of the Digital Marketing Program. 
 
-**Information You Provide Us**  
-While using our websites, you may provide us with information when you place an order online, register with our website, submit a comment through our online comment form, enter an online sweepstakes, submit a resume, apply for a Customer Reward Card online, request a replacement Customer Reward Card online, update your Customer Reward Card information online, or enroll in a Reward Club online. The types of information that may be collected on these pages include:
-
-  * **Your name** \- to personalize communications to you.
-  * **Your address** \- to contact you in response to comments or orders you submit, send you orders you've placed, forward any prizewinners documentation for online sweepstakes you have entered, as well as send you special offers if you choose to receive communication from us.
-  * **Your phone number** \- to contact you in response to comments, orders, and sweepstakes entries that you submit
-  * **Your e-mail address** \- to contact you in response to comments or orders you submit, or to send you special offers via e-mail if you choose to receive communication from us. Your Customer Reward Card number - to provide you with personalized offers and allow entry into online sweepstakes.
-  * **Your credit/debit card information** \- to process orders placed online.
-  * **Your baby's name and gender** (Baby Rewards Club enrollment only) - to personalize communications or offerings for your baby.
-  * **Your baby's birth date** (Baby Rewards Club enrollment only) - to provide you with age-appropriate materials and offers.
+### Use of Information  
 
 
+Winn-Dixie may use Customer Information, or any part thereof, to: (i) complete and manage purchases, orders, returns, and exchanges; (ii) send promotional and marketing communications to you regarding Winn-Dixie and its products and services; (iii) data share with our Affiliates and business partners; (iv) send coupons, mobile coupons, newsletters, e-mails, and mobile messages; (v) conduct research and analysis; (vi) administer contests and sweepstakes; (vii) create personalized content, offers, services, and advertising; (viii) prevent fraudulent transactions and theft; and (ix) comply with applicable law, governmental request, court order, or otherwise protect the rights, property, or safety of Winn-Dixie or others. Winn-Dixie may use Non-PII to analyze trends and track navigation within the Digital Marketing Program. 
 
-These are in addition to any other information you provide us. This information may also be used to provide you with newsletters, magazines, coupons, special offers, to improve customer service, maintain proper inventories, lower costs, and to create special merchandising and marketing programs for shoppers who desire to participate.
+### Cookies
 
-There are also sections of the website where you may submit information about someone else. For example, if you order a gift card online and would like it delivered to another recipient, we would need to collect the following information about the recipient:
+We may use cookies (a small, unique identifier text file), web beacons (a small graphic), and other technologies to receive and store certain types of information whenever you interact with the Digital Marketing Program through your computer or your internet-enabled device. The purpose of this technology is to identity you when you visit the Digital Marketing Program so that we can enhance and customize your online experience. You may set your browser so that it does not accept cookies. You may also manually delete cookies from your computer. For more information on how to disable cookies, you should consult with the provider of your browser services. If you disable cookies, however, portions of the Digital Marketing Program may not function properly.
 
-  * **Recipient's name** \- _to properly address the recipient of the gift._
-  * **Recipient's address** \- _to ship the gift to._
-  * **Recipient's phone number** \- _to notify the recipient in case of delivery problems._
+We may collect certain technical information from your computer or internet-enabled device when you visit our websites and other areas within our Digital Marketing Program, including, without limitation, your Internet Protocol (IP) address, your computer’s operating system, browser type, and any referring website address. We use this information to enhance your experience during your visit to our websites and other areas within our Digital Marketing Program and for system administration, security, and troubleshooting purposes.
 
+We may use third-party software to provide advertisements on the Digital Marketing Program, implement e-mail marketing campaigns, and manage other interactive marketing initiatives.
 
+### Social Media
 
-**Anonymous Information**  
-This type of information is collected on all visitors to our web site, but is not used to identify individual customers. Anonymous information may include aggregate information of the number of customers utilizing different services on our web site, as well as the frequency of their visits. We may then use this information to help improve the hardware and/or software that runs on our site.
+The Digital Marketing Program may include social media features and widgets, including Facebook, Pinterest, and Twitter. Social media features and widgets are subject to their own privacy policies. We encourage you to read each social media company’s privacy policy before using the features or widgets. 
 
-**IP Addresses**  
-If you utilize one of our online forms to submit comments or an application to us, Winn-Dixie.com may collect information that includes your Internet provider's (IP) address, the type and version of your web browser. By analyzing this type of information, we can more easily diagnose problems with our site as well as provide a means to monitor traffic throughout the site. This type of information does not contain any personally identifiable information.
+### Mobile Applications
 
-**Cookies**  
-In an effort to provide a more enhanced and customized experience while browsing Winn-Dixie.com, Winn-Dixie may place a "cookie" on your computer when you visit our site. A cookie is a unique set of data assigned to only you and placed in a text file that is stored on your computer. Since cookies are text files, they cannot "run" nor track your usage of other Web sites or the Internet.
+Our mobile applications may collect certain information from you automatically, including, without limitation, the type of mobile device, the Internet Protocol (IP) address of your mobile device, your mobile operating system, and the location of your mobile device (provided that you give permission for the application of location services). You can stop the collection of information via your mobile device by uninstalling the mobile applications (or, to discontinue the location information only, you can adjust your permission settings in your mobile device.
 
-Using cookies allows Winn-Dixie.com and to "remember" what it has done for you, and to keep track of information that you may have provided to Winn-Dixie.com. Among other things, Winn-Dixie.com may use these cookies to display promotions and events that are unique to your geographical location, remember your Customer Reward Card number so you don't have to enter it each time you visit our site, and remember the store you tell us you shop at most to make it even more convenient to get your store's ad circulars online.
+### Pharmacy Records
 
-Under the "Help" menu of most browser toolbars, you may find information on how to prevent your browser from accepting cookies or how to notify you if a site is trying to write a cookie to your site. However, cookies enable you to take full advantage of some of the great features on our website, so we recommend that you leave them turned on.
+Winn-Dixie takes special precautions with your pharmacy records. See our Pharmacy Notice of Privacy Practices for additional information. 
 
-## What Choices Do You Have?
+### Privacy of Children
 
-You may choose not to receive communications from us by either mail or e-mail by simply updating your preferences on your Customer Reward Card application or by unsubscribing to an e-mail that you may receive. To change your communications preferences on your Customer Reward Card application, please select "Update Information" under the "Reward Card" section on the left column of the website, then complete your information and click the button next to "No, don't send me mailings about unadvertised specials or personal offers." You may also call us at
+In an effort to comply with the Children’s Online Privacy Protection Act, we ask that children under the age of thirteen (13) not provide any PII on the Digital Marketing Program. If you are a parent or guardian of a child under the age of thirteen (13) and you believe that your child has provided PII to Winn-Dixie, please [Contact Us](https://web.archive.org/about/contact). 
 
-## **1-866-WINN-DIXIE (1866- 946-6349).**
+### In-Store Cameras
 
-## Sharing With Other Companies
+We use in-store cameras for security and operational purposes, such as tracking stock levels and measuring traffic patterns. 
 
-Winn-Dixie Stores, Inc. may provide personally identifiable information to outside vendors for analysis, verification, revision, consolidation or storage, but only to enable Winn-Dixie to use the information more effectively in serving its customers. We may also provide this information to regulatory, law enforcement or other governmental entities upon proper request. Under an appropriate contract, Winn-Dixie may make personally identifiable information available to a third party so the third party may join with or assist Winn-Dixie in providing promotions or services to our customers. In any case, Winn-Dixie does not make personally identifiable information available to a third party (other than a governmental entity) unless it has entered into a contract with Winn-Dixie that requires it to maintain security procedures to prevent unauthorized access to the information.
+### Links
 
-It is not unusual for companies to consolidate their operations in new corporate structures, to merge with other corporations, or to transfer ownership of a business unit so that it can continue to function under a new owner. Winn-Dixie pledges that it will never transfer your personally identifiable information to such a new owner or corporate entity except under a contract that requires the new owner or entity to continue to abide by our promises to you above. Winn-Dixie is not obligated to observe the above restrictions when providing non-personally identifiable compilations of information to third parties.
+The Digital Marketing Program may contain links to other websites that we do not control. We are not responsible for the privacy practices of any linked website. Any Customer Information you provide when accessing a third-party website is subject to that third-party’s privacy policy. We do not control the use of Customer Information that you provide to third-parties, and we assume no responsibility for your sharing information with them. 
 
-## Our Commitment to Children's Privacy
+### Opt-Out
 
-We recognize the importance of protecting the privacy whenever children are involved. Winn-Dixie.com does not knowingly collect or maintain personally identifiable information from children under the age of 13.
+If you do not wish to receive catalogs, coupons, and other promotional mail, promotional telephone calls or promotional e-mail, please [Contact Us](https://web.archive.org/about/contact). 
 
-## Our Commitment to Data Security
+### Data Security
 
-Winn-Dixie Stores, Inc. maintains strict security procedures, including physical, electronic and managerial, to prevent unauthorized access to personal information.
+We maintain strict security protocols, including physical, electronic and procedural safeguards, to protect Customer Information. These protocols include compliance with federal law and regulations and the use of Secure Socket Layer (SSL) encryption to prevent any loss, misuse, unauthorized access, or disclosure of your personal information. Although we strive to maintain data security, we do not guarantee or warrant its security. 
 
-Our website uses Secure Socket Layering (SSL) to encrypt your credit information, including your credit card number, before it is transferred over the Internet. Because we use SSL, you can be confident that your online order is as safe as placing a credit card order over the phone.
+### Updates to Privacy Policy
 
-## Links To or From Other Websites
+From time to time, we may modify this Privacy Policy to reflect industry initiatives or changes in the law, technology, Winn-Dixie’s Privacy Practices, or the features of the Digital Marketing Program. All modifications and updates shall be effective upon posting. Your continued use of the Digital Marketing Program after we post an updated Privacy Policy signifies your acceptance of the new Privacy Policy. You should review this Privacy Policy regularly to ensure that you are aware of any changes. 
 
-Winn-Dixie.com may offer links to other websites not owned or operated by Winn-Dixie Stores, Inc. These web sites have their own policies regarding Privacy and Terms of Use. If you visit one of these web sites, we encourage you to review the privacy policy on their site.
+### Winn-Dixie Affiliates
 
-## Privacy Policy Changes
+The term “Affiliates” shall mean all current or future companies or entities that now or that are in the future: (a) controlled by; (b) under common control with; or (c) controlling Winn-Dixie, wherein “control” means possession directly or indirectly of the power to direct or cause the direction of management or policies of an entity through the ownership of at least fifty percent (50%) of the voting securities, by contract, or otherwise. 
 
-This privacy statement was last updated on Winn-Dixie.com on September 29, 2004. Winn-Dixie Stores, Inc. reserves the right to change, modify or append this policy at any time, so we encourage you to review it periodically.
+### Contact Us
 
-## Questions
+If you would like to communicate with Winn-Dixie about this Privacy Policy, please feel free to [Contact Us](https://web.archive.org/about/contact).
 
-If you have questions regarding our Privacy Policy, please feel free to [contact us.](https://web.archive.org/AU/Page/ContactUs.aspx)
+Copyright © Winn-Dixie Stores, Inc. All rights reserved.
