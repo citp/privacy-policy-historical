@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chefslives.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203195901id_/http%3A//chefslives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefslives.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404113648id_/http%3A//chefslives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chefs' Lives
 
