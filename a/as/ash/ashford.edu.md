@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052455id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404081427id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
 
 # UPDATED Privacy Policy | Ashford University
 
@@ -16,7 +16,7 @@ This Privacy Policy was last updated on January 15, 2014.
 
 The Family Educational Rights and Privacy Act ("FERPA") and our own FERPA compliance policy govern the educational records of Ashford University students. This Privacy Policy, and, to the extent applicable, FERPA govern the collection and use of information through the Ashford University Site. Please note that FERPA is applicable to information you provide only if you are or become a student of Ashford University. FERPA permits the disclosure of "directory information." Ashford University may use and disclose directory information that you provide, in the manner provided by this Privacy Policy for the use and sharing of personally identifiable information. "Directory information" means your name, address, telephone listing, electronic mail address, photograph, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, grade level, enrollment status (e.g., undergraduate or graduate, full-time or part time), degrees, honors and awards received, class rosters within the classroom, and the most recent educational agency or institution you attended. If you do not want such information about you to be disclosed, please contact us at [student.records@ashford.edu](mailto:student.records@ashford.edu). Please note that you may opt out of disclosure of this information only if you are now or become a student of Ashford University.
 
-For Ashford University’s full FERPA policy, please refer to the Ashford University Academic Catalog?
+For Ashford University’s full FERPA policy, please refer to the Ashford University Academic Catalog.
 
 ## What personal information do we collect at this site?
 
@@ -69,7 +69,7 @@ In the course of enforcing Ashford University’s policy on academic integrity, 
 
 ## How does Ashford University protect personal information? 
 
-Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alternation or destruction of data, we try to prevent such occurrences. Our servers and databases are protected by firewalls and passwords. In addition, we use Secure Sockets Layer (SSL) software to encrypt data as it travels between your computer and our servers.
+Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alteration or destruction of data, we try to prevent such occurrences. Our servers and databases are protected by firewalls and passwords. In addition, we use Secure Sockets Layer (SSL) software to encrypt data as it travels between your computer and our servers.
 
 You are responsible for helping to keep your student account secure. You should use appropriate and reasonable practices to keep your account access credentials (including your username, password, and any other names, numbers, or codes used to access resources on or through the Site) secure and never share your account access credentials, including your password with anyone else. Another person who has access to your account access credentials and password may be able to view your personal information, make changes to your personal information or post information and comments to class discussion forums as if that person were you.  
 
