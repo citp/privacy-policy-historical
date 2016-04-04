@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaeexpoonline.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202232555id_/http%3A//www.uaeexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexpoonline.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404050914id_/http%3A//uaeexpoonline.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
