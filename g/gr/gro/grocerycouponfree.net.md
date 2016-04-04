@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2015-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151129030325id_/http%3A//grocerycouponfree.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404225622id_/http%3A//grocerycouponfree.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Printable Grocery Coupons | GroceryCouponFree.net
 
