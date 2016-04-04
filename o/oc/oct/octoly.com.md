@@ -1,68 +1,97 @@
-> *The following text is extracted and transformed from the octoly.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414180608id_/https%3A//www.octoly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octoly.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404215053id_/https%3A//www.octoly.com/privacy) for the most accurate reproduction.*
 
 # Octoly.com
 
-Effective Date: January 2nd, 2015
+Protecting your private information is Octoly's priority. This Statement of Privacy governs the use of Octoly.com ("Website") and the services related to or offered on the Website (hereinafter, the "Services"), and governs data collection and usage by Octoly, Inc. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Octoly" will include Octoly.com, Octoly, Inc. and its affiliates. The Octoly website is a business networking and ecommerce site. By using the Website or Services, you consent to the data practices described in this statement.
 
-This Privacy Policy governs our policies and practices with respect to the personally identifiable information ("Personal Information") and other data that is collected by The Octoly Project, Inc. ("Octoly", "we", "us" and/or "our") in connection with our website, located at http://www.Octoly.com (the "Site" and “the Service"). 
+## Collection of your Personal Information
 
-By using our Services you are consenting to our processing of your Personal Information and data as set forth in this Privacy Policy now and as amended. As used herein, "processing" means using or accessing information in any way, including, but not limited to, collecting, storing, deleting, combining and disclosing information. Our servers are located in the United States. Accordingly, if you reside outside the United States, by using the Services, you acknowledge and agree that your Personal Information will be transferred to the United States, and processed and stored in the United States. By using our Services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy. 
+Octoly may collect personally identifiable information, such as your name, address, email address ("Personal Information"). If you purchase Octoly's products and Services, we collect billing and credit card information. This information is used to complete the purchase transaction. Octoly may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income and race. We may gather additional personal or non-personal information in the future. Your Personal Information will be processed by Octoly in and/or outside of the United States.
 
-## INFORMATION COLLECTION AND USE
+If you access or log-in to the Website and/or Services through a social media or other service or connect the Website and/or Services to a social media or other service, the information Octoly collects may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with Octoly, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Website and/or Services through social media services or when you connect the Website and/or Service to social media services, you are authorizing Octoly to collect, store, and use such information and in accordance with this Privacy Policy.
 
-**A Note About How Octoly Works:** Octoly analyzes data that is made available publicly through the Internet in order to measure influence for Internet users, including, but not limited to, our registered users. Octoly presents some of this data on the Site, such data may also be available on other websites and Octoly may share this data with our third party partners (as described in more detail below). Octoly does not analyze non-public data from private networks (in other words, networks that are password-protected) unless you authorize us to access such data. 
+Information about your computer hardware and software may be automatically collected by Octoly. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Octoly website.
 
-**Information Collected Upon Registration:** If you desire to have access to certain restricted sections of the Services and/or to have access to or use of certain parts of the Services, you will be required to become a registered user, and to submit certain Personal Information to Octoly. Personal Information that we may collect in such instances may include your full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Octoly's public message boards, this information may be collected and used by others.
 
-With respect to the Octoly Service specifically, providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find opportunities in the Octoly system. 
+Octoly encourages you to review the privacy statements of websites you choose to link to from Octoly so that you can understand how those websites collect, use and share your information. Octoly is not responsible for the privacy statements or other content on websites outside of the Octoly website.
 
-**Geo-location Data:** Octoly receives location information from the Social Media Services (as defined below) that you enable within the Services and also (with your permission) from your mobile device ("Geo-location Data"). We use Geo-location Data to: 
+## Use of your Personal Information
 
-  * complete your Octoly profile (for example, to indicate that you are located in France
-  * customize the Services to make them more relevant to you
+Octoly collects and uses your personal information to operate its website(s) and deliver the Services you have requested.
 
+Octoly may also use your personally identifiable information to inform you of other products or services available from Octoly and its affiliates. Octoly may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
+Octoly does not sell, rent or lease its customer lists to third parties.
 
-**Log Data:** When you interact with the Site or use our Services, our servers automatically receive and store certain personally non-identifiable information ("Log Data"). This Log Data is collected passively and may include information such as your IP address, browser type or the domain from which you are visiting, the Site pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. We use Log Data to provide you with the Services and pool it with other information to monitor the use of the Services, and for the technical administration of the Services. We do not associate your IP address with any other Personal Information to identify you personally, except in cases where we are asked to comply with a subpoena or other legal demand or where we suspect that there has been a violation of our policies, our Terms of Service and/or applicable law. 
+Octoly may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is transferred to the third party, including without limitation certain information received from your social media platform login. Octoly may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Octoly, and they are required to maintain the confidentiality of your information.
 
-**Cookies:** Like many websites and services, we also use "cookie" technology to collect additional Site usage data and to improve the Site and Services. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect Personal Information. Also, our cookies only collect information with respect to your visits to and actions on our Site. Octoly may use both session cookies and persistent cookies to better understand how you interact with the Services and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our Services. A session cookie enables certain features of the Site and Services and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
+Octoly may keep track of the websites and pages our users visit within Octoly, in order to determine what Octoly services are the most popular. This data is used to deliver customized content and advertising within Octoly to customers whose behavior indicates that they are interested in a particular subject area.
 
-## USE OF INFORMATION
+Octoly will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Octoly or the Website; (b) protect and defend the rights or property of Octoly; (c) act under exigent circumstances to protect the personal safety of users of Octoly, or the public and (d) as necessary to perform the Services requested by you.
 
-Octoly uses the Personal Information you provide in a manner that is consistent with this Privacy Policy. We will use your Personal Information in order to provide you with access to and use of our Services, to help us improve the content and functionality of the Services and to better understand our users. If you contact us by email through the Services, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you. In addition, we may use your contact information to market to you, and provide you with information about our products and services and the products and services of our partners that we believe may be of interest to you. If you decide at any time that you no longer wish to receive such marketing information or communications from us, please follow the unsubscribe instructions provided in any of the communications. 
+## Use of Cookies/Targeted Advertising
 
-In an ongoing effort to better understand and serve the users of our Services, Octoly also often conducts research on its customer demographics, interests and behavior based on the Personal Information and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Octoly may share this aggregate data with its affiliates, agents, advertisers and business partners. This aggregate information does not identify you personally. Octoly may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners, and to other third parties for other lawful purposes (including providing advertising use cases to actual or potential advertisers). 
+The Octoly website may use tracking technology such as "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-## INFORMATION SHARING AND DISCLOSURE
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Octoly pages, or register with the Octoly Website or Services, a cookie helps Octoly to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Octoly website, the information you previously provided can be retrieved, so you can easily use the Octoly features that you customized.
 
-We consider your information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Information with certain third parties without further notice to you, as set forth below. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Octoly services or websites you visit.
 
-**Service Providers:** We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your Personal Information with these third parties, but only to the extent necessary to perform these functions and provide such services. Partners: From time to time, Octoly may partner with third parties to improve your Octoly experience. Please be aware that the privacy policy of such partners will govern their use of your Personal Information. 
+Octoly may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked.
 
-Furthermore, in connection with the operation, promotion, advertising or marketing of our Services, we may provide certain of our partners with Personal Information (e.g., your name or Octoly username) and other content or information related to you (e.g., your profile picture), or provide certain of our partners with access to our application programming interfaces ("APIs") in order to access such information using information (such as YouTube handles) already in their possession. 
+Octoly works with third party companies (e.g., ad networks) that may use cookies for purposes including, without limitation, understanding Web usage patterns of users who see advertisements on the Website, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. The advertisement may appear when you are visiting a different section of this Website, another Website or any other website on the Internet if the website also has a relationship with Octoly's vendor. You can choose to limit Behavioral Advertising on the Website by clicking http://www.aboutads.info/choices/ and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out.
 
-Please note: each time we provide any of your Personal Information to our partners, we only provide information to these partners that is publicly available or publicly viewable in your Octoly profile at the time we provide it. 
+Octoly adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click here at http://www.aboutads.info/consumers).
 
-Business Transfers: Octoly may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
+Advertisers or other third parties on the Website may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. Octoly does not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the NAI OPT-OUT website (http://www.networkadvertising.org/choices/) and DAA CHOICE PAGE (http://www.aboutads.info/choices/) and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
 
-**Disclosures for Legal Purposes:** Octoly may disclose your Personal Information if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Octoly, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
+## Security of your Personal Information
 
-## SECURITY
+Octoly secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. Octoly does not warrant the security of its servers, nor does Octoly warrant that your information, including Personal Information, will be completely secure or not be intercepted while being transmitted over the Internet.
 
-Octoly is very concerned about the security of your Personal Information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. However, no Internet or email transmission is ever fully secure or error free. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored Personal Information to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+## Children Under Thirteen
 
-## LINKS TO OTHER WEBSITES
+Octoly does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-Our Services contain links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+## Disconnecting your Octoly Account from Third Party Websites
 
-## OUR POLICY TOWARDS CHILDREN
+You will be able to connect your Octoly account to third party accounts. BY CONNECTING YOUR OCTOLY ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED INTHIS MANNER, DO NOT USE THE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their "My Account" page. Users may also contact us via email or telephone.
 
-If a parent or guardian becomes aware that his or her child has provided us with Personal Information without his/her consent, he or she should contact us at support@octoly.com. We do not knowingly collect Personal Information from children under 13. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. If you are under the age of 13, please do not submit any Personal Information through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information via the Services without their permission. 
+## Opt-Out & Unsubscribe
 
-## CHANGES TO THIS PRIVACY POLICY
+We respect your privacy and give you an product to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Octoly by by following the unsubscribe instructions provided in the promotional e-mail you receive or contacting us here:
 
-The Services and our business may change from time to time. As a result, at times it may be necessary for Octoly to make changes to this Privacy Policy. This Privacy Policy may be updated or modified from time to time for any reason without prior notice. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site or by emailing you. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes. 
+\- Web page: https://www.octoly.com/#contact
 
-## Questions
+\- Email: success@octoly.com
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at support@octoly.com, or: Videoagency 23 rue de Saint-Petersbourg 75008 Paris, France 
+\- Phone: 646-844-9398
+
+At this time Octoly does not respond to browser 'Do Not Track' signals, as Octoly awaits the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
+
+## Other Information
+
+The Website may link to websites operated by third parties that Octoly does not control. Octoly does not monitor, control, or endorse the information collection or privacy practices of any third parties. Octoly encourages you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Privacy Policy applies solely to information collected by Octoly through the Website or Services and does not apply to these third party websites. The ability to access information of third parties from the Website or Services, or links to other websites or locations, is for your convenience only and does not signify Octoly's endorsement of such third parties, their products, services, websites, locations or their content.
+
+In addition, Octoly is not responsible for the privacy or data security practices of other organizations, such as YouTube, Facebook, Tumblr, Twitter, Apple, Google, Microsoft or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including in connection with any information you disclose to other organizations through or in connection with the Services.
+
+Octoly will occasionally update this Statement of Privacy to reflect company and customer feedback. Octoly encourages you to periodically review this Statement to be informed of how Octoly is protecting your information.
+
+## Contact Information
+
+Octoly welcomes your questions or comments regarding this Statement of Privacy. If you believe that Octoly has not adhered to this statement, please contact Octoly at: 
+
+Octoly, Inc.
+
+244 Fifth Avenue, Suite D61 New York, N.Y. 10001 
+
+Email Address:
+
+success@octoly.com
+
+Telephone number:
+
+646-844-9398 
+
+Effective as of October 13, 2015
