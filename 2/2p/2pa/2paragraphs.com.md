@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906035213id_/http%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405004259id_/https%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
 
 # 2paragraphs Privacy Policy
 
@@ -54,6 +54,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+2paragraphs.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. We participate in other link affiliate programs also.
 
 **Childrens Online Privacy Protection Act Compliance**
 
