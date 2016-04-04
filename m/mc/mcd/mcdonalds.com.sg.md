@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914091529id_/https%3A//www.mcdonalds.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.sg privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404235417id_/https%3A//www.mcdonalds.com.sg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Online Services - McDonald's®
 
-t McDonald’s Restaurants Pte Ltd (“McDonald’s”), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding the privacy of visitors to our Web sites, including mobile Web sites, (“Sites”) and users of our mobile device applications (“Mobile Apps”), especially for children.
+At McDonald’s Restaurants Pte Ltd (“McDonald’s”), we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding the privacy of visitors to our Web sites, including mobile Web sites, (“Sites”) and users of our mobile device applications (“Mobile Apps”), especially for children.
 
 This Privacy Policy describes the types of personal information we collect from visitors to our Sites and users of our Mobile Apps (collectively, “Online Services”). The Policy also sets forth how we use this information, provides other details about our personal information practices, and explains how to contact us if you have any questions or concerns.
 
@@ -20,9 +20,9 @@ This Privacy Policy describes the types of personal information we collect from 
 
 ### 1\. Types of Information We Collect and How It Is Used
 
-#### Information You Give Us.
+#### **_Information You Give Us._**
 
-McDonald’s only gathers personal information, such as, first and last names, telephone numbers, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you to enable us to fulfil your order for products/services or in order to get your feedback on our Online Services and our products or to enter you in one of our contests or sweepstakes. McDonald’s may collect such information through various forms and in various places on our Online Services, including account registration forms, prize fulfilment, newsletter registration, or when you submit information, communicate or otherwise interact with McDonald’s through the Online Services. You may choose not to provide the requested information, but in that event we may not be able to fulfil your order for products/services or the Site or Mobile App may not function correctly or certain functions may not be available.
+McDonald’s only gathers personal information, such as, first and last names, telephone numbers, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you to enable us to fulfil your order for products/services or in order to get your feedback on our Online Services and our products or to enter you in one of our contests or sweepstakes. McDonald’s may collect such information through various forms and in various places on our Online Services, including account registration forms, prize fulfilment, newsletter registration, or when you submit information, communicate or otherwise interact with McDonald’s through the Online Services. You may choose not to provide the requested information, but in that event we may not be able to fulfil your order for products/services or the Site or Mobile App may not function correctly or certain functions may not be available. 
 
 In addition, when you visit, use or interact with our Web Sites or Mobile Apps, we may collect certain information by automated or passive means using a variety of technologies, which technologies may be downloaded to your device and may set or modify settings on your device. The information (“Usage Information”) we collect may include your Internet Protocol (IP) address, computer/mobile device operating system and browser type, type of mobile device, the characteristics of the mobile device, the unique device identifier (UDID) or mobile equipment identifier (MEID) for your mobile device, the address of a referring web site (if any), and the pages you visit on our Sites and Mobile Apps, and the times of visit. We may use this information for any and all lawful purposes, including to operate, maintain, and manage our Online Services and to provide services such as technical support. We provide additional information regarding our use of “cookies” in this Privacy Policy below.
 
@@ -32,7 +32,7 @@ Embedded Scripts. An embedded script is a programming code that is designed to c
 
 ETag (or entity tag). A feature of the cache in browsers. It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL. If the resource content at that URL ever changes, a new and different ETag is assigned. Used in this manner, ETags are a form of device identifier. ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and HTML5 cookies.
 
-#### Mobile Devices and Location Information.
+#### **_Mobile Devices and Location Information._**
 
 Mobile Apps may collect precise information about the location of your mobile device using technologies such as GPS, Wi-Fi, or cell tower proximity. McDonald’s uses this information for location-based services that you request such as locating nearby McDonald’s restaurants or identifying special offers that may be of interest to you or to deliver relevant content to you based on your location or to allow you to share your location to other users as part of the services under our Mobile Apps. For most mobile devices, you are able to withdraw your permission for McDonald’s to acquire this information on your location through the device settings. If you have questions about how to disable your mobile device’s location services, we recommend you contact your mobile device service provider or the device manufacturer. If you would like us to delete location information we have collected, please contact us at the email or postal address listed below. Please note that the applications may not function properly following deletion, and that we may be required by law to retain certain information.
 
@@ -40,13 +40,13 @@ Mobile Apps may collect precise information about the location of your mobile de
 
 When you use relevant Online Services, McDonald’s may process your personal information for the following purposes:
 
-  1. to provide you with information or services that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of it or third parties during any promotions;
-  2. to process your registration with the Online Services, including verifying your information is active and valid;
-  3. to enable you to participate in a variety of the Online Service’s features such as promotions;
-  4. to improve the Online Services or our services, to customise your experience on the Online Services, or to serve you specific content that is most relevant to you;
-  5. to contact you with regard to your use of the Online Services and, in our discretion, make changes to the any of our privacy policies;
-  6. for internal analysis purposes (including research on trends or analytics); and
-  7. for any other purposes for which you have consented, such as those that may be set out in this Policy, and other purposes as permitted or required by any applicable law.
+  1. to provide you with information or services that you have requested or agreed to receive, including to send you electronic newsletters, or to provide you with special offers or promotional materials on behalf of it or third parties during any promotions; 
+  2. to process your registration with the Online Services, including verifying your information is active and valid; 
+  3. to enable you to participate in a variety of the Online Service’s features such as promotions; 
+  4. to improve the Online Services or our services, to customise your experience on the Online Services, or to serve you specific content that is most relevant to you; 
+  5. to contact you with regard to your use of the Online Services and, in our discretion, make changes to the any of our privacy policies; 
+  6. for internal analysis purposes (including research on trends or analytics); and 
+  7. for any other purposes for which you have consented, such as those that may be set out in this Policy, and other purposes as permitted or required by any applicable law. 
 
 
 
@@ -62,7 +62,7 @@ McDonald’s reserves the right to use or disclose any information as needed to 
 
 McDonald’s understands the importance of privacy to visitors to and users of our Online Services. We are especially committed to protecting the privacy of children who visit or use our Online Services. This Children’s Privacy Notice is designed to answer your questions regarding our practices with respect to personal information we collect through our Online Services from children under the age of 14 (subject always to applicable law).
 
-#### What Personal Information Does McDonald’s Collect?
+#### **_What Personal Information Does McDonald’s Collect?_**
 
 We may offer many features on our Sites, like games and colouring books, which do not require a child to provide any personal information. On occasion, however, we may collect personal information, such as an email address from children as part of an activity. For example:
 
@@ -70,25 +70,25 @@ We may collect a child’s email address to notify the child if he or she has wo
 
 We may collect a child’s email address in order to respond to a request from the child on a one-time basis, such as to send the child a screen saver. In this case we promptly delete the email address from our system once we have responded, and we do not use the address for any other purpose.
 
-We will not collect other personal information from a child under the age of 14 (subject always to applicable law), such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the parent’s or guardian’s consent.
+We will not collect other personal information from a child under the age of 14 (subject always to applicable law), such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the parent’s or guardian’s consent. 
 
 McDonald’s will not condition a child’s participation in any online activity on the child’s disclosure of more personal information than is reasonably necessary to participate in that activity.
 
-#### How Does McDonald’s Use the Personal Information It Collects?
+#### **_How Does McDonald’s Use the Personal Information It Collects?_**
 
 We use email addresses submitted by a child in order to respond to the child’s request or to notify the child if he or she has won or lost a contest or sweepstakes they entered. We use the email address of a parent or guardian, in order to provide the parent notice of our information practices or to seek the parent’s or guardian’s consent.
 
-#### How Does McDonald’s Share Personal Information?
+#### **_How Does McDonald’s Share Personal Information?_**
 
 We may share a child’s personal information with third parties to the extent reasonably necessary to protect the security or integrity of our Online Services, take precautions against liability, or respond to judicial process or requests from other governmental authorities; or when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity.
 
 We also may share personal information collected from children with vendors that perform services for McDonald’s. These services may include hosting our Sites, providing technical services to McDonald’s, fulfilling requests or administering sweepstakes. Such vendors are obligated to protect the confidentiality of the personal information we share with them.
 
-#### Requests from Parents Regarding Our Children’s Privacy Practices
+#### **_Requests from Parents Regarding Our Children’s Privacy Practices_**
 
 Parents may review personal information we have collected from their child that has not been deleted, and can request that the personal information be deleted from our records if it has not been already. Parents also may refuse to permit further collection or use of their child’s personal information, when the parent has previously provided consent. To do so, please contact us at the address, telephone number or email address provided below with your request.
 
-#### Who Should I Contact with Questions?
+#### **_Who Should I Contact with Questions?_**
 
 We urge parents to regularly monitor and supervise their children’s online activities. If you have any questions about our Children’s Privacy Notice, please contact us at:
 
@@ -105,7 +105,7 @@ You are in control of any personal information you provide to us through our Onl
 
 ### 5\. Cookies
 
-“Cookies” are pieces of information that a website transfers to an individual’s hard drive for record keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. Like most websites, McDonald’s uses cookies for a variety of purposes in order to improve your online experience. For example, we track the total number of visitors to our Sites on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the Site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and sweepstakes and to help customise your McDonald’s web experience. We may associate personal information with a cookie file in those instances./p>
+“Cookies” are pieces of information that a website transfers to an individual’s hard drive for record keeping purposes. Cookies allow the website to remember important information that will make your use of the site more convenient. Like most websites, McDonald’s uses cookies for a variety of purposes in order to improve your online experience. For example, we track the total number of visitors to our Sites on an anonymous aggregate basis. We may also employ cookies so that we remember you when you return to the Site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and sweepstakes and to help customise your McDonald’s web experience. We may associate personal information with a cookie file in those instances.
 
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the “Help” section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of relevant Online Services.
 
