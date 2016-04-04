@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercev3.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217131031id_/http%3A//www.commercev3.com/cv3-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercev3.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405001803id_/http%3A//www.commercev3.com/cv3-privacy-policy) for the most accurate reproduction.*
 
 # CV3 Privacy Policy | CommerceV3 | CV3
 
