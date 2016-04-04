@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816055021id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananahobby.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404053642id_/http%3A//www.bananahobby.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Banana Hobby
 
@@ -64,7 +64,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20150816055021id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bananahobby.com/terms_and_conditions.htm](https://web.archive.org/web/20160404053642id_/http%3A//www.bananahobby.com/terms_and_conditions.htm)
 
 **Your Consent**
 
@@ -81,8 +81,8 @@ This policy was last modified on April 4th, 2012
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.bananahobby.com   
-10832 Central Ave.   
-South El Monte, California 91733   
+9858 Baldwin Pl   
+El Monte, California 91731   
 United States   
 webmaster@bananahobby.com   
-6263732288 
+1-626-529-0056 
