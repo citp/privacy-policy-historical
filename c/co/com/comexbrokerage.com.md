@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comexbrokerage.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023412id_/https%3A//comexbrokerage.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comexbrokerage.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404185903id_/https%3A//comexbrokerage.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # COMEX Brokerage Limited - Premier Brokerage Firm
 
@@ -13,7 +13,7 @@ _Personal information_ includes such items as:
 
 
 
-Our company collects your personal information only with your consent and confidence in the security of your personal information on our program. [T&C](https://web.archive.org/web/20150315023412id_/https%3A//comexbrokerage.com/%3Fa%3Dcust%26page%3Dprivacy?a=rules) of our company explain, how your information is collected and used. Information which is collected when you visit this site.
+Our company collects your personal information only with your consent and confidence in the security of your personal information on our program. [T&C](https://web.archive.org/web/20160404185903id_/https%3A//comexbrokerage.com/%3Fa%3Dcust%26page%3Dprivacy?a=rules) of our company explain, how your information is collected and used. Information which is collected when you visit this site.
 
 Information that is automatically collected when you visiting our website,: 
 
