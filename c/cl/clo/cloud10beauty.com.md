@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011143849id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud10beauty.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405004333id_/http%3A//www.cloud10beauty.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### 1\. Introduction
 
-Cloud Ten Beauty Ltd is the sole owner of the information collected on [www.cloud10beauty.com](http://www.cloud10beauty.com/). We are committed to protecting your privacy, and at the same time we endeavor to use any data we collect from you to provide the best possible service.
+Cloud Ten Beauty Ltd is the sole owner of the information collected on [www.cloud10beauty.com](https://www.cloud10beauty.com/). We are committed to protecting your privacy, and at the same time we endeavor to use any data we collect from you to provide the best possible service.
 
 We at cloud10beauty.com respect your right to privacy and comply with our obligations under the Irish Data Protection Act's of 1988 and 2003. The purpose of this Website Privacy Policy is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with this Website Privacy Policy you should not use this website. By visiting this website, you agree to and are accepting the terms of this Website Privacy Policy. Any external links to other websites are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other websites. This Policy should be read in conjunction with the general [Terms and Conditions](http://cloud10beauty.com/demo/index.php/terms) of this website. 
 
@@ -100,4 +100,4 @@ This website contains links to other sites that are not controlled by Cloud Ten 
 Any changes to this Website Privacy Policy will be posted on this page and, where appropriate, notified to you by email. You should visit this page periodically to review any changes to the privacy policy. 
 
 **Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20151011143849id_/http%3A//www.cloud10beauty.com/getintouch) page.
+If you have any questions or suggestions regarding our privacy policy, please contact us via our [contact us](https://web.archive.org/web/20160405004333id_/http%3A//www.cloud10beauty.com/getintouch) page.
