@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908070230id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404111707id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
 
-# chess24.com your playground | chess24.com
+# Privacy Policy | chess24.com
 
 If this Privacy Policy is translated into any other language it will be for information purposes only and in the event of any conflict between the translation and the English language version, the English language version shall prevail. Logical Thinking Limited ("we", "us" or "our" as applicable) makes its data available to members of its group for the purpose of operating and promoting the various products and services of its group and members of its group may contact you about the various products they offer. We are committed to protecting and respecting your privacy. This policy (together with our Terms of Use and any other documents referred to in it) sets out the basis upon which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
