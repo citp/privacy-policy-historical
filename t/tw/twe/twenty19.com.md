@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117185304id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404034107id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twenty19
 
