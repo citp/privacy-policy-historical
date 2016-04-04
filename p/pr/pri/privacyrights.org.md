@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926144707id_/https%3A//www.privacyrights.org/node/1440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404024926id_/https%3A//www.privacyrights.org/node/1440) for the most accurate reproduction.*
 
 # PRC's Privacy Policy | Privacy Rights Clearinghouse
 
@@ -72,7 +72,7 @@ If you give us your name or other personally identifiable information we may ret
 
 **When You File a Complaint with Our Online Complaint Center**
 
-If you use our [online complaint center](https://www.privacyrights.org/complaint "Online Complaint Center"), you must give us your email address and state so that we can respond to you.  Provide other personally identifiable information only if you choose.  You also have the option to register with our complaint center so that you can update your complaint and your contact information. 
+If you use our [online complaint center](https://www.privacyrights.org/cc/new-complaint), you must give us your email address and state so that we can respond to you.  Provide other personally identifiable information only if you choose.  You also have the option to register with our complaint center so that you can update your complaint and your contact information. 
 
 Data you provide us is stored and backed up securely, and is encrypted on our server.  We do not voluntarily share any personally identifiable information unless you specifically ask or we are legally required to do so.  We do, however, aggregate the data to analyze trends and publish reports.
 
@@ -107,7 +107,7 @@ If someone demands that we produce your identifiable information, we will try to
 
 **III.Access, Correction, and Data Quality**
 
-If we have personally identifiable information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personally identifiable information we have for you, and we will comply unless we are otherwise required to keep it.  Please contact our Chief Privacy Officer at cpo (at) privacyrights.org or 619-298-3396 if you have such a request.
+If we have personally identifiable information about you, we will make that information available to you upon request.  We also welcome updates to your contact information so we can keep in touch with you.  You can ask us to delete any personally identifiable information we have for you, and we will comply unless we are otherwise required to keep it.  Please contact our Chief Privacy Officer at [admin@privacyrights.org](mailto:admin@privacyrights.org) or 619-298-3396 if you have such a request.
 
 **IV.Security **
 
