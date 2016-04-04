@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepixels.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907183054id_/http%3A//www.freepixels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepixels.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404223706id_/http%3A//www.freepixels.com/privacy) for the most accurate reproduction.*
 
 # Free Stock Photos, Free Images
 
