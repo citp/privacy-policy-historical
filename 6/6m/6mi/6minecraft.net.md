@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the 6minecraft.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208004739id_/http%3A//www.6minecraft.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6minecraft.net privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404182137id_/https%3A//www.6minecraft.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 6Minecraft
 
 At 6Minecraft, the privacy of our visitors is of extremely importance to us. This privacy policy document outlines the types of personal information is received and collected by 6Minecraft.com and how it is used.
 
 **Log Files**  
-Like many other Web sites, http://www.6Minecraft.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, https://www.6Minecraft.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons:**  
 6Minecraft.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-> **Google AdSense Privacy Policy:**
-> 
-> ****.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
->  .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
->  .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+**Google AdSense Privacy Policy:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include.
 
-Google Adsense, InfoLinks, CpmStar, Adbrite etc. You can check for the respective privacy policies on their websites.
+Google Adsense, InfoLinks, CpmStar etc. You can check for the respective privacy policies on their websites.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on 6Minecraft send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -62,4 +64,4 @@ When 6Minecraft.com makes changes to this privacy policy we will post those chan
 
 **Contact Information**
 
-If you have any questions regarding 6Minecraft privacy policy, please contact us.
+If you have any questions regarding 6Minecraft privacy policy, please ** [contact us](https://www.6minecraft.net/contact-us/)**.
