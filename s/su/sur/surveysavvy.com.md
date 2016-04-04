@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317140326id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404150634id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
 
 # Privacy Policy | SurveySavvy
 
@@ -24,7 +24,7 @@ HTTP cookies, IP addresses, browser user agent information, HTML cookies and/or 
 
 ### SavvyConnect and Web Behavioral Data
 
-SurveySavvy members may be invited to download SavvyConnect and join exclusive online communities. The SavvyConnect application tracks web behaviors and browsing activities. This information is analyzed and used in aggregate form to create data products. Browsing data will not be linked to individual persons. Although Luth Research implements reasonable efforts to filter out unwanted data, personally identifiable and sensitive information may be inadvertently collected. In such cases the data is not be used for any purpose and is removed from the system.
+The SavvyConnect application tracks web behaviors and browsing activities. This information is only used in aggregate form, and being kept in strict confidentiality. Our respondents' privacy and data security is our first priority. We enforce best in class security technology and practices to ensure rigorous data protection.
 
 ### Social Networks and Social Media
 
