@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318073324id_/http%3A//www.e-goi.com/en/introducao/pol-tica-anti-spam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-goi.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404041900id_/http%3A//www.e-goi.com/en/what-egoi/anti-spam-policy) for the most accurate reproduction.*
 
 # E-goi :: Privacy and Anti-Spam Policy
 
@@ -57,7 +57,7 @@ Cookie| Description
 __utma  
 __utmb  
 __utmc  
-__utmz| These are Google Analytics cookies. They are used to collect information about how visitors use our site, which helps us improve it. Information is collected anonymously, including the number of visitors to the site, where visitors have come to the site from and the pages they visited ([more about Google privacy](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)).  
+__utmz| These are Google Analytics cookies. They are used to collect information about how visitors use our site, which helps us improve it. Information is collected anonymously, including the number of visitors to the site, where visitors have come to the site from and the pages they visited ([more about Google privacy](https://support.google.com/analytics/answer/6004245?hl=en)).  
 concrete5| This cookie is set by Concrete5, the system we use to build and manage our site. The cookie determines which page groups a visitor has access to. It's automatically created by Concrete5 and is not used by us for any other purpose.  
   
 Personal information that you enter voluntarily when signing up for an E-goi account will only be used by us to provide you with the E-goi service associated to that account. We will never supply this information to third parties without prior authorization from you.
