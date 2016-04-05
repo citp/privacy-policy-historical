@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213042951id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405130957id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InnerBody
 
@@ -17,7 +17,7 @@
   11. Business Transitions
   12. Changes in this Privacy Policy
   13. Definitions
-  14. [Contact us](http://www.innerbody.com/htm/aboutsite.html#contact)
+  14. [Contact us](https://www.innerbody.com/htm/aboutsite.html#contact)
 
 
   1. **Information We Collect**
