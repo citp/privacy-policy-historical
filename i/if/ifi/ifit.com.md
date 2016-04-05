@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062036id_/http%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053130id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
 
-# iFit Fitness App | Privacy Policy
+# Read iFit’s privacy policy about your information.
 
 This Privacy Policy governs the manner in which Icon Health & Fitness, Inc. ("we," "us," "our") collect, use, maintain, and disclose information collected from and about you and other users ("you" or "User") while using the www.ifit.com website (the "Site"), whether accessed via the Internet, a mobile app, machine consoles, other electronic devices, or by any other means. This privacy policy applies to the Site and all products and services we offer that integrate with iFit® services. We are dedicated to safeguarding Personally Identifiable Information (as defined below) that we collect.
 
 ###### Types of information we collect and when
 
-We may collect two types of information from users of our Site: "Personally Identifiable Information" which is information that can be used to locate you,contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, user name, credit card information, etc.) and "Aggregate Information" which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, gender, age, weight, height, food intake, activity level, interests, workout history and results, exercise equipment, Site pages most frequently accessed, browser type, links a User clicks, IP address, and other similar information). 
+We may collect two types of information from users of our Site: "Personally Identifiable Information" which is information that can be used to locate you,contact you, or determine your specific identity (such as name, e-mail address, mailing address, phone number, user name, credit card information, etc.) and "Aggregate Information" which is information about your activities on the Site or in connection with the services that cannot be used to identify, locate, or contact you (such as frequency of visits to the Site, data entered when using the Site, gender, age, weight, height, food intake, activity level, interests, workout history and results, exercise equipment, Site pages most frequently accessed, browser type, links a User clicks, IP address, and other similar information).
 
 ###### We collect information from you:
 
@@ -37,7 +37,7 @@ We collect and use your Personally Identifiable Information for the following pu
     * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
   * To improve our Site and your User experience:
     * We continually strive to improve our website offerings based on the information and feedback we receive from you.
-    * We may use information we gather about you to gauge your personal health, to recommend improvements to your workout, to compare your personal achievements with other Users, to display data trends based on different demographics, to assist Users in setting goals, to recommend and allow Users to participate in certain competitions and challenges administered through the Site, and to grant points and various rewards, among other things. 
+    * We may use information we gather about you to gauge your personal health, to recommend improvements to your workout, to compare your personal achievements with other Users, to display data trends based on different demographics, to assist Users in setting goals, to recommend and allow Users to participate in certain competitions and challenges administered through the Site, and to grant points and various rewards, among other things.
   * To provide customer service:
     * Your information helps us to more effectively respond to your customer service requests and support needs.
     * When a User submits questions or comments to us, we my use that information to respond to the User.
@@ -57,15 +57,15 @@ We may also use or sell Aggregate Information such as information about the page
 
 ###### Financial Information
 
-When you purchase our services, you will be asked to provide credit card and/or billing information. We will use the credit card and/or billing information provided in connection with a User's purchase to process your order and for no other purpose. All other information collected may be used as specified in the "How we use collected information" section above.
+When you purchase our services, you will be asked to provide credit card and/or billing information. We will use the credit card and/or billing information provided in connection with a User\'s purchase to process your order and for no other purpose. All other information collected may be used as specified in the "How we use collected information" section above.
 
 ###### When we share your personal information
 
-We may provide Personally Identifiable Information to our authorized service providers who assist us in providing the services and performing functions on our behalf. They are prevented from using it in any other way. 
+We may provide Personally Identifiable Information to our authorized service providers who assist us in providing the services and performing functions on our behalf. They are prevented from using it in any other way.
 
 We may share, rent, sell, or lease, your personal contact information to our trusted marketing partners for their internal or commercial purposes.
 
-We will disclose information we maintain when required by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to requests from law enforcement agencies or other public agencies if we feel that such disclosure may prevent the instigation of a crime. In addition, we may sell or otherwise disclose to third parties information that does not constitute Personally Identifiable Information. Finally, we may disclose information if there is a transfer of our assets or ownership in connection with a proposed or consummated corporate reorganization, such as a merger or acquisition, to the extent permitted by law. 
+We will disclose information we maintain when required by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to requests from law enforcement agencies or other public agencies if we feel that such disclosure may prevent the instigation of a crime. In addition, we may sell or otherwise disclose to third parties information that does not constitute Personally Identifiable Information. Finally, we may disclose information if there is a transfer of our assets or ownership in connection with a proposed or consummated corporate reorganization, such as a merger or acquisition, to the extent permitted by law.
 
 ###### Web browser cookies and other technologies used to collect information
 
@@ -83,7 +83,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-We want you to feel confident using the Site. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm>for information about how to protect yourself against identity theft. 
+We want you to feel confident using the Site. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
 
 ###### Third party websites
 
