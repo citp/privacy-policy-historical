@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103073430id_/http%3A//www.noteburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405195547id_/http%3A//www.noteburner.com/privacy.html) for the most accurate reproduction.*
 
 # NoteBurner Protects Your Privacy
 
@@ -6,9 +6,7 @@ Our goal in handling information provided to us in connection with the processin
 
 We are committed to protecting your privacy. We have created this Privacy Policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
-We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to our commitment to protecting your privacy. We will not sell your personal information in any manner whatsoever.
-
-To remove DRM protection of iTunes audio book on Mac, [NoteBurner Audiobook converter](https://web.archive.org/web/20151103073430id_/http%3A//www.noteburner.com/mac-audiobook-converter.html) will be your best choice. The audiobook converter can convert your audio books to unprotected MP3 and AAC format. For AAC output, you can even keep the chapters information which allows you to choose favorite chapter to listen on any AAC playable media players and mobile phones.
+We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to our commitment to protecting your privacy. We will not sell your personal information in any manner whatsoever. 
 
 ### 
 
