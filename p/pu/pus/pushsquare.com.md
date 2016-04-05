@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909145057id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405042107id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Push Square
 
