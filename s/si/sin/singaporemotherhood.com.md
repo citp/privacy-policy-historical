@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporemotherhood.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205142925id_/http%3A//singaporemotherhood.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporemotherhood.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064902id_/http%3A//singaporemotherhood.com/privacy.php) for the most accurate reproduction.*
 
 # SingaporeMotherhood: A Parenting Directory for the Singapore Parents
 
