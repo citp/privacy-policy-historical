@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lblrobot.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192052id_/http%3A//www.lblrobot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lblrobot.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406005434id_/http%3A//www.lblrobot.com/privacy.php) for the most accurate reproduction.*
 
 # Local Business Listing Robot
 
@@ -41,4 +41,4 @@ This policy and the use of this Site are governed by Maryland law. If a dispute 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Anne Arundel County, Maryland, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
  |  [Support](http://www.turnroundmarketing.com/support/)  |  [Terms Of Service](http://www.lblrobot.com/terms.php)  |  [Privacy Statement](http://www.lblrobot.com/privacy.php)  |  [Earnings Disclaimer](http://www.lblrobot.com/disclaimer.php)  |  [Cancellation & Refund Policy](http://www.lblrobot.com/refund-policy.php)  |  [FTC Earnings Disclosure](http://www.lblrobot.com/ftc-disclosure.php)  |    
-**Copyright ©2010-2015 LBLROBOT.com**
+**Copyright ©2010-2016 LBLROBOT.com**
