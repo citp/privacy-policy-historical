@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231742id_/http%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heysigmund.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405095425id_/http%3A//www.heysigmund.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hey Sigmund - Karen Young
 
-36 views 
+## Privacy Policy
 
-**PRIVACY POLICY**
+**HEY SIGMUND  **(“we” or “us”) know how important it is that your personal information is handled respectfully and appropriately.  This Privacy Policy (the “Policy”) discloses the privacy practices for  **HEY SIGMUND**  and is intended to notify you of the following:
 
-**HEY SIGMUND** (“we” or “us”) know how important it is that your personal information is handled respectfully and appropriately.  This Privacy Policy (the “Policy”) discloses the privacy practices for  **HEY SIGMUND**  and is intended to notify you of the following:
-
-  1. What personally identifiable information we collects from you through the Site, how it is used and with whom it may be shared.
+  1. What personally identifiable information we collect from you through  **www.heysigmund.com**  (“Site”), how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
   3. The security procedures in place to protect the misuse of your information.
   4. How you can correct any inaccuracies in the information.
@@ -22,12 +20,18 @@
 Internet traffic data includes but is not limited to internet service provider information, collection of IP addresses, entry and exit pages, various operating systems and other such information.  We collect no personally identifying information by way of process. The purpose of collecting this data is to help analyse user traffic so we can be the best we can be for you.
 
 **Cookies**  
-We use “cookies” on these Site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you do not have to log in a password more than once, thereby saving time and improving efficiency while on our site. In no way does using a cookie link to any personally identifiable information on our Site. 
+We use “cookies” on this Site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you do not have to log in a password more than once, thereby saving time and improving efficiency while on our site.  In no way does using a cookie link to any personally identifiable information on our Site. 
+
+Third party vendors, including Google, use cookies to serve the ads you see on our site. They aim to make those ads more relevant to you by basing those ads on your prior visits to our website.
+
+Google uses cookies to enable it and its partners to serve ads that may be more relevant to you, based on your visit to our site and/or other sites you visit on the Internet.
+
+You may opt out of the use of cookies for ads based on your browsing history by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
 **Personal Information**
 
 **Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on the Sites. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell, rent or otherwise share this information with any other individual or business entity, except as reasonably necessary to provide products, materials, or services to you.
+We are the sole owners of the information collected on the Site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell, rent or otherwise share this information with any other individual or business entity, except as reasonably necessary to provide products, materials, or services to you.
 
 We will use your information to respond to you, and will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
@@ -47,9 +51,3 @@ Please be aware that some of our business partners may use cookies or other meth
 **Updates**
 
 Our Privacy Policy may change from time to time but whenever we tweak, we’ll post an update on this page.
-
-**If have any questions about this Privacy Policy, please contact us at[karen@heysigmund.com](mailto:karen@heysigmund.com).**
-
-##### Like this article?
-
-Subscribe to our free newsletter for a weekly round up of our best articles
