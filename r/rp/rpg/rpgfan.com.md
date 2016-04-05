@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213070036id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgfan.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405145033id_/http%3A//www.rpgfan.com/privacy.html) for the most accurate reproduction.*
 
 # RPGFan - Legal Info and Privacy Policy
 
@@ -12,9 +12,9 @@
 
   * ## [RPGFan Music](https://web.archive.org/soundtracks1.html)
 
-  * ## [Podcasts](http://www.rpgfan.com/podcast.html)
+  * ## [Podcasts](https://web.archive.org/podcast.html)
 
-  * ## [Forums](http://www.rpgfan.com/boards/index.php)
+  * ## [Forums](https://web.archive.org/boards/index.php)
 
   * ## [Features](https://web.archive.org/features.html)
 
