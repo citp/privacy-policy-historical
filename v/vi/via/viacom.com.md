@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084236id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viacom.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405024546id_/http%3A//www.viacom.com/about/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Viacom
 
@@ -16,7 +16,7 @@ This Privacy Policy, as amended from time-to-time, will remain in full force and
 
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. ** ** By using the Site, you certify that you meet the age and other eligibility requirements for this Site as set forth in our **[Terms of Use](https://web.archive.org/about/pages/termsofuse.aspx)** , as applicable.  If you do not meet the age and other eligibility requirements, if any, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
-If you are located in the European Economic Area ("EEA") and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at [ http://www.viacom.com/privacypolicy/Documents/VIACOM_Viacom_Safe_Harbor_Policy.pdf](https://web.archive.org/privacypolicy/Documents/VIACOM_Viacom_Safe_Harbor_Policy.pdf). 
+If you are located in the European Economic Area ("EEA") and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at [ ](https://web.archive.org/privacypolicy/Documents/VIACOM_Viacom_Safe_Harbor_Policy.pdf)[http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf](https://web.archive.org/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf).
 
 If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not Viacom, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
 
@@ -49,79 +49,94 @@ These Third Party Advertising Service Providers do not have access to Tracking T
   * Processing your registration with the Site, such as verifying that your e-mail address is active and valid,
 
 
-  * Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use,  
-
-  * Allowing you to participate in the public areas and/or other features of the Site,  
- 
-  * Responding to your questions or other requests,  
- 
-  * Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site's policies,  
- 
-  * Improving the Site or our services and for internal business purposes,  
- 
-  * Saving your password or other Personal Information, so you don't have to re-enter it each time you visit the Site,  
-
-  * Otherwise to maintain and administer the Site and  
- 
+  * Contacting you regarding the administration of your account, any services, features or functions you have enrolled in or registered to use,
+  * Allowing you to participate in the public areas and/or other features of the Site,
+  * Responding to your questions or other requests,
+  * Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site's policies, 
+  * Improving the Site or our services and for internal business purposes, 
+  * Saving your password or other Personal Information, so you don't have to re-enter it each time you visit the Site,
+  * Otherwise to maintain and administer the Site and 
   * For other purposes disclosed at the time you provide Personal Information or Other Information.
 
 
 
 **ii.** **  ** **Other Information Collected By Us​** **.**  We, and/or Affiliates, use the Other Information we collect from you in a variety of ways, including: 
 
-  * Keeping count of your return visits to the Site or our Affiliates' or partners' sites; 
-  *   * Accumulating and reporting aggregate, statistical information in connection with the Site and user activity; 
-  *   * Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and improve our services and the Site and display advertising and marketing information; 
-  *   * Preparing statistics reports;
-  *   * Allowing you to participate in the public areas and/or other features of the Site;
-  *   * Improving the Site or our services and for internal business purposes; 
-  *   * Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;
-  *   * Saving certain Other Information for use on your return visits to the Site; 
-  *   * Otherwise to maintain and administer the Site; 
-  *   * For the uses described for "Personal Information" and Section 3(b) ("Information Collected Through Use of Cookies and Other Tracking Technologies") above and
-  *   * For other purposes disclosed at the time you provide the Other Information.
+Keeping count of your return visits to the Site or our Affiliates' or partners' sites;  
 
- **iii.** **Other Information Collected by Third Party Advertising Service Providers**.  The use of Tracking Technologies by Third Party Advertising Service Providers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider may directly collect from you. **  **Use of Third Party Advertising Service Providers' Tracking Technologies is governed by the Third Party Advertising Service Providers' own specific privacy policies and not this Privacy Policy.  However, please see "Opting-Out of Certain Uses of Information Collected by Tracking Technologies" Section below for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
- **4.** **    ** **Opting-Out of Certain Uses of** **Information Collected by Tracking Technologies** **.** **  **
+Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;  
+
+
+Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and   
+improve our services and the Site and display advertising and marketing information; 
+
+Preparing statistics reports;  
+
+
+Allowing you to participate in the public areas and/or other features of the Site;  
+
+
+Improving the Site or our services and for internal business purposes;  
+
+
+Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;  
+
+
+Saving certain Other Information for use on your return visits to the Site;  
+
+
+Otherwise to maintain and administer the Site;  
+
+
+For the uses described for "Personal Information" and Section 3(b) ("Information Collected Through Use of Cookies and Other Tracking Technologies") above and  
+
+
+For other purposes disclosed at the time you provide the Other Information.
+
+ **iii.** **Other Information Collected by Third Party Advertising Service Providers**.  The use of Tracking Technologies by Third Party Advertising Service Providers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider may directly collect from you. **  **Use of Third Party Advertising Service Providers' Tracking Technologies is governed by the Third Party Advertising Service Providers' own specific privacy policies and not this Privacy Policy.  However, please see "Opting-Out of Certain Uses of Information Collected by Tracking Technologies" Section below for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.  
+ **  
+**
+
+ **4.** **    ** **Opting-Out of Certain Uses of** **Information Collected by Tracking Technologies** **.** **   **
 
 **a.** **          ** **Tracking Technologies Set By Third Party Advertising Service Providers.**   With respect to the Tracking Technologies set by Third Party Advertising Service Providers, you have a number of options:
-
-
 
   * Third Party Advertising Service Providers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.           
 
 
 
-  * You can opt-out of the use of Other Information for these advertising purposes by Third Party Advertising Service Provider Adobe AudienceManager (formerly known as Demdex) by using its opt-out tool, available at [**http://www.donottarget.com/**](http://www.donottarget.com/), or as described in the next bullet point. 
-  * We also may from time to time permit other Third Party Advertising Service Providers to collect Other Information on the Site.  Some of these Third Party Advertising Service Providers may participate in the **[Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** and/or the **[Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)**.  Please click on the links to these tools to learn more about your choices. 
-  * Please note the following with respect to opting out:
-    * **The opt-out tools discussed above are "cookie based** **."**  This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.  
-    *     * **Opt-outs are "browser-specific**."  The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences.  This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device.  It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.  
-  * You also can prevent the use of certain Tracking Technologies (other than Flash cookies) on a particular Device by using the controls in your Web browser.  To do so, you must:
-    * Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
-    *     * Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)
-  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser's support feature.
-  * Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads (if any ads are on the Site).  Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads (if any) on this Site.
-  * **PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER.** **  ** **PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES.** **  **
 
-  **b.** **          ** **Tracking Technologies Set By the Site.** **  **With respect to the Tracking Technologies set by the Site, you have a number of options:
+You can opt-out of the use of Other Information for these advertising purposes by Third Party Advertising Service Provider Adobe AudienceManager (formerly known as Demdex) by using its opt-out tool, available at [**http://www.donottarget.com/**](http://www.donottarget.com/), or as described in the next bullet point.   
 
-  *   * You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser.  To do so, you must:
-    * Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
-    *     * Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)
-    *   * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser's support feature.
+We also may from time to time permit other Third Party Advertising Service Providers to collect Other Information on the Site.  Some of these Third Party Advertising Service Providers may participate in the **[Network Advertising Initiative's Opt-Out Tool](http://www.networkadvertising.org/managing/opt_out.asp)** and/or the **[Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices/)**.  Please click on the links to these tools to learn more about your choices.   
 
- This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising. **Click[here](http://srp.viacom.com/sitefaq.html)** for more information about this Site and online behavioral advertising. 
+Please note the following with respect to opting out:
 
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+  * **The opt-out tools discussed above are "cookie based** **."**  This means that the tools rely on cookies to remember your choices with respect to the use of your information by the parties that offer you those choices.  If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.   
+ 
+  *  **Opt-outs are "browser-specific**."  The opt-out preferences that you choose will apply only to the Web browser that you used when you selected these preferences.  This means, for example, that if you opt-out while using Internet Explorer 9, this choice will not affect the use of Other Information collected by Tracking Technologies when you use Mozilla Firefox on the same Device.  It also means that opting-out on one Device will not affect the use of Other Information by Tracking Technologies on other Devices that you may use to access the Site.  
+ ** **  
 
- **c.** **          ** **Flash Cookies.** **  **Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit [ **http://kb2.adobe.com/cps/526/52697ee8.html**](http://kb2.adobe.com/cps/526/52697ee8.html).
 
- **d.** **          ** **Do-Not-Track Signals and Similar Mechanisms.** **  **Some web browsers may transmit "do-not-track" signals to the websites with which the browser communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  There currently is disagreement, including among participants in the leading Internet standards-setting organization, concerning what, if anything, websites should do when they receive such signals. 
 
-We currently do not take action in response to these signals, but, if and when a final standard is established and accepted, we may reassess how to respond to these signals.  Instead, as described above, please see the link to the Self-Regulatory Principles for Online Behavioral Advertising program that we follow that offers you choice regarding Information collected for online behavioral advertising purposes and the browser cookie controls and other mechanisms described in Sections 4(a), (b) and (c) above.
+  * Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
+  * Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)  
+ 
 
+
+
+Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies does not mean that you will no longer receive online ads (if any ads are on the Site).  Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers' Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads (if any) on this Site.  
+ 
+
+**PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER.** **  ** **PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES.** **  **
+
+**b.** **          ** **Tracking Technologies Set By the Site.** **  **With respect to the Tracking Technologies set by the Site, you have a number of options:
+
+You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser.  To do so, you must: 
+
+  * Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and
+  * Disable future Tracking Technologies through the same browser controls.  Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature.  (See the "help" section of your browser for more information.)
 
 
 
@@ -138,10 +153,11 @@ d.    **Operational Service Providers**.  We also have the right to disclose
 e.    **Disclosure to Certain Other Third Parties.** **  **In addition, Viacom may share your Personal Information as set forth in this Privacy Policy or in the following limited circumstances:  
 
 
-  * When we are compelled to do so by a governmental agency, court or other entity ( _e.g.,_ to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation; 
-  *   * If we believe your actions violate any law, rule, regulation and/or the **[Terms of Use](https://web.archive.org/about/pages/termsofuse.aspx)** , including, without limitation, this Privacy Policy; 
-  *   * If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, the Affiliates, or any of its or their licensors, suppliers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the **[Terms of Use](https://web.archive.org/about/pages/termsofuse.aspx)** **** and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities, including, without limitation the Equal Employment Opportunity Commission, the Office of Federal Contract Compliance Programs and similar state and local regulatory agencies; and/or 
-  *   * In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination or corporate change involving us or our Affiliates. 
+  * When we are compelled to do so by a governmental agency, court or other entity ( _e.g.,_ to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
+  * If we believe your actions violate any law, rule, regulation and/or the **[Terms of Use](https://web.archive.org/about/pages/termsofuse.aspx)** , including, without limitation, this Privacy Policy;
+  * If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, the Affiliates, or any of its or their licensors, suppliers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the **[Terms of Use](https://web.archive.org/about/pages/termsofuse.aspx)** **** and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities, including, without limitation the Equal Employment Opportunity Commission, the Office of Federal Contract Compliance Programs and similar state and local regulatory agencies; and/or
+  * In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination or corporate change involving us or our Affiliates.  
+
 
 
 
@@ -163,7 +179,7 @@ We reserve the right to revise this Privacy Policy at any time by posting an upd
 
 **9.** **          ** **Miscellaneous.**
 
-**a.** **    ** **Accuracy and Confidentiality.** **    **It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.  **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or** **complete** **information or Personal Information or you fail to update such information or Personal Information.** **  **We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy. 
+**a.** **    ** **Accuracy and Confidentiality.** **    **It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.  **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or** **** **complete** **information or Personal Information or you fail to update such information or Personal Information.** **  **We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy. 
 
 You are solely responsible for maintaining the strict confidentiality of your password, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not Viacom, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your password (whether used by you or any others who use your password), unless and until you notify us that your password may have been compromised, misappropriated or improperly taken or used by another party.   We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user's account or any services, features or functions.
 
