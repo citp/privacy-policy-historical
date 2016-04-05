@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientfusion.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919235207id_/https%3A//www.patientfusion.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientfusion.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053936id_/https%3A//www.patientfusion.com/legal/privacy) for the most accurate reproduction.*
 
 # Patient Fusion - Privacy Policy
 
