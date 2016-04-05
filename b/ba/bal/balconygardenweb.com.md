@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balconygardenweb.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029110622id_/http%3A//balconygardenweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balconygardenweb.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405091111id_/http%3A//balconygardenweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Balcony Garden Web
 
 This Privacy Policy governs the manner in which Balcony Garden Web collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://balconygardenweb.com](http://balconygardenweb.com/) website (“Site”).
 
