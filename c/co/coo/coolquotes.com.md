@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021012449id_/http%3A//www.coolquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405174900id_/http%3A//www.coolquotes.com/privacy.html) for the most accurate reproduction.*
 
 # coolquotes.com | Privacy Policy
 
