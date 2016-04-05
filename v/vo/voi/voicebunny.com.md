@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909090053id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405122823id_/https%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
 
-# Bunny Inc privacy policy | VoiceBunny by Bunny Inc.
+# Bunny Inc. privacy policy | VoiceBunny by Bunny Inc.
 
-This browser is no longer supported by Mr. Bunny. Please upgrade or get [Chrome](http://www.google.com/chrome/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/). 
+This browser is no longer supported by Mr. Bunny. Please upgrade or get [Chrome](http://www.google.com/chrome/) or [Firefox](http://www.mozilla.org/en-US/firefox/new/).
+
+Our website may not work well because your browser doesn't support local storage. This may happen if you are browsing in "incognito" or "private" mode. Please adjust your browser settings or try a different browser.
 
 Last updated: Oct 16, 2012
 
-By visiting and using the Bunny Inc website (owned and operated by BunnyForce, Inc.) (" **Bunny Inc** ", " **we** ", " **us** " or " **our** ") and located at the url <[voicebunny.com](https://web.archive.org/)> (the " **Site** "), you agree to accept the practices described in this privacy policy (the " **Privacy Policy** "). If you do not agree to the terms of this Privacy Policy, please do not use the Site. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Bunny Inc Terms of Use.
+By visiting and using the Bunny Inc. website (owned and operated by BunnyForce, Inc.) (" **Bunny Inc.** ", " **we** ", " **us** " or " **our** ") and located at the url <[voicebunny.com](https://voicebunny.com/)> (the " **Site** "), you agree to accept the practices described in this privacy policy (the " **Privacy Policy** "). If you do not agree to the terms of this Privacy Policy, please do not use the Site. This Privacy Policy is part of, and is governed by, the terms and conditions set forth in the Bunny Inc. Terms of Use.
 
-Bunny Inc reserves the right to modify this Privacy Policy at any time, so each time you use the Site, you should check the date of this Privacy Policy (which appears above) and review any changes that have been made since your last visit to the Site. Where appropriate or required by law, we shall affirmatively notify you of any changes to this Privacy Policy.
+Bunny Inc. reserves the right to modify this Privacy Policy at any time, so each time you use the Site, you should check the date of this Privacy Policy (which appears above) and review any changes that have been made since your last visit to the Site. Where appropriate or required by law, we shall affirmatively notify you of any changes to this Privacy Policy.
 
 We want to develop relationships with our customers based on respect and integrity. We are aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Policy is posted to demonstrate our commitment to protecting your privacy online.
 
-  1. **Information Collection By Bunny Inc.**
+  1. **Information Collection By Bunny Inc..**
     1. **Information You Directly and Voluntarily Provide to Us:** We collect the following types of personal information (collectively, " **Personal Information** ") that you voluntarily provide through the Site. 
       * **Personal Identifiers**. A "Personal Identifier" is information that can be used to identify and/or contact a natural person and includes name, postal address, telephone number, or email address.
       * **Other Personal Information**. "Other Personal Information" is information combined with Personal Identifiers that may include credit card information, purchase history, correspondence sent to us through the Site or information regarding your tastes and preferences. In addition, when you register with the Site we ask you to create a unique user ID and password which will be associated with the Personal Identifiers you have provided.
     2. **How We Directly Collect Personal Information:** There are a number of different ways that we collect Personal Information from you. These may include: 
-      * **Purchases**. We collect your Personal Information when purchase Bunny Inc products through the Site. We will require sufficient information to complete your purchase, which will include your name, postal address, email address, telephone number and credit card information.
+      * **Purchases**. We collect your Personal Information when purchase Bunny Inc. products through the Site. We will require sufficient information to complete your purchase, which will include your name, postal address, email address, telephone number and credit card information.
       * **Customer Support**. You may provide us with Personal Information when you call or email us to request technical assistance with our products or information that you would like to receive about our products.
-      * **Email/Direct Mail Campaigns That You Approve**. If you elect to receive promotional communications from us, from time to time we may contact you with information about new products, promotions or special offers. If you want to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of a promotional email or contact us at [support@voicebunny.com](mailto:support@voicebunny.com).
+      * **Email/Direct Mail Campaigns That You Approve**. If you elect to receive promotional communications from us, from time to time we may contact you with information about new products, promotions or special offers. If you want to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of a promotional email or contact us at {{company_name}}.
     3. **Information That We Automatically Collect From Your Computer:** We (or service providers on our behalf) may automatically collect information from you using "cookies" or "web beacons". Cookies are small amounts of data that are stored within your computer's Internet browser and that are accessed and recorded by the websites that you visit so that they can recognize the same browser navigating online at a later time. Web beacons are web page elements that can recognize certain types of information on your computer such as cookies and the time and date of a page viewed. 
 
 Information collected by cookies and web beacons may include, without limitation:
@@ -41,9 +43,9 @@ If you visit the Site from a third-party website the third-party website may giv
 
 The Site may include third-party advertising, links to other websites, and other content from third-party businesses. These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, may use web beacons and cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who click on the links made available through the Site. We do not have access to or control over web beacons or cookies that these third parties may use. We are not responsible for the privacy practices or the content of these third-party websites. You are encouraged to review the privacy policies of the different websites you visit.
 
-Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at {{company_name}}.
 
-We may also provide social media features through the Site that enable you to share information with your social networks and to interact with Bunny Inc on various social media sites. Your use of these features may result in the collection or sharing of information about you by these sites, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
+We may also provide social media features through the Site that enable you to share information with your social networks and to interact with Bunny Inc. on various social media sites. Your use of these features may result in the collection or sharing of information about you by these sites, depending on the feature. We encourage you to review the privacy policies and settings on the social media sites with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.
 
   3. **Use of Information Collected By Us.**
 
@@ -64,27 +66,27 @@ We will take all steps reasonably necessary to ensure your Personal Information 
 
   7. **Corrections/Information Removal.**
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [support@voicebunny.com](mailto:support@voicebunny.com).
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at {{company_name}}.
 
   8. **Contact Information.**
 
-If you have any questions or concerns about this Privacy Policy, please e-mail us at [support@voicebunny.com](mailto:support@voicebunny.com), send a letter to: **1355 Market St. Suite #488, San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
+If you have any questions or concerns about this Privacy Policy, please e-mail us at {{company_name}}, send a letter to: **1355 Market St. Suite #488, San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
 
   9. **Your California Privacy Rights.**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared with these third parties and the names and addresses of the third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: [support@voicebunny.com](mailto:support@voicebunny.com)
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared with these third parties and the names and addresses of the third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: {{company_name}}
 
   10. **Business Transfer.**
 
-In the event that Bunny Inc is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Bunny Inc may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and other information we have collected from users of the Site.
+In the event that Bunny Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Bunny Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and other information we have collected from users of the Site.
 
   11. **Limitations On Liability.**
 
-IN NO EVENT WILL BUNNY INC OR ITS AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR the related PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF BUNNY INC OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT WILL BUNNY INC. OR ITS AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR the related PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF BUNNY INC. OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
   12. **Use of Information Outside of Your Country of Residence.**
 
-The Site is directed to users located in the United States. If you are located outside of the United States and choose to provide your Personal Information to us, you should be aware that Bunny Inc may transfer your Personal Information to the United States and process it there. The privacy laws in the United States may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to such transfer.
+The Site is directed to users located in the United States. If you are located outside of the United States and choose to provide your Personal Information to us, you should be aware that Bunny Inc. may transfer your Personal Information to the United States and process it there. The privacy laws in the United States may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to such transfer.
 
   13. **Governing Law.**
 
