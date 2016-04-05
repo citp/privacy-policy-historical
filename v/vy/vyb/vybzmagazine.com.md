@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vybzmagazine.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209195607id_/http%3A//www.vybzmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vybzmagazine.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405032424id_/http%3A//www.vybzmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,4 +23,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-(Visited 9 times, 1 visits today)
+(Visited 41 times, 1 visits today)
