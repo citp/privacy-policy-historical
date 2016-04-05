@@ -1,148 +1,59 @@
-> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123005244id_/http%3A//www.australianmining.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405072829id_/http%3A//www.australianmining.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mining Australia
 
-* ##  We care about your privacy.
+**Thank you, you are now logged in.** x
 
-At Cirrus Media, we‘re committed to protecting your personal information. That’s why we’ve put together this policy. It explains in simple terms what kind of personal information we collect, how we use it and whether we disclose it to anyone else. And because we take privacy seriously, it’s been designed with careful reference to the Australian Privacy Principles (APPs) and related privacy laws.
+Prime, Creative Media Pty Ltd is committed to protecting your privacy whilst navigating this website and its affiliated websites.
 
-This policy applies to the Cirrus Media Group Companies, including Cirrus Media Pty Ltd (“Cirrus Media”, “we”, “us”, “our”) and its related bodies corporate.
+This privacy policy covers the collection, use, storage and disclosure of any information that is collected through this website, and your ability to amend any incorrect personal information provided. Collection, use and disclosure of information Prime Creative Media only collects personal information that is required in order to provide you with business and related services or for the promotion or marketing of its services.
 
-* ##  Collection of personal information
+Any information you provide to Prime Creative Media, including email addresses, names, postal or residential addresses and telephone numbers will be used for the purpose for which it was disclosed. Users can unsubscribe from any Prime Creative Media mailing list at any time.
 
-Personal information is information or an opinion about an identified individual or an individual who is reasonably identifiable. We usually collect personal information directly from individuals. However, we may also collect personal information about individuals from various third parties (for more details, see ‘Handling of personal information’ below).
+Prime Creative Media will not disclose personal information to any third parties unless required by law or necessary to provide the service requested (such as the processing of credit card payments for online purchases or our mailing operations). Prime Creative Media takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in order to protect your personal information.
 
-The type of personal information we collect depends upon your relationship with us. When doing business with us, you may need to prove your identity and in some cases, the law requires you to do so. We may also require your contact information so that we can communicate with you directly or deliver products and services to you. So the information we collect for these purposes might include your name, telephone number, email address, business address, employment information and possibly, your driver’s licence or some other form of photo identification.
+Prime Creative Media will not sell or receive any form of payment for licensing or disclosing your personal information.
 
-Less often we might collect personal information about you in connection with a commercial trading account or financing arrangement (such as bank records, credit card statements, credit reporting information), particularly if you’re intending to enter into the arrangement in your own name. We’ll provide you with more detailed information about exactly how this type of information will be used and who it may be disclosed to prior to collection.
+If however you choose to voluntarily participate in any survey, Prime Creative Media reserves the right to publish results or comments derived from this survey.
 
-At times we may also collect personal information for quality and improvement purposes, such as voice recordings made to our call centre and customer satisfaction surveys.
+Except as otherwise stated, Prime Creative Media does not disclose or publish personal information collected through its website without consent. Access to this information is restricted to Prime Creative Media staff and consultants who are bound to respect the privacy of this information.
 
-Whenever it’s appropriate, we’ll offer you the opportunity to interact with us anonymously or by a different name. Commonly this option will be provided to you when making a general enquiry about our products and services or requesting information about a job opportunity.
+You have the right to access the personal information that Prime Creative Media holds about you and can do this by contacting Prime Creative Media directly. Prime Creative Media may ask you to submit this request in writing for security reasons.
 
-* ##  Handling of personal information
+### Use of Cookies
 
-We will do our utmost to ensure that your personal information is only used and/or disclosed for the purpose it was collected, or a related purpose that’s within your reasonable expectations.
+The Prime Creative Medias website and its affiliate websites use cookies, which are pieces of information that a website transfers to an individual’s computer for record-keeping purposes. The only personal information that a cookie can contain is information you personally supply.  Prime Creative Media recommends you accept cookies to take full advantage of the services this website provides. They allow us to customise information to improve user experience and for tracking user navigation. However, if you are concerned about the use of cookies, you can set your browser to refuse cookies, or to warn you when cookies are used.
 
-  * From time to time we may need to disclose personal information to, or collect information about individuals from various third parties, including: other companies within the Cirrus Media group of companies
-  * credit providers (disclosed and undisclosed)
-  * information technology providers
-  * data processing and payment providers
-  * financial services and banking providers
-  * consultancy firms and independent contractors
-  * auditors, lawyers and other professional service firms
-  * marketing agencies and other marketing services providers
-  * print/mail/digital/imaging/document management service providers
-  * customer, product, business or strategic research and development organisations
-  * data partners and analytics consultants
-  * publicly available sources of information
-  * other entities, as required or authorised by law
+### Commitment to Data Security
 
+Prime Creative Media will take reasonable steps to ensure that all information collected, used or disclosed is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons.
 
+When you make payments online via credit card, that information is encrypted before being sent using SSL certificates.
 
-Some of these third parties may be located overseas.
+Unfortunately, no data transmission over the internet can be guaranteed to be secure. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our web site.
 
-And to help safeguard your privacy, we’ll impose requirements on these entities for handling personal information. We’ll also do our best to inform you at or before the time of collection, about the types of organisations we may be disclosing your personal information to.
+### Links to other sites
 
-In addition to the above, personal information may be provided to other parties where you specifically consent.
+Prime Creative Media will not be held responsible for the privacy or content of any of the web sites linked to the Prime Creative Media and it’s affiliate website.
 
-* ##  Marketing
+### How to contact us
 
-Every now and again you may be contacted by mail, SMS, telephone, email or online so that we can inform you about new products and services, promotions, offers, newsletters, customer surveys competitions and the like. We may also engage third parties to do this on our behalf. In so far as the law allows us to, we are likely to market to you unless you tell us otherwise. Equally, we’ll always give you the opportunity to “opt-out” of direct marketing communications. If you don’t want to be contacted for marketing purposes, you don’t have to wait to be contacted. Simply advise us in any one of the methods set out below and we will make every effort to meet your request as soon as practicable.
+If you have any questions or suggestions regarding our privacy policy, please contact Prime Creative Media here.
 
-* ##  Our use of Cookies and other technologies
+This website and it’s affiliate websites will be continually improved and enhanced with new services, which may change the way we manage information. The content of this Internet Privacy Statement may be updated from time to time to reflect this, so it is suggested that you return to this privacy statement on a regular basis and carefully read the information provided.
 
-Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. Cirrus Media uses cookies to make your use of our websites and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user’s browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website. Cirrus Media also uses other technologies such as Catchbot to collect data. Bots are a type of web crawler that browse the internet for the purpose of web indexing and updating web content.
+### Refund & Return Policy
 
-If you do not wish to receive any cookies or bots you may set your browser to refuse cookies or bots. This may mean you will not be able to take full advantage of Cirrus Media’s services.
+By subscribing to a magazine published by Prime Creative Media Pty Ltd, you:
 
-**Google cookies**  
-Cirrus Media uses Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
+1\. May unsubscribe to a magazine at any time during the subscription. Simply notify Prime Creative Media by emailing subscriptions@primecreative.com.au detailing your name, order number, item to be refunded and reason for the refund and the name of the magazine, and the request will be actioned within 5 working days. You will receive a refund of the proportion of the cost of subscription relating to those magazines not sent to you prior to the date that your request is actioned. Your refund will be paid to the credit card used to purchase the original order. If the card is no longer valid (eg, it has expired) a cheque payment will be issued. The cheque will be sent to the address nominated by you. Cheques may take up to 3 weeks.
 
-We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites.
+2\. May request an additional magazine should the original magazine be damaged or missing. In no circumstances will you receive a refund for a magazine received by you.
 
-Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information.
+3\. Will receive a refund of the proportion of the cost of subscription relating to those magazines not sent to you prior to the date that your request is actioned should the magazine you are subscribed to cease to continue.
 
-To opt out of these features at any time, simply change your Google Ads Settings by [clicking here](http://google.com.au/policies/technologies/ads). Alternatively, you can opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://networkadvertising.org/choices/#completed>).
+### Delivery Policy
 
-If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit.
+When subscribing to a magazine published by Prime Creative Pty Ltd, the first publication will start with the next issue to be printed unless otherwise specified, and may therefore take up to 8 weeks to be delivered.
 
-* ##  Security of personal information
-
-Once we have collected your personal information, we’ll take reasonable steps to ensure it is protected against misuse, loss, interference, unauthorised access, modification and disclosure. We do this in a variety of ways, including maintaining physical security of paper and electronic data stores (such as locks, security systems) and appropriate computer and network security (such as firewalls, user identification policies, encryption, password controls). Your personal information is stored and held securely by third party data storage providers used by Cirrus Media.
-
-* ##  Destruction of personal information
-
-We’ll destroy or de-identify personal information that is no longer needed, provided there is no law requiring us to retain it.
-
-* ##  Access to and correction of personal information
-
-Whilst we have processes in place to make sure your personal information is accurate and up-to-date, we welcome your requests to access and/or correct information we hold about you. To make a request, simply contact us in one of the ways set out below. There are no set charges for making a request, however we may charge a fee if need be, to recover any reasonable costs associated with responding to your request.
-
-* ##  Collection notice: Booking forms
-
-This following information relates specifically to the personal information we collect from our event booking forms. Such information will generally include the names, and contact details of event delegates or sponsors, as well as information about the particular industry sector in which they operate and general billing information.
-
-We use this information for the primary purpose of registering delegates for the events we organise, and administering the attendance and participation of both sponsors and delegates.
-
-If we do not collect the information requested on the booking forms, we may not be able to process an individual’s attendance at an event.
-
-With your consent, we may also share your information with other entities [so that they can contact you about future event opportunities that may be of interest to you.
-
-Please see paragraphs 8 and 10 for details as to how you can access and correct the personal information we collect from our booking forms, or make a complaint about our handling of such information.
-
-We do not disclose personal information collected from our booking forms to recipients located outside Australia.
-
-* ##  Contact Us and complaints
-
-For more information about our privacy practices, make a complaint or lodge a request under this policy, please contact:
-
-The Privacy Officer
-
-Cirrus Media Pty Limited  
-Phone: +612 8484 0888  
-Email: privacy@cirrusmedia.com.au  
-Mail: Cirrus Media Pty Limited,  
-Tower 2 475 Victoria Ave or Locked Bag 2999 Chatswood DC,  
-Chatswood NSW 2067
-
-We will endeavour to respond to your request or complaint within 30 days. If you are still not satisfied, you may take your complaint to the OAIC.
-
-* ##  Application of this Privacy Policy
-
-This policy applies to the following websites:
-
-  * **Cirrus Media Main Site**
-  * cirrusmedia.com.au
-  * **Other sites**
-  * mediakit.moneymanagement.com.au
-  * australiandoctorlive.com
-  * awards.bandt.com.au
-  * events.moneymanagement.com.au
-  * primeawards.com.au
-  * cx-transformation.com.au
-  * digital-storytelling.com.au
-  * franchiseawards.net.au
-  * franchiseawards.net.au
-  * fundmanagerawards.com.au
-  * gpsmakethedifference.com.au
-  * awards.lawyersweekly.com.au
-  * madweek.com.au
-  * mining-productivity.com.au
-  * mmleaderseries.com.au
-  * postretirementforum.com.au
-  * ruraldoctorseminar.com.au
-  * roadshows.travelweekly.com.au
-  * womeninfinance.moneymanagement.com.au
-  * womeninindustry.com.au
-  * investmentplatforms.com.au
-  * medobs.com.au
-  * mydr.com.au
-  * fst.net.au
-  * medicalmedia.com.au
-  * encoredirectory.com.au
-  * aards.com.au
-  * eguide.com.sg
-  * just4docs.com.au
-
-
+When purchasing a single issue or merchandise offered by Prime Creative Media Pty Ltd, please allow up to 2 weeks for domestic delivery and up to 4 weeks for international delivery.
