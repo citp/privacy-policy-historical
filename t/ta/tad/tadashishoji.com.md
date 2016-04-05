@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tadashishoji.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110022041id_/http%3A//www.tadashishoji.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadashishoji.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405105639id_/http%3A//www.tadashishoji.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tadashi Shoji
 
