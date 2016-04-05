@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107032346id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405073113id_/http%3A//www.unitedutilities.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | United Utilities
 
@@ -68,31 +68,9 @@ Please note that every year, when we send bills to you, we are required by our r
 
 We’ve recently decided to share information on all new and existing accounts with Credit Reference Agencies (CRAs) and, when fraud is suspected, Fraud Prevention Agencies (FPAs). These are highly reputable organisations that help to trace people who don’t pay their bills. They strictly safeguard the personal information we share with them about our customers. CRAs or FPAs won’t use your information to send you sales or marketing material you haven’t asked for. [Our leaflet](https://web.archive.org/documents/CRA_factsheet.pdf "CRA factsheet") explains the full details of how your data may be used.
 
-**_What we will share with CRAs_** : Each month we will automatically share the outstanding balance and a status reflecting the customer’s payment behaviour.  If a customer is a good payer (pays their bills on time) this will be shared each month with their account balance and a status ‘0’ which tells Equifax that this customer is up to date.  Customers who are 1 month behind will be shared as a ‘1’, 2 months a ‘2’ etc, but the highest number is a 6.
+**_What we will share with CRAs_** : Each month we will automatically share your outstanding balance and a status reflecting your payment behaviour. If you are a good payer (pay your bills on time) this will be shared each month along with your account balance and a status ‘0’ which tells the Credit Reference Agency that you are up to date. If your account is 1 month behind it will be shared as a ‘1’, 2 months behind a ‘2’ etc, but the highest status that will be shared is a 6.
 
-Once a customer has not paid us for 6 months then the account goes into default.  When this happens, we will then issue the customer with a default notice (legal notice).  Once a default notice is issued to the customer they are given a deadline date in which to make a payment.  If they still do not make a payment by that date we will then let the CRA know and a default marker will be placed on the customer’s credit file.
-
-The information that we send to Equifax is as follows:
-
-•             Customers data share reference number
-
-•             Date account opened
-
-•             Date account closed
-
-•             Default date – the date an account was defaulted
-
-•             Date of birth
-
-•             Current balance
-
-•             Default balance – the amount defaulted
-
-•             Repayment frequency – if on a payment plan
-
-•             Name
-
-•             Address
+If you fail to pay us or keep up to date with your agreed payment arrangement then your account will fall into default. When this happens, we will issue you a default notice and you will be given a deadline date by which you need to make the required payment. If you do not make a payment by the due date shown on the letter, we will then let the CRA know and a default will be registered on your credit file.
 
 We strongly advise that you read the contents of our [quick guide to data sharing](https://web.archive.org/documents/Quick_guide_to_data_sharing_fact_sheet.pdf "Quick guide to data sharing").
 
@@ -116,4 +94,4 @@ In the course of undertaking the activities specified in this privacy policy we 
 
 
 
-[Email this page](https://web.archive.org/email-a-friend.aspx)
+[Email this page](https://web.archive.org/email-a-friend-form.aspx)
