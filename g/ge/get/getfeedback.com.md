@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318081605id_/https%3A//getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053309id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
 
-# GetFeedback - Online Survey Software, Re-Imagined.
+# Privacy Policy - GetFeedback
 
 ## Privacy Policy
 
-We respect your privacy. This Privacy Policy applies to any data or information that we’ve collected, or collect, about and/or from you in connection with your use of our website, products, applications, or services provided by GetFeedback, Inc. under the GetFeedback brand (“ **Services** ”). 
+We respect your privacy. This Privacy Policy applies to any data or information that we’ve collected, or collect, about and/or from you in connection with your use of our website, products, applications, or services provided by GetFeedback, Inc. under the GetFeedback brand (“ **Services** ”).
 
 Survey creators use our Services to build surveys that they send out to survey takers. Below we describe what types of data or information we may collect through our Services and our practices for collecting, using, protecting, and disclosing it as it pertains to both survey creators and survey takers.
 
 ### Changes to this Privacy Policy
 
-We may make changes to this Privacy Policy from time to time. If we do, we’ll post the revised Privacy Policy on our website and/or we will send an email to the last email address you gave us. Unless you terminate your use of our Services within ten (10) days following the publication of the new Privacy Policy, the new Privacy Policy will go into effect and apply to any continued use of our Services. 
+We may make changes to this Privacy Policy from time to time. If we do, we’ll post the revised Privacy Policy on our website and/or we will send an email to the last email address you gave us. Unless you terminate your use of our Services within ten (10) days following the publication of the new Privacy Policy, the new Privacy Policy will go into effect and apply to any continued use of our Services.
 
 ### Questions
 
@@ -37,12 +37,12 @@ In addition, certain third parties, such as analytics companies, may use automat
 We use information that we collect about you or that you provide to us, including any personal information, to:
 
   * Identify who you are, including both identification and authentication.
-  * Provide you the Services and any other information that you request from us. 
+  * Provide you the Services and any other information that you request from us.
   * Provide you with information about your account, including renewals and changes in Services or your account status.
   * Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
   * Improve our Services.
   * Provide you with customer support.
-  * Market to you other products and services that we offer (you may always opt out of these communications at any time by clicking on the “unsubscribe” link at the bottom of every communication). 
+  * Market to you other products and services that we offer (you may always opt out of these communications at any time by clicking on the “unsubscribe” link at the bottom of every communication).
   * Fulfill any other purpose for which you provide it.
 
 
@@ -51,7 +51,7 @@ The usage information we collect helps us to improve our Services and to deliver
 
 ### When Is Your Information Shared or Disclosed?
 
-We will not sell your survey content or personal information. Your survey content is owned by you and you choose with whom to share your surveys. We provide you a link to your survey and how you share this link is up to you. Anyone with access to the link will have access to your survey content u!ntil you delete the survey.
+We will not sell your survey content or personal information. Your survey content is owned by you and you choose with whom to share your surveys. We provide you a link to your survey and how you share this link is up to you. Anyone with access to the link will have access to your survey content until you delete the survey.
 
 We limit our own access to your survey content. Only our administrators and customer/technical support managers have access to your survey content. Our staff will not access your survey content, grant access to third parties or otherwise disseminate your survey content. If there is a request for support, or if you hire our consulting services, then the person assigned to the request may log into your account for the purpose of troubleshooting and correcting the reported issue or performing the requested task.
 
@@ -60,7 +60,7 @@ In the following limited situations, we may disclose information that we collect
   * To our contractors, service providers and other third parties we use to support our business and who are obligated to keep personal information conﬁdential and use it only for the purposes for which we disclose it to them.
   * In an aggregated or anonymized format where no individual can be identiﬁed or linked to any part of the information.
   * To comply with any court order, law or legal process, including responding to a governmental or regulatory request.
-  * To enforce our rights arising from any contracts entered into between you and us and for billing and collection. 
+  * To enforce our rights arising from any contracts entered into between you and us and for billing and collection.
   * To a buyer or other successor in the event of a merger, sale or transfer of some or all of GetFeedback, Inc.’s assets.
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
@@ -79,11 +79,11 @@ You can delete your survey or survey content at any time. Deleting your content 
 
 ### Data Storage and Security
 
-We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our Services. Our servers are based in the United States and you consent to the transfer and processing of your personal data in the United States by GetFeedback, Inc.] You retain all rights to your data. In certain circumstances survey content may be distributed outside of the United States, such as a content delivery network (CDN). 
+We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our Services. Our servers are based in the United States and you consent to the transfer and processing of your personal data in the United States by GetFeedback, Inc. You retain all rights to your data. In certain circumstances survey content may be distributed outside of the United States, such as a content delivery network (CDN).
 
-To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. Our vendor is certiﬁed as compliant with card association security initiatives, like the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC). 
+To protect your information, our credit card processing vendor uses the latest 128-bit Secure Socket Layer (SSL) technology for secure transactions. Our vendor is certiﬁed as compliant with card association security initiatives, like the Visa Cardholder Information Security and Compliance (CISP), MasterCard® (SDP), and Discovery Information Security and Compliance (DISC).
 
-Our Services require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party. 
+Our Services require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party.
 
 Unfortunately, nobody is truly and completely safe from hackers. Although we do our best to protect your personal information, we cannot guarantee security. If a security breach causes an unauthorized intrusion into our system that materially affects you, we will notify you as soon as possible and report the action we took in response.
 
@@ -93,7 +93,7 @@ Unfortunately, nobody is truly and completely safe from hackers. Although we do 
 
 ### Information We Collect About Survey Takers
 
-When someone responds to a survey created with our Services, we collect, on behalf and upon instructions of survey creators, survey responses as well as information relating to the survey taker and his/her use of our Services. 
+When someone responds to a survey created with our Services, we collect, on behalf and upon instructions of survey creators, survey responses as well as information relating to the survey taker and his/her use of our Services.
 
 We collect usage information automatically when the survey taker uses our Services. This includes device information such as the survey taker’s IP address, operating system, and browser type. Like most websites today, our web servers keep log ﬁles that record data each time a device accesses those servers and those log ﬁles contain data about the nature of each access, including originating IP addresses. If the survey taker arrives on our website, we record information about the source that referred the survey taker to us.
 
@@ -117,9 +117,9 @@ We only use information that we collect about or from survey takers, including a
 
 ### When Survey Taker Information is Shared or Disclosed
 
-Survey responses are disclosed to the survey creator and, as mentioned above, such responses are owned and managed by the survey creator. 
+Survey responses are disclosed to the survey creator and, as mentioned above, such responses are owned and managed by the survey creator.
 
-We host surveys but the survey creators control how surveys are sent out and what is done with the information received. Survey takers should contact the survey creator to understand what will be done with survey responses and whether responses are received anonymously or whether the survey was sent out in a manner that allows the survey creator to link the response with an email address. 
+We host surveys but the survey creators control how surveys are sent out and what is done with the information received. Survey takers should contact the survey creator to understand what will be done with survey responses and whether responses are received anonymously or whether the survey was sent out in a manner that allows the survey creator to link the response with an email address.
 
 In the following limited situations, we may disclose survey taker information to someone other than the survey creator:
 
