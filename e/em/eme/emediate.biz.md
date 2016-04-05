@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emediate.biz privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206083412id_/http%3A//www.cxense.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediate.biz privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405033406id_/https%3A//www.cxense.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cxense
+# Privacy Policy - Cxense
 
 Cxense ASA (“Cxense”) provides web-based services to other businesses (“Clients”) to improve the overall relevance of their web applications. These services are advertising, analytics, search and personalization. Cxense and its Clients are commonly referred to below as “we” or “us”.
 
@@ -8,7 +8,7 @@ The purpose of this Privacy Policy is to inform you about how Cxense technology 
 
 The US Federal Government and participants in the technology industry have developed some practical guidelines to help you guard against Internet fraud, secure your computer, and protect your personal information. Cxense supports your use and implementation of these guidelines
 
-If you have any questions about this Privacy Policy, please feel free to contact Cxense at [privacy@cxense.com](mailto:privacy@cxense.com) or write to us at;
+If you have any questions about this Privacy Policy, please feel free to contact Cxense at [privacy@cxense.com](mailto:privacy@cxense.com) or write to us at;
 
 **Cxense ASA**  
 Attn.: Privacy Advocate  
@@ -46,7 +46,7 @@ Cxense processes information on servers in the United States of America and in o
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Cxense features and services may not function properly if your cookies are disabled.
 
-You can choose to opt out from Cxense personalization and ad targeting by going to our [preferences page](https://web.archive.org/preferences "You can choose to opt out from Cxense personalization and ad targeting by clicking this preferences link, then click on the 'Opt Out' button"), and click on the “Opt Out” button. When you opt out, an opt-out cookie will be placed on your computer. The opt-out cookie tells Cxense not to collect your information to tailor online advertisement campaigns, or enable other personalized services. Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+You can choose to opt out from Cxense personalization and ad targeting by going to our [preferences page](https://www.cxense.com/about/preferences/ "You can choose to opt out from Cxense personalization and ad targeting by clicking this preferences link, then click on the 'Opt Out' button"), and click on the “Opt Out” button. When you opt out, an opt-out cookie will be placed on your computer. The opt-out cookie tells Cxense not to collect your information to tailor online advertisement campaigns, or enable other personalized services. Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 ### Information security
 
@@ -61,3 +61,7 @@ Cxense regularly reviews its compliance in view of this Directive. If formal wri
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. Cxense will post any Privacy Policy changes on this page and, if the changes are significant, a more prominent notice will be provided.
+
+Try Cxense Insight free for 30 days
+
+Scroll to top
