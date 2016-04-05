@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026001134id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405212321id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
 
 # Psychz Networks
 
