@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btvguide.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318232216id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btvguide.net privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405080601id_/http%3A//www.tvbuzer.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Series Online, TV Shows, Seasons, News, Episodes Online
 
