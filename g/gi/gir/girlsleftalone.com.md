@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsleftalone.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026132228id_/http%3A//www.girlsleftalone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsleftalone.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405083915id_/http%3A//www.girlsleftalone.com/privacy.html) for the most accurate reproduction.*
 
 # Girls Left Alone - Amateur Solo Girls Masturbating, Teen Masturbation
 
