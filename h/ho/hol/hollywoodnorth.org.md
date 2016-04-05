@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodnorth.org privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107171048id_/http%3A//hollywoodnorth.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodnorth.org privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405115544id_/http%3A//hollywoodnorth.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # Acting and Modeling for Film and Television - hollywoodnorth.org, Online Portfolio, Learn to Act, Learn to Model, Casting Calls, Resources
 
