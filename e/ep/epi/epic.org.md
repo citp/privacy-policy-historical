@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065111id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405111834id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
 
@@ -25,3 +25,15 @@ Share this page:
 ### Subscribe to the EPIC Alert
 
 The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
+
+[EPIC Alert archive »](https://web.archive.org/alert/)
+
+### EPIC Champion of Freedom Awards Dinner 2016
+
+[](https://web.archive.org/june6/)
+
+National Press Club  
+Washington, DC  
+June 6, 2016
+
+[More information »](https://web.archive.org/june6/)
