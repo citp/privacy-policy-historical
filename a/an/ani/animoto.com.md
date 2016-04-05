@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225054610id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animoto.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405160639id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Animoto - Legal: Privacy Policy
 
