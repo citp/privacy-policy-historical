@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110082942id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405064929id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | Software Driver Download™
 
