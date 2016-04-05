@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goreeses.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331003720id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goreeses.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405230028id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Hershey Company | Privacy Policy
 
