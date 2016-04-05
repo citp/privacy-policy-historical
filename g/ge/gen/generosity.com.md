@@ -1,22 +1,16 @@
-> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128192509id_/https%3A//learn.indiegogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405051304id_/https%3A//learn.indiegogo.com/privacy-policy-other) for the most accurate reproduction.*
 
 # Privacy Policy - Indiegogo
 
 ## Indiegogo, Inc.
 
-This Privacy Policy was last modified on and is effective as of June 26, 2015.
+This Privacy Policy was last modified on and is effective as of February 19, 2016.
 
 Indiegogo, Inc. (“ **Indiegogo** ,” “ **we** ,” or “ **us** “) knows that you care how Personal Information about you is collected, used, shared and stored. “ **Personal Information** ” means information which personally identifies you or another.
 
-This Privacy Policy explains what Personal Information will be collected by Indiegogo when you use our Website: [https://www.indiegogo.com/](https://web.archive.org/) and related services (the “ **Service** “), how Personal Information will be used, and how you can control the collection, correction and/or deletion of Personal Information.
+This Privacy Policy explains what Personal Information will be collected by Indiegogo when you use our Website: [https://www.indiegogo.com/](https://web.archive.org/) (the “ **Service** “), how Personal Information will be used, and how you can control the collection, correction and/or deletion of Personal Information.
 
 This Privacy Policy should be read along with our Terms of Use posted at: <https://www.indiegogo.com/about/terms> (“ **Agreement** “), the Partner Terms posted at: <https://www.indiegogo.com/partners/terms>, and Indiegogo’s Cookie Policy posted at: [https://www.indiegogo.com/about/cookies](https://learn.indiegogo.com/cookie-policy/) and all other operating rules, policies and procedures and additional terms and conditions published on our Website (all of which are incorporated by reference) which governs your use of our Website and Service. Capitalized terms, if not defined in this Privacy Policy, are defined in the Agreement.
-
-### TRUSTe
-
-Indiegogo, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this English language Website [https://www.indiegogo.com/](https://web.archive.org/) and the related Service, but does not cover information that may be collected through mobile devices, mobile applications, or any 3rd party business affiliates of Indiegogo.
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at: [privacy@indiegogo.com](mailto:privacy@indiegogo.com) or at: 965 Mission Street, 6th Floor, San Francisco, CA 94103. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ### E.U. Safe Harbor
 
