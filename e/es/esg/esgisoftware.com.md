@@ -1,157 +1,131 @@
-> *The following text is extracted and transformed from the esgisoftware.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325112110id_/https%3A//www.esgisoftware.com/ESGI/Public/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esgisoftware.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405134100id_/https%3A//www.esgisoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# ESGI
+# ESGI - One-on-one Assessments Made Easy
 
-Updated: 10/31/2012
+UPDATED: 11/10/2015
 
-## Introduction
+ESGI, LLC DEVELOPS AND PUBLISHES EDUCATIONAL SOFTWARE FOR THE WEB AND MOBILE DEVICES INCLUDING ESGI, PARENT CONFERENCER, AND CLASS MANAGEMENT TOOL. IN THIS POLICY, "ESGI" REFERS TO ESGI, LLC AND ITS AFFILIATES, WHICH SHALL MEAN SUBSIDIARIES, PARENT COMPANIES, JOINT VENTURES AND OTHER CORPORATE ENTITIES UNDER COMMON OWNERSHIP. WE MAY ALSO REFER TO ESGI AS "WE" OR "US".
 
-ESGI, LLC develops and publishes educational software for the web and mobile devices including ESGI, Parent Conferencer, and Class Management Tool. In this policy, "ESGI" refers to ESGI, LLC and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership. We may also refer to ESGI as "We" or "Us".
+THE ESGI PRIVACY POLICY IS DESIGNED TO PROVIDE CLARITY ABOUT THE INFORMATION WE COLLECT AND HOW WE USE IT TO PROVIDE A BETTER ONLINE EXPERIENCE. ESGI IS SENSITIVE TO PRIVACY ISSUES ON THE INTERNET AND WE BELIEVE IT IS IMPORTANT THAT YOU UNDERSTAND HOW WE TREAT THE INFORMATION YOU MAY PROVIDE TO US. UNLESS SPECIFICALLY STATED OTHERWISE, THE INFORMATION YOU PROVIDE IS NEVER SHARED WITH ANYONE OTHER THAN ESGI EMPLOYEES OR AUTHORIZED CONTRACTORS. ESGI NEVER TRADES OR SELLS ITS PERSONALLY IDENTIFIABLE INFORMATION (PII) EXCEPT AS PROVIDED IN THIS POLICY. WE WILL ASK FOR YOUR CONSENT BEFORE USING INFORMATION FOR A PURPOSE OTHER THAN THOSE THAT ARE SET OUT IN THIS PRIVACY POLICY.
 
-The ESGI Privacy Policy is designed to provide clarity about the information we collect and how we use it to provide a better online experience. ESGI is sensitive to privacy issues on the Internet and we believe it is important that you understand how we treat the information you may provide to us. Unless specifically stated otherwise, the information you provide is never shared with anyone other than ESGI employees or authorized contractors. ESGI never trades or sells its personally identifiable information (PII) except as provided in this policy. We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+THIS PRIVACY STATEMENT APPLIES TO INFORMATION COLLECTED BY THE WEBSITES ESGI MANAGES AND CONTROLS, INCLUDING ESGISOFTWARE.COM, FSP.ESGISOFTWARE.COM, AND OTHER DOMAINS OWNED AND OPERATED BY ESGI, LLC, HEREAFTER REFERRED TO COLLECTIVELY AS “ESGI.”
 
-This privacy statement applies to information collected by the websites ESGI manages and controls, including esgisoftware.com, fsp.esgisoftware.com, and other domains owned and operated by ESGI, LLC, hereafter referred to collectively as “ESGI.”
+BY ACCEPTING OUR PRIVACY POLICY AND TERMS OF SERVICE IN REGISTRATION YOU CONSENT TO OUR COLLECTION, STORAGE, USE, AND DISCLOSURE OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.
 
-By accepting our Privacy Policy and[ ](https://www.esgisoftware.com/ESGI/Public/teacher_agreement.aspx)Terms of Service in registration you consent to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy.
+THIS PRIVACY POLICY DESCRIBES:
 
-This Privacy Policy describes:
+  * THE INFORMATION WE COLLECT, HOW WE DO SO AND THE PURPOSES OF OUR COLLECTION
+  * HOW WE USE AND WITH WHOM WE SHARE SUCH INFORMATION
+  * HOW YOU CAN ACCESS AND UPDATE SUCH INFORMATION
+  * THE CHOICES YOU CAN MAKE ABOUT HOW WE COLLECT, USE AND SHARE YOUR INFORMATION
+  * HOW WE PROTECT THE INFORMATION WE STORE ABOUT YOU
 
-  * the information we collect, how we do so and the purposes of our collection
 
-  * how we use and with whom we share such information
 
-  * how you can access and update such information
+WHEN YOU USE ESGI APPLICATIONS, WE MAY COLLECT ANY OR ALL OF THE INFORMATION THAT YOU GIVE US DEPENDING ON THE TYPE OF TRANSACTION YOU ENTER INTO. FOR EXAMPLE, ESGI MAY ACCESS AND STORE SOME OR ALL OF THE FOLLOWING INFORMATION:
 
-  * the choices you can make about how we collect, use and share your information
+  * YOUR FIRST AND LAST NAME
+  * YOUR EMAIL ADDRESS
+  * YOUR MAILING ADDRESS
+  * YOUR LOCATION ADDRESS
+  * YOUR PHONE NUMBER
+  * CREDIT CARD INFORMATION
+  * DISTRICT AND SCHOOL INFORMATION
+  * Student DATA Information as entered by the teacher, school, district or educational agency.
 
-  * how we protect the information we store about you
 
 
+ESGI ensures that pupil records are the property of and under the control of the school district or local education agency.  Upon written request to by the educational institution, ESGI will destroy any student data for educational institutions who no longer participate in the ESGI program. ESGI will provide written verification that the data has been destroyed as requested.
 
+**PAYMENT INFORMATION**
 
-## Information We Collect
+ESGI WILL COLLECT AND USE INFORMATION OBTAINED FROM CREDIT CARD TRANSACTIONS ONLY FOR BUSINESS PURPOSES. THESE BUSINESS PURPOSES INCLUDE THE PAYMENT FOR ESGI APPLICATION USAGE RIGHTS.  THE CREDIT CARD INFORMATION PROVIDED BY YOU TO ESGI WILL BE STORED IN A CONFIDENTIAL ENCRYPTED MANNER. OUR EMPLOYEES MAY ACCESS SUCH INFORMATION ONLY WHEN THERE IS AN APPROPRIATE BUSINESS REASON TO DO SO, SUCH AS WHEN A REFUND MUST BE ISSUED BACK TO THE CREDIT CARD. WE MAINTAIN PHYSICAL, ELECTRONIC AND PROCEDURAL SAFEGUARDS TO PROTECT YOUR INFORMATION. ESGI'S WEBSITE USES SECURE SOCKET LAYER (SSL) PROTOCOL TO ENSURE TRANSACTION SECURITY WHEN PROCESSING CREDIT CARD TRANSACTIONS.
 
-When you use ESGI applications, we may collect any or all of the information that you give us depending on the type of transaction you enter into. For example, ESGI may access and store some or all of the following information:
+**CUSTOMER SUPPORT CORRESPONDENCE**
 
-  * your first and last name
+WHEN YOU ASK FOR ASSISTANCE FROM OUR CUSTOMER SUPPORT TEAM, THE CONTACT INFORMATION AND CORRESPONDENCE INFORMATION YOU PROVIDE (GENERALLY YOUR NAME, USERNAME, E-MAIL ADDRESS, PHONE NUMBER, DISTRICT\SCHOOL, AND POSITION) IS STORED AND UTILIZED TO PROVIDE CUSTOMER SUPPORT SERVICES.
 
-  * your email address
+WE MAY COLLECT INFORMATION ABOUT YOU IN ANY ONE OR MORE OF THE FOLLOWING WAYS:
 
-  * your mailing address
+**REGISTRATION**
 
-  * your location address
+IF YOU REGISTER FOR A PRODUCT OR SERVICE FROM US, WE REQUEST CERTAIN PERSONALLY IDENTIFIABLE INFORMATION FROM YOU ON OUR ORDER FORM. YOU MUST PROVIDE CONTACT INFORMATION (SUCH AS NAME, EMAIL, AND SHIPPING ADDRESS) AND FINANCIAL INFORMATION (SUCH AS CREDIT CARD NUMBER, EXPIRATION DATE). WE USE THIS INFORMATION FOR BILLING PURPOSES AND TO FILL YOUR ORDER(S). IF WE HAVE TROUBLE PROCESSING AN ORDER, WE WILL USE THIS INFORMATION TO CONTACT YOU.
 
-  * your phone number
+**COOKIES AND AUTOMATED INFORMATION COLLECTION**
 
-  * credit card information
+A COOKIE IS A SMALL TEXT FILE THAT IS STORED ON A USER'S COMPUTER FOR RECORD-KEEPING PURPOSES. WE UTILIZE SESSION ID COOKIES AND PERSISTENT COOKIES TO MAKE IT EASIER FOR YOU TO NAVIGATE OUR SITE AND TRACK ADVERTISING SOURCES AND PROMOTIONAL RATES GIVEN TO EACH USER.  A SESSION COOKIE EXPIRES WHEN YOU CLOSE YOUR BROWSER WHILE A PERSISTENT COOKIE REMAINS ON YOUR HARD DRIVE FOR AN EXTENDED PERIOD OF TIME. YOU CAN REMOVE PERSISTENT COOKIES BY FOLLOWING DIRECTIONS PROVIDED IN YOUR INTERNET BROWSERS HELP FILE.
 
-  * district and school information
+IN GENERAL, WE COLLECT, STORE AND USE YOUR INFORMATION TO PROVIDE YOU WITH A SAFE, SMOOTH, EFFICIENT, AND CUSTOMIZED EXPERIENCE. FOR EXAMPLE, WE MAY USE INFORMATION COLLECTED FROM YOU IN ANY ONE OR MORE OF THE FOLLOWING WAYS:
 
+  * TO CREATE YOUR ACCOUNTS AND ALLOW THE USE OF OUR APPLICATION
+  * TO ENABLE SHARING OF INFORMATION WITHIN YOUR DISTRICT
+  * TO PROVIDE TECHNICAL SUPPORT AND RESPOND TO USER INQUIRIES
+  * TO PREVENT FRAUD OR POTENTIALLY ILLEGAL ACTIVITIES, AND ENFORCE OUR TERMS OF SERVICE
+  * TO DELIVER AND TARGET ADVERTISING.  
+  * TO INFORM USERS ABOUT NEW PRODUCTS OR PROMOTIONAL OFFERS
 
 
 
-Other information that may be needed from time to time to process a request may also be collected as indicated on the website.
+ONE IMPORTANT USE OF YOUR INFORMATION IS COMMUNICATION. IF YOU HAVE PROVIDED YOUR E-MAIL ADDRESS TO ESGI, WE'LL USE IT TO RESPOND TO (I) CUSTOMER SUPPORT INQUIRIES, AND (II) KEEP YOU INFORMED OF NEW PRODUCT DEVELOPMENTS OR OFFERINGS. WE MAY ALSO SEND PROMOTIONAL E-MAIL MESSAGES ("PROMOTIONAL COMMUNICATIONS") DIRECTLY OR IN PARTNERSHIP WITH PARTIES OTHER THAN ESGI. EACH PROMOTIONAL COMMUNICATION WILL GENERALLY OFFER RECIPIENTS CHOICES ABOUT RECEIVING ADDITIONAL MESSAGES.
 
-Payment Information
+WE WILL NOT SHARE YOUR INFORMATION (IN SOME CASES PERSONAL INFORMATION) WITH THIRD PARTIES THAT IS PARTIES OTHER THAN ESGI, EXCEPT FOR THE FOLLOWING CIRCUMSTANCES:
 
-ESGI will collect and use information obtained from credit card transactions only for business purposes. These business purposes include the payment for ESGI application usage rights.  The credit card information provided by you to ESGI will be stored in a confidential encrypted manner. Our employees may access such information only when there is an appropriate business reason to do so, such as when a refund must be issued back to the credit card. We maintain physical, electronic and procedural safeguards to protect your information. ESGI's website uses Secure Socket Layer (SSL) protocol to ensure transaction security when processing credit card transactions.
+**VENDORS, SUPPLIERS, OR OTHER ACCESS TO YOUR INFORMATION**
 
-Customer Support Correspondence
+WE MAY PROVIDE ACCESS TO YOUR PERSONAL INFORMATION TO OUR AFFILIATES OR OTHER TRUSTED BUSINESSES OR PERSONS TO PROCESS IT FOR US, BASED ON OUR INSTRUCTIONS AND IN COMPLIANCE WITH OUR PRIVACY POLICY AND ANY OTHER APPROPRIATE CONFIDENTIALITY AND SECURITY MEASURES.
 
-When you ask for assistance from our customer support team, the contact information and correspondence information you provide (generally your name, username, e-mail address, phone number, district\school, and position) is stored and utilized to provide customer support services.
+**SAFETY, SECURITY AND COMPLIANCE WITH LAW**
 
-SMS Notifications
+YOUR INFORMATION, AND THE CONTENTS OF ALL OF YOUR ONLINE COMMUNICATIONS MAY BE ACCESSED AND MONITORED AS NECESSARY TO PROVIDE THE SERVICE AND MAY BE DISCLOSED: (I) WHEN WE HAVE A GOOD FAITH BELIEF THAT WE ARE REQUIRED TO DISCLOSE THE INFORMATION IN RESPONSE TO LEGAL PROCESS (FOR EXAMPLE, A COURT ORDER, SEARCH WARRANT OR SUBPOENA); (II) TO SATISFY ANY APPLICABLE LAWS OR REGULATIONS (III) WHERE WE BELIEVE THAT THE SERVICE IS BEING USED IN THE COMMISSION OF A CRIME, INCLUDING TO REPORT SUCH CRIMINAL ACTIVITY OR TO EXCHANGE INFORMATION WITH OTHER COMPANIES AND ORGANIZATIONS FOR THE PURPOSES OF FRAUD PROTECTION AND CREDIT RISK REDUCTION; (IV) WHEN WE HAVE A GOOD FAITH BELIEF THAT THERE IS AN EMERGENCY THAT POSES A THREAT TO THE HEALTH AND/OR SAFETY OF YOU, ANOTHER PERSON OR THE PUBLIC GENERALLY; AND (V) IN ORDER TO PROTECT THE RIGHTS OR PROPERTY OF ESGI, INCLUDING TO ENFORCE OURTERMS OF SERVICE.
 
-We receive and store the information you provide, including your telephone number, when you sign up to have SMS password reset notifications sent directly to your mobile phone.
+**MERGER, ACQUISITION, SALE OR FORCED SALE**
 
-## How We Collect Information about You
+IF ESGI IS INVOLVED IN A MERGER, ACQUISITION OR ASSET SALE, INCLUDING A FORCED SALE OF ASSETS, WE WILL, TO THE EXTENT PERMITTED BY LAW, CONTINUE TO ENSURE THE CONFIDENTIALITY OF ANY PERSONAL INFORMATION AND GIVE AFFECTED USERS NOTICE BEFORE PERSONAL INFORMATION IS TRANSFERRED OR BECOMES SUBJECT TO A DIFFERENT PRIVACY POLICY.
 
-We may collect information about you in any one or more of the following ways:
+OUR WEBSITES ARE NOT INTENDED FOR THE USE OF CHILDREN UNDER THE AGE OF 13 AND WE DO NOT KNOWINGLY COLLECT ANY PERSONAL INFORMATION FROM SUCH CHILDREN. CHILDREN UNDER THE AGE OF 13 SHOULD NOT USE OUR WEBSITES AT ANY TIME. IN THE EVENT THAT WE LEARN THAT WE HAVE INADVERTENTLY GATHERED PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13, WE WILL TAKE REASONABLE MEASURES TO PROMPTLY ERASE SUCH INFORMATION FROM OUR RECORDS.
 
-Registration
+YOU ALWAYS HAVE ACCESS TO THE PERSONAL INFORMATION WE HAVE ABOUT YOU. TO REVIEW AND UPDATE YOUR PERSONAL CONTACT INFORMATION, SIMPLY ACCESS [HTTPs://WWW.ESGISOFTWARE.COM](https://www.esgisoftware.com/) AND LOG IN WITH YOUR USERNAME AND PASSWORD, THEN CLICK PROFILE TO ACCESS OR UPDATE YOUR PERSONAL INFORMATION. WE ENCOURAGE YOU TO REVIEW YOUR PREFERENCES REGULARLY TO KEEP THE INFORMATION CURRENT.
 
-If you register for a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your order(s). If we have trouble processing an order, we will use this information to contact you.
+ESGI IMPLEMENTS REASONABLE SECURITY MEASURES TO PROTECT THE SECURITY OF YOUR INFORMATION BOTH ONLINE AND OFFLINE, AND WE ARE COMMITTED TO THE PROTECTION OF CUSTOMER INFORMATION.
 
-Cookies and Automated Information Collection
+Federal law (The Family Educational Rights and Privacy Act (FERPA) 20 U.S.C. § 1232g; 34 CFR Part 99) allows a school educational institution to release student records to an organization that is "conducting studies for, or on behalf of, educational agencies or institutions for the purpose of developing, validating, or administering predictive tests... [or] improving instruction." However, FERPA requires limitations on disclosure of those records and implementation of appropriate security measures to protect those records. To help your school educational institution comply with FERPA, ESGI has adopted certain practices, and requires that educators using this site fulfill certain responsibilities to safeguard student data. The following statement explains our practices and your responsibilities regarding the student data you enter on this site.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We utilize session ID cookies and persistent cookies to make it easier for you to navigate our site and track advertising sources and promotional rates given to each user.  A session cookie expires when you close your browser while a persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers help file.
+FOR USER ACCOUNTS REGISTERED DIRECTLY WITH ESGI APPLICATIONS, PROFILE INFORMATION IS PROTECTED BY THE USERNAME AND PASSWORD OF EACH MEMBER ACCESSING THEIR ONLINE ACCOUNT. IT IS IMPORTANT THAT YOU PROTECT AND MAINTAIN THE SECURITY OF YOUR ACCOUNT AND THAT YOU IMMEDIATELY NOTIFY US OF ANY UNAUTHORIZED USE OF YOUR ACCOUNT. IF YOU FORGET THE PASSWORD TO YOUR ESGI ACCOUNT, THE WEBSITE ALLOWS YOU TO REQUEST PASSWORD RESETS USING YOUR PERSONAL INFORMATION SUCH AS EMAIL or USERNAME. WHEN YOU SIGN INTO YOUR ACCOUNT OR ENTER PAYMENT INFORMATION (SUCH AS A CREDIT CARD NUMBER), WE ENCRYPT THE TRANSMISSION OF THAT INFORMATION USING SECURE SOCKET LAYER TECHNOLOGY ("SSL").
 
-## How We Use the Information We Collect
+WHILE WE TAKE REASONABLE PRECAUTIONS AGAINST POSSIBLE SECURITY BREACHES OF OUR WEBSITES AND OUR CUSTOMER DATABASES AND RECORDS, NO WEBSITE OR INTERNET TRANSMISSION IS COMPLETELY SECURE, AND WE CANNOT GUARANTEE THAT UNAUTHORIZED ACCESS, HACKING, DATA LOSS, OR OTHER BREACHES WILL NEVER OCCUR. Should a breach occur, ESGI will contact the appropriate TEACHER, SCHOOL, DISTRICT OR EDUCATIONAL ENTITY related to the breach and work with the district to contact the parents of students affected by the breach.
 
-In general, we collect, store and use your information to provide you with a safe, smooth, efficient, and customized experience. For example, we may use information collected from you in any one or more of the following ways:
+WE URGE YOU TO TAKE STEPS TO KEEP YOUR PERSONAL INFORMATION SAFE (INCLUDING YOUR ACCOUNT PASSWORD), AND TO LOG OUT OF YOUR ACCOUNT AFTER USE. IF YOU HAVE QUESTIONS ABOUT THE SECURITY OF OUR WEBSITES, PLEASE CONTACT US AT SAM@ESGISOFTWARE.COM.
 
-  * to create your accounts and allow the use of our application
+BECAUSE WE VALUE YOUR PRIVACY WE HAVE TAKEN THE NECESSARY PRECAUTIONS TO BE IN COMPLIANCE WITH THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT. WE THEREFORE WILL NOT DISTRIBUTE YOUR PERSONAL INFORMATION TO OUTSIDE PARTIES WITHOUT YOUR CONSENT.  AS PART OF THE CALIFORNIA ONLINE PRIVACY PROTECTION ACT, ALL USERS OF OUR SITE MAY MAKE ANY CHANGES TO THEIR INFORMATION AT ANYTIME BY LOGGING INTO THE [HTTP://WWW.ESGISOFTWARE.COM](https://web.archive.org/) WEBSITE AND GOING TO THE 'PROFILE' PAGE.
 
-  * to enable sharing of information within your district
+THE FOLLOWING STATEMENTS outline our compliance with the required provisions listed in California Assembly Bill No. 1584, Education Code, Section 49073.1:    
 
-  * to provide technical support and respond to user inquiries
+      
+  * THE pupil records that school districts or schools provide will continue to be the property of and under the control of the school district.
+  * pupils may retain possession and control of their own pupil-generated content, and if applicable a pupil may transfer pupil-generated content to a personal account by contacting ESGI at support@esgisoftware.com.  
 
-  * to prevent fraud or potentially illegal activities, and enforce our Terms of Service
+  * ESGI prohibits against using any information in the pupil record for any purpose other than those required or specifically permitted by the contract.
+  * a parent, legal guardian, or eligible pupil may review personally identifiable information in the pupil's records and correct erroneous information by contacting us at support@esgisoftware.com.
+  * ESI warrants that it has designated an individual responsible for training employees and agents on reasonable protection measures and the confidentiality of Pupil Records consistent with state and federal law.  OUR Security Statement located at https://support.esgisoftware.com/entries/23789132-Data-Security is aimed at being transparent about our security practices.
+  * Immediately upon becoming aware of a compromise of Pupil Records, or of circumstances that could have resulted in an unauthorized access to or disclosure of Pupil Records, ESGI will notify the DISTRICT/Account holder, fully investigate the incident, and fully cooperate with the District’s investigation of the incident, implement remedial measures and respond in a timely manner with notification of the incident to the affected parent, legal guardian, or eligible pupil.
+  * pupil records will not be retained or available upon completion of the terms of the contract. Upon request by the district, ESGI will provide verification in written form that pupil records have been removed from our systems. (NOTE: These requirements do not apply to pupil-generated content if the pupil chooses to establish or maintain an account with ESGI for the purpose of storing that content either by retaining possession and control of their own pupil- generated content, or by transferring pupil-generated content to a personal account).
+  * FEDERAL LAW (THE FAMILY EDUCATIONAL RIGHTS AND PRIVACY ACT (FERPA) 20 U.S.C. § 1232G; 34 CFR PART 99) ALLOWS A SCHOOL EDUCATIONAL INSTITUTION TO RELEASE STUDENT RECORDS TO AN ORGANIZATION THAT IS "CONDUCTING STUDIES FOR, OR ON BEHALF OF, EDUCATIONAL AGENCIES OR INSTITUTIONS FOR THE PURPOSE OF DEVELOPING, VALIDATING, OR         ADMINISTERING PREDICTIVE TESTS... [OR] IMPROVING INSTRUCTION." FERPA REQUIRES LIMITATIONS ON DISCLOSURE OF THOSE RECORDS AND IMPLEMENTATION OF APPROPRIATE SECURITY MEASURES TO PROTECT THOSE RECORDS. ESGI is familiar with the confidentiality, security and disclosure requirements of FERPA, its implementing regulations and Pupil privacy and confidentiality requirements of California law, including but not           limited to California Education Code section 49060 et seq. and have designated an individual responsible for ensuring compliance therewith.  ESGI will abide by the disclosure, security, breach notification retention/destruction and use provisions as required by law. ESGI will only use student data at the direction of the school or district, and in accordance with FERPA and the terms of their contract or written agreement. ESGI will not disclose Pupil Records to any third party.
+  * ESGI PROHIBITS THE USE OF personally identifiable information in pupil records to engage in targeted advertising.
 
-  * to deliver and target advertising
 
-  * to inform users about new products or promotional offers
 
+WE RESERVE THE RIGHT TO MODIFY THIS PRIVACY STATEMENT AT ANY TIME, SO PLEASE REVIEW IT FREQUENTLY. IF WE DECIDE TO CHANGE OUR PRIVACY POLICY, WE WILL POST THOSE CHANGES TO THIS PRIVACY STATEMENT, THE HOMEPAGE, AND OTHER PLACES WE DEEM APPROPRIATE SO THAT YOU ARE AWARE OF WHAT INFORMATION WE COLLECT, HOW WE USE IT, AND UNDER WHAT CIRCUMSTANCES, IF ANY, WE DISCLOSE IT.
 
+IF THERE ARE ANY QUESTIONS REGARDING THIS PRIVACY POLICY YOU MAY CONTACT US USING THE INFORMATION BELOW.
 
+[WWW.ESGISOFTWARE.COM](https://web.archive.org/)
 
-One important use of your information is communication. If you have provided your e-mail address to ESGI, we'll use it to respond to (i) customer support inquiries, and (ii) keep you informed of new product developments or offerings. We may also send promotional e-mail messages ("Promotional Communications") directly or in partnership with parties other than ESGI. Each Promotional Communication will generally offer recipients choices about receiving additional messages.
+PO BOX 938
 
-## Sharing of Your Information
-
-We will not share your information (in some cases personal information) with third parties, that is parties other than ESGI, except for the following circumstances:
-
-Vendors, Suppliers, or Other Access to Your Information
-
-We may provide access to your personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-Safety, Security and Compliance with Law
-
-Your information, and the contents of all of your online communications may be accessed and monitored as necessary to provide the Service and may be disclosed: (i) when we have a good faith belief that we are required to disclose the information in response to legal process (for example, a court order, search warrant or subpoena); (ii) to satisfy any applicable laws or regulations (iii) where we believe that the Service is being used in the commission of a crime, including to report such criminal activity or to exchange information with other companies and organizations for the purposes of fraud protection and credit risk reduction; (iv) when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, another person or the public generally; and (v) in order to protect the rights or property of ESGI, including to enforce our[ ](https://www.esgisoftware.com/ESGI/Public/teacher_agreement.aspx)Terms of Service.
-
-Merger, Acquisition, Sale or Forced Sale
-
-If ESGI is involved in a merger, acquisition or asset sale, including a forced sale of assets, we will, to the extent permitted by law, continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
-
-## Our Policies Concerning Children
-
-Our websites are not intended for the use of children under the age of 13 and we do not knowingly collect any personal information from such children. Children under the age of 13 should not use our websites at any time. In the event that we learn that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly erase such information from our records.
-
-## How to Access and Update Your Information
-
-You always have access to the personal information we have about you. To review and update your personal contact information, simply access [http://www.esgisoftware.com](http://www.esgisoftware.com/) and log in with your username and password, then click Profile to access or update your personal information. We encourage you to review your preferences regularly to keep the information current.
-
-## Security of Your Information
-
-ESGI implements reasonable security measures to protect the security of your information both online and offline, and we are committed to the protection of customer information.
-
-For user accounts registered directly with ESGI applications, profile information is protected by the username and password of each member accessing their online account. It is important that you protect and maintain the security of your account and that you immediately notify us of any unauthorized use of your account. If you forget the password to your ESGI account, the website allows you to request password resets using your personal information such as email, username, or phone number.  When you sign into your account or enter payment information (such as a credit card number), we encrypt the transmission of that information using secure socket layer technology ("SSL").
-
-While we take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If you have questions about the security of our websites, please contact us at sam@esgisoftware.com.
-
-## Changes to Our Privacy Policy
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-## Your California Privacy Rights
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.  As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the[ http://www.esgisoftware.com](http://www.esgisoftware.com/) website and going to the 'Profile' page.
-
-## Contact Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[www.esgisoftware.com](http://www.esgisoftware.com/)
-
-PO Box 938
-
-Elkhart, IN 46515
+ELKHART, IN 46515
 
 US
 
-sam@esgisoftware.com
+Support@ESGISOFTWARE.COM
 
 443-333-9898
-
-  
-
