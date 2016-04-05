@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocbattle.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913020411id_/http%3A//www.rocbattle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocbattle.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405162938id_/http%3A//rocbattle.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statment
 
