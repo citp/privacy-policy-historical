@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulubox.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920073618id_/http%3A//www.bulubox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulubox.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405060451id_/http%3A//www.bulubox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bulu Box
 
