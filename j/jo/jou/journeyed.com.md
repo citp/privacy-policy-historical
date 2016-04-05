@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609101254id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405230421id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
-# JourneyEd.com: Discount Academic Student Software & Hardware
+# JourneyEd.com: Academic software discounts, Education software discounts
 
 Last updated: November 17, 2014
 
