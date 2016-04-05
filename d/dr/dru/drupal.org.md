@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupal.org privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231085437id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupal.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406002458id_/https%3A//drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
