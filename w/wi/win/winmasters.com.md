@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winmasters.com privacy policy that was archived on 2015-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150226031548id_/https%3A//www.winmasters.com/en/general-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winmasters.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405082643id_/https%3A//www.winmasters.com/en/general-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ****
 
-###  Introduction
+### Introduction
 
 **winmasters** wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information").
 
@@ -26,11 +26,11 @@ If you are already one of our customers and have opened an account with us, you 
 
 To ensure a good quality of service we may monitor and record any communication you have with us whether in writing, by phone or by electronic mail. E-mail is not encrypted to / from either the public or private areas of this website. **winmasters** recommends that with the exception of your name and username you do not send us Personal Information by e-mail. Any information which you transmit to us is transmitted at your own risk.
 
-### How we use Cookies on our Site and what Information we collect
+## How we use Cookies on our Site and what Information we collect
 
 **winmasters** uses ‘cookies’ in order to provide you with a better experience.
 
-### How your Personal Information will be used?
+## How your Personal Information will be used?
 
 **winmasters** will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from **winmasters** , you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. **winmasters** will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database.
 
@@ -134,8 +134,7 @@ http://www.silverpop.com/About/Trust--Privacy/Privacy-Policy-Legal/Privacy-Polic
 
 **Google Analytics**
 
-http://tools.google.com/dlpage/gaoptout  
-
+http://tools.google.com/dlpage/gaoptout
 
 **Functionality Cookies**
 
@@ -167,8 +166,7 @@ Examples of functionality cookies that **winmasters** sets:
 \- SaveBonusService - Actual active bonus   
 \- SportsFavorites - Sports favorite leagues   
 \- FilterSettings - Sports filter options   
-\- SiteLanguage - The current site language  
-
+\- SiteLanguage - The current site language
 
 **Targeting Cookies**
 
