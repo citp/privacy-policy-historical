@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923152951id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyaustin.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405112222id_/https%3A//www.realtyaustin.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Realty Austin Privacy Policy
 
@@ -80,4 +80,4 @@ If you feel that we are not abiding by this privacy policy, you should contact u
 
 3801 N. Capital of Texas Highway  
 Suite J-180  
-Austin, TX 78748
+Austin, TX 78746
