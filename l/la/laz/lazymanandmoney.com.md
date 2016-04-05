@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906110310id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405042044id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions - Lazy Man and Money
 
@@ -60,6 +60,3 @@ We may allow third-party companies that use tracking technologies, such as cooki
 Last updated on January 7, 2015. 
 
 This post deals with: ... and focuses on: 
-
-Previous: [Monthly Necessary Expenses Chart](http://www.lazymanandmoney.com/monthly-necessary-expenses-chart/)  
-Next: [Zecco](http://www.lazymanandmoney.com/zecco/)
