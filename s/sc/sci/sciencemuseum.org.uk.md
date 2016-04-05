@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025102422id_/http%3A//www.sciencemuseum.org.uk/about_us/contact_us/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405214041id_/http%3A//www.sciencemuseum.org.uk/about-us/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookies - About us - Science Museum
+# Privacy and cookies
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
