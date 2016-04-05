@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vessel.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226030250id_/https%3A//www.vessel.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vessel.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405205943id_/https%3A//www.vessel.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vessel
 
