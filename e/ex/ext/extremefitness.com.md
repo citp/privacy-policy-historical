@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120013222id_/http%3A//www.extremefitness.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405104915id_/http%3A//www.extremefitness.com/page/privacy-policy) for the most accurate reproduction.*
 
 # ExtremeFitness Privacy Policy | Extreme Fitness
 
