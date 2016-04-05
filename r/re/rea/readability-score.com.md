@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122241id_/https%3A//readability-score.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readability-score.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405144026id_/https%3A//readability-score.com/privacy) for the most accurate reproduction.*
 
 # Readability-Score.com - Free Online Readability Calculator - Flesch Kincaid, Gunning Fog and more ...
 
