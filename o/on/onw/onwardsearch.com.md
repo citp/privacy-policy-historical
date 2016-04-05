@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041701id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405073912id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Onward Search
 
@@ -38,7 +38,7 @@ We will post any changes to our privacy policy on this page. Questions about our
 
   * Email: [privacy@onwardsearch.com](mailto:privacy@onwardsearch.com)
   * Postal mail: Onward Search, ATTN: Privacy, 64 Danbury Rd, Wilton CT 06897
-  * [Contact form](http://www.onwardsearch.com/about/contact/ "Contact")
+  * [Contact form](http://onwardsearch.com/about/contact/ "Contact")
   * Telephone: 800-829-0072
 
 
