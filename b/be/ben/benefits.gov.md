@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217054832id_/http%3A//www.benefits.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefits.gov privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406014105id_/http%3A//www.benefits.gov/privacy-and-terms-of-use) for the most accurate reproduction.*
 
 # Benefits.gov - Privacy & Terms of Use
 
