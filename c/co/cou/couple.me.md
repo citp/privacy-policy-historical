@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couple.me privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922023923id_/https%3A//couple.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couple.me privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405075252id_/https%3A//couple.me/privacy) for the most accurate reproduction.*
 
 # Couple - Privacy
 
 ## TenthBit Privacy Policy
 
-#### Last updated: May 15, 2014
+#### Last updated: October 5, 2015
 
 Your privacy is critically important to us. Our privacy policy will explain how personal information is collected, used and disclosed by TenthBit Inc. (TenthBit) with respect to your access and use of TenthBit’s web site couple.me, mobile applications and services (“Couple ”).
 
@@ -74,15 +74,11 @@ Generally, we collect, store, use and disclose information to enable us to:
 
 
 
-Except as set out in this Privacy Policy, your Personal Information will not be used for any other purpose without informing you first by updating this Privacy Policy.
-
-Except for the limited disclosures described in this Privacy Policy, we do not sell customer lists or any personal information to third parties, and we will endeavor to keep your email address private.
-
 Anonymous aggregate statistics that do not personally identify a Couple user will be kept and used by us for various purposes including analysis and reporting of usage patterns. TenthBit reserves the right to use and disclose anonymous aggregate statistics for any purpose and to any third party in its sole discretion.
 
 ### What Do We Share With Third Parties?
 
-From time to time we may employ third parties to help us provide or improve Couple. These third parties, such as our analytics or hosting provider, may have limited access to databases of user information or registered member information solely for the purpose of helping us provide or improve the Couple and they will not be able to use the information about our members or visitors for any other purpose.
+From time to time we may employ third parties to help us provide or improve Couple. These third parties, such as our analytics or hosting provider, may have limited access to databases of user information or registered member information solely for the purpose of helping us provide or improve the Couple and they will not be able to use the information about our members or visitors for any other purpose. We also may share your information with other companies which are owned by the or under the same ownership as our company.
 
 We may disclose Personal Information in some other limited circumstances, but we will specifically describe them to you when we collect the information, such as in the terms of use for a new service or by revising this Privacy Policy.
 
@@ -91,7 +87,8 @@ We may, and you hereby authorize us to, disclose your Personal Information (incl
   * if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other website users, or anyone else (including the rights or property of anyone else) that could be harmed by such activities,
   * in connection with any legal investigation,
   * when we believe in good faith that such disclosure is required by and in accordance with the law or to respond to subpoenas or warrants served on TenthBit,
-  * to any third party with your prior consent to do so.
+  * to any third party with your prior consent to do so,
+  * to other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings. 
 
 
 
