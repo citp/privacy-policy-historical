@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225054610id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the animoto.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405160639id_/https%3A//animoto.com/legal/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><head>
+<!DOCTYPE html><html lang="en" class="no-js "><head>
     <link rel="dns-prefetch" href="//d14pr3cu5atb0x.cloudfront.net">
 <link rel="dns-prefetch" href="//d2r6q1p754p9pi.cloudfront.net">
 <link rel="dns-prefetch" href="//d2yc83ilop69kq.cloudfront.net">
@@ -34,30 +34,34 @@ var AS_HEADERS = {
 };
 
         var optimizelyRedirect = function(url) {
-    if(!url) {
-      return;
-    }
+        if(!url) {
+          return;
+        }
 
-    var referrer = document.referrer;
+        var referrer = document.referrer;
 
-    if(referrer && window.localStorage) {
-      window.localStorage.referrer = referrer;
-    }
+        if(referrer && window.localStorage) {
+          window.localStorage.referrer = referrer;
+        }
 
-    var redirectTo  = document.createElement("a"),
-        queryParams = window.location.search;
+        var redirectTo  = document.createElement("a"),
+            queryParams = window.location.search;
 
-    redirectTo.href = url;
-    if(queryParams) {
-      // Check if we are in the optimizely editor
-      if(queryParams.search('optimizely_editor=true') > -1) {
-        return;
-      }
-      redirectTo.search = redirectTo.search ? [queryParams, redirectTo.search.slice(1)].join('&') : queryParams;
-    }
+        redirectTo.href = url;
+        if(queryParams) {
+          // Check if we are in the optimizely editor
+          if(queryParams.search('optimizely_editor=true') > -1) {
+            return;
+          }
+          redirectTo.search = redirectTo.search ? [queryParams, redirectTo.search.slice(1)].join('&') : queryParams;
+        }
 
-    window.location.replace(redirectTo.href);
-  };
+        window.location.replace(redirectTo.href);
+      },
+      optimizelyCreateCookie = function(key, val) {
+        document.cookie = key + '=' + val + '; path=/';
+      };
+
 
   var animotoGAProfiles = {
     'default'      : {
@@ -115,14 +119,14 @@ var AS_HEADERS = {
   window.optimizely = window.optimizely || [];
   window.optimizely.push(['setCookieDomain', 'animoto.com'])
   window.optimizely.push(['customTag', {'customer_type': 'visitor'}]);
-  window.optimizely.push(['addToSegment', 'customer_type', 'visitor']);
+  window.optimizely.push(['setDimensionValue', 'customer_type', 'visitor']);
   window.optimizely.push(['customTag', {'user_segment': 'Unknown'}]);
-  window.optimizely.push(['addToSegment', 'user_segment', 'Unknown']);
+  window.optimizely.push(['setDimensionValue', 'user_segment', 'Unknown']);
 
   var optimizelySettings = optimizelySettings || {};
 
   optimizelySettings.user = {
-    new_user              : true,
+    new_user              : false,
     logged_in             : false,
     is_first_purchase     : false,
     has_vault_account     : false,
@@ -144,10 +148,10 @@ var AS_HEADERS = {
 
     </script>
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="96N0ZUMgIdG+aiJjMGXnXSOebTi/rmx9aV4HxonxmLM+LnZp7PZzNtJkTLXpeUsUOo7u+sXk2pL4S251ci4Tfw==">
+<meta name="csrf-token" content="moS0pNXuYI2eI6N0W1ATjdU/Yx4Ms9wl55DGNyjURGdLvbDrmYJVywr+tTY58Nl1h4sa95ToSiIx8D5ylctrzQ==">
     <script>
 //<![CDATA[
-var AUTH_TOKEN = "VxpWKueOkwXgYRa994oLhLKxjoy3acKps5lEFDz02OGel1QmSFjB4oxveGsulqfNq6ENTs0jdEYijC2nxytTLQ==";
+var AUTH_TOKEN = "SAfF2mgmQQwxREAj4RwVkr+GDYG2xPbeDwFP5LqW7UKZPsGVJEp0SqWZVmGDvN9q7TJ0aC6fYNnZYbehB4nC6A==";
 //]]>
 </script>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -181,83 +185,9 @@ var AUTH_TOKEN = "VxpWKueOkwXgYRa994oLhLKxjoy3acKps5lEFDz02OGel1QmSFjB4oxveGsulq
     <meta name="apple-itunes-app" content="app-id=459248037" affiliate-data="partnerId=30&amp;siteId=0alxMR3GijA">
     <link href="https://animoto.com/legal/privacy_policy" rel="canonical">
 
-      <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/phoenix-f272d47a09.css">
+      <link rel="stylesheet" media="screen" href="//d14pr3cu5atb0x.cloudfront.net/pkg/css/phoenix-2859d43246.css">
       
     <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/modernizr-ee2ce69250.js" crossorigin="anonymous"></script>
-    
-<script src="//cdn.ravenjs.com/1.3.0/native/raven.min.js"></script>
-<script>
-  var ravenOptions = {
-    release : 'c5ce397b67838c6a4ef55f344ddda35a7c6431a8',
-
-    whitelistUrls : ['animoto.com','d14pr3cu5atb0x.cloudfront.net','d2r6q1p754p9pi.cloudfront.net','d2yc83ilop69kq.cloudfront.net','d150hyw1dtprld.cloudfront.net'],
-
-    tags: {
-      environment : 'production',
-    },
-
-    // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
-    // See: https://github.com/getsentry/raven-js/issues/73
-    ignoreErrors : [
-      // Random plugins/extensions
-      'top.GLOBALS',
-      // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
-      'originalCreateNotification',
-      'canvas.contentDocument',
-      'MyApp_RemoveAllHighlights',
-      'http://tt.epicplay.com',
-      'Can\'t find variable: ZiteReader',
-      'jigsaw is not defined',
-      'ComboSearch is not defined',
-      'http://loading.retry.widdit.com/',
-      'atomicFindClose',
-      // Facebook borked
-      'fb_xd_fragment',
-      // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
-      // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
-      'bmi_SafeAddOnload',
-      'EBCallBackMessageReceived',
-      // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
-      'conduitPage',
-      // Generic error code from errors outside the security sandbox
-      // You can delete this if using raven.js > 1.0, which ignores these automatically.
-      'Script error.',
-      'Blocked a frame with origin "https://animoto.com" from accessing a cross-origin frame.',
-      'SimilarDeals.ui.fdUi'
-    ],
-
-    ignoreUrls : [
-      // Facebook flakiness
-      /graph\.facebook\.com/i,
-      // Facebook blocked
-      /connect\.facebook\.net\/en_US\/all\.js/i,
-      // Woopra flakiness
-      /eatdifferent\.com\.woopra-ns\.com/i,
-      /static\.woopra\.com\/js\/woopra\.js/i,
-      // Chrome extensions
-      /extensions\//i,
-      /^chrome:\/\//i,
-      // Other plugins
-      /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
-      /webappstoolbarba\.texthelp\.com\//i,
-      /metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
-      /affs/i
-    ]
-    ,shouldSendCallback : function(data) {
-      // ignore IE8
-      if (!Array.prototype.forEach) {
-        return false;
-      }
-
-      var sampleRate = 3;
-      return (Math.random() * 100 <= sampleRate);
-    }
-  };
-
-  Raven.config('https://c143d5448ec14841bd674a8c312949ff@app.getsentry.com/34788', ravenOptions).install();
-
-</script>
-
     
     
   </head>
@@ -471,14 +401,13 @@ var AUTH_TOKEN = "VxpWKueOkwXgYRa994oLhLKxjoy3acKps5lEFDz02OGel1QmSFjB4oxveGsulq
         <li><a class="track-global_footer-realestate" href="/pro/real-estate">Real Estate</a></li>
         <li><a class="track-global_footer-personaluse" href="/pro/personal-use">Personal Use</a></li>
         <li><a class="track-global_footer-education" href="/pro/education">Education</a></li>
-        <li><a class="track-global_footer-charity" href="/cause">Non-Profits</a></li>
         <li><a class="track-global_footer-weddings" href="/events/wedding-video-slideshows">Weddings</a></li>
         <li><a class="track-global_footer-birthdays" href="/events/birthday-video-slideshows">Birthdays</a></li>
         <li class="last"><a class="track-global_footer-travel" href="/events/vacation-video-slideshows">Travel</a></li>
       </ul>
     </div>
     <div class="nav nav-sharecopyterms clearfix">
-      <p>© 2015 Animoto Inc. All Rights Reserved.
+      <p>© 2016 Animoto Inc. All Rights Reserved.
       </p>
       <div class="sharebadge-container">
         <div id="42e5e175-0ed2-44c4-b1b9-b6d066d8710d" class="footerpic footerpic-trust_e">
@@ -500,8 +429,87 @@ var AUTH_TOKEN = "VxpWKueOkwXgYRa994oLhLKxjoy3acKps5lEFDz02OGel1QmSFjB4oxveGsulq
 </div>
 
 
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/core-1caff876a4.js" crossorigin="anonymous"></script>
-    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/util-620314de26.js" crossorigin="anonymous"></script>
+
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/vendor-753b01fc87.js" crossorigin="anonymous"></script>
+    
+<script src="https://cdn.ravenjs.com/2.2.0/raven.min.js"></script>
+
+<script>
+  var ravenOptions = {
+    release : 'af72ea0d33e89a5031926377d990d918c22d698f',
+
+    whitelistUrls : ['animoto.com','d14pr3cu5atb0x.cloudfront.net','d2r6q1p754p9pi.cloudfront.net','d2yc83ilop69kq.cloudfront.net','d150hyw1dtprld.cloudfront.net'],
+
+    tags: {
+      environment : 'production',
+    },
+
+    maxMessageLength : 1000,
+
+    // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
+    // See: https://github.com/getsentry/raven-js/issues/73
+    ignoreErrors : [
+      // Random plugins/extensions
+      'top.GLOBALS',
+      // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+      'originalCreateNotification',
+      'canvas.contentDocument',
+      'MyApp_RemoveAllHighlights',
+      'http://tt.epicplay.com',
+      'Can\'t find variable: ZiteReader',
+      'jigsaw is not defined',
+      'ComboSearch is not defined',
+      'http://loading.retry.widdit.com/',
+      'atomicFindClose',
+      // Facebook borked
+      'fb_xd_fragment',
+      // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+      // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+      'bmi_SafeAddOnload',
+      'EBCallBackMessageReceived',
+      // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+      'conduitPage',
+      // Generic error code from errors outside the security sandbox
+      // You can delete this if using raven.js > 1.0, which ignores these automatically.
+      'Script error.',
+      'Blocked a frame with origin "https://animoto.com" from accessing a cross-origin frame.',
+      'SimilarDeals.ui.fdUi'
+    ],
+
+    ignoreUrls : [
+      // Facebook flakiness
+      /graph\.facebook\.com/i,
+      // Facebook blocked
+      /connect\.facebook\.net\/en_US\/all\.js/i,
+      // Woopra flakiness
+      /eatdifferent\.com\.woopra-ns\.com/i,
+      /static\.woopra\.com\/js\/woopra\.js/i,
+      // Chrome extensions
+      /extensions\//i,
+      /^chrome:\/\//i,
+      // Other plugins
+      /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+      /webappstoolbarba\.texthelp\.com\//i,
+      /metrics\.itunes\.apple\.com\.edgesuite\.net\//i,
+      /affs/i
+    ]
+    ,shouldSendCallback : function(data) {
+      // ignore IE8
+      if (!Array.prototype.forEach) {
+        return false;
+      }
+
+      var sampleRate = 20;
+      return (Math.random() * 100 <= sampleRate);
+    }
+  };
+
+  Raven.config('https://c143d5448ec14841bd674a8c312949ff@app.getsentry.com/34788', ravenOptions).install();
+
+</script>
+
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/core-36fd271cae.js" crossorigin="anonymous"></script>
+    <script src="//d14pr3cu5atb0x.cloudfront.net/pkg/js/util-741671ab6d.js" crossorigin="anonymous"></script>
     
     <script>
       
@@ -520,7 +528,7 @@ window.fbAsyncInit = function() {
     appID : '2415716319'
   });
 
-  animoto.fb.user.setID(null);
+  animoto.fb.user.setID('null' !== 'null' ? 'null' : null);
   animoto.fb.user.setASUid(null);
 
   FB.Event.subscribe('auth.authResponseChange', animoto.fb.auth.responseChange);
@@ -558,9 +566,20 @@ window.fbAsyncInit = function() {
       jQuery(document).ready(function() {
   animoto.dispatcher.on('user:segment', LoginHelpers.askForSegmentation);
 });
+
         $('.subheader-nav,.tertiary-nav').children('ul').tinyNav();
 
     </script>
+      <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.getRegistration('/').then(function(registration) {
+      if (registration) {
+        registration.unregister();
+      }
+    });
+  }
+  </script>
+
 
     
   
