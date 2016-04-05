@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the journeyed.com privacy policy that was archived on 2015-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150609101254id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the journeyed.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405230421id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>	
 		<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,7 +10,7 @@
 		<meta property="og:site_name" content="JourneyEd.com" />
 		<meta property="fb:admins" content="508586264" />-->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>JourneyEd.com: Discount Academic Student Software &amp; Hardware</title>
+		<title>JourneyEd.com: Academic software discounts, Education software discounts</title>
 					<meta name="keywords" content="academic software discount, student software discount, school, educator, educational, autocad, auto cad, cad, animation, web, design, adobe, alias, autodesk, 3ds max, photoshop, illustrator, creative suite, dreamweaver, flash, studio, windows, vista, office 2003, office 2007, microsoft, journey, journeyed, iphone">
 						<meta name="description" content="Academic software discounts at up to 85% off retail prices for students, teachers, faculty and schools. Academic discount on Adobe, Microsoft, Autodesk and thousands of software titles available.">
 			
@@ -19,11 +19,11 @@
 
 		<link rel="canonical" href="http://http://www.journeyed.com/page/privacy">
 
-					<link rel="stylesheet" href="/css/master.css?v=1428505683" type="text/css" media="all" charset="utf-8">
+					<link rel="stylesheet" href="/css/master.css?v=1455137784" type="text/css" media="all" charset="utf-8">
 				
 					<link rel="stylesheet" href="/css/shared/fontawesome.css?v=1411152492" type="text/css" media="all" charset="utf-8">
 				
-					<link rel="stylesheet" href="/css/colorbox/colorbox.css?v=1412177176" type="text/css" media="all" charset="utf-8">
+					<link rel="stylesheet" href="/css/colorbox/colorbox.css?v=1449172491" type="text/css" media="all" charset="utf-8">
 				
 					<link rel="stylesheet" href="/css/jqueryui/jquery-ui-1.10.4.custom.css?v=1408055997" type="text/css" media="all" charset="utf-8">
 				
@@ -97,18 +97,19 @@
 
 			$(document).ready(function() {
 				$('.menu').jqsimplemenu();
-				$('.howtobuy').on('click', function(e) {
-					e.stopPropagation();
-					e.preventDefault();
-					$.colorbox({
-						inline: true,
+
+				if ($('.frontmenu').length > 0) {
+					$('.frontmenu').jqsimplemenu();
+				}
+
+				$('.getaquote').colorbox({
+						iframe: true,
 						transition: 'none',
 						speed: 0,
-						href: function() {
-							return '#how-to-buy';
-						},
-						close:''
-					});
+				      close:'',
+				      innerWidth:650,
+				      innerHeight:850,
+				      scrolling:false
 				});
 				$('iframe').each(function() {
 					if ($(this).attr('src') !== undefined) {
@@ -175,7 +176,7 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 	_gaq.push(['_setVar', '103']);
 	_gaq.push(['_setCustomVar', 1, 'Price Group', '132', 1]);
 	_gaq.push(['_setCustomVar', 2, 'UUMC', 'None-None-None', 2]);
-	_gaq.push(['_setCustomVar', 3, 'strat', '50', 2]);
+	_gaq.push(['_setCustomVar', 3, 'strat', '60', 2]);
 
 	
 	_gaq.push(['_setAllowLinker', true]);
@@ -207,6 +208,17 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 	<img class="tag_line" src="https://s3.amazonaws.com/logos.journeyed.com/tagline_schools.png">
 	
 					<!-- Client search form starts -->
+				<div class="cartButton" style="width:100px">
+				     <a href="/cart" class="mnuCart">
+				     	<table border="0" cellspacing="0" cellpadding="0">
+					       <tbody><tr>
+							<td class="carticon"></td>
+							<td>&nbsp;Cart</td>
+						</tr>
+					</tbody></table>			
+					</a>
+				</div>
+
 				<div class="header-searchBox">
 					<form method="get" action="/product/search" class="header-search">
 						<div id="srch">
@@ -217,6 +229,7 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 				</div>
                                            
 			</div>
+
 		</div>
 	<!--[if IE 8]>
 <style media='all'>
@@ -224,14 +237,14 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 	}
 </style>
 <![endif]-->
-			<div id="topmenu">
+<div id="topmenu">
 	<div class="menu-container">
-	<ul class="menu">
-		<li class="MainMenuItem pull-down"><a href="#">SHOP BY CATEGORY</a>
-			<ul>
-						<li class="linkCont right-menu" data-child_id="299814" id="sm299814">
-						<a href="/dept/Office+and+Productivity/299814">Office &amp; Productivity</a>
-							<ul>
+		<ul class="menu">
+			<li class="MainMenuItem pull-down"><a href="#">SHOP BY CATEGORY</a>
+									<ul>
+															<li class="linkCont right-menu" data-child_id="299814" id="sm299814">
+										<a href="/dept/Office+and+Productivity/299814">Office &amp; Productivity</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/299818">Microsoft Solutions</a>
 										</li>
@@ -243,10 +256,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300571">Business Training</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="300569" id="sm300569">
-						<a href="/dept/Graphics,+Art+and+Design/300569">Graphics, Art &amp; Design</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="300569" id="sm300569">
+										<a href="/dept/Graphics,+Art+and+Design/300569">Graphics, Art &amp; Design</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/299815">Adobe Tools</a>
 										</li>
@@ -278,10 +291,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300660">Design Training</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="300138" id="sm300138">
-						<a href="/dept/Educational+Tools/300138">Educational Tools</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="300138" id="sm300138">
+										<a href="/dept/Educational+Tools/300138">Educational Tools</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/299933">Art &amp; Music Software</a>
 										</li>
@@ -317,10 +330,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300580">Classroom Learning Aids</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="299830" id="sm299830">
-						<a href="/dept/AntiVirus+and+Security/299830">AntiVirus &amp; Security</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="299830" id="sm299830">
+										<a href="/dept/AntiVirus+and+Security/299830">AntiVirus &amp; Security</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/299834">Anti-Virus</a>
 										</li>
@@ -332,10 +345,14 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/299836">Firewall &amp; Security</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="299881" id="sm299881">
-						<a href="/dept/CAD+and+Engineering/299881">CAD &amp; Engineering</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="299881" id="sm299881">
+										<a href="/dept/CAD+and+Engineering/299881">CAD &amp; Engineering</a>
+										<ul>
+										<li class="menuItem">
+											<a href="/dept/view/300672">3D Printers</a>
+										</li>
+									
 										<li class="menuItem">
 											<a href="/dept/view/299882">Architectural Design</a>
 										</li>
@@ -355,10 +372,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/299886">CAD Training</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="300022" id="sm300022">
-						<a href="/dept/Laptops+and+Tablets/300022">Laptops &amp; Tablets</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="300022" id="sm300022">
+										<a href="/dept/Laptops+and+Tablets/300022">Laptops &amp; Tablets</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/300024">Notebook Computers</a>
 										</li>
@@ -382,10 +399,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300577">Bags</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="299942" id="sm299942">
-						<a href="/dept/OS+and+Utilities/299942">OS &amp; Utilities</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="299942" id="sm299942">
+										<a href="/dept/OS+and+Utilities/299942">OS &amp; Utilities</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/300574">Operating Systems</a>
 										</li>
@@ -397,10 +414,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/299977">Utilities</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="300575" id="sm300575">
-						<a href="/dept/Music+and+Video/300575">Music &amp; Video</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="300575" id="sm300575">
+										<a href="/dept/Music+and+Video/300575">Music &amp; Video</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/299845">Audio Production</a>
 										</li>
@@ -440,10 +457,10 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300576">Video Hardware</a>
 										</li>
-									</ul>					</li>
-									<li class="linkCont right-menu" data-child_id="300014" id="sm300014">
-						<a href="/dept/Electronic+Accessories/300014">Electronic Accessories</a>
-							<ul>
+									</ul>									</li>
+																		<li class="linkCont right-menu" data-child_id="300014" id="sm300014">
+										<a href="/dept/Electronic+Accessories/300014">Electronic Accessories</a>
+										<ul>
 										<li class="menuItem">
 											<a href="/dept/view/300015">Cables</a>
 										</li>
@@ -495,78 +512,35 @@ var _prum = [['id', '5446d464abe53ddd29954f27'],
 										<li class="menuItem">
 											<a href="/dept/view/300191">Web Cameras</a>
 										</li>
-									</ul>					</li>
-							</ul>
-		</li>
-				<li class="MainMenuItem"><a href="http://schools.journeyed.com/">SCHOOL SERVICES</a></li>
-		
-		
-	</ul>
+									</ul>									</li>
+														</ul>
+							</li>
+										<li class="MainMenuItem pull-down"><a href="http://schools.journeyed.com/?utm_source=B2C">SERVICES</a>
+					<ul style="top: 50px; display: none; left:12px;">
+                                                <li class="linkCont">
+							<a href="http://schools.journeyed.com/">All Services</a>
+						</li>
+						<li class="linkCont">
+							<a href="http://schools.journeyed.com/services/volume-software-licensing/">Volume Licensing</a>
+						</li>
+						<li class="linkCont">
+							<a href="http://schools.journeyed.com/services/it-network-services/">IT Network</a>
+						</li>
+						<li class="linkCont">
+							<a href="http://schools.journeyed.com/it-professional-services/">On Demand IT</a>
+						</li>
+						<li class="linkCont"> 
+							<a href="https://schools.journeyed.com/b2c-quote-je/" class="getaquote cboxElement">Get a Quote</a>
+						</li>
+					</ul>
+				</li>
+			
+			
+		</ul>
 		<div class="rightmenu">
-
-						<a href="#" class="howtobuy">How to Buy</a>
-						<a href="/my_account/">My Account</a>
-			
-			<a href="/cart" class="mnuCart">
-				<table border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td class="carticon"></td>
-						<td>&nbsp;Cart</td>
-					</tr>
-				</tbody></table>			
-			</a>
-			
+			<a href="https://schools.journeyed.com/b2c-quote-je/" class="getaquote cboxElement">Get a Quote</a>			<a href="/my_account/">My Account</a>
 		</div>
-        	</div>
-</div>
-<div style="display: none;">
-	<div id="how-to-buy">
-	<div style="width:500px;">
-	<div class="corrector " id="howToBuyDialog" style="display: block;">
-		<div class="hbTitle">Ordering with JourneyEd.com</div>
-	<div class="hbContent">
-		<p>JourneyEd.com knows how expensive it is to be a student, teacher or parent of a student. To help with those costs, we offer discounts of up to 85% on the software you need.</p>
-		<p>
-   These low prices are made possible by educational discounts that you qualify for as part of the Academic Community. To qualify, simply send us a copy of your school ID or one of these <a href="/page/faqs#elig" class="otroDocumentos">other documents</a>.
-		</p>
-		<p>
-   To receive your order as quickly as possible, follow these steps:
-		</p>
-		<div>
-		    <ul>
-				<li>
-   Add the item(s) you would like to purchase to your cart.
-				</li>
-				<li>
-				    Complete your order online
-				</li>
-				<li>
-	Reference your order number and email, fax or electronically upload one of the <a href="/page/faqs#elig" class="otroDocumentos">accepted academic documents</a> to us.
-				</li>
-			</ul>
-		</div>
-    	</div>
-	<div class="hbTitle">
-	After Ordering
-	</div>
-		<div class="hbContent">
-			<p>
-			It typically takes us less than a business day to process your documents, and you will not be charged until after you have been approved. If there is any problem with the documents we receive we will notify you.
-			</p>
-			<p>
-				<a href="/my_account/order_status">Visit our order status page</a> to check on the progress of your order.
-			</p>
-		</div>
-		<div class="hbTitle">
-			Questions?
-		</div>
-		<div class="hbContent">
-			<p>
-				If you have any questions about this process please <a href="/contact">contact us</a>.
-			</p>
-    		</div>
-	</div>
-</div>	</div>
+			</div>
 </div>
         
        <script type="text/javascript">
