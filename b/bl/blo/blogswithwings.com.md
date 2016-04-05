@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogswithwings.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811224918id_/http%3A//blogswithwings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogswithwings.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405020801id_/http%3A//blogswithwings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Blogs with Wings
 
