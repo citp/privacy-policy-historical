@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waveaccounting.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906145754id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveaccounting.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405102357id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
 
 # Wave • Privacy Policy
 
@@ -22,25 +22,31 @@ To demonstrate our commitment to protecting your privacy, we have developed this
 
 This policy sets out the rules of what we do with your data, and we didn't just make it up. It's based on actual laws and international standards and principles.  
   
-Wave has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
+Wave has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Wave Apps Site (waveapps.com, waveaccounting.com and wavepayroll.com), and does not cover information that may be collected through our mobile application, behind the log in on our sites, software downloaded from the Wave Apps Site, or from any third-party sites. 
+
+| 
+
+TRUSTe is an independent third party, whose goal is to drive trust between consumers and organizations. They've reviewed and approved our policy and practices, and they give us the thumbs up. You can contact me if you have any questions.  
+  
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
+
+| 
+
+If you're not satisfied with our responses, you can contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) to escalate the issue.  
+  
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
 
 Wave Accounting Inc.  
-235 Carlaw Ave., Suite 601  
+235 Carlaw Ave., Suite 501  
 Toronto, ON M4M 2S1  
 Canada  
 [info@waveapps.com](mailto:info@waveapps.com)  
 (416) 521-9141  
 Attention: Privacy Officer  
-| 
-
-TRUSTe is an independent third party, whose goal is to drive trust between consumers and organizations. They've reviewed and approved our policy and practices, and they give us the thumbs up. You can contact me if you have any questions.  
+|   
   
-If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the Wave Apps Site (waveapps.com, waveaccounting.com and wavepayroll.com), and does not cover information that may be collected through our mobile application, software downloaded from the Wave Apps Site, or from any third-party sites.
+Scope
 
-| 
-
-If you're not satisfied with our responses, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request) to escalate the issue.  
-  
 For the purposes of this Privacy Policy, the term "Site" means these websites (waveapps.com, waveaccounting.com and wavepayroll.com), all related webpages, and all related websites operated by affiliates or divisions of Wave, but does not include any third-party websites which are linked to or may link from this website whether or not such third-party websites are used in connection with the Services. "Wave Apps" means the Site and all mobile applications and other applications which provide access to the Services offered by Wave and its affiliates from time to time.
 
 | 
@@ -57,7 +63,7 @@ You can contact our Privacy Officer:
 
 Brian Masson  
 Information Security Officer  
-235 Carlaw Ave., Suite 601  
+235 Carlaw Ave., Suite 501  
 Toronto, ON M4M 2S1  
 Canada  
 [privacy@waveapps.com](mailto:privacy@waveapps.com)  
@@ -81,7 +87,7 @@ More specifically, Wave collects, uses and discloses information (which may incl
 
 To provide you with our Services. For example, in order to allow us to retrieve banking information for use within the Wave Apps, we collect your or your business' online banking credentials (i.e. account number, username and password; see Storage of Online Banking Credentials, below, for details) if you choose to provide them.
 
-To promote or offer you products, services and offers (including new and other Services which are offered by us, our sponsors and partners) that may be relevant to you and your business. When you are using our Services you may be provided with relevant savings opportunities and related links based on information related to your use of the Services. Wave will use your Personal Information for the purpose of tailoring savings opportunities to your interests. However, we will never share your Personal Information with companies offering the savings opportunities. We only provide these companies with nonidentifiable, aggregate information (e.g. the number of times one of their savings opportunities was clicked).
+To promote or offer you products, services and offers (including new and other Services which are offered by us, our sponsors and partners) that may be relevant to you and your business. When you are using our Services you may be provided with relevant savings opportunities and related links based on information related to your use of the Services. Wave will use your Personal Information for the purpose of tailoring savings opportunities to your interests. However, we will never share your Personal Information with companies offering the savings opportunities. We only provide these companies with non-identifiable, aggregate information (e.g. the number of times one of their savings opportunities was clicked).
 
 To contact you for the purposes of product information, service updates, notifications relating to the Services, newsletters and tailored savings opportunity messages. Wave will never sell your contact details to a third party.
 
@@ -98,7 +104,7 @@ To assist in due diligence relating to any corporate action such as a financing,
 We collect your information to better provide our services to you. These services include things like:
 
   * hooking up to your bank
-  * promoting products and offers that may be relevant to your business (but only based on aggregate, nonidentifiable data)
+  * promoting products and offers that may be relevant to your business (but only based on aggregate, non-identifiable data)
   * providing tech support
   * monitoring our systems
   * compliance with the law
@@ -125,19 +131,29 @@ In the web page that opens, click "Yes, please close my account" to complete you
 
 Once your account is closed, we will take the following actions:
 
-For users of all Wave products except Payroll:
+For users of all Wave products except Payments and Payroll:
 
 All Personal Information relating to your account will be deleted from our databases. However, anonymous transactional data (which does not personally identify you or any of your employees, agents, contractors and representatives) will be retained in our database.
 
-For users of Wave's Payroll product:
+| 
+
+You can close your account whenever you want by following the steps on the left — we'll miss you, but we won't hold it against you, and there's no penalty.  
+  
+For users of Payroll by Wave:
 
 In order to support our Payroll Guarantee, account information related to Payroll will be retained for a period of 7 years after the date of the most recent payroll you ran.
 
 | 
 
-You can close your account whenever you want by following the steps on the left — we'll miss you, but we won't hold it against you, and there's no penalty.
+When you confirm the closure, we'll delete your personal information from our apps — except for payroll. We need to keep payroll information based on IRS/CRA rules.  
+  
+For users of Payments by Wave:
 
-When you confirm the closure, we'll delete your personal information — except for payroll users. We need to keep payroll information based on IRS/CRA rules.  
+In order to support our regulatory compliance, payments information will be retained for a period of 3 years after the date of your last processed payment.
+
+| 
+
+If you’re a payments customer, even after you close your account we’ve got to keep some of your data for a few years.  
   
 At any time, Wave users can opt-out of most email communication from us by clicking on the unsubscribe link at the bottom of our emails, or via the "Email Preferences" section of the "Your Profile" page, accessible via the "Account" menu. Users of Wave's Payroll product wishing to opt-out of payroll emails must do so in the "Notifications" section of the payroll settings page. However, we may still contact you for administrative purposes (e.g. if we need to notify you of a change to our service, changes to our terms of use or privacy policy, there is a problem with your account or an anticipated service interruption, etc.).
 
@@ -157,7 +173,7 @@ To use some services, like payroll, you'll need to provide information about oth
   
 Limiting Collection
 
-Wave limits the collection of Personal Information by collecting only the information required to fulfill the identified purposes. We will collect only the minimum amount of information required to facilitate the Services. However, we provide you with the option of sharing additional information (e.g. your name or address) to enhance your use of the Services.
+Wave limits the collection of Personal Information by collecting only the information required to fulfill the identified purposes. We will collect only the minimum amount of information required to facilitate the Services. However, we provide you with the option of sharing additional information (e.g. your name or address) to enhance your use of the Services. We will share your personal information with third parties only in the ways that are described in this privacy statement.
 
 | 
 
@@ -183,7 +199,9 @@ When you use certain Services, you have the option to share information with oth
 
 In order to connect with certain third-party services, you may have to provide us your credentials. In some cases we may need to store these in order to continue providing that connection.  
   
-Limiting Use, Disclosure and Retention Wave will not use or disclose Personal Information for purposes other than the identified purposes of the Services or such other purposes which we identify from time to time.
+Limiting Use, Disclosure and Retention
+
+Wave will not use or disclose Personal Information for purposes other than the identified purposes of the Services or such other purposes which we identify from time to time.
 
 | 
 
@@ -195,13 +213,39 @@ We also ensure that only those employees responsible for the Services' operation
 
 We'll make sure nobody at Wave can see your personal info unless they need it to do their job.  
   
-Wave will retain Personal Information only for the duration of your enrollment as a Wave user or to support the Wave Payroll Guarantee, and Personal Information will be retained in access-secured databases. If you choose to withdraw from the Services, we will securely destroy your Personal Information in our possession and control within 45 days unless we are required to retain such Personal Information longer to fulfill our obligations to you or to third parties. However, we may retain non-personal information indefinitely.
-
-Payroll data will be retained for a period of five years from the date of employer's most recent payroll processing in order to comply with government regulations regarding retention of payroll data. Payroll data includes but is not limited to (a) employer name, address, tax rates, exempt status and (b) employee name, address, bank account information, SSN or SIN, rate of pay, hire date, birth date, filing status, allowances, benefits and deductions and (c) gross pay, taxes, deductions and net pay for every payroll processed.
+Wave will retain Personal Information only for the duration of your enrollment as a Wave user or to support the Wave Payroll Guarantee and other regulatory or legal requirements. Personal Information will be retained in access-secured databases. If you choose to withdraw from the Services, we will securely destroy your Personal Information in our possession and control within 45 days unless we are required to retain such Personal Information longer to fulfill our obligations to you or to third parties. However, we may retain non-personal information indefinitely.
 
 | 
 
-We'll only keep your data while you're a Wave user. We'll keep it secure. We'll delete the data that can be tied back to you within 45 days of you closing your account. This doesn't include data that can't identify you, and doesn't include payroll data due to IRS/CRA requirements.  
+We'll only keep your data while you're a Wave user. We'll keep it secure. We'll delete the data that can be tied back to you within 45 days of you closing your account. This doesn't include data that can't identify you.  
+  
+Payroll data will be retained for a period of seven years from the date of employer's most recent payroll processing in order to comply with government regulations regarding retention of payroll data. Payroll data includes but is not limited to: 
+
+a. employer name, address, tax rates, exempt status and
+
+b. employee name, address, bank account information, SSN or SIN, rate of pay, hire date, birth date, filing status, allowances, benefits and deductions and
+
+c. gross pay, taxes, deductions and net pay for every payroll processed.
+
+| 
+
+If you're a payroll user, we've got to keep your payroll data due to IRS/CRA requirements.  
+  
+Payments data will be retained for a period of three years from the date of your most recent payment transaction in order to comply with regulatory requirements. Payments data includes, but is not limited to: 
+
+a. banking details and
+
+b. personal information such as name, SSN/SIN, credit information and
+
+c. business details such as legal name, type, tax ID and 
+
+d. transaction details such as amount, card type, expiry date and
+
+e. transfer details such as amount, bankaccount.
+
+| 
+
+If you’re a payments customer, even after you close your account we’ve got to keep some of your data for a few years.   
   
 We retain all Personal Information provided by you or your bank on secure servers, as do our third-party partners and service providers. This data will be subject to the laws of the relevant jurisdictions. Our third-party service providers, including financial institutions, have their own terms of use and privacy policies that will govern your relationship with these third parties. You are responsible for reviewing and agreeing to these terms of use and policies. If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.
 
@@ -223,17 +267,9 @@ When Wave data is viewed in the Wave Apps mobile apps, some data is cached in th
 
 When you use our mobile app(s), we store some data in memory on your mobile device. If you don't close the app when you're done, some of that information may still be in memory and could be viewed by others. We can't take responsibility for this, so be sure to close your apps when you're done.  
   
-Storage of Online Banking Credentials
-
-You may choose to provide your online banking information, for the purpose of importing transactions into Wave and reducing your manual entry workload. To provide improved security and reliability, Wave employs a respected provider of global online banking solutions. This partner stores account and password information. Wave does not store these. This third party uses Triple DES encryption and secure storage protocols to protect Wave customer data.
-
-| 
-
-If you want to connect your bank, you'll need to provide some credentials. To make sure this is safe, we're relying on a third party provider. They store account and password information securely, they encrypt it, and Wave never sees it.  
-  
 Accuracy
 
-Wave relies on you to ensure that the Personal Information you provide to us while using the Services is as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You are welcome to make changes, request deletion or corrections to Personal Information at any time by contacting us at the contact information listed below.
+Wave relies on you to ensure that the Personal Information you provide to us while using the Services is as accurate, complete and up-to-date as necessary for the purposes for which it is to be used. You are welcome to make changes, request deletion or corrections to Personal Information at any time by contacting us at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 We also make every effort to ensure the accuracy of the information in our reports, displays, articles and support queries. However, you must verify all information created from your use of the Services and we recommend that you consult an accounting professional before completing any government or regulatory filing or otherwise relying upon the information, as the use of this information is at your own risk.
 
@@ -251,13 +287,37 @@ Wave implements industry best practices appropriate to the sensitivity of your P
 
 For example, we implement encryption and security controls to protect against unauthorized access to Personal Information during electronic transmission, and we train our employees to follow privacy and security practices specific to the Services. We also undertake security assessments to ensure that we maintain strong security controls.
 
-No method of transmission over the internet or method of electronic storage is 100% secure. Therefore while we do protect your information, we cannot guarantee its absolute security. If you have questions about security on our Site, you can contact us at [privacy@waveapps.com](mailto:privacy@waveapps.com).
-
 We ensure that any third party acting on our behalf in respect of your Personal Information maintains reasonable and appropriate safeguards. For example, these third parties classify customer account data as "super sensitive". This means that access to such data is strictly limited based on business need and this data cannot be transmitted without the use of approved encryption methods. These third parties also employ both an Intrusion Detection System and an Intrusion Prevention System, and run regular network vulnerability scans. Additional information about our third parties' privacy practices is available upon request.
 
 | 
 
 We use industry best practices, both technical (like encryption) and physical (like secure, locked-up server facilities), to protect your data, its storage, transmission, and disposal. Any third parties acting on our behalf also do what's necessary to protect any data they receive. We'll give you more details if you request them.  
+  
+Storage of Online Banking Credentials
+
+You may choose to provide your online banking information, for the purpose of importing transactions into Wave and reducing your manual entry workload. To provide improved security and reliability, Wave employs a respected provider of global online banking solutions. This partner stores account and password information. Wave does not store these. This third party uses Triple DES encryption and secure storage protocols to protect Wave customer data.
+
+| 
+
+If you want to connect your bank, you'll need to provide some credentials. To make sure this is safe, we're relying on a third party provider. They store account and password information securely, they encrypt it, and Wave never sees it.  
+  
+Payment Card Information
+
+To ensure the security of your and your customers’ credit card data, Wave does not store credit card numbers. Instead, we rely on tokenization - a process of substituting sensitive data with a unique identification code. 
+
+Card data is encrypted and exchanged directly from the browser to our payments processor, who then returns a token. 
+
+Wave makes use of these tokens to facilitate the payments process. 
+
+| 
+
+Wave protects you and your customers by not storing cardholder data. We replace this sensitive data with tokens that can be used in their place. If the data isn’t stored anywhere, we greatly reduce the chance of it being stolen.  
+  
+No method of transmission over the internet or method of electronic storage is 100% secure. Therefore while we do protect your information, we cannot guarantee its absolute security. If you have questions about security on our Site, you can contact us at [privacy@waveapps.com](mailto:privacy@waveapps.com).
+
+| 
+
+What we're saying here is that "perfect security" doesn't exist. That might sound scary, but anyone promising "100% secure" is probably lying and we don't want to do that. Wave makes use of a variety of security and monitoring tools, penetration testing, and resilient code frameworks to ensure we're as secure as possible. In addition to that, we'll stay transparent on security issues. If something ever does happen, we'll let you know.   
   
 Openness
 
@@ -306,6 +366,14 @@ If you use Google or Yahoo to sign in via SSO, those services will let us see yo
 Our blog has some social media features (Facebook Like, etc) which, if you use them, may collect your IP, set a cookie, etc. The companies providing these tools have their own rules and policies which apply to the use of these features.
 
 People may use our interfaces to write programs to interact with Wave. Wave may write programs to interact with third-party interfaces. These can be used to collect and share data, but only if you authorize it. If you authorize the sharing of data, the use of that data will be governed by the rules and policies of the third party you're sharing it with.  
+  
+Referrals
+
+If you choose to use our referral service to tell your accountant about our website, we will ask you for their name and email address. We will automatically send them a one-time email inviting him or her to visit the website. Wave does not store this information and uses it for the sole purpose of sending this one-time email. 
+
+| 
+
+If you refer someone, we'll send them a single email invite, but won't keep their information.  
   
 Cookies and Other Tracking Technologies
 
@@ -375,7 +443,7 @@ Wave's Privacy Officer is responsible for receiving your privacy-related questio
 
 Brian Masson  
 Information Security Officer  
-235 Carlaw Ave., Suite 601  
+235 Carlaw Ave., Suite 501  
 Toronto, ON M4M 2S1  
 Canada  
 Email: [privacy@waveapps.com](mailto:privacy@waveapps.com)  
