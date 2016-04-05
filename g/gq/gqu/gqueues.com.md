@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727135620id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405133452id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GQueues
 
-##### Effective Date: March 28, 2015
+##### Effective Date: January 18, 2016
 
 [](https://privacy.truste.com/privacy-seal/GQueues/validation?rid=aa0d40dc-3730-46ae-ac58-e0c53e5f5d8e "TRUSTe online privacy certification")
 
@@ -28,9 +28,15 @@ GQueues also may collect information about the use of your account, such as how 
 
 We may share with third parties certain pieces of aggregated, non-personal information, such as how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as surveying users for feedback and for payment processing. These companies are authorized to use your personal information _only as necessary_ to provide these services to us.
+We store your personal information in the Google Cloud Platform for the purpose of providing the service. We may provide your personal information to other companies that provide services to help us with our business activities such as surveying users for feedback and for payment processing. These companies are authorized to use your personal information _only as necessary_ to provide these services to us.
 
 We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If GQueues is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, and to any other third party with your prior consent to do so.
+
+If you refuse to provide your email address to GQueues you will not be able to use the service. Other personal information may be withheld, but will result in a degraded user experience.
+
+To determine which personal information GQueues holds related to your account you can email [privacy@gqueues.com](mailto:privacy@gqueues.com).
+
+If your organization has a signed enterprise contract with GQueues including model contract clauses you may request a copy of the clauses by emailing [privacy@gqueues.com](mailto:privacy@gqueues.com).
 
 ##### Stripe
 
