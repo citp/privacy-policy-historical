@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909033743id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405133305id_/https%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
 
 # AlumniClass - Privacy Policy
 
@@ -11,6 +11,7 @@ Last updated January 22, 2013.
 • SITE COMMUNICATIONS  
 • REGISTERING WITH OTHER SITES  
 • YOUR PUBLISHED INFORMATION  
+• WHEN YOU VIEW MEMBER PROFILES  
 • SITE USE  
 • INTERNATIONAL USERS  
 • CHILDREN USING THE SITE  
@@ -43,7 +44,7 @@ When you register as a member, you will receive emails from us alerting you abou
 
 Each commercial email communication from us contains instructions on how you can remove yourself from our mailing list or how to opt out of certain emails. Please keep in mind that any changes that you make to your email preferences may take up to seven (7) business days to process. Each commercial email may have its own separate opt out process and each site owned and operated by Alumniclass.com may have their own opt out processes. If you have questions or trouble opting out or changing your email preferences, please email our [Customer Support](https://web.archive.org/contact). 
 
-When you send emails through our internal email system, email addresses may be hidden to protect the privacy of both the sender and the receiver. When using email communications on our Websites, you may choose to share your email address or other contact information with others. Please keep in mind that you are responsible for how you choose to display, communicate, upload or otherwise share your email address with others. 
+When you or any member sends emails through the website's internal email system, the website is designed to hide email addresses to protect the privacy of both the sender and the receiver. When sending or posting messages or email communications on the site, it is up to you to choose to disclose your email address to the receiver or any other personal contact information you choose to share with others. We respect your privacy and the privacy of all members and only read or disclose email communications when we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, improper site conduct, suspected fraud, threats to the physical safety of any person, violent behavior, violations of this Privacy Policy and/or our Terms of Service, or as otherwise permitted or required under state, local or federal law. Please keep in mind that you will not be able to delete, revise or otherwise recover any message that you send once you have sent your message or email. Please remember, you or the member receiving a message or an email must be a paid member in order to read or respond to received message and/or emails. 
 
 **REGISTERING WITH OTHER SITES**
 
@@ -58,6 +59,10 @@ You may also visit third-party websites such as Facebook, Twitter, Pintrest and 
 Information that you submit to message boards, live chat functions, photo albums or similar places on our Websites may be displayed to other registered members and to the public, so please exercise caution in what information and images you disclose. Alumniclass.com may, at our sole discretion, remove certain content or information posted on our Websites but assumes no responsibility for doing so. We may also show your membership status on the Website to inform others of your membership type and the membership options available. 
 
 We will not share your published information with third-party sites, unless you have co-registered with that third-party site. Exceptions include the necessity to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving emergencies, potential threats to the physical safety of any person, violations of Alumniclass.com Terms of Use, or as otherwise required necessary by site administration, regulation, court order, governmental requests, law enforcement, or to prevent, investigate, identify persons or other entities potentially involved in suspected illegal activities or anything that may expose us to legal liability. 
+
+**WHEN YOU VIEW MEMBER PROFILES**
+
+You may find and view other members and their profiles on the website. When you view other profiles by browsing the website, clicking on a profile, viewing a profile, clicking on photos or a photo in a yearbook page, using people search tool or otherwise any activity that may take you to a member's profile your profile viewing is tracked by the website and in some cases shared with other members. Each time you visit another member's profile, your name and the date of your visit will be viewable by that member but only upgraded members are able to see who has viewed their profile. You may remove that specific visit to another member's profile page by clicking on the remove visit button when you view a profile. You may also choose to opt out of having your name automatically left on other members' profiles when you view their profiles. Which you can do by accessing "My Profile" when you are logged into the website and then select "Profile Views - Opt Out". 
 
 **SITE USE**
 
