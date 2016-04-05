@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsubmitter.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229174618id_/http%3A//www.madsubmitter.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsubmitter.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405173744id_/http%3A//www.madsubmitter.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Submit Your Website URL Free - MadSubmitter Privacy policy
 
