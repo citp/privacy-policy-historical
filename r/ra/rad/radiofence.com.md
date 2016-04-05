@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207210341id_/http%3A//www.radiofence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405075613id_/http%3A//www.radiofence.com/privacy-policy) for the most accurate reproduction.*
 
 # RadioFence.com Privacy Policy
 
@@ -54,7 +54,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**   
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website, please see our [Terms & Conditions](http://www.radiofence.com/terms/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website, please see our [Terms & Conditions](https://www.radiofence.com/terms/)
 
 **Your Consent**   
 By using our site, you consent to our online privacy policy.
@@ -66,7 +66,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 RadioFence.com  
-http://www.radiofence.com  
+https://www.radiofence.com  
 1133 Bal Harbor Blvd  
 Punta Gorda, Florida 33950  
 United States  
