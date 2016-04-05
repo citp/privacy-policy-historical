@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeprowler.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906064705id_/https%3A//niche.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeprowler.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405040902id_/https%3A//niche.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Niche
 
