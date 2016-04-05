@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727085444id_/http%3A//www.worldsingles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsingles.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/privacy.html) for the most accurate reproduction.*
 
 # World Singles - Terms of Service
 
-[](https://web.archive.org/web/20150727085444id_/http%3A//www.worldsingles.com/index.html)
+[](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/index.html)
 
-  * [Home](https://web.archive.org/web/20150727085444id_/http%3A//www.worldsingles.com/index.html)
-  * [Our Sites](https://web.archive.org/web/20150727085444id_/http%3A//www.worldsingles.com/sites.html)
-  * [Refund](https://web.archive.org/web/20150727085444id_/http%3A//www.worldsingles.com/refund.html)
+  * [Home](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/index.html)
+  * [Our Sites](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/sites.html)
+  * [Refund](https://web.archive.org/web/20160405072121id_/http%3A//worldsingles.com/refund.html)
   * Cancel Subscription
 
 
