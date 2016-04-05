@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katch.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214231019id_/https%3A//katch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katch.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405050831id_/https%3A//www.katch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Katch
 
