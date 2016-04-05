@@ -1,34 +1,40 @@
-<!--The following is the downloaded HTML source of the winmasters.com privacy policy that was archived on 2015-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150226031548id_/https%3A//www.winmasters.com/en/general-pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winmasters.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405082643id_/https%3A//www.winmasters.com/en/general-pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="ng-app" xmlns:ng="http://angularjs.org" ng-app="masters-app" class="desktop landscape ng-scope"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}</style>
-	
-    <title>Privacy Policy</title>
-	<meta name="description" content="">
-	<meta name="keywords" content="">
+	<title>Privacy Policy</title>
+    	<meta name="description" content="">
+    	<meta name="keywords" content="">
 
 
 
-	<link rel="canonical" href="http://www.winmasters.com/en/general-pages/privacy-policy/">
-		<link rel="alternate" href="http://www.winmasters.com/ro/pagini-generale/politica-de-confidentialitate/" hreflang="RO">
-		<link rel="alternate" href="http://www.winmasters.com/ru/general-pages/privacy-policy/" hreflang="RU">
-		<link rel="alternate" href="http://www.winmasters.com/cs/zakladni-sekce/ochrana-soukromi/" hreflang="CS">
-		<link rel="alternate" href="http://www.winmasters.com/hu/altalanos-oldalak/adatvedelem/" hreflang="HU">
-		<link rel="alternate" href="http://www.winmasters.com/pl/general-pages/polityka-prywatnosci/" hreflang="PL">
-		<link rel="alternate" href="http://www.winmasters.com/el/genika/prosopika-dedomena/" hreflang="EL">
-		<link rel="alternate" href="http://www.winmasters.com/es/general-pages/privacy-policy/" hreflang="ES">
-		<link rel="alternate" href="http://www.winmasters.com/br/páginas-gerais/política-de-privacidade/" hreflang="BR">
-		<link rel="alternate" href="http://www.winmasters.com/en/general-pages/privacy-policy/" hreflang="EN">
-		<link rel="alternate" href="http://www.winmasters.com/cy-en/" hreflang="CY-EN">
-		<link rel="alternate" href="http://www.winmasters.com/cy-el/" hreflang="CY-EL">
+	<link rel="canonical" href="/en/general-pages/privacy-policy/">
+		<link rel="alternate" href="/ro/pagini-generale/politica-de-confidentialitate/" hreflang="RO">
+		<link rel="alternate" href="/ru/general-pages/privacy-policy/" hreflang="RU">
+		<link rel="alternate" href="/cs/zakladni-sekce/ochrana-soukromi/" hreflang="CS">
+		<link rel="alternate" href="/hu/altalanos-oldalak/adatvedelem/" hreflang="HU">
+		<link rel="alternate" href="/pl/general-pages/polityka-prywatnosci/" hreflang="PL">
+		<link rel="alternate" href="/el/genika/prosopika-dedomena/" hreflang="EL">
+		<link rel="alternate" href="/es/general-pages/privacy-policy/" hreflang="ES">
+		<link rel="alternate" href="/br/páginas-gerais/política-de-privacidade/" hreflang="BR">
+		<link rel="alternate" href="/sr/opste-stranice/polisa-privatnosti/" hreflang="SR">
+		<link rel="alternate" href="/en/general-pages/privacy-policy/" hreflang="EN">
+		<link rel="alternate" href="/cy-en/" hreflang="CY-EN">
+		<link rel="alternate" href="/cy-el/" hreflang="CY-EL">
 
-	
+<!--[if lte IE 8]>
+<script type="text/javascript">
+    var workingDomain = '//www.winmasters.com';
+	//window.location = "//www.winmasters.com/en/general-pages/old-browser";
+	window.location = workingDomain + "/en/general-pages/old-browser";
+</script>
+<![endif]-->
 
-	
-	<link href="/media/29677/favicon.ico" rel="icon" type="image/x-icon">
-	<link href="/media/29677/favicon.ico" rel="shortcut icon" type="image/x-icon">
-	
-	
+
+
+    	<link href="/media/29677/favicon.ico" rel="icon" type="image/x-icon">
+    	<link href="/media/29677/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
 	
@@ -57,12 +63,9 @@
 	<link href="/app/css/sass.css" rel="stylesheet">
 
 
-	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/app/dist/built.min.js"></script>
-<script src="/app/js/lib/device.js"></script>
-<script src="/app/js/lib/bowser.js"></script>
+<script type="text/javascript" defer="" async="" src="https://winmasterstrack.optimove.net/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/app/js/lib/device.min.js"></script>
+<script src="/app/js/lib/bowser.min.js"></script>
 
-	
 
 
 <script type="text/javascript">
@@ -81,17 +84,45 @@
 
 
 
-	if (window.device.mobile()) {
+	if (window.device.mobile() || window.device.iphone() || window.device.androidPhone()) {
 		if(window.navigator.vendor.toLowerCase().indexOf('opera') > -1)
 			window.location = location.origin + "/en/general-pages/old-browser"; 
 		else{
-		var site = location.origin.replace('//','//m')
-		if( location.origin.indexOf('www') > -1)
-        	site ='http://m.winmasters.com';
+
+		var oldPath = window.location.hostname;
+        var site = '//' + oldPath.replace(/^[^.]*/, 'm')
+
 		var searchObject = location.href;
 		var changeServer = location.hostname;
-		var posbtag=searchObject.toLowerCase().indexOf('ticket=');	
-		var findMatch = searchObject.toLowerCase().indexOf('event');		
+		var posbtag=searchObject.toLowerCase().indexOf('ticket=');
+
+		//btl promotions with btag
+		var btlLink = searchObject.toLowerCase().indexOf('openreg=true');
+		var btlBtag = null;
+		if(btlLink > -1){
+			btlBtag = searchObject.toLowerCase().indexOf('?btag=');
+			btlBtag = searchObject.substr(btlBtag);
+		}
+		//send lang to activation links
+        var pathArray = searchObject.split('/');
+        var iframeLang = pathArray[3];
+		if(iframeLang == "cy-el" || iframeLang == "cy-en"){
+			iframeLang = iframeLang.split("-");
+			iframeLang = iframeLang[1];
+		}
+		//contact us links
+		var contactLink = null;
+		if(searchObject.indexOf('contact-us') > -1 || searchObject.indexOf('epikoinonia') > -1 || searchObject.indexOf('kapcsolat') > -1 || searchObject.indexOf('kontakt') > -1 || searchObject.indexOf('kontaktujte-nas') > -1 || searchObject.indexOf('contactati-ne') > -1 || searchObject.indexOf('contate-nos') > -1 || searchObject.indexOf('contact-us') > -1){
+		    contactLink = true;
+		}
+		// email campaigns
+        var emailLink = searchObject.toLowerCase().indexOf('sp_rid=');
+        var emailBtag = null;
+        if(emailLink > 1){
+            emailBtag = searchObject.toLowerCase().indexOf('?sp_rid=');
+            emailBtag = searchObject.substr(emailBtag);
+        }
+		var findMatch = searchObject.toLowerCase().indexOf('event');
 		var keepUrl = false;
 		if(findMatch > -1 ){
 			var match = searchObject.substr(findMatch+6)
@@ -120,11 +151,16 @@
             var posEnd1=searchObject.indexOf("&",posbtag1+1);
             if(posEnd1>-1){
                 btag1=searchObject.substr(posbtag1+5,posEnd1-posbtag1-5)
+				btagAndBonus = "?btag=" +	searchObject.substr(posbtag1+5,posEnd1-posbtag1-5)
             }
-            else
+			else{
+				btagAndBonus = "?btag=" + searchObject.substr(posbtag1+5);
                 btag1=searchObject.substr(posbtag1+5);
 		}
        
+		}
+
+
    		var posbtag2=searchObject.toLowerCase().lastIndexOf('bonus=');
 
         if(posbtag2 >-1){
@@ -155,30 +191,36 @@
 			if(posbtag > -1 && '' == '/embedded/user/changepassword'){
 					location.href = site +  "/#/lostpass/"+btag;
 			}else if(posbtag > -1){	
-					location.href = site + "/#/activation/" + btag;
-			} else if(location.href.length > 23 &&  location.href.length < 30 ){
-					location.href =  site + "/#/";
-			} else if("False"== "True" && keepUrl){
+					location.href = site + "/#/activation/" + btag + "?lang=" + iframeLang;
+			}else if(btlLink > -1){	
+					location.href = site + "/#/register/step/1" + btlBtag;
+			}else if(emailLink > -1){
+                location.href = site + "/#/" + emailBtag;
+            }else if(contactLink){
+                 location.href = site + "/#/info";
+            }else if("False"== "True" && keepUrl){
 					location.href =  site + "/#/event/" + match;				
 			} else if("False"== "True"){
              		location.href =  site + "/#/promotion/1863";
-             }else if(ifPromo > -1){
+             }else if(ifPromo > -1 ){
 					location.href =  site + "/#/promotion/" + btag1 + '/' + bonus + '/' + promoId;
 			} else if("False"== "True"){
-					location.href =  site + "/#/sports";
+					location.href =  site + "/#/sports/" + btagAndBonus;
 			} else if("False"== "True"){
-					location.href =  site + "/#/casino";
+					location.href =  site + "/#/casino/" + btagAndBonus;
 			}  else if("False"== "True"){
-                    location.href =  site + "/#/live";
+                    location.href =  site + "/#/live/" + btagAndBonus;
 			}  else if("False"== "True"){
-					location.href =  site + "/#/payment";
+					location.href =  site + "/#/payment/" + btagAndBonus;
 			}  else if("False"== "True"){
 					location.href = site +  "/#/lostpass";
 			}  else if("False"== "True"){
 					location.href = site +  "/#/payment";
 			}  else if("False"== "True"){
-					location.href =  site + "/#/activation";
-			}
+					location.href =  site + "/#/activation?lang=" + iframeLang;
+			}  else if(location.href.length > 23 &&  location.href.length < 34 ){
+                location.href =  site + "/#/";
+            }
 		
 		}
 		
@@ -192,40 +234,24 @@
 
 </script>
 
-	
 
-<script>
-	(function () {
-		if (bowser.msie == true && parseFloat(bowser.version) <= parseFloat('9.0'))
-			if (!/1\./.test(window.location.href))
-				window.location.href = window.location.href.toLowerCase()
-					.replace('http://www.', 'https://1.')
-					.replace('http://dev.', 'https://1.')
-					.replace('http://fresh.', 'https://1.');
-	})();
-</script>
-<!--[if lte IE 8]>
-<script type="text/javascript">
-	window.location = "http://www.winmasters.com/en/general-pages/old-browser"; 
-</script>
-<![endif]-->
 
 
 	
 
 	
-	
-	
-	<!---->
 
-    
 
-	<link href="/app/css/sass.css" rel="stylesheet">
 
+
+
+
+
+        <script src="/app/dist/built.min.js"></script>
 
 
 <script src="/app/js/lib/locale/angular-locale_en.js"></script>
-		
+
 	<script>
 		//var _gaq = _gaq || [];
 	  	//_gaq.push(['_setAccount', 'UA-10416808-5']);
@@ -236,62 +262,98 @@
   		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  		ga('create', 'UA-10416808-5', 'winmasters.com');
+  		ga('create', 'UA-63710599-1', 'winmasters.com');
 		//ga('set', 'forceSSL', true);
   		ga('send', 'pageview');
 
 	</script>
-<meta name="com.silverpop.brandeddomains" content="www.pages03.net,winmasters.com">
-<script defer="" src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?5e3141e4-145a9869a33-2d617ac8ac4460b9f143347708bf4d50&amp;h=www.pages03.net" type="text/javascript"></script>
+<script type="text/javascript">
+    checkLocalStorage = function(){
+        try {
+            if(localStorage.getItem("storageEnabled") === null){
+                localStorage.setItem("storageEnabled", true);
+            }
+        }
+        catch (e){
+            return false;
+        }
+        return true;
+    }
 
+    if(!checkLocalStorage() && window.location.href.indexOf('private-enable') == -1){
+        window.location.href = "/en/private-enable";
+    }
+
+if(window.location.href.indexOf('private-enable') == -1){
+try { localStorage.test = 2; } catch (e) {
+  console.log('PRIVATE BROWSING SAFARI');
+  window.location.href = "/en/private-enable";
+}
+}    
 	
-		
-	
+</script>	
+
+
+
+
+
+
+
+
+    	
+
+
+
+
 
 </head>
-<body style="background:url('/media/906396/splashpage_background.jpg') center 0px no-repeat;background-color:#000; background-attachment: scroll;background-color:#000" class="no-front TextItem" id="mastersBodyId">
-	<div ng-show=" loadingSite " ng-controller="MainController" id="mastersControllerId" ng-click="hideLoggedInMenuOnClicksOutsideIt($event);promotionPopModal();" ng-keypress="listenToReturnKeyPress($event)" class="ng-scope">
+<body style="background:url('//winmasters-a.akamaihd.net/media/909123/homepage.jpg') center 0px no-repeat;background-color:#000; background-attachment: scroll;background-color:#000" class="no-front TextItem" id="mastersBodyId">
+	<div ng-controller="MainController" id="mastersControllerId" ng-click="hideLoggedInMenuOnClicksOutsideIt($event);promotionPopModal();" ng-keypress="listenToReturnKeyPress($event)" class="ng-scope">
 	<header id="header" class="l-header" ng-class="{hideAll:hideAllProp}" role="banner">
 
 
 
-
+	
 <input type="hidden" id="currentLang" data-lang="en">
 <div class="navbar-top">
-
+	
     <div class="navbar-top-inner">
         <ul class="navbar-top-menu">
 			<!-- ngIf: promotionInfo.canUserPromote() -->
 			<!-- ngIf: false && promotionInfo.canUserPromote() -->
-			<li class="header-time ng-binding" style="font-size: 13px; color:#959595; padding: 0px 16px;font-weight: 300; text-decoration:none;">03:47</li>
-            <li><a href="/en/general-pages/contact-us/">Need help?</a></li>
-            <li id="mobileLinks">
-				<a href="http://www.winmasters.com/en/promotions/play-anywhere/" ng-class="{hidden: varTablet}">
-					<span class="glyphicon glyphicon-phone" style="font-size: 16px;"></span>
-					Mobile
-				</a>
-				<a href="http://m.winmasters.com" ng-class="{hidden: varDesktop}" class="hidden">
-					<span class="glyphicon glyphicon-phone" style="font-size: 16px;"></span>
-					Mobile
-				</a>
-			</li>
-
-           <li class="dropdown navbar-top-languages">
-               <a href="" class="dropdown-toggle" ng-click="laguageClick()" ng-init="setLanguage('en'); getNodeName('en');" aria-haspopup="true" aria-expanded="false"><img src="/app/images/flags/EN.png"><b class="caret"></b></a>
-               <ul class="dropdown-menu" id="languageSelector">
-                           <li ng-init="languageName('EN')" ng-show="showDropDownMenu('','EN')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;EN&quot;);" id="EN" data-href="/en/"><img src="/app/images/flags/EN.png"> English</a></li>
-                           <li ng-init="languageName('EL')" ng-show="showDropDownMenu('','EL')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;EL&quot;);" id="EL" data-href="/el/genika/prosopika-dedomena/"><img src="/app/images/flags/EL.png"> Ελληνικά</a></li>
-                           <li ng-init="languageName('HU')" ng-show="showDropDownMenu('','HU')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;HU&quot;);" id="HU" data-href="/hu/altalanos-oldalak/adatvedelem/"><img src="/app/images/flags/HU.png"> Magyar</a></li>
-                           <li ng-init="languageName('PL')" ng-show="showDropDownMenu('','PL')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;PL&quot;);" id="PL" data-href="/pl/general-pages/polityka-prywatnosci/"><img src="/app/images/flags/PL.png"> Polski</a></li>
-                           <li ng-init="languageName('CS')" ng-show="showDropDownMenu('','CS')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;CS&quot;);" id="CS" data-href="/cs/zakladni-sekce/ochrana-soukromi/"><img src="/app/images/flags/CS.png"> Čeština</a></li>
-                           <li ng-init="languageName('RO')" ng-show="showDropDownMenu('','RO')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;RO&quot;);" id="RO" data-href="/ro/pagini-generale/politica-de-confidentialitate/"><img src="/app/images/flags/RO.png"> Română</a></li>
-                           <li ng-init="languageName('RU')" ng-show="showDropDownMenu('','RU')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;RU&quot;);" id="RU" data-href="/ru/general-pages/privacy-policy/"><img src="/app/images/flags/RU.png"> Русский</a></li>
-                           <li ng-init="languageName('ES')" ng-show="showDropDownMenu('','ES')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;ES&quot;);" id="ES" data-href="/es/general-pages/privacy-policy/"><img src="/app/images/flags/ES.png"> Spanish</a></li>
-                           <li ng-init="languageName('BR')" ng-show="showDropDownMenu('','BR')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;BR&quot;);" id="BR" data-href="/br/páginas-gerais/política-de-privacidade/"><img src="/app/images/flags/BR.png"> Português</a></li>
-                           <li ng-init="languageName('CY-EN')" ng-show="showDropDownMenu('','CY-EN')" style="margin:0 auto" class="ng-hide"><a ng-click="setLanguageDropdown(&quot;CY-EN&quot;);" id="CY-EN" data-href="/cy-en/"><img src="/app/images/flags/CY-EN.png"> English</a></li>
-                           <li ng-init="languageName('CY-EL')" ng-show="showDropDownMenu('','CY-EL')" style="margin:0 auto" class="ng-hide"><a ng-click="setLanguageDropdown(&quot;CY-EL&quot;);" id="CY-EL" data-href="/cy-el/"><img src="/app/images/flags/CY-EL.png"> Ελληνικά</a></li>
-               </ul>
+			<li class="header-time ng-binding" style="font-size: 13px; color:#959595; padding: 0px 16px;font-weight: 300; text-decoration:none;">03:48</li>
+            
+            <li>
+                <a href="/en/general-pages/contact-us/">
+                    <img src="/app/images/livechat-top.png" width="21" height="21" style="border:0px;" alt="winmasters helpdesk">
+                    Need help?
+                </a>
             </li>
+             <li id="mobileLinks">
+ 				<!-- ngIf: varDesktop --><a href="/en/promotions/play-anywhere/" ng-if="varDesktop" class="ng-scope">
+ 					<span class="glyphicon glyphicon-phone" style="font-size: 16px;"></span>
+ 					Mobile
+ 				</a><!-- end ngIf: varDesktop -->
+ 				<!-- ngIf: varTablet -->
+ 			</li>
+
+            <li class="dropdown navbar-top-languages">
+               <a href="" class="dropdown-toggle" ng-click="laguageClick()" ng-init="setLanguage('en'); getNodeName('en');" aria-haspopup="true" aria-expanded="false"><span class="flagsTop flagsEN"></span><b class="caret"></b></a>
+			   <ul class="dropdown-menu" id="languageSelector">
+						   <li ng-init="languageName('EN')" ng-show="showDropDownMenu('','EN')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;EN&quot;);" id="EN" data-href="/en/"><span class="flagsTop2 flagsEN"></span> English</a></li>
+						   <li ng-init="languageName('EL')" ng-show="showDropDownMenu('','EL')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;EL&quot;);" id="EL" data-href="/el/genika/prosopika-dedomena/"><span class="flagsTop2 flagsEL"></span> Ελληνικά</a></li>
+						   <li ng-init="languageName('HU')" ng-show="showDropDownMenu('','HU')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;HU&quot;);" id="HU" data-href="/hu/altalanos-oldalak/adatvedelem/"><span class="flagsTop2 flagsHU"></span> Magyar</a></li>
+						   <li ng-init="languageName('PL')" ng-show="showDropDownMenu('','PL')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;PL&quot;);" id="PL" data-href="/pl/general-pages/polityka-prywatnosci/"><span class="flagsTop2 flagsPL"></span> Polski</a></li>
+						   <li ng-init="languageName('CS')" ng-show="showDropDownMenu('','CS')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;CS&quot;);" id="CS" data-href="/cs/zakladni-sekce/ochrana-soukromi/"><span class="flagsTop2 flagsCS"></span> Čeština</a></li>
+						   <li ng-init="languageName('RO')" ng-show="showDropDownMenu('','RO')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;RO&quot;);" id="RO" data-href="/ro/pagini-generale/politica-de-confidentialitate/"><span class="flagsTop2 flagsRO"></span> Română</a></li>
+						   <li ng-init="languageName('RU')" ng-show="showDropDownMenu('','RU')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;RU&quot;);" id="RU" data-href="/ru/general-pages/privacy-policy/"><span class="flagsTop2 flagsRU"></span> Русский</a></li>
+						   <li ng-init="languageName('ES')" ng-show="showDropDownMenu('','ES')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;ES&quot;);" id="ES" data-href="/es/general-pages/privacy-policy/"><span class="flagsTop2 flagsES"></span> Spanish</a></li>
+						   <li ng-init="languageName('BR')" ng-show="showDropDownMenu('','BR')" style="margin:0 auto"><a ng-click="setLanguageDropdown(&quot;BR&quot;);" id="BR" data-href="/br/páginas-gerais/política-de-privacidade/"><span class="flagsTop2 flagsBR"></span> Português</a></li>
+						   <li ng-init="languageName('SR')" ng-show="showDropDownMenu('','SR')" style="margin:0 auto" class="ng-hide"><a ng-click="setLanguageDropdown(&quot;SR&quot;);" id="SR" data-href="/sr/opste-stranice/polisa-privatnosti/"><span class="flagsTop2 flagsSR"></span> Serbian</a></li>
+						   <li ng-init="languageName('CY-EN')" ng-show="showDropDownMenu('','CY-EN')" style="margin:0 auto" class="ng-hide"><a ng-click="setLanguageDropdown(&quot;CY-EN&quot;);" id="CY-EN" data-href="/cy-en/"><span class="flagsTop2 flagsCY-EN"></span> English</a></li>
+						   <li ng-init="languageName('CY-EL')" ng-show="showDropDownMenu('','CY-EL')" style="margin:0 auto" class="ng-hide"><a ng-click="setLanguageDropdown(&quot;CY-EL&quot;);" id="CY-EL" data-href="/cy-el/"><span class="flagsTop2 flagsCY-EL"></span> Ελληνικά</a></li>
+			   </ul>
+			 </li>
         </ul>
 	</div>
 </div>
@@ -300,135 +362,34 @@
 		<div class="page-header-inner">
 			<a href="/en/" class="header-logo"><img src="/images/logo.png" alt="winmasters.com"></a>
 
-			<script type="text/ng-template" id="login-section">
 
-				<div class="pull-right" ng-show="showSpinner || loggedUser.showSpinner">
-					<div class="header-spinner"><img src="/app/images/loader_20x20.gif"></div>
-				</div>
-
-
-				<div ng-if="!showSpinner && !loggedUser.showSpinner && !userInfo.isLogged">
-                	<div class="header-register" ng-init="checkIfBtag('/en/myaccount/register/')">
-                           <a ng-href="{{regUrl}}" class="button button-register" ng-init="navLinks.register = '/en/myaccount/register/'" ng-click="refreshToken()">
-                                      Register
-                             </a>
-                     </div>
-
-					<div class="header-login">
-						<div class="header-login-left" ng-keydown="loginOnEnterKey($event)">
-							<div class="header-login-input">
-								<input type="text" class="form-control header-login-txt" placeholder='Username' name="srch-term" id="srch-term" ng-model="user.user" ng-keydown="moveFocusToPassword($event)"
-										ng-disabled="formDisabled" />
-								<div class="header-login-forgot">
-									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title='Forgot?' type="submit" ng-disabled="formDisabled">?</a>
-								</div>
-							</div>
-							<div class="header-login-input">
-								<input type="password" class="form-control header-login-txt" placeholder='Password' name="srch-term" id="txtPass" ng-model="user.password" ng-keydown="moveFocusToSubmit($event)"
-									   ng-disabled="formDisabled" />
-								<div class="header-login-forgot">
-									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title='Forgot?' type="submit" ng-disabled="formDisabled">?</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="header-login-right">
-							<input type="submit" class="header-login-btn button-dark" value='Login' ng-click="loginUser()" id="btnLogin" ng-disabled="formDisabled" ng-submit="loginUser()"/>
-							<div class="header-login-remember">
-								<input type="checkbox" id="rememberMe" ng-model="rememberMe" ng-click="changeState()" class="header-login-remember-checkbox"/>
-								<label for="rememberMe" class="header-login-remember-label">Remember me</label>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="pull-right " ng-if="!showSpinner && !loggedUser.showSpinner && userInfo.isLogged">
-					<div class="pull-right loggedin show">
-						<div class="btn-group pull-right loggedin-user-info">
-
-							<button type="button" class="btn btn-default" onclick="window.location.href='/en/myaccount/transfer'">
-								<i class="glyphicon glyphicon-user"></i>
-								{{userInfo.name}}
-
-								<span class="logged-in-currency">
-									{{userInfo.currency}} {{userInfo.balance.toFixed(2) | currency: ""}}
-								</span>
-                            <button class="btn btn-default" >
-									<i class="glyphicon glyphicon-refresh " ng-class="{'rotate-spinner':moneySpinner.update, 'pointer-cursor':!moneySpinner.update}"  ng-click="!moneySpinner.update && refreshMoneyInformation()" style="line-height: 1px!important; padding-right:0px!important;"></i>
-							</button>
-							</button>
-									<button type="button" class="loggedin-toggle" ng-click="toggleShowAccountDetails()" >
-								<span ng-show="showAccountDetails" class="loggedin-toggle-span-up"><i class="glyphicon glyphicon-chevron-up"></i></span>
-								<span ng-show="!showAccountDetails" class="loggedin-toggle-span-down"><i class="glyphicon glyphicon-chevron-down"></i></span>
-							</button>
-							<iframe ng-if="betGeniusfirstLogin" ng-init="showBetgeniusIframe" ng-src="{{loginIframeUrl}}" width='0' height='0' scrolling='no' frameborder='0' style='border-width:0'></iframe>
-							<div ng-show="showAccountDetails" class="lggedin_info">
-								<div class="col-xs-6 loggedinfo-left">
-									<a href="/en/myaccount/" class="grey" ng-click="toggleShowAccountDetails()"><i class="glyphicon glyphicon-user"></i>My account</a>
-									<span  class="grey pointer-cursor" ng-click="openHistory(); toggleShowAccountDetails()"><i class="glyphicon glyphicon-check"></i>Bet history</span>
-									<a href='/en/myaccount/transfer' class="grey" ng-click="toggleShowAccountDetails()"><i class="glyphicon glyphicon-transfer"></i>Transfer</a>
-								</div>
-								<div class="col-xs-6 loggedinfo-right">
-									<div ng-if="moneySpinner.val">
-										&nbsp;&nbsp;Fetching funds<img src="/app/images/loader_20x20.gif">
-									</div>
-									<span ng-if="!moneySpinner.val && !errorFetchingFunds.val">
-										<span class="user-total-funds"><i class="glyphicon glyphicon-refresh pull-left" ng-class="{'rotate-img':moneySpinner.update, 'pointer-cursor':!moneySpinner.update}" style="padding-left: 0.25em; padding-top: 0.25em" ng-click="!moneySpinner.update && refreshMoneyInformation()"></i>My account <b>{{userInfo.tcpBalanceAmount.toFixed(2) | currency: ""}} {{userInfo.currency}}</b></span>
-										<span class="user-total-funds">{{LanguageToCountryService.getCountrySettings().sbDropdownHeaderUmbracoKey | translate}} <br /><b>{{userInfo.casinoAmount.toFixed(2) | currency: ""}} {{userInfo.currency}}</b></span>
-										<span class="user-total-funds" ng-if="LanguageToCountryService.getCountrySettings().hasPoker">Poker <br /><b> {{userInfo.pokerAmount.toFixed(2) | currency: ""}} {{userInfo.currency}}</b></span>
-										<span class="user-total-funds">Total <b>{{userInfo.totalBalance.toFixed(2) | currency: ""}} {{userInfo.currency}}</b></span>
-									</span>
-									<span ng-if="!moneySpinner.val && errorFetchingFunds.val">
-										Error fetching funds.
-									</span>
-								</div>
-							</div>
-						</div>
-		
-						<!-- <button onclick='window.location = "/en/general-pages/contact-us/"' type="button" class="btn btn-default login-btn">
-							<i class="ico ico-email"></i>
-						</button> -->
-						<button data-href="/en/myaccount/deposit/" onclick='window.location = "/en/myaccount/deposit/"' id="depositId"  type="button" class="btn btn-default login-btn">
-							<i class="glyphicon glyphicon-credit-card"></i> Deposit
-						</button>
-		
-						<button ng-click="logoutUser()" type="button" class="btn btn-default login-btn">
-							<i class="glyphicon glyphicon-log-out"></i> Logout
-						</button>
-					</div>
+				
+				<div class="pull-right ng-hide" ng-show="showSpinner || loggedUser.showSpinner">
+					<div class="header-spinner"><img src="/app/images/loader.svg"></div>
 				</div>
 				
-				<div class="pull-right" ng-show="loginError.error && !loggedUser.showSpinner && !showSpinner">
-					<span class="text-danger" ng-bind-html="loginError.message"><strong></strong></span>
-				</div>
-			</script>
-					
-			<!-- ngInclude: 'login-section' --><div ng-include="'login-section'" class="ng-scope">
-
-				<div class="pull-right ng-scope ng-hide" ng-show="showSpinner || loggedUser.showSpinner">
-					<div class="header-spinner"><img src="/app/images/loader_20x20.gif"></div>
-				</div>
-
-
-				<!-- ngIf: !showSpinner && !loggedUser.showSpinner && !userInfo.isLogged --><div ng-if="!showSpinner &amp;&amp; !loggedUser.showSpinner &amp;&amp; !userInfo.isLogged" class="ng-scope">
-                	<div class="header-register" ng-init="checkIfBtag('/en/myaccount/register/')">
-                           <a ng-href="/en/myaccount/register/" class="button button-register" ng-init="navLinks.register = '/en/myaccount/register/'" ng-click="refreshToken()" href="/en/myaccount/register/">
-                                      Register
-                             </a>
-                     </div>
-
+		
+				<div class="hide show" ng-class="{show:!showSpinner &amp;&amp; !loggedUser.showSpinner &amp;&amp; !userInfo.isLogged}">
+					<div class="header-register" ng-init="checkIfBtag('/en/myaccount/register/')">
+                             <a id="registerbtn" class="button button-register" ng-init="navLinks.register = '/en/myaccount/register/'" ng-click="refreshToken();openRegister('glyphicon-send','glyphicon-check','glyphicon-globe','glyphicon-lock')">Register</a>
+                    </div>
+										
 					<div class="header-login">
+						<div href="/en/myaccount/forgotpassword/" class="pull-left forgot-pass-msg ng-hide" ng-show="loginError.error &amp;&amp; !loggedUser.showSpinner &amp;&amp; !showSpinner">
+							<span class="text-danger ng-binding" ng-bind-html="loginError.message"></span>
+						</div>
+
 						<div class="header-login-left" ng-keydown="loginOnEnterKey($event)">
 							<div class="header-login-input">
 								<input type="text" class="form-control header-login-txt ng-pristine ng-untouched ng-valid" placeholder="Username" name="srch-term" id="srch-term" ng-model="user.user" ng-keydown="moveFocusToPassword($event)" ng-disabled="formDisabled">
 								<div class="header-login-forgot">
-									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title="" type="submit" ng-disabled="formDisabled" data-original-title="Forgot?">?</a>
+									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title="" type="submit" ng-disabled="formDisabled" data-original-title="Forgot your login details?">Forgot?</a>
 								</div>
 							</div>
 							<div class="header-login-input">
 								<input type="password" class="form-control header-login-txt ng-pristine ng-untouched ng-valid" placeholder="Password" name="srch-term" id="txtPass" ng-model="user.password" ng-keydown="moveFocusToSubmit($event)" ng-disabled="formDisabled">
 								<div class="header-login-forgot">
-									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title="" type="submit" ng-disabled="formDisabled" data-original-title="Forgot?">?</a>
+									<a href="/en/myaccount/forgotpassword/" class="forgot-btn" title="" type="submit" ng-disabled="formDisabled" data-original-title="Forgot your login details?">Forgot?</a>
 								</div>
 							</div>
 						</div>
@@ -441,31 +402,31 @@
 							</div>
 						</div>
 					</div>
-				</div><!-- end ngIf: !showSpinner && !loggedUser.showSpinner && !userInfo.isLogged -->
+				</div>
 
 				<!-- ngIf: !showSpinner && !loggedUser.showSpinner && userInfo.isLogged -->
-				
-				<div class="pull-right ng-scope ng-hide" ng-show="loginError.error &amp;&amp; !loggedUser.showSpinner &amp;&amp; !showSpinner">
-					<span class="text-danger ng-binding" ng-bind-html="loginError.message"></span>
-				</div>
-			</div>
+
 			<input type="hidden" id="depositUrl" name="depositUrl" value="/en/myaccount/deposit/"> 
 			<input type="hidden" id="termsUrl" name="termsUrl" value="/en/general-pages/terms-conditions/"> 	
 			<input type="hidden" id="accountUrl" name="accountUrl" value="/en/myaccount/">	
 			<input type="hidden" id="contactUrl" name="contactUrl" value="/en/general-pages/contact-us/">
+			<input type="hidden" id="inboxUrl" name="inboxUrl" value="/en/myaccount/messaging/inbox/">
+			<input type="hidden" id="registerUrl" name="registerUrl" value="/en/myaccount/register/">
+			<input type="hidden" id="forgotUrl" name="forgotUrl" value="/en/myaccount/forgotpassword/">
+			<input type="hidden" id="loginErrLogin" name="loginErrLogin" value="">
+			<input type="hidden" id="loginErrSuspended" name="loginErrSuspended" value="">
+			<input type="hidden" id="loginErrWrongPass" name="loginErrWrongPass" value="">
 
 		</div>
+
 	</div>
 						
 
-
-
-				
 <div class="l-container" ng-class="{'active-live-menu': showOtherLiveGames.var}">
 
 <nav id="navigation" role="navigation" class="main-nav" ng-show1="hideTabs">
 	<ul class="nav nav-pills">
-			<li ng-init="checkTabVisibility('AE', 'AL,AU,BB')" data-visibility-args="'AE'|'AL,AU,BB'" id="tab_0" ng-show="tabsVisibility[0].excludedTab ? false : tabsVisibility[0].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: True}">
+			<li ng-init="checkTabVisibility('AE,AE,AE', 'AL,AU,BB,AL,AU,BB,AL,AU,BB')" data-visibility-args="'AE,AE,AE'|'AL,AU,BB,AL,AU,BB,AL,AU,BB'" id="tab_0" ng-show="tabsVisibility[0].excludedTab ? false : tabsVisibility[0].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: True}">
 				<a href="/en/sports/" ng-click="$event.stopPropagation()">
 					
 					<span id="sportslink" class="ico ico-menu-footbal"></span>
@@ -479,35 +440,35 @@ Sports				</a>
 							
 Betting				</a>
 			</li>
-			<li ng-init="checkTabVisibility('', 'AT,CY,ES')" data-visibility-args="''|'AT,CY,ES'" id="tab_2" ng-show="tabsVisibility[2].excludedTab ? false : tabsVisibility[2].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: True}">
+			<li ng-init="checkTabVisibility('CY', 'AT,CY,ES')" data-visibility-args="'CY'|'AT,CY,ES'" id="tab_2" ng-show="tabsVisibility[2].excludedTab ? false : tabsVisibility[2].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: True}">
 				<a href="/en/casino/" ng-click="$event.stopPropagation()">
 					
 					<span id="casinolink" class="ico ico-menu-casino"></span>
 							
 Casino				</a>
 			</li>
-			<li ng-init="checkTabVisibility('', 'CY')" data-visibility-args="''|'CY'" id="tab_3" ng-show="tabsVisibility[3].excludedTab ? false : tabsVisibility[3].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
+			<li ng-init="checkTabVisibility('CY', 'CY')" data-visibility-args="'CY'|'CY'" id="tab_3" ng-show="tabsVisibility[3].excludedTab ? false : tabsVisibility[3].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
 				<a href="/en/live-casino/" ng-click="$event.stopPropagation()">
 					
 					<span id="livecasinolink" class="ico ico-menu-live-casino"></span>
 							
 Casino				</a>
 			</li>
-			<li ng-init="checkTabVisibility('CY', 'AL,BE')" data-visibility-args="'CY'|'AL,BE'" id="tab_4" ng-show="tabsVisibility[4].excludedTab ? false : tabsVisibility[4].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
+			<li ng-init="checkTabVisibility('CY,CY', 'AL,BE,CY,AL,BE,CY')" data-visibility-args="'CY,CY'|'AL,BE,CY,AL,BE,CY'" id="tab_4" ng-show="tabsVisibility[4].excludedTab ? false : tabsVisibility[4].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
 				<a href="/en/poker/" ng-click="$event.stopPropagation()">
 					
 					<span id="pokerlink" class="ico ico-menu-poker"></span>
 							
 Poker				</a>
 			</li>
-			<li ng-init="checkTabVisibility('', 'AL,CY,VN')" data-visibility-args="''|'AL,CY,VN'" id="tab_5" ng-show="tabsVisibility[5].excludedTab ? false : tabsVisibility[5].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
+			<li ng-init="checkTabVisibility('CY', 'AL,CY,VN')" data-visibility-args="'CY'|'AL,CY,VN'" id="tab_5" ng-show="tabsVisibility[5].excludedTab ? false : tabsVisibility[5].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
 				<a href="/en/slots/" ng-click="$event.stopPropagation()">
 					
 					<span id="slotslink" class="ico ico-menu-slots"></span>
 							
 Slots				</a>
 			</li>
-			<li ng-init="checkTabVisibility('', 'CY')" data-visibility-args="''|'CY'" id="tab_6" ng-show="tabsVisibility[6].excludedTab ? false : tabsVisibility[6].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
+			<li ng-init="checkTabVisibility('CY,CY', 'CY,CY')" data-visibility-args="'CY,CY'|'CY,CY'" id="tab_6" ng-show="tabsVisibility[6].excludedTab ? false : tabsVisibility[6].invisibleTab  ? userInfo.isLogged : true " ng-class="{hidden: userDevice.isTablet}">
 				<a href="/en/games/" ng-click="$event.stopPropagation()">
 					
 					<span id="gameslink" class="ico ico-menu-games"></span>
@@ -525,11 +486,41 @@ Games				</a>
 	<!--<div class="live-betslip-toggle-btn" ng-click="showOtherLiveGames.var=false">Betslip &raquo;</div>-->
 </div>
 		
+<!-- ngIf: userInfo.isLogged && ((userInfo.casinoAmount + userInfo.tcpBalanceAmount) < (1 * userInfo.eurToDisplayCurrencyRate))  && !donotShowBalanceMsg -->
+
 
 
 
 	</header>
-		<div class="content-wrapper ">
+
+		<input ng-init="countriesArray = [{ &quot;siteLanguage&quot;:&quot;EN&quot;, &quot;defaultLanguageForCountries&quot;: &quot;GB,US&quot;},{ &quot;siteLanguage&quot;:&quot;EL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CY,GR&quot;},{ &quot;siteLanguage&quot;:&quot;HU&quot;, &quot;defaultLanguageForCountries&quot;: &quot;HU&quot;},{ &quot;siteLanguage&quot;:&quot;PL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;PL&quot;},{ &quot;siteLanguage&quot;:&quot;CS&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CZ,CZ,CZ&quot;},{ &quot;siteLanguage&quot;:&quot;RO&quot;, &quot;defaultLanguageForCountries&quot;: &quot;RO,RO&quot;},{ &quot;siteLanguage&quot;:&quot;RU&quot;, &quot;defaultLanguageForCountries&quot;: &quot;RU,UA,RU,UA,RU,UA,RU,UA&quot;},{ &quot;siteLanguage&quot;:&quot;ES&quot;, &quot;defaultLanguageForCountries&quot;: &quot;ES&quot;},{ &quot;siteLanguage&quot;:&quot;BR&quot;, &quot;defaultLanguageForCountries&quot;: &quot;BR&quot;},{ &quot;siteLanguage&quot;:&quot;SR&quot;, &quot;defaultLanguageForCountries&quot;: &quot;RS&quot;},{ &quot;siteLanguage&quot;:&quot;EN&quot;, &quot;defaultLanguageForCountries&quot;: &quot;&quot;},{ &quot;siteLanguage&quot;:&quot;EL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CY,GR&quot;}]" type="hidden" id="defaultLanguageForCountries" name="defaultLanguageForCountries" value="">	
+
+
+<div style="display: block;" class="minigames" id="minigamesArea" ng-class="{hidden: varTablet,hideTab:noBets}" ng-show="!miniGamesHidden">
+			    <a type="button" ng-click="toogleMinigames();loadMinigames()" ng-class="{moveTag:minigamesState}" class="initiatlTag transition-1s">
+					<img ng-show="!minigamesState" src="/app/images/minigames-arrow-final.gif">
+					<img ng-show="minigamesState" src="/app/images/minigames-arrow-final-invert.png" class="ng-hide">
+					</a>
+
+		
+
+			<!-- ngIf: mingamesHideDom -->
+</div>
+
+<script>
+$( document ).ready(function() {
+setTimeout(function() {
+    $('#minigamesArea').fadeIn("slow");
+}, 2000);
+});
+</script>
+		<div ng-init="loadPromotionPop('23420', 'Privacy Policy')"></div>
+
+
+
+
+
+        <div class="content-wrapper ">
 
         	
 
@@ -555,21 +546,21 @@ Games				</a>
 		<div class="l-span-inner">
 			<div class="page-title"><h1 class="h1-text-page page-title">Privacy Policy</h1></div>
 			<div class="body-text-page" ng-init="setCurrentEmbeddedPage('/embedded/account/selfexclusion')">
-				<p><strong><img style="width: 120px; height: 120px; float: right;" src="/media/32493/privacy-icon.png?width=120&amp;height=120" alt="Privacy-icon-platform.png" rel="13423"></strong></p>
-<h3><span>Introduction</span></h3>
+				<p><strong><img style="width: 120px; height: 120px; float: right;" src="/media/907789/privacy-icon-platform.png?width=120&amp;height=120" alt="Privacy-icon-platform.png" rel="13423"></strong></p>
+<h3>Introduction</h3>
 <p><strong>winmasters</strong> wants visitors to its website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us ("Personal Information").</p>
 <p>Personal Information is any information about you and may include your name and address, date of birth, payment card details, details of betting transactions and account transfers and any other information you may wish to provide. <strong>winmasters</strong> is endeavoring to ensure that our business practices that involve the use of your Personal Information are compliant with privacy regulations in the countries where we operate. Accordingly, in this policy document (the "Privacy Policy"), <strong>winmasters</strong> wants not only to advise you of your privacy rights but also explain how we intend to respect them.</p>
 <p>Any reference to "<strong>winmasters</strong>" within this Privacy Policy includes WM Interactive Limited and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time.</p>
-<h3><span>How is your Personal Information collected by our website?</span></h3>
+<h3>How is your Personal Information collected by our website?</h3>
 <p>Personal Information may be submitted on our website in two areas:</p>
 <h4>1.&nbsp;&nbsp;&nbsp;&nbsp; <span>Public Area</span></h4>
 <p>If you do provide your name and address on the public area of this website in order to request information about our products and services, you may voluntarily provide additional personal information. You will be asked to provide your personal information in this area for the purposes of registering with <strong>winmasters</strong> and opening an account with us.</p>
 <h4>2.&nbsp;&nbsp;&nbsp;&nbsp; <span>Private Area</span></h4>
 <p>If you are already one of our customers and have opened an account with us, you must use a password to enter the <strong>winmasters</strong> website. A "session cookie" is used to enable you to leave and re-enter our website without re-entering your password. Our web server will record the pages you visit within our website.</p>
 <p>To ensure a good quality of service we may monitor and record any communication you have with us whether in writing, by phone or by electronic mail. E-mail is not encrypted to / from either the public or private areas of this website. <strong>winmasters</strong> recommends that with the exception of your name and username you do not send us Personal Information by e-mail. Any information which you transmit to us is transmitted at your own risk.</p>
-<h3><span>How we use Cookies on our Site and what Information we collect</span></h3>
+<h2>How we use Cookies on our Site and what Information we collect</h2>
 <p><strong>winmasters</strong> uses ‘cookies’ in order to provide you with a better experience.</p>
-<h3><span>How your Personal Information will be used?</span></h3>
+<h2>How your Personal Information will be used?</h2>
 <p><strong>winmasters</strong> will process your Personal Information in order to allow you access and make use of our website, to allow you to participate in the services offered, to administer your account, to maintain our accounts and records, to monitor website usage levels and the quality of the service we provide and to inform you, from time to time, about products and services that we consider may interest you and for related purposes. If you do not wish to receive future marketing, promotional or sales material from <strong>winmasters</strong>, you may notify us that no further material be sent to you. Our contact details are located in the 'Contact Us' pages of our website. <strong>winmasters</strong> will as soon as reasonably practicable after receiving your request, remove your contact details from our marketing database.</p>
 <p><strong>winmasters</strong> will also retain such information and may analyze it in order to investigate any actual or suspected criminal activity or, in respect of any event featured on our website, any threat to the integrity of that event and/or breaches of the rules of that event as laid down by the relevant governing (including sporting) bodies. All rights in the manner of recording your Personal Information held by <strong>winmasters</strong> (including copyright and database rights) are and shall remain its property.</p>
 <p>Telephone calls and betting data relating to users will be recorded and may be actively monitored for which purposes all users hereby consent.</p>
@@ -630,8 +621,8 @@ Games				</a>
 <p>Please be aware that opting out of our performance cookies may mean some useful information such as <strong>winmasters</strong> contact details are not available to you, however, if you wish to opt out of any of the web analytics that <strong>winmasters</strong> use, please use the links below:</p>
 <p><strong>Silverpop</strong></p>
 <p>http://www.silverpop.com/About/Trust--Privacy/Privacy-Policy-Legal/Privacy-Policy/</p>
-<p><strong>Google Analytics</strong> </p>
-<p><span>http://tools.google.com/dlpage/gaoptout</span><br> </p>
+<p><strong>Google Analytics</strong></p>
+<p><span>http://tools.google.com/dlpage/gaoptout</span></p>
 <p><a name="functionality"></a><strong>Functionality Cookies</strong></p>
 <p>These cookies allow the website to remember choices you make, such as your user name, language, or the region you are in, and provide enhanced, personalized features. For instance, a website may be able to provide you with local weather reports or traffic news by using cookies to store information about the region in which you are located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have requested such as watching a video or commenting on a blog. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.</p>
 <p><strong>We use 'Functionality' cookies to…</strong></p>
@@ -649,7 +640,7 @@ Games				</a>
 </ul>
 <p>Examples of functionality cookies that <strong>winmasters</strong> sets:</p>
 <p><strong>Local Storage cookies</strong></p>
-<p>- BetSlipStorage - Betslip data such as match id’s and odds selections. <br> - OddsBetFormat - Odds format decimal, fractional, American<br> - SaveBonusService - Actual active bonus <br> - SportsFavorites - Sports favorite leagues <br> - FilterSettings - Sports filter options <br> - SiteLanguage - The current site language<br> </p>
+<p>- BetSlipStorage - Betslip data such as match id’s and odds selections. <br> - OddsBetFormat - Odds format decimal, fractional, American<br> - SaveBonusService - Actual active bonus <br> - SportsFavorites - Sports favorite leagues <br> - FilterSettings - Sports filter options <br> - SiteLanguage - The current site language</p>
 <p><a name="targeting"></a><strong>Targeting Cookies</strong></p>
 <p>These cookies are used to deliver content, such as adverts, that are more relevant to you and your interests. They may also be used to limit the number of times you see an advert or measure the effectiveness of the advertising campaign. These tend to be set by third party advertising agencies with <strong>winmasters</strong> permission, and may share information about websites that you have visited with other organizations, such as advertisers.</p>
 <p><strong>We use 'Targeting' cookies to…</strong></p>
@@ -667,48 +658,9 @@ Games				</a>
 		</div>
 	</div>
 </div>
-<a href="#" class="scrollToTop ng-binding" scroll-to-top=""><span class="glyphicon glyphicon-circle-arrow-up"></span>&nbsp;scroll_to_top</a>
 
 		
         </div>
-		<input ng-init="countriesArray = [{ &quot;siteLanguage&quot;:&quot;EN&quot;, &quot;defaultLanguageForCountries&quot;: &quot;GB,US&quot;},{ &quot;siteLanguage&quot;:&quot;EL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CY,GR&quot;},{ &quot;siteLanguage&quot;:&quot;HU&quot;, &quot;defaultLanguageForCountries&quot;: &quot;HU&quot;},{ &quot;siteLanguage&quot;:&quot;PL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;PL&quot;},{ &quot;siteLanguage&quot;:&quot;CZ&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CZ&quot;},{ &quot;siteLanguage&quot;:&quot;RO&quot;, &quot;defaultLanguageForCountries&quot;: &quot;RO&quot;},{ &quot;siteLanguage&quot;:&quot;RU&quot;, &quot;defaultLanguageForCountries&quot;: &quot;RU,UA&quot;},{ &quot;siteLanguage&quot;:&quot;ES&quot;, &quot;defaultLanguageForCountries&quot;: &quot;ES&quot;},{ &quot;siteLanguage&quot;:&quot;BR&quot;, &quot;defaultLanguageForCountries&quot;: &quot;BR,BR&quot;},{ &quot;siteLanguage&quot;:&quot;EN&quot;, &quot;defaultLanguageForCountries&quot;: &quot;&quot;},{ &quot;siteLanguage&quot;:&quot;EL&quot;, &quot;defaultLanguageForCountries&quot;: &quot;CY,GR&quot;}]" type="hidden" id="defaultLanguageForCountries" name="defaultLanguageForCountries" value="">	
-
-<div class="minigames" id="minigamesArea" ng-class="{hidden: varTablet,hideTab:noBets}">
-			    <a type="button" ng-click="toogleMinigames();loadMinigames()" ng-class="{moveTag:minigamesState}" class="initiatlTag transition-1s">
-					<img ng-show="!minigamesState" src="/app/images/minigames.png">
-					<img ng-show="minigamesState" src="/app/images/minigames_invert.png" class="ng-hide">
-					</a>
-
-		
-		
-			<div ng-class="{animateshow:minigamesState}" class="transition-1s left-minigames">
-				
-					 <p>Choose Game: 
-				     <select class="selectpicker ng-pristine ng-untouched ng-valid" style="color: black" id="focusHere" ng-options="item as item.Name for item in minigames" ng-model="minigame" ng-change="userInfo.isLogged ? updateLoged(minigame.Id) : updateAnonim(minigame.Id)" ng-click="hideDummyOption()"><option value="" ng-show="showDummyOption" class="">Mini Roullette</option></select>
-						 
-				
-					 </p>
-					    
-					 <div ng-show="!miniGamesOptions">
-					 	<iframe src="" height="240" width="320"></iframe>
-					 </div>
-					 <div ng-show="miniGamesOptions" style="height:240px; width:320px; font-size:14px; border:2px solid gray; margin: 0 auto; background-image: url(/app/images/mini-blackjack_shaded.png);/*background-color: white;display:table-cell;vertical-align:middle;*/" class="ng-hide">
-							 <span style="display:inline-block; vertical-align:middle; line-height:240px;" class="denomination-modal">
-							      <!-- ngRepeat: minigame in miniBlkjckGames -->
-							 </span>
-					 </div>
-					 <p ng-show="count == undefined" class="ng-binding">mingames_loggout</p>
-					 <p ng-show="count == undefined" class="ng-binding">minigames_loggout_second</p>
-					 <p ng-show="count != undefined " class="ng-binding ng-hide">minigames_loggin</p>
-
-			</div>
-</div>
-
-
-
-
-
-        
 		<div ng-class="{hideAll:hideAllProp}">
 			
 
@@ -717,9 +669,61 @@ Games				</a>
 <footer id="footer" role="contentinfo" class="footer">
      <div class="footer-row footer-menu">
         <div class="footer-row-title">
-			<div class="footer-followus">Follow us on</div>
-			<a href="#" class="fb-footer">Facebook</a>
-			<a href="#" class="twitter-footer">Twitter</a>
+			<div class="footer-followus">Like us on</div>
+
+			<a target="_blank" href="https://www.facebook.com/winmasters.official" class="fb-footer">Facebook</a>
+            <a style="display:none" target="_blank" href="http://www.twitter.com" class="twitter-footer">Twitter</a>
+
+
+                        <div id="fbLikeScript" class="likeButGradient" style="z-index:10;float:left;padding:5px;border-radius:5px;width:60px;height:30px;position:relative;">
+                            <a target="_blank" href="https://www.facebook.com/winmasters.official">
+                                <img id="fbLikeImage" style="z-index:50;position:absolute;float:left;top:6px;left:7px;width:47px;" src="/app/images/fb-like-button.png">
+                            </a>
+                            <img id="fbLoader" style="z-index:100;display:none;height:18px;" src="/app/images/loader-white.svg">
+                            <div id="fbLikeButton" style="z-index:1000;display:none;position:absolute;left:6px;top:5px;" class="fb-like likeButGradient" data-href="https://www.facebook.com/winmasters.official" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+                        </div>
+                        <!----------------------------------------------FACEBOOK SCRIPT--------------------------------------->
+                        <div id="fb-root"></div>
+                        	<script>
+
+            				$( "#fbLikeScript" ).mouseover(function() {
+
+                			$('#fbLikeImage').fadeOut("fast");
+                			$('#fbLoader').fadeIn("slow");
+                			setTimeout(function(){
+                                $('#fbLikeImage').fadeIn("slow");
+                                $('#fbLoader').fadeOut("fast");
+                                $( "#fbLikeScript" ).off();
+                			}, 2000);
+
+                    		(function(d, s, id) {
+                        	var js, fjs = d.getElementsByTagName(s)[0];
+                        	if (d.getElementById(id)) return;
+                        	js = d.createElement(s); js.id = id;
+                        	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=69203088704&version=v2.3";
+                        	fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));
+
+                        	$('#fbLikeButton').fadeIn("slow");
+                        	});
+
+                        	</script>
+                        <!---------------------------------------------------------------------------------------------------->
+
+
+            <style>
+            .likeButGradient{
+            background: -moz-linear-gradient(top, #4b68b9 0%, #3d57a2 100%); /* FF3.6+ */
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#4b68b9), color-stop(100%,#3d57a2)); /* Chrome,Safari4+ */
+            background: -webkit-linear-gradient(top, #4b68b9 0%,#3d57a2 100%); /* Chrome10+,Safari5.1+ */
+            background: -o-linear-gradient(top, #4b68b9 0%,#3d57a2 100%); /* Opera 11.10+ */
+            background: -ms-linear-gradient(top, #4b68b9 0%,#3d57a2 100%); /* IE10+ */
+            background: linear-gradient(to bottom, #4b68b9 0%,#3d57a2 100%); /* W3C */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4b68b9', endColorstr='#3d57a2',GradientType=0 ); /* IE6-9 */
+            }
+            </style>
+
+
         </div>
         <div class="footer-navigation">
 
@@ -772,52 +776,82 @@ Games				</a>
 			Secure payment methods
 		</div>
 
-		<div class="partners-image-wrapper pointer-cursor" ng-click="toDeposit()">
-				<div class="partners-image" ng-init="checkContentVisibility('', 'paymentVisibility')" ng-show="!paymentVisibility[0].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29697/visa_logo.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('', 'paymentVisibility')" ng-show="!paymentVisibility[1].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29700/mastercard_logo.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('RO', 'paymentVisibility')" ng-show="!paymentVisibility[2].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/32386/trustly-300x93.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('', 'paymentVisibility')" ng-show="!paymentVisibility[3].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29705/paysafecard-logo.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('', 'paymentVisibility')" ng-show="!paymentVisibility[4].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29703/skrill-logo.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('', 'paymentVisibility')" ng-show="!paymentVisibility[5].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29696/neteller-logo.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('BR,CY,GR,HU,PL,RO,RU,PT', 'paymentVisibility')" ng-show="!paymentVisibility[6].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/29672/m-platba.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('BR,CY,CZ,GR,HU,PL,RO,US,PT', 'paymentVisibility')" ng-show="!paymentVisibility[7].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/32769/yandex-money.png" alt="Payments">
-					</a>
-				</div>
-				<div class="partners-image" ng-init="checkContentVisibility('CY,GR,HU,PL,RO', 'paymentVisibility')" ng-show="!paymentVisibility[8].invisibleTab">
-					<a href="" target="_blank">
-						<img height="30" src="/media/32728/web-money.png" alt="Payments">
-					</a>
-				</div>
+		<div id="payment-options" class="partners-image-wrapper pointer-cursor" ng-click="toDeposit()">
+                <div class="partners-image">
+                    <a href="" target="_blank">
+                        <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/907644/visa_small_2.png" alt="Payments">
+                    </a>
+                </div>
+                <div class="partners-image">
+                    <a href="" target="_blank">
+                        <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/29700/mastercard_logo.png" alt="Payments">
+                    </a>
+                </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('RO', 'paymentVisibility', '2')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/32386/trustly-300x93.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/32386/trustly-300x93.png">
+                        </a>
+                    </div>
+                <div class="partners-image">
+                    <a href="" target="_blank">
+                        <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/29705/paysafecard-logo.png" alt="Payments">
+                    </a>
+                </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,CZ,GR,HU,PL,RO,PT', 'paymentVisibility', '4')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/907645/moneta_ru_no_fill.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/907645/moneta_ru_no_fill.png">
+                        </a>
+                    </div>
+                <div class="partners-image">
+                    <a href="" target="_blank">
+                        <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/29703/skrill-logo.png" alt="Payments">
+                    </a>
+                </div>
+                <div class="partners-image">
+                    <a href="" target="_blank">
+                        <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/29696/neteller-logo.png" alt="Payments">
+                    </a>
+                </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,GR,HU,PL,RO,RU,PT', 'paymentVisibility', '7')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/29672/m-platba.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/29672/m-platba.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('CY,CZ,GR,HU,RO,RU', 'paymentVisibility', '8')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/29704/przelewy24-logo.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/29704/przelewy24-logo.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,CZ,GR,PL,RO,RU', 'paymentVisibility', '9')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/32764/abaqoos_logo.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/32764/abaqoos_logo.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,DE,GR,HU,PL,RO,RU', 'paymentVisibility', '10')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/906953/ekonto.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/906953/ekonto.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,CZ,GR,HU,PL,RO,US,PT', 'paymentVisibility', '11')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/32769/yandex-money.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/32769/yandex-money.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('CY,GR,HU,PL,RO', 'paymentVisibility', '12')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/32728/web-money.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/32728/web-money.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('BR,CY,CZ,HU,PL,RO,SK,PT', 'paymentVisibility', '13')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/909120/qiwi_wallet_ru.png" alt="Payments" src="//winmasters-a.akamaihd.net/media/909120/qiwi_wallet_ru.png">
+                        </a>
+                    </div>
+                    <div style="display:none;" class="partners-image" ng-init="checkContentVisibility('AU,BR,CY,CZ,DE,DK,HU,IT,MD,NO,PL,RU,SK,UA,PT', 'paymentVisibility', '14')">
+                        <a href="" target="_blank">
+                            <img class="landscape" height="30" ng-src="//winmasters-a.akamaihd.net/media/909447/zebrapay-logo.jpg" alt="Payments" src="//winmasters-a.akamaihd.net/media/909447/zebrapay-logo.jpg">
+                        </a>
+                    </div>
 		</div>	
 			
 			
@@ -833,32 +867,32 @@ Games				</a>
 
 			<div class="partners-image" ng-init="checkContentVisibility('CY', 'partnerVisibility')" ng-show="!partnerVisibility[0].invisibleTab">
                 <a href="http://www.netent.com" target="_blank">
-                    <img height="30" src="/media/32423/netent_grey.png" alt="Partners">
+                    <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/32423/netent_grey.png" alt="Partners">
                 </a>
             </div>
 			<div class="partners-image" ng-init="checkContentVisibility('CY', 'partnerVisibility')" ng-show="!partnerVisibility[1].invisibleTab">
                 <a href="http://www.microgaming.com" target="_blank">
-                    <img height="30" src="/media/32424/microgaming_grey.png" alt="Partners">
+                    <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/32424/microgaming_grey.png" alt="Partners">
                 </a>
             </div>
 			<div class="partners-image" ng-init="checkContentVisibility('CY', 'partnerVisibility')" ng-show="!partnerVisibility[2].invisibleTab">
                 <a href="http://www.playtech.com" target="_blank">
-                    <img height="30" src="/media/32426/playtech_grey.png" alt="Partners">
+                    <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/32426/playtech_grey.png" alt="Partners">
                 </a>
             </div>
 			<div class="partners-image" ng-init="checkContentVisibility('', 'partnerVisibility')" ng-show="!partnerVisibility[3].invisibleTab">
                 <a href="http://www.netrefer.com" target="_blank">
-                    <img height="30" src="/media/32425/netrefer_grey.png" alt="Partners">
+                    <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/32425/netrefer_grey.png" alt="Partners">
                 </a>
             </div>
 			<div class="partners-image" ng-init="checkContentVisibility('', 'partnerVisibility')" ng-show="!partnerVisibility[4].invisibleTab">
-                <a href="http://www.tain.com" target="_blank">
-                    <img height="25" src="/media/32427/tain_grey.png" alt="Partners">
+                <a href="http://betsoft.com/" target="_blank">
+                    <img class="landscape" height="30" src="//winmasters-a.akamaihd.net/media/908538/betsoftgaming-grey.png" alt="Partners">
                 </a>
             </div>
 			<div class="partners-image" ng-init="checkContentVisibility('', 'partnerVisibility')" ng-show="!partnerVisibility[5].invisibleTab">
-                <a href="http://www.apoelfc.com.cy/" target="_blank">
-                    <img height="75" src="/media/906540/apoel_os_color.png" alt="Partners">
+                <a href="http://www.playngo.com/" target="_blank">
+                    <img class="landscape" height="27" src="//winmasters-a.akamaihd.net/media/908537/playngo-grey.png" alt="Partners">
                 </a>
             </div>
 
@@ -871,59 +905,65 @@ Games				</a>
 			Responsible gaming
 		</div>
         <div class="responsible-gaming-items">
-            <a href="http://www.gamblingtherapy.org/" target="_blank"><img height="30" src="/images/logo_gamblingtherapy.png" alt="Gambling therapy"></a>
-            <a href="http://www.gamcare.org.uk/" target="_blank"><img height="30" src="/images/logo_gamcare.jpg" alt="Gamcare"></a>
-            <span><img height="30" src="/images/18.jpg" alt="18+"></span>
+            <a href="//www.gamblingtherapy.org/" target="_blank" class="make-spr-img-sprite make-spr-img-logo_gamblingtherapy">
+				<!--<img height="30" src="/images/logo_gamblingtherapy.png" alt="Gambling therapy" />-->
+			</a>
+            <a href="http://www.gamcare.org.uk/" target="_blank" class="make-spr-img-sprite make-spr-img-logo_gamcare">
+				<!--<img height="30" src="/images/logo_gamcare.jpg" alt="Gamcare" />-->
+			</a>
+            <span class="make-spr-img-sprite make-spr-img-18">
+				<!--<img height="30" src="/images/18.jpg" alt="18+" />-->
+			</span>
             <span>Gambling can be addictive. Play responsibly.</span>
         </div>
     </div>
 
     <div class="footer-row footer-links" once-if="!userDevice.isTablet">
 
-	<div class="footer-links-item">
-		<h4 class="footer-links-title">Sports</h4>
-			<ul class="footer-links-ul">
+            <div class="footer-links-item">
+                <h4 class="footer-links-title">Sports</h4>
+                    <ul class="footer-links-ul">
 
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/sports/#/category/1/1/">Football</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/sports/#/category/2/1/">Basketball</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/sports/#/category/5/1/">Tenis</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/live-betting/">Live Betting</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/sports/#/promotion/18194/">Multi Masters promotion</a></li>
-			</ul>
+                                <li class="footer-links-li"><a href="/en/sports/#/category/football-1/">Football</a></li>
+                                <li class="footer-links-li"><a href="/en/sports/#/category/basketball-2/">Basketball</a></li>
+                                <li class="footer-links-li"><a href="/en/sports/#/category/tennis-5/">Tenis</a></li>
+                                <li class="footer-links-li"><a href="en/live-betting/">Live Betting</a></li>
+                                <li class="footer-links-li"><a href="/en/sports/#/promotion/18194/">Multi Masters promotion</a></li>
+                        </ul>
 
-	</div>
-	<div class="footer-links-item">
-		<h4 class="footer-links-title">Poker</h4>
-			<ul class="footer-links-ul">
+            </div>
+            <div class="footer-links-item">
+                <h4 class="footer-links-title">Poker</h4>
+                    <ul class="footer-links-ul">
 
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/poker/download-play/">Free Poker Client</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/poker/promotions/">Tournaments</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/poker/">Texas Hold'em</a></li>
-			</ul>
+                                <li class="footer-links-li"><a href="/en/poker/download-play/">Free Poker Client</a></li>
+                                <li class="footer-links-li"><a href="/en/poker/promotions/">Tournaments</a></li>
+                                <li class="footer-links-li"><a href="/en/poker/">Texas Hold'em</a></li>
+                        </ul>
 
-	</div>
-	<div class="footer-links-item">
-		<h4 class="footer-links-title">Casino</h4>
-			<ul class="footer-links-ul">
+            </div>
+            <div class="footer-links-item">
+                <h4 class="footer-links-title">Casino</h4>
+                    <ul class="footer-links-ul">
 
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/live-casino/">Live Casino</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/live-casino/live-roulette/">Live Roulette</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/casino/jackpots/">Jackpots</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/slots/">Slots</a></li>
-			</ul>
+                                <li class="footer-links-li"><a href="/en/live-casino/">Live Casino</a></li>
+                                <li class="footer-links-li"><a href="/en/live-casino/live-roulette/">Live Roulette</a></li>
+                                <li class="footer-links-li"><a href="/en/casino/jackpots/">Jackpots</a></li>
+                                <li class="footer-links-li"><a href="/en/slots/">Slots</a></li>
+                        </ul>
 
-	</div>
-	<div class="footer-links-item">
-		<h4 class="footer-links-title">Games</h4>
-			<ul class="footer-links-ul">
+            </div>
+            <div class="footer-links-item">
+                <h4 class="footer-links-title">Games</h4>
+                    <ul class="footer-links-ul">
 
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/games/bingo/">Bingo</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/games/keno/">Keno</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/games/virtual-games/">Horse Racing</a></li>
-					<li class="footer-links-li"><a href="http://www.winmasters.com/en/games/fortune-games/">Fortune Games</a></li>
-			</ul>
+                                <li class="footer-links-li"><a href="/en/games/bingo/">Bingo</a></li>
+                                <li class="footer-links-li"><a href="/en/games/keno/">Keno</a></li>
+                                <li class="footer-links-li"><a href="/en/games/virtual-games/">Horse Racing</a></li>
+                                <li class="footer-links-li"><a href="/en/games/fortune-games/">Fortune Games</a></li>
+                        </ul>
 
-	</div>
+            </div>
 
     </div>
 
@@ -943,34 +983,99 @@ Games				</a>
 
 		<span>
 			<a href="https://www.authorisation.mga.org.mt/verification.aspx?lang=en&amp;company=6e164ad7-37bf-403e-a442-6869289cf7f7" target="_blank" title="MGA">
-				<img src="/media/32793/mga_logo.png" alt="MGA">
+				<img src="//winmasters-a.akamaihd.net/media/32793/mga_logo.png" alt="MGA">
 			</a>
 		</span>
 		<span>
 			<a href="https://validator.curacao-egaming.com/625e0604-3136-4aa4-a98f-e210cb50647e" target="_blank" title="Curacao">
-				<img src="/media/32794/curacao.png" alt="Curacao">
+				<img src="//winmasters-a.akamaihd.net/media/32794/curacao.png" alt="Curacao">
+			</a>
+		</span>
+		<span>
+			<a href="http://onjn.gov.ro/" target="_blank" title="Authorized in Romania">
+				<img src="//winmasters-a.akamaihd.net/media/907629/mga_logo_en.png" alt="Authorized in Romania">
 			</a>
 		</span>
 
     </div>
 
     <div class="copyright">
-        © 2014 www.winmasters.com <b>winmasters</b> is a registered trademark. All rights reserved.
+© 2014 www.winmasters.com <b>winmasters</b> is a registered trademark. All rights reserved.
 
 <br><b>winmasters</b> is a brand name of WM Interactive Limited, a company registered in Malta on May 15th 2014, having its registered office at Office 1/3476,<br> Level G, Quantum House 75, Abate Rigord Street, Ta' Xbiex XBX 1120, Malta, with company registration number C-65151 <br>and is regulated by the Maltese Gaming Authority and operating under the License No. MGA/CL1/1033/2014, issued by MGA, granted on December 3rd 2014. 
 <br>Microgaming Quick Fire, NetEnt, Poker and Sportsbook Games are operated under license number 
 <br>No.1668/JAZ issued by Curacao eGaming, authorized and 
 <br>regulated by the Government of Curacao. 
-<br>Gambling can be addictive. Play responsibly.
-    </div>
+<br>Gambling can be addictive. Play responsibly.    </div>
 		
 </footer></div>
 </div>
 
-		
-			
-	
+
+<a id="livechatRO" class="livechat-link" style="display:none" href="#">
+    <img src="/app/images/callback-right.png" width="45" height="45" style="border:0px;" alt="winmasters helpdesk">
+    <div class="mariosTextLink mariosTextLinkRO">
+        Support
+    </div>
+</a>
+
+<a id="livechatHU" class="livechat-link" style="display:none" href="#">
+    <img src="/app/images/callback-right.png" width="45" height="45" style="border:0px;" alt="winmasters helpdesk">
+    <div class="mariosTextLink mariosTextLinkHU">
+        Support
+    </div>
+</a>
+
+
+
 		
 
+			
 	
-</body></html>
+
+	<!---------------------OPTIMOVE SCRIPT---------------------->
+    <script type="text/javascript">
+
+        var _paq = _paq || [];
+        var userInfo = JSON.parse(localStorage.getItem('userInfo'));
+
+        if(userInfo && userInfo.name.trim() != '' && userInfo.name != null && userInfo.isLogged){
+            _paq.push(['setUserId', userInfo.name]);
+        }
+        else{
+
+        }
+
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+
+        (function() {
+            var _siteId = 177;
+            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://winmasterstrack.optimove.net/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', _siteId]);
+
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+
+    </script>
+	<!---------------------------------------------------------->
+
+
+<script>
+function create_elements() {
+    var silverpopscript = document.createElement('script');
+	var silverpopmeta = document.createElement('meta');
+    
+	silverpopscript.src = 'https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?5e3141e4-145a9869a33-2d617ac8ac4460b9f143347708bf4d50&h=www.pages03.net';
+	
+	silverpopmeta.content = 'www.pages03.net,winmasters.com,www.winmasters.com';
+	silverpopmeta.name ='com.silverpop.brandeddomains';
+    
+	document.getElementsByTagName('body')[0].appendChild(silverpopmeta);
+	document.getElementsByTagName('body')[0].appendChild(silverpopscript);
+}
+function setTimeout_elements() { setTimeout('create_elements()', 3000); }
+setTimeout_elements();
+</script>	
+<meta content="www.pages03.net,winmasters.com,www.winmasters.com" name="com.silverpop.brandeddomains"><script src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?5e3141e4-145a9869a33-2d617ac8ac4460b9f143347708bf4d50&amp;h=www.pages03.net"></script></body></html>
