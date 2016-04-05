@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdraw.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826051606id_/http%3A//www.smartdraw.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdraw.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406014608id_/https%3A//www.smartdraw.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - About SmartDraw - SmartDraw Official Site
 
@@ -69,3 +69,11 @@ We will occasionally update this privacy policy to reflect changes in our servic
 #### Dispute Resolution
 
 If you have questions, comments or complaints regarding this privacy policy or our privacy practices, please contact us at [privacy@smartdraw.com](mailto:privacy@smartdraw.com?Subject=SmartDraw%27s%20Privacy%20Policy).
+
+#### Physical Address
+
+SmartDraw Software, LLC  
+9909 Mira Mesa Blvd. Suite 300  
+San Diego, CA 92131  
+Phone: 800-768-3729 (toll-free)  
+Phone: 858-225-3300 
