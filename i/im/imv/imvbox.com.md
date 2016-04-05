@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imvbox.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123224351id_/https%3A//www.imvbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvbox.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405230639id_/https%3A//www.imvbox.com/privacy-policy) for the most accurate reproduction.*
 
-# IMVBox: Watch Iranian Movies & Documentaries Online
+# Privacy-policy | IMVBox, Watch Iranian Movies
 
 **IMVBOX  PRIVACY POLICY**
 
