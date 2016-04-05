@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the petrolprices.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206035236id_/http%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petrolprices.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405180434id_/http%3A//www.petrolprices.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
 
-	<title>Privacy Policy   - PetrolPrices.com</title>
-	<meta name="description" content="Free UK fuel prices. Over 8,000 petrol stations covered">
+	<title>Privacy Policy - PetrolPrices.com - PetrolPrices.com</title>
+	
 	<meta name="apple-itunes-app" content="app-id=329042856">
 
 	<!--[if lt IE 9]>
@@ -24,7 +24,7 @@
 
 	<link rel="shortcut icon" type="image/x-icon" href="http://www.petrolprices.com/content/themes/petrolprices/favicon.ico">
 	
-	<script>
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 		var template_url = 'http://www.petrolprices.com/content/themes/petrolprices';
 		window.google_analytics_uacct = 'UA-6108312-3';
 		var _gaq = _gaq || [];
@@ -32,15 +32,78 @@
 			if(window._gat) _gat._getTrackerByName()._trackEvent(category, action);
 			setTimeout('document.location = "' + link.href + '"', 100);
 		}
+
+		// Petrol Prices GA Universal account
+		(function (i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function () {
+						(i[r].q = i[r].q || []).push(arguments)
+					}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', '__gaTracker');
+
+		__gaTracker('create', 'UA-71277417-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+
+		var ppPath = location.pathname+window.location.search; ;
+		//remove html
+		ppPath = ppPath.replace(".html", "");
+
+
+		//HomePage
+		if (ppPath == "/"){
+			ppPath = "Homepage";
+		}
+		if (ppPath == "/search"){
+			ppPath = "Search";
+		}
+
+		//Changing Blong
+		ppPath = ppPath.replace("/blog", "Blog");
+
+		//Adding General
+		var generalArray = ["/about","/contact","/faq","/press","/our-press","/tandc","/links","/privacy"];
+		if (generalArray.indexOf(ppPath) !=-1){
+			ppPath = "General"+ppPath;
+		}
+
+		if (ppPath.indexOf("/goto/") !=-1){
+			ppPath = ppPath.replace("goto/", "");
+			ppPath = "Affiliate"+ppPath;
+		}
+		//Adding Article
+		if (ppPath.indexOf("Blog") ==-1 && ppPath.indexOf("Search") ==-1 && ppPath.indexOf("General") ==-1 && ppPath.indexOf("Homepage") ==-1 && ppPath.indexOf("Affiliate") ==-1) {
+			ppPath = "Article"+ppPath;
+		}
+		__gaTracker('send', 'pageview', ppPath);
+
 	</script>
 
-	<link rel="alternate" type="application/rss+xml" title="PetrolPrices.com » Feed" href="http://www.petrolprices.com/feed/">
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.petrolprices.com/privacy.html">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - PetrolPrices.com">
+<meta property="og:description" content="10th March 2015 PetrolPrices.com is part of a network of sites owned by Fubra Ltd. At Fubra we recognise the importance of your privacy. This policy outlines the information we collect, how we use it and how we safeguard your information. PetrolPrices.com may be required to revise this Privacy Policy in the future to comply…">
+<meta property="og:url" content="http://www.petrolprices.com/privacy.html">
+<meta property="og:site_name" content="PetrolPrices.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="10th March 2015 PetrolPrices.com is part of a network of sites owned by Fubra Ltd. At Fubra we recognise the importance of your privacy. This policy outlines the information we collect, how we use it and how we safeguard your information. PetrolPrices.com may be required to revise this Privacy Policy in the future to comply…">
+<meta name="twitter:title" content="Privacy Policy - PetrolPrices.com">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="PetrolPrices.com » Feed" href="http://www.petrolprices.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="PetrolPrices.com » Comments Feed" href="http://www.petrolprices.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="PetrolPrices.com » Privacy Policy Comments Feed" href="http://www.petrolprices.com/privacy.html/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.petrolprices.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.petrolprices.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.3.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.petrolprices.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.petrolprices.com/wp/wp-includes/js/wp-emoji-release.min.js?ver=4.4.2" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -55,10 +118,12 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="canonical" href="http://www.petrolprices.com/privacy.html">
+<link rel="https://api.w.org/" href="http://www.petrolprices.com/wp-json/">
 <link rel="shortlink" href="http://www.petrolprices.com/?p=1138">
+<link rel="alternate" type="application/json+oembed" href="http://www.petrolprices.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.petrolprices.com%2Fprivacy.html">
+<link rel="alternate" type="text/xml+oembed" href="http://www.petrolprices.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.petrolprices.com%2Fprivacy.html&amp;format=xml">
 </head>
-<body class="page page-id-1138 page-template-default no-js  xmas">
+<body class="page page-id-1138 page-template-default no-js">
 
 	
 	<header role="banner" id="header">
@@ -161,7 +226,7 @@ img.emoji {
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div>		
 		<div class="aside-skyscraper">
-			<h4>Recent Posts</h4><ul class="recent-posts"><li><a href="http://www.petrolprices.com/blog/more-fuel-price-falls-expected.html" title="More Fuel Price Falls Expected" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 1'); return false;">More Fuel Price Falls Expected...<p><span class="date">04.12.15</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/the-petrolprices-com-survey.html" title="The PetrolPrices.com Survey" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 2'); return false;">The PetrolPrices.com Survey...<p><span class="date">01.12.15</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/black-friday-brings-99p-petrol.html" title="Black Friday Brings 99.7p Petrol!" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 3'); return false;">Black Friday Brings 99.7p Petrol!...<p><span class="date">27.11.15</span><span class="replies"><strong>2</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/is-a-fuel-duty-increase-on-the-way.html" title="Is a Fuel Duty Increase on the Way?" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 4'); return false;">Is a Fuel Duty Increase on the Way?...<p><span class="date">26.11.15</span><span class="replies"><strong>1</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/petrol-hits-one-pound-per-litre-morrisons-leads-the-way.html" title="Petrol Hits One Pound Per Litre: Morrisons Leads the Way" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 5'); return false;">Petrol Hits One Pound Per Litre: Morriso...<p><span class="date">24.11.15</span><span class="replies"><strong>3</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/1-per-litre-petrol-in-time-for-christmas.html" title="£1 Per Litre Petrol in Time for Christmas?" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 6'); return false;">£1 Per Litre Petrol in Time for Christm...<p><span class="date">19.11.15</span><span class="replies"><strong>4</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/the-oil-glut-cheap-petrol-and-other-consequences.html" title="The Oil Glut: Cheap Petrol and Other Consequences" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 7'); return false;">The Oil Glut: Cheap Petrol and Other Con...<p><span class="date">16.11.15</span><span class="replies"><strong>1</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/winter-driving-challenges-some-tips.html" title="Winter Driving Challenges: Some Tips" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 8'); return false;">Winter Driving Challenges: Some Tips...<p><span class="date">12.11.15</span><span class="replies"><strong>1</strong> Reviews</span></p></a></li>		</ul></div>
+			<h4>Recent Posts</h4><ul class="recent-posts"><li><a href="http://www.petrolprices.com/blog/fuel-price-signs-launched-m5.html" title="Fuel Price Signs Launched on the M5" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 1'); return false;">Fuel Price Signs Launched on the M5...<p><span class="date">31.03.16</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/car-insurance-covered-cars.html" title="Car Insurance: ARE you Covered for Other Cars?" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 2'); return false;">Car Insurance: ARE you Covered for Other...<p><span class="date">29.03.16</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/bank-holiday-traffic-usual-chaos-expected.html" title="Bank Holiday Traffic: Usual Chaos Expected!" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 3'); return false;">Bank Holiday Traffic: Usual Chaos Expect...<p><span class="date">24.03.16</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/petrol-diesel-prices-set-rise.html" title="Petrol and Diesel Prices Set to Rise" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 4'); return false;">Petrol and Diesel Prices Set to Rise...<p><span class="date">22.03.16</span><span class="replies"><strong>9</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/fuel-duty-frozen-2016-uk-budget.html" title="Fuel Duty Frozen in the 2016 UK Budget" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 5'); return false;">Fuel Duty Frozen in the 2016 UK Budget...<p><span class="date">16.03.16</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/uk-budget-fuel-duty-increase-coming-wednesday.html" title="UK Budget: Is a Fuel Duty Increase Coming?" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 6'); return false;">UK Budget: Is a Fuel Duty Increase Comin...<p><span class="date">14.03.16</span><span class="replies"><strong>2</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/uk-fuel-prices-continue-to-fall.html" title="UK Fuel Prices Continue to Fall" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 7'); return false;">UK Fuel Prices Continue to Fall...<p><span class="date">03.03.16</span><span class="replies"><strong>5</strong> Reviews</span></p></a></li><li><a href="http://www.petrolprices.com/blog/fuel-duty-will-government-freeze.html" title="Fuel Duty: Will Government Freeze it Again?" onclick="recordOutboundLink(this, 'Aside Elements', 'Recent Post 8'); return false;">Fuel Duty: Will Government Freeze it Aga...<p><span class="date">01.03.16</span><span class="replies"><strong>0</strong> Reviews</span></p></a></li>		</ul></div>
 
 	
 	<div class="u-box"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -173,9 +238,9 @@ img.emoji {
 </aside>		<section id="breadcrumb"><a href="http://www.petrolprices.com">Home</a> » <span class="current">Privacy Policy</span></section>	
 	</div>
 
-	<nav role="navigation">
-		<div class="pad">
-			<ul id="menu-header" class="menu"><li id="menu-item-10025277" class="navHome menu-item menu-item-type-post_type menu-item-object-page menu-item-10025277"><a href="http://www.petrolprices.com/">Home</a></li>
+<nav role="navigation">
+    <div class="pad">
+        <ul id="menu-header" class="menu"><li id="menu-item-10025277" class="navHome menu-item menu-item-type-post_type menu-item-object-page menu-item-10025277"><a href="http://www.petrolprices.com/">Home</a></li>
 <li id="menu-item-10025278" class="navMyMotoring menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10025278"><a href="http://www.petrolprices.com/motoring.html">My Motoring</a>
 <ul class="sub-menu">
 	<li id="menu-item-10025263" class="navParking menu-item menu-item-type-custom menu-item-object-custom menu-item-10025263"><a href="/parking.html">Parking</a></li>
@@ -207,92 +272,98 @@ img.emoji {
 </ul>
 </li>
 <li id="menu-item-10025282" class="navBlog menu-item menu-item-type-post_type menu-item-object-page menu-item-10025282"><a href="http://www.petrolprices.com/blog.html">Blog</a></li>
-</ul>				<ul class="passport">
-					<li><a href="https://passport.fubra.com/site/pp/signup/?passback=a%3A2%3A%7Bs%3A8%3A%22redirect%22%3Bs%3A13%3A%22%2Fprivacy.html%22%3Bs%3A10%3A%22wp_site_id%22%3Bi%3A1%3B%7D&amp;type=individual" onclick="_gaq.push(['_link','https://passport.fubra.com/'])" class="signup">Sign Up</a></li>
-					<li><a href="https://passport.fubra.com/site/pp/login/?passback=a%3A2%3A%7Bs%3A8%3A%22redirect%22%3Bs%3A13%3A%22%2Fprivacy.html%22%3Bs%3A10%3A%22wp_site_id%22%3Bi%3A1%3B%7D" onclick="_gaq.push(['_link','https://passport.fubra.com/'])">Login</a></li>
-				</ul>
-					</div>
-	</nav>
+</ul>                <ul class="passport">
+                    <li>
+                        <a href="https://passport.fubra.com/site/pp/signup/?passback=a%3A2%3A%7Bs%3A8%3A%22redirect%22%3Bs%3A13%3A%22%2Fprivacy.html%22%3Bs%3A10%3A%22wp_site_id%22%3Bi%3A1%3B%7D&amp;type=individual" onclick="_gaq.push(['_link','https://passport.fubra.com/'])" class="signup">Sign Up</a></li>
+                    <li>
+                        <a href="https://passport.fubra.com/site/pp/login/?passback=a%3A2%3A%7Bs%3A8%3A%22redirect%22%3Bs%3A13%3A%22%2Fprivacy.html%22%3Bs%3A10%3A%22wp_site_id%22%3Bi%3A1%3B%7D" onclick="_gaq.push(['_link','https://passport.fubra.com/'])">Login</a>
+                    </li>
+                </ul>
+                    </div>
+</nav>
 
 
-		<footer id="footer">
-		<ul>
-			<li class="about">
-				About PetrolPrices.com
-				<ul>
-					<li><a href="/about.html">About</a></li>
-					<li><a href="/press.html">Press section</a></li>
-					<li><a href="/contact.html">Contact</a></li>
-					<li><a href="/partnerships.html">Advertise with us</a></li>
-					<li><a href="/faq.html">FAQs</a></li>
-					<li><a href="/links.html">Link to us</a></li>
-					<li><a href="/privacy.html">Privacy policy</a></li>
-					<li><a href="/testimonials.html">Testimonials</a></li>
-					<li><a href="/tandc.html">Terms &amp; Conditions</a></li>
-					<li><a href="/petrol-tweets.html">Petrol Tweets</a></li>
-				</ul>
-			</li>
-			<li class="social">
-				Social Media
-				<ul>
-					<li><a href="http://twitter.com/ukpetrolprices" class="twitter" title="Twitter" rel="external">Twitter</a></li>
-					<li><a href="http://www.facebook.com/pages/PetrolPricescom/6280113162" class="facebook" title="Facebook" rel="external">Facebook</a></li>
-					<li><a href="http://plus.google.com/111119249221652036073" class="gplus" title="Google+" rel="publisher">Google+</a></li>
-					<li><a href="/feeds.html" class="rss" title="RSS Feed">Feed</a></li>
-				</ul>
-			</li>
-		</ul>
-		<p><i class="logo"></i>© 2015 Fubra Limited, all rights reserved.</p>
-	</footer>
-	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=4.3.1"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js?ver=4.3.1"></script>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=4.3.1"></script>
+    <footer id="footer">
+        <ul>
+            <li class="about">
+                About PetrolPrices.com
+                <ul>
+                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/press.html">Press section</a></li>
+                    <li><a href="/contact.html">Contact</a></li>
+                    <li><a href="/partnerships.html">Advertise with us</a></li>
+                    <li><a href="/faq.html">FAQs</a></li>
+                    <li><a href="/links.html">Link to us</a></li>
+                    <li><a href="/privacy.html">Privacy policy</a></li>
+                    <li><a href="/testimonials.html">Testimonials</a></li>
+                    <li><a href="/tandc.html">Terms &amp; Conditions</a></li>
+                    <!--<li><a href="/petrol-tweets.html">Petrol Tweets</a></li>-->
+                </ul>
+            </li>
+            <li class="social">
+                Social Media
+                <ul>
+                    <li><a href="http://twitter.com/ukpetrolprices" class="twitter" title="Twitter" rel="external">Twitter</a>
+                    </li>
+                    <li><a href="http://www.facebook.com/pages/PetrolPricescom/6280113162" class="facebook" title="Facebook" rel="external">Facebook</a></li>
+                    <li><a href="http://plus.google.com/111119249221652036073" class="gplus" title="Google+" rel="publisher">Google+</a></li>
+                    <li><a href="/feeds.html" class="rss" title="RSS Feed">Feed</a></li>
+                </ul>
+            </li>
+        </ul>
+        <p><i class="logo"></i>© 2016 Fubra Limited, all rights reserved.</p>
+    </footer>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=4.4.2"></script>
 <script type="text/javascript" src="http://www.petrolprices.com/content/themes/petrolprices/script/main.min.js?ver=2.6"></script>
+<script type="text/javascript" src="http://www.petrolprices.com/wp/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
 
-	<script>
-			</script>
+<script>
+    </script>
 
 
-	<script>
-		var is_ssl = ("https:" == document.location.protocol),
-			asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-		document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+<script>
+    var is_ssl = ("https:" == document.location.protocol),
+        asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
 
-	<script>
+<script>
 
-		// Get Statisfaction
-		var feedback_widget_options			= {};
-		feedback_widget_options.display		= "overlay";
-		feedback_widget_options.company		= "petrolprices";
-		feedback_widget_options.placement	= "right";
-		feedback_widget_options.color		= "#C01";
-		feedback_widget_options.style		= "idea";
-		var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+    // Get Statisfaction
+    var feedback_widget_options = {};
+    feedback_widget_options.display = "overlay";
+    feedback_widget_options.company = "petrolprices";
+    feedback_widget_options.placement = "right";
+    feedback_widget_options.color = "#C01";
+    feedback_widget_options.style = "idea";
+    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 
-		// Google Analytics
-		_gaq.push(['_setAccount', 'UA-6108312-3']);
-		_gaq.push(['_setDomainName', 'none']);
-		_gaq.push(['_setAllowLinker', true]);
-		_gaq.push(['_trackPageview']);
-		_gaq.push(['_trackPageLoadTime']);
-		//track current browser window size on load
-		var bWidth = $(window).width(),
-			bHeight = $(window).height();
-		_gaq.push(['_trackEvent', 'Browser Dimensions', 'Size', bWidth + 'x' + bHeight]);
-		_gaq.push(['_trackEvent', 'Browser Dimensions', 'Width', bWidth, bWidth]);
-		_gaq.push(['_trackEvent', 'Browser Dimensions', 'Height', bHeight, bHeight]);
+    // Google Analytics
+    _gaq.push(['_setAccount', 'UA-6108312-3']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    //track current browser window size on load
+    var bWidth = $(window).width(),
+        bHeight = $(window).height();
+    _gaq.push(['_trackEvent', 'Browser Dimensions', 'Size', bWidth + 'x' + bHeight]);
+    _gaq.push(['_trackEvent', 'Browser Dimensions', 'Width', bWidth, bWidth]);
+    _gaq.push(['_trackEvent', 'Browser Dimensions', 'Height', bHeight, bHeight]);
 
-		
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
+    
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 
-		
-	</script>
 
-	
-	<script>function lc_get_cookie(name) {var c = document.cookie;if (c.indexOf(name) != -1) {var x = c.indexOf(name)+name.length+1;var y = c.indexOf(";",x);if (y < 0) y = c.length;return decodeURIComponent(c.substring(x,y));} else return "";}if ((d = document.getElementById("commentform")) != null) { e = d.elements;var z = lc_get_cookie("comment_author_email_8a308abcc71903beb3b076030235cd53");if (z != "") e["email"].value = z;z = lc_get_cookie("comment_author_8a308abcc71903beb3b076030235cd53");if (z != "") e["author"].value = z.replace(/\+/g, " ");z = lc_get_cookie("comment_author_url_8a308abcc71903beb3b076030235cd53");if (z != "") e["url"].value = z;}</script></body></html>
+<script>function lc_get_cookie(name) {var c = document.cookie;if (c.indexOf(name) != -1) {var x = c.indexOf(name)+name.length+1;var y = c.indexOf(";",x);if (y < 0) y = c.length;return decodeURIComponent(c.substring(x,y));} else return "";}if ((d = document.getElementById("commentform")) != null) { e = d.elements;var z = lc_get_cookie("comment_author_email_8a308abcc71903beb3b076030235cd53");if (z != "") e["email"].value = z;z = lc_get_cookie("comment_author_8a308abcc71903beb3b076030235cd53");if (z != "") e["author"].value = z.replace(/\+/g, " ");z = lc_get_cookie("comment_author_url_8a308abcc71903beb3b076030235cd53");if (z != "") e["url"].value = z;}</script></body></html>
