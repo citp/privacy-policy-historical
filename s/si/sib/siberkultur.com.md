@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siberkultur.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527192042id_/http%3A//www.siberkultur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siberkultur.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406000032id_/http%3A//www.siberkultur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - siberkultur.com
 
-### Privacy Policy:
+## Privacy Policy:
 
 Siber Kultur .com (" **Siber Kultur .com** ") operates Siberkultur.com and may operate other websites. It is Siber Kultur .com's policy to respect your privacy regarding any information we may collect while operating our websites.
 
