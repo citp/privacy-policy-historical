@@ -1,34 +1,133 @@
-> *The following text is extracted and transformed from the milwaukeetool.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115031id_/https%3A//www.milwaukeetool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeetool.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405120937id_/https%3A//www.milwaukeetool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Milwaukee Tool
 
-Any communication or material you transmit to the Site by e-mail or otherwise, including any data, questions, comments, suggestions, photographs, or the like is, and will be treated as, non-confidential and non-proprietary. Milwaukee Electric Tool Corporation cannot prevent the "harvesting" of information from this Site, and you may be contacted by Milwaukee Electric Tool Corporation or unrelated third parties, by e-mail or otherwise, within or outside of this Site. Anything you transmit may be edited by or on behalf of Milwaukee Electric Tool Corporation, may or may not be posted to this Site at the sole discretion of Milwaukee Electric Tool Corporation and may be used by Milwaukee Electric Tool Corporation or its affiliates for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. If you post any information or comments on the site, you grant Milwaukee and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works, including, but not limited to, developing, manufacturing and marketing products using such information.
+Last modified: February 10, 2016
 
-## IP Addresses, Internet Browsers, Operating Systems, Domain Name
+**Introduction**
 
-When you enter our website, we may collect your computer’s IP address. The IP address does not identify you as an individual, but does identify your Internet service provider. Other non-personally identifiable information that we may collect include the type of Internet browser used, the type of computer operating system used, and the domain name of the website from which you visited our site. The information is aggregated to provide broad demographic information, such as the geographic location of visitors and how long they stay on our site. Collecting this type of information allows us to administer our site, diagnose server problems, analyze trends and statistics, and provide better customer service.
+Milwaukee Electric Tool ("Company" or "We") respect your privacy and are committed to protecting it through our compliance with this policy.
 
-## Cookies
+This policy describes the types of information we may collect from you or that you may provide when you visit the website www.milwaukeetool.com (our "Website"), when you install, access or use the One-Key Mobile Application (the "App"), or when you use certain Milwaukee tools and equipment that are One-Key ready (“One-Key Tool”), and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
-When you visit our website, we may send “cookies” to your computer. A cookie is a small text file or piece of data that a website you visit can place or save onto your computer. Cookies do not themselves contain any personally identifiable information. However, if you provide such personally identifiable information to us (such as by registering for an Internet related service or password provided by us), such information may be linked to the data stored in the cookie. There are two types of cookies. The first type saves a file for a longer period of time onto your computer, and which can remain on your computer after you shut it off. Such cookie could, for example, be used to tell a visitor what information on the website has been updated since his or her last visit to that website.
+This policy applies to information we collect:
 
-The second type of cookie is called “session cookie.” While you are visiting a website, session cookies are temporarily stored in your computer’s memory. This could be done, for example, to keep track of what language you have chosen at the website. Session cookies are not stored for a long period of time on your computer, since they disappear when you close your web browser. We may use third parties to assist us in collecting or processing information obtained through cookies.
+• Via the App.
 
-We may use cookies for a number of reasons, such as:  
+• On this Website.
 
+• By using One-Key Tools.
 
-  * to compile anonymous statistics related to patterns and trends of browsing; 
-  * to conduct marketing research; 
-  * to personalize website content or functions; 
-  * to provide assistance to, or track site visits of, individual registered users of certain Internet-based services;
-  * to enable persons with passwords to re-enter certain web pages without having to re-type previously typed information.
+• In e-mail, text and other electronic messages sent through or in connection with the Website and/or the App.
 
+• Through any other mobile and desktop applications you download from this Website, or Company provided apps through on online app store. 
 
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use the App or our Website. By accessing or using the App and/or this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of the App and/or this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-## How To Avoid Cookies
+**Children Under the Age of 13**
 
-With most Internet browsers, you can set the browser to block cookies, erase cookies from your computer hard drive, or notify you that a web page contains cookies before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. Please note that some of our web pages may not work properly without the use of cookies.
+The App and our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website or App. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on or through the App; or on or through the Website.  Additionally, do not make any purchases through the App or the Website, use any of the interactive or public comment features of the App or the Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at 1-800-SAWDUST (1-800-729-3878).
 
-## Links To Third Party Websites
+**Information We Collect About You and How We Collect It**
 
-Some of our web pages may contain links to third party websites. Please note that we are not responsible for the privacy policies, content, or practices of such other websites or their owners or operators.
+• Directly from you when you provide it to us.
+
+• Automatically when you use the Website, App and One Key Tools.
+
+**Information You Provide to Us**   
+
+When you use the Website and/or download, register with us or use this App, you may voluntarily provide information:
+
+• By which you may be personally identified, such as name, postal address, e-mail address, telephone number or any other identifier by which you may be contacted online or offline ("personal information").
+
+• Tool inventory information. 
+
+• Tool mode information
+
+**Automatic Information Collection And Tracking   **
+
+As you navigate through and interact with our Website, or when you download, access and use the App, we may use automatic data collection technologies.  These technologies do not identify you as an individual, but do collect information regarding your internet service provider, computer, mobile device and connected tools.  An example of such technology would be the use of browser cookies. The type of such automatically collected information includes:
+
+• Usage Details. When you access and use the App, Website, or One Key Tools we may automatically collect certain details of your access to and use of the Website, One Key Tools or App, including traffic data, location data, tool connection and performance data, logs and other communication data and the resources that you access and use on or through the App or Website. 
+
+• Computer Information.  Information about your computer and internet connection, including your IP address, operating system and browser type.
+
+• Device Information. We may collect information about your mobile device and internet connection, including the device's unique device identifier, IP address, operating system, browser type, mobile network information and the device's telephone number.
+
+If you do not want us to collect this information do not use the Website and do not download the App or delete it from your device.
+
+With respect to use of One Key Tools, the One Key Tools contain technology that identify the serial number and type of the tool (saw, drill, etc.) and broadcasts this information as a “Advertisement” that can be read by phones utilizing the App in the surrounding area.    All Apps monitor for such Advertisements, even if the App is being used by another on another’s device.  The App will from time to time transmit the GPS location from the phone and Advertisement information received from the One Key Tool’s whose Advertisements were detected by the App on the phone. While the GPS function of the phone will be used to identify the location of any One Key Tool (yours or others) whose Advertisements are detected by the App, no information identifying the owner of the One Key Tool whose Advertisement was detected by the App will be accessible or provided to the owner of the One Key App.  Furthermore, no information regarding the App is provided to the One-Key Tool.  The owner of the One-Key Tool can access the most recent location information Advertisement regarding their own One-Key Tool by accessing their own App account to assist them in finding a lost tool. 
+
+The detection and transmission of Advertisement data by the App may be disabled at any time by a feature on the App.  When disabled, the App will not transmit the location of your phone.
+
+**How We Use Your Information**
+
+We use information that we collect to:
+
+• Provide you with the App and its contents.
+
+• To present our Website and its contents to you.
+
+• Give you notices about your account.
+
+• To provide you with information, products or services that you request from us.
+
+• In any other way we may describe when you provide the information.
+
+• For any other purpose with your consent. 
+
+Additionally, if you are a user of the App and decide to use the App to link to your tools, we can use the data to:
+
+• Track performance data of a particular tool or suite of tools owned by you and used with the App or Website
+
+• Provide support and repair service to you regarding your tools. 
+
+• Prepare reports and logs of tool use, performance, and track battery life of tool.
+
+ If you use a One Key Tool the Advertisement of the One Key Tool is read by any user (including yourself) using the App, we can use the Advertisement data to track the location of One Key Tool by serial number and  its proximity to the phone, and location of the phone, using the App that detected it’s Advertisement. 
+
+**Disclosure of Your Information**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+
+We will only use personal information you provide to us for the purposes it was provided for.  In addition, we may disclose personal information that we collect or you provide:
+
+• To our subsidiaries and affiliates.
+
+• To a buyer or other successor.
+
+• For any other purpose disclosed by us when you provide the information.
+
+• With your consent.
+
+• To comply with any court order, law or legal process.
+
+Additionally, any material you voluntary provide on the Website or App for public comment, review, or otherwise provide outside your individual user account is provided on a non-confidential and non-proprietary basis and we can use, reproduce and publish the information without restriction. 
+
+If you post any information or comments on the Website or App, you grant the Company and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works, including, but not limited to, developing, manufacturing and marketing products using such information.
+
+**Accessing Your Personal Information**
+
+If you have a user account with us, you can log unto your user account to make any changes to your specific user account as provided in your account settings.  If you have questions or concerns on any personal information you have provided to us or would like to make any changes to such information you contact us at 1-800-SAWDUST (1-800-729-3878) regarding your questions. 
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits users of our Website and App that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at 1-800-SAWDUST (1-800-729-3878).
+
+**Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. 
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website and App, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+Unfortunately, the transmission of information via the internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted through our Website and App. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures we provide.
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this page.  The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring for periodically visiting our Website and this privacy policy to check for any changes.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
+
+1-800-SAWDUST (1-800-729-3878)
