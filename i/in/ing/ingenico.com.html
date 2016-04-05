@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ingenico.com privacy policy that was archived on 2015-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150828195550id_/http%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ingenico.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405033854id_/http%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
+<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
         <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -15,32 +15,36 @@ dataLayer = [{"visitorLanguage":"English"}]
 <meta content="Ingenico Group , Privacy policy" property="og:title">
 <meta content="http://www.ingenico.com/images/og-image.jpg" name="og:image">
 <meta content="http://www.ingenico.com/privacy-policy" name="og:url">
-<link rel="stylesheet" href="/css/default.min.css?v=1.1.12" type="text/css" media="screen">
-<link rel="stylesheet" href="/css/print.min.css?v=1.1.12" type="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="/js/formcheck/theme/blue/formcheck.css">
+<link rel="stylesheet" type="text/css" href="/css/eforms.css">
+<link rel="stylesheet" href="/css/default.min.css?v=1.2.5" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/print.min.css?v=1.2.5" type="text/css" media="print">
 <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
 
 <!--[if lte IE 8]>
-    <link rel="stylesheet" href="/css/ie8.css?v=1.1.12" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/ie8.css?v=1.2.5" type="text/css" media="screen" />
 <![endif]-->
 
 
 <!--[if lt IE 9]>
-    <link rel="stylesheet" href="/css/ie.css?v=1.1.12" type="text/css"/>
+    <link rel="stylesheet" href="/css/ie.css?v=1.2.5" type="text/css"/>
 
-    <script type="text/javascript" src="/scripts/polyfills/html5shiv.min.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/polyfills/nwmatcher-1.2.5-min.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/polyfills/selectivizr-min.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/polyfills/respond.min.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/IECompatibility.js?v=1.1.12"></script>
+    <script type="text/javascript" src="/scripts/polyfills/html5shiv.min.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/polyfills/nwmatcher-1.2.5-min.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/polyfills/selectivizr-min.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/polyfills/respond.min.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/IECompatibility.js?v=1.2.5"></script>
 <![endif]-->
 
 <!--[if lte IE 9]>
-    <script type="text/javascript" src="/scripts/polyfills/matchMedia.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/polyfills/matchMedia.addListener.js?v=1.1.12"></script>
-    <script type="text/javascript" src="/scripts/polyfills/placeholders.min.js?v=1.1.12"></script>
-<![endif]--></head>
+    <script type="text/javascript" src="/scripts/polyfills/matchMedia.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/polyfills/matchMedia.addListener.js?v=1.2.5"></script>
+    <script type="text/javascript" src="/scripts/polyfills/placeholders.min.js?v=1.2.5"></script>
+<![endif]-->
 
-    <body>
+<script type="text/javascript" src="/scripts/polyfills/QuerySelectorScope.js?v=1.2.5"></script><style type="text/css"></style></head>
+
+    <body style="">
         <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TCRC24"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -52,6 +56,47 @@ dataLayer = [{"visitorLanguage":"English"}]
 <!-- End Google Tag Manager -->
 
 
+<div ng-app="siteSwitcherApp" id="siteSwitcher" class="ng-scope">
+    <script type="text/ng-template" id="menu.html">
+
+        <h3 class="h2 heading fw-medium nt-transform">{{ menu.title }}</h3>
+        <ul>
+            <li ng-repeat="link in menu.links track by $index"><a href="{{link.link.href}}"
+                                                                  ng-class="linkIsSelected(link, 'expanded')"
+                                                                  ng-click="selectMenu($event, link)">{{link.link.title}}</a>
+            </li>
+        </ul>
+
+    </script>
+
+    <div ng-controller="SiteSwitcherCtrl" class="row ng-scope">
+        <div class="column small-12 medium-4"><span class="mlogo"></span></div>
+        <!-- ngRepeat: menu in menus track by $index --><!-- ngInclude: 'menu.html' --><div class="column small-12 medium-4" ng-class="{'end':$last}" ng-repeat="menu in menus track by $index" ng-include="'menu.html'">
+
+        <h3 class="h2 heading fw-medium nt-transform ng-binding ng-scope">Group</h3>
+        <ul class="ng-scope">
+            <!-- ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="/about" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">EMEA</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="/about" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">Europe</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://www.ingenico.com.br" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">Latin America</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://www.ingenico.us" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">North America</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index -->
+        </ul>
+
+    </div><!-- end ngRepeat: menu in menus track by $index --><!-- ngInclude: 'menu.html' --><div class="column small-12 medium-4 end" ng-class="{'end':$last}" ng-repeat="menu in menus track by $index" ng-include="'menu.html'">
+
+        <h3 class="h2 heading fw-medium nt-transform ng-binding ng-scope">Ingenico Group websites</h3>
+        <ul class="ng-scope">
+            <!-- ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://www.ingenico.com/epayments" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">ePayments</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://healthcare-eid.ingenico.com/" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">Ingenico Healthcare e-id</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://ingenico.us/mobile-solutions" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">Mobile Solutions</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index --><li ng-repeat="link in menu.links track by $index" class="ng-scope"><a href="http://payment-services.ingenico.com" ng-class="linkIsSelected(link, 'expanded')" ng-click="selectMenu($event, link)" class="ng-binding">Payment Services</a>
+            </li><!-- end ngRepeat: link in menu.links track by $index -->
+        </ul>
+
+    </div><!-- end ngRepeat: menu in menus track by $index -->
+    </div>
+</div>
+
 <div id="regionsNotification" class="message-banner notice">
     <div class="row">
         <div class="column">
@@ -60,7 +105,7 @@ dataLayer = [{"visitorLanguage":"English"}]
             </p>
 
             <div class="content">
-                <p>We detected that you log in from the United States, do you want to visit our US website?&nbsp; <a href="http://ingenico.us/">Click here</a> <a href="#" class="browse">Browse region</a></p>
+                <p>&nbsp; <a href="">Click here</a> <a href="#" class="browse">Browse region</a></p>
             </div>
         </div>
     </div>
@@ -68,14 +113,13 @@ dataLayer = [{"visitorLanguage":"English"}]
 
 <header id="header" class="row">
     <div class="columns small-12">
-
         <a id="logo" href="/">
             <img src="/images/logo.png" class="img" alt="">
         </a>
 
         <div class="topnav rght show-for-medium-up">
             <ul class="nav ql-nav">
-                <li>
+                    <li>
             <a href="/press-and-publications/press-releases">Press releases</a>
         </li>
     <li>
@@ -87,9 +131,9 @@ dataLayer = [{"visitorLanguage":"English"}]
             </div>
 
             <div id="languages" class="nav lng-nav">
-                <a href="/privacy-policy" class="item active">en</a>
-                    <a href="/fr/politique-de-confidentialite" class="item ">fr</a>
-                    </div>
+                    <a href="/privacy-policy" class="item active">en</a>
+                        <a href="/fr/politique-de-confidentialite" class="item ">fr</a>
+                        </div>
             </div>
 
         <button id="mmenuIcon" class="js-click show-for-small-only" data-action="mobileMenu"></button>
@@ -97,12 +141,12 @@ dataLayer = [{"visitorLanguage":"English"}]
     <div class="columns small-12 show-for-medium-up">
         <div class="mainbar">
             <nav id="mainMenu" class="clearfix" role="navigation">
-                <ul class="clearfix">
-                    <li class=" home">
+                    <ul class="clearfix">
+                        <li class=" home" data-action="mainMenu">
     <a href="/">Home</a>
         </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/about-ingenico-group/about-us/about-us">About Ingenico Group</a>
         <div class="marketing">
                 <a href="/payment-acceptance-101" class="img link">
@@ -209,7 +253,7 @@ dataLayer = [{"visitorLanguage":"English"}]
     </ul>
     </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/finance/ingenico-group-at-a-glance">Finance</a>
         <div class="marketing">
                 <div class="caption">
@@ -228,6 +272,14 @@ dataLayer = [{"visitorLanguage":"English"}]
         <ul>
             </ul>
     </li>
+
+    <li>
+    <a href="/finance/investor-day">Investor Day</a>
+        </li>
+
+    <li>
+    <a href="/press-and-publications/financial-documentation/Types/type2">Revenues and Results</a>
+        </li>
 
     <li>
     <a href="/finance/keyfigures">Key figures</a>
@@ -270,7 +322,7 @@ dataLayer = [{"visitorLanguage":"English"}]
     </ul>
     </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/our-solutions/smart-terminals">Our solutions</a>
         <div class="marketing">
                 <div class="caption">
@@ -283,7 +335,7 @@ streamline the purchase act and deliver the retailer’s brand promise.</p>
 
 </div>
                 <div class="img">
-                            <img src="/binaries/content/gallery/corporate/imagemenus/our-solutions.png" alt="">
+                            <img src="/binaries/content/gallery/corporate/imagemenus/our-solutions-2016.png" alt="">
                         </div>
                     </div>
         <ul>
@@ -294,6 +346,20 @@ streamline the purchase act and deliver the retailer’s brand promise.</p>
     <a href="/our-solutions/telium-tetra">Telium TETRA</a>
         </li>
 
+    <li>
+    <a href="/marketplace">Marketplace</a>
+        <ul>
+            <li>
+    <a href="/marketplace/contact-us">contact-us</a>
+        </li>
+
+    </ul>
+    </li>
+
+    <li>
+    <a href="/our-solutions/mobile-solutions">Mobile solutions</a>
+        </li>
+
     </ul>
     </li>
 
@@ -302,7 +368,7 @@ streamline the purchase act and deliver the retailer’s brand promise.</p>
         </li>
 
     <li>
-    <a href="/our-solutions/mobile-solutions">Mobile solutions</a>
+    <a href="http://www.ingenico.com/epayments">ePayments</a>
         </li>
 
     <li>
@@ -312,7 +378,7 @@ streamline the purchase act and deliver the retailer’s brand promise.</p>
     </ul>
     </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/industries/banking">Industries</a>
         <div class="marketing">
                 <div class="caption">
@@ -365,7 +431,7 @@ streamline the purchase act and deliver the retailer’s brand promise.</p>
     </ul>
     </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/press-and-publications/press-releases">Press &amp; Publications</a>
         <div class="marketing">
                 <div class="caption">
@@ -399,7 +465,7 @@ publications, brochures, etc.</p>
     </ul>
     </li>
 
-    <li>
+    <li data-action="mainMenu">
     <a href="/contact-us/offices">Contact us</a>
         <div class="marketing">
                 <div class="caption">
@@ -420,7 +486,9 @@ contact form or by moving closer to our nearest local office of you.</p>
 
     <li>
     <a href="/contact-us/events">Events</a>
-        </li>
+        <ul>
+            </ul>
+    </li>
 
     <li>
     <a href="/press-and-publications/press-contacts">Media contact</a>
@@ -436,13 +504,14 @@ contact form or by moving closer to our nearest local office of you.</p>
     </li>
 
     </ul>
-            </nav>
+                </nav>
             <div class="sbtn js-click" data-action="searchBox">Search</div>
         </div>
     </div>
 
-    <div id="siteSwitcher">
-        <ul id="siteSwitcherItems">
+    <div id="siteSwitcherItemsWrapper" style="display: none">
+        <!-- 3 levels menu example -->
+            <ul id="siteSwitcherItems">
                 <li>
     <span>Group</span>
         <ul>
@@ -525,7 +594,7 @@ contact form or by moving closer to our nearest local office of you.</p>
     <span>Ingenico Group websites</span>
         <ul>
             <li>
-    <a href="http://www.globalcollect.com">GlobalCollect</a>
+    <a href="http://www.ingenico.com/epayments">ePayments</a>
         </li>
 
     <li>
@@ -533,7 +602,7 @@ contact form or by moving closer to our nearest local office of you.</p>
         </li>
 
     <li>
-    <a href="http://mobile-solutions.ingenico.com">Mobile Solutions</a>
+    <a href="http://ingenico.us/mobile-solutions">Mobile Solutions</a>
         </li>
 
     <li>
@@ -558,7 +627,7 @@ contact form or by moving closer to our nearest local office of you.</p>
     </form>
 </div>
 <div id="prolog">
-    <div class="gc-main-image " style="background-image: url(/binaries/content/gallery/corporate/banners/contact-us/contact-us.jpg)">
+    <div class="gc-main-image " style="background-image: url(/binaries/content/gallery/corporate/home-carousel/contact-us/contact-us.jpg)">
         </div>
 </div><div class="row header-extra">
 	<div class="spaced small-12 medium-6 large-7 column">
@@ -575,6 +644,7 @@ contact form or by moving closer to our nearest local office of you.</p>
     <p class="switch-button"><a class="button single-button"><span class="label">Share</span></a></p>
 
     <ul data-share-list="">
+
         <li>
             <a href="http://twitter.com/share?url=http://www.ingenico.com/privacy-policy" target="_blank" class="twitter" data-analytics="twitter||http://www.ingenico.com/privacy-policy">
                 <span class="label">Twitter</span>
@@ -614,121 +684,37 @@ contact form or by moving closer to our nearest local office of you.</p>
                         <div class="gc-text">
 	<div class="row">
 		<div class="column small-12">
-	       		    
-<h3>Collection of Personal Information </h3>
-<p>You may choose to give us personal information directly in a variety of
-situations. For example, you may want to give us your name and contact
-information to communicate with you, to provide you with a subscription or a
-service, or to do business with us if you are a supplier or a business partner.
-</p>
-
-<p>You may share a description of your education and work experience in
-connection with a job opening at Ingenico for which you wish to be considered.
-If you tell us that you do not want us to use your information to make further
-contact with you beyond fulfilling your request, we will respect your wishes.
-</p>
-
-<p>We may also collect information relating to your use of our Web sites through
-the use of various technologies. For example, when you visit our Web sites, we
-may log certain information that your browser sends us, such as your IP address,
-browser type and language, access time, and referring Web site addresses. We may
-also collect information about the pages you view within our sites and other
-actions you take while visiting us. In addition, we may also use such
-technologies to determine whether you’ve opened an e-mail or clicked on a link
-contained in an e-mail. Collecting information in this manner allows us to
-collect statistics about our Web sites usage and effectiveness and personalize
-your experience while you are on our Web sites, as well as tailor our
-interactions with you.</p>
-<h3>Use of Personal Information </h3>
-<p>The following paragraphs describe in more detail how Ingenico may use your
-personal information.</p>
-
-<ul>
-<li>Fulfilling your information Request, subsciption to a news alert or a
-training course, or a partnership request</li>
-<li>Personalizing your Experience on our Web Sites</li>
-<li>Marketing email campaigns</li>
-</ul>
-
-<p>The information you provide to Ingenico, as well as the information we have
-collected about you indirectly, may be used by Ingenico for marketing purposes.
-Before we do so, however, we will offer you the opportunity to choose whether or
-not to have your information used in this way. You may at any time choose not to
-receive marketing materials from us by following the unsubscribe instructions
-included in each e-mail you may receive, by indicating so when we call you, or
-by contacting us directly (please refer to “How to contact us” below).</p>
-
-<p>According to applicable law you have a right of access to, and rectification
-of the personal data you provide to Ingenico, and the right to exercise
-opposition as provided by law, and you can contact us through
-our&nbsp;<a title="Contact form" href="http://www.ingenico.com/en/contact/">contact
-form</a> to that effect (French Law n° 78-17 of January 6, 1978 “relative à
-l'informatique, aux fichiers et aux libertés”).</p>
-<h3>Retention </h3>
-<p>We will retain your registration information for as long as your account is
-active or as needed to provide you services. If you wish to request that we no
-longer use your registration information to provide you services contact us
-through our
-<a title="Contact form" href="http://www.ingenico.com/en/contact/">contact
-form</a>. We will retain and use your registration information as necessary to
-comply with our legal obligations, resolve disputes, and enforce our agreements.
-</p>
-<h3>Cookies, web beacons and Other Technologies </h3>
-<p>As mentioned above, we collect information from your visits to our Web sites
-to help us gather statistics about our Web sites usage and effectiveness,
-personalize your experience on our sites, and tailor our interactions with you.
-</p>
-
-<p>We do so through the use of various technologies, including one called
-"cookies". A cookie is a piece of data that a Web site can send to your browser,
-which may then be stored on your computer as a tag that identifies your
-computer. While cookies are often only used to measure Web site usage and
-effectiveness and to allow for ease of navigation or use and as such, are not
-associated with any personal information, they are also used at times to
-personalize a known visitor’s experience to a Web site by being associated with
-profile information or user preferences. You can set your browser in most
-instances to notify you before you receive a cookie, giving you the chance to
-decide whether to accept it or not. You can also generally set your browser to
-turn off cookies. Since cookies allow you to take advantage of some of our Web
-sites’ features, we recommend that you leave them turned on. If you block or
-otherwise reject our cookies, you will not be able, for instance, to fill in
-forms correctly and to subscribe to our news alert or use any Web site services
-that require you to sign in.</p>
-
-<p>Some Ingenico Web sites also use Web beacon or other technologies to better
-tailor those sites to provide better customer service. These technologies may be
-in use on a number of pages across Ingenico's Web sites. When a visitor accesses
-these pages, a non-identifiable notice of that visit is generated which may be
-processed by us or by our suppliers. These Web beacons usually work in
-conjunction with cookies. If you don't want your cookie information to be
-associated with your visits to these pages, you can set your browser to turn off
-cookies. If you turn off cookies, Web beacon and other technologies will still
-detect visits to these pages; however, they will not be associated with
-information otherwise stored in cookies.</p>
-
-<p>We may also include Web beacons in marketing e-mail messages or our
-newsletters in order to determine whether messages have been opened and links
-contained within clicked on.</p>
-<h3>How to Contact Us </h3>
-<p>Please contact us as follows:</p>
-
-<ul>
-<li>by sending a letter to the following address:</li>
-</ul>
-
-<p><strong>Ingenico</strong> <br>
-Communication Department <br>
-28-32 boulevard de Grenelle <br>
-75015 Paris - France</p>
-
-<ul>
-<li>by e-mail through our <a title="Contact Us form" href="/pagenotfound">contact
-form</a>.</li>
-<li>or by telephone: +33 1 58 01 80 00</li>
-</ul>
-
-
-</div>
+	       		    <h3>Collection of Personal Information</h3> 
+<p>You may choose to give us personal information directly in a variety of situations. For example, you may want to give us your name and contact information to communicate with you, to provide you with a subscription or a service, or to do business with us if you are a supplier or a business partner.</p> 
+<p>You may share a description of your education and work experience in connection with a job opening at Ingenico Group for which you wish to be considered. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your wishes.</p> 
+<p>We may also collect information relating to your use of our Web sites through the use of various technologies. For example, when you visit our Web sites, we may log certain information that your browser sends us, such as your IP address, browser type and language, access time, and referring Web site addresses. We may also collect information about the pages you view within our sites and other actions you take while visiting us. In addition, we may also use such technologies to determine whether you’ve opened an e-mail or clicked on a link contained in an e-mail. Collecting information in this manner allows us to collect statistics about our Web sites usage and effectiveness and personalize your experience while you are on our Web sites, as well as tailor our interactions with you.</p> 
+<h3>Use of Personal Information</h3> 
+<p>The following paragraphs describe in more detail how Ingenico Group may use your personal information.</p> 
+<ul> 
+<li>Fulfilling your information Request, subsciption to a news alert or a partnership request</li> 
+<li>Personalizing your Experience on our Web Sites</li> 
+<li>Marketing email campaigns</li> </ul> 
+<p>The information you provide to Ingenico Group, as well as the information we have collected about you indirectly, may be used by Ingenico Group for marketing purposes. Before we do so, however, we will offer you the opportunity to choose whether or not to have your information used in this way.&nbsp;</p> 
+<p>According to EU Data Privacy law, you have a right of access to, and rectification of the personal data you provide to Ingenico, and the right to exercise opposition, and you can contact us directly (please refer to “How to contact us” below).</p> 
+<h3>Retention</h3> 
+<p>We will retain your registration information for as long as your account is active or as needed to provide you services. If you wish to request that we no longer use your registration information to provide you services contact us 
+<span style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; line-height: 20.8px; text-align: left;">by e-mail at&nbsp;</span><a href="mailto:compliance@ingenico.com?subject=Ingenico%20Group%20Privacy%20Policy" style="font-family: sans-serif, Arial, Verdana, 'Trebuchet MS'; line-height: 20.8px; text-align: left;">compliance@ingenico.com</a>. We will retain and use your registration information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p> 
+<h3>Cookies, web beacons and Other Technologies</h3> 
+<p>As mentioned above, we collect information from your visits to our Web sites to help us gather statistics about our Web sites usage and effectiveness, personalize your experience on our sites, and tailor our interactions with you.</p> 
+<p>We do so through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure Web site usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalize a known visitor’s experience to a Web site by being associated with profile information or user preferences. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites’ features, we recommend that you leave them turned on. If you block or otherwise reject our cookies, you will not be able, for instance, to fill in forms correctly and to subscribe to our news alert or use any Web site services that require you to sign in.</p> 
+<p>Some Ingenico Group Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Ingenico Group's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, Web beacon and other technologies will still detect visits to these pages; however, they will not be associated with information otherwise stored in cookies.</p> 
+<p>We may also include Web beacons in marketing e-mail messages or our newsletters in order to determine whether messages have been opened and links contained within clicked on.</p> 
+<h3>How to Contact Us</h3> 
+<p>For any request regarding the collection or processing of your personal data by Ingenico, to exercise your rights of access, rectification or opposition, whatever the source or process involved, you may contact us as follows:&nbsp;</p> 
+<ul> 
+<li>by sending a letter to the following address:</li> </ul> 
+<p><strong>Ingenico Group</strong><br> Compliance Department
+<br> 28-32 boulevard de Grenelle
+<br> 75015 Paris - France</p> 
+<ul> 
+<li>by e-mail at 
+<a href="mailto:compliance@ingenico.com?subject=Ingenico%20Group%20Privacy%20Policy">compliance@ingenico.com</a>.</li> 
+<li>or by telephone: +33 (0)1 58 01 83 26</li> </ul></div>
 		    </div>
 </div></div>
                 </div>
@@ -744,7 +730,7 @@ form</a>.</li>
         </div>
 
         <div class="small-12 medium-8 columns">
-            <form method="POST" action="/_hn:action%7Cr50_r2_r2_r1%7C/privacy-policy#newsletter-subscription-component" class="eform"> <!-- data-expandable -->
+            <form method="POST" action="/_hn:action%7Cr57_r2_r2_r1%7C/privacy-policy#newsletter-subscription-component" class="eform"> <!-- data-expandable -->
                 <div>
                     <span style="color:#FFF;"></span>
                 </div>
@@ -1001,7 +987,7 @@ form</a>.</li>
                     <div class="input-group">
                         <ul class="actions">
                             <li>
-                                <input type="submit" value="Subscribe" class="button base">&nbsp;&nbsp;&nbsp;<a href="#" class="cancel">Cancel</a>
+                                <input type="submit" value="Subscribe" class="button base" style="display: none;"><a class="button base"><span class="label">Subscribe</span></a>&nbsp;&nbsp;&nbsp;<a href="#" class="cancel">Cancel</a>
                             </li>
                         </ul>
                     </div>
@@ -1067,7 +1053,12 @@ form</a>.</li>
     </ul>
                 <ul id="footer-menu1" class="nav nav-pills nav-stacked">
                         <li>
-            <a href="/our-solutions/mobile-solutions">Mobile Solutions</a>
+            <a href="http://www.ingenico.com/epayments">ePayments</a>
+        </li>
+    </ul>
+                <ul id="footer-menu1" class="nav nav-pills nav-stacked">
+                        <li>
+            <a href="http://ingenico.us/mobile-solutions">Mobile Solutions</a>
         </li>
     </ul>
                 <ul id="footer-menu1" class="nav nav-pills nav-stacked">
@@ -1101,7 +1092,7 @@ form</a>.</li>
             <div class="copyright">
                 <ul>
                     <li>
-                        © 2015. All rights reserved.</li>
+                        Copyright © 2016 Ingenico Group. All rights reserved.</li>
                     <li>
             <a href="/disclaimer">Disclaimer</a>
         </li>
@@ -1116,7 +1107,7 @@ form</a>.</li>
 </div>
 
 
-</footer><div class="cookieslaw">
+</footer><div class="cookieslaw" style="display: block;">
             <div class="row">
                 <div>
                     <p> Ingenico Group uses cookies to elevate customer experience and the use of this website. By continuing to surf on the Ingenico website, you agree to the use of these cookies.&nbsp;
@@ -1133,8 +1124,8 @@ form</a>.</li>
     var env = 'PRODUCTION';
     var siteRoot = env === 'null' || env === 'dev' ? '/site' : '/';
 </script>
-<script src="/scripts/libraries.min.js?v=1.1.12"></script>
-<script src="/scripts/ingenreb.min.js?v=1.1.12"></script>
+<script src="/scripts/libraries.min.js?v=1.2.5"></script>
+<script src="/scripts/ingenreb.min.js?v=1.2.5"></script>
 
 <script type="text/javascript">
     _bizo_data_partner_id = "8003";
@@ -1154,9 +1145,498 @@ form</a>.</li>
     <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=8003&fmt=gif" />
 </noscript>
 
+<script src="/js/jquery-validate-1.1.2.min.js" type="text/javascript"></script>
+<script>
+//<![CDATA[
+
+        //
+        $(document).ready(function() {
+            var form = $('form[name=""]'),
+                fields = form.find('*:input'), 
+                ajaxValidationUrl = '/_hn:resource%7Cr57_r3_r2_r1%7Cvalidation/privacy-policy',
+                lastElementFocused,
+                currentElementFocused,
+                conditions = ,
+                condFieldNames = {},
+                items = [],
+                item, condFieldName,
+                i, total, condField;
+
+                resetPagesVisible = function() {
+                    var allPages = $('.eforms-page.conditionally-visible'),
+                        curPage = $('.eforms-page.conditionally-visible:visible:first'),
+                        curIndex = -1,
+                        i = 0, total = allPages.length;
+
+                    for (; i < total; i += 1) {
+                        if (allPages[i].id === curPage.attr('id')) {
+                            curIndex = i;
+                            break;
+                        }
+                    }
+
+                    if (curIndex > 0) {
+                        $('#previousPageButton').show();
+                    }
+
+                    if (curIndex < total - 1) {
+                        $('#nextPageButton').show();
+                        $('.eforms-buttons input[type="submit"]').each(function() {
+                            $(this).hide();
+                        });
+
+                    } else if (curIndex == allPages.length - 1) {
+                        $('#nextPageButton').hide();
+                        $('.eforms-buttons input[type="submit"]').each(function() {
+                            $(this).show();
+                        });
+                    }
+
+                    $('#pagesTab li').hide();
+                    $('#pagesTab li.conditionally-visible').show();
+                },
+
+                validationResult = function(data) {
+                    var feedbackPanel = $('#feedbackPanel'),
+                        messagesList = feedbackPanel.find('> ul'),
+                        errorCount = 0,
+                        errorMessage,
+                        fieldName,
+                        field;
+                    
+                    messagesList.empty();
+                    form.find('.error').removeClass('error');
+
+                    if (data) {
+                        for (fieldName in data) {
+                            if (!data.hasOwnProperty(fieldName)) {
+                                continue;
+                            }
+                            
+                            field = form.find("[name="+ fieldName +"]");
+
+                            // get the error message
+                            errorMessage = data[fieldName];
+                            if (errorMessage) {
+                                field.addClass('error');
+                                messagesList.append('<li>' + errorMessage.localizedMessage + '</li>');
+                                errorCount += 1;
+                            }
+                        }
+                    }
+
+                    if (errorCount > 0) { // make feedback panel visible
+                        feedbackPanel.show();
+                    } else { // make feedback panel invisible
+                        feedbackPanel.hide();
+                    }
+                },
+                
+                addFormFieldsToParameters = function  (fields, params) {
+                    fields.each(function() {
+                        var self = $(this),
+                            fieldName = self.attr('name'),
+                            checked = form.find('.conditionally-visible:visible *:input[name="' + fieldName + '"]:checked');
+
+                        if (self.attr('type') === 'checkbox') {
+                            if (!params[fieldName]) {
+                                if (checked.length > 0) {
+                                    var values = [];
+                                    checked.each(function(index) {
+                                        values[index] = self.val();
+                                    });
+
+                                    params[fieldName] = values;
+                                } else {
+                                    params[fieldName] = '';
+                                }
+                            }
+
+                        } else if (self.attr('type') === 'radio') {
+                            if (!params[fieldName]) {
+                                if (checked.length > 0) {
+                                    params[fieldName] = checked.val();
+                                } else {
+                                    params[fieldName] = '';
+                                }
+                            }
+                        } else {
+                            params[fieldName] = self.val();
+                        }
+                    });
+                };
+
+        form.validate({errorElement:'div'});
+
+        fields.on('blur', function () { // on leaving form field, post field name/value for ajax validation
+            var self = $(this),
+                inputName = self.attr('name'),
+                params = {};
+
+            params[inputName] = self.val();
+
+            $.post(ajaxValidationUrl, params, validationResult, "json");
+        });
+
+        
+        fields.on('focus', function (e) {
+            lastElementFocused = currentElementFocused; // save last focused element
+
+            var el = $(e.target),
+                inputName = el.attr('name'),
+                params = {},
+                oldGroup,
+                newGroup,
+                list,
+                newFocusElement;
+
+            currentElementFocused = el;
+            
+            if (el.length === 0 || inputName === undefined || lastElementFocused === undefined) {
+                return;
+            }
+             
+            // post the last focused field (otherwise the field group validation may remove the error
+            // message set by the single-field validation)
+            addFormFieldsToParameters($().add(lastElementFocused), params);
+
+            // did the user leave a field group? if so, also post containing group and its other fields
+            list = lastElementFocused.closest('.choice');
+            if (list.length > 0) {
+                oldGroup = list.first();
+            }
+
+            if (oldGroup !== undefined && oldGroup.length > 0) {
+                if (currentElementFocused !== undefined) {
+                    list = form.find('.conditionally-visible:visible *:input[name="' + inputName + '"]:visible');
+                    
+                    if (list.length > 0) {
+                        newFocusElement = list.first();
+                    }
+                }
+
+                if (newFocusElement !== undefined && newFocusElement.length > 0) {
+                    list = newFocusElement.closest('.choice');
+                    if (list.length > 0) {
+                        newGroup = list.first();
+                    }
+
+                  if (newGroup === undefined || (newGroup.attr('name') !== undefined && oldGroup.attr('name') != newGroup.attr('name'))) {
+
+                    var fieldsInGroup = form.find('.conditionally-visible:visible .choice:visible[name="' + oldGroup.attr('name') + '"] *:input:visible');
+                    addFormFieldsToParameters(fieldsInGroup, params);
+
+                    // add an empty parameter for the old group on the current page
+                    params[oldGroup.attr('name')] = '';
+                  }
+                }
+            }
+
+            $.post(ajaxValidationUrl, params, validationResult, "json");
+        });
+
+
+
+        
+        if (conditions) {
+            if (conditions['fields'] !== undefined) {
+                items = items.concat(conditions['fields']);
+            }
+
+            if (conditions['pages'] !== undefined) {
+                items = items.concat(conditions['pages']);
+            }
+            
+            total = items.length;
+            for (i = 0; i < total; i += 1) {
+                item = items[i];
+                condFieldName = item['condname'];
+                
+                if (!condFieldNames[condFieldName]) {
+                    condFieldNames[condFieldName] = true;
+                }
+            }
+        }
+
+        for (condFieldName in condFieldNames) {
+            var condField = form.find('*[name="' + condFieldName + '"]');
+            if (condField.length === 0) {
+                continue;
+            };
+
+            var eventType = 'change';
+            condField.bind(eventType, function() {
+              if (conditions && conditions['fields']) {
+                var self = $(this),
+                    fields = conditions['fields'],
+                    i = 0,
+                    total = fields.length,
+                    field, condFieldName, name, targetField;
+
+                for (; i < total; i += 1) {
+                    field = fields[i];
+                    condFieldName = field['condname'];
+                    
+                    if (self.attr('name') != condFieldName) continue;
+
+                    name = field['name'];
+                    targetField = form.find('*[name="' + name + '"]');
+                  
+                  if (targetField.length === 0) {
+                      targetField = form.find('.choice[name="' + name + '"]');
+                  }
+                  
+                  if (targetField.length === 0) {
+                      targetField = $('.eforms-text[name="' + name + '"]');
+                  }
+                  
+                  if (targetField.length === 0) continue;
+
+                  var targetContainer = targetField.parents('.row');
+                  if (targetContainer.length === 0) {
+                      targetContainer = targetField;
+                  }
+
+                  var type = field['condtype'];
+                  var condFieldValue = field['condvalue'];
+                  var curSelectedValue = $(this).val();
+                  if (self.is('input') && self.attr('type') === 'radio') {
+                    curSelectedValue = form.find('*[name="' + condFieldName + '"]:radio:checked').val();
+                  }
+
+                  if (type === 'visibility') {
+                    if (condFieldValue == curSelectedValue) {
+                      targetContainer.show();
+                    } else {
+                      targetContainer.hide();
+                    }
+                  }
+                }
+
+                var pages = conditions['pages'];
+                for (var i = 0; i < pages.length; i++) {
+                  var page = pages[i];
+                  var condFieldName = page['condname'];
+                  if ($(this).attr('name') != condFieldName) continue;
+
+                  var pageIndex = page['index'];
+                  var targetPage = $('#page' + pageIndex);
+                  var type = page['condtype'];
+                  var condFieldValue = page['condvalue'];
+                  var curSelectedValue = $(this).val();
+                  if ($(this).is('input') && $(this).attr('type') == 'radio') {
+                    curSelectedValue = form.find('*[name="' + condFieldName + '"]:radio:checked').val();
+                  }
+
+                  if (type == 'visibility') {
+                    if (condFieldValue == curSelectedValue) {
+                      targetPage.addClass('conditionally-visible');
+                      $('#pagesTab li:nth-child(' + (pageIndex + 1) + ')').addClass('conditionally-visible');
+                    } else {
+                      targetPage.removeClass('conditionally-visible');
+                      $('#pagesTab li:nth-child(' + (pageIndex + 1) + ')').removeClass('conditionally-visible');
+                    }
+                    resetPagesVisible();
+                  }
+                }
+              }
+            });
+
+            condField.trigger(eventType);
+          }
+
+          
+          if ($('#pagesTab')) {
+            $('#pagesTab').show();
+          }
+          
+          $('.eforms-page').each(function() {
+            $(this).hide();
+          });
+
+          if ($('.eforms-page.conditionally-visible').length > 0) {
+                $('.eforms-page.conditionally-visible:first').show();
+          }
+
+          resetPagesVisible();
+
+          $('#previousPageButton').click(function() {
+            var curPage = $('.eforms-page.conditionally-visible:visible');
+            var prevPage = curPage.prevAll('.eforms-page.conditionally-visible:first');
+            prevPage.show();
+            curPage.hide();
+
+            var curIndex = parseInt(curPage.attr('id').replace(/^page/, ''));
+            var prevIndex = parseInt(prevPage.attr('id').replace(/^page/, ''));
+            $('#pagesTab li:nth-child(' + (curIndex + 1) + ')').removeClass('active');
+            $('#pagesTab li:nth-child(' + (prevIndex + 1) + ')').addClass('active');
+
+            if (prevPage.prevAll('.eforms-page.conditionally-visible:first').length == 0) {
+              $('#previousPageButton').hide();
+            }
+            $('#nextPageButton').show();
+            $('.eforms-buttons input[type="submit"]').each(function() {
+                $(this).hide();
+              });
+
+            // remove error messages from feedback panel
+            var messagesList = $('#feedbackPanel > ul');
+            messagesList.empty();
+
+            // hide feedbackPanel
+            var feedbackPanel = $('#feedbackPanel');
+            feedbackPanel.hide();
+
+          });
+
+          $('#nextPageButton').click(function() {
+            var curPage = $('.eforms-page.conditionally-visible:visible');
+
+            // ajax based validation
+            // validate all fields on current page before going to the next
+            var params = {};
+            var fieldsOnPage = $('.eforms-page.conditionally-visible:visible .eforms-field *:input');
+            addFormFieldsToParameters(fieldsOnPage, params);
+
+            // add an empty parameter for any group on the current page
+            var groupsOnPage = $('.eforms-page.conditionally-visible:visible .eforms-fieldgroup');
+            groupsOnPage.each(function() {
+              params[$(this).attr('name')] = '';
+            });
+
+            // add current page index to parameters
+            params['currentPage'] = curPage.attr('id').replace(/^page/, '');
+
+            $.post(ajaxValidationUrl, params,
+              function(data){
+
+                // remove previous error messages from feedback panel
+                var messagesList = $('#feedbackPanel > ul');
+                messagesList.empty();
+
+                var count = 0;
+                if (data) {
+                  for (var fieldName in data) {
+                    // get the error message
+                    var errorMessage = data[fieldName];
+                    if (errorMessage) {
+                      // add error message to feedback panel
+                      messagesList.append('<li>' + errorMessage.localizedMessage + '</li>');
+                      count++;
+                    }
+                  }
+                }
+                var feedbackPanel = $('#feedbackPanel');
+                if (count > 0) {
+                    // there are validation errors
+                    // make feedback panel visible
+                    feedbackPanel.show();
+                } else {
+                  // no error messages
+                  // make feedback panel invisible
+                  feedbackPanel.hide();
+
+                  // go to the next page
+                  var nextPage = curPage.nextAll('.eforms-page.conditionally-visible:first');
+                  nextPage.show();
+                  curPage.hide();
+
+                  var curIndex = parseInt(curPage.attr('id').replace(/^page/, ''));
+                  var nextIndex = parseInt(nextPage.attr('id').replace(/^page/, ''));
+                  $('#pagesTab li:nth-child(' + (curIndex + 1) + ')').removeClass('active');
+                  $('#pagesTab li:nth-child(' + (nextIndex + 1) + ')').addClass('active');
+
+                  $('#previousPageButton').show();
+                  if (nextPage.nextAll('.eforms-page.conditionally-visible:first').length == 0) {
+                    $('#nextPageButton').hide();
+                    $('.eforms-buttons input[type="submit"]').each(function() {
+                      $(this).show();
+                    });
+                  }
+
+                }
+
+              }, "json");
+
+
+          });
+
+
+          var valid = false;
+
+          // ajax page validation in case of last (or only) page
+          $('form[name=""]').submit(function(event) {
+
+            var curPage = $('.eforms-page.conditionally-visible:visible');
+
+            // if valid flag is set, page was validated and form can be submitted
+            if (valid) {
+                return true;
+            }
+
+            var params = {};
+            var fieldsOnPage = $('.eforms-page.conditionally-visible:visible .eforms-field:visible *:input');
+            addFormFieldsToParameters(fieldsOnPage, params);
+
+            // add an empty parameter for any visible group on the current page
+            var groupsOnPage = $('.eforms-page.conditionally-visible:visible .eforms-fieldgroup:visible');
+            groupsOnPage.each(function() {
+                params[$(this).attr('name')] = '';
+            });
+
+            // add current page index to parameters
+            params['currentPage'] = curPage.attr('id').replace(/^page/, '');
+
+            // prevent form submission as we want to do ajax validation first
+            event.preventDefault();
+
+            $.post(ajaxValidationUrl, params,
+              function(data){
+
+                // remove previous error messages from feedback panel
+                var messagesList = $('#feedbackPanel > ul');
+                messagesList.empty();
+
+                var count = 0;
+                if (data) {
+                  for (var fieldName in data) {
+                    // get the error message
+                    var errorMessage = data[fieldName];
+                    if (errorMessage) {
+                      // add error message to feedback panel
+                      messagesList.append('<li>' + errorMessage.localizedMessage + '</li>');
+                      count++;
+                    }
+                  }
+                }
+                var feedbackPanel = $('#feedbackPanel');
+                if (count > 0) {
+                    // there are validation errors
+                    // make feedback panel visible
+                    feedbackPanel.show();
+
+                } else {
+                  // no error messages
+                  // make feedback panel invisible
+                  feedbackPanel.hide();
+
+                  // set valid flag and resubmit form
+                  valid = true;
+                  $('form[name=""] input:submit').click();
+                }
+
+              }, "json");
+
+          });
+
+        });
+        //
+    
+//]]>
+</script>
 <!--[if lt IE 9]>
-            <script type="text/javascript" src="/scripts/polyfills/rem.min.js?v=1.1.12"></script>
-            <script type="text/javascript" src="/scripts/scriptIE8.js?v=1.1.12"></script>
+            <script type="text/javascript" src="/scripts/polyfills/rem.min.js?v=1.2.5"></script>
+            <script type="text/javascript" src="/scripts/scriptIE8.js?v=1.2.5"></script>
         <![endif]-->
     
 </body></html>
