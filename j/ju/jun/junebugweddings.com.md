@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junebugweddings.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911082522id_/http%3A//junebugweddings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junebugweddings.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405075448id_/http%3A//junebugweddings.com/privacy) for the most accurate reproduction.*
 
 # Junebug Weddings | Privacy Policy
 
@@ -70,8 +70,8 @@ Our address is
 
 Junebug Weddings   
 Attn: Legal   
-4425 South Mopac Expy  
-Suite 100  
-Austin, Texas 78735  
-Tel: 888.418.6149   
+507 W 17th St Austin, Texas 78701
+
+Tel: 888.418.6149
+
 Email: [contact@junebugweddings.com](mailto:contact@junebugweddings.com)
