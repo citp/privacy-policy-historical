@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thieme.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226044758id_/http%3A//www.thieme.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thieme.com privacy policy that was archived on 2016-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405222805id_/http%3A//www.thieme.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-gb" dir="ltr" class="com_quickfaq view-faqs itemid-325 j33 mm-hover"><head>
 	  <base href="http://www.thieme.com/privacy-policy">
@@ -8,8 +8,8 @@
   <title>Thieme Medical Publishers - Privacy Policy</title>
   <link href="http://www.thieme.com/privacy-policy?view=faqs&amp;category_id=102" rel="canonical">
   <link href="/templates/thieme/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link rel="stylesheet" href="/t3-assets/css/css-06dd5.css?t=174" type="text/css">
-  <link rel="stylesheet" href="/t3-assets/css/css-d7014.css?t=102" type="text/css">
+  <link rel="stylesheet" href="/t3-assets/css/css-06dd5.css?t=939" type="text/css">
+  <link rel="stylesheet" href="/t3-assets/css/css-4659f.css?t=290" type="text/css">
   <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/t3-assets/js/js-5189f.js?t=819" type="text/javascript"></script>
   <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
   <script src="/t3-assets/js/js-d0a7a.js?t=465" type="text/javascript"></script>
@@ -76,18 +76,165 @@
 			</div>
 		</div>
 	
-	<div class="t3-header-contents container">
-		<div class="row">
-			<!-- LOGO -->
-			<div class="col-xs-12 col-sm-8 col-md-6">
-				<div class="logo logo-image">
-					<a href="/" title="Thieme Medical Publishers">
-													<img class="logo-img" src="/images/logo.png" alt="Thieme Medical Publishers">
-																		<span>Thieme Medical Publishers</span>
-					</a>
-					<small class="site-slogan"></small>
-				</div>
+	<div class="t3-header-contents">
+		<div class="t3-pre-menu-row">
+			<div class="container">
+				<div class="row">
+					<!-- LOGO -->
+					<div class="col-xs-12 col-sm-8 col-md-6">
+						<div class="logo logo-image">
+							<a href="/" title="Thieme Medical Publishers">
+																	<img class="logo-img" src="/images/logo.png" alt="Thieme Medical Publishers">
+																								<span>Thieme Medical Publishers</span>
+							</a>
+							<small class="site-slogan"></small>
+						</div>
+					</div>
+					<!-- //LOGO -->
+
+											<div class="col-xs-12 col-sm-4 col-md-6">
+							<!-- HEAD SEARCH -->
+							<div class="head-search  hidden-xs">
+								<div class="pagoSearch">
+
+<form name="pg-search-desktop" method="get" class="pg-search-form-m pg-search-override-frm-desktop" action="/search">
+
+	<input type="text" name="search_query" class="search_query_input-m-desktop" placeholder="search" id="ajx-search-ena">
+ 
+	<input type="submit" value="Search" class="pg-btn-gray pago-btn-search-m-desktop">
+
+	<input type="hidden" name="option" value="com_pago">
+
+	<input type="hidden" name="view" value="search">
+
+</form>
+
+</div>
+
+<script type="text/javascript">
+
+	jQuery(document).ready(function(){
+
+    jQuery(".pago-btn-search-m-desktop").on("click",function(){
+
+      if(jQuery(".search_query_input-m-desktop").val()==""){
+
+       return false;
+
+      }
+
+    })
+
+		String.prototype.escapeHTML = function() {
+
+        return this.replace(/&/g, "")
+
+                   .replace(/</g, "")
+
+                   .replace(/>/g, "")
+
+                   .replace(/"/g, "")
+
+                   .replace(/'/g, "");
+
+    	}
+
+    	jQuery('.pg-search-form-m').submit(function() {
+
+    		var val = jQuery('.search_query_input-m-desktop').val().escapeHTML();
+
+    		jQuery('.search_query_input-m-desktop').val(val);
+
+    		return true;
+
+    	});
+
+		
+
+				jQuery(document).on('keyup','#ajx-search-ena',function(){
+
+		jQuery(this).autocomplete({
+
+			 source : function(request, response) {
+
+	            jQuery.ajax({
+
+	            	type: 'POST',
+
+					url: 'index.php',
+
+					data: 'option=com_pago&controller=item&task=get_items&search_query=' +request.term+ '',
+
+					dataType : 'json',
+
+	                success : function(data) {
+
+	                  //  jQuery('#ajx-search-ena').removeClass('itemLoading');
+
+	                    response(data, function(item) {
+
+	                        return item;
+
+	                    });
+
+	                }
+
+	            });
+
+	       },
+
+	        minLength : 3,
+
+	        select : function(event, ui) {
+
 				
+
+	            jQuery('#ajx-search-ena').val(ui.item.label);
+
+	            return false;
+
+	        },
+
+	        search : function(event, ui) {
+
+	           // jQuery('#ajx-search-ena').addClass('itemLoading');
+
+	        }
+
+	    }).data("ui-autocomplete")._renderItem = function (a, b) {
+
+		var Itemid = 325;
+
+    return jQuery("<li></li>")
+
+        .data("item.autocomplete", b)
+
+        .append('<a href="http://www.thieme.com/index.php?option=com_pago&view=item&Itemid='+Itemid+'&id=' + b.value + '"> ' + b.label + '</a>  ')
+
+        .appendTo(a);
+
+};
+
+	});
+
+
+
+	})
+
+</script>
+
+
+							</div>
+							<!-- //HEAD SEARCH -->
+						</div>
+									</div>
+			</div>
+		</div>
+		<div class="t3-menu-row">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						
 <!-- MAIN NAVIGATION -->
 <nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
 	<div class="t3-mainnav-contents">
@@ -249,145 +396,10 @@ form[name="pg-search"] input[name="search_query"] {
 	</div>
 </nav>
 <!-- //MAIN NAVIGATION -->
-			</div>
-			<!-- //LOGO -->
-
-							<div class="col-xs-12 col-sm-4 col-md-6">
-					<!-- HEAD SEARCH -->
-					<div class="head-search  hidden-xs">
-						<div class="pagoSearch">
-
-<form name="pg-search-desktop" method="get" class="pg-search-form-m pg-search-override-frm-desktop" action="/search">
-
-	<input type="text" name="search_query" class="search_query_input-m-desktop" placeholder="search" id="ajx-search-ena">
- 
-	<input type="submit" value="Search" class="pg-btn-gray pago-btn-search-m-desktop">
-
-	<input type="hidden" name="option" value="com_pago">
-
-	<input type="hidden" name="view" value="search">
-
-</form>
-
-</div>
-
-<script type="text/javascript">
-
-	jQuery(document).ready(function(){
-
-    jQuery(".pago-btn-search-m-desktop").on("click",function(){
-
-      if(jQuery(".search_query_input-m-desktop").val()==""){
-
-       return false;
-
-      }
-
-    })
-
-		String.prototype.escapeHTML = function() {
-
-        return this.replace(/&/g, "")
-
-                   .replace(/</g, "")
-
-                   .replace(/>/g, "")
-
-                   .replace(/"/g, "")
-
-                   .replace(/'/g, "");
-
-    	}
-
-    	jQuery('.pg-search-form-m').submit(function() {
-
-    		var val = jQuery('.search_query_input-m-desktop').val().escapeHTML();
-
-    		jQuery('.search_query_input-m-desktop').val(val);
-
-    		return true;
-
-    	});
-
-		
-
-				jQuery(document).on('keyup','#ajx-search-ena',function(){
-
-		jQuery(this).autocomplete({
-
-			 source : function(request, response) {
-
-	            jQuery.ajax({
-
-	            	type: 'POST',
-
-					url: 'index.php',
-
-					data: 'option=com_pago&controller=item&task=get_items&search_query=' +request.term+ '',
-
-					dataType : 'json',
-
-	                success : function(data) {
-
-	                  //  jQuery('#ajx-search-ena').removeClass('itemLoading');
-
-	                    response(data, function(item) {
-
-	                        return item;
-
-	                    });
-
-	                }
-
-	            });
-
-	       },
-
-	        minLength : 3,
-
-	        select : function(event, ui) {
-
-				
-
-	            jQuery('#ajx-search-ena').val(ui.item.label);
-
-	            return false;
-
-	        },
-
-	        search : function(event, ui) {
-
-	           // jQuery('#ajx-search-ena').addClass('itemLoading');
-
-	        }
-
-	    }).data("ui-autocomplete")._renderItem = function (a, b) {
-
-		var Itemid = 325;
-
-    return jQuery("<li></li>")
-
-        .data("item.autocomplete", b)
-
-        .append('<a href="http://www.thieme.com/index.php?option=com_pago&view=item&Itemid='+Itemid+'&id=' + b.value + '"> ' + b.label + '</a>  ')
-
-        .appendTo(a);
-
-};
-
-	});
-
-
-
-	})
-
-</script>
-
-
 					</div>
-					<!-- //HEAD SEARCH -->
 				</div>
-					</div>
+			</div>
+		</div>
 	</div>
 
 </header>
@@ -502,7 +514,7 @@ jQuery(document).ready(function(){
 	<option value="0">Select Author</option>
 	<option value="33176">AAO-HNSF</option>
 	<option value="32095">Aarabi</option>
-	<option value="3595">Abbate</option>
+	<option value="35765">Abbate</option>
 	<option value="32945">Abbott</option>
 	<option value="32484">Abdulhak</option>
 	<option value="34246">Abernathey</option>
@@ -515,7 +527,7 @@ jQuery(document).ready(function(){
 	<option value="33816">Adunka</option>
 	<option value="31721">Aebi</option>
 	<option value="32770">Agarwal</option>
-	<option value="35142">Ahmed</option>
+	<option value="36097">Ahmed</option>
 	<option value="32150">Al-Mefty</option>
 	<option value="32742">Alavi</option>
 	<option value="32287">Alberstone</option>
@@ -526,7 +538,7 @@ jQuery(document).ready(function(){
 	<option value="34732">Albuquerque</option>
 	<option value="16742">Alexander</option>
 	<option value="32369">Alibek</option>
-	<option value="35461">Allen</option>
+	<option value="35893">Allen</option>
 	<option value="32282">Alleyne</option>
 	<option value="33542">Almeyda</option>
 	<option value="32878">Amlani</option>
@@ -557,7 +569,7 @@ jQuery(document).ready(function(){
 	<option value="32384">Aung</option>
 	<option value="34373">Avery</option>
 	<option value="18846">Awad</option>
-	<option value="32857">Azar</option>
+	<option value="36120">Azar</option>
 	<option value="32719">Azizzadeh</option>
 	<option value="32911">Baaj</option>
 	<option value="559">Baasner</option>
@@ -611,7 +623,7 @@ jQuery(document).ready(function(){
 	<option value="32735">Berenstein</option>
 	<option value="33079">Berger</option>
 	<option value="32612">Berkessel</option>
-	<option value="32130">Bernal-Sprekelsen</option>
+	<option value="33994">Bernal-Sprekelsen</option>
 	<option value="33078">Bernstein</option>
 	<option value="32863">Berta</option>
 	<option value="32457">Betz</option>
@@ -622,6 +634,7 @@ jQuery(document).ready(function(){
 	<option value="33897">Bianchi</option>
 	<option value="31898">Bien</option>
 	<option value="1712">Bienz</option>
+	<option value="35709">Bierman</option>
 	<option value="31535">Biesalski</option>
 	<option value="28872">Bimstein</option>
 	<option value="32189">Binder</option>
@@ -661,7 +674,7 @@ jQuery(document).ready(function(){
 	<option value="16954">Branch, Jr.</option>
 	<option value="32306">Brandon</option>
 	<option value="34375">Brantley</option>
-	<option value="33083">Braswell</option>
+	<option value="35790">Braswell</option>
 	<option value="32349">Brazis</option>
 	<option value="163">Breitenseher</option>
 	<option value="32165">Brenner</option>
@@ -669,9 +682,10 @@ jQuery(document).ready(function(){
 	<option value="19560">Brinckmann</option>
 	<option value="32487">Brockmeyer</option>
 	<option value="32224">Brody</option>
+	<option value="36014">Broetz</option>
 	<option value="18560">Broman</option>
 	<option value="34119">Broschmann</option>
-	<option value="1286">Brossmann</option>
+	<option value="35757">Brossmann</option>
 	<option value="2222">Brotchi</option>
 	<option value="32199">Brown</option>
 	<option value="31900">Brueckmann</option>
@@ -686,7 +700,7 @@ jQuery(document).ready(function(){
 	<option value="32677">Bullocks</option>
 	<option value="34586">Bumann</option>
 	<option value="32358">Burchiel</option>
-	<option value="4167">Burgdorf</option>
+	<option value="31631">Burgdorf</option>
 	<option value="31911">Burgener</option>
 	<option value="1273">Burghardt</option>
 	<option value="31682">Burmester</option>
@@ -698,7 +712,7 @@ jQuery(document).ready(function(){
 	<option value="35382">Cammisa</option>
 	<option value="32399">Cantisano-Zilkha</option>
 	<option value="32692">Capone</option>
-	<option value="32325">Caputy</option>
+	<option value="35967">Caputy</option>
 	<option value="33027">Carlson</option>
 	<option value="32928">Carniol</option>
 	<option value="32162">Carrasco</option>
@@ -708,7 +722,7 @@ jQuery(document).ready(function(){
 	<option value="31807">Caruso</option>
 	<option value="32942">Casiano</option>
 	<option value="34447">Cassar-Pullicino</option>
-	<option value="34938">Castillo</option>
+	<option value="35900">Castillo</option>
 	<option value="31956">Castro</option>
 	<option value="32796">Cataltepe</option>
 	<option value="32962">Chamarthy</option>
@@ -733,14 +747,14 @@ jQuery(document).ready(function(){
 	<option value="33475">Classen</option>
 	<option value="3613">Claussen</option>
 	<option value="32610">Clayden</option>
-	<option value="35647">Clemente</option>
+	<option value="35906">Clemente</option>
 	<option value="32190">Close</option>
 	<option value="35689">Cobo</option>
 	<option value="35635">Cohen</option>
 	<option value="32479">Cohen-Gadol</option>
 	<option value="31977">Cohnen</option>
 	<option value="32428">Cole</option>
-	<option value="35572">Connell</option>
+	<option value="36125">Connell</option>
 	<option value="32567">Connolly</option>
 	<option value="32608">Conrad</option>
 	<option value="34282">Constantinescu</option>
@@ -761,7 +775,7 @@ jQuery(document).ready(function(){
 	<option value="35595">Cruz</option>
 	<option value="32574">Curlee</option>
 	<option value="32291">Cushner</option>
-	<option value="35502">Cusimano</option>
+	<option value="35904">Cusimano</option>
 	<option value="35045">Daenen</option>
 	<option value="32367">Dailey</option>
 	<option value="34609">Dallemagne</option>
@@ -775,7 +789,7 @@ jQuery(document).ready(function(){
 	<option value="34959">De Donato</option>
 	<option value="33544">de Groot</option>
 	<option value="17098">de Meijere</option>
-	<option value="32312">De Santo</option>
+	<option value="35838">De Santo</option>
 	<option value="31624">De Souza</option>
 	<option value="34014">de Vries</option>
 	<option value="123">Dean</option>
@@ -787,11 +801,11 @@ jQuery(document).ready(function(){
 	<option value="31948">DeSalles</option>
 	<option value="32838">Deshaies</option>
 	<option value="32881">Desmond</option>
-	<option value="34188">Despopoulos</option>
+	<option value="34808">Despopoulos</option>
 	<option value="33864">Dettori</option>
 	<option value="31626">Devaiah</option>
 	<option value="32337">DeWald</option>
-	<option value="35500">Di Ieva</option>
+	<option value="35902">Di Ieva</option>
 	<option value="33345">Di Trapani</option>
 	<option value="32575">DiBernardo</option>
 	<option value="32386">Dickman</option>
@@ -811,7 +825,7 @@ jQuery(document).ready(function(){
 	<option value="2294">Doliva</option>
 	<option value="16840">Dolmatch</option>
 	<option value="32298">Donald</option>
-	<option value="32858">Donaldson</option>
+	<option value="36121">Donaldson</option>
 	<option value="35043">Dondelinger</option>
 	<option value="32663">Donohoe</option>
 	<option value="33997">Dornhoffer</option>
@@ -851,7 +865,7 @@ jQuery(document).ready(function(){
 	<option value="34618">Entezami</option>
 	<option value="33901">Erbel</option>
 	<option value="33741">Ergil</option>
-	<option value="33699">Ernst</option>
+	<option value="35714">Ernst</option>
 	<option value="33545">ESCOP</option>
 	<option value="32667">Escott</option>
 	<option value="34715">Essig</option>
@@ -899,15 +913,16 @@ jQuery(document).ready(function(){
 	<option value="27946">Forbes</option>
 	<option value="32611">Forsyth</option>
 	<option value="35245">Fortier</option>
-	<option value="32324">Fossett</option>
+	<option value="35966">Fossett</option>
 	<option value="32217">Fowler</option>
 	<option value="34074">Fox</option>
 	<option value="32902">Francis</option>
+	<option value="35710">Franjoine</option>
 	<option value="32584">Frankle</option>
 	<option value="32250">Frattali</option>
 	<option value="31947">Frazee</option>
 	<option value="16608">Free</option>
-	<option value="1285">Freyschmidt</option>
+	<option value="34137">Freyschmidt</option>
 	<option value="35584">Fricker</option>
 	<option value="33007">Fried</option>
 	<option value="32606">Friedman</option>
@@ -916,14 +931,14 @@ jQuery(document).ready(function(){
 	<option value="34011">Fritsch</option>
 	<option value="31980">Fritz</option>
 	<option value="19562">Frobin</option>
-	<option value="35575">Frodel</option>
+	<option value="36129">Frodel</option>
 	<option value="32715">Frontera</option>
 	<option value="34184">Frotscher</option>
 	<option value="33960">Fuerstner</option>
 	<option value="33431">Fugmann</option>
 	<option value="35553">Fuhrmann</option>
 	<option value="32607">Fukushima</option>
-	<option value="32658">Funaki</option>
+	<option value="35751">Funaki</option>
 	<option value="33296">Gabka</option>
 	<option value="32793">Gaitini</option>
 	<option value="33833">Galanski</option>
@@ -940,7 +955,7 @@ jQuery(document).ready(function(){
 	<option value="32991">Gasco</option>
 	<option value="34620">Gasiorek-Wiens</option>
 	<option value="32932">Gaskin</option>
-	<option value="32311">Gavilan</option>
+	<option value="35836">Gavilan</option>
 	<option value="1501">Gawaz</option>
 	<option value="32180">Gazelle</option>
 	<option value="32888">Geibprasert</option>
@@ -961,11 +976,11 @@ jQuery(document).ready(function(){
 	<option value="1275">Girardi</option>
 	<option value="34495">Gjelsvik</option>
 	<option value="34327">Glaser</option>
-	<option value="33084">Glasier</option>
+	<option value="35791">Glasier</option>
 	<option value="32354">Glasscock</option>
 	<option value="32511">Glattke</option>
 	<option value="32246">Gluckman</option>
-	<option value="35240">Gluth</option>
+	<option value="36024">Gluth</option>
 	<option value="32952">Godin</option>
 	<option value="33851">Goel</option>
 	<option value="32977">Goerner</option>
@@ -982,21 +997,21 @@ jQuery(document).ready(function(){
 	<option value="739">Goodman</option>
 	<option value="32402">Goodrich</option>
 	<option value="32164">Gorczyca</option>
-	<option value="32407">Gordon</option>
+	<option value="35723">Gordon</option>
 	<option value="33062">Goudy</option>
 	<option value="32599">Gourin</option>
 	<option value="3501">Graber</option>
 	<option value="32862">Gragnaniello</option>
-	<option value="35524">Grand</option>
+	<option value="35692">Grand</option>
 	<option value="32032">Grassberger</option>
 	<option value="34145">Gray</option>
 	<option value="31714">Green</option>
 	<option value="32576">Greenberg</option>
-	<option value="637">Greenstein</option>
+	<option value="35745">Greenstein</option>
 	<option value="28870">Greenwall</option>
 	<option value="33588">Greiner</option>
 	<option value="32462">Gress</option>
-	<option value="4166">Grevers</option>
+	<option value="31762">Grevers</option>
 	<option value="31883">Gries</option>
 	<option value="32537">Griesbeck</option>
 	<option value="31537">Grimm</option>
@@ -1026,7 +1041,8 @@ jQuery(document).ready(function(){
 	<option value="32920">Hamilton</option>
 	<option value="33834">Hamm</option>
 	<option value="33207">Hammer</option>
-	<option value="35481">Handler</option>
+	<option value="36007">Hanasono</option>
+	<option value="35888">Handler</option>
 	<option value="27394">Hansell</option>
 	<option value="32351">Hansen</option>
 	<option value="33720">Hanson</option>
@@ -1043,6 +1059,7 @@ jQuery(document).ready(function(){
 	<option value="31812">Hassell</option>
 	<option value="2372">Haupt</option>
 	<option value="33226">Haymaker</option>
+	<option value="35711">Hazzard</option>
 	<option value="32904">Heary</option>
 	<option value="33820">Hebgen</option>
 	<option value="32075">Hecker</option>
@@ -1063,6 +1080,7 @@ jQuery(document).ready(function(){
 	<option value="32795">Herman</option>
 	<option value="34057">Hermsmeyer</option>
 	<option value="34435">Herneth</option>
+	<option value="35837">Herranz</option>
 	<option value="32196">Hersh</option>
 	<option value="33278">Herzog</option>
 	<option value="33302">Hesse</option>
@@ -1076,26 +1094,27 @@ jQuery(document).ready(function(){
 	<option value="34489">Hitchon</option>
 	<option value="32025">Hoang-Xuan</option>
 	<option value="34392">Hobbs</option>
-	<option value="35238">Hochschild</option>
+	<option value="35864">Hochschild</option>
 	<option value="32494">Hoeffner</option>
-	<option value="2635">Hofer</option>
+	<option value="32126">Hofer</option>
 	<option value="33244">Hoffmann</option>
 	<option value="33993">Hohler</option>
 	<option value="34531">Holland</option>
-	<option value="32953">Hollenberg</option>
+	<option value="35959">Hollenberg</option>
 	<option value="32680">Hollier</option>
-	<option value="35576">Holt</option>
+	<option value="36130">Holt</option>
 	<option value="32844">Hong</option>
 	<option value="34839">Honnef</option>
 	<option value="35645">Hopf</option>
-	<option value="35525">Hopkins</option>
-	<option value="3523">Hosemann</option>
+	<option value="35693">Hopkins</option>
+	<option value="35731">Hosemann</option>
 	<option value="32588">Hosford-Dunn</option>
 	<option value="31879">Hosten</option>
 	<option value="33275">Houben-Weyl</option>
 	<option value="31709">Houlton</option>
 	<option value="33883">Howard</option>
 	<option value="34862">Howe</option>
+	<option value="35712">Howle</option>
 	<option value="32678">Hsu</option>
 	<option value="32569">Huang</option>
 	<option value="34104">Hueter-Becker</option>
@@ -1113,7 +1132,7 @@ jQuery(document).ready(function(){
 	<option value="34168">Irgolic</option>
 	<option value="31763">Iro</option>
 	<option value="34806">Isenberg</option>
-	<option value="7078">Isenmann</option>
+	<option value="31735">Isenmann</option>
 	<option value="34077">Ishihara</option>
 	<option value="18750">Ismail</option>
 	<option value="32357">Israel</option>
@@ -1128,7 +1147,7 @@ jQuery(document).ready(function(){
 	<option value="35415">Jaffer</option>
 	<option value="32188">Jahn</option>
 	<option value="32083">Jahnke</option>
-	<option value="34190">Jahrsdoerfer</option>
+	<option value="35931">Jahrsdoerfer</option>
 	<option value="34714">Jain</option>
 	<option value="33893">Jakob</option>
 	<option value="32701">Jallo</option>
@@ -1139,6 +1158,7 @@ jQuery(document).ready(function(){
 	<option value="31957">Jerosch</option>
 	<option value="32515">Jessen</option>
 	<option value="33219">Jimenez</option>
+	<option value="36044">Jin</option>
 	<option value="2373">Jocham</option>
 	<option value="33790">Joensson</option>
 	<option value="32253">John</option>
@@ -1173,7 +1193,7 @@ jQuery(document).ready(function(){
 	<option value="1711">Kayser</option>
 	<option value="32924">Keating</option>
 	<option value="32934">Keats</option>
-	<option value="3525">Keerl</option>
+	<option value="35733">Keerl</option>
 	<option value="34012">Kehler</option>
 	<option value="31415">Keith</option>
 	<option value="35556">Kellam</option>
@@ -1202,7 +1222,7 @@ jQuery(document).ready(function(){
 	<option value="35076">Kleideiter</option>
 	<option value="33751">Klingebiel</option>
 	<option value="34020">Kloen</option>
-	<option value="7077">Kluge</option>
+	<option value="31731">Kluge</option>
 	<option value="34865">Klugman</option>
 	<option value="32370">Knight</option>
 	<option value="32389">Kobayashi</option>
@@ -1243,7 +1263,7 @@ jQuery(document).ready(function(){
 	<option value="34070">Krischak</option>
 	<option value="33899">Krishnan</option>
 	<option value="34146">Kroeger</option>
-	<option value="33959">Krug</option>
+	<option value="35755">Krug</option>
 	<option value="35535">Krukemeyer</option>
 	<option value="34245">Kubick</option>
 	<option value="34118">Kuchenbecker</option>
@@ -1256,7 +1276,7 @@ jQuery(document).ready(function(){
 	<option value="32004">Kurz</option>
 	<option value="20904">Kutscher</option>
 	<option value="34611">L?hlein</option>
-	<option value="33958">Lackner</option>
+	<option value="35754">Lackner</option>
 	<option value="32238">Lacombe</option>
 	<option value="32418">Lake</option>
 	<option value="31687">Lakin</option>
@@ -1280,7 +1300,7 @@ jQuery(document).ready(function(){
 	<option value="32461">Lawton</option>
 	<option value="20236">Lazarus</option>
 	<option value="32203">Lee</option>
-	<option value="34937">Leite</option>
+	<option value="35899">Leite</option>
 	<option value="19564">Leivseth</option>
 	<option value="33838">Lemke</option>
 	<option value="32513">Lemp</option>
@@ -1288,7 +1308,7 @@ jQuery(document).ready(function(){
 	<option value="32806">Leonard</option>
 	<option value="27940">Lev</option>
 	<option value="35639">Levin</option>
-	<option value="35458">Levine</option>
+	<option value="35890">Levine</option>
 	<option value="32865">Levy</option>
 	<option value="33205">Lewin</option>
 	<option value="32935">Li</option>
@@ -1306,26 +1326,27 @@ jQuery(document).ready(function(){
 	<option value="16794">Lipschitz</option>
 	<option value="16796">Lipset</option>
 	<option value="34044">List</option>
+	<option value="36012">Listenberger</option>
 	<option value="33890">Lobenhoffer</option>
 	<option value="33268">Loda</option>
 	<option value="33330">Loddenkemper</option>
+	<option value="36050">Loehlein</option>
 	<option value="32465">Loevner</option>
 	<option value="18936">Loftus</option>
-	<option value="32659">Lorenz</option>
+	<option value="32752">Lorenz</option>
 	<option value="32578">Lorich</option>
 	<option value="34587">Lotzmann</option>
-	<option value="34999">Loukas</option>
+	<option value="35978">Loukas</option>
 	<option value="31885">Low</option>
 	<option value="33982">Ludwig</option>
 	<option value="34255">Luellmann</option>
 	<option value="2275">Lufkin</option>
 	<option value="31785">Luftner-Nagel</option>
-	<option value="3526">Lund</option>
+	<option value="33882">Lund</option>
 	<option value="34028">Lung</option>
 	<option value="6427">Lunsford</option>
-	<option value="34617">Löhlein</option>
 	<option value="33366">Maas</option>
-	<option value="32405">Mabry</option>
+	<option value="32521">Mabry</option>
 	<option value="32409">Macdonald</option>
 	<option value="16744">Maciunas</option>
 	<option value="32593">Mackinnon</option>
@@ -1387,6 +1408,7 @@ jQuery(document).ready(function(){
 	<option value="33303">Meier</option>
 	<option value="33446">Mendelson</option>
 	<option value="31689">Menner</option>
+	<option value="36113">Merali</option>
 	<option value="16606">Merkus</option>
 	<option value="1867">Merlini</option>
 	<option value="32318">Merola</option>
@@ -1436,7 +1458,7 @@ jQuery(document).ready(function(){
 	<option value="4099">Murahashi</option>
 	<option value="35421">Murphy</option>
 	<option value="32411">Myers</option>
-	<option value="35578">Nachlas</option>
+	<option value="36132">Nachlas</option>
 	<option value="32518">Nader</option>
 	<option value="32784">Naidech</option>
 	<option value="32289">Najm</option>
@@ -1514,7 +1536,7 @@ jQuery(document).ready(function(){
 	<option value="31749">Pechlaner</option>
 	<option value="32662">Pedrali</option>
 	<option value="34484">Peitz</option>
-	<option value="32241">Pensak</option>
+	<option value="32244">Pensak</option>
 	<option value="34280">Penzer</option>
 	<option value="32466">Percy</option>
 	<option value="33998">Peretti</option>
@@ -1550,7 +1572,7 @@ jQuery(document).ready(function(){
 	<option value="32596">Popp</option>
 	<option value="34601">Porcellini</option>
 	<option value="35122">Porteous</option>
-	<option value="35479">Potsic</option>
+	<option value="35886">Potsic</option>
 	<option value="32740">Pradilla</option>
 	<option value="34065">Prein</option>
 	<option value="34866">Preiskel</option>
@@ -1574,8 +1596,8 @@ jQuery(document).ready(function(){
 	<option value="32561">Ramig</option>
 	<option value="33963">Ramsden</option>
 	<option value="34487">Ramsey</option>
-	<option value="35141">Randleman</option>
-	<option value="35005">Rangel-Castilla</option>
+	<option value="36096">Randleman</option>
+	<option value="35954">Rangel-Castilla</option>
 	<option value="31829">Rateitschak</option>
 	<option value="31828">Rateitschak-Pluss</option>
 	<option value="5660">Ratib</option>
@@ -1620,9 +1642,10 @@ jQuery(document).ready(function(){
 	<option value="34653">Riede</option>
 	<option value="31696">Ring</option>
 	<option value="33495">Ritter</option>
+	<option value="36008">Robb</option>
 	<option value="32510">Robinette</option>
 	<option value="34018">Robioneck</option>
-	<option value="4165">Rocken</option>
+	<option value="33601">Rocken</option>
 	<option value="35674">Rody</option>
 	<option value="33750">Roehl</option>
 	<option value="35395">Roehm</option>
@@ -1712,7 +1735,7 @@ jQuery(document).ready(function(){
 	<option value="16956">Seeff</option>
 	<option value="32177">Seibert</option>
 	<option value="32242">Seiden</option>
-	<option value="33701">Seidl</option>
+	<option value="35716">Seidl</option>
 	<option value="34564">Seifert</option>
 	<option value="32266">Sekhar</option>
 	<option value="32721">Selesnick</option>
@@ -1727,15 +1750,15 @@ jQuery(document).ready(function(){
 	<option value="32591">Sherris</option>
 	<option value="27944">Shetty</option>
 	<option value="33918">Shin</option>
-	<option value="34998">Shoja</option>
+	<option value="35977">Shoja</option>
 	<option value="32688">Shufflebarger</option>
 	<option value="32017">Siddiqi</option>
-	<option value="35526">Siddiqui</option>
+	<option value="35694">Siddiqui</option>
 	<option value="3901">Sidhu</option>
 	<option value="32507">Siegel</option>
 	<option value="31920">Siegenthaler</option>
 	<option value="33848">Siemann</option>
-	<option value="34187">Silbernagl</option>
+	<option value="34766">Silbernagl</option>
 	<option value="33574">Simmen</option>
 	<option value="34703">Simmons</option>
 	<option value="32427">Simonian</option>
@@ -1746,6 +1769,7 @@ jQuery(document).ready(function(){
 	<option value="32714">Siskin</option>
 	<option value="32422">Sismanis</option>
 	<option value="34112">Skelly</option>
+	<option value="36009">Skoracki</option>
 	<option value="32197">Slade</option>
 	<option value="32788">Slade, III</option>
 	<option value="32718">Slattery</option>
@@ -1757,6 +1781,7 @@ jQuery(document).ready(function(){
 	<option value="33102">Smoker</option>
 	<option value="32809">Smouha</option>
 	<option value="32278">Snieckus</option>
+	<option value="36000">Snyder</option>
 	<option value="34562">Soehendra</option>
 	<option value="31928">Sohn</option>
 	<option value="32712">Sokolowski</option>
@@ -1773,6 +1798,7 @@ jQuery(document).ready(function(){
 	<option value="34838">Staatz</option>
 	<option value="32403">Staffenberg</option>
 	<option value="32681">Stal</option>
+	<option value="35713">Stamer</option>
 	<option value="32851">Stamm</option>
 	<option value="32430">Stannard</option>
 	<option value="32491">Starr</option>
@@ -1788,7 +1814,7 @@ jQuery(document).ready(function(){
 	<option value="32288">Steinmetz</option>
 	<option value="33948">Stengel</option>
 	<option value="32271">Stern</option>
-	<option value="1287">Sternberg</option>
+	<option value="35758">Sternberg</option>
 	<option value="31629">Sterry</option>
 	<option value="32076">Steveling</option>
 	<option value="32432">Stewart</option>
@@ -1805,7 +1831,7 @@ jQuery(document).ready(function(){
 	<option value="33719">Suk</option>
 	<option value="31769">Sumner-Smith</option>
 	<option value="33955">Sun</option>
-	<option value="35573">Sundine</option>
+	<option value="36126">Sundine</option>
 	<option value="33597">Sunose</option>
 	<option value="32464">Swartz</option>
 	<option value="34229">Swift</option>
@@ -1851,8 +1877,8 @@ jQuery(document).ready(function(){
 	<option value="33063">Tollefson</option>
 	<option value="33300">Toni</option>
 	<option value="741">Toniolo</option>
-	<option value="35581">Toriumi</option>
-	<option value="35004">Torres-Corzo</option>
+	<option value="36135">Toriumi</option>
+	<option value="35953">Torres-Corzo</option>
 	<option value="32039">Tos</option>
 	<option value="121">Tot</option>
 	<option value="28850">Touati</option>
@@ -1860,18 +1886,18 @@ jQuery(document).ready(function(){
 	<option value="34117">Trafton</option>
 	<option value="32966">Trammell</option>
 	<option value="34490">Traynelis</option>
-	<option value="33403">Trede</option>
+	<option value="35788">Trede</option>
 	<option value="32976">Trelles</option>
 	<option value="32257">Trerotola</option>
 	<option value="34253">Tronstad</option>
 	<option value="32551">Truswell</option>
 	<option value="32843">Truwit</option>
-	<option value="31927">Tsementzis</option>
+	<option value="35743">Tsementzis</option>
 	<option value="33114">Tsiouris</option>
-	<option value="35000">Tubbs</option>
+	<option value="35979">Tubbs</option>
 	<option value="33215">Tuhrin</option>
 	<option value="34296">Tunkel</option>
-	<option value="32359">Tyler</option>
+	<option value="35691">Tyler</option>
 	<option value="33476">Tytgat</option>
 	<option value="34888">Udvarhelyi</option>
 	<option value="34001">Ueblacker</option>
@@ -1893,20 +1919,20 @@ jQuery(document).ready(function(){
 	<option value="34461">van der Molen</option>
 	<option value="33879">van der Werken</option>
 	<option value="28878">Van Dyke</option>
-	<option value="32660">Van Ha</option>
+	<option value="35753">Van Ha</option>
 	<option value="33891">van Heerwaarden</option>
-	<option value="33753">van Lanschot</option>
+	<option value="35787">van Lanschot</option>
 	<option value="34052">van Leeuwen</option>
 	<option value="5168">van Rijn</option>
 	<option value="31710">Vannini</option>
 	<option value="32586">Varvares</option>
-	<option value="35459">Vasile</option>
+	<option value="35891">Vasile</option>
 	<option value="32930">Verma</option>
 	<option value="34713">Veronesi</option>
 	<option value="31929">Vetter</option>
 	<option value="33135">Vialle</option>
 	<option value="33683">Vilardell</option>
-	<option value="32131">Vilaseca</option>
+	<option value="36059">Vilaseca</option>
 	<option value="2277">Villablanca</option>
 	<option value="32697">Villemure</option>
 	<option value="2498">Visser</option>
@@ -1940,20 +1966,21 @@ jQuery(document).ready(function(){
 	<option value="32605">Wanibuchi</option>
 	<option value="32582">Warren</option>
 	<option value="32538">Warriner</option>
-	<option value="34997">Watanabe</option>
+	<option value="35976">Watanabe</option>
 	<option value="32215">Watson</option>
 	<option value="34868">Watts</option>
 	<option value="31723">Webb</option>
-	<option value="3524">Weber</option>
+	<option value="32093">Weber</option>
 	<option value="33549">Weerda</option>
 	<option value="33884">Wei</option>
-	<option value="32954">Weinberg</option>
+	<option value="35960">Weinberg</option>
 	<option value="32281">Weinreb</option>
 	<option value="3326">Weinrich</option>
 	<option value="32368">Weinstein</option>
 	<option value="34236">Weise</option>
 	<option value="33484">Weiss</option>
 	<option value="33974">Welge-Luessen</option>
+	<option value="36015">Weller</option>
 	<option value="30426">Werner</option>
 	<option value="32433">Werning</option>
 	<option value="18566">Wesker</option>
@@ -1963,7 +1990,7 @@ jQuery(document).ready(function(){
 	<option value="32965">White</option>
 	<option value="34150">Wieben</option>
 	<option value="31732">Wieczorek</option>
-	<option value="1288">Wiens</option>
+	<option value="35759">Wiens</option>
 	<option value="2785">Wiersinga</option>
 	<option value="32344">Wiet</option>
 	<option value="34251">Wigand</option>
@@ -1985,7 +2012,8 @@ jQuery(document).ready(function(){
 	<option value="32489">Wolfla</option>
 	<option value="34338">Wollmann</option>
 	<option value="33040">Woo</option>
-	<option value="35637">Woodall</option>
+	<option value="35877">Woodall</option>
+	<option value="36114">Woodfine</option>
 	<option value="33227">Woodhall</option>
 	<option value="32956">Wormald</option>
 	<option value="32249">Worrall</option>
@@ -2000,7 +2028,7 @@ jQuery(document).ready(function(){
 	<option value="18708">Yi</option>
 	<option value="32709">Yoo</option>
 	<option value="35385">Yoon</option>
-	<option value="33160">Yoshioka</option>
+	<option value="35964">Yoshioka</option>
 	<option value="35414">Yu</option>
 	<option value="31852">Zabramski</option>
 	<option value="35293">Zacharowski</option>
@@ -2020,6 +2048,7 @@ jQuery(document).ready(function(){
 	<option value="1714">Zinkernagel</option>
 	<option value="32434">Zuckerman</option>
 	<option value="32959">Zuckier</option>
+	<option value="35889">Zur</option>
 	<option value="33681">Zuther</option>
 </select>
 	</div>
@@ -2073,6 +2102,7 @@ jQuery(document).ready(function(){
 	<option value="53003">Paper</option>
 	<option value="80710">Paperback</option>
 	<option value="385">Paperback / softback</option>
+	<option value="83483">Paperback/softback</option>
 	<option value="59536">Poster</option>
 	<option value="31992">Spiral bound</option>
 	<option value="44800">Undefined</option>
@@ -2200,6 +2230,8 @@ jQuery(document).ready(function(){
 	<option value="55"> -- Physical Therapy</option>
 	<option value="108"> --  -- Physical Therapy General</option>
 	<option value="158"> --  -- Physical Therapy, General</option>
+	<option value="165"> --  -- Sports Medicine</option>
+	<option value="166"> --  -- Osteopathy General</option>
 	<option value="57"> -- Veterinary Medicine</option>
 	<option value="58"> -- General Reference</option>
 	<option value="130"> --  -- Student Education</option>
@@ -2464,7 +2496,7 @@ jQuery(document).ready(function(){
 				<div class="col-md-12 copyright ">
 					
 					<small class="text-center">
-						© Copyright 2015, Thieme Medical Publishers, Inc. All Rights Reserved
+						© Copyright 2016, Thieme Medical Publishers, Inc. All Rights Reserved
 					</small>
 				</div>
 			</div>
