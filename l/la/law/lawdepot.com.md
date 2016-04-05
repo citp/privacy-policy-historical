@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908101158id_/https%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053126id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LawDepot
 
@@ -8,7 +8,7 @@
 
 LawDepot™ is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
 
-If you have any questions or problems with any aspect of our privacy policy, please [contact us](http://www.lawdepot.com/contact.php).
+If you have any questions or problems with any aspect of our privacy policy, please [contact us](http://www.lawdepot.com/help/).
 
 ### Security of your Personal Information
 
@@ -26,7 +26,7 @@ We may also use personal information in a manner that does not identify you spec
 
 We will NOT sell or rent your name or personal information to anyone else. We DO NOT sell, rent or provide outside access to our mailing list at all.
 
-If required by law, search warrant, subpoena, court order, or credit card fraud investigation, LawDepot™ may be required to release such personal information.
+LawDepot™ will not release your personal information to authorities unless required by law, search warrant, court order, subpoena, or fraud investigation.
 
 LawDepot™ will share your information with third parties only to the extent necessary to provide the services and products requested by you. All such third parties are prohibited from using your personal information except to provide these services and they are required to maintain the confidentiality of your information. 
 
