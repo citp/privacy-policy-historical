@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2014-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141129175719id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405142207id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
 
 # Privacy / Security
 
@@ -16,11 +16,13 @@ You are encouraged to check this privacy policy periodically, as we may from tim
 
 We collect your personal information when you provide it to become a member of ZUJI to facilitate an online purchase and complete your booking. You may also choose to provide us with additional information to enable us to improve and expand our service to you such as special requirements for flights. This additional information is only collected and/or used as necessary in order to provide you with specific additional travel arrangements, such as special meals.
 
+We collect your email address when you request to be added to our mailing list or when you have purchased, to receive updated information about products and specials. You can unsubscribe at any time. In order to enter you into our mailing list, we do not require you to provide any information to us apart from an email address.
+
 ### Using and Disclosing Your Personal Information
 
 Your personal information will only be used or disclosed as is necessary to provide you with the goods and services available through the website offered by us or the organisations identified there, for administrative purposes (including fraud and security checks) and to assist us to improve our website and services, and to provide you with information and offers relevant to our services. You may opt-out of receipt of any such offers at any time by submitting a request through our feedback form, or through the methods described in any e-mails we may send you.
 
-Your person Information is securely accessby by staff in our Customer Service Centres in India and in the Philippines.
+Your person Information is securely accessed by staff in our Customer Service Centres in India and in the Philippines.
 
 We will disclose personal information as required to the providers of the products and services you have purchased. You accept that not all recipients of your information may have privacy policies or be subject to privacy laws equivalent to ZUJI’s and consent to the disclosure of your personal information for that purpose.
 
@@ -34,11 +36,21 @@ We may disclose your personal information where required or authorised by law to
 
 ### Cookies
 
-When you visit our website, details are recorded about your visit, such as time and date, your server address, pages accessed, time spent and type of browser. This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
+When you visit our website, details are recorded about your visit, such as time and date, your server address, pages accessed, time spent and type of browser. We may record visitor activity such as mouse clicks, mouse movement and other user experience based metrics.
 
-We use Cookies to identify your browser so that next time you visit our website we remember your log in details. A cookie is a small file which remains on your computer and contains information enabling our website to recognise your browser. If you do not wish to use cookies, you can adjust the settings on your browser to reject cookies or notify you when they are being used.
+We use Cookies to identify your browser so that next time you visit our website we remember your log in details. A cookie is a small file which remains on your computer and contains information enabling our website to recognise your browser.
 
-We collect your email address when you request to be added to our mailing list to receive updated information about products and specials. You can unsubscribe at any time. In order to enter you into our mailing list, we do not require you to provide any information to us apart from an email address.
+We use Google Analytics features based on Display Advertising (Remarketing and Google Analytics Demographics and Interest Reporting). These features use first-party and third-party cookies to inform, optimise and serve ads based on your past visits to our site.
+
+This allows us to report on demographics for understanding our site’s audience and display ads that relate to products and services you have viewed on our site as you browse third party sites on the Google Display Network using Remarketing.
+
+If you would like to opt-out of customised Google Display Network ads and Google Analytics for Display Advertising you can use [Ad Settings](https://www.google.com/settings/).
+
+Persistent cookies may be used to identify the sites you visit on the ZUJI Network and to personalise the advertising that you see when you make future visits to that site or other sites.
+
+This information is used in an anonymous form for statistical purposes and as such cannot identify you individually.
+
+If you do not wish to use cookies, you can adjust the settings on your browser to reject cookies or notify you when they are being used.
 
 ### Storage And Security Of Personal Information
 
@@ -71,3 +83,5 @@ If at any time you have any concerns or complaints in relation to privacy or the
 Further Information On Privacy
 
 Further information may be obtained on privacy issues in Australia by visiting the Australian Federal Privacy Commissioner’s web site at <http://www.privacy.gov.au/>.
+
+Last updated 25 November 2015
