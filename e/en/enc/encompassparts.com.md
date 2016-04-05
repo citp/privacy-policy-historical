@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encompassparts.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910221904id_/https%3A//www.encompassparts.com/staticpages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encompassparts.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405224530id_/https%3A//www.encompassparts.com/staticpages/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
