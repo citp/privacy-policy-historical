@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911235152id_/https%3A//www.powermax.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermax.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405152151id_/https%3A//www.powermax.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PowerMax
 
@@ -8,8 +8,8 @@ We do not track user names, email addresses or other personal information as you
 
 PowerMax.com makes use of cookies to keep track of what you add to your shopping cart. It is a standard technology used to great extent throughout the e-commerce world. Any information you supply is given to us at your choice, and that information will never be traded, sold, or given away to anyone at any time.
 
-E-commerce transactions on PowerMax.com are done in a secure, encrypted manner, certified by [thawte](https://web.archive.org/web/20150911235152id_/https%3A//www.powermax.com/page/%C3%A2%C2%84%C2%A2https://www.thawte.com/%C3%A2%C2%84%C2%A2). If you have any questions at all, please feel free to call us.
+E-commerce transactions on PowerMax.com are done in a secure, encrypted manner, certified by [thawte](https://web.archive.org/web/20160405152151id_/https%3A//www.powermax.com/page/%C3%83%C2%83%C3%82%C2%A2%C3%83%C2%82%C3%82%C2%84%C3%83%C2%82%C3%82%C2%A2https://www.thawte.com/%C3%83%C2%83%C3%82%C2%A2%C3%83%C2%82%C3%82%C2%84%C3%83%C2%82%C3%82%C2%A2). If you have any questions at all, please feel free to call us.
 
 **PowerMax**  
-6077A SW Lakeview Blvd.  
-Lake Oswego, OR 97035
+9730 SW Hillman Court #600  
+Wilsonville, OR 97070
