@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906052704id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405030020id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
 
-# Wonga.com© | Credit for the real world - Short term cash loans
-
-[](http://privacy.truste.com/privacy-seal/Wonga-International-SA/validation?rid=0b17f7af-c5d2-4c46-95d0-45acf190ecc8 "TRUSTe online privacy certification")
+# Privacy policy | Wonga
 
 Any reference to "we" or "us" in this Privacy Policy shall mean WDFC UK Limited. This privacy policy applies to [www.wonga.com](https://web.archive.org/) which is owned and operated by WDFC UK Limited.
 
@@ -10,9 +8,7 @@ We believe you deserve the utmost respect when it comes to the security and use 
 
 Our Privacy Policy applies both while you have a loan from us and afterwards. Throughout this Privacy Policy “you” means the customer. Our Privacy Policy is regularly reviewed to make sure that we continue to serve your privacy interests. We reserve the right to update this Privacy Policy, and any changes will be posted on our site. We encourage you to periodically review this page for the latest information on our privacy practices. We are committed to keeping your personal information confidential and will only give it to others for the purposes set out in this Privacy Policy.
 
-WDFC UK Limited has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through [www.wonga.com](https://web.archive.org/). If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@wonga.com](mailto:customercare@wonga.com). If you are not satisfied with our response you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. Privacy is also very important to us as an organisation and we wish to be transparent and show our dedication to privacy.
+If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [customercare@wonga.com](mailto:customercare@wonga.com).
 
 For the purpose of the Data Protection Act 1998, the data controller is WDFC UK Limited.
 
@@ -28,7 +24,7 @@ We collect information about you in a number of ways:
 
   * Information you provide to us through our websites and applications;
   * Information you provide through communications with us; and
-  * from outside sources such as credit bureaux and customer service providers to help us with customer verification and credit-related decisions
+  * from outside sources such as banks, credit bureaux and customer service providers to help us with customer verification and credit-related decisions.
 
 
 
@@ -49,6 +45,7 @@ We will hold and use the following details about you:
   * information we receive when making a decision about you, your loan or application (including information collected from the CRAs);
   * details of the loans you have and have had with us and all transactions;
   * details of when you contact us and when we contact you;
+  * If you change your bank and your old bank informs us of your new bank account details, we will hold the new bank account details, and use them to operate your account;
 
 
 
@@ -127,7 +124,7 @@ When you apply to us for a loan, we will check the following records about you (
 
 Whether or not your application is successful, when CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders. Large numbers of applications within a short time period may affect your ability to obtain credit, this is applicable whether you have been accepted or declined.
 
-They, and we, may also link your records with those of your financial associate(s) including any previous and subsequent names; these links will remain on your and their files until you or they tell the agency you are no longer financially linked and the agency accepts this. This is called a “disassociation” and if you need to request a disassociation, please contact the CRAs directly (contact details are set out below for both Call Credit and Experian).
+They, and we, may also link your records with those of your financial associate(s) including any previous and subsequent names; these links will remain on your and their files until you or they tell the agency you are no longer financially linked and the agency accepts this. This is called a “disassociation” and if you need to request a disassociation, please contact the CRAs directly (contact details are set out below for Call Credit, Experian and Equifax).
 
 The CRAs supply us with both public information (including the electoral register, county court judgements and bankruptcies) and shared credit and fraud prevention information including information about previous applications and the conduct of your accounts in your and your financial associate(s)’ name(s).
 
@@ -155,7 +152,7 @@ If you give us false or inaccurate information and we have reasonable grounds to
 
 We and other organisations may access and use the information recorded by fraud prevention agencies from other countries.
 
-The Credit Reference Agencies that we use are Callcredit Limited (registration number 03961870) with registered office at One Park Lane, Leeds, West Yorkshire, LS3 1EP; and Experian Limited (registration number 00653331) with registered office at Landmark House, Experian Way, NG2 Business Park, Nottingham, NG80 1ZZ.
+The Credit Reference Agencies that we use are Callcredit Limited (registration number 03961870) with registered office at One Park Lane, Leeds, West Yorkshire, LS3 1EP; and Experian Limited (registration number 00653331) with registered office at Landmark House, Experian Way, NG2 Business Park, Nottingham, NG80 1ZZ; and Equifax Limited (registration number 2425920) with registered office at Capital House, 25 Chapel Street, London, NW1 5DS.
 
 The Fraud Prevention Agency that we use is CIFAS, with registered office at 6th Floor Lynton House, 7-12 Tavistock Square, London, WC1H 9LT. You can contact CIFAS at [www.cifas.org.uk/contact_us_form](http://www.cifas.org.uk/contact_us_form).
 
@@ -169,7 +166,7 @@ We may transfer your personal information abroad to other countries outside the 
 
 Under the Data Protection Act 1998, you have a right to access certain personal records we hold about you. This is called a Data Subject Access Request, which you can make by writing to customercare@wonga.com. A £10 fee is payable.
 
-We want to make sure that your information is accurate and up to date. You may ask us to correct or remove any information that you think is inaccurate or you can do this yourself by logging into “MyAccount”.
+We want to make sure that your information is accurate and up to date. You may ask us to correct or remove any information that you think is inaccurate or you can do this yourself by logging into “my account”.
 
 You have a right to request CRAs to provide you with information that they hold about you. You must contact them directly to do this. A fee may be payable.
 
@@ -181,8 +178,8 @@ Our site may contain links to third party websites. If you follow a link to any 
 
 Our Web site includes Social Media Features such as the Facebook Like button. These Features may collected your IP address, which pages you are visiting on our site and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-##  10\. Personal Data provided as part of the redress programme of June 2014
+##  10\. Personal Data provided as part of a redress programme
 
-The personal data that you have provided as part of this programme will only be used for the purposes of communicating relevant updates and will not be used for marketing purposes. We will not pass the data to any third parties unless required to do so by law, regulation or a regulatory body. We will retain such data for a period of 6 years.
+The personal data that you provide as part of any redress programmes will only be used for the purposes of communicating relevant updates and will not be used for marketing purposes. We will not pass the data to any third parties unless required to do so by law, regulation or a regulatory body. We will retain such data for a period of 6 years.
 
-Last updated in January 2015
+Last updated: December 2015
