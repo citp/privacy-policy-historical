@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the visionwidget.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206140353id_/http%3A//visionwidget.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionwidget.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405072047id_/http%3A//visionwidget.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Branding Mock-up's Bundle**
+
+Get Over 100 Professionally Created Mock-ups, Full Package 12GB
+
+Just $49!
+
+ **— All Object And Shadows On Separate Layers —**
+
+[Get Bundle Now](https://creativemarket.com/MockupCloud/362569-Branding-Mock-ups-Bundle?u=visionwidget "100 Branding Mock-up's Bundle")
 
 Details 
      Last Updated: 02 August 2014 
@@ -17,10 +27,12 @@ Like many other Web sites, **visionwidget.com** makes use of log files. The info
 
 ### Cookies and Web Beacons
 
-**visionwidget.com** does't use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+ **visionwidget.com** does't use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 ### BuySellAds
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on **visionwidget.com** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. visionwidget.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+Delivers a daily balance of inspiration across web design, graphic design, web development, jquery, photography, web plugins, wordpress themes, identity dranding design and more than for designers. ** ** **If any images or content appear on site is violation or copyright** please inform us on (visionwidget$gmail.com).
