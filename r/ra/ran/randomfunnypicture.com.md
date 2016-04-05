@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomfunnypicture.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915095845id_/http%3A//randomfunnypicture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomfunnypicture.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405160401id_/http%3A//randomfunnypicture.com/privacy.html) for the most accurate reproduction.*
 
 # randomfunnypicture.com | Privacy Policy
 
