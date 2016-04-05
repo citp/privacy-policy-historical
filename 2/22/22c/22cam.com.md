@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813075158id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405201449id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 22Cam.com
 
@@ -6,7 +6,7 @@ Effective Date: March 4, 2014
 
 Last Modified: March 4, 2014
 
-This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by Multi Media, LLC (“22Cam.com,” “we,” “our”). By using our Services and/or registering with 22Cam.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as 22Cam.com adheres to the standards set forth more clearly below.
+This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“22Cam.com,” “we,” “our”). By using our Services and/or registering with 22Cam.com, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as 22Cam.com adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the 22Cam.com website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
