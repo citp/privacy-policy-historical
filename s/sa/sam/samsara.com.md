@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsara.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009044134id_/https%3A//www.samsara.com/static/pdf/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsara.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405130606id_/https%3A//www.samsara.com/static/pdf/privacy.pdf) for the most accurate reproduction.*
 
 # Samsara Privacy Policy
 
@@ -141,4 +141,4 @@ Our Services are not directed to children under 13 and we do not knowingly colle
 children under 13. If we learn that we have collected PII of a child under 13 we will take steps to
 delete such information from our files as soon as possible.
 Questions?
-Please contact us at info@sansara.com if you have any questions about our Privacy Policy.
+Please contact us at info@samsara.com if you have any questions about our Privacy Policy.
