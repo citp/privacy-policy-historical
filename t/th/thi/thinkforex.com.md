@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011150240id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405050911id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | ThinkForex
 
@@ -104,7 +104,7 @@ Sensitive information will be used and disclosed only for the purpose for which 
 We may disclose personal information to:
 
   * a related entity of TF Global;
-  * an agent, professional advisor or service provider  we engage to provide us with administrative, marketing, financial, insurance, research and other services such as our counterparty banks, liquidity providers, marketing agencies and IT service providers;
+  * an agent, professional advisor or service provider  we engage to provide us with administrative, marketing, financial, insurance, research and other services such as our counter-party banks, liquidity providers, marketing agencies and IT service providers;
   * your introducing broker or money manager;
   * organisations involved in a transfer or sale of our assets or business;
   * financial institutions involved in managing our payments, such as banks;
