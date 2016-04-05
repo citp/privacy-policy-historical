@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205192001id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405101237id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy || ZERO MOTORCYCLES
 
