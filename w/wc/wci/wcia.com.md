@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003153418id_/http%3A//www.illinoishomepage.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405112613id_/http%3A//www.illinoishomepage.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Central Illinois - Champaign, Danville, Decatur, Springfield, Effingham | IllinoisHomepage | WCIA-TV and WCIX-TV
+# Privacy Policy | IllinoisHomepage | WCIA-TV and WCIX-TV
 
 **PRIVACY POLICY**
 
- **Updated September 18, 2015**
+ **Updated November 05, 2015**
 
  **1.  General**
 
-Thank you for visiting IllinoisHomepage.net, which is operated by WCIA, an affiliate of Nexstar Broadcasting, Inc. and Mission Broadcasting, Inc. (“we,” “us” or “our”).  We respect the privacy of visitors to our websites, mobile sites, and applications (each a “Property” and collectively the “Properties”).  Because we gather certain types of information that can uniquely identify a specific individual (“Personal Information”) from users of our Properties, we feel that you should know how we collect, use, disclose, manage and store your Personal Information. This Privacy Policy describes, among other things, the types of information collected about you when you visit our Properties; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+Thank you for visiting IllinoisHomepage.net, which is operated by WCIA-TV, an affiliate of Nexstar Broadcasting, Inc. and Mission Broadcasting, Inc. (“we,” “us” or “our”).  We respect the privacy of visitors to our websites, mobile sites, and applications (each a “Property” and collectively the “Properties”).  Because we gather certain types of information that can uniquely identify a specific individual (“Personal Information”) from users of our Properties, we feel that you should know how we collect, use, disclose, manage and store your Personal Information. This Privacy Policy describes, among other things, the types of information collected about you when you visit our Properties; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
  This Privacy Policy does not apply to any information you may provide to us offline or through any means other than our Properties.  For example, this Privacy Policy does not apply to information that you provide to us at a live event, or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest, or to any other instances in which we may collect information from you offline.  This Privacy Policy also does not cover any information collected through any other site or application even if the other site or application is linked to our Properties. 
 
@@ -28,7 +28,7 @@ We also may collect Personal Information about you when such information is prov
 
  _Information Collected Automatically._
 
-In addition to the information that you may provide to us, our Properties also automatically collect information about you or your computer, including your browser type, operating system and computer monitor resolution; your Internet Protocol (IP) address (the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area); sites and/or applications you visited before and after visiting our Properties; web pages and advertisements you view and links you click on our Properties; unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law; information collected through cookies, web beacons, and other technologies; information about your interactions with video content, such as the type of content viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded; and standard server log information.
+In addition to the information that you may provide to us, our Properties also automatically collect information about you, or your computer or mobile or other device, including your browser type, operating system,  computer monitor resolution, and/or mobile carrier; your Internet Protocol (IP) address (the number automatically assigned to your computer, mobile or other device whenever you access the Internet and that can sometimes be used to derive your general geographic area); sites and/or applications you visited before and after visiting our Properties; web pages and advertisements you view and links you click on our Properties; unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law; information collected through cookies, web beacons, and other technologies; information about your interactions with video content, such as the type of content viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded; and standard server log information.
 
  _Information Obtained from Other Sources._
 
@@ -44,7 +44,7 @@ Unless otherwise provided in a separate registration page, we do not request for
 
  **3.   Cookies and Similar Technologies**
 
-You should be aware that non-personally identifiable information and data may be automatically collected on the Properties through the use of “cookies,” web beacons and other similar technologies.  While such technologies do not contain Personal Information, once you choose to furnish our Properties with Personal Information, this information may be linked to the data stored in a cookie and such information may be used to personalize your experience with our Properties (for example, recognizing you by name when you return to a Property), saving your password in password protected areas or enabling you to use shopping carts on our Properties.  Web beacons and cookies may also be used to collect, aggregate and analyze anonymous tracking data to help measure and track traffic and general user behavior.  We may also use such technologies to help us offer you more relevant information or products and services of interest to you.  Cookies also identify you to our servers allowing you the opportunity to avoid reentering your email and password each time you access the Properties.
+You should be aware that non-personally identifiable information and data may be automatically collected on the Properties through the use of “cookies,” web beacons and other similar technologies.  While such technologies do not collect Personal Information, once you choose to furnish our Properties with Personal Information, this information may be linked to the data stored in such technology and such information may be used to personalize your experience with our Properties (for example, recognizing you by name when you return to a Property), saving your password in password protected areas or enabling you to use shopping carts on our Properties.  Web beacons, cookies and similar technologies may also be used to collect, aggregate and analyze anonymous tracking data to help measure and track traffic and general user behavior.  We may also use such technologies to help us offer you more relevant information or products and services of interest to you.  Cookies also identify you to our servers allowing you the opportunity to avoid reentering your email and password each time you access the Properties.
 
 Our third party service providers, advertisers and affiliates may use cookies, web beacons and other similar technologies to manage or measure the performance of their information displayed or delivered over our Properties.  For more information regarding this use, please see our “Third Party Advertising / Links to Third Party Sites and/or Applications” section below.
 
@@ -52,7 +52,7 @@ If you do not want information collected through the use of “cookies” there 
 
 We also may use technical methods in our HTML emails that we send to you to determine whether you have opened or forwarded an email and/or clicked on links in those emails, to customize the display of banner advertising and other messages to you, to determine whether you have made an inquiry or purchase in response to a particular email and other similar activities.  These technical methods may enable us to collect and use your Personal Information.
 
- **4.  Social Networking**
+ **4.   Social Networking**
 
 You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, Twitter and other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile ( _e.g_., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the “likes” you make) to deliver the content or as part of the operation of the application.  We may also obtain non-personally identifiable information ( _e.g_., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
 
@@ -72,21 +72,45 @@ If you choose to submit content for publication we may publish your screen name 
 
 Although we hope you find the information we provide to you through our Properties to be useful, you may always opt out of receiving communications from us by changing your privacy preferences in your member profile, or by deleting your profile from our database.   Please see the opt-out procedures in “Your Choices Regarding Your Information” section set forth below for more information.
 
- **6.  Our Disclosure of Your Information**
+ **6.  Our Sharing and Disclosure of Your Information**
 
-We may share information, including your Personal Information, with our affiliates, service providers and advertisers.  We also may disclose your Personal Information in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law.  We may transfer Personal Information about you if we are acquired by, sold to or merged with another company. 
+ _Legal and Law Enforcement_
 
-Our agents and contractors who have access to your Personal Information are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf.  However, we may disclose your Personal Information to third parties who are not covered by this Privacy Policy ( _e.g_., marketers, retailers, non-profit organizations, participatory databases) that want to market products or services to you.  We may also share your non-personally identifiable information with third parties in order to provide you with more relevant product and service opportunities.
+We also may disclose your Personal Information in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law. 
+
+ _Change of Control_
+
+We may transfer Personal Information about you if we are acquired by, sold to or merged with another company. 
+
+ _Service Providers_
+
+Our agents and contractors may have access to Personal Information to help carry out the services they are preforming for us.  Our agents and contractors who have access to your Personal Information are required to protect the information in a manner consistent with our Privacy Policy and may not use the information for any other purposes other than to carry out the activity they are performing on our behalf. 
+
+ _Ad Servers_
+
+On our Properties, reputable third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements.  These third parties may view, edit, or set their own cookies or similar technologies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile or other device, the mobile websites or applications you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Properties and elsewhere. For more information about third party ad servers at our Properties and your ability to opt-out of targeted advertising from such third parties, please see the “Third Party Advertising / Links to Third Party Sites and/or Applications” section set forth below for more information.
+
+ _Affiliates and Other Third Parties_
+
+We may disclose your Personal Information to affiliates and third parties who are not covered by this Privacy Policy ( _e.g_., marketers, retailers, non-profit organizations, participatory databases) that want to market products or services to you.  We may also share your non-personally identifiable information with affiliates and third parties in order to provide you with more relevant product and service opportunities.
+
+ _Sponsored Promotions_
 
 When you choose to enter a sweepstakes, contest, or other promotion, and in accordance with the terms and conditions of the promotion, your Personal Information may be disclosed to sponsors and third parties who help administer the promotion, including in connection with winner selection and prize fulfillment.  Your Personal Information also may be disclosed as required by law, such as on a winners list.  Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, including allowing the sponsors to use your name, voice, and likeness in advertising and marketing associated with the promotion in accordance with applicable law.
 
+ _Procurement and Fulfillment Services_
+
 Our Properties may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our Properties offer shopping or other commercial services, you will be asked to use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).  We will use the financial information that you provide to bill you for products and services. By giving us your credit card and related personal information, you are authorizing our store to give that information to the merchant and the credit card company in order to confirm and fulfill your order.  We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval. 
+
+ _Across Properties_
 
 We and our Properties continue to expand our online presence in order to offer users rich and deep interactive experiences.  We may share information we collect about you among our Properties so that we can provide you with information about products and services that might interest you.
 
+ _Anonymized Information_
+
 We may share aggregated or anonymized information with third parties.  This information cannot be used to individually identify you.  Much of the information we collect is in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Properties, and the habits and preferences of our audience.  Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
 
-If you have signed up to receive our emails and prefer not to receive marketing information from our Properties, follow the unsubscribe instructions provided on any such email you receive from our Properties.
+ _Open Forums_
 
 This Privacy Policy addresses only our use of information we collect from you online.   It does not apply to information you choose to disclose to other parties whether through chat rooms, forums, personal ads or interactive areas of our Properties that allow you to submit or post your own content or the like.  We cannot prevent such information from being used in a manner that may violate this [Privacy Policy](http://dfw.cbslocal.com/privacy-policy/), the law, or your personal privacy and safety.  Accordingly, information you disclose on message boards, in chat rooms and forums, through content you provide or in any other way can be viewed, collected and/or used by others and we are not responsible for information you disclose in this manner.
 
@@ -117,7 +141,7 @@ If you receive any communication from us that you prefer not to receive (e.g., e
 
 To discontinue receipt of future e-mail communications from us, you may modify your contact options in your account profile (if applicable), follow the unsubscribe instructions contained in any email communication, or send an e-mail to PrivacyAdministrator@nexstar.tv requesting that e-mail communications be discontinued. However, even if you unsubscribe from receiving email communications, we still may need to send you communications relating to your use of our Properties, such as service announcements.
 
-To discontinue receipt of text and/or voice messages, you may do so by following the instructions contained in any such message (e.g., texting “STOP” in response to a text message).  In certain instances, you may receive one additional message confirming your request has been received.  In addition, you may text “HELP” for help with text messages.  If you are still having problems regarding text and/or voice messages, you can email us at Privacy [Administrator@nexstar.tv](mailto:Administrator@nexstar.tv) or call (877) 997-2470.  Neither Nexstar, nor its sponsors, advertisers, agents, nor are any mobile carriers liable for delayed or undelivered messages.
+To discontinue receipt of text and/or voice messages, you may do so by following the instructions contained in any such message (e.g., texting “STOP” in response to a text message).  In certain instances, you may receive one additional message confirming your request has been received.  In addition, you may text “HELP” for help with text messages.  If you are still having problems regarding text and/or voice messages, you can email us at Privacy [Administrator@nexstar.tv](mailto:Administrator@nexstar.tv) or call (877) 997-2470.  Neither Nexstar, its agents nor mobile carriers are liable for delayed or undelivered messages.
 
 To discontinue delivery of push notifications, please adjust the settings on your mobile device or within our application.  
 
@@ -136,6 +160,10 @@ Irving, TX 75062
  _Do Not Track_
 
 We support the Do Not Track browser setting.  When you have Do Not Track enabled in your browser, we will not collect browser-related information about you.  For more information regarding Do Not Track, including how to turn on Do Not Track, visit www.donottrack.us. We encourage users who are interested in limiting the information we collect to search online for tools and services (e.g., NAI’s consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt-out of collection.
+
+ _Uninstalling a Mobile Application_
+
+If you no longer wish to have any information collected by our mobile application, you may uninstall the application by using the standard uninstall processes available on your mobile or other device or via the mobile application marketplace or network.
 
  **9.  How You Can Review or Correct Your Personal Information**
 
@@ -163,7 +191,7 @@ We control and operate our Properties from the United States. The Properties are
 
  **14.   Updates**
 
-This Privacy Policy is effective as of May 1, 2015.  Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion.  All changes will be promptly posted on this page, with an updated “effective date.”  Your continued viewing, browsing, use or access of the Properties following our posting of a change notice will constitute your binding acceptance of those changes.
+This Privacy Policy is effective as of November 15, 2015.  Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion.  All changes will be promptly posted on this page, with an updated “effective date.”  Your continued viewing, browsing, use or access of the Properties following our posting of a change notice will constitute your binding acceptance of those changes.
 
  **15.   Contact Information**
 
