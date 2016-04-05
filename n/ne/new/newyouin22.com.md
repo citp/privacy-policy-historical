@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyouin22.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030041510id_/http%3A//www.newyouin22.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyouin22.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405161430id_/http%3A//www.newyouin22.com/privacy-policy.php) for the most accurate reproduction.*
 
 # New You in 22 - Privacy Policy
 
