@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesol.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906100852id_/http%3A//www.tesol.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesol.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406151129id_/http%3A//www.tesol.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
