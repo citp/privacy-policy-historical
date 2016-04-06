@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127222206id_/http%3A//www.tripnmate.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripnmate.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406153107id_/http%3A//www.tripnmate.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Tripnmate - Privacy Policy
 
@@ -84,15 +84,17 @@ Any suggestions or complains? If you have any questions about this Privacy Polic
 
 Or Write us at - 
 
-**Tripnmate Stays**  
-60, Shastri Nagar,  
-Dehradun, U.K- 248001,  
-India  
+###### Head Office: 
 
+**vdream solutions pvt ltd**  
+356A High Streeet North, Manor Park, London  
+E12 6PH  
+United Kingdom 
 
-  
-**Tripnmate Stays**  
-perth level 18, QBE House,  
-200 St Georges Terrace Perth,  
+\- Or - 
+
+**vdream solutions pvt ltd**  
+perth level 18, QBE House  
+200 St Georges Terrace Perth  
 WA 6000  
-
+Australia 
