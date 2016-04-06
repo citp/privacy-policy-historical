@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909165736id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406101322id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
 
 # PageFair - PageFair Privacy Statement
 
