@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icajobguarantee.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009235825id_/http%3A//icajobguarantee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icajobguarantee.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406163053id_/http%3A//icajobguarantee.com/TermCondition/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# PrivacyPolicy
 
 ICA Infotech Pvt Ltd, (“ICA”) is committed to protecting any personal information you provide in connection with your use of this website, (the "Site"). This Privacy Policy describes what information we collect when you visit the Site, how we collect it, how we use it and the steps we take to protect it. The privacy policy may be updated from time to time without notice and you are requested to review the policy periodically. By submitting information to us or continuing to use the Site after we have posted any modifications, you agree to the terms of this Privacy Policy, which are incorporated into and a part of our Terms.
 
