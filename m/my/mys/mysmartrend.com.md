@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907054939id_/http%3A//www.mysmartrend.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406130710id_/http%3A//www.mysmartrend.com/legal) for the most accurate reproduction.*
 
 # Web Site Privacy Statement | Comtex SmarTrend
 
