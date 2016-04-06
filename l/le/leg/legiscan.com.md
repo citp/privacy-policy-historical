@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906093252id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406023658id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LegiScan
 
@@ -18,7 +18,7 @@ LegiScan also collects potentially personally-identifying information like Inter
 
 LegiScan also requires a US zipcode to register, this information is used for the sole purpose of identifying the geographic location of the user to present the proper data.
 
-LegiScan may collect statistics about the behavior of visitors to its websites. LegiScan may collect statistic about the support/oposition of legislative documents. LegiScan may display this information publicly or provide it to others. However, LegiScan does not disclose personally-identifying information.
+LegiScan may collect statistics about the behavior of visitors to its websites. LegiScan may collect statistic about the support/opposition of legislative documents. LegiScan may display this information publicly or provide it to others. However, LegiScan does not disclose personally-identifying information.
 
 LegiScan uses cookies to help identify and track visitors, usage of the LegiScan website, and user preferences. LegiScan visitors who do not wish to have cookies placed on their computers may set their browsers to refuse cookies from LegiScan’s website, with the drawback that certain features of LegiScan's website may not function properly without the aid of cookies.
 
