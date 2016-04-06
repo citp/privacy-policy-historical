@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stopcall.me privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206023644id_/http%3A//www.stopcall.me/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopcall.me privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406160606id_/http%3A//www.stopcall.me/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | STOP CALL
+# STOP CALL from Privacy Policy
 
 To better protect your privacy we provide this notice explaining our online information practices, including how we collect and use the information you may provide to us on the Web site, and the choices you can make about the way your information is collected and used.
 
