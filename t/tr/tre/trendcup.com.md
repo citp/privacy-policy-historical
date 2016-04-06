@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendcup.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127164711id_/http%3A//www.trendcup.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendcup.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406105229id_/http%3A//www.trendcup.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TrendCup
 
