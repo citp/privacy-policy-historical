@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124015525id_/http%3A//www.isell.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com.au privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406021750id_/http%3A//www.isell.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Quoting Software | Proposal Software
+# Privacy Policy - Online Quoting and Proposal Software
 
 * * *
 
