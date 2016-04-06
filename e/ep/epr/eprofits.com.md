@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eprofits.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003073008id_/http%3A//eprofits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprofits.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406033526id_/http%3A//eprofits.com/privacy) for the most accurate reproduction.*
 
 # eProfits
 
-This Privacy Policy describes how we collect, use and share information when you use our Services. The terms “we,” “us,” or “our” mean Bookmark Your Life Inc.  and its legal subsidiaries and affiliates. The term “Services,” means, collectively, various websites, applications, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “ _Use of Your Information_ ”) as described in this Privacy Policy.
+This Privacy Policy describes how we collect, use and share information when you use our Services. The terms “we,” “us,” or “our” mean eProfits.com  and its legal subsidiaries and affiliates. The term “Services,” means, collectively, various websites, applications, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “ _Use of Your Information_ ”) as described in this Privacy Policy.
 
 For purposes of this Privacy Policy, “Your Information” means information about you, which may be of a confidential nature and may include personally identifying information, information about services you have purchased, and/or financial information.
 
