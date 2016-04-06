@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wakatime.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907182832id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wakatime.com privacy policy that was archived on 2016-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406123726id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-placeholder-focus="false"><head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Language" content="en_US">
     <title>Privacy · WakaTime</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Open-source plugins for data about your programming.">
+    <meta name="description" content="Open-source text editor plugins for metrics about your programming.">
     <meta name="author" content="WakaTime">
     <link rel="author" href="/humans.txt">
 
@@ -32,11 +32,15 @@
     <meta name="msapplication-config" content="/static/img/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
+    <meta property="og:site_name" content="WakaTime">
+    <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://wakatime.com/static/img/wakatime-240.png">
+    <meta property="og:title" content="Fitbit for your programming activity">
+    <meta property="og:description" content="Open-source text editor plugins for metrics about your programming.">
+    <meta property="og:image" content="https://wakatime.com/static/img/fitbit-for-your-programming.png">
 
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic" rel="stylesheet" type="text/css">
-    <link type="text/css" rel="stylesheet" href="/static/sdist/0022c408b76f43c3c974c2cecbcace50.css">
+    <link type="text/css" rel="stylesheet" href="/static/sdist/e87f744fd0979a2890d2f6deca6668d7.css">
     
 <style>
   h2 {
@@ -224,7 +228,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-4 center-xs left-md">
             <ul>
-              <li class="credit">© 2015 WakaTime</li>
+              <li class="credit">© 2016 WakaTime</li>
               <li><a href="/terms">Terms</a></li>
               <li><a href="/privacy">Privacy</a></li>
               
@@ -239,10 +243,10 @@
           </div>
           <div class="col-sm-12 col-md-4 center-xs right-md">
             <ul>
-              <li><a href="/download">Download</a></li>
+              <li><a href="/editors">Supported IDEs</a></li>
               <li><a href="/integrations">Integrations</a></li>
               <li><a href="/leaders">Leaderboards</a></li>
-              <li><a href="/help/faq/general">Help</a></li>
+              <li><a href="/faq">Help</a></li>
             </ul>
           </div>
         </div>
@@ -254,11 +258,11 @@
   
 
 
-    <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/sS6GlQ0eUj/analytics.min.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-1557708959.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/sS6GlQ0eUj/analytics.min.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-1557708959.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
       window.DEBUG = false;
     </script>
 
-    <script type="text/javascript" src="/static/sdist/b24b2e61343f141c75e718ca383b60db.js"></script>
+    <script type="text/javascript" src="/static/sdist/355a7e17c5cf8e81acb66541cd9ff055.js"></script>
 
     
       
@@ -297,26 +301,6 @@
   </script>
   
 
-
-
-  <script>
-    <!-- Facebook Conversion Code -->
-    (function() {
-    var _fbq = window._fbq || (window._fbq = []);
-    if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-    }
-    })();
-    window._fbq = window._fbq || [];
-    //window._fbq.push(['track', '6022521453635', {'value':'0.01','currency':'USD'}]);
-  </script>
-  <!--<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020411815435&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1" /></noscript>-->
-
       
     
     
@@ -344,17 +328,28 @@ c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"voi
 var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
 b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
 loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('4159-757-10-7625');/*]]>*/</script>
+</script>
 <!-- end olark code -->
 
 <script>
+olark.configure('system.ask_for_name', 'hidden');
 if (window.current_user) {
+  olark.configure('features.prechat_survey', false);
   if (window.current_user.nickname)
     olark('api.chat.updateVisitorNickname', {snippet: window.current_user.nickname});
   if (window.current_user.email)
     olark('api.visitor.updateEmailAddress', {emailAddress: window.current_user.email});
 }
+function hideFields() {
+  $('#habla_name_input').parent().hide();
+  if (window.current_user.email) {
+    $('#habla_offline_email_input').parent().hide();
+  }
+}
+olark('api.box.onExpand', hideFields);
+olark('api.box.onShow', hideFields);
+
+olark.identify('4159-757-10-7625');
 </script>
       
     
