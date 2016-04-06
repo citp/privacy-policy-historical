@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mychaletfinder.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625045631id_/http%3A//en.mychaletfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychaletfinder.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406130548id_/https%3A//mychaletfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Chalet Finder
 
-**Introduction**
+#### Introduction
 
 At MyChaletFinder.com, we are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via mychaletfinder.com (referred to below as "this Site"). Please read this privacy policy carefully. By using this website and any services we offer via this website, you are agreeing to be bound by this policy in respect of the information collected about you via this website.
 
@@ -11,20 +11,19 @@ If you have any queries or comments about the policy, our use of your personal i
 In general, we use the information we collect about you to:
 
   * pass your messages on to our advertisers and help them provide more personalised services to you
-  * provide information services to relevant third parties
   * improve the features and services we offer
   * support our own marketing and promotion efforts
-  * keep you informed with information relevant to your interests.
+  * keep you informed with information relevant to your interests
 
 
 
-**Personal information collected**
+#### Personal information collected
 
 When you visit, register or use the services on this website, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about how you use this website including your searches, the properties and pages you look at, the advertisers or partners you contact and the contents of the emails you send to them. Finally, we may also collect information from any correspondence that you have with us. Collectively, we refer to this as "Your Information".
 
 All of the forms where you might enter personal information on our website have tick box options to enable you to specify your consent (or otherwise) to our use of Your Information. We always use the the most recently submitted form to be your current consent status. If you are a registered user, but not signed in when you submit a form, we won't be able to use your saved settings so will deem your consent choice to be as per the form you submit at the time.
 
-## How we use Your Information
+#### How we use Your Information
 
 Your Information will enable us to provide you with access to all parts of this Site and to supply the services and features that you have requested. We may aggregate the information to identify patterns which we can use in our marketing and to help us develop, administer, support and improve our services and features.
 
@@ -32,9 +31,9 @@ We may use Your Information to contact you for your views on our services and to
 
 The following features, by their nature, require and make use of personally identifiable information.
 
-_Contacting Advertisers_
+Contacting Advertisers
 
-The information that you enter into any of the forms we offer to allow you to contact advertisers is recorded by us and then sent to the advertiser that you chose to contact. This helps them provide you with a more personalised service. [We also send the advertiser details of your last search to help them find property that matches your requirements more closely. If you are a registered user and signed in when you contact an advertiser, we include your settings to help them to provide more personalised services to you]
+The information that you enter into any of the forms we offer to allow you to contact advertisers is recorded by us and then sent to the advertiser that you chose to contact. This helps them provide you with a more personalised service. 
 
 Email a Friend
 
@@ -48,7 +47,7 @@ Saving properties
 
 If you select a property as a "favourite", we can identify which properties you have selected. We may aggregate these details to indicate how many users have selected a property as a "favourite", but we will not make available to third parties any personal data relating to which users have selected a property as a "favourite". 
 
-Using the property alerts and saved searches
+#### Using the property alerts and saved searches
 
 If you register with us, save searches and/or use the property alerts feature to receive notification when new properties matching your criteria are added to this Site, we record the settings you use and which properties have been sent to you. We do not make any information about any property that has been sent to you available to our advertisers or third parties.
 
@@ -90,6 +89,6 @@ We will retain Your Information for a reasonable period or for as long as is req
 
 Details held by us about a property do not comprise personal data as defined by the Data Protection Act 1998. MyChaletFinder.com may use the data which we hold about properties advertised to provide professional valuation services and other data services to third parties. If your property is listed for sale or rent on MyChaletFinder.com you may ask us not to use some or all of the details of your property to provide such data services. In this event please email us at info@mychaletfinder.com stating your full name and address, confirmation that you are the owner of the property upon whose instructions we are entitled to act, the full postal address of your property, the date it was placed on the market for sale or rent, and the name address and telephone number of the agent you have instructed to market the property if applicable.
 
-## Changes to the policy
+#### Changes to the policy
 
 We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
