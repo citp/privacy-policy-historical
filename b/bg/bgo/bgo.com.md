@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the bgo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317193000id_/https%3A//www.bgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgo.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406103126id_/https%3A//www.bgo.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 #### bgo.com Privacy Policy
 
-Our Privacy Policy is perhaps one of the most important things that all of our players should read. It lets you know how 
-
-BGO Entertainment Limited (the “Company”, herein referred to as “us” or “we”) handle the information and data that you give to us, both when you register and as you play, and what we use that data for. 
+BGO Entertainment Limited (the “Company”, herein referred to as “us” or ��we”) handle the information and data that you give to us, both when you register and as you play, and what we use that data for. 
 
 It is important to note that by registering an account with us, you agree to this policy and consent to the use of your data as provided to us for any and/or all means as detailed below. 
 
