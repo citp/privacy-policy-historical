@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transportexchangegroup.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811181131id_/https%3A//transportexchangegroup.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportexchangegroup.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406075724id_/https%3A//transportexchangegroup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transport Exchange Group
 
