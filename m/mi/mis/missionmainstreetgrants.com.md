@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missionmainstreetgrants.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204235938id_/https%3A//www.missionmainstreetgrants.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missionmainstreetgrants.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406061039id_/https%3A//www.missionmainstreetgrants.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Mission Main Street Grants® 2015 | Mission Main Street Grants ®
+# Privacy Policy Mission Main Street Grants® 2016 | Mission Main Street Grants ®
 
 This privacy policy (“Policy”) is intended to help you understand how Chase (or “we”) may collect and use information about you in connection with the Mission Main Street Grants Program (“MMSG Program”) and the MMSG Program website (the “MMSG Site”). If you do not agree to the terms of this Policy, which supplements the MMSG Program Rules, please do not use the MMSG Site. 
 
