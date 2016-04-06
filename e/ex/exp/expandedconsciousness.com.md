@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expandedconsciousness.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919104906id_/http%3A//expandedconsciousness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expandedconsciousness.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406111334id_/http%3A//expandedconsciousness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Expanded Consciousness
 
