@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919020109id_/http%3A//www.dnhour.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406142700id_/http%3A//www.dnhour.com/static/privacypolicy) for the most accurate reproduction.*
 
 # DNHour
 
@@ -94,5 +94,5 @@ We may, from time to time, send you emails regarding our service so that we can 
   
 
 
-Please [contact us](https://web.archive.org/web/20150919020109id_/http%3A//www.dnhour.com/static/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
+Please [contact us](https://web.archive.org/web/20160406142700id_/http%3A//www.dnhour.com/static/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
 
