@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poslaju.com.my privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227072437id_/http%3A//www.poslaju.com.my/media/documents/pdpa-notice-eng-as-at-7-jan-2015-v2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poslaju.com.my privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406051713id_/http%3A//www.poslaju.com.my/media/documents/pdpa-notice-eng-as-at-7-jan-2015-v2.pdf) for the most accurate reproduction.*
 
 # 
 
