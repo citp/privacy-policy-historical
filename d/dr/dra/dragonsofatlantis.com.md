@@ -1,173 +1,325 @@
-> *The following text is extracted and transformed from the dragonsofatlantis.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021110153id_/http%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonsofatlantis.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406104748id_/http%3A//www.dragonsofatlantis.com/Director.aspx%3Fsid%3D304%26sky%3D7436VO1U%26pgi%3D6779%26pgk%3DMIK6WTDN%26eli%3DE853C124E0F122728F0B61589C5D8582) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Kabam
 
-#### Our Commitment To Privacy
+### Introduction
 
-Welcome to Kabam, an online service operated by Kabam, Inc.(“Kabam”), which includes without limitation websites such as Kabam.com and online games and applications available through social networking sites (individually and collectively, the “Site”). Your privacy is very important to us. All Kabam employees and founders make it our highest priority to keep the information that our users entrust in us safe.
+Kabam, Inc. ("Kabam," "we," or "us") respect your rights and our obligations regarding your privacy and personal information, and we provide this Privacy Policy ("Policy" or " Privacy Policy") to help you understand how we collect, use, share, store, and disclose information we obtain from or about you when you use: 1) the website we operate or that are operated on our behalf and on which this Policy appears, including all websites located at kabam.com URLs or other Kabam controlled websites ("Websites") and/or; 2) the services we provide and which are accessible on or through the, Websites and/or other platforms such as through various desktop and mobile web browsers, locally installed mobile/wireless web applications, third party platforms including social networking and other sites ( collectively, "Third Party Platforms"), and various API services and other services that we may offer from time to time, including without limitation massively multiplayer, social, online and/or other games and applications (including mobile applications which link to this Privacy Policy), community forums, and blogs (all of which are collectively referred to as "Services"). This Policy applies to your use of the Websites and/or Services, including those available on Third Party Platforms. As used herein, the term "use" shall mean use, access, play, install, sign into, connect with, download, visit or browse our Sites or Services.
 
-We operate under high standards for keeping your privacy safe. We operate under the following guiding principles:
+Kabam has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click here for fax and postal mail information. Unfortunately, at this time TRUSTe’s Dispute Resolution process is only available in English. The TRUSTe program covers only information that is collected through this Web site and Kabam’s mobile applications, and does not cover information that may be collected through software downloaded from the site
 
-  * Any sensitive information that you provide will be secured with industry standard protocols and technology
-  * Your privacy remains strictly under your control
+THIS IS A LEGALLY BINDING AGREEMENT BETWEEN YOU AND KABAM, AND BY USING THE WEBSITE AND SERVICES, YOU AGREE TO THE TERMS OF THIS AGREEMENT. You should review this Policy in conjunction with our Terms of Service available here: [https://www.kabam.com/corporate/terms-of-service](https://web.archive.org/corporate/terms-of-service), and any other agreement provided by us that governs your use of the Websites and Services. You should not use the Websites and/or Services if you do not agree with this Policy, our Terms of Service and any other agreement that governs your use of the Websites and/or Services. Terms not otherwise defined herein shall the same meaning as any definition set forth in the Terms of Service.
 
+You are contracting with Kabam, Inc., a Delaware corporation.
 
+### Table of Contents
 
-To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <https://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users’ privacy. You will always be able to find the latest version posted on our website.
+  * [The Scope of This Policy and the Covered Sites](https://web.archive.org/corporate/privacy-policy#scope)
+  * [The Types of Information We May Collect](https://web.archive.org/corporate/privacy-policy#info-types)
+  * [Our Use of Cookies and Automated Information Collection](https://web.archive.org/corporate/privacy-policy#cookies)
+  * [How We Use The Information We Collect](https://web.archive.org/corporate/privacy-policy#information-use)
+  * [When and How We Share/Disclose Your Information With Third Parties](https://web.archive.org/corporate/privacy-policy#disclosure)
+  * [How Do We Keep Your Information Secure](https://web.archive.org/corporate/privacy-policy#security)
+  * [Your Choices Concerning The Use of Your Information](https://web.archive.org/corporate/privacy-policy#choices)
+  * [How We Respond to Do Not Track Signals](https://web.archive.org/corporate/privacy-policy#do-not-track-signals)
+  * [How Do You Access and Update Your Information](https://web.archive.org/corporate/privacy-policy#update)
+  * [How to Delete Your Account and What Happens When Your Account is Terminated or Deleted](https://web.archive.org/corporate/privacy-policy#delete-account)
+  * [Our Policy Concerning Children](https://web.archive.org/corporate/privacy-policy#children)
+  * [Modifications To This Policy](https://web.archive.org/corporate/privacy-policy#modifications)
+  * [International Operations. A Note To Users Outside Of The U.S.](https://web.archive.org/corporate/privacy-policy#international)
+  * [EU Safe Harbor](https://web.archive.org/corporate/privacy-policy#harbor)
+  * [Your California Privacy Rights](https://web.archive.org/corporate/privacy-policy#california)
+  * [What If You Have Questions About Your Privacy](https://web.archive.org/corporate/privacy-policy#questions)
 
-#### The Information We Collect
 
-_1) Kabam Applications on Partner-Operated Websites_
 
-In order to use Kabam applications on partner-operated websites (e.g., Facebook, MySpace, etc.), we may require you to 1) be a registered member of a partner site, and 2) install a Kabam application on your partner site account. If your use of a Kabam application requires installation of such application on a partner-operated website, you generally must agree to such partner site’s terms of service, which often allow application developers like Kabam to store certain information about you. The terms of service for partner-operated websites vary from partner to partner in this regard.
+### Scope of This Policy and the Covered Sites
 
-When you install a Kabam application on your partner site account, we may assign you a unique identifying number and a default display name, which we may retain. Your display name serves as your publicly visible identity within all websites that serve Kabam applications. By default, we may assign your display name to be your first name only.
+This Policy is applicable worldwide and applies to all of our Websites and Services where we provide a link to this Policy, including Services available on Third Party Platforms, unless otherwise stated or unless we provide a link to a different policy. All Websites and Services that are governed by this Policy will contain a prominent link to this Policy on or near the homepage of the Website (or through a pop-up window on any mobile and/or other Internet connected devices ("Wireless Devices") where possible.
 
-Kabam abides by the terms of service of all partner sites. If you have any questions about your privacy, please contact privacy[at]kabam.com.
+This Policy applies only to information that we collect online through use of the Websites or Services. It does not apply to information that we may collect through other means.
 
-_2) Kabam Applications on Kabam-Operated Websites_
+The Websites and/or Services may contain links to other websites that are owned or operated by third parties (referred to in our Terms of Service as "Linked Sites"). When you click on any link for a Linked Site and/or visit a Linked Site’s website, you should be aware that you are leaving a Kabam Website, and this Policy does not apply to any such Linked Sites. Additionally, if you use our Services on or through a Third Party Platform, including via any Wireless Devices, your privacy will also be subject to the privacy policies and terms of service of the Third Party Platform. We do not control and are not responsible for the terms of service, privacy policies and/or practices of any Linked Sites or any Third Party Platform you may use to access the Websites and/or Services, and you should review the policies and agreements of such Linked Sites and/or Third Party Platforms carefully.
 
-In order to use Kabam applications on Kabam-operated websites, you may be required to first complete a registration form and create a user name and password. During registration you may be required to give contact information such as your name and email address. We may use this information to contact you when another user interacts with your profile, or to update you with your friends’ activities in our applications.
+### Our Policy Concerning Children
 
-You may have the option to provide demographic and professional information (such as education, interests, and resume) to us; we encourage you to submit this information so other users can interact with your profile. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name and email address. We may automatically send your friend an email inviting him or her to visit the site. Kabam may store such information for various purposes including without limitation to send emails to referrals and track the success of our referral program.
+The Websites and Services are not intended for children under the age of 13 and we do not knowingly collect any personal information from such children. Children under the age of 13 should not use or attempt to use our Websites or Services, and if you are under 13, please do not attempt to use our Website or Services or send any information about yourself to Kabam.
 
-Your friend may contact us at privacy[at]kabam.com to request that we remove this information from our database.
+In the event that we learn that we have inadvertently gathered personal information from a child under the age of 13, we will take reasonable measures to erase such information from our records. Parents who believe that Kabam might have any information from or about a child under 13, may submit a request to privacypolicy@kabam.com and request that the information be removed.
 
-All information that you enter or upload about your contacts will be covered by the same terms of this Privacy Policy as cover your own personally identifiable information.
+### The Type of Information We May Collect
 
-#### Service-Related Announcements
+Kabam may collect different information from or about you depending upon the manner in which you use the Websites or Services. The following examples are provided to help you better understand the information we may collect through your use of and/or interaction with the Websites and/or Services:
 
-We may send you announcements to notify you of service related notifications and product releases and features, and to solicit your feedback and input.
+  1. #### Information Received Through Your Third Party Platform Account
 
-Generally, you may not opt-out of these communications. If you do not wish to receive such communications, you will have the option to deactivate your account. In certain circumstances, such emails from Kabam may contain links for preference management and where appropriate, unsubscribe links should you decide you do not want to receive further emails.
+When you use or connect to a Kabam Website or Service on or through a Third Party Platform, such as Facebook or other social networking site, (including using a Third Party Platform account to sign into a Kabam Website or Service), you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. The information you allow us to access and collect varies depending on the Kabam Service you use as well as the terms of the Third Party Platform and your privacy setting thereon. By way of example only, Kabam may access and/or collect some or all of the following information from your Third Party Platform account when you use or connect to a Kabam Website or Service on or through a Third Party Platform:
 
-#### Web Site Usage
+    * your full name as provided to the Third Party Platform
+    * your profile picture or its URL
+    * your user ID number, which is linked to publically available information such as name and profile photo
+    * the user ID numbers for your friends that are also connected to our game(s)
+    * the login e-mail you provided to the Third Party Platform when you registered
+    * your physical location and that of your access devices, including any Wireless Device
+    * your gender
+    * your birthday
+    * groups you have joined on the Third Party Platform
+    * your posts and the posts of your friends
 
-Like most web sites, Kabam uses cookies and web log files to track site usage of the Site. A cookie is a tiny data file which resides on your computer which allows Kabam to recognize you as a user when you return to our Site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our applications. Like the information you enter at registration or in your profile, cookie and log file data is used to customize your experience on the Site.
+(collectively "Third Party Platform Information")
 
-Log Files
+By using a Kabam Service on or through a Third Party Platform, you are authorizing Kabam to collect, store, and use your Third Party Platform Information in accordance with this Privacy Policy and as allowed by the terms of the Third Party Platform and your privacy settings with the Third Party Platform. You may choose to not allow the Third Party Platform to provide us with certain information about you, but you might not be able to use certain features of our Websites and/or Services.
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+When you use a Kabam Service (either through a Third Party Platform or directly on a Kabam Website) we may assign you a unique identifying number ("ID number") which is not publically displayed to other Kabam users. Additionally, you may be able to select a user name and/or in-game character name (collectively, "User Name"). Please note, your User Name will be publically viewable by others who have access to the Websites and/or Services, and, in some instances, may be viewable to others outside of Kabam through Internet searches and/or indexing. We recommend you do not use your real name or other information that may be used to personally identify you as part of your User Name as this information may be used to make unwanted contact with you by third parties. We are not responsible for your User Name and/or the manner in which is may be used by third parties.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the Site to improve our service, and to gather demographic information about our user base as a whole.
+  2. #### Information Received Through Your Wireless Device: Push Notifications
 
-We do link this automatically-collected data to personally identifiable information. IP addresses are only tied to personally identifiable information in the event we try to identify possible fraudulent activities.
+If you use a Kabam Service on or through a Wireless Device, we may, in accordance with the terms of any applicable agreement with the Wireless Device carrier (and as allowed by your privacy settings) collect certain information such as your unique device identifier (a number automatically assigned to your mobile or wireless device), device type, and information you choose to provide or share, such as e-mail address(collectively "Mobile Information").
 
-We use third-party tracking services, such as Google Analytics, that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. We use this service to capture usage and volume statistics to help us improve the Kabam service.
+We may send push notifications to your mobile device to provide game updates and other relevant messages. You can manage push notifications from the "options" or "settings" page within the mobile application. You also may be able to manage them from your device’s settings page for the mobile application
 
-Cookies
+We do not ask you for, access or track any precise location based information from your mobile device at any time while downloading or using our Mobile Apps.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies in our applications on the Site. We do link the information we store in cookies to personally identifiable information you submit while on our Site.
+  3. #### Information You Provide To Us Directly
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires after you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+When you use any of the Websites or Services (including through a Third Party Platform) we will collect any information you provide to us directly such as the following:
 
-We use session cookies to confirm that users are logged in. As a convenience feature, we offer an option that will remember your login information for a period of two weeks. This login information is encrypted and set in a persistent cookie so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you will not be able to sign in to use our site.
+**Registration Information:** In order to use certain features of the Websites or Services, you may be required to register for an account, and in that case, we will collect and store any registration information you share with us such as, without limitation, your date of birth, age, e-mail address, password and other information that helps us confirm your access to your account and understand more about who you are ("Registration Information").
 
-Other third-parties may place advertisements and cookies on web-pages within our applications on the Site. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
+**Profile Information:** For some Kabam Websites or Services, you may also have the option of providing additional information about yourself to create a user profile ("Profile") that will be publically viewable by others. We will collect the information you share with us in creating your Profile such as your, first and last name, user name, date of birth and gender, You should exercise care and caution in creating your Profile as your Profile, including your Profile Information, will be publically viewable to others and may in some instances be index by search engines and viewable outside of the Kabam Websites and/or Services. Your Profile and/or Profile Information may be used by third parties to make contact with you in unwanted ways, and Kabam is not responsible for information you supply in your Profile and/or the manner in which it is used by others
 
-Third Party Advertising
+**Public Posting/Shared Content:** Some of the Kabam Websites or Services may allow you to interact with other users and/or post, share, communicate with, or otherwise transmit content publicly, such as by participating in player forums, message boards, news feeds, status updates, posting public comments to users’ profiles, sending messages or invitations to other users, chatting with other users, posting photo, and/or posting comments to a wall (collectively "Shared Content" or "Public Posting"). We may collect and store archives of such Public Postings on Kabam’s servers, and all Public Postings are subject to this Privacy Policy and may be used or disclosed pursuant to the terms of this Policy and the Terms of Service, including but not limited to protecting the safety and well being of members of the public, minors, Kabam users, our employees, and our Websites or Services
 
-We use third-party advertising companies to serve ads on our Site, including without limitation on certain Kabam games and Kabam applications on social networking sites. Our system and the third-party advertising technology uses information derived from Activity Information, Kabam’s cookies on your hard drive, your visits to and use of our Site, including without limitation the Kabam games that you view and the Kabam applications on social networking sites that you use, to target advertising within our Site. In addition, our advertisers may use other third-party advertising technology to target advertising on our Site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
+Keep in mind that your Public Posting will be visible to anyone who has access to the Websites or Services and may in some instances be viewable outside of Kabam as such Public Postings may, in certain instances, show up in Internet searches and/or be indexed by search engines. Using certain tools, it may be possible for you or third parties to copy, cut, and/or post your Public Posting or other information to different locations (including to websites not owned/operated by Kabam). This may result in the disclosure of private information on third party websites—for which Kabam is not responsible—and, in some cases, may subject you to liability for information posted by or about you. Therefore, you should exercise caution in all Public Postings, and we recommend you do not provide personal information that may be used to identify and/or contact you in a Pubic Posting. To request removal of your personal information from our public forums, contact us at [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Except as set forth herein, Kabam does not provide any personally identifiable information to third-party advertising companies. We may however disclose personally identifiable information as required by law, as otherwise set forth below, or if in our judgment it is necessary to protect our company or our users from loss or liability.
+On some Kabam Websites and Services, your User Name as well as your Profile Information may be displayed in conjunction with your Public Posting. Thus, those accessing this information may be able to identify you, using other available source of information, such as your related Third Party Platform account or information on other websites.
 
-Cookie Opt-Out
+**Payment Information:** If you purchase any products or services through our Websites or Services, such as in game virtual currency or goods, we may collect certain information regarding your purchase (such as your name, zip code, purchase) as necessary to process your order, and you will be required to provide certain payment and billing information directly to our payment processing partners, such as but not limited to your name, credit card information, billing address, and zip code. We do not directly access, store or collect your credit card information, and we will not use your payment information we collect except as needed to fulfill your purchase and/or communicate with you regarding your transaction.
 
-We allow each user to opt out of our ad-serving cookies, so that no unique information or number is associated with the end user’s computer browser. Blocking and/or opting out of cookies do not stop advertisements from being served to your computer; rather, it prevents data from being associated with the end user’s browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times.
+**Friend’s Contact Information:** If you wish to use our service to tell a friend about the Websites or Services via email or text message, we may ask for your friend’s name, e-mail address, phone number and other information, (all of which we will collect and store), and we will automatically send your friend an e-mail, and one reminder, inviting him or her to use our Websites or Services. Kabam may use and store such information for several purposes including, sending e-mails to your friend and tracking the success of our referral program.
 
-[Click here for the ad-serving cookie opt-out](http://www.networkadvertising.org/managing/opt_out.asp)
+Your friend may unsubscribe from such messages by using the "unsubscribe" link at the bottom of the communication. If your friend would like to request that we no longer use or store this information they may contact us at [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com)
 
-All other cookies associated with your browser will remain intact and your opt-out will be effective for the entire life of your browser on your hard drive or until you delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie.
+We may also offer you the ability to import or upload your address book contacts or enter your contact’s e-mail addresses (collectively, "Contact Information") so that we may invite your contacts to use our Websites and Services and/or so that you may find and interact with them on our Websites and/or Services. If you provide us with your Contact Information, we will store it unless you instruct otherwise by submitting a request [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com) and we will use this information to help you and your contacts connect on our Websites and Services. All Contact Information that you provide will be subject to and governed by this Privacy Policy.
 
-#### The Way Your Information Is Visible and shared
+**Communications, Support Requests, Potential Abuse:** If you contact us for assistance or to report a problem, concern, potential abuse or other issue regarding the Websites, Services or a user, we may collect and store your contact information, communication, and/or other information about you, including but not limited to your name, e-mail address, User Name, ID number, location, game play or activity, and we reserve the right to conduct further research and obtain further information as necessary. We will use the information to respond to you, research your request/communication, and in accordance with provisions of this Policy
 
-The primary purpose of entering data into Kabam is to build your Kabam profile. Your profile is meant to be shared with fellow fans. As a user, you have control over how much information you choose to share with other fans.
+**Sweepstakes, Promotions, and Surveys:** From time to time, we may ask you to complete a survey, participate in our loyalty programs and/or offer you the opportunity to participate in Promotions (as defined in the Terms of Service [https://www.kabam.com/corporate/terms-of-service](https://web.archive.org/corporate/terms-of-service)) on our Websites, via the Services, or through a Third Party Platform. If you choose to participate in a Promotion, we will collect and store the information you provide in connection with your participation in the Promotion, such as your name, ID number, e-mail address, date of birth, phone number and whatever other information you provide, and we will use and/or disclose that information in accordance with this Privacy Policy unless stated otherwise, such as in the official rules (or other guidelines) of the Promotion or as stated in another privacy policy that may govern the Promotion. All of our Promotions are intended for people who are the age of majority in their respective state, province, or country unless otherwise expressly stated. In all cases where required, Promotions will have official rules or guidelines that outline what information is being collected or users will be directed to the most recent version of this Policy. In some cases, the information collected will be used only to administer the Promotion; in other cases, the information collected will be used for Kabam’s or sponsor’s marketing purposes. Your information may be used to contact you for winner notification, prize delivery confirmation or other related purposes and/or in accordance with this Policy. Your entry in the Promotion may also result in your being added to our mailing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on our Website, such as on a winner’s page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a Promotion on our through our Website or Service, and collect your information. In those cases, where we are not the sponsor or operator of the Promotion, we have no control over the information collected and you should review the official rules as well as the advertiser’s or sponsor’s privacy policy applicable to the Promotion before participating.
 
-We use your personal information to:
+  4. #### Technical & Usage Information We Collect Through Automated Means
 
-  * respond to your requests for information and newsletters,
-  * provide you with access to games and services,
-  * notify you of changes to your tip requests,
-  * provide product support, customer services and other communications related to your transactions on our website or with our products (e.g., reminders about posting you have made, expirations of postings you have made, or updates to software you have licensed),
-  * determine if you are eligible to receive certain products, services or promotions,
-  * provide you with additional information that may be of interest, including marketing materials, and
-  * support other everyday business purposes, such as product development, job applications, and website administration.
+When you access the Websites or Services, including playing any of our games, our servers automatically record, and we automatically collect, certain information by automated means. This information may include without limitation: (a) technical information about your computer or Wireless Device, such as your IP address, operating system type, device ID, browser, domain and other systems information as further explained in this Policy; and (b) usage statistics about your interaction with the Websites and/or Services, including games accessed, game score, pages visited, use of Site Items and Virtual Currency as defined in the Terms of Service ([https://www.kabam.com/corporate/terms-of-service](https://web.archive.org/corporate/terms-of-service)), information about your game play and interaction with other users, portions of the Websites or Services used/visited, and other information regarding your use of the Websites and Services.
 
+This technical information and usage data, some of which may be linked to your ID number, is collected through the use of server log files and tracking technologies, including: (i) cookies, which are small files that websites send to your computer or Wireless Device to uniquely identify your browser or mobile device or to store information in your browser setting; and (ii) web beacons, which are small files that allow us to measure the actions of visitors to the Websites or Services. For more detailed information regarding how we use cookies and other technology, please review the additional information in this Policy under the Section entitled "Our Use of Cookies And Automated Information Collection."
 
+Our servers do not record or recognize names or e-mail addresses of the user, unless the user registers for an Account or provides such information to us in some other way, such as via a transaction or Submission (as those terms are defined in our Terms of Service). The technical information we obtain is collected, used, and stored as de-identified, aggregated information ("Aggregate Information") which may be used and shared for a number of purposes, including to improve the quality of our Sites and Services; evaluate the effectiveness and popularity of certain Sites and Services; track user’s movements and playing habits; analyze broad demographic trends; verify compliance with our product license agreements; and improve user experience; and as further set forth in this Policy. We may use and share with third parties Technical Information (" Defined below") or Aggregate Information to show general demographic and preference information among Kabam users. Our collection, use, and disclosure of anonymous and/or Aggregate Information is not subject to any of the restrictions in this Privacy Policy.
 
-#### Sharing of Information with Third Parties
 
-Other than as described below with respect to Kabam service providers, we do not generally sell, trade, rent or share your personal information with third parties without your express consent, though we may directly pass onto you information from third parties that we think may be of interest. Only when you expressly opt-in to receive communications, such as through a check-box, from selected third parties whose products or services Kabam thinks might be of interest to you, will we share your e-mail address with those parties.
 
-#### Public Display of Information
 
-If you participate in community features such as forums or chat, your username will be visible to the public. You may also display your name, contact info through some of these services. In addition, our chat, tips and forums allow you to communicate with members of the online community. Whenever you give out information in public areas, that information can be collected and used by people you do not know so you should not give out personal information.
+### Our Use of Cookies, Web Beacons And Automated Information Collection
 
-#### Service Providers
+Like many websites Kabam (and/or service providers acting on our behalf, such as Google Analytics and/or our third party advertisers) uses server log files and automated data collection tools, such as cookies, tags, scripts and web beacons (collectively, "Data Collection Tools") when you access or visit our Sites and Services. We tie the information gathered by these means to our customers’ personally identifiable information. These Data Collection Tools automatically track and collect certain technical information that your browser sends to our Sites such as your IP addresses, browser types, browser language, referring and exit pages, URLs, platform type, the number of clicks, domain names, landing pages, clickstream data, pages viewed and the order of those pages, the amount of time spent on particular pages, game information and the date and time of activity on our Sites or Services, and other similar information (collectively "Technical Information"). In some cases, we will associate this Technical Information with your ID number for our internal use. By using our Sites and/or Services, you consent to our use of cookies, web beacons and Data Collection Tools.
 
-We occasionally employ other companies to perform services necessary to our internal operations. For example, we may partner with other companies to fulfill an order for games, deliver promotional emails, or provide customer service. While providing services for us, these companies may access your personal information, and are required to use it solely as directed by us for the purpose of our requested service. These companies are obligated to maintain your personal information in confidence. We may also provide postal addresses to the U.S. Post Office or other couriers for delivery purposes.
+We use cookies for a variety of reasons, including to: (i) analyze the usage of our Sites and Services; (ii) provide a more personalized experience; (iii) manage advertising; (iv) allow you to more easily login to our Sites and Services; (iv) help make your visit to our Sites and/or use of our Services more efficient and more valuable by providing you with a customized experience and recognizing you when you return.
 
-#### Purchase or Sale of Businesses
+We may also employ web beacons or other technology for a variety of reasons such as: (i) allowing us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow us to advertise more efficiently by excluding our current users from certain promotional messages or identifying the source of a new installation;
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), this may change in the future. We may share some or all of your personal nformation with these Affiliates, in which case we will request our Affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy. The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
+You can set your web browser to warn you about attempts to place cookies on your computer, limit the type of cookies you allow or refuse cookies all together; however, you may not be able to use some or all of the features of the Websites and/or Services if you refuse/disable cookies.
 
-#### Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others
+Please note that third parties partners/providers, such as companies delivering advertisements in our games or on the Websites and/or Services, may also use cookies or other technologies, and those practices and providers are subject to their own policies. Third parties with whom we partner to provide certain features on our site use Local Storage Objects (LSOs) such as Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our Terms of Use or any contest rules. We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena.
+#### 1\. Session Cookies
 
-#### Aggregate Information
+We use a session cookie to remember your log-in for you and process your purchases of virtual goods. These we deem strictly necessary to the working of the website. If these are disabled, then various functionalities on the site will be broken. More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html> .
 
-We may take your personal information and make it non-personally identifiable. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), and by removing characteristics (e.g., your name) that make the information personally identifiable to you. This process is known as de-personalizing your information. We may use de-personalized information in any way and share it with third parties.
+Cookies used:
 
-#### Our Commitment To Data Security
+  * _foundation_session
+  * bb_forum_view
+  * bb_lastactivity
+  * bb_lastvisit
+  * entryUid
+  * eu_privacy_consent
+  * guest_naid
+  * has_logged_in_kabam
+  * kabam_logged_in
+  * kabamId
+  * kforumsession
+  * PHPSESSID
+  * remember_me
+  * remember_me_user
+  * timeout_length
+  * titanic
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-Kabam employs protected facilities, data encryption on your stored personally identifiable information, firewalls, intrusion detection, and many other security measures to protect your data. We have invested many capital and human resources into our infrastructure to secure the data of our users and will continue to make additional technology investments.
 
-If you have any questions about security on our Site, you can send an email us at support[at]kabam.com
+#### 2\. Analytics Cookies
 
-#### Use Of Bulletin Boards
+Google Analytics – we use this to understand how the site is being used in order to improve user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html> .
 
-If you use a bulletin board or blog on our Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We do not recommend posting personally identifiable information on such bulletin boards or blogs.
+Cookies used:
 
-#### International Visitors and Customers:
+  * __utma
+  * __utmb
+  * __utmc
+  * __utmz
 
-This Site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
 
-  * the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
-  * the transfer of your personal data to the United States as indicated above.
 
+New Relic – this service helps us understand the speed and technical performance of our site so we can monitor and improve it. User data is all anonymous. You can find out more about what New Relic do on their site at <http://newrelic.com/>
 
+Cookies used:
 
-#### Our Commitment To Children’s Privacy
+  * JSESSIONID
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you are under 13, please do not attempt to register for the Site or send any information about yourself to Kabam, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Kabam or on the Site. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that Kabam might have any information from or about a child under 13, please contact us at privacy[at]kabam.com. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-#### How You Can Access Or Correct Your Information
 
-_1) Kabam Applications on Partner-Operated Websites_
+Quantcast – this captures information on site traffic and usage so that we can publish this information on the Quantcast site for anyone to see. User data is all anonymous. You can see Econsultancy’s site traffic profile on Quantcast at <http://www.quantcast.com/econsultancy.com>
 
-You can access all your personally identifiable information that we collect online and maintain by clicking on and editing your profile within our applications. If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by removing our application from your partner site account.
+Cookies used:
 
-_2) Kabam Applications on Kabam-Operated Websites_
+  * __qca
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by contacting us through the methods indicated in the “How To Contact Us” section.
 
-#### Privacy Policy Updates
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement on the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+#### 3\. Marketing Cookies
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here by means of a notice on our home page.
+OpenX - we use this service to provide dynamic promotion of our new games and offers for players. You can find more information from OpenX privacy policy <http://www.openx.com/about/privacy-policy>.
 
-#### Legal Responsibilities Disclosure
+Cookies used:
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on Kabam.
+  * OX_u
+  * i
 
-#### How To Contact Us
 
-We dedicate resources to helping you contact us if you have questions about your privacy and personally identifiable information. You can contact us by emailing our Customer Support support[at]kabam.com, or by contacting us by postal mail at the contact information listed below.
 
-Kabam, Inc.  
-101 Redwood Shores Parkway, Suite 250  
-Redwood City, CA 94065
+Kabam.com uses the following cookies to track the performance of our marketing campaigns.
+
+Cookies used:
+
+  * entrypt
+  * entryptfree
+  * entryptpaid
+
+
+
+### How We Use The Information We Collect
+
+Kabam may use the information we collect through your use of the Websites and Services for a variety of purposes, primarily related to providing and improving the quality of our Websites and Services. For example, we may use the information we collect in the following ways:
+
+  * Providing, administering, and facilitating your use of the Websites and Services, including the display of customized content and/or targeted advertising; 
+  * Notifying you of products, new products, services, features, promotions, enhancements, and updates, including in-game updates, loyalty and rewards programs, and updates to the Websites, Services, Terms of Service, and Privacy Policy; 
+  * Marketing our products and/or services to you, including sending you offers, promotions information, newsletters, e-mail campaigns, and communications regarding new, improved or existing products, contests and/or sweepstakes; 
+  * Resolving site problems; handling or responding to customer support questions and issues;
+  * Processing or fulfilling your request(s) and/or order(s) for games, products, services, information or features, such as Site Items and Virtual Currency; 
+  * Enabling user-to-user communication and interaction and soliciting input and feedback to improve user experience; 
+  * Managing your account preferences, establishing your Profile and Registration Information;
+  * Connecting you with your friends and/or contacts that are using the Websites and/or Services;
+  * Monitoring the technical functioning of the Websites, Services, and network;
+  * Developing new and/or improved games, products, services or offerings;
+  * Providing you with news and newsletters;
+  * To create, review, analyze and share Aggregate Information;
+  * Identifying, researching, and protecting against any actual, potential or threatened misuse, unauthorized use, or unwanted use of any of the Websites or Services, including but not limited to researching any claims made by or about others users and/or about the Websites and/or Services, and such efforts of which may include information provided from third-party sources; 
+  * Third party hosting of the Websites and/or Services;
+  * Analyzing trends and user traffic;
+  * Marketing, processing or fulfillment of Promotions administered or sponsored by Kabam;
+  * Resolving disputes;
+  * Trouble-shooting errors or issues with any of the Websites and/or Services;
+  * Tracking purchases and usage information;
+  * Communicating with you concerning your Account;
+  * Asking you to participate in surveys about products and services; or
+  * As we, in our sole discretion, otherwise determine to be necessary or required to ensure the safety and/or integrity of our users, employees, third parties, members of the public, and/or our Websites and Services. 
+
+
+
+If you have provided your e-mail address to Kabam, we’ll use it for such things as: (i) responding to customer support inquiries; (ii) keeping you informed of your in-game activity, including comments from friends and alliances, notifications about in-game status, in-game events and offers, as well as notifications of gift and requests; (iii) updating you on new games, product updates, as well as loyalty and rewards programs; and (iv) in accordance with all of manners set forth in this Privacy Policy.
+
+### When And How We May Share/Disclose Your Information With Third Parties
+
+We will only share your information (including personal information) with the following third parties or under the following circumstances or as otherwise described in this policy:
+
+**1\. Safety, Security, Cooperation With Law Enforcement, & Compliance With Legal Obligations **We may disclose your information to third parties, including your personal information, if we, in our sole discretion, have a good faith belief that disclosure is: (1) permitted or required by law; (2) requested in connection with or relevant to a judicial, governmental or legal inquiry, investigation, order, or proceeding; (3) required or reasonably necessary pursuant to a valid subpoena, warrant or other legally valid inquiry or request; (4) reasonably necessary to enforce our Terms of Service, this Policy, or any other legal agreements; (5) required to detect, prevent, or otherwise address fraud, abuse, misuse, potential violations of law (or rule/regulation), and/or security or technical issues; or (6) required or reasonably necessary to protect against imminent harm to the rights, property or safety of Kabam, our users, employees, any minors, members of the public and/or our Websites and Services. We may also disclose information about you to our auditors or legal advisors in conjunction with accessing our disclosure obligations and/or rights under this Policy.
+
+**2\. Third Party Service Providers, Contractors or Agents** We may share your information with third party companies that perform services on our behalf, including payment processing, order fulfillment, data analysis, marketing services, e-mail campaigns, hosting services, and customer service. While providing the services for us, these companies may access your personal information, and are required to use it solely as directed by us for the purpose of our requested service.
+
+**3\. Business Transfers, Sales or Mergers or Divestitures.** In the event that Kabam undergoes a business transition, such as a merger, acquisition, corporate divestiture or dissolution (including bankruptcy), or a sale of all or a portion of its assets, including in connection with the sale or other transfer of a game, we may share, disclose or transfer all of your information, including personal information, to the successor organization in such transition.
+
+**4.Business Partners.** In conjunction with the development and running of our games and in connection with the offering of other games we may partner with third party developers and/or licensors to assist us in providing you with our services. We will share the information you provide us through your social network such as (1) your first and last name, (2) your profile picture or its URL, (3) your user identification number of the pertinent social network, which is linked to publicly available information such as name and profile picture (4) the login email you provided to the pertinent social network upon registration; and (5) game play information with these third parties, all so they may, among other things, facilitate the use of our service as well as contact you about other games and products they offer which may be of interest to you, provide you with service notifications and to solicit your feedback and input. If you do not wish to have this information shared please do not use our services. If you wish to no longer have your personal information used by our partners you may contact us at [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com) and we will facilitate your request to the partner. 
+
+**5\. Promotions** We may share your information in connection with any Promotion you enter on or through the Websites, as necessary to administer, market, sponsor, or fulfill the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners’ lists or make required filings as appropriate) or in accordance with the applicable Official Rules of the Promotion/Sweepstakes you enter.
+
+**6\. With Your Permission.** Additionally, if you opt-in or otherwise agree to have your information shared with a third party for marketing purposes, we will share your information with the third party (or third parties) in which case the third party’s use of your information is subject to the third party’s own privacy policy. 
+
+**7\. Advertising of Third Party Products/Services.** We may use and share with third party advertisers (and other third parties) certain Technical Information and/or Aggregate Information to show general demographic and preference information among Kabam users. We may also allow advertisers to collect Technical Information or Aggregate Information, which they may share with us, through the use of tracking technologies like cookies and web beacons. The information collected may be used to offer you targeted ad-selection and delivery in order to personalize your user experience by increasing the likelihood that advertisements for products and services you see will appeal to you, a practice known as behavioral advertising, and to undertake web analytics (i.e. to analyze traffic and other end user activity to improve your experience). To learn more about behavioral advertising or to opt-out of this type of advertising for participating ad networks, you can visit the Network Advertising Initiative website <http://www.networkadvertising.org/managing/opt_out.asp> If you are located in the European Union and would like to opt-out, please visit, <http://www.youronlinechoices.eu/>. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+**8\. Social Media Features** Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**9\. Offer Walls** Kabam games or their purchase pages may display an “offer wall” that may be hosted by a third party offer wall provider. The offer wall allows third party advertisers to provide virtual currency to users in exchange for interacting with an advertisement or for completing a marketing offer that may include signing up for an account with one of those advertisers. These offers are not controlled by or made by Kabam. These offers may be displayed to you based on certain technical information, such as your geographic area or anonymous demographic information. After clicking on one of these advertisements, you will no longer be on a site hosted by Kabam or a partnering Third Party Platform. **To properly credit user accounts and to prevent fraud, a unique identifier will be shared with the offer wall provider.** This identifier is used to ensure proper crediting of your account, prevent fraud or duplicate offers and to resolve any customer service inquiries that may arise. Once you complete an offer, you may then be returned to a Kabam Website or Service.
+
+### How Do We Keep Your Information Secure?
+
+Kabam takes commercially reasonable security measures to protect against unauthorized access to, or unauthorized alteration, disclosure or destruction of, sensitive data that you share and we collect and store. These security measures may include practices such as keeping your sensitive data on a secured server behind a firewall, transmitting sensitive information (such as a credit card number) entered on our site or mobile application using secure socket layer technology (SSL), internal reviews of our data collection practices and platforms, as well as physical security measures to guard against unauthorized access to systems where we store your information. Unfortunately, however, no security system can be 100% secured, and we cannot guarantee that communications between you and Kabam, the Websites or Services, or any information provided to us in connection with the information we collect through the Websites or Services will be free from unauthorized access by third parties. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. Your password is an important component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, you should change it immediately and follow the notification procedures set forth in Section 6 of our Terms of Service. ([https://www.kabam.com/corporate/terms-of-service](https://web.archive.org/corporate/terms-of-service))
+
+### Your Choices Regarding The Use of Your Information
+
+As discussed, you can always choose not to provide certain information to us but you may not be able to use certain features of the Websites or Services. If you do not wish to receive Promotional Communications from us, you can opt-out by: (i) following the unsubscribe instructions provided in the Promotional Communication you receive; or (ii) managing your e-mail preferences by signing into your account on the [Kabam.com](https://web.archive.org/) site, clicking on the Settings link in the site header, navigating to the Preferences tab, and unchecking the email lists you no longer wish to subscribe to.  
+Please note that despite your opt-out choice or indicated e-mail preferences, we will still send you administrative messages regarding the Websites or Services, including, for example, administrative confirmations, order confirmation, important updates regarding the Websites or Services, and notices regarding this Policy.
+
+### How We Respond to Do Not Track Signals
+
+Because consumers are often unaware that their do-not-track beacons are active, do-not-track does not frequently reflect the actual preferences of our users.  Accordingly, Kabam does not respond to the federal Do-Not-Track signal.  If you would like to receive no promotional communication from Kabam, you are free to follow the procedure described in the previous section to unsubscribe.
+
+### How To Access & Update Your Information
+
+You may access and update your information that Kabam collects and maintains in the following ways:
+
+#### 1\. Information We Receive From a Third Party Platform Or Wireless Device.
+
+To manage the information Kabam receives about you from a Third Party Platform or Wireless Device, please follow the instructions provided by the Third Party Platform or Wireless Device provider for updating your information and changing your privacy settings. Once Kabam receives your information from a Third Party Platform or Wireless Device, that information is stored and used by Kabam in accordance with this Privacy Policy.
+
+#### 2\. Information We Receive Directly From You.
+
+You may update the information you provide directly to Kabam by logging into your Account on the relevant Kabam Website you are using and updating your Account information.
+
+#### 3\. Right of Access To Your Information
+
+You may also submit any requests for access to your personal data to [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com) or in writing to Attn Privacy Kabam, Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107. Please allow up to thirty (30) days for a response.
+
+### How to Delete Your Account and What Happens if Your Account is Terminated or Deleted
+
+#### 1\. Deactivating Your Account
+
+You may also request that we delete your Account by logging into the account you wish to be deleted, going to the in-game ‘Help’ link, or clicking on the ‘Support’ link on Kabam.com. This will direct you to our Customer Support site where you can use the ‘Contact Us’ link to submit your request. Please indicate that you wish to delete your Account and provide your first name, last name, e-mail address, and user name. We will make commercially reasonable efforts to respond to your request within thirty (30) days. Please note that we may be unable to process your request if you do not log into the account you want to be removed, and if you play multiple Kabam games we will require that you make a separate request for each game account.
+
+#### 2\. Account Terminated or Deleted
+
+Please be aware that even after your Account is terminated or deleted some or all of your information may still remain visible to others, including but not limited to any information that has been: (a) incorporated into others user’s content, comments, postings, submissions, including but not limited to cities, resources or other in-game assets; (b) copied, stored or disseminated by other users; (c) shared or disseminated by you or others such as in a Public Posting; or (4) posted on a Third Party Platform. A request to delete and/or termination of your Account will not result in the removal of information collected and already put in aggregate form or information that cannot, in our sole discretion, be removed without undue burden to Kabam. Kabam is not able and/or obligated to remove any of your information from a Third Party Platform.
+
+Moreover, please be aware that even after you delete your Account or your account is terminated, your information, is not deleted in its entirety from our servers and may not be deleted from servers of the Third Party Platform you use to access our Services. We may retain backup copies of your information, including personal information on our servers or databases (and/or any authorized third party servers or databases we use) to assist with any legal obligations, resolve disputes, and enforce our agreements. Such information may be disclosed pursuant to this Policy regardless of whether your Account is deleted or terminated. We will retain your information for as long as it serves a reasonably useful commercial purpose. Moreover, any Third Party Platform that you use to access the Services may also retain backup copies of your information even after your account is deleted or terminated which may be used and/or disclosed in accordance with their privacy policy.
+
+### Modifications To This Policy
+
+From time to time, we may update this Privacy Statement to clarify our practices or to reflect new or different privacy practices, such as when we add new features, and Kabam reserves the right to modify and/or make changes to this Policy at any time. If we make any material change we will notify you prominent means such as by email notice sent to the email address specified in your account) or by posting a notice on the site. Other modifications will become effective on the day they are posted unless stated otherwise.
+
+Any notifications regarding changes that have been posted on Websites may be removed after 30 days. If you have not accessed the Websites and/or the Services within 30 days, please consult the top of this Privacy Policy to determine when this Privacy Policy was last revised as there may be changes that have occurred since your last visit.
+
+If you continue to access and/or use the Websites or Materials, including any of the Services available through any Third Party Platform, after the effective date of any change, then such access and/or use will be deemed an acceptance of and an agreement to follow and be bound by the Policy as changed. The revised Policy supersedes all previous privacy policies. For this reason, we encourage you to review this Policy any time you access or use the Websites or Materials, and recommend that you print out a copy for your records. Upon our request, you agree to accept or sign a non-electronic version of this Policy and any other policies or agreements set forth or available on or through the Websites or any Third Party Platform.
+
+### International Operations: A Note To Users Outside Of The U.S. and the EU
+
+Kabam stores information about site visitors and players on servers primarily located in the United States, and Kabam may also store such information on servers and equipment in other countries. If you are accessing the Websites or Services from outside the United States and the European Union, please know the data and personal information you submit will be transferred to and stored in servers in the United States or other countries. The data protection and other laws of the United States and/or other countries might not be as comprehensive as those in your country. By submitting your data and/or using our Websites or Services, you consent to the transfer, storing, and processing of your data in and to the United States.
+
+Personal data collected within Switzerland and the European Economic Area ("EEA") may be transferred to, and stored at, a destination outside of Switzerland and the European Economic Area ("EEA"). The data we hold may also be processed by employees operating outside of Switzerland and the EEA who work for us or one of our affiliates or for one of our vendors. Such staff may be engaged in, among other things, (i) the processing of transactions and your payment details and (ii) the provision of support services. By submitting your personal data or playing Kabam games, you agree to this transfer, storing or processing.
+
+### U.S. Dept. of Commerce Safe Harbor Program
+
+Kabam, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Kabam, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Kabam, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+
+### Your California Privacy Rights
+
+California residents have the right to receive: a) information identifying any third party company(ies) to whom Kabam may have disclosed (within the previous calendar year) personal information pertaining to you and your family for that company’s direct marketing purposes; and b) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, submit a request here [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com) with "Request for California Privacy Information" as the subject line and in the body of your message. Please be aware that not all information sharing is covered by requirements and only information on covered sharing will be included in our response. Please also note that under California law, businesses are only required to respond to a customer request once during any calendar year.
+
+### Questions
+
+Please feel free to contact us by submitting a request here [privacypolicy@kabam.com](mailto:privacypolicy@kabam.com) with any questions, concerns, or disputes you may have regarding our Privacy Policy. Please put "Privacy Policy" in the subject line so your message can be directed to the correct person(s). You may also contact us via postal mail at Kabam, Inc. 795 Folsom Street, Suite 600, San Francisco, CA 94107.
