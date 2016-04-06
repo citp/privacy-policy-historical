@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtilive.pk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121826id_/http%3A//rtilive.pk/rti/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtilive.pk privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406224126id_/http%3A//rtilive.pk/rti/privacy) for the most accurate reproduction.*
 
 # RTI LIVE, News Agency Pakistan, Right To Information Pakistan, National News Network Pakistan, RTI Pakistan, Latest news, online news Pakistan
 
