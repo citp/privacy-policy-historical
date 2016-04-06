@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financepromoters.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815180413id_/http%3A//financepromoters.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financepromoters.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406074115id_/http%3A//financepromoters.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finance Promoters
 
