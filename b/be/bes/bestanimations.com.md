@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029015513id_/http%3A//www.bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406042413id_/http%3A//www.bestanimations.com/Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
-This Privacy Policy governs the manner in which Best Animations collects, uses, maintains and discloses information collected from users (each, a "User") of the www.bestanimations.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Best Animations. 
+This Privacy Policy governs the way in which Best Animations collects, uses, maintains and discloses information collected from users (each, a "User") of the www.bestanimations.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Best Animations. 
 
 Personal identification information 
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
 Non-personal identification information 
 
@@ -48,4 +48,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 webmaster.at.bestanimations.com 
 
-This document was last updated on July 12, 2014 
+This document was last updated on November 6, 2015 
