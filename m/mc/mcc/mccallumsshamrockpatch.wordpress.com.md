@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mccallumsshamrockpatch.wordpress.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200824id_/http%3A//themccallumsshamrockpatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccallumsshamrockpatch.wordpress.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407005422id_/http%3A//themccallumsshamrockpatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The McCallum's Shamrock Patch
+# Privacy Policy – The McCallum's Shamrock Patch
 
 **What information do we collect?**
 
