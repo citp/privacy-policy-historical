@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206025706id_/http%3A//www.tripomatic.com/lp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripomatic.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406185819id_/http%3A//www.tripomatic.com/lp/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -53,13 +53,17 @@ We never use cookies to save or track personal information. If you do not want o
 
 Data is periodically transmitted to external services using their SDKs to help us improve Tripomatic and our service. We will share your information with third parties only in the ways that are described in this privacy statement. 
 
-Mixpanel is used to help us understand how the apps are used and also to help us detect important events and send out push notifications or e-mail messages. Consult Mixpanel privacy policy for more information at <https://mixpanel.com/privacy/>. You can also opt out from Mixpanel data collection. 
+Mixpanel is used to help us understand how the apps are used and also to help us detect important events and send out push notifications or e-mail messages. Consult Mixpanel privacy policy for more information at <https://mixpanel.com/privacy/>. You can also [opt out](https://mixpanel.com/optout/) from Mixpanel data collection. 
 
 Google Analytics is used to help us understand how the apps are used. Consult Google Analytics privacy policy for more information at <http://www.google.com/analytics/learn/privacy.html>. 
 
 Google AdSense is used to serve ads on Tripomatic website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Privacy Policy for Google Ads and Advertising Services](http://www.google.com/privacy/ads/privacy-policy.html). 
 
 Facebook Audience Network is used to serve ads in Tripomatic mobile apps. Learn about facebook privacy policy and data collection at <https://www.facebook.com/policy.php>. 
+
+UXCam helps us understand how the Tripomatic mobile apps are used by recording the user behaviour anonymously. Learn more at [http://uxcam.com](http://uxcam.com/). 
+
+Fabric by Twitter helps us collect and analyze crashes in Tripomatic mobile apps. Learn more at [https://get.fabric.io](https://get.fabric.io/). 
 
 Tripomatic may use data and code from other vendors that may collect information governed by their own privacy policy. These vendors include, but are not limited to [booking.com](http://www.booking.com/), [rentalcars.com](http://www.rentalcars.com/), [city-discovery.com](http://www.city-discovery.com/), [viator.com](http://www.viator.com/), [whichairline.com](http://www.whichairline.com/). 
 
