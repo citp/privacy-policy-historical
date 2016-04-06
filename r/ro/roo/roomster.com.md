@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921234225id_/https%3A//www.roomster.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406070632id_/https%3A//www.roomster.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -30,7 +30,7 @@ Email address and full name are used when a user invites a friend via email to j
 
 * PRIVACY PROTECTION FOR CHILDREN. In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Roomster to persons under the age of thirteen (13). If Roomster later learns that any member is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to the Roomster service. 
 
-* UPDATING AND DELETING PERSONAL INFORMATION. Members can access, change and update their registration and personal information by logging onto Roomster and selecting the Edit Profile option. Users who leave the service may choose to have their personal information deleted by contacting [help@roomster.com](mailto:help@roomster.com). 
+* UPDATING AND DELETING PERSONAL INFORMATION. Members can access, change and update their registration and personal information by logging onto Roomster and selecting the Edit Profile option. Users who leave the service may choose to have their personal information deleted by logging onto Roomster, selecting the Account Settings option and selecting the Delete Account option. 
 
 * OPT-OUT OF EMAIL. Users of Roomster may choose not to receive email notifications at their registered email addresses. To opt out of the announcements, click the Account link at the top of any page, and uncheck the box next to "Send email notifications." 
 
