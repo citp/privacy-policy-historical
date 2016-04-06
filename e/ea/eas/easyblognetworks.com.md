@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyblognetworks.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206032522id_/http%3A//www.easyblognetworks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyblognetworks.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406131621id_/http%3A//www.easyblognetworks.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Blog Networks
 
@@ -10,7 +10,7 @@ When you purchase something from our website, as part of the buying and selling 
 
 When you browse our website, we also automatically receive your computer's internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-With your permission, we may send you emails about our website, new products and other updates.
+With your permission, we may send you emails about our website, new products and other updates. 
 
 ### Consent
 
@@ -68,7 +68,7 @@ By using this site, you represent that you are at least the age of majority in y
 
 ### Changes to this Privacy Policy
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. 
 
 If our website is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
