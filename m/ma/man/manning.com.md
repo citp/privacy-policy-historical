@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120075142id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manning.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406135350id_/https%3A//www.manning.com/privacy) for the most accurate reproduction.*
 
 # Manning | Privacy
 
