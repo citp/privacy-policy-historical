@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316111718id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jane.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406103558id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Jane.com
 
 This Privacy Policy governs the manner in which Jane collects, uses, maintains and discloses information collected from users (each, a "User") of the [jane.com](http://www.jane.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jane.
 
 #### Personal identification information
 
-We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 #### Non-personal identification information
 
@@ -63,7 +63,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [Jane](https://jane.com/)  
 [jane.com](https://jane.com/)  
-2600 Executive Pkwy Ste. 360  
+3401 N. Thanksgiving Way Ste. 300  
 Lehi, UT 84043  
 (801) 382-8585  
 support@jane.com  
