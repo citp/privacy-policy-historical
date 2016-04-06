@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradeshift.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018165904id_/http%3A//tradeshift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeshift.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407015235id_/http%3A//tradeshift.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tradeshift Platform : Tradeshift
+# Privacy Policy | Tradeshift Platform
 
 ## Tradeshift Privacy Policy
 
