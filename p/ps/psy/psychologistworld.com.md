@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209194040id_/http%3A//www.psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406160451id_/http%3A//www.psychologistworld.com/support/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement - Psychologist World
 
@@ -86,6 +86,10 @@ Login information required to enable subscribers to log in.
 e.g. 098f6bcd4621d373cade4e832627b4f6  
 Login information required to enable subscribers to log in.  
 
+  * pv  
+e.g. [1,2,3]  
+Pages viewed.  
+
   * Other Product Cookies: 
 
 Used to track users for purposes such as Google AdWords and Analytics.
@@ -114,8 +118,3 @@ Users of other web browsers can usually find information from the manufacturer o
 This web sites uses services provided by Live Site Help. For details of cookies and privacy policies, please [click here](http://www.livesitehelp.com/support/privacy-cookies).
 
 For more information on our cookies policy, please contact us – email support details can be found on the Contact Us page.
-
-Access hundreds of theories, approaches, study and experiment overviews, plus a range of psychology guides including _Body Language Reading_ and _How to Interpret Your Dreams_.  
-
-
- _[Psychologist World](https://web.archive.org/) is an online magazine dedicated to psychology, providing theory and experiment overviews, popular psychology articles and practical psychology guides. For details of content available with membership [click here](https://web.archive.org/sign-up/)._
