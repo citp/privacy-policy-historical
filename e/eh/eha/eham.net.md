@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eham.net privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115213205id_/http%3A//www.eham.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eham.net privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406073027id_/http%3A//www.eham.net/about/privacy) for the most accurate reproduction.*
 
 # eHam.net Privacy Statement
 
@@ -58,4 +58,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 or 
 
-eHam.net, LLC, 4600 State Route 26, Vernon, NY, 13476
+**eHam.net, LLC**  
+PO Box 1334  
+Aptos,CA  
+95001
