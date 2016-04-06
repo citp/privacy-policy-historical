@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011064628id_/http%3A//www.millsandboon.co.uk/np/Content/ContentPage/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406023444id_/https%3A//www.millsandboon.co.uk/np/Content/ContentPage/12) for the most accurate reproduction.*
 
 # Romance, fiction books and ebooks from Mills & Boon
 
@@ -17,6 +17,8 @@ HarperCollins Publishers Ltd and www.millsandboon.co.uk are totally committed t
 \- We also monitor customer traffic patterns and site usage to help us develop the design and layout of our site.
 
 \- We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services and special offers that we think you'll find useful.
+
+\- We may also approach you (ourselves or via a third party) to ask you questions to help us improve our websites and the goods and services we offer e.g. by asking you to participate in a survey about topical issues conducted by us or trusted partners or third parties. We will always let you know before you participate in any survey how any information you provide will be used.
 
 If you would rather not receive this information, please send an e-mail to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk)
 
@@ -39,7 +41,9 @@ If you do not wish to receive these emails you have the option to opt out at any
 
 ## Will we disclose the information we collect to outside parties?
 
-www.millsandboon.co.uk may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk) or dataman@hqnuk.co.uk . (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
+www.millsandboon.co.uk may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send an e-mail message to [csmillsandboon@harpercollins.co.uk](mailto:%20csmillsandboon@harpercollins.co.uk). (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
+
+The data that we collect from you may be transferred to, and stored on, servers in a country outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, maintaining our sites, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. We may also share your data with third-parties who are providing us with services to help with our business operations and provide the websites to you. Where a lawful request is made to us we also reserve the right to access and disclose your personal information to governments, law enforcement agencies or other parties whose request we reasonably consider to be justified to comply with any law.
 
 ## In Summary
 
