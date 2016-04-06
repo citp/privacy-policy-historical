@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the pagefair.com privacy policy that was archived on 2015-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909165736id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pagefair.com privacy policy that was archived on 2016-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406101322id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-        <script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/525620200.js"></script>
-        <link rel="shortcut icon" href="/static/vfeb706d/base/images/favicon.ico">
+        <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/525620200.js"></script>
+        <link rel="shortcut icon" href="/static/vd926972/base/images/favicon.ico">
         <meta name="google-site-verification" content="-DsUb0jYt6ADGqi8hwyJAkLpxEUh600u3lmtrVm0HEw">
 
         <meta http-equiv="description" content="Detect visitors to your website who use ad blockers such as adblock plus"> <meta http-equiv="keywords" content="adblock plus, ad block, adblock, detect, adblock detect, ad block detect, script, adblock script, ad block script, stop, adblock stop, ad block stop, anti, anti adblock, anti ad block">
 
         <!-- =====================================CSS============================================= -->
             <link href="//fonts.googleapis.com/css?family=Merriweather:400,300|Open+Sans:400italic,400,700" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="/static/vfeb706d/CACHE/css/acb04d6ad70b.css" type="text/css">
+        <link rel="stylesheet" href="/static/vd926972/CACHE/css/4668e92a6b2b.css" type="text/css">
         <!-- =======================================SCRIPTS============================================ -->
-        <script type="text/javascript" src="/static/vfeb706d/CACHE/js/98aeea299161.js"></script><style type="text/css"></style>
+        <script type="text/javascript" src="/static/vd926972/CACHE/js/98aeea299161.js"></script>
 
         
             <!-- Do not compress extra_scripts as the data may be user-specific -->
@@ -34,13 +34,14 @@
                 ga('send', 'pageview', data);
                 
 
-                function pf_notify(det, res){
-                    var adblock_status = 'NOT_BLOCKING';
-                    if (det){
-                        adblock_status = 'BLOCKING';
-                    }
+                function pf_notify(adblock_detected){
+                    var adblock_status = adblock_detected ? 'BLOCKING' : 'NOT_BLOCKING';
+
                     
-                    <!-- GA RPC disabled -->
+                    ga('send', 'event', 'dimension_carrier', 'set', {
+                        'dimension6': adblock_status,
+                        'nonInteraction': true
+                    })
                     
                 }
             </script>
@@ -96,7 +97,7 @@
 
             
             <div class="login_panel">
-                <div id="panel" class="msg_body" style="display: none;">
+                <div id="panel" class="msg_body">
                     <div class="container">
                         <div class="row">
                             <div class="span4">
@@ -106,7 +107,7 @@
                             <div class="span8">
 
                                 <form class="navbar-form pull-right" method="post" action="/">
-                                    <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="b6xzzPg9W2ivWBkTtfj4uOOKldBIXiCJ"></div>
+                                    <input type="hidden" name="csrfmiddlewaretoken" value="wWhqZOmjoWsXMudf9jbUxH5X3OuaWaeE">
                                     <input name="signin-email" id="signin-email" class="span2" type="text" placeholder="Email" value="">
                                     <input name="signin-password" class="span2" type="password" placeholder="Password" value="">
                                     <button type="submit" class="btn btn-primary">Log in</button>
@@ -295,4 +296,4 @@
             FreshWidget.init("", {"queryString": "&widgetType=popup&formTitle=Help+%26+Support&submitThanks=Thank+you+for+your+inquiry.++We+will+get+back+to+you+shortly.++Please+have+an+excellent+day!" + prepop_support_form, "utf8": "✓", "widgetType": "popup", "buttonType": "text", "buttonText": "Support", "buttonColor": "white", "buttonBg": "#c10543", "alignment": "2", "offset": "235px", "submitThanks": "Thank you for your inquiry.  We will get back to you shortly.  Please have an excellent day!", "formHeight": "500px", "url": "https://support.pagefair.com"});
         </script>
     
-<div id="epd"><div id="cookiesdirective" style="position: fixed; bottom: -76.9125px; left: 0px; width: 100%; height: auto; background: rgb(245, 245, 245); opacity: 0.99; color: rgb(26, 26, 26); font-family: Merriweather, serif; font-size: 13px; text-align: center; z-index: 1000; border-top: 1px solid rgb(228, 228, 228);"><div style="position:relative;height:auto;width:90%;padding:5px;margin-left:auto;margin-right:auto;">By continuing to use this website you agree to our <a href="/cookies/" target="_blank">cookie policy</a>. <input type="submit" name="impliedsubmit" id="impliedsubmit" value="OK" class="btn btn-smallest btn-primary"></div></div></div></body></html>
+</body></html>
