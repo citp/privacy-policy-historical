@@ -1,28 +1,29 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206040322id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2016-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406111701id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/" lang="en"><head>
  <!-- commonHead.jsp -->
    <meta content="IE=9" http-equiv="X-UA-Compatible">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <link rel="SHORTCUT ICON" href="http://sstk.biz/images/favicon.png">
+   <link rel="SHORTCUT ICON" href="/images/favicon.png">
 
 
       <link rel="StyleSheet" href="/stylecss.jsp?v=19false" type="text/css">
 
    <meta name="Author" content="John Weidner">
-   <link rel="apple-touch-icon" sizes="40x40" href="http://sstk.biz/images/books40x40.png">
-   <link rel="apple-touch-icon" sizes="155x155" href="http://sstk.biz/images/Study_stack155px.png">
-   <link rel="apple-touch-startup-image" href="http://sstk.biz/images/studystack320x480.png">
+   <link rel="apple-touch-icon" sizes="40x40" href="/images/books40x40.png">
+   <link rel="apple-touch-icon" sizes="155x155" href="/images/Study_stack155px.png">
+   <link rel="apple-touch-startup-image" href="/images/studystack320x480.png">
    <meta itemprop="name" content="StudyStack flashcards">
    <meta itemprop="description" content="The seriously fun way to study!!!">
-   <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+   <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
 
 
    
        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//tags-cdn.deployads.com/a/studystack.com.js" async=""></script>
    
 
+   <script async="" id="ce-widget-js" src="https://widget.campusexplorer.com/js/widget.js"></script>
 
 
    <title>Study Stack - Privacy</title>
@@ -70,7 +71,7 @@
 
       FB.init({
         appId      : '52462214664',
-        channelUrl : 'http://www.studystack.com/fbChannel.html', // Channel File
+        channelUrl : 'https://www.studystack.com/fbChannel.html', // Channel File
         status     : true, // check login status
         cookie     : true, // enable cookies to allow the server to access the session
         xfbml      : true, // parse XFBML
@@ -81,6 +82,12 @@
          top.location = '/fbConnector.jsp';
       });
 
+
+    FB.getLoginStatus(function(response) {
+        if (response.status === 'connected') {
+            top.location = '/fbConnector.jsp?originalDestination=' + top.location ;
+        }
+    }  );
 
 
    if ( typeof facebookInitPage == 'function' ) {
@@ -120,7 +127,7 @@
 
 
 
-<script src="http://sstk.biz/utils.js?v=2" type="text/javascript"></script>
+<script src="/utils.js?v=13" type="text/javascript"></script>
 
 
 
@@ -138,7 +145,7 @@
          <!-- linkUnitTop.jsp  -->
 
 <div id="homePageLogoX" onclick="window.location.href='/';" class="link">
-        <img src="http://sstk.biz/images/sslogo-noreflection.png" alt="StudyStack" width="265" height="114">
+        <img src="/images/sslogo-noreflection.png" alt="StudyStack" width="265" height="114">
 </div>
     
         <!-- connectBox.jsp   edmodoStudent = false  edmodoUser = false edmodoTeacher = false  -->   
@@ -175,7 +182,7 @@
                  <input type="text" name="id" id="id" value="" maxlength="100" placeholder="Username">
                  <label for="word" style="display:none">Password</label>
                  <input type="password" name="word" id="word" value="" size="20" maxlength="15" placeholder="Password">
-                 <input id="submitLogon" class="smallbutton" onclick="document.cookie='cookietest=1';return true;" type="submit" value="Login">
+                 <input id="submitLogon" class="smallbutton" onclick="document.cookie='cookietest=1';deleteCookiesStartingWith('fb');return true;" type="submit" value="Login">
                  <a href="/ForgotPassword.jsp" id="retrievePasswordLink">Reset Password</a>
                  <a href="https://www.studystack.com/signUp.jsp" id="signUpLink">Free Sign Up</a>
                 </div>
@@ -321,7 +328,7 @@ Phone: 405 806 0070<br>
 
 
 
-Copyright ©2001-2015&nbsp; StudyStack LLC &nbsp;
+Copyright ©2001-2016&nbsp; StudyStack LLC &nbsp;
 All rights reserved.<br>
 
 <div class="noprint">
@@ -330,7 +337,7 @@ All rights reserved.<br>
 <a href="/FAQ" title="Frequently Asked Questions">FAQ</a>&nbsp;-&nbsp;
 <a href="/Terms.jsp">Terms of Service</a>&nbsp;-&nbsp;
 <a href="/privacy.jsp">Privacy Statement</a>&nbsp;-&nbsp;
- <a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=http://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
+ <a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=https://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
 
 
 
@@ -394,7 +401,7 @@ All rights reserved.<br>
 </script>
 
 
-     <!-- mobile=false     requestCount=2 adTypes: Sortable  -->
+     <!-- mobile=false     requestCount=1 adTypes: Sortable  -->
 
 
 
