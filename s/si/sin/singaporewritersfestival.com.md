@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325022711id_/https%3A//www.singaporewritersfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporewritersfestival.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406125559id_/https%3A//www.singaporewritersfestival.com/nacswf/nacswf/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Singapore Writers Festival
+# Singapore Writers Festival - Privacy Policy
 
-###### GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
+**GOVERNMENT OF SINGAPORE PRIVACY STATEMENT**
 
   * This is a Government of Singapore website.
   * If you are only browsing this website, we do not capture data that allows us to identify you individually.
