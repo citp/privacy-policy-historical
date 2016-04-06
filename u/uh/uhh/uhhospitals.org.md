@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104103729id_/http%3A//www.uhhospitals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406184808id_/http%3A//www.uhhospitals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University Hospitals | Cleveland, OH
 
