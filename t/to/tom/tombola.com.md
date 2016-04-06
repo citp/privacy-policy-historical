@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325004554id_/https%3A//www.tombola.co.uk/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406172122id_/https%3A//www.tombola.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tombola Bingo
 
