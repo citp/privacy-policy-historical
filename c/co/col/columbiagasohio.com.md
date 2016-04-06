@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiagasohio.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065931id_/https%3A//www.columbiagasohio.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiagasohio.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406024138id_/https%3A//www.columbiagasohio.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Columbia Gas of Ohio
 
