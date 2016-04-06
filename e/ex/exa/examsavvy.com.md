@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examsavvy.com privacy policy that was archived on 2015-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150830020714id_/http%3A//examsavvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examsavvy.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407002016id_/http%3A//examsavvy.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
