@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conspiracyclub.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906052605id_/http%3A//www.conspiracyclub.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conspiracyclub.co privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406121243id_/http%3A//www.conspiracyclub.co/privacy) for the most accurate reproduction.*
 
 # Privacy | Conspiracyclub
 
@@ -10,7 +10,7 @@ If you are asked to provide information when using this website, it will only be
 
 This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **21/11/2014**
+This website privacy policy was updated on: **21/06/2015**
 
 If you have any questions about this policy, please email contact@conspiracyclub.co or write to:
 
