@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaramshop.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230065810id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaramshop.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406032246id_/https%3A//www.aaramshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # AaramShop Privacy Policy
 
@@ -73,4 +73,4 @@ AaramShop Private Limited
 Attn: Privacy  
 NH-1, Community Center, C- Block, Naraina Vihar, New Delhi - 110028, India
 
-Recent updates to this Privacy Policy: 7th July 2013. There is an earlier version of the Privacy Policy. Please read this Privacy Policy carefully.
+Recent updates to this Privacy Policy: 7th July 2013. There is an earlier version of the Privacy Policy. Please read this Privacy Policy carefully. 
