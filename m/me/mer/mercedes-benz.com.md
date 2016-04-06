@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925032500id_/https%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407001159id_/https%3A//www.mercedes-benz.com/en/mercedes-benz/providerprivacy-statement/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Mercedes-Benz
 
 ### Privacy Statement
 
 Daimler appreciates your interest in its products and your visit to this website. Your privacy is important to us and we want you to feel comfortable visiting our site. The protection of your privacy in the processing of your personal data is an important concern to which we pay special attention during our business processes. Personal data collected during visits to our websites are processed by us according to the legal provisions valid for the countries in which the websites are maintained. Our data protection policy is also based on the data protection policy applicable to Daimler. 
 
-[Daimler Data Protection Policy](http://www.daimler.com/Projects/c2c/channel/documents/916654_Daimler_Data_Protection_Policy_en.pdf).
+[Daimler Data Protection Policy](http://www.daimler.com/documents/company/other/daimler-dataprotectionpolicy-en.pdf).
 
 Daimler websites may include links to other websites which are not covered by this privacy statement. 
 
