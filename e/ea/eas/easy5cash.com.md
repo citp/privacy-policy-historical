@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy5cash.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814201757id_/http%3A//easy5cash.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy5cash.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406123404id_/http%3A//easy5cash.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Easy 5 Cash Blueprint
 
