@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the laimoon.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418122720id_/http%3A//laimoon.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laimoon.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406120252id_/https%3A//laimoon.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Discover jobs, courses and all things career : Laimoon.com : Laimoon.com
 
 **Privacy Statement**
 
 Laimoon.com (the Service) is owned and operated by Honeybee Tech Ventures Ltd  
-(the “Company”) is firmly committed to protecting the privacy of our users. We aim to provide  
+(the "Company") is firmly committed to protecting the privacy of our users. We aim to provide  
 you a secure online experience and to ensure that any information you submit to us is private and  
 used/disclosed only for the purposes and in the means described below.
 
@@ -32,7 +32,7 @@ activities.
 Members build their personal profiles on the Service through entering specific personal data,  
 making preference choices, freely answering questions or attaching their CVs.
 
-It is not the Company’s policy to seek any sensitive information through the Service  
+It is not the Company's policy to seek any sensitive information through the Service  
 unless legally required for recruitment purposes. Sensitive information includes data  
 relating to race or ethnic origin, political opinions, religious or similar beliefs, trade  
 union membership, physical or mental health, sexual life, or criminal record. We  
