@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102304id_/http%3A//www.engeniustech.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406053851id_/http%3A//www.engeniustech.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EnGenius Technologies, Inc.
 
