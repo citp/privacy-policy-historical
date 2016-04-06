@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029124621id_/http%3A//www.newsnet5.com/about-us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406060327id_/http%3A//www.newsnet5.com/about-us/privacy_policy) for the most accurate reproduction.*
 
 # newsnet5.com Privacy Policy - newsnet5.com Cleveland
 
@@ -82,7 +82,7 @@ The Services are hosted in the United States and are directed toward users who r
 
 J.          CONTACT & OPT-OUT INFORMATION
 
-You may contact us as at [Support@ewscrippsco.freshdesk.com](mailto:Support@ewscrippsco.freshdesk.com) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
+You may contact us as at [newsnet5 Support](http://support.newsnet5.com/support/tickets/new) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable.  Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Services. 
 
