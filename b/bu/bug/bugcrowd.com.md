@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212746id_/https%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406144842id_/https%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
 
 # Bugcrowd | Your Elastic Security Team, better security testing through bug bounties and managed security programs
 
@@ -57,7 +57,7 @@ Our Website may contain links to other websites that are not under our direct co
 Our affiliates and we fully comply with national laws regarding SPAM. You can always opt out of receipt of further email correspondence from us and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission. 
 
 **Privacy Policy Updates**   
-We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies. 
+We reserve the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we chose is at our sole discretion. We will also change the "Last Reviewed On" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Reviewed On date and replace any prior Privacy Policies. 
 
 **Questions About Our Privacy Practices or This Privacy Policy**   
 If you have any questions about our Privacy Practices or this Policy, please [contact us](https://web.archive.org/contact/). 
