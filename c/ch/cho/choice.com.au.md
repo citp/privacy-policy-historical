@@ -1,84 +1,103 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909213022id_/https%3A//www.choice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406201114id_/https%3A//www.choice.com.au/privacy-policy) for the most accurate reproduction.*
 
-# CHOICE privacy statement - CHOICE
+# CHOICE privacy statement
 
-This document was last updated 30 July 2015 and seeks to comply with the Australian Privacy Principles 2014 and the Mobile Privacy Guidelines September 2013 published by the Office of the Australian Information Commissioner. CHOICE may change this statement from time to time by updating this page. It is your responsibility to check this page to ensure that you are happy with any changes. This policy must be read in conjunction with the CHOICE [Terms and conditions](https://web.archive.org/terms-and-conditions). 
+As Australia's leading consumer advocate, we take protecting your privacy very seriously.  
 
-CHOICE is committed to ensuring that your privacy is secure. 
+Our Privacy Statement explains how CHOICE uses and protects any information that you give us when you use a CHOICE Site. When we're talking about a 'Site' we mean any CHOICE website, mobile site, social media site, email we send, CHOICE-delivered app or any other CHOICE platform. We have big plans afoot, so that also covers any technology we may deliver in the future. 
 
-This Privacy Statement sets out how CHOICE uses and protects any information that you give us when you use any CHOICE Site. When we refer to CHOICE Site we mean any CHOICE website, mobile site, social media site, email from CHOICE, any downloadable applications (apps) and any other CHOICE platform and/or technology whether known now or created in the future.
+The internet is an ever-evolving medium, and that means we'll need to change this page from time to time to keep up with new developments. To make sure you're doing the same, we encourage you to return here regularly. This policy partners with our [terms and conditions](https://web.archive.org/terms-and-conditions) so please get to know those too.
 
-From time to time, when you use one or more of the Sites, we may ask you to provide certain personal information to us so that we can recognise you, provide the services that you have requested of us and to communicate to you. The information may be stored by us but, will only ever be used in accordance with the terms of this privacy statement. We require this information to understand your needs and provide you with a better service. 
+### Why we collect your details
 
-### What we collect 
+Part of delivering a high quality, personalised digital experience is recognising who we're talking to, so we can provide the services that you want from us. To do that, we may need to request and store some of your private information. We know your privacy is vital, so these details will only ever be used in accordance with the terms of this privacy statement. 
 
-The information we may collect and store is limited to: 
+### What we collect
 
-  * Billing information such as your name, contact information including an email, postal address, phone number,  
-  * Any other information we deem reasonably necessary for the provision of goods and services to you. 
+We limit the information we collect to only what we think is necessary:
 
-
-
-We may collect this information via customer surveys, user reviews and opinions and through your engagement with the Sites for whether logged on or not.
-
-We may also acquire your personal details from a third party site, e.g.: [choice.good.do](http://choice.good.do/) if you have signed one of our petitions or supported our advocacy work. Your privacy and security is governed by both the third party and this Privacy Statement. This is the choice.good.do [privacy policy](http://good.do/privacy/). 
-
-### What we do with the information we gather
-
-We use the information: 
-
-  * To offer you a more personalised service and experience 
-  * For internal record keeping, such as billing 
-  * To improve our products and services 
-  * To customise the Sites according to your interests 
-  * To periodically telephone you and/or send you promotional emails, texts, faxes or mail about new products, special offers, magazines, books or other information which we think you may find interesting. We will use the email address which you have provided. 
+  * Your billing information – name, contact details including email, postal address and phone number
+  * Any other information we need to deliver goods and services to you.
 
 
 
-You may unsubscribe or opt-out from our emails at any time by following the link provided at the bottom of such emails. 
+Aside from obvious places, we may also collect this information in our customer surveys, user reviews and opinions and through your engagement with our Sites, whether logged on or not.
 
-### Sharing of information 
+We're a small organisation, so we need to work with key partners from time to time. That means we may also collect your personal details from another site if you've signed one of our petitions or supported our advocacy work. Your privacy and security in this case is covered by Do Gooder's privacy policy (read it at [Do Gooder](https://choice.good.do/privacy/)) and Engaging Networks' privacy policy (read it at [Engaging Networks](http://www.engagingnetworks.net/uk/about/policies)) as well as our own.
 
-We share non-identifiable data with third parties such as Google, Facebook, Optimisely and others. Our main technology partners are Crazy Egg, DoubleClick (inc. DoubleClick Floodlight & DoubleClick Spotlight), Google Adwords Conversion, Google Analytics, Adobe Media Optimizer, Facebook Social Plugins, Google +1, ShareThis, Optimizely, BazaarVoice, Flashtalking, Rocketfuel and Sociomantics. 
+### The big question – what we do with the data
 
-### Security 
+#### We use these details:
 
-We have put in place physical, electronic and managerial procedures to secure any information collected online from misuse, interference or loss, and in order to prevent unauthorised access, modification or disclosure to that information. We monitor new technologies and use our best endeavours to anticipate and block hackers. 
+  * to give you a more personalised service and experience
+  * for internal record keeping, such as billing
+  * to improve our products and services
+  * to customise our Sites to your interests
+  * to contact you periodically telephone you and/or send you promotional emails, texts, faxes or mail about new products, services and special offers
+  * to update you about things we're doing that you might find interesting
 
-Our main servers are located in Australia and our suppliers have servers based in Australia and overseas including the USA, Canada and Singapore. As a necessary part of doing business online, your information may be accessible to the owners of the aforementioned servers but, not in a manner that would identify you. Your information is stored on third party servers for the purposes of storage only. Nevertheless, we have used our best endeavours to ensure that any recipients of your information will not be in breach of this policy. 
 
-To the extent that information may be held in a cloud or you access an app, we have, in conjunction with our designers and third party suppliers, adopted a privacy by design approach where we have introduced privacy measures into the design of the technology we use and we are constantly improving on those designs. 
 
-As part of our contracting process with our suppliers, we have asked those suppliers to ensure that they and, where appropriate, their employees and contractors abide by the Australian Privacy Principles and the Spam Act 2003. However, if you are accessing our information from third party sites, the privacy policy of those sites applies as we have no control over the privacy protocols of those third party sites.
+While we hope you stick around for quite a while, you can unsubscribe or opt-out from our communications at any time using the link provided at bottom of all our emails or by calling 1800 069 552 or emailing ausconsumer@choice.com.au
 
-### How we use cookies 
+### Where we share your information
 
-A cookie is a text file containing a small amount of data which is downloaded to your computer or digital device when you visit one of the Sites or see one of our advertisements on the Internet. Use of cookies and tracking technologies are common place. Cookies are useful because they help arrange the content and layout of the Sites and recognise those computers or devices that have been to our Sites before. The cookie file also helps to analyse web traffic. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use cookies to identify which pages are being used and to help us to improve the Sites in order to tailor the Sites to your needs. We only use this information for statistical analysis purposes. Overall, cookies help us provide you with a better site or service, by enabling us to monitor which pages you find useful and which you do not. 
+We share non-identifiable data with third parties such as Google, Facebook, AB Tasty and others. Our main technology partners are Crazy Egg, DoubleClick (including DoubleClick Floodlight & DoubleClick Spotlight), Google Adwords Conversion, Google Analytics, Adobe Media Optimizer, Facebook Social Plugins, Google +1, ShareThis, BazaarVoice, Flashtalking, Rocketfuel, Sociomantics, Feedbackify, Loop11 and Zopim.
 
-A cookie does not give us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, if you prefer. However, this may prevent you from taking full advantage of the Sites. You can read more about cookies and [how to delete them](http://www.aboutcookies.org/DEFAULT.ASPX?page=2). 
+### Keeping your personal details safe
 
-### How we use website analytics 
+We know this is big deal. That's why we've put in place physical, electronic and managerial procedures to secure any information collected online from misuse, interference or loss. We do this to prevent unauthorised access, modification or disclosure of that information. And we continuously monitor new technologies to do our best to anticipate and block hackers.
 
-One or more of the Sites use Google Analytics, a service which transmits website traffic data to Google servers. Google Analytics does not identify individual users or associate your IP address with any other data held by Google, 3rd party platforms and/or cloud based services. We use data provided by Google Analytics to help us understand the usage habits of users and members. To ensure your privacy, we will only provide Google Analytics our internal IDs or web visitor IDs. Those IDs will not provide any identifiable personal information. The information we provide Google Analytics is only identifiable within our systems. Outside our systems, the information can't be attached to any particular customer. 
+### In the box – our servers
 
-### Other websites, platforms and technology 
+Our main servers are located in Australia. Our suppliers have servers based in Australia and overseas including the USA, Canada and Singapore. As part of doing business in the online world, your information may be accessible to the owners of these servers, but not in an identifiable format. Your information is stored on third party servers for the purposes of storage only. Nevertheless, we have used our best endeavours to ensure that any recipients of your information will not be in breach of this policy. 
 
-We also use interfaces with social media sites such as Facebook, Twitter, Instagram and others. If you choose to “follow” us, "like" or "share" information from a social media site you should review the privacy policy of the social media site(s). If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to one or more sites with other personal information. 
+### Information in the cloud
 
-One or more of the Sites may contain links to other websites of interest. However, once you have used these links please note that we do not have any control over that other website and we do not endorse or condone its content. We cannot be responsible for the protection and privacy of any information which you provide whilst visiting other sites that are not governed by this Privacy Statement. Please exercise caution and look at the privacy statement applicable to the website in question. 
+When this information is stored in a cloud, or you access an app, we've adopted a privacy-by-design approach. In plain English that means building privacy measures into the design of the technology we use. And we're continuously working with our third party suppliers to make these better. 
 
-### Controlling and accessing your personal information 
+Part of contracting process is making sure these suppliers and their employees and contractors abide by the _Australian Privacy Principles_ and the _Spam Act 2003._ You should know that if you're accessing our information from third party sites, the privacy policy of those sites applies, not our own.
 
-You may restrict the collection or use of your personal information at any time. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at privacy@choice.com.au with the subject heading “Details Correction”. 
+### How we use cookies
 
-We will not sell or lease your personal information to third parties except for CHOICE’s direct marketing purposes, where we have your permission, or where we are required by law to do so. 
+Nope, not biscuits. A cookie is a text file containing a small amount of data which is downloaded to your computer or digital device when you visit one of the Sites or see one of our ads on the internet. 
 
-We may send you promotional information about third parties which we think you may find interesting unless you tell us that you do not wish for this to happen. We take all reasonable steps to ensure your information is as accurate and up to date as possible. However, if you believe that any information we are holding about you is incorrect or incomplete, please email us as soon as possible at privacy@choice.com.au with the subject heading “Details Correction”. We will promptly correct any information found to be incorrect. There is no charge for this correction. 
+Cookies and tracking technologies are everywhere. We use cookies to improve and tailor our website to your needs. They're useful because they help us arrange the content and layout of our Sites and recognise computers or devices that have visited us before. The cookie file also helps us better analyse our web traffic. This information doesn't identify you personally, and is used for statistical analysis and to help us personalise the content we deliver to you. 
 
-You may request details of the personal information which we hold about you under the Australian Privacy Principles unless prescribed by laws or regulations. If you would like a copy of the information held on you please email us at privacy@choice.com.au with the subject heading “Request for Personal Information”. 
+And we don't have to use them. 
 
-### If you wish to make a complaint
+Your browser has probably automatically accepted cookies, but you can usually modify your settings to decline cookies. Note that if you do that, this might stop you from taking full advantage of our Sites. Read more on cookies and [how to delete them](http://www.aboutcookies.org/DEFAULT.ASPX?page=2).
 
-If you believe any of our services breach the Australian Privacy Principles, or a relevant code, please email us at privacy@choice.com.au with the subject heading “Privacy Complaint”. 
+### How we use our data
 
-We will respond to your complaint as soon as possible, at least within 30 calendar days. If you feel that we have not adequately addressed your complaint, or you receive no response after 30 calendar days, you may make a complaint to the Office of the Australian Information Commissioner (OAIC). Please see their [guide](http://www.oaic.gov.au/privacy/privacy-resources/privacy-guides/) for more details.
+One or more of our Sites use Google Analytics (GA), a service which transmits website traffic data to Google servers. GA doesn't identify you personally, or associate your IP address with any other data held by Google, third party platforms and/or cloud-based services. 
+
+We use data provided by GA to help us understand the usage habits of users and members. To keep your details anonymous, we'll only provide GA with our internal IDs or web visitor IDs. Those IDs don't provide any identifiable personal information. The information we share with GA is only identifiable within our systems. Outside our systems, the information can't be attached to any particular member or user.
+
+### Other websites, platforms and technology
+
+We're also present on social media sites like Facebook, Twitter, Instagram, Google+ and Vine. We hope you join the conversation there, but it's important to know if you "follow" us, "like" or "share" information you'll be covered by that site's privacy policy. And if you're a member of one of these sites, they may be able to connect your visits to one or more sites with other personal information. 
+
+Our Sites may also contain links to other websites we think will improve your reading experience. Once you've jumped ship, please remember we don't have any control over that other website and we don't endorse or condone its content. 
+
+We have limited control over information you give when visiting other sites that's not governed by this Privacy Statement. So be alert, but not alarmed, and look at the privacy statement applicable to the website. 
+
+### The reins are in your hands 
+
+You're able to restrict the collection or use of your personal information at any time.
+
+If you've previously agreed to us using your personal information for direct marketing purposes, you can change your mind at any time by writing to or emailing us at _privacy@choice.com.au_ with the subject heading "Details Correction".
+
+We will not sell or lease your personal information to third parties, except for CHOICE's direct marketing purposes, where we have your permission, or where we're required by law to do so. We may send you promotional information about third parties which we think you may find interesting. But again, you can also tell us you don't want this to happen. 
+
+We take all reasonable steps to ensure your information is accurate and up to date. If you think any information we're holding about you is incorrect or incomplete, please email _privacy@choice.com.au_ with the subject heading "Details Correction". We will promptly correct any information found to be incorrect. There is no charge for this correction.
+
+You're also entitled to access this personal information as set out in _Australian Privacy Principles,_ unless prescribed by laws or regulations. If you'd like a copy of what we're storing, email us at _privacy@choice.com.au_ with the subject heading "Request for Personal Information".
+
+### If you're unhappy
+
+We hope you're not, but if you believe any of our services breach the Australian Privacy Principles, or a relevant code, please email us _at_ _privacy@choice.com.au_ with the subject heading "Privacy Complaint". 
+
+We'll reply to your complaint as soon as possible, no later than 30 calendar days. If you think we haven't adequately addressed your complaint, or you receive no response after 30 calendar days, you can make a complaint to the Office of the Australian Information Commissioner (OAIC). Please see their [guide](http://www.oaic.gov.au/privacy/privacy-resources/privacy-guides/) for more details.
+
+_This document was last updated 4 December 2015 and seeks to comply with the Australian Privacy Principles 2014 and the Mobile Privacy Guidelines September 2013 published by the Office of the Australian Information Commissioner._
