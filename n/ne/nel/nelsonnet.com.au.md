@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nelsonnet.com.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628214848id_/http%3A//cengage.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelsonnet.com.au privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406120927id_/https%3A//cengage.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Cengage Learning Australia
 
@@ -32,7 +32,7 @@ Information gathered through cookies and by our web server logs may include the 
 
 In order to access or buy some of our products and services you understand and agree that you may be asked to provide Personal Identifying Information as part of a registration process and at other points, and that we will store information that you provide. In the course of our business we will use that information in aggregated form to provide statistical user data to assist our understanding of the usage of our products and services. 
 
-At various points in using our websites you may also need to provide additional Personal Identifying Information so that we can perform tasks you request, such as fulfilling orders. During the registration process, you are given the opportunity to indicate whether you want us or our partners to contact you about, our sites, our other products and services, or products and services from other companies, or whether you do not want to receive any such notices. We will not disclose to third parties any specific Personal Identifying Information about you without your permission.
+At various points in using our websites you may also need to provide additional Personal Identifying Information so that we can perform tasks you request, such as fulfilling orders. We will not disclose to third parties any specific Personal Identifying Information about you without your permission.
 
 You understand and agree that we may use your Internet Protocol (IP) address to identify your geographical location and that this may be used, for example, to diagnose and resolve problems accessing our products and services or in aggregate to understand where our products and services are being used. Your IP address may also be used when you are buying our products to ensure that you only buy products that we are entitled to sell in your location.
 
