@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702012749id_/https%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406152335id_/https%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cityblis
 
