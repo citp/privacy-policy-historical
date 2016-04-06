@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103192828id_/http%3A//www.auntminnie.com/index.asp%3FSec%3Dabt%26Sub%3Dfaq%26Pag%3Ddis%26ItemId%3D52788) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407000052id_/http%3A//privacy.auntminnie.com) for the most accurate reproduction.*
 
-# Radiology, FAQ
+# Radiology, News, Education, Service
 
-  
-Frequently Asked Questions  
- **Privacy Policy**  
-March 15, 2004As you know, we collect and, in some cases, disclose information about you as part of the normal operation of our site. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some information we collect from you is disclosed to third parties and used by us and third parties. When you use the AuntMinnie.com ("AuntMinnie") site, you expressly consent to such use and disclosure of your information. 
+As you know, we collect and, in some cases, disclose information about you as part of the normal operation of our site. This Privacy Policy describes the information we collect about you and what may happen to that information. As described below, some information we collect from you is disclosed to third parties and used by us and third parties. When you use the AuntMinnie.com ("AuntMinnie") site, you expressly consent to such use and disclosure of your information. 
 
 AuntMinnie may amend this Privacy Policy at any time by posting the amended policy on the AuntMinnie site, and such amendments will become effective upon posting. 
 
