@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the logentries.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182457id_/https%3A//logentries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logentries.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407010028id_/https%3A//logentries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Logentries Log Management
 
-Effective Date: 8-26-2015
+Effective Date: 10-13-2015
 
 This privacy policy describes for users of the Logentries.com website (the “Website”) what information we may collect from users (each, a “Customer”, “You”, “you”, “Your” or “your”) and how we collect, store, and protect such information. Should you have any further questions please do not hesitate to contact us.
 
 **1.WHO WE ARE**
 
-1.1. The Website and the Logentries products and services (the “Service”) are provided by RevelOps, Inc., trading as Logentries.com, a Delaware based corporation, and RevelOps Ireland Limited, an Irish registered private limited company, Registered Company Number 481775 which has its registered office at 111 Delwood Walk, Castleknock, Dublin 15, Ireland (collectively, “we”, “us”, “Logentries”). Our principal place of business is 34 Farnsworth Street, Boston, MA, 02210, USA, and we can be contacted at the contact points listed on the Website.
+1.1. The Website and the Logentries products and services (the “Service”) are provided by Rapid7 Ireland Limited, an Irish registered private limited company, Registered Company Number 481775 which has its registered office at 111 Delwood Walk, Castleknock, Dublin 15, Ireland (collectively, “we”, “us”, “Logentries”). We can be contacted at the contact points listed on the Website.
 
 **2\. OUR ROLE AS DATA PROCESSORS; INFORMATION WE COLLECT**
 
@@ -24,7 +24,7 @@ This privacy policy describes for users of the Logentries.com website (the “We
 
 **3\. HOW WE USE THE INFORMATION WE COLLECT**
 
-3.1. We will use and retain Customer Information in our role as a “data controller” as defined in the DPA solely for the purpose of providing you with the Service as further described in our website and in our Terms of Service contained within the Logentries website. Click [here](https://web.archive.org/terms/ "Terms & Conditions") to review the Agreement.
+3.1. . We will use and retain Customer Information in our role as a “data controller” as defined in the DPA solely for the purpose of providing you with the Service as further described in our website and in our Terms of Service contained within the Logentries website. Click [here](https://web.archive.org/terms/ "Terms & Conditions") to review the Agreement.
 
 3.2. We may also create statistical, aggregated data relating to our Customers and the Website for analytical purposes. Aggregated data may be derived from Customer Information, log data provided by Customers and/or Third Party Personal Data but in its aggregated form will not identify any individual. This data is used to understand our customer base and to develop, improve and market the Service.
 
@@ -100,4 +100,4 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 **13\. CONTACT INFORMATION**
 
-13.1. Logentries welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [info@logentries.com](mailto:info@logentries.com) or contact us at the following address: RevelOps, Inc., Attn: PrivacyDepartment, 34 Farnsworth St, Boston, MA, USA 02210.
+13.1. Logentries welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [info@logentries.com](mailto:info@logentries.com)
