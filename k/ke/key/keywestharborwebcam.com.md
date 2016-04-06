@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywestharborwebcam.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001504id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywestharborwebcam.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406081424id_/http%3A//www.ptztv.com/about-us/privacy) for the most accurate reproduction.*
 
 # PTZtv - Scenic Webcam Solutions - Privacy
 
