@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922064147id_/http%3A//www.graphicstock.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicstock.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406042303id_/https%3A//www.graphicstock.com/documents/GraphicStock/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Download Unlimited Stock Images and Graphics
+# Privacy Policy
 
 Effective on July 23, 2014
 
@@ -41,13 +41,11 @@ We use this information to
   * Conduct research and analysis
   * Display content based upon your interests
 
-
-
 **Choice/Opt-Out**
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@graphicstock.com](mailto:support@graphicstock.com).
 
-To opt-out of GraphicStock data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.graphicstock.com/optout.html).
+To opt-out of GraphicStock data collection for targeted advertising on other sites, click here: [Opt Out Now](https://www.graphicstock.com/unsubscribe).
 
 **Information Obtained from Third Parties**
 
