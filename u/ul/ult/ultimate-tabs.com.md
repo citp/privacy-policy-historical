@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimate-tabs.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726002109id_/http%3A//www.ultimate-tabs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimate-tabs.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406023407id_/http%3A//www.ultimate-tabs.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Ultimate-Tabs
 
@@ -34,5 +34,5 @@ We also include web beacons (also known as clear GIFs or web bugs) in our emails
 
 **11\. Policy changes:** By using The Ultimate-Tabs website you agree to the terms of this privacy policy and our terms of use. We may amend this privacy policy and the terms of use from time to time. If we do so, we will post an updated version on the FM Store. You will be bound by the new terms upon your continued use of The Ultimate-Tabs website.
 
-**12\. Contact details:** You are entitled to ask for a copy of the information we hold about you and to have any inaccuracies in your information corrected. If you have any general questions about The Ultimate-Tabs website, you can contact us [here](https://web.archive.org/web/20150726002109id_/http%3A//www.ultimate-tabs.com/contact.htm).   
+**12\. Contact details:** You are entitled to ask for a copy of the information we hold about you and to have any inaccuracies in your information corrected. If you have any general questions about The Ultimate-Tabs website, you can contact us [here](https://web.archive.org/web/20160406023407id_/http%3A//www.ultimate-tabs.com/contact.htm).   
  
