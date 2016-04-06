@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504050741id_/http%3A//www.afteroffers.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407002748id_/http%3A//afteroffers.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Privacy & Terms - AfterOffers
 
 After Offers provides a way for you, the website visitor, to request information from related companies with complementary products and services to that of the website you are visiting.
 
@@ -27,8 +27,8 @@ While After Offers takes all reasonable measures to protect the information you 
 
 You can obtain a copy of your personally identifiable information stored by After Offers or request the permanent removal of your information from the After Offers database by any one of the following:
 
-1) Emailing privacy@afteroffers.com  
-2) Calling 1-949-391-1171  
+1) Email: privacy@afteroffers.com  
+2) Phone: 1-949-829-3409  
 3) Writing to us at:
 
 Ideas For Download, LLC  
@@ -36,4 +36,4 @@ dba After Offers
 30251 Golden Lantern #E-358  
 Laguna Niguel, CA 92677
 
-After Offers does not send emails directly, so you will need to also unsubscribe from the advertisers you selected through the After Offers platform via their own unsubscribe links in their emails or contacting them directly. 
+After Offers does not send any marketing emails directly, so you will need to also unsubscribe from the advertisers you selected through the After Offers platform via their own unsubscribe links in their emails or contacting them directly. 
