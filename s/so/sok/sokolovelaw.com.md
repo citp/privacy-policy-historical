@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sokolovelaw.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530065642id_/http%3A//www.sokolovelaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokolovelaw.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406153055id_/http%3A//www.sokolovelaw.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Share This:
 
 Thank you for visiting one of the websites of Sokolove Law, LLC and Sokolove Law, LLP. Our websites provide information about the legal services that we offer, provide general information and resources, and allow you to contact us.
 
