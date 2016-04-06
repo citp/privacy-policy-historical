@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the remind.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905063837id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remind.com privacy policy that was archived on 2016-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406135816id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e7df510e0f","applicationID":"7473657","transactionName":"JV0KEkdbX1UEQU15DwJWCANCVUFcTmEDVw1JYAUFXg4JdQ5QA1gPHFcANUFVR1ACHAFVCgo=","queueTime":1,"applicationTime":1,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQECVFdSGwQEU1JUAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e7df510e0f","applicationID":"7473657","transactionName":"JV0KEkdbX1UEQU15DwJWCANCVUFcTmEDVw1JYAUFXg4JdQ5QA1gPHFcANUFVR1ACHAFVCgo=","queueTime":2,"applicationTime":1,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQECVFdSGwQEU1JUAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e7df510e0f","applicationID":"7473657","transactionName":"JV0KEkdbX1UEQU1mBwVZSytcUFdVBF4DWlxccxQWWV1QWBVaDVpcXH8NAlFYVlQAXSNEFgpbBwdBXVxXUBwBVQoK","queueTime":0,"applicationTime":68,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQECVFdSGwQEU1JUAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-    <title>Privacy policy | Remind</title>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e7df510e0f","applicationID":"7473657","transactionName":"JV0KEkdbX1UEQU1mBwVZSytcUFdVBF4DWlxccxQWWV1QWBVaDVpcXH8NAlFYVlQAXSNEFgpbBwdBXVxXUBwBVQoK","queueTime":0,"applicationTime":17,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQECVFdSGwQEU1JUAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+    <title>Privacy Policy | Remind</title>
     <meta content="Read about how we protect personal information." name="description">
     <meta content="Remind" name="author">
     <meta content="Remind" property="og:site_name">
-    <meta content="Privacy policy" property="og:title">
+    <meta content="Privacy Policy" property="og:title">
     <meta content="https://d3498ple9xfqkw.cloudfront.net/common/logos/1200x630.png" property="og:image">
     <meta content="Read about how we protect personal information." property="og:description">
     <meta content="app-id=522826277" name="apple-itunes-app">
@@ -31,13 +31,10 @@
     <meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
     <link href="//d3498ple9xfqkw.cloudfront.net/common/logos/favicon.ico" rel="icon">
     <link href="//d3498ple9xfqkw.cloudfront.net/common/logos/apple-touch-icon.png" rel="apple-touch-icon">
+    <link color="#4a89dc" href="//d3498ple9xfqkw.cloudfront.net/common/logos/mask-icon.svg" rel="mask-icon">
     <link href="/manifest.json" rel="manifest">
-    <link href="https://d138ozz5asdy96.cloudfront.net/stylesheets/site-b65592b6.css" rel="stylesheet" type="text/css">
-    <script src="//use.typekit.net/opd4cyi.js"></script>
-    <script>
-      try{Typekit.load();}catch(e){}
-    </script>
-    <script src="https://d138ozz5asdy96.cloudfront.net/javascripts/vendor/modernizr.min-4657c43f.js" type="text/javascript"></script>
+    <link href="https://d1k0yfk0qqfx22.cloudfront.net/stylesheets/site-11d3608c.css" rel="stylesheet" type="text/css">
+    <script src="https://d1k0yfk0qqfx22.cloudfront.net/javascripts/vendor/modernizr.min-4657c43f.js" type="text/javascript"></script>
   </head>
   <body class="privacy-policy util">
     <header class="header" id="header">
@@ -45,285 +42,283 @@
         <div class="container container---full">
           <a class="header--brand" href="/"></a>
           <nav class="header--nav">
-            <a class="sign-in-btn btn btn---link" href="https://www.remind.com/classes/">Sign In</a>
-            <a class="btn btn---primary" href="/?sign-up=true">Sign Up</a>
+            <a class="sign-in-btn btn btn---text" href="https://www.remind.com/classes/">Log in</a>
+            <a class="btn btn---primary" href="/?sign-up=true">Sign up</a>
           </nav>
         </div>
       </div>
     </header>
     <main class="main">
-      <div class="content-header">
-        <h1>Privacy policy</h1>
-      </div>
+      <header class="content-header">
+        <div class="content-header--inner">
+          <div class="container">
+            <h1>Privacy Policy</h1>
+          </div>
+        </div>
+      </header>
       
       <div class="content">
         <div class="container">
-          <nav class="nav-sidebar">
-        <a href="/terms-of-service">Terms of service</a>
-        <a href="/privacy-policy">Privacy policy</a>
-        <a href="/community-guidelines">Community guidelines</a>
-        <a href="http://help.remind.com">FAQ</a>
-        <a href="mailto:contact@remind.com">Contact us</a>
+          <nav class="nav---sidebar">
+        <a class="nav---sidebar--item" href="/terms-of-service">Terms of Service</a>
+        <a class="nav---sidebar--item" href="/privacy-policy">Privacy Policy</a>
+        <a class="nav---sidebar--item" href="/community-guidelines">Community Guidelines</a>
+        <a class="nav---sidebar--item" href="https://help.remind.com">Help center</a>
+        <a class="nav---sidebar--item" href="mailto:contact@remindhq.com" target="_blank">Contact</a>
       </nav>
       
       
-          <div class="content-column">
+          <div class="content-column article-copy">
             <div class="columns columns---loose">
-              <section class="column---2-3 column---desktop-1">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <p>
-                  At Remind101, Inc. (“Remind,” “we,” “us,” “our”), we know you care about how your personal information is used and shared, and we take your privacy seriously. Please read on to learn more about our Privacy Policy. By visiting Remind’s website at
-                  remind.com
-                  or any of our other websites, applications, domain names or other linked pages, or using any of our services (collectively, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Services, you are consenting to have your personal data transferred to and processed in the United States.
+                  At Remind101, Inc. (“Remind,” “we,” “us,” “our”), we know you care about how your personal information is used and shared, and we take your privacy seriously. Please read on to learn more about our Privacy Policy. By visiting Remind’s website(s) and all other products, services and applications made available by Remind from time to time (collectively, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Services, you are consenting to have your personal data transferred to and processed in the United States.
+                </p>
+                <p>
+                  All capitalized terms that are not defined in this Privacy Policy shall have the meaning given to them in the Terms of Use.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  Your privacy is very important to us. This policy tells you how your personal information is used after you create a Remind account. By using Remind, you acknowledge that you’ve read and accepted these policies.
+                  Your privacy is very important to us. This policy tells you how your personal information is used when you use Remind’s Services. By using Remind, you acknowledge that you’ve read and accepted these policies.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <p>
-                  Remind has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to facilitate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through the Services. If you have questions or complaints regarding our privacy policy or practices, please contact us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>.
-                  If you are not satisfied with our response, you can <a href="https://feedback-form.truste.com/watchdog/request">contact TRUSTe here</a>.
+                  Remind is a messaging platform that helps educators, students, parents and other users send quick, simple messages to any device. Remind has been awarded TRUSTe’s Privacy and Children’s Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to facilitate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program only covers information collected through the Services. If you have questions or complaints regarding our privacy policy or practices, please contact us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  If you are not satisfied with our response, you can
+                  <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">contact TRUSTe here</a>.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   Remind respects your information and treats it carefully. We’ve been certified by both
-                  <a href="http://www.truste.com/products-and-services/program-descriptions">TRUSTe</a> and <a href="https://privacy.truste.com/privacy-seal/Remind101/validation?rid=520fc732-f08d-46ea-953b-edabdf58d5ea">Children’s Privacy Seal</a>.
+                  <a href="http://www.truste.com/products-and-services/program-descriptions" target="_blank">TRUSTe</a>
+                  and
+                  <a href="https://privacy.truste.com/privacy-seal/Remind101/validation?rid=520fc732-f08d-46ea-953b-edabdf58d5ea" target="_blank">Children’s Privacy Seal</a>.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <p>
-                  You are responsible for any Content (as that term is defined in our
-                  <a href="/terms-of-service">Terms of Service</a>)
-                  you provide in connection with the Services. We cannot control the actions of users with whom you or any Services subscribers may choose to share information. Therefore, we cannot and do not guarantee that Content you or any user posts on the Services will not be viewed by unauthorized persons. Although we may allow our users to set privacy options that limit access to certain parts of the Services, please be aware that no security measures are perfect or impenetrable and that we are not responsible for circumvention of any security measures contained on the Services. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached pages and archives or if other users have copied or stored your Content.
+                  You are responsible for any Content you provide in connection with the Services. We cannot control the actions of anyone with whom you or any other Remind users may choose to share information. Therefore, we cannot and do not guarantee that Content you or any user posts on the Services will not be viewed by unauthorized persons. Although we may allow our users to set privacy options that limit access to certain parts of the Services, please be aware that no security measures are perfect or impenetrable and that we are not responsible for circumvention of any security measures contained on the Services. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached pages and archives or if other users have copied or stored your Content.
                 </p>
-      
                 <p>
-                  You may request removal of your Personal Information by contacting us at <a href="mailto:contact@remind.com">contact@remind.com</a>.
-                  We will remove the information that you request from our database, but this information may remain in our server logs as part of our standard backup procedures.
+                  You may request removal of Personal Information (as described below) that you have provided to us by contacting us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  We will remove your Personal Information from our database on your request, but this information may remain in our server logs as part of our standard backup procedures. A verified Organization administrator or Organizer may be able to upload and provide information about you to your account; if you would like to remove or amend that information, you may have to contact and work directly with that administrator or Organizer.
                 </p>
-      
                 <p>
                   Any improper collection or misuse of Content or other information accessible on the Services is a violation of
-                  <a href="/terms-of-service">Remind’s Terms of Service</a> and should be reported to <a href="mailto:report@remind.com">report@remind.com</a>.
+                  <a href="/terms-of-service">Remind’s Terms of Service</a>
+                  and should be reported to
+                  <a href="mailto:report@remindhq.com">report@remindhq.com</a>.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   Please keep in mind that you’re responsible for the content of your account and all your messages. You can request that your account is deleted by contacting us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>, but Remind is not responsible for what subscribers may do with your sent messages.
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>,
+                  but Remind is not responsible for what other Remind users may do with your sent messages.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>What does this privacy policy cover?</h3>
-      
                 <p>
-                  This Privacy Policy explains how Remind collects and uses information from you and other users who access or use the Services, including our treatment of personally identifiable information (“Personal Information”). References to “Personal Information” in this Privacy Policy shall apply to personal information of individual users of the Services. Also, this Privacy Policy covers Remind’s treatment of any Personal Information that our partners share with us, or that you provide to Remind through a third party website or service using a Remind application. This policy does not apply to websites or services or practices of companies that we do not own or control.
+                  This Privacy Policy explains how Remind collects and uses information from you and other users who access or use the Services, including our treatment of personally identifiable information (“Personal Information”). Also, this Privacy Policy covers Remind’s treatment of any Personal Information that our partners share with us, or that you provide to Remind through a third party website or service while using the Services. This policy does not apply to websites, services or practices of companies that we do not own or control, even if they help us operate our Services.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   Here’s what this policy covers: all information that you provide to us and that we collect while you’re using Remind. This policy doesn’t cover 3rd party companies that we don’t control but who help us operate our service. Keep reading, there’s more about this later!
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div id="coppa" class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>How is children’s personal information treated?</h3>
-      
                 <p>
-                  We have included some information below related to the Children’s Online Privacy and Protection Act (“COPPA”). COPPA requires that online service providers obtain parental consent or provide notice before they knowingly collect personally identifiable information online from children who are under 13 (“under age users”). Pursuant to COPPA, we may collect an underage user’s name (first name and last initial), date of birth, email address and/or telephone number in order to operate and provide the Remind Services, and we may collect the underage user’s parent’s (or legal guardian’s) email address in order to provide notice to parents that we may contact their underage user for the purpose of providing the Services. If Remind does not receive the parent’s email address within a reasonable time period, the underage user will not be able to receive any messages and
-                  <strong>his/her personally identifiable information will be deleted.</strong>
-                  If an underage user’s Remind account is inactive for at least twelve months (meaning, the account has not received a message through the Services in that period of time), Remind’s policy is to delete the personally-identifiable information. If we learn we have collected Personal Information from an underage user other than pursuant to the above, or if we learn that an underage user has provided us personal information beyond what we request from him or her, we will delete that information as quickly as possible. If you believe that an underage user may have provided us personal information in violation of this paragraph, please contact us at
-                  <a href="mailto:report@remind.com">report@remind.com</a>.
+                  We have included some information below related to the Children’s Online Privacy and Protection Act (“COPPA”). COPPA requires that online service providers obtain parental consent or provide notice before they knowingly collect personally identifiable information online from children who are under 13 (“underage users”). Pursuant to COPPA, we may collect an underage user’s name (first name and last initial), date of birth, email address and/or telephone number in order to operate and provide the Services, and we may collect the underage user’s parent’s (or legal guardian’s) email address in order to provide notice to the child’s parent or guardian that we may contact the underage user for the purpose of allowing access to and use of the Services. If Remind does not receive the parent’s email address within a reasonable time period, the underage user will not be able to receive any messages and
+                  <strong>his/her personally identifiable information will be deleted</strong>.
+                  If an underage user’s Remind account is inactive for at least twelve months (meaning, the account has not received a message through the Services in that period of time), Remind’s policy is to delete the Personal Information. If we learn we have collected Personal Information from an underage user other than pursuant to the above, or if we learn that an underage user has provided us Personal Information beyond what we request from him or her, we will delete that information as quickly as possible after we have identified it. If you believe that an underage user may have provided us Personal Information in violation of this paragraph, please contact us at
+                  <a href="mailto:report@remindhq.com">report@remindhq.com</a>.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  Remind collects limited personal information from users under 13, and notifies a parent or guardian when collecting personal information from users under 13 years old. We will delete their personal information if the child’s account does not have an associated email address from a parent or guardian, or if the account has been inactive for at least 12 months. Any questions or concerns? Just email us!
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>
+                  Remind collects limited Personal Information from users under 13, and notifies their parent or guardian when collecting Personal Information. We delete an underage user’s account if we do not have a parent or guardian’s associated email address, or if the account has been inactive for at least 12 months. Any questions or concerns? Just email us!
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>What information does Remind display or collect?</h3>
-      
                 <p>
-                  When you use the Services, you may set up your personal profile, send messages, perform searches and queries, and transmit information through various channels as permitted by the functionality of the Services. Remind will not share personal contact information between Organizers and Subscribers (as those terms are defined in
-                  <a href="/terms-of-service">Remind’s Terms of Service</a>) without user permission. The information we gather from users enables us to verify user identity and allows our users to set up a user account and profile through the Services, and helps us personalize and improve our services. We retain such information to provide the Services to you and our other users and to provide a useful user experience. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+                  When you use the Services, you may set up your personal profile, send messages, perform searches and queries, and transmit information through various channels as permitted by the functionality of the Services. Remind will not display your personal contact information to other users without your permission. The information we gather from users enables us to verify user identity, allows our users to set up a user account and profile through the Services, and helps us personalize and improve our Services. We retain this information to provide the Services to you and our other users and to provide a useful user experience. When you update your information, we usually keep a backup copy of the prior version for a reasonable period of time in case you need to need to go back to that version.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  Information you provide to Remind by creating an account (or when joining a class) is used to operate our service. For example, we use this information to verify user identity and help users create an account on Remind. Remind will not share personal contact information, besides full names, between Organizers and Subscribers without user permission.
+                  The information you provide to us by creating an account (or when joining a class or group) is used to deliver our service to you. For example, we use this information to verify your identity and help you create an account on Remind. We will not share personal contact information, besides your full name, to other users on Remind without your permission.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>Information You Provide to Us:</h3>
-      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Information you provide to us</h3>
                 <p>
-                  We receive and store any information you knowingly enter on the Services, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. This information may include Personal Information such as your name, phone number(s), email address(es), photograph(s), and, in certain circumstances, your school, club, or organization affiliation (which may be used to validate your account) or to provide you with notifications via the Services from a teacher, school and/or district, club or team (“Notifications”), or any other information necessary for us to provide our services. For underage users, we collect a name (first name and last initial), date of birth, email address and/or telephone number, and that underage user’s parent’s email address, to provide notice to parents regarding the service. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. We use the Personal Information we receive about you to enable us to provide you with the Services and also for purposes such as:
+                  We receive and store any information you knowingly enter on the Services, whether via computer, mobile phone, other wireless device, or that you provide to us in any other way. With your express consent, you may be able to upload, import or sync contact information from your mobile device (for example, from your address book) to Remind. This information may include Personal Information such as your name, phone numbers, email addresses, photographs, and, in certain circumstances, your school and/or district, class, group, club, team or Organization affiliation (which may be used to validate your account or to provide you with notifications via the Services from a teacher, school and/or district, class, group, club, team or affiliated Organization (“Notifications”)), or any other information necessary for us to provide our Services. For underage users, we collect a name (first name and last initial), date of birth, email address and/or telephone number, and that underage user’s parent’s email address to provide notice to the parent regarding the Services. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. We use the Personal Information we receive about you to provide you with the Services and also for purposes such as:
                 </p>
-      
-                <ul class="list-bulleted block copy">
+                <ul>
                   <li>authenticating your identity,</li>
                   <li>responding to your requests for certain information,</li>
                   <li>customizing the features that we make available to you,</li>
-                  <li>improving internal operations (including troubleshooting, testing, and analyzing usage),</li>
+                  <li>suggesting relevant services or products for you to use,</li>
+                  <li>improving the Services and internal operations (including troubleshooting, testing, and analyzing usage),</li>
                   <li>communicating with you about new features</li>
                   <li>and, most importantly, protecting our users and making sure our Services are safe and secure.</li>
                 </ul>
-      
                 <p>
-                  You may modify or remove your Personal Information identified below at any time by logging into your account and accessing features to edit your classes, groups, and/or account information.
+                  You may modify or remove your Personal Information at any time by logging into your account and accessing features to edit your classes, groups, and/or account information.  If an Organizer or a verified Organization administrator uploads or adds information about you to your account, you may have to contact and work directly with that Organizer or administrator in order to modify or remove that information.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  The information you provide to Remind is also used to analyze usage and improve our product. We don’t show or share your personal information except in the few circumstances described here. We may also review account information to protect the safety of our community.
+                  The information you provide to Remind is also used to analyze usage and improve our products and services. We don’t show or share your personal information without your permission except in the few circumstances described here. We may also review account information to protect the safety of our community.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>Information Collected Automatically:</h3>
-      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Information collected automatically</h3>
                 <p>
-                  We receive and store certain types of information whenever you interact with the Services. Remind automatically receives and records information on our server logs from your browser including your IP address, Remind cookie information, the page you requested, and other usage information such as your activity on the Services, the numbers and frequency of visitors to our site and its components (similar to TV ratings that indicate how many people watched a particular show). None of this information constitutes Personal Information. Certain information that is collected automatically, such as device ID and phone number, will be treated as Personal Information.
+                  We receive and store certain types of information whenever you use the Services. Remind automatically receives and records information on our server logs from your browser including your IP address, Remind cookie information, the page you requested, and other usage information such as your activity on the Services, the numbers and frequency of visitors to our site and its components (similar to TV ratings that indicate how many people watched a particular show). None of this information constitutes Personal Information. Certain information that is collected automatically, such as device ID and phone number, will be treated as Personal Information.
                 </p>
-      
                 <p>
-                  We also may provide to our partners aggregate information derived from such automatically collected information about how our users, collectively, use our site. We may share this type of non-personally identifiable, aggregated statistical data so that our partners also understand how often people use our partners’ services as well as the Services.
+                  We also may provide to our partners aggregate information derived from automatically collected information about how our users, collectively, use our site. We may share this type of non-personally identifiable, aggregated statistical data so that our partners also understand how often people use their services as well as Remind.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  There is certain information that we gather automatically when you use Remind, such as your IP address and cookie information. We still treat this as personal information and are very careful with it.
+                  There is certain information that we gather automatically when you use Remind, such as your IP address and cookie information. Some of this information is collected and used in an aggregate and anonymized way to help improve our service. If Personal Information is included, we treat it carefully like all other Personal Information.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h4>Mobile Application:</h4>
-      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h4>Mobile application</h4>
                 <p>
-                  When users use our mobile application, we automatically collect IP address, device ID, device type, what OS users are running. If you create an account through an SMS invitation, we may ask you for your mobile phone number (even if you already have signed up for the Services through a different mechanism such as your browser).
+                  When users use our mobile application, we automatically collect the IP address, device ID, device type, and what OS the user is running. If you create an account through an SMS invitation, we may ask you for your mobile phone number (even if you have already signed up for the Services some other way such as through your browser).
                 </p>
-      
                 <p>
                   We collect users’ IP addresses whenever they use our mobile application, which provides us with a coarse approximation of the user’s location at the city level in order for Remind to, for example:
                 </p>
-      
-                <ul class="list-bulleted block copy">
-                  <li>provide Organizers with a generic phone number in a local area code,</li>
+                <ul>
+                  <li>provide Organizers with a geo-specific long-code (ie, generic phone number with a local area code),</li>
                   <li>support features such as school selection, and</li>
                   <li>enable other internal measurement and Services features.</li>
                 </ul>
-      
                 <p>
-                  We also may, with your express consent, request more specific location information in order to provide you with more relevant information (such as nearby classes or relevant groups to which you may subscribe to). We will not store or track your device location on an on-going basis or without your permission. We may also collect location-based information from users as part of providing the Services and in order to comply with applicable laws and regulations for the user’s jurisdiction.
+                  We also may, with your express consent, request more specific location information in order to provide you with more relevant information (such as nearby classes or relevant groups that you may subscribe to). We will not store or track your device location on an on-going basis or without your permission. We may also collect location-based information from users as part of providing the Services and in order to comply with applicable laws and regulations for the user’s jurisdiction.
                 </p>
-      
                 <p>
-                  Remind does not automatically collect or store phone numbers of first-time underage users unless he/she has previously used the Services over SMS and we have notified his/her parent; however, if the underage user has properly signed up for the Services through SMS and then downloaded the Services mobile application, Remind will have the underage user’s phone number and may use it:
+                  Remind does not automatically collect or store phone numbers of first-time underage users unless he/she has previously used the Services over SMS and we have notified his/her parent; however, if the underage user has properly signed up for the Services through SMS and then downloaded Remind’s mobile application, Remind will have and may use the underage user’s phone number:
                 </p>
-      
-                <ul class="list-bulleted block copy">
+                <ul>
                   <li>to merge the underage user’s accounts,</li>
                   <li>to continue SMS delivery services, and/or</li>
-                  <li>as a back up method of notification.</li>
+                  <li>as a back-up method of notification.</li>
                 </ul>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   When you use the Remind app, there may be additional information that we collect like your device ID, phone number and approximate location.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>Email and Text Message Communications:</h3>
-      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Email and text message communications</h3>
                 <p>
-                  If you provide us your email address or phone number, Remind may send you administrative messages (such as updates, Notifications, newsletters, and other news) relating to the Services or to respond to communications from you. By maintaining a Remind account and/or not opting out of the receipt of information from Remind, you acknowledge and agree that you may receive e-mail or text messages on your phone or mobile communications device from Remind and/or its Agents (as defined below). The receipt of such messages may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply. We may receive a confirmation when you open an email from us if your computer supports this type of program. We only send these types of communications to underage users upon providing notice to the parent. If you no longer wish to receive administrative email messages from Remind you may opt-out by following the unsubscribe link located at the bottom of each message or by emailing us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes.
+                  If you provide us your email address or phone number, Remind may send you administrative messages (such as updates, Notifications, newsletters, and other news) relating to the Services or to respond to communications from you. By maintaining a Remind account and/or not opting out of receiving information from Remind, you acknowledge and agree that you may receive e-mail or text messages on your phone or mobile device from other Remind users, from Remind and/or its agents (as described below) and third parties if you choose to use services or products that they offer. Receiving these messages may cause you to incur usage charges or other fees or costs in accordance with your wireless or data service plan. Any and all such charges, fees, or costs are your sole responsibility. You should consult with your wireless carrier to determine what rates, charges, fees, or costs may apply. We may receive a confirmation when you open an email from us if your computer supports this type of program. We only send the communications described above to an underage user upon providing notice to the parent. If you no longer wish to receive administrative email messages from Remind you may opt-out by following the unsubscribe link located at the bottom of each message or by emailing us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing the legal notices for changes.
                 </p>
-      
                 <p>
                   To permanently cease receiving SMS text messages, please follow the instructions below:
                 </p>
-      
-                <ul class="list-bulleted block copy">
+                <ul>
                   <li>
                     <p>
                       If you are located in the US or Canada, text STOP, CANCEL, or UNSUBSCRIBE:
                     </p>
-      
-                    <ul class="list-bulleted block copy">
-                      <li>in reply to any SMS message from that group,</li>
+                    <ul>
+                      <li>in reply to any SMS message from that class/group,</li>
                       <li>to a Remind long-code (a phone number issued by Remind), or</li>
                       <li>in the US, to the Remind short code 81010.</li>
                     </ul>
                   </li>
-      
                   <li>
                     <p>
-                      To stop receiving messages from a specific class or group, text UNSUBSCRIBE @class or group code to a Remind long-code (a phone number issued by Remind), or in the US, to the Remind short code 81010.
+                      To stop receiving messages from a specific class or group, text LEAVE @class or group code to a Remind long-code (a phone number issued by Remind), or in the US, to the Remind short code 81010.
                     </p>
                   </li>
-      
                   <li>
                     <p>
                       If you are an international user located anywhere outside of the US, please
-                      <a href="https://remind101.zendesk.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages">click here</a>
+                      <a href="https://help.remind.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages">click here</a>
                       to learn how to unsubscribe from receiving messages.
                     </p>
                   </li>
@@ -332,302 +327,328 @@
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  There may be times when we send you administrative messages regarding Remind. You can opt out of or unsubscribe from receiving these messages.
-                  <a href="https://remind101.zendesk.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages">Click here.</a>
+                  We may send you administrative messages regarding Remind. You can opt out of or unsubscribe from receiving these messages by
+                  <a href="https://help.remind.com/hc/en-us/articles/202540968-How-do-I-opt-out-of-receiving-messages">clicking here</a>.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>Push Notifications</h3>
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Push notifications</h3>
                 <p>
-                  We send notices to Subscribers when the Organizer has posted something new within the group to which they belong. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user, you always have the choice to no longer allow your child to receive such communications by contacting us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>.
-                  Any user may email us at <a href="mailto:contact@remind.com">contact@remind.com</a> if such user no longer wishes to receive communications from the Services.
+                  We send notices to you when an Organizer of your class or group has posted something new to your class or group. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user, you always have the choice to no longer allow your child to receive such communications by contacting us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  Any user may email us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>
+                  if such user no longer wishes to receive communications from the Services.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  There are different notification options. We may send you push notifications from group Organizers; you can always opt out of these.
+                  There are different notification options. We may send push notifications to your class; you can always opt out of these.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>What about cookies, Pixels and Local Storage?</h3>
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>What about cookies, pixels and local storage?</h3>
       
                 <p>
                   Cookies are small files that websites place on your computer as you browse the web. Like many websites, Remind uses cookies to discover how people are using our Services and to make them work better.
                 </p>
-      
                 <p>
-                  A pixel is a small amount of code on a web page or in an email notification. As many services do, we (or our Agents) may use pixels to learn whether you’ve interacted with certain of web or email content on our Services. This helps us measure and improve our Services and personalize your experience on Remind.
+                  A pixel is a small amount of code on a web page or in an email notification. As many services do, we (or our agents) may use pixels to learn whether you’ve interacted with certain of web or email content on our Services. This helps us measure and improve our Services and personalize your experience on Remind.
                 </p>
-      
                 <p>
                   Local storage is an industry-standard technology that allows a website or application to store information locally on your computer or mobile device. We use local storage to customize what we show you based on your past interactions with Remind.
                 </p>
-      
                 <p>
                   Remind uses these technologies to deliver, measure, and improve our Services in various ways. These uses generally fall into one of the following categories:
                 </p>
       
-                <ul class="list-bulleted block copy">
+                <ul>
                   <li>
-                    <h4>Authentication and security:</h4>
-      
-                    <ul class="list-bulleted block copy">
+                    <h4>Authentication and security</h4>
+                    <ul>
                       <li>
                         <p>
                           To log you into Remind.
                         </p>
                       </li>
-      
                       <li>
                         <p>
                           To protect your security.
                         </p>
                       </li>
-      
                       <li>
                         <p>
-                          To help us detect and fight spam, abuse, and other activities that violate the Remind Rules.
+                          To help us detect and fight spam, abuse, and other activities that violate the Remind’s policies.
+                        </p>
+                        <p>
+                          For example, these technologies help authenticate your access to Remind and prevent unauthorized parties from accessing your account.
                         </p>
                       </li>
                     </ul>
-      
-                    <p>
-                      For example, these technologies help authenticate your access to Remind and prevent unauthorized parties from accessing your account. They also let us show you appropriate content through our Services.
-                    </p>
                   </li>
       
                   <li>
-                    <h4>Preferences:</h4>
-      
-                    <ul class="list-bulleted block copy">
-                      <li>To remember information about your browser and your preferences.</li>
-                    </ul>
-      
+                    <h4>Preferences</h4>
+                    <p>
+                      To remember information about your browser and your preferences.
+                    </p>
                     <p>
                       For example, cookies may help us remember your preferred language or country that you are in. We can then provide you with Remind content in your preferred language without having to ask you each time you visit Remind. We can also customize content based on your country, such as disabling SMS, or to withhold certain content based on applicable local laws.
                     </p>
                   </li>
       
                   <li>
-                    <h4>Analytics and research:</h4>
-      
-                    <ul class="list-bulleted block copy">
-                      <li>To help us improve and understand how people use our Services.</li>
-                    </ul>
-      
+                    <h4>Analytics and research</h4>
+                    <p>
+                      To help us improve and understand how people use our Services.
+                    </p>
                     <p>
                       For example, cookies help us test different versions of our services to see which particular features or content users prefer. We might also optimize and improve your experience on Remind by using cookies to see how you interact with our services, such as when and how often you use them and what links you click on. We may use Google Analytics to assist us with this.
                     </p>
+                    <p>
+                      Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Services’ features without cookies enabled. Note that the use of cookies by third parties is not covered by our privacy policy. We do not have access or control over those cookies.
+                    </p>
                   </li>
                 </ul>
+              </section>
       
+              <section class="column---1-3 column---desktop-1">
+                <h5>What this is saying</h5>
                 <p>
-                  Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because you will not be able to log in or use many of the Services’ features without cookies enabled. Note that the use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+                  Cookies are bits of information that tell us you’ve visited Remind before and help the browser remember things about you (such as your language setting). Our cookies do not collect any personal information from you. This only applies to Remind cookies and no one else’s.
+                </p>
+              </section>
+            </div>
+      
+            <hr>
+      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Mobile analytics</h3>
+                <p>
+                  We use mobile analytics software to allow us to better understand the functionality and improve the performance of our mobile software on your phone. This software may collect, store and use information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. This software may share information it collects with other third parties as part of providing the analytics services and to comply with applicable laws.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
-                <p>
-                  Cookies are bits of information that tell us you’ve visited Remind before and helps the browser remember things about you such as language setting. Our cookies do not collect any personal information from you. This only applies to Remind cookies and no one elses.
-                </p>
-              </section>
-      
-              <hr>
-      
-              <section class="column---2-3 column---desktop-1">
-                <h3>Mobile Analytics</h3>
-      
-                <p>
-                  We use mobile analytics software to allow us to better understand the functionality and performance of our mobile software on your phone. This software may collect, store and use information such as how often you use the application, the events that occur within the application, usage, performance data, and where the application was downloaded from. This software may share information it collects with other third parties as part of providing the analytics services and to comply with applicable laws.
-                </p>
-              </section>
-      
-              <section class="column---1-3 column---desktop-1">
-                <h5>What this is saying</h5>
-      
                 <p>
                   When you use the Remind app on your phone or tablet, we have analytics that help us understand how you use the app. This helps us improve the features &amp; design!
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>What happens when I associate my account with a school or other organization?</h3>
-      
                 <p>
-                  All users have the choice of associating their account with a school or other organization. This may be required (for example) for teachers and may be either required or strongly encouraged for other types of Organizers (as defined in the
-                  <a href="/terms-of-service">Terms of Service</a>) in order to use certain features of the Services. By doing so, you are aware that an administrator, principal, technology specialist, or other party authorized by the school or organization may be able to view your Content upon proper validation of such person’s credentials. As an Organizer, you also acknowledge that Remind may enable other persons who are associated with the same organization to contact each other -- for example, teachers, students, or parents who are associated with the same school or district. By associating your account with an organization, those persons may be able to view Content already in the account as well as future submissions and Content. Remind will endeavor to notify Organizers (and/or relevant Subscribers) upon making that Content available. In addition, these persons may be able to make administrative changes to your account, such as, but not limited to, adding subscribers, removing subscribers, sending messages on your behalf and more. They will not be able to delete Content already submitted.
+                  Users may have the choice of associating their account with a school or other Organization (such as a team or group). This may be required (for example) for teachers and may be either required or strongly encouraged for other types of Organizers in order to use certain features of the Services.
+                </p>
+                <p>
+                  By associating your account with an Organization, you acknowledge and agree that a verified Organization administrator, principal, technology specialist, or other party authorized by the school or organization (such as Organizers associated with the same Organization) may be able to view your User Submissions (including your Personal Information and messaging content but not your personal contact information). In addition, verified Organization administrators and Organizers may be able to make administrative changes to your account, such as, adding, removing, or moving you from classes and/or groups, sending messages on your behalf, and more.
+                </p>
+                <p>
+                  If you are an Organizer affiliated with an Organization, you acknowledge that Remind may enable other users who are associated with the same Organization to contact you -- for example, teachers, students, or parents who are associated with your Organization may communicate with you. Participants may also contact each other (in addition to viewing User Submissions).   Remind does not display in a user’s account profile personal contact information of the user to any other users without prior consent.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  If you are an educator employed by a school or associated with an organization, we encourage you to link to your school/organization. Linking helps to verify your identify and may unlock certain features in the product.
+                  You may be required to link your account with an Organization. Linking helps to verify your identity and may unlock certain features. If your Organization is managed by a verified administrator, they may also have access to certain information in your Remind account. We will not display your personal contact information to other users without your permission.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>Will Remind share any of the personal information it receives?</h3>
-      
                 <p>
-                  Remind relies on its users to provide accurate Personal Information in order to provide our Services. We try our best to protect that information and make sure that we are responsible in handling, disclosing, and retaining your data. We neither rent nor sell your Personal Information to anyone (but remember that if other Remind users or third parties have access to your Personal Information, they may use and share your information in ways that Remind cannot, and does not, control). However, we share your Personal Information in personally identifiable form as described below.
+                  Remind relies on its users to provide accurate Personal Information in order to provide our Services. We try our best to protect that information and make sure that we are responsible in handling, disclosing, and retaining your data. We neither rent nor sell your Personal Information to anyone. If other Remind users or third party products you choose to use have access to your Personal Information (for example, your messaging content), they may use and share that information in ways that Remind cannot, and does not, control. Remind shares your Personal Information in personally identifiable form as described below.
                 </p>
       
-                <h4>Agents and Service Providers</h4>
-      
+                <h4>Agents and third party service providers</h4>
                 <p>
-                  Advertising is not permitted on the Services. However, we employ other companies and people to perform tasks on our behalf and may need to share your information with them (and for them to use that information) in order to provide aspects of our Services to you. Some examples of services for which we may use agents include sending email or SMS, analyzing data, and providing user services. These agents may use Personal Information we share with them, for example, to assist us, to provide their services to you and/or us, and to measure and improve the performance of their services.
-                  Please see <a href="https://remind101.zendesk.com/hc/en-us/articles/203025679-How-is-my-information-used-in-order-for-Remind-to-operate-the-service" target="_blank">here</a> for further information about the identity of the essential agents we use as part of the Services (including any specific terms or policies that are applicable to them and that may govern use of your information). You hereby consent to our sharing of information about you (which may include  Personal Information) for such purposes.
+                  Advertising is not permitted on the Services. However, we employ other companies to perform tasks on our behalf and help us provide certain features of our Services, and may need to share your information with those companies in order to provide our Services to you. Some examples of services for which we use agents include sending email or SMS, analyzing data, and providing user services. These agents may use Personal Information we share with them, for example, to assist us, to provide their services to you and/or us, and to measure and improve the performance of their services. Please see
+                  <a href="https://help.remind.com/hc/en-us/articles/203025679-How-is-my-information-used-in-order-for-Remind-to-operate-the-service">here</a>
+                  for further information about the agents we use as part of the Services (including any of their specific terms or policies that are applicable and that may govern use of your information). You hereby consent to our sharing of information about you (including, in some cases, Personal Information) for such purposes.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   Remind does not rent or sell your personal information. We may share your information to provide certain parts of the Remind service, only as provided in this policy. If you have any questions, please reach out to us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>.
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Business transfers</h3>
                 <p>
-                  <i>Business Transfers:</i>
-                  If Remind or substantially all of its assets were acquired, user information would be one of the assets transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Remind may continue to use your Personal Information as set forth in this policy. You will be notified via email and/or a prominent notice on the Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. In the unlikely event that Remind goes out of business, we will protect your information and delete your information.
+                  If Remind (or substantially all of its assets) is acquired by another company, user information may be one of the assets transferred to or acquired by that company. You acknowledge that such a transfer may occur, and that any acquirer of Remind may continue to use your Personal Information as set forth in this policy. You will be notified via email and/or a prominent notice on the Services of any change in ownership or uses of your personal information, as well as any choices you may have regarding your Personal Information (including the right to delete your information). If Remind goes out of business without a successor, Remind would delete your information.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  If our company is bought by someone else, we may need to provide your information to that company. We will be sure to let you know if this ever happens.
+                  If Remind is bought by another company, we may need to provide your information to that company. We will be sure to let you know if this ever happens so you can make decisions about your personal information.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Protection of Remind and others</h3>
                 <p>
-                  <i>Protection of Remind and Others:</i>
                   We may release Personal Information when we believe in good faith that release is necessary to:
                 </p>
-      
-                <ul class="list-bulleted block copy">
-                  <li>comply with the law, such as complying with a subpoena or other legal process;</li>
-      
+                <ul>
                   <li>
-                    enforce or apply our <a href="/terms-of-service">Terms of Service</a> and other agreements; or
+                    comply with the law (for example, responding to a subpoena or other legal process);
                   </li>
-      
-                  <li>protect the rights, property, or safety of Remind, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.</li>
+                  <li>
+                    enforce or apply our
+                    <a href="/terms-of-service">Terms of Service</a>
+                    and other agreements; or
+                  </li>
+                  <li>
+                    protect the rights, property, or safety of Remind, our employees, our users, or others. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.
+                  </li>
                 </ul>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   We may release your personal information if necessary to protect our community (for example, to comply with legal requests).
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>With your consent</h3>
                 <p>
-                  <i>With Your Consent:</i>
-                  Except as set forth herein or where Remind determines necessary in order to comply with law or legal process, you will be notified when your Personal Information may be shared with third parties, and you will be given the option to prevent the sharing of this information unless required by law or legal processes.
+                  Except as set forth herein or where Remind determines necessary in order to comply with applicable laws or legal processes, you will be notified when your Personal Information may be shared with third parties, and you will be given the option to prevent the sharing of this information unless required by law or legal processes.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  If there is any other reason we need to share your personal information (other than with our 3rd party services or for legal reasons), we will get your consent first.
+                  If there is any other reason we need to share your personal information (other than for legal reasons), we will get your consent first.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>Is information about me secure?</h3>
-      
                 <p>
-                  If you have created a Remind account, your account Personal Information is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+                  If you have created a Remind account, the Personal Information in your account is protected by a password for your privacy and security. You may help protect against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
                 </p>
-      
                 <p>
-                  Remind endeavors to protect user information to ensure that user account information is kept private, however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures we use in connection with the Services, please contact us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>.
+                  Remind endeavors to protect user information and to ensure that user account information is kept private; however, we cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. For additional information about the security measures we use in connection with the Services, please contact us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
                 </p>
-      
                 <p>
                   When you enter information within the login portion of our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
                 </p>
-      
                 <p>
-                  The Services contain links to other sites or services. Remind is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Services.
+                  The Services contain links to other sites or services. Remind is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Services.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   The security of your personal information is extremely important to us and we take measures internally to make sure your information is safe with us.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
-                <h3>Social Media (Features) and Widgets</h3>
-      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
+                <h3>Third party services, social media features and widgets</h3>
                 <p>
-                  Our Services may include social media features, such as the Facebook “Like” button, and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+                  You may be able to access certain third party products through Remind’s Services (such as, a third party payment platform to facilitate your collection and processing of payments). Payment processing services on Remind are provided by Stripe and are subject to the
+                  <a href="https://stripe.com/connect/account-terms" target="_blank">Stripe Connected Account Agreement</a>,
+                  which includes the
+                  <a href="https://stripe.com/terms/" target="_blank">Stripe Terms of Service</a>
+                  (collectively, the “Stripe Services Agreement”). By agreeing to the Agreement, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of Remind enabling payment processing services through Stripe, you agree to provide Remind with accurate and complete information about you and your entity (if applicable), and you authorize Remind to share it and transaction information related to your use of the payment processing services provided by Stripe.
+                </p>
+                <p>
+                  Third party products you choose to use on Remind may need to collect and use your Personal Information in order to provide their services to you; in order to use any third party products, you must review and agree to their specific terms and privacy policies.
+                </p>
+                <p>
+                  Our Services may also include social media features, such as the Facebook “Like” button, and widgets, such as the “Share this” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
                 </p>
               </section>
       
-              <hr>
+              <section class="column---1-3 column---desktop-1">
+                <h5>What this is saying</h5>
+                <p>
+                  You may choose to use third party products while using Remind. Since these third party products are considered outside of Remind’s core services (and are not covered by our Privacy Policy), you will need to review and agree to their terms before using their products.
+                </p>
+              </section>
+            </div>
       
-              <section class="column---2-3 column---desktop-1">
+            <hr>
+      
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>What information can I access and modify?</h3>
-      
                 <p>
                   As a Remind account holder, you have access to view and update the following information at your discretion:
                 </p>
-      
-                <ul class="list-bulleted block copy">
-                  <li>information in your user account (such as your email address),</li>
-                  <li>subscriber names,</li>
-                  <li>user preferences,</li>
-                  <li>organization (or school) affiliation, and</li>
-                  <li>content in your account (note that once provided, you may not be able to edit or remove certain types of content, such as messages)</li>
+                <ul>
+                  <li>
+                    information in your user account (such as your email address),
+                  </li>
+                  <li>
+                    Participant names,
+                  </li>
+                  <li>
+                    user preferences,
+                  </li>
+                  <li>
+                    organization (or school) affiliation, and
+                  </li>
+                  <li>
+                    content in your account (note that once provided, you may not be able to edit or remove certain types of content, such as messages)
+                  </li>
                 </ul>
-      
                 <p>
                   This list may change as the Services change.
                 </p>
@@ -635,63 +656,64 @@
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   You may access and change certain information that you enter into your Remind account.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>How do I delete my account?</h3>
-      
                 <p>
-                  As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain Remind features.
-                </p>
-      
-                <p>
-                  You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as messages.
-                </p>
-      
-                <p>
-                  You may request deletion of your Remind account by emailing <a href="mailto:contact@remind.com">contact@remind.com</a>.
-                  Please note that certain information may remain in our records, server logs and archives after deletion of your account. Remind retains this information for purposes such as diagnosing problems with the service and for auditing legal investigations, but reserves the right to delete this information in accordance with its standard business practices in effect from time to time. Further, information and other content you have provided may remain visible elsewhere to the extent such content was copied or stored by other users.
-                </p>
-      
-                <p>
-                  For under age users with an account that is inactive for twelve months or more (meaning the account has not received a message through the Services in that time), Remind’s policy is to disable access to Personal Information associated with that  account.
+                  You can always opt not to disclose information, even though it may be needed to take advantage of certain Remind features.
                 </p>
                 <p>
-                  If yours or your child’s personal information changes, or if you no longer desire our Service, wish to refuse further contact by Remind with your child, you may review, correct, update, delete inaccuracies, request deletion of your child’s information, or amend it by contacting us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a> or by logging into your account. We will respond to your request as quickly as possible.
+                  You are able to add or update certain information on pages, such as those listed in the “What Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records. Certain types of communication you send to other users cannot be removed, such as message content.
                 </p>
-      
                 <p>
-                  We will retain yours or your child’s information for as long as your account is active or as needed to provide Services. If you wish to cancel yours or your child’s account or request that we no longer use the information to provide Services, contact us at
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>.
+                  You may request deletion of your Remind account by accessing your account online or emailing
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  Note, if you are a Participant or Organizer and you request to delete your account, Remind may notify the Organization and the Organizer(s) of the classes and/or groups you are affiliated with of your deletion request. Please note that certain information may remain in our records, server logs and archives after deletion of your account. Remind retains this information for purposes such as diagnosing problems with the service and for auditing legal investigations, but reserves the right to delete this information in accordance with its standard business practices in effect from time to time. Further, information and other content you have provided may remain visible elsewhere to the extent such content was copied or stored by other users.
+                </p>
+                <p>
+                  For under age users with an account that is inactive for twelve months or more (meaning the account has not received a message through the Services in that time), Remind’s policy is to disable access to Personal Information associated with that account.
+                </p>
+                <p>
+                  If your or your child’s Personal Information changes, or you no longer desire to use our Services, or you would like to refuse Remind to further contact your child, you may review, correct, update, delete inaccuracies, request deletion of your child’s information, or amend it by logging into your account and making those changes or contacting us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  We will respond to your request as quickly as possible.
+                </p>
+                <p>
+                  We will retain your or your child’s information for as long as your account is active or as needed to provide the Services. If you wish to cancel your or your child’s account or request that we no longer use you information to provide Services, contact us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
                   Note we will retain and use information, for example, to comply with our audit and legal obligations, to resolve disputes, and to enforce our agreements.
+                </p>
+                <p>
+                  If the information you are requesting to delete was uploaded or otherwise provided by a verified administrator of an Organization to which you belong (for example, through CSV or SIS integration), then you must request deletion of that information directly from the Organization. Remind may inform the Organizer(s) and/or Organization(s) you are affiliated with when you request to delete your Remind account.
                 </p>
               </section>
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
-                  As an Organizer or teacher, you may delete your account at any time by logging in online. As a Subscriber, such as a student or parent, please email
-                  <a href="mailto:contact@remind.com">contact@remind.com</a> to delete your account. Once deleted, we do keep a copy of message history and other account information for your convenience and safety. Certain accounts are fully deleted after 12 months of inactivity.
+                  On Remind, you have control over your personal information. As an Organizer or Participant, you may delete your account at any time by logging in online. You also have the option to email us directly at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>
+                  to delete your account.
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>Changes to this privacy policy</h3>
-      
                 <p>
-                  We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (using the e-mail address specified in your account) or by posting a notice on the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+                  We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (using the e-mail address specified in your account) or by posting a notice on the Services prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
                 </p>
-      
                 <p>
                   If we make material changes to the types of Personal Information we collect or how we use Personal Information collected from underage users we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child’s Personal Information.
                 </p>
@@ -699,21 +721,24 @@
       
               <section class="column---1-3 column---desktop-1">
                 <h5>What this is saying</h5>
-      
                 <p>
                   If we update this Privacy Policy, we will let you know!
                 </p>
               </section>
+            </div>
       
-              <hr>
+            <hr>
       
-              <section class="column---2-3 column---desktop-1">
+            <div class="columns columns---loose">
+              <section class="column---2-3 column---desktop-1 row---desktop">
                 <h3>Questions or concerns</h3>
       
                 <p>
                   If you have any questions or concerns regarding privacy at Remind or
-                  <a href="/">remind.com</a>, please send us a detailed message to
-                  <a href="mailto:contact@remind.com">contact@remind.com</a>. We will make every effort to resolve your concerns.
+                  <a href="/">remind.com</a>,
+                  please send us a detailed message to
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>.
+                  We will make every effort to resolve your concerns.
                 </p>
               </section>
       
@@ -721,13 +746,14 @@
                 <h5>What this is saying</h5>
       
                 <p>
-                  We encourage you to contact us at <a href="mailto:contact@remind.com">contact@remind.com</a> if you have any questions or concerns about how we use your information.
+                  We encourage you to contact us at
+                  <a href="mailto:contact@remindhq.com">contact@remindhq.com</a>
+                  if you have any questions or concerns about how we use your information.
                 </p>
               </section>
-      
-              <hr>
             </div>
       
+            <hr>
       
             <div id="b4f6d148-4e02-44b4-889f-3da92c468310">
               <script src="//privacy-policy.truste.com/privacy-seal/Remind101/asc?rid=b4f6d148-4e02-44b4-889f-3da92c468310"></script>
@@ -755,12 +781,12 @@
                 <a href="/teach-small">#TeachSmall</a>
               </li>
               <li class="footer--nav--list--item">
-                <a href="/school-leaders">School Leaders</a>
+                <a href="/schools">Remind for Schools</a>
               </li>
             </ul>
             <ul class="footer--nav--list">
               <li class="footer--nav--list--item">
-                <a href="http://help.remind.com">Help center</a>
+                <a href="https://help.remind.com">Help center</a>
               </li>
               <li class="footer--nav--list--item">
                 <a href="/resources">Resources</a>
@@ -782,72 +808,74 @@
             </ul>
             <ul class="footer--nav--list---secondary footer--nav--list">
               <li class="footer--nav--list--item">
-                <a href="mailto:contact@remind.com">Contact</a>
+                <a href="https://help.remind.com/hc/en-us/requests/new?ticket_form_id=75133">Contact</a>
               </li>
               <li class="footer--nav--list--item">
-                <a href="/privacy-policy">Privacy policy</a>
+                <a href="/privacy-policy">Privacy Policy</a>
               </li>
               <li class="footer--nav--list--item">
-                <a href="/terms-of-service">Terms of service</a>
+                <a href="/terms-of-service">Terms of Service</a>
               </li>
             </ul>
           </nav>
-          <form action="/locale" class="footer--lang-dropdown" id="lang" method="POST" name="form" novalidate="">
-            <label class="hidden" for="lang-locale">translation missing: en.language</label>
-            <div class="lang-dropdown dropdown dropup" id="lang-dropdown">
-              <button class="btn dropdown-btn" data-toggle="dropdown" type="button">
-                <i class="icon-world"></i>
-                <span id="lang-dropdown-btn-val">English (US)</span>
-                <i class="icon-arrow-rounded-up"></i>
+          <form action="/locale" class="footer--locale-dropdown" id="locale" method="POST" name="form" novalidate="">
+            <label class="hidden">Language</label>
+            <div class="locale-dropdown dropdown" id="locale-dropdown">
+              <button class="btn dropdown--btn dropdown-btn footer--locale-dropdown--btn locale-dropdown--btn" data-toggle="dropdown" type="button">
+                <i aria-hidden="true" class="remicon---world"></i>
+                <span id="locale-dropdown--btn--text">English (US)</span>
+                <i aria-hidden="true" class="remicon---arrow-rounded-up"></i>
               </button>
-              <ul class="dropdown-menu">
-                <li class="active">
-                  <button data-locale="en" type="button">English (US)</button>
-                </li>
-                <li class="">
-                  <button data-locale="en-GB" type="button">English (UK)</button>
-                </li>
-                <li class="">
-                  <button data-locale="es-ES" type="button">‪Español (España)‬</button>
-                </li>
-                <li class="">
-                  <button data-locale="es-419" type="button">Español (Lat. Am.)</button>
-                </li>
-                <li class="">
-                  <button data-locale="de" type="button">Deutsch</button>
-                </li>
-                <li class="">
-                  <button data-locale="fr-FR" type="button">Français (France)</button>
-                </li>
-                <li class="">
-                  <button data-locale="fr-CA" type="button">Français (Canada)</button>
-                </li>
-                <li class="">
-                  <button data-locale="pt-BR" type="button">Português (Brasil)</button>
-                </li>
-                <li class="">
-                  <button data-locale="zh-Hans" type="button">中文 (简体)</button>
-                </li>
-              </ul>
+              <div class="locale-dropdown--menu dropdown--menu dropdown-menu">
+                <ul class="dropdown--menu--list">
+                  <li class="active dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="en" type="button">English (US)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="en-GB" type="button">English (UK)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="es-ES" type="button">‪Español (España)‬</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="es-419" type="button">Español (Lat. Am.)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="de" type="button">Deutsch</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="fr-FR" type="button">Français (France)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="fr-CA" type="button">Français (Canada)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="pt-BR" type="button">Português (Brasil)</button>
+                  </li>
+                  <li class="dropdown--menu--list--item">
+                    <button class="dropdown--menu--list--btn" data-locale="zh-Hans" type="button">中文 (简体)</button>
+                  </li>
+                </ul>
+              </div>
             </div>
-            <input id="lang-locale" name="locale" type="hidden">
+            <input id="locale--code" name="locale" type="hidden">
           </form>
           <div class="footer--nav-social">
-            <a class="footer--nav-social--item footer--nav-social--item---facebook" href="https://facebook.com/remindhq">Facebook</a>
-            <a class="footer--nav-social--item footer--nav-social--item---twitter" href="https://twitter.com/remindhq">Twitter</a>
-            <a class="footer--nav-social--item footer--nav-social--item---instagram" href="https://instagram.com/remindhq">Instagram</a>
-            <a class="footer--nav-social--item footer--nav-social--item---pinterest" href="https://pinterest.com/remindhq">Pinterest</a>
-            <a class="footer--nav-social--item footer--nav-social--item---youtube" href="https://youtube.com/remindhq">YouTube</a>
-            <a class="footer--nav-social--item footer--nav-social--item---linkedin" href="https://www.linkedin.com/company/remind101">LinkedIn</a>
-            <a class="footer--nav-social--item footer--nav-social--item---google-plus" href="https://plus.google.com/+remindhq">Google+</a>
-            <a class="footer--nav-social--item footer--nav-social--item---rss" href="http://blog.remind.com/feed">RSS</a>
+            <a class="footer--nav-social--item icon---facebook" href="https://facebook.com/remindhq">Facebook</a>
+            <a class="footer--nav-social--item icon---twitter" href="https://twitter.com/remindhq">Twitter</a>
+            <a class="footer--nav-social--item icon---instagram" href="https://instagram.com/remindhq">Instagram</a>
+            <a class="footer--nav-social--item icon---pinterest" href="https://pinterest.com/remindhq">Pinterest</a>
+            <a class="footer--nav-social--item icon---youtube" href="https://youtube.com/remindhq">YouTube</a>
+            <a class="footer--nav-social--item icon---linkedin" href="https://www.linkedin.com/company/remind101">LinkedIn</a>
+            <a class="footer--nav-social--item icon---google-plus" href="https://plus.google.com/+remindhq">Google+</a>
+            <a class="footer--nav-social--item icon---rss" href="http://blog.remind.com/feed">RSS</a>
           </div>
           <div class="footer--util">
             <i class="footer--util--brand"></i>
             ©
             <strong>
               Remind101
-              2015
+              2016
             </strong>
             All rights reserved.
           </div>
@@ -856,15 +884,26 @@
     </footer>
     
     <div class="hide" id="pinterest-imgs"></div>
-    <div id="fb-root"></div>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script onload="if (typeof module !== &quot;undefined&quot;) {$ = jQuery = module.exports;}" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+      if (window.require) {
+        var nativeRequire = window.require;
+        window.require = function(moduleName) {
+          if (moduleName === 'jquery') {
+            return window.$;
+          } else {
+            return nativeRequire.apply(window, arguments);
+          }
+        }
+      }
+    </script>
     <script>
       window._trackJs = {
         token: 'd248cb2ca2594a50bbea1e9a9fe6b801',
         application: 'r101-marketing'
       }
     </script>
-    <script src="https://d138ozz5asdy96.cloudfront.net/javascripts/site-a14c5b80.js" type="text/javascript"></script>
+    <script src="https://d1k0yfk0qqfx22.cloudfront.net/javascripts/site-353879f2.js" type="text/javascript"></script>
     
   
 
