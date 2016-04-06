@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the recipegoldmine.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210063607id_/http%3A//recipegoldmine.com/cookies/cookiepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipegoldmine.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406183255id_/http%3A//recipegoldmine.com/cookies/cookiepolicy.html) for the most accurate reproduction.*
 
 # Recipe Goldmine LLC | Cookie Policy
 
-  
   
 
 
@@ -27,6 +26,9 @@ Google Adsense
 PO.ST  
 Gourmet Ads  
 Media.Net  
+Swoop  
+InfoLinks  
+GumGum  
 Ntent  
 Adify  
 Q1 Media
