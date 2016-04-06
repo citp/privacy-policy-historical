@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425123049id_/http%3A//www.avbit.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitejudge.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406171119id_/http%3A//www.avbit.nl/privacy) for the most accurate reproduction.*
 
 # AVBIT | Pro-AV and Pro-IT products for your business
 
