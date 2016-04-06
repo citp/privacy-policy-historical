@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074215id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406190441id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautylish
 
@@ -62,8 +62,8 @@ If you believe that Beautylish has not adhered to this Statement you may write t
 
 Beautylish Inc.  
 Attn: Privacy Officer  
-575 Sutter St. #204  
-San Francisco, CA 94102  
+548 Market St #21334  
+San Francisco, CA 94104-5401  
 United States of America  
 
 
