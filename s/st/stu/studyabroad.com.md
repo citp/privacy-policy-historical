@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218165937id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyabroad.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406191922id_/http%3A//www.studyabroad.com/pages/sitecontent/privacy.aspx) for the most accurate reproduction.*
 
 # privacy - SA - Find a Study Abroad Program with StudyAbroad.com
 
@@ -31,6 +31,8 @@ We may disclose account information where we have reason to believe that disclos
 Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
 
 We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+
+To view your California privacy rights, please click [here](https://web.archive.org/sitecontent/california-privacy-rights.aspx).
 
 ## Newsletter Subscription
 
