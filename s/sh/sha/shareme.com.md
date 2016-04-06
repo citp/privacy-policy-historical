@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208064113id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406232829id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -59,94 +59,94 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [StarCode Express Plus Point of Sale 23.0.0](https://web.archive.org/details/starcode-express-plus-point-of-sale.html)
+  * [Elmedia Player 6.5](https://web.archive.org/details/elmedia-player.html)
 
-StarCode Express is Single Terminal Point of...
+Elmedia Player, a versatile media player for...
 
-  * [dbForge Data Generator for SQL Server 3.7](https://web.archive.org/details/dbforge-data-generator-for-sql-server.html)
+  * [Active@ KillDisk 10.1.0](https://web.archive.org/details/active--killdisk.html)
 
-dbForge Data Generator for SQL Server is a GUI...
+Active@ KillDisk provides the ultimate solution...
 
-  * [dbForge Data Compare for SQL Server 4.0](https://web.archive.org/details/dbforge-data-compare-for-sql-server.html)
+  * [Eunomia Process Builder 2.8.2](https://web.archive.org/details/eunomia-process-builder.html)
 
-dbForge Data Compare for SQL Server is a tool...
+Eunomia Process Builder is an easy-to-use...
 
-  * [Database Workbench Pro 5.1.8](https://web.archive.org/details/database-workbench-pro.html)
+  * [Oxetta Report Generator 1.1](https://web.archive.org/details/oxetta-report-generator.html)
 
-Cross database engine developer IDE for...
+Report generator for C/C++ applications with...
 
-  * [MicroOLAP Database Designer for MySQL 2.1.6](https://web.archive.org/details/microolap-database-designer-for-mysql.html)
+  * [SQL Job Manager 3.5.0.4](https://web.archive.org/details/sql-job-manager.html)
 
-Visual development system intended for database...
+View SQL Server jobs and scheduled jobs across...
 
-  * [Icecream PDF Split & Merge 3.0](https://web.archive.org/details/icecream-pdf-split---merge.html)
+  * [KONIO Obfuscator 2.3](https://web.archive.org/details/konio-obfuscator.html)
 
-Icecream PDF Split & Merge is a versatile...
+Obfuscate C# console applications source code...
 
-  * [MOBILedit 8.1](https://web.archive.org/details/mobiledit.html)
+  * [M4V Converter Plus 4.1.7](https://web.archive.org/details/m4v-converter-plus.html)
 
-MOBILedit is the universal phone management...
+M4V Converter Plus - Convert iTunes M4V...
 
-  * [Typograf font manager 5.2.1](https://web.archive.org/details/typograf-font-manager.html)
+  * [Tipard DVD Software Toolkit for Mac 5.0.58](https://web.archive.org/details/tipard-dvd-software-toolkit-for-mac.html)
 
-Typograf is an easy to use Windows font...
+Tipard DVD Software Toolkit for Mac can convert...
 
-  * [Image for Windows with IFD GUI 2.98](https://web.archive.org/details/image-for-windows-with-ifd-gui.html)
+  * [EWDraw CAD Component 15.8.7.3](https://web.archive.org/details/ewdraw-cad-component.html)
 
-Image for Windows is an affordable and reliable...
+EWDraw CAD Component is a powerful vector...
 
-  * [Duplicate Video Remover Free 1.4](https://web.archive.org/details/duplicate-video-remover-free.html)
+  * [Duplicate Video Remover Free 1.5](https://web.archive.org/details/duplicate-video-remover-free.html)
 
-Duplicate Video Remover Free - small but very...
+This small, but very fast program allows you to...
 
 
 
 
 ####  Recent Searches
 
-[Opera Mini Handler S60 3rd](https://web.archive.org/programs/opera/mini-handler-s60-3rd), [Mp4 Player Repair Tool Energy Sistem 3020](https://web.archive.org/programs/mp4/player-repair-tool-energy-sistem-3020), [Free Autocad Stage Lighting SymbolsSend](https://web.archive.org/programs/free/autocad-stage-lighting-symbolssend), [Scratch On Pc Like](https://web.archive.org/programs/scratch/on-pc-like), [Activation Code For Regclean Pro](https://web.archive.org/programs/activation/code-for-regclean-pro), [Data Recovery Sotware](https://web.archive.org/programs/data/recovery-sotware), [Flash Softw](https://web.archive.org/programs/flash/softw), [Motorola W385 Handset Adobe Flash Player](https://web.archive.org/programs/motorola/w385-handset-adobe-flash-player), [Stamp Download](https://web.archive.org/programs/stamp/download), [Songs Of Ipl Teams Download](https://web.archive.org/programs/songs/of-ipl-teams-download), [Active Desktop Recovery Software](https://web.archive.org/programs/active/desktop-recovery-software), [Dwg Martin House](https://web.archive.org/programs/dwg/martin-house), [Start Up Activation Codes Straight Talk](https://web.archive.org/programs/start/up-activation-codes-straight-talk), [Draw To Life](https://web.archive.org/programs/draw/to-life), [Us Air Force Museum Dayton Oh](https://web.archive.org/programs/us/air-force-museum-dayton-oh)
+[Genesis 3d](https://web.archive.org/programs/genesis/3d), [Internet Filters Windows 7 Downloads](https://web.archive.org/programs/internet/filters-windows-7-downloads), [Konig Cctv Camera](https://web.archive.org/programs/konig/cctv-camera), [Free Dawnload Sth Vcd Player](https://web.archive.org/programs/free/dawnload-sth-vcd-player), [Encrypted Jpg](https://web.archive.org/programs/encrypted/jpg), [Sam Broad 3](https://web.archive.org/programs/sam/broad-3), [Hitachi Magic Wand %E2%80%8Breviews](https://web.archive.org/programs/hitachi/magic-wand-%e2%80%8breviews), [Wimax Chipset Beceem Bcs5250](https://web.archive.org/programs/wimax/chipset-beceem-bcs5250), [Raster Online Dwg Dxf](https://web.archive.org/programs/raster/online-dwg-dxf), [Haunted Mansion Lord Of The Mirrors](https://web.archive.org/programs/haunted/mansion-lord-of-the-mirrors), [Free Microsoft Encarta Updates](https://web.archive.org/programs/free/microsoft-encarta-updates), [Voice Message Sample](https://web.archive.org/programs/voice/message-sample), [Repair Corrupted Mbr](https://web.archive.org/programs/repair/corrupted-mbr), [Portfolio Management Weight Software](https://web.archive.org/programs/portfolio/management-weight-software), [Hypnotic Screen](https://web.archive.org/programs/hypnotic/screen)
 
 #### Latest Reviews
 
-  * [Duplicate Image Remover Free ](https://web.archive.org/details/duplicate-image-remover-free.html)   (Almon)
+  * [LoMag Warehouse Management ](https://web.archive.org/details/lomag-warehouse-management.html)   (Sara)
 
-I have a lot of duplicate / similar images in my PC which I wanted to get rid of so I installed this program but sadly... 
+Very good software with a nice and clean using interface! A lot of useful functions for easy warehouse management. 
 
-  * [PDF Viewer for Windows ](https://web.archive.org/details/pdf-viewer-for-windows.html)   (Marta)
+  * [Folx ](https://web.archive.org/details/folx.html)   (Ashley Bay)
 
-How am I suppose to go up/ down faster becasue I didn't find any scrollbar. I can move only one page at a time. 
+Love the way it handles all my downloads, both from regular source and torrent. Never had any issues so far. A must have app! 
 
-  * [Kernel for PST Split ](https://web.archive.org/details/kernel-for-pst-split.html)   (Karras)
+  * [GroupMail :: Free Edition ](https://web.archive.org/details/groupmail----free-edition.html)   (Veer Dave)
 
-Very effective tool that repairs pst files flawlessly. I recommend everybody to use trail version for result and using... 
+Paid versions are a bit pricy but if you intend to use it for personal use this free version is unbeatable. It has some... 
 
-  * [Exchange Email Repair ](https://web.archive.org/details/exchange-email-repair.html)   (Austin Williams)
+  * [Auslogics BoostSpeed ](https://web.archive.org/details/auslogics-boostspeed.html)   (Ramon)
 
-I was very disappointed when my EDB mailbox had become inaccessible. Many thanks to this program which has recovered all... 
+It has lots of tools to optimize your system and internet experience. The interface is very easy to use, you don't need to... 
 
-  * [Marimo Dungeon ](https://web.archive.org/details/marimo-dungeon.html)   (James)
+  * [Xilisoft Video Editor ](https://web.archive.org/details/xilisoft-video-editor.html)   (Dan Hock)
 
-Very addicting game! You should get it. Only bad thing is you have to delete and download when u don't want a certain... 
+I've been looking for a good video editor and after a long time this software ends my suffering. It is a simple but... 
 
-  * [Kernel for EML to PST ](https://web.archive.org/details/kernel-for-eml-to-pst.html)   (Mike)
+  * [Total Software Deployment ](https://web.archive.org/details/total-software-deployment.html)   (Adam)
 
-I tried different types of programs and this one was way better. I was able to convert without any error. 
+This tool looks promising. As far as I can tell this is the only tool that allows creating deployment packages almost for... 
 
-  * [Free Ovulation Calendar ](https://web.archive.org/details/free-ovulation-calendar.html)   (Garcia)
+  * [DocuFreezer ](https://web.archive.org/details/docufreezer.html)   (Tim Eagan)
 
-Best app of it's kind. Been using it for a long time and I am very happy with it. I always get accurate information and... 
+I tried everything else for converting some office files to PDF but this software did it for me. Great product and it's... 
 
-  * [How Repair Outlook PST ](https://web.archive.org/details/how-repair-outlook-pst.html)   (Michael )
+  * [Eusing Launcher ](https://web.archive.org/details/eusing-launcher.html)   (Azharee)
 
-It is great tool to repair corrupt pst files. You can utilize this product to take care of issue like that. 
+I can easily organize all my desktop shortcut icons using this launcher. Although it works pretty good, icon and font... 
 
-  * [ShutUp10 ](https://web.archive.org/details/shutup10.html)   (Adam)
+  * [Free OCR ](https://web.archive.org/details/free-ocr.html)   (Aron Jones)
 
-It's easy to use and has done a great job for my windows 10 computer. Keep up the good work. 
+Cannot extract images 100% accurately. Replaces some words by unknown characters. I'd say it's accuracy rate is only 40%-45%. 
 
-  * [Latest OST to PST ](https://web.archive.org/details/latest-ost-to-pst.html)   (Tom)
+  * [DocPad ](https://web.archive.org/details/docpad.html)   (Hana Sawy)
 
-Fantastic software, it works very fast, easy to understand too. Converted ost file into pst in seconds, also recovered ost... 
+I like the Docpad's using interface and features, especially spell checker and built in text speaker which I needed most.... 
 
 
   
