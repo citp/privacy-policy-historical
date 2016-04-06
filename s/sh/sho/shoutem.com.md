@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutem.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027073707id_/http%3A//www.shoutem.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutem.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406195822id_/http%3A//www.shoutem.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ShoutEm
 
