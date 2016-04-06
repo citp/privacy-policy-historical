@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebox.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018135118id_/http%3A//www.gamebox.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebox.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406074305id_/http%3A//www.gamebox.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # GameBox | Play Free Games | Privacy Policy
 
