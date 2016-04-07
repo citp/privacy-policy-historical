@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachingactuaries.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318221531id_/https%3A//www.coachingactuaries.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachingactuaries.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407071600id_/https%3A//www.coachingactuaries.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Coaching Actuaries
 
@@ -46,4 +46,4 @@ Coaching Actuaries will occasionally update this Statement of Privacy to reflect
 
 ### Contact Information
 
-Coaching Actuaries welcomes your comments regarding this Statement of Privacy. If you believe that Coaching Actuaries has not adhered to this Statement, please contact Coaching Actuaries at [support@coachingactuaries.com](mailto:support@coachingactuaries.com) or visit us at [http://support.coachingactuaries.com](http://support.coachingactuaries.com/). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Coaching Actuaries welcomes your comments regarding this Statement of Privacy. If you believe that Coaching Actuaries has not adhered to this Statement, please contact Coaching Actuaries at [support@coachingactuaries.com](mailto:support@coachingactuaries.com) or visit us at [https://www.coachingactuaries.com/Help](https://web.archive.org/Help). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
