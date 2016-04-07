@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120122401id_/http%3A//www.hiliq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407221649id_/http%3A//www.hiliq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale E Cigarette Liquid , Buy liquid nicotine online, Buy E liquid nicotine wholesale
 
@@ -21,4 +21,11 @@ HiLIQ is committed to protecting the security of your personal information. We u
 Changes to this Statement   
 HiLIQ will occasionally update this Statement of Privacy to reflect company and customer feedback. If there are material changes to this Statement or in how HiLIQ will use your personal information, we will prominently post such changes prior to implementing the change. HiLIQ encourages you to periodically review this Statement to be informed of how we are protecting your information.
 
-These Privacy Policies were last revised and made effective as of May 20th, 2014.
+HiLIQ Website Update: Terms and Conditions  
+As part of HiLIQ terms and conditions for using the website, we can inform our customers when needed by message, email or newsletters about their tracking order number, new products and new promotions. By using our website to place an order means that you already accept those terms and conditions. In case you do not want to receive our newsletter or promotions service please feel free to contact us anytime to request the termination of the service and give us some basic information in order for us to verify your identity like: email, phone number and address. Once HiLIQ receive your request we will proceed with the termination. Please note that you can also unsubscribe from our newsletter directly by following few steps at the bottom page of the mail you received from us.you can unsubscriber from our newsletter directly by the [unsusbcribe link](https://web.archive.org/contacts) insdide the newsletter
+
+HiLIQ Co.,Limited  
+Address: 2995 LiYue Road MinHang District Shanghai, China  
+Phone: 1-888-568-6063  
+Homepage: www.hiliq.com  
+Email: service@hiliq.com
