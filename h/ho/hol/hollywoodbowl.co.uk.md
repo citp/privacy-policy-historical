@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142158id_/http%3A//www.hollywoodbowl.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodbowl.co.uk privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407055059id_/http%3A//www.hollywoodbowl.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Hollywood Bowl Privacy Policy
 
@@ -6,7 +6,7 @@ The Original Bowling Company is committed to ensuring that your privacy is prote
 
 We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.
 
-The www.hollywoodbowl.co.uk or www.amfbowling.co.uk sites do not automatically capture or store personal information, other than logging the user's IP address and session info such as the duration of the visit and the type of browser used. This is recognised by the Web server and is only used for system administration and to provide statistics which The Original Bowling Company uses to evaluate use of the site. While we may use cookies to enable your page preferences, this does not include personal details.
+The www.hollywoodbowl.co.uk, www.bowlplex.co.uk or www.amfbowling.co.uk sites do not automatically capture or store personal information, other than logging the user's IP address and session info such as the duration of the visit and the type of browser used. This is recognised by the Web server and is only used for system administration and to provide statistics which The Original Bowling Company uses to evaluate use of the site. While we may use cookies to enable your page preferences, this does not include personal details.
 
 **General Bookings  
 **If you wish to book games of bowling using our Web Site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you an e-mail confirmation of each booking.
@@ -30,4 +30,4 @@ The information we hold will be accurate and up to date. It is possible to obtai
 
 The personal information which we hold will be held securely and in accordance with English law.
 
-This privacy policy only covers The Original Bowling Company's websites at www.hollywoodbowl.co.uk and www.amfbowling.co.uk. Other links within this site to other websites are not covered by this policy. The Original Bowling Company may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make an announcement on the website.
+This privacy policy only covers The Original Bowling Company's websites at www.hollywoodbowl.co.uk, www.bowlplex.co.uk and www.amfbowling.co.uk. Other links within this site to other websites are not covered by this policy. The Original Bowling Company may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will make an announcement on the website.
