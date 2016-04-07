@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drivereasy.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723023936id_/https%3A//www.drivereasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivereasy.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407213214id_/https%3A//www.drivereasy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Drivereasy.com - DriverEasy
+# Privacy Policy - Drivereasy.com - Driver Easy
 
 Welcome to drivereasy.com (“drivereasy.com”, “Driver Easy”, “we”, “us”, or “our”). Driver Easy is a driver tool developed by us. Supported by huge hardware driver database, Driver Easy gives customers fast access to the latest driver versions using a driver scanner.
 
