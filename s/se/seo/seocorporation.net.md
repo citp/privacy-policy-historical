@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the seocorporation.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906062350id_/http%3A//www.seocorporation.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocorporation.net privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407135242id_/http%3A//www.seocorporation.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# SEO Corporation privacy policy
 
-### What information do we collect?
+  
+
+
+#### What information do we collect?
 
 We collect information from you when you place an order.   
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
