@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226082228id_/http%3A//www.evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoke.ie privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407123232id_/http%3A//evoke.ie/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - EVOKE.ie
 
-Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). If you do not accept this privacy policy and cookies notice, do not use this Site.
+Please note, this privacy policy applies to this website or our mobile applications (for example our iPhone, android and iPad apps) (a “Site”). It also applies to communications sent from this site such as newsletters, competitions and marketing information and advertising. If you do not accept this privacy policy and cookies notice, do not use this site, or subscribe to its applications and promotions.
 
-Associated Newspapers Limited and Associated Newspapers (Ireland) Limited are part of the Daily Mail and General Trust  plc group (‘DMGT’).  Members of the DMGT group may,use and share, within that group, the information you provide and other information  held about you for the purposes set out below.   For more information about the DMGT group please see the [DMGT ](http://www.dmgt.com/home "DMGT Home")website.  
-When you create or log in to an online account you agree to our privacy policy and cookies notice.  Information collected from your use of this website or our mobile applications (for example, iPhone, android and iPad apps) will be processed in accordance with this notice. Please see our cookies notice. **  
-**
+Associated Newspapers Limited and Associated Newspapers (Ireland) Limited are part of the Daily Mail and General Trust  plc group (‘DMGT’).  Members of the DMGT group may,use and share, within that group, the information you provide and other information  held about you for the purposes set out below.   For more information about the DMGT group please see the [DMGT ](http://www.dmgt.com/home)website.  
+When you create or log in to an online account you agree to our privacy policy and cookies notice.  Information collected from your use of this website, mobile applications (for example, iPhone, android and iPad apps) or other communications will be processed in accordance with this notice. Please see our [cookies notice](http://evoke.ie/privacy-policy-cookies#link01). 
 
 **Privacy notice**  
-**Information we may hold about you**
+ **Information we may hold about you**
 
   * Information you’ve provided to us, including our websites
   * Information about products and services you’ve ordered or enquired about
