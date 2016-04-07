@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affect3dstore.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005840id_/https%3A//affect3dstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affect3dstore.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407133124id_/https%3A//affect3dstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Affect3D Store - Privacy Policy
 
