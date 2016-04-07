@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230021102id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfglobe.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407224801id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
