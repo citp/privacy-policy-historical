@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915072515id_/https%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408001136id_/https%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AppsFlyer
 
 This Privacy Policy covers our collection, use and disclosure of information AppsFlyer collects through our websites such as Appsflyer.com, onelink.me and its subdomains, software development kit (“SDK”), and API’s; including our Platforms hosted on our websites.
 
-Our software development kit and API’s allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“Customers”) and the end-users of those Customers (“End Users”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at <http://www.appsflyer.com/privacy-policy>
+Our software development kit and API’s allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“Customers”) and the end-users of those Customers (“End Users”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms and Conditions, which is available at <https://www.appsflyer.com/privacy-policy>
 
 We collect information under the direction of our Customers, and have no direct relationship with the individuals whose data we process. We respect the right to privacy of Customers and End Users. Your ability to make informed choices about the use of your information is important to us. This privacy statement explains our policy regarding the collection, use, disclosure and protection of any information we receive.
 
