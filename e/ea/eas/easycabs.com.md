@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easycabs.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210131427id_/http%3A//www.carzonrent.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycabs.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407095049id_/http%3A//www.carzonrent.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Carzonrent - Privacy and Policy
+# 
 
 This Privacy Policy ("Policy") discloses the privacy practices for Carzonrent (India) Private Limited ("Carzonrent") website ("website"). Carzonrent places paramount importance on maintaining the privacy of its customers'("User") personal information under the applicable laws in India.  
 Please read this Policy carefully by accessing or using our website. The User hereby acknowledges that he has read, understood, and agrees to be bound to all the terms of this Policy and our website's terms of use before the User proceeds.  
