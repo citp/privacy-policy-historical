@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026060341id_/http%3A//www.enounce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enounce.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407095005id_/http%3A//www.enounce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Enounce
 
