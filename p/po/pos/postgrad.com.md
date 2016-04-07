@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173814id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgrad.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407120741id_/http%3A//www.postgradsolutions.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Postgrad Solutions, an education and marketing consultancy specialising in postgraduate recruitment
 
@@ -42,5 +42,3 @@ Our websites contain links to other websites which are not controlled by Postgra
  **Unsubscribing and Disabling your Postgradsolutions account**
 
 Unsubscribe from our services in one click by simply clicking the ‘unsubscribe link’ in any of our email communication to you.
-
-We have launched an annual Employee of the Year competition to acknowledge the employee who performs... 
