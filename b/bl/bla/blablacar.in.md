@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blablacar.in privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201742id_/https%3A//www.blablacar.in/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablacar.in privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407172623id_/https%3A//www.blablacar.in/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
-# PRIVACY AND DATA PROTECTION POLICY | World's Largest Carpooling Community
+# PRIVACY AND DATA PROTECTION POLICY | World's Largest Ridesharing Community
 
 PRIVACY AND DATA PROTECTION POLICY
 
@@ -15,9 +15,9 @@ _**1\. General**_
 
 _**2\. Ways that we collect information**_
 
-2.1.    We may collect and process the following personal information or data (information that can be uniquely identified with you) about you:
+2.1.    We may collect and process the following information or data (including personal information and information that can be uniquely identified with you) about you:
 
-2.1.1.    Certain information required to register with the Site or to access other services provided by us, including your name, address(including postcodes), date of birth and if you are a Car Owner certain information about your Vehicle etc.;
+2.1.1.  Passport, PAN card, AADHAR card and such other documents and information that may be required from time to time including your name, address(including postcodes), date of birth and if you are a Car Owner certain information about your Vehicle to register with the Site or to access other services provided by us;
 
 2.1.2.    Your e-mail address and a password;
 
@@ -25,7 +25,7 @@ _**2\. Ways that we collect information**_
 
 2.1.4.    A record of any correspondence between you and us;
 
-2.1.5.    A record of any bookings you have made or advertisements you have placed with or through the Site;
+2.1.5.   A record of any bookings you have made or advertisements you have placed with or through the Site;
 
 2.1.6.    Your replies to any surveys or questionnaires that we may use for research purposes;
 
@@ -71,7 +71,7 @@ _**4\. Sharing your information**_
 
 4.2.    In order for payments to be processed you may need to provide some necessary details to our payment processor. We will tell you about this at the point we collect that information.
 
-4.3.    We do not disclose any information you provide via the Site any third parties except:
+4.3.    We do not disclose any information you provide via the Site to any third parties except:
 
 4.3.1.    As part of our booking process and in order to provide our services information may be passed to a Co-Traveler (if you are a Car Owner) or to a Car Owner (if you are a Co-Traveler).
 
@@ -84,6 +84,12 @@ _**4\. Sharing your information**_
 4.3.5.    we may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected;
 
 4.3.6.    to protect the rights, property, or safety of Comuto SA, the Site’s users, or any other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+4.3.7   for the purpose of verification by third party service providers of the information contained in the IDs and other documents that may be collected from the Members at the time of registration or at any other time during their use of the Site as may be required. Third party service providers will process data under BlaBlaCar’s control and will be bound by the same degree of security and care as BlaBlaCar’s under this Privacy and Data Protection Policy.
+
+Notwithstanding anything contained herein or the terms & conditions, BlaBlaCar hereby disclaims any liability arising from the verification of the IDs and other documents by third party service providers including but not limited to its accuracy, reliability, and originality;
+
+4.3.8    for the purpose of maintaining internal quality, training and updating the customers about the Services of BlaBlaCar.
 
 4.4.    Other than as set out above, we shall not disclose any of your personal information unless you give us permission to do so.
 
