@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230034155id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074333id_/http%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -6,13 +6,19 @@
 
 CaringBridge is committed to providing the information you need to make informed choices about the ways you use our Service. This Privacy Policy describes the personal information we collect when you use our Service. It also describes how we use the personal information you share with us and some of the steps we take to protect your privacy.
 
-**By using the Service, you agree to the terms of this Privacy Policy and our[Terms of Use](https://web.archive.org/terms-of-use-updates).**
+**By using the Service, you agree to the terms of this Privacy Policy and our[Terms of Use](https://web.archive.org/terms-of-use).**
 
 ## Personal Information and Privacy Settings
 
 When you use our Service, you may be creating and maintaining a personal, individual page or website on behalf of yourself or another person (“Individual Site”), or visiting and posting to an Individual Site created by someone else. By their very nature, these Individual Sites contain a great deal of personal information about the subject of the Individual Site and other individuals. For this reason we allow the creator of an Individual Site to control the level of privacy they apply to their Individual Site. Our goal is to balance our users' need to find each other and communicate information and support against our users' desire for a measure of privacy.
 
-When setting up an Individual Site, you can select your customized security settings, including “By Invitation Only.” You may also choose to make an Individual Site “public,” in which case any individual searching the Site may be able to review the information you have posted on the Individual Site. These settings can be changed at any time.
+## Privacy Settings and Site Access
+
+You may increase the privacy of the Individual Site by making it accessible “By Invitation Only.” This privacy setting can be changed at any time during the lifetime of the Individual Site by going to “Site Settings.”
+
+## Discoverability: How People Find Your Site
+
+CaringBridge also offers a public search listing feature that allows you to publish portions of your Individual Site to the public Internet. The publicly visible information may include: (1) the first and last name the subject of the Individual Site; (2) the title of the Individual Site; (3) the profile picture of the Individual Site; (3) the date and time of the first journal post to the Individual Site; and (4) the date and time of the most recent journal post to the Individual Site. This public profile will be indexed and displayed through public search engines when someone searches for your name. You have the option to activate the public profile feature when you initially create an Individual Site or at any time during the lifetime of the Individual Site by going to “Site Settings.”
 
 Every member of a caring community, including the creators of Individual Sites and all users are responsible for maintaining the confidentiality of the website address of an Individual Site in accordance with the subject's wishes.
 
@@ -50,7 +56,7 @@ Our third party tracking-utility and ad network partner uses a software technolo
 
 In the future, we may also use third-party vendors, such as Google Analytics, to promote our Services to our users online. These ad network partners may display our promotions or information regarding our Services on other websites based on your internet usage. Any information that these third parties collect via cookies will also not be linked to your personally identifiable information we collect.
 
-If you wish to opt-out of targeted promotions using clear gifs, you may opt-out by going to http://preferences-mgr.truste.com. If you wish to opt-out of targeted promotions based on your internet usage, you may opt-out by going to http://www.networkadvertising.org/managing/opt_out.asp. By completing these opt-out requests, you will still receive online advertising, but it will not include targeted promotions based on cookies and online analytics.
+If you wish to opt-out of targeted promotions based on your internet usage, you may opt-out by going to http://www.networkadvertising.org/managing/opt_out.asp. By completing this opt-out request, you will still receive online advertising, but it will not include targeted promotions based on cookies and online analytics.
 
 ## How Do We Use the Personal Information We Collect Through the Site?
 
@@ -87,6 +93,8 @@ _Individual Site Creators._ If you engage with an Individual Site, we may share 
 _Invite Others._ If you choose to use our referral service to tell a friend about our Service or share an Individual Site through our Site or mobile application, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CaringBridge does not store this information, and collects this information for the sole purpose of sending this one-time email.
 
 _Third-Party Vendors._ CaringBridge shares personal information collected through our Service with third-party service providers such as our customer support vendor which utilizes live chat software who act for or on behalf of CaringBridge. These third-party service providers may need information about you in order to perform their functions. These companies are required by contract to keep your personal information confidential and may use it only to provide services on our behalf.
+
+_Visitors to Your Site._ If you choose to activate the public search listing feature for your Individual Site. people may find your Individual Site profile information Information will be indexed and displayed through public search engines whenever someone searches for your name: This information may include: (1) the first and last name the subject of the Individual Site; (2) the title of the Individual Site; (3) the profile picture of the Individual Site; (3) the date and time of the first journal post to the Individual Site; and (4) the date and time of the most recent journal post to the Individual Site. Even if you delete your Individual Site, third-party search engines may not update their caches, which may contain old public profile information for your Individual Site.
 
 _Donors._ If you donate to CaringBridge, online or offline, we will not sell, trade or share your personal information with other organizations, nor send donor mailings on behalf of other organizations.
 
