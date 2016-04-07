@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellocomic.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201162738id_/http%3A//www.hellocomic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellocomic.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407150619id_/http%3A//www.hellocomic.com/privacy-policy) for the most accurate reproduction.*
 
 # HelloComic.com - Largest database of free Marvel and DC comic books and free digital comic books.
 
