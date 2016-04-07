@@ -1,47 +1,34 @@
-> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607165452id_/http%3A//bzmr.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bzmr.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407031805id_/http%3A//bzmr.com/page.php-p%3D1.htm) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy Policy - Play Privacy Policy Online
 
-BZMR. PRIVACY POLICY
+Privacy Policy for www.BZMR.COM 
 
-**Bzmr.com**
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](https://web.archive.org/web/20160407031805id_/http%3A//bzmr.com/%22contact.php.htm%22)
 
-Slix Media, Inc. we appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when youre using our web site. The following describes our collection of and use of any information that we may collect from you.
+At www.BZMR.COM, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.BZMR.COM and how it is used. 
 
-**Questions**
+**Personal Information**  
+Any personal information that you provide to our web site shall stay absolutely safe, private, and secure. We do not resell personal information to outside sources. 
 
-If you have any questions, we can be reached via  
-(contact at slixmedia at gmail dot com)
+**External Links**  
+This site contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. 
 
-**Your Privacy at Bzmr.com**
+**Security**  
+We have taken the appropriate steps and followed industry standards to secure any personal data stored by our systems. 
 
-We collect no personal information about you when you visit our website unless you choose to provide this information to us. However, we collect and store certain information automatically. Here is how we handle information about your visit to our website.
+**Log Files**  
+Like many other Web sites, www.BZMR.COM makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**What We Collect and Store Automatically**
+**Cookies and Web Beacons**  
+www.BZMR.COM does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit: 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense . 
 
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.
-  * The type of browser and operating system used to access our site.
-  * The date and time you access our site.
-  * The pages you visit.
-  * If you linked to our website from another website, the address of that website.
-  * We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.BZMR.COM send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
+www.BZMR.COM has no access to or control over these cookies that are used by third-party advertisers. 
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.doll-game's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you send us email, you may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
-
-**We do not use Cookies but our third party advertisers might use Cookies.**
-
-A cookie is a small amount of data that is sent to your computers hard drive through your web browser to enable us to recognize your computer and to deliver personalized features. The information collected by cookies is sometimes called â€œclickstreamâ€ or â€œclick trailâ€ and may also describe which areas of the Site you have used. We do not use cookies at this time. However, in the course of serving advertisements to this Site, our third-party advertisers may place or recognize a unique cookie on your browser. We do not receive any such information from our third party advertisers nor do we have any control over such third party advertisers or the use of any such information that is collected.
-
-**We collect certain information if you request our Newsletter.**
-
-We collect electronic mail information only if it is volunteered by you, such as your specific request to be added to our Newsletter mailing list. The information we collect from you if you subscribe to our Newsletter is used only to email the Newsletter to you.
-
-**We may amend this Privacy Policy.**
-
-If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto.
-
-copyright 2011Bzmr. All Rights Reserved. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
