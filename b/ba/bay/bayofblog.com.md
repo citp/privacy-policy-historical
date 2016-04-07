@@ -1,43 +1,41 @@
-> *The following text is extracted and transformed from the bayofblog.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115211918id_/http%3A//www.bayofblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayofblog.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407213543id_/http%3A//bayofblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bay of Blog – Technology | Facebook | Twitter | Mobile phone Updates on the go
+# Privacy Policy
 
-Thank you for visiting **our web site.** This **Privacy policy** tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed at any time, you are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+Bayofblog.com owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
 
-Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+**Google Adsense and the DoubleClick DART Cookie**
 
-**Collection of Information**
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-We collect personally identifiable information, like names, postal addresses, email addresses
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/policies/technologies/ads/ Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+Other Third Party ad servers or ad networks may also use cookies to track user activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, bayofblog.com has no access or control over these cookies that may be used by third party advertisers.
 
-**Cookies and Web Beacons.**
+**Information Collected**
 
-**http://www.bayofblog.com** does not use cookies.
+Your personal information is not required to visit bayofblog.com
 
-Some of our advertising partners may use cookies and web beacons on our site.
+Any personal information collected is knowingly provided by you and only when requested/required during account registration for interactive participation on bayofblog.com  and during the ordering process
 
-These **third-party** ad servers or ad networks use technology to the advertisements and links that appear on
+**Traffic Data**
 
-**http://www.bayofblog.com** send directly to your browsers. They automatically receive your **IP address** when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+Your IP address is a numeric address assigned to your computer, assigned by your Internet service provider. We automatically collect your IP address as traffic data so that we can send information back to you when requested. This is not used to identify your personal information.
 
-**http://www.bayofblog.com** has no access to or control over these cookies that are used by third-party advertisers.
+Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information.
 
-**Distribution of Information.**
+System information such as your operating system/platform, and the type of web browser you use. This is not attached to personally identifiable information.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing Purposes.
+**Account Information**
 
-**Childrens Online Privacy Protection Act Compliance**
+Your information is maintained on a secure web server in what we believe to be a well protected environment.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least **13 years old or older.**
+Bayofblog.com, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-**Commitment to Data Security.**
+**Security**
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
+This website takes every precaution to protect our visitors’ information. When visitors submit sensitive information via the web site, their information is protected both online and off-line.
 
-**Privacy Contact Information.**
+We do everything in our power to protect user-information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
 
-If you have any **Questions, Concerns, or Comments** about our privacy policy you may contact us using the information below:
-
-E-mail: **gliders09 (at) gmail.com**
+**Changes to this Privacy Statement** The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of bayofblog.com  then you may contact us.
