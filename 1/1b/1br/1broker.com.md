@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1broker.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145654id_/https%3A//1broker.com/%3Fc%3Dabout_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1broker.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407053434id_/https%3A//1broker.com/%3Fc%3Dabout_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 1Broker
 
