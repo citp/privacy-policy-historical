@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210065849id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407084424id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChuckTV.net
 
@@ -10,7 +10,7 @@ For each visitor to our Web page, our Web server automatically recognizes the co
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, and aggregate information on what pages consumers access or visit.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, and will be disclosed when legally required to do so, at the request of [more](http://maybebaby.pl/canada-cialis "more") governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, and will be disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of [more](http://maybebaby.pl/canada-cialis "more") our Website.
 
 With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site and ensure that visitors are not repeatedly sent the [chrisklugfoundation.org](http://chrisklugfoundation.org/index.php/super-active-cialis-20mg/ "chrisklugfoundation.org") same banner ads.
 
@@ -23,7 +23,7 @@ For further information, consult the privacy policies of:
 http://www.google.com/privacy.html  
 http://valueclickmedia.com/privacy.shtml
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of [generic cialis without prescription improved](http://bein.at/generic-cialis-without-prescription "generic cialis without prescription improved") these changes and [only today](http://www.niuzy.com/buy-celebrex "only today") we will use for these new purposes only data collected from the [cialis 5 mg we choice](http://eunate.org/index.php/cialis-5-mg/ "cialis 5 mg we choice") time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and [only today](http://www.niuzy.com/buy-celebrex "only today") we will use for these new purposes only data collected from the [cialis 5 mg we choice](http://eunate.org/index.php/cialis-5-mg/ "cialis 5 mg we choice") time of [generic cialis without prescription improved](http://bein.at/generic-cialis-without-prescription "generic cialis without prescription improved") the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
