@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desizntech.info privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407190438id_/http%3A//www.webdesignviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desizntech.info privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074024id_/https%3A//webdesignviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ WebDesignViews.com has no access to or control over these cookies that are used 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers respective websites. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.webdesignviews.com/contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://webdesignviews.com/contact/).
