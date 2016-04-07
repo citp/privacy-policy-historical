@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911043935id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407235130id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CampusClarity
 
@@ -12,7 +12,6 @@ We collect personal data to identify our users and to track their site usage. We
 
   * Name
   * Email address
-  * Student ID
 
 
 
