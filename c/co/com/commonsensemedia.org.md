@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053229id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407115934id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy/Your California Privacy Rights | Common Sense Media
+# Privacy Policy | Common Sense Media
 
 At Common Sense Media, we value your privacy. And since privacy policies can be very long, we believe you should be able to see what you’re agreeing to at a glance. Here’s a summary of the key concepts of the full Common Sense Media Privacy Policy.
 
