@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2015-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151113072723id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2016-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407062133id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy</title>
@@ -22,13 +22,34 @@
         <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png">
 
     	<link href="/public/bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    	
+		<link href="/public/jQuery-Impromptu/jquery-impromptu.min.css" type="text/css" rel="stylesheet">
+		<style type="text/css">
+			a.upgrade-required {
+			    color: rgb(193,193,193);
+			}
+    		div.upgrade-required {
+	    		opacity:0.5; filter:alpha(opacity=50); /* For IE8 and earlier */
+    		}
+	    </style>
+	    
         
         
         <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=228268373870509&amp;version=v2.0"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/public/javascripts/jquery-1.11.2.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="/public/javascripts/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
 		<script src="/public/bootstrap-3.3.4/js/bootstrap.min.js"></script>
         
+		<script src="/public/jQuery-Impromptu/jquery-impromptu.min.js" type="text/javascript" language="javascript"></script>
+		<script>
+			$( document ).ready(function() {
+				$('.upgrade-required').click(function() {
+					$.prompt("This functionality requires that you are <b>logged in</b> and have at least a <b>Bronze</b> level membership. <a href=\"/membership-options\" target=\"_blank\">See the membership options</a>");
+				});
+			});
+		</script> 
+
         
+
 		 
 			<script>
 			  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -146,6 +167,7 @@ This policy is powered by Free Privacy Policy and Rhino Support <a style="color:
 	    		</p><center>
 		    		<a href="/">Home</a> | 
 		    		<a href="/search">Search</a> | 
+		    		<a href="/giveaway-of-the-day">Giveaway of the day</a> | 
 		    		<a href="/privacy-policy">Privacy Policy</a> | 
 		    		<a href="/terms">Terms &amp; Conditions</a> | 
 		    		<a href="/about">About ContestChest.com</a> | 
@@ -158,7 +180,7 @@ This policy is powered by Free Privacy Policy and Rhino Support <a style="color:
 		    	$(document).ready(function() {  
 		    		var clientDate = new Date();
 		    				    		
-		    		var serverDate = new Date(2015, 10, 13, 2, 27, 23, clientDate.getMilliseconds());
+		    		var serverDate = new Date(2016, 3, 7, 6, 21, 33, clientDate.getMilliseconds());
 		    		
 		    		var serverTotalMinutesInDay = serverDate.getTime()/1000/60;
 		    		var clientTotalMinutesInDay = clientDate.getTime()/1000/60;
