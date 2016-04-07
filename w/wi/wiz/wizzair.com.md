@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wizzair.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182906id_/https%3A//wizzair.com/en-GB/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizzair.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407230046id_/https%3A//wizzair.com/en-GB/privacy_policy) for the most accurate reproduction.*
 
-# privacy policy
+# PRIVACY POLICY
 
 ##  PRIVACY POLICY (the “Policy) 
 
@@ -24,14 +24,14 @@ This Policy applies to all personal data you provide us or we collect and proces
 
 **2.2 Collection of your personal data**
 
-Whenever you use our services or services offered by third parties on our website (e.g. you proceed with a booking for a flight or air transport service or any related activities e.g. billing, accounting, compliance with security rules, customs control) we collect personal data about you either provided by you to us (or our agent) directly or collected by us when you used our services or booked third parties’ services on our website. However, Wizz Air is not responsible for third parties’ use of your data, where such use is permitted, for their own purposes. In such cases please consult their privacy policies for further information. You can find more information about the data transfers to third parties in section 3 below. 
+Whenever you use our services or services offered by third parties on our website (e.g. you proceed with a booking for a flight or air transport service or any related activities) we collect personal data about you either provided by you to us (or our agent) directly or collected by us when you used our services or booked third parties’ services on our website. However, Wizz Air is not responsible for third parties’ use of your data, where such use is permitted, for their own purposes. In such cases please consult their privacy policies for further information. You can find more information about the data transfers to third parties in section 3 below. 
 
 **2.3 Information we collect and process:**
 
 \- information about you,  
 \- information about the services you purchased (whether directly provided by us or by our agent),  
 \- the details of your travel arrangements (for instance the details of your booking and the additional services we provided),  
-\- details of your use of our website, call centers or mobile applications and  
+\- details of your use of our website (including but not limited to your historical bookings which you did not finish), call centers or mobile applications and  
 \- information about communication you have with us and our staff.  
 
 
@@ -51,11 +51,13 @@ The purposes for which we use your personal data are:
 
 a.) to deliver the services you have purchased from us or to facilitate the purchase of third parties’ services or products on our website, via our application or through our call center (data used for this purpose includes all of the data collected during the booking process: such as passenger name, nationality, gender, phone number, e-mail address, credit or bank card details, information on special care, flight details, confirmation number, date of birth, place of birth, details of travel documents, and Wizz Account number); 
 
-b.) to provide services and offers tailored to your requirements (we use for this purpose personal data such as name and contact details); 
+b.) to provide services, offers and reminders tailored to your requirements (we use for this purpose personal data such as name and contact details, details of your historical searches); 
 
-c.) to communicate with you (for instance to send you reminder emails, or notifications about any flight disturbance) (we use for this purpose personal data such as name and contact details); 
+c.) to communicate with you (for instance to send you reminder emails, or notifications about any flight disturbance) (we use for this purpose personal data such as name and contact details, flight); 
 
-d.) to support other administrative purposes (including but not limited to accounting and billing, auditing, credit or other payment card verification, anti-fraud screening (including the use of credit reference agency searches and payment card validation checks), immigration and customs control, safety, security, health, administrative and legal purposes and systems testing, maintenance and development) (we may use any of the data that we collected from you, as appropriate). 
+d.) to communicate with you to carry out customer satisfaction survey for analytics purposes, for quality improvements, for service developments, to improve the performance of the website, to measure the success of our advertising campaigns or to tailor services to your needs (we use for this purpose your name and contact details and historic booking details) 
+
+e.) to support other administrative purposes (including but not limited to accounting and billing, auditing, credit or other payment card verification, anti-fraud screening (including the use of credit reference agency searches and payment card validation checks), immigration and customs control, safety, security, health, administrative and legal purposes and systems testing, maintenance and development) (we may use any of the data that we collected from you, as appropriate). 
 
 **
 
@@ -106,7 +108,7 @@ By continuing to use our services and by providing us with any personal data, yo
 
 5.1 During the use of our website cookies are stored by your browser on your device. Read more about the cookies used by Wizz Air by clicking [here](https://web.archive.org/en-GB/privacy_policy/cookie_settings). Our aim is to ensure that our website offers visitors what they are looking for and provides them with the most relevant marketing communication. In order to achieve this goal, we may use your data for analytics purposes, for quality improvements, for service developments, to improve the performance of the website, to measure the success of our advertising campaigns or to tailor services to your needs. For these purposes we may transfer your non-personally identifiable data such as, but not limited to, anonymous demographic information and online behaviour to our contracted partners (e.g. third party service providers listed in clause 3. or banks issuing WIZZ branded credit/debit cards, with special benefits). We store data sent by your browser and device to our website during the reservation process. No such data will be disclosed to third parties except in aggregate, non-personally identifiable forms. 
 
-5.2 You may receive special offers from us if you have requested such communication by subscribing to our newsletter, or if you provided us with your details when you entered a competition or registered for a promotion or if you become a member of the Wizz Discount Club. By subscribing to newsletters, becoming Wizz Discount Club member or providing your details as listed above you expressly consent – being aware of adequate information on the data processing – to receiving direct marketing communications including direct marketing or special offers of Wizz Air or of our contracted partners (e.g. banks issuing WIZZ branded credit/debit cards, with special benefits). For the purposes of sending you such direct marketing communications/special offers, we will process your following personal data: name and e-mail address or phone number. 
+5.2 You may receive special offers from us if you have requested such communication by subscribing to our newsletter, or if you provided us with your details when you entered a competition or registered for a promotion or if you become a member of the Wizz Discount Club. By subscribing to newsletters, becoming Wizz Discount Club member or providing your details as listed above you expressly consent – being aware of adequate information on the data processing – to receiving direct marketing communications including direct marketing or special offers of Wizz Air or of our contracted partners (e.g. banks issuing WIZZ branded credit/debit cards, with special benefits; Wizz Tours Ltd.) and to receive reminder emails in relation to your bookings which you did not finish. For the purposes of sending you such direct marketing communications/special offers, we will process your following personal data: name and e-mail address or phone number. For the purpose of the reminder email we will store and use the following data of your search: selected starting point and destination, oneway or return flight, departure|arrival times, number of passengers, selected fare type, total amount of fare price, the user is newsletter subscriber, booking type (normal, WDC, group), selected services, language of the site/Wizz Air application. We will store this set of data for four days. 
 
 5.3 Such consent is voluntary. You can unsubscribe any time without giving any reason, free of charge by clicking [here](https://web.archive.org/en-GB/Content.aspx?path=NewsletterUnsubscribe) or the link provided in each newsletter, or via changing preferences in your Wizz profile, or by sending a letter to 1185 Budapest, BUD Nemzetközi Repülőtér (BUD International Airport) Building 221. 
 
@@ -128,4 +130,4 @@ You have the right to request information on the data processing, and to request
 
 6.7 The wizzair.com website provides links to other websites for your convenience and information. Please be aware that these sites may be owned and run by other companies and organizations and have different security and privacy policies. Wizz Air has no control over and takes no responsibility for any information, material, products or services contained on or accessible through those websites. 
 
-6.8 This Privacy Policy is effective from 31 August 2015. 
+6.8 This Privacy Policy is effective from 23 December 2015. 
