@@ -1,24 +1,33 @@
-> *The following text is extracted and transformed from the celebritymeet.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502065530id_/http%3A//www.celebritymeet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritymeet.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407154909id_/http%3A//www.pussybook.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Pussy Pictures - Asses - Boobs - Largest Amateur Nude Girls Photos Erotic Archive - PussyBook
 
-Privacy Policy
+Privacy Policy for www.pussybook.org
 
-|  Privacy Policy   
----  
-Thursday, 17 June 2010 10:56   
-  
-**Privacy Policy** ****
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[at]pussybook.org.
 
-The privacy of our visitors to CelebrityMeet.com is important to us. At   
-visit Celebritymeet.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit CelebrityMeet.com, and how we safeguard your information. We never sell your personal information to third parties.  
-We will NEVER trade your personal information!We do not collect personal information.we just collect:
+At www.pussybook.org , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pussybook.org and how it is used.
 
 Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Like many other Web sites, www.pussybook.org makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. We also use third party advertisements on CelebrityMeet.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  
-Advertisements served by Google, as a third party vendor, use [DART cookies](http://www.doubleclick.com/privacy/faq.aspx). These cookies are used to serve ads based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+www.pussybook.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.pussybook.org .  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.pussybook.org and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html  
+(we do not use Google ads, but we gave it to you as an example, because the other advertisers also do that)
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Adbrite, JuicyAds and others.
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pussybook.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.pussybook.org has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pussybook.org ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
+
