@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rg3.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912160319id_/http%3A//www.northcarolinahotels24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rg3.net privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407214127id_/http%3A//www.northcarolinahotels24.com/privacy) for the most accurate reproduction.*
 
-# North Carolina hotelreservation – northcarolinahotels24.com – Beskyttelse af personlige oplysninger
+# North Carolina hotel reservation – northcarolinahotels24.com – Privacy
 
 ### Privacy Policy
 
