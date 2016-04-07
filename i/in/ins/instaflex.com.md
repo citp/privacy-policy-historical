@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921153912id_/http%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaflex.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074435id_/https%3A//www.instaflex.com/privacy) for the most accurate reproduction.*
 
-# Instaflex Advanced – Get a Sample Today|Privacy Policy
+# Instaflex Advanced – Get a Sample Today | Privacy Policy
 
-Welcome to the InstaFlex website (www.InstaFlex.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
+Welcome to the Instaflex website (www.Instaflex.com or the "Website"). This written policy (the "Privacy Policy") is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this Website and certain related services. Please be sure to read this entire Privacy Policy before using, or submitting information, to this Website.
 
 #### Policy
 
@@ -36,7 +36,7 @@ From time to time, we make the email addresses of those who access our Web site 
 
 Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by entering your email at the unsubscribe page.
 
-Persons who supply us with their telephone numbers may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by calling customer care at 1-800-436-0920. Please provide us with your name and phone number. We will use reasonable efforts to remove your name from the list we share with other organizations.
+By providing my phone number, I provide my signature expressly consenting to contact from Instaflex or its subsidiaries, affiliates, or agents at the number I provided regarding products or services via live, automated or prerecorded telephone call, text message, or email. I understand that my telephone company may impose charges on me for these contacts, and I am not required to enter into this agreement as a condition of purchasing property, goods, or services. I understand that I can revoke this consent at any time.
 
 We may disclose Personal Information to contractors, service providers or third party marketers that help us provide services, deliver products or advertisements to you.
 
@@ -44,11 +44,11 @@ If you would like to know (1) the categories of Personal Information that we dis
 
 #### Opt-Out Procedures
 
-You may always opt-out of receiving communications from us. To not receive future e-mail communications from InstaFlex, please go to www.InstaFlex.com or contact us at 1-800-436-0920.
+You may always opt-out of receiving communications from us. To not receive future e-mail communications from Instaflex, please go to www.Instaflex.com or contact us at 1-800-436-0920.
 
 #### Security of Information
 
-You can be assured that personal information collected through the Website is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected InstaFlex employees and contractors have access to via password. In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
+You can be assured that personal information collected through the Website is secure and is maintained in a manner consistent with current industry standards. The importance of security for all personal information associated with our subscribers is of utmost concern to us. Your personal information is protected in several ways. Your personal information resides on a secure server that only selected Instaflex employees and contractors have access to via password. In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third-party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
 
 Unfortunately, no data transmission over the internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations of the internet which are beyond our control; (b) the security, integrity, and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party. Moreover, where you use passwords, ID numbers, or other special access features on this Website, it is your responsibility to safeguard them.
 
@@ -70,7 +70,7 @@ A "cookie" is a bit of information that a website sends to your web browser that
 
 #### Links
 
-This Website may contain links to websites of third parties not affiliated with InstaFlex. This Privacy Policy will not apply to these third-party websites and the Website is not responsible for the privacy practices or the content on any of these other websites, even where these third-party sites indicate a special relationship or "partnership" with the Website. We do not disclose personally identifiable information to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of the Website. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from this Website.
+This Website may contain links to websites of third parties not affiliated with Instaflex. This Privacy Policy will not apply to these third-party websites and the Website is not responsible for the privacy practices or the content on any of these other websites, even where these third-party sites indicate a special relationship or "partnership" with the Website. We do not disclose personally identifiable information to those responsible for the linked sites. The linked sites, however, may collect personal information from you when you link to their site. This collecting of information is not subject to the control of the Website. To ensure protection of your privacy, always review the privacy policies of the sites you visit by linking from this Website.
 
 #### Changes to This Privacy Policy
 
