@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hantrainerpro.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207224929id_/http%3A//www.hantrainerpro.de/shop/privacypolicy.php%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hantrainerpro.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407163915id_/http%3A//www.hantrainerpro.de/shop/privacypolicy.php%3Flanguage%3Den) for the most accurate reproduction.*
 
 # Han Trainer - Privacy policy
 
