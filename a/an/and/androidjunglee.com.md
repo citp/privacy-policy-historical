@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidjunglee.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001946id_/http%3A//androidjunglee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidjunglee.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407101343id_/http%3A//androidjunglee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Android Junglee
 
@@ -64,8 +64,7 @@ By using our site, you consent to our [web site privacy policy](http://www.freep
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://androidjunglee.com
-
+http://androidjunglee.com  
 Hyderabad, Andhra Pradesh  
 India  
 shaktinaveen41@gmail.com
