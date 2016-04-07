@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022073148id_/http%3A//www.thedrum.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrum.co.uk privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407081949id_/http%3A//www.thedrum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Drum
 
