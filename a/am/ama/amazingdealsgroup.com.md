@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingdealsgroup.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121005149id_/http%3A//amazingdealsgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingdealsgroup.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407191250id_/http%3A//amazingdealsgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Amazing Deals Group
 
@@ -168,8 +168,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://AmazingDealsGroup.com](http://amazingdealsgroup.com/)   
-12716 Grande Pines Blvd   
-Plainfield, IL 60585   
+Naperville, IL 60563   
 admin@amazingdealsgroup.com
 
 Last Edited on 11-21-2014
