@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911053511id_/https%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyus.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407081612id_/https%3A//www.joyus.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Joyus - Privacy Policy
 
@@ -54,4 +54,4 @@ Joyus is committed to protecting your privacy. The information collected from ou
 
 If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [support@joyus.com](mailto:support@joyus.com).
 
-375 Alabama Street, Suite 325; San Francisco, CA 94110
+1940 Bryant St; San Francisco, CA 94110
