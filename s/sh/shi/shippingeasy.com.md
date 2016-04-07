@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926034825id_/https%3A//support.shippingeasy.com/hc/en-us/articles/203084479-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shippingeasy.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407081803id_/https%3A//support.shippingeasy.com/hc/en-us/articles/203084479-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – ShippingEasy Knowledge Base
 
 You may be concerned about the privacy of information that you give us. That’s fair enough. We have prepared this policy to help you understand how we collect, use and disclose your personal information. We may update this policy now and then by publishing a new version on the website, so please check back. You are welcome to get in touch if you would like to know more.
-
-**Your right to privacy**
-
-ShippingEasy must comply with the Privacy Act 1988 (Cth) and the National Privacy Principles when we handle your personal information.
 
 **What is personal information?**
 
