@@ -1,92 +1,55 @@
-> *The following text is extracted and transformed from the newco.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315115701id_/http%3A//newco.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newco.co privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407031935id_/http%3A//newco.co/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy : NewCo
+# NewCo | privacypolicy
 
-**NewCo Platform, Inc. Privacy Policy**
+NewCo Platform, Inc. Privacy Policy Effective November 13, 2013 1\. OVERVIEW NewCo Platform, Inc. currently operates (a) NewCo festivals (the events) and (b) the online site Newco.co, among other sites and services. This Privacy Policy applies to consumers who provide us with information in connection with their participation in NewCo Platform, Inc. events. The Policy describes NewCo’s collection and use of your Personal Information (e.g., information that identifies a specific person, such as full name, postal address, telephone number, email address, or credit or debit card number). It also generally describes NewCo’s practices for handling Other Information (e.g., interests, demographics and site usage) collected from you. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy. 2\. INFORMATION WE COLLECT Personal Information “Personal Information” is the information that identifies you as an individual, such as name, postal address, telephone number, email address and credit or debit card number. Personal Information You Submit We collect Personal Information when you submit it to us, including but not limited to your registration or subscription to certain products or services, such as registering for any NewCo events we may create in the future. Other Information “Other Information” is any information that does not reveal your specific identity, such as browser information, information collected through cookies and other technologies, demographic information, and aggregated information. We may combine Other Information with your Personal Information, and when we do, we treat the combined information as Personal Information. Other Information You Submit We collect Other Information when you submit it to us. It may include your gender, education, occupation, financial information (such as your income, investments, portfolio transactions and value, and other information), interests, photos, connections, and comments. Other Information We Receive from Third Parties We may receive Other Information about you from third parties, including, for example, demographic data, information about your interests, and information about your activities on other websites. Other Information We Collect Automatically When You are Online When you access our site, we automatically collect certain information about those visits. For example, in order to permit your connection to our Online Services, our servers receive and record information about your computer and browser, potentially including your IP address, browser type, and other software or hardware information. If you access our Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device (“UDID”) or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. We may use these technologies to facilitate our login processes; personalize your experience; display relevant content, products, services and advertising, as described further below; and collect and store information about your usage of our Services. 3\. HOW WE USE YOUR INFORMATION We use the Personal Information we collect from and about you for the purposes set forth below. Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information. To improve the quality of our products and services, we may combine the Personal and Other Information we collect with information that you provide to us in connection with your use of our other products, services and websites, or information from third parties. To provide and manage our services. We use the information we collect from and about you to provide our products and services and features to you, including: to process and fulfill your registration, to send you information about your relationship or transactions with us, to measure and improve those services and features, to personalize your experience, to provide you with customer support, and to respond to inquiries. To deliver relevant content and recommendations. To make your experience more interesting and personalized, we may use any of the Personal and Other Information we collect to assist us in delivering content on our Online Services. To contact you. NewCo Platform, Inc. may periodically send promotional materials or notifications related to our products and services to the email address you provided to us at registration or to your account. To help make these promotional materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you promotional materials. If you want to stop receiving promotional materials from us, you can change your setting through the appropriate link on the website account services page or follow the unsubscribe instructions at the bottom of each email. 4\. HOW WE SHARE YOUR INFORMATION We only share your Personal Information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. In addition, we may share your Personal Information with partners such as sponsors or businesses which aide us in delivering services to you. NewCo Platform, Inc. is the party responsible for the management of the jointly-used Personal Information. We also share your Personal Information: To manage registrations. If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. To allow third-party service providers to assist us in providing and managing Our Services. We may make your Personal Information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; auditing; processing data or statistics; and serving, customizing or delivering marketing or ads. These outside service providers are required to protect Personal Information entrusted to them and not use it for any other purpose than the specific service they are providing to us. To permit third parties to send you promotional materials. If you register for an event, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, you may opt out through a link at the bottom of each email, or by emailing info@newco.co. To protect the rights of NewCo and its users. There may be instances when NewCo may disclose your Personal Information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of NewCo, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence. To complete a merger or sale of assets. If NewCo sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, NewCo may transfer your information to the party or parties involved in the transaction as part of that transaction. 5\. NOTICE Means of Notice and Choice. This Privacy Policy is the primary means by which we provide you with notice and choice about our collection and use of your Personal Information. If we ask for specific Personal Information that will be used in a manner different from what is described in this Privacy Policy, we will inform you at the time of collection. Privacy Policy Changes. NewCo may modify this Privacy Policy as necessary. If we make material changes to this Privacy Policy that materially expand our rights to use your Personal Information, we will provide you with notice and choice consistent with applicable law. Cross-Border Transfer. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our products and services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country. Data Retention. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 6\. HOW TO ACCESS, CORRECT OR UPDATE YOUR INFORMATION You can access or modify your registration information and modify your preferences by contacting support@newco.co. Your California Privacy Rights California Law permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at: NewCo Platform, Inc. 1202 Ralston Avenue Suite 207 San Francisco, CA 94129 and include your name and the address to which you would like us to respond.
 
-**Effective November 13, 2013**
+* * *
 
-**1\. Overview**
+### Platinum Partner
 
-NewCo Platform, Inc. currently operates NewCo festivals (the events) and (b) the online site newco.co, among other sites and services.
+Twitter
 
-This Privacy Policy applies to consumers who provide us with information in connection with their participation in NewCo Platform, Inc. events. The Policy describes NewCo’s collection and use of your Personal Information (e.g., information that identifies a specific person, such as full name, postal address, telephone number, email address, or credit or debit card number). It also describes generally NewCo’s practices for handling Other Information (e.g., interests, demographics and site usage) collected from you. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+### Gold Partners
 
-**2\. INFORMATION WE COLLECT**
+LinkedIn
 
-**Personal Information** ****
+Citi Ventures
 
-“Personal Information” is the information that identifies you as an individual, such as name, postal address, telephone number, email address and credit or debit card number.
+Silicon Valley Bank
 
-_Personal Information You Submit_
+### Silver Partners
 
-We collect Personal Information when you submit it to us, including but not limited to when you register for or subscribe to certain products or services, such as registering for any NewCo events we may create in the future.
+Manatt
 
-**Other Information**
+Perkins Coie
 
-“Other Information” is any information that does not reveal your specific identity, such as browser information, information collected through cookies and other technologies, demographic information, and aggregated information. We may combine Other Information with your Personal Information, and when we do, we treat the combined information as Personal Information.
+WSGR
 
-_Other Information You Submit_
+Buzzfeed
 
-We collect Other Information when you submit it to us. It may include your gender, education, occupation, financial information (such as your income, investments, portfolio transactions and value, and other information), interests, photos, connections, and comments.
+Snapchat
 
-_Other Information We Receive from Third Parties_
+Kroger
 
-We may receive Other Information about you from third parties, including, for example, demographic data, information about your interests, and information about your activities on other websites.
+P&G
 
-_Other Information We Collect Automatically When You are Online_
+Scripps
 
-When you access our site, we automatically collect certain information about those visits. For example, in order to permit your connection to our Online Services, our servers receive and record information about your computer and browser, potentially including your IP address, browser type, and other software or hardware information. If you access our Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device (“UDID”) or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. We may use these technologies to facilitate our login processes; personalize your experience; display relevant content, products, services and advertising, as described further below; and collect and store information about your usage of our Services.
+Xavier
 
-**3\. HOW WE USE YOUR INFORMATION**
+Deloitte
 
-We use the Personal Information we collect from and about you for the purposes set forth below. Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information.
+### Marketing Partners
 
-To improve the quality of our products and services, we may combine the Personal and Other Information we collect with information that you provide to us in connection with your use of our other products, services and websites, or information from third parties.
+[](http://founderdating.com/) Founder Dating
 
-**To provide and manage our services**. We use the information we collect from and about you to provide our products and services and features to you, including: to process and fulfill your registration, to send you information about your relationship or transactions with us, to measure and improve those services and features, to personalize your experience, to provide you with customer support, and to respond to inquiries.
+[](http://mashable.com/) Mashable
 
-**To deliver relevant content and recommendations**. To make your experience more interesting and personalized, we may use any of the Personal and Other Information we collect to assist us in delivering content on our Online Services.
+[](http://pando.com/) Pando
 
-**To contact you**. NewCo Platform, Inc. may periodically send promotional materials or notifications related to our products and services to the email address you provided to us at registration or to your account. To help make these promotional materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you promotional materials. If you want to stop receiving promotional materials from us, you can change your setting through the appropriate link on the website account services page or follow the unsubscribe instructions at the bottom of each email.
+[](http://huffingtonpost.com/) The Huffington Post
 
-**4\. HOW WE SHARE YOUR INFORMATION** _  
-_
+[](http://venturebeat.com/) Venture Beat
 
-We only share your Personal Information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. In addition, we may share your Personal Information with partners such as sponsors or businesses which aide us in delivering services to you. NewCo Platform, Inc. is the party responsible for the management of the jointly-used Personal Information.
-
-We also share your Personal Information:
-
-**To manage registrations**. If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription.
-
-**To allow third-party service providers to assist us in providing and managing Our Services**. We may make your Personal Information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; auditing; processing data or statistics; and serving, customizing or delivering marketing or ads. These outside service providers are required to protect Personal Information entrusted to them and not use it for any other purpose than the specific service they are providing to us.
-
-**To permit third parties to send you promotional materials**. If you register for an event, we may share your contact information with other companies whose products and services may be of interest to you. While many of our subscribers appreciate receiving offerings from these companies, if you prefer that we do not share your information for this purpose, you may opt out through a link at the bottom of each email, or by emailing info@newco.co.
-
-**To protect the rights of NewCo and its users**. There may be instances when NewCo may disclose your Personal Information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of NewCo, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence.
-
-**To complete a merger or sale of assets**. If NewCo sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, NewCo may transfer your information to the party or parties involved in the transaction as part of that transaction.
-
-**5\. NOTICE**
-
-**Means of Notice and Choice**. This Privacy Policy is the primary means by which we provide you with notice and choice about our collection and use of your Personal Information. If we ask for specific Personal Information that will be used in a manner different from what is described in this Privacy Policy, we will inform you at the time of collection.
-
-**Privacy Policy Changes**. NewCo may modify this Privacy Policy as necessary. If we make material changes to this Privacy Policy that materially expand our rights to use your Personal Information, we will provide you with notice and choice consistent with applicable law.
-
-**Cross-Border Transfer**. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our products and services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
-
-**Data Retention**. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
-
-**6\. HOW TO ACCESS, CORRECT OR UPDATE YOUR INFORMATION**
-
-You can access or modify your registration information and modify your preferences by contacting info@newco.co.
-
-Your California Privacy Rights
-
-California Law permits our customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their own direct marketing purposes. To make such a request, please write to us at:
-
-**NewCo  Platform, Inc.**  
-PO Box 113  
-Petaluma, CA 94952
-
-and include your name and the address to which you would like us to respond.
+[](http://webrazzi.com/) Webrazzi
