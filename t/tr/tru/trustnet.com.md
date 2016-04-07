@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006165948id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407174602id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FE Trustnet
 
@@ -63,4 +63,4 @@ Any changes we make to our privacy policy in the future will be posted on this p
 Our site contains links to other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
 **CONTACT**  
-If you want more information or have any questions or comments relating to our privacy policy please email [publishing@financialexpress.net](mailto:publishing@financialexpress.net?subject=Trustnet%20United%20Kingdom%20Privacy%20Cookie%20Policy) in the first instance. 
+If you want more information or have any questions or comments relating to our privacy policy please [click here](https://web.archive.org/Help/ContactUs.aspx). 
