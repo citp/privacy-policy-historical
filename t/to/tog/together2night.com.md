@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the together2night.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207035450id_/http%3A//www.together2night.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the together2night.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407062842id_/http%3A//www.together2night.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at Together2Night
 
@@ -22,7 +22,7 @@ This policy (together with our [terms and conditions of use](https://web.archive
 
 **1\. WHO WE ARE**
 
-Together Networks Holdings Limited (located at P.O. Box 146, Trident Chambers, VG1110, Road Town, Tortola, British Virgin Islands) is a subsidiary of Together Networks Holdings Limited (located at Trident Chambers, P.O. Box 146, Road Town, Tortola, British Virgin Islands). 
+Together Networks Holdings Limited (located at P.O. Box 146, Trident Chambers, Road Town, Tortola, British Virgin Islands) is a subsidiary of Together Networks Holdings Limited (located at Trident Chambers, P.O. Box 146, Road Town, Tortola, British Virgin Islands). 
 
 We, Together Networks Holdings Limited, are the owner of this website and, for the purposes of the Data Protection Act 1998 (as amended), we are the data controller, maintaining a data controller registration with the Information Commissioner. 
 
@@ -145,107 +145,7 @@ _**Third Party Service Providers**_
 We share your personal information with third party service providers in order to provide the Services to you including third parties who assist us with information processing, credit and payment processing, fulfilment of your subscription order, managing and hosting data, conducting consumer research or satisfaction surveys. These disclosures relate to providing our Services, improving our Services and delivering targeted advertising to you. We do not provide your contact details to third parties for direct marketing by them to you without your express consent. 
 
 _**Change of ownership of the business**_  
-As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that any of our Group Companies or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
-
-  * Other companies in the same corporate group as us;
-  * A buyer or prospective buyer of our business;
-  * Our professional advisers, such as our lawyers, where it is necessary for them to advise;
-  * Other persons if we are under a duty to disclose or share your information in order to comply with any legal obligation.
-
-
-
-_**Business partners**_  
-When you register or make purchases on our Website or click-through our advertisements offered on third-party websites or applications, we may share your personal information with the businesses with which we collaborate to offer you the applicable products, services, or any advertisements. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant. 
-
-_**Advertisement servers**_  
-At our Website, third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and website analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and governed by this privacy policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Website and elsewhere. 
-
-_**Aggregated or non-personal information**_  
-We may share your non-personal information we collect under any of the above circumstances. We may also share it with other companies and third parties to develop and deliver targeted advertising on our Website and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine non-personal information we collect with additional non-personal information collected from other sources. 
-
-**5\. MARKETING**
-
-**(a) When we market to you directly about our products and services**  
-We may share your information with our Partner Sites and Group Companies to develop and deliver targeted advertising to you of our Partner Sites and Group Companies’ products and services, or to help us to prepare marketing reports. We may send you information about our Partner Sites and Group Companies’ products and services, news and offers, and selected third party products and services that we think may be of interest to you. We may do this by contacting you through your email address or mobile phone number that you have provided. Any communication received from us, as consented to by you, will clearly state that it is being sent by us. You have the option to opt-out of our marketing communications at any time (see below). 
-
-**(b) When third parties market to you (Our “third party Partner Services”)**  
-If you have consented to receive marketing communications from third parties, referred to as Partner Services, your data may be passed on to such third parties as we enter into data sharing agreements with, from time to time, for marketing and analytical reporting purposes. We cannot be held liable for the content of the third party’s communications or products/services they are promoting. If you have provided this consent, but change your mind, you can opt-out at any time (see below). Please be advised that you will also require to contact the individual third parties who have been marketing to you if you wish to stop receiving their communications directly. 
-
-**(c) Opting Out of Marketing**  
-If you change your mind about the marketing consent you have granted to us, you can amend your preferences under the “My Account” section of your chosen Site or emailing our support team. 
-
-**6\. WHERE WE STORE YOUR DATA**
-
-The personal data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area ( **'EEA'** ) including but not limited to Canada where we host our servers. It may also be processed by law enforcement agencies, employees and independent contractors of our Group Companies located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services to us). By submitting your personal data to us, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
-
-**4A. HOW WE USE YOUR INFORMATION – AN OVERVIEW**
-
-We process data we collect from you for the following core purposes:
-
-  * To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this);
-  * To help us improve the structure, layout and usability of the Services;
-  * To allow you to participate in any interactive features of the Services (including the features that require the mobile phone number);
-  * To help personalise your repeat visits to and usage of the Services;
-  * To notify you of any compatible matches or any matches who are near your location;
-  * To provide you with information on products or services or news and offers that you request from us (see below under **'Marketing'** for more information);
-  * To answer any questions you may raise or respond to any comments you may send to us;
-  * To notify you about changes to our service or the functionality of the Site;
-  * To carry out market analysis and research;
-  * To ensure that you are complying with the terms and conditions of use and to comply with our statutory and regulatory obligations.
-
-
-
-_**Providing our products and services**_  
-We use the information we collect about you:   
-(1) to fulfill your requests for our products, programs, and services;   
-(2) to respond to your inquiries about our offerings;   
-(3) to provide, personalize, and improve our offerings; and   
-(4) to offer you other products, programs, or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.   
-We may also use information that we collect about you to   
-(1) perform research and analysis about your use of, or interest in, our products, services, or content, or products, services, or content offered by others; or   
-(2) develop and display content and advertising tailored to your interests on our Website and other websites, including providing our advertisements to you when you visit other websites.   
-We use the information we collect for our online forums and communities to provide an inter-active experience. We use this information to facilitate participation in these online forums and communities and, on one or more occasions, to offer you products, programs, or services.  
-If you choose to submit content, we may publish your screen name and other information you have provided to us on our Website, the Internet, or elsewhere. 
-
-_**Communications**_  
-We use information about you to communicate with you, including:   
-(1) to notify you when we make changes to our terms;   
-(2) to otherwise enforce or exercise any rights in our terms;   
-(3) to fulfil a request by you for an online newsletter;   
-(4) to confirm purchasers you have made through our Website; or   
-(5) to contact you about your account with us (including managing your account and providing you with customer support).   
-If offered, you may also choose to receive push notifications from us on your mobile device. Please note that any communications from other users are through our internal systems, which we use to match the message to you and generate an email notice without disclosing any information aside from your chosen screen name and the information contained in your profile.  
-We use the information that you provide about others to allow us to send them invitations, gifts, cards, or other content on your behalf or through our Website. Occasionally, we also may use this information to offer products, programs, or services to them. 
-
-_**Mobile device data usage**_  
-When you access our Website on a mobile device, we may use the information collected for any purpose stated in this privacy policy. 
-
-_**Use of non-personal information**_  
-We use aggregate information about our users and non-personal information that we collect to improve the design, functionality, and content of our Website and to allow us to personalize your experience with our Website and offerings. We use this information   
-(1) to provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business;   
-(2) to analyze usage and performance of our Website (including to perform ad tracking and website or mobile application analytics); and   
-(3) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services. 
-
-**4B. HOW WE USE YOUR INFORMATION – IN DETAIL**
-
-**(a) Creation of duplicate profiles across our Partner Sites**  
-When you sign up to any one of our Services we will send you an email shortly afterwards advising that we have created a duplicate profile on our Partner Sites to enhance your chance of finding a suitable match. When we email you about this you will have the option to decline this service, which costs nothing extra. 
-
-**(b) Important notice about how we use your photographs**  
-As we explain in our terms and conditions, when you upload a photo to any of our Services you are allowing us to use that photo for advertising and other commercial purposes, royalty free. For full details please refer to our terms and conditions – **Licence to My Content**. 
-
-**(c) How we use your information about your Contacts**  
-If you choose to upload your Contact’s name and email address and/or mobile number you are allowing us to send an email or social network or mobile invitation on your behalf, inviting your Contact to join the Services. We will store your Contact’s name and email address solely for the purposes of inviting them to sign up to our Services and for associating your Contact with you and other people they may know. If your Contact does not want us to store their email address which you uploaded to our Services, they can ask us to remove it by contacting our support team. We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Services, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again. 
-
-**(d) When we disclose your information to third parties and why**  
-_**Legal disclosures**_  
-We may be required by law e.g. through potential or actual litigation, court order, public or governmental authorities, or rules and regulations within or out with your country of residence to disclose all or part of your information to third parties. We may also deem it necessary to make such a disclosure in the event of an issue of national security, law enforcement or other such similar situations as we deem necessary including, for example, allegations of alleged infringement of copyright, trade marks or other third parties’ rights by users. 
-
-_**Third Party Service Providers**_  
-We share your personal information with third party service providers in order to provide the Services to you including third parties who assist us with information processing, credit and payment processing, fulfilment of your subscription order, managing and hosting data, conducting consumer research or satisfaction surveys. These disclosures relate to providing our Services, improving our Services and delivering targeted advertising to you. We do not provide your contact details to third parties for direct marketing by them to you without your express consent. 
-
-_**Change of ownership of the business**_  
-As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that any of our Group Companies or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
+As we continue to develop our business, we might sell, buy or otherwise transfer our assets either within in our corporate group, or with third parties. In such transactions, the information we have collected about you in accordance with this Privacy Policy and through your use of the services (including payment activity and billing methods) will generally be one of the transferred business assets. Also in the unlikely event that any of our group companies or our assets are purchased, your information will also be one of the transferred assets. We may share information about you with: 
 
   * Other companies in the same corporate group as us;
   * A buyer or prospective buyer of our business;
@@ -338,7 +238,7 @@ You have the right to choose whether or not to accept cookies and we explain how
 
   
 You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this follow the instructions provided by your browser (usually located within the "Help", "Tools" or "Edit" facility). Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser.   
-Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](https://web.archive.org/web/20151207035450id_/http%3A//www.together2night.com/staticPage/www.youronlinechoices.eu). 
+Further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.aboutcookies.org](http://www.aboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 _**What cookies are used for and why we use them on this Site**_  
 This table shows fully the cookie functions and why they are used, although our uses may change over time and it is important that you revisit this page to understand these uses:
@@ -352,8 +252,8 @@ Site features and services | These cookies and local storage devices provide the
 Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for our Services.  
 Ad Serving & Behavioural Advertising | We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
 Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer.   
-For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](https://web.archive.org/web/20151207035450id_/http%3A//www.together2night.com/staticPage/www.youronlinechoices.eu) and select your country.   
-These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20151207035450id_/http%3A//www.together2night.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and select your country.   
+These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20160407062842id_/http%3A//www.together2night.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
   
 **10\. OUR RIGHTS TO AMEND THIS POLICY**
 
