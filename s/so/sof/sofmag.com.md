@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905223619id_/https%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofmag.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407132907id_/https%3A//www.sofmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Soldier of Fortune Magazine
+# Privacy Policy – Soldier of Fortune Magazine
 
 **What information do we collect?**  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill outa form.
