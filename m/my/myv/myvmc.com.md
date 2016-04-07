@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvmc.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091752id_/http%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvmc.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407192727id_/http%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myVMC
 
@@ -31,7 +31,15 @@ If you do nothing during your visit to this site but browse or download informat
 
 The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. myVMC analyses our site logs to continually improve the value of the materials available on our site. Our site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse this site.
 
-Currently we are using Google Analytics to analyse the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, see http://www.google.com/intl/en_uk/analytics/privacyoverview.html
+Currently we use Google Analytics features (including Google Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager and Google Analytics Demographics and Interest Reporting) on our website. We, and some third parties (including Google), use both first party and third party cookies to record standard internet traffic information to optimise ad selection based on age, gender, interests and past visits to our site; evaluate your interactions with ad services on our site; and serve targeted advertising on sites across the Internet.
+
+We, and some third parties (including Google), also use first and third party cookies to optimise advertising on our websites.
+
+Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information.
+
+To opt out of these features at any time, simply change your Google Ads Settings by [clicking here](http://google.com.au/policies/technologies/ads). Alternatively, you can opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://networkadvertising.org/choices/#completed>).
+
+If you do not wish to receive any cookies you may set your browser to refuse cookies. However, this will mean that we will not be able to personalise your website each time you visit.
 
 myVMC will not collect your personal information unless you have consented and given it to us.
 
