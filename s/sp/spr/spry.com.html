@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spry.com privacy policy that was archived on 2015-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151118233230id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spry.com privacy policy that was archived on 2016-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407113130id_/http%3A//www.spry.com/legal/legal_privacy.bml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -44,11 +44,45 @@
 				            });
 				</script>
 
+
 <script>
 window.V = window.V || {};
 V.cart = V.cart || {
 	items: []
 };
+
+V.grammar = V.grammar || {
+	chatserver: "chatserver.spry.com"
+}
+// chat script
+V.chat = {
+  initialize: function () {
+    var _this = this;
+    if (V.grammar.chatserver) {
+      // bind chat links to chat function
+      var chatLinks = document.querySelectorAll('[href="#chat"]');
+			for (var i = 0; i < chatLinks.length; i++) {
+				chatLinks[i].addEventListener('click', function (e) {
+					return _this.popUp('https://' + V.grammar.chatserver, 500, 750);
+				});
+			}
+    }
+  },
+  popUp: function (url, width, height) {
+    var id = new Date();
+
+    width = width || 900;
+    height = height || 800;
+
+    window.open(
+      url,
+      id.toString(),
+      "toolbar=no,scrollbars=yes,location=no,statusbar=no,menubar=no,resizable=no,width=" + width + ",height=" + height
+    );
+  }
+}; // end V.chat
+
+window.addEventListener('load', function() { V.chat.initialize() }, false);
 </script>
 
 
@@ -63,7 +97,7 @@ V.cart = V.cart || {
 
 
 
-		<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=66651396"></script></head><body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; width: 2em; height: 2em; top: -29px; left: 0px; border-width: 0px;"></iframe><block>
+		</head><body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; width: 2em; height: 2em; top: -29px; left: 0px; border-width: 0px;"></iframe><block>
 			<style>
 				.quicklinks {width: 200px; float: right; margin: 0 0 2em 2em;}
 				.info_msg {width: 400px;}
@@ -448,7 +482,7 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 					</ul>
 				</li>
 			</ul>		 
-			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on April 30, 2015.</strong></p><strong>
+			<p><br><strong></strong></p><p class="last-updated"><strong>This file was last modified on May 29, 2015.</strong></p><strong>
 </strong><p></p>
 		</block></td></tr></tbody></table></td></tr></tbody></table>
 <img src="/images/trans.gif" width="700" height="1">
@@ -479,19 +513,6 @@ On February 10, 2014, we updated and reorganized our Privacy Policy to better ex
 <a href="/support/sitemap.bml">Sitemap</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="/spry/hosting.bml">VPS Hosting</a><p></p></div></div>
-
-
-
-
-	<script type="text/javascript">
-		window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'66651396',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
-	</script>
-
-
-
-
-
-
 
 
 
