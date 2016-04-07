@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223358id_/http%3A//www.irf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407160052id_/http%3A//www.irf.com/privacy) for the most accurate reproduction.*
 
 # International Rectifier Privacy Policy
 
