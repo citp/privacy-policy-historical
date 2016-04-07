@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsfun.com.au privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704002751id_/http%3A//www.smsfun.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsfun.com.au privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407051612id_/http%3A//www.smsfun.com.au/privacy.php) for the most accurate reproduction.*
 
 # SMSFun - Privacy Policy
 
