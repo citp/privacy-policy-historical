@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchorfree.us privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203200828id_/http%3A//anchorfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.us privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407190720id_/http%3A//anchorfree.com/privacy.php) for the most accurate reproduction.*
 
 # AnchorFree Hotspot Shield Privacy & Security Policy - Get behind the Shield
 
@@ -11,7 +11,7 @@ Welcome, and thank you for your interest in AnchorFree, Inc and AnchorFree GmbH 
 
 This Notice generally describes the information that we gather from you on the Service, the ways in which we use and disclose this information, and the steps we take to protect this information. By using the Service, you consent to the privacy practices described in this Notice.
 
-This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20151203200828id_/http%3A//anchorfree.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
+This Notice is incorporated into and is subject to the AnchorFree [Terms of Use](https://web.archive.org/web/20160407190720id_/http%3A//anchorfree.com/terms). Capitalized terms used but not defined in this Notice have the meaning given to them in the AnchorFree Terms of Use.
 
 #### Our Commitment to User Privacy:
 
