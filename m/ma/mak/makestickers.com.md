@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714190212id_/http%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makestickers.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408010853id_/http%3A//www.makestickers.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MakeStickers.com
 
@@ -9,6 +9,8 @@ Graphicsland has created this privacy statement in order to demonstrate our firm
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses temporary cookies to keep track of your shopping cart during your visit. If allowed by your browser settings, we do store your order number but no other personal information as "cookies" on your computer. Our system requires temporary "session" cookies, but not "permanent" cookies.
 
 Third party vendors, including Google, use cookies to serve the badge on your website and to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies to serve ads based on a user's prior visits to your website by visiting the Google advertising opt-out page. (Alternatively you can point users who wish to opt out of a third party vendor's use of cookies for interest-based advertising to the Network Advertising Initiative opt out page.)
+
+In addition, we have implemented Google Analytics features based on Display Advertising. You can [opt-out of this by changing your Ads Settings](https://tools.google.com/dlpage/gaoptout/). We will use the information provided by Google solely for internal use and will never share or sell this data. We will only use this data to make our site more functional and develop content relevant to our users interests.
 
 * * *
 
