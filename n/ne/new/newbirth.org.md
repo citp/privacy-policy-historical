@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbirth.org privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915162947id_/http%3A//newbirth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbirth.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407074411id_/http%3A//newbirth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Birth Missionary Baptist Church-Lithonia, GA
 
