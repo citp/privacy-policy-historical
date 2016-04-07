@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurweb.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084240id_/http%3A//www.eurweb.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurweb.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407040828id_/http%3A//www.eurweb.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | EURweb
 
