@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coreos.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132503id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coreos.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407133002id_/https%3A//coreos.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoreOS
 
@@ -88,7 +88,7 @@ We may allow others to provide analytics services in connection with the Service
 
 ### Account Information
 
-If you wish to delete your account, please email us at [partners@coreos.com](mailto:partners@coreos.com). Note that we may retain certain information as required by law or for legitimate business purposes as may be necessary to fulfill the purposes identified in the privacy policy. We may also retain cached or archived copies of information (including location information) about you for a certain period of time.
+If you wish to delete your account, please email us at partners@coreos.com. Note that we may retain certain information as required by law or for legitimate business purposes as may be necessary to fulfill the purposes identified in the privacy policy. We may also retain cached or archived copies of information (including location information) about you for a certain period of time.
 
 ### Cookies
 
@@ -98,4 +98,4 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 You may opt out of receiving promotional communications from CoreOS by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-If you have any questions or concerns about this privacy policy or any privacy issues, please email us at: [partners@coreos.com](mailto:partners@coreos.com).
+If you have any questions or concerns about this privacy policy or any privacy issues, please email us at: partners@coreos.com.
