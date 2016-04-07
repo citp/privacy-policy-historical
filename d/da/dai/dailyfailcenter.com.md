@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfailcenter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225203539id_/http%3A//www.dailyfailcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfailcenter.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407105015id_/http%3A//www.dailyfailcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DailyFailCenter
 
