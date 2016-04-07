@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905200308id_/https%3A//www.onforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onforce.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408015312id_/https%3A//www.onforce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OnForce
+# Privacy Policy for OnForce Online Talent Platform
 
 OnForce, Inc. respects the privacy of personal information it receives in the course of our business. This policy expresses OnForce’s commitment to maintain the privacy of personal information that is shared with us, outlines what types of personally identifiable information OnForce receives, and summarizes what we do with this personal information.
 
