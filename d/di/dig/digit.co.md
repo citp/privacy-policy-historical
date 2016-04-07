@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224537id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407094424id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digit
 
@@ -120,4 +120,4 @@ Subject to applicable law, we may revise this Privacy Policy at any time and in 
 
 ## Contacting Us
 
-If you have any questions regarding this Privacy Policy, or if you wish to ask us to delete, correct, or show you your Personal Information as provided above, please contact us at [help@digit.co](mailto:help@digit.co), 1-888-322-3103, or Hello Digit, Inc., 220 Montgomery St., Suite 319, San Francisco, CA 94104.
+If you have any questions regarding this Privacy Policy, or if you wish to ask us to delete, correct, or show you your Personal Information as provided above, please contact us at [help@digit.co](mailto:help@digit.co), 1-888-322-3103, or Hello Digit, Inc., 235 Montgomery St., Suite 650, San Francisco, CA 94104.
