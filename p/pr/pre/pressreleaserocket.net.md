@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressreleaserocket.net privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031133412id_/http%3A//www.pressreleaserocket.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleaserocket.net privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407161217id_/http%3A//www.pressreleaserocket.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Press Release Rocket
+# Privacy Policy - Press Release Rocket
 
 **Press Release Rocket** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
