@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsystem.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001013520id_/https%3A//advertiser.adknowledge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsystem.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407055310id_/https%3A//advertiser.adknowledge.com/privacy) for the most accurate reproduction.*
 
 # Privacy || BidSystem || Adknowledge
 
