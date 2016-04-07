@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualphotos.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222222559id_/http%3A//www.visualphotos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualphotos.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407120945id_/http%3A//www.visualphotos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stock Photos | Royalty Free | Royalty Free Photos
 
