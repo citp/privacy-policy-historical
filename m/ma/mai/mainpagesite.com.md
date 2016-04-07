@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainpagesite.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108133034id_/http%3A//mainpagesite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainpagesite.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407222112id_/http%3A//mainpagesite.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Main Page Site
 
