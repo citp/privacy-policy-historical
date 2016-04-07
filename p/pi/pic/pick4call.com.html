@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pick4call.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222172637id_/http%3A//www.pick4call.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pick4call.com privacy policy that was archived on 2016-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407021613id_/http%3A//www.pick4call.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
 	<!--Site charset-->
   <meta charset="utf-8">
   <!--Site title-->
@@ -45,7 +45,7 @@
   
   
   <!-- jQuery & Foundation Framework -->
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" src="assets/scripts/modernizr.foundation.js"></script> 
+  <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script type="text/javascript" src="assets/scripts/modernizr.foundation.js"></script> 
 </head>
 <body>
 
@@ -61,68 +61,25 @@
 
 
 
-<style class="cp-pen-styles">
-div#containern {
-  display: table;
-  width: 990px;
-border: #ccc 1px solid;
-border-radius: 6px;
-  margin: 0px auto 0;
+
+
+
+<script language="javascript">
+function searchcheck()
+{
+var sear= document.getElementById("country").value;
+if(sear=="")
+{
+	alert("Please Enter Search Term");
 }
-div#containern div.celln {
-  display: table-cell;
+else
+{
+	document.getElementById('form-id').submit();
 }
-div#containern div.celln:last-child {
-  width: 1px;
 }
+</script>
 
-input[type=search] {  
-  width: 100%;
-  height: 50px;
-
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  
-  font-family: inherit;
-  font-size: inherit;
-}
-div.buttonc {  
-  width: 100%;
-  height: 50px;
-
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  
-  font-family: inherit;
-  font-size: inherit;
-}
-
-input[type=search] {
-  margin: 0;
-  padding: 0 40px;
-  
-  background-color: #fff;
-  
-  border: 0;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-}
-
-div.buttonc {
-  line-height: 50px;
-
-  margin: 0;
-  padding: 0 20px;
-
-  color: #fff;
-  background-color: #8AC91B;
-  font-weight: bold;
-  
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
-  
-  white-space: nowrap;
-}</style><header><div class="header-bg">
+<header><div class="header-bg">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="258" height="26" align="center"><div id="fb-root"></div>
@@ -135,7 +92,7 @@ div.buttonc {
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-like" data-href="https://facebook.com/pick4call" data-layout="standard" data-action="like" data-show-faces="false" data-share="true"></div></td>
     <td width="722">&nbsp;</td>
-    <td width="134" align="center" style="color:#FFF"><a href="free_listing.php" style="color:#FFF"><strong>Sign up</strong></a><strong> | Login</strong></td>
+    <td width="134" align="center" style="color:#FFF"><a href="free_listing.php" style="color:#FFF"><strong>Submit Your Listing</strong></a></td>
   </tr>
 </tbody></table>
 </div>
@@ -157,7 +114,7 @@ div.buttonc {
     <!--Login buttons-->  
     <div class="three columns login-buttons">
     	<div class="space-b-20 hide-for-small">&nbsp;</div>	
-   <img src="assets/images/call.png" width="250" height="50">
+
     </div>
     <!--end login buttons-->
     
@@ -173,13 +130,14 @@ div.buttonc {
 <!-- SEARCH BAR SECTION
 ================================================ -->
 <section>
+
 	<!--Search bar-->
 	<div id="search-bar">
   	<div class="row">
    <form class="form-wrappern cf" method="GET" action="search_result.php" id="form-id">
   	<div id="containern">  
-  <div class="celln"><input type="search" name="query" placeholder=""></div>
-  <div class="celln"><a href="#" onclick="document.getElementById('form-id').submit();"><div class="buttonc" style="cursor:pointer;"> SEARCH </div></a></div>
+  <div class="celln"><input type="hidden" name="city" value="Agra"><input type="search" name="query" placeholder="" id="country"></div>
+  <div class="celln"><a href="#" onclick="searchcheck();"><div class="buttonc" style="cursor:pointer;"> SEARCH </div></a></div>
 </div>
 </form>
     </div><!--end row-->
@@ -232,198 +190,178 @@ div.buttonc {
 
 
 
+<style type="text/css">
+  #menu ul {list-style: none;padding: 0px;margin: 0px;}
+  #menu ul li {display: block;position: relative;float: left;}
+  #menu li ul {display: none;}
+  #menu ul li a {display: block;padding: 10px 25px 5px 10px;text-decoration: none;
+           white-space: nowrap;color: #fff;font-size:14px}
+  #menu ul li a:hover {background: #f00;}
+  #menu li:hover ul {display: block; position: absolute;}
+  #menu li:hover li {float: none;}
+  #menu li:hover a {background: #f00;}
+  #menu li:hover li a:hover {}
+  #drop-nav li ul li {border-top: 0px;}
 
-<!-- SUPPORT & NEWSLETTER SECTION
-================================================ -->
-<!--END SUPPORT & NEWSLETTER SECTION-->
 
 
 
+body,td,th {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #eeeeee;
+}
+.cols4 {
+	display: block;
+width: 180px;
+float: left;
+padding: 5px;
+text-align: center;
+list-style: none;
+line-height: 4px;
+font-weight: 600;
+color: #8A8787;
+font-size: 12px;
+}
+.title {
+font-size: 16px;
+padding: 0px;
+float: left;
+padding-left: 35px;
+padding-top: 15px;
+font-weight: 600;
+}
+.cat {
+list-style: none;
+line-height: 22px;
+font-weight: 600;
+color: #8A8787;
+font-size: 12px;
+}
+#footer {
+position: relative;
+	height: 320px;
+	background-color: #333333;
+	color:#666;
+}
+#footer a{
+	color:#666;
+}
+#row-bottom {
+width: 1124px;
+margin: 0 auto;
+}
+#about {
+width: 250px;
+display: block;
+position: relative;
+float: left;
+padding:10px;
+}
+#hbox {
+background: #fff;
+}
+#menu {
+background: #0066CC;
+height: 40px;
+}
 
+#spann
+{
 
-<!-- FOOTER SECTION
-================================================ -->
-<footer>
-  <div id="footer">
-    <div class="row">
-    
-    	<!--About us-->
-      <div class="three columns section">
-        <h5><i class="icon-heart"></i> About us</h5>
-        <p>The company started offering local search services in 2014 under the Pick4Call   brand and is now the leading local search engine .</p>
-        <p><i class="icon-envelope"></i> &nbsp;<a href="tel:1234567890">support@pick4call.com</a><br>
-          &nbsp;<i class="icon-mobile-phone icon-large"></i> &nbsp;&nbsp;(0562) 310-8610</p>
-        
-        <br>
-      
+    margin: 0 auto;
+    /* padding-left: 120px; */
+    width: 1120px;
+}
+.short
+{background: #000;height:40px;}
+</style><div id="footer"><div id="row-bottom">
+<div id="about">
+<h3 style="padding-left:25px;color:#ccc;font-size:16px"> About us</h3>
+<span id="text" style="color:#fff;text-align:justify;font-size:14px">Pick4call is provides local services and online coupons, exclusive deals &amp; offers. You can get latest deals &amp; coupons of more than 300+ E- commerce Sites.
 
-        <!-- Histats.com  START  (standard)-->
-<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
-<a href="http://www.histats.com" target="_blank" title="web site counter"><script type="text/javascript">
-try {Histats.start(1,1000,4,1041,200,30,"0001101");
-Histats.track_hits();} catch(err){};
-</script></a>
-<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?10000&101" alt="web site counter" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-      </div>
-      <!--end about us-->
-      
-      <!--Useful links-->
-      <div class="three columns section">
-        <h5>Useful links</h5>
-        <ul class="no-bullet">
-<li><i class="icon-angle-right"></i> <a href="company.php">About us</a></li>
-          <li><i class="icon-angle-right"></i> <a href="terms_condition.php">Terms and Conditions</a></li>
+<br>
+<br>
+<br>Mail us : <a href="#">support@pick4call.com</a></span>
+</div>
+<div id="about">
+<h3 style="padding-left:25px;color:#ccc;line-height:25px;font-size:16px"> Useful links</h3>
+<ul class="foot" style="list-style:none; color:#CCC">
+<li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/company.php">About us</a></li>
+          <li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/terms_condition.php">Terms and Conditions</a></li>
           
          
-          <li><i class="icon-angle-right"></i> <a href="#">FAQ</a></li>
-          <li><i class="icon-angle-right"></i> <a href="#">Safety</a></li>
+          <li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/faq.php">FAQ</a></li>
+        
           
-          <li><i class="icon-angle-right"></i> <a href="privacy.php">Privacy Policy</a></li>
-<li><i class="icon-angle-right"></i> <a href="contact.php">Contact us</a></li>
-<li><i class="icon-angle-right"></i> <a href="career.php">Career</a></li>
-        </ul>
-      </div>
-      <!--end useful links-->
+          <li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/privacy.php">Privacy Policy</a></li>
+<li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/contact.php">Contact us</a></li>
+<li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/career.php">Career</a></li>
+
+
+</ul>
+
+</div>
+<div id="about">
+<h3 style="padding-left:25px;color:#ccc;line-height:25px;font-size:16px">Home Links</h3>
+<ul class="foot" style="list-style:none; color:#CCC">
+<li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/">Pick4call Home</a></li>
+          <li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/deals/">Pick4call Deals</a></li>
+          
+         
+          <li><i class="icon-angle-right"></i> <a href="http://www.pick4call.com/coupon/">Pick4call Coupons</a></li>
+        
+          
       
-      <!--Twitter feed-->
-      <div class="three columns section"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/pick4call" data-widget-id="516976222681591809">Tweets by @pick4call</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-      </div>
-      <!--end twitter feed-->
-      
-      <!--Latest from blog-->
-      <div class="three columns section">
-        <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like-box" data-href="https://www.facebook.com/pick4call" data-width="200" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
-      </div>
-      <!--end latest from blog-->
-      
-      <div class="twelve columns">
-        <hr>
+
+
+</ul>
+
+</div>
+
+<div id="about">
+<h3 style="padding-left:25px;color:#ccc;line-height:25px;font-size:16px">Search  Categories</h3>
+   <a href="Agra/12/electronics/1">Electronics</a>/<a href="Agra/28/govt-office/1">Goverment Office</a>/<a href="Agra/11/mobile-shops/1">Mobile Shops</a>/<a href="Agra/33/petrol-pump/1">Petrol Pumps</a>/<a href="Agra/10/apparel/1">Apparel</a>/<a href="Agra/23/consultants/1">Consultants</a>/<a href="Agra/38/automobiles/1">Automobilies</a>/<br>
+   <a href="Agra/37/bakery/1">Bakery</a>/<a href="Agra/18/books-shop/1">Book Shop</a>/<a href="Agra/14/finance/1">Finance/Security Service</a>/<a href="Agra/40/daily-needs/1">Daily Needs</a>/<a href="Agra/39/plants-nursery/5">Nursery plants</a>/<a href="Agra/41/tiffin-service/1">Tiffin services</a>/<a href="Agra/16/gems-jewellery/1"> Jewellery</a>/<a href="Agra/43/atm/1">Atm</a>/<a href="Agra/45/media/1">Media</a> </div>
+
+
+
+
+</div></div>
+ <div class="short put">
+       <div id="row-bottom" style="text-align:center">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td>  <p>Copyright © 2014 pick4call All Rights Reserved. </p></td>
-    <td align="right">&nbsp;Stay in touch:&nbsp;&nbsp;</td>
-    <td><p class="footer-social-icons">
+    <td width="34%">  <p style="color:#ccc;font-size:11px">Copyright © 2014 pick4call All Rights Reserved. </p></td>
+    <td width="48%" align="right">&nbsp;Stay in touch:&nbsp;&nbsp;</td>
+    <td width="18%"><p class="footer-social-icons">
           <a href="https://www.twitter.com/pick4call" class="has-tip tip-bottom" data-width="210" title="Follow us on 
 
-Twitter"><i class="icon-twitter-sign icon-2x"></i></a>
+Twitter" target="_blank"><i class="icon-twitter-sign icon-2x"></i></a>
           <a href="https://www.facebook.com/pick4call" class="has-tip tip-bottom" data-width="210" title="Find us on 
 
-Facebook"><i class="icon-facebook-sign icon-2x"></i></a>
+Facebook" target="_blank"><i class="icon-facebook-sign icon-2x"></i></a>
        
           <a href="http://www.pinterest.com/pick4call/" class="has-tip tip-bottom" data-width="210" title="Pin us on 
 
-Pinterest"><i class="icon-pinterest-sign icon-2x"></i></a>
+Pinterest" target="_blank"><i class="icon-pinterest-sign icon-2x"></i></a>
+
+       <a href="https://plus.google.com/u/0/+pick4callpick4call/" class="has-tip tip-bottom" data-width="210" title="Circle us on 
+
+G+" target="_blank"><i class="icon-google-plus-sign icon-2x"></i></a>
         
         </p></td>
   </tr>
-</tbody></table> 
+</tbody></table> </div>
       </div>
-    </div>
-  </div><!--end footer-->
-</footer>
-<!--END FOOTER SECTION-->
 
 
-
-
-
-<!-- POP-UP MODAL FORMS
-================================================ -->
-<!--Login panel-->
-<div id="login_panel" class="reveal-modal">
-  <div class="row">
-    <div class="twelve columns">
-      <h5 class="pink-text"><i class="icon-user icon-large"></i> SIGN IN YOUR ACCOUNT <span class="subheader right small-link"><a href="#" data-reveal-id="register_panel" class="radius secondary small button">CREATE NEW ACCOUNT</a></span></h5>
-    </div>
-    <form id="login_form" name="login_form" method="post" class="clearfix">
-      <div class="six columns">
-        <input type="text" id="username" name="username" class="inputbox" placeholder="Username" required="">
-      </div>
-      <div class="six columns">
-        <input type="password" id="password" name="password" class="inputbox" placeholder="Password" required="">
-      </div>
-      <p class="twelve columns">
-        <small><i class="icon-lock"></i> Your <a href="#">privacy</a> is important to us and we will never rent or sell your information.</small>
-      </p>
-      <div class="twelve columns">
-        <button type="submit" id="login" name="submit" class="radius secondary button"><i class="icon-unlock"></i> &nbsp;LOG IN</button> &nbsp; <a href="#" class="radius button facebook"><i class="icon-facebook-sign"></i> &nbsp;LOG IN WITH Facebook</a>
-      </div>
-    </form>
-    <div class="twelve columns"><hr>
-      <ul class="inline-list">
-        <li><small><a href="#" data-reveal-id="forgot_panel">FORGOT YOUR USERNAME?</a></small></li>
-        <li><small><a href="#" data-reveal-id="forgot_panel">FORGOT YOUR PASSWORD?</a></small></li>
-      </ul>
-    </div>
-  </div><!--end row-->
-  <a href="#" class="close-reveal-modal"> </a>
-</div><!--end login panel-->
-
-<!-- Register panel -->
-<div id="register_panel" class="reveal-modal">
-  <div class="row">
-    <div class="twelve columns">
-      <h5 class="pink-text"><i class="icon-magic icon-large"></i> CREATE ACCOUNT <span class="subheader right small-link"><a href="#" data-reveal-id="login_panel" class="radius secondary small button">ALREADY HAVE AN ACCOUNT?</a></span></h5>	
-    </div>
-    <form id="register_form" name="register_form" method="post">
-      <div class="six columns">
-        <input type="text" id="reg-username" name="username" class="inputbox" placeholder="Username">
-      </div>
-      <div class="six columns">
-        <input type="text" id="fullname" name="fullname" class="inputbox" placeholder="Your full name">
-      </div>
-      <div class="twelve columns">
-        <input type="text" id="reg-email" name="email" class="inputbox" placeholder="Your email">
-      </div>
-      <div class="six columns">
-        <input type="password" id="reg-password" name="password" class="inputbox" placeholder="Desired password">
-      </div>
-      <div class="six columns">
-        <input type="password" id="confirm_password" name="confirm_password" class="inputbox" placeholder="Confirm password">
-      </div>
-      <div class="twelve columns">
-        <p><small>Check our <a href="#"><strong>terms and conditions</strong></a> before sign up. If you familiar with our terms, go ahead click CREATE MY ACCOUNT button.</small></p>
-        <button type="submit" id="signup" name="submit" class="radius alert button"><i class="icon-heart"></i> &nbsp;CREATE MY ACCOUNT</button>
-      </div>
-    </form>
-  </div><!--end row-->
-  <a href="#" class="close-reveal-modal"> </a>
-</div><!-- end register panel -->
-
-<!-- Forgot panel -->
-<div id="forgot_panel" class="reveal-modal">
-  <div class="row">
-    <div class="twelve columns">
-      <h5 class="pink-text"><i class="icon-lightbulb icon-large"></i> FORGOT YOUR DETAILS?</h5>
-    </div>
-    <form id="forgot_form" name="forgot_form" method="post" class="clearfix">
-    <div class="twelve columns">
-      <input type="text" id="forgot-email" name="email" class="inputbox" placeholder="Email Address">
-      <button type="submit" id="recover" name="submit" class="radius secondary button">SEND MY DETAILS! &nbsp;<i class="icon-envelope"></i></button>
-    </div>
-    </form>
-    <div class="twelve columns"><hr>
-      <small><a href="#" data-reveal-id="login_panel" class="radius secondary label">AAH, WAIT, I REMEMBER NOW!</a></small>
-    </div>
-  </div><!--end row-->
-  <a href="#" class="close-reveal-modal"> </a>
-</div><!-- end register panel -->
-<!-- end login register stuff -->
-
-<p id="btnGoUp" style="display: none;">Go up</p>
-<!--end page-->  
-
-<!--END POP-UP MODAL FORMS-->
 
  
 
@@ -432,32 +370,7 @@ Pinterest"><i class="icon-pinterest-sign icon-2x"></i></a>
 <!-- JAVASCRIPTS
 ================================================ -->
 
-	<!-- jQuery & Foundation Framework -->
-  <script type="text/javascript" src="assets/scripts/jquery.js"></script>
-  <script type="text/javascript" src="assets/scripts/foundation.min.js"></script>
-  
-  
-  
-  <!-- 3rd Plugins -->
-  
-	<!-- include carouFredSel plugin -->
-  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/jquery.carouFredSel-6.2.0-packed.js"></script>
-  <!-- optionally include helper for carouFredSel plugins -->
-  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/helper-plugins/jquery.mousewheel.min.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/helper-plugins/jquery.touchSwipe.min.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/helper-plugins/jquery.transit.min.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/carouFredSel/helper-plugins/jquery.ba-throttle-debounce.min.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/retina/retina.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/knob/jquery.knob.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/twitterfeed-ap-1.1/twitterfeed-ap.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/fittext/jquery.fittext.js"></script>
-  <script type="text/javascript" src="assets/scripts/plugins/quovolver/jquery.quovolver.js"></script><!--Quote rotator-->
-  <script type="text/javascript" src="assets/scripts/plugins/backgroundSize/jquery.backgroundSize.js"></script><!--BackgroundSize for IE8-->
-  <script type="text/javascript" src="assets/scripts/plugins/prettyPhoto/jquery.prettyPhoto.js"></script>
-  
-  
-  <!-- Custom JS effects, tweaks and inits -->
-  <script type="text/javascript" src="assets/scripts/app.js"></script>
+
   
   
   
@@ -472,6 +385,14 @@ Pinterest"><i class="icon-pinterest-sign icon-2x"></i></a>
   ga('send', 'pageview');
 
 </script>
+
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"AdZJk1ao6C52L7", domain:"pick4call.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=AdZJk1ao6C52L7" style="display:none" height="1" width="1" alt="" /></noscript>
+
 
  
   
