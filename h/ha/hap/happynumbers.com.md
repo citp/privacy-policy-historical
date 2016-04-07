@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the happynumbers.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915094329id_/http%3A//happynumbers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happynumbers.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407075243id_/https%3A//happynumbers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 As used in the Privacy Policy, “Happy Numbers” refers to all websites (including www.happynumbers.com and http://blog.happynumbers.com), applications, their features, content we offer owned or operated by Azbooka SA, aka Happy Numbers, a company organized under the laws of Switzerland, having its registered address at Parc Scientifique EPFL, PSE-C, at Fondation du Parc Scientifique sur le site de l'EPFL à Ecublens-PSE, 1015 Lausanne, Switzerland. 
 
-For users located in the United States of America (“USA”), our services will be provided and the information will be collected by Happy Numbers Inc. in the name and on behalf of Azbooka SA, our subsidiary and a company organized under the laws of the USA, having its principal place of business at 1510 Page Mill Road, Suite 110, Palo Alto, CA, USA, 94304. 
+For users located in the United States of America (“USA”), our services will be provided and the information will be collected by Happy Numbers Inc. in the name and on behalf of Azbooka SA, our subsidiary and a company organized under the laws of the USA, having its principal place of business at 2600 El Camino Real, Suite 601 Palo Alto, CA, USA, 94306. 
 
 Please read the following to learn about our Privacy Policy and the ways in which we use your information before you proceed with use of Happy Numbers. 
 
-Date of issue of this Privacy Policy: 14.05.2014 
+Date of issue of this Privacy Policy: 17.10.2015 
 
 ### 1\. The Collection of Information and How We Use It
 
