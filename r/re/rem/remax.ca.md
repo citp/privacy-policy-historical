@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.ca privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207094728id_/http%3A//www.remax.ca/editorial/copyright-and-terms-of-use/copyright-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.ca privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408014433id_/http%3A//www.remax.ca/editorial/copyright-and-terms-of-use/copyright-and-terms-of-use) for the most accurate reproduction.*
 
 # Copyright & Terms of Use
 
