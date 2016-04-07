@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsforu.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230141306id_/http%3A//foodsforu.com/%3Fpage_id%3D1129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsforu.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407131149id_/http%3A//foodsforu.com/%3Fpage_id%3D1129) for the most accurate reproduction.*
 
 # Privacy-Policy
 
