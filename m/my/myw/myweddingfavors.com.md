@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206114031id_/http%3A//www.myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweddingfavors.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407155231id_/http%3A//www.myweddingfavors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # My Wedding Favors - Privacy Policy
 
