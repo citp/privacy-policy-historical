@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makersmarket.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217225404id_/https%3A//makermedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makersmarket.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407083720id_/https%3A//makermedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Maker Media
+# Privacy Policy – Maker Media
 
 **Notification of Changes**  
 This privacy policy was put in effect on December 3, 2014. If we change our Privacy Policy, we will post those changes here.
