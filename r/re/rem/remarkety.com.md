@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113154453id_/http%3A//www.remarkety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remarkety.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407034010id_/http%3A//www.remarkety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Remarkety
 
 ### Interamind Remarkety Privacy Policy
 
-Interamind Ltd. (“Interamind” or “us”, “our”, “we”) provides Remarkety, an automatic customer retention service (the “Service”). Interamind respects your right to privacy. This Privacy Policy explains how Interamind uses any data and information is provided to Interamind through the Service. Interamind will not make your information available to third parties without your consent, subject to the terms and conditions of this Privacy Policy. Terms capitalized but not defined herein shall have the meaning set forth in the Interamind Remarkety Terms of Service, a current copy of which is available at [Terms of Service](http://imservice.local/terms/terms_conditions.html).
+Interamind Ltd. (“Interamind” or “us”, “our”, “we”) provides Remarkety, an automatic customer retention service (the “Service”). Interamind respects your right to privacy. This Privacy Policy explains how Interamind uses any data and information is provided to Interamind through the Service. Interamind will not make your information available to third parties without your consent, subject to the terms and conditions of this Privacy Policy. Terms capitalized but not defined herein shall have the meaning set forth in the Interamind Remarkety Terms of Service, a current copy of which is available at [Terms of Service](http://www.remarkety.com/terms-of-service).
 
  **Information We Collect**
 
@@ -42,4 +42,4 @@ Interamind may update this Privacy Policy from time to time – we encourage you
 
 If you have any comments or questions about our privacy policy, please contact us at support@remarkety.com
 
- _Last updated: March 2015_
+ _Last updated: December  2015_
