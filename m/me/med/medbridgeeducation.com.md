@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009171524id_/https%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbridgeeducation.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407171352id_/https%3A//www.medbridgeeducation.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Online CEUs for PT, ATC, OT | Continuing Education | MedBridge
 
@@ -63,4 +63,4 @@ You are solely responsible for your privacy settings, and MedBridge is not and w
 **C. Children’s Privacy**  
 In compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), MedBridge will not collect any information from anyone under 13 years of age. Our website and courses are directed at people who are older than 13 years. 
 
-Please direct additional Questions or Concerns to <http://www.medbridgeeducation.com/contact/>
+Please direct additional Questions or Concerns to [support@medbridgeed.com](mailto:support@medbridgeed.com)
