@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxroute.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225115937id_/http%3A//www.mxroute.com/styled/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxroute.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407224405id_/http%3A//mxroute.com/styled/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MXroute
 
