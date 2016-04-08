@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916230047id_/https%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408030304id_/https%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
 # Meteor - Privacy Policy
 
