@@ -1,51 +1,55 @@
-> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905222333id_/http%3A//rtpr.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231334id_/https%3A//rtpr.com/privacy-policy) for the most accurate reproduction.*
 
-# RTPR.com Privacy Policy
+# Privacy-Policy | Real Time Pain Relief
+
+## You are here
+
+[Home](https://web.archive.org/) / Privacy-Policy
+
 
 This Privacy Policy governs the manner in which RTPR LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the rtpr.com website ("Site"). This privacy policy applies to the Site and all products and services offered by RTPR LLC..
 
-**Personal identification information**
+Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Non-personal identification information**
+Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Web browser cookies**
+Web browser cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**How we use collected information**
+How we use collected information
 
 RTPR LLC. collects and uses Users personal information for the following purposes:
 
-  * To process transactions  
+To process transactions  
 We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To send periodic emails   
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. 
 
+To send periodic emails   
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. 
 
-
-**How we protect your information**
+How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**Sharing your personal information**
+Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-**Changes to this privacy policy**
+Changes to this privacy policy
 
 RTPR LLC. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Your acceptance of these terms**
+Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**
+Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
@@ -54,6 +58,51 @@ rtpr.com
 P.O. Box 798  
 Cabot, AR. 72023  
 877-787-7180  
-admin@rtpr.com
+[admin@rtpr.com](mailto:admin@rtpr.com)
 
 This document was last updated on March 1, 2014
+
+
+
+
+Receive a FREE 1.4oz FOOT Cream - Automatically Added to your Order with any retail purchase of $30 or more!
+
+### PAIN Cream
+
+Americas Best Smelling Most Effective, Rub on Pain Relief. It's Pain Relief you can Trust.... **[ _Read More_](https://web.archive.org/pain-cream)**
+
+### SPORTS Cream
+
+Designed to soothe pain without masking the pain to a point that you do damage to your body... **[ _Read More_](https://web.archive.org/sports-cream)**
+
+### TARGETED Relief
+
+HAND Cream, FOOT Cream, and more, no matter where it is, we have the Relief you need... **[ _Read More_](https://web.archive.org/targeted-relief)**
+
+### Pain Relief MAXX
+
+Our Strongest Pain Relief Formula, MAXX is the Official Pain Relief of the PBR. Pain Relief as Tough as Cowboys!... **[ _Read More_](https://web.archive.org/pain-relief-maxx)**
+
+[**Click to Shop Online Now or Call 877-787-7180**](https://rtpr.com/shop) 
+
+* * *
+
+What they say about Real Time Pain Relief
+
+I ran into this stuff at the Port Towns Fair in Bladensburg and gave it a try. I have a neck condition where c3 and c7 in my neck are herniated and bulging. 
+
+I am 74 years old and I have had elbow right and left pain for good ten years now. I tried this product and within I say a bout ten minutes I was free of pain in both arms. The next day I still was pain free. 
+
+This is the best pain relief cream I have ever used. I have used several prescription pain creams, none have compared to RTPR cream. I have chronic arthritis in my hands, knees and hip. My mobility has greatly improved. 
+
+I just ordered RTPR after using it this week-end for the first time. It is a wonderful product. My daughter ordered a sample for me because she knows the problems I have had with pain and inflammation in my shoulders and arthritis in my hands. 
+
+I have osteoarthritis in my hands; I applied this lotion to my hands while on vacation and it was like a miracle. Within minutes my hands no longer hurt. 
+
+Lord this stuff gave me relief like no other I brought this stuff and will use nothing else. I quit my pain medicine cause this helped more than my Norco helped and faster. 
+
+[Submit Testimonial](https://web.archive.org/web/20160408231334id_/https%3A//rtpr.com/node/add/testimonial) [View All Testimonials](https://web.archive.org/testimonials)
+
+## STAY IN TOUCH
+
+#### Call in an order, Submit a Support Ticket, Check us out on Facebook...either way, we are here to help
