@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709125610id_/http%3A//www.watsons.com.my/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408074659id_/http%3A//www.watsons.com.my/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watsons Malaysia
+# Privacy Policy | Watsons Malaysia | Asia's Largest Health and Beauty Store
 
 **PRIVACY POLICY**
 
