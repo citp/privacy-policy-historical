@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213213315id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205932id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -137,7 +137,7 @@ We may also disclose your personal information:
 
   (a)  to real estate agents or agencies, property developers, builders, retirement community operators and landlords that have listings or advertising on our Websites and which you have requested information from by submitting an enquiry;
 
-  (b)  to our service providers, so that they can provide you with products or services on our behalf or products or services that you have requested directly from them, or to help us to provide you with our products or services (including if you are a shareholder, to share registrar and share plan management service providers). If you have subscribed to a service through the operating system on your mobile device (including, but not limited to Google’s “Google Now” service), we will disclose information such as your search history to Google. You can opt out of us providing such information to Google through the operating system on your mobile device;
+  (b)  to our service providers, so that they can provide you with products or services on our behalf or products or services that you have requested directly from them (such as IRE Pty Ltd), or to help us to provide you with our products or services (including if you are a shareholder, to share registrar and share plan management service providers). If you have subscribed to a service through the operating system on your mobile device (including, but not limited to Google’s “Google Now” service), we will disclose information such as your search history to Google. You can opt out of us providing such information to Google through the operating system on your mobile device;
 
   (c)  to third parties where you have requested information, services or products from them (eg through using realestate.com.au Connect or a 1form online rental application);
 
