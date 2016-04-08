@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915201056id_/https%3A//www.esds.co.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esds.co.in privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408113116id_/https%3A//www.esds.co.in/privacy-policy.php) for the most accurate reproduction.*
 
 # ESDS Software Solution Data Privacy Policy
 
@@ -113,4 +113,4 @@ Our business changes constantly and ISO 9001:2008 clauses may also change from t
 
 This Data Privacy Policy was last updated on 7th November 2012.
 
-**eNlight Cloud -** 99.99% Uptime // Free upgrade assistance // 24x7 Support // Plans from __499/month // [Explore Now! __](https://web.archive.org/web/20150915201056id_/https%3A//www.esds.co.in/enlight-cloud-hosting.php)
+**eNlight Cloud -** 99.99% Uptime // Free upgrade assistance // 24x7 Support // Plans from __499/month // [Explore Now! __](https://www.esds.co.in/enlight-cloud-hosting.php)
