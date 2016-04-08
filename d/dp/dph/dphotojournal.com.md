@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027051526id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dphotojournal.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408165957id_/http%3A//www.dphotojournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
