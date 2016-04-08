@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132641id_/http%3A//www.optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optasports.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408145754id_/http%3A//www.optasports.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Opta | We live sport - Privacy Policy
+# Opta Privacy Policy
 
 This privacy policy sets out how Opta Sports Data uses and protects any information that you give Opta Sportsdata when you use this website.
 
