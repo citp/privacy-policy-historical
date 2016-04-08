@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908011332id_/http%3A//www.tennis.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis.com.au privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409001255id_/http%3A//www.tennis.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Tennis Australia
 
