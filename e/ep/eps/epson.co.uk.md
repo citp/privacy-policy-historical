@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223023id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408071756id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/privacy) for the most accurate reproduction.*
 
 # Epson
 
@@ -10,7 +10,7 @@
   * Must personal data be disclosed when visiting Epson websites?
   * Why does Epson ask for personal data?
   * Providing you with additional information
-  * [Where does Epson collect personal data from?](https://web.archive.org/web/20151207223023id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/x7)
+  * [Where does Epson collect personal data from?](https://web.archive.org/web/20160408071756id_/http%3A//www.epson.co.uk/gb/en/viewcon/corporatesite/misc/legal/x7)
   * Who does Epson share personal data with?
   * Your rights concerning personal data held by Epson
   * Links to other websites
