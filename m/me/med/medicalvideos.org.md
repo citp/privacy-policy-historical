@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalvideos.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142955id_/http%3A//www.medicalvideos.org/page.php%3Fpage%3D5%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalvideos.org privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408083529id_/http%3A//www.medicalvideos.org/page.php%3Fpage%3D5%23privacy) for the most accurate reproduction.*
 
 # Medical Videos - -
 
