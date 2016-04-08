@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028043323id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408104730id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SurveyPolice
 
@@ -6,7 +6,7 @@
 
 ##  1\. Your Privacy
 
-This privacy policy (this “ **Privacy Policy** ”), as amended from time to time, applies to [www.surveypolice.com](http://www.surveypolice.com/) (“ **Website** ”) or any other online product or service to which you have access or use as well as any Account (defined below) you use to access the Website or other online products or services (together, the " **Service** ") offered by Affility Media Inc. or any of its subsidiaries and affiliates (collectively, “ **we** ”, “ **us** ”, “ **our** ” or " **Affility** "). 
+This privacy policy (this “ **Privacy Policy** ”), as amended from time to time, applies to [www.surveypolice.com](https://www.surveypolice.com/) (“ **Website** ”) or any other online product or service to which you have access or use as well as any Account (defined below) you use to access the Website or other online products or services (together, the " **Service** ") offered by Affility Media Inc. or any of its subsidiaries and affiliates (collectively, “ **we** ”, “ **us** ”, “ **our** ” or " **Affility** "). 
 
 Affility respects the privacy rights of its visitors and users (collectively, “ **Users** ”, “ **you** ” or ” **your** ”) and is committed to protecting Users’ information collected through the Service. Affility has adopted this Privacy Policy to explain how Affility collects, stores, and uses information collected in connection with the Service. 
 
