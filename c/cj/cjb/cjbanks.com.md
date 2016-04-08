@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cjbanks.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209003610id_/http%3A//www.christopherandbanks.com/gsi/webstore/WFS/CBKNA-CBKUS-Site/en_US/-/USD/ViewHelpDesk-ViewArticle%3Fcategory%3Dcbk_helpdesk_category_privacy_security_cmp_20120609_051946%26article%3Dcbk_helpdesk_article_privacy_policy_cmp_20120609_113226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjbanks.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408183322id_/http%3A//www.christopherandbanks.com/gsi/webstore/WFS/CBKNA-CBKUS-Site/en_US/-/USD/ViewHelpDesk-ViewArticle%3Fcategory%3Dcbk_helpdesk_category_privacy_security_cmp_20120609_051946%26article%3Dcbk_helpdesk_article_privacy_policy_cmp_20120609_113226) for the most accurate reproduction.*
 
 # Missy, Petite and Womens Apparel | Christopher and Banks
 
