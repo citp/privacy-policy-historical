@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibanet.org privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224152803id_/http%3A//www.ibanet.org/web_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibanet.org privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408133548id_/http%3A//www.ibanet.org/web_privacy_policy.aspx) for the most accurate reproduction.*
 
 # IBA - Privacy policy for IBA website and discussion forums
 
@@ -98,5 +98,3 @@
 
 10.1. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to website@int-bar.org.  
  
-
- Bookmark with:  [](http://www.facebook.com/sharer.php?u=http://www.ibanet.org/web_privacy_policy.aspx)[](http://google.com/bookmarks/mark?op=edit&bkmk=http://www.ibanet.org/web_privacy_policy.aspx&title=Privacy%20policy%20for%20IBA%20website%20and%20discussion%20forums)[](http://twitter.com/home?status=Privacy%20policy%20for%20IBA%20website%20and%20discussion%20forums%20at%20http://www.ibanet.org/web_privacy_policy.aspx)[](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.ibanet.org/web_privacy_policy.aspx&=Privacy%20policy%20for%20IBA%20website%20and%20discussion%20forums)
