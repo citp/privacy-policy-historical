@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906025634id_/https%3A//www.voiceoftv.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408034021id_/https%3A//www.voiceoftv.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Voice of TV
 
