@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911094616id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408162554id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Azimo
 
@@ -63,4 +63,4 @@ Azimo may change this Privacy Policy at any time by posting the revised policy o
 
 We may use cookies to, amongst other things, gather and retain information about a Subscriber’s use of the Service to enable them to move between features of the Service and help us build an ongoing picture of Subscribers’ needs and preferences so that we can tailor future visits to the Service and improve a Subscriber’s experience of the Service.  Additionally, we may use a third party to analyse our Subscribers’ experiences of the Service.  To do that, those third parties will place a cookie on your computer.  Cookies can be disabled by changing your browser settings.  Please note that the Service may not operate properly or features may not be available to you if you disable cookies.
 
-[Send Money Now](https://azimo.com/en/login/register)
+Send Money Now
