@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207152103id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408074220id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
 
 # Privacy and data protection | Mulefactory the item and currency shop
 
