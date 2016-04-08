@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xheader.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827011445id_/http%3A//www.xheader.com/XHeader_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xheader.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409002559id_/http%3A//www.xheader.com/XHeader_Privacy_Policy.html) for the most accurate reproduction.*
 
 # XHeader Privacy Policy | XHeader
 
@@ -109,6 +109,6 @@ We may change this Privacy Policy from time to time. If/when changes are made to
 
 | 
 
-[](https://web.archive.org/web/20150827011445id_/http%3A//www.xheader.com/Free_Header_Graphic_Software_Download_Page.html)  
+[](https://web.archive.org/web/20160409002559id_/http%3A//www.xheader.com/Free_Header_Graphic_Software_Download_Page.html)  
   
 ---|---
