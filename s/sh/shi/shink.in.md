@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003103336id_/http%3A//shink.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shink.in privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408202840id_/http%3A//panel.shink.in/privacy) for the most accurate reproduction.*
 
-# Earn money on short links. Make short links and earn the biggest money - Shink.in
+# Fas.li - URL Shortener - Shink.in
 
-**We use cookies to ensure that we give you the best experience on our website. We also use cookies to ensure we show you advertising that is relevant to you. If you continue, we'll assume that you are happy to receive all cookies.[ More info](https://web.archive.org/cookie)** [×]()
+## Privacy
 
 * * *
 
