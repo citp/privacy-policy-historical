@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themezilla.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213036id_/http%3A//www.themezilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themezilla.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408060452id_/http%3A//www.themezilla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeZilla.com
 
