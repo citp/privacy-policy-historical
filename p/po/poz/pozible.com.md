@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141755id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pozible.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408074747id_/http%3A//www.pozible.com/help/i/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pozible
 
