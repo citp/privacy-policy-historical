@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109085749id_/http%3A//www.bluetooth.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetooth.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408110743id_/https%3A//www.bluetooth.com/about-us/privacy) for the most accurate reproduction.*
 
 # The Bluetooth SIG Privacy Policy | Bluetooth Technology Website
 
@@ -20,4 +20,4 @@ The Bluetooth SIG website uses cookies. Cookies help provide a better user exper
 
 If you choose to disable cookies in your browser, you can still access most of our websites. Please be aware, however, that some websites will not allow you to complete certain activities if cookies are disabled.
 
-The Bluetooth SIG website may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from website visitors. Advertisers use this information to target the ads and measure their impact. 
+The Bluetooth SIG website may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from website visitors. Advertisers use this information to target the ads and measure their impact.
