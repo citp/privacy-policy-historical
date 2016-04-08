@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217131048id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tadpoles.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408092652id_/http%3A//www.tadpoles.com/privacy) for the most accurate reproduction.*
 
 # Privacy for Tadpoles
 
@@ -59,9 +59,9 @@ Tadpoles does not permit children under 14 the ability to access, post publicly 
 
   
 **Tadpoles**  
-200 Barr Harbor Drive  
-Suite 400  
-West Conshohocken, Pennsylvania 19428  
+4500 East-West Hwy  
+Suite 300  
+Bethesda, Maryland 20814  
 USA  
 [hello@tadpoles.com](mailto:hello@tadpoles.com)  
 1-267-719-FROG  
