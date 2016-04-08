@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316014416id_/https%3A//www.trustlink.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408053624id_/https%3A//www.trustlink.org/Privacy) for the most accurate reproduction.*
 
 # TrustLink's Privacy Policy
 
