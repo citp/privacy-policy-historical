@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leagueofgraphs.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117164354id_/http%3A//www.leagueofgraphs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofgraphs.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408121655id_/http%3A//www.leagueofgraphs.com/privacy) for the most accurate reproduction.*
 
-# LeagueOfGraphs - Privacy
+# Privacy - LeagueOfGraphs
 
 This Privacy Policy governs the manner in which LeagueOfGraphs.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.leagueofgraphs.com](http://www.leagueofgraphs.com/) website ("Site").
 
