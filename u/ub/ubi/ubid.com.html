@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ubid.com privacy policy that was archived on 2015-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151208104958id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubid.com privacy policy that was archived on 2016-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160408135536id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="//www.w3.org/1999/xhtml" style="" class=" js no-touch generatedcontent"><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="msvalidate.01" content="3E4EC7CFF3A4657E274B924B1BF87A91"><meta name="alexaVerifyID" content="GVeS3jZd1GhEJGexCuEJWnr87pE"><meta name="p:domain_verify" content="75686674fbeaa94a98a8060b8ba9fbbb"><meta property="og:type" content="website"><meta property="og:site_name" content="uBid"><meta property="fb:admins" content="625435228"><meta name="viewport" content="width=1000">
 	
@@ -37,12 +37,12 @@
 
 // newsletter sign up modal window
 function checkVisitor()   {
-     if(readCookie("NewVisitor")== "New=true") {
+    // if(readCookie("NewVisitor")== "New=true") {
+	// 	jQuery("#newVisitor").delay(2500).show(200);
+	// }
+	 if(readCookie("pageCount") == 1) {
 	 	jQuery("#newVisitor").delay(2500).show(200);
-	 }
-	// if(readCookie("pages") == 1) {
-	// 	jQuery("#newVisitor").delay(3000).show(50);
-	// }		
+	 }		
 }
 
 
@@ -62,18 +62,18 @@ function readCookie(name)
 function setCookie(c_name, value, exdays) {
     var exdate = new Date();
     exdate.setDate(exdate.getDate() + exdays);
-    var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+    var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString()+";path=/");
     document.cookie = c_name + "=" + c_value;
 }
 
-//not using this pages cookie, using NewVisitor cookie instead
+//not using this pageCount cookie, using NewVisitor cookie instead
 setCookie("deskBeta", "test", 30);
 
-if (readCookie('pages') === null) {
-    setCookie('pages', '0', 90);
+if (readCookie('pageCount') === null) {
+    setCookie('pageCount', '0', 90);
 } 
 else {
-	setCookie('pages', parseInt(readCookie('pages'), 10) + 1, 90);
+	setCookie('pageCount', parseInt(readCookie('pageCount'), 10) + 1, 90);
 }
 
 // closes the newsletter sign up window 
@@ -716,16 +716,14 @@ document.write("<img src=https://tracking.searchmarketing.com/welcome.asp?SMCID=
 	<br clear="all">
 	<div id="ctl00_Footer1_v5footerad">
 	<span class="title">Advertisement</span>
-	<script type="text/javascript"><!--
-google_ad_client = "pub-4848288159077349";
-/* 728x90 Footer */
-google_ad_slot = "9170020173";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
+	
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- uBid Footer -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2649570750703138" data-ad-slot="5462595203"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-	</script>
+
 	</div>
 <!--Footer Ad-->
 
