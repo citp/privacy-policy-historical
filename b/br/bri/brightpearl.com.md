@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918210600id_/https%3A//www.brightpearl.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408232958id_/https%3A//www.brightpearl.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightpearl
 
