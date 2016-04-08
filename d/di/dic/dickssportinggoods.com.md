@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905141552id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickssportinggoods.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408225012id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
 
 # DICK’S Sporting Goods – Official Site – Every Season Starts at DICK’S
 
-Privacy Policy
-
-Updated As of February 25, 2015.
+Updated As of December 18, 2015.
 
 DICK'S Sporting Goods, Inc. and its [_**Family of Businesses**_](https://web.archive.org/shop/index.jsp?categoryId=18379836&ab=PrivacyPolicy_FamilyOfBusinesses) (collectively, " _DICK'S_ ") provide this privacy policy (this " _Policy_ ") to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with DICK'S operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other DICK'S controlled digital properties that link to this Policy. For purposes of this Policy, our websites, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our " _Websites._ " Emails, social media, marketing campaigns and online advertising are referred to collectively as, our " _Internet Marketing Channels._ "
 
-This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our [_**Terms of Use**_](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=terms&ab=PrivacyPolicy_TermsOfUse). If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
+This Policy does not create a contractual obligation between you and DICK'S, and it is subject to our [_**Terms of Use**_](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=terms&ab=HelpDesk_Security_Terms). If you have questions about this Policy, please contact us by using the "Contact Customer Service" link below.
 
 **Information Collected**
 
-We receive information you voluntarily provide to us when you: (1) open an account with us; (2) utilize our services; (3) apply for a credit card; (4) make a purchase; (5) apply for a license (e.g., hunting, fishing, etc.) or conduct a similar type transaction; (6) contact us via any customer service method; (7) submit user-generated content (via our Websites, Internet Marketing Channels or otherwise); (8) participate in customer research, surveys, sweepstakes or promotions; or (9) otherwise communicate information to us.
+We receive information you voluntarily provide to us when you: (1) open an account with us; (2) utilize our services; (3) apply for a credit card; (4) make a purchase; (5) apply for employment opportunities with DICK'S; (6) apply for a license (e.g., hunting, fishing, etc.) or conduct a similar type transaction; (7) contact us via any customer service method; (8) submit user-generated content (via our Websites, Internet Marketing Channels or otherwise); (9) participate in customer research, surveys, sweepstakes or promotions; or (10) otherwise communicate information to us.
 
 Some of the information is considered " _Personal Information._ " Personal Information includes your name, mailing address, e-mail address, driver's license number, social security number, credit/debit card information (and related payment information) and/or telephone number. We may also collect other information such as permit number(s), credit application information and demographic/lifestyle information (including date of birth, personal interests and product/buying preferences).
 
@@ -45,16 +43,17 @@ Additionally, we work with advertising networks that utilize the browsing histor
 We do not sell, rent or trade your Personal Information to third parties. We use your information in ways consistent with this Policy, as disclosed at the time of collection, and in the following ways:
 
   1. Fulfilling, delivering and communicating with you regarding requests for information and orders for products and/or services.
-  2. Maintaining our loyalty programs, including the ScoreCard, the Advantage Club and Sportsman's Advantage Club.
+  2. Maintaining our loyalty program.
   3. Processing credit card applications and payments.
-  4. Administering surveys, sweepstakes, contests or promotions.
-  5. Registering and servicing your account(s).
-  6. Providing customer service.
-  7. Conducting research and analysis.
-  8. Alerting you to product, service and promotional information, including product recalls.
-  9. Helping us to improve and customize our products and services, Websites and Internet Marketing Channels.
-  10. To advertise our products and services to you and those of our partners that we think may be of an interest to you.
-  11. Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices.
+  4. Evaluating your application for employment.
+  5. Administering surveys, sweepstakes, contests or promotions.
+  6. Registering and servicing your account(s).
+  7. Providing customer service.
+  8. Conducting research and analysis.
+  9. Alerting you to product, service and promotional information, including product recalls.
+  10. Helping us to improve and customize our products and services, Websites and Internet Marketing Channels.
+  11. To advertise our products and services to you and those of our partners that we think may be of an interest to you.
+  12. Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices.
 
 
 
