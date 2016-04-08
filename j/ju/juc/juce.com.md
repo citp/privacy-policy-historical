@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juce.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214192604id_/http%3A//www.juce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juce.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408183301id_/https%3A//www.juce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JUCE
 
-Your privacy is important to us! This privacy statement provides information about the personal information that ROLI Ltd collects, and the ways in which that personal information is used.
+Your privacy is important to us! This privacy statement provides information about the personal information that ROLI Ltd collects, and the ways in which that personal information is used.
 
 ## Personal Information Collection
 
@@ -34,7 +34,7 @@ ROLI may use your personal information to:
 
 Where ROLI discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, ROLI may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, ROLI may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 ## Securing Your Data
 
@@ -44,7 +44,7 @@ ROLI will store all the personal information you provide on its secure servers.
 
 ## Cross-Border Data Transfers
 
-Information that ROLI collects may be stored and processed in and transferred between any of the countries in which ROLI operates to enable the use of the information in accordance with this privacy policy.
+Information that ROLI collects may be stored and processed in and transferred between any of the countries in which ROLI operates to enable the use of the information in accordance with this privacy policy.
 
 In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
 
@@ -64,8 +64,8 @@ ROLI is not responsible for the privacy policies or practices of any third party
 
 ## Contact
 
-If you have any questions about this privacy policy or ROLI's treatment of your personal information, please contact [info@juce.com](mailto:info@juce.com).
+If you have any questions about this privacy policy or ROLI's treatment of your personal information, please contact [info@juce.com](mailto:info@juce.com).
 
 ## Credit
 
-This document was created using a Contractology template available at [http://www.freenetlaw.com](http://www.freenetlaw.com/).
+This document was created using a Contractology template available at [http://www.freenetlaw.com](http://www.freenetlaw.com/)
