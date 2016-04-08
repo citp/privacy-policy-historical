@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908130340id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugaltoad.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408170254id_/http%3A//www.thefrugaltoad.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@ If you have any questions regarding the privacy policy of The Frugal Toad then y
 
 Last updated Thu, 15 Mar 2012 06:45
 
-[](http://track.linkoffers.net/a.aspx?foid=23018766&fot=9999&foc=2&foc2=603261 "Save Now at PersonalCapital")
+[](http://linksynergy.walmart.com/fs-bin/click?id=E*ZF1bsX5Ac&offerid=233310.10004052&subid=0&type=4)
