@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128203549id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedek.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408054521id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Help - Play Free Online Games on Great Day Games
 
