@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316100848id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewaycenter.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408100753id_/http%3A//www.smsgatewaycenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of SMS Gateway Center
 
@@ -67,7 +67,7 @@ From time-to-time our site may request information from usersvia surveys or cont
 
 By using our Web site, you consent to the collection and use ofinformation by SmsGatewayCenter.com as specified above. If we decide tochange our privacy policy, we will post those changes on thispage so that you are always aware of what information wecollect, how we use it, and under what circumstances we discloseit.
 
-© Copyright 2010-2015 Popular Softtech & Marketing Pvt Ltd.
+© Copyright 2010-2016 Popular Softtech & Marketing Pvt Ltd.
 
 All Rights Reserved. Privacy Policy.
 
