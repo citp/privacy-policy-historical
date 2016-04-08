@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bighits4u.com privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027222914id_/http%3A//bighits4u.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighits4u.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408210633id_/http%3A//bighits4u.com/privacy) for the most accurate reproduction.*
 
 # BigHits4U Traffic Exchange : Privacy
 
@@ -22,7 +22,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Superfastviews.com may collect and use Users personal information for the following purposes:
+Bighits4u.com.com may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -72,6 +72,6 @@ By using this Site, you signify your acceptance of this policy and terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Bighits4u.com Support Request](http://www.bighits4u.com/home/contact)
+[Bighits4u.com Support Request](http://bighits4u.com/support)
 
 This document was last updated on April 14th, 2014
