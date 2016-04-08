@@ -1,93 +1,150 @@
-> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207010541id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408063233id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | teletoon.com
 
-Protecting your privacy is important to TELETOON Canada Inc. As part of our commitment to privacy protection, we have implemented this Privacy Policy, which explains our privacy practices, including those of our Websites. We may change this Privacy Policy from time to time to better serve your needs. Notice of any changes will be provided on our Websites and a copy of all amendments is on file at our offices. You can be sure that our Privacy Policy satisfies all of the requirements of applicable privacy law, including Canada's Personal Information Protection and Electronic Documents Act ("PIPED Act").
+**Teletoon Privacy Policy**
 
-This Privacy Policy governs the way we manage your Personal Information. If you have any questions or concerns about your privacy, please contact us, using the contact information at the end of this policy.
+Last updated: March 1, 2016
 
-Whenever you provide us with Personal Information, whether in writing, over the telephone, or online, you will be referred to this Privacy Policy. If you have any questions on our Privacy Policy, please contact us at the address provided at the end of this Policy, and we would be pleased to respond to your concerns.
+Teletoon Canada Inc., a division of Corus Entertainment Inc., and Corus Digital Inc., their successors and assigns, (collectively, "Teletoon"), the operators of [www.teletoon.com](http://www.teletoon.com/) (“the Site”), understand and appreciate the concerns that parents and families may have with regard to information gathered about Site users surfing our website, or on any other website.  
 
-What is "Personal Information"? 
+**Privacy of Children**
 
-"Personal Information" is information about you as an individual. Examples include your name, mailing and e-mail addresses, age, birthday, telephone number, picture and voice recording. Your personal preferences, such as your favourite colour or flavour of ice cream, could also qualify as Personal Information if connected with other information that identifies you. This Privacy Policy describes the types of Personal Information that we collect, how we collect it, why we collect it and what we use it for.
+Teletoonencourages parents and guardians (collectively, “Parent”) to be aware of and participate in their children's online activities. Minors (persons under the age of majority in their province or territory of residence) may not use the Site unsupervised.  Parents must assist their children in using the site, and in providing any Personal Information that may be sought from time to time.  Personal Information can mean the child’s and/or parent/guardian’s name(s), city and province of residence, postal code, email address, or other personal identification. Parents are requested to review this Privacy Policy and discuss its main features with their children in a manner that the child will understand.
 
-"Non-identifiable Information" is information that cannot be associated with, or traced back to, a specific person. Non-identifiable information includes: anonymous aggregated information, information about your visits to our Websites which is not linked to you, information about your computer's operating system and web browser software. Your computer and its operating systems, browsers, and memory contain vast quantities of transaction data and records of your use of it. This Personal Information could be gleaned from these systems by outsiders if you do not take steps to protect your system. It is our policy not to associate this information with customers, even though we verify some kinds of technical information to ensure that our Websites are optimized to serve our users.
+For tips on how to protect your children’s privacy, please visit [this link](https://www.the-cma.org/consumers/protecting-childrens-privacy). 
 
-When you interact with our Websites, we may use a browser feature, known as a "cookie", to verify non-identifiable information about visitors to our Websites and measure visitor traffic patterns. A cookie is a small computer file. When you first visit our Websites, the Website manager may have implemented a program that creates a small computer file stored on your computer's hard drive. We ensure that the minimum information required is placed in the cookie only so that we can recognize returning Website visitors. The cookie does not contain Personal Information and we will not combine information in the cookie with Personal Information that would enable us to identify you individually. On subsequent visits to the Website, our server communicates with your computer, reads the cookie, recognizes and confirms that you are a returning visitor. Our server uses this information to provide you with a "short cut" that facilitates the quickest, most efficient and best possible Website experience.
+Throughout this Privacy Policy (the “Privacy Policy”), references to “you” and “your” refer to the user as supervised by their parent or guardian.
 
-Most browser softwares allow you to delete cookies. You should consult your Internet Service Provider for information on how to delete cookies. This may interfere with our ability to personalize your experience at our Websites and be recognized, or may slow down performance.
+**Introduction**
 
-Collection and Use of Personal Information 
+Teletoon respects user privacy and believes the best way to serve users through a website is with honesty, accountability and adherence to legal standards. We are sensitive to the issue of privacy and have structured the features of the Site to minimize the requirement to collect Personal Information, and to maximize user control over the collection, use and disclosure of any Personal Information collected. 
 
-We collect Personal Information in the following circumstances:
+By visiting or interacting with this Site, you agree to be bound by the terms of this Privacy Policy. We may change this Privacy Policy at any time, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, you should review this Privacy Policy from time to time to keep informed of such amendments. The latest version of the Privacy Policy will be available through a link at the bottom of the homepage. The most recent date of revision will be indicated prominently at the top of the Privacy Policy.  If you do not agree to the terms of this or any revised policy, please do not register as a user or further interact with the Site.   
 
-  * When you join a club or become a member through our Websites, by regular mail or by using SMS text messaging;
-  * When you enter a contest or other promotion through our Websites, by regular mail or by using SMS text messaging;
-  * When you subscribe to our e-mail newsletters and company updates;
-  * When you respond to online questionnaires;
-  * When you participate in interactive online activities (including games, chatrooms or bulletin boards);
-  * When you shop online at our Websites; or
-  * When you contact us to make requests or comment on our services.
+This Privacy Policy applies to this Site only, and does not apply to other websites or apps operated by Corus Digital Inc., other Corus Entertainment Inc. companies, or third parties, each of which has its own terms of use and privacy policies. Please read the respective sites' terms and policies when accessing such sites or using such apps.
 
+Please also make sure to read the Site’s [Terms of Use](http://www.teletoon.com/en/info/terms-of-use) as it supplements and forms part of this Privacy Policy. By using the Site you are agreeing to our Privacy Policy and Terms of Use. If you do not agree to the terms of this policy, please exit the Site immediately.
 
+**What information do we collect?**
 
-We take particular care in the collection of Personal Information from children under the age of 13. We do not require Personal Information from children to obtain access to, surf or view the content on any of the Websites owned by TELETOON Canada Inc. However, certain Personal Information may be required for a child to participate in one of our contests or promotions. In these circumstances, we may collect the first and last name (or user name) of the child, the child's e-mail address, age range and gender, as well as the name, home address, province, e-mail address and telephone number of the child's parent or guardian.
+Teletoon may collect two types of information from visitors to the Site: Personal Information and Non-Personal Information. Personal Information is any information about you as an identifiable individual, such as your name, your child’s first name, address, postal code, telephone number, and e-mail address. Teletoon only collects Personal Information where it is voluntarily provided by the individual in question.
 
-We only collect the Personal Information from a child under the age of 13 that is reasonably necessary for the purposes of verifying the child's age, administering the child's participation in the contest or promotion and, if the child wins a prize, contacting the child's parent or guardian. We may also provide the Personal Information to the organization that provides the prize for the purpose of ensuring its delivery to the prizewinner. We will not use, maintain or disclose this Personal Information for any other purpose.
+Non-Personal Information is any information that cannot be associated with an identifiable individual, such as aggregated statistical information (e.g. the average length of time users spend visiting the site), or other anonymous information, such as the type and version of browser being used to access the Site.
 
-At the time of collection of any Personal Information, we generally recommend to the child to print a copy of this Privacy Policy and give it to his or her parent or guardian. The parent or guardian can contact us at any time to get more information about our Personal Information practices or to remove the child's Personal Information from our records.
+Corus Digital Inc. generally collects Personal Information from you in order to provide you with products and services, to administer contests and special events, to better understand user preferences and to market our products and services.
 
-TELETOON Canada Inc. strives to ensure that our Internet experiences for young people are safe and fun, and we urge parents and guardians to take an active role and explore where their children are roaming on the Internet.
+**Why is the information collected?**
 
-Our Websites may include links to third party websites. These third parties have separate and independent privacy policies. Any personal information you share with these third parties through their websites will be administered under their privacy policies. TELETOON Canada Inc. has no control over third party privacy policies and therefore has no responsibility or liability for the manner in which third parties may collect, use or disclose and otherwise treat your personal information.
+At Teletoon we have created lots of fun activities that Parents and children can participate in all year round. 
 
-(a) Clubs or Memberships 
+In order to access some services through the Site, Parents may be required to register or otherwise voluntarily provide Personal Information. For example, registration is needed to subscribe to various newsletters and notifications. 
 
-Our Websites may offer you the opportunity to become a member or belong to a club (i.e. TELETOON Citizen), so that you can participate on a regular basis in games, bulletin boards, contests and other activities offered on our Websites. We do collect Personal Information when you join in accordance with the following principles:
+For example, by becoming a member of the Site, and providing basic Personal Information to us, Parents can:
 
-  * We collect only the Personal Information necessary for the activities offered; and
-  * Access to our activities is never conditional upon you providing more Personal Information than is necessary for such activities.
+·         opt-in to receive our monthly and/or weekly crafts newsletters and/or recipes;
 
+·         opt-in to receive “Corus Contests” newsletters;
 
+·         opt-in to receive 3rd party marketing material;
 
-(b) Contests 
+·         opt-in to receive partner newsletters;
 
-When you enter a contest, you may be required to provide the following Personal Information: your name and province of residence, e-mail address, telephone number1 and your age range. This Personal Information is collected solely for the purposes of identifying and communicating with contest prizewinners and ensuring delivery of the prizes to the prizewinners. Personal Information from non-winners is destroyed, in accordance with applicable legal requirements. When an affidavit of eligibility and release is sent to the prizewinner or to his or her parent or legal guardian, it must be signed and returned before the prize can be awarded. If the release is not returned within the specified time period, the winner forfeits the prize and an alternative winner may be chosen.
+In addition to using Personal Information to keep in contact with users, Teletoon may use your information for the following purposes: (i) to better understand viewer and user needs; (ii) to improve the content and format of our Site; (iii) to keep you informed about products and services (both ours and third parties') in which you have expressed an interest; (iv) to complete business transactions; (v) to contact you as part of a promotion; (vi) to administer individual accounts; (vii) to provide customer support; (viii) to meet legal requirements. 
 
-(c) Subscriptions to newsletters and company updates 
+Personal Information will also be required to enter certain contests sponsored by Teletoon or its affiliated brands and companies.  The nature of the Personal Information required and the purposes for which it will be used will be set out in the terms and conditions respecting each such contest.
 
-When you subscribe to our online newsletter(s) (i.e. TELETOON Insider), you are required to provide the following mandatory Personal Information so that we can deliver the newsletter to you electronically: your first name, e-mail address, month/year of birth, gender, viewing preferences (optional) and province of residence (in the last case, for statistical purposes only). This information allows us to tailor our newsletters and updates to our subscribers' demographic group and preferences. Subscribers (and their parents or guardians, where applicable) can cancel a newsletter at any time by following the "unsubscribe" instructions at the bottom of the newsletter or by using the information at the end of this Privacy Policy. Personal Information is deleted from our database immediately on receipt of a subscription cancellation or a denial of parental or guardian consent.
+Teletoon may collect Non-Personal Information through your use of the Site, or other Corus Digital Inc. apps and websites. We use this information to assess general usage patterns, including identifying repeat users; to collect demographic information; to administer and make improvements to the Site, to tailor our visitor's experiences with the Site and to display content (including advertising) according to inferred parental interests. Teletoon, its parent company and its subsidiary and holding companies and our business partners, including successors and assigns, reserve the right to use, maintain, update, disclose and/or sell aggregated and Non-Personal Information to third parties.
 
-(d) Online Questionnaires 
+**Personal Information for Contests**
 
-From time to time, we may request your feedback on an activity, product or service that we offer or provide or on content on our Websites. We ask for your name and e-mail address when you are providing us with feedback so that we may reply to you, but you always have the option of providing us the feedback without sharing this information.
+A user can enter a Teletoon contest through the Site. Only parents or those who have reached the age of majority in their province of residence may enter contests on the Site. On the online entry form, we ask for Personal Information such as the entrant’s name and address. Unless otherwise specified in the applicable contest rules, this Personal Information is collected, used and/or disclosed solely for the purpose of awarding contest prizes, tracking compliance with the official rules and regulations and for internal feedback purposes. Teletoon only uses and discloses a contest winner's name and photograph after receiving prior written consent from the winner.
 
-(e) Other Online Activities 
+**Show Submission   **
 
-When you visit our Websites and participate in other online activities, we may collect information such as your name, nickname, age category, preferences, opinions, etc. Whether or not you are required to join a club or become a member of the site to participate in these activities we always comply with the principles stated in subsection (a) above with respect to memberships or clubs.
+Occasionally, Teletoon users will have the opportunity to submit ideas or content such as videos for inclusion on the Site or on some shows airing on Teletoon. At the time of submission, the producers of these shows will also ask the users to include a contact number, email or address. Only those who produce the show in question will have access to the contact information and it will not be passed on to a third party. People who submit ideas or content may be contacted if the show's producers are possibly interested in using such submissions. Users: please be sure to provide your Parent’s contact information for these purposes.
 
-(f) Online Shopping 
+**Information we collect from third parties**
 
-You must be 18 years of age (or any other applicable minimum age in your province of residence) or older to make an online purchase on our Websites. Our shopping Websites collect only basic ordering information, including your name and shipping address, telephone number and e-mail address, and credit card number. This is for the sole purpose of processing and delivering products or services that you buy online. We do not share this information outside of TELETOON Canada Inc., except with our approved agents, who help us to process your order. All of our approved agents are required to provide a level of privacy protection comparable to that provided in this policy and are not permitted to use your Personal Information for any other purpose, such as to market to you.
+We may use third-party advertising and/or analytics companies to collect Non-Personal Information and/or serve ads to Parents when they visit our websites or use our apps. These companies may use Non-Personal Information (i.e. not including your name, address, email address or telephone number) about a parent’s use of this Site and other Corus Digital Inc. sites, as well as other Web and offline activity of a Parent in order to provide advertisements about goods and services of possible interest to that Parent.Neither Teletoon nor any third parties will make any attempt to link this anonymous traffic and other data to a child visiting our Site.  
 
-(g) Contacting Customer Service 
+If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [www.youradchoices.ca](http://www.youradchoices.ca/). Rest assured that neither Teletoon nor any third parties acting on its behalf collect browsing information respecting the use of the site by children, nor does Teletoon target advertising to children based on browsing activity.
 
-If you telephone, write or e-mail us to comment on one of our services or Websites, we will retain the information for our records during a certain period of time. Disclosure of your name and Personal Information is voluntary in this circumstance, except when you submit your comments online. When you write to us online, we require your e-mail address, age range, province of residence, gender and number of hours spent watching TELETOON per week. We also require your name, but your first name or nickname will do. All of this information is necessary to provide you with appropriate and accurate responses to your queries and concerns if a reply is needed.
+We may also infer information about a Parent based on the information you provide to us or information we receive from third parties, including information we may receive from social media sites, in accordance with your privacy settings on such sites.  We may also collect demographic, psychographic and lifestyle profile data from third parties, which may be predictively associated with you, the Parent, based on what we know about you.  For example, data may be available suggesting common interests or attributes of people living in your postal district.  Any such information that is associated with you is considered to be personal information, and will be treated as such according to this privacy policy.  If you would prefer that Teletoon not associate such third party data with you, you may opt-out by visiting <http://youradchoices.ca/choices>.
 
-We will not disclose your Personal Information unless required by law. We must provide your Personal Information in response to a search warrant or other legally valid enquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required by law. We use your Personal Information for internal purposes only. We do not sell, rent or trade in Personal Information. We may transfer information to third parties who need such Personal Information to provide services on behalf of TELETOON Canada Inc. Any such service providers are contractually bound to maintain the confidentiality of such transferred Personal Information and are prohibited from using the Personal Information for any other purpose. Your consent to our use of Personal Information can be withdrawn at any time by following the directions at the end of this policy. We will obtain your consent before using your Personal Information for any purpose other than these above. Once your Personal Information is no longer required for the purposes above, it will be deleted.
+**With whom do we share information?**
 
-We have tried to anticipate and meet all of your expectations with respect to the treatment of your Personal Information and the privacy of your online experience with us. If you have any concerns or questions, please contact us at the address below. This is the address to contact if you:
+Teletoon works closely with a number of parties who may perform functions on our behalf, including fulfilling orders or other third party content, providing promotional materials to our users, sending e-mail, managing, compiling and processing data, administering contests, processing credit card payments or providing customer service.  Data, including Personal Information, may be stored or processed outside Canada or in the cloud where it will be subject to the laws of the jurisdiction(s) in which it resides. We do not disclose your Personal Information to these parties except to the extent necessary to enable them to provide the specific services to you or on your behalf. Third party service providers are contractually bound to maintain the confidentiality of your Personal Information and are prohibited from using your Personal Information for any other purpose. 
 
-  * Have questions or concerns about our treatment of your Personal Information;
-  * Wish to update or access your Personal Information;
-  * Want to withdraw your consent to the collection and use of your Personal Information, or the Personal Information of your child if you are a parent or guardian; or
-  * Wish to cancel a newsletter subscription.
+Other than for the specific purposes set forth in this Privacy Policy statement, we will not disclose your Personal Information to any third parties unless we obtain your prior consent or are legally compelled to do so or to protect and defend our rights or property. In addition, we will not contact you without your permission except as specified above or in connection with the registration process.
 
+In the event of a proposed or actual sale of all or a substantial portion of our business assets, your Personal Information may be disclosed to potential buyers where necessary to determine whether to proceed with the transaction.  Where such a transaction is completed, your Personal Information may be among the transferred assets. In such event, the purchaser will continue to be subject to the confidentiality obligations posted herein. 
 
+**What are your choices?**
 
-Please contact:TELETOON's Privacy Officer via e-mail or by mail to
+We do not sell or otherwise share personally identifiable information about individual users without the prior approval of the user. On the page where we ask for that information, there is a prominently displayed method to indicate to us that you do or do not want to receive promotional and/or marketing information about products, services and offerings. Check the appropriate box and your information may be used as described above. Leave it blank, and we consider it an opt-out. Either way, it is always your choice. User consent to use Personal Information can be withdrawn at any time by emailing our Privacy Officer using the contact information provided below.
 
-TELETOON Corus Quay25 Dockside Drive,Toronto, Ontario,M5A 0B5Telephone: (416) 479-7000Fax: (416) 479-7006. e-mail:[privacy@corusent.com](mailto:privacy@corusent.com)
+**What are cookies, and how are they used?**
 
-Updated on 02/25/2014Subject to change without notice
+Cookies are small data files that your browser may place on your computer when you visit different Web sites to mark that you have been there. Cookie technology is used on our Site to maximize the website-browsing experience. For example, we use cookies to keep track of a user's time zone information which allows us to customize our schedule and give accurate show times. We also use cookies to keep track of a user's selections on the "My Favourites" page. No Personal Information is gathered from these cookies. However, you may choose to set up your browser to refuse cookies or alert you when cookies are sent. Please note, though, if you don't have a Teletoon cookie it may limit our ability to customize and improve our Site features.
+
+**Linking to Our Business Partners' and Third Party Content/ Websites**
+
+Please keep in mind that this Privacy Policy applies to the Site only. Occasionally, the Site may contain links from and to sites operated by our business partners and other independent third parties whose privacy practices may be different from those of Teletoon. Once you leave the Site, you may or may not see a new URL in the location bar. If you submit Personal Information to any of those sites, your information is governed by the privacy policies of those destination websites. Please review the linked site's and third party content provider's privacy policies, and do not use or further visit these sites if you do not agree with the terms of these policies. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties, or the privacy policies and practices or contents of any linked site or subsequent links from that site.
+
+The Site may include social media features, like the Facebook “Like” button. These features may collect information about your IP address and which page you’re visiting on our Site, and they may set a cookie to make sure the feature functions properly.  Corus makes social media sharing buttons available only on portions of the Site directed to Parents; however, the child-focused portions of the Site do offer video content through the use of third party video-sharing widgets, which may contain sharing functionality. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
+
+**Parental software solutions**
+
+There are software programs that allow Parents to block certain websites from their kids. Some programs are more flexible than others, so you may want to shop around to find one that you're comfortable with. We hope you and your children continue to enjoy your surfing experience on the Site
+
+**How We Protect Your Personal Information**
+
+We have policies and procedures in place to protect the privacy and confidentiality of the information that we collect and maintain, including contracts with third parties that manage the information provided by you. All Personal Information is stored on secure servers, behind a firewall at a data center with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices.
+
+To help ensure the privacy of your information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you. We may offer "auto login" which allows users to enter member areas of our Site without re-entering password information. You may want to disable auto login on your device, in order to prevent access by unauthorized users of your device.
+
+**Updating / Deleting your Information**
+
+Users of the Site may delete any Personal Information previously submitted through the Site, unless such deletion would compromise privacy or security interests. To update or delete your information, please contact the company’s Privacy Officer, at the address listed below.
+
+**Questions/Concerns?  
+**
+
+If you have any concerns about privacy procedures respecting our Site, or to find out further details about how your Personal Information may be used, write us at:
+
+**Corus Entertainment Inc.** **  
+Corus Quay, 25 Dockside Drive,  
+Toronto, Ontario M5A 0B5**
+
+**Attn:    Privacy Officer**
+
+Or you may email us at [**privacy@corusent.com**](mailto:privacy@corusent.com) **.**
+
+Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
+
+**_Office of the Privacy Commissioner of Canada_** ****
+
+The Office of the Privacy Commissioner of Canada oversees our Personal Information handling practices. If any privacy concerns are not addressed to your satisfaction you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+
+By Phone:
+
+| 
+
+1-800-282-1376 or 819-994-5444  
+  
+---|---  
+  
+By Fax:
+
+| 
+
+819-994-6591  
+  
+Website:
+
+| 
+
+[www.priv.gc.ca](http://www.priv.gc.ca/)  
+  
+© 2016 Teletoon Canada Inc. and Corus Digital Inc.
