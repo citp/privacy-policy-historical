@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153958id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408061517id_/http%3A//www.dubai.com/booking/privacy_policy) for the most accurate reproduction.*
 
-# Dubai Holidays, Dubai Hotels - Dubai Travel and City Information
+# Dubai Hotels, Dubai Holidays - City Guide and Travel Information
 
   * 1\. Introduction
     * 1.1. We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the "Act").
