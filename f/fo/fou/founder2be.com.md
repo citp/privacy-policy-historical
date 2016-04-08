@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117103832id_/https%3A//www.founder2be.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founder2be.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408043741id_/https%3A//www.founder2be.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Site
 
