@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223225019id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408111634id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – About Spreecast
 
 ## Privacy Policy
 
-This Privacy Policy applies to all of the products, services and websites offered by Spreecast Inc. or its subsidiaries or affiliated companies.
+This Privacy Policy applies to the Spreecast product, including the website found at www.spreecast.com and the Spreecast mobile app.
 
 If you have any questions about this Privacy Policy, please feel free to contact us at [support@spreecast.com](mailto:support@spreecast.com).
 
