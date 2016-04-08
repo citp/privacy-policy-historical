@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319191347id_/https%3A//www.fastcardtech.com/article-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcardtech.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205029id_/https%3A//www.fastcardtech.com/article-2.html) for the most accurate reproduction.*
 
 # Privacy Policy_Security & Privacy_HELP CENTER_SYSTEM FILE_Cheap android mobile phone & tablets from China at FastCardTech wholesale store
 
@@ -14,7 +14,7 @@ At fastcardtech, we take your privacy very seriously. Please read this policy (t
 
 **Information we collect**
 
-Our main purpose in collecting personal information is to provide you with an enjoyable, customized, and efficient experience on our Site. It is our policy to never willfully disclose any personal information about our Members to the general public without their consent. fastcardtech collects information from you when you register and conduct certain activities on the Site. We collect your full name, valid telephone number, contact/billing information, email address, and shipping address. Also, each Member must create a unique user id and password. Any additional information collected will be used in accordance with our privacy policy.
+Our main purpose in collecting personal information is to provide you with an enjoyable, customized, and efficient experience on our Site. It is our policy to never willfully disclose any personal information about our Members to the general public without their consent. fastcardtech collects information from you when you register and conduct certain activities on the Site. We collect your full name, valid t[ **elephone**](http://https//www.fastcardtech.com/Elephone.html) number, contact/billing information, email address, and shipping address. Also, each Member must create a unique user id and password. Any additional information collected will be used in accordance with our privacy policy.
 
 We collect some information from your browser. This includes your IP address and the name of the page you requested. This information helps us to diagnose problems with our servers and administer the Site. Basically, your IP address helps us in identifying you and your specific needs.
 
@@ -60,4 +60,4 @@ Minors (those under the age of 18) are not eligible to use fastcardtech unless t
 
 We go to great lengths to protect all of your information on our Site. In order to help us maintain the security of your personal information, we ask that you do not share your password with anybody. Sharing this information could put you and your rating as a buyer/seller at risk. If you lose control of your password or you think that somebody has obtained unauthorized access to your account, immediately change your password. Please contact us if you have any questions.
 
-Next：[Terms Of Use](https://web.archive.org/web/20150319191347id_/https%3A//www.fastcardtech.com/article.php?id=16)
+Next：[Terms Of Use](https://web.archive.org/web/20160408205029id_/https%3A//www.fastcardtech.com/article.php?id=16)
