@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910085438id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valpak.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408200221id_/https%3A//www.valpak.com/coupons/show/privacypolicy) for the most accurate reproduction.*
 
 # Free Printable Coupons and Online Promo Codes - Valpak.com
 
