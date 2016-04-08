@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141047id_/http%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408072248id_/http%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financesonline.com
 
@@ -14,15 +14,15 @@ Our Site users are not asked to submit any personal data nor to register to be a
 
 We do gather and process personal information belonging to registered users and when submitting forms on the Site for the purposes outlined below:
 
-**(i) Software Providers:** to allow providers to have their company as well as product and services details available on our site, we gather the following: name, surname, professional email address, company website, company name, e-mail, telephone number and billing related information. What is more, we gather non-personally identifiable information about the vendor’s company such as online advertising budget and various data points regarding their products.
+ **(i) Software Providers:** to allow providers to have their company as well as product and services details available on our site, we gather the following: name, surname, professional email address, company website, company name, e-mail, telephone number and billing related information. What is more, we gather non-personally identifiable information about the vendor’s company such as online advertising budget and various data points regarding their products.
 
-**(ii)** **Business and IT users:** We gather the personal details of the registered users who completed the forms required if a user wants to fill out a lead form or post a review, or fill out a Contact Us form, or subscribe to a newsletter, including name and surname, professional email address, Rittan Holdings Ltd, and phone number. This information is passed on to Software Providers if a user has agreed for us to do so, specifically when they complete a lead form.
+ **(ii)** **Business and IT users:** We gather the personal details of the registered users who completed the forms required if a user wants to fill out a lead form or post a review, or fill out a Contact Us form, or subscribe to a newsletter, including name and surname, professional email address, Rittan Holdings Ltd, and phone number. This information is passed on to Software Providers if a user has agreed for us to do so, specifically when they complete a lead form.
 
 Throughout the registration process or the form filling process, the fields marked with an asterisk (*) are required to be completed, since they are obligatory and strictly necessary to prepare a response to the user’s request. In cases when all fields are mandatory it will be stated at the top of the form and no asterisk signs will be shown. The completion of the other fields is entirely voluntary. If a user does not want to provide to the required personal information, he or she may not be able to benefit from Services and products offered by the Site. The User guarantees that the personal data provided by them is accurate, true and up to date in the manner that reflects the User’s current circumstances. The User hereby confirms that he/she is solely responsible for any inaccuracies, false information, errors or mistakes in any provided personal information and may be held liable for any damages whatsoever caused to Rittan Holdings Ltd or third parties, by virtue of using Rittan Holdings Ltd Services. Similarly, we ask our Users to kindly send us information on any changes in their personal details so that the information collected in our files is current and free of errors at all times.
 
 Rittan Holdings Ltd will also process other technical data connected with your use of the Site, as detailed below, including accessed Site areas and web pages as well as IP addresses.
 
-**It is forbidden to provide any personal information that is non-professional contact data or which contains sensitive data that is connected to identifiable persons such as:**
+ **It is forbidden to provide any personal information that is non-professional contact data or which contains sensitive data that is connected to identifiable persons such as:**
 
 (i) Non-professional contact information including email or home addresses or personal phone numbers.
 
@@ -89,3 +89,21 @@ We may partner with identified third parties, but we do not offer any personally
 #### 9\. COOKIES AND IPS
 
 To improve our our understanding of Users’ interaction with our Site, we may use IP trackers and cookies. Rittan Holdings Ltd has a [cookies policy that can be found here](http://financesonline.com/cookies-policy/).
+
+#### 10\. ADSENSE
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
+
+If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
+
+  * Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
+  * Provide links to the appropriate vendor and ad network websites.
+  * Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+
+
+Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/) for guidance on drafting a privacy policy.
