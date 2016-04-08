@@ -1,0 +1,384 @@
+<!--The following is the downloaded HTML source of the ask.audio privacy policy that was archived on 2016-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160408043015id_/https%3A//ask.audio/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head profile="https://www.w3.org/2005/10/profile">
+<title>Ask.Audio</title> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8HWFZUGwcCVlFbDwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script> <meta name="description" content="Ask.Audio is your ultimate daily resource covering the latest news, reviews, tutorials and interviews for digital music makers, by digital music makers."> <meta name="keywords" content="askaudio, askaudiomag, magazine, digital, music, audio, training, education, news, reviews, interviews, tutorials, synths, Logic Pro, Ableton Live, Cubase, DAW, Pro Tools, music production, audio production, tips, tricks, MIDI, music machines, audio recording, modular, synthesis, DJ, mixing, mastering"> <meta name="google-site-verification" content="D0xqLGOBPvsk1Mah61pU-1lOUgjTSSj3quEJkLxnCAg">
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0">
+<script>
+        var deployment_version = '0';
+    </script>
+ 
+<link type="text/css" rel="stylesheet" href="/css/vendor.min.css?v=20160401.1200">
+ 
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700,800,500italic" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="/css/reset.min.css?v=20160401.1200">
+<link type="text/css" rel="stylesheet" href="/css/master.min.css?v=20160401.1200">
+ 
+<script type="text/javascript" src="/js/vendor/jquery.js?v=20160401.1200"></script>
+ 
+ 
+</head>
+<!--[if lte IE 9]><body class="ie "><![endif]-->
+<!--[if !IE]>-->
+<body class=" "><!--<![endif]-->
+ 
+<div id="page-wrapper" class="page-home ">
+<div id="header">
+<div class="page-container">
+<a class="academy-passes-btn" href="/academy?nleloc=plans"><img src="/img/academy-passes.png" data-track-click="Header, Pass"></a>
+<div id="nav-tertiary">
+<div class="user">
+<a href="/login" data-track-click="Header, Login">Log In</a> <a href="/create-account" data-track-click="Header, Create Account">Create Account</a>
+</div>
+<div class="social">
+<a href="https://www.facebook.com/AskAudioMag" target="_blank" data-track-click="Header, Social, Facebook"><i class="fa fa-facebook"></i></a>
+<a href="https://www.twitter.com/AskAudioMag" target="_blank" data-track-click="Header, Social, Twitter"><i class="fa fa-twitter"></i></a>
+<a href="/newsletter" class="newsletter-signup" data-track-click="Header, Newsletter"><i class="fa fa-envelope"></i></a>
+</div>
+</div>
+<div class="logo">
+<a href="/" data-track-click="Header, Logo">
+<img class="logo-img" src="/img/logo/aam-logo.png" alt="Ask.Audio">
+</a>
+<p class="header-logo-text">A NonLinear Educating Company</p>
+</div>
+</div>
+<div id="nav-wrapper">
+<div class="page-container">
+<div class="page-container-full clearfix">
+<div id="nav-mobile" class="click-menu nav-mobile" data-toggle-target="main-nav" data-toggle-class="menu-show">
+<a href="/#"><i class="fa fa-bars"></i></a> </div>
+<div id="nav-secondary" class="nav-mobile">
+<ul> <li id="nav-search" class="click-menu" data-toggle-target="search-bar" data-toggle-class="menu-search">
+<a href="/#"><i class="fa fa-search"></i></a> </li> <li id="nav-user" class="click-menu" data-toggle-target="user-bar" data-toggle-class="menu-user">
+<a href="/#"><i class="fa fa-user"></i></a> </li> </ul>
+</div>
+<div id="nav-home" class="home-link">
+<a href="/" data-track-click="Header, Logo">
+<img class="logo-img" src="/img/logo/aam-logo.png" alt="Ask.Audio">
+</a>
+</div>
+<div id="nav-primary">
+<ul class="main-nav nav-list-ul"> <li id="nav-news" class="category-link Xjs-hover-menu ">
+<a href="/news" data-track-click="Header, Menu, News">News</a> <div class="dropdown">
+<ul id="submenu-news" class="constrain-width nav-dropdown">
+<li class="">
+<ul class="nav-image-list five-columns">
+<li>
+<a href="/articles/musikmesse-2016-apogee-one-for-mac-video-overview" title="Musikmesse 2016: Apogee ONE for Mac Video Overview" data-track-click="Header, Menu Dropdown, Position 1">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11863/cp_512_headline-Apogee-ONE-Mac-Musikmesse-news.jpg )"></div>
+<h3 class="truncate">Musikmesse 2016: Apogee ONE for Mac Video Overview</h3>
+</a>
+</li>
+<li>
+<a href="/articles/musikmesse-2016-nord-drum-3p-overview-and-demo" title="Musikmesse 2016: Nord Drum 3P Overview and Demo " data-track-click="Header, Menu Dropdown, Position 2">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11862/cp_512_headline-Nord-Drums-3P-video.jpg )"></div>
+<h3 class="truncate">Musikmesse 2016: Nord Drum 3P Overview and Demo </h3>
+</a>
+</li>
+<li>
+<a href="/articles/musikmesse-2016-lab4music-sipario-advanced-midi-router" title="Musikmesse 2016: Lab4Music Sipario Advanced MIDI Router" data-track-click="Header, Menu Dropdown, Position 3">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11861/cp_512_headline-lab4music-sipario-messe16.jpg )"></div>
+<h3 class="truncate">Musikmesse 2016: Lab4Music Sipario Advanced MIDI Router</h3>
+</a>
+</li>
+<li>
+<a href="/articles/developing-your-own-ios-audio-apps-just-got-easier-with-amazing-audio-engine" title="Developing Your Own iOS Audio Apps Just Got Easier With Amazing Audio Engine" data-track-click="Header, Menu Dropdown, Position 4">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11860/cp_512_Screen_Shot_2016-04-07_at_08-39-13.jpg )"></div>
+<h3 class="truncate">Developing Your Own iOS Audio Apps Just Got Easier With Amazing Audio Engine</h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/category/news" data-track-click="Header, Menu Dropdown, All">
+<i class="fa fa-plus-circle"></i>
+<h3>All News</h3>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+</div> </li> <li id="nav-reviews" class="category-link Xjs-hover-menu ">
+<a href="/reviews" data-track-click="Header, Menu, Reviews">Reviews</a> <div class="dropdown">
+<ul id="submenu-reviews" class="constrain-width nav-dropdown">
+<li class="">
+<ul class="nav-image-list five-columns">
+<li>
+<a href="/articles/4-free-max-for-live-synths-to-spark-your-creativity" title="4 Free Max for Live Synths to Spark Your Creativity" data-track-click="Header, Menu Dropdown, Position 1">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1117/11777/cp_512_HEADLINE-max-for-live-creative-synths.jpg )"></div>
+<h3 class="truncate">4 Free Max for Live Synths to Spark Your Creativity</h3>
+</a>
+</li>
+<li>
+<a href="/articles/review-eventide-blackhole-lost-in-space" title="Review: Eventide Blackhole: Lost In Space" data-track-click="Header, Menu Dropdown, Position 2">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1117/11849/cp_512_headline-Eventide-Blackhole-review.jpg )"></div>
+<h3 class="truncate">Review: Eventide Blackhole: Lost In Space</h3>
+</a>
+</li>
+<li>
+<a href="/articles/review-ik-multimedia-lurssen-mastering" title="Review: IK Multimedia Lurssen Mastering" data-track-click="Header, Menu Dropdown, Position 3">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1093/11844/cp_512_headline-IK-review-Lurssen-mastering-plugins.jpg )"></div>
+<h3 class="truncate">Review: IK Multimedia Lurssen Mastering</h3>
+</a>
+</li>
+<li>
+<a href="/articles/review-flintpope-36-pads-for-ableton-live" title="Review: Flintpope 36 Pads for Ableton Live" data-track-click="Header, Menu Dropdown, Position 4">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1082/11762/cp_512_headline-review-36-pads-ableton-live.jpg )"></div>
+<h3 class="truncate">Review: Flintpope 36 Pads for Ableton Live</h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/category/reviews" data-track-click="Header, Menu Dropdown, All">
+<i class="fa fa-plus-circle"></i>
+<h3>All Reviews</h3>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+</div> </li> <li id="nav-tutorials" class="category-link Xjs-hover-menu ">
+<a href="/tutorials" data-track-click="Header, Menu, Tutorials">Tutorials</a> <div class="dropdown">
+<ul id="submenu-tutorials" class="constrain-width nav-dropdown">
+<li class="">
+<ul class="nav-image-list five-columns">
+<li>
+<a href="/articles/music-theory-rhythmic-workshop-101" title="Music Theory: Rhythmic Workshop 101" data-track-click="Header, Menu Dropdown, Position 1">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1132/11858/cp_512_HEADLINE-RHYTHMIC-WORKSHOP.jpg )"></div>
+<h3 class="truncate">Music Theory: Rhythmic Workshop 101</h3>
+</a>
+</li>
+<li>
+<a href="/articles/modular-synth-secrets-understanding-voltage-using-the-moog-mother-32" title="Modular Synth Secrets: Understanding Voltage Using the Moog Mother 32" data-track-click="Header, Menu Dropdown, Position 2">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11853/cp_512_headline-Moog-Mother-32.jpg )"></div>
+<h3 class="truncate">Modular Synth Secrets: Understanding Voltage Using the Moog Mother 32</h3>
+</a>
+</li>
+<li>
+<a href="/articles/understanding-the-channel-strip-in-cubase" title="Understanding the Channel Strip in Cubase" data-track-click="Header, Menu Dropdown, Position 3">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1093/11848/cp_512_headline-Cubase-Channel-Strip.jpg )"></div>
+<h3 class="truncate">Understanding the Channel Strip in Cubase</h3>
+</a>
+</li>
+<li>
+<a href="/articles/beat-mapping-in-logic-pro-x" title="Beat Mapping in Logic Pro X" data-track-click="Header, Menu Dropdown, Position 4">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1130/11843/cp_512_headline-LPX-beatmapping.jpg )"></div>
+<h3 class="truncate">Beat Mapping in Logic Pro X</h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/category/tutorials" data-track-click="Header, Menu Dropdown, All">
+<i class="fa fa-plus-circle"></i>
+<h3>All Tutorials</h3>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+</div> </li> <li id="nav-interviews" class="category-link Xjs-hover-menu ">
+<a href="/interviews" data-track-click="Header, Menu, Interviews">Interviews</a> <div class="dropdown">
+<ul id="submenu-interviews" class="constrain-width nav-dropdown">
+<li class="">
+<ul class="nav-image-list five-columns">
+<li>
+<a href="/articles/interview-andreas-schneider-on-superbooth16-modular-synthesis" title="Interview: Andreas Schneider on Superbooth16 &amp; Modular Synthesis" data-track-click="Header, Menu Dropdown, Position 1">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11724/cp_512_headline2-Andreas-Schneider-interview.jpg )"></div>
+<h3 class="truncate">Interview: Andreas Schneider on Superbooth16 &amp; Modular Synthesis</h3>
+</a>
+</li>
+<li>
+<a href="/articles/mixing-engineer-jack-joseph-puig-reveals-his-favorite-mixing-plugins" title="Mixing Engineer Jack Joseph Puig Reveals His Favorite Mixing Plugins" data-track-click="Header, Menu Dropdown, Position 2">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11700/cp_512_headline-Waves-Audio-Jack-Joseph-Puig.jpg )"></div>
+<h3 class="truncate">Mixing Engineer Jack Joseph Puig Reveals His Favorite Mixing Plugins</h3>
+</a>
+</li>
+<li>
+<a href="/articles/video-interview-oz-craggs-shares-recording-mixing-production-tips" title="Video Interview: Oz Craggs Shares Recording, Mixing &amp; Production Tips" data-track-click="Header, Menu Dropdown, Position 3">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11698/cp_512_headline2-Oz-Craggs-interview.jpg )"></div>
+<h3 class="truncate">Video Interview: Oz Craggs Shares Recording, Mixing &amp; Production Tips</h3>
+</a>
+</li>
+<li>
+<a href="/articles/interview-jean-michel-jarre-on-sampling-delays-keeping-music-fun" title="Interview: Jean-Michel Jarre on Sampling, Delays &amp; Keeping Music Fun" data-track-click="Header, Menu Dropdown, Position 4">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/hub/media/1001/11685/cp_512_HEADLINE-JEAN-MICHEL-JARRE-2.jpg )"></div>
+<h3 class="truncate">Interview: Jean-Michel Jarre on Sampling, Delays &amp; Keeping Music Fun</h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/category/interviews" data-track-click="Header, Menu Dropdown, All">
+<i class="fa fa-plus-circle"></i>
+<h3>All Interviews</h3>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+</div> </li> <li id="nav-courses" class="category-link Xjs-hover-menu ">
+<a href="/academy?nleloc=new-releases" data-track-click="Header, Menu, Academy" target="_blank">Academy</a> <div class="dropdown">
+<ul id="submenu-courses" class="constrain-width nav-dropdown">
+<li class="">
+<ul class="nav-image-list five-columns courses-list">
+<li>
+<a href="/academy?nleloc=/course/1998/explained-and-explored" title="Explained and Explored Push 2 101" data-track-click="Header, Menu Dropdown Courses, Position 1" target="_blank">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/nle/1998/7b7903a35060e6192dd933aab916f96a.256.256.jpg )"></div>
+<h3>Explained and Explored Push 2 101 Explained and Explored </h3>
+</a>
+</li>
+<li>
+<a href="/academy?nleloc=/course/1996/explained-and-explored" title="Explained and Explored Soundtoys 5 101" data-track-click="Header, Menu Dropdown Courses, Position 2" target="_blank">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/nle/1996/bb0d88a284278e321ad8b1678fa13664.256.256.jpg )"></div>
+<h3>Explained and Explored Soundtoys 5 101 Explained and Explored </h3>
+</a>
+</li>
+<li>
+<a href="/academy?nleloc=/course/1995/explained-and-explored" title="Explained and Explored GarageBand for iOS 101" data-track-click="Header, Menu Dropdown Courses, Position 3" target="_blank">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/nle/1995/ea6d83654b47d08f8625eec699abdbfd.256.256.jpg )"></div>
+<h3>Explained and Explored GarageBand for iOS 101 Explained and Explored </h3>
+</a>
+</li>
+<li>
+<a href="/academy?nleloc=/course/1993/10-common-mastering-mistakes" title="10 Common Mastering Mistakes Audio Mistakes 104" data-track-click="Header, Menu Dropdown Courses, Position 4" target="_blank">
+<div class="article-image" style="background-image:url( //macprovid.vo.llnwd.net/o43/nle/1993/7863cc70e57b6f2dcb619e19eb306b45.256.256.jpg )"></div>
+<h3>10 Common Mastering Mistakes Audio Mistakes 104 10 Common Mastering Mistakes </h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/academy?nleloc=new-releases" target="_blank" data-track-click="Header, Menu Dropdown Courses, All">
+<i class="fa fa-mortar-board"></i>
+<h3>More Courses</h3>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li> </ul>
+</div>
+<div class="search-bar dropdown">
+<div class="constrain-width">
+<form action="/search/all" id="search_form" method="post" accept-charset="utf-8" name="570733d80766b"> <input id="searchQuery" type="search" name="q" class="searchInput searchbox " placeholder="Search...">
+<i class="fa fa-remove click-menu" data-toggle-target="search-bar" data-toggle-class="menu-search"></i>
+</form> </div>
+</div>
+<div class="user-bar dropdown">
+<div class="constrain-width clearfix">
+<ul class="nav-image-list two-columns">
+<li class="icon-image">
+<a href="/login" data-track-click="Header, Login">
+<i class="fa fa-unlock"></i>
+<h3>Log In</h3>
+</a>
+</li>
+<li class="icon-image">
+<a href="/create-account" data-track-click="Header, Create Account">
+<i class="fa fa-pencil"></i>
+<h3>Create Account</h3>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-content" class="">
+<div class="basic-pg constrain-width">
+<h1 class="headline">Ask.Audio's Privacy Policy</h1>
+<ol>
+<li><strong>Your email address is secure.</strong><br>We will never share your contact information with anyone, period.</li>
+<li><strong>We do not store any credit card information.</strong><br>All commerce is through <a href="http://paypal.com" target="_blank">PayPal</a>.</li>
+<li><strong>Personal information is stored on our secure server.</strong><br>Our SSL encryption is provided by <a href="http://thawte.com" target="_blank">Thawte</a>, the industry leader in Internet Security. This certificate ensures that your information is sent securely, and encrypted, to our secure database server.</li>
+<li><strong>Cookies are set to track your shopping cart only.</strong><br>Our cookies delete themselves as soon as you finish your session, or after 30 minutes of inactivity. No traces are left on your computer.</li>
+</ol>
+<p>Do you have a question about our Privacy Policy? Let us know by clicking <a href="/contact">here</a>.</p>
+</div>
+</div> 
+<div id="footer-wrapper">
+<div class="orange-accent"></div>
+<div id="footer">
+<div id="footer-links" class="constrain-width">
+<div class="footer-section blurb">
+<p>Ask.Audio is your ultimate daily resource covering the latest news, reviews, tutorials and interviews for digital music makers, by digital music makers.</p>
+</div>
+<div id="ftr-categories" class="footer-section">
+<h3>Categories</h3>
+<ul>
+<li><a href="/category/news" data-track-click="Footer, News">News</a></li>
+<li><a href="/category/reviews" data-track-click="Footer, Reviews">Reviews</a></li>
+<li><a href="/category/tutorials" data-track-click="Footer, Tutorials">Tutorials</a></li>
+<li><a href="/category/interviews" data-track-click="Footer, Interviews">Interviews</a></li>
+</ul>
+</div>
+<div id="ftr-mag" class="footer-section">
+<h3>More</h3>
+<ul>
+<li><a href="/advertise" target="_blank" data-track-click="Footer, Advertise">Advertise</a></li>
+<li><a href="/hub/create" data-track-click="Footer, Submit Article">Submit Article</a></li>
+<li><a href="/authors" data-track-click="Footer, Authors">Authors</a></li>
+<li><a href="/ebooks" data-track-click="Footer, eBooks">eBooks</a></li>
+<li class="ftr-contact"><a href="/support" data-track-click="Footer, support">Support</a></li>
+<li class="ftr-contact"><a href="/terms-of-service" data-track-click="Footer, Terms of Service">Terms of Service</a></li>
+<li class="ftr-contact"><a href="/privacy-policy" data-track-click="Footer, Privacy Policy">Privacy Policy</a></li>
+</ul>
+</div>
+<div id="ftr-contact" class="footer-section">
+ 
+ 
+<ul>
+<li><a href="/support" data-track-click="Footer, support">Support</a></li>
+<li><a href="/terms-of-service" data-track-click="Footer, Terms of Service">Terms of Service</a></li>
+<li><a href="/privacy-policy" data-track-click="Footer, Privacy Policy">Privacy Policy</a></li>
+</ul>
+</div>
+</div> 
+<div id="footer-social-wrapper">
+<div id="footer-social" class="constrain-width">
+<div id="audio-in"></div>
+<ul class="button-wrapper">
+<li><span class="footer-connect-text">Connect with us:</span></li>
+<li class="social-link twitter lrg">
+<a href="https://www.twitter.com/AskAudioMag" target="_blank" data-track-click="Footer, Social, Twitter">Twitter</a>
+</li>
+<li class="social-link fb lrg">
+<a href="https://www.facebook.com/AskAudioMag" target="_blank" data-track-click="Footer, Social, Facebook">Facebook</a>
+</li>
+<li class="social-link rss lrg">
+<a href="/rss" data-track-click="Footer, RSS">RSS</a> </li>
+</ul>
+</div>
+</div> 
+<div class="footer-copyright constrain-width">
+<img src="/img/logo/askaudio-logo-light-txt.png" width="200" height="50" alt="Ask.Audio"> <small>© 2016 <strong>Ask.Audio</strong></small>
+<small>A NonLinear Educating Company</small>
+</div>
+</div> 
+</div> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-230405-14', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</div> 
+ 
+<script type="text/javascript" src="/js/vendor.min.js?v=20160401.1200"></script>
+<script type="text/javascript" src="/js/master.min.js?v=20160401.1200"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b646362ccf","applicationID":"4220988","transactionName":"M1cGYxZSD0JWVkdbWwodMUUNHBFEVVlaURsNXABSHB0RWUc=","queueTime":0,"applicationTime":27,"atts":"HxAFFV5IHEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+ 
+<script>
+$(document).ready(function () {
+	$(window).on("resize load", function () {
+		var footer_height = $("#footer-wrapper").outerHeight();
+		$("#page-content").css({"padding-bottom":footer_height});
+	});
+});
+</script>
+</body></html>
