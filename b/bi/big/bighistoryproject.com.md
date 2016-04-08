@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bighistoryproject.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915035050id_/https%3A//www.bighistoryproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bighistoryproject.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408233957id_/https%3A//www.bighistoryproject.com/privacy) for the most accurate reproduction.*
 
 # Big History Project Website Privacy Policy
 
-Effective Date: June 8, 2015
+Effective Date: September 4, 2014
 
 #### 1\. PRIVACY NOTIFICATION
 
@@ -16,7 +16,7 @@ BHP reserves the right to revise this Privacy Policy from time to time by updati
 
 #### 3\. OUR INFORMATION COLLECTION PRACTICES 
 
-**3.1 General.** When you visit the Site without creating an account, you can browse without submitting any personal information about yourself. We will, however, receive and store some non-personally-identifiable information about you. For example, we automatically receive and record information on our server logs from your browser including your IP address, browser type and language, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time. If you create an account, we will also collect some personally identifiable information from you, including your full name, a user name (email address) and password, and your email address. Student and teacher account holders must also submit information regarding educational institution affiliation, location, and grade level. BHP is an entity located in the United States and your personally identifiable information will be collected and stored in the United States by BHP and its third party service providers. 
+**3.1 General.** When you visit the Site without creating an account, you can browse without submitting any personal information about yourself. We will, however, receive and store some non-personally-identifiable information about you. For example, we automatically receive and record information on our server logs from your browser including your IP address, browser type and language, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time. If you create an account, we will also collect some personally identifiable information from you, including your full name, a user name (email address) and password, and your email address. Student and teacher account holders must also submit information regarding educational institution affiliation, location, and grade level.
 
 **3.2 Automatically Collected Information.** Similar to other web sites, we will collect some information automatically and store it in log files, for example, through the use of "cookies" and other tracking mechanisms. This information does not identify you. This collection may include, but is not limited to, your IP address, browser type and language, referring/exit pages and URLs, other browser history, platform type, number of clicks, landing pages, cookie information, the pages you requested and viewed, the amount of time spent on particular pages, and the date and time. We collect this non-personally identifiable information in order to help diagnose problems with our server and to administer the Site. Your IP address is also used to help identify you and to gather broad demographic information. We may also use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (c) track entries, submissions, and status in any interactive portion of the Site.
 
@@ -60,7 +60,7 @@ Personally identifiable information collected by the Site is stored in operating
 
 #### 8\. OUR INFORMATION SHARING PRACTICES
 
-**8.1 General.** We will not sell or rent any of your personal information to third parties for marketing purposes. However, we may disclose your information to an affiliated entity or organization and to agents and service providers for the purpose of operating and improving the Site. Use of information by affiliated entities or organizations will be subject to this Privacy Policy or an agreement that is at least as restrictive as this Privacy Policy. For information on use of information by agents and service providers, see the "Third Party Providers" Section above.
+**8.1 General.** We will not sell or rent any of your personal information to third parties for marketing purposes. However, we may disclose your information to an affiliated entity or organization and to agents and service providers. Use of information by affiliated entities or organizations will be subject to this Privacy Policy or an agreement that is at least as restrictive as this Privacy Policy. For information on use of information by agents and service providers, see the "Third Party Providers" Section above.
 
 **8.2 Research Purposes.** BHP is working with the University of Michigan to evaluate and improve the course. Teacher surveys and logs and student surveys, tests and writing samples are part of this evaluation and data submitted in those student materials are anonymously shared with the University of Michigan. By clicking "Register as a Teacher" or Register as a Student," you consent to BHP's collection and release of such information to the University of Michigan.
 
@@ -68,7 +68,7 @@ Personally identifiable information collected by the Site is stored in operating
 
 **8.4 Insolvency and Business Transitions.** If we should ever file for bankruptcy or engage in a business transition such as a merger with another company or if we purchase, sell, or reorganize all or a part of our business or assets, we may disclose your personal Information, including to prospective or actual purchasers in connection with one of these transactions.
 
-**8.5 Disclaimer.** We cannot ensure that all of your personally identifiable information will never be disclosed in ways not otherwise described in this Policy. For example, we may be required to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. We have taken all reasonable steps to ensure the security of your personally identifiable information. However, Nno transmission of data over the internet can be guaranteed to be 100% secure.
+**8.5 Disclaimer.** We cannot ensure that all of your personally identifiable information will never be disclosed in ways not otherwise described in this Policy. For example, we may be required to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. No transmission of data over the internet can be 100% secure.
 
 #### 9\. LINKS
 
@@ -86,14 +86,6 @@ California Civil Code Section 1798.83 permits California residents to request an
 
 If your personally identifiable information changes or if you would like to cancel your account, you may make such changes by contacting us at: info@bighistoryproject.com. 
 
-If you are located in Australia, you are entitled to access personal information that we hold about you. If you request access to your personal information, in ordinary circumstances we will give you full access to your personal information. However, there may be some legal or administrative reasons to deny access. If we refuse your request to access your personal information, we will provide you with reasons for the refusal. A request for access can be made by contacting us at [info@bighistoryproject.com](mailto:info@bighistoryproject.com).
-
-We take all reasonable steps to ensure that any personal information we collect and use is accurate, complete and up-to-date. To assist us in this, you need to provide true, accurate, current and complete information about yourself as requested, and properly update the information provided to us to keep it true, accurate, current and complete. Please contact us if you believe that the personal information is inaccurate or incomplete, and we will use all reasonable efforts to correct the information. 
-
 #### 13\. PRIVACY QUESTIONS
 
 If you have any questions about this Privacy Policy or other matters that relate to it, you may contact us by sending an email to: [info@bighistoryproject.com](mailto:info@bighistoryproject.com).
-
-If you are located in Australia and you feel that your privacy has not been respected or that we have conducted ourselves inconsistently with this Privacy Policy, or for any other queries in relation to this Privacy Policy, please contact us at [info@bighistoryproject.com](mailto:info@bighistoryproject.com). 
-
-We will investigate your queries and complaints within a reasonable period of time and will notify you of the outcome of our investigation.
