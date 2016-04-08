@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222143908id_/http%3A//www.healthcaresource.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcaresource.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408140034id_/http%3A//www.healthcaresource.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | HealthcareSource
+# Privacy Policy
+
+**NOTE: FOR ALL LOGIN OR SUPPORT QUESTIONS, PLEASE CONTACT:  [support@healthcaresource.com](mailto:support@healthcaresource.com).**
 
 This is the privacy policy (“Privacy Policy”) for the healthcaresource.com Website with a front page at the www.healthcaresource.com domain name, along with all related blogs and social media sites and affiliated Webpages including, without limitation, URLs assigned to specific users in connection with their usage of our Position Manager, Performance Manager, NetLearning and Assessment services (collectively, the “Site”). The Site is published, maintained and made available by HealthcareSource HR, Inc. and its subsidiaries and affiliates (collectively referred to in this Privacy Policy as “HealthcareSource” or “we,” “us,” “our” or other similar pronouns).
 
