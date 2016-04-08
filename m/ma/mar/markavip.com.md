@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the markavip.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921165219id_/http%3A//markavip.com/sa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markavip.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231511id_/https%3A//markavip.com/sa/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MarkaVIP
 
 Effective Date: 05/05/2014
 
-This privacy policy applies to [markavip.com](http://www.markavip.com/) owned and operated by MarkaVIP NV, a company duly incorporated, organized and registered under the Belgian law with registered office at Rijnkaai 98, Hangar 26, 2000 Antwerp, Belgium (hereinafter referred to together with its subsidiaries and affiliates as MarkaVIP), in its capacity of controller of the personal data.
+This privacy policy applies to [markavip.com](https://www.markavip.com/) owned and operated by MarkaVIP NV, a company duly incorporated, organized and registered under the Belgian law with registered office at Rijnkaai 98, Hangar 26, 2000 Antwerp, Belgium (hereinafter referred to together with its subsidiaries and affiliates as MarkaVIP), in its capacity of controller of the personal data.
 
-This privacy policy describes how MarkaVIP collects and uses the personal information you provide on our web site: [markavip.com](http://www.markavip.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how MarkaVIP collects and uses the personal information you provide on our web site: [markavip.com](https://www.markavip.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 MarkaVIP has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. 
 
-The TRUSTe program covers only information that is collected through this Web site, [markavip.com](http://www.markavip.com/) and does not cover information that may be collected through our mobile applications. 
+The TRUSTe program covers only information that is collected through this Web site, [markavip.com](https://www.markavip.com/) and does not cover information that may be collected through our mobile applications. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
 
@@ -84,7 +84,7 @@ When you visit a page of the Platform that contains a social plugin, your browse
 
 If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. The information can also be published on Facebook, and shown to your Facebook friends.
 
-For information on the purpose and scope of data collection by Facebook/Twitter/ LinkedIn and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy <https://www.facebook.com/fbprivacy>, Twitter's privacy policy (<https://twitter.com/privacy>) or LinkedIn’s privacy policy (<http://www.linkedin.com/legal/privacy-policy>) 
+For information on the purpose and scope of data collection by Facebook/Twitter/ LinkedIn and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy <https://www.facebook.com/fbprivacy>, Twitter's privacy policy (<https://twitter.com/privacy>) or LinkedIn’s privacy policy ([http://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)) 
 
 ### Single Sign-On
 
@@ -118,8 +118,8 @@ Cookies from specific business partners are allowed by MarkaVIP for the purpose 
 
 If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking the links below and following the instructions. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-Vizury: <http://web.vizury.com/website/in/opt-out/>  
-Adroll: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=fals)
+Vizury: [http://web.vizury.com/website/in/opt-out/](https://web.vizury.com/website/in/opt-out/)  
+Adroll: [http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false](https://info.evidon.com/pub_info/573?v=1&nt=1&nw=fals)
 
 Our partners, affiliates, tracking utility companies and service providers may use cookies to enhance the customer's online shopping experience.The use of cookies by our partners, affiliates, tracking utility companies and service providers is not covered by our privacy policy. We do not have access or control over these cookies.
 
