@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204063015id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409011744id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rotary
 
@@ -22,7 +22,7 @@ This Policy applies to information we collect:
 It does not apply to information collected by:
 
   * Us offline or through any other means including on any other website operated by any third party; or
-  * Any third party, including through any application or content (including advertising) that may link to or be accessible from, or on, our Website.
+  * Any third party, including through any application, platform, or content (including advertising) that may link to or be accessible from, or on, our Website.
 
 
 
@@ -46,7 +46,7 @@ We collect this information:
 
 
 
-#### Information You Provide to Us.
+#### Information You Provide to Us
 
 We collect information you provide to us on or through our Website including:
 
@@ -61,7 +61,7 @@ We collect information you provide to us on or through our Website including:
 
 You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Content"). Your User Content is posted on and transmitted to others at your own risk. Although we limit access to certain pages and you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Content.
 
-#### Usage Details, IP Addresses, Cookies and Other Technologies.
+#### Usage Details, IP Addresses, Cookies and Other Technologies
 
 As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
 
@@ -70,7 +70,7 @@ As you navigate through and interact with our Website, we may automatically coll
 
 
 
-The information we collect automatically is statistical data, and does not identify any individual. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+The information we collect is anonymous. It is aggregated into statistical data to helps us improve our Website and to deliver a better and more personalized service by enabling us to:
 
   * Estimate our audience size, browser statistics, popularity of content and usage patterns.
   * Speed up your searches.
@@ -88,7 +88,7 @@ We do not collect personal information automatically, but we may tie this inform
 
 #### Third-party Advertiser Use of Cookies and Other Tracking Technologies
 
-Some advertisements on shop.rotary.org may be served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about our users. We do not control these third parties' tracking technologies or how they may be used. In addition, shop.rotary.org is powered by Amazon. If you have any questions about an advertisement, you should contact the responsible advertiser directly or visit Amazon.com. For information about how you can opt out of receiving targeted advertising from these providers, see _Choices About How We Use and Disclose Your Information_ section below.
+Some advertisements on Rotary.org and the advertisements and offers on Rotary Global Rewards are served by third-party advertisers, ad networks, and ad servers. Additionally, some of the applications accessible from, or on, our Website may be owned by third parties. These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about our users. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement on Rotary.org or an advertisement or offer on Rotary Global Rewards, you should contact the responsible advertiser directly. For information about how you can opt out of receiving targeted advertising from these providers, see _Choices About How We Use and Disclose Your Information_ section below.
 
 #### How We Use Your Information
 
@@ -97,17 +97,13 @@ We use information that we collect about you or that you provide to us, includin
   * To present our Website and its contents to you.
   * To provide you with information, products or services that you request from us.
   * To offer and fulfill our core business purposes which include:
-
-
-
-        \- Fulfilling Rotary's obligation to Rotarians  
-        \- Financial processing  
-        \- Supporting The Rotary Foundation  
-        \- Facilitating convention and special event planning  
-        \- Communicating key organizational messages  
-        \- Supporting the programs and membership of Rotary International  
-        \- Complying with any legal obligations
-
+    * Fulfilling Rotary's obligation to Rotarians
+    * Financial processing
+    * Supporting The Rotary Foundation
+    * Facilitating convention and special event planning
+    * Communicating key organizational messages
+    * Supporting the programs and membership of Rotary International
+    * Complying with any legal obligations
   * To fulfill any other purpose for which you provide it.
   * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
   * To notify you about changes to our Website or any products or services we offer or provide though it.
@@ -145,7 +141,7 @@ We may also disclose your personal information:
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly. You also will not be able to use Rotary Global Rewards.
   * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, for some third-party advertisers you can opt-out by logging into our Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. Otherwise you can send us an e-mail stating your request to [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org).
   * **Promotional Offers.** If you do not wish to have your contact information used by Rotary to promote our own or third parties' products or services, for some third parties’ products or services you can opt-out by logging into our Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. Otherwise you can send us an e-mail stating your request to [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
 
@@ -183,4 +179,4 @@ Rotary may change, add, modify or remove portions of this Policy at any time, wh
 
 If you have any questions about Rotary’s privacy protection practices or believe we have not adhered to this Policy, please contact us at [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org)
 
-Last modified: 19 August 2013
+Last modified: February 2016
