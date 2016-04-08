@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905210721id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408102321id_/https%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
-# Mozo Privacy Policy - Mozo
+# 
 
 ##  Introduction 
 
