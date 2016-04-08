@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the googiehost.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029133645id_/http%3A//googiehost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googiehost.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408084044id_/https%3A//googiehost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - GoogieHost
 
