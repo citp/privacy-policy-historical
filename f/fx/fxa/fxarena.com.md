@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxarena.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207215808id_/http%3A//www.fxarena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxarena.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408110930id_/http%3A//www.fxarena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
