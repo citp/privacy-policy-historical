@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srcs.org privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328100729id_/http%3A//www.srcs.org/portal/privacy%3Fd%3Dx%26return_url%3D1427315378762) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srcs.org privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408135527id_/http%3A//www.srcs.org/portal/privacy%3Fd%3Dx%26return_url%3D1459937107333) for the most accurate reproduction.*
 
 # Privacy Notice
 
