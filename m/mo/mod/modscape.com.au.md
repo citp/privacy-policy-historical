@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modscape.com.au privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616105457id_/http%3A//modscape.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modscape.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408192301id_/http%3A//modscape.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - Modscape
 
 Modscape Pty Ltd (ABN: 73122909040) of 430 Francis St, Brooklyn, Victoria 3012, Australia (“Modscape”) is committed to upholding the Australian Privacy Principles contained in the Privacy Act 1988 (Cth) and the Privacy Amendment (Enhancing Privacy Protection) Act 2012. We recognise the importance of privacy and community awareness regarding the collection, use, disclosure and security of personal information which we may collect during the course of our functions.  This Privacy Policy sets out how we manage your personal information and protect your privacy.
 
