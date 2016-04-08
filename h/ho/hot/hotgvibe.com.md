@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207100804id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408173842id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HotGVibe.com
 
