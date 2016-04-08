@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913135008id_/https%3A//www.banksa.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408143117id_/https%3A//www.banksa.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BankSA
 
   * Privacy
+  * Privacy Statement and Declaration
   * What kinds of personal information do we collect and hold?
   * Why do we collect, hold, use and disclose personal information?
   * How do we collect personal information?
@@ -20,7 +21,11 @@
 
 We are bound by the Privacy Act and will protect your personal information in accordance with the Australian Privacy Principles. These principles govern how we can collect, use, hold and disclose your personal information.
 
-This is a summary of our Privacy Policy. Download a copy of our full [Privacy Policy (PDF 63kb)](https://web.archive.org/content/dam/bsa/downloads/pds/170038%20PP%20BSA06068_0914_LR%20PP%20FINAL.pdf) (Opens in new window), view the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
+This is a summary of our Privacy Policy. View the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
+
+**Privacy Statement and Declaration**
+
+We collect personal information from you to process your application, provide you with your product or service, and manage your product or service. Read the full [Privacy Statement and Declaration](https://webapps.banksa.com.au/apply-now/privacy.asp?view=oaf).
 
 **What kinds of personal information do we collect and hold?**
 
@@ -84,7 +89,7 @@ GPO Box 3
 
 Melbourne VIC 3001
 
-**Phone** : [1300 78 08 08](tel:1300 78 08 08)
+**Phone** : 1300 78 08 08
 
 [**www.fos.org.au**](http://www.fos.org.au/)
 
@@ -96,7 +101,7 @@ GPO Box 5218
 
 Sydney NSW 2001
 
-**Phone** : [1300 363 992](tel:1300 78 08 08)
+**Phone** : 1300 363 992
 
 **Email** : [**enquiries@oaic.gov.au**](mailto:enquiries@oaic.gov.au)
 
@@ -106,12 +111,10 @@ Sydney NSW 2001
 
 You can contact us by:
 
-calling   **[13 13 76](tel:13 13 76)**
-
-emailing [banksa@banksa.com.au](mailto:banksa@banksa.com.au)
+calling [**13 13 76**](tel:131376)
 
 visiting any of our branches or agencies
 
-writing to us at GPO Box 399, Adelaide, SA 5001.
+writing to us at GPO Box 399, Adelaide SA 5001.
 
 Our Privacy Officer can also be contacted in relation to privacy concerns by writing to GPO Box 5265, Sydney NSW 2001.
