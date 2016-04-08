@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekxgirls.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208212651id_/http%3A//www.geekxgirls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekxgirls.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408113051id_/http%3A//geekxgirls.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
