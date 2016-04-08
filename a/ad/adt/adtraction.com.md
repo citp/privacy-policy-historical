@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adtraction.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034504id_/http%3A//adtraction.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtraction.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408225955id_/https%3A//adtraction.com/en/privacy) for the most accurate reproduction.*
 
 # Adtraction Affiliate Network | Privacy policy
-
-Adtraction may change this privacy policy from time to time and it should be read at every occasion you intend to provide Adtraction with personal data.
 
 Adtraction collect and store personal information about individuals who register as an affiliate via the Adtraction website. Personal information refers to all types of information that is directly or directly linked to a person such as name, address or telephone number. As a condition of registration as an affiliate Adtraction is given permission to collect and store the information we need in order to fulfill our obligations.
 
