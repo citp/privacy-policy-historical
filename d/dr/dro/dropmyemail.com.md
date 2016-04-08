@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropmyemail.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023115502id_/https%3A//dropmyemail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropmyemail.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408221306id_/https%3A//dropmyemail.com/privacy) for the most accurate reproduction.*
 
 # Dropmyemail | Privacy policy
 
@@ -66,7 +66,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for the above mentioned purposes, you may change your mind at any time by writing to or emailing us at [privacy@dropmysite.com](https://web.archive.org/web/20151023115502id_/https%3A//dropmyemail.com/privacy@dropmysite.com)
+  * if you have previously agreed to us using your personal information for the above mentioned purposes, you may change your mind at any time by writing to or emailing us at [privacy@dropmysite.com](https://web.archive.org/web/20160408221306id_/https%3A//dropmyemail.com/privacy@dropmysite.com)
 
 
 
