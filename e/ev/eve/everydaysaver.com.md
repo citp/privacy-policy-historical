@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaysaver.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021225556id_/http%3A//generalmills.com/en/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaysaver.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408104004id_/http%3A//generalmills.com/en/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
@@ -6,7 +6,7 @@
 
 Effective Date:  April 2, 2014
 
-General Mills is proud to market some of the world’s most-trusted brands, including _Betty Crocker, Pillsbury, Green Giant, Nature Valley, Yoplait, Old El Paso, Progresso, Hamburger Helper, Toaster Strudel, Gold Medal, Bisquick, Totino’s, Cheerios, Cinnamon Toast Crunch, Lucky Charms, Fiber One, Chex_  and  _Box Tops For Education._  
+General Mills is proud to market some of the world’s most-trusted brands, including _Betty Crocker, Pillsbury, Nature Valley, Yoplait, Old El Paso, Progresso, Hamburger Helper, Toaster Strudel, Gold Medal, Bisquick, Totino’s, Cheerios, Cinnamon Toast Crunch, Lucky Charms, Fiber One, Chex_  and  _Box Tops For Education._  
 
 We know that maintaining your trust requires that we protect your privacy – so we are very sensitive to the privacy concerns of those who use our websites, our pages and applications on third-party social-networking services, our emails, and our mobile applications (collectively, our “Sites”). 
 
