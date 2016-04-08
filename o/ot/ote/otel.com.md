@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919032228id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408052818id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Site Security & Privacy - Otel.com
 
@@ -46,6 +46,6 @@ Otel.com may change its Privacy Policy at any time without notice. You agree tha
 
 Prodo Travel
 
-Yıldız Teknik Üniversitesi Davutpaşa Kampüsü - Teknopark​ Çiftehavuzlar Mh. Eski Londra Asfaltı Cd. 151/1E D2 Blok 2. Kat No:201 Esenler - Istanbul / TURKEY
+Mehmet Akif Cad. No : 60 K/2 Koskluciftlik Nicosia - Cyprus
 
-+90 212 315 14 30
++(90) 212 315 14 91
