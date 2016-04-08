@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulldailymail.co.uk privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207223158id_/http%3A//www.hulldailymail.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulldailymail.co.uk privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408071636id_/http%3A//www.hulldailymail.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Hull Daily Mail | Privacy Policy
 
