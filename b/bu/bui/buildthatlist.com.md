@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buildthatlist.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917030217id_/http%3A//www.buildthatlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildthatlist.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409003915id_/http%3A//www.buildthatlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Build That List
 
-At Build That List, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Build That List and how it is used.
+At Build That List, the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by Build That List and how it is used.
 
 **Log Files**
 
