@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011235250id_/http%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408063047id_/http%3A//www.powerhouse-fitness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Powerhouse Fitness
 
