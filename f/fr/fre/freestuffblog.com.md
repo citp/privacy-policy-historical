@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101073801id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuffblog.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408033746id_/http%3A//signup.freestuffblog.com/privacy.php) for the most accurate reproduction.*
 
 # FreeStuffBlog.com
 
@@ -21,6 +21,7 @@ Any of the information we collect from you may be used in one of the following w
   * To send periodic emails 
   * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
   * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
+  * By subscribing/opting-in you are also agreeing to receive occasional 3rd party advertisements via email to your email address. 
 
 **Note:** If at any time you would like to unsubscribe (OPT OUT) from receiving future emails, we include detailed unsubscribe (OPT OUT) instructions at the bottom of each email. 
 
