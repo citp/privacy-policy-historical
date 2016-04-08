@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214194102id_/http%3A//www.nautica.com/privacy-policy-nau.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautica.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408170002id_/http%3A//www.nautica.com/privacy-policy-nau.html) for the most accurate reproduction.*
 
 # Nautica - The Official Site For Apparel, Accessories, Home & More.
 
