@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141021id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408065342id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice: Palgrave Macmillan Journals
 
@@ -161,8 +161,8 @@ or
 Customer Service Department  
 Palgrave Macmillan
 
-Floor 9  
-75 Varick Street  
-New York NY 10013
+One New York Plaza  
+Suite 4500  
+New York NY 10004-1562
 
 USA
