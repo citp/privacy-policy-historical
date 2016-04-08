@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623001255id_/http%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstmidwest.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408145150id_/http%3A//www.firstmidwest.com/privacy.aspx) for the most accurate reproduction.*
 
 # First Midwest Bank | Privacy & Security: Overview
 
@@ -16,8 +16,8 @@ Overall, First Midwest recognizes your right to privacy, whether you are a prosp
 
 When using our web site, First Midwest will only retain information that you provide if you submit information for correspondence, planning, or transaction purposes. Such information is retained only for purposes of providing better service, handling your account, or completing a transaction. For a complete statement of our privacy practices, read our
 
-[Privacy Policy – 2014](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
-(232 KB)
+[Privacy Policy](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
+(672 KB) 
 
 ### Protecting the Privacy of Children Online
 
@@ -27,12 +27,12 @@ We do not knowingly collect or use personal information from children under 13 w
 
 Your use of this Website constitutes your consent and acceptance of the terms of our Consumer Privacy Policy.
 
-[Privacy Policy – 2014](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
-(232 KB)
+[Privacy Policy](https://web.archive.org/PrivacyPolicyPDF "Privacy Policy \(232 KB\)")   
+(672 KB) 
 
 ### Changes to our Privacy Practices
 
-If changes are made to our Consumer Privacy Policy, they will be posted here, and we will revise the policy’s date. ****
+If changes are made to our Consumer Privacy Policy, they will be posted here, and we will revise the policy’s date. **** 
 
  **
 
