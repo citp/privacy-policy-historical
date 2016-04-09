@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821021716id_/http%3A//boostedboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409165300id_/http%3A//boostedboards.com/privacy) for the most accurate reproduction.*
 
 # Boosted, Inc. Privacy Policy - Boosted Boards
 
