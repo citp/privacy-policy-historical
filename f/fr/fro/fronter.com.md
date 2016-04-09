@@ -1,69 +1,185 @@
-> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407222004id_/http%3A//com.fronter.info/virtual-learning-environment-lms/privacy-and-legal-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fronter.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409071731id_/http%3A//www.itslearning.eu/privacy-policy) for the most accurate reproduction.*
 
-# privacy and legal statement - Fronter Global
+# learning platform - itslearning | Privacy Policy
 
-**ONLINE PRIVACY STATEMENT**
+## Privacy and cookies policy:
 
-PLEASE READ THE FOLLOWING CAREFULLY
+### **Part 1: Personal information and privacy**
 
-GENERAL INFORMATION ABOUT THE POLICY OF THIS WEBSITE AND COLLECTION, PROTECTION, USE AND DISCLOSURE OF THE PERSONAL INFORMATION GATHERED ON THIS SITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK THEM QUESTIONS ABOUT WHAT YOU DON'T UNDERSTAND.
+**1\. Introduction**
 
-This website, fronter.com, com.fronter.info or frontersupport.com (the "Site"), is owned and operated by Fronter AS ("Fronter"). Fronter is a Pearson company and has aligned its privacy statement with that of Pearson. Fronter recognises the importance of explaining our privacy policies to users of our Site and protecting the privacy of Personally Identifiable Information we obtain through the site. Please note that this Privacy Statement may be revised from time to time, particularly to address changes in our business, the law or technology. If that happens, we will post the revised policy here. Revisions are effective upon posting and your continued use of this Site after the posting will be subject to the changed terms of the revisions.
+1.1 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information on [www.itslearning.eu](https://web.archive.org/home)
 
-Fronter is the data controller, and you can contact Fronter by writing to Fronter AS, Postboks 232 Sentrum, 0150 OSLO, Norway. You have a right to access data we store about you and a right to request that incorrect data is rectified.
+1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. www.itslearning.eu. By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-LINKS TO OTHER SITES
+**2\. Collecting personal information**
 
-Links from this site can take you to the sites of several divisions of Pearson as well as to third party websites or resources. The information practices of third party websites are not covered by this Privacy Statement or any other policies or terms of this Site. The sites of each of our divisions may also have a different privacy policy and terms of use. Be sure that you know the terms of use and privacy policy of any linked website before using it.
+2.1 We may collect, store and use the following kinds of personal information:
 
-WHAT PERSONAL INFORMATION DO WE COLLECT AND USE
+a) information about your computer and about your visits to and use of this website (including, your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths)
 
-We consider the following to be examples of Personally Identifiable Information but there may be others: your first and last name, email address, phone number, and certain other information if it is linked with your Personally Identifiable Information.
+b) information that you provide to us when registering with our website
 
-Fronter does not collect Personally Identifiable Information about a user, unless it is voluntarily provided to our Company and so that we can serve the user's needs and our legitimate business purposes as stated here. For example, when the user sends us a message, submits a Tips&Tricks article or an Admin forum contribution, we need to retain certain Personally Identifiable Information on this Site in order to respond. A user's Personally Identifiable Information may also be used by our company to help us improve this Site, and for our company's marketing and promotional purposes. The information will be treated confidentially within our company, as we protect other confidential information. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.
+c) information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including, your name and email address)
 
-PUBLIC POSTINGS
+d) information that you post to our website for publication on the internet (including, your user name and the content of your posts)
 
-Due to the nature of the Internet, users should be reminded that any Personally Identifiable Information that is posted by a user to a public area of the Site (for example in a Tips &Tricks posting or a comment) might be collected and used by others. We cannot prevent such uses.
+e) information contained in or relating to any communications that you send to us or send through our website (including, the communication content and meta data associated with the communication)
 
-INFORMATION SHARING AND DISCLOSURE
+f) any other personal information that you choose to send to us
 
-Except as specifically stated in this statement, our policy is not to share the Personally Identifiable Information collected through this Site with third parties, but we may share this Personally Identifiable Information with affiliates of Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose Personally Identifiable Information (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of Pearson or the assets of Pearson; or (d) in order to enforce the Site's Terms of Use, to the extent permitted by law. We exercise commercially reasonable care otherwise not to share, disclose or sell the Personally Identifiable Information of users to third-parties, except with the prior approval of the user.
+2.2 Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with the terms of this policy.
 
-Fronter may use a third party service to collect visitor information like IP addresses, browser types (such as Internet Explorer or Firefox), referring pages, pages visited and time spent on a particular site. Fronter collects this information (1) for statistical analysis of web page traffic patterns; (2) to administer our Site and servers; and (3) for internal purposes to make marketing decisions.
+**3\. Using your personal information**
 
-SPECIAL NOTICE TO PARENTS, TEACHERS AND CHILDREN
+3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
 
-PARENTS AND TEACHERS: We encourage parents, guardians and teachers to spend time with their Children (Children 12 and under) when their Children engage in the on-line activities on this Site. We will never request Personally Identifiable Information from a Child in any of our public postings areas. We do not require a Child to disclose more Personally Identifiable Information, than is reasonably necessary to participate in the on-line activity. No Personally Identifiable Information of children should be submitted to or posted on this Site by Children without the consent of their parent or guardian. We encourage parents to help us protect their Children's privacy by instructing them never to provide Personally Identifiable Information on this Site or any other website without parental permission.
+3.2 We may use your personal information to:
 
-CHILDREN: Please do not give your full name, email address, home address, telephone number or any other Personally Identifiable Information that would enable someone to contact you either on-line or off-line, without first asking your parent or guardian and teacher for permission.
+a) administer our website  
+b) personalise our website for you  
+c) enable your use of the services available on our website  
+d) send you non-marketing commercial communications  
+e) send you email notifications that you have specifically requested  
+f) send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter)  
+g) send you marketing communications relating to our business which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)  
+h) provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information)  
+i) deal with enquiries and complaints made by or about you relating to our website  
+j) keep our website secure and prevent fraud
 
-We do not knowingly collect Personally Identifiable Information from Children on this Site either directly or passively except when a Child may voluntarily submit such information through a "Wall of Fame" post or a public posting area on the Site, if such feature is available. If we have actual knowledge that a Child is sending or posting Personally Identifiable Information on any area of this Site, we will use commercially reasonable efforts to delete such Personally Identifiable Information before it is made public. Please note that any online store that may be accessed from the Site is intended for parents, teachers and other adult purchasers over the age of 18 and requires the submission of Personally Identifiable Information to fulfil and service any transactions.
+3.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
-We may disclose a Child's Personally Identifiable Information if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users, or anyone else that could be harmed by such activities. We may also disclose a Child's Personally Identifiable Information when we believe in good faith that the law requires it.
+3.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
 
-COLLECTION AND USE OF INFORMATION FROM COOKIES
+3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
 
-Our Site uses "cookies" to obtain certain types of information when your Web browser accesses the Site. Cookies are textual identifiers that our systems transfer to your computer's hard drive through your Web browser to enable our Site to recognise your browser, and to optimise and sometimes customise your use of our Site. If you want to disable cookies, you can. The Help portion of the toolbar on most browsers and "add-on" programs will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. It is your choice, but cookies allow you to take full advantage of this Site's features, and we recommend that you leave them turned on.
+**4\. Disclosing personal information**
 
-We do not use cookies to get users' Personally Identifiable Information before a user registers with our Site and affirmatively opts-in. Once a user opts-in and provides personal information for purposes of receiving more information from us, we do collect and use that information obtained through the cookie technology for purposes of marketing to you, in accordance with this policy. If you do not want to receive e-mail or other marketing communications from us, you can opt out of further marketing to the addresses you have provided.
+4.1 We may disclose your personal information to, any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy.
 
-In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties.
+4.2 We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this policy.
 
-Fronter reserves the right to monitor your use of the site to determine if you are complying with our terms and the right, in its sole discretion, to terminate your access to the Site.
+4.3 We may disclose your personal information:
 
-**LEGAL STATEMENT**
+a) to the extent that we are required to do so by law;  
+b) in connection with any ongoing or prospective legal proceedings;  
+c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);  
+d) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-The Site is published "as is" without any warranty of any kind, express or implied, as to the operation of our site, the accuracy of the information or the products or services referred to on the website and we shall not be liable for any losses or damage that may result from use of the website as a consequence of any inaccuracies in, or any omissions from, the information which it may contain to the extent permitted by law.
+4.4 Except as provided in this policy, we will not provide your personal information to third parties.
 
-The information contained in the website is not an invitation to invest in the shares or any other products or services or otherwise deal in these or enter into a contract with Pearson plc or any other company. The information provided should not be relied upon in connection with any investment decision.
+**5\. International data transfers**
 
-Copyright in these pages is owned by Fronter except where otherwise indicated by a third party's proprietary notice. Images, trade marks and brands are also protected by other intellectual property laws and may not be reproduced or appropriated in any manner without written permission of their respective owners.
+5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
-Content and information provided by third parties other than Fronter or its owner Pearson plc, is identified clearly where it appears. We publish this content as supplied to us and are not responsible for its accuracy or timeliness.
+5.2 Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
-These conditions of use are governed by the laws of Norway and you agree that the Norwegian courts shall have exclusive jurisdiction in any dispute.
+**6\. Retaining personal information**
 
-If you have any concerns or questions about the privacy or legal statement on this Site, please [Contact Us](mailto:info@fronter.com).
+6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
 
-(Revised -April, 2012)
+6.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+6.3 Notwithstanding the other provisions of this Section 6, we will retain documents (including electronic documents) containing personal data:
+
+a) to the extent that we are required to do so by law;  
+b) if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and  
+c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+
+**7\. Security of your personal information**
+
+7.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+7.2 We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+
+7.3 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+
+**8\. Amendments**
+
+8.1 We may update this policy from time to time by publishing a new version on our website.
+
+8.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+**9\. Your rights**
+
+9.1 You may instruct us to provide you with any personal information we hold about you.
+
+9.2 We may withhold personal information that you request to the extent permitted by law.
+
+9.3 You may instruct us at any time not to process your personal information for marketing purposes.
+
+9.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+
+**10\. Third party websites**
+
+10.1 Our website includes hyperlinks to, and details of, third party websites.
+
+10.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+
+11\. Updating information
+
+11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
+
+### **Part 2: Cookies**
+
+**1\. About cookies**
+
+1.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+1.2 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+1.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+1.4 Cookies can be used by web servers to identity and track users as they navigate different pages on a website and identify users returning to a website.
+
+**2\. Our cookies**
+
+2.1 We use both session and persistent cookies on our website.
+
+2.2 The names of the cookies that we use on our website, and the purposes for which they are used, are set out below:
+
+a) we use performance cookies on our website. These cookies enable the collection of information about how visitors use our website, including which pages visitors go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. It is only used to improve how www.itslearning.eu functions and performs.
+
+b) we use functional cookies on our website to allow www.itslearing.eu to remember information you have entered or choices you make and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+
+c) We use third-party service providers to serve advertisements on our behalf across the Internet. These service providers may collect your IP address and non-personally identifiable information about your visits to our site in order to serve itslearning ads while you are visiting other websites. Such non-personally identifiable information is anonymous and does not include your name, address, email address or other personal information, however your IP address may be collected. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
+
+**3\. Analytics cookies**
+
+3.1 We use Google Analytics to analyse the use of our website.
+
+3.2 Our analytics service provider generates statistical and other information about website use by means of cookies.
+
+3.3 The information generated relating to our website is used to create reports about the use of our website.
+
+3.4 Our analytics service provider's privacy policy is available at: http://www.google.com/policies/privacy.
+
+**4\. Third party cookies**
+
+4.1 Our Site may contain links to other websites, share buttons (e.g. Twitter) or Facebook “Like” buttons. These other websites, services and applications may set their own cookies on users’ computers, collect data or solicit personal information. You should refer to any privacy policies found on such websites, services and applications to understand how your information may be collected and used.
+
+**5\. Blocking cookies**
+
+5.1 Most browsers allow you to refuse to accept cookies; for example:
+
+(a) in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options", "Privacy" and then "Advanced";
+
+(b) in Firefox (version 24) you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the drop-down menu, and unticking "Accept cookies from sites"; and
+
+(c) in Chrome (version 29), you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
+
+5.2 Blocking all cookies will have a negative impact upon the usability of many websites.
+
+5.3 If you block cookies, you will not be able to use all the features on our website.
+
+**6\. Deleting cookies**
+
+6.1 You can delete cookies already stored on your computer; for example:
+
+(a) in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at http://support.microsoft.com/kb/278835);
+
+(b) in Firefox (version 24), you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history", clicking "Show Cookies", and then clicking "Remove All Cookies"; and
+
+(c) in Chrome (version 29), you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and "Clear browsing data", and then selecting "Delete cookies and other site and plug-in data" before clicking "Clear browsing data".
+
+6.2 Deleting cookies will have a negative impact on the usability of many websites.
