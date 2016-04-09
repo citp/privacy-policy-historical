@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the monese.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516023829id_/http%3A//www.monese.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monese.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409043143id_/https%3A//www.monese.com/privacy-policy) for the most accurate reproduction.*
 
-# Monese | Banking Without Barriers
+# Monese | Privacy
 
 At Monese Limited we are committed to protecting and respecting your financial and personal privacy. Before going into detail, there are some important things to say about how we handle you personal information:
 
@@ -13,7 +13,7 @@ At Monese Limited we are committed to protecting and respecting your financial a
 
 
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.monese.com](https://web.archive.org/web/20150516023829id_/http%3A//www.monese.com/www.monese.com) you are accepting and consenting to the practices described in this policy.
+This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.monese.com](https://web.archive.org/web/20160409043143id_/https%3A//www.monese.com/www.monese.com) you are accepting and consenting to the practices described in this policy.
 
 When we obtain your personal information we will always give you options to modify or delete information at any time. If you have any concerns about the information we hold you or the way in which we may use this information, you can contact us at any time using the contact details at the end of this Policy.
 
@@ -25,7 +25,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 We may collect and process the following data about you:
 
-**Information you give us.** You may give us information about you by filling in forms on our site [www.monese.com](https://web.archive.org/web/20150516023829id_/http%3A//www.monese.com/www.monese.com) (our site) or by corresponding with us by phone, -mail or otherwise. This includes information you provide when you register to use our site, subscribe to our services, search for a product, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial information, personal description and photograph, passport or other identification details. 
+**Information you give us.** You may give us information about you by filling in forms on our site [www.monese.com](https://web.archive.org/web/20160409043143id_/https%3A//www.monese.com/www.monese.com) (our site) or by corresponding with us by phone, -mail or otherwise. This includes information you provide when you register to use our site, subscribe to our services, search for a product, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial information, personal description and photograph, passport or other identification details. 
 
 **Information we collect about you.** With regard to each of your visits to our site we may automatically collect the following information:
 
@@ -38,7 +38,7 @@ We may collect and process the following data about you:
 
 ### 2\. Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy.](https://web.archive.org/web/20150516023829id_/http%3A//www.monese.com/cookie-policy.php)
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy.](https://web.archive.org/web/20160409043143id_/https%3A//www.monese.com/cookie-policy.php)
 
 ### 3\. Uses made of the information
 
@@ -91,7 +91,7 @@ We may share your information with selected third parties including:
 
 
 
-### Where we store your personal data
+### 5\. Where we store your personal data
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
