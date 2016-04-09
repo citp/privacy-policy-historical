@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905192724id_/https%3A//www1.taskstream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409082533id_/https%3A//www1.taskstream.com/privacy) for the most accurate reproduction.*
 
 # Taskstream: Privacy
 
@@ -47,3 +47,5 @@ By using the Site, you consent to the collection, use and disclosure of your inf
 You may ask Taskstream to correct, update or delete information you have provided to us by sending an email to us at privacy@taskstream.com, or send postal mail to Taskstream, 71 West 23rd Street, New York, NY 10010. Please feel free to contact us with questions about this privacy statement, the practices of this Site, or your dealings with this Site.
 
 October 22, 2012
+
+**We look forward to your addition to our blog and will be in touch shortly.**
