@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207142936id_/http%3A//www.podtrac.com/about/privacy-clients) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtrac.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409052633id_/http%3A//www.podtrac.com/about/privacy-clients) for the most accurate reproduction.*
 
 # Podtrac Client Privacy Statement
 
 Podtrac interacts with current and prospective clients and the general public via its Web site, Podtrac.com. This Privacy Statement describes Podtrac's privacy-related policies and practices as they relate to the collection and use of information gathered from visitors to Podtrac.com.
 
-Podtrac also conducts online surveys and operates various research panels involving consumers. Podtrac's [Consumer Privacy Policy](https://web.archive.org/web/20151207142936id_/http%3A//www.podtrac.com/about/privacy-consumers) is posted at the entry point to each individual survey or panel, and describes policies for those operations.
+Podtrac also conducts online surveys and operates various research panels involving consumers. Podtrac's [Consumer Privacy Policy](https://web.archive.org/web/20160409052633id_/http%3A//www.podtrac.com/about/privacy-consumers) is posted at the entry point to each individual survey or panel, and describes policies for those operations.
 
 ###  Privacy Commitment
 
