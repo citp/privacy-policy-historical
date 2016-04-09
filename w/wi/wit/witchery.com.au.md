@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witchery.com.au privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016233049id_/http%3A//www.witchery.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchery.com.au privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409091704id_/http%3A//www.witchery.com.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Witchery Online - Witchery Fashions Pty Ltd Online
 
