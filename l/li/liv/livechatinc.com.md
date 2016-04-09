@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210230541id_/http%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livechatinc.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409105513id_/https%3A//www.livechatinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ###### Making sure everything works smoothly.
 
-Effective date: 5/23/2012, last edit: 7/04/2013
+Effective date: 5/23/2012, last edit: 3/21/2016
 
 LiveChat, Inc. privacy policy contains information about collecting users’ personal data, products and services offered or performed by LiveChat, Inc. and the manner of its processing. We respect the right to privacy of our software users and take reasonable steps for the user to be familiar with the manner in which rendered accessible information via https://www.livechatinc.com/ website and our mobile application is processed. Due to the implementation of comprehensive security regulations, personal data provided by our website and mobile application users is of highest security standards. The acceptance of terms and conditions for the use of any LiveChat, Inc. services or deciding on using or purchasing any product offered by LiveChat, Inc. means accepting LiveChat, Inc. Privacy Policy.
 
@@ -96,7 +96,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Data gathering entity
 
-Conducting its activity, under the business name of LiveChat, Inc., with its registered office: 405 North Street, Chapel Hill, NC 27514, United States of America, shall be the entity gathering personal data and other information.
+Conducting its activity, under the business name of LiveChat, Inc., with its registered office: One International Place, Suite 1400, Boston, MA 02110, United States of America, shall be the entity gathering personal data and other information.
 
 ## Commercial transactions
 
