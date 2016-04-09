@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdesigning.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114024233id_/http%3A//www.asdesigning.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdesigning.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409215301id_/http%3A//www.asdesigning.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Joomla! Templates | Professional Wordpress Themes
 
