@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the vamtam.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409032327id_/https%3A//vamtam.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Vamtam Themes
+
+How Do We Collect, Use and Share Your Personal Information and Other Information?
+
+Information Collected From You
+
+We collect the email addresses of those who communicate with us via email, information about the pages users access on the Website, and information voluntarily submitted by the user (for example, ftp and admin credentials). The types of information that may be requested include your name, company name, email address, telephone number and billing information. The information we collect is used to provide the Service to you, to improve the quality of the Website and Service, to communicate information about the Service, to provide you with support when you are using our Website, to bill your account for the Service provided and to contact you about your account when necessary. Your information will never be sold to or shared with other companies or organizations for commercial purposes or otherwise, except as outlined in this Policy.
+
+We host and process data, including personal information, in the United States and the European Economic Area and possibly in other countries through third parties that we use to operate and manage the Service. When you access or use our Website or the Service, or otherwise provide information to us, you are consenting, on behalf of you and your authorized agents or end-users, (and representing that you have the authority to provide such consent) to the processing and transfer of information in and to the United States and other countries which may have different privacy laws from your or their country of residence. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
+
+Use of Cookies
+
+When you use the Help Desk or our website or Service we may store some information on your computer. This information will be in the form of a “cookie” or similar file. Cookies are small pieces of information stored on your hard drive, not on the VamTam website. We do not use cookies to spy on you or otherwise invade your privacy. They cannot invade your hard drive and steal information. We use cookies to help you navigate the VamTam website and Service as easily as possible, and to remember information about your current session. These are the Session Cookies and they are removed from your system when you close the web browser or turn off the computer. You must enable cookies on your web browser to use the VamTam Service.
+
+We also use persistent cookies to analyse information about visitors to the VamTam website. No personal information is collected during this process. A persistent cookie remains on your hard drive after closing the web browser or turning off the computer. Various categories of cookies (including third party cookies) are used in the VamTam website and Service. These are listed below along with the options to manage them.
