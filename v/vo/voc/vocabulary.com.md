@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225225918id_/http%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409042323id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Vocabulary.com
 
@@ -61,7 +61,7 @@ We will occasionally send you information on products, services, special deals, 
 
 ## How We Handle Personally Identifiable Information
 
-We may disclose personally identifiable information to provide products or services you've requested when we have your permission, and we may access, preserve and disclose account information and User Content if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce our [Terms of Use](http://www.vocabulary.com/terms/); (iii) respond to claims that any User Content violates the rights of third parties; (iv) provide support relating to Vocabulary.com; or (v) protect the rights, property or personal safety of the company, its users and the public.
+We may disclose personally identifiable information to provide products or services you've requested when we have your permission, and we may access, preserve and disclose account information and User Content if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce our [Terms of Use](https://www.vocabulary.com/terms/); (iii) respond to claims that any User Content violates the rights of third parties; (iv) provide support relating to Vocabulary.com; or (v) protect the rights, property or personal safety of the company, its users and the public.
 
 We also may disclose personally identifiable information to an educator if you join a class owned by that educator. In this case, we may provide your name and your performance on particular activities on Vocabulary.com, so that the educator can better help you with your vocabulary learning.
 
@@ -109,4 +109,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us through this [form](http://www.vocabulary.com/help/contactus).
+If you have any questions or suggestions regarding our privacy policy, please contact us through this [form](https://www.vocabulary.com/help/contactus).
