@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the barkpost.com privacy policy that was archived on 2015-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150926062849id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barkpost.com privacy policy that was archived on 2016-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160409022404id_/http%3A//barkbox.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?31hwtwabcV8aIaGpPCG4YPfC8ycOymAn" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMP43R"></script><script async="" src="//d1fc8wv8zag5ca.cloudfront.net/2.4.2/sp.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0cfaad9607","applicationID":"2569776","transactionName":"cQlfTREJWl4HEE5JUVUDQhYWFFptEAcFUEJXBUU=","queueTime":6,"applicationTime":122,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8EVlBaGwEFUlhVAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PMP43R"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//d1fc8wv8zag5ca.cloudfront.net/2.4.2/sp.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0cfaad9607","applicationID":"2569776","transactionName":"cQlfTREJWl4HEE5JUVUDQhYWFFptEAcFUEJXBUU=","queueTime":2,"applicationTime":480,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8EVlBaGwEFUlhVAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
   <title>Privacy Policy | BarkBox</title>
 <meta content="BarkBox's privacy policy. Read about BarkBox's privacy policies, but are you really that bored?" name="description">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="p:domain_verify" content="e0a7b4c466aba98ab912949e543e9cb3">
 
   <link rel="shortcut icon" href="//barkbox-prod.global.ssl.fastly.net/assets/favicon/16x16_d-90657685aa9effaff5af32005af9209d.png">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//barkbox-prod.global.ssl.fastly.net/assets/favicon/144x144_d-5d9a4d828f9d9c0f8672ce8b51cd0344.png">
@@ -22,10 +23,10 @@
 <meta property="og:description" content="Get a monthly box of treats, toys &amp; products for your pup! Plans start as low as $19/month, all treats made in USA or Canada and we donate 10% of profits support rescue groups!">
 
 
-  <link href="//barkbox-prod.global.ssl.fastly.net/assets/v3-63447ff587f1b75ac2d1f25584600b50.css" media="all" rel="stylesheet" type="text/css">
+  <link href="//barkbox-prod.global.ssl.fastly.net/assets/v3-63ae10b3f0d2c34000e21419c849cfd0.css" media="all" rel="stylesheet" type="text/css">
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="OSqxO/KdbvaT6OvW/5IxDJEjbwhc0Pt8YktCO0FP14Y=" name="csrf-token">
+<meta content="KIgeYF3H2wJMybb+5GtcdXRQRK6RsMOBirg3x+pBHik=" name="csrf-token">
 
   <script src="https://js.recurly.com/v3/recurly.js"></script>
 <script>
@@ -48,16 +49,16 @@
   
 </script>
 <!-- End Google Analytics -->
-      <!-- Start BounceX tag. Deploy at the beginning of document head. -->
-    <script>
-      (function(d) {
-          var e = d.createElement('script');
-          e.src = d.location.protocol + '//tag.bounceexchange.com/493/i.js';
-          e.async = true;
-          d.getElementsByTagName("head")[0].appendChild(e);
-      }(document));
-    </script><script src="https://tag.bounceexchange.com/493/i.js" async=""></script>
-    <!-- End BounceX Tag-->
+    <!-- Start BounceX tag. Deploy at the beginning of document head. -->
+  <script>
+    (function(d) {
+        var e = d.createElement('script');
+        e.src = d.location.protocol + '//tag.bounceexchange.com/493/i.js';
+        e.async = true;
+        d.getElementsByTagName("head")[0].appendChild(e);
+    }(document));
+  </script><script src="https://tag.bounceexchange.com/493/i.js" async=""></script>
+  <!-- End BounceX Tag-->
 
     <script src="//cdn.optimizely.com/js/19620016.js"></script>
 
@@ -99,19 +100,8 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 </head>
 
 <body class="no-touch">
-
   <div id="main-wrapper">
     
-<a id="referral-bar" href="/subscribe">
-  <div class="wrapper">
-    <img class="default" src="//barkbox-prod.global.ssl.fastly.net/assets/v3/referrals/referral-bar-doodle-daf1712a3cbb966d350b8cf38732a6c7.png">
-    <img class="mobile" src="//barkbox-prod.global.ssl.fastly.net/assets/v3/referrals/referral-bar-doodle-mobile-f251faea2b2055b488be00e6610a8296.png">
-    <p><span class="name blue"></span> says WOOF!</p>
-    <p>A <span class="blue">FREE month</span> will be added at checkout.</p>
-    <button class="green">GO!</button>
-  </div>
-</a>
-
 <div id="mobile-nav-drawer">
     <ul class="nav">
       <li><a href="/subscribe">Get Started</a></li>
@@ -125,18 +115,29 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
         </ul>
       </li>
 
+      <li><a href="/past-boxes">Past Boxes</a></li>
+      <li><a href="/learn-more">Learn More</a></li>
       <li><a href="/login">Login</a></li>
-      <li class="zopim-chat-popout">
-        <a href="#">Wanna chat?
+      <li>
+        <a class="zopim-chat-popout" href="#">Wanna chat?
           <i class="icon-chat-bubble"></i>
         </a>
       </li>
     </ul>
-
-  <img class="pull-center" src="//barkbox-prod.global.ssl.fastly.net/assets/v3/mobile-nav-drawer-doodle-9dd57142f4f7cb846dfa3c5186e4d804.png">
 </div>
 
-  <header>
+<a id="referral-bar" href="/subscribe">
+  <div class="wrapper">
+    <img class="default" src="//barkbox-prod.global.ssl.fastly.net/assets/v3/referrals/referral-bar-doodle-daf1712a3cbb966d350b8cf38732a6c7.png">
+    <img class="mobile" src="//barkbox-prod.global.ssl.fastly.net/assets/v3/referrals/referral-bar-doodle-mobile-f251faea2b2055b488be00e6610a8296.png">
+  </div>
+</a>
+
+    <header class="logged-out ">
+    <div class="mini-bar">
+      <p class="notice center-text">Order today, ships within 24 hours!</p>
+    </div>
+
     <div class="wrapper">
       <i class="icon-navicon open-nav-drawer"></i>
 
@@ -148,6 +149,9 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
           </ul>
 
           <ul class="nav">
+            <li><a href="/past-boxes">Past Boxes</a></li>
+            <li><a href="/learn-more">Learn More</a></li>
+
             <li class="dropdown">
               <a href="/gift">Gift <i class="icon-chevron-down"></i></a>
 
@@ -159,11 +163,14 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 
             <li><a href="/login">Login</a></li>
             <li><a href="/subscribe"><span class="outline">Get Started</span></a></li>
-            <img class="zopim-chat-toggle" src="/assets/v3/wanna-chat-doodle.png">
           </ul>
       </nav>
     </div>
   </header>
+
+      <div class="zopim-chat-toggle">
+  <div class="zopim-close"></div>
+</div>
 
 
       <div id="main-container">
@@ -174,72 +181,72 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
   <div class="wrapper">
     <h1>Privacy Policy</h1>
 
-    <p>We respect the privacy of our users.  This Privacy Policy (“Policy”) describes our privacy practices concerning information collected in connection with the Bark &amp; Co family of websites, including without limitation BarkBox (located at <a traget="_blank" href="http://www.barkbox.com">www.barkbox.com</a>), BarkPost (including the BarkShop) (located at <a traget="_blank" href="http://www.barkpost.com">www.barkpost.com</a>), and BarkBuddy (<a traget="_blank" href="http://www.barkbuddy.com">www.barkbuddy.com</a>) (the “Sites”).  This Policy also describes our privacy practices with respect to any downloadable applications that Bark &amp; Co makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the “Apps” and, together with the Sites, the “Platforms”).</p>
+    <p>We respect the privacy of our users. This Privacy Policy ("Policy") describes our privacy practices concerning information collected in connection with the Bark &amp; Co family of websites, including without limitation BarkBox (located at <a target="_blank" href="http://www.barkbox.com">www.barkbox.com</a>), BarkPost (including the BarkShop) (located at <a target="_blank" href="http://www.barkpost.com">www.barkpost.com</a>), BarkBuddy (located at <a target="_blank" href="http://www.barkbuddy.com">www.barkbuddy.com</a>), and BarkGive (located at <a target="_blank" href="http://www.barkgive.com">www.barkgive.com</a>) (the "Sites"). This Policy also describes our privacy practices with respect to any downloadable applications that Bark &amp; Co makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the "Apps" and, together with the Sites, the "Platforms").</p>
 
-    <p>This Policy is intended to explain the conditions under which Bark &amp; Co collects, uses, and discloses personal and other information in connection with the Platforms, and your rights in relation to that information.  By visiting our Sites, downloading or using our Apps, and/or using the features made available to you through the Platforms, you are agreeing to the terms of this Policy.</p>
+    <p>This Policy is intended to explain the conditions under which Bark &amp; Co collects, uses, and discloses personal and other information in connection with the Platforms, and your rights in relation to that information. By visiting our Sites, downloading or using our Apps, and/or using the features made available to you through the Platforms, you are agreeing to the terms of this Policy.</p>
 
     <p>The personal and other information that we collect about you is controlled by Barkbox, Inc., which is headquartered in the United States at 221 Canal Street, Floor 6, New York, New York 10013.</p>
 
     <h2>What personal and other information we collect about you</h2>
 
-    <p>Bark &amp; Co collects both “personal information” and “non-personal information” about Platform users.  For purposes of this Policy, “non-personal information” is information that Bark &amp; Co cannot directly associate with a specific person without the aid of additional information.  By contrast, “personal information,” is information such as a name or email address that Bark &amp; Co can directly associate with a specific person or entity without additional information.  When we combine non-personal information with personal information, we treat all of the combined information as personal information.</p>
+    <p>Bark &amp; Co collects both "personal information" and "non-personal information" about Platform users. For purposes of this Policy, "non-personal information" is information that Bark &amp; Co cannot directly associate with a specific person without the aid of additional information. By contrast, "personal information," is information such as a name or email address that Bark &amp; Co can directly associate with a specific person or entity without additional information. When we combine non-personal information with personal information, we treat all of the combined information as personal information.</p>
 
-    <p><em class="emphasize">Personal information.</em>  You can visit the Sites and download many of the Apps without submitting any personal information.  However, in order to subscribe to our services or use many features of our Platforms, you will be required to provide personal information.  For example:</p>
+    <p><em class="emphasize">Personal information.</em> You can visit the Sites and download many of the Apps without submitting any personal information. However, in order to subscribe to our services or use many features of our Platforms, you will be required to provide personal information. For example:</p>
 
-    <p><em class="italicize">Registration.</em>  In order to use some features of the Platforms, you must first subscribe to the applicable Bark &amp; Co service.  During registration, you are required to provide certain personal information (such as name, email address, shipping address, and credit card number and expiration date) in accordance with our terms of use.</p>
+    <p><em class="italicize">Registration.</em> In order to use some features of the Platforms, you must first subscribe to the applicable Bark &amp; Co service. During registration, you are required to provide certain personal information (such as name, email address, shipping address, and credit card number and expiration date) in accordance with our terms of use.</p>
 
     <p><em class="italicize">Facebook.</em> Certain applications, including BarkBuddy, may require you to log in through your Facebook account. If you link your Facebook account to a Bark &amp; Co service, this allows us to obtain information from those accounts (such as your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.</p>
 
-    <p><em class="italicize">Orders.</em>  If you purchase a product or service from us, including through the BarkShop, we request certain personal information from you on our order form.  You must provide personal contact information (such as name, email address, and shipping address) and financial information (such as a credit card number and expiration date).</p>
+    <p><em class="italicize">Orders.</em> If you purchase a product or service from us, including through the BarkShop, we request certain personal information from you on our order form. You must provide personal contact information (such as name, email address, and shipping address) and financial information (such as a credit card number and expiration date).</p>
 
-    <p><em class="italicize">Posted Content.</em>  Certain of our Platforms enable users to submit additional information that may be made accessible to other users or the general public.  To post content, you may be required to first register by providing information such as an email address, display name, and password.  Registrants also may choose to voluntarily provide additional information, including an avatar image, a biography, and/or information about their location.  And, of course, registrants may disclose personal and other information through their posted content.</p>
+    <p><em class="italicize">Posted Content.</em> Certain of our Platforms enable users to submit additional information that may be made accessible to other users or the general public. To post content, you may be required to first register by providing information such as an email address, display name, and password. Registrants also may choose to voluntarily provide additional information, including an avatar image, a biography, and/or information about their location. And, of course, registrants may disclose personal and other information through their posted content.</p>
 
-    <p><em class="italicize">Feedback.</em>  Our online contact form also contains a “message” field through which you may submit additional personal information.</p>
-    <p>We may combine personal information collected through the Platforms with other information that we or third parties collect about you in other contexts—such as our communications with you via email or phone, or your customer service records.  We will treat such combined information as personal information and protect it in accordance with this Policy.</p>
+    <p><em class="italicize">Feedback.</em> Our online contact form also contains a "message" field through which you may submit additional personal information.</p>
+    <p>We may combine personal information collected through the Platforms with other information that we or third parties collect about you in other contexts—such as our communications with you via email or phone, or your customer service records. We will treat such combined information as personal information and protect it in accordance with this Policy.</p>
 
-    <p><em class="emphasize">Surveys, Contests, and Promotions.</em>  From time to time, Bark &amp; Co may ask Platform users to participate in surveys, contests, or promotions.  Such surveys, contests, and promotions may be used to collect both personal and non-personal information.  Participation is completely voluntary, and you therefore have a choice whether or not to disclose your information.</p>
+    <p><em class="emphasize">Surveys, Contests, and Promotions.</em> From time to time, Bark &amp; Co may ask Platform users to participate in surveys, contests, or promotions. Such surveys, contests, and promotions may be used to collect both personal and non-personal information. Participation is completely voluntary, and you therefore have a choice whether or not to disclose your information.</p>
 
-    <p><em class="emphasize">Log data.</em>  When you use the Platforms, we automatically receive and record certain information from your computer (or other device) and your browser.  This may include such data as your IP address and domain name, the pages you visit or the features you use on the Platforms, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Platforms, your software and hardware attributes (including device IDs), your general geographic location (e.g., your city, state, or metropolitan region), and certain cookie information (see below).  To obtain such information, we may use web logs or applications that recognize your computer or device and gather information about its online activity.</p>
+    <p><em class="emphasize">Log data.</em> When you use the Platforms, we automatically receive and record certain information from your computer (or other device) and your browser. This may include such data as your IP address and domain name, the pages you visit or the features you use on the Platforms, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Platforms, your software and hardware attributes (including device IDs), your general geographic location (e.g., your city, state, or metropolitan region), and certain cookie information (see below). To obtain such information, we may use web logs or applications that recognize your computer or device and gather information about its online activity.</p>
 
-    <p><em class="emphasize">Cookies.</em>  We also use cookies in conjunction with the Platforms.  Cookies are small files that are stored on your computer or other device by your web browser.  A cookie allows the Platforms to recognize whether you have visited before and may store user preferences and other information.  For example, cookies can be used to collect information about your use of the Platforms during your current session and over time (including the pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before navigating to the Platforms, and the link you used to leave the Platforms.  If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it.  You can also delete cookies from your computer or device.  However, if you choose to block or delete cookies, certain features of the Platforms may not operate correctly.</p>
+    <p><em class="emphasize">Cookies.</em> We also use cookies in conjunction with the Platforms. Cookies are small files that are stored on your computer or other device by your web browser. A cookie allows the Platforms to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of the Platforms during your current session and over time (including the pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before navigating to the Platforms, and the link you used to leave the Platforms. If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer or device. However, if you choose to block or delete cookies, certain features of the Platforms may not operate correctly.</p>
 
-    <p><em class="emphasize">Web beacons.</em>  We also may use an application known as a “web beacon” (also known as a “clear gif” or “web bug”).  A web beacon is an electronic file that usually consists of a single-pixel image.  It can be embedded in a web page or in an email to transmit information, which could include personal information.  For example, it allows an email sender to determine whether a user has opened a particular email.</p>
+    <p><em class="emphasize">Web beacons.</em> We also may use an application known as a "web beacon" (also known as a "clear gif" or "web bug"). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email.</p>
 
-    <p><em class="emphasize">Third-party online tracking and behavioral advertising.</em>  We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section.  For example, we may allow third parties to set cookies or use web beacons on the Platforms or in email communications from Bark &amp; Co.  This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled “How we share personal and non-personal information with third parties”).</p>
+    <p><em class="emphasize">Third-party online tracking and behavioral advertising.</em> We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Platforms or in email communications from Bark &amp; Co. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled "How we share personal and non-personal information with third parties").</p>
 
     <h2>How we use the personal and non-personal information that we collect</h2>
 
-    <p>Bark &amp; Co uses the information that we collect for a variety of purposes.  If we have personal information about you, we may use it, for example:  to respond to your questions or requests concerning the Platforms or other services offered by Bark &amp; Co or our partners; to fulfill the terms of any agreement you have with us; to fulfill your requests for our services and orders for products or otherwise complete a transaction that you initiate; to send you information about our services, the status of any orders, and other topics that are likely to be of interest to you, including newsletters, updates, or other communications; to authenticate billing and identification information; to deliver confirmations, account information, notifications, awards, service-related announcements, and similar operational communications; to improve or personalize your user experience; to improve the quality of our products and services; to comply with legal and/or regulatory requirements; and to manage our business.</p>
+    <p>Bark &amp; Co uses the information that we collect for a variety of purposes. If we have personal information about you, we may use it, for example: to respond to your questions or requests concerning the Platforms or other services offered by Bark &amp; Co or our partners; to fulfill the terms of any agreement you have with us; to fulfill your requests for our services and orders for products or otherwise complete a transaction that you initiate; to send you information about our services, the status of any orders, and other topics that are likely to be of interest to you, including newsletters, updates, or other communications; to authenticate billing and identification information; to deliver confirmations, account information, notifications, awards, service-related announcements, and similar operational communications; to improve or personalize your user experience; to improve the quality of our products and services; to comply with legal and/or regulatory requirements; and to manage our business.</p>
 
-    <p>We use the non-personal information that we collect for such purposes as:  counting and recognizing users of the Platforms; analyzing users’ demographics, interests, and behavior, including how they use the Platforms and various Platform features; improving the Platforms and enhancing users’ experiences with the Platforms; researching and creating new products and services or improving our existing products and services; enabling additional website and application analytics and research concerning the Platforms; and managing our business.  Bark &amp; Co may link non-personal information gathered using cookies and web beacons with personal information.  But in that event, we will treat the combined information as personal information.</p>
+    <p>We use the non-personal information that we collect for such purposes as: counting and recognizing users of the Platforms; analyzing users’ demographics, interests, and behavior, including how they use the Platforms and various Platform features; improving the Platforms and enhancing users’ experiences with the Platforms; researching and creating new products and services or improving our existing products and services; enabling additional website and application analytics and research concerning the Platforms; and managing our business. Bark &amp; Co may link non-personal information gathered using cookies and web beacons with personal information. But in that event, we will treat the combined information as personal information.</p>
 
-    <p>We also may use the personal and non-personal information that we collect to send you promotional communications, including emails or postal mail about the products and services offered by Bark &amp; Co or our partners.  Although we hope you will find our promotional emails of interest, you may opt out of receiving them by sending an email to support@barkbox.com with “optout” in the subject line, or by clicking on the “unsubscribe” link in any promotional email.  Promotional emails will also have instructions for opting out of that type of communication in the future.</p>
+    <p>We also may use the personal and non-personal information that we collect to send you promotional communications, including emails or postal mail about the products and services offered by Bark &amp; Co or our partners. Although we hope you will find our promotional emails of interest, you may opt out of receiving them by sending an email to support@barkbox.com with "optout" in the subject line, or by clicking on the "unsubscribe" link in any promotional email. Promotional emails will also have instructions for opting out of that type of communication in the future.</p>
 
-    <p>We also provide you the opportunity to opt-out of having your personal information used for certain purposes when we ask for this information.  For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.</p>
+    <p>We also provide you the opportunity to opt-out of having your personal information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.</p>
 
-    <p>If you choose to use our referral service to tell a friend about our products or services, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the Platforms.  This personal information may be used to track the success of our referral program.  Your friend may contact us at support@barkbox.com to request that we remove this information from our database.</p>
+    <p>If you choose to use our referral service to tell a friend about our products or services, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Platforms. This personal information may be used to track the success of our referral program. Your friend may contact us at support@barkbox.com to request that we remove this information from our database.</p>
 
     <h2>How we share personal and non-personal information with third parties</h2>
 
     <p>We share your personal information and non-personal information with other parties for a variety of purposes, as described below.</p>
 
-    <p><em class="emphasize">Analytics and online behavioral advertising.</em>  We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting.  These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device.  In particular, as of the effective date of this Policy, certain of the Sites and Apps use such third party services as Google Analytics, Chartbeat, SimpleReach, Facebook retargeting, and Perfect Audience to help collect and analyze certain information for the purposes discussed above.</p>
+    <p><em class="emphasize">Analytics and online behavioral advertising.</em> We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device. In particular, as of the effective date of this Policy, certain of the Sites and Apps use such third party services as Google Analytics, Chartbeat, SimpleReach, Facebook retargeting, and Perfect Audience to help collect and analyze certain information for the purposes discussed above.</p>
 
-    <p>The Platforms also enable third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising.  For example, third parties may use the fact that you visited the Platforms to target online ads for Bark &amp; Co services to you on non-Bark &amp; Co websites or services.  In addition, our third-party advertising networks might use information about your use of the Platforms to help target non-Bark &amp; Co advertisements based on your online behavior in general.  For information about behavioral advertising practices, including privacy and confidentiality, visit the <a href="http://www.networkadvertising.org/understanding-online-advertising">Network Advertising Initiative website</a> or the <a href="http://www.aboutads.info">Digital Advertising Alliance website</a>.</p>
+    <p>The Platforms also enable third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Platforms to target online ads for Bark &amp; Co services to you on non-Bark &amp; Co websites or services. In addition, our third-party advertising networks might use information about your use of the Platforms to help target non-Bark &amp; Co advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the <a href="http://www.networkadvertising.org/understanding-online-advertising">Network Advertising Initiative website</a> or the <a href="http://www.aboutads.info">Digital Advertising Alliance website</a>.</p>
 
-    <p>The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Policy.  If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies.  Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by <a href="http://www.networkadvertising.org/choices/">opting out here</a>, or of companies participating in the Digital Advertising Alliance program by <a href="http://www.aboutads.info/choices">opting out here</a>.  Although our Platforms currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.</p>
+    <p>The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by <a href="http://www.networkadvertising.org/choices/">opting out here</a>, or of companies participating in the Digital Advertising Alliance program by <a href="http://www.aboutads.info/choices">opting out here</a>. Although our Platforms currently do not respond to "do not track" browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.</p>
 
-    <p><em class="emphasize">Third-party service providers and business partners.</em>  Bark &amp; Co also uses other third-party service providers to help us manage and improve the Platforms and other Bark &amp; Co services.  These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled “How we use the personal and non-personal information that we collect.”  For example, we use third parties to help us target and implement our email communications and direct mailings, to verify your identity and address for shipping purposes, to ship our products, and to process your credit card information.  We also use third-party platforms to help us manage our relationships with the people and companies that use our services.</p>
+    <p><em class="emphasize">Third-party service providers and business partners.</em> Bark &amp; Co also uses other third-party service providers to help us manage and improve the Platforms and other Bark &amp; Co services. These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled "How we use the personal and non-personal information that we collect." For example, we use third parties to help us target and implement our email communications and direct mailings, to verify your identity and address for shipping purposes, to ship our products, and to process your credit card information. We also use third-party platforms to help us manage our relationships with the people and companies that use our services.</p>
 
     <p>We also may share your personal or non-personal information with other third parties when necessary to fulfill your requests for services; to complete a transaction that you initiate; to meet the terms of any agreement that you have with us or our partners; or to manage our business.</p>
 
-    <p><em class="emphasize">Your direct sharing of information on the Platforms.</em>  Certain features of our Platforms make it possible for you to share comments or feedback publicly with all other users of the Platforms.  Any information that you submit through such features will be available to the public at large and potentially accessible through third-party search engines.  Such information can be read, collected, and/or used by others, and it could be used to send you unsolicited messages if you disclose personal information.  Accordingly, please take care when using these features of the Platforms.</p>
+    <p><em class="emphasize">Your direct sharing of information on the Platforms.</em> Certain features of our Platforms make it possible for you to share comments or feedback publicly with all other users of the Platforms. Any information that you submit through such features will be available to the public at large and potentially accessible through third-party search engines. Such information can be read, collected, and/or used by others, and it could be used to send you unsolicited messages if you disclose personal information. Accordingly, please take care when using these features of the Platforms.</p>
 
-    <p><em class="emphasize">Your direct sharing of personal information through third-party websites and services.</em>  The Platforms may enable you to share directly personal information with websites or online services operated by third parties.  For example, the Platforms contain links to third-party websites that incorporate comment and social media features.  The Platforms may also contain a Facebook “like” button, a Twitter “follow” button, or similar features.  If you choose to use these features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally.  Because these third-party websites and services are not operated by Bark &amp; Co, we are not responsible for the content or practices of those websites or services.  The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.</p>
+    <p><em class="emphasize">Your direct sharing of personal information through third-party websites and services.</em> The Platforms may enable you to share directly personal information with websites or online services operated by third parties. For example, the Platforms contain links to third-party websites that incorporate comment and social media features. The Platforms may also contain a Facebook "like" button, a Twitter "follow" button, or similar features. If you choose to use these features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally. Because these third-party websites and services are not operated by Bark &amp; Co, we are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.</p>
 
-    <p><em class="emphasize">Third-party plugins.</em>  The Platforms integrate certain third-party plug-ins (such as a Facebook “like” button).  Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view.  They also may set and/or access a cookie.  These plugins are governed by the privacy policy of the company providing them.</p>
+    <p><em class="emphasize">Third-party plugins.</em> The Platforms integrate certain third-party plug-ins (such as a Facebook "like" button). Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.</p>
 
-    <p><em class="emphasize">Legal purposes.</em>  We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:</p>
+    <p><em class="emphasize">Legal purposes.</em> We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:</p>
 
     <ul>
       <li><p>to comply with applicable law or a court order, subpoena, or other legal process;</p></li>
@@ -248,11 +255,11 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
       <li><p>to facilitate the actual or proposed financing, securitization, insuring, sale, assignment, bankruptcy, or other disposal of all or part of our business or assets.</p></li>
     </ul>
 
-    <p><em class="emphasize">Aggregated information.</em>  From time to time, Bark &amp; Co may also share de-identified and aggregated information about Platform users, such as by publishing a report on trends in the usage of the Platforms.</p>
+    <p><em class="emphasize">Aggregated information.</em> From time to time, Bark &amp; Co may also share de-identified and aggregated information about Platform users, such as by publishing a report on trends in the usage of the Platforms.</p>
 
     <h2>Security</h2>
 
-    <p>Bark &amp; Co uses commercially reasonable physical, electronic, and procedural safeguards to protect your personal information against loss or unauthorized access, use, modification, or deletion.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  However, no security program is foolproof, and thus we cannot guarantee the absolute security of your personal or other information.</p>
+    <p>Bark &amp; Co uses commercially reasonable physical, electronic, and procedural safeguards to protect your personal information against loss or unauthorized access, use, modification, or deletion. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). However, no security program is foolproof, and thus we cannot guarantee the absolute security of your personal or other information.</p>
 
     <h2>Reviewing and updating your information</h2>
 
@@ -262,7 +269,7 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 
     <h2>Information for Platform users from outside the United States</h2>
 
-    <p>The personal and non-personal information that we collect through or in connection with the Platforms is transferred to and processed in the United States for the purposes described above.  Bark &amp; Co also may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or countries other than your country of residence.  The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence.  By using the Platforms or by providing any personal or non-personal information to us, you expressly consent to such transfer and processing.</p>
+    <p>The personal and non-personal information that we collect through or in connection with the Platforms is transferred to and processed in the United States for the purposes described above. Bark &amp; Co also may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or countries other than your country of residence. The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence. By using the Platforms or by providing any personal or non-personal information to us, you expressly consent to such transfer and processing.</p>
 
     <h2>Children’s Privacy</h2>
 
@@ -270,15 +277,15 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 
     <h2>Changes to this Policy</h2>
 
-    <p>We reserve the right to amend this policy at any time.  We will post all changes to this policy on this website, so you should review the policy periodically.  Any such amendments to this policy may apply to information we collect in the future as well as any information we obtained prior to such amendment.  If we make a material change to this policy, we will provide appropriate notice as required by law.</p>
+    <p>We reserve the right to amend this policy at any time. We will post all changes to this policy on this website, so you should review the policy periodically. Any such amendments to this policy may apply to information we collect in the future as well as any information we obtained prior to such amendment. If we make a material change to this policy, we will provide appropriate notice as required by law.</p>
 
     <h2>Questions or comments</h2>
 
     <p>If you have any questions or comments regarding our Policy, please contact us at:</p>
 
-    <p>221 Canal Street, Floor <br>New York, New York 10013 <br>Phone: 855-520-BARK <br>E-mail: <a href="mailto:support@barkbox.com">support@barkbox.com</a>.</p>
+    <p>221 Canal Street, Floor 6<br>New York, New York 10013<br>Phone: 855-520-BARK<br>E-mail: <a href="mailto:support@barkbox.com">support@barkbox.com</a>.</p>
 
-    <p>Effective date:  September 30, 2014.</p>
+    <p>Effective date: September 30, 2014.</p>
   </div>
 </div>
 
@@ -304,7 +311,7 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 
       <ul class="nav">
         <li><a href="/faq" target="_blank">FAQ</a></li>
-        <li><a href="/contact" target="_blank">Contact Us</a></li>
+        <li><a href="/contact-us">Contact Us</a></li>
       </ul>
     </section>
 
@@ -315,7 +322,6 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
         <li><a href="/privacy-policy">Privacy Policy</a></li>
         <li><a href="/terms-of-service">Terms of Service</a></li>
         <li><a href="/jobs" target="_blank">We're Hiring</a></li>
-        <li><a href="mailto:press@barkbox.com">Media Inquiries</a></li>
         <li><a href="http://barkpost.com/advertise/?utm_source=barkbox&amp;utm_medium=footer" target="_blank">Advertise</a></li>
       </ul>
     </section>
@@ -330,7 +336,7 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 
     <section id="mobile-footer">
       <ul class="nav">
-        <li><a href="/contact" target="_blank">Contact Us</a></li>
+        <li><a href="/contact-us">Contact Us</a></li>
         <li><a href="/app">Get the App</a></li>
         <li><a href="/faq" target="_blank">FAQ</a></li>
         <li><a href="/jobs" target="_blank">We're Hiring</a></li>
@@ -363,11 +369,11 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
   </div>
 
   <div id="universal-footer">
-    <h5>More of the Bark &amp; Co. family:</h5>
+    <h5>More of the Bark &amp; Co family:</h5>
 
     <ul class="nav">
-      <li><a href="https://barkshop.com/" target="_blank">BarkShop</a></li>
-      <li><a href="http://barkpost.com/" target="_blank">BarkPost</a></li>
+      <li><a href="https://barkshop.com/?utm_source=barkbox&amp;utm_medium=footer_link&amp;utm_campaign=website_footer" target="_blank">BarkShop</a></li>
+      <li><a href="http://barkpost.com/?utm_source=barkbox&amp;utm_medium=footer_link" target="_blank">BarkPost</a></li>
       <li><a href="http://barklive.com/" target="_blank">BarkLive</a></li>
     </ul>
   </div>
@@ -388,14 +394,130 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
     year_extension_offer: 'true'
   };
   window.current_user = null;
+  window.test_wrangler = {"test_wrangler_id":"f9fbe933-0562-4919-81fb-ecb4801dd250","cohort":"base","experiment":"fb_connect_v2_experiment","variant":"control"};
   window.data = null;
-  window.version = "original";
   window.flash = null;
   window.cancellation_reasons = {"too_big_too_small":"Items were not the pawfect size","allergies":"My dog has allergies","too_much_treats":"There are too many treats","too_few_toys":"Not enough toys in the box","cant_afford":"I can't afford it","dog_died":"My dog passed away","something_different":"Something different"};
 </script>
 
-  <script src="//barkbox-prod.global.ssl.fastly.net/assets/v3-5c96cf71a97089f0ccbfbbb36badc725.js" type="text/javascript"></script>
+  <script src="//barkbox-prod.global.ssl.fastly.net/assets/v3-afcd71006e1da6fd4fbab2eeda1e317d.js" type="text/javascript"></script>
   
+    <!--Start of Zopim Live Chat Script-->
+  <script type="text/javascript">
+    $(window).load(function() {
+      window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+      d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+      _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+      $.src="//v2.zopim.com/?31hwtwabcV8aIaGpPCG4YPfC8ycOymAn";z.t=+new Date;$.
+      type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+
+      $zopim(function() {
+        $zopim.livechat.hideAll();
+        $zopim.livechat.setDisableSound(true);
+        $zopim.livechat.departments.filter("BarkBox");
+        $zopim.livechat.departments.setVisitorDepartment("BarkBox");
+
+        function check(status) {        
+          var dep = $zopim.livechat.departments.getDepartment("BarkBox");
+          if ((typeof dep === "undefined") || (dep.status === status)) {
+            return
+          } else if (dep.status === "offline") {
+            $zopim.livechat.setStatus("offline");
+          } else if (dep.status === "online") {
+              $zopim.livechat.setStatus("online");
+          }
+          $zopim.livechat.window.setPosition("br");
+
+          // Set Zopim chat button image to "online", "offline", or hide it if "failed"
+          var status = ($zopim && $zopim.livechat.departments.getDepartment("BarkBox")) ? $zopim.livechat.departments.getDepartment("BarkBox").status : "failed";
+          var chatElements = [$("div.zopim-chat-toggle")];
+          _.each(chatElements, function(element) {
+            element.addClass(status);
+          });
+        }
+
+        $zopim.livechat.window.onShow(function() {
+          $.cookie("zopimOpen", "true", { path: "/" });
+        });
+
+        $zopim.livechat.window.onHide(function() {
+          $.cookie("zopimOpen", "false", { path: "/" });
+        });
+
+        $zopim.livechat.setOnChatStart(function(){
+          if (window.current_user) {
+            $zopim.livechat.setEmail(window.current_user.email);
+          }
+        });
+
+        $zopim.livechat.setOnStatus(check);
+        $zopim.livechat.setOnConnected(check);
+      });
+    });
+
+    $(document).ready(function() {
+      // Mobile nav chat link popout
+      $(".zopim-chat-popout").click(function(event) {
+        if (event.target === this) {
+          window.trackChatClick();
+          $zopim.livechat.window.openPopout();
+        }
+      });
+
+    // Zopim toggle, popout, and close functions
+      $(".zopim-close").click(function() {
+        $zopim.livechat.hideAll()
+        $("div.zopim-chat-toggle").hide();
+      });
+
+      var chatOpen = false;
+      $(".zopim-chat-toggle").click(function(event) {
+        if (event.target === this) {
+          window.trackChatClick();
+          chatOpen = !chatOpen;
+          if (chatOpen) {
+            $zopim.livechat.window.show();
+            $zopim.livechat.setDisableSound(false);
+          } else {
+            $zopim.livechat.hideAll();
+            $zopim.livechat.setDisableSound(true);
+          }
+        }
+      });
+    });
+  </script>
+  <!--End of Zopim Live Chat Script-->
+
+  <script>
+  (function(d){
+
+    var js, 
+    id = 'facebook-jssdk', 
+    ref = d.getElementsByTagName('script')[0];
+
+    if (d.getElementById(id)) {
+      return;
+    }
+
+    js = d.createElement('script'); 
+    js.id = id; 
+    js.async = true;
+    js.src = "//connect.facebook.net/en_US/all.js";
+
+    ref.parentNode.insertBefore(js, ref);
+
+  }(document));
+
+  window.fbAsyncInit = function() {
+    FB.init({ 
+      appId: "523321307828632", 
+      status: true, 
+      cookie: true, 
+      xfbml: true 
+    });
+  };
+</script>
+
 
   <script>
   var dataLayer = dataLayer || [];
@@ -431,49 +553,6 @@ mixpanel.init("89ced05f045f730a4afa5c4a102b8c30");
 <noscript><img src="//tl.r7ls.net/unscripted/38426" width="1" height="1"></noscript>
 
 <!-- End Impact Radius -->
-  <!--Start of Zopim Live Chat Script-->
-<script type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-$.src="//v2.zopim.com/?31hwtwabcV8aIaGpPCG4YPfC8ycOymAn";z.t=+new Date;$.
-type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-
-$zopim( function() {
-  $zopim.livechat.departments.filter('BarkBox');
-  $zopim.livechat.departments.setVisitorDepartment('BarkBox');
-
-  function check(status) {
-    var dep = $zopim.livechat.departments.getDepartment('BarkBox');
-    if ( (typeof dep === 'undefined') || (dep.status === status) ) {
-      return
-    }
-    else if (dep.status === 'offline') {
-      $zopim.livechat.setStatus('offline');
-      if (!$zopim.livechat.isChatting()){
-        $zopim.livechat.hideAll();
-      }
-    }
-    else if (dep.status === 'online') {
-      $zopim.livechat.setStatus('online');
-      if ($zopim.livechat.isChatting()){
-        $zopim.livechat.window.show();
-      }
-      else {
-        $zopim.livechat.window.hide();
-      }
-    }
-    $zopim.livechat.window.setPosition('br');
-  }
-
-  $zopim.livechat.setOnStatus(check);
-  $zopim.livechat.setOnConnected(check);
-
-});
-</script>
-<!--End of Zopim Live Chat Script-->
-
-
 
 
 </body></html>
