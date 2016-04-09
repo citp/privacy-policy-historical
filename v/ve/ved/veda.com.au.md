@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101041732id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409200220id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
@@ -39,7 +39,7 @@ In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates 
 
 • VedaScore provides consumer access to their personal credit information and credit score as well as the ability to receive updates to their credit profile when changes are made.  Cyber monitoring to assist individuals protect against identity theft is also available.
 
-• Secure Sentinel offers individuals solutions for identity theft and fraud prevention.
+• Secure Sentinel and Identity Watch offer individuals solutions for identity theft and fraud prevention.
 
 • Carhistory.com.au provides information on cars for consumers and car dealers.
 
@@ -65,6 +65,7 @@ The Veda Group comprises of a number of separate businesses:
   * National Tenancy Database runs a tenancy database for licensed real estate agents. This database is managed by VISS.
   * Australian Business Research operates a commercial credit reporting business managed by VISS and has linkages to VISS’ commercial credit database.
   * Secure Sentinel provides loss assistance and retrieval services to its members
+  * Identity Watch provides online monitoring services to detect and alert its members if their details may be compromised
   * Verify provides candidate background screening service to organisations and individuals for employment purposes
   * Veda Advantage Solutions Group Pty Ltd T/AS Inivio (Inivio) offers its customers a range of products to assist them in aspects of campaign management.
   * Insurance Reference Services operates an Australian insurance claims reporting business which Veda manages on its behalf.
@@ -81,22 +82,28 @@ Generally speaking Veda collects personal information from third parties.  The 
   * Utility Providers;
   * Insurers, Loss assessors, Loss adjustors and investigators;
   * Law courts;
+  * Credit Providers and Access Seekers;
   * Australian Securities and Investments Commission;
   * Australian Financial Security Authority
   * Telstra;
   * Australia Post;
   * Australian Electoral Commission;
   * Australian Communications and Media Authority;
-  * Corporate partners of our Secure Sentinel service;
   * Market research organisations;
-  * Direct marketing companies; and
+  * Direct marketing companies;
+  * Service Providers to us;
+
+  * Government agencies (such as the Office of the Information Commissioner);
+
+  * External Dispute Resolution schemes; and
+
   * From our customers.
 
 
 
 In addition, there are a number of limited circumstances in which we will collect personal information from you:
 
-  * When you apply for membership or whilst you are a member of Secure Sentinel.
+  * When you apply for membership or whilst you are a member of Secure Sentinel and Identity Watch.
   * When you contact our Australian commercial credit bureau to obtain a copy of your commercial credit file or your insurance file.
   * When you contact our Australian commercial credit bureau to request an amendment to your commercial credit file or insurance file or dispute information on your commercial credit file or your insurance file.
   * When you contact Inivio, regarding material you have received from an Inivio client.
@@ -126,7 +133,7 @@ Veda collects a range of personal information, depending upon the purpose for wh
 
 We collect, hold, use and/or disclose your personal information for the purposes of carrying on our various businesses and for conducting Veda’s affairs.
 
-Generally personal information is used and disclosed for the purposes for which it was collected or a directly related secondary purpose or were you have consented to the use or disclosure.
+Generally personal information is used and disclosed for the purposes for which it was collected or a directly related secondary purpose or where you have consented to the use or disclosure.
 
 Where other personal information is used for a secondary purpose there is, generally, no disclosure of personal information.  For example, we use the information collected to manage the accuracy of our data sets or for identity verification.  
 
@@ -262,6 +269,7 @@ Veda provides a number of services to consumers, most notably:
 
   * VedaScore
   * Secure Sentinel
+  * Identity Watch
   * Carhistory.com.au
   * NTD
   * Know Your Tradie
@@ -275,16 +283,19 @@ In order to provide these services to you we need to collect personal informatio
   * Name
   * Date of Birth
   * Driver’s Licence
+  * Passport Details
+  * Medicare Card Number
   * Gender
   * Latest Address including postcode
   * Previous Addresses including postcode
   * Occupation
   * Credit Card details
+  * Bank account details
   * Email address
   * Home phone number
   * Mobile phone number
   * Fax number
-  * Information about your mobile phone(s), financial cards and passport.
+  * Information about your mobile phone(s), financial cards and PayPal and eBay accounts.
 
 
 
@@ -314,6 +325,8 @@ In the case of Secure Sentinel, we may be disclose your personal information to:
 
 
 
+In the case of Identity Watch, we may disclose your information to third parties acting on our behalf to assist us to provide the services to you.
+
 For the purposes of NTD we collect information in accordance with the APPs for the purpose of 
 
   * provision of services to property managers and real estate agents and for risk assessment and risk management purposes
@@ -328,7 +341,7 @@ For the purposes of NTD we collect information in accordance with the APPs for t
 
 
 
-If as part of signing up VedaScore, Secure Sentinel, carhistory.com.au or NTD and you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
+If as part of signing up VedaScore, Secure Sentinel, Identity Watch, carhistory.com.au or NTD and you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
 
  **Inivio and The Prospect Shop**  collect your personal information for a variety of reasons including:
 
@@ -391,7 +404,7 @@ If Veda does not collect your personal information, Veda may not be able to prov
 
  **Disclosures Overseas**
 
-In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines. TPS, for the purposes of conducting their services may disclose your personal information to data storage providers located in USA, China, UK and NZ. In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
+In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines. TPS, for the purposes of conducting their services may disclose your personal information to data storage providers located in USA, China, UK and NZ. In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check. Identity Watch discloses your personal information to overseas recipients in the USA for the purpose of assisting us to perform the information services and solutions.
 
 ## 5\. Your Right of Access
 
@@ -427,13 +440,14 @@ NORTH SYDNEY  NSW  2059
 [info@ntd.net.au](mailto:info@ntd.net.au)  
   
  **Your personal information held by CarHistory**|  Email: [support@carhistory.com.au](mailto:support@carhistory.com.au)  
+ **Your personal Information held by Secure Sentinel**|  On 1800 022 043  
+Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
   
- **Your personal Information held by Secure Sentinel**
+ **Your personal Information held by Identity Watch**
 
 | 
 
-On 1800 022 043  
-Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
+Email: [customerservice@identitywatch.com.au](mailto:customerservice@identitywatch.com.au)  
   
  **Your personal information held by Verify**
 
@@ -528,6 +542,8 @@ Email: [corrections@veda.com.au](mailto:corrections@veda.com.au)
 
 On 1800 022 043  
 Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
+  
+ **Your personal Information held by Identity Watch**|  Email: [customerservice@identitywatch.com.au](mailto:customerservice@identitywatch.com.au)  
   
  **Your personal information held by Verify**
 
@@ -635,7 +651,7 @@ Email:  [info@inivio.com.au](mailto:info@inivio.com.au)
   
  **Secure Sentinel**
 
-|  If you were or are a customer of Secure Sentinel.| 
+|  If you were, or are a customer of Secure Sentinel, at the time you subscribed to the services or made a change to your subscription.| 
 
 Attention:  National Manager
 
@@ -646,6 +662,8 @@ Locked Bag 4845
 CHATSWOOD  NSW  2057
 
 Email:  [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
+  
+ **Identity Watch**|  If you were, or are a customer of Identity Watch, at the time you subscribed to the services or made a change to your subscription.| Email: [customerservice@identitywatch.com.au](mailto:customerservice@identitywatch.com.au)  
   
  **CarHistory**
 
@@ -667,9 +685,11 @@ NORTH SYDNEY  NSW  2059
 
 We do not use or adopt as our own identifier any identifier assigned by a Commonwealth or State Government agency. 
 
-If you are a member of Secure Sentinel, we retain details of your passport, including your passport number, as part of the services we provide you.  
+However, iIf you are a member of Secure Sentinel and Identity Watch, we retain details of your passport, including your passport number, as part of the services we provide you.  Identity Watch may also retain your Medicare Care number, as part of the services we provide to you.  
 
 In certain circumstances we may seek evidence of your identity such as passport details, driver’s licence or similar in order to help verify your identity.
+
+Verify may collect, use, hold and disclose details relating to your criminal record, if applicable, for the purposes of conducting an employment check.
 
 We do not collect, hold or disclose sensitive information about you such as:
 
