@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801151935id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pugetsystems.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409043056id_/https%3A//www.pugetsystems.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://www.pugetsystems.com/)
 
 ## Our Commitment To Privacy
 
