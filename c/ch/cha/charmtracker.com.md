@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmtracker.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040838id_/https%3A//www.charmtracker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmtracker.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410003129id_/https%3A//www.charmtracker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 MedicalMine Inc. is a California Corporation, a Silicon Valley Company founded to address the application of online health data management and intelligent data analysis. Under the brand name of ChARMTracker, MedicalMine Inc. provides web-based Electronic Health Record(EHR) and Practice Management applications to healthcare practitioners, a Personal Health Record (PHR) to their patients and a research portal to the researchers. 
 
-At MedicalMine, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. MedicalMine's servers and infrastructure are hosted at Tier-1 data centers equipped with latest technology to securely house sensitive data. We have put in place elaborate security processes to ensure utmost security and privacy of health care information. MedicalMine follows very strict and standardized practices in areas of Access Controls, Network Security, Physical Security, Information Security, Application Security, Operations Security and Business Continuity. In addition, all communications between users' browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL). ​ 
+At MedicalMine, we respect your need for online privacy and protect any Personal Information that you may share with us, in an appropriate manner. MedicalMine's servers and infrastructure are hosted at Tier 3 Plus data centers equipped with latest technology to securely house sensitive data. We have put in place elaborate security processes to ensure utmost security and privacy of health care information. MedicalMine follows very strict and standardized practices in areas of Access Controls, Network Security, Physical Security, Information Security, Application Security, Operations Security and Business Continuity. In addition, all communications between users' browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL). ​ 
 
 ### Safe Harbor
 
