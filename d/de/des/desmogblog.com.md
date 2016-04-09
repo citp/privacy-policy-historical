@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the desmogblog.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911095208id_/http%3A//desmogblog.com/privacy-policy-desmog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desmogblog.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409024507id_/http%3A//www.desmogblog.com/privacy-policy-desmog) for the most accurate reproduction.*
 
 # Privacy Policy | DeSmogBlog
-
-[](https://web.archive.org/donate-desmog)
-
-[](https://web.archive.org/global-warming-denier-database)
-
-[](http://desmog.ca/2015/09/10/big-oil-s-man-senate)
-
-[](http://desmog.ca/2015/09/10/big-oil-s-man-senate)
-
-Alberta Conservative Senator Doug Black worries that Canadians are illiterate when it comes to energy and he’s on a mission to educate them.
-
-...
-
-[](http://desmog.uk/2015/09/09/four-reasons-jeremy-corbyn-s-innovative-energy-policy-no-80s-throwback)
-
-[](http://desmog.uk/2015/09/09/four-reasons-jeremy-corbyn-s-innovative-energy-policy-no-80s-throwback)
-
-_Have you heard the one about Jeremy Corbyn’s[](http://energydesk.greenpeace.org/2015/08/07/jeremy-corbyn-interview-nationalise-the-big-six-a-solar-panel-on-every-rooftop-clean-coal/)_...
 
 DeSmogBlog respects the privacy of its visitors. If you have any questions about the operation of our website, please write to [editor@desmogblog.com](mailto:editor@desmogblog.com)
 
