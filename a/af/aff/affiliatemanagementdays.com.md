@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the affiliatemanagementdays.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911235101id_/http%3A//www.affiliatemanagementdays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatemanagementdays.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409054721id_/http%3A//www.affiliatemanagementdays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Affiliate Management Days
 
 ## Privacy Policy
 
-The purpose of this Privacy Policy is to ensure that Affiliate Management Days (we) interact with all of our customers in line with current legislation and in accordance with their wishes. If you have any concerns with how your personal data may be being used please contact us at regsupport@risingmedia.com.
+The purpose of this Privacy Policy is to ensure that Affiliate Management Days (we) interact with all of our customers in line with current legislation and in accordance with their wishes. If you have any concerns with how your personal data may be being used please contact us at [regsupport@risingmedia.com](mailto:regsupport@risingmedia.com).
 
 We collect personally identifiable information from our users at several different points on our Website. This information is used solely for internal marketing purposes and for the production of whichever event you have registered for. The only occasion when personally identifiable information is shared with third parties is when particular event attendee lists are made available to other attendees and sponsors of the same event.
 
@@ -50,7 +50,7 @@ This privacy statement applies only to information collected by this Web site.
 ## Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
-If you have any questions about security on our Web site, you can send email us at regsupport@risingmedia.com.
+If you have any questions about security on our Web site, you can send email us at [regsupport@risingmedia.com](mailto:regsupport@risingmedia.com).
 
 ## Business Transitions
 
