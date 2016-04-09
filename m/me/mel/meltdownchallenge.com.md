@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meltdownchallenge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315060838id_/https%3A//www.meltdownchallenge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltdownchallenge.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409072435id_/https%3A//www.meltdownchallenge.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy policy
 
-Data security as well as privacy are very important to MeltDownChallenge.com. This document summarizes the measures we’ve undertaken to ensure that only the user data necessary to effectively run our programs is used, stored and captured. MeltDownChallenge.com collects data in a secure manner that goes beyond industry standards; and has plans and programs available to effectively detect and handle security breaches, should these occur. This Policy applies to the website www.MeltDownChallenge.com. By using our website users confirm to be informed about and comply with this privacy policy.
+Data security as well as privacy is very important to MeltDownChallenge.com. This document summarizes the measures we’ve undertaken to ensure that only the user data necessary to effectively run our programs is used, stored and captured. MeltDownChallenge.com collects data in a secure manner that goes beyond industry standards; and has plans and programs available to effectively detect and handle security breaches, should these occur. This Policy applies to the website www.MeltDownChallenge.com. By using our website users confirm to be informed about and comply with this privacy policy.
 
 ###  Information Collected by MeltDownChallenge.com
 
@@ -16,7 +16,7 @@ To participate in MeltDownChallenge.com challenges, users can opt to supply info
 
 ####  Friends
 
-Users can opt to identify friends, family, colleagues or other third party members through the invite-a-friend functions. If users do this MeltDownChallenge.com collects the selected third party’s email address and will automatically send the recipients an email, and if necessary, reminder emails. MeltDownChallenge.com stores this information solely for the purpose of sending the aformentioned email and related reminder emails as well as to track the effect of the invite-a-friend function. Third parties can always contact MeltDownChallenge.com to request the removal of their information from our database.
+Users can opt to identify friends, family, colleagues or other third party members through the invite-a-friend functions. If users do this MeltDownChallenge.com collects the selected third party’s email address and will automatically send the recipients an email, and if necessary, reminder emails. MeltDownChallenge.com stores this information solely for the purpose of sending the aforementioned email and related reminder emails as well as to track the effect of the invite-a-friend function. Third parties can always contact MeltDownChallenge.com to request the removal of their information from our database.
 
 ####  Orders
 
@@ -33,8 +33,8 @@ Users should be aware that the information shared on walls, blogs, chatrooms and
 
 ###  Personal Information Usage
 
-Information collected through Meltdownchallenge.com is used to run the services Meltdownchallenge.com offers, as described on the website and in this policy. Information will not be shared or disclosed unless it’s for the purposes described in this policy. To be able to run our programs and offer our services, we may use personal information for: (i) providing you with important information about Meltdownchallenge.com including but not limited to important updates and notifications; (ii) sending you emails and/or mobile alerts and/or reminders; (iii) adjusting your Meltdownchallenge.com challenge page to increase effectiveness of your health challenge and progress; and (iv) determining relevant services to you, your geographic location and your lifestyle.  
-Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. This pertains to the "Six Weeks to Summer Meltdown to Health" Challenges starting May 5th, 2014.
+Information collected through Meltdownchallenge.com is used to run the services Meltdownchallenge.com offers, as described on the website and in this policy. Information will not be shared or disclosed unless it’s for the purposes described in this policy. To be able to run our programs and offer our services, we may use personal information for: (i) providing you with important information about Meltdownchallenge.com including but not limited to important updates and notifications; (ii) sending you emails and/or mobile alerts and/or reminders including invitations to other challenges; (iii) adjusting your Meltdownchallenge.com challenge page to increase effectiveness of your health challenge and progress; and (iv) determining relevant services to you, your geographic location and your lifestyle.  
+Upon occasion, Meltdown Challenge LLC does share site analytics including before and after pictures with team challenge hosts. 
 
 ###  Personal Information Sharing
 
@@ -70,7 +70,7 @@ Users may choose not to disclose information, but this may lead to the inability
 
 Users can correct, add and delete personally identifiable information on our website by visiting their profile. A copy of the unrevised information will often be maintained in our records as part of regularly scheduled back-up processes though, to ensure compliance with potential future requests for information in conjunction with legal proceedings and public safety.
 
-Users wishing to remain a Meltdownchallenge.com participants, without any email ot text notifications and/or communication from other participants can unsubscribe at unsubscribe@Meltdownchallenge.com. However, system emails (such as those regarding forgotten user passwords) and legal notices (such as updates to our policies) will still be sent.
+Users wishing to remain a Meltdownchallenge.com participants, without any email or text notifications and/or communication from other participants can unsubscribe at unsubscribe@Meltdownchallenge.com. However, system emails (such as those regarding forgotten user passwords) and legal notices (such as updates to our policies) will still be sent.
 
 Users can request access to Personal Information that Meltdownchallenge.com has stored but that is not available on User Profile pages, so they can correct inaccuracies and/or request deletion of information. Meltdownchallenge.com responds to such requests within 15 business days. Users can also request deletion of their entire account by contacting us. Meltdownchallenge.com responds to these requests within 20 business days.
 
@@ -80,7 +80,7 @@ Meltdownchallenge.com may use statistics, de-identified aka anonymous and/ or ag
 
 ###  Email and Mobile Alerts
 
-Meltdownchallenge.com sends several email messages based upon personally identifiable information the users has provided. These messages include emails pertaining but not limited to welcoming users to the website, challenge reminders, account management, activity notifications, motivational tips, health tips etc. Email and texts may also be used to carry out reminder settings and ensure users are informed of the latest improvements relating to Meltdownchallenge.com. Meltdownchallenge.com will send reminders and alerts throug e-mail and/or mobile phone. Users have control over the amount of these reminders and alerts, to the point of disabling them entirely.
+Meltdownchallenge.com sends several email messages based upon personally identifiable information the users has provided. These messages include emails pertaining but not limited to welcoming users to the website, challenge reminders, account management, activity notifications, motivational tips, health tips etc. Email and texts may also be used to carry out reminder settings and ensure users are informed of the latest improvements or other challenges relating to Meltdownchallenge.com. Meltdownchallenge.com will send reminders and alerts throug e-mail and/or mobile phone. Users have control over the amount of these reminders and alerts, to the point of disabling them entirely.
 
 For questions about this policy, contact legal@meltdownchallenge.com.
 
