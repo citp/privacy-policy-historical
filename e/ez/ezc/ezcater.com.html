@@ -1,30 +1,31 @@
-<!--The following is the downloaded HTML source of the ezcater.com privacy policy that was archived on 2015-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151029160351id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ezcater.com privacy policy that was archived on 2016-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160409050237id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4af78dd9f6","applicationID":"3640524","transactionName":"IF1XTBNYXg0DQU1YVw5XFkgTXkQABUo9QFcPW1pB","queueTime":1,"applicationTime":20,"agent":"js-agent.newrelic.com/nr-768.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcAUFBSGwAGUFFXBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-   <title>ezCater | Nationwide Business Catering From Local Caterers</title>
+  <title>ezCater | Nationwide Business Catering From Local Caterers</title>
+  <link rel="stylesheet" media="screen" href="/assets/store_bootstrap3-9669a6cc749d8597a633485b2501804fb938e6d29fdd92d9f46e76ce8bd43300.css">
+  <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/store_bootstrap3-8a5b669f2655f3931cb0f3cd4a660d22fcb4f97d51c8a448034ed5cd0b94a29f.js"></script>
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="vGEpZSjQ5WKSUlKin3WUlqvgaITB0kfYtr8HV4BBTZ830dwpwFv26y0+51+8ky4DzX96rJdfZCKHCYuyxXBLBQ==">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="description" content="ezCater’s online ordering, on-time ratings and reviews, and 5-star customer service connect businesspeople to reliable local caterers anywhere in the U.S.">
+  
+  
 
-      <link rel="stylesheet" media="screen" href="https://d1kag4lxdlgwml.cloudfront.net/assets/store_bootstrap3-3e61110356b91cde3d510a3771e39a773acdabbcc46313451472eaf266ff89b0.css">
-      <script src="https://d1kag4lxdlgwml.cloudfront.net/assets/store_bootstrap3-689eed0b117df508de893f7e74b1fd121f7b84c02b541b681833ac1c5f2b626a.js"></script>
-   <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="log/ol3dX18cE8xBO9Plntkx4uIXXBUCNM3Cp1+uD58wAOA5j5O4/Y5rH1dsHCk4uOoaM2tarJwjjO17zkhIcA==">
 
-      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-      <!--[if lt IE 9]>
-         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-      <![endif]-->
-   
-   <meta name="format-detection" content="telephone=no">   
-   <link rel="shortcut icon" type="image/x-icon" href="https://d1kag4lxdlgwml.cloudfront.net/assets/index/favicon5-57d4c4a3fc2c8e09a0ffab9426f9a5986032cd399b44c7b623a498dc1605b9b8.ico">
-   <link rel="apple-touch-icon" type="image/x-icon" href="https://d1kag4lxdlgwml.cloudfront.net/assets/index/favicon5-57d4c4a3fc2c8e09a0ffab9426f9a5986032cd399b44c7b623a498dc1605b9b8.ico">
-   
-   <meta name="description" content="ezCater’s online ordering, on-time ratings and reviews, and 5-star customer service connect businesspeople to reliable local caterers anywhere in the U.S.">
+    <script src="https://app.certcapture.com/gencert/js?cid=13214&amp;key=O9T7xNb4WvNVFci2"></script>
 
-     <script type="text/javascript">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/index/favicon5-57d4c4a3fc2c8e09a0ffab9426f9a5986032cd399b44c7b623a498dc1605b9b8.ico">
+  <link rel="apple-touch-icon" type="image/x-icon" href="/assets/index/favicon5-57d4c4a3fc2c8e09a0ffab9426f9a5986032cd399b44c7b623a498dc1605b9b8.ico">
+
+    <script type="text/javascript">
 
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-24891041-1']);
@@ -39,7 +40,16 @@
   </script>
 
 
-      
+      <script type="text/javascript">
+    var analytics = window.analytics = {}
+    var functions = [
+      "trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"
+    ]
+    functions.forEach(function(functionName) {
+      analytics[functionName] = Function.prototype
+    }, analytics)
+  </script>
+
 </head>
 
 
@@ -55,7 +65,7 @@
             <span class="icon-bar"></span>
          </button>
 
-            <a class="navbar-header" href="/"><img style="width: 160px; position: relative; top: 5px; left: 5px" src="https://d1kag4lxdlgwml.cloudfront.net/assets/logo/logo2_340-fd0156849139b9f8786f04a744d5b026385761f9064ef69bea846aaf81c2f4d3.png" alt="Logo2 340 fd0156849139b9f8786f04a744d5b026385761f9064ef69bea846aaf81c2f4d3"></a>
+            <a class="navbar-header" href="/"><img style="width: 160px; position: relative; top: 5px; left: 5px" src="/assets/logo/logo2_340-2ffd7579fa08312296862b157b10204ffd279cd68a43c0d0648c243d9d400abf.png" alt="Logo2 340"></a>
       </div>
 
       <div class="collapse navbar-collapse" id="ez-nav-collapse">
@@ -92,15 +102,15 @@
                </li>
 
             <li>
-               <a class="navbar-header" data-remote="true" href="/contact_us/0?bootstrap3=true">Contact</a>
+               <a class="navbar-header" data-remote="true" href="/contact_us/new?bootstrap3=true">Contact</a>
             </li>
 
             <li>
-               <a id="chat_navbar_link" class="navbar-header" style="" href="#">Chat</a>
+               <a id="chat_navbar_link" class="navbar-header" style="display:none" href="#">Chat</a>
             </li>
-            
+
             <li>
-               <a class="navbar-header" data-remote="true" href="/contact_us/0?bootstrap3=true">1-800-488-1803</a>
+               <a class="navbar-header" data-remote="true" href="/contact_us/new?bootstrap3=true">1-800-488-1803</a>
             </li>
 
          </ul>
@@ -132,7 +142,7 @@
   Privacy Policy
 </h1>
 
-<p>Effective Date: March 14, 2015</p>
+<p>Effective Date: November 1, 2015</p>
 
 <p style="margin-bottom: 30px">
   <span class="label label-info">Guiding Principle</span>
@@ -146,17 +156,7 @@
 </p>
 
 <p>
-  ezCater, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been
-  reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's Program Requirements</a>
-  including transparency, accountability and choice regarding the collection and use of your personal information.
-  The TRUSTe program covers only information that is collected through this web site <a href="http://www.ezcater.com">www.ezcater.com</a>.
-</p>
-
-<p>
-  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations
-  globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints
-  regarding our privacy policy or practices, please contact us at <a href="mailto:support@ezcater.com">support@ezcater.com</a>. If you are not satisfied with
-  our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">TRUSTe’s Feedback and Resolution System</a>.
+  ezCater, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program.) In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe by clicking <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a>. The TRUSTe program covers only information that is collected through this website <a href="http://www.ezcater.com">www.ezcater.com</a>.
 </p>
 
 <h4>
@@ -245,8 +245,8 @@
   You control your information
 </h4>
 <p>
-  You can always edit and delete your information in your Profile page. On that page(or via email to <a href="mailto.support@ezcater.com">support@ezcater.com</a>),
-  you can also opt into or out of our sharing of your personal information with certain third parties.
+  You can always edit and delete your information in your Profile page. On that page(or via email to <a href="mailto:support@ezcater.com">support@ezcater.com</a>),
+  you can also opt into or out of our sharing of your personal information with certain third parties. We will respond to your request within a reasonable timeframe.
 </p>
 
 <p>
@@ -265,7 +265,7 @@
 <p>
   We will retain your information for as long as your account is active or as needed to provide you services. Please
   contact us if you wish to cancel your account or request that we no longer use your information to provide you
-  services. We will retain and use your information as necessary to comply with our legal obligations, resolve
+  services(contact info listed below). We will retain and use your information as necessary to comply with our legal obligations, resolve
   disputes, and enforce our agreements.
 </p>
 
@@ -278,12 +278,17 @@
 </p>
 
 <p>
-  Our web site includes social media features (such as the Facebook Like button) and widgets (such as the ShareThis
+  Our website includes social media features (such as the Facebook Like button) and widgets (such as the ShareThis
   button or interactive mini-programs that run on our site). These features may collect your IP address and information about which
   page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media
   features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with
   these features are governed by the privacy policy of the company providing it.
 </p>
+
+<p>
+  Our website gives you the ability to leave publicly accessible reviews for orders. If you wish to edit or change these reviews you may do so by accessing past orders. To request complete removal of a review from our website, please contact us at <a href="mailto:support@ezcater.com">support@ezcater.com</a>.
+</p>
+
 
 <p>
   Our website offers publicly accessible comments through a third party provider. You should be aware that any
@@ -327,9 +332,9 @@
 </p>
   </div>
   <div class="col-sm-4" style="margin-top: 40px">
-      <div id="c0d65c9e-9ccc-404c-b2c1-d1d2256d7839">
-    <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/ezCater,-Inc/asc?rid=c0d65c9e-9ccc-404c-b2c1-d1d2256d7839"></script><a href="//privacy.truste.com/privacy-seal/ezCater,-Inc/validation?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/ezCater,-Inc/seal?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3" alt="TRUSTe online privacy certification"></a>
-  </div>
+    	<a href="//privacy.truste.com/privacy-seal/validation?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3" title="TRUSTe Privacy Certification" target="_blank">
+		<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3" alt="TRUSTe Privacy Certification">
+  </a>
 
   </div>
 </div>
@@ -338,9 +343,10 @@
     
   <script type="text/javascript">
   LiveChat.include();
-  LiveChat.greeting("");
+  LiveChat.greeting("Hello, thank you for visiting. Can I help you in any way?");
     LiveChat.hide();
     LiveChat.on("chat","OperatorsAvailable", function () {
+          $.post("/store/set_live_chat_online",{online: true});
         $("#chat_navbar_link").show();
         LiveChat.available = true;
         LiveChat.get_details(function (details) {
@@ -349,7 +355,6 @@
         });
     });
     LiveChat.on("chat","OperatorsAway", function () {
-          $.post("/store/set_live_chat_online",{online: false});
         LiveChat.available = false;
         $("#chat_navbar_link").hide();
     });
@@ -357,7 +362,7 @@
         LiveChat.show();
         LiveChat.expand();
     });
-    
+
         LiveChat.rule({
           id: 'operators_busy',
           description: "trigger based on no response from operator",
@@ -372,29 +377,27 @@
           },
           perVisit: true
         });
-          
+
 
   </script>
 
     <div class="footer">
-      <div>
-
-         <div>
-            <a href="/join">Caterer Partners</a><a href="/home/business/overview">Enterprise Solutions</a><a href="/about_us">About</a><a data-remote="true" href="/contact_us/0?bootstrap3=true">Contact</a><a href="/blog">Blog</a><a href="/service_areas">Service Areas</a><a rel="nofollow" href="/privacy_policy">Privacy</a><a rel="nofollow" href="/terms_of_use">Terms</a><a rel="nofollow" href="/help">Help</a>
-         </div>
-
+    <div>
+        <div>
+          <a href="/join">Caterer Partners</a><a href="/home/business/overview">Enterprise Solutions</a><a href="/about_us">About</a><a data-remote="true" href="/contact_us/new?bootstrap3=true">Contact</a><a href="/blog">Blog</a><a href="/service_areas">Service Areas</a><a rel="nofollow" href="/privacy_policy">Privacy</a><a rel="nofollow" href="/terms_of_use">Terms</a><a rel="nofollow" href="/help">Help</a>
+        </div>
 
 
-         <div class="muted" style="margin: 10px 0 10px 0;">
-            © 2015 ezCater, Inc.
-         </div>
+        <div class="muted" style="margin: 10px 0 10px 0;">
+          © 2016 ezCater, Inc.
+        </div>
 
-         <div class="social-links">
-            <a class="social" href="https://www.facebook.com/pages/ezCater/157973357563522" target="_blank"><i class="icon-facebook-sign"></i></a>
+        <div class="social-links">
+          <a class="social" href="https://www.facebook.com/pages/ezCater/157973357563522" target="_blank"><i class="icon-facebook-sign"></i></a>
 <a class="social" href="https://twitter.com/ezCaterInc" target="_blank"><i class="icon-twitter-sign"></i></a>
 <a class="social" href="https://www.linkedin.com/company/ezcater" target="_blank"><i class="icon-linkedin-sign"></i></a>
-         </div>
-      </div>
+        </div>
+    </div>
 </div>
 
 
@@ -416,25 +419,31 @@
   </noscript>
 
 
-   <script type="text/javascript">
-      piAId = '52922';
-      piCId = '2238';
+  <script type="text/javascript">
+    _bizo_data_partner_id = "9356";
+  </script>
 
-      (function() {
-         function async_load(){
-            var s = document.createElement('script'); s.type = 'text/javascript';
-            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-         }
-         if(window.attachEvent) { window.attachEvent('onload', async_load); }
-         else { window.addEventListener('load', async_load, false); }
-      })();
-   </script>
+  <script type="text/javascript">
+    (function() {
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";
+    b.async = true;
+    b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+    s.parentNode.insertBefore(b, s);
+    })();
+  </script>
+
+  <noscript>
+    <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=9356&fmt=gif" />
+  </noscript>
 
 
-
-
+<script type="text/javascript">
   
+</script>
+
+  <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 
 </body></html>
