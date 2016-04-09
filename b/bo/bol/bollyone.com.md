@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollyone.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191747id_/http%3A//www.bollyone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollyone.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409171709id_/http%3A//www.bollyone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Bollyone.com
+# Privacy Policy - Bollyone.com
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.bollyone.com](http://www.bollyone.com/) . The following discloses the information gathering and dissemination practices for this Web site.
 
