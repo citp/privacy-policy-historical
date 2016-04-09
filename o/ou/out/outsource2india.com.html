@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the outsource2india.com privacy policy that was archived on 2015-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151026014947id_/https%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outsource2india.com privacy policy that was archived on 2016-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160409104912id_/https%3A//www.outsource2india.com/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"><head>
 <title>The Privacy Policy of Outsource2india</title>
 <meta name="Description" content="At Outsource2india, we believe in responsible outsourcing. Our Privacy Policy specifies the details of how we gather and use information that you provide.">
 <meta name="Keywords" content="privacy policy, privacy statement, privacy policy statement, Outsource2india privacy policy">
@@ -57,18 +57,76 @@
 
 
 
+<script type="text/javascript">
+function setCookieVTZ(c_name,value,expiredays,path)
+{
+var exdate = new Date();
+exdate.setDate(exdate.getDate()+expiredays);
+document.cookie = c_name + "=" + encodeURIComponent(value) +
+((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + "; path=" + encodeURIComponent ( path );;
+}
+
+var GetCurrDate = new Date();
+var CurrDateTZ = GetCurrDate.toTimeString();
+setCookieVTZ("VTZ",CurrDateTZ,null,"/");
+</script>
+
+
 <!-- START: Get the Current IP Location using the User IP Address -->
 <!-- END: Get the Current IP Location using the User IP Address -->
 
 <!-- START: Detect the Device -->
-<!-- END: Detect the Device --><link rel="canonical" href="https://www.outsource2india.com/privacy.asp">
+<!-- END: Detect the Device -->
+<link rel="canonical" href="https://www.outsource2india.com/privacy.asp">
 
 <link rel="icon" type="image/png" href="/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<script src="/js/jquery-1.7.2.min.js"></script>
+<!-- <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script> -->
+
+<!--<script src="/js/jquery-1.11.4.min.js"></script>-->
+<script>
+(function() {
+      function getScript(url,success){
+        var script=document.createElement('script');
+        script.src=url;
+        var head=document.getElementsByTagName('head')[0],
+            done=false;
+        script.onload=script.onreadystatechange = function(){
+          if ( !done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete') ) {
+            done=true;
+            success();
+            script.onload = script.onreadystatechange = null;
+            head.removeChild(script);
+          }
+        };
+        head.appendChild(script);
+      }
+        getScript('https://cdn.outsource2india.com/js/jquery-1.11.4.min.js',function(){
+					var idleTime = 0;
+					$(document).ready(function (){						
+						var idleInterval = setInterval(timerIncrement, 1800000); // 30 Minutes
+					$(this).mousemove(function (e){
+						idleTime = 0;
+					});
+					$(this).keypress(function (e){
+						idleTime = 0;
+					});
+					});
+
+					function timerIncrement(){
+						idleTime = idleTime + 1;
+						if (idleTime > 1) {
+							//alert("No Activity for 30 Minutes");
+							setCookie("GAVisitLevelVar",GAVisitLevelValue,-1,"/"); // Delete the Cookie
+							setCookie("GAVisitLevelVarTimer",date1,-1,"/"); // Delete the Cookie
+						}
+					}
+        });
+    })();
+	</script><script src="https://cdn.outsource2india.com/js/jquery-1.11.4.min.js"></script>
 <!--[if lt IE 9]>
-	<script type="text/javascript" src="https://cdn.outsource2india.com/js/css3-mediaqueries.js"></script>
+	<script type="text/javascript" src="/js/css3-mediaqueries.js"></script>
 <![endif]-->
 
 <!-- Start GA code -->
@@ -101,29 +159,6 @@
 		((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + "; path=" + escape ( path );;
 	}
 	/* FUNCTION TO CREATE THE COOKIE */
-</script>
-
-<script>
-/* Delete the Cookie if the Visitor is Idle for more than 30 minutes */
-var idleTime = 0;
-	$(document).ready(function (){
-		var idleInterval = setInterval(timerIncrement, 1800000); // 30 Minutes
-	$(this).mousemove(function (e){
-		idleTime = 0;
-	});
-	$(this).keypress(function (e){
-		idleTime = 0;
-	});
-	});
-
-	function timerIncrement(){
-		idleTime = idleTime + 1;
-		if (idleTime > 1) {
-			//alert("No Activity for 30 Minutes");
-			setCookie("GAVisitLevelVar",GAVisitLevelValue,-1,"/"); // Delete the Cookie
-			setCookie("GAVisitLevelVarTimer",date1,-1,"/"); // Delete the Cookie
-		}
-	}
 </script>
 
 <script type="text/javascript">
@@ -177,12 +212,12 @@ var idleTime = 0;
 	/* HEADER MENU TOOl TIP STARTS*/
 	.mainmenu-tool-tip{text-shadow: none;visibility: hidden;-webkit-border-radius: 5px;-moz-border-radius: 5px;-o-border-radius: 5px;border-radius: 5px;text-align: left;opacity: 0;z-index: 999;padding:10px 5px;position: absolute;width: 302px;height:61px;display:block;margin-left: -135px;top: auto;bottom: 114%;left: 50%;cursor: default;	-webkit-transition: all 240ms ease-in-out;-moz-transition: all 240ms ease-in-out;-ms-transition: all 240ms ease-in-out;-o-transition: all 240ms ease-in-out;transition: all 240ms ease-in-out;border:1px solid #c9c9c9;  color:#333333; background:#e2e2e2;
 	background:-moz-linear-gradient(top,#ffffff 0,#e2e2e2 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#ffffff),color-stop(100%,#e2e2e2));background:-webkit-linear-gradient(top,#ffffff 0,#e2e2e2 100%);background:-o-linear-gradient(top,#ffffff 0,#e2e2e2 100%);background:-ms-linear-gradient(top,#ffffff 0,#e2e2e2 100%);background:linear-gradient(to bottom,#ffffff 0,#e2e2e2 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#e2e2e2',GradientType=0);
-	box-shadow: 1px 1px 2px 0px #b0b0b0;font-family: Arial;font-size: 13px;color: #333333;margin-top:7px;z-index: 999999}
+	box-shadow: 1px 1px 2px 0px #b0b0b0;font-family: Arial;font-size: 13px;color: #333333;margin-top:2px;z-index: 999999}
 	.fifty{height:48px !important}
 	.mainmenu-tool-tip.last{margin-left: -318px !important}
 	.mainmenu-tool-tip.last-one{margin-left: -226px !important}
 /* tool tip position bottom */
-.mainmenu-tool-tip.bottom{top: 115%;bottom: auto;left: 226%;margin-bottom: auto;display:none}
+.mainmenu-tool-tip.bottom{top: 115%;bottom: auto;left: 70%;margin-bottom: auto;display:none}
 .mainmenu-tool-tip.bottom:after{position: absolute;top: -3px;left: 83% !important;margin-left: -7px;content: ' ';height: 0px;
 	width: 0px;	border: 10px solid transparent; border-top-color: transparent;border-bottom-color: rgba( 0, 154, 221, 1);	
 		border: 10px solid transparent;border-top-color: transparent;border-bottom-color: rgba( 0, 154, 221, 1);display:none}
@@ -207,17 +242,38 @@ var idleTime = 0;
 .tooltip-info-panel>img{opacity:0.7}
 /* HEADER MENU TOOl TIP ENDS*/}
 </style>
+
+
+<script>
+      var fonts = function() {
+     
+		var awesome = document.createElement('link'); awesome.rel = 'stylesheet';
+        awesome.href = '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css';
+        var jj = document.getElementsByTagName('head')[0]; jj.parentNode.insertBefore(awesome, jj);
+		
+      };
+      var ram = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (ram) ram(fonts);
+      else window.addEventListener('load', fonts);
+	 
+    </script>
+		
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 <!-- COMMON TOP HEADER STARTS -->
 <script>
-		dataLayer = [{
+	dataLayer = [{
 		'pageCategory': 'General_Pages',
 		'pageType': 'GeneralPage',
 		'orgName': 'N/A',
-		'ISPName': 'N/A'
+		'ISPName': 'N/A',
+		'city': 'Not Specified',
+		'country': 'Not Specified',
+		'timezone': 'Not Specified'
 	}];
+	
 </script>
 
 <!-- Start: MML Organization Lookup Table -->
@@ -275,7 +331,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <header> 
 	<div id="logo-container">
 		<div id="logo-box">
-			<a href="/"><img src="https://cdn.outsource2india.com/images/o2i-logo.jpg" alt="Outsource to India" id="logo1"></a>
+			<a href="/"><img src="https://cdn.outsource2india.com/images/o2i-logo.png" alt="Outsource to India" id="logo1"></a>
 			<a href="/"><img src="https://cdn.outsource2india.com/images/o2i-logo2.jpg" alt="Outsource to India" title="Outsource2india - Managing your entire outsourcing venture" id="logo2"></a>
 			<a href="/"><img src="https://cdn.outsource2india.com/images/o2i-logo3.jpg" alt="Outsource to India" title="Outsource2india - Managing your entire outsourcing venture" id="logo3"></a>
 		</div>
@@ -290,7 +346,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<!-- BEGIN MENU -->
 						<ul class="megamenu">
 							<!-- Begin Full Width Item - 1st link -->
-							<li class="menuitem_fullwidth"><a id="first-link" class="top_menuitem_drop">ALL SERVICES</a>
+							<li class="menuitem_fullwidth"><a id="first-link" class="top_menuitem_drop">All Services</a>
 								<!-- Begin fullwidth container -->
 								<div class="top_dropdown_fullwidth" id="top-dropdown-fullwidth">
 									<!-- Begin dropdown list container -->
@@ -304,7 +360,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<li><div id="all-ser-legal-services"></div><a href="/legal-services/">Legal Process Outsourcing</a></li>
 												<li><div id="all-ser-virtual-remote"></div><a href="/virtual-remote-assistant/">Virtual Assistant Services</a></li>
 												<li><div id="all-ser-additional-services"></div><a href="/services/additional.asp">Additional Services</a></li>
-
 											</ul>
 										</div>									
 										<div class="col_one_quarter">											
@@ -315,6 +370,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 												<li><div id="all-ser-translation-services"></div><a href="/translation/">Translation Services</a></li>
 												<li><div id="all-ser-mortgage-services"></div><a href="/mortgage/">Mortgage Services</a></li>
 												<li><div id="all-ser-web-analytics"></div><a href="/webanalytics/">Web Analytics Services</a></li>
+												<li><div id="all-ser-bpo-services"></div><a href="/bpo-services/">BPO Services</a></li>
 											</ul>
 										</div>									
 										<div class="col_one_quarter">
@@ -329,7 +385,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 											</ul>
 										</div>
 									</div>					
-									<div id="all-service-tab">Outsource2india offers a gamut services for small, medium &amp; large organisations. <a href="/outsourcing-solutions.asp">View all our services</a></div>
+									<div id="all-service-tab">Outsource2india offers a gamut services for small, medium &amp; large organizations. <a href="/outsourcing-solutions.asp">View all our services</a></div>
 									<!-- End dropdown list container -->
 								</div>
 								<!-- End fullwidth container -->			
@@ -343,7 +399,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				</div>
 
 
-			<a href="/AboutUs.asp">ABOUT US</a> <a href="/how_it_works.asp">HOW WE WORK</a>  <a href="https://blog.outsource2india.com/" target="_blank">BLOG</a> <a href="/resources.asp">RESOURCES</a> <a class="last-link" href="/forms/client.asp?#top" id="top_cut" onclick="document.getElementById('top_cut').href='/forms/client.asp?loc=TopNav&amp;url=privacy&amp;at=btn&amp;ft=Global&amp;cv=General_Pages-GeneralPage#top';">CONTACT</a></div>
+			<a href="/AboutUs.asp">About Us</a> <a href="/how_it_works.asp">How We Work</a>  <a href="https://blog.outsource2india.com/" target="_blank">Blog</a> <a href="/resources.asp">Resources</a> 
+			
+			<a class="last-link" href="/forms/client.asp?#top" id="top_cut" onclick="document.getElementById('top_cut').href='/forms/client.asp?loc=TopNav&amp;url=privacy&amp;at=btn&amp;ft=Global&amp;cv=General_Pages-GeneralPage#top';">Contact</a>
+			
+			</div>
 			<div id="search-box">
 													<form action="/search-results-temp.asp" id="cse-search-box" method="get">
 					<input type="text" name="q" value="" placeholder="Search" id="search-box-desktop" class="inputs">
@@ -360,29 +420,28 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<div id="top-callus-box">800-594-9501</div>
 	</div>	
-
-  <div id="res-home-icon"><a href="/"><img alt="home" src="https://cdn.outsource2india.com/images/home-icon.jpg"></a></div>
+	
+  <div id="res-home-icon"><a href="/"><img alt="home" src="https://cdn.outsource2india.com/images/home-icon.png"></a></div>
 	
 		<!-- START: TOP HEADER TAB FOR DESKTOP AND IPAD/TABLET DEVICE -->
 	<div id="main-menu">
 		<nav class="clearfix">
 		<a href="/outsourcing-solutions.asp" id="res-service">SERVICES</a>
 			<ul class="clearfix">
-				<li><a href="/"><img alt="home" src="https://cdn.outsource2india.com/images/home-icon.jpg"></a></li>
-
-				<li id="child-2"><a href="/callcenter/site/">CALL CENTER SERVICES</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				
+				<li><a href="/"><img alt="home" src="https://cdn.outsource2india.com/images/home-icon.png"></a></li>
+				
+				<li id="child-2"><span><a href="/callcenter/site/">CALL CENTER SERVICES</a>					
 						<div class="mainmenu-tool-tip fifty slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>
 							
 							<div class="tooptip-img-holder"></div>
-							<div class="tooptip-content-holder">Connect with your clients at a personal level  by outsourcing outbound, inbound, chat support or telemarketing services </div>
+							<div class="tooptip-content-holder">Avail professional telemarketing, technical support, inbound, outbound and chat services 24x7, at affordable rates </div>
 						</div>
 					</span>				
 				</li>	
 				
-				<li id="child-3"><a href="/services/financial.asp">FINANCE &amp; ACCOUNTING</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-3"><span><a href="/services/financial.asp">FINANCE &amp; ACCOUNTING</a>
 						<div class="mainmenu-tool-tip fifty slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>
 							
@@ -392,19 +451,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-4"><a href="/services/data_management.asp">DATA ENTRY SERVICES</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-4"><span> <a href="/services/data_management.asp">DATA ENTRY SERVICES</a>
+					
 						<div class="mainmenu-tool-tip slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>
 							
 							<div class="tooptip-img-holder"></div>
-							<div class="tooptip-content-holder">Reliable and affordable data management services for diverse business needs - database marketing, direct  mailers, banking, etc. </div>
+							<div class="tooptip-content-holder">Get reliable data entry and data processing, data conversion, data mining, analytics and ePub services in multiple formats</div>
 						</div>
 					</span>
 				</li>
 
-				<li id="child-5"><a href="/software/">SOFTWARE DEVELOPMENT</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-5"><span><a href="/software/">SOFTWARE DEVELOPMENT</a>					
 						<div class="mainmenu-tool-tip slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>
 							
@@ -414,8 +472,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-6"><a href="/creative-services/">CREATIVE SERVICES</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-6"><span><a href="/creative-services/">CREATIVE SERVICES</a>					
 						<div class="mainmenu-tool-tip slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>							
 							<div class="tooptip-img-holder"></div>
@@ -424,9 +481,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-7"><a href="/imaging/">PHOTO <br> 
-				EDITING</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-7"><span><a href="/imaging/">PHOTO <br> EDITING</a>					 
 						<div class="mainmenu-tool-tip fifty slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>							
 							<div class="tooptip-img-holder"></div>
@@ -435,8 +490,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-8"><a href="/services/healthcare.asp">HEALTHCARE BPO</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-8"><span><a href="/services/healthcare.asp">HEALTHCARE <br> BPO</a>					
 						<div class="mainmenu-tool-tip slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>							
 							<div class="tooptip-img-holder"></div>
@@ -445,8 +499,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-9"><a href="/eso/">ENGINEERING SERVICES</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-9"><span><a href="/eso/">ENGINEERING SERVICES</a>					
 						<div class="mainmenu-tool-tip slideIn bottom">
 							<span class="mainmenu-tool-tip-img"></span>							
 							<div class="tooptip-img-holder"></div>
@@ -455,19 +508,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</span>
 				</li>
 
-				<li id="child-10"><a href="/kpo/">RESEARCH &amp; ANALYSIS</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-10"><span><a href="/kpo/">RESEARCH &amp; ANALYSIS</a>
+					
 						<div class="mainmenu-tool-tip last-one slideIn bottom">
 							<span class="mainmenu-tool-tip-img last-one"></span>							
 							<div class="tooptip-img-holder"></div>
-							<div class="tooptip-content-holder">Give a boost to your business with custom market &amp; industry research reports, social media monitoring, &amp; PPT presentation support</div>
+							<div class="tooptip-content-holder">Reliable business research, market research, competitor analysis and industry profiling reports to help you get ahead of your competition</div>
 						</div>
 					</span>
 				</li>
 
 
-				<li id="child-11"><a href="/mortgage/">MORTGAGE SERVICES</a>
-					<span class="tooltip-info-panel"><img src="https://cdn.outsource2india.com/images/tooltip-info.png" alt="Tool Tip Info"> 
+				<li id="child-11"><span><a href="/mortgage/">MORTGAGE SERVICES</a>					
 						<div class="mainmenu-tool-tip fifty last slideIn bottom">
 							<span class="mainmenu-tool-tip-img last"></span>							
 							<div class="tooptip-img-holder"></div>
@@ -530,6 +582,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <button class="dl-trigger">O2I ADVANTAGE</button>
 		<ul class="dl-menu">	
 			<li class="no-flip"><a href="/AboutUs.asp">ABOUT US</a></li>
+			<li class="no-flip"><a href="/customers.asp">CUSTOMERS</a></li>
 			<li class="no-flip"><a href="/how_it_works.asp">HOW WE WORK</a></li>
 			<li class="no-flip"><a href="/management-team.asp">MANAGEMENT TEAM</a></li>
 			<li class="no-flip"><a href="/360-degree-information-security-confidentiality.asp">INFORMATION SECURITY</a></li>
@@ -551,6 +604,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<!-- Begin Full Width Item - 1st link -->
 				<li class="menuitem_fullwidth menuitem_nodrop"><a href="/AboutUs.asp" class="menuitem_nodrop ">About Us</a></li>
 				<!-- End Full Width Item - 1st link -->
+				
+				<!-- Begin Full Width Item - 2nd link -->
+				<li class="menuitem_fullwidth menuitem_nodrop"><a href="/customers.asp" class="menuitem_nodrop ">Customers</a></li>
+				<!-- End Full Width Item - 2nd link -->
 
 				<!-- Begin Full Width Item - 2nd link -->
 				<li class="menuitem_fullwidth menuitem_nodrop"><a href="/how_it_works.asp" class="menuitem_nodrop ">How We Work</a></li>
@@ -632,12 +689,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="right-container">
 	
 		<div id="right-form">
-		<h2>Get a FREE QUOTE</h2>
-		<p>Will outsourcing work for you? Know in 24 hours!</p>
+		<h2>Get a FREE QUOTE!</h2>
+		<p>Decide in 24 hours whether outsourcing will work for you.</p>
 		
 <!-- FORM VALIDATION STARTS -->
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/browser_detect.js"></script>
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/form-validations.js"></script>
+<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/form-validations.js" defer=""></script>
 <script language="javascript" type="text/javascript">
 <!--
 
@@ -653,21 +709,7 @@ function ValidateSmallForm(theForm)
 		return false;
 	if (!validDefaultRequired(theForm.description," Description of the Service you want to Outsource"))
 		return false;
- 
-  var browser = BrowserDetect.browser;
-  if( browser == "Safari" )
-  {
-    document.getElementById('smallquoteform').submit();
-	  return true;
-  }
-  return true;
 }
-
-function ShowAttachedFileFn(){
-	var formInput = document.getElementById('file_browse').value;
-	document.getElementById('ShowAttachedFile').innerHTML = "<b>Attached File: </b>" + formInput;
-}
-
 //-->
 </script>
 
@@ -726,7 +768,7 @@ function ShowAttachedFileFn(){
 <select name="country" id="country" class="selects removeIECross">
 <option value=" ">Country*</option>
 <option value="0060others">Others</option>
-<option value="0001USA" selected="selected">USA</option>
+<option value="0001USA">USA</option>
 <option value="0002Canada">Canada</option>
 <option value="0003UK">UK</option>
 <option value="0004Australia">Australia</option>
@@ -924,19 +966,26 @@ function ShowAttachedFileFn(){
 <option value="0205Zambia">Zambia</option>
 </select>
 <textarea cols="20" rows="5" name="description" id="SFdescription" placeholder="Enter your requirements*" class="txt-area"></textarea>
-<input type="image" src="https://cdn.outsource2india.com/images/submit-button.jpg" alt="Submit" class="button">
+<input type="submit" value="Submit" alt="Submit" class="button">
 <input type="hidden" name="action_value" value="iquote">
 <input type="hidden" name="sf_service_name" value="Other Services">
 <input type="hidden" name="sf_sub_service_name" value="">
 <input type="hidden" name="sf_email_ID" value="globalform">
 <input type="hidden" name="currentpage_url" value="/privacy.asp">
+
+<!-- START: GET THE USER TIME ZONE -->
+<input type="hidden" name="V_TimeZone" id="V_TimeZone" value="01:09:29 GMT+0000 (Coordinated Universal Time)">
+<script type="text/javascript">
+var d = new Date();
+var n = d.toTimeString();
+document.getElementById("V_TimeZone").value = n;
+</script>
+<!-- END: GET THE USER TIME ZONE -->
 </form>		<p class="clear">Have specific requirements? Email us at: <a href="mailto:general.info@outsource2india.com?subject=Request for information : Global Form [S]">general.info@outsource2india.com</a></p>
 	</div>
 	
-		<div id="app-bnr">
-		<a href="/mobile-app/"><img src="https://cdn.outsource2india.com/images/mobile-app-bnr.jpg" alt="O2I Mobile App"></a>
-	</div>
 	
+
 	
 	<a href="/whitepapers/Outsourcing-mantras.pdf" target="_blank" title="Outsourcing Mantras"><img src="https://cdn.outsource2india.com/images/outsourcing-mantras.jpg" alt="Top 10 Outsourcing Success Mantras" title="Top 10 Outsourcing Success Mantras" class="general-imgs"></a>
 			<a href="/forms/client.asp#top" id="rgt_cub" onclick="document.getElementById('rgt_cub').href='/forms/client.asp?action=icb&amp;loc=RightNav&amp;url=privacy&amp;at=btn&amp;ft=icb&amp;cv=General_Pages-GeneralPage#top';"><img src="https://cdn.outsource2india.com/images/services-you-require.jpg" alt="Can't find the service you are looking for?" title="Can't find the service you are looking for?" class="general-imgs"></a>
@@ -944,12 +993,11 @@ function ShowAttachedFileFn(){
 	
 		<!-- CONTACT FORM FOR SMALLER RESOLUTIONS -->
 	<div id="small-device-form">
-		<h2>Get a FREE QUOTE</h2>
-		<p>Will outsourcing work for you? Know in 24 hours!</p>
+		<h2>Get a FREE QUOTE!</h2>
+		<p>Decide in 24 hours whether outsourcing will work for you.</p>
 		
 <!-- FORM VALIDATION STARTS -->
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/browser_detect.js"></script>
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/form-validations.js"></script>
+<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/form-validations.js" defer=""></script>
 <script language="javascript" type="text/javascript">
 <!--
 
@@ -965,21 +1013,7 @@ function ValidateSmallForm(theForm)
 		return false;
 	if (!validDefaultRequired(theForm.description," Description of the Service you want to Outsource"))
 		return false;
- 
-  var browser = BrowserDetect.browser;
-  if( browser == "Safari" )
-  {
-    document.getElementById('smallquoteform').submit();
-	  return true;
-  }
-  return true;
 }
-
-function ShowAttachedFileFn(){
-	var formInput = document.getElementById('file_browse').value;
-	document.getElementById('ShowAttachedFile').innerHTML = "<b>Attached File: </b>" + formInput;
-}
-
 //-->
 </script>
 
@@ -993,7 +1027,7 @@ function ShowAttachedFileFn(){
 <select name="country" id="country" class="selects removeIECross">
 <option value=" ">Country*</option>
 <option value="0060others">Others</option>
-<option value="0001USA" selected="selected">USA</option>
+<option value="0001USA">USA</option>
 <option value="0002Canada">Canada</option>
 <option value="0003UK">UK</option>
 <option value="0004Australia">Australia</option>
@@ -1191,12 +1225,21 @@ function ShowAttachedFileFn(){
 <option value="0205Zambia">Zambia</option>
 </select>
 <textarea cols="20" rows="5" name="description" id="SFdescription" placeholder="Enter your requirements*" class="txt-area"></textarea>
-<input type="image" src="https://cdn.outsource2india.com/images/submit-button.jpg" alt="Submit" class="button">
+<input type="submit" value="Submit" alt="Submit" class="button">
 <input type="hidden" name="action_value" value="iquote">
 <input type="hidden" name="sf_service_name" value="Other Services">
 <input type="hidden" name="sf_sub_service_name" value="">
 <input type="hidden" name="sf_email_ID" value="globalform">
 <input type="hidden" name="currentpage_url" value="/privacy.asp">
+
+<!-- START: GET THE USER TIME ZONE -->
+<input type="hidden" name="V_TimeZone" id="V_TimeZone" value="">
+<script type="text/javascript">
+var d = new Date();
+var n = d.toTimeString();
+document.getElementById("V_TimeZone").value = n;
+</script>
+<!-- END: GET THE USER TIME ZONE -->
 </form>		<p class="clear">Have specific requirements? Email us at: <a href="mailto:general.info@outsource2india.com?subject=Request for information : Global Form [S]">general.info@outsource2india.com</a></p>
 	</div>
 	<!-- CONTACT FORM FOR SMALLER RESOLUTIONS -->
@@ -1210,46 +1253,11 @@ function ShowAttachedFileFn(){
 <!-- FOOTER STARTS -->
 <div id="quick-responsive-panel"> 
 <span><span>»</span> Quick Response</span>
- <div class="enqiry-box" style="display: none;">
+ <div class="enqiry-box">
 	<div class="header"><h2>CONTACT US</h2> <span id="close-form-icon"><img src="https://cdn.outsource2india.com/images/quick-enquiry-close-icon.png" alt=""></span></div>
 	<div class="box-inner">	
 		<p>Will outsourcing work for you? Know in 24 hours!</p>
 		
-<!-- FORM VALIDATION STARTS -->
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/browser_detect.js"></script>
-<script language="javascript" type="text/javascript" src="https://cdn.outsource2india.com/js/form-validations.js"></script>
-<script language="javascript" type="text/javascript">
-<!--
-
-function ValidateSmallForm(theForm)
-{
-	if (!validDefaultRequired(theForm.FirstName," Name"))
-		return false;
-	if (!emailCheck(theForm.Email.value, theForm.Email))
-		return false;
-  if (!validDefaultRequired(theForm.phone," Telephone Number"))
-		return false;
-  if (!validDrop(theForm.country,"Country"))
-		return false;
-	if (!validDefaultRequired(theForm.description," Description of the Service you want to Outsource"))
-		return false;
- 
-  var browser = BrowserDetect.browser;
-  if( browser == "Safari" )
-  {
-    document.getElementById('smallquoteform').submit();
-	  return true;
-  }
-  return true;
-}
-
-function ShowAttachedFileFn(){
-	var formInput = document.getElementById('file_browse').value;
-	document.getElementById('ShowAttachedFile').innerHTML = "<b>Attached File: </b>" + formInput;
-}
-
-//-->
-</script>
 
 <!-- FORM VALIDATION ENDS -->
 
@@ -1261,7 +1269,7 @@ function ShowAttachedFileFn(){
 <select name="country" id="SHPcountry" class="selects removeIECross">
 <option value=" ">Country*</option>
 <option value="0060others">Others</option>
-<option value="0001USA" selected="selected">USA</option>
+<option value="0001USA">USA</option>
 <option value="0002Canada">Canada</option>
 <option value="0003UK">UK</option>
 <option value="0004Australia">Australia</option>
@@ -1465,6 +1473,15 @@ function ShowAttachedFileFn(){
 <input type="hidden" name="sf_sub_service_name" value="">
 <input type="hidden" name="sf_email_ID" value="globalform">
 <input type="hidden" name="currentpage_url" value="/privacy.asp">
+
+<!-- START: GET THE USER TIME ZONE -->
+<input type="hidden" name="V_TimeZone" id="V_TimeZone" value="">
+<script type="text/javascript">
+var d = new Date();
+var n = d.toTimeString();
+document.getElementById("V_TimeZone").value = n;
+</script>
+<!-- END: GET THE USER TIME ZONE -->
 </form>	
 		<input type="button" value="CLOSE" id="close-form">
 	</div>
@@ -1476,7 +1493,9 @@ function ShowAttachedFileFn(){
 	<div id="follow-us-container">
 		<div id="flatworld-logo">
 			<img src="https://cdn.outsource2india.com/images/flatworld-logo.jpg" alt="Flatworld Solutions Company" title="Flatworld Solutions Company"> 
-			<div class="footer-links-container"><div class="textlink"> <a href="/help.asp" rel="nofollow">Help</a> | <a href="/infrastructure.asp">Infrastructure</a> | <a href="/Clients/success_stories.asp">Case Studies</a> | <a href="/Clients/customer_testimonials.asp">Customer Testimonials</a> | <a href="/technology/ibridge/">Technology</a> | <a href="/india/">All About India</a> | <a href="/privacy.asp" rel="nofollow">Privacy Policy</a> | <a href="/careers/careers.asp" rel="nofollow">Careers</a> | <a href="/Newsletter/archives.asp" rel="nofollow">Newsletter</a> | <a href="/faq.asp">FAQs</a> | <a href="/SiteMap.asp">Sitemap</a> | <a href="/forms/client.asp#top" id="footer_cut" onclick="document.getElementById('footer_cut').href='/forms/client.asp?loc=FooterNav&amp;url=privacy&amp;at=txt&amp;ft=Global&amp;cv=General_Pages-GeneralPage#top';">Contact Us</a></div>
+			<div class="footer-links-container"><div class="textlink"> <a href="/help.asp" rel="nofollow">Help</a> | <a href="/infrastructure.asp">Infrastructure</a> | <a href="/Clients/success_stories.asp">Case Studies</a> | <a href="/Clients/customer_testimonials.asp">Customer Testimonials</a> | <a href="/technology/ibridge/">Technology</a> | <a href="/india/">All About India</a> | <a href="/infographics/">Infographics</a> | <a href="/privacy.asp" rel="nofollow">Privacy Policy</a>  | <a href="/careers/careers.asp" rel="nofollow">Careers</a> | <a href="/Newsletter/archives.asp" rel="nofollow">Newsletter</a> | <a href="/faq.asp">FAQs</a> | <a href="/SiteMap.asp">Sitemap</a> | 
+						<a href="/forms/client.asp#top" id="footer_cut" onclick="document.getElementById('footer_cut').href='/forms/client.asp?loc=FooterNav&amp;url=privacy&amp;at=txt&amp;ft=Global&amp;cv=General_Pages-GeneralPage#top';">Contact Us</a>
+			</div>
 			
 			<div class="languages">Languages: <a href="/">English</a> | <a href="/o2i-french/about-o2i.asp">Francais</a> | <a href="/o2i-spanish/">Español</a> | <a href="/o2i-german/about-o2i.asp">Deutsch</a></div>
 			<div class="textlink2"><a href="/outsourcing-solutions.asp">All Services</a> | <a href="/AboutUs.asp">About Us</a> | <a href="/how_it_works.asp">How We Work</a> | <a href="/resources.asp">Resources</a> | <a href="https://blog.outsource2india.com/" target="_blank">Blog</a></div></div>
@@ -1491,7 +1510,7 @@ function ShowAttachedFileFn(){
 	</div>
 
 	<div id="footer-privacy">
-		<div id="privacy">© 2002 - 2015 Flatworld Solutions Pvt. Ltd. All Rights Reserved.  <a href="/privacy.asp" rel="nofollow">Privacy Policy</a> | <a href="/terms-of-use.asp" rel="nofollow">Terms of Use</a></div>
+		<div id="privacy">© 2002 - 2016 Flatworld Solutions Pvt. Ltd. All Rights Reserved.  <a href="/privacy.asp" rel="nofollow">Privacy Policy</a> | <a href="/terms-of-use.asp" rel="nofollow">Terms of Use</a></div>
 		<div id="copyscape"><a href="http://www.copyscape.com/online-plagiarism/" target="_blank"><img src="https://cdn.outsource2india.com/images/copyscape.jpg" alt="Protected by Copyscape Online Plagiarism Checker" title="Protected by Copyscape Plagiarism Checker"></a></div>
 	</div>    
 </div>
@@ -1737,8 +1756,29 @@ jQuery(function($) {
 	
 	});
 </script>
-<!-- SCROLL TO TOP -->
+<!--<script type="text/javascript">
+	$( document ).ready(function(){
+		// set the offset pixels automatically on how much the sidebar height is.
+		// plus the top margin or header height
+		var offsetPixels = $('#article-links').outerHeight() + 30;
 
+		$(window).scroll(function() {
+			if ( $(window).scrollTop() > offsetPixels ) {
+				$('#article-links').css({
+					'position': 'fixed',
+					'top': '0px',
+					'width': '260px',
+					'margin-top':'0'
+				});
+			} else {
+				$('#article-links').css({
+					'position': 'static'
+				});
+			}
+		});
+	});
+</script>-->
+<!-- SCROLL TO TOP -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){  
@@ -1767,10 +1807,14 @@ $(document).ready(function(){
 	});
 	$('#first-link').click( function(event){
         event.stopPropagation();
+        $('#logo-container #right-box #top-links .megamenu #first-link').toggleClass("all-services-link");
+		$('#logo-container #right-box #top-links .megamenu_dark_theme .megamenu_container .megamenu > li').toggleClass("sample");
         $('#top-dropdown-fullwidth').toggle();
     });
     $(document).click( function(){
         $('#top-dropdown-fullwidth').hide();
+		$('#logo-container #right-box #top-links .megamenu #first-link').removeClass("all-services-link");
+			$('#logo-container #right-box #top-links .megamenu_dark_theme .megamenu_container .megamenu > li').removeClass("sample");
     });
 	
 	$('#calc-banner').click(function(){
