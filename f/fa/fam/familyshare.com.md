@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyshare.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116033655id_/http%3A//familyshare.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyshare.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409171533id_/http%3A//familyshare.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,3 +32,9 @@ Direct all questions or requests concerning the Statement or the Site to [suppor
 
 
 
+
+[](https://web.archive.org/24105/sponsored/websafety/WebSafety-6-questions-your-kids-don-t-know-how-to-ask-you)
+
+### [6 questions your kids don't know how to ask you](https://web.archive.org/24105/sponsored/websafety/WebSafety-6-questions-your-kids-don-t-know-how-to-ask-you)
+
+Sometimes kids are full of questions about anything and everything, and sometimes they're too scared to bring up the important issues. Make sure you take the time to answer your children's questions, regardless of whether they ask.
