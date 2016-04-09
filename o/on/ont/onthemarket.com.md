@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907193149id_/https%3A//www.onthemarket.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409070400id_/https%3A//www.onthemarket.com/terms) for the most accurate reproduction.*
 
-# None
+# OnTheMarket | Property, Houses & Flats for Sale & to Rent
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS WHEN USING ONTHEMARKET.COM ("this Site"). 
 
@@ -40,9 +40,7 @@ Subject to clause 3, you may download material from this Site for the sole purpo
 
 ###  2.3 
 
-The device  and the word mark "OnTheMarket.com" are registered trademarks of Agents' Mutual Limited. 
-
-You must not use or copy them without our prior written consent. 
+The device , the word mark "OnTheMarket.com" and the associated logos are registered trademarks of Agents' Mutual Limited. You must not use or copy them without our prior written consent. 
 
 ###  2.4 
 
@@ -394,7 +392,7 @@ If you register with us, save searches and/or use the property alerts featur
 
 We retain access to all personal information that we have collected from you. 
 
-Whenever your personal information is shared with any of our partners that host our service via their website (with your consent, where necessary), their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each Site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information. 
+Whenever your personal information is shared across any of our social media channels, or with any of our partners that host our service via their website (with your consent, where necessary), their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each Site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information. 
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, Your Information may be disclosed and ultimately transferred to our new business partners or owners. 
 
@@ -410,9 +408,11 @@ Users of this Site can request we provide them with a copy of the personally ide
 
 ###  Cookies and tracking 
 
-Like many websites, we use "cookies" to enable us to personalise your visits to this Site, simplify the signing-in procedure, keep track of your preferences and track the usage of this Site. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Further information about the cookies we use can be found here. 
+Like many websites, we use "cookies" to enable us to personalise your visits to this Site, simplify the signing-in procedure, keep track of your preferences and track the usage of this Site. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Further information about the cookies we use can be found [here](https://web.archive.org/cookies/). 
 
 Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our Site traffic e.g. IP address, numbers of pages viewed, length of time spent on Site. We use log files to build pictures of how our Site is used that help us to monitor and improve the service. We cannot identify you from your log files. 
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from the website, and elsewhere on the internet and use that information to provide measurement services and target ads. Find out more about how you can opt-out of the collection and use of information for ad targeting here: [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
 ###  Security, storage and transfer of information 
 
