@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229022347id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milkandmore.co.uk privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409094546id_/http%3A//www.milkandmore.co.uk/Privacypolicy) for the most accurate reproduction.*
 
 # milk&more Privacy Policy | Milk delivery service
 
@@ -10,7 +10,7 @@ Please read the following privacy policy to understand how we use and protect th
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any change. This Privacy Policy was most recently updated on 09 May 2012. 
 
-If you have any questions about this policy or do not agree with it, please contact [datacontroller@dairycrest.co.uk](mailto:datacontroller@dairycrest.co.uk) before using this website
+If you have any questions about this policy or do not agree with it, please contact [datacontroller@mullermilk.co.uk](mailto:datacontroller@mullermilk.co.uk) before using this website
 
 ### 2\. Information that we collect from you
 
@@ -59,7 +59,7 @@ We employ security measures to protect your information from access by unauthori
 
 ### 7\. Accessing and updating
 
-You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please contact [datacontroller@dairycrest.co.uk](mailto:datacontroller@dairycrest.co.uk).
+You may request details of personal information, which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please contact [datacontroller@mullermilk.co.uk](mailto:datacontroller@mullermilk.co.uk).
 
 If you think any information we have about you is incorrect or incomplete, please update via "My account" as soon as possible.
 
@@ -120,7 +120,7 @@ Whilst milk&more doesn't actually sell real cookies, we do sell a wide range of 
 
 ### 10\. Contact us 
 
-All comments, queries or requests relating to our use of your information are welcomed and should be addressed to the [datacontroller@dairycrest.co.uk](mailto:datacontroller@dairycrest.co.uk). 
+All comments, queries or requests relating to our use of your information are welcomed and should be addressed to the [datacontroller@mullermilk.co.uk](mailto:datacontroller@mullermilk.co.uk). 
 
 If you have any feedback about a **milk &more** product you have bought, please contact us by phone or via your **milk &more** account.
 
