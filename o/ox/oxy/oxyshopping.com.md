@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712045748id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxyshopping.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409042412id_/http%3A//www.oxyshopping.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy :: OxyShopping.com
 
