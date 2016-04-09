@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217154911id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409062141id_/https%3A//slides.com/privacy) for the most accurate reproduction.*
 
 # Slides
 
 ## Privacy Policy
 
-Slides is owned and operated by Whim, LLC. It is Whim's policy to respect your privacy regarding any information we may collect while operating our websites. 
+It is Slides, Inc.'s policy to respect your privacy regarding any information we may collect while operating our websites. 
 
 #### Website Visitors
 
@@ -45,4 +45,4 @@ Although most changes are likely to be minor, Slides may change its Privacy Poli
 Slides can be reached at [support@slides.com](mailto:support@slides.com?subject=Terms+of+Service). 
 
 Effective as of 4-25-2013  
-Updated 10-29-2014 
+Updated 3-8-2016 
