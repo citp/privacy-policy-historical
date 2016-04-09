@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almaconnect.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320122300id_/https%3A//www.almaconnect.com/privacy_policy_20120807.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almaconnect.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409093640id_/https%3A//www.almaconnect.com/privacy_policy_20120807.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
