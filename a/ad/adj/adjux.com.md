@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114220936id_/http%3A//www.adjux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409092203id_/http%3A//www.adjux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adjux.com | Digital Advertising Agency
 
-### **Privacy Policy:**
+We use cookies to give you the best possible experience on our website. By continuing to browse this site, you give consent for cookies to be used. For more details, you can access our Privacy Policy by clicking this text.    __ [](https://web.archive.org/privacy-policy) ✕
+
+## **Privacy Policy:**
+
+ **Okan Atmaca (" **Okan Atmaca** ") operates Adjux.com and may operate other websites. It is Okan Atmaca's policy to respect your privacy regarding any information we may collect while operating our websites.**
 
  **
-
-Okan Atmaca (" **Okan Atmaca** ") operates Adjux.com and may operate other websites. It is Okan Atmaca's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
