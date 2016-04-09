@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022092911id_/http%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409114153id_/http%3A//www.seahawks.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seattle Seahawks
 
