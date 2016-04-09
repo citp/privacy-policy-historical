@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slooh.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907201237id_/http%3A//main.slooh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slooh.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409025928id_/http%3A//main.slooh.com/privacy) for the most accurate reproduction.*
 
 # Privacy -
 
@@ -17,4 +17,4 @@ We may collect your telephone number when you (i) request that we contact you by
 
 We do not sell or rent customer information to third parties.
 
-As you browse our website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Slooh. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising. 
+As you browse our website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Slooh. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising.
