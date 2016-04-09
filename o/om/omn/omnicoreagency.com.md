@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907031707id_/http%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409084557id_/http%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,9 +56,13 @@ In accordance with the requirements of COPPA (Children’s Online Privacy Protec
 
 We reserve the right to access, use, and share with others your personally identifiable information without notice for only if required to do so by law or in good faith belief that such an action is necessary to **a.)**  We believe in good faith that it is necessary to comply with subpoenas, court orders and other legal process as required or permitted by law. **b.)** for the act under exigent circumstances to protect the personal safety of users of Omnicore Agency, its websites, or the public. **c.)** protect and defend the rights or property of Omnicore Agency or one of Omnicore Agency’s websites; and, **d.)** To report, prevent or assist in the investigation of suspected fraud or other illegal activities or take actions associated with such activities. **e.)** To enforce the Omnicore Agency Terms of Services, establish, exercise or defend our legal rights or as otherwise provided in the Terms and Conditions.
 
-##  Notification of Changes
+## Notification of Changes
 
 We reserve the right, at any time and without notice, to add to, update, change, modify or revise this Privacy Statement, the Site or our services simply by posting such change, update or modification on the Site. Any such addition, update, change, modification or revision will be effective immediately upon posting therefore this document should be regularly referred to for updates and variations.
+
+## Refund Policy
+
+All payments made for services are final as agreed upon in the client contract form. Payments are only requested when client agrees on the project deliverables and the scope of work which means Omnicore reserves the right to keep any funds that have been paid for the consultation and services we offer.
 
 ## How to Contact Us:
 
