@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcactivewear.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209091251id_/http%3A//www.btcactivewear.co.uk/store/index.pl%3FPageName%3DCookieInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcactivewear.co.uk privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409042510id_/http%3A//www.btcactivewear.co.uk/store/index.pl%3FPageName%3DCookieInfo) for the most accurate reproduction.*
 
 # BTC activewear | The UK's no.1 multi-brand distributor of promotional, corporate, school and workwear
 
