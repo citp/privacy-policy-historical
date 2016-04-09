@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104232939id_/http%3A//www.membersfirst.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409095837id_/http%3A//www.membersfirst.com/privacy.htm) for the most accurate reproduction.*
 
 # MembersFirst - Terms of Use
 
