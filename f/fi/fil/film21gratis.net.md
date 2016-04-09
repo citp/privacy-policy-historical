@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the film21gratis.net privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025151126id_/http%3A//film21gratis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film21gratis.net privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410005431id_/http%3A//film21gratis.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - film21gratis.net
+# Privacy Policy - film21gratis.net - film21gratis.net
 
 _Updated March 27, 2015_
 
