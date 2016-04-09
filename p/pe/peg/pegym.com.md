@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915142148id_/https%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegym.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409035759id_/https%3A//www.pegym.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PEGym
 
@@ -40,3 +40,5 @@ Ads appearing on PEGym.com may be delivered to users by advertising partners, 
 ## Privacy Policy Changes
 
 Although most changes are likely to be minor, PEGym.com may change its Privacy Policy from time to time, and in PEGym.com’s sole discretion. PEGym.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+[](http://addthis.com/bookmark.php?v=250)
