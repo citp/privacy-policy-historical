@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox2detroit.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203215751id_/http%3A//www.fox2detroit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox2detroit.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409133206id_/http%3A//www.fox2detroit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WJBK
 
