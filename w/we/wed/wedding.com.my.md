@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com.my privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918193007id_/http%3A//www.wedding.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com.my privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409093553id_/http%3A//www.wedding.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wedding Traditions in Malaysia
 
