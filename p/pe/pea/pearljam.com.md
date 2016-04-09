@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearljam.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927031331id_/https%3A//pearljam.zendesk.com/hc/en-us/articles/204866604-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearljam.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410000328id_/https%3A//pearljam.zendesk.com/hc/en-us/articles/204866604-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ten Club
 
