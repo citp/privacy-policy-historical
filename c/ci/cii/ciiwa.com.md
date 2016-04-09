@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230021609id_/http%3A//ciiwa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciiwa.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409035542id_/http%3A//ciiwa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best & Honest Reviews
+# Privacy Policy – Best & Honest Reviews
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by reesin.com (collectively, “Services”) (”Authorized Customers”).
 
