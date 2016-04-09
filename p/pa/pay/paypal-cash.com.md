@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal-cash.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927072849id_/https%3A//www.paypal-cash.com/static/terms/en/privacy_policy_en.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-cash.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409020442id_/https%3A//www.paypal-cash.com/static/terms/en/privacy_policy_en.pdf) for the most accurate reproduction.*
 
 # PRIVACY
 
