@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927145706id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funambol.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410002656id_/http%3A//www.funambol.com/privacy.html) for the most accurate reproduction.*
 
-# Funambol Personal Cloud Solutions
+# Funambol: One Platform. Many Cloud Services.
 
 ## LAST UPDATED: MAY 26, 2015
 
