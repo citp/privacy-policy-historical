@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldproxy202.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120034753id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldproxy202.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409080624id_/http%3A//tracking202.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
