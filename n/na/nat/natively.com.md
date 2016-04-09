@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909132000id_/http%3A//www.natively.com/Privacy.asp%3Faf%3D.org) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409072022id_/http%3A//www.natively.com/Privacy.asp%3Faf%3D.org) for the most accurate reproduction.*
 
 # About Natively.com - Privacy Policy
 
