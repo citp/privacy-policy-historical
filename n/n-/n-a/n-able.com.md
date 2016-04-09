@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202022342id_/http%3A//www.n-able.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409101157id_/http%3A//www.n-able.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | N-able Technologies | Remote Network Monitoring & Desktop Management
 
