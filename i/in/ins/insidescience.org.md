@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016142025id_/https%3A//www.insidescience.org%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410001447id_/https%3A//www.insidescience.org%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Science
 
