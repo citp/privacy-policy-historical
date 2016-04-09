@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owlstalk.co.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326030921id_/http%3A//www.owlstalk.co.uk/forums/index.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owlstalk.co.uk privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409120234id_/http%3A//www.owlstalk.co.uk/forums/index.php/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Owlstalk
 
