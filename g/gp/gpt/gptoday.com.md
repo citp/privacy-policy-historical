@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922063624id_/http%3A//www.gptoday.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409135204id_/http%3A//www.gptoday.com/privacypolicy.php) for the most accurate reproduction.*
 
 # F1, Formula 1: GPToday.com- Privacy Policy
 
