@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324131007id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomeweb.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409033159id_/https%3A//www.awesomeweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · AwesomeWeb
 
@@ -23,7 +23,7 @@ If you are a visitor to the AwesomeWeb website or an AwesomeWeb user (“User”
   * Profile Photo
   * Portfolio Information
   * Client Endorsement Information
-  * Client Enquiry Information
+  * Client Message Information
   * Credit Card Number
   * Billing Address
   * Visitor Site Preferences
