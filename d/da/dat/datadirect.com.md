@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704020529id_/https%3A//www.progress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409214926id_/https%3A//www.progress.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Please note this governs the use of the Progress Software website. For the Privacy Policy governing the Telerik website please use the following [link](http://www.telerik.com/company/privacy-policy). 
 
 **Last update: Friday, August 1, 2014**
 
@@ -10,13 +12,13 @@ This policy covers how Progress Software collects, uses and protects the informa
 
 No matter how Progress Software comes to have your information, we want you to know that we respect the privacy of your information and that you should be aware of how we handle it.
 
-## Links to Other Sites
+#### Links to Other Sites
 
 This policy covers the information practices of our websites that link to this policy, which includes but is not limited to: [www.progress.com](https://web.archive.org/) and [https://community.progress.com](https://community.progress.com/), as well as all international domains and subdomains (collectively referred to as "Progress Software Websites")
 
 Our Progress Software Websites contain links to other company websites. Please be aware that our privacy policy does not apply to these other websites. Although Progress Software uses great care to select content for our Progress Software Websites, including links to websites of third parties, we disclaim any responsibility for content that is found on these other websites. We encourage you to review the privacy statements of the other websites to understand their information practices.
 
-## Our Commitment to Your Privacy
+#### Our Commitment to Your Privacy
 
 Progress Software does not:
 
@@ -35,7 +37,7 @@ Progress Software does:
 
 Progress Software has always valued your privacy, and we reinforce this belief throughout our organization. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please [Contact Us](mailto:unsubscribe@progress.com?subject=Privacy%20Policy).
 
-## Information Gathered and Tracked by Progress Software
+#### Information Gathered and Tracked by Progress Software
 
 ### Organizational and Personal Information You Knowingly Give Us.
 
@@ -79,7 +81,7 @@ While we gather this type of information, none of it is associated with you as a
 
 Our Progress Software Websites also log Host Names (or IP addresses when the Host Name is not available) for systems administration and security purposes. These logs are monitored and analyzed to maintain systems and information security and allow us to constantly improve the value and the availability of the Web content.
 
-### Cookies
+#### Cookies
 
 A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID. Cookies on the Progress Software Websites may collect a unique identifier, user preferences and profile information and membership information. Progress Software’s server will query your browser to see if there are “cookies” previously set by the Progress Software Websites.
 
@@ -87,27 +89,27 @@ We use both session ID cookies and persistent cookies to deliver Web content spe
 
 A cookie cannot be used to access or otherwise compromise the data on your hard drive. While we do not offer an opt-out for cookies, browsers provide you information and control over cookies. You can set your browser to alert you when a cookie is being used, and accept or reject the cookie. You can also set your browser to refuse all cookies or accept only cookies returned to the originating servers. You can generally disable the cookie feature on your browser without affecting your ability to use the site, except in some cases where cookies are used as an essential security feature necessary for transaction completion and might be required to complete certain functions on our Progress Software Websites.
 
-### Flash Cookies
+#### Flash Cookies
 
 We may use flash cookies, also known as “local shared objects”, on our Progress Software Websites that employ Flash technology. Flash cookies are small files similar to browser cookies and are used to remember the site’s settings to personalize the look and feel of the site. Like normal cookies, Flash cookies are represented as small files on your computer.
 
-### Embedded URLs
+#### Embedded URLs
 
 We also use a tracking technique that employs embedded URLs to allow use of the site without cookies. Embedded URLs allow limited information to follow you as you navigate the site, but is not associated with personal information and is not used beyond the session.
 
-### Embedded Pixels
+#### Embedded Pixels
 
 On our Progress Software Websites, we may use embedded pixel technologies on selected pages for the purposes of identifying unique user visits to the Progress Software Websites as opposed to aggregate hits. In addition, embedded pixels or other technologies may be used in emails to provide information on when the email was opened to track marketing campaign responsiveness; information collected using these technologies may be associated with the recipient's email address.
 
-### Third Party Cookies
+#### Third Party Cookies
 
 Progress Software has engaged one or more third party service providers to track and analyze usage and volume statistical information from visitors to the Progress Software Websites, as well as to optimize and serve ads based on your past visits to our Progress Software Websites. The service provider(s) set cookies on behalf of Progress Software. One such service provider is Google Analytics. We both use Display Advertising and Remarketing with Google Analytics. As a result of these cookies, third party vendors, including Google, will show our ads on sites across the Internet. You may opt-out of Google Analytics for Display Advertising or customize Google Display Network ads by using the [Ads Preferences Manager](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjy4Nf13pOV3osY_1OLnVqxGhEtwNJZEJjENJQTn7loHbzl_8rZw9ff12ft2XYL3hY9nFTQ0aIcNnDlxHcNS3K9E2MVgfbhD3oLE9xPHJvm9J2IxbMKCfhnok7QEiKwAP9b34jGXeFsT-iJoAE2tS9rUHSu_REDy76Apj6nbB-ESfl7p6Co15gDKC_MpryLZhOliUuL) on Google's website.
 
-### Widgets
+#### Widgets
 
 Our Progress Software Websites include Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g., links to bookmarked sites). Some information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
-## How Progress Software Uses and Shares This Information
+#### How Progress Software Uses and Shares This Information
 
 The information you submit may be used or shared with third parties for any of the following purposes:
 
@@ -123,47 +125,47 @@ The information you submit may be used or shared with third parties for any of t
 
 
 
-## Information Security
+#### Information Security
 
 The security of your personal information is very important to Progress Software. We have in place physical, administrative and technical safeguards designed to protect your personal information from unauthorized access. In addition, Progress Software uses standard security protocols and mechanisms to exchange the transmission of sensitive data such as credit card details. When you enter sensitive information such as your credit card number on our site, we encrypt it using secure socket layer (SSL) technology.
 
 In the event that your personal information is acquired, or is reasonably believed to have been acquired, by an unauthorized person and applicable law requires notification, we will notify you of the breach by email, fax, or U.S. mail. We will give you notice promptly, consistent with the reasonable needs of law enforcement and/or Progress Software to determine the scope of the breach and to investigate and restore the integrity of the data system.
 
-## Service Providers
+#### Service Providers
 
 We use third parties to assist you if you have questions while using our sites, teleconference services to provide you with webinars and demos, and a service provider to host and provide our content. When you sign up to receive any of these services, we will share your personal information only as necessary with the third party solely for the purpose of providing that service. In addition, we may use a specialized third party for our subscription billing platform.
 
 We provide the information to our trusted distribution partners who work on behalf of or with Progress Software under confidentiality agreements. These companies may use your information to help Progress Software communicate with you about offers from Progress Software and our partners. These companies do not have any independent right to share this information. If you would like to opt out of having your information shared with these third parties you may [Contact Us](mailto:unsubscribe@progress.com?subject=Privacy%20Policy), but please note that opting out may preclude you from licensing certain products due to our point of sale processes.
 
-## Commitment to Children's Online Privacy
+#### Commitment to Children's Online Privacy
 
 Progress Software Websites are not directed at children. Progress Software does not knowingly accept online personal information from children under the age of 18. If you are under 18 or otherwise would be required to have parent or guardian consent to share information with Progress Software, you should not send any information about yourself to us.
 
-## Cross Border Transfers
+#### Cross Border Transfers
 
 We are a corporation with operations worldwide, and have developed global data practices designed to assure your personal information is appropriately protected. Please note that your personal information may be transferred, accessed and stored globally as necessary for the uses stated above in accordance with this policy. By using the Progress Software Websites, you consent to the transfer of information to countries outside of your country of residence, which may have different data protection rules than those of your country.
 
-## Sensitive Information
+#### Sensitive Information
 
 We ask that you not send us, and you not share any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership).
 
-## Opt-out Policy and Procedure
+#### Opt-out Policy and Procedure
 
 Our Progress Software Websites provide users with the opportunity to opt-out of receiving communications from us (and our partners) at the point where we request information about you. In addition, from within the www.progress.com subscription center (<http://forms.progress.com/forms/SubscriptionMgt-English>), you can unsubscribe to the various communication offerings at any time, by deselecting the vehicles you do not wish to receive or by opting-out of all e-communications. Please note that opting-out of all communications will suppress every piece of electronic information from Progress Software and is not restricted to only the communications listed on the subscription center page. Additionally, anyone who wishes to remove their information from our database to not receive future communications or to no longer receive our service can [Contact Us](mailto:unsubscribe@progress.com?subject=Privacy%20Policy).
 
 Some non-marketing communications are not subject to general opt-out, such as communications related to product download, sales transactions, software updates and other support related information, patches and fixes, quality assurance surveys, conferences or events for which you have registered, and disclosures to comply with legal requirements, as well as communications with partners, including product alerts, updates, marketing and sales materials and other notices related to partner status.
 
-## Correcting/Update Policy
+#### Correcting/Update Policy
 
 If you have any privacy concerns or would like to correct and/or update your information, please [Contact Us](mailto:unsubscribe@progress.com?subject=Privacy%20Policy).
 
 While the majority of questions and issues related to access can be handled quickly, complex requests may take more research and time. In such cases, issues will be addressed, or you will be contacted regarding the nature of the problem and appropriate next steps, within thirty days.
 
-## Oversight
+#### Oversight
 
 If you have comments or questions about our privacy policy, please [Contact Us](mailto:unsubscribe@progress.com?subject=Privacy%20Policy). We will address any issue to the best of our abilities.
 
-## Changes to Policy
+#### Changes to Policy
 
 Progress Software will occasionally update this privacy policy. When we do, we will post a prominent notice in this section of this policy notifying users when it is updated. If we are going to use your personal information in a manner different from that stated at the time of collection, we will notify you via email, and you will have a choice as to whether or not we use your personal information in this different manner.
 
