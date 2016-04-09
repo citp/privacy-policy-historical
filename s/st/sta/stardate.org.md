@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523185043id_/http%3A//stardate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardate.org privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409205129id_/https%3A//stardate.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StarDate Online
 
@@ -8,7 +8,7 @@ StarDate Online and the University of Texas McDonald Observatory take your priva
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. We currently use email addresses for renewing subscriptions, offering gift subscriptions, and offering invitations to join the Friends of McDonald.
 
 ### What do we use your information for?
 
@@ -70,7 +70,7 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on September 20, 2011
+This policy was last modified on January 8, 2014
 
 ### Contacting Us
 
