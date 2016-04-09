@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodpanda.ph privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125164551id_/http%3A//www.foodpanda.ph/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.ph privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409150031id_/https%3A//www.foodpanda.ph/contents/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy | foodpanda
+# Privacy policy
 
 This policy explains how we, foodpanda, a brand of **http://www.foodpanda.com** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
