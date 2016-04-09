@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029160351id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409050237id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
 
 # ezCater | Nationwide Business Catering From Local Caterers
 
-Effective Date: March 14, 2015
+Effective Date: November 1, 2015
 
 Guiding Principle _You control what we do with your personal information._
 
 This privacy policy describes how ezCater, Inc. (ezCater) collects and uses the personal information you provide on our web site, www.ezcater.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-ezCater, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site [www.ezcater.com](http://www.ezcater.com/). 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@ezcater.com](mailto:support@ezcater.com). If you are not satisfied with our response you can contact [TRUSTe’s Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request). 
+ezCater, Inc. has received TRUSTe’s Privacy Seal signifying that this Privacy Statement and our practices have been reviewed for compliance with the TRUSTe program.) In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe by clicking [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this website [www.ezcater.com](http://www.ezcater.com/). 
 
 ####  What information do we collect and how do we use it? 
 
@@ -46,19 +44,21 @@ We partner with a third party to either display advertising on our Web site or t
 
 ####  You control your information 
 
-You can always edit and delete your information in your Profile page. On that page(or via email to [support@ezcater.com](https://web.archive.org/web/20151029160351id_/https%3A//www.ezcater.com/mailto.support@ezcater.com)), you can also opt into or out of our sharing of your personal information with certain third parties. 
+You can always edit and delete your information in your Profile page. On that page(or via email to [support@ezcater.com](mailto:support@ezcater.com)), you can also opt into or out of our sharing of your personal information with certain third parties. We will respond to your request within a reasonable timeframe. 
 
 We reserve the right to convey to third parties information that has been modified so the information cannot be traced back to a specific person or company. 
 
 We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request; and to any other third party with your prior consent to do so. We may transfer your information in the course of a corporate divestiture, merger, or dissolution. You will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services(contact info listed below). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ####  Other 
 
 We are not responsible in any way for websites linked to or from ours. When you link to another website, our policies are no longer in effect. We recommend that you understand the policies of the website you have reached before proceeding. 
 
-Our web site includes social media features (such as the Facebook Like button) and widgets (such as the ShareThis button or interactive mini-programs that run on our site). These features may collect your IP address and information about which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+Our website includes social media features (such as the Facebook Like button) and widgets (such as the ShareThis button or interactive mini-programs that run on our site). These features may collect your IP address and information about which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it. 
+
+Our website gives you the ability to leave publicly accessible reviews for orders. If you wish to edit or change these reviews you may do so by accessing past orders. To request complete removal of a review from our website, please contact us at [support@ezcater.com](mailto:support@ezcater.com). 
 
 Our website offers publicly accessible comments through a third party provider. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from comments, please contact the third party provider. We may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
