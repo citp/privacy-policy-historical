@@ -1,60 +1,58 @@
-> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2015-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150220190404id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409063752id_/http%3A//e-sports.net/privacy-policy) for the most accurate reproduction.*
 
-# RTSguru.com - RTS Game Reviews, News, Opinion & Previews for Real Time Strategy Games
+# Privacy Policy - E-Sports.net
 
-RTSGuru.com is committed to protecting your privacy. This statement of privacy defines and governs how we gather and use data at this Web site.
+SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
-**Collection of Your Personal Information**
+Email marketing (if applicable): With your permission, we may send you emails about our website, new products and other updates.
 
-We gather personal information from all registering members. This includes name, physical address, e-mail address, age and gender. We also store your personal preferences related to this website in your account data.
+SECTION 2 – CONSENT
 
-We also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing, illegal forum activity.) Your browser type and version are also detected to better enhance your user experience.
+How do you get my consent?
 
-We keep track of what polls you have voted in to prevent duplicate voting. This data is stored with your user account data.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-Please keep in mind that if you disclose personal information through our messaging system, public forms, or chat rooms - this information could be collected and used by other parties.
+How do I withdraw my consent?
 
-RTSGuru.com encourages you to review the privacy statements of websites that you choose to link to from RTSGuru.com so that you know how those web sites collect and use your personal information.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us.
 
-**How We Use Your Personal Information**
+SECTION 3 – DISCLOSURE
 
-Your physical location, gender, date of membership and last login date is used in your RTSGuru.com "User Profile" to create a better sense of community at our site. In addition we give you the option of displaying your e-mail address and age. If you wish to hide this data, you can do so in the "Your Account Settings" page.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-During the account creation process the user has the ability to "opt-in" to two separate mailing lists:
+SECTION 4 – THIRD-PARTY SERVICES
 
-  * **RTSGuru.com Daily Digest**
-  * Our daily digest is only sent from us once per day 5 days a week monday through friday. This service is used to notify our members about the status of the site and current events. The daily digest might contain advertisements or endorsements as a smaller part of the message, but never for this sole purpose.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-  * **Promotional Mailing**
-  * This list will be used to notify our members of special promotions taking place related to RTS games. It will only be sent from us. These offers can be for beta test offers or other promotions from us or other game companies. This mailing will never be sent more than four times per month.
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
+Once you leave our website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.  
+Links
 
+When you click on links on our website, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-**NOTE:** RTSGuru.com _never_ sells or shares any of your personal information with other parties. All information is strictly for internal use and all e-mails are only sent from our facilities.
+SECTION 5 – SECURITY
 
-You can change your subscription to either of these mailings by updating your account profile by selecting "Your Account Settings" and then modifying the options in "Alert Settings".
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-RTSGuru.com may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the RTSGuru.com website; or (c) act under exigent circumstances to protect the personal safety of users of RTSGuru.com, its web sites, or the public.
+SECTION 6 – COOKIES
 
-**Securing Your Personal Information**
+We may utilize third party tracking services via cookies.
 
-RTSGuru.com takes all necessary measures to protect your personal information by deploying safe network models for storing and retrieving data. All credit card data is sent over secure SSL connections using 128-bit encryption.
+SECTION 7 – AGE OF CONSENT
 
-**Use of Cookies**
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site
 
-A cookie is a text file that is placed on your hard disk by a webpage server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+SECTION 8 – CHANGES TO THIS PRIVACY POLICY
 
-RTSGURU.COM uses cookies to store your preferences at our site and to track the "session state" of your visit. If you choose to use our "auto-login" feature, we store your username and password using a simple encryption technique in a cookie on your computer.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
-We never use cookies to gather or share your personal information.
+QUESTIONS AND CONTACT INFORMATION
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to access the RTSGuru.com site - as our site requires them to function properly and prevent site abuse.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact us at contact@e-sports.net
 
-**Copyright Notices**
+1820 Broadway Ave 
 
-This web site is the exclusive property of Cyber Creations Inc. and may not be copied or reproduced without written permission. All graphics are the property of, or licensed by, Cyber Creations Inc., for use within this Web site.
-
-All game logos, or game-specific designs are used by permission by the individual publishing company. These images are copyrighted by their respective owners. These images may not be copied or reproduced without permission from their respective owners.
-
-**Copyright © Cyber Creations Inc. 2002-2011**
+Santa Monica, CA. 90404
