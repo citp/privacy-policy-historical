@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928011851id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409052607id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Reliablesoft.Net services or Web sites you visit.
 
-**Google Ads and DART**
+ **Google Ads and DART**
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
@@ -46,7 +46,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 Reliablesoft.Net encourages you to review the privacy statements of Web sites you choose to link to from Reliablesoft.Net so that you can understand how those Web sites collect, use and share your information. Reliablesoft.Net is not responsible for the privacy statements or other content on Web sites outside of the Reliablesoft.Net and Reliablesoft.Net family of Web sites.
 
-**Google Analytics  **
+ **Google Analytics  **
 
 Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go here: [http://www.google.com/intl/en_uk/analytics/privacyoverview.html](http://www.google.com/intl/en_uk/analytics/privacyoverview.html)
 
