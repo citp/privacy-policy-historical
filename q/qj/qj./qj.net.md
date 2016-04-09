@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921235052id_/http%3A//www.qj.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qj.net privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409043117id_/http%3A//www.qj.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - QJ.Net
 
