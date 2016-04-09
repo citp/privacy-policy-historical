@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317075830id_/https%3A//foliohd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliohd.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409103936id_/https%3A//foliohd.com/privacy) for the most accurate reproduction.*
 
-# Online Portfolio for Photographers, Models, Architects + more - FolioHD
+# Online Portfolios for Photographers, Models, Architects + more - FolioHD
 
 **Your privacy is critically important to us. At Habitual Development, we have a few fundamental principles:**
 
