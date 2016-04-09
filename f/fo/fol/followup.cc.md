@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152159id_/https%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409114822id_/https%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
 
 # FollowUp.cc | Privacy Policy
 
