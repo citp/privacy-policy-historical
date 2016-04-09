@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullist.co.uk privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116022204id_/http%3A//ramadanlegacy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullist.co.uk privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409080406id_/http%3A//ramadanlegacy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ramadan Legacy
 
