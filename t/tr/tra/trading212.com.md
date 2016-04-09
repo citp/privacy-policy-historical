@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trading212.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808063415id_/http%3A//www.trading212.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trading212.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409180931id_/https%3A//www.trading212.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trading 212
-
-[Trading 212](http://www.trading212.com/)
 
 ## Privacy Policy
 
@@ -20,14 +18,14 @@ We keep the information as up to date as possible, and will change any details, 
 
 ## How will this information be used?
 
-The primary purpose for obtaining this information is to establish an account for you. While you have an account, we may also use this information for Anti-Money Laundering purposes, to enhance the service offered to you and to our customers in general, to review your ongoing needs and to provide you with information which we believe may be relevant to you. 
+The primary purpose for obtaining this information is to establish an account for you. You confirm that you are informed and accept that while you have an account, we may also use your personal data for identification verification and for Anti-Money Laundering and Countering terrorist financing purposes, to enhance the service offered to you and to our customers in general, to review your ongoing needs and to provide you with information which we believe may be relevant to you. 
 
-We will not sell your personal data, but it may be disclosed to: 
+We will not sell your personal data, but you agree that it may be disclosed to: 
 
   * Other companies within the Avus Capital group
   * Any courts, regulatory or other official bodies as agreed or may be required by law
   * Credit reference agencies
-  * Other third party service providers who we may engage to provide research, insurance or other services to us or to the Avus Capital group
+  * Other third party service providers who we may engage to provide research, identity verification checks, insurance or other services to us or to the Avus Capital group
   * Anyone you may authorise, or who may be authorised under the terms of our contract
 
 
@@ -36,7 +34,7 @@ We will require any organisation to whom we disclose your information or who may
 
 ## How will we store your confidential information?
 
-Your information will be held on our secure computer systems and paper files. We have in place systems and procedures to prevent unauthorised access, improper modification or disclosure, misuse or loss of information. 
+Your information will be held on our secure computer systems and paper files. We have in place systems and procedures to prevent unauthorised access, improper modification or disclosure, misuse or loss of information.
 
 We need to hold your information for some time after you have given it to us, even if we no longer have a relationship with you. Once we consider that that information is no longer needed, we will destroy it.
 
@@ -64,9 +62,9 @@ If you want to:
 
 Contact Avus Capital UK Ltd.
 
-**Phone:** +44 870 875 63 96  
-**Email:** info@trading212.com  
-**Address:** Avus Capital UK Ltd.  
+ **Phone:** +44 203 769 98 97  
+ **Email:** info@trading212.com  
+ **Address:** Avus Capital UK Ltd.  
 107 Cheapside   
 London  
 EC2V 6DN  
@@ -76,9 +74,9 @@ or
 
 Contact Avus Capital Ltd.
 
-**Phone:** +359 2 448 48 50  
-**Email:** info@trading212.com  
-**Address:** Avus Capital Ltd.  
+ **Phone:** +359 2 448 48 50  
+ **Email:** info@trading212.com  
+ **Address:** Avus Capital Ltd.  
 3 Lachezar Stanchev St  
 Litex Tower, floor 10  
 Sofia  
@@ -101,39 +99,39 @@ Almost every site on the internet uses cookies and their functions include:
 
 By using our services, you give your consent to us or our partners to put a cookie file on your computer or mobile device.
 
-_We use the following types of Cookies:_
+ _We use the following types of Cookies:_
 
-Cookies in the Website* | Expiration | Description of purposes  
+Cookies in the Website*| Expiration| Description of purposes  
 ---|---|---  
-PHPSESSID | End of browser session | This session cookie is used to distinguish one website visitor from another, thus preserving visitors’ information and preferences.  
-2db95e8e1a9267b7a1188556b2013b33 | 25 years | This cookie tracks logins inside the trading platform. It is essential for the visitor to be able to log in to the trading platform.  
-f1ae4c012e45357f7c763db3d679186a | 25 years | This cookie tracks login attempts. It is used for security purpose. It is essential for the visitor to be able to log in to the trading platform.  
-9f28c301f2e10a88cb2a6b680c545bdcb493983a | 1 month | This cookie is used for an automatic login to the Demo trading platform. It is applicable only if the visitor checks the "Remember Me" option when logging in to a Practice Account.  
-extensionInstalled | 1 month | This cookie is set when a visitor installs or closes the extension promo bar. It is used to prevent the extension promo bar from popping out every time the visitor lands on the login page.  
-cookie_warning | 10 years | The cookie is set when a person closes the cookie warning bar in order to prevent the bar from popping out on each and every page and disturb the visitors' experience.  
-risk_warning | 10 years | The cookie is set when a person closes the risk warning bar in order to acknowledge the notification and prevent the bar from popping out on each and every page and disturb the visitors' experience.   
-odapAd | 7 days | This cookie tracks the initial open practice account page link.   
-Cookies in the Trading Platform | Expiration | Description of purposes  
+PHPSESSID| End of browser session| This session cookie is used to distinguish one website visitor from another, thus preserving visitors’ information and preferences.  
+2db95e8e1a9267b7a1188556b2013b33| 25 years| This cookie tracks logins inside the trading platform. It is essential for the visitor to be able to log in to the trading platform.  
+f1ae4c012e45357f7c763db3d679186a| 25 years| This cookie tracks login attempts. It is used for security purpose. It is essential for the visitor to be able to log in to the trading platform.  
+9f28c301f2e10a88cb2a6b680c545bdcb493983a| 1 month| This cookie is used for an automatic login to the Demo trading platform. It is applicable only if the visitor checks the "Remember Me" option when logging in to a Practice Account.  
+extensionInstalled| 1 month| This cookie is set when a visitor installs or closes the extension promo bar. It is used to prevent the extension promo bar from popping out every time the visitor lands on the login page.  
+cookie_warning| 10 years| The cookie is set when a person closes the cookie warning bar in order to prevent the bar from popping out on each and every page and disturb the visitors' experience.  
+risk_warning| 10 years| The cookie is set when a person closes the risk warning bar in order to acknowledge the notification and prevent the bar from popping out on each and every page and disturb the visitors' experience.   
+odapAd| 7 days| This cookie tracks the initial open practice account page link.   
+Cookies in the Trading Platform| Expiration| Description of purposes  
 ---|---|---  
-JSESSIONID | End of browser session | Automatically created user session for the trading platform. It is used in conjunction with "TRADING212" to distinguish one trader from another.  
-TRADING212 | End of browser session | Login token used to track current trader in the trading platform.  
-TRADING_LANG | End of browser session | This cookie keeps track of the trader's current preferred language.  
-BAYEUX_BROWSER | End of browser session | This cookie is essential for our services in order to provide trading quotes at the platform.  
-Third party cookies | Expiration | Description of purposes  
+JSESSIONID| End of browser session| Automatically created user session for the trading platform. It is used in conjunction with "TRADING212" to distinguish one trader from another.  
+TRADING212| End of browser session| Login token used to track current trader in the trading platform.  
+TRADING_LANG| End of browser session| This cookie keeps track of the trader's current preferred language.  
+BAYEUX_BROWSER| End of browser session| This cookie is essential for our services in order to provide trading quotes at the platform.  
+Third party cookies| Expiration| Description of purposes  
 ---|---|---  
-__utma | 2 years from set/update | It is used to distinguish users and sessions. The cookie is created when the javascript library executes and no __utma cookie exists. The cookie is updated every time data is sent to Google Analytics.  
-__utmb | 30 mins from set/update | It is used to determine new sessions/visits. The cookie is created when the javascript library executes and no __utmb cookie exists. The cookie is updated every time data is sent to Google Analytics.  
-__utmc | End of browser session | It isn’t used in ga.js. It’s set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
-__utmz | 6 months from set/update | It stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
-id | 1 year | Tracking code cookie  
-_bcvm_vid_ | End of browser session | Boldchat cookie  
-_bcvm_vrid_ | 1 year | Boldchat cookie  
-bc_pv_end | End of browser session | Boldchat cookie  
-bc-visitor-id | 1 year | Boldchat cookie  
-bc-visit-id | End of browser session | Boldchat cookie  
+__utma| 2 years from set/update| It is used to distinguish users and sessions. The cookie is created when the javascript library executes and no __utma cookie exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmb| 30 mins from set/update| It is used to determine new sessions/visits. The cookie is created when the javascript library executes and no __utmb cookie exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmc| End of browser session| It isn’t used in ga.js. It’s set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
+__utmz| 6 months from set/update| It stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+id| 1 year| Tracking code cookie  
+_bcvm_vid_| End of browser session| Boldchat cookie  
+_bcvm_vrid_| 1 year| Boldchat cookie  
+bc_pv_end| End of browser session| Boldchat cookie  
+bc-visitor-id| 1 year| Boldchat cookie  
+bc-visit-id| End of browser session| Boldchat cookie  
   
-* The website uses all [Facebook cookies](https://www.facebook.com/help/cookies/).
+* The website uses all [Facebook cookies](https://www.facebook.com/help/cookies).
 
 If you block cookies, you will not be able to use all the features on our website and trading platform. You can also delete cookies already stored on your computer. Again, doing this may have a negative impact on the usability of our Services.
 
-In addition, we use “Google Analytics” to analyse the use of our website. “Google Analytics” generates statistical and other information about website use by means of cookies on users' computers. The information generated relation to our website is used to create reports about the use of the website. “Google” will store this information. “Google's privacy policy” is available at: [http://www.google.com/privacypolicy.html.](http://www.google.com/policies/privacy/)
+In addition, we use “Google Analytics” to analyse the use of our website. “Google Analytics” generates statistical and other information about website use by means of cookies on users' computers. The information generated in relation to our website is used to create reports about the use of the website. “Google” will store this information. “Google's privacy policy” is available at: [http://www.google.com/privacypolicy.html.](http://www.google.com/policies/privacy/)
