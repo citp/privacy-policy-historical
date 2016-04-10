@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907020943id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410113822id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Rover.com Dog Boarding
 
-Updated March 28, 2014 [Previous versions: April 20, 2012; July 21, 2011; November 14th, 2011].
+Updated March 28, 2014 [Previous versions: April 20, 2012; July 21, 2011; November 14th, 2011]. 
 
 A Place for Rover, Inc. ("Rover.com," "we," "our,” or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information (as defined below) we receive from users of www.rover.com (this "Site"). At Rover.com, we understand that you value your privacy, and we want to help make your experience with our Site and other services we may offer (referred to in this policy collectively as our “Service”) satisfying and safe. This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by posting the revised policy on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/tos/).
 
@@ -32,7 +32,7 @@ When you visit the Site, whether as Rover.com Member or a non-registered user ju
 
 Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Rover.com Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
 
-### DISCLOSURE SPECIFIC TO GOOGLE
+## DISCLOSURE SPECIFIC TO GOOGLE
 
 Rover uses Google Analytics Demographics and Interest Reporting, which is based on Google Display Advertising. Google Analytics Demographics and Interest Reporting uses cookies. You can choose to opt-out of Google Analytics for Display Advertising and manage Google Display Network ads using Google Ads Settings. We use the information provided by this service (such as age, gender and interests) to improve the usability of the Site and Service, and to deliver more relevant content.
 
