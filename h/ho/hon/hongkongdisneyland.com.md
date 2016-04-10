@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905143207id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410045041id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
 
 # Privacy Policy | Hong Kong Disneyland Resort | Hong Kong Disneyland
 
@@ -11,7 +11,7 @@ Effective Date: March 28, 2013**
 
 This Privacy Policy is designed to answer your questions regarding our privacy practices and principles. In keeping with the traditions of The Walt Disney Company, we refer to our customers as "guests". When this Privacy Policy uses the term "personally identifiable information", we mean information that identifies a particular individual. When other information, such as consumer product preferences or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for the purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information". Finally, the terms of this Privacy Policy are subject to, and shall be interpreted according to, the laws of the Hong Kong Special Administrative Region of the People's Republic of China. 
 
-As used in this Privacy Policy, "The Walt Disney Family of Company" refers to The Walt Disney Company and its subsidiary and affiliated entities, singly or together, including companies such as ABC and ESPN that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. Hongkong International Theme Parks Limited and Hong Kong Disneyland Management Limited are members of The Walt Disney Family of Companies, and are referred to in this Privacy Policy as "we", "us", "our", and "ourselves"."
+As used in this Privacy Policy, "The Walt Disney Family of Company" refers to The Walt Disney Company and its subsidiary and affiliated entities, singly or together, including companies such as ABC and ESPN that generally do not offer their products and services under the "Disney" brand name, as well as companies that generally do offer their products and services under the "Disney" brand name. Hongkong International Theme Parks Limited and Hong Kong Disneyland Management Limited are members of The Walt Disney Family of Companies, and are referred to in this Privacy Policy as "we", "us", "our", and "ourselves".
 
 #### Scope of Privacy Policy
 
@@ -76,7 +76,7 @@ We have updated our privacy policy. Our updated policy is designed to provide gr
 
 Effective Date: August 23, 2012
 
-This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate."
+This privacy policy describes the treatment of information provided or collected on the sites where this privacy policy is posted. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
  
 
