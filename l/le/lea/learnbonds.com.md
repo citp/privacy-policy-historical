@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029210719id_/http%3A//learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411011858id_/http%3A//learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
 
 # Learn Bond Privacy Policy
-
-## Privacy Policy
 
 The limited information captured about your visits to the website using log files is anonymous demographic information not specific to you (for example, internet protocol (IP) address; browser name; zip code; and access time). This information is used by LearnBonds.com to maintain quality of its service and to generate general statistics regarding the use of the site. This information may also be used to provide aggregate information to our advertisers, such as how many people saw their advertisement in a given timeframe, or how many clicked on it.
 
