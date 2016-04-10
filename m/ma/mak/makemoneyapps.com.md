@@ -1,100 +1,93 @@
-> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035311id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyapps.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411001844id_/http%3A//www.incomenation.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Income Nation
 
-**Go Daddy Respects Your Privacy**
+Last updated: March 4, 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This Privacy Policy applies to incomenation.com (“Website”), which is operated by Tricraft LLC (its subsidiary and affiliate corporations, successors, and assigns collectively referred to as “Tricraft”).  Throughout this Privacy Policy (“Policy”) the words “we,” “us,” and “our” refer to Tricraft and its corporate affiliates. By accessing or using this Website or by registering as a member of this Website, you consent to the use of your Personal Data (defined below) as described in this Policy. This Policy applies to all users of the Website, including users who are also registered members. If you are unwilling to consent to our collection and use of your Personal Data as described in this Policy or to accept the terms in the Terms of Use that apply to use of the Website, you should not use the Website. We may revise this Policy at any time by updating the Website.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+At Tricraft, the privacy of our visitors is of extreme importance to us. This Privacy Policy document outlines the types of personal information is received and collected by Tricraft and how it is used.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Email**
 
-**Information Collection and Use**
+If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use security measures to protect against the loss, misuse and alteration of data used by our system.  We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law.  Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you want to stop receiving email from us, each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you have received unwanted, unsolicited emails sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to support@tricraft.com for review.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Log Files**  
+Like many other Websites, Tricraft makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information.  IP addresses and other such information are not linked to any information that is personally identifiable.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Cookies and Web Beacons**  
+Tricraft does use cookies to store information about visitors’ preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Other Technologies**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Other technologies used include clear GIF’s and IP address logging. Clear GIF’s also known as web bugs, beacons, or tags, are small graphic images placed on a web page, web-based document, or in an e-mail message. Clear GIF’s are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the web page, document or e-mail message. We do not use clear GIF’s to collect personal information about you. However, we may use clear GIF’s to capture statistical usage information for our web pages, features, or other elements on a web page. We may correlate this information to a user to personalize user experience and for statistical analysis of user experiences on our web pages.
 
-**Security**
+**DoubleClick DART Cookie**  
+– Google, as a third party vendor, uses cookies to serve ads on Tricraft.  
+– Google’s use of the DART cookie enables it to serve ads to users based on their visit to Tricraft and other sites on the Internet.  
+– Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Some of our advertising partners may use cookies and web beacons on our site. Some of our advertising partners include:  
+Google Adsense  
+Commission Junction  
+Clickbank  
+Linkshare  
+Amazon
 
-**Updating Your Information**
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Tricraft send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Tricraft has no access to or control over these cookies that are used by third-party advertisers.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Tricraft’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-      iii.      You may call us at: (480) 505-8800
+**Personal Data Submitted by You for Review by other Users**
 
-       iv.      You may fax us at: (480) 505-8844
+You post User Submissions (as defined in and governed by the Tricraft Terms of Use) on the Website at your own risk. We cannot control the actions of other users with whom you may choose to share your Personal Data. We cannot and do not guarantee that User Submissions you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of User Submissions may remain viewable in cached and archived pages or if other users have copied or stored your User Submissions.
 
-**Sending Emails**
+Any improper collection or misuse of Personal Data provided on the Website is a violation of the Tricraft Terms of Use and should be reported to [support@tricraft.com](mailto:support@tricraft.com).
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Children’s Personal Information**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Consistent with the Children’s Online Privacy Protection Act:
 
-**Compliance with Laws and Law Enforcement**
+•           This site does NOT collect, use, or disclose personal information (including online contact information) of children under the age of 13.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+•           In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child.
 
-**Third Party Service Providers**
+•           In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Check out the FTC’s site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for tips on protecting children’s privacy online.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**General Information**
 
-**Supplementation of Information**
+This Policy and the Terms of Use shall be governed by, construed and enforced in accordance with the laws of the State of Tennessee, as it is applied to agreements entered into and to be performed entirely within such state, without regard to conflict of law principles. You agree that any cause of action you or Tricraft brings to enforce this Policy and/or the Terms of Use, or in connection with any matters related to this Tricraft Website and/or the Privacy Policy, shall be brought only in either the state or Federal courts located in the State of Tennessee. You agree to submit to the personal jurisdiction of the courts of the State of Tennessee for any cause of action arising out of this Policy. You agree to file any cause of action with respect to this Policy within one year after the cause of action arises. You agree that a cause of action filed after this date is barred.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+If any provision of this Policy, or the application thereof to any person or circumstances, is held invalid or for any reason, unenforceable including, but not limited to, the warranty disclaimers and liability limitations, then such provision shall be deemed superseded by a valid, enforceable provision that matches, as closely as possible, the original provision, and the other provisions of this Policy shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Policy shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Policy is the entire agreement between you and Tricraft with respect to the use of this Tricraft Website and shall not be modified except in writing, signed by an authorized representative of Tricraft.
 
-**Contests/Surveys**
+This Tricraft Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States. Tricraft makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this site and submitting any personal information, visitors from outside of the United States acknowledge the this site is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Risk of Loss**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+All items purchased from Tricraft are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.
 
-**Tell-A-Friend**
+**Business Transfers**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We  may  sell,  transfer  or  otherwise  share  some  or  all  of  its  assets,  including  your personally   identifiable   information,   in   connection   with   a   merger,   acquisition, reorganization  or  sale  of  assets  or  in  the  event  of  bankruptcy.  You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-**What Happens to my Personal Information if I Opt Out?**
+**Contact Us**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+If you have any questions or suggestions regarding this Policy, please contact Tricraft at:
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Tricraft LLC  
+4636 Lebanon Pike #152  
+Hermitage TN 37076  
+phone: 615.307.0466  
+email: [support@tricraft.com](mailto:support@tricraft.com)
