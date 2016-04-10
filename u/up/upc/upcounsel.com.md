@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918164912id_/https%3A//www.upcounsel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410173254id_/https%3A//www.upcounsel.com/privacypolicy) for the most accurate reproduction.*
 
 # UpCounsel, Inc. Privacy Policy
 
@@ -30,7 +30,7 @@ For more information about UpCounsel’s policies on compelled disclosure, pleas
 
 **_How does UpCounsel communicate with me, and how can I change my user information?_**
 
-For more information about managing communications you receive from UpCounsel and instructions for updating information provided when registering for the UpCounsel’s services, please click _here_.
+For more information about managing communications you receive from UpCounsel and instructions for updating information provided when registering for the UpCounsel’s services, please click _[here](https://web.archive.org/h)_.
 
 **_How can I contact UpCounsel?_**
 
@@ -92,7 +92,7 @@ The cookies UpCounsel sets are essential for the operation of the Website, are u
 
 **Google Analytics:** UpCounsel uses Google Analytics to help improve our Users’ experience. Google Analytics uses both session-based and permanent cookies to collect information about how our Website performs and how our Users use the Website and Service. The Google Analytics tool helps us evaluate and monitor Users’ use of our Website, compile statistical reports on activity on the Service, and improve our content. Google Analytics may collect more information than UpCounsel collects. Google Analytics stores the information these cookies generate.
 
-UpCounsel will not, nor will we seek to allow any third party to, use the Google Analytics tool to (i) track our Users, (ii) collect any User Personal Information other than IP address, or (iii) correlate a User’s IP address with his or her identity. Google Analytics provides further information about its own privacy practices and allows the ability to opt out of Google Analytics tracking  _[here](https://web.archive.org/h)_.
+UpCounsel will not, nor will we seek to allow any third party to, use the Google Analytics tool to (i) track our Users, (ii) collect any User Personal Information other than IP address, or (iii) correlate a User’s IP address with his or her identity. Google Analytics provides further information about its own privacy practices and allows the ability to opt out of Google Analytics tracking  _[here](https://www.google.com/intl/en/policies/privacy/)_.
 
 You may disable your browser or device’s ability to accept cookies, but if you do, you may not be able to use UpCounsel’s Services.
 
