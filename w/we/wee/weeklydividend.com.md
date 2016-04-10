@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklydividend.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024449id_/https%3A//www.borntosell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklydividend.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410225121id_/https%3A//www.borntosell.com/privacy) for the most accurate reproduction.*
 
 # Born To Sell Privacy Policy
 
