@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927170756id_/http%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410021713id_/http%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Of AuroIN
+# Privacy Policy | AuroIN NYC
 
-We strongly believe confidentiality is your right and we take all precautions to protect your privacy. We also assure you that we are the sole owner of the information collected, for executing your project, and we do not rent, sell or loan any information collected by the website to others unless there is a legal angle. We may store and process your inputs/information to understand your requirements and to design our services to match your expecations. It may also be used to provide you with information concerning our industry news, special events or features and offers which may be of interest for you. If you correspond with us via E- mail, we may collect the information and store it with full confidentiality. 
+  
 
-Any sensitive information collected from the users of the website is encrypted and transmitted to us in a secured manner. Similarly, we also protect your information offline. Only concerned persons who require the information to perform a particular task, from our team, are granted access rights to such data. The computers and servers where the data are stored are also kept in a secure environment.
+
+We strongly believe confidentiality is your right and we take all precautions to protect your privacy. We also assure you that we are the sole owner of the information collected, for executing your project, and we do not rent, sell or loan any information collected by the website to others unless there is a legal angle. We may store and process your inputs/information to understand your requirements and to design our services to match your expectations. It may also be used to provide you with information concerning our industry news, special events or features and offers which may be of interest for you. If you correspond with us via E- mail, we may collect the information and store it with full confidentiality.
+
+Any sensitive information collected from the users of the website is encrypted and transmitted to us in a secured manner. Similarly, we also protect your information offline. Only concerned persons who require the information to perform a particular task, from our team, are granted access rights to such data. The computers and servers where the data are stored are also kept in a secure environment. 
