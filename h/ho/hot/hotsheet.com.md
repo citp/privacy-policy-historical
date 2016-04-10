@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624074626id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotsheet.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410125524id_/http%3A//www.hotsheet.com/privacy.html) for the most accurate reproduction.*
 
-# Hot Sheet web directory Privacy Policy
+# Hot Sheet Privacy Information
 
 **Summary of Privacy Policy**  
 The information provided to us through our web sites is held in strict confidence. The purpose of information collected by HotSheet.com,Inc. is only to enhance the user experience through customized features. User specific data will not be shared, sold or made available to any outside agencies.
