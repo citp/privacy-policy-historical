@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cscc.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060055id_/http%3A//www.cscc.edu/about/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscc.edu privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410195358id_/http%3A//www.cscc.edu/about/privacy-statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement - Columbus State Community College
 
