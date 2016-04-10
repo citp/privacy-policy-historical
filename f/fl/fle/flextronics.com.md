@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906151530id_/http%3A//www.flextronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410101540id_/https%3A//www.flextronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flex
 
