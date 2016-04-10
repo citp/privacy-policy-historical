@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519012539id_/http%3A//www.dealgobbler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealgobbler.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410125007id_/https%3A//www.dealgobbler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - dealgobbler.com - Best Daily Deals in Dubai
+# Privacy policy of Deal gobbler Dubai UAE
 
 This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through Dealgobbler.com. This includes "Personal Information," which is information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing, as well as "Anonymous Information," which is information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons.
 
