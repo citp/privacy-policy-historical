@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128193226id_/http%3A//sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisewholesalemerchandise.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410065530id_/http%3A//www.sunrisewholesalemerchandise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Sunrise Wholesale - Drop Ship Wholesale Products, Dropship Company, Dropshipping Suppliers
 
@@ -241,6 +241,6 @@ PO Box 691300, Los Angeles, CA 90069 \- (877) 250-5045
 http://www.sunrisewholesalemerchandise.com/
 
 Sunrise Wholesale Merchandise Drop Shipping is a Better Business Bureau listed company with expertise since 1999 in wholesale drop shipping. Sunrise is a wholesaler that provides customers with products for their own drop shipping business. Sunrise has a large list of product categories including wholesale electronics, apparel, gifts, home decor, bulk buys, tools, toys, garden, sports DVD and more!  
-**© 2015 Sunrise Wholesale Merchandise**  
+**© 2016 Sunrise Wholesale Merchandise**  
   
 ---|---
