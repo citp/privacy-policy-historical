@@ -1,25 +1,39 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906010434id_/http%3A//www.theesa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410041311id_/http%3A//www.theesa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Entertainment Software Association
 
+#####  [](http://www.esrb.org/confirm/esa-confirmation.aspx)
+
 The Entertainment Software Association, and its subsidiaries and affiliates (collectively, “ESA”), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store and use the information you provide to us.
 
-This Privacy Statement and the certification seal shown on this page confirm that ESA is a member in good standing of ESRB’s Privacy Certified Program.  ESRB’s Privacy Certified Program is designed to ensure that our Web sites’ information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Web sites have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our Web sites and other enforcement and accountability mechanisms administered independently by the ESRB.
+This Privacy Policy and the ESRB Privacy Certified certification seals shown on our websites (“Websites”) confirm that ESA is a member in good standing of [ESRB’s Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10).  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Websites where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our Websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-**  
-What information does this Privacy Statement cover?**
+**Table of Contents**
 
-This Privacy Policy applies only to personal information collected on the Web sites where this Privacy Policy is posted ([http://www.theesa.com](http://www.theesa.com/); [http://www.jointhecteam.com](http://www.jointhecteam.com/); [http://www.gameoverpirates.com](http://www.gameoverpirates.com/); and [http://www.e3expo.com](http://www.e3expo.com/)), and does not apply to any other information collected by ESA through any other means.
+1\. What information does this Privacy Policy cover?  
+2\. What types of personally identifiable information do we collect about our guests?  
+3\. How is your personally identifiable information used and shared?  
+4\. What choices do you have about the collection, use, and sharing of your personally identifiable information?  
+5\. What kinds of security measures do we take to safeguard your personally identifiable information?  
+6\. How can you update your personal information and profile?  
+7\. How can you ask questions, or send us comments, about this Privacy Policy?  
+8\. How will you know if we amend this Privacy Policy?
+
+**1\. What information does this Privacy Policy cover?**
+
+This Privacy Policy applies only to personal information collected on the Websites where this Privacy Policy is posted, and does not apply to any other information collected by ESA through any other means.
 
 This Privacy Policy applies to the use and sharing of personal information collected on and after the date that this Privacy Policy is posted.
 
-Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by ESA offline.  This Privacy Policy applies only to Web sites maintained by ESA, and not to our international affiliates, or any web sites maintained by other companies or organizations to which we link.  ESA, therefore, is not responsible for the content or activities provided on those web sites.
+Please note that this Privacy Policy applies only to information submitted and collected online, and does not apply to information that may be collected by ESA offline.  This Privacy Policy applies only to Websites maintained by ESA, and not to our international affiliates, or any websites maintained by other companies or organizations to which we link.  ESA, therefore, is not responsible for the content or activities provided on those websites.
 
 Finally, the terms of this Privacy Policy are subject to all applicable laws.
 
-**What types of personally identifiable information do we collect about our guests?**
+Back to top ** **
 
-We don’t require personal information to access our Web sites.  However, if you prefer not to disclose personal information, you may not be able to enjoy certain features of our Web site.  Personal information is information that identifies you and may be used to contact you.  To offer our guests certain features on our Web site, we may collect several types of personally identifiable information.
+**2\. What types of personally identifiable information do we collect about our guests?**
+
+We don’t require personal information to access our Websites.  However, if you prefer not to disclose personal information, you may not be able to enjoy certain features of our Websites.  Personal information is information that identifies you and may be used to contact you.  To offer our guests certain features on our Websites, we may collect several types of personally identifiable information.
 
 _Information You Provide to Us_
 
@@ -40,21 +54,25 @@ This information may include:
 
 
 
+Please note that, if you donate to our fundraising campaign, we collect the amount of your contribution, occupation and employer or home address, in addition to your name. This information is then sent to our vendor, Democracy Engine, for processing purposes. ESA does not collect any of your financial information. We encourage you to review Democracy Engine’s privacy policy at [**http://www.democracyengine.com/subscriber_privacy_policy**](http://www.democracyengine.com/subscriber_privacy_policy) to learn more about what information they may require from you, as well as how such information may be used and disclosed.
+
 _Children_
 
-We don’t knowingly collect personal information from children under 13.  We take kids’ privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
+We don’t knowingly collect personal information from children under 13.  We take kids’ privacy seriously, and encourage parents to play an active role in their children’s online experience at all times. If parents believe that we have unintentionally collected their child’s personal information, they should contact us at [**privacy@theESA.com**](mailto:privacy@theESA.com) to request the deletion of the information.
 
 _Information Collected Through Technology_
 
-We collect information through technology to make our Web sites more interesting and useful to you.  For example, when you come to one of our Web sites, we collect your IP address.  An IP address often is associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company or your university.  Standing alone, your IP address is not personally identifiable.  At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Web sites.  We do not combine the information collected through technology with your personally identifiable information.
+We collect information through technology to make our Websites more interesting and useful to you.  For example, when you come to one of our Websites, we collect your IP address.  An IP address often is associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company or your university.  At times, we use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Websites.  We do not combine your IP address with any other personally identifiable information.
 
 _Cookies_
 
-Our Web sites also use cookies.  Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. We and other companies use cookies for a variety of purposes.  For example, when you return to one of our Web sites after logging in, cookies provide information to the Web site so that the Web site will remember who you are.  You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.  You can do this through your browser (like Internet Explorer) settings.  Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies.  If you turn cookies off, you won’t have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
+Our Websites also use cookies.  Cookies are pieces of information that a Website sends to your computer while you are viewing the Website. We and other companies use cookies for a variety of purposes.  For example, when you return to one of our Websites after logging in, cookies provide information to the Website so that the Website will remember who you are.  You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.  You can do this through your browser (like Internet Explorer) settings.  Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies.  If you turn cookies off, you won’t have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
 
-**How is your personally identifiable information used and shared?**
+Back to top ** **
 
-We don’t share, sell or rent your personal information to third parties without your consent.  We don’t require disclosure of personal information to access our Web sites, except for Gameoverpirates.com, which is only accessible by law enforcement and ESA member companies.  If you prefer not to disclose any personal information, you may not be able to enjoy certain features of our Web site.
+**3\. How is your personally identifiable information used and shared?**
+
+We don’t share, sell or rent your personal information to third parties without your consent.  Besides technical information required for the support of our internal operations (i.e., IP address), we don’t require disclosure of personal information to access most of our Websites.  If you prefer not to disclose any personal information, you may not be able to enjoy certain features of our Websites.
 
 We will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
@@ -64,11 +82,11 @@ Information collected from those who voluntarily submit it to us is used to prov
 
 _Operational Uses_
 
-We may also use the personal information you provide to us for other “Operational Uses.”  For example, we may use your information to send you administrative communications either about your account with us or about features of our Web sites, including any future changes to this Privacy Policy.
+We may also use the personal information you provide to us for other “Operational Uses.”  For example, we may use your information to send you administrative communications either about your account with us or about features of our Websites, including any future changes to this Privacy Policy.
 
 _Third Parties_
 
-We occasionally use third parties (other companies, agents or contractors) to perform services necessary to our operations.  For example, we have partnered with other companies to personalize our Web pages, analyze customers’ interaction with our Web site, send newsletters and process consumer surveys.  We also provide postal addresses to the U.S. Post Office for delivery purposes.  In the course of providing such services, these private, third party companies may have contact with your personally identifiable information and have agreed to securely store and maintain the personal information received from us and only use your personally identifiable information in accordance with this Privacy Policy.
+We occasionally use third parties (other companies, agents or contractors) to perform services necessary to our operations.  For example, we have partnered with other companies to personalize our Websites, analyze customers’ interaction with our Websites, assist with fundraising, send newsletters and process consumer surveys.  We also may provide postal addresses to the U.S. Post Office for delivery purposes.  In the course of providing such services, these private, third party companies may have contact with your personally identifiable information and have agreed to securely store and maintain the personal information received from us and only use your personally identifiable information in accordance with this Privacy Policy.
 
 _Business Information_
 
@@ -82,17 +100,23 @@ _Disclosures Required By Law and Disclosures to Help Protect the Security and Sa
 
 We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our terms of use; enforce contests, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or protect the safety and security of our Web sites or third parties.
 
-**What choices do you have about the collection, use, and sharing of your personally identifiable information?**
+Back to top ** **
 
-As mentioned above, you have control over the personal information you submit to us.  If at any time you decide to remove your personal information from our database, you may do so by e-mailing us at [privacy@theESA.com](mailto:privacy@theESA.com).
+**4\. What choices do you have about the collection, use, and sharing of your personally identifiable information?**
 
-**What kinds of security measures do we take to safeguard your personally identifiable information?**
+As mentioned above, you have control over the personal information you submit to us.  If at any time you decide to remove your personal information from our database, you may do so by e-mailing us at [ **privacy@theESA.com**](mailto:privacy@theESA.com).
+
+Back to top ** **
+
+**5\. What kinds of security measures do we take to safeguard your personally identifiable information?**
 
 The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your personal information from unauthorized access, improper use, loss or alteration.  We use industry standard practices such as encrypted communications, physically secured rooms, firewalls and password-protection systems to safeguard the confidentiality of your personal information.  We will notify users of a data breach involving unencrypted personal information by e-mail or by posting a notice on the affected Web site.  We also strive to limit access to personal information to employees performing a legitimate business function.  We periodically review our security procedures to consider appropriate new technology and updated methods.  However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
 
-**How can you update your personal information and profile?**
+Back to top ** **
 
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [privacy@theESA.com](mailto:privacy@theESA.com).
+**6\. How can you update your personal information and profile?**
+
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [ **privacy@theESA.com**](mailto:privacy@theESA.com).
 
 _Your California Privacy Rights_
 
@@ -103,9 +127,11 @@ Attn.: Privacy Policy Administrator
 575 7th Street, NW #300  
 Washington, DC 20004  
 202-223-2400  
-[privacy@theESA.com](mailto:privacy@theESA.com)
+[**privacy@theESA.com**](mailto:privacy@theESA.com)
 
-**How can you ask questions, or send us comments, about this Privacy Policy?**
+Back to top ** **
+
+**7\. How can you ask questions, or send us comments, about this Privacy Policy?**
 
 If you have questions or wish to send us comments about this Privacy Policy, please send us an e-mail with your questions or comments or call or write us at:
 
@@ -114,20 +140,24 @@ Attn.: Privacy Policy Administrator
 575 7th Street, NW #300  
 Washington, DC 20004  
 202-223-2400  
-[privacy@theESA.com](mailto:privacy@theESA.com)
+[**privacy@theESA.com**](mailto:privacy@theESA.com)
 
 Please be assured that any personal information that you provide in communications to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-ESA is a licensee of the ESRB’s Privacy Certified Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>.
+ESA is a licensee of the ESRB’s Privacy Certified Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [**http://www.esrb.org/privacy/contact.aspx**](http://www.esrb.org/privacy/contact.aspx).
 
 ESRB  
 Attn.: Privacy Certified Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-[privacy@esrb.org](mailto:privacy@esrb.org)
+420 Lexington Avenue, Suite 2024  
+New York, NY 10170  
+[**privacy@esrb.org**](mailto:privacy@esrb.org)
 
-**How will you know if we amend this Privacy Policy?**
+Back to top ** **
 
-We may amend this Privacy Policy at any time.  If we make any material changes in the way we collect, use or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, or by prominently posting notice of the changes on the Web sites covered by this Privacy Policy.  Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an e-mail notice to you or 30 days following our posting of notice of the changes on the Web sites covered by this Privacy Policy.
+**8\. How will you know if we amend this Privacy Policy?**
+
+We may amend this Privacy Policy at any time.  If we make any material changes in the way we collect, use or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, or by prominently posting notice of the changes on the Websites covered by this Privacy Policy.  Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an e-mail notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address.  If the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
+Back to top ** **
