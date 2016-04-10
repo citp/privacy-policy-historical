@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123183130id_/http%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtec.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410210111id_/https%3A//imgtec.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Imagination Technologies
 
@@ -8,13 +8,14 @@ Imagination and Pure are Divisions of Imagination Technologies Limited, a wholly
 
 This Privacy Policy describes the data collected by us whether:
 
-  * on or through the websites at www.imgtec.com (the “Imagination Website”), www.pure.com (the “Pure Website”), www.flowlive.com (the “Flow Website”) or any other of our       group company websites (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
+  * on or through the websites at [ **www.imgtec.com**](https://imgtec.com/privacy-policy/) (the “Imagination Website”),[ **  www.pure.com**](http://www.pure.com/) (the “Pure Website”), [ **http://flow** cloud **.i** o](http://flowcloud.io/) (the “FlowCloud Website”), [**www.flowlive.com**](http://www.flowlive.com/) (the “Flow Website”) or any other of our group company websites developed or hosted by us or on our behalf (together, those websites and any that resolve to those websites shall be known as the “Websites”); or
 
 
-  * in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the    Websites) (“Product”); or
+  * in relation to our collection of any warranty registration information from a purchaser, licensee or other user of a product originally supplied by us (whether or not through the Websites) (“Product”); or
 
 
-  * in relation to the registration of details concerning retailers and staff of retailers who have sold Products.
+  * in relation to the registration of details concerning retailers and staff of retailers who have sold Products; or
+  * in relation to information you may give us about you by filling in forms on our any of our Websites or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our Website, subscribe to our service, submit information to or search for information on our Website and when you report a problem with our Website. We do not assume any liability for any information that you submit or provide to us (whether or not such information relates to you or to someone else). You hereby expressly represent and warrant to us that you have all necessary rights and/or have obtained all necessary approvals, permissions and consents required by applicable law to submit or provide such information.
 
 
 
@@ -22,7 +23,7 @@ In this Privacy Policy, references to “you” means any person submitting any 
 
 This Privacy Policy sets out the ways in which we may use your information.
 
-If you have any questions, comments or suggestions about the way in which we use your personal information or if any of your personal information changes, please write to us at the above address or email us at webmaster@imgtec.com.
+If you have any questions, comments or suggestions about the way in which we use your personal information or if any of your personal information changes, please write to us at the above address or email us at [ **webmaster@imgtec.com**](mailto:webmaster@imgtec.com).
 
 Your privacy is very important to you and us. We shall therefore only use your name and other information which relates to you in the manner set out in this Privacy Policy. We will only use your personal information in a way that is fair to you. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
 
@@ -44,15 +45,13 @@ When you enter a promotion (such as a free prize draw) run by us or if you are a
 
 #### 4\. The Pure and Flow Websites
 
-We collect various types of information from you when you use the Pure and/or Flow Websites. This may include your name, email address, password, security question and answer, address, telephone numbers, gender and date of birth. This information is for all customised use of these Websites, including so you can log-in, save your favourites and make your experience of these Websites personal to you to customise your settings in a way that suits you.
+We collect various types of information from you when you use the Pure and/or FlowCloud and/or Flow Websites. This may include your name, email address, password, security question and answer, address, telephone numbers, gender and date of birth. This information is for all customised use of these Websites, including so you can log-in, save your favourites and make your experience of these Websites personal to you to customise your settings in a way that suits you.
 
-The information you provide may also include details of any Product (including serial number, date of purchase, place of purchase, whether you listened to the product in store, your views of your shopping experience, your comments on the Product, where you heard about the Product, and where you use your Product). This information is to enable you to link your Product to the Service provided through The Lounge Website.
+The information you provide may also include details of any Product (including serial number, date of purchase, place of purchase, whether you listened to the product in store, your views of your shopping experience, your comments on the Product, where you heard about the Product, and where you use your Product). This information is to enable you to link your Product to the Service provided through the Websites.
 
 ### Other uses of your personal information
 
-We may also use the information that we collect about you to send you other information about us, our Products and Services and software (including upgrades), our sales promotions, our newsletters, anything relating to other companies in our group or our business partners in which we believe you may be interested. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please send us an appropriate email to webmaster@imgtec.com or write to us at the above address specifying which information you do not wish to receive. Within 28 working days of receipt of your instruction we will cease to send you information as requested. If your instruction is not clear, we will cease to send you all information referred to in this paragraph. If you opt-out of receiving further information from us, we may also not enter you in a free prize draw or other promotion.
-
-In addition, we may use information about you to enable you to use other parts of the Websites, for us to detect any fraud or abuses of the Websites, for us to send you information relevant to the Product, Services or Websites, in case there is any servicing required, to improve the Websites and our Services and Products, and in case we have any queries.
+We may use information that you provide to us or that we collect about you (which may include your name, address, e-mail address, phone number, personal description and photograph) to enable you to use other of our Websites and/or other parts of the Websites, for us to detect any fraud or abuses of the Websites, for us to send you information relevant to the Product, Services or Websites for which you have subscribed, in case there is any servicing required, to improve the Websites and our Services and Products, and in case we have any queries.
 
 We may also use your email address that you initially give to us to enable you to commence using the Services and to validate information you have given to us. If you are a winner of a promotion (such as a free prize draw), we may display some information about you on the Websites or in our other marketing materials, but we shall not be responsible if any third party misuses that information.
 
@@ -103,7 +102,13 @@ You are responsible for protecting against unauthorised access to your password 
 
 The Websites use cookies to collect information. Cookies are small data files which are placed on your computer or other mobile or handheld device (such as smart ‘phones or ‘tablets’) as you browse the Websites. They are used to ‘remember’ when your computer or device accesses the Website. The cookies are essential to the effective operation of our Websites and to enable to you navigate and use the Websites and shop with us online. Cookies are also used to tailor the Products and services offered and advertised to our customers, both on the Websites and elsewhere.
 
-If you want to find out more information about cookies, please go to cookies[.](http://www.imgtec.com/cookies)
+If you want to find out more information about cookies, please go to[ **  cookies**](https://imgtec.com/cookies/)[ **.**](http://www.imgtec.com/cookies)
+
+### Your Rights
+
+We may also use the information that we collect about you or that you provide to us to send you other information about us, our Products and Services and software (including upgrades), our sales promotions, our newsletters, anything relating to other companies in our group or our business partners in which we believe you may be interested. If you would prefer not to receive any of this additional information as detailed in this paragraph (or any part of it) please send us an appropriate email to webmaster@imgtec.com or write to us at the above address specifying which information you do not wish to receive. Within 28 working days of receipt of your instruction we will cease to send you information as requested. If your instruction is not clear, we will cease to send you all information referred to in this paragraph. If you opt-out of receiving further information from us, we may also not enter you in a free prize draw or other promotion.
+
+You the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ### Changes
 
@@ -113,4 +118,4 @@ Any material changes to the way in which we use your data will be described in f
 
 By submitting data to us and using the Websites, you consent to our use of your data and of your party in the manner set out in this Privacy Policy (as amended) and you are responsible for ensuring that you have authority to consent on behalf of anyone about whom you submit data.
 
-For any enquiry about our privacy policy please address our Webmaster.
+For any enquiry about our privacy policy please address our [ **Webmaster**](mailto:webmaster@imgtec.com).
