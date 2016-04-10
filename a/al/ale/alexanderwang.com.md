@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexanderwang.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208164414id_/http%3A//www.alexanderwang.com/cms/legal/privacypolicy.asp%3Ftskay%3DD66B70B5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexanderwang.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410200814id_/http%3A//www.alexanderwang.com/cms/legal/privacypolicy.asp%3Ftskay%3DD66B70B5) for the most accurate reproduction.*
 
 # Alexander Wang Online Store - Legal Area
 
