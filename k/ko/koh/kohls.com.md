@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053312id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kohls.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410175143id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
 
 # Kohl's
+
+Sponsored Links 
+
+The links below are ads provided by the Google AdWords™ program. Outside companies pay to advertise via these links when specific phrases and words are searched. These ads are provided by Google and are labeled as sponsored links. Clicking on these links will open a new tab displaying that respective company's own website. The website you link to is not affiliated with or sponsored by Kohls.com
 
 ## (Updated as of June 5, 2014)
 
