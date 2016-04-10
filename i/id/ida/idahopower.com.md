@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911220941id_/https%3A//www.idahopower.com/AboutUs/CompanyInformation/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410200945id_/https%3A//www.idahopower.com/AboutUs/CompanyInformation/privacy.cfm) for the most accurate reproduction.*
 
 # Idaho Power - Privacy Policy
 
