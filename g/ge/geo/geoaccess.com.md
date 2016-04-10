@@ -1,104 +1,95 @@
-> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114230515id_/http%3A//www.ingenix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoaccess.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410060250id_/https%3A//www.optum.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Ingenix.com
+# Optum Website Privacy Policy - Optum.com
 
-Ingenix is very sensitive to privacy issues. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via the Internet. In general, you can visit www.ingenix.com without revealing any personal information about yourself. If you choose to provide Ingenix with personal information, it may be necessary in some cases for us to provide your information to our contractors or agents in order to respond to your inquiry.
+#### Introduction
 
-**Customer Information Practices Statement**
+We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
-**Guiding Principles**
+This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “Company” refer to Optum and its current and future affiliated entities, including our parent company UnitedHealth Group.
 
-Ingenix is an information and research company that provides products and services to help our customers improve health care treatment, delivery and financing. In our operations, we often possess personal information that identifies individuals and other proprietary information about our customers' operations. Preservation of, and respect for, our customers' trust is critical to our continued success. Therefore, we will always treat such information:
+This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-  * Confidentially, according to applicable laws. 
-  * Appropriately, according to the promises we make to our customers. 
-  * Respectfully, according to our concern for the sensitive nature of such information. 
+#### Cookies and Tracking
 
+The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies, which are generally stored on a computer unless or until they are deleted or are set to expire.
 
+You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
 
-**Policies**
+We may also allow third party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third party advertising networks and similar entities that use these technologies, see <http://www.aboutads.info/consumers>, and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). Once you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
 
-**Information Security:**  
-We maintain appropriate physical, technical and administrative security standards and procedures to safeguard our data and systems. Our employees are educated on the importance of our privacy and security policies and must comply with them. Employees are permitted to access and use only that personal and proprietary information they need to perform their job duties.
+We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. If such technology is used, you may opt out of it by clicking on the “Opt Out” link at the bottom of the home web page.
 
-**Information Processing:**  
-We try to use only the amount of personal and proprietary information necessary for research, analytical, or derivative product development purposes that are consistent with:
+We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include:
 
-  1. Our core business mission to provide high-quality products and services to our customers; 
-  2. Our contractual and legal obligations to customers, data controllers and individuals from whom we receive such information; and 
-  3. Applicable law. 
-
-
-
-We have procedures to maintain the integrity and confidentiality of information while in our care.
-
-  * When we receive personal information from customers or other data controllers, we rely on their obligations to provide individuals with any required notice and consent for the intended purpose or we obtain additional consent/authorization as necessary. We process personal information obtained from clinical research trials in accordance with the individual's informed consent, national laws and international guidelines governing human subjects protection. Research using personal information is approved by an institutional review board, ethics committee or privacy board where and as required by law. 
-  * When we collect personal information directly from individuals (such as those interested in participating in a clinical research trial or becoming clinical investigators) on behalf of a customer, we will provide such individuals with: 
-
-
-  1. Notice about the intended use and disclosure of their information; 
-  2. Choice before using or disclosing their information for any other purpose; and 
-  3. The ability to access and correct their information where required by law. 
+  * Customizing your experience on the website including managing and recording your preferences.
+  * Marketing, product development, and research purposes.
+  * Tracking resources and data accessed on the website.
+  * Developing reports regarding website usage, activity, and statistics.
+  * Assisting users experiencing website problems.
+  * Enabling certain functions and tools on this website.
+  * Tracking paths of visitors to this website and within this website.
 
 
 
-**De-Identified Data:**  
-We remove, encode or encrypt individual identifiers from personal information to the fullest extent possible consistent with its intended use. In some cases, we receive personal information from customers and data controllers for the purpose of de-identifying it on their behalf. We anonymize such data using statistical techniques to create aggregated norms or benchmarks, such as hospital performance measures or benchmark insurance charges in a regional area.  
-Clinical Communications:
+#### Your Personal Information
 
-We may partner with customers such as health plans and health care providers to help them inform patients about treatment options such as clinical trials. We also may partner with customers to help them provide information on health-related products and services of potential interest to their consumers. We will not use personal information for such purposes unless:
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
-  * The activity is permitted by law; 
-  * The activity promotes health and well-being; and 
-  * Individuals are given the opportunity to "opt-out" of the program or to "opt-in" to the program where required by law or by the customer or data controller. 
+We may use personal information for a number of purposes such as:
 
-
-
-**In addition:**  
-We will not distribute information or solicitations to consumers enrolled in government health care programs for purposes other than assisting a customer in carrying out treatment, payment or health care operations, unless approved in advance by the sponsoring government agency and requested by the individual without any solicitation on our part. 
-
-We will not solicit or provide information to consumers based on their status with or at risk for mental health, substance abuse, or HIV/AIDS, unless we are acting on behalf of a customer who has obtained appropriate consent/authorization or is otherwise legally authorized to make such contact, or when approved by an institutional review board or privacy board for research purposes in accordance with applicable law.
-
-**Information Disclosure:**  
-We will not disclose personal or proprietary information, which we obtain in the course of providing products and services to our customers, to any third party except: (1) as required by law, or (2) consistent with applicable law and our obligations to the customer, data controller and/or individual from whom we received the information, as follows: 
-
-  * We may disclose personal information to a service provider to perform a specific service on our behalf, but only when consistent with this policy and subject to a contract that: 
-
-
-  1. Prohibits them from using the information for any other purpose; 
-  2. Requires them to conform to our privacy and security obligations; and 
-  3. Allows for an audit of their compliance. 
-
-
-  * We will not share one customer's information with another customer, except at the customer's direction or as part of de-identified aggregated norms. At the direction of a customer, such as an employee benefit plan sponsor, we will disclose the customer's information to its other service providers, from its service providers back to the customer, or to other entities participating with the customer in an organized health care arrangement. The other entities may also be our customers. 
-  * We disclose personal information about clinical investigators and encoded patient data from clinical research trials to the study sponsor in accordance with the individual's consent or contract. Personal or proprietary information may be included in assets transferred as part of a merger or sale of the company's assets. 
+  * To respond to an email or particular request from you.
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To administer surveys and promotions.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To perform analytics and to improve our products, websites, and advertising.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
 
 
 
-**International Data Transfers:**  
-Ingenix is a multi-national company with offices and customers in many countries. We may transfer personal or proprietary information to one of our other international offices, to contractors, or to a customer located outside the country in which it was originally collected in accordance with international data protection laws. 
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.”
 
-**Website Privacy:**  
-We do not identify visitors to our World Wide Web site unless they choose to identify themselves, such as to obtain information about products or clinical trials.
+We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
-  * Our website may deposit a small file called a "cookie" on a visitor's computer hard drive to personalize their experience or track aggregate site visitation statistics. Visitors may choose to use technologies to block such "cookies," but in some cases they may not have access to the full functionality of the website. 
-  * We may record a website visitor's Internet Protocol (IP) address for security reasons and to evaluate how our website is being used. We do not use IP addresses to identify individuals. 
+#### Sharing Personal Information
 
+We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
+We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
 
-Our website is not designed to attract children; we do not collect or maintain information from our website from individuals that we actually know are under the age of 13 years.
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors.
 
-Certain portions of this web site are configured to permit users to post messages, comments, or other content. Any such content is only the opinion of the poster, is no substitute for your own research, and should not be relied upon for any purpose. You should not post any content:
+If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-  * Which is profane, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise objectionable; or 
-  * The transmission of which could violate, or facilitate the violation of, any applicable law, regulation or intellectual property rights. 
+We may also share personal information with other third party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications.
 
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information.
 
+#### Website and Information Security
 
-You are solely responsible for the content of any postings you submit and Ingenix assumes no responsibility or liability for any content submitted by you. We may, but are not obligated to, restrict or remove any and all content from a message that we determine in our sole discretion violates these guidelines or is otherwise harmful to us, Ingenix customers or any third party. Ingenix reserves the right to purge the content you provide after 90 days of creation, but you understand that Ingenix may access, preserve, and disclose the content if required to do so by law or in a good faith belief that such access, preservation or disclosure is required by law.
+We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
-Any content you submit is for non-commercial use only. Any content you submit will be routed through the Internet and you understand and acknowledge that you have no expectation of privacy with regard to any content you submit. Never assume that you are anonymous and cannot be identified by your posts.
+#### Our Online Communication Practices
 
-If you do post content or submit material, and unless we indicate otherwise, you grant Ingenix and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant Ingenix and its affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate these Terms and Conditions and will not cause injury to any person or entity; and that you will indemnify Ingenix or its affiliates for all claims resulting from content you supply. 
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications.
 
-Last Updated March 5, 2008 
+#### **Information for Children Under 13**
+
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
+
+#### Contact Us
+
+To contact us regarding this policy and our related privacy practices, please email or write to us at: [privacy@optum.com](mailto:privacy@optum.com) or Optum Privacy Office, MN051, 13625 Technology Drive, Eden Prairie, MN 55344. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
+
+#### Effective Date
+
+The effective date of this policy is January 1, 2014.
+
+#### **Changes to this Website Privacy Policy**
+
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.
