@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqueauction.ae privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103163546id_/http%3A//www.uniqueauction.ae/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqueauction.ae privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410075256id_/http%3A//www.uniqueauction.ae/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | UniqueAuction.ae
 
