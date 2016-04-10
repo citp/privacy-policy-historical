@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807012207id_/http%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentsprint.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410050042id_/http%3A//www.talentsprint.com/privacy-policy.dpl) for the most accurate reproduction.*
 
 # Privacy Policy - We like safeguard your information | TalentSprint
-
-## Privacy Policy
 
 This site is owned by TalentSprint Education Services Private Limited, hereinafter referred to as "TalentSprint". The terms "TalentSprint" and "TalentSprint" have been used interchangeably in this site. TalentSprint would like to safeguard the information you provide to us about yourself. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information, to this site. Use of this site constitutes your consent to our Privacy Policy. By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
 
