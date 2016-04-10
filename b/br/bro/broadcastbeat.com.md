@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905223804id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410175517id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# 2015 IBC Show Daily News: IBC Show Exhibitors and IBC2015 Exhibition Guide – Privacy Policy
-
-### Privacy Policy
+# Privacy Policy | 2016 NAB Show News by Broadcast Beat. Official NAB Show Media Partner for NAB 2016 and Producer of NAB Show LIVE.
 
 What information does Broadcast Beat Magazine collect?
 
