@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attsavings.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174618id_/http%3A//www.attsavings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attsavings.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410035822id_/http%3A//www.attsavings.com/privacy.html) for the most accurate reproduction.*
 
 # ATTSavings Privacy Policy
 
@@ -46,12 +46,12 @@ IMPORTANT - PLEASE READ: By providing your contact information, including your t
 
 **Access to information** Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates. 
 
-**If You Are a Resident of California**  
-If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information: 
+**If You Are a Resident of California or Delaware**  
+If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties' direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information: 
 
 1) The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year   
 2) The names and addresses of third parties that received such information: and   
 3) If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.   
 4) You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com. 
 
-The Effective Date hereto shall be June 01, 2009 
+The Effective Date hereto shall be September 01, 2015 
