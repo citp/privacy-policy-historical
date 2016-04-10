@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823064919id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealite.in privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410111758id_/http%3A//www.dealite.in/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Online Auction Policy, Terms And Condition | Dealite.in Online Auction Site
 
