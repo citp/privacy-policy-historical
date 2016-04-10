@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222223827id_/http%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410131202id_/http%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | ETC
 
@@ -195,4 +195,4 @@ California privacy rights requests must include the reference “Request for Cal
 
 Share the ETC love! Do you think this information would be helpful to a friend? Fill out the form below to send the page to other recipients, or send it to yourself to save for future use.
 
-http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx 
+https://www.etcconnect.com/Privacy-Policy-and-Terms-of-Use.aspx 
