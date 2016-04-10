@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsoprofitexponential.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324053719id_/http%3A//wsoprofitexponential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoprofitexponential.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410205020id_/http%3A//wsoprofitexponential.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
