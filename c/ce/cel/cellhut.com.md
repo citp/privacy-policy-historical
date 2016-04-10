@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119232727id_/http%3A//www.cellhut.com/Your-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410204840id_/http%3A//www.cellhut.com/Your-Privacy.html) for the most accurate reproduction.*
 
 # CellHut.com's Privacy Policy: How CellHut.com handles your information.
 
