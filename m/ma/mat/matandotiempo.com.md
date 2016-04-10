@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the matandotiempo.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005041015id_/http%3A//culinaryprocollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matandotiempo.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410045715id_/http%3A//culinaryprocollection.com/privacy-policy) for the most accurate reproduction.*
 
-# culinaryprocollection.com Privacy Policy - culinaryprocollection.com
+# Privacy Policy - culinaryprocollection.com
 
-This Privacy Policy governs the manner in which Culinary Pro Collection collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.culinaryprocollection.com](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Pro Collection.
+This Privacy Policy governs the manner in which Culinary Pro Collection collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.culinaryprocollection.com](https://web.archive.org/web/20160410045715id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Pro Collection.
 
 **Personal identification information**
 
@@ -52,8 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Culinary Pro Collection](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
-[www.culinaryprocollection.com](https://web.archive.org/web/20151005041015id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
+[Culinary Pro Collection](https://web.archive.org/web/20160410045715id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
+[www.culinaryprocollection.com](https://web.archive.org/web/20160410045715id_/http://culinaryprocollection.com/privacy-policy/www.culinaryprocollection.com)  
 PO Box 1122 Sunbury, OH 43074  
 (614) 356-8549  
 jeff@culinaryprocollection.com
