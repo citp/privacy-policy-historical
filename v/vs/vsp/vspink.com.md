@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085622id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410113029id_/https%3A//www.victoriassecret.com/privacy-and-security) for the most accurate reproduction.*
 
 # Victoria's Secret Privacy & Security
 
