@@ -1,26 +1,34 @@
-> *The following text is extracted and transformed from the yourpersonalfinancetoday.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528185115id_/http%3A//yourpersonalfinancetoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourpersonalfinancetoday.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410131108id_/http%3A//yourpersonalfinancetoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Loans Blog
+# Your Personal Finance Today - Privacy Policy
 
-This policy describes how and why Online Business Services SA, incorporated in Costa Rica, collects non-personally identifiable data from users and website visitors to Your Personal Finance Today (http://www.yourpersonalfinancetoday.com), and how that data will be used. Online Business Services SA is committed to respecting the privacy of non-personal identifiable data gathered.  
+This policy describes how and why Online Business Services SA, incorporated in Costa Rica, collects non-personally identifiable data from users and website visitors to http://WWW.YOURPERSONALFINANCETODAY.COM, and how that data will be used. Online Business Services SA is committed to respecting the privacy of non-personal identifiable data gathered.
+
 **Use of Data**
 
-Your Personal Finance Today uses non-personally identifiable data collected from users and website visitors in order to:  
-1) To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.  
-2) To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.  
-3) To provide you with support and handle inquires.  
-4) To enforce our terms of use and/or EULA.  
-5) To comply with any applicable law and assist law enforcement agencies as required.  
-6) To conduct surveys and market researches.  
-7) We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+We use non-personally identifiable data collected from users and website visitors in order to:
+
+1)      To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+
+2)      To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+
+3)      To provide you with support and handle inquires.
+
+4)      To enforce our terms of use and/or EULA.
+
+5)      To comply with any applicable law and assist law enforcement agencies as required.
+
+6)      To conduct surveys and market researches.
+
+7)      We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
 
 **Cookies and Log Files**
 
-Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors. 
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website. 
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.
 
-In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
 
 **Age Limit**
 
@@ -36,4 +44,4 @@ This Privacy Policy is governed by and construed in accordance with the laws of 
 
 **Contact us**
 
-Please direct all questions in connection with this Policy via e-mail to: INFO(AT)YOURPERSONALFINANCETODAY(DOT)COM.
+Please direct all questions in connection with this Policy via e-mail to:  **INFO(AT)YOURPERSONALFINANCETODAY(DOT)COM**.
