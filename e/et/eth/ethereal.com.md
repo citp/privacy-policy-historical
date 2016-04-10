@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethereal.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221095654id_/http%3A//www.aos5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethereal.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410172003id_/http%3A//www.aos5.com/privacy) for the most accurate reproduction.*
 
 # AOS | Privacy Policy
 
