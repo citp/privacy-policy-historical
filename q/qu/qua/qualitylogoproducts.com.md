@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054053id_/http%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitylogoproducts.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410110556id_/https%3A//www.qualitylogoproducts.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement Page - Quality Logo Products, Inc.
 
@@ -7,7 +7,7 @@ PRIVACY POLICY & SECURITY STATEMENT
 
 * * *
 
-[ Customer Service](http://www.qualitylogoproducts.com/help.htm) » **Privacy Policy & Security Statement **
+[ Customer Service](https://www.qualitylogoproducts.com/help.htm) » **Privacy Policy & Security Statement **
 
 Concerned about Privacy and Security on the Internet?  
 Quality Logo Products recognizes and shares your concern.  It doesn’t matter if we offer the best customer service, the lowest prices and the highest quality goods in the industry if you don’t feel comfortable and safe.  Therefore, we’ve taken every precaution to ensure your credit card information is protected from unauthorized third parties.  
@@ -25,3 +25,6 @@ Your Other Information
 When you visit our Web site, we automatically recognize some information about you, including your Internet service provider. We don’t automatically recognize your name, address, email address or any other information specific to you, unless you give us that information via our online registration. Our web site technology allows us to keep track of how many times a user visits our site and what features they use, but it does not collect any personably identifiable information. The information we do collect helps us to make sure that our site is meeting yours and other customers’ needs.
 
 Quality Logo Products does NOT share your mailing address with any third party vendors and at no time does Quality Logo Products release your email address or telephone number to any outside parties.
+
+Third Party Analytics  
+We have engaged Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by [Inspectlet’s Privacy Policy](https://www.inspectlet.com/legal#privacy). 
