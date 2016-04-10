@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422033656id_/http%3A//modaoperandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410224039id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Moda Operandi
 
 We at Moda Operandi, Inc. created this Privacy Policy because we care about your privacy and we understand that you want control over how the information you provide to us is used, stored and shared. This Privacy Policy describes how we gather information from you when you visit the Moda Operandi, Inc. website located at www.modaoperandi.com (the “Site”), how your information is used and stored on the Moda Operandi iPhone or iPad app, and how we may use and share that information. By visiting our Site, you are accepting the practices described in this Privacy Policy and the accompanying [Terms and Conditions](https://web.archive.org/terms). 
 
 In this Privacy Policy, the words “we,” “us” and “our” refer to Moda Operandi.   
-Moda Operandi has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal data. The TRUSTe program covers only information that is collected through the site www.modaoperandi.com. 
+
 
 The Information We Collect
 
@@ -33,11 +33,11 @@ Behavioral Targeting / Re-Targeting
 
 We partner with a third party ad network to either display advertising on our Site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal data about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). You may opt out of Google retargeting by clicking [here](https://tools.google.com/dlpage/gaoptout/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-How We Use and Share Your Information
+How We Use and Share Your Information 
 
-We use the Personal Data, the Billing Information, and the Other Information to provide you access to and usage of the Site, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, to administer our rewards and promotional programs, and to improve our services to you. Also, we may use and/or share the Personal Data, the Billing Information, and/or the Other Information as described below. If Moda Operandi intends on using any Personal Data, Billing Information, or Other Information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which it is collected, or, if you have not been so informed, we will inform you and obtain your consent after collection, but before use. Otherwise, we will only share personal data 
+We use the Personal Data, the Billing Information, and the Other Information to provide you access to and usage of the Site, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, to administer our 
 
-with third parties as outlined in this Privacy Policy.
+rewards and promotional programs, and to improve our services to you. Also, we may use and/or share the Personal Data, the Billing Information, and/or the Other Information as described below. If Moda Operandi intends on using any Personal Data, Billing Information, or Other Information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which it is collected, or, if you have not been so informed, we will inform you and obtain your consent after collection, but before use. Otherwise, we will only share personal data with third parties as outlined in this Privacy Policy. 
 
   * Moda Operandi, like many businesses, sometimes hires other companies to perform certain business-related functions. For example, we may pass your Personal Data and Billing Information to our designated service providers in order to process payments, ship products, send mailings, and maintain databases. When we employ another company to perform a function of this nature, we provide the company only with the information they need to perform their specific function. These companies are authorized to use your personal data only as necessary to provide these services to us. By engaging in any transactions on our Site, you agree and consent to Moda’s forwarding of your Personal Data, Billing Information and Other Information to said third parties.
   * We may share your Personal Data and Other Information with our third-party promotional and marketing partners, including, without limitation, businesses participating in our various programs. If you do not want us to share your personal information with these companies, please contact us.
@@ -58,21 +58,11 @@ You should think carefully before disclosing any information in any Public Forum
 
 Accessing, Modifying and Deleting Personal Data and Communication Preferences
 
-You may access, review, delete, and/or make changes to Personal Data that you have provided to us by clicking on "[My Account](https://web.archive.org/account)" on our Site or by emailing us at [care@modaoperandi.com](mailto:care@modaoperandi.com). We will respond to your request to access Personal Data within 30 days. In addition, you may manage your receipt of marketing and non-transactional communications by clicking the “unsubscribe” link located at the bottom of any Moda Operandi marketing emails or by emailing your request to [care@modaoperandi.com](mailto:care@modaoperandi.com). We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional emails related to your account with Moda Operandi. 
+You may access, review, delete, and/or make changes to Personal Data that you have provided to us by clicking on "[My Account](https://web.archive.org/account)" on our Site or by emailing us at [care@modaoperandi.com](mailto:care@modaoperandi.com). 
+
+We will respond to your request to access Personal Data within 30 days. In addition, you may manage your receipt of marketing and non-transactional communications by clicking the “unsubscribe” link located at the bottom of any Moda Operandi marketing emails or by emailing your request to [care@modaoperandi.com](mailto:care@modaoperandi.com). We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional emails related to your account with Moda Operandi. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Important Notices to Non-U.S. Residents/Safe Harbor Certification
-
-Moda Operandi complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
-
-Moda Operandi has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). 
-
-However, it is important to note that the Site and its servers are operated in the United States. If you are located outside of the United States, please be aware that any Personal Data you provide to us will be transferred to the United States. By using the Site and by providing us Personal Data, you consent to this transfer and our use of the information and data provided by you in accordance with this Privacy Policy.
-
-In order to comply with the Safe Harbor framework, Moda Operandi commits to the resolution of complaints about your privacy and our collection or use of your Personal Data. We have also committed to resolve any complaints by European Union citizens relating to this Privacy Policy, which cannot be resolved directly with our company, through the TRUSTe Watchdog Dispute Resolution Process.
-
-If you have any questions regarding this Privacy Policy, please contact us as described in the “How to Contact Us” section below. We will investigate your question, respond to your inquiry, and attempt to resolve any concerns regarding your privacy question. If you do not receive acknowledgement of your complaint or if your complaint is not satisfactorily addressed by Moda Operandi, please visit the TRUSTe Watchdog Dispute Resolution website [here](http://watchdog.truste.com/pvr.php?page=complaint) for more information and to file a complaint. 
 
 California Residents
 
