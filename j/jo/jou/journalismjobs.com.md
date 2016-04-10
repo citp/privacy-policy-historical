@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalismjobs.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908083620id_/http%3A//www.journalismjobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalismjobs.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410055355id_/http%3A//www.journalismjobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
