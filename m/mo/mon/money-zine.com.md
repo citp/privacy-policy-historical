@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906174400id_/http%3A//www.money-zine.com/about/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-zine.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410063556id_/http%3A//www.money-zine.com/about/information/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -38,9 +38,9 @@ Money-Zine.com uses only reputable third party agencies to present or serve adve
 
 To enhance your experience with Money-Zine.com, many of our web pages use "cookies," which are text files placed in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information.
 
-Money-zine.com uses third-party advertisements to help support the website.  Advertisers (such as Google's Adsense program) may use technology such as cookies and web beacons when they advertise. This can send to these advertisers information including your IP address, ISP, the browser you're using, and in some cases whether you have Flash installed.  This information is generally used for geotargeting purposes.  For example, showing New York insurance advertisements to someone located in New York.  They can also be used to show certain ads based on the pattern of websites you may have visited in the past.
+Money-zine.com uses third-party advertisements to help support the website.  Advertisers (such as Google's AdSense program) may use technology such as cookies and web beacons when they advertise. This can send to these advertisers' information including your IP address, ISP, the browser you're using, and in some cases whether you have Flash installed.  This information is generally used for geotargeting purposes.  For example, showing New York insurance advertisements to someone located in New York.  They can also be used to show certain ads based on the pattern of websites you may have visited in the past.
 
-When this website is publishing advertisements from Google, those advertisements may use the DoubleClick DART cookie.  The DART cookie enables Google to serve ads based on user visits to Money-zine.com as well as other websites participating in Google's advertising program.  Users may opt out of the DART cookie by visiting the Google ad and [content network privacy policy](http://www.google.com/policies/privacy/ads/).
+When this website is publishing advertisements from Google, those advertisements may use the DoubleClick DART cookie.  The DART cookie enables Google to serve ads based on user visits to Money-zine.com as well as other websites participating in Google's advertising program.  Users may opt out of the DART cookie by visiting the Google ad and [content network privacy policy](http://www.google.com/policies/privacy/).
 
 Money-Zine.com uses cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), or save your password in password-protected areas.
 
@@ -52,4 +52,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### How to Contact Us
 
-If you have any questions or concerns about the Money-Zine.com privacy policy you may contact us at [privacy@money-zine.com](mailto:privacy@money-zine.com?subject=Privacy%20Question).
+If you have any questions or concerns about the Money-Zine.com privacy policy, you may contact us at [privacy@money-zine.com](mailto:privacy@money-zine.com?subject=Privacy%20Question).
