@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210050954id_/http%3A//www.thebleacherseats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410112703id_/http%3A//www.thebleacherseats.com/privacy-policy) for the most accurate reproduction.*
 
-# TheBleacherSeats – Privacy Policy
+# Privacy Policy | TheBleacherSeats
 
 This privacy policy sets out how TheBleacherSeats uses and protects any information that you give us when you use this website.  
 TheBleacherSeats  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
