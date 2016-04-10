@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgloo.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904150215id_/http%3A//www.hotgloo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgloo.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410061648id_/http%3A//www.hotgloo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - HotGloo | Wireframe UX Prototyping Tool
 
