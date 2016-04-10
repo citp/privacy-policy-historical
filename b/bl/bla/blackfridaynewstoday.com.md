@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfridaynewstoday.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125093944id_/http%3A//blackfridaynewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfridaynewstoday.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410161928id_/http%3A//blackfridaynewstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Friday News Today
 
