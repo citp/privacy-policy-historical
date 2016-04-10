@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229224740id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410180151id_/http%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy & Cookie Policy
 
@@ -87,7 +87,7 @@ Where you tell us you are happy to receive information from us we may send you c
 
 Depending on the contact preferences you select, we will communicate with you by post, telephone, SMS, email or other electronic means such as via social and digital media.
 
-We may also use your data to allow us to show your adverts while you are on-line that are relevant to you. Sometimes, we will use cookies to do this and you can find out more about this and how to turn off cookies by reading our [cookie ](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/)policy.
+We may also use your data to allow us to show your adverts while you are on-line that are relevant to you. Sometimes, we will use cookies to do this and you can find out more about this and how to turn off cookies by reading our [cookie policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/).
 
 If you don’t want to receive communications from us you can let us know at any time by contacting us at [feedback](https://web.archive.org/contact-us-old/) or you can select your contact preferences in Your Account.
 
@@ -135,7 +135,7 @@ Back to top
 
 **11. Use of cookies and Analytical Data**
 
-This website uses cookies. View our [cookies policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
+This website uses cookies. View our [cookie policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for a full list of the cookies that we use, third party cookies and how to disable them.
 
 A cookie is a small file that is placed on your device, which enables a server to identify that device and allows us to offer the best services possible. Cookies are commonly used on the Internet and do not harm your computer system.
 
@@ -149,7 +149,7 @@ We use cookies, pixel tags or action tags for various purposes, including: 
 
 \- To assist in the provision of ads which are relevant to you when browsing the internet.
 
-We are continually looking to  improve your user experience and so regularly adopt and implement new technologies to help us do this. Please regularly check our [Cookie Policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for full details of the cookies we are currently using.
+We are continually looking to  improve your user experience and so regularly adopt and implement new technologies to help us do this. Please regularly check our [cookie policy](https://web.archive.org/information/privacy-policy/privacy-policy-use-of-cookies/) for full details of the cookies we are currently using.
 
 Analytical Data
 
