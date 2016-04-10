@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rockandrepublic.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629013439id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockandrepublic.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410175143id_/http%3A//www.kohls.com/catalog/common/content.jsp%3FpageName%3Dsecurityprivacy) for the most accurate reproduction.*
 
 # Kohl's
+
+Sponsored Links 
+
+The links below are ads provided by the Google AdWords™ program. Outside companies pay to advertise via these links when specific phrases and words are searched. These ads are provided by Google and are labeled as sponsored links. Clicking on these links will open a new tab displaying that respective company's own website. The website you link to is not affiliated with or sponsored by Kohls.com
 
 ## (Updated as of June 5, 2014)
 
@@ -275,7 +279,7 @@ Although we will take reasonable security precautions regarding your personal in
 
 Kohl’s is also BBB Accredited for the Web. Click on the BBB Seal below to learn more about this certification.
 
-[ABOUT SSL CERTIFICATES](http://www.verisign.com/ssl/ssl-information-center/) [](http://www.bbbonline.org/reliability/requirement_small.asp)
+[ABOUT SSL CERTIFICATES](http://www.verisign.com/ssl/ssl-information-center/) [](http://www.bbb.org/wisconsin/accredited-business-directory/find/kohl-s/milwaukee-wi?s=kohl%2527s&cbbb=1)
 
 (b) _In-store Cameras_ : Kohl's uses in-store cameras, primarily for fraud-detection and security, as well as for operational and customer insight purposes, such as measuring traffic patterns.
 
@@ -311,4 +315,4 @@ If you have any questions, comments or concerns with respect to our privacy prac
 
 Back to Top
 
-© 2014 Kohl's Department Stores, Inc. All rights reserved.
+© 2015 Kohl's Department Stores, Inc. All rights reserved.
