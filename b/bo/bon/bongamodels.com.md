@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bongamodels.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914053058id_/http%3A//bongamodels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongamodels.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410081939id_/http%3A//bongamodels.com/privacy) for the most accurate reproduction.*
 
-# BongaCams Models - Become a Webcam Model
+# Privacy Policy for Models and Studios
 
 I hereby authorize BongaCams to process technical data related to my visit to the BongaCams website and my personal data, including sensitive data (e.g. relating to my sexual life), provided by me or collected during the registration process in accordance with the present Privacy Policy, during the period of my subscription with BongaCams and after cancellation of my subscription during the period necessary for BongaCams to comply with legal requirements.
 
