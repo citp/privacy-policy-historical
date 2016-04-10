@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitre.org privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215135123id_/http%3A//www.mitre.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre.org privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411002645id_/http%3A//www.mitre.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The MITRE Corporation
 
