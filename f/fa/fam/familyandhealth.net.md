@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyandhealth.net privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124162130id_/http%3A//familyandhealth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyandhealth.net privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410133404id_/http%3A//familyandhealth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Family and Health
 
