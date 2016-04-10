@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906164300id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410052413id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
 
 # Touch of Modern
 
@@ -29,9 +29,10 @@ We may receive a confirmation when you open an email from Company if your comput
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s (or other device’s) persistent storage medium (e.g., hard drive) through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s (or other device’s) persistent storage medium (e.g., hard drive) through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
   * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
   * Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer or other device each time they send you an online advertisement to compile information about you or others who use your computer or device. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers.
+  * We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at www.networkadvertising.org/choices.
 
 
 
@@ -92,4 +93,4 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at hello[at]touchofmodern.com. We will make every effort to resolve your concerns.
 
-Effective Date: April 2, 2012
+Effective Date: February 10, 2016
