@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crypto-clix.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208164448id_/http%3A//www.crypto-clix.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crypto-clix.net privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410072637id_/http%3A//www.crypto-clix.net/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Crypto Clix Fast & Easy
 
