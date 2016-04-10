@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffictravis.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217044648id_/http%3A//www.traffictravis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffictravis.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410232817id_/https%3A//www.traffictravis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
