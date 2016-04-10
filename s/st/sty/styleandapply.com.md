@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the styleandapply.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911165315id_/http%3A//www.styleandapply.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleandapply.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410100639id_/https%3A//www.styleandapply.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Style & Apply (“Style & Apply”, “We”, Us”, “Our”) is committed to ensuring that your privacy is protected. This privacy policy applies to our website, [www.styleandapply.com](http://www.wallspirit.com/) and describes how Style & Apply collects and uses the personal information you provide on our web site.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+Style & Apply (“Style & Apply”, “We”, Us”, “Our”) is committed to ensuring that your privacy is protected. This privacy policy applies to our website, [www.styleandapply.com](http://www.styleandapply.com/) and describes how Style & Apply collects and uses the personal information you provide on our web site.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **1.  ** **Information Collection and Use**
 
@@ -40,19 +40,19 @@ From time to time, we may also use your information to contact you for market re
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy.  We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
-  * _Service Providers_
+  * **_Service Providers_**
 
 
 
 We may provide your personal information to companies that provide services to help us with our business activities such as processing your payment, shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us and are contractually obligated to keep your information confidential.
 
-  * _Frames_
+  * **_Frames_**
 
 
 
 Some of our pages utilize framing techniques to serve content to from our service providers (such as when you enter your billing information) while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.styleandapply.com
 
-  * _  Legal Disclaimer_
+  * _  **Legal Disclaimer**_
 
 
 
@@ -67,11 +67,11 @@ We may also disclose your personal information:
 
 **2.   ****User Access and Choice**
 
-If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [support@styleandapply.com](mailto:info@wallspirit.com) or by contacting us by telephone or postal mail at the contact information listed below.  If you no longer desire our service, you may contact us directly.  You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please use the mailing address listed below.  We will respond to your request within 30 days.
+If your personal information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user account settings page, by emailing our Customer Support at [support@styleandapply.com](mailto:info@styleandapply.com) or by contacting us by telephone or postal mail at the contact information listed below.  If you no longer desire our service, you may contact us directly.  You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please use the mailing address listed below.  We will respond to your request within 30 days.
 
 We will retain your information for as long as your account is active, as needed to provide you services and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  * _Opt-out Preferences_
+  * **_Opt-out Preferences_**
 
 
 
@@ -80,7 +80,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@styleandapply.com.](mailto:info@wallspirit.com)
+  * You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@styleandapply.com.](mailto:info@styleandapply.com)
 
 
 
@@ -146,7 +146,7 @@ The use of tracking technologies by our service providers, technology partners o
 
 **1.   ****Security**
 
-The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@styleandapply.com.](mailto:info@wallspirit.com) ****
+The security of your personal information is important to us.  When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@styleandapply.com.](mailto:info@styleandapply.com) ****
 
 **2.  **  **Additional Information** ****
 
