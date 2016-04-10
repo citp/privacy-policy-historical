@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insomniacgames.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065507id_/http%3A//insomniacgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniacgames.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410060454id_/http%3A//www.insomniacgames.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Insomniac Games
+# Privacy Policy - Insomniac Games
 
 Insomniac Games, Inc., is committed to maximizing your experience on its website within a trusted environment. This privacy policy explains how we collect, protect, use and share information gathered about you online. We hope this disclosure will help increase your confidence in the Insomniac Games website and enhance your experience. Please note that this privacy policy applies only to information submitted and collected online at our website. It does not apply to information that you may submit to us offline, or to websites maintained by other companies or organizations to which we may link.
 
