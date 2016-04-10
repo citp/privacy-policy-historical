@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the analysisgenerator.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117190609id_/http%3A//analysisgenerator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analysisgenerator.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410073705id_/http%3A//analysisgenerator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO Analysis Generator
+# Privacy Policy | Website Analysis Generator
 
 AnalysisGenerator.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.  
 **  
