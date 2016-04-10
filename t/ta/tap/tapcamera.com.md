@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tapcamera.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711083507id_/http%3A//tapcamera.com/privacy-policy/%23comment-18552) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapcamera.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410083909id_/http%3A//tapcamera.com/privacy-policy/%23comment-18552) for the most accurate reproduction.*
 
 # Privacy Policy | Tap Camera
 
