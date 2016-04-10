@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthstatus.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022191940id_/http%3A//www.healthstatus.com/privacy-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthstatus.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410061714id_/https%3A//www.healthstatus.com/privacy-data-policy) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
@@ -45,3 +45,18 @@ Our site gives users the opportunity to opt-in to receive communications from us
 #### Correct/Update:::
 
 To change or modify information previously provided: e-mail privacy@HealthStatus.com
+
+  * About
+  * Latest Posts
+
+
+
+[](http://www.healthstatus.com/ "HealthStatus")
+
+### [HealthStatus](http://www.healthstatus.com/)
+
+HealthStatus has been operating since 1998 providing the best interactive health tools on the Internet, millions of visitors have used our [health risk assessment](https://web.archive.org/assessments/), [body fat](https://web.archive.org/calculate/body-fat-percentage-calculator) and [calories burned](https://web.archive.org/calculate/cbc) calculators.The HealthStatus editorial team has continued that commitment to excellence by providing our visitors with easy to understand high quality health content for many years.
+
+[](http://www.healthstatus.com/ "HealthStatus")
+
+#### Latest posts by HealthStatus ([see all](https://www.healthstatus.com/health_blog/author/healthstatus-2/))
