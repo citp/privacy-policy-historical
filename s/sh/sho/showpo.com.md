@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910173338id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410103839id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SHOWPO Fashion Online Shopping
 
@@ -123,7 +123,3 @@ SHOWPO reserves the right to modify and change the Privacy Statement at any time
 **Complaints about breaches of Privacy**
 
 If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at info@showpo.com
-
-Suite 4B, Level 4, 119 Kippax St  
-Surry Hills, NSW, 2010, Australia  
-+61 2 8279 8111 
