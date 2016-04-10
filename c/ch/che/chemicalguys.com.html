@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906080437id_/https%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chemicalguys.com privacy policy that was archived on 2016-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160410125902id_/http%3A//www.chemicalguys.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -11,7 +11,7 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVFGR3"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://d2j3qa5nc37287.cloudfront.net/coupon_code1.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TVFGR3"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
@@ -31,7 +31,7 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
-<script type="text/javascript" src="/a/j/volusion.js?7.08.0.185"></script>
+<script type="text/javascript" src="/a/j/volusion.js?7.26.0.580"></script>
 <script type="text/javascript">
     (function ($) {
         volusion.ready(function () {
@@ -65,7 +65,7 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.08.0.185"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_7.26.0.580"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
@@ -193,8 +193,76 @@ catch (e) {
   })();
 </script>
 
+<script type="text/javascript">
+    function setCookie(cname, cvalue, exdays) {
+    	var d = new Date();
+    	d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    	var expires = "expires="+d.toUTCString();
+    	document.cookie = cname + "=" + cvalue + "; " + expires;
+    } 
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+        }
+        return "";
+    }
+
+    function checkCookie(cname) {
+        var cart_id=getCookie(cname);
+        if (cart_id!="") {
+            return true;
+        }else{
+        	return false;
+        }
+    }
+
+    function getParameterByName(name) {
+        var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+        return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+    }
+
+    var get_name = 'ref'
+    var ref = getParameterByName(get_name);
+
+    if (ref == 'cj' || ref == 'CJ') {
+        setCookie('ref', 'cj', 45);
+    }
+
+    console.log(getCookie(get_name));
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '246993718824889');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=246993718824889&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body onload="updateHeaderCartSummary();">
+
+<!--Open Body Tag -->
+<script type="text/javascript">
+	document.write(unescape("%3Cscript src='"
+		+ ((document.location.protocol == "https:") ? "https:" : "http:")
+		+ "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var bta = new __bta('bqqzuqrooatqjqkleczjvthqceqqblj');
+	bta.setHost("app.bronto.com");
+</script>
 
 <!---------- Sticky Footer ---------->
 <div id="footer_sticky">
@@ -302,7 +370,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<li><a href="/category_s/360.htm" title="Foam Wash Guns">Foam Wash Guns</a></li>
 						<li><a href="/Green_Mobile_Detailing_Waterless_Wash_Eco_Friendly_s/131.htm" title="Waterless Detailing Products">Waterless Detailing Products</a></li>
 						<li><a href="/car_wash_mats_water_reclamation_systems_water_recovery_s/143.htm" title="Water Reclamation Systems">Water Reclamation Systems</a></li>
-						<li><a href="/Defelsko_PosiTest_DFT_Combo_Electronic_Paint_Thickness_Gau_s/196.htm" title="Paint Thickness Gauges">Paint Thickness Gauges</a></li>
 						<li><a href="/Vacuums_Blowers_Stain_Extractors_s/102.htm" title="Vacuums, Extractors &amp; Blowers">Vacuums, Extractors &amp; Blowers</a></li>
 						<!--<li><a href="/windshield_windshield_repair_auto_glass_repair_training_s/166.htm" title="Windshield Repair Kits &amp; Systems">Windshield Repair Kits &amp; Systems</a></li>-->
 					</ul>
@@ -345,17 +412,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 				</div>
 			</li>
+            <li class="nav-first" id="topnav_link7">
+				<a href="/Boat_Marine_and_RV_s/621.htm" title="Marine" class="nav-first-link">Marine</a>
+			</li>
 			<li class="nav-first" id="topnav_link6">
 				<a href="/New_Products_s/2.htm" title="New Products" class="nav-first-link">New Products</a>
 			</li>
 			<li class="nav-first" id="topnav_link7">
-				<a href="/Clearance_s/261.htm" title="Clearance/Discounts" class="nav-first-link">Clearance/Discounts</a>
-				<div class="sub-nav-dropdown">
-					<div class="sub-nav-promo">
-						<h4 id="sub-nav-promo-7-1"><a href="/Clearance_s/261.htm" title="Clearance Products">Clearance Products</a></h4>
-						<h4 id="sub-nav-promo-7-2"><a href="/COUPONS_s/245.htm" title="Coupons &amp; Freebies">Coupons &amp; Freebies</a></h4>
-					</div>
-				</div>
+				<a href="/Clearance_s/245.htm" title="Freebies" class="nav-first-link">Freebies</a>
 			</li>
 			<li class="nav-first" id="topnav_link8">
 				<a href="/category_s/370.htm" title="Learning Center" class="nav-first-link">Learning Center</a>
@@ -379,9 +443,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="sitewide-banner-wrapper">
 	<div id="sitewide-banners">
 		<div id="sitewide-banner-left" class="sitewide-banner"><b>Free Shipping</b> <span>on Orders of $50 or More!</span> <a href="/COUPONS_s/245.htm" title="See the Details"><img src="/v/vspfiles/templates/ChemicalGuys/images/template/btn-details.png" alt="Details"></a></div>
-		<div id="sitewide-banner-right" class="sitewide-banner"><b>TORQ 22D</b> <span>Random Orbital<br>Polisher</span> <a href="/New_Products_s/619.htm&amp;icn=HOMEPAGE&amp;ici=HPTOP_041615_01" title="Shop Now"><img src="/v/vspfiles/templates/ChemicalGuys/images/template/btn-shop.png" alt="Shop"></a></div>
+		<div id="sitewide-banner-right" class="sitewide-banner"><b>64 oz</b> <span>MAXI SUDS<br>Super Soaps</span> <a href="/SearchResults.asp?Search=64+oz&amp;Submit=&amp;icn=HOMEPAGE&amp;ici=HPTOP_030216_01" title="Shop Now"><img src="/v/vspfiles/templates/ChemicalGuys/images/template/btn-shop.png" alt="Shop"></a></div>
 	</div>
-</div>
+</div> 
 
 <!-- CONTENT -->   
 <div id="content-wrapper">
@@ -418,6 +482,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="/category-s/283.htm">Contact Us</a></li>
 				<li><a href="/Testimonials_On_Chemical_Guys_Products_s/37.htm">Testimonials</a></li>
 				<li><a href="/kb_results.asp?Cat=1">FAQ/Q&amp;A</a></li>
+<li><a href="/Careers_s/629.htm">Careers</a></li>
 			</ul>
 			<ul>
 			<li class="title">My Account</li>
@@ -446,13 +511,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h4>Detail Garage Showrooms</h4>
 			<div class="footer-showroom">
 				<h5>Gardena, CA</h5><h5>San Diego, CA</h5>
-				<h5>Santa Ana, CA</h5>
+				<h5>Santa Ana, CA</h5><h5>Montclair, CA</h5>
 				<a href="/showrooms-s/240.htm" title="Showroom Directions">Directions, Phone &amp; Hours</a>
 			</div>
 		
 
 		</div>
-		<div id="footer-btm"><a href="/terms.asp">Copyright © <script type="text/javascript">document.write(new Date().getFullYear());</script>2020<noscript>2014</noscript> ChemicalGuys.com</a>. All Rights Reserved.</div>
+		<div id="footer-btm"><a href="/terms.asp">Copyright © <script type="text/javascript">document.write(new Date().getFullYear());</script>2020<noscript>2014</noscript> ChemicalGuys.com</a>. All Rights Reserved. All Content, Images and Videos are Property of ChemicalGuys.com. Any Unauthorized Usage is Prohibited. Not responsible for typographical, Technical, or descriptive errors of products herein. Prices are subject to change. Website has the latest prices. Chemical Guys reserves the right to end any offer, promotion or coupon at any time. Chemical Guys and the Chemical Guys Logo are registered trademarks. Any other trademarks or trade names are properties of their respective owners.<br><br>
+</div>
 	</div>
 </div>
 
@@ -472,7 +538,6 @@ ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://w
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-
 
 <!-- ==========================================================================================
 JUSTUNO LINK
@@ -532,9 +597,11 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=246993718824889&amp;ev=NoScript" /></noscript>
 
-<div id="display_cart_summary"><div class="cartsummary_full">(Your shopping cart contains 36 items for a total cost of $2,392.10)&nbsp;<a href="/ShoppingCart.asp">View My Cart</a></div></div>
+<div id="display_cart_summary"><div class="cartsummary_empty">(Your shopping cart is empty)</div></div>
 
 <script type="text/javascript" src="/v/unified.js.asp"></script>
+
+
 
 
 
