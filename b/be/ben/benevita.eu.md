@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the benevita.eu privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212185507id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benevita.eu privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410070230id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
 
 # ACN Europe Privacy Policy
 
-ACN takes the privacy of our Independent Representatives and customers seriously. We are committed to safeguarding your privacy while providing You with high-quality services and products.
+ACN takes the privacy of our Independent Business Owners and customers seriously. We are committed to safeguarding your privacy while providing You with high-quality services and products.
 
 **Objective and Scope of This Privacy Policy**
 
@@ -10,7 +10,7 @@ This ACN Europe Privacy Policy (“Privacy Policy”) is issued by ACN Europe B.
 
 **Your Consent to Use Personal Data**
 
-We use your Personal Data only with your consent. You may withhold or withdraw your consent for ACN to process your Personal Data. Certain Personal Data is required for Us to provide services or products to You or to meet our legal obligations, and your withholding or withdrawal of consent to use this Personal Data may prevent ACN from providing the services and products that You have ordered. Other Personal Data is not required for Us to provide services or products to You but is used by Us to provide You with better service or for marketing, communications, and other purposes. You are not required to consent to this use of your Personal Data. We will advise You which Personal Data You must provide and which is optional. By using ACN’s websites, you consent to the collection of certain information. See **How Do We Collect Information?** below.
+We use your Personal Data only with your consent. You may withhold or withdraw your consent for ACN to process your Personal Data. Certain Personal Data is required for Us to provide services or products to You or to meet our legal obligations, and your withholding or withdrawal of consent to use this Personal Data may prevent ACN from providing the services and products that You have ordered. Other Personal Data is not required for Us to provide services or products to You but is used by Us to provide You with better service or for marketing, communications, and other purposes. You are not required to consent to this use of your Personal Data. We will advise You which Personal Data You must provide and which is optional. By using ACN’s websites, you consent to the collection of certain information. See How Do We Collect Information? below.
 
 **What Information Do We Collect?**
 
@@ -30,7 +30,7 @@ The Personal Data and other information that we process varies depending on your
 
 **Use of Cookies**
 
-Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You re-visit a page or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. You can control whether or not your computer accepts cookies, however, refusing to accept cookies may affect your experience using our websites. For more information about cookies, please go to the website www.allaboutcookies.org.
+Cookies are small text files that are sent to your computer so that our websites can remember the settings and information that you submit, so that You don’t have to re-enter them when You re-visit a page or visit a new page on the same website. We also use cookies to measure how You use our websites so that We can make sure that they meet your needs. You can control whether or not your computer accepts cookies, however, refusing to accept cookies may affect your experience using our websites. For more information about cookies, please go to the website [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 **How Do We Collect Information?**
 
@@ -39,7 +39,7 @@ We collect Personal Data and other information from You in a variety of ways, in
 • the submission of Personal Data by You to ACN through our websites ;  
 • the use of cookies;  
 • the submission of a paper or online order for ACN services or products;  
-• the submission of an Independent Representative Agreement;  
+• the submission of an Independent Business Owner Agreement;  
 • when We and You communicate by email, telephone, fax, chat line, or otherwise; and   
 • provision of your Personal Data to ACN by ACN’s business partners.
 
@@ -56,7 +56,7 @@ ACN processes Personal Data for a variety of purposes, including:
 • to improve the products and services that We offer to You and to develop new products and services  
 • to identify product and services offered by other companies that We believe might be of interest to You   
 • to meet our legal and regulatory obligations and to protect ACN’s legal and financial interests (including fraud detection and prevention)  
-• for the provision of services to our Independent Representatives and compliance with our contractual obligations to Independent Representatives  
+• for the provision of services to our Independent Business Owners and compliance with our contractual obligations to Independent Business Owners  
 • to facilitate financial, accounting and administrative functions  
 • to send commercial and marketing communications to You about services and products from ACN and ACN business partners that We believe may be of interest to you.
 
@@ -66,9 +66,9 @@ We may provide your Personal Data to governmental authorities in response to spe
 
 ACN keeps your Personal Data as long as it is required for the purposes for which it was initially collected. In certain cases We may need to keep your Personal Data for a minimum period to comply with legal requirements. We do not keep your Personal Data longer than permitted by law.
 
-**Where and How Do We Store Your Personal Data?**
+Where and How Do We Store Your Personal Data?
 
-Your Personal Data is stored by ACN on secure computer servers located in The Netherlands, Poland, and/or Sweden. Some Personal Data is transferred to our parent company and affiliates of ACN outside the European Union, including the United States. See **Transfer of Personal Data to Third Parties** below. All Personal Data is stored according to industry standards. See **Security** below. 
+Your Personal Data is stored by ACN on secure computer servers located in The Netherlands, Poland, and/or Sweden. Some Personal Data is transferred to our parent company and affiliates of ACN outside the European Union, including the United States. See Transfer of Personal Data to Third Parties below. All Personal Data is stored according to industry standards. See Security below. 
 
 **Third-Party Sites**
 
@@ -106,5 +106,5 @@ ACN uses reasonable efforts to comply with the terms of this Privacy Policy and 
 
 ACN may change this Privacy Policy at any time without prior notice. All changes are effective immediately after they are posted on ACN’s websites. 
 
-**Version 5.0  
-Issue Date: 30 June 2014**
+**Version 5.1  
+Issue Date: 1 June 2015**
