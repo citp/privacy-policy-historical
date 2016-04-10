@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908200949id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410164819id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
 
 # JIBO
 
@@ -32,11 +32,11 @@ We have reasonable security measures in place with the goal of protecting agains
 
 #### Contact
 
-If you have any questions about this privacy statement, our information practices, or your dealings with the Jibo website, please contact us:
+If you have any questions about this privacy statement, our information practices, or your dealings with the Jibo website, please [contact us](https://web.archive.org/web/20160410164819id_/https%3A//www.jibo.com/%3C/contact-us):
 
 Jibo, Inc.   
-745 Atlantic Avenue   
-Boston, MA 02111 USA   
+230 Congress Street   
+Boston, MA 02110 USA   
 Attn: Privacy 
 
 [privacy@myjibo.com](mailto:privacy@myjibo.com)
