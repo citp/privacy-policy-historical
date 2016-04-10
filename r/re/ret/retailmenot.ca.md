@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailmenot.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905100549id_/http%3A//www.retailmenot.ca/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailmenot.ca privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410165330id_/http%3A//www.retailmenot.ca/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy (" ** _Privacy Policy_** ") explains how RetailMeNot, B.V. (
 
 Please read this Privacy Policy carefully. This Privacy Policy replaces and supersedes the last version of this Privacy Policy for all users. If you do not agree to our practices, please do not subscribe or otherwise interact with the Services.
 
-Please [Contact Us](http://www.retailmenot.ca/contact/) if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via postal mail at the following address:
+Please [Contact Us](http://help.retailmenot.com/) if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us via postal mail at the following address:
 
 RetailMeNot B.V.  
 c/o Legal Department  
@@ -120,7 +120,7 @@ We think that you benefit from a more personalized experience when we know more 
 
 #### Email
 
-You can manage your email preferences by submitting a request through our [Contact Us](https://web.archive.org/web/20150905100549id_/http://www.retailmenot.ca/static/privacy/www.retailmenot.ca/contact) form located at www.retailmenot.ca/contact and clicking on the "Email Preferences" link. You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may also update your subscription preferences from time to time. If you wish to opt out of receiving offers directly from RetailMeNot merchants or business partners, you can follow the opt-out instructions in the emails that they send you.
+You can manage your email preferences by submitting a request through our [Contact Us](http://help.retailmenot.com/) form located at http://help.retailmenot.com. You can also manage your subscriptions by following subscription management instructions contained in the commercial messages that we send you. You may choose to subscribe to some types of messages, and may choose to unsubscribe from others. You may also update your subscription preferences from time to time. If you wish to opt out of receiving offers directly from RetailMeNot merchants or business partners, you can follow the opt-out instructions in the emails that they send you.
 
 #### Cookies
 
@@ -132,13 +132,13 @@ If you access any of the Services through a mobile device or mobile browser, you
 
 ## 7\. Accessing and Correcting Personal Information
 
-Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners. If you would like to access or request a correction to any Personal Information we hold regarding you, or have other questions or requests, please [Contact Us](http://www.retailmenot.ca/contact/).
+Keeping Personal Information about you current helps ensure that we offer you the best coupons available through our merchants and business partners. If you would like to access or request a correction to any Personal Information we hold regarding you, or have other questions or requests, please [Contact Us](http://help.retailmenot.com/).
 
-We will generally retain your Personal Information for as long as your email address is active or as needed to provide you services. If you wish to unsubscribe your email or request that we no longer use your Personal Information to provide you services, please [Contact Us](http://www.retailmenot.ca/contact/). In response, we will cancel or remove your Personal Information but may retain and use copies of your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will generally retain your Personal Information for as long as your email address is active or as needed to provide you services. If you wish to unsubscribe your email or request that we no longer use your Personal Information to provide you services, please [Contact Us](http://help.retailmenot.com/). In response, we will cancel or remove your Personal Information but may retain and use copies of your Personal Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## 8\. Security of Personal Information
 
-RetailMeNot follows generally accepted industry standards to protect the Personal Information that you provide. For example, we regularly monitor our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure, however. For this reason, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about our security practices, please [Contact Us](http://www.retailmenot.ca/contact/).
+RetailMeNot follows generally accepted industry standards to protect the Personal Information that you provide. For example, we regularly monitor our system for possible vulnerabilities and attacks, and we use a tier-one secured-access data center. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure, however. For this reason, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you have any questions about our security practices, please [Contact Us](http://help.retailmenot.com/).
 
 ## 9\. Notice to Residents of Countries outside the United States of America
 
@@ -158,7 +158,7 @@ This Privacy Policy only addresses the use and disclosure of information by Reta
 
 ## 11\. Communities
 
-Our Services may contain Communities and other areas where you may be able to publicly post information, communicate with others (such as via discussion boards or blogs), review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others in a manner we cannot control. For example, if you post your email address along with a comment explaining how to redeem a particular coupon, you may receive unsolicited messages from other parties. We are not able to control the use by third parties of Personal Information you post to public areas of the Services. Please avoid publicly posting Personal Information. If you have questions about Personal Information that you have publically posted in our Communities, please [Contact Us](http://www.retailmenot.ca/contact/).
+Our Services may contain Communities and other areas where you may be able to publicly post information, communicate with others (such as via discussion boards or blogs), review products and merchants, and submit media content. Prior to posting in these areas, please read our Terms of Use carefully. All the information you post will be accessible to anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others in a manner we cannot control. For example, if you post your email address along with a comment explaining how to redeem a particular coupon, you may receive unsolicited messages from other parties. We are not able to control the use by third parties of Personal Information you post to public areas of the Services. Please avoid publicly posting Personal Information. If you have questions about Personal Information that you have publically posted in our Communities, please [Contact Us](http://help.retailmenot.com/).
 
 ## 12\. Changes to this Privacy Policy
 
