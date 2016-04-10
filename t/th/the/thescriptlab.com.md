@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216204148id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410040717id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Script Lab
 
