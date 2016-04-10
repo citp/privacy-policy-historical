@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626022414id_/http%3A//jauce.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2016-04-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160410204253id_/http%3A//www.jauce.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--?xml version="1.0" encoding="iso-8859-1"?--><head>
-<link rel="stylesheet" href="style.css" type="text/css">
+<!-- link rel="stylesheet" href="style.css" type="text/css" / -->
 <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
 <link href="japanas_styles.css" rel="stylesheet" type="text/css">
 <link href="css/reset.css" rel="stylesheet" type="text/css">
@@ -16,7 +16,7 @@
 <style type="text/css"><!--
 .style2 {color: #999999}
 --></style>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">
 <!--
 var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
 "http://www.trustlogo.com/trustlogo/javascript/cot.js";
@@ -24,8 +24,16 @@ document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/j
 -->
 </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
 
+
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"yFxQj1a8y100Oe", domain:"jauce.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=yFxQj1a8y100Oe" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
 </head>
-<body><span hidden="" id="SmartScroll.marcmoini.com"></span>
+<body style=""><span hidden="" id="SmartScroll.marcmoini.com"></span>
 
 
 <style>
@@ -80,7 +88,7 @@ $(function() {
 //Depending on whether your page supports SSI (.shtml) or PHP (.php), UNCOMMENT the line below your page supports and COMMENT the one it does not:
 //Default is that SSI method is uncommented, and PHP is commented:
 
-var currenttime = 'Thursday June 26, 2014 11:24:15'; //PHP method of getting server date
+var currenttime = 'Monday April 11, 2016 05:42:54'; //PHP method of getting server date
 
 ///////////Stop editting here/////////////////////////////////
 
@@ -156,15 +164,15 @@ function MM_swapImage() { //v3.0
       </li>
       <li class="help"><a href="#">Help&nbsp;Center</a>
       	<ul>
-      	<li><a href="/faq/index.php">FAQ</a></li>
-        	<li><a href="/faq/?View=entry&amp;EntryID=112">TUTORIAL</a></li>       
-          <li><a href="http://www.jauce.com/faq/contact/">Contact Us</a></li>
+      	<li><a href="https://www.jauce.com/help/">FAQ</a></li>
+        	<li><a href="https://www.jauce.com/help/knowledgebase.php">TUTORIAL</a></li>       
+          <li><a href="https://www.jauce.com/help/index.php?a=add">Contact Us</a></li>
         </ul>
       </li>
          </ul>
 
     <div class="logo">
-    	<img src="/img/logo.jpg" alt="paypal">
+    	<a href="https://www.paypal.com/us/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/us/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="/img/logo.jpg" alt="paypal"></a>
     </div>
 
     <div id="jpTime">
@@ -175,12 +183,40 @@ function MM_swapImage() { //v3.0
 		  	 	</script>
         </p>
     </div>
+
+    <!-- 151203 autocomplote -->
+	<link rel="stylesheet" href="/css/jquery-ui.css">
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(function() {
+    var form_submit = false;
+
+    $("#find").autocomplete({
+        source: "/api/search_autocomplete.php",
+        open: function(event, ui) {
+		form_submit = false;
+        },
+        select: function(event, ui) {
+		form_submit = true;
+        },
+        close: function(event, ui) {
+		if (form_submit) {
+			$('#searchform').submit();
+		}
+        }
+    });
+});
+//]]>
+</script>
+    <!-- //151203 autocomplote -->
     
     <div id="headerBox">
     	<div class="inheaderBox">
     	
         <form name="searchform" id="searchform" method="post" action="./directory_list.php">
-      		<input name="find" id="find" value="Search auction here" onfocus="javascript:this.value='';" onblur="if(this.value == '') this.value ='Search auction here';">
+      		<input name="find" id="find" value="Search auction here" onfocus="javascript:this.value='';" onblur="if(this.value == '') this.value ='Search auction here';" class="ui-autocomplete-input" autocomplete="off">
       		<input type="submit" value="" name="searchBtn" id="searchBtn">
       	</form>
       	
@@ -236,12 +272,13 @@ function MM_swapImage() { //v3.0
         				<li class="register"><a class="hide" href="https://www.jauce.com/auctions/index.php">Register</a></li>
       				</ul>
         			<ul class="social">
-						<li class="twitter" title="sign in with tiwtter"><a href="https://api.twitter.com/oauth/authenticate?oauth_token=1PeGO48xpr7eBxJE93hflNBL1nFRUraL5xBm5fHzdOM"><img style="" src="login_/imges/twitter.gif"></a></li>
+						<li class="twitter" title="sign in with tiwtter"><a href="https://api.twitter.com/oauth/authenticate?oauth_token=FThUKwAAAAAASp8dAAABVAHptXc"><img style="" src="login_/imges/twitter.gif"></a></li>
         				<li class="faceboook" title="sign in with facebook"><a href="http://www.facebook.com/dialog/oauth?client_id=406316239478311&amp;redirect_uri=http%3A%2F%2Fwww.jauce.com%2Flogin_%2Ffacebook%2Fcallback.php&amp;scope=email%2Cuser_location"><img style="" src="login_/imges/facebook.gif"></a></li>
         				<li class="paypal" title="sign in with paypal"><a href="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?scope=openid profile email address phone https://uri.paypal.com/services/paypalattributes https://uri.paypal.com/services/expresscheckout&amp;response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.jauce.com%2Flogin_%2Fpaypal%2Fcallback.php&amp;client_id=AXlmARCop6nOMsWu1On8OJbfja9tfD_oQYgV28-0VBTwrqlgqpn8w6kFD_kR"><img style="" src="login_/imges/paypal.gif"></a></li>
       				</ul>
     			</div>
         	  </div><!-- /#header -->
+
 
 <table align="center" cellpadding="0" cellspacing="0" width="960">
 <tbody>
@@ -265,21 +302,23 @@ function MM_swapImage() { //v3.0
 </div><!-- #ContsBox -->
   </div><!-- /#fullcolumn --> </td>
 <td bgcolor="#ffffff" valign="top" width="300"> </td></tr></tbody></table>
-<script type="text/javascript" src="script/jquery-1.4.2.min.js"></script>
 
   <div id="footer">
   	<div class="infooter">
       <ul>
-      	<li class="first"><a href="privacy.php">Privacy policy</a></li>
-      	<li><a href="disclaimer.php">Disclaimer</a></li>
+      	<li class="first"><a href="/privacy.php">Privacy policy</a></li>
+      	<li><a href="/disclaimer.php">Disclaimer</a></li>
       	<li><a href="/terms.php">User Agreement</a></li>
-      	      	<li><a href="http://mirudake.jp/">Mirudake.jp</a></li>
+      	      	<!-- li><a href="http://mirudake.jp/">Mirudake.jp</a></li -->
       	 <li><a href="/eBay_Japan.php">eBay Japan</a></li>
       	<li><a href="/sitemap.xml">Sitemap.XML</a></li>
       </ul>
       <p class="web"><a href="./">www.jauce.com</a></p>
       <p class="copy">Copyright © 2006 Nichido Ltd. Japan</p>
     </div>
+  </div><!-- /#footer -->
+</div><!-- /#wrapper -->
+
     <!-- Start of Google Analytics Code for Default Guide -->
     <script type="text/javascript">
 
@@ -308,8 +347,6 @@ target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/7337474/0/72c85022/1/"
 alt="tumblr visitor" /></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
-  </div><!-- /#footer -->
-</div><!-- /#wrapper -->
 
 
-</body></html>
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
