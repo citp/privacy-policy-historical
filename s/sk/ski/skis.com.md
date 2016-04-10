@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103023058id_/http%3A//www.skis.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410035526id_/http%3A//www.skis.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Skis.com Privacy Policies
 
@@ -39,6 +39,24 @@ We also use personally identifiable and aggregate information for a variety of m
 From time to time we will send you emails related to the Skis.com Web site. At various points during your visits to Skis.com, you are provided opportunities to indicate an interest in receiving email about special offers and other promotional information. If you do not wish to receive special offers and promotional information emails from us, please let us know by unchecking the "email notification" request box on the Skis.com Web site. You may also opt out of this promotional email list after you have registered by contacting us, or by following the "opt out" instructions that may be included in the emails you receive. 
 
 If you supply us with your telephone numbers, you will only receive telephone contact from us regarding your Skis.com Web site account, or orders you have placed online. We will not share your telephone number with other organizations.
+
+## Google
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We have implemented the following:
+
+  * Remarketing with or without AdSense
+  * Demographics and Interests Reporting
+
+
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+Opting out: Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+  
+
 
 ## Security
 
