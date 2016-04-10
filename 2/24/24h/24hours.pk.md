@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hours.pk privacy policy that was archived on 2014-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141018201834id_/http%3A//www.24hours.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hours.pk privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410131323id_/http%3A//24hours.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 24Hours
 
