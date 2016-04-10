@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075149id_/http%3A//www.venturesolutions.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venture-encoding.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411014213id_/https%3A//venturesolutions.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Venture Solutions
 
 ## What Information Do We Collect and How Do We Use It?
 
-**PERSONAL INFORMATION**  
+**PERSONAL INFORMATION**
+
 We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include: 
 
   1. Your first and last name
   2. A home or other physical address, including street name and name of a city or town.
-  3. Your e-mail address.
+  3. Your email address.
   4. Your telephone number.
   5. If you make a purchase on our site, your credit card number and related information.
 
@@ -19,7 +20,8 @@ We may combine the information we collect from you with information we receive f
 
 We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the site; (3) to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties; (4) to contact you; (5) to review site usage and operations; (6) to address problems with the site, our business or our products and services; and (7) to protect the security or integrity of the site and our business. 
 
-**NON-PERSONAL INFORMATION**  
+**NON-PERSONAL INFORMATION**
+
 We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: (1) remember the products in your shopping cart; (2) recognize you when you return to the site; (3) improve and personalize your experience on our site; (4) provide you with customized advertising; and (5) monitor site usage and analyze the behavior of site visitors. We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information. 
 
 You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences. 
@@ -40,7 +42,7 @@ We do not direct the site to, nor do we knowingly collect personal information f
 
 ## Security
 
-We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.
+We have taken certain physical, electronic, contractual and managerial steps to safeguard and secure the information we collect from site visitors. Customers are responsible for sending confidential data through encrypted transmissions.
 
 ## Third Party Websites
 
