@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021134908id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411212719id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
 
 # OWC Terms & Policies
 
@@ -27,7 +27,7 @@ We do use information that we collect about you or that you provide to us, inclu
 
 
 
-We may also use your information to contact you about our goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data (for example, our Sweepstakes entry form), or send us an e-mail stating your request to [custserv@macsales.com](https://web.archive.org/cdn-cgi/l/email-protection#f49781878087918682b49995978795989187da979b99). If we have sent you a promotional e-mail, you may also send us a return e-mail asking to be omitted from future e-mail distributions. Note, these opt outs do not apply to information provided to OWC as a result of a product purchase, warranty registration, or other transactions.
+We may also use your information to contact you about our goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data (for example, our Sweepstakes entry form), or send us an e-mail stating your request to [custserv@macsales.com](mailto:custserv@macsales.com). If we have sent you a promotional e-mail, you may also send us a return e-mail asking to be omitted from future e-mail distributions. Note, these opt outs do not apply to information provided to OWC as a result of a product purchase, warranty registration, or other transactions.
 
 Finally, we may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences, as well as for auditing, research, and analysis to improve OWC's products and services and the Site.
 
@@ -98,7 +98,7 @@ BACK TO TOP
 
 ### Newsletters
 
-OWC offers two e-mail newsletters that may be subscribed to at no cost. One newsletter is primarily focused on industry news and tech tips while the other provides regular updates on special offers and deals. To join [click here for more information](https://web.archive.org/shop/macsales_newsletter). You can opt-out of any OWC newsletter at any time via the link provided at the bottom of each newsletter mailing, or by sending us an e-mail stating your request to [custserv@macsales.com](https://web.archive.org/cdn-cgi/l/email-protection#a0c3d5d3d4d3c5d2d6e0cdc1c3d3c1ccc5d38ec3cfcd).
+OWC offers two e-mail newsletters that may be subscribed to at no cost. One newsletter is primarily focused on industry news and tech tips while the other provides regular updates on special offers and deals. To join [click here for more information](https://web.archive.org/shop/macsales_newsletter). You can opt-out of any OWC newsletter at any time via the link provided at the bottom of each newsletter mailing, or by sending us an e-mail stating your request to [custserv@macsales.com](mailto:custserv@macsales.com).
 
 BACK TO TOP
 
