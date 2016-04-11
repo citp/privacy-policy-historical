@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codestag.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080411id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codestag.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411191336id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Codestag
 
