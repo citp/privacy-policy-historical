@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun.haus privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211000225id_/https%3A//fun.haus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.haus privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411092805id_/http%3A//fun.haus/privacy-policy) for the most accurate reproduction.*
 
 # 
 
