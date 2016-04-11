@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921150809id_/http%3A//www.mdbg.net/chindict/chindict.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdbg.net privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411032619id_/http%3A//www.mdbg.net/chindict/chindict.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # MDBG English to Chinese dictionary
 
@@ -28,4 +28,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 [](http://www.facebook.com/pages/MDBG/56716356738)
 
-Tip: The character dictionary has hand writing instructions for many Chinese characters, a brush icon is shown in front of the character when these instructions are available, try clicking it.
+Tip: Not sure how to type a character? Draw it instead! Click the brush icon next to the input fields to enable the handwriting input method.
