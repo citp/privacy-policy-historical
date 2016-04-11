@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808014729id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411210417id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
-# Charitybuzz | Privacy Policy
+# Charitybuzz: Privacy
 
 Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information on this website www.charitybuzz.com. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to [privacy@charitybuzz.com](mailto:privacy@charitybuzz.com)
 
-[Charitybuzz has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.charitybuzz.com.](https://feedback-form.truste.com/watchdog/request)
+Charitybuzz has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.charitybuzz.com](https://www.charitybuzz.com/) and does not cover information that may be collected through our mobile application.
 
-[If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 ## COLLECTION AND USE OF PERSONAL INFORMATION (PI)
 
@@ -52,7 +52,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 We do not link this automatically collected data to other information we collect about you.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store your preferences such as volume control or high game score, etc. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. To learn how to manage privacy and storage settings for Flash cookies [ click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+We use Local Storage Objects (LSOs) such as HTML5 to store your preferences such as volume control or high game score, etc. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5. To learn how to manage privacy and storage settings for Flash cookies [ click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -64,13 +64,11 @@ At times Charitybuzz may make certain personal information available to strategi
 
 It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Charitybuzz to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
 
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our user agreement or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.
+We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our user agreement or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
 ## PROTECTION OF PERSONAL INFORMATION
 
 Charitybuzz takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
-
-Charitybuzz online services such as the Charitybuzz.com online auctions and Charitybuzz The Goods store utilize Secure Socket Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it's transmitted over the Internet.
 
 ## INTEGRITY AND RETENTION OF PERSONAL INFORMATION
 
@@ -128,8 +126,4 @@ To make sure your personal information is secure, we communicate our privacy and
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## NOTIFICATION OF PRIVACY STATEMENT CHANGES
-
 If you have questions or concerns regarding Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016, email us at [privacy@Charitybuzz](mailto:privacy@Charitybuzz.com).com, or you can call us at (212)243-3900.
-
-Please [click here](http://www.truste.com/products-and-services/dispute-resolution-services/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
