@@ -1,27 +1,35 @@
-<!--The following is the downloaded HTML source of the realbuzz.com privacy policy that was archived on 2015-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151209011251id_/http%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realbuzz.com privacy policy that was archived on 2016-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160412005840id_/https%3A//www.realbuzz.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=""><head>
 	<title>
 Privacy Policy - UK, US &amp; AU | realbuzz
 </title>
-    
+
     <link rel="icon" href="https://realbuzz4.s3.amazonaws.com/static/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="https://realbuzz4.s3.amazonaws.com/static/images/favicon.ico" type="image/x-icon">
     <link rel="publisher" href="https://plus.google.com/+realbuzz/">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
 	
-    
+
 	<meta name="author" content="">
 	<meta name="keywords" content="">
 	<meta name="description" content="
 Privacy Policy - UK, US &amp; AU
 ">
+
+
 	
+	<link rel="canonical" href="https://www.realbuzz.com/privacy-policy/">
 	
+
 	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@realbuzzcom">
+	<meta name="twitter:creator" content="@realbuzzcom">
 	
+
 	
 	<meta property="og:title" content="">
 	<meta property="og:type" content="">
@@ -32,7 +40,7 @@ Privacy Policy - UK, US &amp; AU
 	<meta property="og:description" content="">
     <!-- TradeDoubler site verification 2137162 -->
 	
-	<meta name="google-site-verification" content="SfDQCUa2GQ6Vdx6yD_5dBVRkIsyEKVOA31PSIGLuxo8">
+	<meta name="google-site-verification" content="JeSRcx43hBQh0rpZA-Mk7MRmXnUGE4lqt1A37GJsUfU">
 	<meta name="msvalidate.01" content="D4295070AFC5FC580D72D206D4BDCF82">
 	
 
@@ -60,6 +68,12 @@ Privacy Policy - UK, US &amp; AU
 
         <link media="screen" type="text/css" rel="stylesheet" href="https://realbuzz4.s3.amazonaws.com/static/styles/surveys/surveys.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"><!--used for icons on home page-->
+
+
+        <link media="screen,projection" type="text/css" rel="stylesheet" href="https://realbuzz4.s3.amazonaws.com/static/styles/base/upgrade-2016.css">
+
+        <link type="text/css" rel="stylesheet" href="https://realbuzz4.s3.amazonaws.com/static/styles/readable.css">
+
 
 
         
@@ -122,6 +136,60 @@ Privacy Policy - UK, US &amp; AU
 
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
 
+		<script>
+
+			//DESKTOP JS
+			function createCookie(name,value,days) {
+			    if (days) {
+			        var date = new Date();
+			        date.setTime(date.getTime()+(days*24*60*60*1000));
+			        var expires = "; expires="+date.toGMTString();
+			    }
+			    else var expires = "";
+			    document.cookie = name+"="+value+expires+"; path=/";
+			}
+
+
+			function readCookie(name) {
+			    var nameEQ = name + "=";
+			    var ca = document.cookie.split(';');
+			    for(var i=0;i < ca.length;i++) {
+			        var c = ca[i];
+			        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			    }
+			    return null;
+			}
+
+			function eraseCookie(name) {
+			    createCookie(name,"",-1);
+			}
+
+			$(function() {
+
+				var lastClickMobile = readCookie('mobile_last_click')
+
+				if (lastClickMobile === 'true') {
+				  	$(".outer-content").hide();
+					$("body").addClass("redirect-body");
+					$(".redirect-overlay").show();
+
+					setTimeout(function(){
+						$("body").removeClass("redirect-body");
+						$(".outer-content").show();
+						$(".redirect-overlay").fadeOut();
+					}, 5000);
+				  	eraseCookie('mobile_last_click');
+				}
+
+				var rbFlavour = "full";
+
+				if(rbFlavour == 'full') {
+					$(".mobile-site-cta").show();
+				}
+			});
+
+		</script>
         <script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/followers/follow.js"></script>
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/base/new_navigation.js"></script>
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/base/mybuzz_countries.js"></script>
@@ -147,6 +215,8 @@ Privacy Policy - UK, US &amp; AU
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/crosslinking/update_recommendations.js"></script>
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/search/search.js"></script>
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/adverts/mini_ads.js"></script>
+
+
         
 		<script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/json2.min.js"></script>
 <script type="text/javascript" src="https://realbuzz4.s3.amazonaws.com/static/js/scrapbook/scrapbook.utils.min.js"></script>
@@ -164,7 +234,7 @@ Privacy Policy - UK, US &amp; AU
 
 	
 	
-	
+
 	
 
 
@@ -178,8 +248,6 @@ Privacy Policy - UK, US &amp; AU
 <!-- bxSlider Javascript file -->
 <script src="https://realbuzz4.s3.amazonaws.com/static/js/bx-slider/jquery.bxslider.min.js"></script>
 <!-- bxSlider CSS file -->
-
-
 
 </head>
 
@@ -241,7 +309,7 @@ Privacy Policy - UK, US &amp; AU
 
 <ul id="search-social">
 	<li class="logoHead">
-			<a href="/"><img src="https://realbuzz4.s3.amazonaws.com/static/images/base/RB_Logo_2015.png" alt="realbuzz - challenge yourself"></a>
+		<a href="/"><img src="https://realbuzz4.s3.amazonaws.com/static/images/base/RB_Logo_2015.png" alt="realbuzz - challenge yourself"></a>
 	</li>
 	<li class="headerR">
 		<ul>
@@ -249,7 +317,8 @@ Privacy Policy - UK, US &amp; AU
 
 <div id="search">
 	<form action="/search/" method="get" id="search_form">
-		<!-- <select class="search-drop" name="sections" id="search_drop">
+		<label for="id_query" style="display: none">Search</label>
+        <!-- <select class="search-drop" name="sections" id="search_drop">
 <option value="/search/">All</option>
 <option value="/search/4/">People</option>
 <option value="/search/248/article/">Articles</option>
@@ -267,35 +336,37 @@ Privacy Policy - UK, US &amp; AU
 <option value="/search/193/">Forum Posts</option>
 </select> -->
 		<input type="text" placeholder="Search" name="query" id="id_query">
-		<input name="Search" type="button" class="search-button" value="GO" onclick="jQuery(this).parent().submit();">
+		<input name="Search" type="submit" class="search-button" value="GO" onclick="jQuery(this).parent().submit();">
 	</form>
 </div></div></li>
 			<li><div id="follow">
 			<!-- <a href="/newsletter/archive/" class="icon-left newsletter" target="_blank">Subscribe to our newsletter</a> -->
 			<!-- <a href="/rss/" class="icon-left rss">Follow our RSS feed</a> -->
-					<a href="https://plus.google.com/106112601589528489070#106112601589528489070/posts" target="_blank" class="google-plus"><i class="fa fa-google-plus"></i></a>
-					<a href="http://www.facebook.com/realbuzzcom" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
-					<a href="http://twitter.com/realbuzzcom" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
-					<a href="http://instagram.com/realbuzzcom" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
-					<a href="http://www.pinterest.com/realbuzzcom" target="_blank" class="pinterest"><i class="fa fa-pinterest-p"></i></a>
+					<a href="https://plus.google.com/106112601589528489070#106112601589528489070/posts" target="_blank" class="google-plus" title="realbuzz.com's Profile on Google+"><i class="fa fa-google-plus"></i><span style="display: none;">Google+</span></a>
+					<a href="http://www.facebook.com/realbuzzcom" target="_blank" class="facebook"><i class="fa fa-facebook" title="realbuzz.com's Profile on Facebook"></i><span style="display: none;">Facebook</span></a>
+					<a href="http://twitter.com/realbuzzcom" target="_blank" class="twitter"><i class="fa fa-twitter" title="realbuzz.com's Profile on Twitter"></i><span style="display: none;">Twitter</span></a>
+					<a href="http://instagram.com/realbuzzcom" target="_blank" class="instagram"><i class="fa fa-instagram" title="realbuzz.com's Profile on Instagram"></i><span style="display: none;">Instagram</span></a>
+					<a href="http://www.pinterest.com/realbuzzcom" target="_blank" class="pinterest"><i class="fa fa-pinterest-p" title="realbuzz.com's Profile on Pinterest"></i><span style="display: none;">Pinterest</span></a>
 				</div>
 			</li>
+            <li><a href="#" title="Switch between high contrast and regular colours" class="high-contrast js-high-contrast-toggle"><span>Switch to high contrast colours</span></a></li>
+			<li><div class="trg-foundation"><a href="http://www.sportsaid.org.uk/about/partners/the-realbuzz-foundation" target="_blank" title="The Realbuzz Foundation"><img src="https://realbuzz4.s3.amazonaws.com/static/images/base/rb-foundation-logo.png" alt="The realbuzz foundation"></a></div></li>
 			<li>
 				<div id="loginwrapper">	
 				<div id="login">
 					<ul style="float: right">
 	<!--GLOBALISATION OLD CODE-->
 	                    
+
 	<!--end of GLOBALISATION old code-->
 								
 						<li class="myBuzzBox">
 							<div class="name">
-								<a href="#" class="login-box-toggle">Log in</a> | <a href="/signup/">Sign up</a>
+								<a href="#" class="login-box-toggle">Log in</a> | <a href="/join-realbuzz/">Sign up</a>
 							</div>
 
 						</li>
-						</ul>
-						
+						</ul>	
 								
 			</div>
 		</div>
@@ -305,7 +376,7 @@ Privacy Policy - UK, US &amp; AU
 </ul>
 				<!--INLINE-LOGIN start-->
 								<div id="login-inline">
-									<form class="form" action="/login/" method="post" id="login-form"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="f08e12967b134cc774cfe5af9c44d050"></div>
+									<form class="form" action="/login/" method="post" id="login-form"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="ab72c6cde8e58aa6b1c04f0cd34f3e1c"></div>
 									<ul>
 										<li><label for="sml_username">Username</label><input id="sml_username" name="username" type="text"></li>
 										<li><label for="sml_password">Password</label><input id="sml_password" name="password" type="password"></li>
@@ -353,21 +424,21 @@ Privacy Policy - UK, US &amp; AU
 	<li class="nav_blogs">
 		<a href="/blogs/">Blogs</a>
 		<ul>
-			<li><a href="/blogs/listing/">All Blogs</a></li>
+			<li><a href="/blogs/listing/">ALL</a></li>
 
 
 
 
 
 
-            <li><a href="/blogs/editors/">Editor Blogs</a></li>
+         <!--    <li><a href="/blogs/editors/">Editor Blogs</a></li> -->
             
-            <li><a href="/blogs/experts/">Expert Blogs</a></li>
-            <li><a href="/blogs/events/">Event Blogs</a></li>
+            <!-- <li><a href="/blogs/experts/">Expert Blogs</a></li> -->
+            <!-- <li><a href="/blogs/events/">Event Blogs</a></li> -->
             <li><a href="/blogs/create/">Start a New Blog</a></li>
 		</ul>
 	</li>
-	<li class="nav_forums">
+	<!-- <li class="nav_forums">
 		<a href="/forums/">Forums</a>
 		<ul>
 			<li><a href="/forums/the-lounge/">The Lounge</a></li>
@@ -375,7 +446,7 @@ Privacy Policy - UK, US &amp; AU
 			<li><a href="/forums/running-events/">Running Events</a></li>
 			<li><a href="/forums/food-diet/">Food &amp; Diet</a></li>
 		</ul>
-	</li>
+	</li> -->
 	<!-- <li class="nav_groups">
 		<a href="/groups/">Groups</a>
 		<ul>
@@ -401,20 +472,20 @@ Privacy Policy - UK, US &amp; AU
 			<li><a href="/pace-tools/pace-guide/">Pace Tools</a></li>
 		</ul>
 	</li>
+		<li class="nav_maps">
+		<a href="/maps/#index">Maps</a>
+	</li>
 	<li class="nav_events">
-		<a href="/partner-listings/">Events &amp; Activities</a>
-		<ul>
-            <li><a href="/partner-listings/">Our Top Events</a></li>
-            <li><a href="/eventfinder/">Race Finder</a></li>
+		<a href="/partner-listings/">Partner Events</a>
+		<!-- <ul>
+            <li><a href="/partner-listings/">Partner Events</a></li>
+            <li><a href="/eventfinder/">Event Forums</a></li> -->
 
             <!-- <li><a href="/charity-challenges/">Charity Challenges</a></li> -->
 
 
 
-		</ul>
-	</li>
-	<li class="nav_maps">
-		<a href="/maps/#index">Maps</a>
+		<!-- </ul> -->
 	</li>
 	<!-- <li class="nav_photos">
 		<a href="/photos-and-videos/">Photos</a>
@@ -451,17 +522,17 @@ Privacy Policy - UK, US &amp; AU
 		</li>
 		<li class="nav_blogs">
 			<span>
-				<a href="/blogs/listing/">All Blogs</a> |
+				<a href="/blogs/listing/">ALL</a> |
 				
-					<a href="/blogs/editors/">Editor Blogs</a> |
-				
-				
-					
-					<a href="/blogs/experts/">Expert Blogs</a> |
+					<!-- <a href="/blogs/editors/">Editor Blogs</a> | -->
 				
 				
 					
-					<a href="/blogs/events/">Event Blogs</a> |
+					<!-- <a href="/blogs/experts/">Expert Blogs</a> | -->
+				
+				
+					
+					<!-- <a href="/blogs/events/">Event Blogs</a> | -->
 				
 				<a href="/blogs/create/">Start a New Blog</a>
 			</span>
@@ -498,8 +569,9 @@ Privacy Policy - UK, US &amp; AU
 		</li>
 		<li class="nav_events">
 			<span>
-                <a href="/partner-listings/">Our Top Events</a> |
-               	<a href="/eventfinder/">Events Calendar</a> |
+                <a href="/partner-listings/">Partner Events</a> 
+                <!-- <a href="/partner-listings/">Event Forums</a> -->
+                                <!-- |	<a href="/eventfinder/">Events Calendar</a> | -->
 
 
 
@@ -518,8 +590,8 @@ Privacy Policy - UK, US &amp; AU
 				<a href="/videos/all/">All Videos</a> |
 				<a href="/photos/new/">Upload Album</a> |
 				<a href="/videos/new/">Upload Video</a>
-			</span> -->
-		
+			</span> 
+		</li>-->
 		
 			<!-- <li class="fmn">
 				<span>
@@ -602,7 +674,7 @@ Privacy Policy - UK, US &amp; AU
 		<li class="nav_dailynews">
 			<span>
 				<a href="/newsletter/archive/">Newsletters</a> |
-				<a href="/competitions/">Competitions</a>
+<!-- 				<a href="/competitions/">Competitions</a> -->
 			</span>
 		</li>
 		<li class="nav_terms">
@@ -620,7 +692,7 @@ Privacy Policy - UK, US &amp; AU
 				<a href="/training-plans/">My Plans</a> |
 				<a href="/friend-finder/">Friend Finder</a> |
 
-				<a href="/training-plans/">Premium Membership</a> |
+
                 <a href="/mybuzz/create-avatar/">Create Avatar</a> |
 
 
@@ -634,6 +706,7 @@ Privacy Policy - UK, US &amp; AU
 <div class="clear-both"></div>
 
 
+                            
                             
 								
 									<div id="top-ads">
@@ -709,7 +782,7 @@ Privacy Policy - UK, US &amp; AU
 							<!-- BLOCK RIGHT-COL END-->
 
 							<!-- BLOCK CONTENT START -->
-							<div id="content"><!--base.html: div#content starts-->
+							<div id="content" class=""><!--base.html: div#content starts-->
 								
     
 	<h1>Privacy policy</h1>
@@ -782,7 +855,7 @@ Privacy Policy - UK, US &amp; AU
 
 							</div><!--base.html: div#content starts-->
 							<!-- BLOCK CONTENT END -->
-							
+
 						
 					</div><!--base.html: div.inner-content .content-wrapper ends-->
 
@@ -806,7 +879,7 @@ Privacy Policy - UK, US &amp; AU
 
 
 
-								
+
 
 							
 
@@ -819,7 +892,7 @@ Privacy Policy - UK, US &amp; AU
                 
             
 
-			<p>© 2015 The Realbuzz Group Ltd.</p>
+			<p>© 2016 The Realbuzz Group Ltd.</p>
 			<p>All rights reserved.</p>
 		</li>
 		<li class="subscribe">
@@ -834,7 +907,9 @@ Privacy Policy - UK, US &amp; AU
 				<input name="fullname" type="hidden" class="email-subscription-fullname" value="Subscriber">
 			</div>
 			<div class="subscribeEmail">
-				<input name="email" type="text" class="email-subscription-email "><input class="email-subscription-subscribe subButton" name="subscribe" type="button" value="GO">
+                <label for="id_footer_email_subscribe" style="display: none">Email address</label>
+				<input name="email" type="text" class="email-subscription-email " id="id_footer_email_subscribe">
+                <input class="email-subscription-subscribe subButton" name="subscribe" type="submit" value="GO">
 				<p class="email-error-email"></p>
 			</div>
 			<p class="success"></p>
@@ -845,7 +920,7 @@ Privacy Policy - UK, US &amp; AU
 <!-- 			<p><a href="/site-tours/">Site Tours</a></p> -->
 			<p><a href="/site-map/">Site Map</a></p>
 			<p><a href="/newsletter/archive/">Newsletters</a></p>
-			<p><a href="/rss/">RSS Feed</a></p>
+			<!-- <p><a href="/rss/">RSS Feed</a></p> -->
 		</li>
 		<li class="links">
 			<p><a href="/contact-us/">Contact Us</a></p>
@@ -887,7 +962,7 @@ Privacy Policy - UK, US &amp; AU
 var c = document.cookie.split("; "); //get cookies and split them into array at ; + whitespace
 
 for(i=0; i <= c.length; i+=1){
-    if(c[i]=="vmlm-shown=true"){ //if the cookie exists return 
+    if(c[i]=="vmlm-shown=true"){ //if the cookie exists return
        return
     }
 }
@@ -906,7 +981,7 @@ $('.vmlm-modal a').click(function(){
 
 <script>
     $('document').ready(function() {
-	        
+
 	$(".login-box-toggle").click(function(){
 	     $("#login-inline").slideToggle();
 	     return false;
@@ -916,7 +991,7 @@ $('.vmlm-modal a').click(function(){
     </script>
 <script>
     $('document').ready(function() {
-	        
+
 	$(".user_topnav_link").click(function(){
 	     $("#myBuzzddown").slideToggle();
 	     return false;
@@ -938,6 +1013,317 @@ $('.vmlm-modal a').click(function(){
 	});
     </script>
 
+    <script>
+    // 	$(function() {
+    // 		var rbFlavour = "full";
+    // 		console.log(rbFlavour);
 
+    // 		if(rbFlavour == "mobile") {
+    // 			$(".outer-content").hide();
+    // 			$("body").addClass("redirect-body");
+    // 			$(".redirect-overlay").show();
+
+    // 			setTimeout(function(){
+				// 	$("body").removeClass("redirect-body");
+				// 	$(".outer-content").show();
+    // 				$(".redirect-overlay").fadeOut();
+				// }, 5000);
+    // 		}
+    // 	});
+    </script>
+	
+    
+    <style>
+    	@-webkit-keyframes rotate-forever {
+		  0% {
+		    -webkit-transform: rotate(0deg);
+		    -moz-transform: rotate(0deg);
+		    -ms-transform: rotate(0deg);
+		    -o-transform: rotate(0deg);
+		    transform: rotate(0deg);
+		  }
+		  100% {
+		    -webkit-transform: rotate(360deg);
+		    -moz-transform: rotate(360deg);
+		    -ms-transform: rotate(360deg);
+		    -o-transform: rotate(360deg);
+		    transform: rotate(360deg);
+		  }
+		}
+		@-moz-keyframes rotate-forever {
+		  0% {
+		    -webkit-transform: rotate(0deg);
+		    -moz-transform: rotate(0deg);
+		    -ms-transform: rotate(0deg);
+		    -o-transform: rotate(0deg);
+		    transform: rotate(0deg);
+		  }
+		  100% {
+		    -webkit-transform: rotate(360deg);
+		    -moz-transform: rotate(360deg);
+		    -ms-transform: rotate(360deg);
+		    -o-transform: rotate(360deg);
+		    transform: rotate(360deg);
+		  }
+		}
+		@keyframes rotate-forever {
+		  0% {
+		    -webkit-transform: rotate(0deg);
+		    -moz-transform: rotate(0deg);
+		    -ms-transform: rotate(0deg);
+		    -o-transform: rotate(0deg);
+		    transform: rotate(0deg);
+		  }
+		  100% {
+		    -webkit-transform: rotate(360deg);
+		    -moz-transform: rotate(360deg);
+		    -ms-transform: rotate(360deg);
+		    -o-transform: rotate(360deg);
+		    transform: rotate(360deg);
+		  }
+		}
+		.loading-spinner {
+		  -webkit-animation-duration: 0.75s;
+		  -moz-animation-duration: 0.75s;
+		  animation-duration: 0.75s;
+		  -webkit-animation-iteration-count: infinite;
+		  -moz-animation-iteration-count: infinite;
+		  animation-iteration-count: infinite;
+		  -webkit-animation-name: rotate-forever;
+		  -moz-animation-name: rotate-forever;
+		  animation-name: rotate-forever;
+		  -webkit-animation-timing-function: linear;
+		  -moz-animation-timing-function: linear;
+		  animation-timing-function: linear;
+		  height: 100px;
+		  width: 100px;
+		  border: 18px solid #79bb40;
+		  border-right-color: transparent;
+		  border-radius: 50%;
+		  display: inline-block;
+		}
+
+		.loading-spinner {
+		  position: absolute;
+		  top: 0;
+		  right: 0;
+		  bottom: 0;
+		  left: 50%;
+		  margin: 0 0 0 -50px;
+		}
+
+		.loading-message {
+			width: 100%;
+			height: 200px;
+			position: absolute;
+			top: 50%;
+			right: 0;
+			bottom: 0;
+			left: 50%;
+			margin: -275px 0 0 -50%;
+			text-align: center;
+			padding-top: 180px;
+			padding-left: 100px;
+		    padding-right: 100px;
+		    box-sizing: border-box;
+		}
+
+		.loading-message h2 { 
+			font-size: 64px;
+			line-height: 1.3em;
+			color: #79bb40;
+		}
+
+		.loading-message p {
+			font-size: 38px;
+			margin-top: 30px;
+			line-height: 1.3em;
+		}
+
+    	.redirect-body {
+    		width: 100%;
+    		height: 100%;
+    		overflow: hidden;
+    	}
+
+    	.redirect-overlay {
+    		position: fixed;
+		    width: 100%;
+		    height: 100%;
+		    background: #FFF;
+		    top: 0;
+		    z-index: 999;
+		    display: none;
+    	}
+    </style>
+
+    <div class="redirect-overlay">
+    	<div class="loading-message">
+    		<h2>You have been redirected to our desktop site</h2>
+    		<p>The page you were trying to access is not supported on mobile devices</p>
+    		<div class="loading-spinner"></div>
+    	</div>
+    </div>
+
+    <script>
+
+    $(function(){
+
+    	  if (/listing/.test(window.location.href)) {
+
+		      // Update category select on load if a category / sub category is selected
+		      var categoryUrl = window.location.href;
+		      var categoryresult = /[^/]*$/.exec(categoryUrl)[0].split("&")[1];
+		      var subcategoryresult = categoryUrl.split("&")[2];
+
+		      // Re-construct and update select boxes
+		      var categoryresultclean = "?&" + categoryresult;
+		      var subcategoryresultclean = "?&" + categoryresult + "&" + subcategoryresult;
+
+		      $('#blogCatSelect option[value=' + categoryresultclean + ']').attr("selected", "selected");
+		      $('#blogSubCatSelect option[value='+ subcategoryresultclean + ']').attr("selected", "selected");
+
+		      if($('#blogSubCatSelect option').size() <= 1) {
+		      	$("#blogSubCatSelect, .blogSubCatSelect").hide();
+		      } else {
+		      	$("#blogSubCatSelect, .blogSubCatSelect").show();
+		      }
+
+		      // bind change event to select
+		      $('#blogCatSelect').change(function () {
+		          var url = $(this).val(); // get selected value
+		          if (url) { // require a URL
+		              window.location = url; // redirect
+		          }
+		          return false;
+		      });
+
+		      // bind change event to select
+		      $('#blogSubCatSelect').change(function () {
+		          var url = $(this).val(); // get selected value
+		          if (url) { // require a URL
+		              window.location = url; // redirect
+		          }
+		          return false;
+		      });
+
+	  	  } else {
+
+	  	  	  // Update category select on load if a category / sub category is selected
+		      var categoryUrl = '/blogs/listing';
+		      var categoryresult = /[^/]*$/.exec(categoryUrl)[0].split("&")[1];
+		      var subcategoryresult = categoryUrl.split("&")[2];
+
+		      // Re-construct and update select boxes
+		      var categoryresultclean = "?&" + categoryresult;
+		      var subcategoryresultclean = "?&" + categoryresult + "&" + subcategoryresult;
+
+
+		      $('#blogCatSelect option[value=' + categoryresultclean + ']').attr("selected", "selected");
+		      $('#blogSubCatSelect option[value='+ subcategoryresultclean + ']').attr("selected", "selected");
+
+		      if($('#blogSubCatSelect option').size() <= 1) {
+		      	$("#blogSubCatSelect, .blogSubCatSelect").hide();
+		      } else {
+		      	$("#blogSubCatSelect, .blogSubCatSelect").show();
+		      }
+
+		      // bind change event to select
+		      $('#blogCatSelect').change(function () {
+		          var url = $(this).val(); // get selected value
+		          if (url) { // require a URL
+		              window.location = categoryUrl+"/"+url; // redirect
+		          } else {
+		          	window.location = categoryUrl; // redirect
+		          }
+		          return false;
+		      });
+
+		      // bind change event to select
+		      $('#blogSubCatSelect').change(function () {
+		          var url = $(this).val(); // get selected value
+		          if (url) { // require a URL
+		              window.location = categoryUrl+"/"+url; // redirect
+		          }
+		          return false;
+		      });
+
+	  	  }
+	    });
+	</script>
+
+	<script>
+	    $(function(){
+	    	var windowHeight = window.innerHeight;
+	    	var contentHeight = $('.outer-content').height();
+	    	var newMinHeight = windowHeight - contentHeight;
+
+	    	$('.footerSpacerShort').css('height',newMinHeight - 20 + "px");
+	    });
+    </script>
+
+    <script>
+    (function($) {
+        // makes external links open in new windows
+        // http://stackoverflow.com/a/12042162
+        $.expr[':'].external = function(obj){
+            return !obj.href.match(/^mailto\:/)
+                   && (obj.hostname != location.hostname)
+                   && !obj.href.match(/^javascript\:/)
+                   && !obj.href.match(/^$/)
+        };
+        $('a:external').attr('target', '_blank');
+    })(jQuery);
+    </script>
+
+
+    
+    
+
+
+
+
+
+    <script>
+	    function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            }
+            else var expires = "";
+            document.cookie = name+"="+value+expires+"; path=/";
+        }
+
+
+        function readCookie(name) {
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0;i < ca.length;i++) {
+                var c = ca[i];
+                while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            }
+            return null;
+        }
+
+        var is_high_vis = readCookie('high_vis');
+
+        if (is_high_vis == 1) {
+             $("html").addClass("js-high-vis");
+        }
+
+
+
+        $(".js-high-contrast-toggle").live("click", function(e){
+            $("html").toggleClass("js-high-vis");
+            //Then set cookie for low vis
+            if ( $("html").hasClass("js-high-vis") ) {
+                createCookie('high_vis', 1, 365)
+            } else {
+                createCookie('high_vis', 0, -1)
+            }
+        })
+    </script>
 
 </body></html>
