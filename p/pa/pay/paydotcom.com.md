@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206235337id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411204007id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
