@@ -1,53 +1,50 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813195226id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411152406id_/https%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Capita Translation and Interpreting
 
-The At Capita Translation and Interpreting (Capita TI) we are committed to protecting your data and privacy.
+Maintaining the privacy of customers and users.
 
-## What information do we collect and how do we obtain it?
+We take care to protect the privacy of customers and users of Capita Translation and Interpreting website. Set out below is an explanation of how we process information about visitors to the site.
 
-We receive information when you complete any of the forms on our website with your name, email address and telephone number.
+## Collection of personal information
 
-We also use cookies so we can improve our website performance.
+The information which we collect and store during normal use of the site is used to monitor and analyse how parts of the site are used. Such use does not result in any personally identifiable data being collected or stored.
 
-We may monitor or record telephone conversations with you for training purposes in order to ensure consistent service levels.
+You have the option on certain pages within this site to submit personal information to Capita Translation and Interpreting in order that we might send you further information or email alerts. Capita Translation and Interpreting is committed to protecting your privacy and information security. We will not share your information with any third party.
 
-## How do we use your information?
+We will not disclose without your consent any personal information we collect about you when you visit the site to a third party outside Capita Translation and Interpreting. In connection with any application, request or enquiry you make, your information will be passed directly to the relevant business unit within the group.
 
-We may use your information as follows:
+By submitting your personal information through this website, you shall be consenting to it being processed in the manner described above by Capita Translation and Interpreting
 
-  * To send you information or a quotation
-  * To monitor customer traffic patterns and site usage to help us optimise our website
-  * To ensure consistently high levels of enquiry handling
-  * To update you about new services, special features and offers
+## Cookies
+
+We use a minimal number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
+
+The list below describes the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.)
+
+### First Party Cookies
+
+These are cookies that are set by this website directly.
+
+Google Analytics: We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+
+You can find out more about Google’s position on privacy as regards its analytics service at <https://support.google.com/analytics/answer/6004245?hl=en-GB>
+
+### Third Party Cookies
+
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter, Facebook, LinkedIn and Google Plus. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
+
+You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+
+### Deleting cookies
+
+If you would like to restrict the use of cookies you can control this in your Internet browser. Links to advice on how to do this for the most popular Internet browsers are provided below for convenience and will be available for the Internet browser of your choice either online or via the software help (normally available via key F1).
+
+  * **Internet Explorer  
+**<http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies>
+  * **Google Chrome**  
+[https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
+  * **Firefox**  
+<http://support.mozilla.org/en-US/kb/Blocking%20cookies>
 
 
-
-## How do we protect your information?
-
-Firstly, we will request only appropriate information.
-
-Further, we will:
-
-  * Try, with your assistance, to keep any information about you up to date and accurate
-  * Delete any information which we hold about you which is no longer relevant
-  * Protect your data against unauthorised use by following strict security procedures for the storage of information you give to us
-
-
-
-## What about “cookies”?
-
-Cookies allow us to understand how our website is performing and to make it more user-friendly e.g. we use cookies so that we can give you a better experience when you return to our website.
-
-## Your Consent
-
-By completing any of our online forms, you are consenting to the collection, processing and use of this information by Capita Translation and Interpreting.
-
-**Restricting the use of Information**
-
-If you do not want to be contacted by Capita TI, please e-mail:  
-[marketing@capita-ti.com](https://web.archive.org/web/20150813195226id_/http://www.capitatranslationinterpreting.com/privacy-policy/marketing@capita-ti.com)
-
-You may continue to receive communications for a short period of time while your request to remove you from our list is processed.
-
-Last revision: March 2015
