@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tizen.org privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801214311id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizen.org privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411194734id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tizen
 
@@ -29,17 +29,17 @@ We will not share personal identification information data, either for single in
 
 This website uses cookies. A cookie is a small amount of text data, sent from our webserver to your browser, and stored on your device. The cookie is sent back to the webserver each time the browser connects to this site. We use cookies to personalize the site and to streamline your interaction with the site.
 
-It may be possible to configure your browser to refuse cookies, or to ask you to accept each time a cookie is offered. If you choose not to accept cookies, areas of this site may have reduced functionality or performance.
+It may be possible to configure your browser to refuse cookies, or to ask you to accept each time a cookie is offered. If you choose to not accept cookies, areas of this site may have reduced functionality or performance.
 
-Software on our servers, or third party web statics services, may store your IP address, and other information passed on by your browser (such as browser version, operating system, screen size, language, etc). Tizen.org and/or third party services will aggregate this information to provide usages statistics for this website. We use this information to optimize the design, structure, and performance of this site. In particular, we use Google Analytics to provide usage statistics. For more information, read the Google Analytics Privacy Policy.
+Software on our servers, or third party web statics services, may store your IP address and other information passed on by your browser (such as browser version, operating system, screen size, language, etc). Tizen.org and/or third party services will aggregate this information to provide usage statistics for this website. We use this information to optimize the design, structure, and performance of this site. In particular, we use Google Analytics to provide usage statistics. For more information, read the Google Analytics Privacy Policy.
 
 ### Data Security
 
-Tizen.org is also committed to the security of your personal information. We train those who work on Tizen.org on this privacy policy. On our site, we use SSL (Secure Sockets Layer) to protect your personal information, by encrypting your information when you send it to Tizen.org.
+Tizen.org is committed to the security of your personal information. We train those who work on Tizen.org on this privacy policy. On our site, we use SSL (Secure Sockets Layer) to protect your personal information by encrypting your information when you send it to Tizen.org.
 
 ### Public Forum Content
 
-Tizen.org makes available to its users communication forums, such as mail lists, blogs, and others. Be aware that any information or messages you share in these forums becomes public information immediately. Exercise caution in determining whether to disclose any of your personal information. Tizen.org is an open source web site, intended to encourage creative thinking and free expression, however, Tizen.org reserves the right to act as necessary to preserve the integrity of the site and its forums, including removing any and all posts deemed vulgar or inappropriate.
+Tizen.org makes communication forums available to its users such as mail lists, blogs, and others. Be aware that any information or messages you share in these forums becomes public information immediately. Exercise caution in determining whether to disclose any of your personal information. Tizen.org is an open source web site, intended to encourage creative thinking and free expression. However, Tizen.org reserves the right to act as necessary to preserve the integrity of the site and its forums, including removing any and all posts deemed vulgar or inappropriate.
 
 ### Children's Online Privacy
 
@@ -58,4 +58,4 @@ This privacy policy was last updated on September 27, 2011.
 
 ### Contact Information
 
-If you have any questions about this privacy policy itself, or on how we use personal information on Tizen.org, please contact us at [info@Tizen.org](mailto:info@Tizen.org).
+If you have any questions about this privacy policy itself or on how we use personal information on Tizen.org, please contact us at [info@Tizen.org](mailto:info@Tizen.org).
