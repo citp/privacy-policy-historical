@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906044914id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinkhint.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411164114id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Hint Water | Privacy Policy
+# Hint Privacy Policy - All Natural Hint Water
 
 Hint Inc. (hint essence water) recognizes the importance of protecting the privacy of personal information collected from users of our Web site. By accessing our Web site, you are assenting to the terms of this Privacy Statement and the terms of the user agreement.
 
@@ -31,6 +31,12 @@ This Web site contains links to other sites. Please be aware that we are not res
 ### CONSENT AND NOTIFICATION OF CHANGES
 
 By using our Web site, you consent to the collection and use of personal information as described above by Hint Inc. 
+
+### DETECTING AND PREVENTING FRAUD
+
+In addition, this site collects, uses, and retains certain information about visitors to detect, prevent, and analyze fraudulent transactions. We share this information with a third party, Sift Science, Inc., that provides analysis, monitoring, and reports to assist us in preventing and detecting fraudulent transactions and other activity on the site. 
+
+The kinds of fraud-related information that we collect, retain, and share, in addition to how Sift Science uses and stores such information, are described by the Sift Science Service Privacy Notice. The Sift Science Service Privacy Notice is available online at <https://siftscience.com/service-privacy.html> and is incorporated here as a part of this privacy policy. You should review the Sift Science Service Privacy Notice carefully, understanding that "Client" refers to Hint Inc. and that Hint Inc. may collect and share all of the kinds of data described by the Sift Science Service Privacy Notice, including by means of Sift Science’s Application Programming Interface, JavaScript code, and other means. Statements in the Sift Science Privacy Notice about Sift Science, Inc.'s compliance with certain national or international privacy frameworks, including the European Union and Swiss "Safe Harbor" frameworks, apply to Sift Science, and not necessarily to Hint Inc.. 
 
 ### FEEDBACK
 
