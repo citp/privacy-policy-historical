@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystore.lk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317020445id_/https%3A//www.mystore.lk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystore.lk privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411201104id_/https%3A//www.mystore.lk/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
