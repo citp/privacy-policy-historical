@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossroadshospice.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203100342id_/https%3A//www.crossroadshospice.com/media/1410/4411_notice-of-privacy-practicies.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossroadshospice.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411202932id_/https%3A//www.crossroadshospice.com/media/1410/4411_notice-of-privacy-practicies.pdf) for the most accurate reproduction.*
 
 # CROSSROADS HOSPICE HIPAA PRIVACY NOTICE
 
