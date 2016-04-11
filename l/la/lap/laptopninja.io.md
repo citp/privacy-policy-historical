@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317082211id_/https%3A//laptopninja.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411161445id_/https%3A//laptopninja.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LaptopNinja
 
-**Last Updated: March 9, 2015**
+**Last Updated: July 21, 2013** |  Published: July 21, 2013 by 
 
 ## What information do we collect?
 
@@ -19,14 +19,16 @@ Third party vendors, including Google, use cookies to serve ads based on a user�
 
 
 
-We work with the following affiliate advterisers who also track cookies.
+We work with the following affiliate advertisers using cookies in order to track outgoing links as part of performance marketing campaigns.
 
   * Amazon.com – Visit the Amazon [Advertising Preferences](http://www.amazon.com/gp/dra/info) to Opt-out of certain advertising cookies
   * CommissionJunction – Click [Here](http://www.conversantmedia.co.uk/opt-out) to Install Conversant Opt-out Cookie
-  * LinkShare – You may opt-out of receiving cookies by adjusting your web browser settings to reject cookies.
-  * BHPhotoVideo – You may opt-out of receiving cookies by adjusting your web browser settings to reject cookies.
+  * LinkShare
+  * BHPhotoVideo
 
 
+
+You may opt-out of receiving cookies by adjusting your web browser settings to reject cookies for any / all advertisers.
 
 ## What is a cookie?
 
@@ -121,3 +123,9 @@ Grahamstown
 Eastern Cape  
 South Africa  
 6139
+
+### GET PRO TIPS AND WIN WITH LAPTOPNINJA
+
+Master your laptop today with our free cutting edge guides. 
+
+Bonus: You'll automatically get entered intro our monthly draw to win a brand new laptop!
