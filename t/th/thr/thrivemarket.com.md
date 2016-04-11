@@ -1,146 +1,101 @@
-> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922091037id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivemarket.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411112123id_/https%3A//thrivemarket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrive Market
 
 Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Effective date: October 21st, 2015
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+We at Thrive Market know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**  
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
+Remember that your use of Thrive Market’s Services is at all times subject to the  [Terms of Service](https://web.archive.org/terms), which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the  [Terms of Service](https://web.archive.org/terms).  
 
-**When do we collect information?**
+**What does this Privacy Policy cover** **?**
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
 
-**How do we use your information?**
+As noted in the  [Terms of Service](https://web.archive.org/terms), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at (866) 419-2174. 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:   
-**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.   
-**•** To improve our website in order to better serve you.   
-**•** To allow us to better service you in responding to your customer service requests.   
-**•** To administer a contest, promotion, survey or other site feature.   
-**•** To quickly process your transactions.   
-**•** To send periodic emails regarding your order or other products and services.
+**Will Thrive Market ever change this Privacy Policy** **?**
 
-**How do we protect visitor information?**
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on www.thrivemarket.com, by sending you an email, and/or by some other means.  Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used ** _._**
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+**What Information does Thrive Market Collect** **?**
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+_Information You Provide to Us:_
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+We receive and store any information you knowingly provide to us.  For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, phone number.  Certain information may be required to register with us or to take advantage of some of our features.  
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers. to expedite future orders, and to automate the billing process.
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may send you promotional email offers on behalf of other businesses, or email you about your use of the Services.  If you provide us with your email address in connection with a sweepstakes or other promotion that involves a third party partner, you may also receive promotional emails from those third party partners.  Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please update your preferences in your [account settings](https://thrivemarket.com/newsletter/manage/).  
 
-**Do we use 'cookies'?**
+_Information Collected Automatically_
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, “cookie” information, the type of browser and/or device you’re using to access our Services, and the page or feature you requested. “Cookies” are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people.  You may be able to change the preferences on your browser or device to prevent or limit your device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features.  Our advertising partners may also transmit cookies to your browser or device, when you click on ads that appear on the Services. Also, if you click on a link to a third party website or service, such third party may also transmit cookies to you.  Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren’t responsible for their privacy policies and practices.
 
-We use cookies to:   
-**•** Help remember and process the items in the shopping cart.   
-**•** Understand and save user's preferences for future visits.   
-**•** Keep track of advertisements.   
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+We may use this data to customize content for you that we think you might like, based on your usage patterns.  We may also use it to improve the Services – for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible.   
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+_Information Collected From Other Websites and Do Not Track Policy_
 
-**If users disable cookies in their browser:**
+Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites.  Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-If you disable cookies off, some features will be disabled and some of our services will not function properly.
+**Will Thrive Market Share Any of the Personal Information it Receives** **?**
 
-**Third Party Disclosure**
+We neither rent nor sell your Personal Information in personally identifiable form to anyone.  However, we may share your Personal Information with third parties as described in this section:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+**Information that’s no longer personally identifiable.   **We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners, who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage information to a partner in a manner that would identify you personally, as an individual. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Advertisers:** We allow advertisers and/or merchant partners (“Advertisers”) to choose the demographic information of users who will see their advertisements and/or promotional offers and you agree that we may provide any of the information we have collected from you in non-personally identifiable form to an Advertiser, in order for that Advertiser to select the appropriate audience for those advertisements and/or offers. For example, we might use the fact you are located in San Francisco to show you ads or offers for San Francisco businesses, but we will not tell such businesses who you are.  Or, we might allow Advertisers to display their ads to users with similar usage patterns to yours, but we will not disclose usage information to Advertisers except in aggregate form, and not in a manner that would identify you personally.  Note that if an advertiser asks us to show an ad to a certain audience or audience segment and you respond to that ad, the advertiser may conclude that you fit the description of the audience they were trying to reach.
 
-**Third party links**
+We use Google AdSense Advertising on our website. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [https://support.google.com/adwordspolicy/answer/1316548?hl=en](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We may deliver a file to you through the Services (known as a “web beacon”) from an ad network.  Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers.  Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites.  Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit, or set their own cookies, just as if you had requested a web page from their site.  You may be able to opt-out of web beacon tracking conducted by third parties through our Services by adjusting the Do Not Track settings on your browser; please note that we don’t control whether or how these third parties comply with Do Not Track requests.
 
-**Google**
+**Affiliated Businesses:** In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing Thrive Market to receive and process your credit card transactions for us. Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
 
-We use Google AdSense Advertising on our website.
+**User Profiles and Submissions:** __ Certain user profile information, including your name, location, and any video or image content or Comments that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services.  Your user name may also be displayed to other users if and when you post comments or interact with other users through the Services
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Business Transfers:** We may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that would be transferred.  Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+**Protection of Thrive Market and Others:** We reserve the right to access, read, preserve, and disclose any information that we [reasonably] believe is necessary to comply with law or court order; enforce or apply our  [Terms of Service](https://web.archive.org/terms) and other agreements; or protect the rights, property, or safety of Thrive Market, our employees, our users, or others.  
 
-Opting out:
+**Is Personal Information about me secure** **?**
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+Your account is protected by a password for your privacy and security.  If you access your account via a third party site or service, you may have additional or different sign-on protections via that third party site or service. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password and/or other sign-on mechanism appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 
-**California Online Privacy Protection Act**
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+**What Personal Information can I access** **?**
 
-According to CalOPPA we agree to the following:
+Through your account settings, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
 
-Users can visit our site anonymously
+name and password
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+email address
 
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+mailing address
 
-Users will be notified of any privacy policy changes on our Privacy Policy Page.
+phone number
 
-Users are able to change their personal information:   
-**•** By emailing us   
-**•** By calling us   
-**•** By logging in to their account   
-**•** By chatting with us or sending us a ticket
+credit card information
 
-**How does our site handle do not track signals?**
+and other user profile information
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+The information you can view, update, and delete may change as the Services change.  If you have any questions about viewing or updating information we have on file about you, please contact us at (866) 419-2174.
 
-**Does our site allow third party behavioral tracking?**
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties.  If you are a California resident and would like a copy of this notice, please submit a written request to: 
 
-It's also important to note that we allow third party behavioral tracking
+Thrive Market   
+4509 Glencoe Ave.  
+Los Angeles, CA 90292.
 
-**COPPA (Children Online Privacy Protection Act)**
+**What choices do I have** **?**
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-We do not specifically market to children under 13.
+You may be able to add, update, or delete information as explained above.  When you update information, however, we may maintain a copy of the unrevised information in our records.  You may request deletion of your account by emailing us at help@thrivemarket.com. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.  
 
-**Fair Information Practices**
+**What if I have questions about this policy?**
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur, we will notify the users via email within 30 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-We collect your email address in order to:   
-• Send information, respond to inquiries, and/or other requests or questions.   
-• Process orders and to send information and updates pertaining to orders   
-• We may also send you additional information related to your product and/or service.   
-• Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-To be accordance with CANSPAM we agree to the following:   
-• NOT use false, or misleading subjects or email addresses   
-• Identify the message as an advertisement in some reasonable way   
-• Include the physical address of our business or site headquarters   
-• Monitor third party email marketing services for compliance, if one is used.   
-• Honor opt-out/unsubscribe requests quickly   
-• Allow users to unsubscribe by using the link at the bottom of each email
-
-If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Thrive Market   
-4509 Glencoe Ave   
-Marina Del Rey, CA 90292  
-USA
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to help@thrivemarket.com or at Thrive Market  4509 Glencoe Ave., Los Angeles, CA 90292  USA and we will try to resolve your concerns.
