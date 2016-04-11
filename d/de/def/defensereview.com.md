@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054744id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411082607id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | DefenseReview.com (DR): An online tactical technology and military defense technology magazine with particular focus on the latest and greatest tactical firearms news (tactical gun news), tactical gear news and tactical shooting news.
 
