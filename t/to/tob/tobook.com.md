@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908105622id_/https%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobook.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412011841id_/https%3A//www.tobook.com/privacy.asp) for the most accurate reproduction.*
 
 # toBook.com - Privacy policy
 
