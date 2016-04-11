@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptfodder.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318043034id_/https%3A//scriptfodder.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptfodder.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412001626id_/https%3A//scriptfodder.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy · ScriptFodder
 
 This Privacy Policy governs the manner in which ScriptFodder collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://scriptfodder.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by ScriptFodder.
 
