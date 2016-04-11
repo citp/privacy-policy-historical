@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webspiders.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220132255id_/http%3A//www.webspiders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webspiders.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411031116id_/http%3A//www.webspiders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WS Group (Web Spiders)
 
