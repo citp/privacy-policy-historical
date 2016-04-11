@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906130845id_/https%3A//www.thecaterer.com/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411145202id_/https%3A//www.thecaterer.com/s/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | The Caterer
 
