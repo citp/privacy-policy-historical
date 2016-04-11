@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212201012id_/https%3A//code.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hourofcode.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411221918id_/https%3A//code.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Code.org
 
-Date of Last Revision: August 3, 2015 
+Date of Last Revision: April 4, 2016
 
 ## About Code.org
 
@@ -52,7 +52,7 @@ This data also helps Code.org improve the course effectiveness. For example, if 
 Login time, IP address, and other technical data | Mandatory (automatic) | This data helps Code.org troubleshoot any problems users experience. It also helps Code.org understand usage patterns, to guide the build out of servers to support all users, and to enable updating the site while minimizing service disruption. See section below on “technical information” for additional details  
 Email Address | Optional if account created by teacher or parent  
 Mandatory if student signs up directly  
-Mandatory for teacher or parent accounts | To inform the student or parent or teacher when new course-work is available. The student’s email address is optional when a teacher or parent creates a student account. If a student creates an account directly, an email address is required, to enable Code.org to help the student User retrieve their forgotten password.  
+Mandatory for teacher or parent accounts | To inform the student or parent or teacher when new course-work is available and updates on curriculum, tools, professional learning options, etc. All emails contain an unsubscribe link. The student’s email address is optional when a teacher or parent creates a student account. If a student creates an account directly, an email address is required, to enable Code.org to help the student User retrieve their forgotten password.  
 If provided, the email can be used by the student as their Code.org login username and unique identity.  
 If provided, the student email address is private and not shared with anyone (not even the teacher)  
 Note: See section below for details on how we handle email addresses from children under 13.  
@@ -88,7 +88,7 @@ You may revoke Code.org’s access to your account on any Authentication Service
 
 ## Other Services
 
-When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, participating in a workshop, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, and postal code, or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All emails we send include an “unsubscribe” link which will immediately unsubscribe you from all future email from Code.org.
+When you use certain other features of our Website, such as signing forms or petitions to help advocate for Code.org, participating in a workshop, bringing Code.org programs to your school or district, donating to Code.org, purchasing t-shirts or other items, or participating in online surveys, Code.org may ask you to provide Personal Information including your full name, email address, and postal code, or school street address, as well as your billing and/or shipping information when necessary to complete a purchase or make a donation. The information is used to enable your participation in the relevant feature and to send you occasional emails with information about Code.org that we feel may interest you. All emails we send include an “unsubscribe” link.
 
 We may also survey Users to provide us with optional demographic information (such as gender, age, ethnicity), which we use in aggregate to better understand our User base.
 
@@ -114,7 +114,9 @@ A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny imag
 
 ## Third Parties
 
-Code.org may use a variety of third-party service providers, such as analytics companies to understand our Website usage, and social networking platforms to host our videos. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This technical information is collected directly and automatically by these third parties.
+Code.org may use a variety of third-party service providers, such as email services to send email, analytics companies to understand our Website usage, and social networking platforms to host our videos. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through the Website. This technical information is collected directly and automatically by these third parties.
+
+We use third party services to implement our Website and all of its associated services and features, including Amazon Web Services, Pardot and MailChimp (for sending email), and Twilio (for sending student code-creations to phones). Personal Information will be used and stored by these third parties solely in context as an implementation services provider to Code.org, but these third parties will not receive any ownership or have any other rights to access or use this Personal Information.
 
 Code.org does not allow advertising on our Website, and we do not have the ability to collect your web search history across 3rd party Internet websites or search engines. (If you navigate to the Code.org Website via a web search, your web browser may automatically provide to us the web search term you used in order to find Code.org). However, certain third-party entities that we use to provide website functionality or social sharing may collect Non-Personal Information for the purposes of online behavioral advertising. Our Website does not respond to “do not track” signals transmitted by web browsers, but we encourage you to visit the following links if you would like to opt out of online behavioral advertising: <http://www.networkadvertising.org/choices> or <http://www.aboutads.info/choices/>. If you do want to opt out using these tools, you may need to opt out separately for each of your devices and for each Web browser on each device. 
 
@@ -162,7 +164,7 @@ Code.org’s employees, agents and contractors must have a legitimate business r
 
 ## How We Share or Transfer Data
 
-We do not rent or sell Personal Information that we collect from Users, or exploit it for financial gain in any other way. Code.org will never share Personal Information with other third-party organizations without your consent or except as part of a specific program or feature for which you will have the ability and choice to opt-in. 
+We do not rent or sell Personal Information that we collect from Users, or exploit it for financial gain in any other way. Code.org will never share or grant rights to Personal Information with other third-party organizations to use without your consent, except as part of a specific program or feature for which you will have the explicit ability and choice to opt-in. 
 
 In particular, we do not share any Personal Information you provide with our donors or sponsors (other than the "Public Reporting" of anonymized reports as described below).
 
@@ -210,7 +212,7 @@ In the event that Code.org is acquired by, combined or merged with another entit
 
 ### Website security is important to you, and to us
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your Personal Information. Because some schools block SSL-secure websites, Code.org allows access with or without SSL protection, at the direction of those schools. If you would like an SSL encrypted connection in or to encrypt the data that you input while using the Website, use the HTTPS protocol by visiting <https://code.org/>. 
+To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your Personal Information. 
 
 ### We try to ensure that our Website and information sent to us are safe, but no security measures are perfect
 
