@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912072359id_/https%3A//www.directorycentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411154327id_/https%3A//www.directorycentral.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | DirectoryCentral
+# Privacy |
 
 **Effective June 9, 2015:**
 
