@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815090441id_/http%3A//mentalhelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhelp.net privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411184138id_/https%3A//www.mentalhelp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,3 +65,7 @@ We are happy to answer any inquiries you may have about this Privacy Policy. You
 * * *
 
 [About Us](https://web.archive.org/about/) [Terms of Use](https://web.archive.org/terms-of-use/)
+
+Wait, did you know that...
+
+Many addiction experts suggest that by removing yourself from your typical environment, and your “triggers”, it becomes easier to get and stay sober.  With that in mind, **would you like to learn about some of the best options for treatment in the country?**
