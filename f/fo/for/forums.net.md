@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318033207id_/https%3A//forums.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411154441id_/https%3A//forums.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Forums.net
 
@@ -32,7 +32,7 @@ You can learn more about how to delete or control cookies at [www.aboutcookies.o
 
     3. Analytics 
 
-Forums.net uses third-parties to measure traffic data and perform other analytics. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics and content, and analyze the efficacy of Forums.net's advertising. These cookies contain no personally identifiable information. 
+Forums.net uses third-parties to measure traffic data and perform other analytics. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics and content, and analyze the efficacy of Forums.net's advertising. These cookies contain no personally identifiable information. This includes the use of analytics service [Capturly](https://www.capturly.com/) (read [Capturly's Privacy Policy](https://capturly.com/privacy) or [opt out](https://capturly.com/optout)). 
 
     4. Personal Information 
 
@@ -77,4 +77,4 @@ Although most changes are likely to be minor, Forums.net reserves the right, at 
 
 
 
-Effective Date: April 16, 2014
+Effective Date: January 22, 2016
