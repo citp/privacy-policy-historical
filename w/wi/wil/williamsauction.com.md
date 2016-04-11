@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205140815id_/http%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411192158id_/https%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,6 @@ Williams & Williams is the sole owner of the information collected on the Willia
 
 Please be advised that these principles do not govern websites of other parties to which we may provide only links, as Williams & Williams is not responsible for, and cannot control the privacy practices or content of, those third party websites.
 
-**Information Collection and Use**  
 Williams & Williams collects, uses and retains personal information when you register with the Williams & Williams Website, when you use Williams & Williams applications and other services, when you visit Williams & Williams website pages or the pages of certain Williams & Williams partners, and when you enter promotions. Williams & Williams may combine information about you that we have with information we obtain from business partners or other companies.
 
 When you register with the Williams & Williams website as a member, we ask for your name and email address, plus, in some cases, physical address, telephone numbers, and similar contact information, credit card information or other financial information when you engage in bidding and/or order services on-line. Moreover, you may be asked to provide additional information such as birth date, gender, occupation, industry, and personal interests. Some of our members may use Williams & Williams applications and other services to participate in private auctions and/or chat forums which will require the participants to register prior to attending the private auction or forum, as well.
@@ -21,7 +20,6 @@ Williams & Williams routinely collects information that cannot be identified to 
 
 Williams & Williams uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for Applications and other services, improve our applications and other services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
-**Information Sharing and Disclosure.**  
 Williams & Williams does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
 We provide the information to trusted partners who work on behalf of or with Williams & Williams under confidentiality agreements. These companies may use your personal information to help Williams & Williams communicate with you about offers from Williams & Williams and our marketing partners. However, these companies do not have any independent right to share this information.
@@ -42,54 +40,26 @@ Williams & Williams website advertisers may include financial service providers 
 
 Williams & Williams may work with vendors, partners, advertisers, and other service providers in different industries and categories of business.
 
-**Cookies.**  
 Williams & Williams may set and access Williams & Williams website cookies on your computer.
 
-Williams & Williams may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Williams & Williams’s cookies.
+Williams & Williams may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Williams & Williams’s cookies.Williams & Williams may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Williams & Williams’s cookies.
 
 Williams & Williams may use web beacons to access Williams & Williams website cookies inside and outside our network of websites and in connection with Williams & Williams applications and other services.
 
-Your Ability to Edit and Delete Your Membership Information and Preferences.  
-You can edit your Williams & Williams website membership information at any time.
+Your Ability to Edit and Delete Your Membership Information and Preferences. You can edit your Williams & Williams website membership information at any time. 
 
 We reserve the right to send you certain communications relating to Williams & Williams website applications and other services, such as new application or service announcements, administrative messages and newsletters that are considered part of your Williams & Williams website membership, without offering you the opportunity to opt out of receiving them.
 
 You can terminate your Williams & Williams website membership at any time.
 
-**Confidentiality and Security.**  
 We limit access to personal information about you to employees, agents and representatives who we believe reasonably need to come into contact with that information to provide Applications and other services to you or in order to do their jobs.
 
 We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
 Further, the only means to participate in an auction is through the Williams & Williams website registration and access process, which should include a password for each transmission. Williams & Williams strongly recommends that all private transmissions be protected by passwords.
 
-**Privacy Contact**  
 If you have any questions about this Privacy Policy or about our information-collection practices, please contact us at legal@williamsauction.com Alternatively, you can contact us at Williams & Williams Marketing Services, Inc., 7140 South Lewis, Suite 200, Tulsa, Oklahoma 74136, USA.
 
-Copyright 2011 Williams & Williams Marketing Services, Inc. * All rights reserved
+Copyright 2016 Williams & Williams Marketing Services, Inc. * All rights reserved
 
 Use of this website constitutes acceptance of the Williams & Williams’ Terms of Use and Privacy Policy
-
-History 
-
-OKroots 
-
-Team Bios 
-
-In the News 
-
-Partners 
-
-Contact Us 
-
-Organizations 
-
-Careers 
-
-Enter your E-mail Address 
-
-or Edit My Auction Alerts
-
-**Please enter an e-mail address.**  
-If you are already signed up to receive auction alerts and would like to edit  
-your preferences 
