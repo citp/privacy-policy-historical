@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox16.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230120456id_/http%3A//www.fox16.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox16.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412014255id_/http%3A//www.fox16.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Central Arkansas - Little Rock, Pine Bluff
 
