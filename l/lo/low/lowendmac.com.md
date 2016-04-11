@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130032755id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412005820id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
 [](https://web.archive.org/index.php)
 
 ## Low End Mac's Privacy Policy
-
-#### Low End Mac Reader Specials
 
 International privacy standards require businesses to:
 
@@ -30,15 +28,15 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
 [Dan Knight](https://web.archive.org/email/dan-knight.htm) , publisher, Low End Mac
 
 Low End Mac is an independent publication and has not been authorized, sponsored, or otherwise approved by Apple Inc. Opinions expressed are those of their authors and may not reflect the opinion of Cobweb Publishing. Advice is presented in good faith, but what works for one may not work for all.  
-  Entire Low End Mac website copyright ©1997-2013 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Low End Mac, LowEndMac, and lowendmac.com are trademarks of Cobweb Publishing Inc. Apple, the Apple logo, Macintosh, iPad, iPhone, iMac, iPod, MacBook, Mac Pro, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
+  Entire Low End Mac website copyright ©1997-2016 by [Cobweb Publishing, Inc.](https://web.archive.org/cobweb/) unless otherwise noted. All rights reserved. Low End Mac, LowEndMac, and lowendmac.com are trademarks of Cobweb Publishing Inc. Apple, the Apple logo, Macintosh, iPad, iPhone, iMac, iPod, MacBook, Mac Pro, and AirPort are [registered trademarks of Apple Inc.](http://www.apple.com/legal/trademark/) Additional company and product names may be trademarks or registered trademarks and are hereby acknowledged.  
   Please report errors to [webmaster](mailto:lowendmac@gmail.com) .  
   [LINKS](https://web.archive.org/link.shtml): We allow and encourage links to any public page as long as the linked page does not appear within a frame that prevents bookmarking it.  
   Email may be published at our discretion unless marked "not for publication"; email addresses will not be published without permission, and we will encrypt them in hopes of avoiding spammers. Letters may be edited for length, context, and to match house style.  
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [110 MHz Power Mac 8100](https://web.archive.org/1994/power-mac-8100/), introduced 1994.11.03. The first Mac to go past the 100 MHz mark.
-* List of the Day: [LEM Swap](http://lowendmac.com/lists/swap.html) is where users can buy, sell, and swap Mac-related goods.  
+* Mac of the Day: [Umax SuperMac C500](https://web.archive.org/supermacs/c500.shtml), introduced 1996.11. The smallest, least costly Mac clone had two PCI slots.
+* List of the Day: [Mac UK](http://lowendmac.com/lists/mac-uk.shtml) is for Mac users in the United Kingdom.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/2005/power-mac-index/)  
