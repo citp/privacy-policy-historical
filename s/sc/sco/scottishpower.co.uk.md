@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025622id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411091724id_/https%3A//www.scottishpower.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScottishPower
 
@@ -10,7 +10,7 @@ This section explains how we currently manage the personal information you submi
 
 We’ll let you know about any significant changes to this policy if and when they happen. These will be highlighted both here and in our revised terms and conditions. 
 
-For more general information on how ScottishPower uses your personal data, please refer to [Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/pdf/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves](http://www.scottishpower.co.uk/campaigns/dataprotection).
+For more general information on how ScottishPower uses your personal data, please refer to [Clause 19 of our standard terms and conditions](https://www.scottishpower.co.uk/pdf/tandc.pdf#page=8). You can also [read more about the use of personal data by credit reference agencies and ourselves](https://www.scottishpower.co.uk/campaigns/dataprotection).
 
 Got a question about anything in this section? Please email dataprotection@scottishpower.com. 
 
@@ -26,13 +26,13 @@ Whenever we do ask you to provide personal details – and the reason isn’t ob
 
 **How we use it**
 
-Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/pdf/SPGenTandCv1.pdf). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
+Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](https://www.scottishpower.co.uk/pdf/SPGenTandCv1.pdf). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
 
 Based on what we know about you, we and other carefully selected organisations may send you details of offers you may be interested in – unless you have specifically asked us not to. You will have told us one way or the other when you first applied to ScottishPower. 
 
-Don’t worry if you want to change your mind – you can amend your preference at any time simply by visiting the My Details page of the [My Account](http://www.scottishpower.co.uk/account/login/ "Login") section on this website. 
+Don’t worry if you want to change your mind – you can amend your preference at any time simply by visiting the My Details page of the [My Account](https://www.scottishpower.co.uk/account/login/ "Login") section on this website. 
 
-If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](http://www.scottishpower.co.uk/contact.process "Contact Us") with the relevant details.
+If you told us that you didn’t want to receive details of offers but think that we’re still sending them, please let us know. Just [Contact us](https://www.scottishpower.co.uk/contact.process "Contact Us") with the relevant details.
 
 Saying ‘no’ to details of other products and/or services won’t stop us contacting you altogether, of course. We’ll still need to send you information about the product and/or service you use. What it does mean is that we may not be able to tell you about other products that may be of financial or some other benefit to you. 
 
@@ -72,13 +72,11 @@ This website contains links to other sites. Naturally, we’re not responsible f
 
 ## Security
 
-As you’d expect, we do everything we can to protect your personal data. That’s why, whenever you input your details on this website, you do so via our secure servers. These use what’s known as high-level 128-bit (Secure Socket Layer) encryption – a leading security standard in the e-commerce industry. The padlock symbol on your browser bar is there for your peace of mind. You can also view our VeriSign certificate in the file/properties menu.
+As you’d expect, we do everything we can to protect your personal data. That’s why, whenever you input your details on this website, you do so via our secure servers. These use what’s known as Secure Socket Layer encryption (high-level 2048 bit) – a leading security standard in the e-commerce industry. The padlock symbol and depending on your browser the Extended Validation green bar is there for your peace of mind. You can also view this security certificate in the file/properties menu.
 
-Most of this website isn’t encrypted, because there’s no need. However, the moment you submit any personal information as part of the quote and apply process or register to manage your account online, you’re directed to secure pages. 
+Most of this website isn’t encrypted, because there’s no need. However, the moment you submit any personal information as part of the quote and apply process or register to manage your account online, you’re directed to secure pages.
 
-Don’t be surprised if you see a warning about non-secure pages while the secure pages are loading within the site. All of the information that’s sent back and to during secure processes goes via secure links – so it’s encrypted, keeping your personal details safe.
-
-Here are some of the other things we do to protect your personal data. When making a payment, your bank details are authorised in real time rather than being stored. For added security, the bank details that we do hold (for paying by direct debt) remain partially hidden when you access your online account. This way you can check which account you’re using without letting anyone else see your full bank details, in the unlikely event of unauthorised access to your account.
+Don’t be surprised if you see a warning about non-secure pages while the secure pages are loading within the site. All of the information that’s sent back and to during secure processes goes via secure links – so it’s encrypted, keeping your personal details safe. Here are some of the other things we do to protect your personal data. When making a payment, your bank details are authorised in real time rather than being stored. For added security, the bank details that we do hold (for paying by direct debt) remain partially hidden when you access your online account. This way you can check which account you’re using without letting anyone else see your full bank details, in the unlikely event of unauthorised access to your account.
 
 We also train our staff to protect your personal details and check your identity whenever you contact us. You can do your bit too, of course. Keep your password and account details secure. And always remember to log out of your account and close your browser window when you’ve finished. This helps to ensure that no one else can access your personal data.
 
