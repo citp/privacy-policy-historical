@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commercebankfl.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908144455id_/http%3A//www.commercebankfl.com/wp-content/uploads/2015/04/Privacy_Notice_Eng1.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebankfl.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411173452id_/http%3A//www.commercebankfl.com/wp-content/uploads/2015/04/Privacy_Notice_Eng1.pdf) for the most accurate reproduction.*
 
 # 
 
