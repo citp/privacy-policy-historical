@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newretrowave.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005125233id_/https%3A//www.newretrowave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newretrowave.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411180512id_/https%3A//www.newretrowave.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — NewRetroWave
+# Privacy Policy — NewRetroWave | Stay Retro! | Live The 80's Dream! |
 
 ### Effective as of Sept 26, 2014
 
