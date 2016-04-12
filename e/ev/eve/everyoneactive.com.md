@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211105642id_/http%3A//www.everyoneactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyoneactive.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412022955id_/http%3A//www.everyoneactive.com/privacy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Everyone Active » Privacy Policy
 
-This Privacy Policy relates to the website [www.everyoneactive.com](http://www.everyoneactive.com/). Everyone Active is the trading name for Sports & Leisure Management Ltd, the data controller. This policy informs users of Everyone Active about the collection, use and sharing of personal information collected through the www.everyoneactive.com (“the website”) and at our centres.
+This Privacy Policy relates to the website [www.everyoneactive.com](http://www.everyoneactive.com/). Everyone Active is the trading name for Sports & Leisure Management Ltd, the data controller. This policy informs users of Everyone Active about the collection, use and sharing of personal information collected through the [www.everyoneactive.com](http://www.everyoneactive.com/) (“the website”) and at our centres.
 
 This Policy is designed to protect you, our users by informing you how personal information is collected, how we look after that information and with whom we share it. Quick links have been provided to help you find the section you wish to read.
 
@@ -80,7 +80,7 @@ Everyone Active reserves the right to store and process information securely out
 
 **_Services provided by third parties_**
 
-Everyone Active may also, with your permission, share information with third party organisations that provide specific services which enhance your membership and experience with us. These organisations may process data securely outside of the EEA. There is a contract in place with each third party which includes strict terms and conditions to protect your privacy.
+Everyone Active may also share information with third party organisations that provide specific services which enhance your membership and experience with us. These organisations may process data securely outside of the EEA. There is a contract in place with each third party which includes strict terms and conditions to protect your privacy.
 
 Please find below links to the terms and conditions and/or Privacy Policies of these third party organisations.
 
