@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319025238id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbleschedule.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412152654id_/http%3A//www.nimbleschedule.com/privacy) for the most accurate reproduction.*
 
-# NimbleSchedule | Employee Scheduling Software | Privacy - NimbleSchedule
+# Privacy - NimbleSchedule
 
 ## Information Collection.
 
@@ -58,6 +58,6 @@ Even though NimbleSchedule has taken significant steps to ensure that your perso
 
  **Contact Information** If users have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
-1-866-986-6462  
-2588 El Camino Real, Suite F-209  
+1-866-986-6462   
+2588 El Camino Real, Suite F-209   
 Carlsbad, CA 92008
