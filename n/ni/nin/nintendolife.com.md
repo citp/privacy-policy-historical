@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053950id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412235348id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Life
 
-This privacy policy sets out how "Nintendo Life" uses and protects any information that you give "Nintendo Life" when you use this website.
+**This privacy policy sets out how "Nintendo Life" uses and protects any information that you give "Nintendo Life" when you use this website.**
 
 "Nintendo Life" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -63,13 +63,16 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
- **See Also:**
+## Competition Entries
 
-  * [Scoring Policy](http://www.nintendolife.com/scoring)
-  * [Advertising Policy](http://www.nintendolife.com/advertising-policy)
-  * [Community Rules](http://www.nintendolife.com/rules)
-  * [Terms of Use](http://www.nintendolife.com/terms)
+Winners may be requested to take part in post event promotional activity and Nintendo Life reserves the right to use the username, names and location (country) of winners, their photographs and audio and/or visual recordings of them in any publicity.
 
+Any email addresses collected for purpose of entry during a competition may, and often will, be added to our email mailing list, however will not be shared with or sold to third parties. All emails send from our mailing list will have a clear option to unsubscribe.
 
+Any personal data relating to entrants will be used solely in accordance with current UK data protection legislation and best practice. Please see Nintendo Life's Privacy Policy for further details. Data relating to entrants will be retained by Nintendo Life for a reasonable period after the Competition closes to assist Nintendo Life to operate competitions in a consistent manner and to deal with any queries.
 
-_Last Updated: Sat 26th May, 2012_
+On the occasion that a third party, such as the product supplier, advertising agency or PR company who sponsor that competition is to provide prize(s) directly, your contact details and if applicable mailing address, will be passed to the third party for the sole reason of delivering the prize.
+
+## How to contact us
+
+You can contact us by filling in our online [contact](http://www.nintendolife.com/contact) form.
