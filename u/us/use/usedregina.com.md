@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926135341id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedregina.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413002545id_/http%3A//www.usedregina.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Used stuff in Regina for sale - UsedRegina.com - buy and sell free classified ads
 
@@ -6,7 +6,7 @@ This Policy was last modified on June 11, 2015.
 
 * ### Introduction
 
-Welcome to UsedEverywhere.com, a division of Black Press Group Ltd. We are committed to providing a positive, friendly, informative and safe experience for all our users.
+Welcome to Used.ca, a division of Black Press Group Ltd. We are committed to providing a positive, friendly, informative and safe experience for all our users.
 
 This Policy explains how we collect, use, disclose and protect your Personal Information when providing our Services to you.
 
@@ -15,7 +15,7 @@ This Policy explains how we collect, use, disclose and protect your Personal Inf
 Throughout this policy:
 
   1. "Personal Information" means information that can be used to identify you as an individual but does not include business contact information or information that has been made anonymous. 
-  2. “Services” includes any of our [local UsedEverywhere.com websites](http://www.usedeverywhere.com/sites/) and our related services, tools, or applications, including applications for mobile devices.
+  2. “Services” includes any of our [local Used.ca websites](http://www.used.ca/sites/) and our related services, tools, or applications, including applications for mobile devices.
   3. “we” “us” or “our” refers to Black Press Group Ltd. and its divisions, subsidiaries, or assigns.
 
 
@@ -138,7 +138,7 @@ From time to time, we may make changes to this Policy. When we do so, we will pl
 
 If you have questions about your privacy or this Policy, or if you have a complaint about our collection, use or disclosure of your Information, please contact our Privacy Office:
 
-UsedEverywhere.com  
+Used.ca  
 818 Broughton St.  
 Victoria, BC  
 V8W 1E4 
