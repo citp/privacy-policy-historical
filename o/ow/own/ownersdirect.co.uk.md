@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019061943id_/http%3A//www.ownersdirect.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412041708id_/https%3A//www.ownersdirect.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Owners Direct
 
+[Download as PDF](https://web.archive.org/info/files/live/sites/odhr/files/shared/aboutus/Owners_Direct_Privacy_Policy.pdf "Owners Direct Privacy Policy")
+
 _Last updated: 19th May 2015_
 
-We are serious about protecting the privacy of our users. This Privacy Policy describes how we use and protect your personal data. It applies to [www.ownersdirect.co.uk](http://www.ownersdirect.co.uk/ "Owners Direct"), any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”), and any mobile application of such websites. Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of those websites.
+We are serious about protecting the privacy of our users. This Privacy Policy describes how we use and protect your personal data. It applies to [www.ownersdirect.co.uk](https://www.ownersdirect.co.uk/ "Owners Direct"), any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”), and any mobile application of such websites. Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of those websites.
 
 The Site is owned and operated by HomeAway UK Ltd, Portland House, 25th floor, Bressenden Place, London, SW1E 5BH, United Kingdom which is part of the HomeAway, Inc. group of companies. HomeAway UK Ltd is registered in England & Wales with company registration number 01352676. You can find details of the HomeAway group and the companies in our filings with the United States Securities and Exchange Commission on Forms S-1, 10-K and 10-Q, which can be accessed here: http://investors.homeaway.com/sec.cfm. Where we refer to all of these companies together in this Privacy Policy we call them the “HomeAway Group”.
 
@@ -142,7 +144,7 @@ Note that, despite the measures taken by us and the third parties we engage, the
 
 **What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**
 
-A "cookie" is a small file placed on your hard drive by certain of our web pages. We or third parties under contract with us may use cookies to help us analyse our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site. Our Site has a dedicated section on cookies which you can read here at: <http://www.ownersdirect.co.uk/info/about-us/cookies.htm>[ ](http://www.ownersdirect.co.uk/info/about-us/cookies.htm "cookies")
+A "cookie" is a small file placed on your hard drive by certain of our web pages. We or third parties under contract with us may use cookies to help us analyse our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site. Our Site has a dedicated section on cookies which you can read here at: <https://www.ownersdirect.co.uk/info/about-us/cookies>
 
 You may delete and block all cookies from this site, but parts of the site will not work. We want to be open about our cookie use. Even if you are only browsing the Site certain information (including computer and connection information, browser type and version, operating system and platform details and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
 
