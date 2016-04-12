@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usconsulate.gov privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203142915id_/http%3A//www.usembassy.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconsulate.gov privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412134403id_/http%3A//www.usembassy.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy | USEmbassy.gov
 
