@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2015-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151206234527id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2016-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160412184704id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">	   
@@ -54,7 +54,7 @@
       <meta property="fb:admins" content="132876373445681">
 	  		  	  
 	  
-  <script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
+  </head>
 
   <body id="marketingPage" onunload="logoff()">
    
@@ -220,7 +220,14 @@
 </div></div>
 <div style="display:none;" id="alertwarningpopupopener"></div>
 <script type="text/javascript">
-
+$j(window).load(function(){
+	if (parseFloat($j("#footerall").css("bottom"), 10) != 0) {
+		$j("#footerall").css({bottom: "0"});
+		window.setTimeout(function() {
+			 $j("#footerall").fadeIn(500);
+		}, 500);
+	}
+});
 try {
 $j(document).ready(function(){
 	$j("#exit_disclaimer").modalPopLite({ openButton: '#exit_disclaimer_opener', closeButton: '#exit_disclaimer_closer', isModal: false, callBack:removeExitMsg});
@@ -231,13 +238,6 @@ $j(document).ready(function(){
 	
 	$j("#alertWarningPopupDiv").modalPopLite({ openButton: '#alertwarningpopupopener', closeButton: '#alertWarningCloser', isModal: true });
 	
-	if (typeof UnifSearchEngine === "undefined")
-		UnifSearchEngine = new UnifiedSearchEngine();
-	window.setTimeout( function(){
-		if( adjustFooterAll ){
-			adjustFooterAll();
-		}
-	}, 1000 );
 });
 } catch ( err ) {
 	  // do nothing
@@ -547,7 +547,7 @@ Ballston Spa, New York<br>
 
 
 
-<div id="footerall">
+<div id="footerall" style="bottom: 0px; display: block; opacity: 0.0181382;">
 <div id="footerCap" class="responsive">
 	<div class="footerWrapper">
 	<div class="footerTop">
@@ -610,6 +610,9 @@ Ballston Spa, New York<br>
 		<a href="http://www.usa.gov" target="_top" onclick="pageTracker._trackEvent('OutboundReferral','www.usa.gov');">USA.gov</a> <span class="separator">&nbsp;|&nbsp;</span>
 		<a href="/marketing.do?goto=/acm/Get_Involved.htm" target="_top">Volunteer</a> <span class="separator">&nbsp;|&nbsp;</span>
 		<a href="/marketing.do?goto=/acm/shareData.htm" target="_top">Use Our Data</a>
+		
+		
+		
 	</div>
 	<span class="copyright">© 2014 Recreation.gov. All Rights Reserved.</span>
 	
