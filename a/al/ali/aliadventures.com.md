@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliadventures.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218110651id_/http%3A//www.aliadventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliadventures.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412031640id_/http%3A//www.aliadventures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyAli's Adventures | Ali's Adventures
 
