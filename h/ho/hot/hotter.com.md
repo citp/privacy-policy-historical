@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225202508id_/http%3A//www.hotter.com/gb/en/info/FAQ-Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412215200id_/http%3A//www.hotter.com/gb/en/info/FAQ-Privacy-Security) for the most accurate reproduction.*
 
 # Hotter Shoes UK - FAQ - Frequently Asked Questions - Privacy & Security
 
