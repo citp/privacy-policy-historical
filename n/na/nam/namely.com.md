@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210035218id_/http%3A//www.namely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413001148id_/https%3A//www.namely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy — Namely
 
 This Privacy Policy describes the policies and procedures of Namely, Inc. (“Namely”, “we”, “our” or “us”) on the collection, use and disclosure of your information on namely.com (the “Site”), the services, features, content or applications we offer (collectively with the Site, the “Services”) and our mobile application: Namely (“Mobile App”). When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. In some instances, the use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Namely. 
 
-Namely has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site: www.namely.com, the Namely Platform and Mobile App.
+Namely has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site: www.namely.com, the Namely Platform and Mobile App.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@namely.com](mailto:info@namely.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@namely.com](mailto:info@namely.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-Namely complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Namely has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Namely certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+Namely complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Namely has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Namely certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### What Does This Privacy Policy Cover? 
 
@@ -52,11 +52,11 @@ You can log in to our site using sign-in services such as Log in With Google or 
 
 ### Blog 
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[ info@namely.com](mailto:info@namely.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[info@namely.com](mailto:info@namely.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ### Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us _at_[ info@namely.com](mailto:info@namely.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us _at_[info@namely.com](mailto:info@namely.com).
 
 ### Aggregate Information: 
 
@@ -118,6 +118,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### What If I Have Questions or Concerns? 
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@namely.com or via postal mail at 45 West 34th Street, Suite 710-712, New York, NY 10001. We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@namely.com or via postal mail at 195 Broadway, 15th Floor, New York, NY 10007. We will make every effort to resolve your concerns. 
 
 Effective Date: March 13, 2015
