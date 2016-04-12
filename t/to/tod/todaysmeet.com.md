@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaysmeet.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906120737id_/https%3A//todaysmeet.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysmeet.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412145155id_/https%3A//todaysmeet.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - About - TodaysMeet
 
