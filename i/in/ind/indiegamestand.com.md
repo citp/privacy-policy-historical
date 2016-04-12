@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiegamestand.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071305id_/https%3A//indiegamestand.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiegamestand.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412155423id_/https%3A//indiegamestand.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IndieGameStand
 
