@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709152540id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412024141id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
 
-# Privacy Policy | Phase Eight | Phase Eight
+# Privacy Policy | Phase Eight
 
 #### **Your Privacy Is Important To Us**
 
