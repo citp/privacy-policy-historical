@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120337id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412120149id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birchbox
 
-Birchbox Inc. (“Birchbox”, “we” or “us”), the operator of this web site, developer and operator of this Application, and operator of this Retail Store, is committed to preserving the privacy of those who visit the [www.birchbox.com](https://birchbox.com/) site (the “Site”), who download and use the Birchbox Application (the “App”), and who visit and shop at our Retail Store located at 433 West Broadway New York, NY 10012 (the “Store”). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site, App, and Store. We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the [U.S. Department of Commerce](https://safeharbor.export.gov/list.aspx) (the “Principles”) with respect to all such data. If there is any conflict between the Policies in this privacy policy and the Principles, the Principles shall govern. This Privacy Policy applies solely to information collected at this Site, in this App, and at this Store and is made a part of and incorporated into the Site, App, and Store [Terms and Conditions](https://web.archive.org/about/terms-conditions).
+Birchbox Inc. (“Birchbox”, “we” or “us”), the operator of this web site, developer and operator of this Application, and operator of this Retail Store, is committed to preserving the privacy of those who visit the [www.birchbox.com](https://birchbox.com/) site (the “Site”), who download and use the Birchbox Application (the “App”), and who visit and shop at our Retail Store located at 433 West Broadway New York, NY 10012 (the “Store”). This document will outline how we gather and utilize various sources of information obtained during your visit to the Site, App, and Store. We adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the [U.S. Department of Commerce](https://safeharbor.export.gov/list.aspx) (the “Principles”) with respect to all such data. If there is any conflict between the Policies in this privacy policy and the Principles, the Principles shall govern. This Privacy Policy applies solely to information collected on the Site, in the App, and at the Store and is made a part of and incorporated into the [Terms and Conditions](https://web.archive.org/about/terms-conditions) for the Site, App, and Store.
 
 This Privacy Policy communicates how, when, and why we gather information about our customers and what we do with it.
 
@@ -42,21 +42,21 @@ Please note that Birchbox reserves the right to and may disclose Personal Inform
 
 Please also note that we do reserve the right to transfer your Personal Information and other information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control. In such a circumstance the Transferee would be bound by the terms of this Privacy Policy.
 
-### NON-PERSONALLY IDENTIFIABLE INFORMATION
-
-We use non-personally identifiable information in the aggregate, so that we can improve the Site, App, and Store and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
-
 ### SWEEPSTAKES
 
 If you submit your email address to be added to a mailing list or Sweepstakes or other promotion, we will use the email address for the sole purpose of sending you announcements, special offers from Birchbox and its promotional partners along with Site, App, and Store updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to info@birchbox.com.
 
 ### REFERRALS
 
-If you elect to use our referral services for informing a friend about our Site, App, or Store we ask you for the friend's name and email address. Birchbox will automatically send the friend a one-time email inviting them to visit the Site. Birchbox stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Birchbox at to request the removal of this information from our database.
+If you elect to use our referral services for informing a friend about our Site, App, or Store we ask you for the friend's name and email address. Birchbox will automatically send the friend an initial email inviting them to visit or transact with the Site. Birchbox may also send additional emails reminding your friend that you referred them. Additionally, you may send additional "Nudges" to your friend to remind them to sign up. Birchbox stores this information for the sole purpose of sending these referral emails and tracking the success of our referral program. The friend may contact Birchbox at to request the removal of this information from our database and to stop receiving Nudges.
 
 ### Use of Cookies
 
 Our Site may pass a "cookie" (a string of information that is sent by a web site to be resident on your system's hard drive, and/or temporarily in your computer's memory blocks). The purpose of a cookie is to tell the web server that you have returned to a particular page. The Site may use cookies in on-line catalogs to keep track of your status and contents of your shopping cart. or to retain information gathered in cookies to allow you access to password-protected areas of the Site. You may set your browser to decline cookies. If you do so, however, you may not be able to fully experience some interactive features of the Site.
+
+### Pixel Tags Or Beacons
+
+In addition to cookies, we also collect Aggregate Information through the use of "tracking pixels," also known as "beacons." A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third party service providers to help us collect and analyze this information. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the [NAI website](http://www.networkadvertising.org/choices/) and [DAA website](https://www.aboutads.info/choices/).
 
 ### How We Protect Your Information
 
@@ -86,7 +86,7 @@ Our Site may contain links to other web sites, including our affiliated or co-br
 
 ### Site, App, and Store Terms and Conditions
 
-Use of this Site, App, and Store is governed by, and subject to, the legal notices contained in our Terms and Conditions. Your use, or access, of the Site, App, or Store constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE, THE APP, OR THE STORE.
+Use of this Site, App, and Store is governed by, and subject to, the legal notices contained in our [Terms and Conditions](https://web.archive.org/about/terms-conditions). Your use, or access, of the Site, App, or Store constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE, THE APP, OR THE STORE.
 
 ### Privacy Policy Changes
 
@@ -96,14 +96,14 @@ If you have any questions about the Birchbox.com Privacy Policy please contact u
 
 Birchbox Inc   
 28 East 28th Street  
-12th Floor  
+11th Floor  
 New York, NY 10016  
 (877) 487-7272  
-[info@birchbox.com](https://web.archive.org/web/20150905120337id_/https%3A//www.birchbox.com/about/info@birchbox.com)
+[info@birchbox.com](https://web.archive.org/web/20160412120149id_/https%3A//www.birchbox.com/about/info@birchbox.com)
 
 #### United States of America
 
-Our Site, App, and Store are maintained in the United States of America. By using the Site, App, or Store you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. Effective Date: This Privacy Policy is effective and was last updated on February 24, 2015.
+Our Site, App, and Store are maintained in the United States of America. By using the Site, App, or Store you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. Effective Date: This Privacy Policy is effective and was last updated on March, 16, 2016.
 
 Get a monthly box of five personalized beauty samples. 
 
