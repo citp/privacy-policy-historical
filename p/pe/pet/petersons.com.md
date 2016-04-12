@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092524id_/https%3A//www.petersons.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412113203id_/https%3A//www.petersons.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Please note that in some instances we utilize framing techniques, which make it 
 
 Please note that some features and/or functions referenced may not be included on this Website and the portions of this Website Privacy Policy that pertain to those features or functions may not be applicable.
 
-This Website Privacy Policy is effective as of the date listed above and applies to all Websites that link to this policy. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Policy at any time and at our discretion. If we decide to make a material change to our Website Privacy Policy, we will post those changes and make them accessible on the homepage of the Website, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+This Website Privacy Policy is effective as of the date listed above and applies to all Websites that link to this policy. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right to revise this Policy at any time and at our discretion. If we decide to make a material change to our Website Privacy Policy, we will post those changes and make them accessible on the homepage of the Website, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 2\. Children's Privacy
 
@@ -32,7 +32,7 @@ Personally Identifiable Information, as used in this Website Privacy Policy, mea
 
 During the course of the visitor's use of the Website, we automatically collect certain information on the Website through cookies, web beacons, log files, and other common Website data collection techniques and we receive information from third parties.
 
-**Website Cookies:** The Website may place "cookies" on a visitor's computer. Cookies are small text files. Our Cookies save anonymized data about individual visitors, allowing the Website to recognize information about a visitor and help deliver personalized content and other services and functions. 
+**Website Cookies:** The Website may place "cookies" on a visitor's computer. Cookies are small text files. Our Cookies save anonymized data about individual visitors, allowing the Website to recognize information about a visitor and help deliver personalized content and other services and functions.
 
 The Website uses both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until they expire or are manually deleted.
 
@@ -40,7 +40,7 @@ The Website also contains coding from our business and technology partners which
 
 Most browsers allow you to control cookies, including whether or not to accept them and provide the ability to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are the Website.
 
-**Web Beacons (1x1 Pixels or GIFS):** Our Website contains coding known as Web Beacons that use 1x1 pixel images to capture and transmit the online activity of users on our Website. These Web Beacons typically transmit information about form completions and other Website activities in order to measure advertising effectiveness or store analytics information. In addition, the Company may use Web Beacons in HTML-based emails. This allows us to evaluate the effectiveness of our email communications and our marketing campaigns by showing how many emails recipients have opened. 
+**Web Beacons (1x1 Pixels or GIFS):** Our Website contains coding known as Web Beacons that use 1x1 pixel images to capture and transmit the online activity of users on our Website. These Web Beacons typically transmit information about form completions and other Website activities in order to measure advertising effectiveness or store analytics information. In addition, the Company may use Web Beacons in HTML-based emails. This allows us to evaluate the effectiveness of our email communications and our marketing campaigns by showing how many emails recipients have opened.
 
 **Log Files:** Like most Websites, our servers utilize log files. Log files store information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Log files are used to analyze trends, administer the Website, track users' movement in the aggregate, and gather broad demographic information for aggregate use. We use log file information at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Website.
 
@@ -48,7 +48,7 @@ Most browsers allow you to control cookies, including whether or not to accept t
 
 6\. Information You Provide to the Company
 
-In addition to the information automatically collected automatically, we also collect information that you provide to us when you register for an account on our Website, request information about a particular school or educational program, or otherwise voluntarily provide information about yourself and/or your educational interests.
+In addition to the information automatically collected, we also collect information that you provide to us when you register for an account on our Website, request information about a particular school or educational program, or otherwise voluntarily provide information about yourself and/or your educational interests.
 
 Most commonly, our Website provides users the opportunity to request information from schools and to learn about various education opportunities. These information request pages require users to provide the Company with contact information (name, address, phone numbers [home, work and mobile], email address, age, work experience, military history, etc.) as well as information about their interest in one or more of our education or business partners (universities, colleges, test preparation companies, financial aid providers, etc.). We collect this information that you provide and may use it to make your future requests from our Websites easier by pre-populating contact forms with the information that you have provided. We may sell or share this contact information that you provide with the education or business partner that you requested information from and that information usage is covered by their Privacy Policy.
 
@@ -93,16 +93,15 @@ In addition to the uses listed in other sections of this Website Privacy Policy,
 
 
 
-  
 8\. Control of Third Party Data Usage
 
 While the Company undertakes efforts to see that any third party with whom the Company shares personal or other information is under contractual obligation to use it solely for the purposes for which the information was disclosed and in accordance with the terms of this Privacy Policy, such parties are independent third parties over which the Company exercises no direct control. The Company is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices.
 
 9\. Accessing and Changing Your Personal Information
 
-The Company provides a number of different opportunities to review and change information in your profile or that we have stored about you. For example, you can go to the Website and log into your account to make desired changes. 
+The Company provides a number of different opportunities to review and change information in your profile or that we have stored about you. For example, you can go to the Website and log into your account to make desired changes.
 
-To request that information which had previously been voluntarily provided be removed from our database, send a request to the Company using the Company Contact Information below. We will attempt to delete such information, where feasible, after we receive a request from you. We will respond to a request for access within 30 days. 
+To request that information which had previously been voluntarily provided be removed from our database, send a request to the Company using the Company Contact Information below. We will attempt to delete such information, where feasible, after we receive a request from you. We will respond to a request for access within 30 days.
 
 In accordance with this Privacy Policy, we may have forwarded personal information to our business partners. In the event we have shared your information with our business partners, including educational institutions, we no longer have control over the removal of such information, and we will not be able to remove your information from their systems.
 
@@ -135,8 +134,7 @@ California has passed legislation requiring certain disclosures be made availabl
 If you have any questions about this Website Privacy Policy, the practices of the Website, or your use of the Website, please contact us at:
 
 **Address:**   
-Attention: Privacy Policy Administrator - Peterson’s Nelnet, LLC  
-461 From Road – Suite 200  
-Paramus, NJ 07652
-
+Attention: Privacy Policy Administrator - Peterson’s Nelnet, LLC   
+461 From Road – Suite 200   
+Paramus, NJ 07652   
 **Email:** [privacy@petersons.com](mailto:privacy@petersons.com)
