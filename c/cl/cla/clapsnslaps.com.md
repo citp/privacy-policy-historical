@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clapsnslaps.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711160625id_/https%3A//www.clapsnslaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapsnslaps.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412145627id_/https%3A//www.clapsnslaps.com/privacy) for the most accurate reproduction.*
 
-# Latest Bollywood & Hollywood Films Reviews, New Movies Ratings - ClapsNSlaps
+# Movie Blog | Hindi Movie Blog | Cinema Blog | Bollywood Blog | Entertainment Blog | Picture Blog | CNS
 
 The following statements explain the website’s policy regarding the personal information we collect about you when you use the website. This Privacy Policy explains our information collection practices at clapsnslaps.com, and our other interactive properties, including but not limited to our mobile websites and applications and through offline means. 
 
