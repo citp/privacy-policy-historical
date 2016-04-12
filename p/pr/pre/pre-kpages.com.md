@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905153507id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pre-kpages.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412032003id_/http%3A//www.pre-kpages.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pre-K Pages
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+# Privacy Policy - Pre-K Pages
 
 Our readers’ privacy and trust are important to us. We never disclose or sell our readers information to third parties.
 
@@ -25,5 +23,3 @@ A cookie is a string of information that a website stores on a visitor’s compu
 **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Pre-KPages.com may change its Privacy Policy from time to time, and at our sole discretion. We encourage visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.pre-kpages.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
