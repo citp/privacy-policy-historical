@@ -1,104 +1,225 @@
-> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906015054id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorhouse.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412233424id_/http%3A//www.authorhouse.com/PrivacyPolicy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AuthorHouse
 
-Our privacy policy, as detailed below, answers questions you may have about access, security, and control of personal information. It also describes how the information will be used and whether it will be provided to third parties.
+**Effective Date: February 2, 2016**
 
-All companies that are part of Author Solutions, LLC believe that your personal information—including your name, mailing address, telephone number, e-mail address, and credit card data—belongs to you. While we collect this type of information when you provide it to us, we do not rent or sell it to third parties. We use it only to process orders and to provide a more personalized shopping experience. 
+AuthorHouse, a subsidiary of Get Published! LLC, an Author Solutions LLC company (“we”, “us” or “our”) respects your privacy and values the relationship we have with you. This Privacy Policy describes the types of information we may collect from you, how we use the information, with whom we share it, and the choices available to you regarding our use of the information. We also describe the measures we take to protect the security of the information and how users of this website and our customers can contact us about our privacy practices. 
 
-When users visit our Web sites, there are two types of information that may be collected.
+Click on one of the links below to jump to the listed section:
 
-The first type of information is known as “personally identifiable information.” In order to serve your needs and to provide improved products and services, we may from time to time request personal and private information, such as your name or company, address, contact information, education, interests, payment information when you place orders, survey information and/or other information. You may choose to provide this information at your option. Many areas of our site are accessible without providing any personally identifiable information. Personally identifiable information excludes any information you may choose to submit publicly, such as reviews, critiques, editorials, testimonials, documentaries, forum or blog discussions.
+Information We Collect About You
 
-You may choose to place orders or to set up an account to obtain additional information or to order products and/or services. If you place an order or set up such an account, certain private information will be needed, such as your name or company, address, contact information and payment arrangements. We will maintain a history of orders and payments via your account for normal accounting and business purposes. Author Solutions, LLC does not rent, sell or share personal information about you with other people or companies that are not our partners or affiliates.
+  * Information You Provide
 
-If you choose not to provide private information to this Web site, alternate ordering and payment arrangements can be made by providing the necessary information via telephone, fax or mail, or via another standard method of communication.
+  * Information We Collect Through Automated Means
 
-To better serve you, AuthorHouse may share your name and contact information with companies that are part of Author Solutions, LLC, which offer products or services desirable or useful to you. Author Solutions, LLC companies share aspects of common ownership and control.
+  * Third Party Web Analytics Services
 
-Such companies currently include AuthorHouse, AuthorHouse UK, iUniverse, Xlibris, and Trafford.
+  * Targeted Advertising
 
-We may use your e-mail address to occasionally notify you about important functionality changes to the Web site, new services and special offers we think you’ll find valuable. If you do not wish to have your contact information used by the Company to promote our own or third parties' products or services, you can opt-out by emailing us stating your request at [unsubscribe@authorhouse.com](mailto:unsubscribe@authorhouse.com) and so specifying. This opt out does not apply to information exchanged via email to facilitate, complete or confirm our transaction with you, to provide warranty or security information, to notify you of a change in terms or features, or to deliver to you goods or services, including updates or upgrades, that you are entitled to receive.
-
-We may release account information when we believe, in good faith, that such release is reasonably necessary to (1) comply with law, (2) enforce or apply the terms of any of our user agreements, or (3) protect the rights, property, or safety of Author Solutions and its affiliated companies, our users or others.
-
-We may release account information when we believe, in good faith, that such release is reasonably necessary to:
-
-  * Respond to subpoenas, court orders or legal process; to establish or exercise our legal rights; or defend against legal claims.
-  * Believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Author Solutions, LLC's terms of use, or as otherwise required by law.
-  * Transfer information about you if Author Solutions, LLC is acquired by or merged with another company. In this event, Author Solutions, LLC will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * California Do Not Track Notice
 
 
 
-The second type of information is known as “non-personally identifiable information” and is collected upon each visit to our Web site. Our server automatically recognizes visitors’ domain names and Internet Protocol addresses (where possible). We also collect information and statistics about how visitors use the site. This information, which is collected and maintained in an anonymous, non-personal and composite form, allows us to improve the content of our Web site and facilitate market research.
 
-## DOES AUTHOR SOLUTIONS USE NON-PERSONALLY IDENTIFIABLE INFORMATION?
+How We Use Your Information
 
-* * *
+Information We Share
 
-On occasion, we may provide non-personally identifiable information about our users, sales, traffic patterns, and related site information to reputable third-party vendors to help us understand this information better. However, these statistics will not include any personally identifiable information. Other than improving our Web site and providing our visitors with the best experience possible, we make no other use of this information.
+Your Rights and Choices
 
-## HOW DOES AUTHOR SOLUTIONS PROTECT USER INFORMATION?
+Children Under the Age of 13
 
-* * *
+Data Security
 
-We use encryption technology to keep your personal information safe. All of your ordering information—including your name, mailing address, telephone number, e-mail address, and credit card data—is encrypted using a secure server for maximum security.
+Links To Other Websites
 
-Credit card transactions are handled by a third-party financial institution called [Verisign](http://www.verisign.com/), the world's recognized leader in e-commerce payment solutions. They receive the credit card data only to verify the credit card numbers and process transactions.
+Governing Law
 
-Furthermore, your credit card and billing information cannot be read as it travels to our ordering system. To ensure that your information is even more secure, once we receive your credit card information, we store only the last five digits on a server that is not accessible from the Internet.
+Notice To Non-US Users
 
-If you feel more comfortable doing so, you may place an order for products or services over the telephone by calling 888.519.5121 for publishing services or to order books.
+Changes To This Privacy Policy
 
-## COOKIES
+Contact Information
+
+**By using this website, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use this website. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of the website following the posting of changes to these terms will mean you accept those changes.**
+
+## Information We Collect About You
 
 * * *
 
-When you visit a Web site, information may be stored in a file known as a “cookie.” This file is stored on your computer and is used for future reference. If you revisit a Web site, the cookie allows that Web site to identify you as a returning guest and tailor your shopping experience to you.
+We may obtain personal information about you from various sources. We may collect this information when you provide it over the phone, on our website, or at one of our events. When you visit this website, we may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons.
 
-We use cookies in two places. The first is when a user places an order. We use cookies to fill in their name and e-mail address in the form where appropriate (this is known as “auto-fill.”) The second is when a customer uses the Contact Us page. Again, we use cookies for auto-filling the form.
+**_Information You Provide._** You may choose to provide personal information to us in a number of ways, such as when you create an account on this site, purchase our services on this site or over the phone or participate in an offer, promotion or survey. The types of personal information you may provide to us includes:
 
-Most Web browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. Please refer to your Web browser’s help file to learn more about these functions.
+  * Contact information (such as name, postal address, email address, and phone number)
 
-The information contained in our cookies is only used by Author Solutions. Your Web browser will not pass a cookie to a site other than the one that created it.
+  * Payment information (such as your credit card number, expiration date, delivery address and billing address, banking account, and tax-related information)
 
-## SECURITY
+  * Username and password
+
+  * Information that you provide when you enter a contest or promotion sponsored by us
+
+  * Your responses to surveys that we might ask you to complete for research purposes
+
+  * Any other personal information that you voluntarily provide, including information you provide when you create an account, purchase our services, or contact us
+
+  * Information provided to us by social networks when you log in to this website using your social network credentials
+
+
+
+
+Personal information excludes any information you may choose to submit publicly, such as reviews, comments, critiques, editorials, testimonials, documentaries, forum or blog discussions.
+
+**_Information We Collect Through Automatic Means._** When you visit this website, or interact with our emails or our online advertisements, we collect certain information about your usage or device by automated means or by using technologies such as cookies, web server logs and web beacons. As set forth in more details below, we may also collect information about your usage and browsing habits using various web-based technologies.
+
+The technologies we may use for this automatic data collection may include:
+
+  * Cookies (or browser cookies). A cookie is a small text file placed on the hard drive of your computer or other Internet-connected device that uniquely identifies your browser to store information or settings in your browser. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to use all of the features of this website.
+
+  * Web Server Logs. In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet.
+
+  * Web Beacons. Pages of our the website and our emails to you may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+
+
+
+
+**_Third Party Web Analytics Services_**
+
+We may use third party web analytics services on this website, such as Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs, web beacons and similar technologies to help us analyze how visitors use this website, our emails and our online advertisements. The information collected through these means is disclosed to these service providers.
+
+**_Targeted Advertising_**
+
+We also may allow third-party advertising services and networks to use cookies, web server logs, web beacons and similar technologies on our websites and emails; on third party websites and emails; and on our advertising placed on third party websites. They use this information to provide advertisements about our services that may be of interest to you. You may see these advertisements on other websites. We do not control these third party technologies, and they are not subject to this Privacy Policy. We do not authorize these third parties to use this technology to collect personal information about you and they do not have access to your personal information from us. They may, however, track your Internet usage anonymously (that is, without being able to identify you personally) over time and across other websites beyond this website. To learn more about the use of this information or to opt out of having this information used by our third party network advertisers, please visit the Network Advertising Initiative by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**_California Do Not Track Notice_**
+
+Some browsers offer a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. We do not respond to these “Do Not Track” signals. At this time, we do not track your personal information about your online activities over time and across third party websites. We also do not authorize third parties to collect any personal information from you on this website for these purposes. 
+
+## How We Use Your Information
 
 * * *
 
-Author Solutions, LLC is committed to maintaining the privacy of your personally identifiable information, and will treat the privacy of your information with the same or greater security protections as we provide for our own private information. Author Solutions LLC company Web sites have industry-standard security measures in place to prevent the loss, misuse, and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we take reasonable steps to ensure the safety of all information.Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up to date on our security and privacy practices.
+We use the information you provide to us and that we collect through automated means to:
 
-## YOUR CONSENT AND NOTIFICATION OF CHANGES
+  * Respond to your inquiries
 
-* * *
+  * Call you about our publishing and related services
 
-By using this Web site, products, and services, you consent to the terms of this policy. If our privacy policy changes, we will post those changes on this page so that you are always aware of access, security, control of personal information, how information will be used, and whether it will be provided to third parties. Your continued use of the Web site constitutes your consent to the updated policy.
+  * Send you emails containing promotional materials or other communications, including information about the services of our various publishing imprints within Author’s Solutions LLC
 
-## DO NOT CALL POLICY
+  * Provide our publishing and related services to you
 
-* * *
+  * Process your payment transactions
 
-Author Solutions, LLC strives to maintain the highest standards of ethical conduct in its marketing activities and is committed to complying with all federal and state legislation.
+  * Make royalty payments to you, if applicable
 
-No employee or agent of Author Solutions, LLC shall engage in telemarketing practices that violate the terms of the Telephone Consumer Protection Act of 1991, the FTC Telephone Sales Rule, or state regulations.
+  * Create and manage your account
 
-If you do not want to receive sales calls from any imprint of Author Solutions, LLC, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 10 days. You can make this request by email or mail as follows:
+  * Administer your participation in special events, contests, sweepstakes, surveys and other promotions
 
-  * Email us at [donotcall@authorhouse.com](mailto:donotcall@authorhouse.com) or
-  * Mail to AuthorHouse, Attn: Do Not Call List, 1663 Liberty Drive, Bloomington, IN 47403 
+  * Operate, optimize and improve our products, services and operations (including developing new services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions)
+
+  * Comply with applicable legal requirements, relevant industry standards and our policies
+
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+
+  * We also may use the information in other ways we describe when you provide the information, or for any other purpose with your consent
 
 
 
-When submitting a request, be sure to include all the relevant information that you want added to our Do Not Call List, i.e., **full name, address, and telephone number(s)**. Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
-
-If you would like us to remove you from our Do Not Call List so that you may receive our telephone solicitations, notify us by contacting Customer Service.
-
-Please note that the Author Solutions, LLC, Do Not Call List restricts marketing contacts from specific imprints, so you may continue to receive calls from other imprints where you may have signed up separately. 
-
-Being on the AuthorHouse Do Not Call List restricts telephone offers for sales only. We may still call you about service and fulfillment issues, surveys, billing, and other topics.
-
-## TELL US WHAT YOU THINK
 
 * * *
 
-We welcome your questions and comments about privacy. Please e-mail us using the [Contact Us](https://web.archive.org/ContactUs/default.aspx) page.
+We do not rent lists, or sell or otherwise disclose personal information we collect about you, except as described below. We may share your personal information with:
+
+  * Our various publishing imprints within Author’s Solutions LLC and affiliates
+
+  * Our contractors, service providers and other third parties we use to support our business and to fulfill services requested by you, including, without limitation, credit card processing companies, marketing services providers and consultants, public relations firms and printers 
+
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Author’s Solutions LLC about this website’s users is among the assets transferred. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot ensure that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
+
+  * To other third parties with your express consent
+
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process
+
+  * To respond to law enforcement authorities or other government officials
+
+  * To enforce our agreements with you, including for billing and collection purposes
+
+  * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+
+## Your Rights and Choices
+
+* * *
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+
+  * **Email Opt-Out.** You can at anytime tell us not to send you marketing communications by email at [unsubscribe@authorhouse.com](mailto:unsubscribe@authorhouse.com) within the marketing emails you receive from us. This opt-out does not apply to communications we send to you in relation to your transactions with us.
+
+  * **Google Analytics Display Advertising.** We utilize Google Analytics Display Advertising to remarket to you by displaying our ads to you on third party websites. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads by clicking Ads Settings.
+
+  * **Reviewing, Updating and Modifying Personal Information.** Subject to applicable law, you may have the right to request access to and receive details about you and update and correct inaccuracies in your personal information. Please note that only you, however, can change or delete tax information, including your TIN, previously provided to us through your Author Center on this website. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+  * **Do Not Call.** If you do not want to receive sales calls from us, you may request to have your name placed on our Do Not Call List. We will process your request and remove your name from our active list within 10 days. You can make this request by email at [donotcall@authorhouse.com](mailto:donotcall@authorhouse.com) or via mail addressed to AuthorHouse, Attn: Do Not Call List, 1663 Liberty Drive, Bloomington, IN 47403. When submitting a request, be sure to include all the relevant information that you want added to our Do Not Call List, i.e., full name, address, and telephone number(s). Subsequent sign-ups or inquiries may lead to new record creations; these actions by you may lead to inadvertent contact. If that is the case, please do not hesitate to contact us to reiterate the Do Not Call requests. If your information changes, please notify us of your new name, address, and telephone number(s) so that you will remain on the Do Not Call List.
+
+
+
+
+## Children Under the Age of 13
+
+* * *
+
+This website is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on this website. 
+
+## Data Security
+
+* * *
+
+We take reasonable steps to help protect and secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. However, please remember that no data storage or data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, we cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge and agree that you transmit your personal information to this website at your own risk.
+
+The safety and security of your information also depends on you. You should never submit to us payment or tax information via email. Where we have given you (or where you have chosen) a password for access to certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+
+## Links To Other Websites
+
+* * *
+
+This website may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest your review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by us, we are not responsible for those websites’ content, any use of the websites, or the privacy practices of the websites. 
+
+## Governing Law
+
+* * *
+
+This website is published in the United States. We attempt to protect the personal information of all users of the website and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services, but the website is located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your personal information to us.
+
+## Notice To Non-US Users
+
+* * *
+
+If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us on this website, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
+
+## Changes To This Privacy Policy
+
+* * *
+
+We may add new services and features to this website. In the event that these additions affect our Privacy Policy, or if other changes in our privacy practices or applicable laws necessitate changes to the Privacy Policy, this document will be updated accordingly. If we make a material change in the way we use your personal information, we will provide prominent notice of the change on this website. 
+
+* * *
+
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: 
+
+ATTENTION: GENERAL COUNSEL  
+AUTHOR SOLUTIONS LLC  
+1663 LIBERTY DRIVE  
+BLOOMINGTON, IN 47403 (USA)
+
+or through the [Contact Us page.](https://web.archive.org/ContactUs/default.aspx)
