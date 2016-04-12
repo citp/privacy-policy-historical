@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318232108id_/https%3A//supervalu.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412051925id_/https%3A//supervalu.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SuperValu
 
@@ -56,7 +56,7 @@ Our Site uses a number of cookies which broadly fall under the following:
 
 #### Cookies required for Site Usage
 
-We use cookies which are required to login to your Real Rewards account, book Bonus Rewards and make purchases on our Online Shopping website. These are required to use the site and it will not function properly without them. You can change your cookie settings so that these cookies will not be set. You can also delete cookies which have previously been set.  
+We use cookies which are required to login to your Real Rewards account and make purchases on our Online Shopping website. These are required to use the site and it will not function properly without them. You can change your cookie settings so that these cookies will not be set. You can also delete cookies which have previously been set.  
 For more information on how to manage cookies, including opt-out of all site cookies please visit: <http://www.aboutcookies.org/Default.aspx?page=1>
 
 #### Site Analysis cookies
