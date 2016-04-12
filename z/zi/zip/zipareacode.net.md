@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipareacode.net privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127020330id_/http%3A//www.usa.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipareacode.net privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412034227id_/http%3A//www.usa.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : USA.com
 
