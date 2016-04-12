@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003090821id_/http%3A//joonbug.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412180147id_/http%3A//joonbug.com/privacy-policy) for the most accurate reproduction.*
 
 # Joonbug.com
 
