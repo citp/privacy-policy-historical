@@ -1,164 +1,104 @@
-> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915054615id_/http%3A//petsitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsitter.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412085323id_/http%3A//petsitter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This application (hereinafter “Application”) collects some Personal Data from its Users.   
-The Data are collected and processed for the purposes set out below. 
+Last Update: January 15, 2016 
 
-* * *
+CareGuide Inc. (" **CareGuide** ") values our customers and we respect your privacy and personal information which is information about an identifiable individual (as defined by applicable privacy or data protection laws). 
 
-## Data Processing Ownership
+This privacy policy (" **Privacy Policy** " or " **Policy** ") describes how CareGuide treats your personal information obtained through the CareGuide.com website and any subdomains [subsidiary websites] thereof, including those linked in the footer of the CareGuide.com website (collectively referred to as " **Website** " in this Privacy Policy). The Policy describes the kinds of personal information CareGuide collects about you, why we collect it, how we use it, how we protect it, and under what circumstances we share it with third parties. This Policy also describes the decisions you can make about your personal information. You may require us to change, amend or delete the personal information that you have provided to us at any time. 
 
-### Types of Data collected
+The Website may contain links to third parties' websites. We are not responsible for the privacy practices or the content of those websites. The Website may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a website. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites. 
 
-Among the Data that this Application may collect there are: Cookie and Browsing and usage Data.
+### Terms
 
-Other Personal Data collected may be highlighted by other sections of this privacy policy or by dedicated explanation text, in the moment when the Data collection happens.   
-The Personal Data may be freely inserted by the User or the Data Subject, or collected automatically when using the Application.   
-Any use of Cookies by the Application or the owners of third party services used by the Application, unless stated otherwise, serves to identify the User and remember his/her preferences for the sole purpose of providing the service required by the User.   
-Failure to provide certain Personal Data, in particular Navigation Data, by deactivating the Application’s Cookies may make it impossible to surf or for the Application to provide its services. 
+The terms "you", "User", "Service Seeker" and "Service Provider" refer to individuals who use this Website for the purposes of the Services offered. 
 
-The Personal Data collected may regard both the User and third parties whose data the User provides.   
-The User assumes responsibility for the Personal Data of third parties published or shared through the Application and declares that (s)he has the right to communicate or broadcast them, thus relieving the Owner of all responsibility towards third parties. 
+In this Privacy Policy, " _Personal Information_ " (also referred to as "Personal Data") means any information about an identifiable individual, such as your name, e-mail address, mailing addresses, gender, date of birth, any data about you that you elect to provide electronically through the Website and any other information that identifies who you are. Registration Data (as defined in the [Terms of Service](https://web.archive.org/terms-of-service) and Personal Information will be used by CareGuide solely in accordance with these [Terms of Service](https://web.archive.org/terms-of-service)
 
-### Mode and place of processing the Data obtained
+Unless we explain otherwise in this Policy, the words and phrases used in this Policy have the same meaning as in the [Terms of Service](https://web.archive.org/terms-of-service)
 
-#### Method of Processing
+### Accountability
 
-The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes.   
-In addition to the owner, in some cases, access to the Data may be available to external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies). The updated list of Managers may be requested from the Owner at any time. 
+CareGuide is responsible for Personal Information under its control, including the transfer of Personal Information to a third party service provider for processing on CareGuide's behalf. 
 
-#### Place
+### What Information Do We Gather?
 
-The Data are processed at the headquarters of the Data Controller, unless stated otherwise in the rest of this document.
+When you sign up for a User Account through the Website, you voluntarily give us certain personal information including your name, e-mail address, address, postal code/ZIP code, age and phone number. In addition, when you visit our Website or contact us, we collect certain information about your activity on our Website, as described below under the heading "Our Use of Cookies and Log Files". 
 
-#### Conservation Time
+By using the Messaging Platform available through the Website, you agree that a copy of your messages and any voice calls made through the Messaging Platform will be recorded and stored for the purposes of safety and protecting our Users from misuse of CareGuide's Services. The recorded messages will only be stored for a period of time that is necessary to fulfil its purpose. The collection of information from the Messaging Platform is done so in accordance with the terms in this Policy. 
 
-The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for their suspension or removal.
+If you have registered for the Payroll Services offered by CareGuide, certain sensitive information including your Social Insurance Number, address and financial information including your bank account information is collected where it is necessary for the functioning of the Payroll Services, and will not be retained for longer than needed or upon termination of the Payroll Services. We call this personal information " **Financial Information** ". 
 
-### The use of the collected Data
+### How We Use Your Personal Information
 
-The Data concerning the User or the Data Subject are collected for the following purposes: Analytics and Interaction with external social networks and platforms. 
+We use the Personal Information we collect about you in order to provide you with the Services offered by CareGuide and you agree that we may use your Personal Information for the following purposes: 
 
-The kinds of Personal Data used for each purpose are given in the specific sections of this document. 
+  * For the Services offered by CareGuide through the Website
+  * To support any requests or inquiries made by you
+  * To contact you from time to time with user or Service updates
+  * To assist you and the User(s) you have done (or have agreed to do) business with through CareGuide's Services, including the Payroll Services (where applicable to you)
+  * To customize, measure, report on and improve our services, content and advertising
+  * To learn more about you and your product preferences by looking at the IP address of your computer and your activity on the Website (among other things)
+  * To promote services related to the Website or those of the CareGuide and/or our affiliates
+  * To prevent, investigate or prosecute activity we think may be potentially illegal, unlawful or harmful
+  * To enforce our Privacy Policy and/or our Terms or any other purpose referenced herein or therein.
 
-The use of Data for additional purposes by the Owner may in some cases, and for legal purposes, require specific consent by the User or the Data Subject. 
 
-### Detailed information on the processing of Personal Data and the services provided by third parties
 
-Personal Data collected for the following purposes and using the following services:
+### How and Where is Personal Information Processed?
 
-#### Analytics
+Personal Information will be collected, processed, stored and used by CareGuide and may be passed to and processed by other companies under the instruction of CareGuide. Your Personal Information may be processed and/or stored outside of Canada. While CareGuide undertakes measures to protect your Personal Information, when it is stored and/or processed in other jurisdictions, the laws of other countries may not provide the degree of protection for Personal Information that is available in Canada. If your Personal Information is transferred outside of Canada, it may be available to the foreign government of the country in which the information or entity controlling it is situated under a lawful order made in that country and used for purposes other than those described herein. By providing us with your information, you are allowing your Personal Information to be transferred outside of Canada. 
 
-The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+CareGuide may use Google Analytics to gather statistics on web traffic, Website usage and information on User behavior. Google Analytics is a web analysis service provided by Google Inc. (" **Google** "). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application's activities and share them with other Google services. CareGuide may also use AdRoll, an advertising retargeting company, that enables CareGuide to present you with retargeting advertising on other websites based on your previous interaction with the Website. In addition, CareGuide and its Website allows for User interaction with social media networks and other external platforms directly from the Website. The interaction and information obtained is subject to the terms and conditions and privacy policies of Google, Adroll, and the social media and third-party platforms, respectively. 
 
-##### Google Analytics
+### Sharing Your Personal Information
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine Application use, to prepare reports on an Application’s activities and share them with other Google services. 
+In accordance with this Policy, we may share your Personal Information including Financial Information, with our service providers, and third parties involved in providing Payroll Services to you. We may also share information with our financial, insurance, legal, accounting or other advisors that provide professional services to us. 
 
-Google may use the Data collected to contextualize and personalize the ads of its own advertising network. 
+We will not disclose, share, sell or rent your Personal Information in personally identifiable form with any third party, except if, and to the extent necessary, in our good faith judgment, doing so is required to: complete the Services offered by CareGuide, comply with laws or regulations, respond to a valid subpoena, order, or government request; establish or exercise the Company’s legal rights or defend against legal claims; investigate, detect, suppress, prevent or take action regarding illegal or prohibited activities, suspected fraud, situations involving potential threats to the reputation or physical safety of any person; or as otherwise required by law. 
 
-Personal data collected: Cookie and Browsing and usage Data. 
+We may remove personal identifiers from your information and maintain and use it in anonymous form that may later be combined with other information to generate aggregated information. Such anonymous and aggregated information may be sold, traded, rented, or shared. 
 
-Place of Processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+We will retain your personal information only for a time and to the extent necessary for the purposes for which it was collected as described in this Policy and for reasonable backup, archival, audit, or other similar purposes. 
 
-#### Interaction with external social networks and platforms
+### Our Use of Cookies and Log Files
 
-These services allow interaction with social networks or other external platforms directly from the Application’s pages.   
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.   
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it. 
+We use browser tracking cookies (or "cookies"), which are small text files that are placed on the hard disk of a computer by a website. Cookies are uniquely assigned to you, and can only be read by a website or web server that issued the cookie to you. We also use browser "log files" which record certain information when you visit a website, including your internet protocol (IP) address. To improve your experience on our Website, we use cookies and logs files to: recognize you when you return to our website; keep track of activity on our Website and remember what items you have clicked on or viewed; study how you navigate through our website and which products you request in site searches so that we can improve the design, content and function of our Website; and customize the message, content and delivery of online banner advertisements and e-mails that reflect how you navigate to and through our Website based on your online behavior. We call this "Browsing Data". We may hire third party service providers to assist us in the collection and analysis of this Browsing Data collected through cookies, but none of your Personal Information is disclosed to these third party service providers. 
 
-##### Facebook Like button and social widgets (Facebook)
+You have the ability to accept or decline our use of cookies. You can refuse cookies by turning them off or blocking them in your internet browser. If you decide to turn off or block cookies, our website might not function correctly. 
 
-The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc. 
+### Accessing and Updating Your Personal Information
 
-Personal data collected: Cookie and Browsing and usage Data. 
+At any time you can contact us to: stop receiving e-mails from us; review the personal information held by the Company in connection with your account; withdraw your consent for our use and disclosure of your information; request a list of third parties to which CareGuide may have provided your personal information; close your account; and amend your personal information, where possible, by logging into your [User Account.](https://web.archive.org/settings)
 
-Place of Processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+If you contact us to do any of the things listed above, we may require you to provide sufficient information to allow us to identify you and tell you about the existence, use and disclosure of your Personal Information and this Personal Information will only be used for this purpose. If you contact us about your Personal Information, we will respond to your request within a reasonable time and at no cost to you. 
 
-#### Content Commenting
+### Links and Third-Party Websites
 
-Content commenting services allow Users to make and publish their comments on the contents of the Application.   
-Depending on the settings chosen by the Owner, Users may also leave anonymous comments. If there is an email address among the Personal Data provided by the User, it may be used to send notifications of comments on the same content. Users are responsible for the content of their own comments.   
-If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service. 
+We provide links on our Website to other, third party sites we think you will enjoy. These sites operate independently of us and have established their own privacy and security policies. Any personal information you provide on linked pages or other sites is provided directly to that third party and subject to that third party's privacy policy. We strongly encourage you to review these policies at any site you visit. This Policy does not apply to such linked pages or other sites, and we are not responsible for the content or practices of any linked websites which are provided solely for your convenience. 
 
-##### Facebook Comments (Facebook)
+This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
 
-Facebook Comments is a content commenting service provided by Facebook Inc. enabling the User to leave comments and share them on the Facebook platform.
+### Data Integrity and Security
 
-Personal data collected: Cookie and Browsing and usage Data.
+We aim to provide you with a safe experience. We have in place certain physical, electronic, technological, and organizational safeguards to appropriately protect the security and privacy of your personal information against loss, theft, and unauthorized access, disclosure, copying use or modification. Please note, however, that while we try to create a secure and reliable Website for users, the confidentiality of any communication or material transmitted to or from the Website or via e-mail cannot be guaranteed. 
 
-Place of Processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+We limit access to your personal information within CareGuide to individuals on a need-to-know basis. 
 
-##### Twitter Follow button and social widgets (Twitter)
+### Children's Online Privacy Protection
 
-The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc. 
+The Website is not intended for use by children under the age of 18 without the consent of their parent or legal guardian. CareGuide does not knowingly collect or use any personal information from any children under the age of 13. If we become aware that we have unknowingly collected personal information from a child under the age of 13, we will make commercially reasonably efforts to delete such personal information from our database. 
 
-Personal data collected: Cookie and Browsing and usage Data. 
+### Changes to the Privay Policy
 
-Place of Processing: USA – [Privacy Policy](http://twitter.com/privacy)
+CareGuide reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the top of the page. 
 
-#### Contacting the User
+### Contact Us
 
-##### Mailing List or Newsletter (This Application)
+If you have questions or comments about this Privacy Policy or your Personal Information, please contact CareGuide at [Contact Us](https://careguide.com/contact) , by telephone at [+1 855-874-8837](tel:+1-855-874-8837) , or by mail to CareGuide at: 
 
-By registering to the mailing list or to the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning the Application. Your email address might also be added to this list as a result of signing up to the Application or after performing a purchase.
-
-Personal data collected: Email, First Name, Last Name, Profession, Province, State and Country.
-
-#### Geolocation
-
-##### Geolocation (This Application)
-
-This Application may collect, use, and share User location Data in order to provide location-based services.   
-Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application. 
-
-Personal data collected: Geographic position.
-
-### Additional information about data processing
-
-#### Legal Protection
-
-The User’s Personal Data may be used for legal purposes by the Owner of the Application in court or in the stages leading to possible legal action arising from its improper use or that of related services by the User.
-
-#### Additional Information
-
-Specific information may be shown on the pages of the Site concerning particular services or the processing of Data provided by the User or by the Data Subject.
-
-#### Maintenance
-
-The User’s Personal Data may be further used in ways and for purposes required for Application maintenance.
-
-#### System Logs
-
-For operation and maintenance purposes, this Application and any third party services it uses may collect system logs, i.e., files that record interaction – including navigation. They may also contain personal data, such as IP addresses.
-
-#### Information not contained in this policy
-
-More information on processing Personal Information may be requested from the Owner at any time.
-
-#### The Rights of Data Subjects
-
-Those persons to whom the Data refer have the right, at any time, to know whether their data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Owner of the Processing System.
-
-#### Changes to this Privacy Policy
-
-The Application reserves the right to make changes to this Privacy Policy at any time by giving notice to its Users on this page, and by ensuring analogous protection of the Personal Information in all cases. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
-
-#### Information about this privacy policy
-
-The Data Controller is responsible for this privacy policy, prepared starting from the modules.
-
-### AdRoll
-
-#### Personal Information
-
-When you interact with us, we automatically receive and store certain types of information, such as the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as "Retargeting"). This is statistical information used to monitor the usage of our website and for advertising purposes. This information does not include personal information.
-
-#### Cookies
-
-As you visit [petsitter.com](https://web.archive.org/privacy), advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [petsitter.com](https://web.archive.org/privacy). The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit the page, <http://www.adroll.com/about/privacy> , to opt out of AdRoll and their partners' targeted advertising. 
-
-#### Security
-
-We implement a secure processing server on our site when collecting information to ensure a high level of security for your personal information entered such as bank details and credit card information.
+_Attention: Privacy Officer_   
+119 Spadina Ave, Unit 1100   
+Toronto, ON   
+M5V 2L1 
