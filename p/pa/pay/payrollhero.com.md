@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004017id_/https%3A//payrollhero.payrollhero.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payrollhero.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412031918id_/https%3A//payrollhero.payrollhero.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ PayrollHero.com Pte. Ltd. : PayrollHero
 
