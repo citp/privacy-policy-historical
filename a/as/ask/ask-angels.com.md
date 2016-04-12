@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128075506id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412172514id_/http%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ask-Angels.com
 
@@ -63,3 +63,5 @@ YOU MAY CHOOSE TO “OPT-OUT”/STOP RECEIVING OUR NEWSLETTER OR MARKETING EMAIL
 **CONTACT INFORMATION**
 
 Ask-Angels.com welcomes your comments regarding this Privacy Policy. If you believe that Ask-Angels.com has not adhered to this Policy, please contact Ask-Angels.com at [support@ask-angels.com](mailto:support@ask-angels.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+[](https://www.pinterest.com/pin/create/button/)
