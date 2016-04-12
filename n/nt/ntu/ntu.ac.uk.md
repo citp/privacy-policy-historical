@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208174035id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.ac.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412075338id_/http%3A//www.ntu.ac.uk/about_ntu/policies/web_policies/privacy_statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - About NTU - Nottingham Trent University
 
@@ -87,17 +87,18 @@ SuppDocUploadCookie
  **ntu.ac.uk application cookies  
 ** A number of NTU applications make use of a cookie to store a value identifying the current section of the site so that the correct information is displayed. No personal or identifying information is stored.  
   
-FUSETALKLASTDATE  
-FUSETALKLATESTPOSTS1
+PHPSESSID  
+ntuaccommodation
 
 | 
 
-30 years
+End of session/browser close  
+1 Year
 
 | 
 
- **Fusetalk discussion board  
-** When using the discussion boards on the NTU site these cookies are set containing the date of the last visit and the date you last posted. No personal information is stored.  
+ **NTU Accommodation message board**  
+The PHPSESSID cookie is native to PHP and enables websites to store serialised state data. It is used to establish a user session and to pass state data via a temporary cookie, which is commonly referred to as a session cookie.  
   
 DeviceViewCode
 
@@ -109,6 +110,23 @@ At end of session, when session times out or browser is closed
 
  **Library One search** **\- ntu.primo.hosted.exlibrisgroup.com.**  
 This cookie is used to set the correct view of the search page when using a mobile phone. The cookie only contains the reference number for the view to be used.  
+  
+LivePersonID  
+HumanClickCHATKEY  
+HumanClickKEY  
+HumanClickSiteContainerID_
+
+| 
+
+1 Year  
+End of session/browser close  
+End of session/browser close  
+End of session/browser close
+
+| 
+
+ **Library live chat**  
+LivePersonID is used in conjunction with the HumanClickKEY cookie to gather usage data related to a visitor's visit. HumanClickCHATKEY is used for security purposes to identify each LP chat and LP voice communication session. HumanClickSiteContainerID_ is used by LivePerson with respect to its largest customers in order to allow LivePerson to distribute usage of its services across a cluster of servers  
   
 TESTID
 
@@ -136,6 +154,52 @@ At end of session, when session times out or browser is closed
  **now.ntu.ac.uk  
 ** The NTU Online Workspace (NOW) requires a number of cookies to function. The username cookie contains your NTU username, the Login cookie contains the value 'true'. All other cookies contain randomly generated identifiers.  
   
+zendesk_cookie
+
+| 
+
+20 years
+
+| 
+
+ **support.ntu.ac.uk  
+** This cookie holds preferences and session settings for Zendesk, our solution provider for customer support management.  
+  
+sessionid_  
+SLStatUid
+
+| 
+
+5 days  
+End of session/browser close
+
+| 
+
+ **CoveritLive  
+** These cookies enable us to run our live chat and social walls.  
+  
+Progress
+
+| 
+
+1 year
+
+| 
+
+ **rosalindfranklin.ntu.ac.uk  
+** These cookies enable us to run our live chat and social walls.  
+  
+Variable per poll\survey
+
+| 
+
+2 hours
+
+| 
+
+ **Polldaddy  
+** These cookies enable us to run our live chat and social walls.  
+  
 Userid
 
 | 
@@ -147,33 +211,6 @@ Userid
  **CHRIS (NTU Staff only)  
 ** On logging into the CHRIS system a cookie is set to remember the employee number. **  
 **Cookie contains employee number.  
-  
-MstrPgLd1  
-MstrPgLd2  
-OutlookSession  
-PBack  
-UserContext  
-cadata  
-cookieTest  
-owacsdc  
-tzid
-
-| 
-
-24 hours  
-24 hours  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close  
-End of session/browser close
-
-| 
-
- **Microsoft Outlook Web Access (NTU staff only)  
-** Outlook Web Access uses a variety of cookies in order to be able to deliver its email functionality. No personal information is stored.  
   
 _utma  
 _utmb  
