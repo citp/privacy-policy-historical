@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oubly.com privacy policy that was archived on 2015-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151218090955id_/http%3A//www.oubly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oubly.com privacy policy that was archived on 2016-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160413002823id_/https%3A//www.oubly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <title>Privacy | Oubly.com</title>
@@ -12,7 +12,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" href="//cdn.oubly.net/css/lib/all.lib.min.css">
-<link rel="stylesheet" href="/css/main.css?v=1511200403">
+<link rel="stylesheet" href="/css/main.css?v=1603290637">
 <script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/53bde2ffd88f28e41400000c.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?2MRe6dtAdYgOqFDMZxBqRkn2nKsnc0RS" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.oubly.net/js/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -69,8 +69,18 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 
 <input type="hidden" id="oblycdnpath" value="//cdn.oubly.net">
 <div id="common-header" class="relative positionfixed">
-	<!-- <div style="background:#f1ecb5;overflow:hidden" class="hdrNotify"><div class="content gray text-center pad11 size14"><a class="pull-right black size15" style="text-decoration:none" onclick="closeAd();"><span class="size30 relative" style="line-height:10px;top:6px;">&times;</span>&nbsp;&nbsp;</a><font size="-1.5" color="black">In observance of Independence Day, Oubly will be closed Friday July 3. Any orders placed on July 3 will be processed on Monday July 6.</font></div></div>  -->   
-	<div id="header">
+        <div style="background:#00b25c;overflow:hidden" class="hdrNotify">
+        	<div class="content gray text-center pad11 size14">
+        		<a class="pull-right black size15" style="text-decoration:none" onclick="closeAd();">
+        			<span class="size30 relative" style="line-height:10px;top:6px;cursor:pointer;">×</span>&nbsp;&nbsp;</a>
+        			<span class="size12 black" style="letter-spacing:1px;"><b>ENJOY 
+        			<span class="size12" style="color:yellow;">FREE SHIPPING</span></b>
+        			<span class="size12"> ON ALL ORDERS OVER $69&nbsp;</span>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+        			<span class="size12" style="color:yellow;"><b>&nbsp;BUY1 GET1 FREE&nbsp;</b></span>
+        				<a href="/premium-business-cards" style="color:black" class="size10"><u>DETAIL &gt;</u></a>
+        	</span></div>
+        </div>   
+        <div id="header">
 		<div class="content relative">
 			<div class="logo">
 				<a href="http://www.oubly.com/"><img src="//cdn.oubly.net/img/logos/oubly_logo.png" width="110" height="110" alt="Oubly"></a>
@@ -109,7 +119,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 			        <li><a href="http://www.oubly.com/premium-business-cards" class="link">Edge Cards</a></li>
 					<li><a href="http://www.oubly.com/canvas-prints" class="link">Canvas</a></li>
 					<li><a href="http://www.oubly.com/ads/custom-printing-quote/" class="link">Custom Printing</a></li>
-					<li><a href="http://www.oubly.com/holiday-greetings" class="link">Holiday Greetings</a></li>
+					<li><a href="http://www.oubly.com/postcard-printing" class="link">Postcards</a></li>
 					<li><a data-href="search-bar" class="search-icon" href="javascript:void(0);"><span class="s1"></span></a></li>
 				</ul>	
 			</div>	
@@ -905,7 +915,141 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 		</div>
 
 	</div>
-	<div id="footer" class="gray-bg relative">
+	<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<style>
+.signup-popup-offer .popup-overlay{cursor:pointer;position:fixed;top:0%;left:0%;width:100%;height:100%;background-color:black;z-index:1001;-moz-opacity:0.8;opacity:0.8;filter:alpha(opacity=80);}
+.signup-popup-offer #popupModal{background:url(//cdn.oubly.net/img/popup/15off-popup.png) no-repeat;cursor:pointer;position:fixed;z-index:1051;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;overflow:hidden;}
+.signup-popup-offer #popupModal button.close{padding:2px!important;width:26px;height:30px;background:url(//cdn.oubly.net/img/fancybox/fancybox.png) -40px 0;opacity:1;}
+.signup-popup-offer .imodal-body{width:100%;height:100%}
+.signup-popup-offer .shadow2{-webkit-box-shadow:0px 0px 5px #999;-moz-box-shadow:0px 0px 5px #999;box-shadow:0px 0px 5px #999;}
+</style>
+<div class="signup-popup-offer">
+	<div class="popup-overlay hide"></div>
+	<div id="popupModal" class="hide obly-overlay">
+	    <button type="button" class="close"></button>
+	  	<div class="imodal-body shadow2"></div>
+	</div>
+</div>
+<script type="text/javascript">
+	var customerid=null
+	$(document).ready(function(){
+
+	  	var hasSeenSignUpDialogie = $.cookie('popup_15');
+      	if(!hasSeenSignUpDialogie){
+
+			$('body').on('click','#get-coupon',getCoupon)
+			.on('click','#create-account',createOublyAccount)
+			.on('click','#skip-account',skipOublyAccount)
+			.on('click','#popupModal button.close,#popup-close',closePopup);
+
+			$.cookie("popup_15", "displayed", { expires: 7 });
+			popupInfo();
+
+			$(window).resize(function() {
+	   			$('#popupModal').css({"top":(($(window).height() - 516) / 2),"left":(($(window).width() - 700) / 2)});
+	   		});
+      	}
+	});
+	function closePopup(){
+		$('#popupModal').hide();
+		$('.popup-overlay').hide();
+	}
+	function popupInfo(){
+		$('#popupModal').css({'width':'700px','height':'555px',"top":(($(window).height() - 516) / 2),"left":(($(window).width() - 700) / 2)});
+		$('#popupModal .imodal-body').load('/popup-offer');
+		$('#popupModal').show();
+		$('.popup-overlay').show();
+	}
+	function getCoupon(){
+		var err = false;
+		var email = $('#subemail').val().trim();
+
+		if(email==''){
+			err=true;
+			$('#subemail').addClass('input-error input-msg-error').siblings('.oblyVMerror').text('This is a required field.');
+		}
+		else if(oblyFn.validateEmail(email)!=''){
+			err=true;
+			$('#subemail').addClass('input-error input-msg-error').siblings('.oblyVMerror').text('Please enter a valid email address.');
+		}
+
+		if(!err){
+			oblyFn.showLoading();
+			$.getJSON('/popup-email',{email:email},function(data){
+				oblyFn.hideLoading();
+				if (data.success){
+					$('.step-1').hide();
+					if((customerid==null || parseInt(customerid)<=0) && data.customerId<=0){
+						$('.step-2').show();
+						$('#email').val(data.email);
+						$('#couponcode').val(data.couponCode);
+					}else{
+						$('.step-3').show();
+						$('.coupon-code h4 strong').html(data.couponCode);
+					}
+				} else {
+					oblyFn.hideLoading();
+					//oblyFn.showAlert(data.message);
+					$('#subemail').addClass('input-error input-msg-error').siblings('.oblyVMerror').text(data.message);
+				}
+			});
+		}
+
+		return false;
+	}
+	function createOublyAccount(){
+		var err=false,$e,pass,cpass,email,couponcode,fname,lname;
+		$('.create-account form input').each(function(){
+			$e=$(this);
+			$e.val($e.val().trim());
+			if($e.val()==''){
+				err=true;
+				$e.addClass('input-error');
+			}
+		});
+
+		couponcode=$('#couponcode').val(),email=$('#email').val(),fname=$('#fname').val(),
+		lname=$('#lname').val(),pass=$('#password').val(),cpass=$('#cpassword').val();
+
+		if(pass!='' && pass.trim().length>5) {
+			if(pass!=cpass){
+				err=true;
+				$('#cpassword').addClass('input-error input-msg-error').siblings('.oblyVMerror').text('Password is not matching');
+			}
+		}else{
+			err=true;
+			$('#password').addClass('input-error input-msg-error').siblings('.oblyVMerror').text('Password is too short');
+		}
+
+		if(!err) {
+
+			var ccval = {email : email,password : pass,cpassword : cpass,fname : fname,lname : lname,offer:'login-offers-15'};
+			oblyFn.showLoading();
+			$.getJSON('/signup', ccval, function(data) {
+	    		oblyFn.hideLoading();
+				if (data.success) {
+					$('.step-2').hide();
+					$('.step-3').show();
+					$('.coupon-code h4 strong').html(couponcode);
+				} else {
+		    		oblyFn.hideLoading();
+					oblyFn.showAlert(data.message);
+				}
+			});
+		}
+
+		return false;
+	}
+	function skipOublyAccount(){
+		var couponcode=$('#couponcode').val();
+		$('.step-2').hide();
+		$('.step-3').show();
+		$('.coupon-code h4 strong').html(couponcode);
+
+		return false;
+	}
+</script>
+<div id="footer" class="gray-bg relative">
 
 	<div class="footer2-links">
 		<div class="row-fluid content footer-bottom-links">
