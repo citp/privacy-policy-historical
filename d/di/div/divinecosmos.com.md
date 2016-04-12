@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030012427id_/http%3A//divinecosmos.com/index.php/contact-us-sp-198450853/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412050052id_/http%3A//divinecosmos.com/index.php/contact-us-sp-198450853/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
