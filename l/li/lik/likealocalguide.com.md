@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the likealocalguide.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910052048id_/https%3A//www.likealocalguide.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likealocalguide.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412192614id_/https%3A//www.likealocalguide.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 **We collect personal and activity data, which may be linked.  
 ** We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
