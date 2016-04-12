@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214212250id_/http%3A//pknic.net.pk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pknic.net.pk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412101955id_/http%3A//www.pknic.net.pk/privacy.html) for the most accurate reproduction.*
 
-# PKNIC - .pk Registry Providor
+# PKNIC - .pk Registry Provider
 
 PKNIC has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: 
 
