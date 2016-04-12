@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324150238id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renderforest.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412230640id_/https%3A//www.renderforest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Renderforest
+# Privacy Policy | Renderforest.com | Renderforest
 
 Thank you for visiting Renderforest.com.
 
@@ -8,7 +8,7 @@ We highly recommend that you carefully review “The Renderforest Privacy Policy
 
 The following Privacy Policy represents the limits that Rendeforest has set for the safety of its users regarding any privacy issues they might encounter. The policy stated below is implemented to maintain the safety of personal data that users voluntarily provide to us.
 
-This privacy policy is part of our “Terms of Service” and applies to [www.renderforest.com](http://www.renderforest.com/) owned and operated by Wildek Entertainment.
+This privacy policy is part of our “Terms of Service” and applies to [www.renderforest.com](http://www.renderforest.com/)owned and operated by Wildek Entertainment.
 
 Renderforest takes your privacy seriously. We will not sell, lease, or exchange your personal data with any third parties in ways other than described in our Privacy Policy. By using services provided by Renderforest, you are agreeing to be legally bounded by the terms of service and privacy policy.  
 
@@ -20,7 +20,7 @@ We may use the provided email address to send you service notifications, the rel
 
 The personal information collected from Renderforest may be used to inform you about your purchase or if you want to purchase a certain product. We may also use this information to inform you about specific services that you may be interested in.
 
-Your profile and edited videos will be available only to you as a sole user. 
+Your profile and edited videos will be available only to you as a sole user.
 
 2.  **Third Party Payment Processors**
 
@@ -102,4 +102,4 @@ If you have any questions or suggestions regarding our privacy policy, please se
 
 **This privacy policy is effective as of: April 7 2014**
 
-**The last update on this Privacy Policy was made on: August 19 2013** **  **
+**The last update on this Privacy Policy was made on: August 19 2013**
