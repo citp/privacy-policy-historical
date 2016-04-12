@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technoven.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811192125id_/http%3A//www.technoven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoven.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412075209id_/http%3A//www.technoven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechNoven
 
@@ -34,7 +34,7 @@ We require this information to understand your needs and provide you with a bett
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-##  **How we use cookies**
+## **How we use cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -44,7 +44,7 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-##  **Google Adsense**
+## **Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)
 
@@ -52,7 +52,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in questions.
 
-## **Contact Us:**
+##  **Contact Us:**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
