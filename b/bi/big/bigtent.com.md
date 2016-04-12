@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119070957id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtent.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413004533id_/http%3A//www.bigtent.com/privacy) for the most accurate reproduction.*
 
 # How we collect and use member information | BigTent
 
