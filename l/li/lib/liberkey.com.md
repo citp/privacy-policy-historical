@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberkey.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022024832id_/http%3A//www.liberkey.com/en/legal-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberkey.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412100021id_/http%3A//www.liberkey.com/en/legal-disclaimer.html) for the most accurate reproduction.*
 
 # Legal Disclaimer - Privacy Policy
 
