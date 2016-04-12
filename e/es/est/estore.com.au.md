@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923084749id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412095432id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # eStore - Privacy Policy | eStore.com.au
 
 ### Effective 04/03/2014
 
-eStore.com.au respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact eStore.com.au using [this online form](https://www.estore.com.au/home/contact) or call us on 1300 658 600.
+eStore.com.au respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy. If you have questions or concerns regarding this statement, you should first contact eStore.com.au using [this online form](http://www.estore.com.au/home/contact) or call us on 1300 658 600.
 
 This Privacy Policy protects your privacy by Informing you about: 
 
@@ -38,7 +38,7 @@ We use links to some of our suppliers on our website. In the course of providing
 
 ### Information Corrections or Changes
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins on the [Your Account](https://www.estore.com.au/account) page. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us by using [this online form](https://www.estore.com.au/home/contact) or by calling us on 1300 658 600.[](mailto:sales@estore.com.au)
+You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins on the [Your Account](http://www.estore.com.au/account) page. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us by using [this online form](http://www.estore.com.au/home/contact) or by calling us on 1300 658 600.[](mailto:sales@estore.com.au)
 
 ### How We Put Information to Good Use
 
