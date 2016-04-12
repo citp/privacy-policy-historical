@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the assetize.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022231922id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assetize.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412132901id_/http%3A//keyhole.co/privacy-policy) for the most accurate reproduction.*
 
-# Hashtag Tracking for Twitter, Facebook and Instagram - Keyhole
+# Hashtag Tracking for Twitter, Instagram and Facebook - Keyhole
 
-Whether you're measuring social campaigns, identifying customers or sharing reports, Keyhole is the easiest and most affordable way to do it   [Click here](http://blog.keyhole.co/post/44873406456/Real-time-Tracking-of-Campaigns-and-Topics)    [ close ]
+Whether you're measuring social campaigns, identifying customers or sharing reports, Keyhole is the easiest and most affordable way to do it   [Click here](http://blog.keyhole.co/post/44873406456/Real-time-Tracking-of-Campaigns-and-Topics)    [ close ] 
 
 **KEYHOLE PRIVACY POLICY**
 
