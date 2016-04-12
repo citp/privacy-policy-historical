@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidinsurance.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026064336id_/http%3A//www.bidinsurance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidinsurance.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413004137id_/http%3A//www.bidinsurance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BidInsurance
 
