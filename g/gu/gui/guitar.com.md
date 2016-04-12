@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906000246id_/https%3A//www.guitar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412033240id_/https%3A//www.guitar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guitar.com
 
@@ -16,15 +16,15 @@ We collect information from our members and visitors in various ways: through or
 
 We may use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
-**Public Forums**
+ **Public Forums**
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. NO ONE UNDER THE AGE OF THIRTEEN IS ALLOWED TO POST ANYTHING TO ANY OF THESE FEATURES.
 
-**Children's Guidelines**
+ **Children's Guidelines**
 
 NO ONE UNDER THE AGE OF THIRTEEN IS ALLOWED TO REGISTER OR POST ANY INFORMATION ON GUITAR.COM. Users that are age 13 or older but are under the age of 18 are permitted to register and participate. However, prize winners under 18 must provide parental or legal guardian consent to be awarded a prize. We at Guitar.com caution anyone under the age of 18 to be very careful to not submit personal information that you do not want the general public to view
 
-**Choice/Opt-Out**
+ **Choice/Opt-Out**
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
 ****
@@ -33,5 +33,5 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-**Terms of Use**   
+ **Terms of Use**   
 This policy also is subject to our Terms of Use. Please review them before accessing this website. Use of this website constitutes acceptance of all Terms of Use, Conditions and Policies. We reserve the right to modify this policy and the Terms and Conditions at any time, without notice. We encourage you to check back periodically to see whether there have been any changes. 
