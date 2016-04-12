@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405020658id_/http%3A//www.topb2c.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topb2c.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412043529id_/http%3A//www.topb2c.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
