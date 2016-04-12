@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlifehealthcare.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907222543id_/https%3A//www.inlifehealthcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlifehealthcare.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412025604id_/https%3A//www.inlifehealthcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
