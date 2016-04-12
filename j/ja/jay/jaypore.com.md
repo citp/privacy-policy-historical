@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaypore.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029185534id_/https%3A//www.jaypore.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaypore.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412155320id_/https%3A//www.jaypore.com/privacy.php) for the most accurate reproduction.*
 
 # Jaypore.com: Curated Online Shop for Handpicked Products, Vintage Products, Jewelry, Sarees, Apparel for Women, Books, Kids, Accessories & more
 
