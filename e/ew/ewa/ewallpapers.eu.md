@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewallpapers.eu privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212000344id_/http%3A//ewallpapers.eu/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewallpapers.eu privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412045144id_/http%3A//ewallpapers.eu/privacy-policy.htm) for the most accurate reproduction.*
 
 # Free Wallpapers - High resolution Desktop Wallpapers
 
