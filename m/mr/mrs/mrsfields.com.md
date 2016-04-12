@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905160940id_/http%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412173843id_/https%3A//www.mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Privacy Policy
 
-Mrs. Fields® Gifts Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <http://www.mrsfields.com/>.
+Mrs. Fields® Gifts Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <https://www.mrsfields.com/>.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
@@ -20,7 +20,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can visit the following URL: <http://www.mrsfields.com/cookieclub/remove/>.
+  1. You can visit the following URL: <https://www.mrsfields.com/cookieclub/remove/>.
 
 
 
@@ -34,8 +34,8 @@ Analytics:
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. Go to <http://www.mrsfields.com/account/profile/> to edit your online account information.
-  2. Email: Go to <http://www.mrsfields.com/contact/>.
+  1. Go to <https://www.mrsfields.com/account/profile/> to edit your online account information.
+  2. Email: Go to <https://www.mrsfields.com/contact/>.
 
 
 
