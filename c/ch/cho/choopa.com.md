@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the choopa.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325235553id_/https%3A//www.choopa.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choopa.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412192022id_/https%3A//www.choopa.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # - Choopa.com
 
   * **General**
-    * The operative parties referred to in this policy are COMPANY and you, the user of this site. 
-      * Choopa, LLC, is the publisher and operator of the web site www.choopa.com. Hereinafter referred to as 'COMPANY'. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Choopa, LLC. d/b/a www.choopa.com. Additionally, when the terms 'The SITE' or 'SITE' are used, these terms refer to www.choopa.com. 
+    * The operative parties referred to in this policy are Choopa, LLC and you, the user of this site. 
+      * Choopa, LLC, is the publisher and operator of the web site www.choopa.com. Hereinafter referred to as 'Choopa.com'. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Choopa, LLC. d/b/a www.choopa.com. Additionally, when the terms 'The SITE' or 'SITE' are used, these terms refer to www.choopa.com. 
       * You, the User - As the user of this site, this policy will refer to the user as 'you' or through any second-person pronouns, such as 'yours,' etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns. 
     * This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE. 
 
