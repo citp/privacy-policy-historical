@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the net2ftp.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014111519id_/http%3A//www.net2ftp.com/homepage/privacy.html%3FPHPSESSID%3DhjymmNiynD26eDBOSFlVeviVBlb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net2ftp.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413014611id_/http%3A//www.net2ftp.com/homepage/privacy.html%3FPHPSESSID%3DhOg1ry0KmX0In0FZFS3-WoZExG8) for the most accurate reproduction.*
 
 # net2ftp - a web based FTP client
 
