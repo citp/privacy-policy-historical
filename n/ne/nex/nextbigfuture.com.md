@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextbigfuture.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124190617id_/http%3A//nextbigfuture.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextbigfuture.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413003114id_/http%3A//nextbigfuture.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Next Big Future: Privacy Policy
 
