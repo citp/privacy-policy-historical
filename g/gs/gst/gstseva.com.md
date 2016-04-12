@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gstseva.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815195221id_/http%3A//gstseva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstseva.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413000432id_/http%3A//www.gstseva.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | GSTSEVA.COM
+# PRIVACY POLICY | GST India- GSTSEVA.COM
 
 GSTSEVA.COM does not collect any personal information about individuals except when such individuals specifically provide such information on a voluntary basis. Personal information on individual users will not be sold or otherwise transferred to unaffiliated third parties.
 
