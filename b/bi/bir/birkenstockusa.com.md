@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091633id_/https%3A//www.birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birkenstockusa.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412232752id_/https%3A//www.birkenstockusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Birkenstock USA Official Site
+# Privacy Policy
 
 Birkenstock USA, LP (BUSA) respects your right to privacy. We know that the information about you that we gather on the Birkenstockusa.com website (the "Site") needs to be carefully and sensitively managed. We do not sell or rent your personal information to third parties. As described in this policy, under certain circumstances, we may share your information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.
 
@@ -10,14 +10,16 @@ This notice describes our privacy policy - which governs your use of the Site. T
 
 **By visiting Birkentockusa.com, you are accepting the practices described in this Privacy Notice and[Terms of Use](https://web.archive.org/terms-of-use).**
 
-What personal information does Birkenstockusa.com gather?  
-How does Birkenstockusa.com use my information?  
-How does Birkenstockusa.com use cookies?  
-Does Birkenstockusa.com share my information?  
-How do I know my personal information is secure?  
-What about links to other websites?  
-What information can I access?  
-Are children allowed to use Birkenstockusa.com?
+  * What personal information does Birkenstockusa.com gather?
+  * How does Birkenstockusa.com use my information?
+  * How does Birkenstockusa.com use cookies?
+  * Does Birkenstockusa.com share my information?
+  * How do I know my personal information is secure?
+  * What about links to other websites?
+  * What information can I access?
+  * Are children allowed to use Birkenstockusa.com?
+
+
 
 ### What personal information does Birkenstockusa.com gather?
 
@@ -55,8 +57,6 @@ Our Site uses "cookies," which are small data files that are stored on your comp
 For example, we may use cookies to enable you to use certain Site features, remember the items in your shopping cart, store your preferences, recognize you when you return to our Site, track your orders, and monitor and maintain information about your use of our Site.
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our Site.
-
-### Does Birkenstockusa.com share my information?
 
 We may share your personal information in the following ways:
 
