@@ -1,97 +1,155 @@
-> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809115456id_/http%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovoenergy.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412165254id_/https%3A//www.ovoenergy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Cookies | Ovo Energy
+# Privacy Policy | OVO Energy
 
-At Ovo Energy, we’re committed to our customers. As well as providing you with unbeatable value and an excellent service, we believe it’s important to protect your privacy. We’ll obtain certain pieces of personal information (also called "personal data") throughout the transfer process and it’s our job to make sure we take every step to protect your personal details. By using Ovo Energy, you consent to the collection and use of this information by Ovo. If we decide to change our privacy policy, we’ll post those changes on this page so that you’re always aware of what information we collect, how we use it and under what circumstances we disclose it.
+**Last updated: February 2016**
 
-Under the Data Protection Act 1998, specific obligations are placed on us in the way we handle this type of information. The aim of this privacy policy is to let you know what personal information we collect from you when you purchase products and services from us, when you use our website and when you contact us, how we store and use it, and how you can access and manage this information.
+At OVO Energy, we’re committed to our customers.  As well as providing you with unbeatable value and an excellent service, we believe it’s important to protect your privacy.
 
-Our Privacy Policy explains how and why we collect information from you, how we store it and use it, and how you can access and manage this information. It will also explain the security measures we take to protect your privacy, and will outline things we’ll never do to compromise the protection of your personal information.
+### 1. Why do we have a privacy policy?
 
-Here is a list of things we’ll always do:
+We’ll collect certain personal information from you when you use our website, when you get in touch with us about becoming an OVO customer and, if you sign up, during your customer journey.  
 
-  * We agree to ensure that all personal data is collected in a fair and lawful manner and used only for specified purposes.
-  * We agree to ensure that personal data sought is adequate, relevant and not excessive for the purpose.
-  * We aim to ensure that the personal data we keep is accurate and up-to-date. To achieve this we do need individuals to tell us of changes to their personal data.
-  * We agree to keep personal data secure at all times.
-  * We agree to keep personal data no longer than is necessary and to dispose of it appropriately when it is no longer required.
-  * We take appropriate technical and organisational measures against unauthorised and unlawful processing, accidental loss, destruction or damage to personal data.
-  * We will only pass your personal data onto another organisation if we need to for the purposes of providing our products and services, or are required to by law or regulation. Before transferring any such data, we will check that the organisation has appropriate data protection policies.
+The purpose of our privacy policy is to let you know:
 
+  * how and why we collect your personal information;
+  * how we use and disclose your personal information (and to whom);
+  * how we protect your personal information; and 
+  * how you can access your personal information.
 
 
- **1\. Using your personal information**
 
-1.1 We and our agents may use your information to:  
-Provide you with the services you have asked for, which may include incentive and loyalty schemes  
-Contact you for suggestions on how we can improve the way we operate, or about how we can improve any services and products we have provided before, now or in the future.  
-Create statistics, run reports, analyse customer information, create profiles and create marketing opportunities.  
-Help detect and prevent fraud, debt and loss.  
-Help train our staff. We may use your calls and emails as a part of our quality monitoring and training and development processes. This allows us to provide our employees with constructive feedback which is a part of our continuous training and development scheme. This ensures our employees, our Customer Service Advisors in particular, can provide you with the best customer service possible.  
-Contact you in any way (including email, phone, text or multimedia message or other forms of electronic communications) about products and services we and our selected partners may be offering. If you communicate with us through the internet, we may occasionally contact you by e-mail about our services and products. When you first sign up to Ovo, we will give you the opportunity to say whether you would be happy for us to contact you with marketing information. However, you can always contact us (at the address set out below) at any time if you change your mind. If you have selected paperless billing, we will always contact you by email.  
-If you have a meter installed at your property that can be connected to the Wide Area Network (a â€˜smart’ meter), the gas or electricity meter (or both) will record half-hourly consumption data and this can be remotely transferred in real time or on a daily basis (the equipment will automatically communicate with Ovo). We may use this information for the purposes set out above.  
-We may have to pass information about you to our agents and service providers. This may involve passing your information outside of the European Economic Area(EEA) to countries that do not have the same data protection standards as we do in the UK. If we, or our agents and service providers, do this, we will make sure that it happens with the relevant legal protection in place and we’ll always take reasonable steps to ensure that these organisations will secure the customers data.  
-If we are asked, we may pass your information on to Ofgem for legal or regulatory purposes.  
-1.2 We may also monitor and record any communications we have with you, including phone conversations and emails, to make sure we are providing an excellent service to our customers.
+### 2\. Changes to our privacy policy
 
- **2\. Sources of Information**  
-When we contact you, we may use any information we hold about you to do so. We may contact you by email, phone, text or multimedia message (or other forms of electronic communications) or by visiting you. If we are contacting you to tell you about any new offers or initiatives, we will do so in line with how you have told us you would prefer to receive marketing information. If you would prefer not to receive any marketing information, you can let us know at any time by contacting us at the address given below.
+If we make any changes to our privacy policy, we’ll post changes on this page.  If they’re major changes, then we’ll also send you an email letting you know. 
 
- **3\. Disclosing Information**
+### 3\. Dealing with your personal information
 
-3.1 We may allow other organisations and people to use information we hold about you:  
-to provide any services you have asked for. This may include providing information to members of your family or household and anyone acting on your behalf or other people who may be interested (for example, landlords or letting agents);  
-if we sell one or more of our businesses;  
-to help to prevent and detect debt, fraud, or loss. We may give this information to a credit-reference or a debt collection agency;  
-if you have an outstanding balance, we may transfer your debt to another organisation and give them details about you and that debt;  
-if we have been asked (for example, by Ofgem) to provide information for legal or regulatory purposes;  
-as part of current or future legal action;  
-to help manage any reward or loyalty schemes  
-3.2 From time to time these other people or organisations may be outside the European Economic Area (EEA), and as a result we may pass your information to countries that do not have the same standards or protection for personal information as the UK. If we, our agents or our service providers, do this, we will make sure that it happens with the relevant legal protection in place and we’ll always take reasonable steps to ensure that these organisations will secure the customers data.  
-3.3 You agree that we can ask your previous supplier for information that will allow us to take over your supply, such as information regarding meter readings, meter technical details etc. Similarly, you agree that we can provide information we hold about you (such as information about meter readings and meter technical details) to your new supplier so they can begin supplying your gas and electricity.  
-3.4 Priority Service Register/Special Needs Conditions: If we believe that you (or a member of your household) need extra care (for example, because of your age, health, disability or financial circumstances), we may record and share this information. We will use this information so that we do not disrupt your supply. We may share your information with:  
-other energy suppliers if we believe you are considering changing supplier;  
-an outsourced service company that manages a wide range of energy industry data interactions on our behalf;  
-the electricity distributor; and  
-the relevant gas transporter, metering agents or network operator
+**3.1 Collecting your personal information**
 
- **4\. Protecting information**
+**What will we collect?**
 
-We follow strict security procedures to protect personal information. This includes following certain guidelines (for example, checking your identity when you phone us)
+The personal information we collect includes your name, email address, postal address, phone number, date of birth and any other relevant information we need in order to provide our services to you.
 
-We strongly recommend that you do not disclose your My Ovo login details to anyone. Please always remember to log out of your account when you have finished using My Ovo.
+We’ll also track your use of our website through cookies – see section 4 below for more details.
 
-From time to time Ovo Energy include hypertext links to sites which are created by individuals and companies outside of Ovo Energy. We do this when there is a particular relevance to the topic you’re reading about and the site we take you to. Whilst we endeavour to check that the content of these sites is suitable, we cannot take any responsibility for the practices of the companies who publish the sites that we link to, nor the integrity of the content contained within them.
+When you’re an OVO customer, if you have a smart meter installed at your property we’ll also capture your energy consumption data – please see [our FAQ on how we collect smart data here](https://www.ovoenergy.com/ovo-answers/topics/smart-technology/smart-meters/what-data-do-you-take-from-my-smart-meter-and-why.html). 
 
- **5\. The Internet**
+**When will we collect it?**
 
- **What are cookies?**
+We (and our agents) collect certain personal from and about you during your sign-up journey to become an OVO customer, whenever you get in contact with us or use our website or as part of providing our services to you - for example, if you use our website to obtain a quote, or call us to enquire about your account. We may also monitor and record any communications we have with you, including phone calls and emails, to make sure we are providing an excellent service to our customers.
 
+**3.2 Using your personal information**
+
+We (and our agents) may use your personal information to:
+
+  * Provide our services to you;
+  * Contact you to see if you would like any help, if you’ve requested a quote from us or have started but not finished the sign-up journey;
+  * Provide you with incentives or run a loyalty scheme;
+  * Contact you for suggestions on how we can improve the way we provide our services to you (e.g., we may ask you to complete a survey);
+  * Help train our staff, including using your calls and emails as part of our quality monitoring and training processes;
+  * Create reports or profiles to analyse information for marketing purposes; or
+  * Help to detect and prevent fraud and debt.
+
+
+
+**Contacting you**
+
+We’ll always contact you in the way you’ve asked us to contact you.  If you have chosen the online discount, we’ll contact you only by email and/or SMS.  
+
+**Marketing information**
+
+When you first provide your personal information to OVO, we’ll give you the chance to choose whether you’d be happy for OVO or our selected third party partners to contact you with marketing information and if you have any preferences for the way you’d like to be contacted. This will include contacting you by post, email, phone, SMS, multimedia message or other forms of electronic communication, or we might visit you in person to do this.
+
+We (and our agents) will use your personal information for marketing purposes only if you’ve told us we can.  
+
+If you’d prefer not to receive this sort of marketing information, or want to change how you receive it, you can always contact us at hello@ovoenergy.com at any time. We’ll occasionally remind you that you can update your preferences for receiving marketing information, or if you haven’t told us what your preferences are, we might get in touch to find out.
+
+**3.3  Disclosing your personal information**
+
+We may allow other organisations and people to use personal information we hold about you:
+
+  * To provide any services you have asked for, including providing information to members of your family or household and anyone acting on your behalf (provided you’ve given your consent);
+  * To provide you with information about our products and services or other products and services which may be of interest to you (provided you’ve given your consent);
+  * To help manage any reward or loyalty schemes;
+  * If we sell one or more of our businesses;
+  * To help prevent and detect debt or fraud.  We may give this information to a credit-reference or a debt collection agency.  For more information on how we conduct credit checks, please see section 9 of our [Core Terms and Conditions here](https://www.ovoenergy.com/coreterms2015) and our [guide to credit checks here](https://web.archive.org/guides/energy-guides/ultimate-guide-to-a-credit-check.html).
+  * If we have been asked (for example, by a regulatory authority such as Ofgem) to provide information for legal or regulatory purposes; or
+  * As part of current or future legal action.
+
+
+
+**Disclosing information outside the EU**
+
+Sometimes these organisations or people may be outside the European Economic Area (EEA), so we may pass your personal information to countries that do not have the same standards or protection for personal information as the UK.   If we, our agents or our service providers do this, we’ll always make sure that these organisations will secure your personal information.
+
+**Switching**
+
+We may also ask your previous energy supplier for personal information about you that will allow us to take over your supply (for example, information about your meter readings, meter technical details etc.).  Similarly, if you switch away from OVO, we may provide similar information to your new supplier so they can begin supplying your energy.
+
+**Priority Services Register or special needs**
+
+If we believe that you (or a member of your household) need extra care (for example, because of your age, health, disability or financial circumstances), we may record and share this information with the following people to ensure your supply isn’t interrupted:
+
+  * other energy suppliers if we believe you are considering changing supplier;
+  * an outsourced service company that manages a wide range of energy industry data interactions on our behalf;
+  * the electricity distributor; and
+  * the relevant gas transporter, metering agents or network operator.
+
+
+
+**3.4 Protecting your personal information**  
+We follow strict security procedures to protect your personal information. This includes following certain guidelines (for example, checking your identity when you phone us).
+
+We strongly recommend that you do not disclose your My OVO login details to anyone. Please always remember to logout of your account when you have finished using My OVO.
+
+From time to time, our website may provide hypertext links to sites which are created by individuals and companies outside of OVO.  We do this if the site is relevant to the topic you’re reading about. Whilst we always try to check that the content of these sites is suitable, we cannot take any responsibility for the practices of the companies who publish the sites that we link to, or the accuracy or relevance of the content on them.  
+**3.5 Accessing your personal information**
+
+You can contact us and ask for a description of any personal information we hold about you, what we’re using it for and who has access to that personal information. 
+
+You can also ask us to delete or correct personal information we hold about you if it’s wrong.
+
+If you do contact us, we’ll need to verify your identity and we may in some circumstances also charge a fee (up to a maximum of £10) for responding to your request.
+
+To request personal information, please email hello@ovoenergy.com or write to Data Protection, OVO Energy, 1 Rivergate, Temple Quay, Bristol BS1 6ED.
+
+### 4\. OVO’s use of cookies
+
+**4.1 What are cookies?**  
 A cookie is a piece of information stored in a small file which is sent to and from web pages. They can be used to identify that you’ve visited websites before and some will be stored on your computer by your web browser. They are anonymous, so they don’t store any personal information of any kind.
 
- **How does Ovo Energy use cookies?**
+**4.2 How does OVO use cookies?**
 
-We use both cookies and / or tracking tags to understand how people use our websites and to help us to make your experience of our websites better. Some of them are essential for our websites to work properly.
+We use cookies to understand how people use our websites and to help us to make your experience of our websites better. 
 
- **– For measuring web traffic** We use a program called Google Analytics, which in turn uses cookies to help us find out how many people visit our websites, which pages and parts are most popular, how long people spend in each area and what information people are searching for. All this insight helps us to understand how we can improve our websites.
+**OVO’s websites**  
+We use short-term cookies to recognise your PC as you move around our site and to remember any information you have entered into search boxes for next time you visit us.  
+**Measuring web traffic**  
+We use programs such as Google Analytics and Mixpanel to help us find out how many people visit our websites, which pages and parts are most popular, how long people spend in each area and what information people are searching for. These insights help us understand how to improve our websites.
 
- **Cookies  
-– For advertising** We work with a company called ValueClick (and subsidiary companies Commission Junction, Mediaplex and ValueClick Media) that places Ovo Energy adverts on other websites either directly or through affiliate partners. They may set cookies to track the performance of our advertising campaigns and allow us to tailor the advertising that people might be interested in.
+Google Analytics uses cookies to collect non-personally identifiable information like browser type, operating system, referring site, the date and also the time of a visit.  If you’d like to know more [please click this link for more information on Google Analytics](https://support.google.com/analytics/answer/2790010).
 
- **Cookies**  
- **– For logging into Ovo Energy websites** Our customers and employees can log into all our websites and so we use cookies to track that they are logged in and what areas of the sites they use most.
+**Advertising**
 
- **Cookies  
-– For the content on our websites **We use short-term cookies to recognise your PC as you move around our site and that any information you have entered, for example into search boxes, is remembered the next time you visit us.
+We use tools such as ValueClick to place OVO ads on other websites you may visit. These tools may set cookies to track the performance of our advertising campaigns and allow us to tailor the advertising you might be interested in.  
 
- **How can I manage my cookies and where can I find more information?**
+We also use products like Google Analytics Advertising, including remarketing with Google Analytics, Google Display Network Impression Reporting and Google Analytics Demographics and Interest Reporting features.  These products help us understand what ads work best so we can more effectively promote our products and services to you.   
+We also use Google Adometry to track the way you interact with our ads before you come to our website. This lets us work out which ones are relevant to you and which ones aren’t.  
 
-If you don’t want us to use cookies in your web browser, you can remove them from your computer or change your browser settings so that it either blocks cookies altogether or asks you if you’d like to accept them from some websites. As we mentioned earlier, some of our cookies are essential for our websites to work properly, particularly our Quote & Switch’ functionality and our account management website My Ovo’.
+**4.3 How can you manage cookies and where can you find further information?**
 
-The internet industry body, the Internet Advertising Bureau has set up a website to provide information and advice on cookies, tags and behavioural advertising <http://www.youronlinechoices.com/uk/> and another trusted source which gives information about how to delete and control cookies is by the law firm Pinsent Masons <http://www.aboutcookies.org/>.
+If you don’t want us to use cookies in your web browser, you can remove them from your computer or change your browser settings so that it either blocks cookies altogether or asks you if you’d like to accept them from some websites.   
+You can also stop us collecting data through the following sources:
 
-If you have any other questions please contact us at [marketing@ovoenergy.com](mailto:marketing@ovoenergy.com?subject=Query%20about%20privacy%20policy%20or%20cookies%20on%20website "Query about privacy policy or cookies on website") and we’ll do our best to help you.
+  * Mixpanel - download an opt-out browser add-on - [the Mixpanel opt-out browser can be found here](https://mixpanel.com/optout/). 
+  * Google Analytics Advertising Features – visit [www.google.com/setting/ads](https://www.google.com/settings/u/0/ads/authenticated) and adjust your personal settings as per their instructions; or
+  * Adometry – follow this link to opt-out of the Adometry cookie: <http://js.dmtry.com/optout/status.html>.
 
-If we change our privacy and cookies policy substantially, we’ll tell you by adding an article to the blog section of [www.ovoenergy.com](http://www.ovoenergy.com/ "www.ovoenergy.com").
 
- **Updated May 2012**
+
+However, please remember some of our cookies are essential for our websites to work properly, particularly our ‘Quote & Switch’ functionality and our account management website ‘[My Ovo](https://my.ovoenergy.com/login)’.   
+The internet industry body, the Internet Advertising Bureau, has set up a website to provide information and advice on cookies, tags and behavioural advertising, you can [click here to find out more about behavourial advertising](http://www.youronlinechoices.com/uk/).  Another trusted source which gives information about how to delete and control cookies is <http://www.aboutcookies.org/>. 
+
+  
+If you have any questions about the way we handle your personal information, please get in touch at [hello@ovoenergy.com](mailto:hello@ovoenergy.com) and we’ll do our best to help you.
