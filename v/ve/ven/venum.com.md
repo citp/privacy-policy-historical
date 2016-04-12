@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the venum.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612070636id_/http%3A//www.venumfight.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venum.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412145744id_/https%3A//www.venum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy
+# B2C Privacy policy - Venum official store
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy sets out the ways your personal data will be processed by us.
 
