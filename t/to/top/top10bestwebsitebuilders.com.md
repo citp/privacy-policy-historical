@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10bestwebsitebuilders.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209192436id_/http%3A//www.top10bestwebsitebuilders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10bestwebsitebuilders.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412064744id_/http%3A//www.top10bestwebsitebuilders.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Top 10 Best Website Builders
 
@@ -14,7 +14,11 @@ We receive and/or collect Personal Information from you in the following ways:
 
 1\. Information you choose to provide when you leave a review. If you choose to leave a review on the Site you may be required to provide us with certain Personal Information such as your name and email address. You may also choose to provide us with additional Personal Information. 
 
-2\. Web Browser Cookies, Log-Files and Tracking Technologies. Our Site may use "cookies" log-files and other tracking technologies to enhance the User experience. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them and their activity. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Site may not function properly. 
+2\. Web Browser Cookies, Log-Files and Tracking Technologies. Our Site may use "cookies" log-files and other tracking technologies (such as web beacons). A cookie is text file placed on your hard drive and stored by your browser. We use cookies to administer, and provide you with access to, the Site; but we also us cookies to improve the user experience of the Site (for example certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user) and to collect statistical or anonymous data about how you and other Users use and interact with the Site, including for the purpose of serving advertisements (as described below in the section on Advertising) Some of the cookies are set by us, and some may be set by their parties. If you do not want to receive cookies, consult your respective browser settings. This may allow you to block cookies altogether. You may also be able to delete cookies have already been set. 
+
+In addition, by accessing [www.aboutads.info/choices](http://www.aboutads.info/choices), you can opt out from the collection of Web viewing data for interest-based advertising and other applicable uses, by some or all of participating companies. 
+
+If you do block or restrict cookies, you will still be able to use the Site, but various features and functionality may be impaired. 
 
 3\. We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the Site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. 
 
@@ -130,4 +134,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [contact@top10bestwebsitebuilders.com](mailto:contact@top10bestwebsitebuilders.com)
 
-This document was last updated on September 29, 2015
+This document was last updated on January 22, 2016
