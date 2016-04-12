@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metaio.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124315id_/http%3A//www.metaio.com/pdf/Metaio_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaio.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412141932id_/http%3A//www.metaio.com/pdf/Metaio_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
