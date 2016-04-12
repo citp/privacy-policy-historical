@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908055620id_/http%3A//www.podfeed.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412232214id_/http%3A//www.podfeed.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
