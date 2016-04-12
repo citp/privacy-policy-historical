@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download89.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813234204id_/http%3A//download89.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download89.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412071024id_/http%3A//download89.com/en/policy) for the most accurate reproduction.*
 
 # download89.com
 
