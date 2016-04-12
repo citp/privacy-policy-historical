@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yconic.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923142301id_/https%3A//yconic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yconic.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412042549id_/https%3A//yconic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | yconic
+# yconic - Privacy Policy
 
 **YCONIC**
 
