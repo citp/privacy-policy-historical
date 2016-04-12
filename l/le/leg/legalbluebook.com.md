@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalbluebook.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071446id_/https%3A//www.legalbluebook.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbluebook.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412215412id_/https%3A//www.legalbluebook.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # The Bluebook - Privacy Policy
 
@@ -26,6 +26,8 @@ Wedo not seek to collect personally identifiable information from persons undert
 2\. Use of Cookies 
 
 Youhave the right to reWe use cookies to enhance your use of the Site and to better adapt the Site to your preferences. Cookies enable us to show you the pages you have most recently visited from the Site, to gather specific information from your previous visits to the Site and to recall features that you may have customized on your browser. If you do not wish us to collect information via the cookies on your computer, you should configure your browser to choose not to have cookies stored; most browsers allow you to do this. 
+
+We use Google Analytics to collect information on the use of this website.  Please visit [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/) for more information. 
 
 ## 
 
