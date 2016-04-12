@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023082353id_/http%3A//emag.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emag.co.uk privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413013242id_/https%3A//emag.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Entertainment News Magazine
 
