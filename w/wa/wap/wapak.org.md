@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapak.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232527id_/http%3A//wapak.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapak.org privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412162942id_/http%3A//wapak.org/privacy) for the most accurate reproduction.*
 
 # Wapakoneta City Schools
 
