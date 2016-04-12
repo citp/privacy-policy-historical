@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isocpp.org privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911034657id_/https%3A//isocpp.org/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isocpp.org privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412124208id_/https%3A//isocpp.org/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Standard C++
 
