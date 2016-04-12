@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godine.co.uk privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925012959id_/http%3A//www.godine.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godine.co.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412065528id_/http%3A//www.godine.co.uk/privacy) for the most accurate reproduction.*
 
 # Go dine – The Definitive Restaurant Booking Guide
 
