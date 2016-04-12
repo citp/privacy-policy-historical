@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910200433id_/https%3A//easyeda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412074105id_/https%3A//easyeda.com/privacy) for the most accurate reproduction.*
 
-# Privacy - EasyEDA
+# Privacy Policy - EasyEDA
 
 Your privacy is critically important to us. At EasyEDA we have a few fundamental principles:
 
