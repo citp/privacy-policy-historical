@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the snackwebsites.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034434id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snackwebsites.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412154917id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # SnackTools | Creative web applications
 
-Last modified: March 19, 2013
+_Last modified: March 19, 2013_
 
 Thank you for visiting SnackTools network sites (Smartketer.com, SnackTools.com, SnackWebsites.com, BannerSnack.com, PhotoSnack.com, PodSnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com or "Sites") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from SnackTools network sites ("Sites").
 
 We do not collect nor distribute private data such as credit card numbers at all. Some personal information is recorded for SnackTools account purposes. All passwords are non-reversible encrypted (MD5) before being saved to the data base, to ensure that they (and your personal information) cannot be stolen from us, even in case of a hacking attack. We do not collect any passwords at all for users that are connecting using the Facebook Connect API as well as for those connecting with Twitter, Google and Yahoo APIs.
 
-What Information Do We Gather?  
-What Do We Do With the Information We Collect?  
-How is Information Shared?  
-How Do We Protect the Personal Information We Collect?  
-How Do You Opt-out of Personal Information Sharing with Our Business Partners?  
-How Do You Correct and Update Your Personal Information?  
-What is Our Privacy Policy If You Are Under 13 Years of Age?  
-What Happens When You Link to a Third-Party Web Site?  
-What About Intellectual Property? Copyrights? Trademarks?  
-What Happens When We Update Our Privacy Policy?  
-What If You Have Questions?  
+  * What Information Do We Gather?
+  * What Do We Do With the Information We Collect?
+  * How is Information Shared?
+  * How Do We Protect the Personal Information We Collect?
+  * How Do You Opt-out of Personal Information Sharing with Our Business Partners?
+  * How Do You Correct and Update Your Personal Information?
+  * What is Our Privacy Policy If You Are Under 13 Years of Age?
+  * What Happens When You Link to a Third-Party Web Site?
+  * What About Intellectual Property? Copyrights? Trademarks?
+  * What Happens When We Update Our Privacy Policy?
+  * What If You Have Questions?
+
 
 
 ### What Information Do We Gather?
 
 When you visit our Sites, we track information including the domain name and the name of the web page from which you entered our Sites, and how much time you spend on each of our pages. We also collect information that is combined with other web visitors' information, such as how many times visitors click on each web page and the methods by which our Sites were found. An IP address is a number that is assigned to your computer when you are using your browser on the Internet. We may collect IP addresses and website usage information from you when you visit our Sites via the use of "cookies."
 
-Cookies: A cookie is a small file that is stored on the hard drive of your computer ready for future access when you return to our Sites. We use cookies to deliver web content specific to you and to keep track of your online order activity. Cookies cannot pass viruses, harm your computer or pass on private information such as an email address without the computer user's intervention. Cookies contain session identification numbers that allow our systems to recall previous sessions for authentication efforts and assemble information from our gathered data. You can configure your computer's browser to alert you when a site is attempting to send you a cookie and allow you to accept or refuse the cookie. In addition to cookies, we may use small bits of computer code called "one-pixel GIFs," "clear GIFs," or "web beacons" embedded in web pages to monitor website activity. We use this collected electronic data to better design our Sites.
+Cookies: A cookie is a small file that is stored on the hard drive of your computer ready for future access when you return to our Sites. We use cookies to deliver web content specific to you and to keep track of your online order activity. Cookies cannot pass viruses, harm your computer or pass on private information such as an email address without the computer user's intervention. Cookies contain session identification numbers that allow our systems to recall previous sessions for authentication efforts and assemble information from our gathered data. You can configure your computer's browser to alert you when a site is attempting to send you a cookie and allow you to accept or refuse the cookie. In addition to cookies, we may use small bits of computer code called "one-pixel GIFs," "clear GIFs," or "web beacons" embedded in web pages to monitor website activity. We use this collected electronic data to better design our Sites. We also collect statistical data on how our apps are used and the banners, widgets and websites created with our apps. Additionally, we track information on all banners that run through Bannersnack Ad Campaigns.
 
 ### What Do We Do With the Information We Collect?
 
-You may be asked to provide personal information in certain fields on our Sites. The personal information we collect is used only for the purpose we state at the time of collection.
+We reserve the right to use the data collected on our apps, websites, widgets (flipping books, playlists, presentations etc), content added in widgets (text, images, etc), rotators and banners (including those that run through Bannersnack Ad Campaigns) for commercial purposes. You may be asked to provide personal information in certain fields on our Sites. The personal information we collect is used only for the purpose we state at the time of collection.
 
 The Sites does not collect personally identifiable information when you browse the Sites and request pages from our servers unless you voluntarily and knowingly provide such information to us. This means that we will not know your name, your email address, or any other personally identifiable information just because you browse the Sites unless you:
 
   * access the Sites from a link in an email that we have sent to you;
-  * have created a profile and you either log-in to your account or choose to be remembered via your cookie, including on your web-enabled mobile device.
+  * have created a profile and you either log-in to your account or choose to be remembered via your cookie, including on your web-enabled mobile device. 
 
 
 
@@ -44,7 +45,7 @@ You can delete cookies from your hard drive at any time. You can set your Intern
 
 We use multiple Google products (like Google Analytics, Google+, Google Wallet, DoubleClick Ad Exchange, Google AdWords) throughout our sites, iframe embed codes and most of our tools. Therefore we inform you that Google does collect information on it's own. Here is a link to Google's Privacy Policy page: <http://www.google.com/intl/en/policies/privacy/> where you'll also find more information on how to opt out of being tracked by Google.
 
-Also please note that our products connect with Google advertising solutions therefore we collect information about you and your users throughout Google advertising services using cookies. Here is a link to Google Advertising Policy and how to opt out: <http://www.google.com/policies/technologies/ads/>.
+Also please note that our products connect with Google advertising solutions therefore we collect information about you and your users throughout Google advertising services using cookies. Here is a link to Google Advertising Policy and how to opt out: <http://www.google.com/policies/technologies/ads/>. 
 
 We also inform you that you should include the link above in your own privacy policy if you’re using our iframes and banner ads on your website.
 
