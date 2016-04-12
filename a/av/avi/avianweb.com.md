@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812234155id_/http%3A//beautyofbirds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avianweb.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412202813id_/https%3A//www.beautyofbirds.com/privacy.html) for the most accurate reproduction.*
 
-# beautyofbirds - Site Privacy Policy | Beauty Of Birds
+# beautyofbirds Site Privacy Policy
 
-Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of the visitors of this website. The following outlines our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+**Avianweb LLC** (hereafter referred to as **Avianweb** ) is committed to the privacy of the visitors of this website. The following outlines our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-### Our Privacy Policy Covers ...
+### What is Covered by our Privacy Policy  ...
 
-  * How we treat personally identifiable information collected by Avianweb through this website.
-  * This privacy policy does not apply to the practices of companies that Avianweb does not own or control, or of persons that Avianweb does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which the Avianweb links.
+  * The way we treat personally identifiable information collected by Avianweb through this website.
+  * This privacy policy does not apply to the practices of companies that Avianweb does not own nor control, or of persons that Avianweb does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which the Avianweb links.
 
 
 
 ### Collection and Use of Personal Information
 
-  * You can visit the Avianweb without revealing any personal information. However, if you wish to purchase any products or subscriptions, you will need to register.
+  * You can visit this website without revealing any personal information. However, if you wish to purchase any products or subscriptions, you may need to go through a simple registration process. 
   * This may require your personal contact information and/or your company contact information. The Avianweb will use this information ONLY to reply to your inquiries, to provide you with requested products and services, and to contact you regarding new products and services.
   * By voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
 
@@ -29,14 +29,18 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 ### Information Sharing and Disclosure
 
   * Avianweb may disclose your personal information to third parties who work on behalf of Avianweb to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information
-  * Avianweb may otherwise disclose your personal information when:
-    * We have your express consent to share the information for a specified purpose;We need to respond to subpoenas, court orders or such other legal process;We need to protect the personal safety of the users of our websites or defend the rights or property of Avianweb;We find that your actions on our websites violate the Avianweb Terms of Use document or any of our usage guidelines for specific products or services.
+  * Avianweb may otherwise disclose your personal information when: 
+    * ... we have your express consent to share the information for a specified purpose;
+    * ... we need to respond to subpoenas, court orders or such other legal process;
+    * ... we need to protect the personal safety of the users of our websites or defend the rights or property of Avianweb
+    * ... we find that your actions on our websites violate the Avianweb Terms of Use document or any of our usage guidelines for specific products or services.
 
 
 
 ### Consent
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Avianweb. If you have provided personal information to Avianweb and no longer consent to its use or disclosure as outlined herein, please notify Avianweb at [[email protected]](http://www.cloudflare.com/email-protection)
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to Avianweb. If you have provided personal information to Avianweb and no longer consent to its use or disclosure as outlined herein, please notify Avianweb at [[email protected]](http://www.cloudflare.com/email-protection)  
+
 
 
 
@@ -56,9 +60,9 @@ Avianweb LLC (hereafter referred to as Avianweb) is committed to the privacy of 
 
 ### Questions or Suggestions
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianw[email protected]](http://www.cloudflare.com/email-protection#0c7f6a4c6d7a656d627b696e226f6361).
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [sf@avianw[email protected]  
+](http://www.cloudflare.com/email-protection#0c7f6a4c6d7a656d627b696e226f6361).
 
 
 
-  
-Revised: July 2012 
+Revised: August 2015
