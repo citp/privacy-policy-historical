@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910051336id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412192609id_/https%3A//jobadder.com/privacy) for the most accurate reproduction.*
 
-# Recruitment Software - JobAdder - Privacy Policy
+# Privacy Information | JobAdder
 
 ## JOB ADDER PRIVACY POLICY
 
