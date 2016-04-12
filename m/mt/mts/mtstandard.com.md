@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtstandard.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213164945id_/http%3A//mtstandard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtstandard.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413014631id_/http%3A//mtstandard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | mtstandard.com
 
 Welcome to the web sites and mobile applications of The Montana Standard. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
