@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acerevenue.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016205228id_/http%3A//www.acerevenue.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acerevenue.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412233738id_/https%3A//www.acerevenue.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Ace Revenue Online Casino Affiliate Privacy Policy
 
