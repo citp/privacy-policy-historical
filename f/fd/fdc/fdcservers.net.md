@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdcservers.net privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922065542id_/https%3A//www.fdcservers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdcservers.net privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412152348id_/https%3A//www.fdcservers.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of FDC Servers
 
