@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightspeedhq.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117182731id_/https%3A//www.lightspeedhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightspeedhq.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412182146id_/https%3A//www.lightspeedhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lightspeed POS
 
