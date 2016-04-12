@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egifter.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616215647id_/https%3A//www.egifter.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egifter.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412141434id_/https%3A//www.egifter.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eGifter
 
