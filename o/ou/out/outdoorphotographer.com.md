@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002224902id_/http%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412175448id_/http%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OutdoorPhotographer.com
 
@@ -115,8 +115,8 @@ If you have any questions or comments regarding our privacy practices, you may c
 
 ### Popular OP Articles
 
-  * | [](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html "HDR The Easy Way")| [HDR The Easy Way](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html)  
-Learn to make use of this increasingly mainstream technology without losing the soul of your images [More »](http://www.outdoorphotographer.com/how-to/shooting/hdr-the-easy-way.html "HDR The Easy Way")  
+  * | [](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html "Lighten Up!")| [Lighten Up!](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html)  
+How to choose and use light-hiking equipment and philosophy to make your photography forays more enjoyable, comfortable and productive [More »](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html "Lighten Up!")  
 ---|---  
   *   * 
 
