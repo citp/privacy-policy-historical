@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126062652id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413064557id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
 
 # LMGTFY Privacy Policy
 
