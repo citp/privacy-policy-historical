@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2015-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151027072542id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413232828id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy Teamwork
+# Teamwork.com - Privacy Policy
 
 Your privacy is of great importance to us. This Privacy Policy exists to tell you what kind of information we may gather while you visit our website and how we may use such information.
 
@@ -43,7 +43,7 @@ Without derogating the aforementioned, in no event shall our total liability exc
 
 ###  Contact information
 
-For any question or to request modification or deletion of your personal information, please e-mail info@teamworkpm.net  
+For any question or to request modification or deletion of your personal information, please e-mail info@teamwork.com  
  
 
 ###  Changes and Updates to this Policy
