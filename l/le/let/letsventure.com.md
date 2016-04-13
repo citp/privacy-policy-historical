@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922020500id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413141043id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LetsVenture
 
@@ -41,13 +41,13 @@ During Your use of Our Website, We may collect and process such information from
 
 **3.Cookies**
 
-**"Cookies"** are small files that reside on Your computer's hard drive and generally contain an anonymous unique identifier and are accessible only by the website that placed them there and not any other sites.
+**"Cookies"** are small files that reside on Your computer's hard drive and generally contain an anonymous unique identifier and are accessible only by the website that placed them there and not any other sites. 
 
 We may collect information about Your general internet usage by using a cookie file which is stored on the hard drive of Your computer. Cookies help Us improve Our Website and deliver a better and personalized service. Cookies enable Us:
 
 **(a)**   to estimate Our users size and usage pattern;   
 **(b)**   to store information about Your preferences, and allow Us to customize Our Website according to Your interests;   
-**(c)**   to speed up Your searches; (d)to recognize You when You return to Our Website.
+**(c)**   to speed up Your searches; (d)to recognize You when You return to Our Website. 
 
 You may refuse to accept Cookies by activating the setting on Your browser which allows You to refuse the setting of Cookies. However, if You select this setting You may be unable to access certain parts of Our Website. Unless You have adjusted Your browser setting so that it will refuse Cookies, Our system may issue Cookies when You log on to the Website.
 
