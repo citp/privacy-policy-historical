@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173426id_/https%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413164601id_/https%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
