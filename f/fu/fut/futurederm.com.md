@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407200121id_/https%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413050907id_/https%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FutureDerm
 
@@ -22,7 +22,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by [contacting us](https://www.futurederm.com/contact-us/) or mailing:
 
-FutureDerm, Inc. 700 River Avenue Suite 212 Pittsburgh PA 15212
+FutureDerm, Inc. 700 River Avenue Suite 234 Pittsburgh PA 15212
 
 ### SECTION 3 – DISCLOSURE
 
@@ -85,4 +85,4 @@ If our store is acquired or merged with another company, your information may be
 
 If you would like to access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please [e-mail our Privacy Compliance Officer](https://www.futurederm.com/contact-us/) or write to us at:
 
-FutureDerm, Inc. ATTN: PRIVACY COMPLIANCE OFFICER 700 River Avenue Suite 212 Pittsburgh PA 15212
+FutureDerm, Inc. ATTN: PRIVACY COMPLIANCE OFFICER 700 River Avenue Suite 234 Pittsburgh PA 15212
