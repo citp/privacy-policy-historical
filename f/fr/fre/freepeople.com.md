@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227032140id_/http%3A//www.freepeople.com/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413070106id_/http%3A//www.freepeople.com/Privacy-Security) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -43,8 +43,8 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 If you still have concerns about ordering electronically, feel free to call **(800) 309-1500** and place your order over the phone. Have the 8-digit style number, size, and color ready for each item you wish to order. You can also print your shopping basket page and mail it to:
 
 Free People  
-30 Industrial Park Blvd  
-Trenton, SC 29847  
+4010 Rose Lane  
+Augusta, GA 30907  
 Attn: Order Processing
 
 Please note that e-mail is not encrypted and is not considered to secure means of transmitting credit card numbers. We will never ask for sensitive Personal Information via e-mail.
@@ -64,7 +64,7 @@ Free People may periodically update this Policy including for new, unanticipated
 Or contact us via postal mail:
 
 Free People Direct  
-30 Industrial Park Blvd.  
-Trenton, SC 29847
+4010 Rose Lane  
+Augusta, GA 30907
 
 Effective Date: October 10, 2012
