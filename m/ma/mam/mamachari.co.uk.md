@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915094020id_/http%3A//mamachari.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamachari.co.uk privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414002321id_/http%3A//mamachari.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mamachari Bikes
+# Privacy Policy | Mamachari London
 
 This Privacy Policy governs the manner in which Mamachari Ltd T/A Mamachari Bikes collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.mamachari.co.uk](http://mamahari.co.uk/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mamachari Ltd T/A Mamachari Bikes.
 
