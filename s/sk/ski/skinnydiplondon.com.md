@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031093913id_/http%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414004650id_/http%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Skinnydip London
 
