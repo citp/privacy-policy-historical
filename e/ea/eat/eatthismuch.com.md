@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908235549id_/https%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413115649id_/https%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eat This Much
 
@@ -13,7 +13,7 @@ The Data are collected and processed for the purposes set out below.
 
 ## Data Processing Ownership
 
-Eat This Much LLC - Los Angeles, CA  
+Eat This Much, Inc. - Los Angeles, CA  
 louis@eatthismuch.com   
 
 
