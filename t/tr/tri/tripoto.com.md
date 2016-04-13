@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116185956id_/http%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripoto.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413222544id_/https%3A//www.tripoto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tripoto
 
@@ -6,7 +6,7 @@
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy (“Privacy Policy”) describes the Company's policies and procedures on the collection, use and disclosure of your information when you use the Website or our Services. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-This Privacy Policy is a part of and incorporated within and is to be read along with the [Terms of Website Use](http://www.tripoto.com/terms) (“Terms”) . The capitalized terms used in this Privacy Policy, but not defined herein, shall have the meaning given to such terms in the Terms. 
+This Privacy Policy is a part of and incorporated within and is to be read along with the [Terms of Website Use](https://www.tripoto.com/terms) (“Terms”) . The capitalized terms used in this Privacy Policy, but not defined herein, shall have the meaning given to such terms in the Terms. 
 
 ### Infomation We May Collect From You
 
@@ -102,7 +102,7 @@ We may disclose your personal information to third parties:
 
   * If the Company or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms](http://www.tripoto.com/terms) and other agreements; or to protect the rights, property, or safety of the Company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms](https://www.tripoto.com/terms) and other agreements; or to protect the rights, property, or safety of the Company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
