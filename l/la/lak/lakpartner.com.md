@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakpartner.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928122045id_/http%3A//www.lakpartner.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakpartner.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413131314id_/http%3A//www.lakpartner.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Gossip lanka news Actress lanka magazine cover paper article col3 tharunaya lakpartner
 
