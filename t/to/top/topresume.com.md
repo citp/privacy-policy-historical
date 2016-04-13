@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922003757id_/http%3A//www.topresume.com%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413144424id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
 
-# TopResume Career Services - Resume Help, Resume Critiques, Resume Rewrites, LinkedIn Rewrites
+# Privacy Policy For TopResume Career Services
 
 ## TopResume Privacy Policy
 
@@ -15,11 +15,11 @@ This Privacy Policy is only in effect for any web pages, e-mail lists, collectiv
 
 ## Contents
 
-  * Personal Information.
-  * Use of Personal Information.
-  * Links to other websites.
-  * Security Measures.
-  * User Agreement.
+  * [Personal Information.](https://web.archive.org/privacy#personalInfo)
+  * [Use of Personal Information.](https://web.archive.org/privacy#useInfo)
+  * [Links to other websites.](https://web.archive.org/privacy#linkInfo)
+  * [Security Measures.](https://web.archive.org/privacy#securityInfo)
+  * [User Agreement.](https://web.archive.org/privacy#agreementInfo)
 
  
 
@@ -85,7 +85,7 @@ This Privacy Policy is only in effect for any web pages, e-mail lists, collectiv
 ## User Agreement.
 
   * As a user of TopResume you will have access to other users' personal information. You agree to use this information solely for recruiting purposes. TopResume and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deactivated immediately. Please feel free to report any misuse of TopResume by contacting us at [contact@topresume.com](mailto:contact@topresume.com). 
-  * Your use of the TopResume website, including any dispute concerning privacy, is subject to this Privacy Policy and TopResume's [Terms and Conditions](https://web.archive.org/info/terms_of_service). . We reserve the right to change this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the Policy has been modified since you last reviewed it. Your continued use of any portion of the TopResume website following the posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+  * Your use of the TopResume website, including any dispute concerning privacy, is subject to this Privacy Policy and TopResume's [Terms and Conditions](https://web.archive.org/terms). . We reserve the right to change this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the Policy has been modified since you last reviewed it. Your continued use of any portion of the TopResume website following the posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
  
 
