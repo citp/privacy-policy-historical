@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053959id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413064818id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.*
 
 # Privacy Policy - Our Website - Room & Board
 
-Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at [www.roomandboard.com/privacy/](http://www.roomandboard.com/our_website/privacy.ftl). You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.
+Room & Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at [www.roomandboard.com/privacy/](http://www.roomandboard.com/our_website/privacy.ftl). You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy. 
 
 ### Basic Privacy Principles
 
@@ -42,7 +42,7 @@ Our Web site is not targeted to persons under the age of 13, and we will not kno
 
 Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type of web browser, and addresses of referring site, also known as traffic data, may be collected and used to diagnose problems with our server and administer our site. 
 
-We may have functionality on our Web site that is provided, in whole or in part, by a third party service provider. You can usually identify such third party functionality by the use of a trademark not owned by Room & Board on or near the functionality. In that case, when you use the functionality, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy policy. For example, we may use a third party to provide you with the opportunity to review our products or services. The reviews you submit may be publicly posted on our Web site.
+We may have functionality on our Web site that is provided, in whole or in part, by a third party service provider. You can usually identify such third party functionality by the use of a trademark not owned by Room & Board on or near the functionality. In that case, when you use the functionality, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy policy. For example, we may use a third party to provide you with the opportunity to review our products or services or to upload photographs to our Web site. The reviews and photos you submit may be publicly posted on our Web site or used for other purposes.
 
 We may also use a third party technology that allows you to chat with Room & Board representatives via our Web site ("Web Chat"). We currently use LivePerson, Inc. to provide the Web Chat capability. When you participate in a Web Chat, LivePerson, Inc. is collecting and storing your chat data. For information about LivePerson's privacy practices, please review LivePerson's Technology Privacy Policy (also known as LivePerson's Customer Website Privacy Policy) located on the [www.liveperson.com](http://www.liveperson.com/) website.
 
@@ -58,7 +58,7 @@ If you request to receive information from us, we will naturally presume that yo
 
 Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you.
 
-If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: <http://www.roomandboard.com/#unsubscribe>
+If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: [http://www.roomandboard.com /#unsubscribe](http://www.roomandboard.com/#unsubscribe)
 
 We love to send you our annual catalog but only if you want it. Because of that, we've joined Catalog Choice, an organization that lets consumers indicate which catalogs they no longer wish to receive. If you would prefer to not receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, please visit catalogchoice.org.
 
@@ -79,4 +79,4 @@ Minneapolis, Minnesota 55422
 phone: 763.588.7525  
 e-mail: [privacyofficer@roomandboard.com](mailto:privacyofficer@roomandboard.com)
 
-Last updated: June 4, 2015
+Last updated: November 6, 2015
