@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ritetag.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318133608id_/https%3A//ritetag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritetag.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413094328id_/https%3A//ritetag.com/privacy) for the most accurate reproduction.*
 
-# Ritetag
+# RiteTag
 
 RiteTag is the creator and publisher of the web pages available at RiteTag.com, RiteTag browser plugins/extensions and mobile applications, as well as the content within the HashTag Academy blog, all linked pages in the site, features, content, or applications (collectively, the "Site").
 
@@ -69,3 +69,15 @@ This data is primarily used to optimize our website for our visitors. It's impor
 Cookies are simple pieces of information that we store on your hard drive through your Web browser. These cookies do not collect personal information.
 
 Our Privacy Policy and [Terms of Service](http://ritetag.com/tos) are subject to change without notice.
+
+### Hashtag Audit
+
+Load/import tweet(s) for instant hashtag rating, optimization and re-scheduling.
+
+### Hashtag Optimizer
+
+Tweet from the site, mobile apps or browser extensions and measure & refine the effectiveness of your hashtags.
+
+### Hashtag Scanner
+
+Auto-monitor newly trending hashtags for your topic. Get actionable suggestions and put them to work for any project.
