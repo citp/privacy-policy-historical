@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221175102id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecteve.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413194531id_/http%3A//www.projecteve.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Project Eve
 
 **Privacy Policy for ProjectEve.com Effective Date: January  13, 2015**
 
