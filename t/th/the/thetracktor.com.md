@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetracktor.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318160002id_/https%3A//thetracktor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetracktor.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413152236id_/https%3A//thetracktor.com/privacy) for the most accurate reproduction.*
 
 # The Tracktor - Amazon Price Tracker
 
@@ -13,3 +13,5 @@ To specifically address concerns of our users, we ensure the following:
   * No personally identifiable information is collected on visitors to this site.
 
 
+
+The Tracktor collects anonymous data from the use of our product. This information may be used by third parties for targeted advertising purposes. We use "Google Analytics" to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, user demographic and interests, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
