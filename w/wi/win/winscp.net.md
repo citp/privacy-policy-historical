@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109125457id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winscp.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414015135id_/http%3A//winscp.net/eng/docs/privacy) for the most accurate reproduction.*
 
 # WinSCP Privacy Policy :: WinSCP
 
@@ -77,11 +77,17 @@ All registered users of our site may make any changes to their information at an
 
 By using our site or installing or using WinSCP, you consent to our Privacy policy. 
 
+## Warrant canary
+
+We have not placed any backdoors into our software and have not received any requests for doing so. Pay close attention to any modifications to the previous sentence. 
+
+Learn about [Warrant canary](https://en.wikipedia.org/wiki/Warrant_canary "https://en.wikipedia.org/wiki/Warrant_canary"). 
+
 ## Changes to our Privacy policy
 
 If we decide to change our Privacy policy, we will post those changes on this page, and update the Privacy policy modification date below. 
 
-This policy was last modified on **2012-07-19**. 
+This policy was last modified on **2015-11-15**. 
 
 — [WinSCP team](http://winscp.net/ "http://winscp.net/")
 
