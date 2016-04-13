@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quip.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915190136id_/https%3A//quip.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quip.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413125127id_/https%3A//quip.com/about/privacy) for the most accurate reproduction.*
 
-# Quip - Privacy Policy
-
-Last Updated: February 26, 2015
+# Quip
 
 Thank you for using Quip. This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive when you use Quip. This Privacy Policy only applies to Quip and doesn’t apply to anyone else’s websites, services, or applications, even if you can access those through Quip.
 
