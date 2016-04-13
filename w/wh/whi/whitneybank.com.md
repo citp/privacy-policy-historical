@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitneybank.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/privacy-policy.asp) for the most accurate reproduction.*
 
 # Whitney Bank: Privacy Policy
 
@@ -113,55 +113,112 @@ as “Hancock Bank” in Mississippi, Alabama and Florida), Hancock Investment S
 (including Whitney Insurance Agency, Inc., Whitney Insurance Agency of Texas, Inc., Hancock Insurance Agency of Alabama, Inc., and Hancock Insurance Agency of Florida, Inc.), Harrison Finance Company (including Harrison Loan Company).  
   
   
-At Whitney Bank, we take the issue of privacy very seriously. We want to assure visitors to our Web site the security, privacy and confidentiality that they expect from a premier financial services institution. You can be sure that our commitment to protect your financial information will continue under the principles and online guidelines described below. 
+At Whitney Bank, we take the issue of privacy very seriously. We understand that protecting the privacy and confidentiality of your personal and account information is of the utmost importance. You can be sure that our commitment to protect your financial information will continue under the principles and online guidelines described below.
 
-**Information Collected Generally**  
-Whitney Bank does not collect any personal information from anyone who is merely visiting or browsing its Web site. Personal information may be requested if the visitor chooses to respond to online surveys, sends Whitney Bank an e-mail message, applies for products and services online, or uses Whitney Bank's Online Banking Services. 
+This Online Privacy Notice (the "Notice") describes how information is collected by and through websites, mobile applications, and online interfaces that are owned, operated, or controlled by Whitney Bank (collectively, the "Sites"), including this Site, and how that information may be used and shared. The terms and disclosures in this Notice do not apply to non-consumer use of any Site and do not apply to any information describing, identifying, or relating to parties who or which are not natural persons who use a Site for consumer purposes ("Non-Consumer Users"). We may collect by or through our Sites, and use, disclose, and share, information describing, identifying, or relating to Non-Consumer Users for any purpose, subject to the requirements and restrictions of applicable law.
 
-**E-mail and Product Inquiry**  
-Through use of a "Contact Us" feedback form, Whitney Bank invites visitors on its Web sites to send e-mail messages to Whitney Bank so that Whitney Bank may respond to inquiries regarding Whitney Bank or its products or services. Whitney Bank retains copies of these e-mail messages. The information provided by a visitor will only be used to respond to the visitor's inquiry and to provide better customer service. If Whitney Bank thinks that a particular Whitney Bank account or service might apply to you or serve your needs, then Whitney Bank may occasionally contact you at your e-mail address to inform you of the potential benefits and availability of such accounts or services. Unless otherwise stated, all e-mail inquiries initiated from Whitney Bank's web site by the user are assumed to be non-secured and therefore may be transmitted in the "open" over the Internet. 
+For purposes of this Notice, the terms "Whitney Bank," "we," "us," and "our" refer to affiliates or subsidiaries of Whitney Bank linking to this Notice. The terms "you," "your," and "yours" refer to any natural person who accesses or uses a Site for personal, family, or household purposes. By using or accessing any Site, you confirm your agreement to the terms of this Notice as may be in effect at that time.
 
-**Applications for Products and Services**  
-Through its Web site, Whitney Bank offers opportunities to apply for various products and services online, such as PC banking and brokerage services. Visitors who choose to apply for such products and services provide personal information Whitney Bank needs to process the application. To protect the confidentiality of the information submitted, Whitney Bank uses secure socket layer (SSL) technology. SSL technology establishes a "secure" Internet session and encodes the data submitted to the Whitney Bank Web site, ensuring that the information is accessible only to an authorized Whitney Bank representative and the customer. To support SSL, we recommend that you update your preferred browser to its most current version. A customer can tell whether a document comes from a secure server by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. After you have submitted an application online, Whitney Bank recommends that you end your browser session before leaving your computer. 
+Whitney Bank provides other online interfaces not covered by this Notice. If you visit or access your accounts from one of these sites, please review the online privacy practices of that site to understand how your online information may be collected, used and shared.
 
-** Protecting Your Bank Online  
-**When you bank online with Whitney Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We use state-of-the-art Internet technology, supported by the third-party service providers that we work with, to make Online Banking secure and to protect your personal information. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an Online Banking service for you. You can also help maintain the security of your banking information by not sharing your ID or password with anyone, by changing your password regularly, and by remembering to sign off. 
+The terms and conditions of this Notice control, and by using this Site, you agree to the terms and conditions of this Notice.
 
-** Planning Tools and Personal Data  
-**There are many planning tools and educational topics throughout this Site to help you make the financial decisions that are right for you in the privacy of your home. We encourage you to try all of our "what-if" scenarios as often as you like. When you use various planning tools on our Site, the calculations run on your computer or our server. The information you enter is retained to assist you on return visits to our site as it relates to the use of the tools and topics. The information is also used to present specific product/service information related to those tools or topics when visiting our website. You will not be solicited by telephone or e-mail unless you specifically request to have a representative contact you.
+### Categories of Information We Collect through Our Sites – Personally Identifiable Information and Anonymous Information
 
-**Applications for Employment**  
-Whitney Bank offers visitors to its Web site the opportunity to inquire about employment opportunities posted on the Web site. When enabled, applicants may also submit online resumes on the Web site. The information submitted is used solely to evaluate prospective candidates and to communicate regarding an open position. 
+We may collect and use both Personally Identifiable Information and Anonymous Information by and through our Sites. For purposes of this Notice, "Personally Identifiable Information" means any information or combination of information that we collect or use by or through a Site that identifies you personally, and "Anonymous Information" means information that we collect or use by or through a Site that does not identify you personally or contain personal identifiers about you. Personally Identifiable Information may include, for example, your name, your home address, your email address, your telephone number, your social security number, your account number, or transaction information. Anonymous Information may include, for example, information about your device or internet browser, information obtained from cookies that have been placed on your device or internet browser at our Site or at other websites you have visited, demographic information, aggregated information, blind information about how you use our products and services and about the transactions you perform using our products and services, and other information obtained through your access to or use of a Site that does not identify you personally. We may supplement tbhe information we collect from you with information we receive about you from other sources.
 
-**Transactional Services**  
-Within its website, Whitney Bank collects personal information necessary to complete transactions or provide data requested by the visitor (for example, account balances and check clearance dates). To protect the confidentiality of the information submitted, Whitney Bank requires that visitors have a browser that supports 128-bit "strong" encryption. We recommend that you update your preferred browser to its most current version. 
+### How We Use Personal Information
 
-**Use of Cookies**  
-A cookie is a small piece of information about an Internet session that may be created when a visitor accesses a Web site. Presently, Whitney Bank's Web site uses cookies to facilitate easier navigation within the site and provide a higher level of convenience for the visitor. The cookies used by Whitney Bank... 
+We may use Personal Information:
 
-  * Are not written to the visitor's hard drive* 
-  * Exist only until the browser is shut down* 
-  * Do not contain any personal information regarding the visitor 
-  * Do not retrieve any information from the visitor's personal computer
+  * to respond to your inquiries and fulfill your requests;
+  * to inform you about important information regarding the Site, products or services for which you apply or may be interested in applying for, or in which you are already enrolled, changes to terms, conditions, and policies and/or other administrative information;
+  * to deliver marketing communications that we believe may be of interest to you, including, ads or offers tailored to you;
+  * to personalize your experience on the Site;
+  * to allow you to apply for products or services (e.g., to prequalify for a mortgage, apply for a credit card, or to open a retirement account, investment account or other financial product) and evaluate your eligibility for such products or services;
+  * to verify your identity and/or location (or the identity or location of your representative or agent) in order to allow access to your accounts, conduct online transactions and to maintain measures aimed at preventing fraud and protecting the security of account and Personal Information;
+  * to allow you to participate in surveys and other forms of market research, sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which may contain additional information about how Personal Information is used and shared;
+  * to allow you to use some Site financial planning tools. Information that you enter into one of these planning tools may be stored for future access and use. You have the option not to save the information;
+  * collected through our social media pages and other online interactions with you to assist in verifying your identity and account status. We may combine this online information with information collected from offline sources or information we already have;
+  * for business purposes, including data analysis, audits, developing and improving products and services, enhancing the Site, identifying usage trends and determining the effectiveness of promotional campaigns;
+  * for risk control, for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
+  * to allow you to utilize features within our Sites by granting us access to information from your device such as contact lists, or geo-location when you request certain services.
 
 
 
-* **Except for Online Banking.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/personal/eBanking/e-banking-faq.asp) for more information regarding the use of Cookies with Online Banking. 
+### How Personal Information is Shared
 
-**Use of Information Collected**  
-Whitney Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Whitney Bank products. The information collected also is used to provide a record of communications between Whitney Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
+Please see the Hancock Holding Company: Privacy Policy above for information on how Personal Information may be shared and how you may be able to limit certain types of sharing.
 
-**Access to Information Collected By Whitney Bank Employees**  
-Certain Whitney Bank employees will be provided with a visitor's information in order to respond to that visitor's needs and provide the visitor with information regarding specific products in which the visitor may have an interest. Whitney Bank employees are instructed to use strict standards of care in handling the personal, confidential information of Whitney Bank customers, and the handling of such information is dealt within Whitney Bank's Code of Conduct. Whitney Bank employees who do not conform to Whitney Bank's confidentiality rules are subject to disciplinary sanctions that include dismissal. 
+### How We Collect, Use, and Share Anonymous Information
 
-**Keeping Information Accurate**  
-Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible. 
+We may collect Anonymous Information:
 
-**Children’s Online Privacy**  
+  * Through or from your device or browser or cookies that have been placed on your browser. Certain information is collected by most browsers, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system version and Internet browser type and version. We use this information to ensure that the Site functions properly and to maintain security.
+  * Using pixel tags and similar technologies. Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Site pages and HTML-formatted email messages in order to, among other functions, track the actions of users and email recipients, measure the success of our marketing campaigns and compile statistics about Site use and response rates.
+  * Using your IP address. Your IP address is a number that is automatically assigned by your Internet Service Provider to the computer or device that you are using. An IP address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the pages that were visited. We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, and administering the Site.
+  * From you. Information, such as your preferred means of communication, is collected when you voluntarily provide it. Unless combined with Personally Identifiable Information, this information does not identify you personally.
+  * Using geolocation and other location information transmitted by your device, if you have enabled location services on the device.
+  * By aggregating information. When we aggregate Personally Identifiable Information about numerous users of our Site, the information does not personally identify you or any other user of the Site (for example, we may aggregate Personally Identifiable Information to calculate the percentage of our users who have a particular telephone area code).
+
+
+
+We may use, disclose, and share Anonymous Information as described in this Notice and/or for any other purpose, subject to the requirements and restrictions of applicable law. If we combine Anonymous Information with Personally Identifiable Information (such as combining your name with your geographical location), we will treat that Anonymous Information as Personally Identifiable Information as long as it is combined with Personally Identifiable Information.
+
+### Cookies
+
+We use "cookies" to provide you with a better online experience. A cookie is a small text file that can be placed on your system when you visit a website. Cookies allow us to collect both Personally Identifiable Information and Anonymous Information, such as browser type, time spent on a website, pages visited, language preferences, and information about your relationships with us. Cookies allow us to facilitate image changes, collect anonymous aggregate website traffic, provide certain discount, promotional and reward programs to you, and personalize our services to your needs. Our Site does not require users to accept cookies, and you can set your browser to notify you when you receive a cookie, giving you the opportunity to decide whether or not to accept it. If you choose not to accept cookies, you may experience some reduction in graphics and other personalized services. You also may need to accept cookies in order to maintain certain online advertising opt-out elections (see "How We Use Your Information for Advertising" and "Opting Out of Behavioral Advertising" sections below).
+
+### How We Use Your Information for Advertising
+
+We may use Personally Identifiable Information or Anonymous Information in connection with our online advertising activity. Online advertisements may be in the form of banner ads, splash ads, or other formats. These advertisements may appear at our Site, and we may contract with third party advertising companies to promote our products and services and serve related advertisements on websites and mobile applications that are owned or operated by parties not affiliated with us.
+
+In order to better understand which of our products and services may be of interest to you and to tell you about those products and services, we may from time to time collect information about your online activities over time and across third party websites and online services. We also may engage third party service providers to collect information about your online activities over time and across third party websites and online services when you use our Site. Serving advertisements based on a person’s online activities over time and across third party websites and online services is generally known as "online behavioral advertising," (hereinafter "OBA"). Here are some tips and other important information regarding online behavioral advertising:
+
+  * If you are given an opportunity to opt out from OBA and you make an opt-out election, then in order to maintain the opt-out election at our Site and at other websites that might serve behavioral advertisements on our behalf, your browser must be enabled accept cookies. If you delete cookies, buy a new device, access our Site or other websites from a different device, login under a different screen name, or change web browsers, you will need to opt out again.
+  * You also may be able to avoid OBA by disabling scripting in your browser. Please check the security settings in your browser to determine the status of scripting settings.
+  * Some browsers may provide a "do not track" or similar setting. Our Site does not respond to such settings. If you enable such a setting, it will not prevent the collection of information about your online activities over time and across third party websites when you visit our Site.
+  * You should be aware that even if you exercise a choice not to receive targeted advertisements in connection with OBA, your election does not necessarily stop the collection of information about your online activities over time and across third party websites and online services for purposes other than OBA.
+  * You may still receive generic advertising (i.e., advertising that is not based on your online activities over time and across third party websites and online services) even if you opt out of OBA, and opting out of OBA may not result in the termination of advertising and promotions provided in connection with rewards programs we may offer.
+
+
+
+We may share Anonymous Information with third party advertising companies with which we have contracted in order to support other targeted advertising, promotional programs that we offer.
+
+### Opting Out of Online Behavioral Advertising ("OBA")
+
+Certain Whitney Bank ads on third-party websites feature an Advertising Options Icon, that when clicked, (i) describes the collection and uses of data gathered at the relevant third-party website and (ii) provides a way for you to opt out of data collection and use by the third parties listed for the purposes of OBA. If you choose to opt out, you may opt out by visiting [www.aboutads.info/choices](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/bump-page-about-ads.asp) or by clicking on the AdChoices icon in an advertisement and following the instructions. You may also opt out of receiving behavioral ads from many sites through the Network Advertising Initiative's (NAI) [Opt-Out Tool](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/bump-page-nai.asp) or other tools provided by the publishing platform. Bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and devices that have browsers and you do not wish to have cookies collect information for OBA purposes, you will need to opt out of OBA from each browser on each of the computers and devices that you use. Please note that even if you opt out of OBA, you may still receive advertisements from us; they just won’t be customized based on your web-browsing activities on third-party websites.
+
+### Protecting Your Bank Online
+
+When you bank online with Whitney Bank, we, along with our third-party service providers who bring these services to you, have access to your information. Information is retained on our system or the system of the appropriate third-party service provider, depending upon what is required to serve your needs. We will protect your information by using those security standards which, at a minimum, meet those required of us by applicable federal and state law. We also require an I.D. and password to access your accounts. If you do not provide this information, we cannot establish an Online Banking service for you. You can also help maintain the security of your banking information by not sharing your I.D. or password with anyone, by changing your password regularly, and by remembering to sign off.
+
+### Social Media
+
+We may from time to time use social media websites and applications (e.g., Facebook®, Twitter®, YouTube® and LinkedIn®) to interact with you and to communicate information about us and about our products and services. We may collect information from our interactions with you at such social media websites and applications, and we may use the information for the purposes and uses described in this Notice. If we disclose any terms of use at specific social media pages that we manage, you also will be subject to those terms when you interact with those pages. The owners and operators of social media websites and applications may impose their own terms of use and privacy policies with respect to the use of their websites and applications. This Notice does not govern the use, handling, and treatment of content you may post at social media websites and applications by the owners and operators of those websites and applications. You should review the terms of use and privacy policies of any social media website or application that you use to make sure you understand your rights and obligations with regard to content that you post.
+
+### Medical Information
+
+When you use our Site to apply for or to obtain or use our products and services, we will not ask you to provide any Personally Identifiable Information that is personal health or medical information except as allowed or required by applicable law and as necessary to consider your application for or to provide such products and services. To the extent you provide any Personally Identifiable Information that is medical or personal health information, we will not use or disclose such information except as allowed or required by applicable law, and we will protect such information as required by applicable law.
+
+### Security
+
+To protect Personally Identifiable Information, we apply administrative, technical, and physical security measures. These measures include computer safeguards and secured files and buildings. In the event we share information with third party service providers or joint marketers, we restrict the ability of such parties to use or disclose the information we furnish. We also require such parties to apply appropriate security measures to protect information. Unfortunately, no data transmission or storage system can be guaranteed to be absolutely secure, and we disclaim any representation or warranty that our information security systems or those of our service providers and joint marketers are absolutely invulnerable to breach or compromise.
+
+### Links to Other Websites
+
+The information and disclosures contained in this Notice apply only to our Sites. If you link to a third party website from our Site, the third party website will not be governed by this Notice. We recommend that you review the internet or online privacy notice for any third party website you visit, including any social media website or application.
+
+### Keeping Information Accurate
+
+Keeping your account information accurate and up-to-date is very important. If you ever find that our records are incomplete, inaccurate or not current, please call the telephone number on your account statement or email [customer service](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/home-contact.asp). We will correct the information as quickly as possible.
+
+### Children’s Online Privacy Policy
+
 Whitney Bank does not collect information on our web sites from persons we actually know are under 13 years old, and no part of our web site is targeted toward any person under 13 years old. Parents can limit web site access by their children by installing programs that enable parental control of Internet access.
 
-Children under the age of 13 are protected from the online collection of personal information by the Children's Online Privacy Protection Act (COPPA).  To learn more about COPPA visit the Federal Trade Commission's web site (www.ftc.gov).  
+Children under the age of 13 are protected from the online collection of personal information by the Children's Online Privacy Protection Act (COPPA). To learn more about COPPA visit the Federal Trade Commission's web site ([www.ftc.gov](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/bump-page-ftc.asp)).
 
+### Visitors
 
-**Visitors**  
-Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20151218222039id_/https%3A//whitneybank.com/home/home-e-mail.asp) Whitney Bank.
+Visitors having specific questions regarding any information may [e-mail](https://web.archive.org/web/20160413161514id_/https%3A//www.whitneybank.com/home/home-e-mail.asp) Whitney Bank.
