@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224113257id_/http%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414003243id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
@@ -97,7 +97,7 @@ We are committed to providing you with meaningful choices about the information 
 
 #### Information access and account deletion:
 
-If you wish to cancel your account or request that we no longer use your information, contact us at the following number: 1-800-351-3140
+If you wish to cancel your account or request that we no longer use your information, contact us at the following number: 1-866-773-0221
 
 #### Users from outside the United States:
 
