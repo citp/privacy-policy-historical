@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomockingbird.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924225819id_/https%3A//gomockingbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomockingbird.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413131615id_/https%3A//gomockingbird.com/privacy) for the most accurate reproduction.*
 
-# Terms | Mockingbird
+# Privacy | Mockingbird
 
 Some Character LLC. (“Some Character”) operates GoMockingbird.com ("Mockingbird"). It is Some Character’s policy to respect your privacy regarding any information we may collect while operating Mockingbird.
 
