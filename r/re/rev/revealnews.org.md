@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926133838id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413232939id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reveal
 
 **The Center for Investigative Reporting  
 ****Privacy Policy  
-****Last Updated:  9/24/2015**
+****Last Updated: 11/23/2015**
 
 Protecting your privacy is really important to us. With this in mind, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive through our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings as in our Terms of Service. So, please make sure that you have read and understand our Terms of Service.
 
@@ -25,6 +25,8 @@ Information Collected Using Cookies and other Web Technologies. Like many websit
 Information Related to Use of the Services. Our servers automatically record certain information about how a person uses our Services (we refer to this information as “ **Log Data** ”). Log Data may include information such as a user’s Internet Protocol (IP) address, browser type, operating system, the web page that a user was visiting before accessing our Services, the pages or features of our Services to which a user browsed and the time spent on those pages or features, search terms, the links on our Services that a user clicked on and other statistics. We use Log Data to administer the Services and we analyze (and may engage third parties to analyze) Log Data to improve, customize and enhance our Services by expanding their features and functionality and tailoring them to our users’ needs and preferences. 
 
 Information Sent by Your Device. We collect certain information that your device (including mobile, ipad, computer, etc.) sends when you use our Services, like a device identifier, user settings and the operating system of your device, as well as information about your use of our Services.
+
+If you are a Donor, we will collect certain PII and Financial Information when you make a donation (collectively, “Donor Information”). Please note that we will not sell or share your Donor Information with any third parties without your express permission or consent, unless we are required by law to do so.
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services, and to enable you to enjoy and easily navigate our Services. We will use your PII to:
 
