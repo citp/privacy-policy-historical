@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcecoast.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911030909id_/https%3A//www.sourcecoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecoast.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413164433id_/https%3A//www.sourcecoast.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SourceCoast
 
