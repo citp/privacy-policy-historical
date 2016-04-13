@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907122942id_/https%3A//www.govt.nz/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413222040id_/https%3A//www.govt.nz/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | NZ Government
 
@@ -73,7 +73,7 @@ The Privacy Officer
 Department of Internal Affairs  
 PO Box 805  
 Wellington 6140  
-Phone:[04 495 7200](tel:044957200)  
+Phone: 64 4 495 7200[](tel:044957200)  
 Email: [privacy@dia.govt.nz](mailto:privacy@dia.govt.nz)
 
 ## Privacy Commissioner 
@@ -84,7 +84,7 @@ Office of the Privacy Commissioner
 PO Box 10-094  
 Wellington, New Zealand  
 Phone: [04 474 7590](tel:044747590)  
-Enquiries Line (from Auckland):[302 8655](tel:093028655)  
+Enquiries Line (from Auckland): [302 8655](tel:093028655)  
 Enquiries Line (from outside Auckland): [0800 803 909](tel:0800803909)  
 Fax: 04 474 7595  
 Email: [enquiries@privacy.org.nz](mailto:enquiries@privacy.org.nz)
