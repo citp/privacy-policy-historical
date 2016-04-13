@@ -1,121 +1,61 @@
-> *The following text is extracted and transformed from the crossover.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630144358id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossover.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413035025id_/https%3A//www.crossover.com/privacy-policy) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy policy – Crossover - The World's Best Talent 100% Remote
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+**Privacy Statement**
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+CROSSOVER respects your privacy. This Privacy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our Website, you agree to this Privacy Statement. This is our complete and exclusive Privacy Statement and it supersedes any earlier version.
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+ **What this Privacy Statement Covers**
 
-**What This Privacy Policy Covers**  
+This Privacy Statement covers how our company treats personal information, if any, collected and received through our website. Personal information is information that can be used to identify a person that is not in the public domain. Examples include your name, address, e-mail address, and other information not publicly available.
 
+This Privacy Statement does not govern the practices of entities that our company does not own or control, or entities that do not own or control our company or people that our company does not employ or manage.
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
+Because of the nature of our business, our website is not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from children.
 
-**Information Collection and Use**
+ **Our Collection and Use of Personal Information**
 
-      **General**  
+The information we collect may include your personal information, such as your name, contact information, IP addresses, product and service selections and other things that identify you individually. We may automatically receive and record information on our server logs from your browser, including your IP address and cookies. We may use your IP address to help diagnose problems with our server and to administer our website. When you visit our website, our server logs your IP address and may collect information such as the time and duration of your visit, and the time and duration of the pages on our website you view. We may track link information to see how you arrived to our website. Your IP address may be used to gather broad demographic information.
 
+Our company may use information that we collect about you to: (i) deliver the products and services that you have requested; (ii) manage your customer relationship and provide you with customer support; (iii) perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; (iv) communicate with you by e-mail, postal mail, telephone and/or mobile devices aboutproducts or services that may be of interest to you either from us, or other third parties; (v) develop and display content and advertising tailored to your interests on our site and other websites; (vi) verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes; (vii) enforce our terms and conditions; (viii) manage our business; note that your information may be provided to our agents, vendors or service providers who perform functions on our behalf; (ix) perform functions as otherwise described to you at the time of collection; and (x) sell or transfer personal information to third parties for any legally permissible purpose in our sole discretion.
 
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+ **Disclosing Information to Third Parties**
 
-      **Children**  
+We may disclose the personal information that we collect from you in accordance with the terms of this section. We do not reveal personal information about you to third-parties unless: (i) you request or authorize; (ii) in connection with a company-sponsored event or conference; (iii) the information is provided to comply with the law, enforce an agreement we have with you, or to protect our rights or the rights of others; (iv) the information is provided to our agents, vendors or service providers who perform functions on our behalf; (iv) to address emergencies or acts of God; or (v) is otherwise legally permissible to do so. We may also gather aggregated data about our customers and website visitors and disclose the results of such aggregated information to our affiliates, service providers, advertisers and/or other third parties for marketing or promotional purposes.
 
+ **Our Security Measures to Protect Information**
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
+Our company uses industry-standard technologies when transferring and receiving data exchanged between our company and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet. If this website contains links to other sites, our company is not responsible for the security practices or the content of such sites.
 
-**Information Sharing and Disclosure**  
+ **Cookies, Web Beacons, and Links**
 
+Our company websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Statement does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.
 
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+Cookies. Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
 
-**Cookies**  
+Web Beacons. Our company and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our company’s cookie requirements.
 
+Links. We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by our company may have links leading to our site. Our company cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
+ **Personal Information Retention**
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+We will retain any personal information only for as long as is necessary to fulfil the business purpose it was collected. We will also retain and use your personal information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
-      **General**  
+ **International Transfers of Personal Information**
 
+Information collected from you may be stored and processed in the United States or any other country in which our company or its affiliates, subsidiaries, agents or contractors maintain facilities, and by accessing our sites, you consent to any such transfer of information outside of your country.
 
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+ **Your Access to and Updating of Personal Information**
 
-      **Children**  
+Reasonable access to your personal information may be provided at no cost upon request made to our company at the contact information provided below. If access cannot be provided within that time frame, our company will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
 
+ **Changes to Our Privacy Statement**
 
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
+Our company may amend this Privacy Statement at any time by posting a new version. It is your responsibility to review this Privacy Statement periodically as your continued use of this website represents your agreement with the then-current Privacy Statement.
 
-**Confidentiality and Security**  
+ **Contacting Us**
 
+If you have any questions about this Privacy Statement, the practices or concerns of this site, please contact our Privacy Officer at: (hr@crossover.com).
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
-
-
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
-
-
-
-
+ __Updated: December 16, 2014_
