@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the national-lottery.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317234828id_/https%3A//www.national-lottery.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the national-lottery.com privacy policy that was archived on 2016-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160413131340id_/https%3A//www.national-lottery.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -8,7 +8,7 @@
 		<meta name="description" content="The Privacy Policy outlined here explains how we ensure that any information provided to us is used and protected in an ethical and secure manner.">
 		<meta name="keywords" content="privacy, national lottery">
 		<meta name="author" content="National-Lottery.com, Lottery Company Ltd">
-		<meta name="copyright" content="Copyright © 2015 National-Lottery.com, Lottery Company Ltd">
+		<meta name="copyright" content="Copyright © 2016 National-Lottery.com, Lottery Company Ltd">
 	
 		
 			<meta property="fb:admins" content="100002430726345">
@@ -41,9 +41,17 @@
 			</style>
 			<script type="text/javascript" src="/includes/html5.js"></script>
 		<![endif]-->
+	
+        
 		
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/includes/jquery.js"></script>
-		
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript">
+			// Multiple window onload function
+			function addLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){if(t){t()}e()}}}
+			//Facebook Logged In Check
+			window.fbAsyncInit=function(){FB.init({appId:"507908086042358",status:!0,cookie:!0,xfbml:!0,version:"v2.5"}),FB.getLoginStatus(function(e){if(e||!e.status)if("connected"===e.status||"not_authorized"===e.status)document.getElementById("footerFB")&&document.getElementById("footerFB").href("https://www.facebook.com/National.Lottery.News");else if(document.getElementById("footerFB")){var t=document.getElementById("footerFB"),o=document.getElementById("closeFB"),n=function(e){e.preventDefault(),e.stopPropagation();var t=document.getElementById("nationallottery");t.className="FBPopup showModal"},c=function(e){e.preventDefault(),e.stopPropagation();var t=document.getElementById("nationallottery");t.className="FBPopup hideModal"};t.addEventListener("click",n),o.addEventListener("click",c)}})},function(e,t,o){var n,c=e.getElementsByTagName(t)[0];e.getElementById(o)||(n=e.createElement(t),n.id=o,n.src="//connect.facebook.net/en_US/sdk.js",c.parentNode.insertBefore(n,c))}(document,"script","facebook-jssdk");
+		</script>
+       
 		
 			<script>
 				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -58,16 +66,14 @@
 			</script>
 		
 		
-		<script type="text/javascript">
-			// Multiple window onload function
-			function addLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){if(t){t()}e()}}}
-		</script>
-		
 	</head>
 
 	<body> 
 
 		<header>
+        
+         
+       
 			<div class="inner">
 			
 				<a href="/" id="logo"><img src="/images/layout/logo-header.png" alt="National Lottery"></a>
@@ -104,10 +110,10 @@
 					
 						<nav id="nav">
 							<ul>
-								<li class="results"><a href="/results" title="Latest national lottery results">Lottery Results</a></li>
-								<li class="checker"><a href="/lottery-checkers" title="Check your national lottery numbers">Checker</a></li>
+								<li class="results"><a href="/results" title="Latest National Lottery results">Lottery Results</a></li>
+								<li class="checker"><a href="/lottery-checkers" title="Check your National Lottery numbers">Checker</a></li>
 								<li class="casino"><a href="https://games.national-lottery.com/" title="Play games with National Lottery Casino">Lottery Games</a></li>
-								<li class="tickets"><a href="/lottery-ticket" title="Buy lottery tickets online">Buy Tickets</a></li>
+								<li class="tickets"><a href="/lottery-ticket" title="Play online">Lottery Tickets</a></li>
 							</ul>
 						</nav>
 						
@@ -118,9 +124,11 @@
 			</div>
 		</header>
 		
+        
+        
 		<div id="main">
 			
-			<div id="countryAlert" style="opacity: 0; display: block;">
+			<div id="countryAlert">
 			
 				<div id="inside">
 			
@@ -171,46 +179,58 @@
 							<li class="results subby">
 								<a href="/results" title="Latest National Lottery results">Lottery Results</a>
 								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
-									<li><a href="/lotto/results" title="View the latest Lotto results">Lotto Results</a></li>
-									<li><a href="/lotto/lotto-raffle-results" title="View the latest Lotto Raffle results">Lotto Raffle Results</a></li>
-									<li><a href="/euromillions/results" title="See the latest EuroMillions results">EuroMillions Results</a></li>
-									<li><a href="/euromillions/millionaire-maker-results" title="See the latest EuroMillions Millionaire Maker results">Millionaire Maker Results</a></li>
-									<li><a href="/thunderball/results" title="View the latest Thunderball results">Thunderball Results</a></li>
-									<li><a href="/health-lottery/results" title="Latest Health Lottery results">Health Lottery Results</a></li>
+									<li><a href="/lotto/results" title="Lotto Results">Lotto Results</a></li>
+									<li><a href="/lotto/raffle-results" title="Lotto Raffle Results">Lotto Raffle Results</a></li>
+									<li><a href="/euromillions/results" title="EuroMillions Results">EuroMillions Results</a></li>
+									<li><a href="/euromillions/millionaire-maker-results" title="EuroMillions UK Millionaire Maker Results">Millionaire Maker Results</a></li>
+									<li><a href="/thunderball/results" title="Thunderball Results">Thunderball Results</a></li>
+                                    <li><a href="/lotto/hotpicks/results" title="Lotto HotPicks Results">Lotto HotPicks Results</a></li>
+                                    <li><a href="/health-lottery/results" title="Health Lottery Results">Health Lottery Results</a></li>
 									<li><a href="/other-lottery-games" title="Get results from other lottery games">Other Lottery Games</a></li>
 								</ul>
 							</li>
-							<li class="tickets"><a href="/lottery-ticket" title="Buy national lottery tickets online">Lottery Tickets</a></li>
+							<li class="tickets"><a href="/lottery-ticket" title="Buy National Lottery tickets online">Lottery Tickets</a></li>
 							<li class="checker subby">
-								<a href="/lottery-checkers" title="Check your national lottery numbers">Lottery Checker</a>
+								<a href="/lottery-checkers" title="Check your National Lottery numbers">Lottery Checker</a>
 								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
 									<li><a href="/lotto/checker" title="Check your Lotto numbers">Lotto Checker</a></li>
 									<li><a href="/euromillions/checker" title="Check your EuroMillions numbers">EuroMillions Checker</a></li>
-									<li><a href="/thunderball/checker" title="Thunderball results checker">Thunderball Checker</a></li>
-									<li><a href="/health-lottery/checker" title="Health Lottery results checker">Health Lottery Checker</a></li>
+									<li><a href="/thunderball/checker" title="Check your Thunderball numbers">Thunderball Checker</a></li>
+									<li><a href="/health-lottery/checker" title="Check your Health Lottery numbers">Health Lottery Checker</a></li>
 								</ul>
 							</li>
 							<li class="generator subby">
-								<a href="/number-generators" title="Generate random 'lucky dip' numbers">Number Generator</a>
+								<a href="/number-generators" title="Generate random 'Lucky Dip' numbers">Number Generator</a>
 								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
 									<li><a href="/lotto/generator" title="Generate random Lotto numbers">Lotto Generator</a></li>
-									<li><a href="/euromillions/generator" title="Generate lucky dip EuroMillions numbers">EuroMillions Generator</a></li>
-									<li><a href="/thunderball/generator" title="Thunderball random number generator">Thunderball Generator</a></li>
-									<li><a href="/health-lottery/generator" title="Health Lottery number generator">Health Lottery Generator</a></li>
+									<li><a href="/euromillions/generator" title="Generate random EuroMillions numbers">EuroMillions Generator</a></li>
+									<li><a href="/thunderball/generator" title="Generate random Thunderball numbers">Thunderball Generator</a></li>
+									<li><a href="/health-lottery/generator" title="Generate random Health Lottery numbers">Health Lottery Generator</a></li>
 								</ul>
 							</li>
 							<li class="statistics subby">
-								<a href="/statistics" title="National lottery statistics and analysis of results">Lottery Statistics</a>
+								<a href="/statistics" title="Lottery Statistics">Lottery Statistics</a>
 								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
-									<li><a href="/lotto/statistics" title="View Lotto statistics">Lotto Statistics</a></li>
-									<li><a href="/euromillions/statistics" title="EuroMillions statistics and results analysis">EuroMillions Statistics</a></li>
-									<li><a href="/thunderball/statistics" title="Thunderball statistics and analysis">Thunderball Statistics</a></li>
-									<li><a href="/health-lottery/statistics" title="Comprehensive statistics on all Health Lottery draws">Health Lottery Statistics</a></li>
+									<li><a href="/lotto/statistics" title="Lotto Statistics">Lotto Statistics</a></li>
+									<li><a href="/euromillions/statistics" title="EuroMillions Statistics">EuroMillions Statistics</a></li>
+									<li><a href="/thunderball/statistics" title="Thunderball Statistics">Thunderball Statistics</a></li>
+									<li><a href="/health-lottery/statistics" title="Health Lottery Statistics">Health Lottery Statistics</a></li>
+								</ul>
+							</li>
+							<li class="syndicates subby">
+								<a href="/syndicate" title="Play National Lottery Games as a Syndicate">Lottery Syndicates</a>
+								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')">
+									<li><a href="/syndicate/guide" title="Syndicate Guide">What is a Syndicate?</a></li>
+									<li><a href="/syndicate/types" title="Types of Lottery Syndicate">Types of Syndicate</a></li>
+									<li><a href="/syndicate/join" title="Join a Syndicate">Join a Syndicate</a></li>
+									<li><a href="/syndicate/create" title="Create your own Lottery Syndicate">Create a Syndicate</a></li>
+									<li><a href="/syndicate/faqs" title="Lottery Syndicates: Frequently Asked Questions">Syndicate FAQ's</a></li>
+									<li><a href="/syndicate/winners" title="Syndicate Winners">Syndicate Winners</a></li>
 								</ul>
 							</li>
 							<li class="apps"><a href="/lottery-apps" title="National Lottery apps">Lottery Apps</a></li>
 							<li class="information subby">
-								<a href="/information" title="Learn about the national lottery">Information</a>
+								<a href="/information" title="Learn about the National Lottery">Information</a>
 								<ul class="sub-menu blueIn" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')" style="border-bottom-left-radius: 6px !important;">
 									<li><a href="/prizes" title="Lottery prize information">Prizes</a></li>
 									<li><a href="/good-causes" title="Good causes that benefit from lottery funding">Good Causes</a></li>
@@ -227,10 +247,11 @@
 								<a href="/lotteries" title="Information on all National Lottery games">The Lotteries</a>
 								<ul class="sub-menu blueIn last" onmouseover="hover(this,'on')" onmouseout="hover(this,'off')" style="border-bottom-left-radius: 6px !important;">
 									<li><a href="/lotto" title="More information about the Lotto game">Lotto</a></li>
-									<li><a href="/lotto-raffle" title="More information about the Lotto Raffle">Lotto Raffle</a></li>
+									<li><a href="/lotto/raffle" title="More information about the Lotto Raffle">Lotto Raffle</a></li>
 									<li><a href="/euromillions" title="Information about the EuroMillions lottery">EuroMillions</a></li>
 									<li><a href="/euromillions/millionaire-maker" title="Information about the EuroMillions Millionaire Maker">Millionaire Maker</a></li>
 									<li><a href="/thunderball" title="Thunderball information">Thunderball</a></li>
+									<li><a href="/lotto/hotpicks" title="Lotto HotPicks">Lotto HotPicks</a></li>
 									<li><a href="/health-lottery" title="Health Lottery information">Health Lottery</a></li>
 									<li><a href="/other-lottery-games" title="Information and results for other world lottery games" style="border-bottom-left-radius: 6px !important;">Other Lottery Games</a></li>
 								</ul>
@@ -265,6 +286,18 @@
 						-->	
 						</script>
 						
+					
+					<!--	
+						<a href="/competitions" title="Enter the January Blues Giveaway">
+							<img src="/images/banner/january-blues.png" alt="Enter the January Blues Giveaway to win fantastic prizes throughout the month." style="border: none; display: block; margin: auto;" class="curvy" />
+						</a>
+					-->
+					
+					
+						<br>
+						<a href="https://games.national-lottery.com" title="Play Games at National-Lottery.com Casino" target="_blank">
+							<img src="/images/banner/games.png" alt="Play 250+ great games and get up to Â£200 Welcome Bonus at National-Lottery.com Casino" style="border: none; display: block; margin: auto;" class="curvy">
+						</a>
 					
 				
 				</nav>
@@ -316,42 +349,49 @@
 				
 				<ul class="footerCol">
 					<li class="title">Information</li>
-					<li><a href="/lotteries" title="How to play the National Lottery and Health Lottery games">How to Play</a></li>
-					<li><a href="/prizes" title="Read more about National Lottery Prize Distribution">Prizes</a></li>
-					<li><a href="/euromillions-superdraw" title="Information about special EuroMillions superdraws">Superdraws</a></li>
+					<li><a href="/euromillions/superdraw" title="Information about special EuroMillions superdraws">Superdraws</a></li>
 					<li><a href="/lottery-jackpot-wins" title="Facts about the biggest ever lottery jackpot wins">Notable Wins</a></li>
 					<li><a href="/good-causes" title="Information about lottery grants and good causes">Good Causes</a></li>
+					<li><a href="/scams" title="National Lottery Scams">Lottery Scams</a></li>
+					<li><a href="/contact" title="Contact Us">Contact Us</a></li>
 				</ul>
 				
 				<ul class="footerCol">
 					<li class="title">Play</li>
+					<li><a href="/lottery-ticket" title="Buy lottery tickets online">Buy Lottery Tickets</a></li>
+					<li><a href="/lotteries" title="How to play the National Lottery and Health Lottery games">How to Play</a></li>
+					<li><a href="/prizes" title="Read more about National Lottery Prize Distribution">Prizes</a></li>
 					<li><a href="https://games.national-lottery.com/" title="Play casino and slot games on your pc">Casino</a></li>
-					<li><a href="/lottery-apps" title="">Lottery Apps</a></li>
 					<li><a href="https://games.national-lottery.com/mobile-games" title="Play casino and slot games on your mobile">Mobile Casino</a></li>
-					<li><a href="/lottery-ticket" title="Buy lottery tickets online">Lottery Tickets</a></li>
 				</ul>
 
 				<div class="footerSocial">
 					<span>Follow us to stay up to date</span>
-					<a href="https://www.facebook.com/National.Lottery.News" title="Like us on Facebook" class="fluid" target="_blank"><img src="/images/layout/icon-facebook.png" alt="Facebook"><span>FB</span></a>
+					<a href="https://www.facebook.com/National.Lottery.News" title="Like us on Facebook" id="footerFB" class="fluid" target="_blank"><img src="/images/layout/icon-facebook.png" alt="Facebook"><span>FB</span></a>
 					<a href="https://twitter.com/LotteryGB" title="Follow us on Twitter" class="fluid" target="_blank"><img src="/images/layout/icon-twitter.png" alt="Twitter"><span>TW</span></a>
+				</div>			
+						
+				<div id="nationallottery" class="FBPopup">
+					<div class="box">
+						<div class="head"><a id="closeFB">Close</a></div>
+						<p>You first need to login to Facebook to view this page because it contains age restricted content.</p>
+						<a href="https://www.facebook.com/National.Lottery.News" title="Go to Facebook and Login" class="button-alt">Go to Facebook and Login</a>
+					</div>
 				</div>
-				
 				<br class="clear">
 				<hr>
 				
 				<a href="/" id="footerLogo"><img src="/images/layout/logo.png" alt="National-Lottery.com"></a>
 				
 				<ul class="footerRight">
-					<li><a href="/privacy" title="privacy statement">Privacy</a></li>
-					<li><a href="/sitemap" title="national lottery sitemap">Sitemap</a></li>
-					<li><a href="/scams" title="national lottery scams">Scams</a></li>
+					<li><a href="/privacy" title="National-Lottery.com Privacy statement">Privacy</a></li>
+					<li><a href="/sitemap" title="Sitemap">Sitemap</a></li>
 				</ul>
 				
 				<br class="clear">
 				
 				<div class="copyright">
-					<p>Material Copyright © 2015 National-Lottery.com.<br> Affiliated with Camelot UK Lotteries Limited for marketing purposes only. The content and operations of this website have not been approved or endorsed by Camelot UK Lotteries Limited, the National Lottery Commission or SLE.</p>
+					<p>Material Copyright © 2016 National-Lottery.com.<br> The content and operations of this website have not been approved or endorsed by Camelot UK Lotteries Limited, the National Lottery Commission or SLE.</p>
 				</div>
 			
 				
@@ -359,8 +399,6 @@
 			</div>
 		</footer>
 
-		
-		
-	
-	
+			
+
 </body></html>
