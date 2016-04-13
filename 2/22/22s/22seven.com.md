@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 22seven.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928192606id_/https%3A//www.22seven.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22seven.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413100727id_/https%3A//www.22seven.com/legal/privacy) for the most accurate reproduction.*
 
-# 22seven | Privacy Policy
+# Privacy Policy | 22seven
 
 22seven is committed to the privacy of your Personal Information. Your information is yours - always. We will always collect the minimum amount of Personal Information necessary to provide the Service to you. Our staff and Authorised Service Providers are bound by confidentiality and privacy obligations that align directly with this Privacy Policy. They are given access only to the information they require to fulfil their responsibilities.
 
