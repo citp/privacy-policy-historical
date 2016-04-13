@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the found.info privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023042449id_/http%3A//www.found.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the found.info privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414003501id_/http%3A//www.found.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | found.info
 
