@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023024022id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamwork.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413232828id_/https%3A//www.teamwork.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy Teamwork Project Manager
-
-## Find Your Installation
-
-To login to your site, just provide us with your email  
-address and we will find your installation.
+# Teamwork.com - Privacy Policy
 
 Your privacy is of great importance to us. This Privacy Policy exists to tell you what kind of information we may gather while you visit our website and how we may use such information.
 
@@ -48,11 +43,9 @@ Without derogating the aforementioned, in no event shall our total liability exc
 
 ###  Contact information
 
-For any question or to request modification or deletion of your personal information, please e-mail info@teamworkpm.net  
+For any question or to request modification or deletion of your personal information, please e-mail info@teamwork.com  
  
 
 ###  Changes and Updates to this Policy
 
 We reserve the right to amend this Privacy Policy from time to time. We will provide notification of the change on our website. The Privacy Policy does not create any contractual or other legal right in or on behalf of any party.
-
-Your web browser isn't exactly up to date. This results in a worse experience of the site, especially visually. We suggest getting [Google Chrome](http://google.com/chrome) or [Mozilla Firefox](http://www.mozilla.org/firefox) instead.
