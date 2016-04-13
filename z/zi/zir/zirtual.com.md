@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205150916id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413115233id_/http%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
 
-# Zirtual · Privacy Policy.
+# Zirtual - Privacy Policy.
 
 _Last modified on April 9th, 2015 (for our previous policy,[ click here ](https://www.zirtual.com/privacy-policy/previous/)) _
 
