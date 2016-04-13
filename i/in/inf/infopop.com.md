@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016180114id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413131339id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Social Strata
 
@@ -64,7 +64,7 @@ If you have a hoo.do account, you can edit your account information at any time 
 
 Changes to This Policy
 
-Social Strata may revise this Policy in the future. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address on your account or through our [support site](http://socialstrata.com/support). 
+Social Strata may revise this Policy in the future. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address on your account or through our [support site](https://socialstrata.com/support). 
 
 Questions/Comments
 
