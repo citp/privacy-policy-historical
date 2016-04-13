@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toponereport.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822160405id_/http%3A//www.toponereport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toponereport.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413125309id_/http%3A//www.toponereport.com/privacy) for the most accurate reproduction.*
 
 # Top One Report » Privacy
 
@@ -43,13 +43,13 @@ The information and services provided at Flying Monkey Media, Inc.’s web site 
 
 Concerning visitors to its site that it knows are children under 13 years of age, Flying Monkey Media, Inc. maintains the following policies:
 
-\- Flying Monkey Media, Inc. will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
+– Flying Monkey Media, Inc. will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
 
-\- In the event a child submits information to the Flying Monkey Media, Inc. Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Flying Monkey Media, Inc. will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Flying Monkey Media, Inc., or how the parent could view or delete the child’s registration, if so desired.
+– In the event a child submits information to the Flying Monkey Media, Inc. Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Flying Monkey Media, Inc. will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Flying Monkey Media, Inc., or how the parent could view or delete the child’s registration, if so desired.
 
-\- Flying Monkey Media, Inc. will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
+– Flying Monkey Media, Inc. will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
 
-\- No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Flying Monkey Media, Inc..
+– No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Flying Monkey Media, Inc..
 
 Article 7. Flying Monkey Media, Inc’s Right to Contact User
 
@@ -66,4 +66,4 @@ If you have any questions about this privacy statement, the practices of this si
 Flying Monkey Media, Inc.  
 1151 Eagle Dr Ste 325  
 Loveland, CO 80537  
-[Support Desk](http://support.infomediainc.com/)
+[Support Desk](http://support.infomediainc.com/)[.](https://web.archive.org/propranolol-20-precio)
