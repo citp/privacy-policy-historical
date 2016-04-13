@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414012036id_/http%3A//www.techguide.com.au/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techguide.com.au privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413084951id_/http%3A//www.techguide.com.au/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Guide
+# Privacy Policy -
 
 This privacy policy sets out how Tech Guide uses and protects any information that you give Tech Guide when you use this website.
 
