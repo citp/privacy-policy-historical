@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218065615id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnainfo.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413170823id_/https%3A//www.dnainfo.com/new-york/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Us - DNAinfo.com New York
 
@@ -15,7 +15,7 @@ Our servers may also automatically collect information about your computer when 
 **Information Shared With Third Parties**
 
 In addition, DNA may employ outside agents, meaning other companies or individuals to  
-perform functions on its behalf, such as sending postal mail and e-mail, and analyzing data. These DNA agents have access to personal information needed to perform their functions, but may not use it for other purposes. Except as provided in this Privacy Policy, DNA keeps all of your personal information private and will not share it with any third party unless, you have authorized DNA to do so or DNA is legally required to do so. DNA may also release personal information when it believes, in good faith, that such release is reasonably necessary to enforce or apply the provisions of its [Terms of Use](http://www.dnainfo.com/new-york/about-us/terms) or to protect the rights, property or safety of DNA, its users, or others.
+perform functions on its behalf, such as sending postal mail and e-mail, and analyzing data. These DNA agents have access to personal information needed to perform their functions, but may not use it for other purposes. Except as provided in this Privacy Policy, DNA keeps all of your personal information private and will not share it with any third party unless, you have authorized DNA to do so or DNA is legally required to do so. DNA may also release personal information when it believes, in good faith, that such release is reasonably necessary to enforce or apply the provisions of its [Terms of Use](https://www.dnainfo.com/new-york/about-us/terms) or to protect the rights, property or safety of DNA, its users, or others.
 
 DNA retains the right to transfer your personal information to a successor in interest  
 pursuant to a change of control of DNA or a sale of all or substantially all of DNA's assets.
@@ -36,7 +36,7 @@ DNA does not knowingly collect any personally identifiable information from chil
 
 By visiting the Site, you consent to the terms of this Privacy Policy and to the collection and use of this information by DNA. DNA will always fully disclose its privacy policies, and will promptly post any changes to its policy on this page. You agree that DNA may retain and use your personal information as described in this Privacy Policy until you inform DNA that you do not agree with this Privacy Policy and agree that you will not use the Site for a reasonable time thereafter.  By using the Site after DNA posts any changes to this Privacy Policy, you agree to accept those changes.
 
-If you choose to visit DNA, your visit and any dispute over privacy is subject to this Privacy Policy and DNA [Terms of Use](http://www.dnainfo.com/new-york/about-us/terms).
+If you choose to visit DNA, your visit and any dispute over privacy is subject to this Privacy Policy and DNA [Terms of Use](https://www.dnainfo.com/new-york/about-us/terms).
 
 **Applicable Law**
 
