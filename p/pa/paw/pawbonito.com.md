@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pawbonito.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225055208id_/http%3A//www.pawbonito.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pawbonito.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413042735id_/http%3A//www.pawbonito.com/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer | PawBonito.com | Best Animal Videos | PawBonito.com
 
