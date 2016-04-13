@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaexhibition.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206115946id_/http%3A//www.chinaexhibition.com/China_Trade_Shows/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaexhibition.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413051108id_/http%3A//www.chinaexhibition.com/China_Trade_Shows/Privacy.html) for the most accurate reproduction.*
 
 # China Exhibition.com-Privacy|中国会展网
 
