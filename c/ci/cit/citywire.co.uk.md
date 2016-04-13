@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208094449id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywire.co.uk privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413210257id_/http%3A//citywire.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Citywire
 
@@ -96,7 +96,7 @@ Citywire is a global business with offices in London, Munich, Singapore, Hong Ko
 
 This may result in your personal data being transferred out of the European Economic Area (EEA) to countries which have not been assessed by the European Commission as having adequate legal protection.
 
-For further information on the adequacy of non-EU countries, please visit the European Commission [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fec.europa.eu%2fjustice%2fpolicies%2fprivacy%2fthridcountries%2findex_en.htm&via=ClickOut)
+For further information on the adequacy of non-EU countries, please visit the European Commission [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fec.europa.eu%2fjustice%2fdata-protection%2fdata-collection%2fdata-transfer%2findex_en.htm&via=ClickOut)
 
 ### Respecting individual choice
 
@@ -110,7 +110,7 @@ c. You will ALWAYS be given a straightforward way to opt out from marketing each
 
 If you believe we have not met any of our obligations, please contact us in the first instance. 
 
-You may find more information from the UK Information Commissioner on their [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fwww.ico.gov.uk%2fcomplaints%2fdata_protection.aspx&via=ClickOut).
+You may find more information from the UK Information Commissioner on their [website](http://accounts.citywire.info/IFrameRedirector?returnUrl=http%3a%2f%2fico.org.uk%2f&via=ClickOut).
 
   
 
