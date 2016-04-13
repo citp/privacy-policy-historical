@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906022747id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottlecoffee.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413105045id_/https%3A//bluebottlecoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blue Bottle Coffee
+
+## Privacy
 
 Blue Bottle Coffee is committed to protecting your privacy. This Policy describes the types of information we may collect from you or that you may provide when you visit our website and our practices for using, maintaining, protecting and disclosing that information.  
 
@@ -27,7 +29,7 @@ We may use third-party analytical tools to help us better understand how you use
 
 ### Updating, Deleting, Editing Your Account Information
 
-After setting up an account with Blue Bottle Coffee, you can access, review, correct and/or delete all of the personally identifiable information you provided to us by logging into your account. You may also ask us to assist by emailing us at [orders@bluebottlecoffee.com](mailto:orders@bluebottlecoffee.com).
+After setting up an account with Blue Bottle Coffee, you can access, review, correct and/or delete all of the personally identifiable information you provided to us by logging into your account. You may also ask us to assist by emailing us at [support@bluebottlecoffee.com](mailto:support@bluebottlecoffee.com).
 
 ### Third Party Service Providers
 
@@ -43,7 +45,6 @@ If you would rather not receive marketing emails from us, please let us know by 
 
 ### Contacting Us
 
-You may ask questions, submit comments and opt out of receiving updates and other mailings from us by contacting us via email at [orders@bluebottlecoffee.com](mailto:orders@bluebottlecoffee.com), via phone at (510) 435-7530 or regular mail at Blue Bottle Coffee, Inc., 300 Webster Street, Oakland, CA 94607.
+You may ask questions, submit comments and opt out of receiving updates and other mailings from us by contacting us via email at [support@bluebottlecoffee.com](mailto:support@bluebottlecoffee.com), via phone at (510) 653-3394 or regular mail at Blue Bottle Coffee, Inc., 300 Webster Street, Oakland, CA 94607.
 
-Last modified: July 11, 2013  
-
+Last modified: March 30, 2016
