@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128202711id_/http%3A//www.icbc.com/about-icbc/Pages/Our-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413234121id_/http%3A//www.icbc.com/about-icbc/Pages/Our-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Our privacy policy
 
