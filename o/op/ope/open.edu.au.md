@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207235518id_/https%3A//www.open.edu.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413110328id_/https%3A//www.open.edu.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Open Universities Australia
 
@@ -195,3 +195,7 @@ Please contact us if you have any queries about the personal information that we
 **Fax** : +61 3 8628 2955
 
 We may amend this Privacy Policy from time to time. The current version will be posted on our website and a copy may be obtained from our Privacy Officer.
+
+Top
+
+* * *
