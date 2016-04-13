@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120817id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplygluten-free.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413073845id_/https%3A//simplygluten-free.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Guarantee | Simply Gluten Free
+# Policy & Guarantee | Simply Gluten Free
 
 **Our Guarantee**
 
@@ -15,10 +15,6 @@ At simplygluten-free.com, the privacy of our visitors is of extreme importance t
 Like many other websites, simplygluten-free.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users’ movements around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 simplygluten-free.com does use cookies to store information about visitors’ preferences, record user-specific information on which pages the users access or visit, customize web page content based on visitors’ browser type or other information that the visitors send via their browser.
-
-Google, as a third party vendor, uses cookies to serve ads on simplygluten-free.com.  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to simplygluten-free.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Amazon.
 
