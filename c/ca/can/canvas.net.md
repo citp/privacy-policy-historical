@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710072032id_/http%3A//www.canvaslms.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414011514id_/http%3A//www.canvaslms.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ Instructure, Inc. complies with the U.S.—E.U. Safe Harbor framework and the U.
 
 **Dispute Resolution**
 
-Instructure, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](http://www.truste.com/). Please [click here](http://www.truste.com/about-truste/contact-us/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
+Instructure, Inc. participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet [here](https://feedback-form.truste.com/watchdog/request). Please [click here](http://www.truste.com/about-truste/contact-us/) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 **Data You Provide to Us.**
 
@@ -73,7 +73,7 @@ When you visit the Site, we and others give you the following choices about use 
   * Most web browsers are set to accept cookies by default. If you prefer, you can typically remove and reject cookies from our Site with your browser settings. If you remove or reject our cookies, it will affect how our Site and Services work for you.
   * You may also render some web beacons unusable by rejecting their associated cookies. If you choose to decline cookies, certain features of the Sites and Services that placed the cookie may not function properly or at all as a result.
   * If you do not wish for us to track emails we send you, some email services allow you to adjust your display to turn off HTML or disable download of images which should effectively disable our email tracking, or you may unsubscribe from our marketing emails as described above.
-  * You may opt out of tracking of certain information collected by Google Analytics, one of our analytics providers as discussed above, on the Sites by clicking here.
+  * You may opt out of tracking of certain information collected by Google Analytics, one of our analytics providers as discussed above, on the Sites by [clicking here](https://tools.google.com/dlpage/gaoptout).
 
 
 
@@ -109,3 +109,5 @@ Salt Lake City, UT 84121
 **Changes to This Privacy Policy.**
 
 Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If such changes are material, a notice of the changes will be posted along with the revised Privacy Policy, prior to the change becoming effective. We encourage you to visit this page from time to time for the latest on our privacy practices.
+
+© 2016 Instructure. All rights reserved.
