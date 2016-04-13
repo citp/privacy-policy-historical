@@ -1,12 +1,21 @@
-<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905053959id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2016-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160413064818id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title> Privacy Policy - Our Website - Room &amp; Board </title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="copyright" content="Copyright 2015 Room &amp; Board, Inc. All Rights Reserved.">
-<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+	<link rel="canonical" href="http://www.roomandboard.com/our_website/privacy.ftl">
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title> Privacy Policy - Our Website - Room &amp; Board </title>
+	<meta name="copyright" content="Copyright 2016 Room &amp; Board, Inc. All Rights Reserved.">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
+
+<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_1434904745/bundles/layout.css">
+<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_N1858731810/bundles/our_website.css">
+<link href="//fast.fonts.com/cssapi/a9faceea-3ac0-4085-8c6d-3065dd276cb1.css" rel="stylesheet" type="text/css">
+	
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MSG54M"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 	var RNB = {
 		Globals: {
 			addVar: function (name, value, options) {
@@ -18,80 +27,76 @@
 			}
 		}
 	};
+	// PowerReviews stuff
+	var pr_locale = 'en_US';
+	var pr_zip_location = 'http://www.roomandboard.com/';
 
 	(function (RNB) {
 		var ag = RNB.Globals.addVar;
-		var dynaSitePath = '';
-		var secureDynaSitePath = '';
+		var dynaSitePath;
+		var secureDynaSitePath;
+		var protocolRelativeDynaSitePath;
 		var firstDir = '';
 
-		// These global vars can be used in any js fil);
-		ag('sitePath', "http://www.roomandboard.com");
-		ag('mobileSitePath', "http://www.roomandboard.com/m");
-		ag('secureMobileSitePath', "https://www.roomandboard.com/m");
-		ag('secureSitePath', "https://www.roomandboard.com");
-		ag('protocolRelativeSitePath', "//www.roomandboard.com");
-		ag('protocolRelativeMobileSitePath', "//www.roomandboard.com/m");
-		ag('imagePath', "//www.roomandboard.com/images");
-		ag('pdfPath', "//www.roomandboard.com/images/pdf");
-		ag('reviewsPath', "http://www.roomandboard.com/");
-		ag('reviewsMerchantId', "771982");
-		ag('dynaViewDirs', "m");
-		ag('s7RenderPath', "http://s7d4.scene7.com/is/image/roomandboard");
-		ag('s7ImagePath', "http://s7d4.scene7.com/is/image/roomandboard");
-		ag('s7SecureImagePath', "https://a248.e.akamai.net/f/248/9086/10h/origin-d4.scene7.com/is/image/roomandboard");
-		ag('siteCatalystAccount', "roomandboardprod");
+		// These global vars can be used in any js file
+		ag('devMode', false);
+		ag('sitePath', 'http://www.roomandboard.com');
+		ag('mobileSitePath', 'http://www.roomandboard.com/m');
+		ag('secureMobileSitePath', 'https://www.roomandboard.com/m');
+		ag('secureSitePath', 'https://www.roomandboard.com');
+		ag('protocolRelativeSitePath', '//www.roomandboard.com');
+		ag('protocolRelativeMobileSitePath', '//www.roomandboard.com/m');
+		ag('imagePath', '//www.roomandboard.com/images');
+		ag('pdfPath', '//www.roomandboard.com/images/pdf');
+		ag('reviewsPath', 'http://www.roomandboard.com/');
+		ag('reviewsMerchantId', '771982');
+		ag('dynaViewDirs', 'm');
+		ag('s7RenderPath', 'http://s7d4.scene7.com/ir/render/roomandboardrender');
+		ag('s7ImagePath', 'http://s7d4.scene7.com/is/image/roomandboard');
+		ag('s7SecureImagePath', 'https://a248.e.akamai.net/f/248/9086/10h/origin-d4.scene7.com/is/image/roomandboard');
+		ag('siteCatalystAccount', 'roomandboardprod');
 		ag('isOnShop', false); // this will be overridden on shop pages);
 		ag('internal', false);
-		ag('searchURL', "http://sitesearch.roomandboard.com/");
-		ag('searchAutoCompleteURL', "//content.atomz.com/autocomplete/sp10/04/dd/fb/");
-		// completely turn off igd. Both in observing and recommending
-		ag('igdEnable', true);
-		// toggle the displaying of recommendations globally
-		ag('igdEnableRecommendations', true);
-		ag('igdObserverPath', "//roomandboard.collect.igodigital.com/igdrta.js");
-		ag('shopServiceUrl', "https://www.roomandboard.com");
+		ag('searchURL', 'http://sitesearch.roomandboard.com/');
+		ag('searchAutoCompleteURL', '//content.atomz.com/autocomplete/sp10/04/dd/fb/');
+		ag('igdEnabled', true);
+		ag('igdTrackingEnabled', true);
+		ag('igdRecommendationsEnabled', true);
+		ag('shopServiceUrl', 'https://www.roomandboard.com');
 		ag('livePersonEnabled', true);
-		ag('sessionCookieName', "SESSION");
+		ag('sessionCookieName', 'SESSION');
 		ag('fedexTrackingUrl', 'https://www.fedex.com/fedextrack/?cntry_code=us&tracknumbers=');
 		ag('upsTrackingUrl', 'http://wwwapps.ups.com/etracking/tracking.cgi?tracknums_displayed=5&TypeOfInquiryNumber=T&HTMLVersion=4.0&InquiryNumber1=');
-
+		ag('googleTrackingId', 'UA-9776619-2');
 		// devicePixelRatio for mobile.  But not for long!
 		ag('dpr', window.devicePixelRatio || 1);
 
 		dynaSitePath = RNB.Globals.sitePath;
 		secureDynaSitePath = RNB.Globals.secureSitePath;
+		protocolRelativeDynaSitePath = RNB.Globals.protocolRelativeSitePath;
+
 		if (window.location.pathname.length > 0) {
-			firstDir = window.location.pathname.split("/")[1].toString();
+			firstDir = window.location.pathname.split('/')[1].toString();
 			if (firstDir && RNB.Globals.dynaViewDirs.indexOf(firstDir) > -1) {
 				ag('dynaViewDir', firstDir);
-				dynaSitePath += "/" + firstDir;
-				secureDynaSitePath += "/" + firstDir;
+				dynaSitePath += '/' + firstDir;
+				secureDynaSitePath += '/' + firstDir;
+				protocolRelativeDynaSitePath += '/' + firstDir;
 			}
 		}
 		ag('dynaSitePath', dynaSitePath);
 		ag('secureDynaSitePath', secureDynaSitePath);
-
+		ag('protocolRelativeDynaSitePath', protocolRelativeDynaSitePath);
 		ag('isMobile', RNB.Globals.dynaViewDir === 'm');
-
+		ag('newRelicAppId', RNB.Globals.isMobile ? '16190124' : '16183832');
+		ag('newRelicLicenseKey', 'dbca598b86');
 	}(RNB));
+</script><script type="text/javascript" src="//www.roomandboard.com/gzip_92576323/js/integrations/new-relic/new-relic.js"></script>
 
-	// PowerReviews stuff
-	var pr_locale = "en_US";
-	var pr_zip_location = "http://www.roomandboard.com/";
-
-</script>
-
-<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_1591693688/bundles/layout.css">
-<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_N1858731810/bundles/our_website.css">
+	
+	
 
 
-
-
-
-
-
-<link href="//fast.fonts.com/cssapi/a9faceea-3ac0-4085-8c6d-3065dd276cb1.css" rel="stylesheet" type="text/css">
 
 <!-- Windows 8 tile -->
 <meta name="application-name" content="Room &amp; Board">
@@ -101,8 +106,12 @@
 <!-- Bing webmaster -->
 <meta name="msvalidate.01" content="45B9E9B2F38529501DA7AE28AC6CF6EE">
 
-<script type="text/javascript" src="//www.roomandboard.com/gzip_N1062027630/bundles/jquery.js"></script>
+<!-- jQuery -->
+<script type="text/javascript" src="//www.roomandboard.com/gzip_374611175/bundles/jquery.js"></script>
 
+<!-- Robots -->
+
+<!-- SiteApps -->
 <script>
 	var RNB = RNB || {};
 
@@ -114,7 +123,7 @@
 			var self = this;
 
 			delay = delay || 1000;
-			window.setTimeout(function () {
+						window.setTimeout(function () {
 				if (self.dfd.state() === 'pending') {
 					self.dfd.reject({hasTimedOut: true});
 					self.hasTimedOut = true;
@@ -123,43 +132,68 @@
 			}, delay);
 		}
 	};
-</script>
-	<script>
 		$SA = {
 			s: 16534
 		};
-			document.write('<script src="' + ('https:' === document.location.protocol ? 'https://' + $SA.s + '.sa' : 'http://' + $SA.s + '.a') + '.siteapps.com/' + $SA.s + '.js"><\/script>');
-	</script><script src="https://16534.sa.siteapps.com/16534.js"></script>
+			$SA.asynch = 1;
+			$(document).one('siteAppsReady', function (e, data) {
+				if (data && data.timeout) {
+					console.log('SiteApps never loaded or timed out for category page.');
+				}
+			});
+			$SA.dfd = new $.Deferred();
+			$.ajax({
+				dataType: 'script',
+				cache: true,
+				url: ('https:' === document.location.protocol ? 'https://231959.sa' : 'http://231959.a') + '.siteapps.com/231959.js'
+			});
+			RNB.SiteApps.countdownResolution();
+</script>
+
+<!-- Google Analytics -->
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-			ga('create', 'UA-9776619-2', 'roomandboard.com');
+	var _ga_options = {
+		trackingId: 'UA-9776619-2',
+		cookieDomain: 'roomandboard.com'
+	};
 
-  ga('require', 'displayfeatures');
+			ga('create', _ga_options);
+
+	ga('require', 'displayfeatures');
 
 
 
 
 
-  ga('send', 'pageview');
+	ga('send', 'pageview');
 
-  
-
+	
 </script>
 
-
-
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+	
+	
+</head>
 <body>
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSG54M"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MSG54M');</script>
+	<!-- End Google Tag Manager -->
 <div id="page">
 
 
 <div id="header" itemscope="" itemtype="http://schema.org/Organization">
 	<a href="http://www.roomandboard.com/" id="logoLink">
-		<img src="//www.roomandboard.com/images/site/roomandboard_logo_2013.png" alt="Room &amp; Board - Classic Contemporary Home Furnishings" itemprop="image logo">
+		<img src="//www.roomandboard.com/images/site/roomandboard_logo_2013.png" alt="Room &amp; Board | Modern Furniture, Contemporary Furniture" itemprop="image logo">
 	</a>
     <meta itemprop="name" content="Room &amp; Board">
     <meta itemprop="url" content="http://www.roomandboard.com">
@@ -168,13 +202,13 @@
 <div id="h_search">
 	<form action="http://sitesearch.roomandboard.com/" method="get">
 		<input type="hidden" name="tp" value="full">
-        <input type="hidden" name="xAuthToken" value="">
 		<label for="h_searchInput">Search</label>
 		<input name="search" type="text" id="h_searchInput" class="header-search-input">
 		<a class="button2" href="#" id="h_searchButton">Search</a>
 	</form>
-</div>	<div id="hlinks" class="top-links">
-		<a id="findStore" href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a><a id="h_phone" href="http://www.roomandboard.com/contactus/detail.do" class="hereToHelpTrigger" itemprop="telephone">800.301.9720</a>
+</div>	<div id="hlinks" class="top-links hlinks">
+		<a id="findStore" href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a>
+		<a id="h_phone" href="http://www.roomandboard.com/contactus/detail.do" class="contact-us-trigger" itemprop="telephone" data-tracking="Header Global">800.301.9720</a>
 		<div id="LP_DIV_1436367643980" class="lp-container"></div>
 	</div>
 </div>
@@ -183,11 +217,11 @@
         <ul>
 
             <li class="first">
-                <a href="http://www.roomandboard.com/catalog/living" style="width: 55px;" title="Living">
+                <a href="http://www.roomandboard.com/catalog/living" style="width: 62px;" title="Living">
                     <span>Living</span>
                 </a>
 
-    <div class="subMenu coll_3 clearfix">
+    <div class="subMenu coll_3 clearfix" style="left: -10px; ">
             <div class="menuColl coll-11">
 <div class="menu-node">
     <h2>Seating</h2>
@@ -213,7 +247,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/living">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/small-spaces-big-style">Small Space Solutions</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/sleeper_guide.ftl">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/upholstered_furniture_guide/getting_started.ftl">Upholstered Furniture Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/custom_upholstery.ftl">Custom Upholstery Program</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/living">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/upholstered_furniture_guide/getting_started.ftl">Upholstered Furniture Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Order free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/catalog/accent-table-inspiration">Accent Table Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/sleeper_guide.ftl">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Order free photo cards</a> </li><li> <a href="http://www.roomandboard.com/catalog/small-spaces-big-style">Small Space Solutions</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/custom_upholstery.ftl">Custom Upholstery Program</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -221,7 +255,7 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/dining" style="width: 72px;" title="Dining">
+                <a href="http://www.roomandboard.com/catalog/dining" style="width: 79px;" title="Dining">
                     <span>Dining</span>
                 </a>
 
@@ -251,7 +285,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/dining">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/dining_table_guide/getting_started.ftl">Dining Table Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/better_dining_space.ftl">Build a better dining space</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/dining">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/dining_table_guide/getting_started.ftl">Dining Table Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Order free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Order free photo cards</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/better_dining_space.ftl">Build a better dining space</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -259,14 +293,14 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/bedroom" style="width: 92px;" title="Bedroom">
+                <a href="http://www.roomandboard.com/catalog/bedroom" style="width: 97px;" title="Bedroom">
                     <span>Bedroom</span>
                 </a>
 
     <div class="subMenu coll_3 clearfix">
             <div class="menuColl coll-31">
 <div class="menu-node">
-    <h2>Beds</h2>
+    <h2>Beds &amp; Mattresses</h2>
         <ul>
 <li> <a href="http://www.roomandboard.com/catalog/bedroom/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/bedroom/room-and-board-mattresses">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/beds">Custom Upholstered Beds</a> </li>        </ul>
 </div>
@@ -289,7 +323,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/bedroom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/build-the-perfect-bed">Bedding Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/bedroom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Order free photo cards</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Order free fabric swatches</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -297,7 +331,7 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/entryway" style="width: 94px;" title="Entryway">
+                <a href="http://www.roomandboard.com/catalog/entryway" style="width: 106px;" title="Entryway">
                     <span>Entryway</span>
                 </a>
 
@@ -328,23 +362,23 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/kids" style="width: 58px;" title="Kids">
+                <a href="http://www.roomandboard.com/catalog/kids" style="width: 61px;" title="Kids">
                     <span>Kids</span>
                 </a>
 
-    <div class="subMenu coll_5 clearfix">
-            <div class="menuColl coll-61">
-<div class="menu-node">
-    <h2>Kids</h2>
-        <ul>
-<li> <a href="http://www.roomandboard.com/catalog/kids/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/bunks-and-lofts">Bunks &amp; Lofts</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/room-and-board-kids-mattresses">Mattresses</a> </li>        </ul>
-</div>
-            </div>
+    <div class="subMenu coll_5 clearfix" style="left: -170px; ">
             <div class="menuColl coll-62">
 <div class="menu-node">
     <h2>Baby</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/kids/cribs">Cribs &amp; Changing Trays</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/rockers-and-gliders">Rockers &amp; Gliders</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids/cribs">Cribs &amp; Changing Trays</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/randb-crib-mattresses">Crib Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/rockers-and-gliders">Rockers &amp; Gliders</a> </li>        </ul>
+</div>
+            </div>
+            <div class="menuColl coll-61">
+<div class="menu-node">
+    <h2>Beds &amp; Mattresses</h2>
+        <ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/bunks-and-lofts">Bunks &amp; Lofts</a> </li><li> <a href="http://www.roomandboard.com/catalog/kids/room-and-board-kids-mattresses">Mattresses</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-63">
@@ -370,7 +404,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/kids">Kids Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/baby-inspiration-gallery">Baby Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids">Kids Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/baby-inspiration-gallery">Baby Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Order free fabric swatches</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Order free photo cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -378,7 +412,7 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/office" style="width: 70px;" title="Office">
+                <a href="http://www.roomandboard.com/catalog/office" style="width: 77px;" title="Office">
                     <span>Office</span>
                 </a>
 
@@ -408,7 +442,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/office_chair_guide.ftl">Office Chair Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/catalog/office">Office Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li> <a href="http://www.roomandboard.com/catalog/business-interiors-inspiration">Business Interiors Inspiration Gallery</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/office_chair_comparison_guide/office_chair_guide.ftl">Office Chair Comparison Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/catalog/office">Office Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Order free photo cards</a> </li><li> <a href="http://www.roomandboard.com/catalog/business-interiors-inspiration">Business Interiors Inspiration Gallery</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -416,11 +450,11 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/outdoor" style="width: 93px;" title="Outdoor">
+                <a href="http://www.roomandboard.com/catalog/outdoor" style="width: 102px;" title="Outdoor">
                     <span>Outdoor</span>
                 </a>
 
-    <div class="subMenu coll_5 clearfix" style="left: -180px; ">
+    <div class="subMenu coll_5 clearfix" style="left: -345px; ">
             <div class="menuColl coll-outdoor-1">
 <div class="menu-node">
     <h2>Lounge</h2>
@@ -451,14 +485,14 @@
 <div class="menu-node">
     <h2>Collections</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/outdoor/montego-collection">Montego</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/crescent-collection">Crescent</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/palm-collection">Palm</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/laguna-collection">Laguna</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/oasis-collection">Oasis</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/cruz-collection">Cruz</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/top-and-base-outdoor-tables">Top + Base Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/100percent-recycled-by-loll-collection">Loll Designs</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/steel-collection-by-emu">by EMU</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor/montego-collection">Montego</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/crescent-collection">Crescent</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/palm-collection">Palm</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/laguna-collection">Laguna</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/oasis-collection">Oasis</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/emmet-collection">Emmet</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/top-and-base-outdoor-tables">Top + Base Tables</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/100percent-recycled-by-loll-collection">Loll Designs</a> </li><li> <a href="http://www.roomandboard.com/catalog/outdoor/steel-collection-by-emu">by EMU</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-bottomMenu">
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/outdoor">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/outdoor_upholstery_video.ftl">Outdoor Upholstery Video</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/weather_resistant_fabrics.ftl">Outdoor Fabric Guide</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/weather_resistant_materials.ftl">Outdoor Material Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/outdoor">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/outdoor_upholstery_video.ftl">Outdoor Upholstery Video</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/outdoor_fabrics.ftl">Outdoor Fabrics Guide</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Order free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/materials_care/outdoor_materials.ftl">Outdoor Materials Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -466,31 +500,7 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/window-treatments" style="width: 90px;" title="Windows">
-                    <span>Windows</span>
-                </a>
-
-    <div class="subMenu coll_1 clearfix">
-            <div class="menuColl coll-140">
-<div class="menu-node">
-    <h2>Custom Window Treatments</h2>
-        <ul>
-<li> <a href="http://www.roomandboard.com/catalog/window-treatments/custom-window-treatments">All Window Treatments</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/drapery">Drapery</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/roman-shades">Roman Shades</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/roller-and-solar-shades">Roller &amp; Solar Shades</a> </li><li> <a href="http://www.roomandboard.com/catalog/window-treatments/wood-blinds">Wood Blinds</a> </li>        </ul>
-</div>
-            </div>
-            <div class="menuColl coll-bottomMenu">
-<div class="menu-node">
-    <h2>Ideas &amp; Advice</h2>
-        <ul>
-<li> <a href="http://www.roomandboard.com/catalog/window-treatments">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/before-and-after-inspiration">Before &amp; After Window Treatments Inspiration</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/window_treatments_overview.ftl">Window Treatment Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/measuring_instructions.ftl">DIY Measurement</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installation_instructions.ftl">DIY Installation</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installer/installer_search.ftl">Measurement Services</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/window_treatment/installer/installer_search.ftl">Installation Services</a> </li>        </ul>
-</div>
-            </div>
-    </div>
-
-            </li>
-
-            <li>
-                <a href="http://www.roomandboard.com/catalog/lighting" style="width: 88px;" title="Lighting">
+                <a href="http://www.roomandboard.com/catalog/lighting" style="width: 96px;" title="Lighting">
                     <span>Lighting</span>
                 </a>
 
@@ -499,7 +509,7 @@
 <div class="menu-node">
     <h2>Lighting</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/lighting/all-lighting">All Lighting</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/table-lamps">Table Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/floor-lamps">Floor Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/pendants">Pendants</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/task-lamps">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/wall-sconces">Wall Sconces</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/ceiling-fans">Ceiling Fans</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/modern-classics">Modern Classics</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/lighting/all-lighting">All Lighting</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/table-lamps">Table Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/floor-lamps">Floor Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/pendants">Pendants</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/task-lamps">Task Lamps</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/wall-sconces">Wall Sconces</a> </li><li> <a href="http://www.roomandboard.com/catalog/lighting/ceiling-fans">Ceiling Fans</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-bottomMenu">
@@ -514,7 +524,7 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/rugs" style="width: 56px;" title="Rugs">
+                <a href="http://www.roomandboard.com/catalog/rugs" style="width: 66px;" title="Rugs">
                     <span>Rugs</span>
                 </a>
 
@@ -538,11 +548,11 @@
             </li>
 
             <li>
-                <a href="http://www.roomandboard.com/catalog/accessories" style="width: 107px;" title="Accessories">
+                <a href="http://www.roomandboard.com/catalog/accessories" style="width: 123px;" title="Accessories">
                     <span>Accessories</span>
                 </a>
 
-    <div class="subMenu coll_5 clearfix" style="left: -547px; ">
+    <div class="subMenu coll_5 clearfix" style="left: -518px; ">
             <div class="menuColl coll-73">
 <div class="menu-node">
     <h2>Bedding</h2>
@@ -580,7 +590,7 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/gallery_wall.ftl">Design a frame wall</a> </li><li> <a href="http://www.roomandboard.com/catalog/frame-it-inspiration">Frame Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/american-made-mirrors">Mirror Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories">Complete Your Home Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/catalog/10-ways-to-decorate-your-walls">Art &amp; Wall Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/build-the-perfect-bed">Bedding Inspiration Gallery</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/gallery_wall.ftl">Design a frame wall</a> </li><li> <a href="http://www.roomandboard.com/catalog/frame-it-inspiration">Frame Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/american-made-mirrors">Mirror Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/accessories">Complete Your Home Gallery</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/catalog/10-ways-to-decorate-your-walls">Art &amp; Wall Inspiration Gallery</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -589,16 +599,16 @@
 
 
             <li class="last">
-                <a href="http://www.roomandboard.com/catalog/custom" style="width: 63px;" title="Custom">
+                <a href="http://www.roomandboard.com/catalog/custom" style="width: 71px;" title="Custom">
                     <span>Custom</span>
                 </a>
 
-    <div class="subMenu coll_4 clearfix" style="left: -596px; ">
+    <div class="subMenu coll_4 clearfix" style="left: -584px; ">
             <div class="menuColl coll-81">
 <div class="menu-node">
     <h2>Fabric &amp; Leather Upholstery</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/custom/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/recliners">Recliners</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-chairs-and-stools">Dining Chairs &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/beds">Beds</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/recliners">Recliners</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/beds">Beds</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/dining-chairs-and-stools">Dining Chairs &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/office-chairs">Office Chairs</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-82">
@@ -619,14 +629,14 @@
 <div class="menu-node">
     <h2>Accessories</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/custom/rugs-by-the-inch">Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mirrors-by-the-inch">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/pillows">Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mattresses">Mattresses</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/custom-window-treatments">Window Treatments</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom/rugs-by-the-inch">Rugs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mirrors-by-the-inch">Mirrors</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/pillows">Pillows</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/mattresses">Mattresses</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-bottomMenu">
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/custom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/color_collections.ftl">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/custom">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Fabrics &amp; Materials</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/product_stories/linear/linear.ftl">Linear Storage story</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
@@ -675,88 +685,216 @@
 		
 
 			
-    	<div id="ourWebsiteContent" data-automodal-options="{
+<div id="ourWebsiteContent" data-automodal-options="{
 			&quot;modalId&quot;: &quot;privacyPolicy&quot;,
 			&quot;modalHeaderTitle&quot;: &quot;Privacy Policy&quot;,
 			&quot;modalWrapperClass&quot;: &quot;privacyModal&quot;,
 			&quot;trackOverride&quot;: {&quot;description&quot; : &quot;Privacy Policy&quot;}
 		}">
-		<h1 class="primaryTitle terms">Room &amp; Board, Inc. Corporate Consumer Privacy Policy</h1>
+	<h1 class="primaryTitle terms">Room &amp; Board, Inc. Corporate Consumer Privacy Policy</h1>
 
-		<p>Room &amp; Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at <a href="http://www.roomandboard.com/our_website/privacy.ftl">www.roomandboard.com/privacy/</a>.  You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.</p>
+	<p>Room &amp; Board, Inc. is committed to respecting your private information and protecting it from misuse. Our
+		Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and
+		covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you
+		to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to
+		time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at
+		<a href="http://www.roomandboard.com/our_website/privacy.ftl">www.roomandboard.com/privacy/</a>. You may also obtain
+		a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.
+	</p>
 
-		<h3>Basic Privacy Principles</h3>
-		<p>The following "Basic Privacy Principles" apply throughout our entire enterprise, whether we gather information through our stores, our catalog operations, or our Web site.</p>
-		
-		<p>We consider certain information which we may learn or create while we engage in our business to be a consumer's "personally identifiable information." This includes any "identity information" which directly identifies a person by name, address, telephone number, e-mail address, government-issued number such as a social security number, or financial account identifier such as a credit card number. Personally identifiable information also includes information which is directly associated with identity information, such as information about the identified person's purchases to the extent the information is directly associated with that person's identity information.</p>
-		
-		<p>We do not consider all information that we may gather or create in operating our business to be personally identifiable information. Basically, if information is not identity information or directly associated with identity information, we do not consider it to be personally identifiable information. For example, a database of our customers' purchases in aggregate which does not identify the individual customers would not be personally identifiable information.</p>
-		
-		<p>Without your consent or as specified below, we will use your personally identifiable information which we learn through our interactions with you only for the purposes you would reasonably anticipate us doing. This includes, but is not limited to, use to contact you to answer your questions, to fulfill orders, to obtain billing or payment information, to follow-up on prior orders or respond to your comments to ensure your satisfaction, and to contact you with additional information where you have permitted us to do so.</p>
+	<h3>Basic Privacy Principles</h3>
 
-		<h3>We do not share, sell or trade your personally identifiable information with third parties.</h3>
-		<p>We may disclose some of your personally identifiable information to one or more of our own service providers that we may use to fulfill services for you, provided that we will reasonably assure that those service providers are obligated to maintain the confidentiality of your personally identifiable information and only use it for the purposes we hire them for. You may also disclose some of your personally identifiable information directly to one or more of our own service providers that we may use to fulfill services for you, provided that we will reasonably assure that those service providers are obligated to maintain the confidentiality of your personally identifiable information and only use it for the purposes we hire them for. If you provide any personally identifiable information to us as part of a sweepstakes or contest entry, we may disclose such information to any third party service providers, sponsors or co-sponsors of the sweepstakes or contest. In that case, when you enter a contest or sweepstakes, you may become subject to the privacy policy of these parties in addition to this Privacy Policy. We may also disclose personally identifiable information to others if we are required to do so by law, to protect and defend the rights of Room &amp; Board, Inc., or in the event of a corporate sale, merger, reorganization, dissolution or similar event.</p>
+	<p>The following "Basic Privacy Principles" apply throughout our entire enterprise, whether we gather information
+		through our stores, our catalog operations, or our Web site.</p>
 
-		<p>The security of your personally identifiable information is important to us. Although we cannot guarantee against loss, misuse, alteration, unauthorized disclosure or destruction of data, we use commercially reasonable security measures to protect you from such occurrences. If necessary in accordance with the law, we will disclose to you any known or reasonably suspected breach in security involving your personally identifiable information.</p>
+	<p>We consider certain information which we may learn or create while we engage in our business to be a consumer's
+		"personally identifiable information." This includes any "identity information" which directly identifies a
+		person by name, address, telephone number, e-mail address, government-issued number such as a social security
+		number, or financial account identifier such as a credit card number. Personally identifiable information also
+		includes information which is directly associated with identity information, such as information about the
+		identified person's purchases to the extent the information is directly associated with that person's identity
+		information.</p>
 
-		<p>This Privacy Policy is intended to comply with applicable United States laws and regulations, including the laws of particular states where our stores or customers are located. Our stores are located in the United States, all catalog orders are placed to our operators located in the United States, and our Web site is targeted only to residents of the United States. If you are not a resident of the United States, please note that our information gathering practices may not be compliant with your own country's laws and regulations, and you should not share your personally identifiable information with us unless you are willing and able to be subject to United States laws concerning such disclosures.</p>
+	<p>We do not consider all information that we may gather or create in operating our business to be personally
+		identifiable information. Basically, if information is not identity information or directly associated with
+		identity information, we do not consider it to be personally identifiable information. For example, a database
+		of our customers' purchases in aggregate which does not identify the individual customers would not be
+		personally identifiable information.</p>
 
-		<h3>Store and Catalog Operations</h3>
-		<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Stores and our Catalog operations.</p>
+	<p>Without your consent or as specified below, we will use your personally identifiable information which we learn
+		through our interactions with you only for the purposes you would reasonably anticipate us doing. This includes,
+		but is not limited to, use to contact you to answer your questions, to fulfill orders, to obtain billing or
+		payment information, to follow-up on prior orders or respond to your comments to ensure your satisfaction, and
+		to contact you with additional information where you have permitted us to do so.</p>
 
-		<p>Our stores and catalog operations are available to you to discuss our products and services with a Design Associate, and you may place your orders through one of our Design Associates in the stores, or place a catalog order via postal mail or via telephone. When we take your order, we will obtain additional personally identifiable information including your payment information. We will only use that personally identifiable information from your order for purposes concerning the fulfillment of your order. In doing so, your personally identifiable information from an order may be used or shared among our different offices, representatives or service providers such as the store, our catalog sales offices, our warehouses, our headquarters, the manufacturers of products you have purchased, the freight carriers used to deliver products to you, installers or designers we have engaged to assist with your order, or our credit card merchant banks or other bankers. We will share only that portion of your personally identifiable information with third parties that is reasonably required to fulfill your order, and those third parties will be contractually obligated to use the personally identifiable information only for order-fulfillment purposes.</p>
+	<h3>We do not share, sell or trade your personally identifiable information with third parties.</h3>
 
-		<p>We will comply with our credit card merchant banks' requirements for the use and storage of your credit card information, such as obligations concerning the security of your credit card numbers, as well as any laws that apply to that information's use and storage.</p>
+	<p>We may disclose some of your personally identifiable information to one or more of our own service providers that
+		we may use to fulfill services for you, provided that we will reasonably assure that those service providers are
+		obligated to maintain the confidentiality of your personally identifiable information and only use it for the
+		purposes we hire them for. You may also disclose some of your personally identifiable information directly to
+		one or more of our own service providers that we may use to fulfill services for you, provided that we will
+		reasonably assure that those service providers are obligated to maintain the confidentiality of your personally
+		identifiable information and only use it for the purposes we hire them for. If you provide any personally
+		identifiable information to us as part of a sweepstakes or contest entry, we may disclose such information to
+		any third party service providers, sponsors or co-sponsors of the sweepstakes or contest. In that case, when you
+		enter a contest or sweepstakes, you may become subject to the privacy policy of these parties in addition to
+		this Privacy Policy. We may also disclose personally identifiable information to others if we are required to do
+		so by law, to protect and defend the rights of Room &amp; Board, Inc., or in the event of a corporate sale,
+		merger, reorganization, dissolution or similar event.</p>
 
-		<h3>Web Site</h3>
-		<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web site (<a href="http://www.roomandboard.com/">roomandboard.com</a>).</p>
+	<p>The security of your personally identifiable information is important to us. Although we cannot guarantee against
+		loss, misuse, alteration, unauthorized disclosure or destruction of data, we use commercially reasonable
+		security measures to protect you from such occurrences. If necessary in accordance with the law, we will
+		disclose to you any known or reasonably suspected breach in security involving your personally identifiable
+		information.</p>
 
-		<p>Our Web site allows you to shop our catalog and place orders by use of an e-commerce system that may be provided, in whole or in part, by one or more third party e-commerce providers. The portions of our Web site that allow you to place an order by giving your personal information use industry standard encryption methods such as secure-socket layer ('HTTPS') technology to protect your information while in transit between your computer, our computers, and our third party e-commerce providers' systems. Also, all of your sensitive personal information (for example your credit card data and your order information) is encrypted while it is being processed and stored by us and our third party e-commerce providers. Once your order has been received by us, we then process and fulfill your order using our normal catalog ordering system subject to the privacy policies described above. Our third party e-commerce providers are under contract with us to maintain the confidentiality and security of your sensitive personal information, and not to use it for any purpose other than assisting with the transactions in your own orders.</p> 
+	<p>This Privacy Policy is intended to comply with applicable United States laws and regulations, including the laws
+		of particular states where our stores or customers are located. Our stores are located in the United States, all
+		catalog orders are placed to our operators located in the United States, and our Web site is targeted only to
+		residents of the United States. If you are not a resident of the United States, please note that our information
+		gathering practices may not be compliant with your own country's laws and regulations, and you should not share
+		your personally identifiable information with us unless you are willing and able to be subject to United States
+		laws concerning such disclosures.</p>
 
-		<p>Our Web site gives you the option to create a personal account. To create an account, you will be asked to provide contact information and select a user name and password. This personally identifiable information may be used to provide you with personal services from us. You may also use the account to use our online personalized features. However, other than when submitting an order to purchase from our Web site, submitting contact information and creating an account are strictly voluntary and are not required to use our Web site. As a way to enhance our ability to protect your private information, we do not provide you with the ability to store your credit card (or similar) data on our Web site for future transactions, and we ask that you re-enter that information each time you place an order with us.</p>
-		
-		<p>Our Web site is not targeted to persons under the age of 13, and we will not knowingly collect personally identifiable information from persons under age 13 without prior parental consent. Barring knowledge to the contrary, we will presume that all personally identifiable information collected by our Web site is from persons age 13 and over.</p>
-	
-		<p>Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type of web browser, and addresses of referring site, also known as traffic data, may be collected and used to diagnose problems with our server and administer our site. </p>
+	<h3>Store and Catalog Operations</h3>
 
-		<p>We may have functionality on our Web site that is provided, in whole or in part, by a third party service provider. You can usually identify such third party functionality by the use of a trademark not owned by Room &amp; Board on or near the functionality. In that case, when you use the functionality, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy policy. For example, we may use a third party to provide you with the opportunity to review our products or services. The reviews you submit may be publicly posted on our Web site.</p>
+	<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our
+		Stores and our Catalog operations.</p>
 
-		<p>We may also use a third party technology that allows you to chat with Room &amp; Board representatives via our Web site ("Web Chat"). We currently use LivePerson, Inc. to provide the Web Chat capability. When you participate in a Web Chat, LivePerson, Inc. is collecting and storing your chat data. For information about LivePerson's privacy practices, please review LivePerson's Technology Privacy Policy (also known as LivePerson's Customer Website Privacy Policy) located on the <a href="http://www.liveperson.com" target="_blank">www.liveperson.com</a> website.</p>
+	<p>Our stores and catalog operations are available to you to discuss our products and services with a Design
+		Associate, and you may place your orders through one of our Design Associates in the stores, or place a catalog
+		order via postal mail or via telephone. When we take your order, we will obtain additional personally
+		identifiable information including your payment information. We will only use that personally identifiable
+		information from your order for purposes concerning the fulfillment of your order. In doing so, your personally
+		identifiable information from an order may be used or shared among our different offices, representatives or
+		service providers such as the store, our catalog sales offices, our warehouses, our headquarters, the
+		manufacturers of products you have purchased, the freight carriers used to deliver products to you, installers
+		or designers we have engaged to assist with your order, or our credit card merchant banks or other bankers. We
+		will share only that portion of your personally identifiable information with third parties that is reasonably
+		required to fulfill your order, and those third parties will be contractually obligated to use the personally
+		identifiable information only for order-fulfillment purposes.</p>
 
-		<p>We may also use cookies, pixel tags, action tags and similar tags to collect information. Cookies and tags allow us to compile statistics and other information about how you use our site. We may use this data to personalize your Web shopping experience based on your prior visits to our Web site. We may also use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis.</p>
-			
-		<p>In addition, we may use third-party service providers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may use cookies and other online tools such as pixel tags, action tags and similar tags to serve ads and personalize your Web shopping experience based on your prior visits to our Web site. They may also use information about your visits to our Web site and other Web sites to target advertisements for products and services. This anonymous information is collected through the use of a cookie. No personally identifiable information is collected or used in this process. These third-party service providers do not know your name, phone number, address, e-mail address, or any other personally identifying information about you. If you would like more information about this practice and to opt out of having this anonymous information used by our third party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>.</p>
-		
-		<p>Our site may contain links to other Internet web sites that we think you may find of interest. We are not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of those links is at your own risk.</p>
-	
-		<h3>Opting out of Room &amp; Board Communications</h3>
-		<p>If you request to receive information from us, we will naturally presume that you have given us permission to communicate with you about that information, either by postal mail, e-mail or telephone. Further, if you are engaged in transactions with one of our associates, and choose to use e-mail or telephone for communications about that transaction, we will presume again that you have given us permission to communicate with you about that transaction.</p>
+	<p>We will comply with our credit card merchant banks' requirements for the use and storage of your credit card
+		information, such as obligations concerning the security of your credit card numbers, as well as any laws that
+		apply to that information's use and storage.</p>
 
-		<p>Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so at the point where we request information about you.</p>
-	
-		<p>If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each e-mail or visit the following url: <a class="unsubscribeLink left" href="http://www.roomandboard.com/#unsubscribe">http://www.roomandboard.com/#unsubscribe</a></p>
-	
-		<p>We love to send you our annual catalog but only if you want it. Because of that, we've joined Catalog Choice, an organization that lets consumers indicate which catalogs they no longer wish to receive. If you would prefer to not receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, please visit catalogchoice.org.</p>
+	<h3>Web Site</h3>
 
-		<p>You can also call our Customer Service telephone line at 800.301.9720 to be removed from either our e-mail or postal mail lists.</p>
+	<p>In addition to the Basic Privacy Principles discussed above, the following policies apply specifically to our Web
+		site (<a href="http://www.roomandboard.com/">roomandboard.com</a>).</p>
 
-		<h3>Correcting or updating your information</h3>
-		<p>Click the following link to correct, change or update your personally identifiable information for the Web site account: <a href="https://www.roomandboard.com/account/account.ftl">www.roomandboard.com/account/account.ftl</a>.</p>
-		
-		<h3>Privacy Officer</h3>
-		<p>Please direct any questions or comments regarding our Privacy Policy to the office of our Privacy Officer:</p>
-		
-		<p>Privacy Officer<br>
+	<p>Our Web site allows you to shop our catalog and place orders by use of an e-commerce system that may be provided,
+		in whole or in part, by one or more third party e-commerce providers. The portions of our Web site that allow
+		you to place an order by giving your personal information use industry standard encryption methods such as
+		secure-socket layer ('HTTPS') technology to protect your information while in transit between your computer, our
+		computers, and our third party e-commerce providers' systems. Also, all of your sensitive personal information
+		(for example your credit card data and your order information) is encrypted while it is being processed and
+		stored by us and our third party e-commerce providers. Once your order has been received by us, we then process
+		and fulfill your order using our normal catalog ordering system subject to the privacy policies described above.
+		Our third party e-commerce providers are under contract with us to maintain the confidentiality and security of
+		your sensitive personal information, and not to use it for any purpose other than assisting with the
+		transactions in your own orders.</p>
+
+	<p>Our Web site gives you the option to create a personal account. To create an account, you will be asked to
+		provide contact information and select a user name and password. This personally identifiable information may be
+		used to provide you with personal services from us. You may also use the account to use our online personalized
+		features. However, other than when submitting an order to purchase from our Web site, submitting contact
+		information and creating an account are strictly voluntary and are not required to use our Web site. As a way to
+		enhance our ability to protect your private information, we do not provide you with the ability to store your
+		credit card (or similar) data on our Web site for future transactions, and we ask that you re-enter that
+		information each time you place an order with us.</p>
+
+	<p>Our Web site is not targeted to persons under the age of 13, and we will not knowingly collect personally
+		identifiable information from persons under age 13 without prior parental consent. Barring knowledge to the
+		contrary, we will presume that all personally identifiable information collected by our Web site is from persons
+		age 13 and over.</p>
+
+	<p>Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type
+		of web browser, and addresses of referring site, also known as traffic data, may be collected and used to
+		diagnose problems with our server and administer our site. </p>
+
+	<p>We may have functionality on our Web site that is provided, in whole or in part, by a third party service
+		provider. You can usually identify such third party functionality by the use of a trademark not owned by Room
+		&amp; Board on or near the functionality. In that case, when you use the functionality, you become subject to
+		the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of
+		our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy
+		policy. For example, we may use a third party to provide you with the opportunity to review our products or
+		services or to upload photographs to our Web site. The reviews and photos you submit may be publicly posted on
+		our Web site or used for other purposes.</p>
+
+	<p>We may also use a third party technology that allows you to chat with Room &amp; Board representatives via our
+		Web site ("Web Chat"). We currently use LivePerson, Inc. to provide the Web Chat capability. When you
+		participate in a Web Chat, LivePerson, Inc. is collecting and storing your chat data. For information about
+		LivePerson's privacy practices, please review LivePerson's Technology Privacy Policy (also known as LivePerson's
+		Customer Website Privacy Policy) located on the <a href="http://www.liveperson.com" target="_blank">www.liveperson.com</a>
+		website.</p>
+
+	<p>We may also use cookies, pixel tags, action tags and similar tags to collect information. Cookies and tags allow
+		us to compile statistics and other information about how you use our site. We may use this data to personalize
+		your Web shopping experience based on your prior visits to our Web site. We may also use this data to analyze
+		trends and improve the usability of our site as well as to administer the site and gather broad demographic
+		statistics. We may also share such non-personally identifiable information with third parties on an aggregate
+		basis.</p>
+
+	<p>In addition, we may use third-party service providers to serve ads on our behalf across the Internet. They may
+		collect anonymous information about your visits to our Web site, and your interaction with our products and
+		services. They may use cookies and other online tools such as pixel tags, action tags and similar tags to serve
+		ads and personalize your Web shopping experience based on your prior visits to our Web site. They may also use
+		information about your visits to our Web site and other Web sites to target advertisements for products and
+		services. This anonymous information is collected through the use of a cookie. No personally identifiable
+		information is collected or used in this process. These third-party service providers do not know your name,
+		phone number, address, e-mail address, or any other personally identifying information about you. If you would
+		like more information about this practice and to opt out of having this anonymous information used by our third
+		party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>.</p>
+
+	<p>Our site may contain links to other Internet web sites that we think you may find of interest. We are not
+		responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of
+		those links is at your own risk.</p>
+
+	<h3>Opting out of Room &amp; Board Communications</h3>
+
+	<p>If you request to receive information from us, we will naturally presume that you have given us permission to
+		communicate with you about that information, either by postal mail, e-mail or telephone. Further, if you are
+		engaged in transactions with one of our associates, and choose to use e-mail or telephone for communications
+		about that transaction, we will presume again that you have given us permission to communicate with you about
+		that transaction.</p>
+
+	<p>Apart from the above, you may opt-out of receiving future commercial communications from us. You may first do so
+		at the point where we request information about you.</p>
+
+	<p>If you would prefer not to receive our e-mail updates, please use the functionality located at the bottom of each
+		e-mail or visit the following url: <a class="unsubscribeLink left" href="http://www.roomandboard.com/#unsubscribe">http://www.roomandboard.com
+			/#unsubscribe</a></p>
+
+	<p>We love to send you our annual catalog but only if you want it. Because of that, we've joined Catalog Choice, an
+		organization that lets consumers indicate which catalogs they no longer wish to receive. If you would prefer to
+		not receive our catalogs in the postal mail, or if you are receiving extra copies that you do not need, please
+		visit catalogchoice.org.</p>
+
+	<p>You can also call our Customer Service telephone line at 800.301.9720 to be removed from either our e-mail or
+		postal mail lists.</p>
+
+	<h3>Correcting or updating your information</h3>
+
+	<p>Click the following link to correct, change or update your personally identifiable information for the Web site
+		account: <a href="https://www.roomandboard.com/account/account.ftl">www.roomandboard.com/account/account.ftl</a>.</p>
+
+	<h3>Privacy Officer</h3>
+
+	<p>Please direct any questions or comments regarding our Privacy Policy to the office of our Privacy Officer:</p>
+
+	<p>Privacy Officer<br>
 		Room &amp; Board, Inc.<br>
 		4600 Olson Memorial Highway<br>
 		Minneapolis, Minnesota 55422<br>
 		phone: 763.588.7525<br>
 		e-mail: <a href="mailto:privacyofficer@roomandboard.com">privacyofficer@roomandboard.com</a></p>
 
-		
-		<p>Last updated:  June 4, 2015</p>
 
-	</div>
+	<p>Last updated: November 6, 2015</p>
+
+</div>
 
 
             
@@ -770,25 +908,13 @@
 		</div>
 		
 		<p>Our expert Design Associates can help with ordering, product information, design ideas and even floor planning.</p>
-		
-		<div class="sfhHours">
-			<h3>Monday through Friday</h3>
-			<p>8 a.m. to 9 p.m. (Central)</p>
-		</div>
-		<div class="sfhHours">
-			<h3>Saturday</h3>
-			<p>9 a.m. to 6 p.m. (Central)</p>
-		</div>
-		<div class="sfhHours">
-			<h3>Sunday</h3>
-			<p>10 a.m. to 6 p.m. (Central)</p>
-		</div>
+
 		
 		<div class="sfhEmail">
 		    <div id="contactUs">
-		      <a href="#" class="send_us_an_email_btn btn contactUsTrigger">Send us an email</a>
+		      <a href="#" class="button2 contact-us-trigger">Contact us</a>
 			</div>
-			<a href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl" class="find_a_store_btn btn">Find a Store</a>
+			<a href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl" class="find_a_store_btn button2">Find a Store</a>
 		</div>
 	</div>
 </div>
@@ -818,14 +944,14 @@
 	<div class="stayConnectedFooter">
 		<h3 class="newsletter"><img src="//www.roomandboard.com/img/header/stay_connected.png" alt="STAY CONNECTED"></h3>
 		<ul class="footerSocialLinks">
-			<li><a href="http://pinterest.com/roomandboard" class="footerPinterest" target="_blank" title="Pinterest">Pinterest</a></li>
-			<li><a href="http://facebook.com/roomandboard" class="footerFacebook" target="_blank" title="Facebook">Facebook</a></li>
-			<li><a href="http://twitter.com/roomandboard" class="footerTwitter" target="_blank" title="Twitter">Twitter</a></li>
-			<li><a href="http://instagram.com/roomandboard" class="footerInstagram" target="_blank" title="Instagram">Instagram</a></li>
-			<li><a href="http://houzz.com/pro/roomboard/room-board" class="footerHouzz" target="_blank" title="Houzz">Houzz</a></li>
-			<li><a href="https://plus.google.com/u/0/+roomandboard/posts" class="footerGooglePlus" target="_blank" title="Google Plus">Goole Plus</a></li>
-			<li><a href="http://youtube.com/roomandboard" class="footerYouTube" target="_blank" title="YouTube">YouTube</a></li>
-			<li class="last"><a href="http://www.roomandboard.com/blog" class="footerBlog" target="_blank" title="Blog">Blog</a></li>
+			<li><a href="http://pinterest.com/roomandboard" class="icon-social icon-social-pinterest-gray" target="_blank" title="Pinterest">Pinterest</a></li>
+			<li><a href="http://facebook.com/roomandboard" class="icon-social icon-social-facebook-gray" target="_blank" title="Facebook">Facebook</a></li>
+			<li><a href="http://twitter.com/roomandboard" class="icon-social icon-social-twitter-gray" target="_blank" title="Twitter">Twitter</a></li>
+			<li><a href="http://instagram.com/roomandboard" class="icon-social icon-social-instagram-gray" target="_blank" title="Instagram">Instagram</a></li>
+			<li><a href="http://houzz.com/pro/roomboard/room-board" class="icon-social icon-social-houzz-gray" target="_blank" title="Houzz">Houzz</a></li>
+			<li><a href="https://plus.google.com/u/0/+roomandboard/posts" class="icon-social icon-social-googleplus-gray" target="_blank" title="Google Plus">Goole Plus</a></li>
+			<li><a href="http://youtube.com/roomandboard" class="icon-social icon-social-youtube-gray" target="_blank" title="YouTube">YouTube</a></li>
+			<li class="last"><a href="http://www.roomandboard.com/blog" class="icon-social icon-social-blog-gray" target="_blank" title="Blog">Blog</a></li>
 		</ul>
 	</div>
 </div>    </div>
@@ -837,9 +963,7 @@
 				</li>
 <li>		<a href="http://www.roomandboard.com/contactus/detail.do" title="Contact us">Contact us</a>
 				</li>
-<li>		<a href="http://www.roomandboard.com/stay_connected/request_catalog.ftl" title="Order or download a catalog">Order or download a catalog</a>
-				</li>
-<li>			<a href="http://www.roomandboard.com/blog" title="Blog" target="blank">Blog</a>
+<li>		<a href="http://www.roomandboard.com/stay_connected/request_catalog.ftl" title="Order a catalog">Order a catalog</a>
 				</li>
 <li>		<a href="http://www.roomandboard.com/m" title="Mobile site">Mobile site</a>
 				</li>
@@ -866,22 +990,22 @@
 				</li>
 <li>		<a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl" title="Business Interiors">Business Interiors</a>
 				</li>
-<li>		<a href="http://www.roomandboard.com/more_ways_to_shop/designer_resources/designer_resources.ftl" title="Designer resources">Designer resources</a>
-				</li>
 			</ul>
 		</div>
 		<div class="footerMenu">
 			<h3 class="aboutroomboard">About Room &amp; Board</h3>
 			<ul>
-<li>		<a href="http://www.roomandboard.com/room_board/about_us/about_us.ftl" title="Our story">Our story</a>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/about_us.ftl" title="About us">About us</a>
 				</li>
-<li>		<a href="http://www.roomandboard.com/room_board/about_us/american_craftsmanship.ftl" title="American made">American made</a>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/about_us.ftl#american_craftsmanship" title="American made">American made</a>
 				</li>
-<li>		<a href="http://www.roomandboard.com/room_board/careers/working_at_rnb/sustainability.ftl" title="Sustainability">Sustainability</a>
-				</li>
-<li>		<a href="http://www.roomandboard.com/room_board/about_us/in_the_news.ftl" title="In the news">In the news</a>
+<li>		<a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl" title="Meet the craftsmen">Meet the craftsmen</a>
 				</li>
 <li>		<a href="http://www.roomandboard.com/room_board/careers/careers.ftl" title="Careers">Careers</a>
+				</li>
+<li>			<a href="//www.roomandboard.com/images/pdf/doyle-product-recalls.pdf" title="Product recall" target="blank">Product recall</a>
+				</li>
+<li>		<a href="http://www.roomandboard.com/room_board/about_us/ca-transparency-act.ftl" title="CA Transparency Act">CA Transparency Act</a>
 				</li>
 			</ul>
 		</div>
@@ -900,28 +1024,32 @@
 				</li>
 <li>		<a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl" title="All Ideas &amp; Advice">All Ideas &amp; Advice</a>
 				</li>
+<li>		<a href="http://www.roomandboard.com/modern-style-gallery" title="#roomandboard gallery">#roomandboard gallery</a>
+				</li>
+<li>			<a href="http://www.roomandboard.com/blog" title="Blog" target="blank">Blog</a>
+				</li>
 			</ul>
 		</div>
 	<h3 class="footerPromoText">We Offer Our Best Value Every Day. Our Prices Are Guaranteed Until December 26.</h3>
 </div>
 <!-- end footer -->
-
-
+<div data-for="#LP_DIV_1438878729680" style="display:none">
+	<div id="LP_DIV_1438878729680" class="lp-container"></div>
+</div>
 </div>
 
-<div id="copyright">	
-	© 2007-2015 Room &amp; Board.  All Rights Reserved. <a href="http://www.roomandboard.com/">Modern Furniture</a>
+<div id="copyright">
+	© 2007-2016 Room &amp; Board.  All Rights Reserved. <a href="http://www.roomandboard.com/">Modern Furniture</a>
 	<div id="copyrightLinks">
 		<a href="http://www.roomandboard.com/our_website/privacy.ftl">Privacy Policy</a> | 
 		<a href="http://www.roomandboard.com/our_website/terms_of_use.ftl">Terms of Use</a> | 
 		<a href="http://www.roomandboard.com/our_website/dmca.ftl">DMCA</a>
 	</div>
-	
 
 </div>
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" media="screen" href="//www.roomandboard.com/gzip_N673369022/bundles/ie6.css" />
-<![endif]--><script type="text/javascript" src="//www.roomandboard.com/gzip_N256949850/bundles/lib.js"></script>
+<![endif]--><script type="text/javascript" src="//www.roomandboard.com/gzip_1660055801/bundles/lib.js"></script>
 
 
 
@@ -932,79 +1060,44 @@
 
 
 
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<!-- SiteCatalyst code -->
 <script>
-	<!--
-	s.pageName = "Our Website Privacy Policy"
-	s.server = ""
-	s.channel = ""
-	s.pageType = ""
-	s.prop1 = "Our Website"
-	s.prop2 = "Our Website:Privacy Policy"
-	s.prop3 = "Our Website:Privacy Policy:Our Website Privacy Policy"
-	s.prop4 = "Our Website:Privacy Policy:Our Website Privacy Policy"
-	s.prop5 = ""
-	s.prop7 = ""
-	s.prop22 = ""
-	/* Conversion Variables */
-	s.campaign = ""
-	s.state = ""
-	s.zip = ""
-	s.purchaseID = ""
-	s.eVar1 = ""
-	s.eVar2 = ""
-	s.eVar3 = ""
-	s.eVar4 = ""
-	s.eVar5 = ""
+<!--
+s.pageName = "Our Website Privacy Policy";
+s.server = "";
+s.channel = "";
+s.pageType = "";
+s.prop1 = "Our Website";
+s.prop2 = "Our Website:Privacy Policy";
+s.prop3 = "Our Website:Privacy Policy:Our Website Privacy Policy";
+s.prop4 = "Our Website:Privacy Policy:Our Website Privacy Policy";
+s.prop5 = "";
+s.prop7 = "";
+s.prop22 = "";
+/* Conversion Variables */
+s.campaign = "";
+s.state = "";
+s.zip = "";
+s.purchaseID = "";
+s.eVar1 = "";
+s.eVar2 = "";
+s.eVar3 = "";
+s.eVar4 = "";
+s.eVar5 = "";
 
-	//make sure function exists
-	if (RNB.Util.exists('RNB.Analytics.Impression') && typeof RNB.Analytics.Impression.checkForFeatures == 'function') {
-		RNB.Analytics.Impression.checkForFeatures();
-	}
-
-	/** RNB Inline overrides **/
-	
-
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code = s.t();
-	if (s_code) {
-		document.write(s_code)
-	}
-	//--></script>
-<script><!--
-if (navigator.appVersion.indexOf('MSIE') >= 0) {
-	document.write(unescape('%3C') + '\!-' + '-')
+// Make sure function exists
+if (RNB && RNB.Analytics && RNB.Analytics.Impression && typeof RNB.Analytics.Impression.checkForFeatures == 'function') {
+	RNB.Analytics.Impression.checkForFeatures();
 }
-//--></script>
-<noscript><a href="http://www.omniture.com" title="Web Analytics">
-	<img src="http://roomandboard.122.2o7.net/b/ss/roomandboarddev/1/H.17--NS/0" height="1" width="1" border="0"
-		 alt=""/></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
 
-<script>
-	adroll_adv_id = "5EBDYW5VE5FRJFNNKBAFUS";
-	adroll_pix_id = "QUBET3JEH5D2JHLLD5PMKN";
-	(function () {
-		var oldonload = window.onload;
+/** RNB Inline overrides **/
 
-		window.onload = function () {
-			__adroll_loaded = true;
-			var scr = document.createElement("script");
-			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" :
-					"http://a.adroll.com");
-			scr.setAttribute('async', 'true');
-			scr.type = "text/javascript";
-			scr.src = host + "/j/roundtrip.js";
-			((document.getElementsByTagName('head') || [null])[0] ||
-			 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-			if (oldonload) {
-				oldonload()
-			}
-		};
-	}());
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();
+if (s_code) { document.write(s_code); }
+//-->
 </script>
-
 
 
 
