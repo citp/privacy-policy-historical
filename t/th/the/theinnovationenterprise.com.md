@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinnovationenterprise.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126215341id_/http%3A//theinnovationenterprise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinnovationenterprise.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413151829id_/https%3A//theinnovationenterprise.com/privacy) for the most accurate reproduction.*
 
 # The Innovation Enterprise
 
@@ -113,7 +113,7 @@ CFO Customer Service
 
 New York, NY 10036
 
-Phone: [212-459-3004](tel:212-459-3004)
+Phone: [](tel:212-459-3004)[212-459-3004](https://www.switch.co/launch?phone=212-459-3004 "Call with Switch.co")
 
 Last Updated: May 15, 2014
 
@@ -245,9 +245,9 @@ You should carefully read our full [Privacy Policy](https://ieondemand.com/priv
 
 2.12. Contributions to Innovation Enterprise
 
-If you provide feedback to us, make sure you don’t include confidential or infringing materials. You grant us rights to your feedback.
+If you provide content to us, make sure you don’t include confidential or infringing materials. You grant us rights to your content.
 
-By submitting suggestions or other feedback regarding our Services ("Contributions") in any way to Innovation Enterprise, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information; (b) Innovation Enterprise is not under any obligation of confidentiality, express or implied, with respect to the Contributions; (c) Innovation Enterprise shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide; (d) Innovation Enterprise may have something similar to the Contributions already under consideration or in development; (e) you irrevocably non-exclusively license to Innovation Enterprise rights to exploit your Contributions; and (f) you are not entitled to any compensation or reimbursement of any kind from Innovation Enterprise under any circumstances.
+By submitting suggestions or other contnent regarding in any way to Innovation Enterprise, you acknowledge and agree that: (a) your Contributions do not contain confidential or proprietary information; (b) Innovation Enterprise is not under any obligation of confidentiality, express or implied, with respect to the Contributions; (c) Innovation Enterprise shall be entitled to use or disclose (or choose not to use or disclose) such Contributions for any purpose, in any way, in any media worldwide; (d) Innovation Enterprise may have something similar to the Contributions already under consideration or in development; (e) you irrevocably non-exclusively license to Innovation Enterprise rights to exploit your Contributions; and (f) you are not entitled to any compensation or reimbursement of any kind from Innovation Enterprise under any circumstances.
 
 3\. Your Rights
 
@@ -453,6 +453,6 @@ CFO Customer Service
 
 New York, NY 10036
 
-Phone: [212-459-3004](tel:212-459-3004)
+Phone: [](tel:212-459-3004)[212-459-3004](https://www.switch.co/launch?phone=212-459-3004 "Call with Switch.co")
 
 \- See more at: <https://ieondemand.com/terms_of_service#sthash.TrKC1kYd.dpuf>
