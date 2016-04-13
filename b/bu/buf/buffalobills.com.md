@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125210352id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413223609id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Buffalo Bills
 
