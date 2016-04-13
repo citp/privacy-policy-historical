@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314222032id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialzone.in privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413220724id_/http%3A//serialzone.in/privacy-policy.php) for the most accurate reproduction.*
 
-# Policy
+# SerialZone: Hindi, Tamil, Kannada, Telugu, Malayalam, Bengali and Marathi Serial
 
 SerialZone.in, being a portal site catering to India and India related topics, acts as conduit for a large amount of sensitive and private data. We use the information we collect from your requests to process orders of our services at present stage which are sharing time, feedback and future developments which includes email, homepages and etc.
 
