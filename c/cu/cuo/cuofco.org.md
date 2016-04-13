@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuofco.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043405id_/https%3A//www.cuofco.org/sites/default/files/documents/cuofcoprivacynotice-2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuofco.org privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413071513id_/https%3A//www.cuofco.org/sites/default/files/documents/cuofcoprivacynotice-2014.pdf) for the most accurate reproduction.*
 
 # FACTS
 
