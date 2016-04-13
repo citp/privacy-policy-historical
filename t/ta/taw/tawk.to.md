@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tawk.to privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025180930id_/https%3A//www.tawk.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tawk.to privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413074259id_/https%3A//www.tawk.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tawk.to
 
@@ -12,7 +12,7 @@ Your privacy is important to us at tawk.to. Here is how your Privacy is maintain
 
 Below is our privacy policy which adhere to those principles :
 
-If you have questions about deleting or correcting your personal data please initiate a chat with us, or [send us an email](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d000632061305195c061d) at any time.
+If you have questions about deleting or correcting your personal data please initiate a chat with us, or [send us an email](mailto:support@tawk.to) at any time.
 
 Tawk.to operates an web application and corresponding mobile apps (on https://www.tawk.to). It is tawk.to’s policy to respect your privacy regarding any information we may collect while operating our services.
 
@@ -50,6 +50,6 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 Although most changes are likely to be minor, tawk.to may change its Privacy Policy from time to time, and in tawk.to’s sole discretion. tawk.to encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of these services after any change in this Privacy Policy will constitute your acceptance of such change.
 
 **Contacting us**  
-If you have questions about this policy, you can contact us at [support@tawk.to](https://web.archive.org/cdn-cgi/l/email-protection#4734323737283533073326302c693328).
+If you have questions about this policy, you can contact us at [support@tawk.to](mailto:support@tawk.to).
 
 Creative Commons: This privacy policy is based on one developed by Automattic (http://automattic.com/privacy/) and is licensed under a Creative Commons Attribution-ShareAlike 2.5 License.
