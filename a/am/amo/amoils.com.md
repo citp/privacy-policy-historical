@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910093323id_/https%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413134526id_/https%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
@@ -18,7 +18,9 @@ For site security purposes and to ensure that this service remains available to 
 
 Healing Natural Oils will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-© Copyright 2001 - 2015 Amoils.com All Rights Reserved
+### $10 off Your First Order Enter email to get your instant $10 coupon.
+
+© Copyright 2001 - 2016 Amoils.com All Rights Reserved
 
 Healing Natural Oils · 5195 Del Mar Mesa Rd San Diego, CA 92130 · (858) 794-8474
 
