@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officetimeline.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226140413id_/https%3A//www.officetimeline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officetimeline.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413155355id_/https%3A//www.officetimeline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Office Timeline
+# Office Timeline: Privacy Policy
 
 ###  We respect the privacy of our customers, partners, employees, job applicants, and other visitors to our websites who may provide personal information. We recognize the need for appropriate protections and management of personal information that you provide to us. Our policy is pretty simple, we do not share your personal information with anyone without your permission. 
 
