@@ -1,152 +1,134 @@
-> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003114903id_/http%3A//www.lagrangesystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagrangesystems.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413063204id_/http%3A//www.lagrangesystems.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Lagrange Systems
+# Privacy Policy - Webscale
 
-Lagrange Systems, Inc. ("Lagrange," "Us," or "We") is committed to protecting the privacy of the users of the [http://www.lagrangesystems.com](http://www.lagrangesystems.com/) web site (the "Site") and the services offered through the Site (the "Services"). This privacy policy (the "Policy") discloses our information privacy practices for the Site and Services. This policy is intended to inform registered users and other visitors to the Site of the information collection and use practices of the Site and Services. Your use of the Site and Services is also subject to our current Terms of Service, which are incorporated herein.
+Webscale Networks, Inc. (“Webscale” or “we”) values its customers and respects your privacy. This Privacy Policy discloses Webscale’s information-gathering and dissemination practices for the information collected through our call centers and websites operated by or on behalf of us, including without limitation, the website located at www.webscalenetworks.com and all other websites under such domain (the “Sites”). We encourage you to read this Privacy Policy before using the Sites. Your use of the Sites signifies that you agree with all of the terms and conditions of this Privacy Policy, so please do not use the Sites if you disagree with any part of this Privacy Policy.
 
-Amendments to this Policy will be posted on the Site and will be effective when posted. Your continued use of the Site or Services following the posting of any amendment will constitute your acceptance of that amendment, except if your personally identifiable information will be used in a materially different manner. See the Notification of Changes section below for further information.
+**1\. What are Webscale’s practices regarding the collection and use of information?**
 
-If you have questions or concerns regarding this Policy, you should contact us by e-mail at [privacy@lagrangesystems.com](mailto:privacy@lagrangesystems.com).
+(a) Personally Identifiable Information:
 
-## Ownership and Use
+(i) We may collect personally identifiable information from you (including, without limitation, your name, billing address, shipping address, email address, phone number, credit card number and expiration date, gender, date of birth, event type and date) when you provide it to us, such as when you create an account, place an order, enter a promotion, sign up for a newsletter, participate in a survey, contact customer service or otherwise interact with us. We may maintain a record of the purchases you make with us.
 
-We are the owner of the information collected on the Site and through the Services. We will not sell, share, transfer, or use this information other than as stated in this Policy.
+(ii) We may use your personally identifiable information in the following ways:
 
-## Lagrange Customers and Other Third Parties.
+  * To communicate with you and to send you information by mail, email, telephone or other means about our products, services, promotions and the like;
+  * To administer promotions and offers, fulfill information requests and process, fulfill and confirm orders and their shipment;
+  * To help us learn more about your preferences;
+  * To help us address problems with and improve our products and services and the design of the Sites;
+  * To enhance your experience with Webscale;
+  * To analyze trends and statistics;
+  * To protect the security or integrity of the Sites and our business;
+  * To contact you if necessary.
 
-Certain of the web sites of our customers, advertisers or affiliates and other third-parties may be accessible through the Site or Services. You may be asked to provide personally identifiable information (or other information) to these third parties through these web sites, including by way of example when you click on a link on the Site to one of these other web sites. In addition, you may order services of third party providers ( **"Third Party Providers"** ) through the Site and Services. By ordering any services provided by Third Party Providers, you consent to our providing the information about or provided by you that these Third Party Providers may request from us. These customers, Third Party Providers, and other third parties maintain their own privacy and data collection policies and practices. This Policy covers only the Site and Services and does not extend to our customers, Third Party Providers or any other third parties. LAGRANGE is not responsible for THE policies or practices of our CUSTOMERS, THIRD PARTY PROVIDERS OR any OTHER third parties. You should review the applicable privacy policies of our customers and any third parties before providing them with any personally identifiable information OR ORDERING SERVICES FROM THIRD PARTY PROVIDERS.
 
-## Personally Identifiable Information.
 
-We only collect and share personally identifiable information regarding users of the Site or Services as described in this Policy. Except as noted in this Policy, personally identifiable information collected on the Site or through the Services is NOT shared with third parties without your consent.
+(b) Cookies: The Sites use “cookies,” which are small data files that are stored on your computer when you visit a website. Cookies enable you to use or shop on the Sites and may be used in a variety of ways to enhance or personalize your online experience. For example, we may use cookies to enable you to use certain features of the Sites, store your preferences, recognize you when you return to the Sites, track your orders, and monitor and maintain information about your use of the Sites. Cookies also may be used to collect transaction information for promotions conducted on the Sites. Cookies do not cause damage to your computer system or files, and only the website that transferred a particular cookie to you can read, modify or delete such cookie. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on or similarly use the Sites.
 
-We may automatically collect personally identifiable information from you when you access the Site or use or access the Services. We may also collect personally identifiable information from you through a number of voluntary sources on the Site and through the Services, such as responses, registrations, surveys, reviews, comments, confirmations, emails, postings, messages or other electronic submissions and communications sent by you to the Site or through Services. The personally identifiable information we may collect from you will include, by way of example:
+(c) Pixel Tags:
 
-  * Domain name and Internet Protocol (IP) address;
-  * Internet traffic information (including originating IP address, path requested, HTTP method used, HTTP response code, and total packet size);
-  * E-mail address;
-  * Contact information;
-  * Financial information, such as account or credit card numbers;
-  * User-specific and aggregate information on areas of the Site accessed and the Services used;
-  * Username for the Site or Services; and
-  * Other information you volunteer to the Site or through the Services, such as information provided through responses, registrations, surveys, reviews, comments, emails, postings, messages or other electronic submissions and communications sent by you to us or the Site or Services.
+(i) We use “pixel tags” (also called “web beacons” or “clear gifs”), which are tiny graphic images, on the Sites and in our emails. Pixel tags help us analyze our customers’ online behavior and measure the effectiveness of the Sites. We work with service providers that help us track, collect, and analyze this information.
 
+(ii) Pixel tags on the Sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the Sites. This information may include your computer’s Internet protocol (IP) address, your browser type, your operating system, date and time information and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to the Sites. We do not otherwise track any information about your use of other websites.
 
+(iii) Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email from us.
 
-You should not provide LAGRANGE with any personally identifiable information (or submit or post any personally identifiable information to the site or in response to any communication) unless you would like that information to be used by LAGRANGE in accordance with this Policy.
+(iv) We also work with third-party companies that use tracking technologies to serve information on our behalf across the Internet. These companies may collect information about your visits to the Sites and your interaction with our information and other communications.
 
-If you register for the Site or Services through a third-party site or service, the personally identifiable information you have provided in connection with your account on that third-party site or service may be imported into your account on the Site.The personally identifiable information we may collect from you will also include any information imported from any such account on any third-party site. The personally identifiable information that we collect from users of the Site or Services (both registered and unregistered) may be used for a variety of purposes, including by way of example:
+(d) Other Information: As you interact with us, certain information may be collected passively, such as your IP address, browser type, operating system, or the MAC address of a wireless device that you may be using to access the Sites. This helps us identify you and provide better service to you. An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. The “MAC Address” or “Media Access Control Address” is an identifier attached to a network adapter, such as your wireless (Wi-Fi) card, device or component.
 
-  * Providing the Services;
-  * Providing to Third Party Providers from whom you have ordered additional services;
-  * Customizing advertising or other content displayed on the Site or through the Services;
-  * Customizing the layout of the Site or Services;
-  * Notifying users of the Site or Services about updates to and activities on the Site or Services;
-  * Improving the content of the Site or Services;
-  * Analyzing data and patterns regarding usage of the Site or Services;
-  * Processing payment for the Services;
-  * Contacting users of the Site or Services for marketing purposes; and
-  * Contacting users of the Site or Services for information verification purposes.
+**2\. What are Webscale’s practices regarding sharing and disclosure of personally identifiable information?**
 
+(a) We may share the personally identifiable information that you provide to us with the various brands of Webscale. Additionally, we may share such personally identifiable information with our subsidiaries and affiliates (“Affiliated Entities”) and selected third parties (“Promotional Partners”) as follows:
 
+(i) Affiliated Entities: We may share your personally identifiable information with Affiliated Entities for the uses set forth in Section 1(a) above.
 
-We may also share certain personally identifiable and non-personally identifiable information we collect through the Site or Services with third party companies so that they may offer products and services to users of our Site or Services that we believe will be of interest to those users.
+(ii) Promotional Partners: Webscale may share your personally identifiable information with Promotional Partners so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. Webscale also may provide your personally identifiable information to Promotional Partners when we team up with them to offer or provide products, services or other promotions. When selecting Promotional Partners, Webscale chooses only reputable companies that offer high-quality products and services. When you respond to any offers of, purchase the products or services from or participate in any other promotion sponsored by any Promotional Partner, any information that you provide to such Promotional Partner will be subject to such Promotional Partner’s privacy practices.
 
-## Non-Personally Identifiable Information.
+(iii) Service Providers: We may share your personally identifiable information with service providers who manage our customer information and perform services on our behalf, such as analyzing certain personal and non-personal information to allow us to better provide products and services to you, sending communications and conducting surveys. We do not authorize any of these service providers to make any other use or disclosure of your information.
 
-Where possible, our server automatically recognizes and collects certain non-personally identifiable information regarding visitors to the Site and users of the Services, including by way of example, IP address, browser type, and other information regarding the system and connection of each visitor or user. We also collect information about how visitors access and use the Site and Services, including by way of example what pages of the Site are viewed and what portions of services are used. This information allows us to improve the content of the Site and Services, facilitate research and analysis of the Site and Services, and develop and refine our Services. Sometimes, we utilize the services of a third party to help us understand this information better, although the information that is disclosed to these entities remains at all times in anonymous and non-personally identifiable form.
+(iv) Other Disclosures: Personally identifiable information may also be shared with third parties: (A) as permitted by law; (B) in the event of a transfer of ownership or assets of Webscale; (C) in the event of a bankruptcy of Webscale; (D) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process; or (E) to protect the interests or safety of Webscale or other visitors to the Sites, as determined at Webscale’s sole discretion.
 
-## Disclosure as Required by Law.
+**3\. Ad Networks**
 
-Though we make every reasonable effort to preserve user privacy, we may need to disclose personally identifiable information of certain users of the Site or Services when we have a reasonable and good-faith belief that the disclosure is necessary to enforce the Terms of Use for the Site, comply with a judicial proceeding, court order or other legal process, or to otherwise enforce or protect our rights under applicable law, including, without limitation, our intellectual property rights. In this situation we will use reasonable efforts to provide notice of this disclosure to all affected users, to the extent reasonably possible under the circumstances.
+Our third-party ad networks use technology that allows advertisements and links to appear on other websites in your browser. In some cases they automatically receive your IP address when this occurs. Other technologies (such as cookies, pixel tags and JavaScript) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-## Enhancement of Personal Information.
+Webscale has no access to or control over these cookies that are used by third-party advertisers; however we do not advertise directly on the Sites.
 
-We may combine and enhance our user database information with third party data and information to better target our advertising and provide pertinent offers in which we think our users would be interested. Certain summary demographics are also used in our research product offerings.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites.
 
-## Service Announcements.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-On occasion, it is necessary to send out service related announcements. For instance, if the Site or any of the Services is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. These communications are not promotional in nature.
+**4\. Online Advertising We Use**
 
-## Special Offers and Updates.
+Webscale also uses third-party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means that we will continue to show ads to you across the Internet. As always we respect your privacy and are not collecting any personally identifiable information through the use of Google’s or any other third-party remarketing system. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
-We may send new registrants of the Site or Services a welcoming email to verify password and username. Established members may occasionally also receive information on products, services and special deals, and periodic newsletters. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out section.
+**5\. Opt-Out**
 
-## Your California Privacy Rights.
+You may opt out of Google’s use of cookies by visiting [Google’s Ad Settings](https://www.google.com/settings/u/0/ads/authenticated). Also, you can opt out of other third-party vendors’ use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
-California law provides that California residents have a right to request that businesses tell them how their personally identifiable information has been shared with third parties for those third parties’ direct marketing purposes. However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person’s personally identifiable information to third parties for those third parties’ direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their personally identifiable information to third parties for such purposes.
+**6\. How do I access or change my information?**
 
-We have adopted a policy of allowing you to opt-out of the disclosure of your personally identifiable information to third parties for their direct marketing purposes and thus falls within this exception. Instructions for opting out can be found in the section below entitled "Choice and Opt-Out."
+(a) You can review and change certain personally identifiable information related to your use of the Sites (such as your name and contact information). To access and edit your information on the Sites, simply sign in to your account using your email address and password.
 
-## Choice and Opt-out.
+(b) You can also ask us to update your personally identifiable information by contacting us as described in the section below entitled, “How do I contact you?” Any request to update your personal information may take up to 10 days if requested via email and up to 8 weeks if requested via mail.
 
-We provide you with a choice whether to receive certain emails and other communications through the Site and Services.
+**7\. How do I stop receiving Webscale emails?**
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. If you are a user of the Site or Services and you no longer wish to receive emails, mail, or telephone calls from us or have your email address or postal address shared with third parties, you may opt-out of receiving email, mail or telephone calls from us or having your email address or postal address shared with third parties. 
+(a) If you prefer not to receive promotional emails, such as information about new products, special offers and sales events, from one or more of the Webscale brands, please contact customer service as described in the below section entitled, “How do I contact you?”. Please be sure to include your full name and the email address you used when you registered with or made a purchase from Webscale. It may take up to 10 days to process your email request.
 
-In addition, if you would prefer that we not share your personally identifiable information with third parties for the third parties’ direct marketing purposes, you may opt-out of having your personally identifiable information shared with third parties for the third parties’ direct marketing purposes.
+(b) Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
 
-All opt-out requests can be made by emailing us at: [privacy@lagrangesystems.com](mailto:privacy@lagrangesystems.com) or writing to us at:  
-Lagrange Systems, Inc.  
-1426 Pearl Street, Suite 207  
-Boulder, Colorado 80302  
-Attention: Privacy Officer  
+**8\. How do I stop receiving catalogs?**
 
+If you no longer wish to receive catalogs or other postal mail or wish to alert us to duplicate mailings, please contact customer service as described below in the section entitled, “How do I contact you?” Please provide your exact name and postal address so that your request can be effectively processed. It may take up to 90 days in order for your information to be removed from our list.
 
-## Children.
+**9\. How do I opt-out of Webscale’s practice of sharing information with Promotional Partners?**
 
-The Site and Services are not directed to children under 13 years of age. Lagrange does not knowingly solicit or collect personal information from children under 13 years of age.
+If you no longer want Webscale to share your personally identifiable information with Promotional Partners, you may opt out of such sharing by contacting customer service as described below in the section entitled, “How do I contact you?” It may take up to 90 days in order for your information to be removed from our list.
 
-## Customer Service.
+**10\. Does Webscale combine information from different sources?**
 
-We provide customer service as set forth in our Terms of Service. We communicate with users to provide these services in accordance with our Terms of Service.
+We may combine the personally identifiable information that we collect from you with other information about you that we collect or receive from other sources. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-## Cookies.
+**11\. How do I know that my personally identifiable information is secure?**
 
-"Cookies" include commonly used pieces of information in the form of small files that are placed on an individual's computer hard drive to enable the individual to more easily communicate and interact with the Site and Services. We may use cookies on the site or in communications sent through the Services for various purposes, including by way of example:
+(a) We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personally identifiable information. No company can fully eliminate security risks connected to handling information on the Internet. You should know that unauthorized persons might attempt to intercept your network communications. We encourage you to exercise caution in accessing Wi-Fi hotspots and other communications networks.
 
-  * Saving user preferences;
-  * Customizing content of the Site for individual users;
-  * Recording session information;
-  * Saving certain information about users of the Site and others who visit the Site; and
-  * Facilitating and enhancing interaction with the Site.
+(b) When you enter your personally identifiable information on the Sites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure that you are accessing our secure server before you submit personally identifiable financial information, look at your browser’s security level indicator to the right of the address bar or lower right corner of the window. If you see a solid key or a closed lock (depending on your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from “http” to “https.”
 
+**12\. What about links to other websites?**
 
+For your convenience and information, the Sites may contain links to other websites. We are not responsible for the content or practices of any linked website. Please be aware that the terms of this Privacy Policy do not apply to these outside websites, and we recommend that you review the privacy policy of any website that you access through the Sites.
 
-We do not use cookies to retrieve information from a computer that is unrelated to Lagrange or the Site or Services.
+**13\. How do I contact you?**
 
-A cookie does not collect or keep your name or other personally identifying information; however, we may link the information obtained through cookies to other personally identifiable information to give us a better understanding of your preferences, so that we can provide a more meaningful experience to you on our Site and through our Services.
+For questions about this Privacy Policy, to make choices about receiving promotional communications, to update your personally identifiable information, or to place an order, you may contact us by mail, email or telephone as follows:  
+Webscale Networks, Inc.  
+Attn: Customer Service  
+201 Ravendale Drive  
+Mountain View CA 94043  
+1.303.900.3560  
+[info@webscalenetworks.com](mailto:info@webscalenetworks.com)
 
-We may also use a third party provider to analyze data and patterns regarding usage of the Site and the communications sent through Services. This third party provider may use cookies to collect such information.
+**14\. What law governs this Privacy Policy?**
 
-Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You may also be able to refuse certain web beacons by adjusting the settings on your browser or email software. Please refer to your browser or email software instructions or help screen to learn more about these functions.
+The Sites are controlled and operated by Webscale from the United States, and are not intended to subject Webscale or any Affiliated Entity to the laws or jurisdiction of any state, country or territory other than that of the United States. Webscale does not represent or warrant that the Sites, or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Sites do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Sites’ availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. The Sites and Privacy Policy are governed by the laws of the State of California, USA, without regard to its choice of law or conflicts of law provisions.
 
-## Access, Review, Update.
+**15\. What are the California Privacy Rights?**
 
-Users of the Site and Services may review, delete, deactivate, update or change contact information and financial information that was previously provided to or collected by us by emailing us at privacy@lagrangesystems.com or writing to us at:  
-Lagrange Systems, Inc.  
-1426 Pearl Street, Suite 207  
-Boulder, Colorado 80302  
-Attention: Privacy Officer 
+California Civil Code Section 1798.83 permits customers of Webscale who are California residents to request certain information regarding its disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please write us:  
+Webscale Networks, Inc.  
+Attn: Customer Service  
+201 Ravendale Drive  
+Mountain View CA 94043  
+1.303.900.3560  
+[info@webscalenetworks.com](mailto:info@webscalenetworks.com)
 
-## Consent to the Use of Third Party Providers.
+For additional information, please see:  
+[http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84)  
+[http://www.leginfo.ca.gov/cgi-bin/waisgate?WAISdocID=105930194+0+0+0&WAISaction=retrieve](http://www.leginfo.ca.gov/cgi-bin/waisgate?WAISdocID=105930194+0+0+0&WAISaction=retrieve)
 
-In addition to the specific third parties noted in this Policy, we may also contract with other third parties to provide various services to us relating to the Site or Services on an outsourced basis rather than performing the services itself. For example, we may contract with a web site hosting provider to host all or a portion of the Site or Services. We may also use a third party payment processor to facilitate payments for the Site or Services. In addition, we may use a third party to collect and analyze information about the usage of the Site and Services. By visiting the Site or using the Services, you consent to our use of these third party providers to collect both personal and non-personal information from you as part of the services that these third parties provide to us. You also consent to our providing your personal and non-personal information to these third party providers for the purpose of enabling the providers to provide their services to us. In each case, your personal and non-personal information will be used by our third party service providers on our behalf under the terms of this Policy, and you consent to the maintenance, processing, and use of your personal and non-personal information by us and these third party providers as described in this Policy.
+**16\. How will I know if you update this Privacy Policy?**
 
-## Notification of Changes.
-
-If we decide to change this Policy, we will either notify users by posting material changes on the Site so our users are aware of what information we collect, how we use it, and if we disclose it. Unless we seek and receive your consent, we will use information in accordance with the Policy under which the information was last collected. Users may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at privacy@lagrangesystems.com.
-
-## Security.
-
-We will use at least industry standard security measures on the Site to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information. For example, our policy is that only those individuals who need your personally identifiable information to perform a specific job are granted access to that personally identifiable information. Likewise, all employees and contractors are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-
-## Contact Information.
-
-All inquiries concerning this Policy and the Site or Services in general may be sent to [privacy@lagrangesystems.com](mailto:privacy@lagrangesystems.com).
-
-Transfer of Information. 
-
-If we elect, in our sole discretion, to transfer ownership or control of the Site or Services to a third party, whether or not in the context of an acquisition, merger, or reorganization, you consent to the transfer of your personally identifiable information and non-personally identifiable information by us to that third party, provided that all use of your information by that third party remains subject to the terms of this Policy.
-
-Thank you for visiting the Site and using the Services. 
+We may amend this Privacy Policy at any time. Any such amendment to this Privacy Policy will be effective upon our posting of the revised Privacy Policy on the Sites.
