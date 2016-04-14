@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227031433id_/https%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415003834id_/https%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
