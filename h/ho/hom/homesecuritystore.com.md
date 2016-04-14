@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128175744id_/http%3A//www.homesecuritystore.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415003459id_/http%3A//www.homesecuritystore.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last updated: February 06, 2015
 
-Nataly Kay Enterprises, LLC ("us", "we", or "our") operates the www.homesecuritystore.com website (the "Service").
+Sterling Security Store ("us", "we", or "our") operates the www.homesecuritystore.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
