@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910184147id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414212755id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
 
-# Realtors Property Resource
+# Privacy Policy - Realtors Property Resource
 
 Welcome to the Realtors Property Resource®, LLC ("RPR") website ("Site"). We at RPR recognize and respect the privacy expectations of our users. We believe that making you aware of how we collect information about you and about your usage of the Site, how we use that information, and who we share that information with will form the basis for a relationship of trust between RPR and you. This Privacy Policy provides that explanation. We reserve the right to change this Privacy Policy from time to time.
 
