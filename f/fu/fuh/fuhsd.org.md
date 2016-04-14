@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004174635id_/http%3A//www.fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1443760265451) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuhsd.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414204353id_/http%3A//www.fuhsd.org/portal/privacy%3Fd%3Dx%26return_url%3D1460058654841) for the most accurate reproduction.*
 
 # Privacy Notice
 
