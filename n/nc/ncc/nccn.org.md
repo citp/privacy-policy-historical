@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020132327id_/http%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414163051id_/http%3A//www.nccn.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # NCCN - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## NCCN Privacy Statement
 
-The National Comprehensive Cancer Network®, Inc., (NCCN®) is issuing this privacy statement to keep our valued users informed of activities in place to ensure their privacy. This privacy statement covers the site [NCCN.org](https://web.archive.org/). If users have questions or concerns regarding this statement, they should contact Joseph Junod, Director, Information Technology, by [ E-mail ](https://web.archive.org/about/emailform.asp?ID=3) or telephone (215.690.0242). 
+The National Comprehensive Cancer Network®, Inc., (NCCN®) is issuing this privacy statement to keep our valued users informed of activities in place to ensure their privacy. This privacy statement covers the site [NCCN.org](https://web.archive.org/). If users have questions or concerns regarding this statement, they should contact Joseph Junod, Director, Information Technology, by [ E-mail ](mailto:junod@nccn.org) or telephone (215.690.0242). 
 
 ## Information Collection and Use
 
@@ -62,7 +62,7 @@ Like most website servers, NCCN's uses log files. These include Internet protoco
 
 _Special Offers and Updates_
 
-Registered NCCN visitors will occasionally receive information on new or updated NCCN programs, services, or resources. Opting in means users have asked to be contacted about NCCN programs, services, and resources. Users may opt-out via e-mail or by updating their profile. Users may unsubscribe at any time by [contacting us](https://web.archive.org/about/emailform.asp?department=marketing).
+Registered NCCN visitors will occasionally receive information on new or updated NCCN programs, services, or resources. Opting in means users have asked to be contacted about NCCN programs, services, and resources. Users may opt-out via e-mail or by updating their profile. Users may unsubscribe at any time by [contacting us](mailto:Seabury@nccn.org).
 
 **Sharing**
 
@@ -92,7 +92,7 @@ NCCN will reveal only the last four digits of your credit card number on confirm
 
 While NCCN uses SSL encryption to protect sensitive information on-line, NCCN also does everything in its power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure, locked environment.
 
-If users have any questions about the security of [NCCN.org](https://web.archive.org/), please [ contact us](https://web.archive.org/about/emailform.asp?ID=4). 
+If users have any questions about the security of [NCCN.org](https://web.archive.org/), please [ contact us](mailto:security@nccn.org). 
 
 ####  Supplementation of Information 
 
@@ -104,7 +104,7 @@ NCCN uses Authorize.net for credit card processing services to verify a user's a
 
 ####  Correcting/Updating/Deleting/Deactivating Personal Information 
 
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires to receive information, NCCN provides a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by [E-mailing](https://web.archive.org/about/emailform.asp?department=website) our User Support. 
+If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires to receive information, NCCN provides a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by [E-mailing](mailto:usersupport@nccn.org) our User Support. 
 
 ####  Notification of Changes 
 
@@ -114,7 +114,7 @@ If, however, NCCN is going to use users' personally identifiable information in 
 
 ####  Contact Information 
 
-If users have any questions or suggestions regarding our privacy policy, please [ contact us ](https://web.archive.org/about/emailform.asp?department=website). 
+If users have any questions or suggestions regarding our privacy policy, please [ contact us ](mailto:usersupport@nccn.org). 
 
   
 
