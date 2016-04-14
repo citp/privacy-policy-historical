@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626105944id_/http%3A//rt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rt.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034443id_/https%3A//www.rt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — RT
+# RT privacy policy — RT
 
 When you use RT websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by RT and third parties that provide site usage statistics services to us.
 
