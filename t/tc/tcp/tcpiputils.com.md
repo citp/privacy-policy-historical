@@ -1,35 +1,90 @@
-> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030143948id_/http%3A//www.tcpiputils.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414072212id_/http%3A//www.tcpiputils.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for TCPIPUTILS.COM
 
-Last change June 2015
+Through its online service, TCPIPUtils will process privacy-sensitive or personal data. Webdevmedia values the privacy of its customers and observes due care in processing and protecting personal data. We process data in compliance with the requirements laid down by the Dutch Personal Data Protection Act (DPDA). Webdevmedia is the party responsible for all data processing. In this privacy statement, we will explain which personal data we collect and for which purposes. We recommend that you read it carefully.
 
-### Acceptance of Terms and Conditions
+This privacy statement was last amended on 2016-02-01.
 
-TCPIPUTILS.COM respects and protects the privacy of the User that use the Website and our Services. This Privacy Policy outlines the types of personal information is received and collected by TCPIPUTILS.COM and how it is used. By accessing this Website and/or using any of our Services or Service Data, User agrees to the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the TCPIPUTILS.COM Terms Of Service and Cookie Policy. All capitalized terms not otherwise defined herein are defined in the Terms Of Service.
+## Data collected on our website
 
-TCPIPUTILS.COM may change this Privacy Policy from time to time at its sole discretion. Such changes shall be effective as noted in our Terms Of Service. This Privacy Policy constitutes a legally binding agreement between User and TCPIPUTILS.COM. By accessing or using the Service, User expressly and irrevocably agrees to the Terms and to abide by the Terms. If the User does not agree with any of these Terms, User may not, under any circumstances, use the Service.
+**Use of Personal Data**
 
-### Data Collection
+By using our website, you are providing certain data to us. This could be personal data. We only retain and use the personal data provided directly by you or for which it is clear that it has been supplied to us to be processed. We use the following data for the purposes as mentioned in the “Data collected on our website” part of this Privacy Statement:  
+\- Name and address  
+\- Billing address  
+\- Email address  
+\- Payment details  
+\- IP address
 
-User should be aware that portions of the Service contain functions for collecting and/or receiving User's personal information, including email address, information about User's product purchases, any credit information provided as well as User's accessing history of the Service. TCPIPUTILS.COM may also collect and track non-personally identifiable information about User including User's IP address, the type of browser User employs, and the referrer ID.
+ **Registration**
 
-### Use of User Information
+Certain features of our service require you to register beforehand. After your registration we will retain your user name and the personal data you provided. We will retain this data so that you do not have to re-enter it every time you visit our website, to contact you in connection with the execution of the agreement, invoicing and payment, and to provide an overview of the products and services you have purchased from us.
 
-TCPIPUTILS.COM does not sell personal information to third parties. TCPIPUTILS.COM may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User. TCPIPUTILS.COM reserves the right to compile, save and analyze any and all User data (registration data, use history, test input and results etc.).
+We will not provide the data linked to your user name to third parties, unless it is necessary for the execution of the agreement you concluded with us or if this is required by law. In the event of suspicion of fraud or misuse of our website we may hand over personal data to the entitled authorities.
 
-TCPIPUTILS.COM may provide information, including personal information, to certain third party service providers like payment providers. These companies are obligated to protect User's information and are not permitted to use it for other purposes.
+**Handling your order**
 
-TCPIPUTILS.COM may disclose User's personal information in association with law enforcement, fraud prevention, a subpoena, or other legal action; as required by law, rule, or regulation; or if TCPIPUTILS.COM reasonably believes it is required to protect its customers, or the public.
+We will use your personal data when handling your order. If necessary for proper handling, we can provide your data to third parties. We will explain this in detail later.
 
-### Cookies
+ **Buy credits**
 
-Cookies are small files that a website transfers to a computer through a web browser that enables the website to recognize a browser and capture and remember certain information. TCPIPUTILS.COM uses cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Our advertising partners may use cookies to personalise advertisement. See our Cookie Policy for an overview of our Cookies.
+Via TCPIPUtils you can buy credits to use certain functionalities.
 
-### Search box
+**Subscription**
 
-The search box on this website ("Search Box") is powered by Google Inc ("Google"). User acknowledges and agrees that Google's privacy policy (available at http://www.google.com/privacy.html) will apply to User's use of the Search Box. By using the Search Box, User agrees that Google will use User's personal data in accordance with its privacy policy.
+Via TCPIPUtils you can take out a paid subscription.
 
-### Security
+ **Promotion**
 
-TCPIPUTILS.COM uses reasonable security measures to safeguard information concerning, and submitted by User. Despite the security measures employed by TCPIPUTILS.COM, User should be aware that it is impossible to guarantee absolute security with respect to information storage and information sent through the Internet, and User agrees and accepts the risks associated with the same.
+Other than the advertisements on the website, we can inform you about new products or services:
+
+\- by e-mail
+
+**Contact Form and Newsletter**
+
+We have a newsletter to inform those interested of our products and/or services. Each newsletter contains a link with which to unsubscribe from our newsletter. Your email address will be added to the list of subscribers only with your explicit consent. If you fill out a contact form on the website or send us an email, the data you provide will be retained for as long as is necessary depending on the nature of the form or the content of your email, to fully answer and correctly handle your message or email.
+
+**Advertisements**
+
+Our service displays advertisements of third parties, who keep personal data to personalise these.
+
+**Providing Data to Third Parties**
+
+We may provide your data to our partners. These partners are involved in the execution of the agreement.
+
+These partners may be based outside the EU. However, they make use of the European model clauses. Our website features social media buttons. These buttons are used by the providers of these services to collect your personal data.
+
+**Google Analytics**
+
+We use Google Analytics to track visitors on our website and to get reports about how visitors use the website. We accepted the data processing agreement from Google. We don't allow Google to use information obtained by Analytics for other Google services, and we anonymize the IP adresses.
+
+ **Google Search Box**
+
+The Google search box on our website ("Search Box") is powered by Google Inc ("Google"). You acknowledges and agrees that Google's privacy policy (available at http://www.google.com/privacy.html) will apply to your use of the Search Box. By using the Search Box, you agrees that Google will use your personal data in accordance with its privacy policy.
+
+**Security**
+
+We take security measures to reduce misuse of and unauthorised access to personal data. We take the following measures in particular:
+
+\- Access to personal data requires the use of a user name and password
+
+\- We make use of secure connections (Secure Sockets Layer of SSL) to encrypt all information between you and our website when entering your personal data.
+
+**Third-party Websites**
+
+This statement is not applicable to third-party websites connected to this website through links. We cannot guarantee that these third parties will handle your personal data in a secure and careful manner. We recommend you read these websites’privacy statements before making use of these websites.
+
+**Whois information**
+
+On our service Whois information is displayed. This information is shown for the sole purpose of assisting our users in obtaining information about domain name or IP address registration records and for no other purpose. We only serve this information to the user who made the request. For performance reasons we cache this information for a limited time. After the cache has expired we will delete this information from our systems. Our service acts as a caching provider for Whois information.
+
+Whois information may contain personal information. We offer you to opt-out your domain name or IP address from our system. After opt-out we will not display and cache the Whois information for that particular domain name or IP address. You can create a support ticket [here](https://web.archive.org/support) to ask for opt-out.
+
+**DNS, domain and IP information**
+
+For our IP investigation tool we collect several DNS, domain and IP records. This information is for example used to track spammers or hackers, detect potentially fraudulent transactions, identify malicious websites and to protect intellectual property. We do do not track individual behaviors or usage patterns. All information is stored without any personal information or user context.
+
+We reserve the right to modify this statement. We recommend that you review this statement regularly, so that you remain informed of any changes.
+
+You can always contact us if you have any questions regarding our privacy policy or wish to review, modify or delete your personal data.
