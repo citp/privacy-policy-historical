@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesagenext.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214201437id_/http%3A//www.thesagenext.com/cloud/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesagenext.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414031527id_/http%3A//www.thesagenext.com/cloud/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy- SageNext Infotech, SageNext Terms and Conditions
 
