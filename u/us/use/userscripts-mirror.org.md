@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userscripts-mirror.org privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015111044id_/http%3A//userscripts-mirror.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userscripts-mirror.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414074255id_/http%3A//userscripts-mirror.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Userscripts.org
 
