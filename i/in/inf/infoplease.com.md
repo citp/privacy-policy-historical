@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2015-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151121140755id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoplease.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414123239id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -52,7 +52,7 @@ If you have any questions or concerns about this privacy statement, or your deal
 
 a) E-mail us at [Customer Support](http://fen.custhelp.com/app/ask/p/1/search/1); 
 
-b) Write to us at: FEN, 501 Boylston St, Suite 900, Boston, MA 02116; or
+b) Write to us at: FEN, 50 Congress St, Suite 1025, Boston, MA 02109; or
 
 c) Call us at: 1-800-498-3264. 
 
@@ -140,9 +140,11 @@ Google has additional information available about their [Remarketing Privacy Gui
 
 You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>.
 
+Use of Intercom Services: We use third-party analytics services to help understand your usage of the Site. In particular, we provide a limited amount of information on our users (such as email address and sign-up date) to Intercom, Inc. ("Intercom") and utilize Intercom to collect user data for analytics purposes. Intercom analyzes usage of the Site and tracks FEN's relationship with you so we can improve your experience on the Site. We also use Intercom as a medium for communications with you, either through email, or through messages within the Site. As part of FEN's service agreement with Intercom, Intercom collects publicly available contact and social information related to our users, such as email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, also to enhance such your experience on the Site. For more information on the privacy practices of Intercom, please visit [http://docs.intercom.io/privacy](https://docs.intercom.io/pricing-and-terms/privacy). Intercom's services are governed by Intercom's terms of use which can be found at [http://docs.intercom.io/terms](https://docs.intercom.io/pricing-and-terms/terms). You can always opt out of having such information collected by or submitted to Intercom by contact us and making such request in writing.
+
 * * *
 
-© 2000-2015 Sandbox Networks, Inc. All rights reserved 
+© 2000-2016 Sandbox Networks, Inc. All rights reserved 
 
   
   | 
