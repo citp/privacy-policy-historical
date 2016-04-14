@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227221542id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414133213id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Concern Privacy Statement - Concern Worldwide
 
@@ -29,7 +29,7 @@ With regard to each of your visits to our site we may automatically collect the 
 
 We may receive information about you if you use any of the other websites we operate or the other services we provide.  We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-We may receive information from a service provider contracted by us to carry out remarketing which involves displaying our advertisements on other sites and in that context may receive information in relation to your browsing of those advertisements on those other sites. See our cookies policy for more details on this.
+We may receive information from a service provider contracted by us to carry out remarketing which involves displaying our advertisements on other sites and in that context may receive information in relation to your browsing of those advertisements on those other sites. See our [cookie policy](https://www.concern.net/about/cookie-policy) for more details on this.
 
 ## Cookies 
 
