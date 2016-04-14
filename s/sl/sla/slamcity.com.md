@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the slamcity.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318215035id_/http%3A//www.slamcity.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slamcity.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414142231id_/http%3A//www.slamcity.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
+
+
+
 
 To bring us in line with new EU rules regarding cookie usage on websites our Privacy and Cookie Policy provides clear information on what cookies are, which cookies we use and why, and how you can control cookie usage during your visits to Slamcity.com.
 
