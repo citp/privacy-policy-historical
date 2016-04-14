@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919154516id_/https%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415010348id_/https%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - SA TEAM
 
-This Privacy Policy governs the manner in which Salt Armour collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.SATEAM.com](https://web.archive.org/web/20150919154516id_/https%3A//safishing.com/www.sateam.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Salt Armour.
+This Privacy Policy governs the manner in which Salt Armour collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.safishing.com](https://web.archive.org/web/20160415010348id_/http://safishing.com/privacy-policy/www.sateam.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Salt Armour.
 
 **PERSONAL  IDENTIFICATION INFORMATION**
 
@@ -53,14 +53,16 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Salt Armour](http://www.generateprivacypolicy.com/account/policies/edit/www.saltarmour.com)
+Salt Armour
 
-[www.saltarmour.com](http://www.generateprivacypolicy.com/account/policies/edit/www.saltarmour.com)
+www.saltarmour.com
 
-P.O. Box 971092 Boca Raton Fl, 33497
+Salt Armour, Inc
 
-561-859-1292
+1140 Holland Drive  
+Boca Raton, FL 33487  
+Suite #6
 
-[customerservice@saltarmour.com](mailto:customerservice@saltarmour.com)
+561-948-6557
 
-This document was last updated on August 12, 2014
+This document was last updated on January 1, 2016
