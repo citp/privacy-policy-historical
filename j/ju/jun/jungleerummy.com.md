@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungleerummy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080345id_/https%3A//www.jungleerummy.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungleerummy.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414120644id_/https%3A//www.jungleerummy.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - JungleeRummy.com
 
