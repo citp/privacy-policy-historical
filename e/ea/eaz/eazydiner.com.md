@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002143956id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414223211id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
 
-# EazyDiner | Best Restaurants, Deals in Delhi, Gurgaon & Mumbai , Online Restaurant Bookings
+# Privacy Policy | Static | Eazydiner
 
 **Privacy Policy**
 
