@@ -1,118 +1,83 @@
-<!--The following is the downloaded HTML source of the latina.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226124800id_/https%3A//www.latina.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the latina.com privacy policy that was archived on 2016-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414153942id_/http%3A//www.latina.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTLRVM"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEEWFBRGwIFXVZaBgEA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PTLRVM"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEEWFBRGwIFXVZaBgEA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="canonical" href="http://www.latina.com/privacy-policy">
-<meta name="copyright" content="2010 Latina Media Ventures LLC">
-<meta property="fb:app_id" content="456703624436354">
-<meta property="og:description" content="Latina Media Ventures LLC (&quot;we,&quot; &quot;us,&quot; &quot;our&quot;) respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy (&quot;Privacy Policy&quot;) to explain what information may be collected on this site (&quot;Site&quot;) and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through this Site and not through any other sources. This Privacy Policy is subject to the Terms of Use posted on this Site.">
-<meta property="og:url" content="http://www.latina.com/privacy-policy">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Privacy Policy">
-<link rel="canonical" href="http://www.latina.com/privacy-policy">
+<meta property="og:url" content="http://www.latina.com/privacy-policy">
 <link rel="shortcut icon" href="http://www.latina.com/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
-<script type="application/ld+json">{"@context": "http://schema.org","@type": "page","headline": "Privacy Policy","url": "http://latina.com/privacy-policy","thumbnailUrl": "","dateCreated": "2013-01-06T14:49:58-05:00","articleSection": "","creator": "Latina Staff","keywords": []}</script><link rel="shortlink" href="/node/16163">
-<meta property="sailthru.tags" content="">
-<meta property="sailthru.author" content="Latina Staff">
-<meta property="sailthru.date" content="2013-01-06">
-<meta property="sailthru.description" content="">
-<meta property="sailthru.image.full" content="">
-<meta property="sailthru.image.thumb" content="">
-<meta property="sailthru.title" content="Privacy Policy">
+<link rel="canonical" href="http://www.latina.com/privacy-policy">
+<meta property="og:description" content="Latina Media Ventures LLC (&quot;we,&quot; &quot;us,&quot; &quot;our&quot;) respects your privacy and is committed to protecting your personally identifiable information. We have adopted this privacy policy (&quot;Privacy Policy&quot;) to explain what information may be collected on this site (&quot;Site&quot;) and how such information may be used and/or shared with others. This Privacy Policy applies solely to information collected through this Site and not through any other sources. This Privacy Policy is subject to the Terms of Use posted on this Site.">
+<meta property="fb:app_id" content="456703624436354">
+<link rel="shortlink" href="/node/16163">
+<script type="application/ld+json">{"@context": "http://schema.org","@type": "page","headline": "Privacy Policy","url": "http://latina.com/privacy-policy","thumbnailUrl": "","dateCreated": "2013-01-06T14:49:58-05:00","articleSection": "","creator": "Latina Staff","keywords": []}</script><meta name="copyright" content="2010 Latina Media Ventures LLC">
+<link rel="canonical" href="http://www.latina.com/privacy-policy">
+<meta property="og:title" content="Privacy Policy">
   <title>Privacy Policy</title>
   <link type="text/css" rel="stylesheet" href="http://www.latina.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.latina.com/sites/default/files/css/css_MtTGHXQuk_eWgtUb0wuGmDt_GQBrTQK5rU6vDAHuObg.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.latina.com/sites/default/files/css/css_4MzlfViPCTxMn4x1WTdK2DpMub1v-OSCvLY7HSlBMeo.css" media="all">
 <link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.latina.com/sites/default/files/css/css_YN9RfQY4hiE-CC_8zrKHXTkrKk7g1TIF2EKMdRksT18.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.latina.com/sites/default/files/css/css_DWYt77gn5PaVnjG5UZi6vH4XKDPopYBpcX5VK1SycMs.css" media="all">
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-	<script>window.google_analytics_uacct = "UA-5676597-1";window.google_analytics_domain_name = ".latina.com";</script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
-<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.js"></script>
+	<script>window.google_analytics_domain_name = ".latina.com";window.google_analytics_uacct = "UA-5676597-1";</script>
+<script src="//code.jquery.com/jquery-1.8.3.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.js"></script>
 <script src="http://www.latina.com/misc/jquery.once.js?v=1.2"></script>
 <script>var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
 googletag.slots = googletag.slots || {};</script>
 <script src="http://www.googletagservices.com/tag/js/gpt.js"></script>
-<script src="http://www.latina.com/misc/drupal.js?nzug53"></script>
-<script>googletag.slots["interstitial"] = googletag.defineOutOfPageSlot("/310562/lat.tmus/ROS", "dfp-ad-interstitial")
+<script src="http://www.latina.com/misc/drupal.js?o5mpme"></script>
+<script>googletag.slots["interstitial"] = googletag.defineOutOfPageSlot("/310562/lat.tmus", "dfp-ad-interstitial")
   .addService(googletag.pubads())
   .setTargeting("slot", "oop");</script>
-<script>googletag.slots["atf_leaderboard"] = googletag.defineSlot("/310562/lat.tmus/ROS", [[970, 250], [728, 90], [970, 60], [970, 66]], "dfp-ad-atf_leaderboard")
+<script>googletag.slots["atf_leaderboard"] = googletag.defineSlot("/310562/lat.tmus", [[970, 250], [728, 90], [970, 60], [970, 66]], "dfp-ad-atf_leaderboard")
   .addService(googletag.pubads())
   .setTargeting("slot", "atf-leaderboard");</script>
-<script>googletag.slots["atf_box1"] = googletag.defineSlot("/310562/lat.tmus/ROS", [[300, 600], [300, 250]], "dfp-ad-atf_box1")
+<script>googletag.slots["atf_box1"] = googletag.defineSlot("/310562/lat.tmus", [[300, 600], [300, 250]], "dfp-ad-atf_box1")
   .addService(googletag.pubads())
   .setTargeting("slot", "atf-box1");</script>
-<script>googletag.slots["btf_box2"] = googletag.defineSlot("/310562/lat.tmus/ROS", [300, 250], "dfp-ad-btf_box2")
+<script>googletag.slots["btf_box2"] = googletag.defineSlot("/310562/lat.tmus", [300, 250], "dfp-ad-btf_box2")
   .addService(googletag.pubads())
   .setTargeting("slot", "btf-box2");</script>
-<script>googletag.slots["btf_box3"] = googletag.defineSlot("/310562/lat.tmus/ROS", [300, 250], "dfp-ad-btf_box3")
+<script>googletag.slots["btf_box3"] = googletag.defineSlot("/310562/lat.tmus", [300, 250], "dfp-ad-btf_box3")
   .addService(googletag.pubads())
   .setTargeting("slot", "btf-box3");</script>
-<script>googletag.slots["btf_leaderboard"] = googletag.defineSlot("/310562/lat.tmus/ROS", [728, 90], "dfp-ad-btf_leaderboard")
+<script>googletag.slots["btf_desktop_sticky"] = googletag.defineSlot("/310562/lat.tmus", [728, 90], "dfp-ad-btf_desktop_sticky")
   .addService(googletag.pubads())
-  .setTargeting("slot", "btf-leaderboard");</script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/om_maximenu/js/om_maximenu.js?nzug53"></script>
+  .setTargeting("slot", "sticky");</script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/om_maximenu/js/om_maximenu.js?o5mpme"></script>
 <script>googletag.cmd.push(function() {
   googletag.pubads().enableAsyncRendering();
   googletag.pubads().enableSingleRequest();
   googletag.pubads().collapseEmptyDivs();
   googletag.pubads().setTargeting("path", "/privacy-policy");
   googletag.pubads().setTargeting("contentType", "Basic page");
-  googletag.pubads().setTargeting("author", "Latina Staff");
-  googletag.pubads().setTargeting("shortLink", "/node/16163");
+  googletag.pubads().setTargeting("articleid", "16163");
   googletag.pubads().setTargeting("site", "www");
 });
 
 googletag.enableServices();</script>
-<script src="http://www.latina.com/sites/all/modules/jquery_ajax_load/jquery_ajax_load.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/jcarousel/js/jcarousel.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/modules/google_analytics/googleanalytics.js?nzug53"></script>
-<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-5676597-1"]);_gaq.push(["_setDomainName", ".latina.com"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
-<script>
-	  <!-- Sailthru Horizon -->
-		  (function() 
-			{
-		    function loadHorizon() 
-				{
-			    var s = document.createElement('script');
-			    s.type = 'text/javascript';
-			    s.async = true;
-			    s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
-			    var x = document.getElementsByTagName('script')[0];
-			    x.parentNode.insertBefore(s, x);
-		    }
-		    loadHorizon();
-		    var oldOnLoad = window.onload;
-		    window.onload = function() 
-				 {
-		      if (typeof oldOnLoad === 'function') 
-					 {
-		        	oldOnLoad();
-		      }
-		      Sailthru.setup({ 
-		      domain: 'horizon.latina.com'
-		      });
-		      };
-		    	})();
-	</script>
-<script src="http://www.latina.com/sites/all/modules/disqus/disqus.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/themes/latina_tb/js/jquery.mobile.custom.min.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/themes/latina_tb/js/custom.js?nzug53"></script>
-<script src="http://www.latina.com/sites/all/themes/latina_tb/js/touch.js?nzug53"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"latina_tb","theme_token":"nUufYIL1EOnRdKqBYM8iPUVErFfN5bDi7ZCoLMPHlgQ","js":{"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.2\/jquery.js":1,"1":1,"misc\/jquery.once.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/om_maximenu\/js\/om_maximenu.js":1,"9":1,"sites\/all\/modules\/jquery_ajax_load\/jquery_ajax_load.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"10":1,"11":1,"sites\/all\/modules\/disqus\/disqus.js":1,"sites\/all\/themes\/latina_tb\/js\/jquery.mobile.custom.min.js":1,"sites\/all\/themes\/latina_tb\/js\/custom.js":1,"sites\/all\/themes\/latina_tb\/js\/touch.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tb_megamenu\/fonts\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/om_maximenu\/skin\/no_style\/no_style.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/custom\/latina_subscribe\/latina_subscribe.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/latina_tb\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/16163","view_base_path":null,"view_display_id":"block","view_name":"featured_nodes","jcarousel_dom_id":1},"wrap":"circular","autoPause":1,"start":1,"skin":"default","selector":".jcarousel-dom-1"}}},"jquery_ajax_load":{"trigger":".jquery_ajax_load","target":"#jquery_ajax_load_target","toggle":true,"animation":true,"base_path":"\/","module_path":"sites\/all\/modules\/jquery_ajax_load","site_name":"Latina","TBtrigger":".twitter_bootstrap_modal","TBmodal":"\n\u003Cdiv id=\u0022jquery_ajax_load%s\u0022 class=\u0022modal hide fade\u0022 tabindex=\u0022-1\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022myModalLabel\u0022 aria-hidden=\u0022true\u0022\u003E\u0027;\n  \u003Cdiv class=\u0022modal-header\u0022\u003E\n    \u003Cbutton type=\u0022button\u0022 class=\u0022close\u0022 data-dismiss=\u0022modal\u0022 aria-hidden=\u0022true\u0022\u003E\u00d7\u003C\/button\u003E\n    \u003Ch3 class=\u0022modal_title\u0022\u003ELatina\u003C\/h3\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0022modal-body\u0022\u003E \n    \u003Cspan class=\u0022text-warning\u0022\u003E... \u003C\/span\u003E\n    \u003Cimg src=\u0022sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_loading.gif\u0022\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0022modal-footer\u0022\u003E\n    \u003Cbutton class=\u0022btn\u0022 data-dismiss=\u0022modal\u0022 aria-hidden=\u0022true\u0022\u003E\u003C\/button\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"disqus":{"domain":"latina","url":"http:\/\/www.latina.com\/privacy-policy","title":"Privacy Policy","identifier":"node\/16163"}});</script>
+<script src="http://www.latina.com/sites/all/modules/jquery_ajax_load/jquery_ajax_load.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/twitter_bootstrap_modal/twitter_bootstrap_modal.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/jcarousel/js/jquery.jcarousel.min.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/jcarousel/js/jcarousel.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/modules/google_analytics/googleanalytics.js?o5mpme"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-5676597-1", {"cookieDomain":".latina.com"});ga("require", "displayfeatures");ga("send", "pageview");</script>
+<script src="http://www.latina.com/sites/all/modules/disqus/disqus.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/themes/latina_tb/js/jquery.mobile.custom.min.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/themes/latina_tb/js/custom.js?o5mpme"></script>
+<script src="http://www.latina.com/sites/all/themes/latina_tb/js/touch.js?o5mpme"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"latina_tb","theme_token":"WppTRpUyzFbhJmb7UEeAcAUQJ1Ya6vwO6Qr9SXtOTIw","js":{"0":1,"\/\/code.jquery.com\/jquery-1.8.3.js":1,"1":1,"misc\/jquery.once.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/om_maximenu\/js\/om_maximenu.js":1,"9":1,"sites\/all\/modules\/jquery_ajax_load\/jquery_ajax_load.js":1,"sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"10":1,"sites\/all\/modules\/disqus\/disqus.js":1,"sites\/all\/themes\/latina_tb\/js\/jquery.mobile.custom.min.js":1,"sites\/all\/themes\/latina_tb\/js\/custom.js":1,"sites\/all\/themes\/latina_tb\/js\/touch.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/om_maximenu\/css\/om_maximenu.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/tb_megamenu\/fonts\/font-awesome\/css\/font-awesome.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/modules\/om_maximenu\/skin\/no_style\/no_style.css":1,"sites\/all\/modules\/jcarousel\/skins\/default\/jcarousel-default.css":1,"sites\/all\/modules\/custom\/latina_subscribe\/latina_subscribe.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/latina_tb\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/16163","view_base_path":null,"view_display_id":"block","view_name":"featured_nodes","jcarousel_dom_id":1},"wrap":"circular","autoPause":1,"start":1,"skin":"default","selector":".jcarousel-dom-1"}}},"jquery_ajax_load":{"trigger":".jquery_ajax_load","target":"#jquery_ajax_load_target","toggle":true,"animation":true,"base_path":"\/","module_path":"sites\/all\/modules\/jquery_ajax_load","site_name":"Latina","TBtrigger":".twitter_bootstrap_modal","TBmodal":"\n\u003Cdiv id=\u0022jquery_ajax_load%s\u0022 class=\u0022modal hide fade\u0022 tabindex=\u0022-1\u0022 role=\u0022dialog\u0022 aria-labelledby=\u0022myModalLabel\u0022 aria-hidden=\u0022true\u0022\u003E\u0027;\n  \u003Cdiv class=\u0022modal-header\u0022\u003E\n    \u003Cbutton type=\u0022button\u0022 class=\u0022close\u0022 data-dismiss=\u0022modal\u0022 aria-hidden=\u0022true\u0022\u003E\u00d7\u003C\/button\u003E\n    \u003Ch3 class=\u0022modal_title\u0022\u003ELatina\u003C\/h3\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0022modal-body\u0022\u003E \n    \u003Cspan class=\u0022text-warning\u0022\u003E... \u003C\/span\u003E\n    \u003Cimg src=\u0022sites\/all\/modules\/twitter_bootstrap_modal\/twitter_bootstrap_modal_loading.gif\u0022\u003E\n  \u003C\/div\u003E\n  \u003Cdiv class=\u0022modal-footer\u0022\u003E\n    \u003Cbutton class=\u0022btn\u0022 data-dismiss=\u0022modal\u0022 aria-hidden=\u0022true\u0022\u003E\u003C\/button\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n\n"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"disqus":{"domain":"latina","url":"http:\/\/www.latina.com\/privacy-policy","title":"Privacy Policy","identifier":"node\/16163"}});</script>
   <script type="text/javascript" src="//use.typekit.net/hhl3plg.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script src="//load.sumome.com/" data-sumo-site-id="436d3c3adae26d58eba87b116e6747a7db1798eb8c4110ce46341ac188ee92a4" async="async"></script>	
@@ -151,8 +116,8 @@ googletag.enableServices();</script>
   <ul class="menu nav"><li class="first leaf"><a href="/entertainment/105-stars-you-never-knew-were-latino" title="100+ Stars You Never Knew Were Latino">100+ Stars You Never Knew Were Latino</a></li>
 <li class="leaf"><a href="/tag/afro-latina-beauty">Afro-Latina Beauty</a></li>
 <li class="leaf"><a href="/lifestyle/inspiring-latina">Inspiring Latinas</a></li>
-<li class="leaf"><a href="https://www.latina.com/tag/latina-lowdown">Latina Lowdown Videos</a></li>
-<li class="last leaf"><a href="http://www.latina.com/entertainment/buzz/zoe-saldana-behind-scenes-latina-cover-shoot">Zoe Saldana on Latina</a></li>
+<li class="leaf"><a href="http://www.latina.com/tag/fashion-videos">Latina Fashion Closet</a></li>
+<li class="last leaf"><a href="http://www.latina.com/entertainment/celebrity/massy-arias-may-2016-cover-star">Massy Arias on Latina</a></li>
 </ul>  
 </section> <!-- /.block -->
 <section id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu clearfix">
@@ -183,7 +148,7 @@ googletag.enableServices();</script>
 <div class="block block-block block-block-id-35 first last">           
   <h3 class="title">Subscribe to Latina!</h3>    <div class="content"><div style="width:300px;overflow:hidden;padding:10px;background-color:#dddddd;position:relative;">
   <div class="span12">
-    <div class="span5"><img src="/files/images/latina-home-cover.jpg" class="img-responsive" alt="Cover Image"></div>
+    <div class="span5"><img src="http://www.latina.com/files/images/latina-home-cover.jpg" class="img-responsive" alt="Cover Image"></div>
     <div class="span7">
       <h2 style="font-size:21px;margin:0 0 10px;font-family:'proxima-nova-condensed',sans-serif;line-height:21px;text-transform:uppercase;">Subscribe for ONLY $1 an Issue</h2>
       <p style="font-size:18px;margin:0 0 10px;">That's $10 for an entire year!</p>
@@ -266,7 +231,7 @@ googletag.enableServices();</script>
   <form class="form-search content-search" action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="input-append"><input title="Enter the terms you wish to search for." class="search-query span2 form-text" placeholder="" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128"><button type="submit" class="btn"><i class="icon-search"></i><span class="element-invisible">Search</span></button></div><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
-<input type="hidden" name="form_build_id" value="form-SXvKu90PHm4oPwIVh1q9ArN_AiGAuMhpHuvO3UUpphs">
+<input type="hidden" name="form_build_id" value="form-DWVH9w2G3msoIghVJiaYLxm1F8cWVQhB701knyleEkk">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>  
@@ -413,16 +378,16 @@ googletag.enableServices();</script>
     <section id="block-views-b7b65a29335f4080162eced8a10f9434" class="block block-views clearfix">
 
       
-  <div class="view view-featured-entertainment-menu-item view-id-featured_entertainment_menu_item view-display-id-block_1 view-dom-id-5329991a42cddfb5c2d8af6c9827c5af">
+  <div class="view view-featured-entertainment-menu-item view-id-featured_entertainment_menu_item view-display-id-block_1 view-dom-id-073791d2ee649350b7b3ddddbbaf3f56">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/entertainment/tv/latino-romeo-and-juliet-tv-show"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/romeo-and-juliet.jpg?itok=278GS2km" alt="A Latino Romeo &amp;amp; Juliet Is In The Works" title="A Latino Romeo &amp;amp; Juliet Is In The Works"></a>    
+          <a href="/entertainment/buzz/stalker-sarah-demi-lovato-instagram-comments"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/demi-lovato-pissed-off.jpg?itok=VyzGyall" alt="Demi Lovato&amp;#039;s Instagram Stalker Clap Backs to the Singer&amp;#039;s Jarring Comments " title="Demi Lovato&amp;#039;s Instagram Stalker Clap Backs to the Singer&amp;#039;s Jarring Comments "></a>    
               
-          <a href="/entertainment/tv/latino-romeo-and-juliet-tv-show">A Latino Version of 'Romeo &amp; Juliet' is Coming to a TV Near You</a>    </div>
+          <a href="/entertainment/buzz/stalker-sarah-demi-lovato-instagram-comments">Demi Lovato's Instagram Stalker Clap Backs to the Singer's Jarring Comments </a>    </div>
     </div>
   
   
@@ -474,7 +439,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="0" id="tb-megamenu-column-5" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-4">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-5">
   <li data-id="650" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/fashion/steal-her-style" class="">
         
@@ -498,6 +463,12 @@ googletag.enableServices();</script>
         
     Fashion Week          </a>
   </li>
+
+<li data-id="3694" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/latina-style-wars" class="">
+        
+    Latina Style Wars          </a>
+  </li>
 </ul>
   </div>
 </div>
@@ -511,7 +482,7 @@ googletag.enableServices();</script>
     <section id="block-views-60fb53a3dfb4ade231de9049db32efe7" class="block block-views clearfix">
 
       
-  <div class="view view-featured-fashion-menu-item view-id-featured_fashion_menu_item view-display-id-block_1 view-dom-id-cb55ca9b5307250665d28cb4c3e57fa3">
+  <div class="view view-featured-fashion-menu-item view-id-featured_fashion_menu_item view-display-id-block_1 view-dom-id-fdf5078cc37e7010d57f64dcd39c8796">
         
   
   
@@ -519,8 +490,8 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <a href="/fashion/best-dressed/best-dressed-latina-celebrities-week-star-wars"><img src="/sites/default/files/styles/menu_item_image/public/slideshow/2015-12-18/becky-g.jpg?itok=Om-OaEDa" alt="The 6 Best Dressed Celebrities Of The Week" title="The 6 Best Dressed Celebrities Of The Week"></a>    
-          <a href="/fashion/best-dressed/best-dressed-latina-celebrities-week-star-wars">The 6 Best Dressed Celebrities of the Week</a>    </div>
+          <a href="/fashion/celebrity/jennifer-lopez-style-lessons"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/slideshow/2016-03-21/jlo-cut-out.jpg?itok=ixegSr8Y" alt="TK Style Lessons We Learned From Jennifer Lopez" title="TK Style Lessons We Learned From Jennifer Lopez"></a>    
+          <a href="/fashion/celebrity/jennifer-lopez-style-lessons">10 Style Lessons We Learned From Jennifer Lopez</a>    </div>
     </div>
   
   
@@ -572,7 +543,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-8" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
   <li data-id="666" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/beauty/red-carpet" class="">
         
@@ -583,6 +554,12 @@ googletag.enableServices();</script>
   <a href="/tag/beauty-run" class="">
         
     Beauty How-To Videos          </a>
+  </li>
+
+<li data-id="3695" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/latina-style-wars" class="">
+        
+    Latina Style Wars          </a>
   </li>
 </ul>
   </div>
@@ -597,7 +574,7 @@ googletag.enableServices();</script>
     <section id="block-views-2b9a40460fe17c61a95e86448835872c" class="block block-views clearfix">
 
       
-  <div class="view view-featured-beauty-menu-item view-id-featured_beauty_menu_item view-display-id-block_1 view-dom-id-d6f3acd724f3185b9bc73dcc7c52a50d">
+  <div class="view view-featured-beauty-menu-item view-id-featured_beauty_menu_item view-display-id-block_1 view-dom-id-d085e9d5ed2f8a6e1e41c96e369fc883">
         
   
   
@@ -605,8 +582,11 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <span class="views-field-field-main-image "><span class="field-content-collapsing"><a href="/beauty/makeup/beauty-on-the-run-shimmer-eye-look"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-16/shimmer-eye.jpg?itok=7TF0spwd" alt="Beauty On The Run: How To Get A Holiday Shimmer Eye Look" title="Beauty On The Run: How To Get A Holiday Shimmer Eye Look"></a></span></span>    
-          <a href="/beauty/makeup/beauty-on-the-run-shimmer-eye-look">Beauty On The Run: How To Achieve the Perfect Holiday Sparkling Eye Look</a>    </div>
+          
+<div class=" " style="">
+  <a href="http://www.latina.com/beauty/news/selena-quintanilla-mac-collection-first-look"><span></span></a>
+  <a href="/beauty/news/selena-quintanilla-mac-collection-first-look"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/selena-mac-makeup.jpg?itok=tXaB3Cuo" alt="Here&amp;#039;s Your First Look at Selena Quintanilla&amp;#039;s MAC Collection" title="Here&amp;#039;s Your First Look at Selena Quintanilla&amp;#039;s MAC Collection"></a></div>    
+          <a href="/beauty/news/selena-quintanilla-mac-collection-first-look">Here's Your First Look at Selena Quintanilla's MAC Collection</a>    </div>
     </div>
   
   
@@ -683,7 +663,7 @@ googletag.enableServices();</script>
     <section id="block-views-b7d7d6127ecf2c3393a2fff51ba6b76e" class="block block-views clearfix">
 
       
-  <div class="view view-featured-celebs-menu-item view-id-featured_celebs_menu_item view-display-id-block_1 view-dom-id-4f55a9056555c6af5a264436b2a77e9d">
+  <div class="view view-featured-celebs-menu-item view-id-featured_celebs_menu_item view-display-id-block_1 view-dom-id-3bb9e83c3d5592af9f66591e0a97168f">
         
   
   
@@ -691,8 +671,8 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <a href="/entertainment/buzz/bella-thorne-drivers-license-instagram"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/bella-thorne-project-runway_0.jpg?itok=53X2uBsm" alt="Bella Thorne Celebrates &amp;quot;Finally&amp;quot; Getting Her License" title="Bella Thorne Celebrates &amp;quot;Finally&amp;quot; Getting Her License"></a>    
-          <a href="/entertainment/buzz/bella-thorne-drivers-license-instagram">Bella Thorne Celebrates "Finally" Getting Her License</a>    </div>
+          <a href="/entertainment/buzz/andy-garcia-career-video"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/godfather-andy-garcia.jpg?itok=cwfLMgu7" alt="Watch: Andy Garcia&amp;#039;s Career in 60 Seconds" title="Watch: Andy Garcia&amp;#039;s Career in 60 Seconds"></a>    
+          <a href="/entertainment/buzz/andy-garcia-career-video">WATCH: A Look at Andy Garcia's Career in 60 Seconds</a>    </div>
     </div>
   
   
@@ -756,7 +736,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-13" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-6">
   <li data-id="629" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/lifestyle/money" class="">
         
@@ -786,6 +766,12 @@ googletag.enableServices();</script>
         
     The Good Life          </a>
   </li>
+
+<li data-id="3603" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/lifestyle/news" class="">
+        
+    News          </a>
+  </li>
 </ul>
   </div>
 </div>
@@ -799,16 +785,16 @@ googletag.enableServices();</script>
     <section id="block-views-0992b1e8156dacfde46ee34e2a5976d1" class="block block-views clearfix">
 
       
-  <div class="view view-featured-lifestyle-menu-item view-id-featured_lifestyle_menu_item view-display-id-block_1 view-dom-id-13a8457eb3924f8c00e91bb111da880d">
+  <div class="view view-featured-lifestyle-menu-item view-id-featured_lifestyle_menu_item view-display-id-block_1 view-dom-id-6776d0c5298cb34526d25fdbc1387608">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/lifestyle/our-issues/mexico-muxes-gender"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/Muxes.jpg?itok=f-P_pTfy" alt="Mexico&amp;#039;s Indigenous &amp;quot;Muxes&amp;quot; Challenge the Gender Binary in a Major Way" title="Mexico&amp;#039;s Indigenous &amp;quot;Muxes&amp;quot; Challenge the Gender Binary in a Major Way"></a>    
+          <a href="/lifestyle/news/mexican-police-chief-hired-hot-police-officers"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/female-police-officers-how-hot.jpg?itok=JLN9stRu" alt="A Mexican Police Chief Hired Female Police Officers Based on How &amp;quot;Hot&amp;quot; They Were" title="A Mexican Police Chief Hired Female Police Officers Based on How &amp;quot;Hot&amp;quot; They Were"></a>    
               
-          <a href="/lifestyle/our-issues/mexico-muxes-gender">Mexico's Indigenous "Muxes" Challenge the Gender Binary in a Major Way</a>    </div>
+          <a href="/lifestyle/news/mexican-police-chief-hired-hot-police-officers">A Mexican Police Chief Hired Female Police Officers Based on How "Hot" They Were</a>    </div>
     </div>
   
   
@@ -915,17 +901,106 @@ googletag.enableServices();</script>
     <section id="block-views-featured-food-menu-item-block-1" class="block block-views clearfix">
 
       
-  <div class="view view-featured-food-menu-item view-id-featured_food_menu_item view-display-id-block_1 view-dom-id-5bb99a355e196a38dc8506542dad6c62">
+  <div class="view view-featured-food-menu-item view-id-featured_food_menu_item view-display-id-block_1 view-dom-id-8afc9423bd04d6d8f31b17d710423e30">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/food/recipes/ecuadorian-mashed-potatoes-recipe"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-17/mashed-potatoes.jpg?itok=oKRgAjuM" alt="Add Some Sabor To Your Holiday Spread With Ecuadorian Style Mashed Potatoes" title="Add Some Sabor To Your Holiday Spread With Ecuadorian Style Mashed Potatoes"></a>    
+          <a href="/food/recipes/latin-inspired-grilled-cheese-recipes"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/grilled-caramelized-onion-queso-blanco-sandwich-with-bacon-credit-carolyng-gomes-main.jpg?itok=4LBxHoKX" alt="Get Cheesy with These Latin-Inspired Grilled Cheese Recipes" title="Get Cheesy with These Latin-Inspired Grilled Cheese Recipes"></a>    
               
               
-          <a href="/food/recipes/ecuadorian-mashed-potatoes-recipe">Add Some Sabor To Your Holiday Spread With Ecuadorian-Style Mashed Potatoes</a>    </div>
+          <a href="/food/recipes/latin-inspired-grilled-cheese-recipes">14 Latin-Inspired Grilled Cheese Recipes You Need to Try</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li data-id="802" data-level="1" data-type="menu_item" data-class="main-video-item" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega main-video-item mega-align-right dropdown">
+  <a href="/video" class="dropdown-toggle">
+        
+    Video          </a>
+  <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div data-class="padding1 left" data-width="6" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span6  mega-col-nav padding1 left">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li data-id="1943" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/channels" class="">
+        
+    Video Channels          </a>
+  </li>
+
+<li data-id="1946" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/series" class="">
+        
+    Video Series          </a>
+  </li>
+
+<li data-id="2998" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/new" class="">
+        
+    Latest Videos          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-19" class="tb-megamenu-column span6  mega-col-nav padding1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/popular" class="">
+        
+    Popular Videos          </a>
+  </li>
+
+<li data-id="1944" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="http://www.thelatinkitchen.com/videos" class="">
+        
+    How-to Cooking          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+
+<div class="tb-megamenu-row row-fluid">
+  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-20" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--08bfc53a7f4b5943091d15aaac8f27b6" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-views-08bfc53a7f4b5943091d15aaac8f27b6" class="block block-views clearfix">
+
+      
+  <div class="view view-featured-video-menu-item view-id-featured_video_menu_item view-display-id-block_1 view-dom-id-c867b1282e393a58d7cccadd3bb37b0b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          
+<div class=" video-play" style="position: relative;">
+  <a href="http://www.latina.com/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot"><span></span></a>
+  <a href="/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-03-29/massy.jpg?itok=eYp0YqTm" alt="Massy Arias: Behind the Scenes at Her Latina Cover Shoot" title="Massy Arias: Behind the Scenes at Her Latina Cover Shoot"></a></div>    
+              
+          <a href="/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot">Massy Arias: Behind the Scenes at Her Latina Cover Shoot</a>    </div>
     </div>
   
   
@@ -951,7 +1026,7 @@ googletag.enableServices();</script>
   <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
   <div class="mega-dropdown-inner">
     <div class="tb-megamenu-row row-fluid">
-  <div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span12  mega-col-nav">
+  <div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21" class="tb-megamenu-column span12  mega-col-nav">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul class="tb-megamenu-subnav mega-nav level-1 items-8">
   <li data-id="3372" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
@@ -1007,115 +1082,23 @@ googletag.enableServices();</script>
 </div>
 
 <div class="tb-megamenu-row row-fluid">
-  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-19" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
+  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-22" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <div data-type="block" data-block="views--136a87191276da7d1a7d09e27aec26e0" class="tb-megamenu-block tb-block tb-megamenu-block">
   <div class="block-inner">
     <section id="block-views-136a87191276da7d1a7d09e27aec26e0" class="block block-views clearfix">
 
       
-  <div class="view view-featured-blogs-menu-item view-id-featured_blogs_menu_item view-display-id-block_1 view-dom-id-16f2910a2066d892a9c5f6d662d89c0e">
+  <div class="view view-featured-blogs-menu-item view-id-featured_blogs_menu_item view-display-id-block_1 view-dom-id-b24dce84934c553316419e130a4f663a">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/blogs/massy-arias/healthy-christmas-cookies-recipe"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-14/pb-cookies.jpg?itok=P7Bbgp4o" alt="Healthy Christmas Cookies Recipe" title="Healthy Christmas Cookies Recipe"></a>    
+          <a href="/blogs/massy-arias/massy-method-mondays-beating-excuses-tips"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-02-22/massy-monday.jpg?itok=9C-xfeVb" alt="#MassyMethodMondays: How To Stop Making Excuses &amp;amp; Start Making Changes" title="#MassyMethodMondays: How To Stop Making Excuses &amp;amp; Start Making Changes"></a>    
               
-          <a href="/blogs/massy-arias/healthy-christmas-cookies-recipe">These Guilt-Free PB Cookies Are Perfect For Christmas</a>    </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  
-</section> <!-- /.block -->
-  </div>
-</div>
-  </div>
-</div>
-</div>
-  </div>
-</div>
-</li>
-
-<li data-id="802" data-level="1" data-type="menu_item" data-class="main-video-item" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega main-video-item mega-align-right dropdown">
-  <a href="/videos" class="dropdown-toggle">
-        
-    Video          </a>
-  <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
-  <div class="mega-dropdown-inner">
-    <div class="tb-megamenu-row row-fluid">
-  <div data-class="padding1 left" data-width="6" data-hidewcol="0" id="tb-megamenu-column-20" class="tb-megamenu-column span6  mega-col-nav padding1 left">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
-  <li data-id="1943" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/behind-scenes-cover-shoot" class="">
-        
-    Cover Shoots          </a>
-  </li>
-
-<li data-id="1946" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/beauty-run" class="">
-        
-    Beauty Videos          </a>
-  </li>
-
-<li data-id="2998" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/ebsession" class="">
-        
-    Ebsession Videos          </a>
-  </li>
-</ul>
-  </div>
-</div>
-
-<div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-21" class="tb-megamenu-column span6  mega-col-nav padding1">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
-  <li data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/fashion-videos" class="">
-        
-    Fashion Videos          </a>
-  </li>
-
-<li data-id="1944" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://www.thelatinkitchen.com/video" class="">
-        
-    How-to Cooking          </a>
-  </li>
-
-<li data-id="3420" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/good-life" class="">
-        
-    The Good Life          </a>
-  </li>
-</ul>
-  </div>
-</div>
-</div>
-
-<div class="tb-megamenu-row row-fluid">
-  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-22" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <div data-type="block" data-block="views--08bfc53a7f4b5943091d15aaac8f27b6" class="tb-megamenu-block tb-block tb-megamenu-block">
-  <div class="block-inner">
-    <section id="block-views-08bfc53a7f4b5943091d15aaac8f27b6" class="block block-views clearfix">
-
-      
-  <div class="view view-featured-video-menu-item view-id-featured_video_menu_item view-display-id-block_1 view-dom-id-5a304f26b38aabbc9943ae5252de433f">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-          <span class="views-field-field-main-image "><span class="field-content-collapsing"><a href="/lifestyle/holiday-gift-guides/gifts-give-back-today-show"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-16/gifts-that-give-back-2.jpg?itok=FEgSaKjH" alt="WATCH: These Incredible Gifts All Give Back To The Community" title="WATCH: These Incredible Gifts All Give Back To The Community"></a></span></span>    
-              
-          <a href="/lifestyle/holiday-gift-guides/gifts-give-back-today-show">WATCH: These Incredible Gifts All Give Back To The Community</a>    </div>
+          <a href="/blogs/massy-arias/massy-method-mondays-beating-excuses-tips">How to Stop Making Excuses &amp; Start Changing Your Ways</a>    </div>
     </div>
   
   
@@ -1196,17 +1179,17 @@ googletag.enableServices();</script>
     <section id="block-views-70a9587336a440f0d63ef232136e03c7" class="block block-views clearfix">
 
       
-  <div class="view view-featured-magazine-menu-item view-id-featured_magazine_menu_item view-display-id-block_1 view-dom-id-e1ac536da688beab40c5f8bc4ccc27c1">
+  <div class="view view-featured-magazine-menu-item view-id-featured_magazine_menu_item view-display-id-block_1 view-dom-id-8774ffc926826939a346953e9d516a15">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/entertainment/celebrity/zoe-saldana-december-2015-january-2016-cover"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-11-02/latina-zoe-saldana-cover-.jpg?itok=2IopyLqR" alt="Zoe Saldaña is Latina Magazine&amp;#039;s December 2015/January 2016 Cover Star!" title="Zoe Saldaña is Latina Magazine&amp;#039;s December 2015/January 2016 Cover Star!"></a>    
+          <a href="/entertainment/celebrity/massy-arias-may-2016-cover-star"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-03-28/cover.jpg?itok=eB3VXz1h" alt="Massy Arias is Latina Magazine&amp;#039;s May 2016 Cover Star!" title="Massy Arias is Latina Magazine&amp;#039;s May 2016 Cover Star!"></a>    
               
               
-          <a href="/entertainment/celebrity/zoe-saldana-december-2015-january-2016-cover">Zoe Saldana is Latina Magazine's December 2015/January 2016 Cover Star!</a>    </div>
+          <a href="/entertainment/celebrity/massy-arias-may-2016-cover-star">Massy Arias is Latina Magazine's May 2016 Cover Star!</a>    </div>
     </div>
   
   
@@ -1311,16 +1294,16 @@ googletag.enableServices();</script>
     <section id="block-views-b7b65a29335f4080162eced8a10f9434" class="block block-views clearfix">
 
       
-  <div class="view view-featured-entertainment-menu-item view-id-featured_entertainment_menu_item view-display-id-block_1 view-dom-id-5329991a42cddfb5c2d8af6c9827c5af">
+  <div class="view view-featured-entertainment-menu-item view-id-featured_entertainment_menu_item view-display-id-block_1 view-dom-id-073791d2ee649350b7b3ddddbbaf3f56">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/entertainment/tv/latino-romeo-and-juliet-tv-show"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/romeo-and-juliet.jpg?itok=278GS2km" alt="A Latino Romeo &amp;amp; Juliet Is In The Works" title="A Latino Romeo &amp;amp; Juliet Is In The Works"></a>    
+          <a href="/entertainment/buzz/stalker-sarah-demi-lovato-instagram-comments"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/demi-lovato-pissed-off.jpg?itok=VyzGyall" alt="Demi Lovato&amp;#039;s Instagram Stalker Clap Backs to the Singer&amp;#039;s Jarring Comments " title="Demi Lovato&amp;#039;s Instagram Stalker Clap Backs to the Singer&amp;#039;s Jarring Comments "></a>    
               
-          <a href="/entertainment/tv/latino-romeo-and-juliet-tv-show">A Latino Version of 'Romeo &amp; Juliet' is Coming to a TV Near You</a>    </div>
+          <a href="/entertainment/buzz/stalker-sarah-demi-lovato-instagram-comments">Demi Lovato's Instagram Stalker Clap Backs to the Singer's Jarring Comments </a>    </div>
     </div>
   
   
@@ -1372,7 +1355,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="0" id="tb-megamenu-column-5" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-4">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-5">
   <li data-id="650" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/fashion/steal-her-style" class="">
         
@@ -1396,6 +1379,12 @@ googletag.enableServices();</script>
         
     Fashion Week          </a>
   </li>
+
+<li data-id="3694" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/latina-style-wars" class="">
+        
+    Latina Style Wars          </a>
+  </li>
 </ul>
   </div>
 </div>
@@ -1409,7 +1398,7 @@ googletag.enableServices();</script>
     <section id="block-views-60fb53a3dfb4ade231de9049db32efe7" class="block block-views clearfix">
 
       
-  <div class="view view-featured-fashion-menu-item view-id-featured_fashion_menu_item view-display-id-block_1 view-dom-id-cb55ca9b5307250665d28cb4c3e57fa3">
+  <div class="view view-featured-fashion-menu-item view-id-featured_fashion_menu_item view-display-id-block_1 view-dom-id-fdf5078cc37e7010d57f64dcd39c8796">
         
   
   
@@ -1417,8 +1406,8 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <a href="/fashion/best-dressed/best-dressed-latina-celebrities-week-star-wars"><img src="/sites/default/files/styles/menu_item_image/public/slideshow/2015-12-18/becky-g.jpg?itok=Om-OaEDa" alt="The 6 Best Dressed Celebrities Of The Week" title="The 6 Best Dressed Celebrities Of The Week"></a>    
-          <a href="/fashion/best-dressed/best-dressed-latina-celebrities-week-star-wars">The 6 Best Dressed Celebrities of the Week</a>    </div>
+          <a href="/fashion/celebrity/jennifer-lopez-style-lessons"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/slideshow/2016-03-21/jlo-cut-out.jpg?itok=ixegSr8Y" alt="TK Style Lessons We Learned From Jennifer Lopez" title="TK Style Lessons We Learned From Jennifer Lopez"></a>    
+          <a href="/fashion/celebrity/jennifer-lopez-style-lessons">10 Style Lessons We Learned From Jennifer Lopez</a>    </div>
     </div>
   
   
@@ -1470,7 +1459,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-8" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
   <li data-id="666" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/beauty/red-carpet" class="">
         
@@ -1481,6 +1470,12 @@ googletag.enableServices();</script>
   <a href="/tag/beauty-run" class="">
         
     Beauty How-To Videos          </a>
+  </li>
+
+<li data-id="3695" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/latina-style-wars" class="">
+        
+    Latina Style Wars          </a>
   </li>
 </ul>
   </div>
@@ -1495,7 +1490,7 @@ googletag.enableServices();</script>
     <section id="block-views-2b9a40460fe17c61a95e86448835872c" class="block block-views clearfix">
 
       
-  <div class="view view-featured-beauty-menu-item view-id-featured_beauty_menu_item view-display-id-block_1 view-dom-id-d6f3acd724f3185b9bc73dcc7c52a50d">
+  <div class="view view-featured-beauty-menu-item view-id-featured_beauty_menu_item view-display-id-block_1 view-dom-id-d085e9d5ed2f8a6e1e41c96e369fc883">
         
   
   
@@ -1503,8 +1498,11 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <span class="views-field-field-main-image "><span class="field-content-collapsing"><a href="/beauty/makeup/beauty-on-the-run-shimmer-eye-look"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-16/shimmer-eye.jpg?itok=7TF0spwd" alt="Beauty On The Run: How To Get A Holiday Shimmer Eye Look" title="Beauty On The Run: How To Get A Holiday Shimmer Eye Look"></a></span></span>    
-          <a href="/beauty/makeup/beauty-on-the-run-shimmer-eye-look">Beauty On The Run: How To Achieve the Perfect Holiday Sparkling Eye Look</a>    </div>
+          
+<div class=" " style="">
+  <a href="http://www.latina.com/beauty/news/selena-quintanilla-mac-collection-first-look"><span></span></a>
+  <a href="/beauty/news/selena-quintanilla-mac-collection-first-look"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/selena-mac-makeup.jpg?itok=tXaB3Cuo" alt="Here&amp;#039;s Your First Look at Selena Quintanilla&amp;#039;s MAC Collection" title="Here&amp;#039;s Your First Look at Selena Quintanilla&amp;#039;s MAC Collection"></a></div>    
+          <a href="/beauty/news/selena-quintanilla-mac-collection-first-look">Here's Your First Look at Selena Quintanilla's MAC Collection</a>    </div>
     </div>
   
   
@@ -1581,7 +1579,7 @@ googletag.enableServices();</script>
     <section id="block-views-b7d7d6127ecf2c3393a2fff51ba6b76e" class="block block-views clearfix">
 
       
-  <div class="view view-featured-celebs-menu-item view-id-featured_celebs_menu_item view-display-id-block_1 view-dom-id-4f55a9056555c6af5a264436b2a77e9d">
+  <div class="view view-featured-celebs-menu-item view-id-featured_celebs_menu_item view-display-id-block_1 view-dom-id-3bb9e83c3d5592af9f66591e0a97168f">
         
   
   
@@ -1589,8 +1587,8 @@ googletag.enableServices();</script>
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
               
-          <a href="/entertainment/buzz/bella-thorne-drivers-license-instagram"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/bella-thorne-project-runway_0.jpg?itok=53X2uBsm" alt="Bella Thorne Celebrates &amp;quot;Finally&amp;quot; Getting Her License" title="Bella Thorne Celebrates &amp;quot;Finally&amp;quot; Getting Her License"></a>    
-          <a href="/entertainment/buzz/bella-thorne-drivers-license-instagram">Bella Thorne Celebrates "Finally" Getting Her License</a>    </div>
+          <a href="/entertainment/buzz/andy-garcia-career-video"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/godfather-andy-garcia.jpg?itok=cwfLMgu7" alt="Watch: Andy Garcia&amp;#039;s Career in 60 Seconds" title="Watch: Andy Garcia&amp;#039;s Career in 60 Seconds"></a>    
+          <a href="/entertainment/buzz/andy-garcia-career-video">WATCH: A Look at Andy Garcia's Career in 60 Seconds</a>    </div>
     </div>
   
   
@@ -1654,7 +1652,7 @@ googletag.enableServices();</script>
 
 <div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-13" class="tb-megamenu-column span6  mega-col-nav padding1">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-5">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-6">
   <li data-id="629" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
   <a href="/lifestyle/money" class="">
         
@@ -1684,6 +1682,12 @@ googletag.enableServices();</script>
         
     The Good Life          </a>
   </li>
+
+<li data-id="3603" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/lifestyle/news" class="">
+        
+    News          </a>
+  </li>
 </ul>
   </div>
 </div>
@@ -1697,16 +1701,16 @@ googletag.enableServices();</script>
     <section id="block-views-0992b1e8156dacfde46ee34e2a5976d1" class="block block-views clearfix">
 
       
-  <div class="view view-featured-lifestyle-menu-item view-id-featured_lifestyle_menu_item view-display-id-block_1 view-dom-id-13a8457eb3924f8c00e91bb111da880d">
+  <div class="view view-featured-lifestyle-menu-item view-id-featured_lifestyle_menu_item view-display-id-block_1 view-dom-id-6776d0c5298cb34526d25fdbc1387608">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/lifestyle/our-issues/mexico-muxes-gender"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-18/Muxes.jpg?itok=f-P_pTfy" alt="Mexico&amp;#039;s Indigenous &amp;quot;Muxes&amp;quot; Challenge the Gender Binary in a Major Way" title="Mexico&amp;#039;s Indigenous &amp;quot;Muxes&amp;quot; Challenge the Gender Binary in a Major Way"></a>    
+          <a href="/lifestyle/news/mexican-police-chief-hired-hot-police-officers"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/female-police-officers-how-hot.jpg?itok=JLN9stRu" alt="A Mexican Police Chief Hired Female Police Officers Based on How &amp;quot;Hot&amp;quot; They Were" title="A Mexican Police Chief Hired Female Police Officers Based on How &amp;quot;Hot&amp;quot; They Were"></a>    
               
-          <a href="/lifestyle/our-issues/mexico-muxes-gender">Mexico's Indigenous "Muxes" Challenge the Gender Binary in a Major Way</a>    </div>
+          <a href="/lifestyle/news/mexican-police-chief-hired-hot-police-officers">A Mexican Police Chief Hired Female Police Officers Based on How "Hot" They Were</a>    </div>
     </div>
   
   
@@ -1813,17 +1817,106 @@ googletag.enableServices();</script>
     <section id="block-views-featured-food-menu-item-block-1" class="block block-views clearfix">
 
       
-  <div class="view view-featured-food-menu-item view-id-featured_food_menu_item view-display-id-block_1 view-dom-id-5bb99a355e196a38dc8506542dad6c62">
+  <div class="view view-featured-food-menu-item view-id-featured_food_menu_item view-display-id-block_1 view-dom-id-8afc9423bd04d6d8f31b17d710423e30">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/food/recipes/ecuadorian-mashed-potatoes-recipe"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-17/mashed-potatoes.jpg?itok=oKRgAjuM" alt="Add Some Sabor To Your Holiday Spread With Ecuadorian Style Mashed Potatoes" title="Add Some Sabor To Your Holiday Spread With Ecuadorian Style Mashed Potatoes"></a>    
+          <a href="/food/recipes/latin-inspired-grilled-cheese-recipes"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-04-12/grilled-caramelized-onion-queso-blanco-sandwich-with-bacon-credit-carolyng-gomes-main.jpg?itok=4LBxHoKX" alt="Get Cheesy with These Latin-Inspired Grilled Cheese Recipes" title="Get Cheesy with These Latin-Inspired Grilled Cheese Recipes"></a>    
               
               
-          <a href="/food/recipes/ecuadorian-mashed-potatoes-recipe">Add Some Sabor To Your Holiday Spread With Ecuadorian-Style Mashed Potatoes</a>    </div>
+          <a href="/food/recipes/latin-inspired-grilled-cheese-recipes">14 Latin-Inspired Grilled Cheese Recipes You Need to Try</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  
+</section> <!-- /.block -->
+  </div>
+</div>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+
+<li data-id="802" data-level="1" data-type="menu_item" data-class="main-video-item" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega main-video-item mega-align-right dropdown">
+  <a href="/video" class="dropdown-toggle">
+        
+    Video          </a>
+  <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div class="tb-megamenu-row row-fluid">
+  <div data-class="padding1 left" data-width="6" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span6  mega-col-nav padding1 left">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
+  <li data-id="1943" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/channels" class="">
+        
+    Video Channels          </a>
+  </li>
+
+<li data-id="1946" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/series" class="">
+        
+    Video Series          </a>
+  </li>
+
+<li data-id="2998" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/new" class="">
+        
+    Latest Videos          </a>
+  </li>
+</ul>
+  </div>
+</div>
+
+<div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-19" class="tb-megamenu-column span6  mega-col-nav padding1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul class="tb-megamenu-subnav mega-nav level-1 items-2">
+  <li data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/video/popular" class="">
+        
+    Popular Videos          </a>
+  </li>
+
+<li data-id="1944" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="http://www.thelatinkitchen.com/videos" class="">
+        
+    How-to Cooking          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+
+<div class="tb-megamenu-row row-fluid">
+  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-20" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <div data-type="block" data-block="views--08bfc53a7f4b5943091d15aaac8f27b6" class="tb-megamenu-block tb-block tb-megamenu-block">
+  <div class="block-inner">
+    <section id="block-views-08bfc53a7f4b5943091d15aaac8f27b6" class="block block-views clearfix">
+
+      
+  <div class="view view-featured-video-menu-item view-id-featured_video_menu_item view-display-id-block_1 view-dom-id-c867b1282e393a58d7cccadd3bb37b0b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          
+<div class=" video-play" style="position: relative;">
+  <a href="http://www.latina.com/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot"><span></span></a>
+  <a href="/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-03-29/massy.jpg?itok=eYp0YqTm" alt="Massy Arias: Behind the Scenes at Her Latina Cover Shoot" title="Massy Arias: Behind the Scenes at Her Latina Cover Shoot"></a></div>    
+              
+          <a href="/entertainment/buzz/massy-arias-behind-scenes-latina-cover-shoot">Massy Arias: Behind the Scenes at Her Latina Cover Shoot</a>    </div>
     </div>
   
   
@@ -1849,7 +1942,7 @@ googletag.enableServices();</script>
   <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
   <div class="mega-dropdown-inner">
     <div class="tb-megamenu-row row-fluid">
-  <div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-18" class="tb-megamenu-column span12  mega-col-nav">
+  <div data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21" class="tb-megamenu-column span12  mega-col-nav">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul class="tb-megamenu-subnav mega-nav level-1 items-8">
   <li data-id="3372" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
@@ -1905,115 +1998,23 @@ googletag.enableServices();</script>
 </div>
 
 <div class="tb-megamenu-row row-fluid">
-  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-19" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
+  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-22" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <div data-type="block" data-block="views--136a87191276da7d1a7d09e27aec26e0" class="tb-megamenu-block tb-block tb-megamenu-block">
   <div class="block-inner">
     <section id="block-views-136a87191276da7d1a7d09e27aec26e0" class="block block-views clearfix">
 
       
-  <div class="view view-featured-blogs-menu-item view-id-featured_blogs_menu_item view-display-id-block_1 view-dom-id-16f2910a2066d892a9c5f6d662d89c0e">
+  <div class="view view-featured-blogs-menu-item view-id-featured_blogs_menu_item view-display-id-block_1 view-dom-id-b24dce84934c553316419e130a4f663a">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/blogs/massy-arias/healthy-christmas-cookies-recipe"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-14/pb-cookies.jpg?itok=P7Bbgp4o" alt="Healthy Christmas Cookies Recipe" title="Healthy Christmas Cookies Recipe"></a>    
+          <a href="/blogs/massy-arias/massy-method-mondays-beating-excuses-tips"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-02-22/massy-monday.jpg?itok=9C-xfeVb" alt="#MassyMethodMondays: How To Stop Making Excuses &amp;amp; Start Making Changes" title="#MassyMethodMondays: How To Stop Making Excuses &amp;amp; Start Making Changes"></a>    
               
-          <a href="/blogs/massy-arias/healthy-christmas-cookies-recipe">These Guilt-Free PB Cookies Are Perfect For Christmas</a>    </div>
-    </div>
-  
-  
-  
-  
-  
-  
-</div>  
-</section> <!-- /.block -->
-  </div>
-</div>
-  </div>
-</div>
-</div>
-  </div>
-</div>
-</li>
-
-<li data-id="802" data-level="1" data-type="menu_item" data-class="main-video-item" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega main-video-item mega-align-right dropdown">
-  <a href="/videos" class="dropdown-toggle">
-        
-    Video          </a>
-  <div data-class="" data-width="275" style="width: 275px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
-  <div class="mega-dropdown-inner">
-    <div class="tb-megamenu-row row-fluid">
-  <div data-class="padding1 left" data-width="6" data-hidewcol="0" id="tb-megamenu-column-20" class="tb-megamenu-column span6  mega-col-nav padding1 left">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
-  <li data-id="1943" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/behind-scenes-cover-shoot" class="">
-        
-    Cover Shoots          </a>
-  </li>
-
-<li data-id="1946" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/beauty-run" class="">
-        
-    Beauty Videos          </a>
-  </li>
-
-<li data-id="2998" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/ebsession" class="">
-        
-    Ebsession Videos          </a>
-  </li>
-</ul>
-  </div>
-</div>
-
-<div data-class="padding1" data-width="6" data-hidewcol="" id="tb-megamenu-column-21" class="tb-megamenu-column span6  mega-col-nav padding1">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <ul class="tb-megamenu-subnav mega-nav level-1 items-3">
-  <li data-id="1945" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/fashion-videos" class="">
-        
-    Fashion Videos          </a>
-  </li>
-
-<li data-id="1944" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://www.thelatinkitchen.com/video" class="">
-        
-    How-to Cooking          </a>
-  </li>
-
-<li data-id="3420" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="/tag/good-life" class="">
-        
-    The Good Life          </a>
-  </li>
-</ul>
-  </div>
-</div>
-</div>
-
-<div class="tb-megamenu-row row-fluid">
-  <div data-showblocktitle="1" data-class="" data-width="12" data-hidewcol="1" id="tb-megamenu-column-22" class="tb-megamenu-column span12  mega-col-nav  hidden-collapse">
-  <div class="tb-megamenu-column-inner mega-inner clearfix">
-        <div data-type="block" data-block="views--08bfc53a7f4b5943091d15aaac8f27b6" class="tb-megamenu-block tb-block tb-megamenu-block">
-  <div class="block-inner">
-    <section id="block-views-08bfc53a7f4b5943091d15aaac8f27b6" class="block block-views clearfix">
-
-      
-  <div class="view view-featured-video-menu-item view-id-featured_video_menu_item view-display-id-block_1 view-dom-id-5a304f26b38aabbc9943ae5252de433f">
-        
-  
-  
-      <div class="view-content">
-        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-      
-          <span class="views-field-field-main-image "><span class="field-content-collapsing"><a href="/lifestyle/holiday-gift-guides/gifts-give-back-today-show"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-12-16/gifts-that-give-back-2.jpg?itok=FEgSaKjH" alt="WATCH: These Incredible Gifts All Give Back To The Community" title="WATCH: These Incredible Gifts All Give Back To The Community"></a></span></span>    
-              
-          <a href="/lifestyle/holiday-gift-guides/gifts-give-back-today-show">WATCH: These Incredible Gifts All Give Back To The Community</a>    </div>
+          <a href="/blogs/massy-arias/massy-method-mondays-beating-excuses-tips">How to Stop Making Excuses &amp; Start Changing Your Ways</a>    </div>
     </div>
   
   
@@ -2094,17 +2095,17 @@ googletag.enableServices();</script>
     <section id="block-views-70a9587336a440f0d63ef232136e03c7" class="block block-views clearfix">
 
       
-  <div class="view view-featured-magazine-menu-item view-id-featured_magazine_menu_item view-display-id-block_1 view-dom-id-e1ac536da688beab40c5f8bc4ccc27c1">
+  <div class="view view-featured-magazine-menu-item view-id-featured_magazine_menu_item view-display-id-block_1 view-dom-id-8774ffc926826939a346953e9d516a15">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-          <a href="/entertainment/celebrity/zoe-saldana-december-2015-january-2016-cover"><img src="/sites/default/files/styles/menu_item_image/public/articles/2015-11-02/latina-zoe-saldana-cover-.jpg?itok=2IopyLqR" alt="Zoe Saldaña is Latina Magazine&amp;#039;s December 2015/January 2016 Cover Star!" title="Zoe Saldaña is Latina Magazine&amp;#039;s December 2015/January 2016 Cover Star!"></a>    
+          <a href="/entertainment/celebrity/massy-arias-may-2016-cover-star"><img src="http://www.latina.com/sites/default/files/styles/menu_item_image/public/articles/2016-03-28/cover.jpg?itok=eB3VXz1h" alt="Massy Arias is Latina Magazine&amp;#039;s May 2016 Cover Star!" title="Massy Arias is Latina Magazine&amp;#039;s May 2016 Cover Star!"></a>    
               
               
-          <a href="/entertainment/celebrity/zoe-saldana-december-2015-january-2016-cover">Zoe Saldana is Latina Magazine's December 2015/January 2016 Cover Star!</a>    </div>
+          <a href="/entertainment/celebrity/massy-arias-may-2016-cover-star">Massy Arias is Latina Magazine's May 2016 Cover Star!</a>    </div>
     </div>
   
   
@@ -2274,7 +2275,7 @@ googletag.enableServices();</script>
 <section id="block-views-featured-video-block" class="block block-views clearfix">
 
       
-  <div class="view view-featured-video view-id-featured_video view-display-id-block view-dom-id-b2e9f9bd151076981f41ce291c6319bb">
+  <div class="view view-featured-video view-id-featured_video view-display-id-block view-dom-id-49a6e7a618096de7022822d6f6c97df1">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sidebar-title-container">
 <div class="sidebar-title">
@@ -2288,9 +2289,9 @@ googletag.enableServices();</script>
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
-  <div>        <div><a href="/food/recipes/yuca-phyllo-appetizer-recipe"><img src="/sites/default/files/styles/featured_video/public/articles/2015-12-18/phyllo-wrapped.jpg?itok=uA88AUtJ" alt="The Phyllo-Wrapped Yuca Appetizer That Will Have Your Guests Asking For Seconds" title="The Phyllo-Wrapped Yuca Appetizer That Will Have Your Guests Asking For Seconds"></a></div>  </div>  
+  <div>        <div><a href="/fashion/best-dressed/best-dressed-latinas-week-april-video"><img src="http://www.latina.com/sites/default/files/styles/featured_video/public/articles/2016-04-08/meagan-good-promo.jpg?itok=LZJhoXoQ" alt="Watch: The Best Dressed Stars of the Week" title="Watch: The Best Dressed Stars of the Week"></a></div>  </div>  
   <div>        <div></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/food/recipes/yuca-phyllo-appetizer-recipe">The Phyllo-Wrapped Yuca Appetizer That Will Have Your Guests Asking For Seconds</a></span>  </div>  </div>
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/fashion/best-dressed/best-dressed-latinas-week-april-video">The Best Dressed Celebrities of the Week</a></span>  </div>  </div>
     </div>
   
   
@@ -2308,7 +2309,7 @@ googletag.enableServices();</script>
 <section id="block-latina-subscribe-latina-subscribe-newsletter" class="block block-latina-subscribe clearfix">
 
       
-  <div id="block-simple-subscription-subscribe" class="input-append"><form method="post" action="http://link.latina.com/s/Active+Users" id="latina-subscribe-form"><div class="simple_subscription_header"><h3>Subscribe to our newsletter</h3></div><input type="text" name="email" id="edit-title" class="form-text" onclick="document.getElementById(&quot;edit-title&quot;).value=&quot;&quot;" value="enter email address"><br><input type="submit" value="Submit" class="btn btn-primary form-submit"></form></div>  
+  <div id="block-simple-subscription-subscribe" class="input-append"><form method="post" action="http://sendy.latina.com/subscribe" id="latina-subscribe-form"><div class="simple_subscription_header"><h3>Subscribe to our newsletter</h3></div><input type="text" name="email" id="edit-title" class="form-text" onclick="document.getElementById(&quot;edit-title&quot;).value=&quot;&quot;" value="enter email address"><br><input type="hidden" name="list" value="m0GmsKF4zIK763Da8Ag0jI6w"><input type="submit" value="Submit" class="btn btn-primary form-submit"></form></div>  
 </section> <!-- /.block -->
 <section id="block-dfp-btf-box2" class="block block-dfp clearfix">
 
@@ -2331,7 +2332,7 @@ googletag.enableServices();</script>
 <section id="block-views-free-stuff-block-1" class="block block-views clearfix">
 
       
-  <div class="view view-free-stuff view-id-free_stuff view-display-id-block_1 view-dom-id-d7bd6e86aa034051aab7e83cac883a7b">
+  <div class="view view-free-stuff view-id-free_stuff view-display-id-block_1 view-dom-id-d83c120af8b5f819b910a516d289c416">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sidebar-title-container">
 <div class="sidebar-title">
@@ -2349,22 +2350,22 @@ googletag.enableServices();</script>
           <div class="row-fluid">
                   <div class="span6">
               
-  <div>        <div><a href="/miraclebody"><img src="/sites/default/files/styles/free_stuff_grid/public/contest/2015-12-15/300x250-miraclebody.jpg?itok=Q246fe2b" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/miraclebody?page=8">Win Three Pairs of Miraclebody Jeans!</a></span>  </div>          </div>
+  <div>        <div><a href="/privaiskincare"><img src="http://www.latina.com/sites/default/files/styles/free_stuff_grid/public/contest/2016-04-13/privai-sweep-300x250.jpg?itok=n1WDRoX2" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/privaiskincare?page=-861">Enter to Win a Mother's Day Privai Skincare Gift Set!</a></span>  </div>          </div>
                   <div class="span6">
               
-  <div>        <div><a href="/luxbeautyclub" class="active"><img src="/sites/default/files/styles/free_stuff_grid/public/contest/2015-12-09/lux-300x250.jpg?itok=lnpyO1Rb" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/luxbeautyclub?page=8">Win a Free Lux Hair Extension!</a></span>  </div>          </div>
+  <div>        <div><a href="/intimatehealth"><img src="http://www.latina.com/sites/default/files/styles/free_stuff_grid/public/contest/2016-03-14/vagisil-300x250V2.jpg?itok=ZDbdGJHa" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/intimatehealth?page=-861">Enter for a chance to win a gift basket to help you "Perfect Your Intimate Health"</a></span>  </div>          </div>
               </div>
           <div class="row-fluid">
                   <div class="span6">
               
-  <div>        <div><a href="/holidaygiveaway"><img src="/sites/default/files/styles/free_stuff_grid/public/contest/2015-12-09/300x250.jpg?itok=OX5Jv1aU" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/holidaygiveaway?page=8">Enter to Be One of Twelve Winners for Latina's 12 Days of Latina Gift Guide Giveaways!</a></span>  </div>          </div>
+  <div>        <div><a href="/marykaycompact"><img src="http://www.latina.com/sites/default/files/styles/free_stuff_grid/public/contest/2016-03-29/mary-kay-300x250.jpg?itok=ILZsRy_0" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/marykaycompact?page=-861">Win a Mary Kay 'Into the Garden' Color Compact!</a></span>  </div>          </div>
                   <div class="span6">
               
-  <div>        <div><a href="/ouidadcurls"><img src="/sites/default/files/styles/free_stuff_grid/public/contest/2015-12-02/ouidad-300x250_V2_0.jpg?itok=3nEqCs4V" alt=""></a></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/ouidadcurls?page=8">Enter to Win a Swag Bag of Curly Hair Products From Ouidad!</a></span>  </div>          </div>
+  <div>        <div><a href="/threedesigningwomen"><img src="http://www.latina.com/sites/default/files/styles/free_stuff_grid/public/contest/2016-03-18/stamp-set-sweep-300x250.jpg?itok=2jJHqkEz" alt=""></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/threedesigningwomen?page=-861">Win a Custom Stamp Set!</a></span>  </div>          </div>
               </div>
     
   </div>
@@ -2415,7 +2416,7 @@ googletag.enableServices();</script>
 <section id="block-views-external-rss-etonline-block-1" class="block block-views clearfix">
 
       
-  <div class="view view-external-rss-etonline view-id-external_rss_etonline view-display-id-block_1 view-dom-id-e2e9e7b1d0649435b864cca35a940191">
+  <div class="view view-external-rss-etonline view-id-external_rss_etonline view-display-id-block_1 view-dom-id-68274be4f9723bd092c77ab5550f03ca">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sprite et_157x50"></div>
     </div>
@@ -2424,15 +2425,15 @@ googletag.enableServices();</script>
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-        <span class="field-content"><a href="http://latino.foxnews.com/latino/sports/2015/12/25/bosh-lifts-heat-to-4-88-ot-win-over-pelicans/" target="_blank">Bosh lifts Heat to 94-88 OT win over Pelicans</a></span>  </div>
+        <span class="field-content"><a href="http://latino.foxnews.com/latino/sports/2016/04/14/warriors-set-nba-record-for-regular-season-victories/" target="_blank">Warriors set NBA record for regular-season victories</a></span>  </div>
   <div class="views-row views-row-2 views-row-even">
-        <span class="field-content"><a href="http://latino.foxnews.com/latino/news/2015/12/25/little-girl-dies-under-collapsing-stage-at-christmas-event-in-peru/" target="_blank">Little girl dies under collapsing stage at Christmas event in Peru</a></span>  </div>
+        <span class="field-content"><a href="http://latino.foxnews.com/latino/politics/2016/04/14/immigration-dispute-touching-millions-lives-heads-to-supreme-court-next-week/" target="_blank">Immigration dispute touching millions of lives heads to the Supreme Court next week</a></span>  </div>
   <div class="views-row views-row-3 views-row-odd">
-        <span class="field-content"><a href="http://latino.foxnews.com/latino/news/2015/12/25/1-dead-6-wounded-in-ostensibly-pacified-brazil-shantytown/" target="_blank">1 Dead, 6 wounded in ostensibly pacified Brazil shantytown</a></span>  </div>
+        <span class="field-content"><a href="http://latino.foxnews.com/latino/politics/2016/04/14/tensions-swirl-as-trump-plans-visit-to-ny-town-where-latino-was-killed-in-act/" target="_blank">Tensions swirl as Trump plans visit to NY town where Latino was killed in act of hate</a></span>  </div>
   <div class="views-row views-row-4 views-row-even">
-        <span class="field-content"><a href="http://latino.foxnews.com/latino/entertainment/2015/12/25/fire-strikes-historic-ecuador-church-on-christmas/" target="_blank">Fire strikes historic Ecuador church on Christmas</a></span>  </div>
+        <span class="field-content"><a href="http://latino.foxnews.com/latino/news/2016/04/13/efe-news-briefs-for-wednesday-april-13-end-day/" target="_blank">EFE News Briefs for Wednesday, April 13 (End of the day)</a></span>  </div>
   <div class="views-row views-row-5 views-row-odd views-row-last">
-        <span class="field-content"><a href="http://latino.foxnews.com/latino/news/2015/12/25/floods-in-northeast-argentina-leave-2-dead-20000-evacuated/" target="_blank">Floods in northeast Argentina leave 2 dead, 20,000 evacuated</a></span>  </div>
+        <span class="field-content"><a href="http://latino.foxnews.com/latino/news/2016/04/13/ringo-starr-cancels-concert-in-north-carolina-over-anti-lgbt-law/" target="_blank">Ringo Starr cancels concert in North Carolina over anti-LGBT law</a></span>  </div>
     </div>
   
   
@@ -2445,7 +2446,7 @@ googletag.enableServices();</script>
 <section id="block-views-e4832269042855f3f58b6a630ab4cb4d" class="block block-views clearfix">
 
       
-  <div class="view view-external-rss-fox-news-latino view-id-external_rss_fox_news_latino view-display-id-block_1 view-dom-id-aeab0040d0d1b92355f7496a7c3522a0">
+  <div class="view view-external-rss-fox-news-latino view-id-external_rss_fox_news_latino view-display-id-block_1 view-dom-id-23b360b41c0b3c6acbd9791982fa0b70">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sprite fnlatino_rss"></div>
     </div>
@@ -2454,13 +2455,13 @@ googletag.enableServices();</script>
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-        <span class="field-content"><a href="http://www.latinpost.com/articles/104316/20151225/luke-bracey-talks-love-point-break-challenge-working-10-countries.htm" target="_blank">Luke Bracey Talks about his Love for 'Point Break' and the Challenge of Working in 10 Countries</a></span>  </div>
+        <span class="field-content"><a href="http://www.latinpost.com/articles/119505/20160412/immigration-news-uscis-h-1b-cap-exhaustion-suggests-improving-u-s-job-market-will-cap-be-raised.htm" target="_blank">Immigration News: USCIS H-1B Cap Exhaustion Suggests Improved US Job Market But Will Cap Be Raised?</a></span>  </div>
   <div class="views-row views-row-2 views-row-even">
-        <span class="field-content"><a href="http://www.latinpost.com/articles/104599/20151225/pope-francis-christmas-message-2015-pontiff-calls-peace-against-terrorism.htm" target="_blank">Pope Francis Christmas Message 2015: Pontiff Calls for Peace Against Terrorism in Christmas Speech</a></span>  </div>
+        <span class="field-content"><a href="http://www.latinpost.com/articles/119369/20160406/puerto-rico-debt-moratorium-gets-praise-from-governor-garcia-padilla-while-house-hearing-set-for-april-13.htm" target="_blank">Puerto Rico Debt Moratorium Gets Praise from Governor Garcia Padilla While House Hearing Set for April 13</a></span>  </div>
   <div class="views-row views-row-3 views-row-odd">
-        <span class="field-content"><a href="http://www.latinpost.com/articles/104576/20151225/us-oil-rises-to-38-10-a-barrel-low-liquidity-ahead.htm" target="_blank">US Oil Rises to $38.10 a Barrel; Low Liquidity Ahead</a></span>  </div>
+        <span class="field-content"><a href="http://www.latinpost.com/articles/119346/20160405/immigration-news-2016-today-gop-senators-challenge-obamas-immigration-executive-actions-supreme-court-lawsuit.htm" target="_blank">Immigration News 2016 Today: GOP Senators Challenge Obama's Immigration Executive Actions in Supreme Court Lawsuit</a></span>  </div>
   <div class="views-row views-row-4 views-row-even views-row-last">
-        <span class="field-content"><a href="http://www.latinpost.com/articles/104518/20151224/immigration-news-2015-presidential-candidates-immigration-advocates-denounce-dhs-deportation-campaign.htm" target="_blank">DHS Deportation Campaign Denounced by Presidential Candidates, Immigration Advocates</a></span>  </div>
+        <span class="field-content"><a href="http://www.latinpost.com/articles/119336/20160405/hillary-clinton-bernie-sanders-pledge-to-add-latinos-to-cabinet-gop-candidates-neglect-to-respond-to-national-hispanic-leadership-agenda-questionnaire.htm" target="_blank">Hillary Clinton, Bernie Sanders Pledge to Add Latinos to Cabinet, GOP Candidates Neglect to Respond to National Hispanic Leadership Agenda Questionnaire</a></span>  </div>
     </div>
   
   
@@ -2473,7 +2474,7 @@ googletag.enableServices();</script>
 <section id="block-views-external-rss-huffpost-block-1" class="block block-views clearfix">
 
       
-  <div class="view view-external-rss-huffpost view-id-external_rss_huffpost view-display-id-block_1 view-dom-id-ad0bc09f9e479457cb328a6b6b91320c">
+  <div class="view view-external-rss-huffpost view-id-external_rss_huffpost view-display-id-block_1 view-dom-id-fafd0e3953d104a89cf9a1d97ccf060b">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sprite celebbabyscoop_rss">&nbsp;</div>
     </div>
@@ -2482,15 +2483,15 @@ googletag.enableServices();</script>
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-        <span class="field-content"><a href="http://www.huffingtonpost.com/2015/12/24/miss-colombia-porn-contract_n_8875346.html?utm_hp_ref=latino-voices&amp;ir=Latino%2BVoices" target="_blank">Miss Colombia Offered Million Dollar Porn Contract After Pageant Loss</a></span>  </div>
+        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4eec3b24/sc/38/l/0L0Shuffingtonpost0N0C20A160C0A40C130Cwhat0Eanita0Ehill0Ethinks0Efeminists0Ecan0Elearn0Efrom0Eangry0Emen0In0I9685410A0Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">What Anita Hill Thinks Feminists Can Learn From Angry Men</a></span>  </div>
   <div class="views-row views-row-2 views-row-even">
-        <span class="field-content"><a href="http://www.huffingtonpost.com/2015/12/24/democratic-candidates-deportations_n_8875246.html?utm_hp_ref=latino-voices&amp;ir=Latino%2BVoices" target="_blank">Democratic Candidates Blast Obama Administration Plan To Deport Families</a></span>  </div>
+        <span class="field-content"><a href="http://www.huffingtonpost.com/2016/04/13/dora-the-explorer-actress-suspended-from-high-school-for-vaping_n_9685372.html?utm_hp_ref=latino-voices&amp;ir=Latino%2BVoices" target="_blank">'Dora The Explorer' Actress Suspended From High School For Vaping</a></span>  </div>
   <div class="views-row views-row-3 views-row-odd">
-        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4c73e174/sc/38/l/0L0Shuffingtonpost0N0C20A150C120C220Canti0Emanic0Epixie0Edream0Egirl0In0I8873660A0Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">Introducing The Anti-Manic Pixie Dream Girl</a></span>  </div>
+        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4eebffe9/sc/24/l/0L0Shuffingtonpost0N0C20A160C0A40C130Ckids0Elearn0Eabout0Egender0Ewage0Egap0Edoing0Esame0Echores0In0I96844640Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">Girls And Boys Outraged By Wage Gap For Chores, Give Us Hope For Future</a></span>  </div>
   <div class="views-row views-row-4 views-row-even">
-        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4c73622a/sc/14/l/0L0Shuffingtonpost0N0C20A150C120C160Cif0Eyoure0Efeeling0Estressed0Ejust0Elook0Eat0Ethis0In0I88732920Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">24 Things To Remember When You're Overwhelmed By Stress</a></span>  </div>
+        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4eebf7c6/sc/38/l/0L0Shuffingtonpost0N0C20A160C0A40C130Ctrump0Eeffect0Esouthern0Epoverty0Elaw0Ecenter0In0I96842820Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">'The Trump Effect': Hatred, Fear And Bullying On The Rise In Schools</a></span>  </div>
   <div class="views-row views-row-5 views-row-odd views-row-last">
-        <span class="field-content"><a href="http://feeds.huffingtonpost.com/c/35496/f/677528/s/4c715f30/sc/7/l/0L0Shuffingtonpost0N0C20A150C120C230Cimmigration0Eraids0Edeportation0In0I88719880Bhtml0Dutm0Ihp0Iref0Flatino0Evoices0Gir0FLatino0KVoices/story01.htm" target="_blank">Immigration Officials To Launch Large-Scale Deportation Raids</a></span>  </div>
+        <span class="field-content"><a href="http://www.huffingtonpost.com/2016/04/13/ny-public-library-spotlights-latino-writers-for-national-library-week_n_9683456.html?utm_hp_ref=latino-voices&amp;ir=Latino%2BVoices" target="_blank">NY Public Library Spotlights Latino Writers For National Library Week</a></span>  </div>
     </div>
   
   
@@ -2503,7 +2504,7 @@ googletag.enableServices();</script>
 <section id="block-views-bc5ebb834dde736e4bb2e5a6a53eb8c2" class="block block-views clearfix">
 
       
-  <div class="view view-external-rss-the-latin-kitchen view-id-external_rss_the_latin_kitchen view-display-id-block_1 view-dom-id-71d2324e5f10ef965603b61bbd938be6">
+  <div class="view view-external-rss-the-latin-kitchen view-id-external_rss_the_latin_kitchen view-display-id-block_1 view-dom-id-098b5d67a40e263946234de12a0c64c6">
             <div class="view-header">
       <!--smart_paging_filter--><div class="sprite tlk-logo"></div>
     </div>
@@ -2512,11 +2513,11 @@ googletag.enableServices();</script>
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
-        <span class="field-content"><a href="http://thelatinkitchen.com/recipes/s/5-coquito-recipes-aka-egg-nog-were-crushing" target="_blank">5 Coquito Recipes (aka Egg Nog) We’re Crushing On</a></span>  </div>
+        <span class="field-content"><a href="http://thelatinkitchen.com/blogs/news/s/podcasts-knowledge-hungry-foodies" target="_blank">Podcasts For Knowledge-Hungry Foodies</a></span>  </div>
   <div class="views-row views-row-2 views-row-even">
-        <span class="field-content"><a href="http://thelatinkitchen.com/blogs/news/s/icymi-snack-beat-your-hangover-offensive-coca-cola-ad-and-more-food-news" target="_blank">ICYMI: A Snack to Beat Your Hangover, An Offensive Coca-Cola Ad and More Food News!</a></span>  </div>
+        <span class="field-content"><a href="http://thelatinkitchen.com/recipes/s/making-matzoh-desserts-celebrating-passover" target="_blank">Making Matzoh Desserts: Celebrating Passover</a></span>  </div>
   <div class="views-row views-row-3 views-row-odd views-row-last">
-        <span class="field-content"><a href="http://thelatinkitchen.com/people/celebrities/s/jealous-much-7-best-celeb-foodgrams-week" target="_blank">Jealous Much? The 7 Best Celeb Foodgrams of the Week!</a></span>  </div>
+        <span class="field-content"><a href="http://thelatinkitchen.com/people/chefs/a/colombias-chef-rodent-duo-meet-charlie-otero" target="_blank">Colombia's Chef-Rodent Duo: Meet Charlie Otero</a></span>  </div>
     </div>
   
   
@@ -2650,14 +2651,14 @@ googletag.enableServices();</script>
 
 <footer id="sticky_footer" class="sticky_footer">
   <div class="dfp-tag-wrapper">  <div class="region region-footer-ads">
-    <section id="block-dfp-btf-leaderboard" class="block block-dfp clearfix">
+    <section id="block-dfp-btf-desktop-sticky" class="block block-dfp clearfix">
 
       
-  <div id="dfp-ad-btf_leaderboard-wrapper" class="dfp-tag-wrapper">
-<div id="dfp-ad-btf_leaderboard" class="dfp-tag-wrapper">
+  <div id="dfp-ad-btf_desktop_sticky-wrapper" class="dfp-tag-wrapper">
+<div id="dfp-ad-btf_desktop_sticky" class="dfp-tag-wrapper">
     <script type="text/javascript">
     googletag.cmd.push(function() {
-      googletag.display("dfp-ad-btf_leaderboard");
+      googletag.display("dfp-ad-btf_desktop_sticky");
     });
   </script>
 </div>
@@ -2700,6 +2701,6 @@ googletag.enableServices();</script>
 	  })();
 	</script>
 	<!--Sticky footer - end -->	
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"751620a63e","applicationID":"15978107","transactionName":"YVNQMBFRChFXVkdbXVgZcwcXWQsMGUVSVVdpW1MKAlcBEGlbXFZXaUBbARRvFANRUA==","queueTime":0,"applicationTime":1054,"atts":"TRRTRllLGR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"751620a63e","applicationID":"15978107","transactionName":"YVNQMBFRChFXVkdbXVgZcwcXWQsMGUVSVVdpW1MKAlcBEGlbXFZXaUBbARRvFANRUA==","queueTime":0,"applicationTime":1095,"atts":"TRRTRllLGR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
