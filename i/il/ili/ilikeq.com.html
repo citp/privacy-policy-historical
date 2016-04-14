@@ -1,38 +1,56 @@
-<!--The following is the downloaded HTML source of the ilikeq.com privacy policy that was archived on 2013-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131218021920id_/http%3A//ilikeq.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ilikeq.com privacy policy that was archived on 2016-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414151131id_/https%3A//ilikeyou.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-		<meta property="og:site_name" content="Ilikeq">
-		<meta property="og:url" content="http://ilikeq.com">
+		<meta property="og:site_name" content="Ilikeyou">
+		<meta property="og:url" content="http://ilikeyou.com">
 		<meta property="fb:app_id" content="227798390649345">
 		<meta property="og:title" content="Like people, find out who likes you.">
 		<meta property="og:type" content="website">
-		<meta property="og:image" content="http://like1.r.worldssl.net/img/app-cover.jpg">
-		<meta property="og:description" content="Like people and find out who likes you. Ilikeq is a social network for meeting new people.">
+		<meta property="og:image" content="https://like1-144481.c.cdn77.org/img/app-cover.jpg">
+		<meta property="og:description" content="Like people and find out who likes you. Ilikeyou is a social network for meeting new people.">
 	
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Who do you like? | Ilikeq.com</title>
-        <meta name="description" content="">
-		<meta name="keywords" content="dating, free online dating, meet new people, social networking, high school, college">
-		
+		<title>Privacy | Ilikeyou - Meet, chat, date</title>
+ 		 		
         <meta name="viewport" content="width=device-width">
 
-        <link rel="stylesheet" href="http://like1.r.worldssl.net/css/main.css?v=507">
+        <!--<link rel="stylesheet" href="/css/fontface.css?v=1029">-->
+        <link rel="stylesheet" href="https://like1-144481.c.cdn77.org/css/main.css?v=1029">
+        <link rel="stylesheet" href="https://like1-144481.c.cdn77.org/css/animations.css?v=1029">
+			<!--[if IE]>
+			<link rel="stylesheet" type="text/css" href="https://like1-144481.c.cdn77.org/css/main-ie-only.css" />
+			<![endif]-->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
-		<meta name="robots" content="index,follow">
 
 
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script src="http://like1.r.worldssl.net/js/vendor/jquery-1.10.2.min.js"></script>
+							<meta name="robots" content="index,follow">
+		
 
+        <!--[if lte IE 8]>
+            <script src="https://like1-144481.c.cdn77.org/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js?v=1045"></script>
+        <![endif]-->
+        <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+			<script src="/js/imagesloaded.min.js"></script>
 
+						
+		<link rel="alternate" hreflang="x-default" href="https://ilikeyou.com/about/privacy/">
+		<link rel="alternate" hreflang="en" href="https://ilikeyou.com/en/about/privacy/">
+		<link rel="alternate" hreflang="de" href="https://ilikeyou.com/de/about/privacy/">
+		<link rel="alternate" hreflang="cs" href="https://ilikeyou.com/cs/about/privacy/">
+		<link rel="alternate" hreflang="es" href="https://ilikeyou.com/es/about/privacy/">
+		<link rel="alternate" hreflang="fr" href="https://ilikeyou.com/fr/about/privacy/">
+		<link rel="alternate" hreflang="id" href="https://ilikeyou.com/id/about/privacy/">
+		<link rel="alternate" hreflang="it" href="https://ilikeyou.com/it/about/privacy/">
+		<link rel="alternate" hreflang="no" href="https://ilikeyou.com/no/about/privacy/">
+		<link rel="alternate" hreflang="tr" href="https://ilikeyou.com/tr/about/privacy/">
+		<link rel="alternate" hreflang="pt" href="https://ilikeyou.com/pt/about/privacy/">
     </head>
 
 	
-    <body class="is-fixed is-infobox">
-
-		<div style="display:none;">
-			On Ilikeq you can browse enless list of many nice phoots of beautiful boys and girls from all the world. Nice guys and ladies send their photos that can be liked. If you like some photo, click Like. It's trendy and stylish. Browse nice photos, enjoy fun, lifestyle.		</div>
+    <body class="is-fixed   ">
 
 			
 <div id="fb-root"></div>
@@ -44,8 +62,8 @@
 	var likes_given = 0;
 	var votes_given = 0;
 	var friendslike_cnt = 0;
-	var base_url = "http://ilikeq.com";
-	var img_url = "http://like1.r.worldssl.net";
+	var base_url = "https://ilikeyou.com";
+	var img_url = "https://like1-144481.c.cdn77.org";
 	var profile_photo_id = 0;
 	var whichone_dialog = 0;
 	var show_some_dialog = 0;
@@ -53,80 +71,94 @@
 	var photos_cnt = 0;
 	var messages_today = 0;
 	var is_vip = 0;
-	var likes_task = 0;
+	//var likes_task = 0;
 	var in_fb = 0;
 	var user_country = "us";
 	var is_mobile = 0;
+	var gender = "";
+	var abtest = "b";
+	var missing_something = 1;
+	var ref = "";
+	var photo_state = 0;
 	
-/*
 
+/*
 	window.onerror = function(message, url, lineNumber) {  
 	  $.ajax({ url: base_url + "/log-js/error/?mess=" + message + "&url=" +url + "&lineNumber=" + lineNumber});
 	  return true;
 	};
- 
-*/
+ */
 
 
+		
 </script>
 
+				
 
 		
 		
 	
-	<div class="header">
-
-       <header>
-            <div class="content-top">
+		
+	<div id="header" class="header">
+            
+       <header class="header_top">
+       
+       	  
+            <div class="content">
                 <a href="/" class="logo">
-                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Ilikeq">
+					<svg class="logo_svg" viewBox="0 0 362.7 165.2">
+						<use xlink:href="#ilikeyou-logo"></use>
+					</svg>
                 </a>
                 <nav class="navbar navbar-default">
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
+                        		                            <span class="icon-bar"></span>
+	                            <span class="icon-bar"></span>
+	                            <span class="icon-bar"></span>
+	                                                </button>
                     </div>
                     <div class="navbar-collapse collapse">
-                    
-                        <ul class="nav navbar-nav">                        
+						<ul class="nav navbar-nav navbar-left">
+							<li class="dropdown dropdown-green">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" id="drop1"><svg class="icon-people u-mr-10" viewBox="0 0 13.003 12.983"><use xlink:href="#icon-people"></use></svg>People</a>
+								<ul aria-labelledby="drop1" role="menu" class="dropdown-menu" id="menu1">
+									<li><a href="/near/">People nearby</a></li>
+									<li><a href="/search/">All</a></li>
+									<li><a href="/topusers/">Top users</a></li>
+									<li><a href="javascript:" onclick="vip('newusers');">New users</a></li>
 
-							<!--
-														-->
-							<!--
-                            <li class=""><a href="javascript:" onclick="searchToggle()"><i class="search-icon" style="margin-top:10px;"></i></a></li>
+								</ul>
+							</li>
 
-                            <li class=""><a href="/rate">Hry</a></li>
-                            <li><a href="/near">PEOPLE NEARBY</a></li>
-                            <li><a href="/topusers">Top users</a></li>
-                            -->
+							<li class="dropdown dropdown-blue">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" id="drop1"><svg class="icon-games u-mr-10" viewBox="0 0 17 17"><use xlink:href="#icon-games"></use></svg>Games</a>
+								<ul aria-labelledby="drop1" role="menu" class="dropdown-menu" id="menu1">
+									<li><a href="/rate/">Rate</a></li>
+									<li><a href="/like/">Like</a></li>
+									<li><a href="/date/">Date?</a></li>
 
- 
-                      </ul>
-                         
+								</ul>
+							</li>
+
+						</ul>
+
                         <ul class="nav navbar-nav navbar-right">
 
 
  
                         
-							                           <li class=""><a href="javascript:" onclick="lightbox('signup')">Sign Up</a></li>
-                           <li class=""><a href="/signin">Sign In</a></li>
+							                           <li class="" style="font-size:10px;border-left:0px;"><a href="/signin/">Already a member?</a></li>
+                           <li class=""><a href="javascript:" onclick="lightbox('signup')">Sign up</a></li>
 
-                           <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About us <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="/about/us">About us</a></li>
-                                    <li><a href="/about/faq">Help</a></li>
-                                    <li><a href="/about/contact">Contact</a></li>
-                                </ul>
-                            </li>
 
 						
                         </ul>
+
+						
                     </div>
                 </nav>
+
             </div>                        
         </header>
  
@@ -135,70 +167,40 @@
  
  
  
-		         <div class="filters">
-            <div class="content-top">
-            	                <form action="/search" class="search" method="post">
-                    <fieldset>
-                        <input type="text" placeholder="Search" name="query">
-                        <input type="submit" value="">
-                    </fieldset>
-                </form>
-                                <form action="/" class="filter">
-                    <fieldset>
-                        <span class="filter-title">Browse</span>
-                        <span class="filter-gender">
-                            <select class="js-select" name="filter_sex">
-                                <option value="b" selected="">all</option>
-                                <option value="female">women</option>
-                                <option value="male">men</option>
-                            </select>
-                        </span>                        
-                        <span class="filter-title">age</span>
-                        <select class="js-select" name="filter_age_from">
-			              	<option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18" selected="">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option>                        </select>
-                        <span class="filter-title">-</span>
-                        <select class="js-select" name="filter_age_to">
-			              	<option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25" selected="">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option><option value="32">32</option><option value="33">33</option><option value="34">34</option><option value="35">35</option><option value="36">36</option><option value="37">37</option><option value="38">38</option><option value="39">39</option><option value="40">40</option><option value="41">41</option><option value="42">42</option><option value="43">43</option><option value="44">44</option><option value="45">45</option><option value="46">46</option><option value="47">47</option><option value="48">48</option><option value="49">49</option><option value="50">50</option><option value="51">51</option><option value="52">52</option><option value="53">53</option><option value="54">54</option><option value="55">55</option><option value="56">56</option><option value="57">57</option><option value="58">58</option><option value="59">59</option>                        </select>
-                    </fieldset>
-                </form>
-               <div class="fb-like" data-href="http://facebook.com/ilikeq" data-width="90" data-layout="button_count" data-show-faces="false" data-send="false"></div>
-            </div>             
-        </div>
-        
 
 
 
-
-		        <div class="box-info">
-            <div class="content-top center">
-                <span class="fs25">
-                    <strong class="alberMedium">Who do you like?</strong> <i class="icon icon-thumb-big"></i> Like people and find out who likes you!                </span>
-                <a class="btn btn-large btn-red btn-top-align fs20" href="/?startTour=1" title="">How it works</a>               
-                <a class="box-close" href="javascript:" onclick="hide_top_box()" title="">
-                    <span class="hide-mobile">Close</span><button aria-hidden="true" data-dismiss="box-info" type="button">×</button>
-                </a>
-            </div>
-        </div>
-         
+ 
 	</div>
- 
- 
- 
+
+
+		
  	    
     <div id="profile_ajax_view" style="display:none;"></div>
 
 
-
-
+		
 
     
-	     <div role="main" class="container-main">
+    <div role="main" id="containerMain" class="content container-main clearfix">
 
 	
 
-<div style="width:1000px; margin:0 auto;">
+				<div style="padding: 0 9px 9px 9px; margin: 0 auto;width:970px;text-align:center;">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-2854676592685278";
+					/* others-970x90 */
+					google_ad_slot = "9084192664";
+					google_ad_width = 970;
+					google_ad_height = 90;
+					//-->
+					</script>
+					<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script>
+				</div>
+				<div style="max-width:1000px; margin:0 auto;">
 	
-	<div style="float:left; max-width:200px; width:20%;">
+	<div class="page_left">
 		<ul class="about_menu">
 						<li><a class="active" href="/about/us">About us</a></li>
 						<li><a href="/about/faq">Help</a></li>
@@ -207,137 +209,455 @@
 		</ul>
 	</div>
 	
-	<div style="float:right; width:70%" class="card">
+	<div class="page_right card">
 	
-<h2>Welcome, and thank you for your interest in Ilikeq.</h2>
+<h2>Welcome, and thank you for your interest in Ilikeyou.</h2>
+This Privacy Policy describes what information we gather from you, how we use and disclose that information, and what we do to protect it. By using Ilikeyou, you expressly consent to the information handling practices described in this policy.<br>
 <br>
-This Privacy Policy describes what information we gather from you, how we use and disclose that information, and what we do to protect it. By using Ilikeq, you expressly consent to the information handling practices described in this policy.<br>
+The Information Ilikeyou Collects:<br>
+User-Provided Information: You may provide to Ilikeyou what is generally called "personally identifiable" information (such as your email address, age, zip code) when using Ilikeyou, such as when you register, and when you use the Apps or purchase virtual goods. If you use Ilikeyou with your mobile device, or sign up to receive alerts via text message, we may also have access to your device ID or phone number.<br>
 <br>
-The Information Ilikeq Collects:<br>
-User-Provided Information: You may provide to Ilikeq what is generally called "personally identifiable" information (such as your email address, age, zip code) when using Ilikeq, such as when you register, and when you use the Apps or purchase virtual goods. If you use Ilikeq with your mobile device, or sign up to receive alerts via text message, we may also have access to your device ID or phone number.<br>
+"Cookies" Information: When you use Ilikeyou, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Ilikeyou may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to Ilikeyou. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from Ilikeyou, you may not be able to utilize the features of Ilikeyou to their fullest potential.<br>
 <br>
-"Cookies" Information: When you use Ilikeq, we may send one or more cookies - small text files containing a string of alphanumeric characters - to your computer. Ilikeq may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to Ilikeq. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from Ilikeq, you may not be able to utilize the features of Ilikeq to their fullest potential.<br>
+"Automatically Collected" Information: When you use Ilikeyou or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons." This "automatically collected" information may include Internet Protocol address ("IP Address") or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after Ilikeyou, the pages you view on Ilikeyou, and the dates and times that you visit, access, or use Ilikeyou.<br>
 <br>
-"Automatically Collected" Information: When you use Ilikeq or open one of our HTML emails, we may automatically record certain information from your web browser by using different types of technology, including "clear gifs" or "web beacons." This "automatically collected" information may include Internet Protocol address ("IP Address") or other device address or ID, web browser and/or device type, the web pages or sites that you visit just before or just after Ilikeq, the pages you view on Ilikeq, and the dates and times that you visit, access, or use Ilikeq.<br>
+Information from Other Sources: We may also obtain information, including personally identifiable information, from third parties and sources other than Ilikeyou, such as other users who send messages to you through Ilikeyou, or third party service providers who you use to access features of Ilikeyou, such as purchasing in-game virtual goods. By using Apps offered by Ilikeyou on Facebook, Ilikeyou will have access to your Facebook profile information that your Facebook privacy settings are configured to expose to Facebook apps, and user activity within some Facebook applications. If we combine or associate information from other sources with personally identifiable information that we collect through Ilikeyou, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.<br>
 <br>
-Information from Other Sources: We may also obtain information, including personally identifiable information, from third parties and sources other than Ilikeq, such as other users who send messages to you through Ilikeq, or third party service providers who you use to access features of Ilikeq, such as purchasing in-game virtual goods. By using Apps offered by Ilikeq on Facebook, Ilikeq will have access to your Facebook profile information that your Facebook privacy settings are configured to expose to Facebook apps, and user activity within some Facebook applications. If we combine or associate information from other sources with personally identifiable information that we collect through Ilikeq, we will treat the combined information as personally identifiable information in accordance with this Privacy Policy.<br>
+The Way Ilikeyou Uses Information:<br>
+Ilikeyou uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Ilikeyou. We will use your email address to contact you for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues, or any regarding content that you have posted to Ilikeyou.<br>
 <br>
-The Way Ilikeq Uses Information:<br>
-Ilikeq uses the information you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on Ilikeq. We will use your email address to contact you for administrative purposes, for customer service purposes, to address intellectual property infringement, rights of privacy, or defamation issues, or any regarding content that you have posted to Ilikeq.<br>
+Ilikeyou uses all of the information that you provide or that we collect and/or aggregate to understand and analyze the usage trends, interests, and preferences of our users, to improve the way Ilikeyou works and looks, and to create new features and functionality.<br>
 <br>
-Ilikeq uses all of the information that you provide or that we collect and/or aggregate to understand and analyze the usage trends, interests, and preferences of our users, to improve the way Ilikeq works and looks, and to create new features and functionality.<br>
+Various aspects of Ilikeyou, such as content on the Ilikeyou Site and in the Apps, and email messages we send you in connection with your use of Ilikeyou, may include relevant advertisements which may be selected based in part on your demographic information, interests, preferences, and usage patterns within Ilikeyou.<br>
 <br>
-Various aspects of Ilikeq, such as content on the Ilikeq Site and in the Apps, and email messages we send you in connection with your use of Ilikeq, may include relevant advertisements which may be selected based in part on your demographic information, interests, preferences, and usage patterns within Ilikeq.<br>
+Ilikeyou may use "automatically collected" information and "cookies" information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit Ilikeyou; (b) provide customized third party advertisements, content, and information; (c) monitor and analyze the effectiveness of Ilikeyou and third party marketing activities; (d) monitor aggregate usage metrics such as total number of visitors, pages viewed, Apps accessed, etc.; and (e) track your entries, submissions, and status in any promotions or other activities.<br>
 <br>
-Ilikeq may use "automatically collected" information and "cookies" information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit Ilikeq; (b) provide customized third party advertisements, content, and information; (c) monitor and analyze the effectiveness of Ilikeq and third party marketing activities; (d) monitor aggregate usage metrics such as total number of visitors, pages viewed, Apps accessed, etc.; and (e) track your entries, submissions, and status in any promotions or other activities.<br>
+Ilikeyou may use your email address or other personally identifiable information to send promotional email related to Ilikeyou we think you may be interested in. You will have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by updating your profile.<br>
 <br>
-Ilikeq may use your email address or other personally identifiable information to send promotional email related to Ilikeq we think you may be interested in. You will have the ability to opt-out of receiving any such communications, either through links provided in the messages, or by updating your profile.<br>
-<br>
-When Ilikeq Discloses Information:<br>
+When Ilikeyou Discloses Information:<br>
 Your privacy is very important to us, and we are not in the business of selling your information.<br>
 <br>
-Ilikeq makes certain automatically collected and other aggregate non-personally-identifiable information available to interested third parties, including premium subscribers, to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through Ilikeq.<br>
+Ilikeyou makes certain automatically collected and other aggregate non-personally-identifiable information available to interested third parties, including premium subscribers, to assist such parties in understanding our users’ interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through Ilikeyou.<br>
 <br>
-Ilikeq works with third party service providers to provide website and application development, hosting, and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to Ilikeq, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information the purpose for which it was provided.<br>
+Ilikeyou works with third party service providers to provide website and application development, hosting, and maintenance as well as other services for us. To the extent it is necessary for these service providers to complete their contractual obligations to Ilikeyou, these third parties may have access to or process your personally identifiable information. Generally, these disclosures are made under terms comparable to this policy, and the recipients are limited to using the information the purpose for which it was provided.<br>
 <br>
-Ilikeq may also disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.<br>
+Ilikeyou may also disclose your information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.<br>
 <br>
-Ilikeq also reserves the right to disclose your information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Ilikeq and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of Ilikeq; or to protect the rights, property, or personal safety of Ilikeq, our users, or others.<br>
+Ilikeyou also reserves the right to disclose your information that we believe, in good faith, is appropriate or necessary to take precautions against liability; to protect Ilikeyou and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of Ilikeyou; or to protect the rights, property, or personal safety of Ilikeyou, our users, or others.<br>
 <br>
 Your Choices:<br>
-You may, of course, decline to share certain personally identifiable information with Ilikeq, in which case Ilikeq may not be able to provide to you some of the features and functionality found on Ilikeq. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page through Ilikeq. Please note that while your changes may be reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.<br>
+You may, of course, decline to share certain personally identifiable information with Ilikeyou, in which case Ilikeyou may not be able to provide to you some of the features and functionality found on Ilikeyou. You may update, correct, or delete your profile information and preferences at any time by accessing your account preferences page through Ilikeyou. Please note that while your changes may be reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics.<br>
 <br>
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
 <br>
 Third Party Services:<br>
-Ilikeq contains links to Web sites and services provided by third parties. Any personally identifiable information you provide on third party sites or services is provided directly to that third party and is subject to that third party’s policies governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party sites or services to which links are displayed on Ilikeq. We encourage you to learn about third parties’ privacy and security policies before providing them with personally identifiable information.<br>
+Ilikeyou contains links to Web sites and services provided by third parties. Any personally identifiable information you provide on third party sites or services is provided directly to that third party and is subject to that third party’s policies governing privacy and security. We are not responsible for the content or privacy and security practices and policies of third party sites or services to which links are displayed on Ilikeyou. We encourage you to learn about third parties’ privacy and security policies before providing them with personally identifiable information.<br>
 <br>
 Our Commitment to Children’s Privacy:<br>
-Protecting the privacy of young children is especially important. For that reason, Ilikeq does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of Ilikeq is directed to persons under 13. If you are under 13 years of age, then please do not use or access Ilikeq at any time or in any manner. If Ilikeq learns that personally identifiable information of children under the age of 13 has been collected on Ilikeq without verifiable parental consent, then Ilikeq will take the appropriate steps to delete this information.<br>
+Protecting the privacy of young children is especially important. For that reason, Ilikeyou does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age, and no part of Ilikeyou is directed to persons under 13. If you are under 13 years of age, then please do not use or access Ilikeyou at any time or in any manner. If Ilikeyou learns that personally identifiable information of children under the age of 13 has been collected on Ilikeyou without verifiable parental consent, then Ilikeyou will take the appropriate steps to delete this information.<br>
 <br>
 Our Commitment to Data Security:<br>
-Ilikeq uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Ilikeq, and you do so at your own risk. Once we receive your transmission of information, Ilikeq makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br>
+Ilikeyou uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Ilikeyou, and you do so at your own risk. Once we receive your transmission of information, Ilikeyou makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br>
 <br>
-If Ilikeq learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Ilikeq may post a notice through Ilikeq if a security breach occurs.<br>
+If Ilikeyou learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Ilikeyou may post a notice through Ilikeyou if a security breach occurs.<br>
 <br>
 In the Event of Merger or Sale:<br>
-In the event that all or a portion of Ilikeq or its assets is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Policy: Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at Ilikeq’ sole discretion, as provided in Section 9.a) of the Ilikeq Terms of Use. If we modify the Privacy Policy, we will make it available through Ilikeq, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access Ilikeq for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through Ilikeq, except that (i) we generally only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of Ilikeq. Your continued use of Ilikeq after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.<br>
+In the event that all or a portion of Ilikeyou or its assets is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. Changes and Updates to this Privacy Policy: Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at Ilikeyou’ sole discretion, as provided in Section 9.a) of the Ilikeyou Terms of Use. If we modify the Privacy Policy, we will make it available through Ilikeyou, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access Ilikeyou for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through Ilikeyou, except that (i) we generally only use your personal information in the manner described in the Privacy Policy in effect when we received that personal information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of Ilikeyou. Your continued use of Ilikeyou after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.<br>
 <br>
-Ilikeq Contact Information:<br>
-Please contact Ilikeq with any questions or comments about this Privacy Policy, your personal information, our third party disclosure practices, or your consent choices by email: info@ilikeq.com.
+Ilikeyou Contact Information:<br>
+Please contact Ilikeyou with any questions or comments about this Privacy Policy, your personal information, our third party disclosure practices, or your consent choices by email: info@ilikeyou.com.
 
 
 
 </div>
 
 </div>        </div>
+        <a id="scrollTop" class="scrollTop" href="#containerMain">Top</a>
 
 
-		<script type="text/javascript" src="http://like1.r.worldssl.net/js/default.js?v=523"></script>
+		<div class="content container-main clearfix fs12" style="">
+			<div style="width:50%; float:right; text-align:right;">
+				<a href="/">Home</a> | <a href="/about/faq/">Support</a> | <a href="/about/contact/">Contact</a> | <a href="/about/safety/">Date safely</a><br><a href="/about/terms/">Terms</a> | <a href="/about/privacy/">Privacy</a> | <a href="/about/contact/">Corporate</a><br>
+				<!--<a href="https://itunes.apple.com/us/app/ilikeyou-meet-chat-friend/id1004937168">iPhone app</a> |--> <a href="https://play.google.com/store/apps/details?id=com.ilikeyou">Android app</a> | 2015 © Ilikeyou
+			</div>
+			<div style="width:50%;">
+			<a href="/dating/">2.039.624</a> people are here.<br>
+			Ilikeyou - chat, date and meet with over 2 million people.<br>Join our community and make new friends in your area.			</div>
+		</div>
 
-        <script src="http://like1.r.worldssl.net/js/plugins.js?v=523"></script>
-        
-        <script>
+		<script type="text/javascript" src="https://like1-144481.c.cdn77.org/js/default.js?v=1045"></script>
+        <script src="https://like1-144481.c.cdn77.org/js/main.js?v=1045"></script>
+        <script src="https://like1-144481.c.cdn77.org/js/plugins.js?v=1045"></script>
+		<script type="text/javascript" src="https://like1-144481.c.cdn77.org/js/lang_en.js?1025"></script>
+		<script>
+			
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '1777680795790778',
+          xfbml      : true,
+          version    : 'v2.2',
+          frictionlessRequests: true
+        });
+
+		FB.Event.subscribe('edge.create',
+		function(response) {
+			$.ajax({ url: base_url + "/log-js/native-like" });
+		});
+
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
 
 
+/*
+*/
 
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '227798390649345',
-      channelUrl : 'http://ilikeq.com/channel.html',
-      status     : true, 
-      cookie     : true, 
-      xfbml      : true,
-      frictionlessRequests: true
-    });
-
-	FB.Event.subscribe('comment.create',
-	    function(response) {
-	    	$.ajax({ url: base_url + "/log-js/comment/?href="+response.href+"&comment_id="+response.commentID});
-	    }
-	);
-
-	FB.Event.subscribe('edge.create',
-    function(response) {
-		$.ajax({ url: base_url + "/log-js/native-like" });
-    });
-
-  };
-
-  (function(d, debug){
-     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement('script'); js.id = id; js.async = true;
-     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
-     ref.parentNode.insertBefore(js, ref);
-   }(document, false));
-   
-   
-   
-
-              var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-330719-26']);
-			  _gaq.push(['_trackPageview']);
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
-            
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-330719-26']);
+				
+				
+				 
+								_gaq.push(['_setCustomVar', 4, 'not_logged', '1', 1]); 
+				
+																
+																																																
+				_gaq.push(['_trackPageview']);
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
 
 
 			
-            
-            
         </script>
-        
-        
-        
-					
-				
-		<script type="text/javascript" src="http://like1.r.worldssl.net/js/lang_en.js?504"></script>
 
-		        
+
+		
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '212462208952336');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=212462208952336&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+  
+
+
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1011685534;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+
+
+		
+
+		
+         
+<svg style="display: none;">
+
+<defs>
+		<!-- viewBox="0 0 32.3 17.6" -->
+		<path id="icon-eye" d="M16.1,0C7.2,0,0,8.8,0,8.8s7.2,8.8,16.1,8.8s16.1-8.8,16.1-8.8S25,0,16.1,0z M16.2,12.4
+			c-2.1,0-3.7-1.7-3.7-3.7S14.1,5,16.2,5c2.1,0,3.7,1.7,3.7,3.7S18.2,12.4,16.2,12.4z"></path>
+
+		<!-- viewBox="0 0 16.7 29.1" -->
+		<path id="icon-fb" d="M16.7,5.3V0.1c-1.9,0-4.6-0.3-6.4,0C8,0.4,5,2.7,5,6.2v5.6H0v5.7h5v11.6h5.8V17.4c1.7,0,5,0,5,0l0.6-5.7
+		c0,0-3.7,0-5.6,0c0-2.2-0.4-5.2,0.9-6C12.7,5,15.2,5.3,16.7,5.3z"></path>
+
+		<!-- viewBox="0 0 512 512" -->
+		<path id="icon-check" d="m192 420c-11 0-22-5-30-13l-121-118c-17-17-17-43 0-59c16-16 43-16 59 0l92 90l220-215c16-17 43-17 59 0c17 16 17 42 0 58l-249 244c-8 8-19 13-30 13z"></path>
+
+		<!-- viewBox="0 0 37.1 24.1" -->
+		<g>
+			<path id="icon-mail" d="M0,2.3v21.8h37.1V2.4L18.6,17L0,2.3z M0,0v0.6l18.5,12.1l18.6-12V0H0z"></path>
+		</g>
+
+		<!-- viewBox="0 0 29.1 36.2" -->
+		<path id="icon-date" d="M28.6,7.2h-8.3l3.9-4.6l4.9-0.5L28.9,0l-5.5,0.6l-0.2-0.1l-5.8,6.8H0l13.1,16v9.1h-0.3L6,35.2v1h16v-1
+			l-6.3-2.9h-0.4v-9.1L28.6,7.2z M5.1,9.3H11l2.2,10.2L5.1,9.3z"></path>
+
+		<!-- viewBox="0 0 28.8 26.5" -->
+		<path id="icon-share" d="M23.9,16.6c-1.6,0-3,0.8-3.9,2l-10.2-4c0.1-0.4,0.2-0.9,0.2-1.3c0-0.4,0-0.7-0.1-1.1l10.4-4
+		c0.9,1,2.2,1.7,3.7,1.7c2.7,0,4.9-2.2,4.9-4.9S26.6,0,23.9,0s-4.9,2.2-4.9,4.9c0,0.6,0.1,1.2,0.3,1.7l-10.2,4
+		C8.2,9.3,6.7,8.4,4.9,8.4C2.2,8.4,0,10.6,0,13.3c0,2.7,2.2,4.9,4.9,4.9c1.6,0,3-0.8,3.9-2l10.2,4c-0.1,0.4-0.2,0.8-0.2,1.3
+		c0,2.7,2.2,4.9,4.9,4.9s4.9-2.2,4.9-4.9C28.8,18.9,26.6,16.6,23.9,16.6z"></path>
+
+		<!-- viewBox="0 0 27.8 26.4" -->
+		<path id="icon-heartLikes" d="M14.6,8.6c2.3-1.3,4.7-2.2,6.9-2.3C21.2-1,13.4-2,10.8,4.1C8-2.4,0.1-0.9,0,6.7c0,4.4,10.5,11,10.8,12.1
+			c0.2-0.7,4.6-3.8,7.7-7c-0.8,0.3-1.3,0.6-2.2,1.1L14.6,8.6z M21.3,22.1c-0.7,0-1.3,0.2-1.7,0.5c-0.4,0.4-0.6,0.9-0.6,1.6
+			c0,0.7,0.2,1.2,0.6,1.6c0.4,0.4,0.9,0.6,1.7,0.6c0.7,0,1.2-0.2,1.6-0.6c0.4-0.4,0.6-0.9,0.6-1.6c0-0.7-0.2-1.2-0.6-1.6
+			C22.6,22.3,22,22.1,21.3,22.1z M26.2,8.5c-1-0.8-2.4-1.3-4.2-1.3c-2.1,0-4.1,0.5-6,1.6l1.4,2.8c1.6-0.8,3.1-1.2,4.3-1.2
+			c0.7,0,1.3,0.1,1.7,0.4c0.4,0.3,0.6,0.7,0.6,1.3c0,0.5-0.1,0.9-0.4,1.3c-0.3,0.4-0.9,0.9-1.8,1.5c-0.9,0.7-1.6,1.3-1.9,1.9
+			c-0.3,0.6-0.5,1.3-0.5,2.1v0.9h3.4v-0.8c0-0.5,0.1-0.9,0.3-1.2c0.2-0.3,0.7-0.8,1.5-1.4c1.2-0.8,2-1.6,2.4-2.3
+			c0.4-0.7,0.6-1.5,0.6-2.4C27.8,10.5,27.2,9.3,26.2,8.5z"></path>
+
+		<path id="icon-heart" d="M6.686,2.546C4.954-1.495,0.032-0.551,0,4.138c-0.019,2.711,6.5,6.844,6.695,7.515
+		c0.178-0.696,6.699-4.851,6.682-7.543C13.344-0.591,8.337-1.333,6.686,2.546z"></path>
+
+		<g id="icon-rate">
+			<polygon id="icon-rate-1" fill="#E74C3C" points="5.268,0 0,6.87 10.535,6.87"></polygon>
+			<polygon id="icon-rate-2" fill="#A0ACAF" points="0,7.455 5.268,14.326 10.535,7.455"></polygon>
+		</g>
+
+		<g id="icon-rate-alt">
+			<polygon id="icon-rate-alt-1" points="5.268,0 0,6.87 10.535,6.87"></polygon>
+			<polygon id="icon-rate-alt-2" points="0,7.455 5.268,14.326 10.535,7.455"></polygon>
+		</g>
+
+		  <!-- viewBox="0 0 512 512" -->
+          <path id="icon-star" d="m59 248l1 0l2 1c0 0 0 0 0 0l86 62l-33 101c0 0 0 0 0 0l-1 1l0 1c-18 55 6 72 53 38l1 0l88-63l86 62c0 0 0 0 0 0l2 1l1 1c47 34 71 16 53-39l0-1l-1-1c0 0 0 0 0 0l-33-101l86-62c0 0 0 0 0 0l3-1c47-34 38-62-20-62l-110 0l-34-102l0 0c-18-56-48-56-67 0l0 0l-33 102l-111 0c-57 0-66 27-19 62z"></path>
+
+          <!-- viewBox="0 0 512 512" -->
+          <path id="icon-smartphone" d="m353 5c15 0 27 5 37 15c10 10 14 22 14 36c0 0 0 400 0 400c0 13-4 25-14 36c-10 10-22 15-37 15c0 0-194 0-194 0c-14 0-26-5-36-15c-10-11-15-23-15-36c0 0 0-400 0-400c0-14 5-26 15-36c10-10 22-15 36-15c0 0 194 0 194 0m-97 481c10 0 19-2 26-7c6-5 10-11 10-18c0-8-4-14-10-19c-7-4-16-7-26-7c-10 0-18 3-25 8c-7 5-11 11-11 18c0 7 4 13 11 18c7 5 15 7 25 7m108-76c0 0 0-338 0-338c0 0-216 0-216 0c0 0 0 338 0 338c0 0 216 0 216 0"></path>
+
+		<g id="icon-close">
+			<polygon id="icon-close-1" points="17.4,0.8 16.6,0 8.7,7.9 0.8,0 0,0.8 7.9,8.7 0,16.6 0.8,17.4 8.7,9.5 16.6,17.4 17.4,16.6 9.5,8.7"></polygon>
+		</g>
+
+		<path id="icon-visits" d="M6.694,0C2.997,0,0,3.843,0,3.843s2.997,3.843,6.694,3.843
+			s6.695-3.843,6.695-3.843S10.392,0,6.694,0z M6.55,5.526c-0.959,0-1.736-0.777-1.736-1.735c0-0.959,0.777-1.736,1.736-1.736
+			c0.958,0,1.735,0.777,1.735,1.736C8.285,4.749,7.508,5.526,6.55,5.526z"></path>
+
+		<path id="icon-thumbUp" d="M13.834,52.29C11.547,51.005,10,48.555,10,45.75c0-2.806,1.547-5.256,3.834-6.541
+			c-0.219-0.702-0.333-1.444-0.333-2.209c0-2.805,1.546-5.254,3.831-6.541C17.115,29.758,17,29.015,17,28.25
+			c0-2.288,1.031-4.174,2.826-5.61c2.051-1.639,4.489-1.64,5.8-1.64h1.851c4.76-6.988,5.165-17.799,0.166-20.641
+			c-2.213-1.258-4.918,0.99-4.918,3.535c0,7.009-8.916,15.37-16.166,18.415C2.713,23.925,0,27.578,0,31.75V47.5
+			c0,2.687,1.025,5.375,3.075,7.424C5.125,56.975,7.813,58,10.5,58h3.874c-0.563-1.063-0.873-2.254-0.873-3.499
+			C13.501,53.736,13.617,52.993,13.834,52.29z M42.871,33.61C42.398,33.488,42,33.113,42,32.625s0.398-0.862,0.871-0.986
+			c1.508-0.389,2.629-1.765,2.629-3.389c0-1.925-1.574-3.25-3.5-3.25H25.626c-1.162,0-2.396,0.04-3.302,0.764
+			C21.519,26.407,21,27.145,21,28.25c0,1.624,1.121,3,2.629,3.389c0.473,0.124,0.871,0.498,0.871,0.986
+			c0,0.482-0.392,0.875-0.875,0.875H21c-1.926,0-3.5,1.575-3.5,3.5c0,1.624,1.121,3,2.629,3.389C20.602,40.513,21,41.137,21,41.625
+			c0,0.482-0.392,0.875-0.875,0.875H17.5c-1.926,0-3.5,1.325-3.5,3.25s1.574,3.75,3.5,3.75h2.625c0.483,0,0.875,0.392,0.875,0.875
+			c0,0.488-0.398,0.863-0.871,0.985c-1.508,0.391-2.629,1.517-2.629,3.14c0,1.116,0.529,2.116,1.352,2.757
+			C19.766,57.973,21,58,22.16,58H35c1.926,0,3.5-1.575,3.5-3.5c0-1.623-1.121-2.749-2.629-3.14C35.398,51.238,35,50.863,35,50.375
+			c0-0.483,0.392-0.875,0.875-0.875H38.5c1.926,0,3.5-1.825,3.5-3.75c0-1.623-1.121-2.999-2.629-3.39
+			c-0.473-0.122-0.871-0.497-0.871-0.985c0-0.483,0.392-0.875,0.875-0.875H42c1.926,0,3.5-1.575,3.5-3.5
+			C45.5,35.377,44.379,34.001,42.871,33.61z"></path>
+
+		<path id="icon-thumbDown" d="M13.501,3.499c0-1.245,0.311-2.437,0.873-3.499H10.5C7.813,0,5.125,1.025,3.075,3.076
+			C1.025,5.125,0,7.813,0,10.5v15.75c0,4.172,2.713,7.825,6.559,9.44c7.25,3.045,16.166,11.406,16.166,18.415
+			c0,2.545,2.705,4.793,4.918,3.535c4.999-2.842,4.594-13.652-0.166-20.641h-1.851c-1.311,0-3.749-0.001-5.8-1.64
+			C18.031,33.924,17,32.038,17,29.75c0-0.765,0.115-1.508,0.332-2.209c-2.285-1.287-3.831-3.736-3.831-6.541
+			c0-0.765,0.114-1.507,0.333-2.209C11.547,17.506,10,15.056,10,12.25c0-2.805,1.547-5.255,3.834-6.54
+			C13.617,5.007,13.501,4.264,13.501,3.499z M45.5,21c0-1.925-1.574-3.5-3.5-3.5h-2.625c-0.483,0-0.875-0.392-0.875-0.875
+			c0-0.488,0.398-0.863,0.871-0.985C40.879,15.249,42,13.873,42,12.25c0-1.925-1.574-3.75-3.5-3.75h-2.625
+			C35.392,8.5,35,8.108,35,7.625c0-0.488,0.398-0.863,0.871-0.985C37.379,6.249,38.5,5.123,38.5,3.5C38.5,1.575,36.926,0,35,0H22.16
+			C21,0,19.766,0.027,18.852,0.743C18.029,1.384,17.5,2.384,17.5,3.5c0,1.623,1.121,2.749,2.629,3.14C20.602,6.762,21,7.137,21,7.625
+			C21,8.108,20.608,8.5,20.125,8.5H17.5c-1.926,0-3.5,1.825-3.5,3.75s1.574,3.25,3.5,3.25h2.625c0.483,0,0.875,0.393,0.875,0.875
+			c0,0.488-0.398,1.112-0.871,1.236C18.621,18,17.5,19.376,17.5,21c0,1.925,1.574,3.5,3.5,3.5h2.625c0.483,0,0.875,0.393,0.875,0.875
+			c0,0.488-0.398,0.862-0.871,0.986C22.121,26.75,21,28.126,21,29.75c0,1.105,0.519,1.843,1.324,2.486
+			C23.23,32.96,24.464,33,25.626,33H42c1.926,0,3.5-1.325,3.5-3.25c0-1.624-1.121-3-2.629-3.389C42.398,26.237,42,25.863,42,25.375
+			s0.398-0.863,0.871-0.985C44.379,23.999,45.5,22.623,45.5,21z"></path>
+
+		<path id="icon-people" d="M6.505,7.64c2.093,0,3.79-1.71,3.79-3.82C10.295,1.71,8.599,0,6.505,0c-2.093,0-3.79,1.71-3.79,3.819
+			C2.716,5.93,4.413,7.64,6.505,7.64z M10.442,7.004c-0.93,1.167-2.339,1.929-3.939,1.929c-1.601,0-3.01-0.763-3.94-1.931
+			C1.008,8.2,0,10.083,0,12.209c0,0.263,0.02,0.52,0.05,0.774h12.904c0.029-0.255,0.049-0.512,0.049-0.774
+			C13.003,10.084,11.996,8.202,10.442,7.004z"></path>
+
+		<path id="icon-games" d="M14,0H3C1.343,0,0,1.343,0,3v11c0,1.657,1.343,3,3,3h11c1.656,0,3-1.343,3-3V3C17,1.343,15.656,0,14,0z
+			 M4.474,13.362c-0.886,0-1.605-0.719-1.605-1.605c0-0.886,0.719-1.604,1.605-1.604c0.887,0,1.605,0.719,1.605,1.604
+			C6.079,12.644,5.361,13.362,4.474,13.362z M4.474,6.362c-0.886,0-1.605-0.719-1.605-1.605c0-0.886,0.719-1.604,1.605-1.604
+			c0.887,0,1.605,0.719,1.605,1.604C6.079,5.644,5.361,6.362,4.474,6.362z M12.475,13.362c-0.887,0-1.605-0.719-1.605-1.605
+			c0-0.886,0.719-1.604,1.605-1.604s1.604,0.719,1.604,1.604C14.079,12.644,13.361,13.362,12.475,13.362z M12.475,6.362
+			c-0.887,0-1.605-0.719-1.605-1.605c0-0.886,0.719-1.604,1.605-1.604s1.604,0.719,1.604,1.604
+			C14.079,5.644,13.361,6.362,12.475,6.362z"></path>
+
+		<path id="icon-yours" d="M14,0H3C1.343,0,0,1.343,0,3v11c0,1.657,1.343,3,3,3h11c1.656,0,3-1.343,3-3V3C17,1.343,15.656,0,14,0z
+			 M13,10H4V8h9V10z M13,6H4V4h9V6z"></path>
+
+        <path id="icon-arrow-right" d="m405 238c0 10-3 18-10 26l-186 186c-7 7-16 10-26 10c-10 0-19-3-26-10l-22-22c-7-7-10-16-10-26c0-10 3-18
+        	10-25l139-139l-139-139c-7-7-10-16-10-26c0-10 3-19 10-26l22-21c7-7 16-11 26-11c10 0 19 4 26 11l186 186c7 7 10 16 10 26z"></path>
+
+        	<!-- viewBox="0 0 362.7 165.2" -->
+        	<path id="ilikeyou-logo" d="M360.1,98.7c-1.2,1-2.5,1.9-3.9,2.9c-1.4,1-3,1.9-4.6,2.7
+	c-1.6,0.9-3.3,1.7-5,2.3c-1.7,0.7-3.3,1.2-5,1.6c-1.6,0.4-3.2,0.6-4.6,0.6c-1.5,0-2.7-0.3-3.8-0.9c-1.1-0.6-2-1.4-2.8-2.4
+	c-0.8-1-1.5-2.3-2.2-3.7c-0.6-1.4-1.2-3-1.7-4.8c-1.3,1.8-2.6,3.4-4,4.9c-1.4,1.5-2.9,2.8-4.4,3.9c-1.5,1.1-3.1,2-4.6,2.6
+	c-1.6,0.6-3.1,0.9-4.7,0.9c-1.3,0-2.5-0.2-3.6-0.6c-1.1-0.4-2.2-1.1-3.1-2.1c-0.9-1-1.7-2.3-2.3-3.9c-0.6-1.6-1-3.6-1.2-6
+	c-0.2-2.9-0.1-6.7,0.3-11.2c0.3-3.5,0.7-7.4,1.1-11.6c-0.2-0.1-0.3-0.2-0.4-0.3c-2.1-1.5-4.1-3-6.1-4.3c-2-1.4-3.7-2.5-5.2-3.4
+	l-0.4,0.6c1.3,2.2,2.2,4.5,3,7c0.7,2.5,1.2,4.8,1.3,7.1c0.2,2.3,0.1,4.5-0.3,6.8c-0.3,2.3-0.9,4.5-1.7,6.6c-0.8,2.1-1.8,4.1-3,6
+	c-1.2,1.9-2.7,3.5-4.3,4.9c-1.6,1.4-3.5,2.5-5.5,3.3c-2,0.8-4.2,1.2-6.5,1.2c-3.4,0-6.3-0.7-8.8-2.2c-1.8-1-3.4-2.3-4.7-3.8
+	c-1,1-2.1,2-3.2,3c-1.4,1.2-2.7,2.3-4,3.3c-3.1,2.4-5.7,4.6-9.5,7c-0.5,4.3-1,8.5-1.7,12.6c-0.7,4.1-1.6,7.9-2.7,11.5
+	c-1.1,3.6-2.4,6.9-3.9,9.8c-1.5,3-3.3,5.6-5.3,7.7c-2,2.1-4.3,3.8-6.9,5c-2.6,1.2-5.5,1.8-8.7,1.9c-1.3,0-2.6-0.1-4.1-0.4
+	c-1.5-0.3-2.9-0.8-4.2-1.7c-1.3-0.8-2.4-2-3.3-3.6c-0.9-1.6-1.5-3.7-1.6-6.3c-0.1-1.8,0.2-3.9,0.9-6.1c0.7-2.3,1.7-4.7,3.1-7.2
+	c1.3-2.5,2.9-5.2,4.8-7.9c1.9-2.7,3.9-5.5,6.2-8.2c2.2-2.7,4.6-5.4,7-8c2.5-2.6,4.7-4.6,6.7-7.2l1.2-5.3c-1.9,1.8-4,3.3-6.1,4.4
+	c-2.2,1.1-4.3,1.7-6.4,1.7c-1.8,0-3.6-0.4-5.4-1.1c-1.8-0.7-3.4-1.8-4.8-3.2c-1-1-1.9-2.1-2.7-3.4c0,0,0,0,0,0
+	c-1.6-3.3-1.9-5.7-2.4-8.7c-0.2-1.3-0.2-2.5-0.3-3.5c0,0,0,0,0,0l0,0c-0.1-1.9-0.1-3.7,0-5.4c0.1-2.8,0.4-5.4,0.8-8
+	c0.4-2.5,1-4.9,1.8-7.3c0.8-2.3,1.6-4.7,2.7-7.1c0.8-1.7,1.9-3,3.5-3.9c1.6-0.9,3.1-1.3,4.7-1.3c1.3,0,2.5,0.3,3.5,1
+	c1,0.7,1.5,1.7,1.6,3.1c0,0.4,0,0.9-0.1,1.4c-0.1,0.5-0.2,1-0.4,1.6c-0.6,1.8-1.1,3.8-1.6,6.2c-0.5,2.4-0.9,4.8-1.3,7.3
+	c-0.3,2.5-0.6,4.9-0.7,7.4c-0.1,2.4-0.1,4.5,0,6.4c0.1,1,0.2,1.9,0.4,2.8c0.2,0.9,0.5,1.7,0.9,2.4c0.4,0.7,0.9,1.3,1.5,1.7
+	c0.6,0.4,1.3,0.7,2.2,0.7c1.4,0,2.6-0.6,3.7-1.8c1.1-1.2,1.9-2.7,2.7-4.4c0.7-1.7,1.3-3.5,1.7-5.3c0.4-1.8,0.6-3.4,0.7-4.6l2.8-16.8
+	c0.2-1.3,0.7-2.5,1.4-3.5c0.7-1,1.6-1.9,2.5-2.5c1-0.7,2-1.2,3.1-1.5c1.1-0.3,2.1-0.5,3.1-0.5c1.2,0,2.2,0.3,3,0.8
+	c0.8,0.5,1.3,1.3,1.4,2.4c0,0.3,0,0.7-0.1,1.2c-0.2,1-0.4,2.3-0.6,4.1c-0.2,1.7-0.5,3.7-0.7,5.8c-0.3,2.2-0.5,4.5-0.8,6.9
+	c-0.3,2.4-0.5,4.8-0.7,7.2c-0.6,5.6-1.1,11.7-1.7,18.2c1.1-0.6,2.3-1.5,3.6-2.4c1.3-1,2.7-2.2,4.2-3.8c1-1.1,2.1-2.3,3.2-3.7
+	c-0.1-0.2-0.1-0.4-0.2-0.6c-0.9-3-1.5-6-1.7-9c-0.3-4.2,0.1-8.1,1.1-11.8c1-3.6,2.6-6.8,4.8-9.5c2.2-2.7,4.9-4.8,8.2-6.4
+	c3.3-1.5,7.1-2.3,11.3-2.3c3.6,0,7.1,0.6,10.3,1.7c3.2,1.1,6.3,2.6,9.2,4.5c2.1,1.4,4.1,2.9,6,4.6c0.1-0.2,0.1-0.5,0.2-0.7
+	c0.3-1.1,0.7-2.3,1.1-3.5c0.4-1.2,1-2.3,1.7-3.2c0.7-1,1.5-1.7,2.4-2.3c0.9-0.6,2-0.9,3.2-1c2,0.1,3.5,0.3,4.4,0.8
+	c0.9,0.4,1.4,1,1.4,1.6c-0.2,2-0.4,4.3-0.6,6.8s-0.5,5-0.7,7.5c-0.2,2.5-0.5,5-0.7,7.4c-0.2,2.4-0.4,4.5-0.6,6.4
+	c-0.2,1.9-0.3,3.4-0.4,4.5c-0.1,1.1-0.1,1.7-0.1,1.8c0,0.7,0.2,1.3,0.3,2c0.2,0.6,0.4,1.2,0.7,1.7c0.3,0.5,0.7,0.9,1.1,1.2
+	c0.4,0.3,0.9,0.5,1.5,0.5c0.8,0,1.7-0.2,2.5-0.7c0.8-0.4,1.6-1.1,2.4-1.9c0.7-0.8,1.3-1.8,1.9-3c0.5-1.2,0.9-2.6,1.1-4.1l3.6-29.1
+	c0.1-0.9,0.8-1.7,2.2-2.3c1.3-0.6,2.8-0.9,4.5-0.9c1.9,0,3.5,0.3,4.7,1c1.2,0.7,1.8,1.6,1.9,2.6c0.1,1,0.1,2.4-0.1,4.2
+	c-0.1,1.8-0.3,3.7-0.5,5.8c-0.2,2.1-0.5,4.3-0.7,6.6c-0.3,2.3-0.5,4.3-0.7,6.3c-0.2,1.9-0.4,3.7-0.5,5.1c-0.1,1.5-0.2,2.5-0.1,3.1
+	c0.1,1.1,0.2,2.1,0.3,2.9c0.1,0.9,0.3,1.7,0.5,2.3c0.2,0.7,0.6,1.2,1,1.5c0.4,0.4,1,0.5,1.8,0.5c0.8,0,1.8-0.2,3-0.6
+	c1.2-0.4,2.4-1,3.7-1.7c1.3-0.7,2.6-1.5,4-2.4c1.3-0.9,2.6-1.8,3.8-2.8c1.2-1,2.3-2,3.3-2.9c1-1,1.8-1.9,2.4-2.7
+	c0.1,1.3,0.6,11.8,0.7,13C361.9,97.2,361.2,97.7,360.1,98.7z M223.7,128.4c-1.4,1.5-2.8,3-4.1,4.7c-1.3,1.7-2.6,3.4-3.8,5.2
+	c-1.2,1.8-2.2,3.5-3.1,5.1c-0.9,1.6-1.5,3.2-2,4.6c-0.5,1.4-0.7,2.6-0.6,3.5c0.1,1.5,0.9,2.2,2.4,2.2c1.6,0,3-0.5,4.3-1.5
+	c1.3-1,2.5-2.3,3.6-3.9s2-3.5,2.9-5.5c0.8-2.1,1.6-4.2,2.2-6.3c0.6-2.2,1.1-4.3,1.5-6.3c0.4-2.1,0.7-3.9,0.9-5.5
+	C226.5,125.7,225.1,127,223.7,128.4z M281.1,77.9c-0.1-1.8-0.4-3.4-0.7-4.9c-0.4-1.5-0.9-2.8-1.5-3.9c-0.6-1.1-1.4-2-2.2-2.6
+	s-1.9-1-3.1-1c-1.6,0-3,0.7-4.3,2c-1.3,1.3-2.4,3-3.4,5.1c-0.9,2.1-1.6,4.4-2,6.9c-0.4,2.5-0.6,4.9-0.4,7.3c0.1,1.6,0.4,3.1,0.8,4.5
+	c0.4,1.4,1,2.6,1.7,3.7c0.7,1,1.6,1.9,2.8,2.5c1.1,0.6,2.4,0.9,3.9,0.9c1.3,0,2.5-0.7,3.6-2c1.1-1.3,2.1-3,2.9-5
+	c0.8-2,1.4-4.2,1.7-6.6C281.1,82.4,281.2,80.1,281.1,77.9z M188.1,108.5c-2.2,0.5-4.4,0.8-6.7,0.8c-3.6,0-6.7-0.6-9.5-1.9
+	c-2.8-1.3-5.1-3-7-5.2c-1-1.1-1.8-2.2-2.5-3.5c-0.4,0.5-0.8,1-1.3,1.6c-0.1,0.1-0.2,0.2-0.3,0.3c-0.5,0.5-1,1-1.6,1.5
+	c-1.7,1.5-3.6,2.7-5.6,3.8c-2,1.1-4.1,1.9-6.4,2.5c-2.2,0.6-4.4,0.9-6.5,0.9c-2.7,0-5-0.3-6.8-1c-1.8-0.7-3.2-1.5-4.3-2.6
+	c-1.1-1.1-1.8-2.3-2.3-3.7c-0.5-1.4-0.7-2.8-0.8-4.3c-0.1-0.9,0-1.9,0.1-3.2c0.1-1.3,0.4-2.7,0.9-4.3c0.5-1.6,1.2-3.3,2.1-5.3
+	c0.9-1.9,2.2-4,3.7-6.2c0.6-0.7,1.2-1.3,1.7-1.8c0.5-0.5,1-1,1.4-1.5c0.4-0.4,0.7-0.8,0.9-1.2c0.2-0.4,0.4-1,0.4-1.4
+	c-0.1-0.8-0.3-1.4-0.7-1.7c-0.4-0.4-0.8-0.7-1.3-0.7c-0.6,0-1.4,0.3-2.4,1.2c-1,0.8-2,2.3-3.1,4.4l-14.7,29.4
+	c-0.8,1.5-1.6,2.6-2.5,3.2c-0.9,0.6-1.9,0.9-3.2,0.9c-1.6,0-2.9-0.4-3.9-1.1c-1-0.7-1.8-1.7-2.4-2.8c-0.6-1.2-1-2.6-1.2-4.2
+	c-0.1-0.7-0.2-1.4-0.3-2.2c-0.8,0.7-1.7,1.4-2.7,2.1c-1.9,1.4-4,2.7-6.3,3.9c-2.3,1.2-4.6,2.2-7,3c-2.4,0.8-4.7,1.2-6.9,1.2
+	c-2,0-3.6-0.3-5-0.8c-1.4-0.6-2.5-1.3-3.4-2.3c-0.9-1-1.6-2.2-2-3.6c-0.2-0.5-0.3-1-0.4-1.5c-1,0.6-1.9,1.2-2.9,1.8
+	c-1.4,0.8-2.8,1.6-4.3,2.4c-1.5,0.8-3,1.5-4.5,2.1c-1.5,0.6-3,1.1-4.5,1.5c-1.5,0.4-2.8,0.5-4.1,0.5c-2,0-4-0.9-5.9-2.7
+	c-1.8-1.7-3.4-4-4.8-6.7c-1.4-3.4-3-7.7-4.2-11.9c-2.1-8-2-15.6-2-15.6l-0.1,0c0-2.3,0-4.7,0.1-7.2c0.2-4,0.7-8.1,1.3-12.3
+	c0.7-4.2,1.5-8.4,2.5-12.7c1-4.2,2.2-8.3,3.6-12.2c1.4-3.9,2.9-7.6,4.6-11c1.7-3.4,3.5-6.4,5.5-8.9c1.9-2.5,4-4.5,6.2-5.9
+	C57.4,0.7,59.7,0,62.1,0c1.6,0,3,0.4,4.1,1.1c1.1,0.7,2,1.7,2.7,2.9c0.7,1.2,1.2,2.6,1.6,4.1c0.4,1.5,0.6,3.1,0.7,4.7
+	c0.2,3.6,0.1,7.2-0.5,10.9c-0.6,3.7-1.4,7.4-2.5,11.2c-1.1,3.7-2.5,7.5-4,11.2c-1.6,3.8-3.2,7.5-4.9,11.2c-1.7,3.7-3.4,7.3-5.2,10.9
+	c-1.7,3.6-3.4,7.1-4.9,10.5c-0.2,0.4-0.3,0.9-0.5,1.5c-0.2,0.6-0.3,1.3-0.5,2c-0.1,0.7-0.3,1.5-0.4,2.2c-0.1,0.8-0.2,1.6-0.3,2.3
+	l0.1,0.8c0.1,1,0.2,1.9,0.5,2.9c0.3,0.9,0.6,1.8,0.9,2.5s0.7,1.3,1.1,1.8c0.4,0.4,0.7,0.7,1,0.7c0.7,0,1.5-0.1,2.4-0.5
+	s1.9-0.7,2.9-1.2c1-0.5,2-1.1,3.1-1.8c1.1-0.7,2.1-1.3,3-2c2-1.4,4.1-3,6.2-4.8c0.2-1.8,0.5-3.6,0.8-5.5c0.6-3.4,1.2-6.8,1.8-10.2
+	c0.7-3.4,1.2-6.5,1.7-9.3c0.2-1,0.7-1.8,1.4-2.5c0.7-0.7,1.6-1.3,2.6-1.7c1-0.4,2-0.8,3.1-1c1.1-0.2,2-0.3,2.9-0.3
+	c1.6,0,2.7,0.3,3.3,0.9c0.6,0.6,0.9,1.4,1,2.4c0.1,0.8,0,2-0.3,3.6c-0.3,1.6-0.6,3.4-1.1,5.3c-0.4,2-0.9,4.1-1.4,6.4
+	c-0.5,2.3-0.9,4.6-1.3,6.9c-0.4,2.3-0.7,4.5-1,6.7c-0.2,2.2-0.3,4.1-0.2,5.9c0.1,1.7,0.4,3.1,0.9,4.1c0.4,1,1.3,1.5,2.4,1.5
+	c1.4,0,2.8-0.5,4.5-1.4c1.6-1,3.2-2.1,4.8-3.4c1.6-1.3,3.2-2.7,4.7-4.2c0.8-0.7,1.5-1.4,2.1-2c0-1.7-0.1-3.6-0.1-5.5
+	c0-0.1,0-0.1,0-0.2c0-0.9,0-1.8,0-2.7c0-1,0-2,0-3.1c0-4.3,0.1-8.7,0.3-13.4c0.2-4.7,0.5-9.2,0.9-13.6c0.2-1.6,0.4-3.4,0.6-5.7
+	c0.3-2.2,0.6-4.6,1.1-7.1c0.5-2.5,1-5.2,1.7-7.9c0.7-2.7,1.5-5.4,2.4-8c0.9-2.6,2-5.1,3.3-7.4c1.2-2.4,2.7-4.4,4.3-6.2
+	c1.6-1.8,3.4-3.2,5.5-4.2c2-1,4.3-1.5,6.7-1.5c1.9,0,3.5,0.3,4.8,0.9c1.3,0.6,2.4,1.5,3.2,2.6c0.8,1.1,1.4,2.5,1.8,4
+	c0.4,1.6,0.7,3.2,0.8,5.1c0.2,3.2,0.1,6.7-0.5,10.4c-0.6,3.7-1.3,7.4-2.3,11.2c-1,3.7-2.1,7.4-3.3,10.9c-1.2,3.5-2.4,6.7-3.6,9.6
+	c-1.2,2.8-2.2,5.2-3.1,7.2c-0.9,2-1.5,3.2-1.8,3.8l-5.3,10.6c1.2-1.7,3-3.8,4.5-5.9c1.6-2.3,7.2-9.6,8.4-10.9
+	c1.3-1.4,2.5-2.2,3.2-2.7c1.1-0.8,2.5-1.5,4.2-2.1c1.7-0.6,3.5-0.9,5.6-0.9c1.1,0,2.1,0.2,3.1,0.7c1,0.5,1.9,1.2,2.7,2.1
+	c0.8,0.9,1.4,2,1.9,3.3c0.5,1.3,0.8,2.7,0.9,4.3c0.1,1.6-0.2,3.1-0.8,4.7c-0.7,1.6-1.5,3.2-2.5,4.7c-1,1.6-2.2,3.2-3.4,4.8
+	c-1.2,1.6-2.3,3.2-3.4,4.8c-1,1.6-1.9,3.2-2.5,4.8c-0.6,1.6-0.9,3.2-0.8,4.8c0.1,1.4,0.5,2.3,1.2,2.9c0.7,0.6,1.8,0.9,3.2,0.9
+	c0.8,0,1.6-0.3,2.4-0.8c0.9-0.5,1.7-1.2,2.6-2c0.9-0.8,1.8-1.8,2.7-2.8c0.9-1,1.8-2.1,2.6-3.1c0.8-1.1,1.6-2.1,2.3-3
+	c0.3-0.4,0.5-0.7,0.8-1c0.2-0.3,0.4-0.5,0.6-0.8c0-1.7,0-3.4,0.2-5.2c0.3-2.4,0.7-4.7,1.4-7c0.7-2.3,1.6-4.4,2.8-6.5
+	c1.1-2.1,2.5-3.9,4.1-5.5c1.6-1.6,3.5-2.8,5.5-3.8c2.1-0.9,4.4-1.4,7-1.4c2.1,0,4.1,0.3,6,1c1.9,0.7,3.5,1.6,4.9,2.9
+	c1.4,1.2,2.6,2.7,3.5,4.5c0.9,1.7,1.4,3.7,1.5,5.9c0.2,2.4-0.3,4.7-1.2,7.1c-1,2.4-2.4,4.6-4.3,6.7c-1.9,2.1-4.2,3.9-6.9,5.6
+	c-2.7,1.6-5.7,2.9-8.9,3.8c0.6,1,1.3,1.9,1.9,2.6c0.6,0.7,1.2,1.2,1.8,1.6c0.6,0.4,1.2,0.6,1.8,0.8c0.6,0.2,1.3,0.2,2,0.2
+	c2.3,0,4.6-0.5,7.1-1.4c2.3-0.9,4.5-1.9,6.7-3.2c0.2,2.3,1.4,8,3.2,11.8c-1.3,0.7-2.7,1.4-4.1,2C192.4,107.3,190.3,108,188.1,108.5z
+	 M49.9,53.5c1.7-3.8,3.2-7.7,4.6-11.7c1.4-4,2.6-8,3.6-12c1-4,1.5-7.7,1.6-11.2c-0.1-1.1-0.2-2-0.3-2.8c-0.1-0.8-0.3-1.2-0.6-1.2
+	c-1.1,0-2.2,0.7-3.4,2.1c-1.2,1.4-2.3,3.3-3.4,5.8c-1.1,2.4-2.1,5.3-3.1,8.5c-0.9,3.2-1.7,6.7-2.4,10.3c-0.7,3.6-1.1,7.4-1.4,11.2
+	c-0.3,3.9-0.3,7.6,0,11.2C46.7,60.7,48.2,57.3,49.9,53.5z M122.9,40c1.4-4,2.6-8,3.6-12c1-4,1.5-7.7,1.6-11.2
+	c-0.1-1.1-0.2-2-0.3-2.8c-0.1-0.8-0.3-1.2-0.6-1.2c-1.1,0-2.2,0.7-3.4,2.1c-1.2,1.4-2.3,3.3-3.4,5.8c-1.1,2.4-2.1,5.3-3.1,8.5
+	c-0.9,3.2-1.7,6.7-2.4,10.3c-0.7,3.6-1.1,7.4-1.4,11.2c-0.3,3.9-0.3,7.6,0,11.2c1.5-3,3.1-6.4,4.7-10.2
+	C119.9,47.9,121.5,44,122.9,40z M176.4,81.4c1.6-0.7,3-1.6,4.3-2.7c1.3-1.1,2.4-2.3,3.3-3.6c0.9-1.3,1.2-2.5,1.2-3.8
+	c-0.1-1.7-0.4-3.2-1.2-4.2c-0.9-1.1-1.5-1.7-2.4-1.7c-1.6,0-3,0.3-4.1,0.9c-1.1,0.6-2,1.4-2.7,2.4c-0.7,1-1.3,2.1-1.6,3.3
+	c-0.4,1.2-0.7,2.5-0.8,3.7c-0.2,1.3-0.2,2.5-0.2,3.6c0,1.2,0,2.2,0.1,3C173.4,82.5,174.9,82.1,176.4,81.4z M93.5,44.1
+	c-0.8,0.9-1.9,1.7-3.3,2.3c-1.3,0.6-3,0.9-4.9,0.9c-3.3,0-5.9-0.8-7.6-2.4c-1.7-1.6-2.6-3.7-2.8-6.3c-0.1-0.9,0.1-1.9,0.4-3
+	c0.3-1.1,0.8-2.1,1.6-3.1c0.8-1,1.9-1.8,3.2-2.4c1.4-0.7,3.1-1,5.3-1c1.3,0,2.6,0.2,3.8,0.5c1.2,0.3,2.3,0.8,3.2,1.4
+	c0.9,0.6,1.7,1.4,2.2,2.5c0.6,1,0.9,2.2,1,3.6c0.1,1.3,0,2.5-0.4,3.8C94.9,42.1,94.3,43.1,93.5,44.1z M25.5,44.1
+	c-0.8,0.9-1.9,1.7-3.3,2.3c-1.3,0.6-3,0.9-4.9,0.9c-3.3,0-5.9-0.8-7.6-2.4c-1.7-1.6-2.6-3.7-2.8-6.3c-0.1-0.9,0.1-1.9,0.4-3
+	c0.3-1.1,0.8-2.1,1.6-3.1c0.8-1,1.9-1.8,3.2-2.4c1.4-0.7,3.1-1,5.3-1c1.3,0,2.6,0.2,3.8,0.5c1.2,0.3,2.3,0.8,3.2,1.4
+	c0.9,0.6,1.7,1.4,2.2,2.5c0.6,1,0.9,2.2,1,3.6c0.1,1.3,0,2.5-0.4,3.8C27,42.1,26.4,43.1,25.5,44.1z M12.3,54.9
+	c1.1-0.2,2-0.3,2.9-0.3c1.6,0,2.7,0.3,3.3,0.9c0.6,0.6,0.9,1.4,1,2.4c0.1,0.8,0,2-0.3,3.6c-0.3,1.6-0.6,3.4-1.1,5.3
+	c-0.4,2-0.9,4.1-1.4,6.4c-0.5,2.3-0.9,4.6-1.3,6.9c-0.4,2.3-0.7,4.5-1,6.7c-0.2,2.2-0.3,4.1-0.2,5.9c0.1,1.7,0.4,3.1,0.9,4.1
+	c0.4,1,1.3,1.5,2.4,1.5c1.4,0,2.8-0.5,4.5-1.4c1.6-1,3.2-2.1,4.8-3.4c0.8-0.7,1.6-1.4,2.4-2c0.3,1.2,0.6,2.3,1,3.4
+	c0.8,2.2,1.6,4.1,2.3,5.7c-0.3,0.2-0.6,0.4-0.9,0.7c-1.9,1.4-4,2.7-6.3,3.9c-2.3,1.2-4.6,2.2-7,3c-2.4,0.8-4.7,1.2-6.9,1.2
+	c-2,0-3.7-0.3-5-0.8c-1.4-0.6-2.5-1.3-3.4-2.3c-0.9-1-1.6-2.2-2-3.6c-0.5-1.4-0.7-3-0.9-4.7c-0.2-2.4-0.1-5.2,0.2-8.3
+	c0.3-3.2,0.8-6.4,1.3-9.8c0.6-3.4,1.2-6.8,1.8-10.2c0.7-3.4,1.2-6.5,1.7-9.3c0.2-1,0.7-1.8,1.4-2.5c0.7-0.7,1.6-1.3,2.6-1.7
+	C10.2,55.5,11.2,55.1,12.3,54.9z"></path>
+
+		<g id="ilikeq-logo">
+			<path id="ilikeq-logo-1" d="M79.3,42.3c1.7,0,3.2-0.3,4.5-0.8c1.2-0.5,2.3-1.2,3.1-2.1c0.8-0.8,1.4-1.8,1.8-2.9c0.4-1.1,0.6-2.2,0.6-3.4
+				c0-1.3-0.2-2.3-0.7-3.3c-0.5-0.9-1.1-1.7-1.9-2.2c-0.8-0.6-1.7-1-2.7-1.2c-1.1-0.3-2.2-0.4-3.4-0.4c-1.9,0-3.5,0.3-4.8,0.9
+				c-1.3,0.6-2.3,1.3-3.1,2.2c-0.8,0.9-1.3,1.8-1.7,2.8c-0.3,1-0.5,1.9-0.5,2.6c0,2.3,0.7,4.2,2.1,5.6C74.1,41.6,76.3,42.3,79.3,42.3z
+				"></path>
+
+			<path id="ilikeq-logo-2" d="M18.6,42.3c1.7,0,3.2-0.3,4.5-0.8c1.2-0.5,2.3-1.2,3.1-2.1c0.8-0.8,1.4-1.8,1.8-2.9c0.4-1.1,0.6-2.2,0.6-3.4
+				c0-1.3-0.2-2.3-0.7-3.3c-0.5-0.9-1.1-1.7-1.9-2.2c-0.8-0.6-1.7-1-2.7-1.2C22.1,26.2,21,26,19.8,26c-1.9,0-3.5,0.3-4.8,0.9
+				c-1.3,0.6-2.3,1.3-3.1,2.2c-0.8,0.9-1.3,1.8-1.7,2.8c-0.3,1-0.5,1.9-0.5,2.6c0,2.3,0.7,4.2,2.1,5.6S15.6,42.3,18.6,42.3z"></path>
+
+			<path id="ilikeq-logo-3" d="M226.6,73.4c-1.6,1.3-3.2,2.5-4.8,3.7s-3.3,2.2-4.9,3.1c-1.4,0.7-2.6,1.1-3.7,1.2c0.4-1.9,1-4.1,1.1-4.4
+				c0.4-1.4,0.8-2.7,1.2-4.1c0.4-1.4,0.8-2.7,1.1-3.9c0.4-1.2,0.7-2.3,1-3.1c0.2-0.6,0.3-1.2,0.4-1.9s0.1-1.3,0.1-1.9
+				c0-1.8-0.3-3.5-0.8-5.1c-0.5-1.6-1.4-3-2.6-4.2c-1.2-1.2-2.7-2.2-4.5-2.9c-1.8-0.7-4.1-1.1-6.6-1.1c-2.8,0-5.6,0.6-8.4,1.8
+				c-2.7,1.2-5.2,2.8-7.3,4.8c-2.1,2.1-3.9,4.5-5.2,7.2c-1.3,2.8-2,5.8-2,9c0,2.3,0.4,4.5,1.1,6.7c-0.1,0.1-0.3,0.2-0.4,0.3
+				c-1.9,1.4-3.9,2.8-6.1,4c-2.1,1.2-4.3,2.2-6.6,3.1c-2.3,0.8-4.4,1.2-6.4,1.2c-0.6,0-1.2-0.1-1.8-0.2c-0.6-0.1-1.1-0.4-1.6-0.7
+				c-0.5-0.3-1-0.8-1.5-1.4c-0.5-0.6-1-1.4-1.5-2.3c3-0.8,5.7-1.9,8.2-3.4c2.5-1.5,4.7-3.1,6.5-5c1.8-1.9,3.3-3.8,4.3-6
+				c1-2.1,1.6-4.2,1.6-6.3c0-1.9-0.3-3.7-1-5.2c-0.7-1.6-1.6-2.9-2.8-4c-1.2-1.1-2.6-2-4.2-2.6c-1.6-0.6-3.4-0.9-5.3-0.9
+				c-2.3,0-4.5,0.4-6.4,1.2s-3.6,2-5.2,3.4c-1.5,1.4-2.9,3-4,4.9c-1.2,1.8-2.1,3.8-2.9,5.8c-0.8,2-1.3,4.1-1.7,6.2
+				c-0.3,1.6-0.4,3.2-0.5,4.6c-0.2,0.2-0.4,0.4-0.6,0.7c-0.3,0.3-0.5,0.6-0.8,0.9c-0.7,0.9-1.5,1.8-2.3,2.7c-0.8,1-1.6,1.9-2.5,2.8
+				c-0.9,0.9-1.7,1.7-2.6,2.5c-0.8,0.7-1.7,1.3-2.5,1.8s-1.5,0.7-2.2,0.7c-1.3,0-2.2-0.3-2.8-0.8c-0.6-0.5-0.9-1.4-0.9-2.6
+				c0-1.4,0.3-2.9,1-4.3c0.7-1.4,1.5-2.9,2.5-4.3c1-1.4,2.1-2.9,3.3-4.3c1.2-1.4,2.3-2.8,3.3-4.3c1-1.4,1.9-2.8,2.5-4.2
+				c0.7-1.4,1-2.8,1-4.2c0-1.4-0.2-2.7-0.6-3.9c-0.4-1.2-0.9-2.1-1.5-3c-0.6-0.8-1.4-1.4-2.3-1.9c-0.9-0.4-1.8-0.7-2.7-0.7
+				c-1.9,0-3.6,0.3-5.1,0.8s-2.8,1.2-3.9,1.9c-0.7,0.5-1.8,1.1-3,2.4c-1.1,1.1-6.6,7.7-8.2,9.7c-1.5,1.9-3.1,3.7-4.4,5.2l5.4-9.5
+				c0.3-0.5,0.9-1.7,1.9-3.4c0.9-1.7,2-3.9,3.2-6.4s2.5-5.4,3.8-8.5c1.3-3.2,2.5-6.4,3.7-9.7c1.1-3.3,2-6.7,2.8-10
+				c0.7-3.3,1.1-6.4,1.1-9.3c0-1.6-0.1-3.1-0.4-4.5c-0.3-1.4-0.7-2.6-1.4-3.6c-0.7-1-1.6-1.8-2.7-2.3s-2.5-0.8-4.3-0.8
+				c-2.2,0-4.2,0.5-6.1,1.4s-3.6,2.2-5.1,3.7c-1.6,1.6-3,3.4-4.2,5.5c-1.3,2.1-2.4,4.3-3.4,6.6c-1,2.3-1.9,4.7-2.6,7.2
+				c-0.8,2.5-1.4,4.8-2,7.1c-0.6,2.3-1,4.4-1.4,6.4c-0.4,2-0.7,3.7-0.9,5.1c-0.6,3.9-1.2,8-1.7,12.2c-0.5,4.2-0.8,8.2-1.1,12
+				c-0.1,0.9-0.1,1.8-0.2,2.7c-0.1,0.8-0.1,1.6-0.2,2.4c0,0.1,0,0.1,0,0.2c-0.1,1.7-0.2,3.3-0.3,4.9c-0.6,0.5-1.3,1.1-2,1.8
+				c-1.5,1.3-3,2.5-4.5,3.7c-1.5,1.2-3,2.2-4.5,3.1c-1.5,0.8-2.8,1.3-4.1,1.3c-1.1,0-1.7-0.4-2.1-1.3c-0.3-0.9-0.5-2.1-0.5-3.6
+				c0-1.6,0.2-3.3,0.5-5.3c0.3-2,0.8-4,1.3-6c0.5-2.1,1.1-4.1,1.6-6.2c0.6-2.1,1.1-4,1.6-5.7s0.9-3.4,1.3-4.8
+				c0.3-1.4,0.5-2.5,0.5-3.2c0-0.9-0.3-1.6-0.8-2.1c-0.5-0.5-1.5-0.8-2.9-0.8c-0.8,0-1.7,0.1-2.6,0.3s-1.9,0.5-2.8,0.9
+				c-0.9,0.4-1.7,0.9-2.4,1.5c-0.7,0.6-1.2,1.4-1.4,2.3c-0.6,2.5-1.3,5.3-2.1,8.3c-0.8,3-1.6,6-2.3,9.1c-0.4,1.7-0.7,3.3-1.1,4.9
+				c-2,1.6-4,3-5.8,4.3c-0.9,0.6-1.9,1.2-2.8,1.8c-1,0.6-1.9,1.1-2.9,1.6c-0.9,0.5-1.8,0.8-2.6,1.1c-0.8,0.3-1.6,0.4-2.2,0.4
+				c-0.3,0-0.6-0.2-0.9-0.6c-0.3-0.4-0.6-0.9-0.9-1.6c-0.3-0.7-0.5-1.4-0.7-2.2c-0.2-0.8-0.3-1.7-0.3-2.6v-0.7
+				c0.1-0.7,0.2-1.4,0.4-2.1c0.2-0.7,0.3-1.4,0.5-2c0.2-0.6,0.3-1.2,0.5-1.8c0.2-0.5,0.4-1,0.5-1.3c1.6-3.1,3.2-6.2,5-9.4
+				c1.8-3.2,3.6-6.5,5.3-9.8c1.8-3.3,3.5-6.6,5.1-10c1.6-3.4,3.1-6.7,4.3-10c1.2-3.3,2.2-6.7,3-10c0.7-3.3,1.1-6.6,1.1-9.7
+				c0-1.4-0.1-2.8-0.3-4.2c-0.2-1.4-0.6-2.6-1.1-3.7c-0.5-1.1-1.3-2-2.2-2.6c-0.9-0.7-2.2-1-3.6-1c-2.1,0-4.2,0.6-6.3,1.9
+				c-2.1,1.3-4.1,3.1-6,5.3c-1.9,2.3-3.7,4.9-5.4,7.9c-1.7,3-3.3,6.3-4.8,9.8c-1.5,3.5-2.8,7.1-4,10.9c-1.2,3.8-2.2,7.6-3,11.3
+				c-0.8,3.8-1.5,7.4-1.9,11c-0.4,3.5-0.7,6.8-0.7,9.8c0,3.6,0.3,7.1,0.9,10.4c-0.5,0.4-1,0.9-1.6,1.4c-1.5,1.3-3,2.5-4.5,3.7
+				c-1.5,1.2-3,2.2-4.5,3.1c-1.5,0.8-2.8,1.3-4.1,1.3c-1.1,0-1.7-0.4-2.1-1.3c-0.3-0.9-0.5-2.1-0.5-3.6c0-1.6,0.2-3.3,0.5-5.3
+				c0.3-2,0.8-4,1.3-6c0.5-2.1,1.1-4.1,1.6-6.2c0.6-2.1,1.1-4,1.6-5.7s0.9-3.4,1.3-4.8s0.5-2.5,0.5-3.2c0-0.9-0.3-1.6-0.8-2.1
+				c-0.5-0.5-1.5-0.8-2.9-0.8c-0.8,0-1.7,0.1-2.6,0.3c-1,0.2-1.9,0.5-2.8,0.9c-0.9,0.4-1.7,0.9-2.4,1.5c-0.7,0.6-1.2,1.4-1.4,2.3
+				c-0.6,2.5-1.3,5.3-2.1,8.3c-0.8,3-1.6,6-2.3,9.1c-0.7,3-1.3,6-1.8,8.8C0.2,82.8,0,85.3,0,87.4c0,1.5,0.2,2.9,0.5,4.2
+				c0.3,1.3,0.9,2.3,1.6,3.2c0.7,0.9,1.7,1.6,2.9,2.1c1.2,0.5,2.7,0.7,4.5,0.7c2,0,4-0.4,6.2-1.1c2.2-0.7,4.3-1.6,6.4-2.7
+				c2.1-1.1,4.1-2.2,5.9-3.5c1.8-1.2,3.2-2.4,4.4-3.5c0.2,0.6,0.5,1.2,0.7,1.8c1.2,2.7,2.5,4.9,4.1,6.5c1.6,1.6,3.3,2.4,5.1,2.4
+				c1.2,0,2.4-0.2,3.7-0.5c1.3-0.3,2.7-0.8,4.1-1.3c1.4-0.5,2.8-1.2,4.1-1.9s2.7-1.4,4-2.1c0.9-0.5,1.8-1.1,2.7-1.6
+				c0.1,0.4,0.1,0.9,0.2,1.3c0.3,1.3,0.9,2.3,1.6,3.2c0.7,0.9,1.7,1.6,2.9,2.1c1.2,0.5,2.7,0.7,4.5,0.7c2,0,4-0.4,6.2-1.1
+				c2.2-0.7,4.3-1.6,6.4-2.7c2.1-1.1,4.1-2.2,5.9-3.5c0.9-0.7,1.8-1.3,2.6-1.9c0,0.7,0.1,1.3,0.1,2c0.1,1.4,0.4,2.6,0.8,3.7
+				c0.4,1.1,1.1,1.9,1.9,2.5c0.8,0.6,2,0.9,3.5,0.9c1.1,0,2-0.3,2.9-0.8c0.8-0.5,1.6-1.5,2.4-2.8l15-26.2c1.1-1.9,2.1-3.2,3-3.9
+				c0.9-0.7,1.6-1.1,2.2-1.1c0.5,0,0.8,0.2,1.1,0.6c0.3,0.3,0.5,0.8,0.5,1.5c0,0.4-0.2,0.9-0.4,1.3c-0.2,0.3-0.5,0.7-0.9,1.1
+				c-0.4,0.4-0.8,0.8-1.3,1.3c-0.5,0.5-1.1,1-1.7,1.7c-1.5,2-2.8,3.8-3.7,5.5c-0.9,1.7-1.7,3.3-2.2,4.7c-0.5,1.4-0.9,2.7-1.1,3.8
+				c-0.2,1.1-0.3,2.1-0.3,2.9c0,1.3,0.2,2.6,0.5,3.8c0.3,1.2,0.9,2.3,1.8,3.3c0.9,1,2.1,1.8,3.6,2.4c1.5,0.6,3.5,0.9,6,0.9
+				c1.9,0,3.8-0.3,5.8-0.8c2-0.5,4-1.3,5.9-2.3c1.9-1,3.6-2.1,5.2-3.4c0.5-0.4,1-0.9,1.5-1.3c0.1-0.1,0.2-0.2,0.3-0.3
+				c0.5-0.5,0.9-0.9,1.3-1.4c0.6,1.1,1.3,2.1,2.1,3.1c1.6,2,3.6,3.5,6,4.7s5.2,1.7,8.4,1.7c2,0,4-0.2,6-0.7c2-0.5,3.9-1.1,5.7-1.8
+				c1.8-0.8,3.6-1.6,5.3-2.6c1.7-1,3.2-2,4.7-3c1.4-1,2.7-2,4-3.1c0.8,0.7,1.7,1.3,2.7,1.8c1.9,1,4,1.5,6.4,1.5c0.4,0,0.8,0,1.1-0.1
+				c0.2,0,0.4,0,0.5-0.1c-1.9,7.2-7.5,25.4-7.3,24.8c-0.5,1.8-0.9,3.4-1.3,4.8c-0.3,1.4-0.5,2.5-0.5,3.2c0,0.9,0.3,1.6,0.8,2.1
+				c0.5,0.5,1.5,0.8,2.9,0.8c0.8,0,1.7-0.1,2.6-0.3c1-0.2,1.9-0.5,2.8-0.9c0.9-0.4,1.8-0.8,2.4-1.5c0.7-0.7,1.5-1.9,1.6-2.5
+				c1.3-4.3,5.5-19,8.3-28.9c0,0,2.2-0.2,2.2-0.2c2.1-0.3,4.1-0.8,5.8-1.5c3.4-1.3,5.5-2.7,4.8-2.3c1.5-0.9,2.8-1.8,4-2.8
+				s2.3-2,3.4-3V70.1C229.5,71,228.1,72.1,226.6,73.4z M43.1,46.9c0.5-3.4,1.1-6.8,1.9-10c0.8-3.3,1.7-6.3,2.8-9.2
+				c1-2.9,2.1-5.4,3.3-7.6c1.1-2.2,2.3-3.9,3.4-5.2c1.1-1.3,2.2-1.9,3.2-1.9c0.3,0,0.4,0.3,0.5,1c0.1,0.7,0.1,1.5,0.1,2.5
+				c-0.3,3.1-1,6.4-2.1,10c-1.1,3.6-2.4,7.2-4,10.8c-1.5,3.6-3.1,7.1-4.9,10.5c-1.7,3.4-3.3,6.4-4.9,9.2
+				C42.4,53.7,42.7,50.4,43.1,46.9z M104.4,45.3c0.5-3.4,1.1-6.8,1.9-10c0.8-3.3,1.7-6.3,2.8-9.2c1-2.9,2.1-5.4,3.3-7.6
+				c1.1-2.2,2.3-3.9,3.4-5.2c1.1-1.3,2.2-1.9,3.2-1.9c0.3,0,0.4,0.3,0.5,1c0.1,0.7,0.1,1.5,0.1,2.5c-0.3,3.1-1,6.4-2.1,10
+				c-1.1,3.6-2.4,7.2-4,10.8c-1.5,3.6-3.1,7.1-4.9,10.5c-1.7,3.4-3.3,6.4-4.9,9.2C103.7,52.1,103.9,48.8,104.4,45.3z M154.8,71.1
+				c0.1-1.1,0.2-2.1,0.4-3.3s0.5-2.2,1-3.3c0.4-1.1,1-2.1,1.7-2.9s1.6-1.6,2.6-2.1c1-0.5,2.3-0.8,3.7-0.8c0.8,0,1.5,0.5,2.1,1.5
+				c0.6,1,0.8,2.2,0.8,3.8c0,1.1-0.4,2.2-1.3,3.4c-0.8,1.2-1.9,2.2-3.1,3.2c-1.2,1-2.6,1.8-4,2.4c-1.4,0.6-2.8,0.9-4,0.9
+				C154.7,73,154.7,72.1,154.8,71.1z M203.7,71.1c-0.4,1.4-0.8,2.8-1.2,4.1c-0.4,1.3-0.7,2.6-1,3.7c-0.3,1.1-0.6,2-0.8,2.8
+				c-0.2,0.6-0.3,1-0.4,1.2l-0.4,0c0,0,0,0.1,0,0.1c-1.6-0.2-2.9-0.6-3.9-1.4c-1.1-0.8-1.9-1.8-2.5-2.9c-0.6-1.1-1-2.3-1.2-3.6
+				c-0.2-1.3-0.3-2.5-0.3-3.5c0-1.3,0.2-2.7,0.7-4.3c0.5-1.5,1.2-2.9,2.2-4.2c1-1.3,2.2-2.4,3.6-3.2c1.4-0.8,2.5-1.3,4.4-1.3
+				c0.4,0,1.4,0.1,1.7,0.2c0.4,0.2,0.7,0.4,1,0.6c0.4,0.2,0.7,0.5,1,0.8C205.6,64.2,204.6,67.8,203.7,71.1z"></path>
+		</g>
+
+    </defs>
+
+</svg>
+
         
     
 
