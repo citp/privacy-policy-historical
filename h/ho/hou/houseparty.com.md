@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029183953id_/http%3A//www.houseparty.com/pages/dynamic/slug%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414134319id_/http%3A//www.houseparty.com/pages/dynamic/slug%3Aprivacy-policy) for the most accurate reproduction.*
 
 # House Party > Privacy Policy
 
