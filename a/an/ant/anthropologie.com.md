@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/us%2Bsecurity/help-us-priv.jsp%3Fcm_sp%3DFOOTER-_-Sub-_-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/us%2Bsecurity/help-us-priv.jsp%3Fcm_sp%3DFOOTER-_-Sub-_-Privacy) for the most accurate reproduction.*
 
-# US Security - Help - anthropologie.com
+# US Security Help | Anthropologie
 
 ## Privacy & Security — United States
 
@@ -8,31 +8,31 @@ Updated October 2012
 
 ### Your Privacy
 
-Thank you for shopping at anthropologie.com. This privacy and security policy ("Policy") outlines the information we collect about you, how we use the information and the choices you have to review, revise and/or restrict our usage of this information. 
+Thank you for shopping at anthropologie.com. This privacy and security policy (“Policy”) outlines the information we collect about you, how we use the information and the choices you have to review, revise and/or restrict our usage of this information. 
 
 ### Collected Information
 
-Anthropologie.com collects customer information for a variety of reasons, including as part of our ongoing efforts to provide superior customer service, improve our customer's shopping experience and to communicate with our customers about our products, services and promotions, including those that we believe may be of particular interest to you based on information we have collected. We collect personal information such as your name, financial information, telephone number, e-mail and postal address ("Personal Information") that you provide to us when you save your information with us or when you participate in a sweepstakes, promotion or survey. We use this information to process any transaction, inquiry or promotion that you initiate with us, and provide you with advertising tailored to your interests. In addition, we maintain a record of your product interests, purchases and whatever else might enable us or our business partners to enhance and personalize your shopping experience on this or other websites and to provide you with offers, promotions or information that we believe may be of interest to you. We also monitor use of the Website and traffic patterns to improve the Website design and the products and services we offer as well as to determine what offers, promotions or information to send to you.
+Anthropologie.com collects customer information for a variety of reasons, including as part of our ongoing efforts to provide superior customer service, improve our customer's shopping experience and to communicate with our customers about our products, services and promotions, including those that we believe may be of particular interest to you based on information we have collected. We collect personal information such as your name, financial information, telephone number, e-mail and postal address (“Personal Information”) that you provide to us when you save your information with us or when you participate in a sweepstakes, promotion or survey. We use this information to process any transaction, inquiry or promotion that you initiate with us, and provide you with advertising tailored to your interests. In addition, we maintain a record of your product interests, purchases and whatever else might enable us or our business partners to enhance and personalize your shopping experience on this or other websites and to provide you with offers, promotions or information that we believe may be of interest to you. We also monitor use of the Website and traffic patterns to improve the Website design and the products and services we offer as well as to determine what offers, promotions or information to send to you.
 
 Anthropologie.com may disclose specific personal information about you if required by law, governmental request or court order, if based on our good faith belief that it is necessary to conform or comply with such law, request or court. We may also disclose information about you to other members of the Anthropologie corporate family, as well as a company contracted to help prevent the unauthorized use of credit and gift cards.
 
-*You can easily update your account information by logging on to anthropologie.com and clicking [Your Account](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/user/account/myaccount.jsp)
+*You can easily update your account information by logging on to anthropologie.com and clicking [Your Account](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/user/account/myaccount.jsp)
 
 ### Our Email List
 
-We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are used internally and by our business partners. If you would like to unsubscribe from our email list or would prefer that your email address not be shared with our business partners, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp). We will remove your name from our email list within a reasonable period of time. Please recognize that you may receive another email before we are able to remove you.
+We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses collected at Anthropologie.com are used internally and by our business partners. If you would like to unsubscribe from our email list or would prefer that your email address not be shared with our business partners, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp). We will remove your name from our email list within a reasonable period of time. Please recognize that you may receive another email before we are able to remove you.
 
 ### Our Catalog Mailing List
 
-If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or call [800-309-2500](tel:800-309-2500). Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you.
+If you no longer wish to receive Anthropologie catalogs, please [contact us](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or call [800-309-2500](tel:800-309-2500). Please include your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you.
 
-We may, on occasion, share a portion of our catalog mailing list with our business partners. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or call [800-309-2500](tel:800-309-2500). 
+We may, on occasion, share a portion of our catalog mailing list with our business partners. If you do not want your name and address shared with other organizations, [contact us](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or call [800-309-2500](tel:800-309-2500).
 
 ### Business Partners
 
-Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or calling [800-309-2500](tel:800-309-2500). To opt-out of third party advertising tailored to your interests, click [here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, click [here](http://dtmc.anthropologie.com/adinfo/adchoices_fpc.html?cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=anthropologie.png&purl=www.anthropologie.com%2Fanthro%2Fhelp%2Fprivacy_security.jsp%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758).
+Anthropologie contracts with outside service providers to help us better understand your use of anthropologie.com. Our service providers place cookies on your computer or use other technologies to collect various kinds of information for us related to your use of anthropologie.com, so that we and our business partners may continue to refine and improve the site and other sites for our customers, and provide advertising tailored to your interests. We do not allow our service providers to collect any credit card, user name or password information. As a visitor to anthropologie.com, you may opt out of being included in this collection of data by [contacting us](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) or calling [800-309-2500](tel:800-309-2500). To opt-out of third party advertising tailored to your interests, click [here](http://www.networkadvertising.org/choices). We may also use our own cookies to deliver enhanced online display advertising tailored to your interests. To opt out of this advertising provided directly by Anthropologie, click [here](http://dtmc.anthropologie.com/adinfo/adchoices_fpc.html?cid=2466&cname=Anthropologie&cmagic=7b41bf&clogo=anthropologie.png&purl=www.anthropologie.com%2Fanthro%2Fhelp%2Fprivacy_security.jsp%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758).
 
-"Cookies" are bits of information that are automatically stored on your computer. If you do not want to have cookies on your system, you can set your browser to disable them.
+“Cookies” are bits of information that are automatically stored on your computer. If you do not want to have cookies on your system, you can set your browser to disable them.
 
 We or our partners may use Flash Cookies (also known as Local Stored Objects) or other similar technologies. A Flash cookie is a small data file placed on a computer using Adobe Flash or similar technology that may be built into your computer or downloaded or installed by you to your computer. We use these technologies to personalize and enhance your online experience, facilitate processes, personalize and store your settings. Flash cookies may help our website visitors to, for example, set volume preference associated with a video experience, play games and perform surveys. They help us improve our sites by measuring which areas are of greatest interest to customers. They may be recognized by other sites or by our marketing or business partners. Flash cookies are different from browser cookies and the cookie management tools provided by your browser will not remove Flash cookies. [Click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/) to learn how to manage privacy and storage settings for Flash cookies. If you disable Flash cookies or other similar technologies, please be aware that you may not have access to certain features and services that make your online experience more efficient and enjoyable.
 
@@ -61,11 +61,11 @@ Anthropologie.com may periodically update this Privacy & Security Policy for new
 
 Feel free to contact us with any questions about our Privacy & Security Policy.
 
-email | [service@anthropologie.com](mailto:service@anthropologie.com)  
+Email | [service@anthropologie.com](mailto:service@anthropologie.com)  
 ---|---  
-phone | [800-309-2500](tel:800-309-2500)  
-fax | 800.474.8858.  
-mail |  Anthropologie  
+Phone | [800-309-2500](tel:800-309-2500)  
+Fax | 800.474.8858.  
+Mail |  Anthropologie  
 4010 Rose Lane  
 Augusta, GA 30907  
 Attn: Customer Service   
@@ -94,7 +94,7 @@ If you sign-up for anthro, we may collect personal information such as your name
 
 ### Our Email List
 
-We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses are only used internally for the purpose of sending you these emails. We respect your privacy rights and will not sell or rent your email address to other companies without your consent. If you would like to unsubscribe from our email list, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20150627181547id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) as set out in the "Contact Us" section below. You may also click on the unsubscribe link at the bottom of our emails.
+We offer those who sign-up for our email list advanced notice of sales, new merchandise, store openings and other anthropologie news. Email addresses are only used internally for the purpose of sending you these emails. We respect your privacy rights and will not sell or rent your email address to other companies without your consent. If you would like to unsubscribe from our email list, [click here](http://ebm.cheetahmail.com/r/regf2?aid=1134998097&n=200&a=0) or [contact us](https://web.archive.org/web/20160414103055id_/http%3A//www.anthropologie.com/anthro/category/help/contactus.jsp) as set out in the “Contact Us” section below. You may also click on the unsubscribe link at the bottom of our emails.
 
 When you sign-up for our email list, we may also may collect optional information such as your name, postal code, and product interests. We use this personal information to tailor our email messages and to enhance our product and service offerings.
 
@@ -122,7 +122,7 @@ If you apply for or enquire about a job at Anthropologie, you may provide us wit
 
 ### Tell A Friend
 
-If you send an email to a friend through our website to tell them about one of our products or services, we collect you and your friend's name and email address as well as any message you provide. We will not use you or your friend's email information for any other purpose. Please only send emails to friends or family who would want to receive the message.
+If you send an email to a friend through our website to tell them about one of our products or services, we collect you and your friend’s name and email address as well as any message you provide. We will not use you or your friend's email information for any other purpose. Please only send emails to friends or family who would want to receive the message.
 
 ### Promotions and Surveys
 
@@ -199,11 +199,14 @@ Feel free to contact us with any questions about our Privacy & Security Policy o
 
 If you wish to access or update the personal information we have about you, or to correct factual errors in our records, please contact us as set out below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections. You can also easily update your account information by logging on to anthropologie.com and clicking my account.
 
-email | [service@anthropologie.com](mailto:service@anthropologie.com)  
+Email | [service@anthropologie.com](mailto:service@anthropologie.com)  
 ---|---  
-phone | [800-309-2500](tel:800-309-2500)  
-fax | 800.474.8858.  
-mail |  Anthropologie  
+Phone | [800-309-2500](tel:800-309-2500)  
+Fax | 800.474.8858.  
+Mail |  Anthropologie  
 4010 Rose Lane  
 Augusta, GA 30907  
 Attn: Customer Service 
+  *[GA]: Georgia
+  *[Attn]: Attention
+  *[SC]: South Carolina
