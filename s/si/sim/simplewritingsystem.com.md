@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407151159id_/http%3A//www.simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplewritingsystem.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414121643id_/http%3A//www.simplewritingsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Writing System
 
