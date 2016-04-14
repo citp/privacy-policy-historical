@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215115435id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414130252id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Copyblogger Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. The Copyblogger membership (including MyCopyblogger and Authority) is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
+The Copyblogger Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. The Copyblogger membership (including MyCopyblogger and Authority) is a service offering of Rainmaker Digital LLC (“Rainmaker Digital”), and references in this document to “us,” “our,” and “we” refer to Rainmaker Digital.
 
 ### What Information Do We Collect?
 
