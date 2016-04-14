@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the cymbalta.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429134219id_/http%3A//www.lilly.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cymbalta.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034415id_/https%3A//www.lilly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 **Privacy at Eli Lilly and Company**
 
-Eli Lilly and Company ("Lilly") has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your privacy rights. This statement includes Lilly's European Union - U.S. Safe Harbor Privacy Statement, the Social Security Number Protection Policy, and the Website Privacy Statement.
+Eli Lilly and Company ("Lilly") has established a comprehensive privacy program, including a global privacy office and a chief privacy officer, designed to help us respect and protect your privacy rights. This statement includes the Social Security Number Protection Policy and the Website Privacy Statement.
 
-**U.S.-EU & U.S.-Swiss Safe Harbor Privacy Statement**
-
-Eli Lilly and Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Eli Lilly and Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Eli Lilly and Company's certification, please visit [Safe Harbor](http://www.export.gov/safeharbor/).
+**CONSENT TO PROCESSING IN THE UNITED STATES AND ELSEWHERE.** This site is owned and operated by Lilly in the United States, but the Personal Information you provide may be accessible to our affiliates, vendors and suppliers in other countries. If you are visiting this site from a country other than the United States, your Personal Information collected on this site will be transferred outside of your country. The level of legal protection for Personal Information is not the same in all countries and the laws may be more protective in your country than in countries where we process your information; however, we will take reasonable efforts and security measures as described in this Privacy Statement in an effort to keep your information secure. By using this site, you consent to the collection, storage, and processing of your Personal Information in the United States and in any country to which we may transfer your information in the course of our business operations. In addition to its internal global privacy policies, Lilly follows and (provided the Safe Harbors are valid as determined by the relevant EU, Swiss, and US authorities) complies with the privacy and data protection principles set forth in the EU – US and Swiss – US Safe Harbors for the protection of EU and Swiss personal information.
 
 **Social Security Number Protection Policy**
 
@@ -21,11 +19,11 @@ Eli Lilly and Company collects Social Security numbers and other sensitive perso
 
 Lilly Website Privacy Statement
 
-Lilly respects the privacy of visitors to its websites, as a result, we have developed this website privacy statement. This Privacy Statement, with the exception of the US - EU Safe Harbor Privacy Statement and the Social Security Number Protection Policy stated above, both of which apply to all Lilly operations, applies only to the operation of U.S. websites that directly link to this statement when you click on "privacy statement" in the website footer.
+Lilly respects the privacy of visitors to its websites, as a result, we have developed this website privacy statement. This Privacy Statement, with the exception of the Social Security Number Protection Policy stated above which applies to all Lilly operations, applies only to the operation of U.S. websites that directly link to this statement when you click on "privacy statement" in the website footer.
 
 **Personal Information Collected by Lilly Online**
 
-Through this website, you may be asked to voluntarily provide to us information that can identify or locate you, such as your name, address, telephone number, e-mail address, and other similar information ("Personal Information"). You may always refuse to provide Personal Information to us, but this may lead to our inability to provide you with certain information, products or services.
+Through this website, you may be asked to voluntarily provide to us information that can identify or locate you, such as your name, address, telephone number, e-mail address, and other similar information ("Personal Information"). You may always refuse to provide Personal Information to us, but this may lead to our inability to provide you with certain information, products, or services.
 
 If you do provide us with Personal Information, we may enhance or merge it with information about you obtained from third parties for the same purposes. By using the site and providing us with your Personal Information, you consent to our use of such information as described in this Privacy Statement
 
@@ -68,7 +66,7 @@ We may also provide Personal Information and Other Information to a third party 
 Lilly will respect your marketing and communications preferences. You can opt-out of receiving commercial emails from us at any time by following the opt-out instructions in our commercial emails. You can also request removal from all our contact lists, by writing to us at the following address:
 
 Eli Lilly and Company  
-P.O. Box 6245   
+P.O. Box 6245  
 Indianapolis, IN 46206-6245
 
 Or call Lilly toll-free at 1-800-LillyRx (1-800-545-5979).
@@ -77,11 +75,11 @@ Please be sure to include your email address if you are writing to unsubscribe. 
 
 **Children’s Information**
 
-Lilly encourages parents and guardians to be aware of and participate in their children's online activities. You should be aware that this site is not intended for, or designed to attract, individuals under the age of 18. We do not collect Personal Information from any person we actually know to be under the age of 18.
+This site is not intended for or designed to attract individuals under the age of 18. We do not knowingly collect Personal Information from any person under the age of 18.
 
 **Information Security**
 
-Lilly protects all Personal Information with reasonable administrative, technical and physical safeguards. For example, areas of this website that collect sensitive Personal Information use industry standard secure socket layer encryption (SSL); however, to take advantage of this your browser must support encryption protection (found in Internet Explorer release 3.0 and above).
+Areas of this website that collect Personal Information you voluntarily provide to us use reasonable security protections designed to protect this information.
 
 **Links to Third Party Websites**
 
@@ -95,8 +93,8 @@ We may update this Privacy Statement from time to time. When we do update it, fo
 
 If you have any questions or comments about this Privacy Statement, please contact us by writing to:
 
-Eli Lilly and Company   
-P.O. Box 6245   
+Eli Lilly and Company  
+P.O. Box 6245  
 Indianapolis, IN 46206-6245
 
 Or calling Lilly toll-free at 1-800-LillyRx (1-800-545-5979).
@@ -112,4 +110,4 @@ Case Filing Services
 877.304.8457: Fax  
 [casefiling@adr.org](mailto:casefiling@adr.org)
 
-Last Updated: February 15, 2013
+Last Updated: January 26, 2016
