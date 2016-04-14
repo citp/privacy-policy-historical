@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igdb.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521094715id_/https%3A//www.igdb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igdb.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414033836id_/https%3A//www.igdb.com/privacy_policy) for the most accurate reproduction.*
 
 # IGDB
 
