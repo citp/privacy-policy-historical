@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214181926id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414034148id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy Policy | Simply Swim UK
 
