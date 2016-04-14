@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207133710id_/http%3A//www.thermoworks.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermoworks.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414102850id_/http%3A//www.thermoworks.com/company/privacy.php) for the most accurate reproduction.*
 
 # ThermoWorks Privacy
 
