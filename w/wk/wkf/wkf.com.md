@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621050237id_/http%3A//www.wkf.com/disclaimer.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkf.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414093205id_/http%3A//www.wkf.com/disclaimer.cfm) for the most accurate reproduction.*
 
 # Walter Knoll Florist - Saint Louis Florist - Customer Service -Missouri, Flowers to St Louis MO
 
