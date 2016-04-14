@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325083112id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414042358id_/http%3A//www.iplcricketlive.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IPL Cricket Live, Season 7 IPL Cricket 2014, CLT20, Champions League T20 Live Cricket
+# Privacy Policy | IPL Cricket Live, IPL 2016, Indian Premier League 2016
 
 The following Privacy Statement discloses the information gathering and dissemination practices for IPLcricketlive.org
 
