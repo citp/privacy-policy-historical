@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2014-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140922014310id_/http%3A//freestufffinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufffinder.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414091147id_/http%3A//freestufffinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Stuff Finder
 
-This Privacy Policy governs the manner in which Simple Life Media LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.freestufffinder.com](http://www.freestufffinder.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Simple Life Media LLC.
+This Privacy Policy governs the manner in which FreeStuffFinder.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.freestufffinder.com](http://www.freestufffinder.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by FreeStuffFinder.com.
 
 **Personal identification information**
 
@@ -18,13 +18,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-Simple Life Media may collect and use Users personal information for the following purposes:
+FreeStuffFinder.com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -55,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-Simple Life Media LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+FreeStuffFinder.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
