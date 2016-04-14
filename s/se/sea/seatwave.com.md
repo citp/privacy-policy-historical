@@ -1,124 +1,143 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025155051id_/http%3A//www.seatwave.com/about-us/en-gb/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414063355id_/http%3A//www.seatwave.com/about-us/en-gb/privacy-policy.htm) for the most accurate reproduction.*
 
 # Seatwave - Privacy policy
 
-This Privacy Policy was last updated on 27 April 2011 and is effective as of that date.
+This Policy explains what personal information Seatwave, part of the Ticketmaster group of companies, (known in this Policy as "we" or "Seatwave") collect and how we use it. Please read it carefully.
 
-Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information" that you provide to us or we collect from you). Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address.
+Generally, we collect information about you if you create an account, from your purchase or sale of tickets, when you email or call us and when you use our websites, apps and social media. We use that and other information to provide better services, marketing and support to you and our other customers (including by analysing your information to provide you with a personalised experience).
 
-If you have questions or concerns regarding this Privacy Policy, you should first contact our privacy commissioner at [privacy@seatwave.com](mailto:privacy@seatwave.com) .
+When you, for example, create an account, purchase or sell tickets, download one of our apps or [contact us](https://help.seatwave.com/anonymous_requests/new) on the phone, we may ask your consent to use your information for certain purposes. Your choices about how we use information are described here.
 
-### Information that we collect
+Seatwave has a number of affiliates who use our platform to sell tickets ("Affiliates"). We will share your information with our Affiliates and may share your information with other third parties, as described here.
 
-We may collect and process the following information about you:
+Seatwave is responsible for the processing of your personal information in accordance with, the Data Protection Act 1998.
 
-  * Information that you provide by filling in forms on our site. For example, when you register or buy or sell tickets, we may ask you the following information:
-  * Name and physical shipping, contact and payment addresses
-  * Email address and telephone numbers
-  * Date of birth
-  * Credit card, debit card or bank information
-  * Login and password
-  * Tax identification or VAT number, for certain sellers who are required by law to have it
-  * If you contact us we may keep a record of that correspondence.
-  * Information we receive from credit reference and fraud detection agencies or other third parties we may use to verify your information.
-  * We may ask you to complete surveys for research purposes, although you do not have to respond to them.
-  * Details of transactions that you carry out through our site and of the fulfilment of your orders.
-  * Details about the way that you interact with our sites, services, content and advertising, including computer, browser and connection information, statistics on page views, traffic to and from our sites, ad data, IP address and standard web log information.
-  * Your personal preferences related to events and information that you share with us with your consent via third parties such as Facebook.
-  * Correspondence, testimonials, photos, blogs, writings, customer satisfaction surveys or customer service communications that you may send us.
+Cookies Notice
 
+We and third party organisations use cookies and other technologies, such as pixel tags on our websites and in our emails. For more information about cookies and how to disable them, please see our [Cookies Policy](http://www.seatwave.com/cookie-policy).
 
+We collect your information in different ways
 
-### Our use of your Personal Information
+**Directly from you.** For example, if you register for a promotion, create an account, enter a competition or free prize draw, download an app, buy or sell tickets, post a comment on our websites or when you contact us.
 
-If you sell or purchase tickets via the Site, we request certain personally identifiable information from you. You may be required to provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).
+**Through your use of our websites and apps.** We use cookies and other technologies, such as pixel tags on our websites, in our emails and apps to collect information about your usage and to better target advertising. To learn more, please see our [Cookies Policy](http://www.seatwave.com/cookie-policy).
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. We may also use credit reference agency and fraud prevention agency records that we receive about you, people financially linked to you and others in your household to help make decisions about you and them.
+**From third parties.** For example, if you choose to use an integrated social media feature on our websites or apps, the third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms. Further information about the third parties from whom we obtain information is available here.
 
-In addition, we use the Personal Information we collect from you and other visitors to the Site in the following ways:
+Information we may hold about you
 
-  * for credit and credit related services and to manage your accounts;
-  * to recover debts;
-  * to check your identity and to update our records about you;
-  * to prevent and detect fraud and money laundering;
-  * to develop and improve the services we offer to you;
-  * to enable you to use any services that we may from time to time provide through this Site;
-  * to contact you by post, email and SMS to inform you about changes to our service or about any of our services that we think may be of interest to you and generally to track the effectiveness of our marketing activities;
-  * to contact you where you have authorised us to do so, when you have won a competition on the website or to provide you with an email newsletter;
-  * for Site administration and development (including enabling us to respond to any comments on the Site or feedback you may give us).
-  * to send you newsletters and promotional communications.
-  * share the data with select third parties and business partners.
+We use the following information for the purposes described in this Policy:
 
+**Your contact and account information.** We will hold contact information you provide to us (e.g. name, address, phone number, email, country of residence, preferred language) when you create a Seatwave account, buy or sell a ticket and/or participate in our competitions or promotions.
 
+**Your payment and billing information.** We will hold payment and billing information you provide to us, e.g. credit card number and post code when you buy or sell a ticket, in connection with the handling of your ticket orders/sales. If you've asked us to, we may also store payment and billing information to make it easier for you to buy or sell tickets in future.
 
-We want to provide you with the best possible service so calls to Seatwave may be recorded and/or monitored for quality checks and staff training. Recordings may also be used to help us combat fraud.
+**Information you post online.** For example, we hold information you post on our website or on a third-party social media site to which we have access (including reviews you post or surveys you complete). When you post information online, you must not infringe the rights of others (including privacy rights) and you should be aware that others may use, tag and/or re-publish your information in ways that you might not expect (including in ways that are unlawful). You understand that we may use and re-publish any data you post online publicly, on our website or when using apps or social media tools.
 
-We will use your name and email address to send our newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
+**Information on your preferences.** We may collect information about events you like or products you buy or enquire about (e.g. as part of a survey or from your review of an event). We may also hold information on interests and demographic categories inferred from your interactions with us in order to provide you a better service and to provide you with more focused information. For example, if you buy tickets to a certain show and lots of people who went to that show also bought tickets for a different concert, we might send you information about that concert.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication, by emailing us at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by writing to us at Seatwave Limited, Registered Office Address: 2nd Floor, Regent Arcade House, 19-25 Argyll Street, London W1F 7TS, United Kingdom. Registered in England and Wales No: 5843832.
+**Information from other companies.** We will hold information (e.g. your interests, purchases and household type or any information necessary to satisfy your request or fulfil your order) provided to us by other companies including our Event partners. We may also add information to your details which we have obtained from other companies or sources. For example, we may cross check the accuracy of the information we hold with other databases, or we may add demographic information. Much of this data is created using publicly available sources such as the edited electoral register or a publically available postal address list, or is derived from market research such as consumer panel surveys.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by emailing our Customer Support at [privacy@seatwave.com](mailto:privacy@seatwave.com) or by contacting us by postal mail at the contact information listed above.
+**Website usage information.** If you use our websites, we may collect information about the browser and device you're using and your IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites). We might look at what site you came from, what you did and didn't use our site for, or what site you visit when you leave us.
 
-We may also use and share your information (in aggregate so that no individuals are identified) with third parties for statistical, marketing and strategic development purposes.
+**App(s) usage information.** If you use our app(s), we may collect your GPS location or your device's unique identifier. We might also collect the type of device you are using, or the version of the operating system your computer or device is running. We might look at, for example, how often you use the app and where you downloaded it. Where you allow us to we may also scan your music library when you download our app(s) so that we may send you information about events you may be interested in in your area. Your choices about how we use mobile information are described here.
 
-### Security
+**Email response information.** In relation to emails we send you, we may use cookies and other technologies, such as pixel tags   to collect information on how you respond to such emails, for example, the number of times the email is opened or the links in them are clicked etc. We partner with third parties who may also use such cookies and other technologies in our emails. . Please see our [Cookies Policy](http://www.seatwave.com/cookie-policy) for more information.
 
-The security of your Personal Information is important to us.
+**Other information about your interactions with us.** For example, if you interact with us, email, telephone or social media (e.g. Facebook).
 
-We are aware of generally accepted industry standards to protect Personal Information However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We may use your information in the following ways and for the following purposes
 
-If you have any questions about security on our Site, you can send us an email at privacy@seatwave.com.
+**To provide you with products, services, account information and support.** For example, we might use your information to confirm your registration for an event. If you give us your friend's information, we will use it to provide services you request from us. Before you give us a friend's information, please do make sure that you have your friend's permission to share that information with us.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+**To send you communications in connection with your transaction and events you attend.** For example, we might send you emails about your account or a ticket purchase or ask you if you would like to review an event you attended. We might also contact you about this Policy or any of our other policies or terms.
 
-### Disclosures
+**To identify trends and interests.** We use your information to get to know what your preferences might be so we can improve our offering to you and so that your experience with us is more relevant and personal. We may combine information we get from you with information about you we get from third parties, including to analyse customer behaviour.
 
-If you are a buyer, we will disclose your name, address and phone number to sellers to enable them to send you tickets you purchase.
+**To monitor and improve our products, services, and websites.** We analyse your information to improve our understanding of you and our customer base in general. We do this so that we can make better decisions about our services, advertising, products and content, based on a more informed picture of how our customers use our current services, and to provide you with a more customised experience.
 
-We use a credit card processing company to bill you for goods and services. We will disclose your name, billing address and credit card information to these credit card processing companies and to service partners that we use to process your order, deliver tickets or help us with cancellation and issuance issues. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+**To prevent or detect unlawful behaviour or to protect or enforce legal rights.** For example, we may use your information to prevent ticket touting, misuse of our intellectual property (e.g. our or our Affiliates brands), or fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) or other crimes.
 
-In the event Seatwave goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified either via email or through a prominent notice on our Web site for 30 days after any such change in ownership or control of your Personal Information.
+**For security purposes.** We may use your information to protect the security of our company, employees, our customers, third parties and/or our/their property (including any events you may attend and our websites) as permitted by law.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site.
+**For market research purposes.** We may contact you as part of market research we are carrying out. You may choose not to participate.
 
-### Hyperlinks to other web sites & third party marketing
+**To provide you with tailored advertising and online behavioural advertising.** We may work with other companies to show you advertisements we think you may find relevant and useful. This may include advertisements displayed on our own websites or apps, advertisements from us displayed on other companies' sites or the content of our emails. The advertisements you see may be based on information collected by us or third parties and/or may be based on your activities on our websites or third party sites. The second type o advertising This is often called 'online or third party behavioural advertising'. Please see our [Cookies Policy](http://www.seatwave.com/cookie-policy) for more information and the choices you have.
 
-This Site contains hyperlinks to websites owned and operated by third parties. These websites have their own privacy policies and we urge you to review them. They will govern the use of Personal Information you submit whilst visiting these websites. Seatwave does not accept any responsibility or liability for the privacy practices of such third party web sites and your use of such web sites is at your own risk.
+**For marketing purposes.** Where you've agreed, you may be contacted by us by email, text message, telephone or other means with information or offers regarding our upcoming events, products or services (including newsletters). We may also send you information or offers on behalf of other businesses, but when we do this, we do not give those businesses your name and address. Where you've agreed to receiving information directly from selected third parties these parties may include charities and retail companies for example, companies offering financial, health, leisure or subscription services.
 
-In some cases we may offer you the possibility of receiving marketing correspondence from selected thirds parties, you may opt-out from receiving such correspondence.
+**As otherwise permitted by law.** In limited circumstances, we may also use your information for other purposes where permitted by law.
 
-If you do not chose to opt-out then please be aware that such third parties are independent from us and have their own privacy policies.
+You have certain choices about how we use your information
 
-### Cookies
+When you create an account, purchase or sell tickets or download our apps, we may ask for your **consent** in order to collect, process or use your personal information for specified purposes.
 
-When you view our Site we may store information on the hard drive of your computer in the form of a "cookie" (essentially a small text file). Cookies allow us to tailor the Site to your interests and preferences. For example, a cookie might contain information about the web pages you have visited on the Site, which could allow us to customise your next visit to the Site. However, cookies do not allow us access to the rest of your computer and we do not use them to collect Personal Information about you.
+If you wish to withdraw any consent you have provided to us for such use of your personal information, please [contact us](https://help.seatwave.com/anonymous_requests/new) or tell us about your preferences using the methods described in this section.
 
-Most Internet browsers enable you to delete cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on this Site.
+_You understand that if you choose not to give us consents, or if you withdraw consents, you may not be able to take advantage of one or more features we offer. ****_
 
-Some of our business partners (e.g., advertisers or analytics companies) use cookies on our Site. We have no access to or control over these cookies.
+In addition to [contacting us](https://help.seatwave.com/anonymous_requests/new) you can **opt out** in the following ways:
 
-This Privacy Policy covers the use of cookies by Seatwave only and does not cover the use of cookies by any business partners.
+**You can opt out of receiving marketing communications including newsletters.** To stop receiving marketing communications, you can log into your account and change your preference or follow the instructions in any promotional message you get. .. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-### IP Addresses
+**You can control and opt out of the use of cookies and tracking tools.** To learn how to manage how we use cookies and other tracking tools, please click [here](http://www.seatwave.com/cookie-policy).
 
-We study visitor trends since we are interested in the successful dissemination of information through the Site. Our server creates log files of information such as the Internet Protocol (IP) address from your network, what pages were explored and the length of your visit. Analysis software is used to generate reports, which helps us to learn more about how we can enhance your experience with the Site.
+**You can control and opt out of us using tools on your devices.** For example, you can turn off the GPS locator or push notifications by using the settings on your phone.
 
-An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet. Generally, an IP address will change every time your computer connects to the Internet. However, if you have a broadband connection, it is possible that the IP address that we may gather may contain information that may be deemed identifiable. This could occur due to the fact that by using certain broadband connections, your IP address would not change and could be associated with your personal computer. We may use your IP address to gather aggregate information on use or to prevent access to our service in the event of breach of our user agreement. But we will only be able to identify you individually if we have the means of linking the IP address to you as a particular user. This usually requires access to additional information which we do not seek.
+**You can change your marketing preferences with an Event Partner** (e.g. opt out of receiving marketing e-mails from an Event Partner) by contacting that Event Partner or by following the instructions on any messages they send to you.
 
-### Transfers to other countries
+We may share your information with the following third parties
 
-Your Personal Information may be transferred to, stored and processed on our servers outside the European Economic Area and may be accessed globally. It may be process by staff operating outside of the EEA who work for us or one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data you agree to this transfer, storing or processing. However, wherever we process your information we will strive to ensure the same level of protection promised in this Privacy Policy.
+**Within the Ticketmaster group of companies.** We may share any or all of your information with our group companies for any of the purposes referred to in this Policy.
 
-### Accessing and changing personal information
+**Our Affiliates.** We may share any of your information with our Affiliates so that they can run the event for which tickets have been purchased, where necessary to fulfil the order, analyse customer behaviour, provide a better service and support to customers, and for any other purpose described in our Affiliates  privacy policies (including marketing). You should read those policies to learn how they treat your information.
 
-You have the right to request a copy of the Personal Information that Seatwave holds on you and to have any errors in that information corrected. We charge £10.00 for such requests. (Please contact us to arrange payment) Please address your request to our customer service team at <http://www.seatwave.com/help> .
+**Our Commercial Partners:** If you purchase tickets to an event through a promotion or rewards programme provided by another company, we may receive and/or share your personal information with that company. You should read their privacy policy to learn how they treat your information.
 
-You can access and change your account information in My Account. As a buyer in My Account, you can change your delivery name, delivery address and telephone number by transaction. As a seller, you are able to change your payment method. As a buyer or seller, you are able to change your account password.
+**Selected third parties.** If you consented to be contacted by email or other means by selected third parties, we may provide your information to the third parties we select, and these third parties may use this information for their marketing or advertising purposes.
 
-We may communicate with you at various times, with administrative emails or phone calls, about transactions and service announcements, customer service responses and promotional emails like special offers, newsletters and updates. You can choose to stop receiving promotional emails at any time simply by changing your preferences via an email's unsubscribe function. You may not opt out of receiving administrative messages or customer service responses. If you have agreed to receive marketing communications through check-out with our partners, you must change your communication preferences with them directly.
+**Our third party service providers.** We may share your information with third parties so that they can provide services to us (e.g. a mailing house, a courier, a call centre provider, a market research company or       online behavioural advertising companies), but where we do we will put in place a written agreement protecting your information.
 
-### Changes to this Privacy Policy
+**Third parties who provide goods and services purchased by you.** Your information may also be shared with relevant third parties offering goods and services you have purchased through our website (e.g. ticket insurance or merchandise) so that they can process and fulfil your orders (including by contacting you). If you buy or sell tickets via our resale platform, we may disclose your information to the buyer or seller (as applicable)  for order fulfilment purposes.
 
-If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on our home page, and other places we deem appropriate so that you are aware of the changes.
+**If we think we have to in order to comply with legal or regulatory requirements or to protect ourselves, our Affiliates or third parties.** Where permitted or required by law, we may also share information requested by a government agency or other authorised body or organisation, to protect or enforce our rights or the rights of our Affiliates or third party, or in the detection and prevention of fraud (including credit card fraud and fraud we think has happened during a sweepstakes or promotion or at an event) and other crimes.
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you have any queries about this Privacy Policy please email [privacy@seatwave.com](mailto:privacy@seatwave.com).
+**Any successor to all or part of our business.** Where permitted by law, we may give a successor your information to use for the purposes set out in this Policy - and we may also give a potential successor this information - but only where we have taken reasonable steps to ensure the security and confidentiality of that information.
+
+**Our sites and apps are not intended for children.**
+
+Our sites and apps are meant for adults. We do not knowingly collect personal information from children. If you are a parent or legal guardian and think your child has given us information, you can [contact us](https://help.seatwave.com/anonymous_requests/new).
+
+We use standard security measures
+
+**We have security measures in place to protect your information.** The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+
+**You can deal with us anonymously in certain circumstances**
+
+When creating an account we ask you to provide your name, an email addresses and a password. To create an account you do not have to provide us with your real name or an email address that identifies you but if you wish to use that account to buy or sell tickets we will need to know your real name and billing details so we can process your transaction.
+
+If you contact us with a general query you can also do so anonymously but if you wish to discuss your account with us we will ask for information to identify and verify your account
+
+We may transfer your information to other countries
+
+The transfer of your information for use in line with this Policy and [Cookies Policy](http://www.seatwave.com/cookie-policy) may involve the transfer of your information to other countries (including outside Europe). The laws of other countries to which your information is transferred may not provide the same level of protection for your personal information as the law of your home country. We do, however, put in place appropriate technical and contractual protections for your personal information in accordance with applicable laws.
+
+We may link to third party sites or services we don't control
+
+**If you click on one of those links, you will be taken to websites we do not control.** This Policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites.
+
+Feel free to contact us if you have any questions, complaints or require a copy of information we hold about you
+
+If you have any questions or complaints about this Policy or any privacy concerns, or would like to request copies of the information we hold about you, please [contact ****us](https://help.seatwave.com/anonymous_requests/new). Please do not include your credit card number or other financial or sensitive information in your email.
+
+To correct, amend or update information you have given us, or in order to withdraw a consent you have given us you can log into your account.
+
+What we will do if there is an update to this policy
+
+From time to time we may change our privacy practices. We will notify you of any changes to this Policy as required by law. We will also post an updated copy on our website. It will have a different date and version number from the one set out below. Please check our site periodically for updates.
+
+Who we are
+
+We are Seatwave Limited, part of the Ticketmaster UK Limited group of companies, . You can find out more about us [here](http://www.seatwave.com/about-us).
+
+Last Updated: September 2015
