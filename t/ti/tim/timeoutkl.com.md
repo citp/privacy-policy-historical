@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215214201id_/http%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414194756id_/http%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Kuala Lumpur
 
