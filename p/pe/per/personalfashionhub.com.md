@@ -1,60 +1,41 @@
-> *The following text is extracted and transformed from the personalfashionhub.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522211316id_/http%3A//personalfashionhub.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalfashionhub.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414060044id_/http%3A//personalfashionhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – PersonalFashionHub
 
-This Privacy Policy governs the manner in which Personal Fashion Hub collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://personalfashionhub.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Personal Fashion Hub.
+## Privacy Policy:
 
-**Personal identification information**
+PersonalFashionHub (" **PersonalFashionHub** ") operates http://personalfashionhub.com and may operate other websites. It is PersonalFashionHub's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+### Website Visitors
 
-**Non-personal identification information**
+Like most website operators, PersonalFashionHub collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PersonalFashionHub's purpose in collecting non-personally identifying information is to better understand how PersonalFashionHub's visitors use its website. From time to time, PersonalFashionHub may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+PersonalFashionHub also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on http://personalfashionhub.com blogs/sites. PersonalFashionHub only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-**Web browser cookies**
+### Gathering of Personally-Identifying Information
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Certain visitors to PersonalFashionHub's websites choose to interact with PersonalFashionHub in ways that require PersonalFashionHub to gather personally-identifying information. The amount and type of information that PersonalFashionHub gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [http://personalfashionhub.com](http://personalfashionhub.com/) to provide a username and email address. Those who engage in transactions with PersonalFashionHub are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, PersonalFashionHub collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with PersonalFashionHub. PersonalFashionHub does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**How we use collected information**
+### Aggregated Statistics
 
-Personal Fashion Hub may collect and use Users personal information for the following purposes:
+PersonalFashionHub may collect statistics about the behavior of visitors to its websites. PersonalFashionHub may display this information publicly or provide it to others. However, PersonalFashionHub does not disclose personally-identifying information other than as described below.
 
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### Protection of Certain Personally-Identifying Information
 
+PersonalFashionHub discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PersonalFashionHub's behalf or to provide services available at PersonalFashionHub's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PersonalFashionHub's websites, you consent to the transfer of such information to them. PersonalFashionHub will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PersonalFashionHub discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when PersonalFashionHub believes in good faith that disclosure is reasonably necessary to protect the property or rights of PersonalFashionHub, third parties or the public at large. If you are a registered user of an PersonalFashionHub website and have supplied your email address, PersonalFashionHub may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with PersonalFashionHub and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. PersonalFashionHub takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
+### Cookies
 
-**How we protect your information**
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. PersonalFashionHub uses cookies to help PersonalFashionHub identify and track visitors, their usage of PersonalFashionHub website, and their website access preferences. PersonalFashionHub visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PersonalFashionHub's websites, with the drawback that certain features of PersonalFashionHub's websites may not function properly without the aid of cookies.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+### Business Transfers
 
-**Sharing your personal information**
+If PersonalFashionHub, or substantially all of its assets, were acquired, or in the unlikely event that PersonalFashionHub goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PersonalFashionHub may continue to use your personal information as set forth in this policy.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+### Ads
 
-**Third party websites**
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by PersonalFashionHub and does not cover the use of cookies by any advertisers.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+### Privacy Policy Changes
 
-**Google Adsense**
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-**Changes to this privacy policy**
-
-Personal Fashion Hub has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and [terms of service](http://personalfashionhub.com/terms-of-use/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-<http://personalfashionhub.com/>  
-personalfashionhub@gmail.com
-
-This document was last updated on January 10, 2014
+Although most changes are likely to be minor, PersonalFashionHub may change its Privacy Policy from time to time, and in PersonalFashionHub's sole discretion. PersonalFashionHub encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a http://personalfashionhub.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
