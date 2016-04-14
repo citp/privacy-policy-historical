@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906223358id_/https%3A//www.womentowomen.com/store/privacy-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414035259id_/https%3A//www.womentowomen.com/store/privacy-disclosures) for the most accurate reproduction.*
 
 # Privacy Disclosures | Women To Women - Store
 
