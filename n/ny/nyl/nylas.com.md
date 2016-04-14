@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018214202id_/https%3A//nylas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylas.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414115907id_/https%3A//www.nylas.com/privacy-policy) for the most accurate reproduction.*
 
-# Nylas - The next-generation email platform.
+# Nylas N1 - The open source, extensible email app
 
 Nylas, Inc. ("Company") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By using Company's products and services and/or visiting the [](https://www.nylas.com/)https://www.nylas.com website and domain name, and any other linked pages, features, content, or software application services offered from time to time by Company in connection therewith (collectively, the "Services"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -77,3 +77,7 @@ Nylas complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Ha
 **Questions or concerns?**
 
 If you have any questions or concerns regarding privacy in our Services, please send us a detailed message at privacy@nylas.com. We will make every effort to resolve your concerns.
+
+Nylas, Inc.   
+2030 Harrison St.   
+San Francisco, CA 
