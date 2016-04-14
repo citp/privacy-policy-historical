@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907165316id_/http%3A//mmos.com/privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmos.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414125126id_/http%3A//mmos.com/privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMOs.com
 
-This Privacy Policy governs the manner in which MMOs.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [MMOs.com](http://www.generateprivacypolicy.com/account/policies/edit/MMOs.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Altay Enterprises LLC.
+This Privacy Policy governs the manner in which MMOs.com collects, uses, maintains and discloses information collected from users (each, a "User") of the MMOs.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Altay Enterprises LLC.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
