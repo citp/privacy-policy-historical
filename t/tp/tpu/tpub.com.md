@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906035326id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpub.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414121309id_/http%3A//www.tpub.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Integrated Publishing
 
