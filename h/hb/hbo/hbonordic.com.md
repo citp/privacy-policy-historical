@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hbonordic.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912233233id_/https%3A//www.hbonordic.com/account/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbonordic.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414045908id_/http%3A//www.hbonordic.com/account/data-policy) for the most accurate reproduction.*
 
 # HBO Nordic
 
-## Processing of personal data
+## Processing of Personal Data
 
 ### Together with the User Terms and Conditions, this Personal Data Policy comprises the terms and conditions governing the User's agreement with HBO.
 
