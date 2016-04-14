@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cygnet-infotech.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017044623id_/http%3A//www.cygnet-infotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cygnet-infotech.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414121916id_/http%3A//www.cygnet-infotech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cygnet Infotech
+# Cygnet Privacy Policy
 
 Cygnet Group (hereinafter referred to as Cygnet) is devoted to venerating the privacy and security of visitors to websites owned and operated by Cygnet or its affiliates. Cygnet has created this privacy statement in order to demonstrate our organization's commitment to privacy.
 
@@ -8,32 +8,31 @@ We have prepared this Privacy Policy to help you understand how our website safe
 
 We urge you to read the privacy policy in its entirety so you will understand all of the practices and procedures we follow relating to your online privacy.
 
-  
-INFORMATION WHICH WE COLLECT
+### INFORMATION WHICH WE COLLECT
 
 When you get in touch with us you may be required to provide us with personal information about yourself, such as your name, email address, address, phone number (collectively, the “Personal Information”).
 
 We do not collect any Personal Information from you when you use our website unless you provide us with the Personal Information voluntarily.
 
-  
-COOKIES AND ITS USAGE
+### COOKIES AND ITS USAGE
 
 "Cookies" are pieces of information that are stored by your web browser on your computer's hard disk, for record-keeping purposes. Cookies only identify your computer and not you personally.
 
 Cygnet makes use of cookies to store your preferences, record session information, collect information on how you visit and access our websites, and to tailor our web pages to your needs. We also use cookies to analyze and measure the effectiveness of our email communications, website features and offerings, and advertisements. Most web browsers allow you to turn off cookies; however, turning off cookies will limit your use of our websites.
 
-  
-USAGE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
+### USAGE AND DISCLOSURE OF YOUR PERSONAL INFORMATION
 
 We use your personal information in appended manner:
 
-1\. To process your orders and deliver the products and services   
-2\. To provide support and assistance for our products and services, including the provision of security patches.   
-3\. To provide the ability to contact you, and provide you with shipping and billing information.  
-4\. To provide customer feedback and support.   
-5\. To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.   
-6\. To support recruitment inquiries.   
-7\. To meet contract obligations.
+  * To process your orders and deliver the products and services
+  * To provide support and assistance for our products and services, including the provision of security patches.
+  * To provide the ability to contact you, and provide you with shipping and billing information.
+  * To provide customer feedback and support.
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary.
+  * To support recruitment inquiries.
+  * To meet contract obligations.
+
+
 
 Cygnet shall not retain your Personal Information longer than necessary to fulfill the purposes for which it has been collected or as mandated by applicable law or regulation.
 
@@ -43,15 +42,16 @@ We do not sell or rent your Personal Information to third parties for marketing 
 
 We may also use or disclose Personal Information as we believe to be necessary or appropriate:
 
-(a) under applicable law, including laws outside your country of residence;   
-(b) to comply with legal process;   
-(c) to respond to requests from public or government authorities   
-(d) to enforce our terms and conditions;  
-(e) to protect our operations or those of any of our affiliates;  
-(f) to protect our rights, privacy, safety or property, or that of our affiliates, you or others;
+  * under applicable law, including laws outside your country of residence;
+  * to comply with legal process;
+  * to respond to requests from public or government authorities
+  * to enforce our terms and conditions;
+  * to protect our operations or those of any of our affiliates;
+  * to protect our rights, privacy, safety or property, or that of our affiliates, you or others;
 
-  
-SECURITY AND STORAGE MEASURES
+
+
+### SECURITY AND STORAGE MEASURES
 
 Cygnet seeks to maintain the integrity and security of your Personal Information. We use industry-standard protocols to protect your Personal Information.
 
@@ -59,25 +59,22 @@ We seek to store your Personal Information in secure operating environments that
 
 Cygnet will not be held responsible for events arising from unauthorized access to your Personal Information. We will rely on you for telling us if you experience any unusual events that may indicate a breach in your information security. We will then seek to investigate whether the security breach was related to the data transmissions from our website and let you know what steps can be taken to rectify the problem. Further action, such as reporting incidents to the police or other proper authorities, may also be required.
 
-LINKS TO OTHER WEBSITES  
-Our website may contain links to other Internet websites.  
-We encourage third parties to implement policies and practices that respect your privacy. We are not, however, responsible for any other website’s privacy practices or website content.  
-We are not responsible for the content, accuracy or opinions expressed in such websites, and such websites are not investigated, monitored or checked for accuracy or completeness by Cygnet.   
+### LINKS TO OTHER WEBSITES
+
+Our website may contain links to other Internet websites.
+
+We encourage third parties to implement policies and practices that respect your privacy. We are not, however, responsible for any other website’s privacy practices or website content.
+
 Inclusion of any linked website on our website does not imply approval or endorsement of the linked website by us. If you decide to leave our website and access these third-party sites, you do so at your own risk
 
-  
-UPDATION OF OUR PRIVACY POLICY
+### UPDATION OF OUR PRIVACY POLICY
 
 Cygnet reserves the right to change this Privacy Policy by posting the changes on its website. You can determine when this Privacy Policy was last updated by reviewing the "LAST UPDATED" legend below. We ask that you review this privacy policy from time to time to ensure that you are familiar with the latest version of the policy.
 
-  
-GET IN TOUCH
+### GET IN TOUCH
 
-To correct or update any other Personal Information, or if you have any questions about Cygnet website’s Privacy Policy, then please email us at : [inquiry@cygnet-infotech.com](mailto:inquiry@cygnet-infotech.com "Email Us")
+To correct or update any other Personal Information, or if you have any questions about Cygnet Website’s Privacy Policy, then please email us at:[ inquiry@cygnet-infotech.com](mailto:inquiry@cygnet-infotech.com)
 
-  
-ACCEPTANCE OF CYGNET’S PRIVACY POLICY
+### ACCEPTANCE OF CYGNET’S PRIVACY POLICY
 
 By using this website, you agree to the terms of, as well as any posted changes to, this Privacy Policy.
-
-If you do not agree to the terms of our Privacy Policy, DO NOT use our website.
