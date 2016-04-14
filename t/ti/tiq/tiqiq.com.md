@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118143544id_/http%3A//www.tiqiq.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiqiq.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414145406id_/http%3A//www.tiqiq.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · TiqIQ
 
