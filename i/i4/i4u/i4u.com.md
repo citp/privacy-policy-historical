@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206130431id_/http%3A//www.i4u.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414042958id_/http%3A//www.i4u.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - I4U News
+# Privacy Policy
 
 This is the web site of I4U LLC.  
 Our postal address is   
