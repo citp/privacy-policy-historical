@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911225338id_/https%3A//www.samlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414053655id_/https%3A//www.samlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SAM Learning
 
