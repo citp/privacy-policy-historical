@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesnews.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141108id_/http%3A//www.bluesnews.com/a/2591/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesnews.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414134335id_/https%3A//www.bluesnews.com/a/2591/privacy-policy) for the most accurate reproduction.*
 
 # Blue's News Privacy Policy - Blue's News
 
