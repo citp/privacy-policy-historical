@@ -1,55 +1,83 @@
-> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215060505id_/http%3A//asknlearn.com/pages/bottom%2520navigation/privacy%2520statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asknlearn.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414162809id_/https%3A//www.wizlearn.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# ASKnLearn.com - Privacy Statement
+# Wizlearn Technologies
 
-Privacy Statement
+### Wizlearn Data Privacy Policy
 
-The ASKnLearn.com web site consists of many pages and services. Information provided may be subject to change from time to time so we encourage you to check our online Privacy policies and this Privacy Statement regularly. 
+  1. Our permissions policy
+  2. We do not rent or purchase lists
+  3. No old lists, either
+  4. Keeping your personal information
+  5. Protecting your data
+  6. Adhering to the Data Privacy Principles
+  7. When Wizlearn sends emails to you
+  8. Ensuring secure billing transactions
+  9. In summary
 
-If you have any concerns or questions, please contact ASKnLearn.com by phoning (+65) 6872 2972 or give us your [Feedback](mailto:admin1@asknlearn.com) via email. 
 
-Collection of your personal information  
-When you provide ASKnLearn.com with your personal information via the ASKnLearn.com web site, we will inform you of how the information will be used. We value your trust in the ASKnLearn.com web site. In all cases, your information will be held in strict confidence. 
 
-The types of personal information that we collect from you will depend on how you use the ASKnLearn.com web site. For example, when applying for ASKnLearn.com membership we will collect details such as your name, email address, age, gender, and some details of your personal interests, your preferences for receiving commercial email and receiving market research surveys via email. Some of this information is essential for us to be able to accurately identify who is using the service and as such is mandatory.
+#### 9 things you need to know
 
-We will not collect any personal information from you revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or details of health, disability or sexual activity or orientation. 
+At Wizlearn, we're dedicated to protecting your privacy and the privacy of anyone on the receiving end of a Wizlearn-delivered email. To that end, we have instituted certain policies - rules, you might call them - to help us make sure Wizlearn remains a safe, trusted environment for email marketing and correspondence. Here, we outline those policies and our efforts to enforce them.  
 
-Exceptions to this include: 
 
->   * where you have given express consent to ASKnLearn.com to do so; 
->   * where there are reasonable grounds to believe that disclosure is necessary to prevent a threat to life or health;
->   * the use is authorised by law or reasonably necessary to enforce the law; or   
-> 
->   * when the information is necessary for the establishment, exercise or defence of a legal claim. 
-> 
+#### 1\. Our permissions policy
 
+Wizlearn practises permission-based communications. We send emails to people who want to receive those emails. Wizlearn's permission policy is part of the Terms of Use agreed to by every Wizlearn customer, and it appears as a reminder every time we communicate with prospects/clients. It goes beyond the stipulations set forth in the Singapore legislation and is as follows:
+
+To send an email to someone using Wizlearn, that recipient must be:
+
+  * Someone who is a customer, member or subscriber of our organization,
+  * Someone who has specifically asked to receive our emails by opting in or signing up, or
+  * Someone who has bought a product or service from us in the past 18 months
+  * Someone who has enquired for service and agreed to be on our list
+
+
+
+#### 2\. No list rental or purchasing here
+
+We do not rent, sell, or otherwise share our lists or those of our customers, and we do not allow any partner/ customer to rent or purchase lists.  
+
+
+#### 3\. No old lists, either
+
+That's why we don't allow sending to any email address that was obtained more than 24 months ago and has not received any correspondence from us since that time. When it comes to sending permission-based email, the age of the list matters. If enough time passes between someone initially subscribing to your list and eventually receiving an email from you, permission "expires" as people eventually forget what they've signed up for.   
+
+
+#### 4\. Keeping your personal information
+
+In order to create and administer your Wizlearn account, we explicitly ask for and collect certain information about you and your company, including financial information used to verify identity and bill for services. Under no circumstances will we share your (or any other member's) personal information with any third party, except local authorities.
+
+We also collect certain aggregate information about our customers. We use this information to improve our services and to do a better job of marketing them. We may also report such information -- always in aggregate form¹ and never in a way that could identify individuals -- to third parties, such as newspapers or industry observers or potential customers and partners. 
+
+#### 5\. Protecting your data
+
+We do everything we can to make sure your email content and response data remains private and confidential. Though we reserve the right to monitor your lists, content and response data from time to time to make sure they comply with our Terms of Use, we will never share, sell or rent your customer data to anyone for any reason.   
+
+
+#### 6\. Adhering to the Data Privacy Principles
+
+Wizlearn adheres to the data privacy principles as set forth by the Singapore government. These policies are designed to provide adequate protection for personal data collected, used and retained.
+
+Direct any Data Privacy inquiries or requests to: 
+
+_**Wizlearn Technologies Pte Ltd  
+10 Science Park Road #03-13 Singapore 117684 ** _
+
+#### 7\. When Wizlearn sends emails to you
+
+Just as we ask and expect you to respect the inbox of your customers, we will do our best to respect yours. The only emails you'll receive from us will be emails related to your account or your use of Wizlearn / Asknlearn™. We might alert you to new features or site enhancements. We might check in to see how your last learning went. Some of those emails may be directed to everyone, and some of them may be written just for you. In the future, we may also ask if you'd like to receive information from our partners. We do not yet have partners, and until we do, we will not ask.  
+
+
+#### 8\. Ensuring secure billing transactions
+
+You may be asked to supply certain credit card and billing information in order to purchase Wizlearn services. That information is transferred, using the most secure transmission technology, to a trusted third party for processing. The information is then encrypted using Microsoft Encryption standards and securely stored to handle your transactions. Your credit card information is not stored on the Wizlearn website or in our database. We do not have access to your credit card information.  
+
+
+#### 9\. To sum things up...
 
   
-Disclosure of your information  
-The information we collect from you is strictly confidential. ASKnLearn.com will not reveal, disclose, sell, distribute, rent, licence, share or pass that information on to any third parties, other than those who are contracted by ASKnLearn.com to keep the information confidential or are subject to a statute or binding scheme which imposes similar restrictions to ASKnLearn.com ’s Privacy Protection Principles regarding the handling of personal information. We may disclose the personal information, other information or data we collect from you for the purpose specified to you at the time of collection or for another purpose if: 
+Your privacy, and the privacy of people on both sides of Wizlearn emails, is extremely important to us, and we'll do everything we can to protect it. Direct any questions you may have regarding this Privacy Policy to [sales@wizlearn.com](mailto:sales@wizlearn.com). And if you suspect our privacy and permission policy has been abused in any way, please call us at +65 6776 2013. 
 
->   * you would reasonably expect us to disclose it for that purpose; and
->   * that purpose is related to the purpose specified to you at the time of collection.   
-> 
-> 
+¹ ‘aggregate form’ means stripping personal details but retaining demographic data and relevant data that helps us analyse buyer behaviour  
 
-
-If we wish to disclose any of this personal information, information or data other than as set out above, we will not do so unless we have your express consent to do so. We will not provide your email address to third parties without your consent. 
-
-We will take reasonable steps to ensure that all information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment accessed only by authorised persons. Transmissions sent to or from ASKnLearn.com are routinely monitored for quality control and systems administration. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our online products or services. These activities are conducted at your own risk. Once we receive your transmission, we make our best effort to ensure its security. 
-
-Please be aware that whenever you voluntarily disclose personal information over the Internet (for example: in discussion forums, via email, or in chat sites) that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. 
-
-You have the right, at anytime to modify, withdraw and access your personal information by writing to us at [support@asknlearn.com](mailto:support@asknlearn.com).
-
-Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords. Please be careful and responsible whenever you are using the Internet and ASKnLearn.com. 
-
-How to contact us  
-If you have any concerns or questions, please contact ASKnLearn.com by phoning +(65) 6872 2972 or use the [Feedback](mailto:admin1@asknlearn.com) link to send your questions and comments via email. 
-
-Thank you for taking the time to read the ASKnLearn.com Privacy Statement. 
-
-> >  
