@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215200401id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seobythesea.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414024720id_/http%3A//www.seobythesea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SEO by the Sea
 
@@ -28,4 +28,4 @@ I recommend that anyone using the Web learn more about privacy issues online, an
 – Bill Slawski  
 President, SEO by the Sea
 
-## Getting Information about Search, SEO, and the Semantic Web Directly from the Search Engines
+## Learn SEO Directly from the Search Engines
