@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealflicks.com privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002040052id_/https%3A//www.dealflicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealflicks.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414213338id_/https%3A//www.dealflicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Movie Ticket Deals, Discounts, Offers, & Coupons
 
