@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaleyeglasses.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113641id_/http%3A//www.globaleyeglasses.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaleyeglasses.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414200756id_/http%3A//www.globaleyeglasses.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at GlobalEyeglasses.com
 
@@ -67,10 +67,9 @@ If you have any questions regarding this privacy policy, you may contact us usin
 
 #### Address
 
-427 N Tatnall St #41096  
-Wilmington, DE 19801-2230  
-USA  
-
+GlobalEyeglasses.com  
+15 West Montauk Hwy #317  
+Hampton Bays NY 11946 
 
 #### Email
 
