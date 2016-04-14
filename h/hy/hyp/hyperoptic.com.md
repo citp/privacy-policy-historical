@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919011002id_/https%3A//hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414230825id_/https%3A//hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Hyperoptic | Legal
 
