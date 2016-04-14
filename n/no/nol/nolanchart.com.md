@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174754id_/https%3A//www.nolanchart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolanchart.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414151244id_/https%3A//www.nolanchart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nolan Chart
+# Privacy Policy
 
 **Privacy Policy Statement**
 
