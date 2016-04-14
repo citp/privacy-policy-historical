@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madefire.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106071856id_/https%3A//www-s1.madefire.com/wp-content/uploads/Madefire-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madefire.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414153351id_/https%3A//www-s1.madefire.com/wp-content/uploads/Madefire-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Madefire, Inc.
 
