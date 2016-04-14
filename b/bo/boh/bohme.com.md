@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509123030id_/https%3A//www.bohme.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414160646id_/https%3A//www.bohme.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,7 +84,7 @@ As far as permissible under law, Bohme accepts no responsibility for the unautho
 
 ## Changes to Our Privacy Statement
 
-From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Bohme website at [www.bohme.com](https://web.archive.org/web/20150509123030id_/https%3A//www.bohme.com/www.bohme.com)
+From time to time, it may be necessary for us to review and revise our privacy statement.  We reserve the right to change our privacy statement at any time and to notify you by publishing an updated version of the policy on the Bohme website at [www.bohme.com](https://web.archive.org/web/20160414160646id_/https://www.bohme.com/privacy-policy-cookie-restriction-mode/www.bohme.com)
 
 ## How To Contact Us If You Have A Problem Or Complain
 
