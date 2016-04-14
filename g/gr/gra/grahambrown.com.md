@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grahambrown.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181611id_/http%3A//www.grahambrown.com/us/info/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grahambrown.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414053051id_/https%3A//www.grahambrown.com/us/info/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Graham & Brown Privacy & Cookie Policy
 
