@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the userscloud.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914160954id_/https%3A//userscloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userscloud.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414104242id_/https%3A//userscloud.com/privacy.html) for the most accurate reproduction.*
 
 # Userscloud › Free Unlimited Cloud Storage
-
-[ ](https://userscloud.com/)
 
 Privacy Policy 
 
