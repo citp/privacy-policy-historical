@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malcolmcoles.co.uk privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914064609id_/http%3A//www.malcolmcoles.co.uk/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malcolmcoles.co.uk privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414210248id_/http%3A//www.malcolmcoles.co.uk/blog/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Malcolm Coles
 
