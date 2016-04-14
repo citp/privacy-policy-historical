@@ -1,368 +1,176 @@
-<!--The following is the downloaded HTML source of the rt.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626105944id_/http%3A//rt.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rt.com privacy policy that was archived on 2016-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414034443id_/https%3A//www.rt.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="ru"><head>
-    <title>Privacy policy — RT</title>    <meta name="description" content="RT’s privacy policy describes the types of personal information RT may collect through its websites and applications, the use and protection of such data.">
-<meta name="keywords" content="">    <meta charset="UTF-8">
-    
-    <meta name="apple-mobile-web-app-capable" content="no">
-    <meta name="format-detection" content="telephone=yes">
-    <!-- Add "maximum-scale=1.0; user-scalable=no;" to fix the Mobile Safari auto-zoom bug on orientation changes, but keep in mind that it will disable user-zooming completely. Bad for accessibility. -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    
-    <!-- BlackBerry, Palm and others use the Handheld Friendly tag -->
-    <meta name="HandheldFriendly" content="true">
-    <!-- Windows Mobile (and WP7?) use the MobileOptimized and cleartype values -->
-    <meta name="MobileOptimzied" content="width">
-    <meta http-equiv="cleartype" content="on">    
-    <!-- Tell Google that we're already on the mobile version -->
-    <link rel="alternate" media="handheld" href="">
-    
-    <meta property="fb:admins" content="100000836839189">
-    <meta property="fb:admins" content="642703102">
-    <meta name="google-site-verification" content="qtHnAycq46TD1R4aSj3lDMMw1MYYx8FGo7WzZu-c-_E">
-    
-            <!-- Favicon -->
-    <link rel="shortcut icon" href="http://rt.com/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="http://rt.com/favicon.ico" type="image/x-icon">	
-	
-	<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
-    <!--[if lt IE 6]>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE6">
-    <![endif]-->
-
-    <script src="//tru.am/scripts/ta-pagesocial-sdk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://me-ssl.effectivemeasure.net/em.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script async="" src="http://cdn.taboola.com/libtrc/rt-rtcom/loader.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/static/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery-ui.min.js"></script>
-
-    
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-5773642-2']);
-	_gaq.push(['_setDomainName', '.rt.com']);
-	_gaq.push(['_trackPageview']);
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-  
-	/**********************************
-	// Social plugins
-	**********************************/
-	var _ga = _ga || {};
-	var _gaq = _gaq || [];
-
-
-	_ga.trackSocial = function(opt_pageUrl, opt_trackerName) {
-	  _ga.trackFacebook(opt_pageUrl, opt_trackerName);
-	  _ga.trackTwitter(opt_pageUrl, opt_trackerName);
-	};
-
-
-	_ga.trackFacebook = function(opt_pageUrl, opt_trackerName) {
-	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
-	  try {
-		if (FB && FB.Event && FB.Event.subscribe) {
-		  FB.Event.subscribe('edge.create', function(targetUrl) {
-			_gaq.push([trackerName + '_trackSocial', 'facebook', 'like',
-				targetUrl, opt_pageUrl]);
-		  });
-		  FB.Event.subscribe('edge.remove', function(targetUrl) {
-			_gaq.push([trackerName + '_trackSocial', 'facebook', 'unlike',
-				targetUrl, opt_pageUrl]);
-		  });
-		  FB.Event.subscribe('message.send', function(targetUrl) {
-			_gaq.push([trackerName + '_trackSocial', 'facebook', 'send',
-				targetUrl, opt_pageUrl]);
-		  });
-		}
-	  } catch (e) {}
-	};
-
-
-	_ga.buildTrackerName_ = function(opt_trackerName) {
-	  return opt_trackerName ? opt_trackerName + '.' : '';
-	};
-
-
-	_ga.trackTwitter = function(opt_pageUrl, opt_trackerName) {
-	  function twitterEventHandler(event){
-		if (event) {
-		  var targetUrl; // Default value is undefined.
-		  if (event.target && event.target.nodeName == 'IFRAME') {
-			targetUrl = _ga.extractParamFromUri_(event.target.src, 'url');
-		  }
-		  _gaq.push([trackerName + '_trackSocial', 'twitter', event.type,
-			targetUrl, opt_pageUrl]);
-		}
-	  }
-	
-	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
-	  try {
-		if (twttr && twttr.events && twttr.events.bind) {
-		  twttr.events.bind('tweet', twitterEventHandler);
-		  twttr.events.bind('follow', twitterEventHandler);
-		  twttr.events.bind('unfollow', twitterEventHandler);
-		}
-	  } catch (e) {}
-	};
-
-
-	_ga.extractParamFromUri_ = function(uri, paramName) {
-	  if (!uri) {
-		return;
-	  }
-	  var uri = uri.split('#')[0];  // Remove anchor.
-	  var parts = uri.split('?');  // Check for query params.
-	  if (parts.length == 1) {
-		return;
-	  }
-	  var query = decodeURI(parts[1]);
-
-	  // Find url param.
-	  paramName += '=';
-	  var params = query.split('&');
-	  for (var i = 0, param; param = params[i]; ++i) {
-		if (param.indexOf(paramName) === 0) {
-		  return unescape(param.split('=')[1]);
-		}
-	  }
-	  return;
-	};
-	
-	// Run trackings
-	$(_ga.trackSocial);
-</script>
-
-    <link rel="stylesheet" href="/static/css/smoothness/jquery-ui.css" media="all">
-
-    <link rel="stylesheet" href="/static/css/base.css?01122014" media="all">
-    <link rel="stylesheet" href="/static/css/static.css?30032015" media="all">
-    <!--
-        -->
-        <link rel="stylesheet" href="/static/css/high.css?14032015" media="only screen and (max-width: 864px) and (min-width: 685px)">
-    <link rel="stylesheet" href="/static/css/med.css?14032015" media="only screen and (max-width: 684px) and (min-width: 479px)">
-    <link rel="stylesheet" href="/static/css/low.css?14032015" media="only screen and (max-width: 478px)">
-    
-    <!--[if lt IE 9]>
-    <link rel="stylesheet" href="/static/css/ie.css?01122014" media="all" />
-    <script src="/static/js/html5.js"></script>
-    <script src="/static/js/tab.js"></script>
-    <script src="/static/js/ie.js"></script>
-    <script src="/static/js/ie-css3.htc"></script>
-    <![endif]-->
-    <!--[if IE 7]>
-    <link rel="stylesheet" href="/static/css/ie7.css?15012015" media="all" />
-    <![endif]-->
-    <!--[if lt IE 7]>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
-    <style type="text/css">.main-header,.page{display: none;} .chromeFrameOverlayContent{width: auto;}</style>
-    <![endif]-->
-        <script>
-        var controllerName = '';
-        var site_domain = 'rt.com';
-        var datepickerUrl = '';
-    </script>
-    <script type="text/javascript" src="/st/rtplayer/jwplayer/jwplayer.js"></script>
-    <script type="text/javascript" src="/static/js/jwplayerkey.js"></script>
-    <script type="text/javascript" src="/st/swf/swfobject.js"></script>
-    <script type="text/javascript" src="/static/js/common.js?v24"></script>
-    <script type="text/javascript" src="/static/js/datepicker.js"></script>
-    <script type="text/javascript" src="/static/js/fvideo.js"></script>
-    <script type="text/javascript" src="/static/js/player.js?v1"></script>
-    <script language="JavaScript" type="text/javascript" src="/static/js/clock.js"></script>
-
-    <script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
-    
-
-<script type="text/javascript">
-googletag.cmd.push(function() {
-
-
-
-var mappingLeaderboard = googletag.sizeMapping().
-    addSize([1000, 0 ], [[728,90],[970, 90]]).
-    addSize([768, 0 ], [728,90]).
-    addSize([0, 0 ], [[300, 50], [320, 50]]).
-    build();
-    
-var mappingBox = googletag.sizeMapping().
-    addSize([1000, 0 ], [[250, 250], [300, 250]]).
-    addSize([768, 0 ], [[250, 250], [300, 250]]).
-    addSize([0, 0 ], [300, 250]).
-    build();
-    
-var mappingSkyscraper = googletag.sizeMapping().
-    addSize([1000, 0 ], [160, 600]).
-    addSize([768, 0 ], [160, 600]).
-    addSize([0, 0 ], [300, 250]).
-    build();
-    
-googletag.defineSlot('/144751494/EN_RT_Homepage', [[300, 50], [320, 50], [728, 90], [970, 90]], 'div-gpt-ad-1406118518722-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
-googletag.defineSlot('/144751494/EN_RT_Homepage', [[300, 50], [320, 50], [728, 90], [970, 90]], 'div-gpt-ad-1412691332190-3').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
-googletag.defineSlot('/144751494/EN_RT_Homepage', [[250, 250], [300, 250], [300, 250]], 'div-gpt-ad-1406118518722-1').defineSizeMapping(mappingBox).addService(googletag.pubads());
-
-
-
-googletag.defineSlot('/144751494/1x1', [1, 1], 'div-gpt-ad-1422625477597-0').addService(googletag.pubads());
-
-
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-});
-</script>    
-    <script type="text/javascript">
-    window._taboola = window._taboola || [];
-    _taboola.push({article:'auto'});
-    !function (e, f, u) {
-    e.async = 1;
-    e.src = u;
-    f.parentNode.insertBefore(e, f);
-    }(document.createElement('script'),
-    document.getElementsByTagName('script')[0],
-    'http://cdn.taboola.com/libtrc/rt-rtcom/loader.js');
-    </script>
-    
-    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    <script>
-        var _prum = [['id', '54ca2d51abe53ddb6be85738'],
-            ['mark', 'firstbyte', (new Date()).getTime()]];
-        (function () {
-            var s = document.getElementsByTagName('script')[0]
-                , p = document.createElement('script');
-            p.async = 'async';
-            p.src = '//rum-static.pingdom.net/prum.min.js';
-            s.parentNode.insertBefore(p, s);
-        })();
-    </script>
-</head>
-<body class="">
-	<script type="text/javascript">
-  (function() {
-  var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
-  em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
-  })();
-</script>
-<noscript>
-  <img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
-</noscript>
-<div class="b-main_extension">
-    <div class="b-min_width">
-        <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
-        <a class="b-main_extension_button" href="">&nbsp;</a>
-        <p class="b-main_extension_message"><i class="icon">&nbsp;</i>Keep up with the news by installing RT’s extension for <span></span>. Never miss a story with this clean and simple app that delivers the latest headlines to you.</p>
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="UTF-8">
+        <meta name="google-site-verification" content="VQLbsaWKiXW2-Vt4lP7MevnhMES537NO4fQjfGgLcbI">
+        <meta name="apple-mobile-web-app-capable" content="no">
+        <meta name="format-detection" content="telephone=yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="MobileOptimzied" content="width">
+        <meta http-equiv="cleartype" content="on">
+        <meta name="navigation" content="tabbed">
+        <title>RT privacy policy — RT</title>
+        <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/static/favicon.ico" type="image/x-icon">    
+        <link rel="apple-touch-icon" href="/static/block/touch-icon/apple-touch-icon-precomposed.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/block/touch-icon/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/block/touch-icon/apple-touch-icon-114x114-precomposed.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png">
+        <meta name="description" content="">
+        <meta property="og:site_name" content="RT International">
+        <meta property="og:locale" content="en_EN">
+    <meta property="og:title" content="RT privacy policy">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.rt.com/privacy-policy/">
+    <meta property="og:description" content="">
+        <meta property="og:image" content="https://www.rt.com/static/img/og-logo-rt.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@RT_com">
+        <meta name="twitter:creator" content="@RT_com">
+        <meta name="twitter:title" content="RT International">
+        <meta name="twitter:description" content="">
+        <meta property="twitter:image" content="">
+        <!-- rev-hash -->
+<link rel="stylesheet" href="/static/css/eng-template.min.css?v=d7fe7288d5775f92738221323773f174">
+<!-- end -->
+        <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="//tru.am/scripts/ta-pagesocial-sdk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://me-ssl.effectivemeasure.net/em.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/static/libs/jquery-1.11.2.js"><\/script>')</script><script src="/static/libs/jquery-1.11.2.js"></script>
+            <script type="text/javascript" src="//ruptly-d.openx.net/w/1.0/jstag?nc=144751494-RT"></script>
+        <script async="" type="text/javascript">
+           var googletag = googletag || {};
+           googletag.cmd = googletag.cmd || [];
+           (function() {
+             var gads = document.createElement('script');
+             gads.async = true;
+             gads.type = 'text/javascript';
+             var useSSL = 'https:' == document.location.protocol;
+             gads.src = (useSSL ? 'https:' : 'http:') +
+               '//www.googletagservices.com/tag/js/gpt.js';
+             var node = document.getElementsByTagName('script')[0];
+             node.parentNode.insertBefore(gads, node);
+           })();
+         </script>
+            
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/static/js/common.min.js?v=35e249a815ce5d0aac594485437f0526" src="/static/js/common.min.js?v=35e249a815ce5d0aac594485437f0526"></script></head>
+    <body>
+        <div class="layout">
+            <div class="offers" id="offers"><div class="app-offer">
+    <div class="app-offer__text">
+        Download the application <span class="app-offer__name">RT News</span>
     </div>
-    <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
-</div>
-
-<div class="main-header">
-    <div class="main-header-wp">
-        <div class="head-nav">
-            <ul class="lang">
-                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
-                <li><a href="//actualidad.rt.com/" target="_blank">ESP</a></li>
-                <li><a href="//russian.rt.com/" target="_blank">РУС</a></li>
-                <li><a href="http://rtdeutsch.com/" target="_blank">DE</a></li>
-                <li><a href="http://francais.rt.com/" target="_blank">FR</a></li>
-            </ul>
-            <div class="center">
-                <ul class="media">
-                    <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
-                    <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
-                    <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
-                    <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
-                </ul>
-                <div class="b-follow-us">
-    <div class="row"><a href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
-</div>                <ul class="alternative">
-                    <li class="mob-apps"><a href="/applications/" onclick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Up']);">Applications</a></li>
-                                    </ul>
+    
+        <a href="https://web.archive.org/web/20160331203525/https://play.google.com/store/apps/details?id=com.rt.mobile.english" class="app-offer__logo app-offer__logo_google-play"></a>
+   
+   
+    
+    <a href="https://web.archive.org/web/20160331203525/https://itunes.apple.com/app/rt-news-russia-today/id649316948?mt=8" class="app-offer__logo app-offer__logo_app-store"></a>
+   
+                          
+    <a href="#" class="app-offer__close_js"></a>
+</div></div>
+            <div class="layout__header" id="layout__header">
+                <div class="header" id="header">
+	<div class="header__section header__section_gray">
+		<div class="header__content">
+			<div class="header__social">
+				
+<ul class="socials">
+    <li class="socials__item">
+        <a href="//www.facebook.com/RTnews/" class="socials__link socials__link_facebook" target="_blank">facebook</a>
+    </li><li class="socials__item">
+        <a href="//twitter.com/#!/RT_com" class="socials__link socials__link_twitter" target="_blank">twitter</a>
+    </li><li class="socials__item">
+        <a href="//www.youtube.com/user/RussiaToday" class="socials__link socials__link_youtube" target="_blank">youtube</a>
+    </li><li class="socials__item">
+        <a href="//plus.google.com/102728491539958529040/posts" class="socials__link socials__link_google-plus" target="_blank">google-plus</a>
+    </li><li class="socials__item">
+        <a href="//instagram.com/rt" class="socials__link socials__link_instagram" target="_blank">instagram</a>
+    </li><li class="socials__item">
+        <a href="//soundcloud.com/rttv" class="socials__link socials__link_soundcloud" target="_blank">soundcloud</a>
+    </li><li class="socials__item">
+        <a href="//coub.com/russiatoday" class="socials__link socials__link_coub" target="_blank">coub</a>
+    </li></ul>			</div>
+			<div class="header__alternative-links">
+				<ul class="alternative-links">
+  <li class="alternative-links__item"><a href="/applications/" class="alternative-links__link">Applications</a></li>
+  <li class="alternative-links__item"><a href="/rss/" class="alternative-links__link alternative-links__link_rss" target="_blank">RSS</a></li>
+</ul>			</div>
+			<div class="header__langs">
+				<ul class="langs">
+  <li class="langs__item"><a href="//arabic.rt.com/" class="langs__link" title="RT " target="_blank">العربية</a></li><li class="langs__item"><a href="//actualidad.rt.com/" class="langs__link" title="RT " target="_blank">ESP</a></li><li class="langs__item"><a href="//russian.rt.com/" class="langs__link" title="RT " target="_blank">РУС</a></li><li class="langs__item"><a href="//deutsch.rt.com/" class="langs__link" title="RT " target="_blank">DE</a></li><li class="langs__item"><a href="//francais.rt.com/" class="langs__link" title="RT " target="_blank">FR</a></li></ul>			</div>
+			<div class="header__media-projects">
+				<ul class="media-projects">
+  <li class="media-projects__item"><a href="//inotv.rt.com/" class="media-projects__link" title="RT " target="_blank">ИНОТВ</a></li><li class="media-projects__item"><a href="//rtd.rt.com/" class="media-projects__link" title="RT " target="_blank">RTД</a></li><li class="media-projects__item"><a href="//ruptly.tv/" class="media-projects__link" title="RT " target="_blank">RUPTLY</a></li></ul>			</div>
+			<div class="clears-mh"></div>
+		</div>
+	</div>
+	<div class="header__section header__section_border-bottom_gray">
+		<div class="header__content">
+			<div class="header__logo">
+				<a href="/" class="logo">QUESTION MORE</a>			</div>
+			<div class="header__live">
+				<a href="/on-air/" class="live-button">live</a>
+			</div>
+			<div class="header__seach-form">
+				<form name="search" class="seach-form" action="/search">
+    <div class="seach-form__wrapper">
+        <span class="seach-form__wrapper-input-text seach-form__wrapper-input-text_size_small">
+            <input class="seach-form__input-text " type="text" name="q" value="" maxlength="60">
+                    </span>
+        <span class="seach-form__wrapper-input-submit">
+            <input class="seach-form__input-submit" type="submit" value="Search">
+        </span> 
+    </div>
+</form>
+				<div class="header__date">
+					<time class="date">
+	                  
+	                  03:44 GMT, Apr 14, 2016
+	            	</time>
+				</div>
+			</div>
+			<ul class="mobile-nav">
+				<li class="mobile-nav__item">
+					<a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">search</a>
+				</li><li class="mobile-nav__item">
+					<a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="header__section" id="header-nav">
+		<div class="header__content">
+                    <ul class="nav">
+  <li class="nav__item"><a class="nav__link" href="/news/">News</a></li><li class="nav__item"><a class="nav__link" href="/usa/">USA</a></li><li class="nav__item"><a class="nav__link" href="/uk/">UK</a></li><li class="nav__item"><a class="nav__link" href="/politics/">Russian politics</a></li><li class="nav__item"><a class="nav__link" href="/business/">Business</a></li><li class="nav__item"><a class="nav__link" href="/sport/">Sport</a></li><li class="nav__item"><a class="nav__link" href="/op-edge/">Op-Edge</a></li><li class="nav__item"><a class="nav__link" href="/in-vision/">In vision</a></li><li class="nav__item"><a class="nav__link" href="/in-motion/">In motion</a></li><li class="nav__item"><a class="nav__link" href="/shows/">Shows</a></li><li class="nav__item"><a class="nav__link" href="/more/">More</a></li></ul>
+		</div>
+	</div>
+</div>            </div>
+            <div class="layout__wrapper ">
+            <div class="layout__control-width ">
+                  
             </div>
-
-        </div>
-      <div class="logo">
-        <a id="showNav" class="i-mobile i-menu"></a>
-        <a id="showSearch" class="i-mobile i-search"></a>
-        <div class="rt-wrapper">
-          <a href="/on-air/" class="link-live">live</a>
-          <a href="/" class="rt-logo"><img src="/static/img/static/logo.png" alt="RT logo"></a>
-          <div class="logo_text">
-            <h2>
-              <img src="/static/img/static/question-more.png" alt="" class="pic-qm" title="">
-              <img src="/static/img/static/question-more-320.png" alt="" class="pic-qm-320" title="">
-            </h2>
-          </div>
-        </div>
-      </div>
-        <div class="search">
-            <form action="/search/everywhere/" method="get">
-                <fieldset>
-                    <legend>search</legend>
-                    <span class="icon"><input type="text" name="term" value=""><input type="submit" value=""></span>
-					<label>
-						<div id="hours">05:56 GMT, Feb 24, 2020</div>
-                   </label>
-                </fieldset>
-            </form>
-        </div>
-        <div class="mobile-search off" id="mobileSearch">
-            <form action="/search/everywhere/" method="get">
-                <fieldset>
-                    <input type="submit" value="Search">
-                    <div class="input_wrapper"><input type="search" name="term" value=""></div>
-                </fieldset>
-            </form>
-        </div>
-        <div class="main-nav">
-            <div class="button">Section</div>
-            <ul>
-                                    <li class=""><a href="/news/">News</a></li>
-                                    <li class=""><a href="/usa/">USA</a></li>
-                                    <li class=""><a href="/uk/">UK</a></li>
-                                    <li class=""><a href="/politics/">Russian politics</a></li>
-                                    <li class=""><a href="/business/">Business</a></li>
-                                    <li class=""><a href="/op-edge/">Op-Edge</a></li>
-                                    <li class=""><a href="/in-vision/">In vision</a></li>
-                                    <li class=""><a href="/in-motion/">In motion</a></li>
-                                    <li class=""><a href="/shows/">Shows</a></li>
-                                    <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
-                                    <li class=""><a href="/more/">More</a></li>
-                            </ul>
-        </div>
-    </div>
-</div>
-
-            <div class="page">
-        
-        
-    
-    <div class="content policy">
-    <ul class="crumbs">
-        <li><a href="/">Home</a> /</li>
-    </ul>
-    <div class="content-wp">
-        <div class="cont-wp-mid">
-            <h1>RT privacy policy</h1>
-        </div>
-
-        <p>When you use RT websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by RT and third parties that provide site usage statistics services to us.</p>
+            <div class="layout__breaking ">
+                
+            </div>      
+                <div class="layout__content ">
+                 
+    <div class="layout__grid">
+	    <div class="columns">
+	        <div class="columns__column static-66_high-100">
+				<div class="columns__content">
+					<div class="news-block">
+						<div class="article">
+							<div class="article__breadcrumbs">
+								<div class="breadcrumbs">
+	<a class="breadcrumbs__links" href="/">Home</a>
+</div>							</div>
+							 <h1 class="article__heading">
+							    RT privacy policy
+							</h1>
+							<div class="article__text text">
+								<p>When you use RT websites and applications, various types of personally identifiable and non-personally identifiable information about you may become available or be purposefully collected by RT and third parties that provide site usage statistics services to us.</p>
 <p>RT is committed to keeping such data confidential and does not seek to gather any personal information aside from that which allows us to provide you with a quality service, analyze the readability of our own content and functionality of our web and mobile products.</p>
 
 <h2>What information we collect</h2>
@@ -405,185 +213,57 @@ googletag.enableServices();
 
 <p>RT strives to keep your personal information from being accessed by unauthorized third parties by using reasonable means to safeguard it. However, as transfer of any kind of data over the internet is never 100 per cent secure, we cannot give you any guarantees and urge you to be cautious when disclosing sensitive information. Changes</p>
 <p>RT may update this Privacy policy periodically. We advise you to review this document from time to time. If you have any comments or enquiries you are welcome to contact us using the Feedback form.</p>
-    </div>
-</div>
-    
-        <div class="clear"></div>
-    <div class="b-mobile-view-widgets">
-        <div class="b-follow-us">
-    <div class="row"><a href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
-</div>        <div class="row b-buttons links">
-    <span><a class="where_watch" href="/where-to-watch/">Where to watch</a></span>
-    <span><a class="schedule" href="/schedule/">Schedule</a></span>
-</div>
-    </div>
-</div><!--/.page-->
 
-    <div class="main-footer">
-        <div class="main-footer-top">
-            <div class="main-footer-wp">
-                <div class="links">
-                    <div class="inner-links">
-                        <ul class="bottom-nav">
-                            <li><a href="/news/">News</a></li>
-                            <li><a href="/in-vision/">In vision</a></li>
-                            <li><a href="/usa/">USA</a></li>
-                            <li><a href="/in-motion/">In motion</a></li>
-                            <li><a href="/uk/">UK</a></li>
-                            <li><a href="/shows/">Shows</a></li>
-                            <li><a href="/politics/">Russian politics</a></li>
-                            <li><a href="/bulletin-board/">Bulletin board</a></li>
-                            <li><a href="/business/">Business</a></li>
-                            <li><a href="/more/">More</a></li>
-                            <li><a href="/op-edge/">Op-Edge</a></li>
-                        </ul>
-
-                        <div class="piece-two">
-                            <ul>
-                                <li><a href="/on-air/" title="Live">Live</a></li>
-                                <li><a href="/where-to-watch/" title="Where to watch">Where to watch</a></li>
-                                <li><a href="/schedule/" title="Schedule">Schedule</a></li>
-                            </ul>
-
-                            <ul class="support-menu">
-                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
-                                <li><a href="/privacy-policy/">Privacy policy</a></li>
-                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
-                                <li><a href="/about-us/">About us</a></li>
-                                <li><a href="/about-us/contact-info/">Contact info</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="outer-links">
-                        <dl class="apps">
-                            <dt>rt news english apps</dt>
-                            <dd><a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Android']);">Android</a></dd>
-                            <dd><a href="https://itunes.apple.com/us/app/rt-news-english/id649316948" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'iOS']);">iOS</a>
-                            </dd>
-                            <dd><a href="http://www.windowsphone.com/s?appid=1eaa6301-170d-4aeb-a8d0-815fe7dbd682" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows phone']);">Windows phone</a></dd>
-                            <dd><a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows 8']);">Windows 8</a></dd>
-                        </dl>
-                        <div class="piece-two">
-                            <ul class="langs">
-                                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
-                                <li><a href="//actualidad.rt.com/" target="_blank">Español</a></li>
-                                <li><a href="//russian.rt.com/" target="_blank">Русский</a></li>
-                                <li><a href="http://rtdeutsch.com/" target="_blank">Deutsch</a></li>
-                                <li><a href="http://francais.rt.com/" target="_blank">Français</a></li>
-                            </ul>
-                            <ul class="media">
-                                <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
-                                <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
-                                <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
-                                <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
-                            </ul>
-                            <ul class="alternative-copy">
-                                <li><a target="_blank" title="Mobile apps" href="/applications/" onclick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
-                                <li><a target="_blank" title="RSS" href="/rss/">RSS</a></li>
-                            </ul>
-                            <ul class="support-menu copy">
-                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
-                                <li><a href="/privacy-policy/">Privacy policy</a></li>
-                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
-                                <li><a href="/about-us/">About us</a></li>
-                                <li><a href="/about-us/contact-info/">Contact info</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="main-footer-ctrl">
-                    <div class="b-search">
-                        <form action="/search/everywhere/" method="get">
-                            <fieldset>
-                                <label><input type="text" name="term" value=""></label>
-                                <input type="submit" value="">
-                            </fieldset>
-                        </form>
-                    </div>
-
-                    <div class="b-icons">
-                        <ul class="alternative">
-                            <li><a title="Applications" href="/applications/" onclick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
-                            <li class="rss"><a title="RSS" href="/rss/"><span class="icon"></span>RSS</a>
-                            </li>
-                        </ul>
-                        <div class="b-follow-us">
-    <div class="row"><a href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
-</div>                    </div>
+							</div>
+						</div>
+					</div>
+				</div>
+	        </div>
+	    </div>
+	</div>
                 </div>
             </div>
+            <div class="clears-mh"></div>
+            <div class="layout__footer">
+                <div class="footer"><div class="footer__content"><div class="footer__buttons"><ul class="buttons"><li class="buttons__item"><div class="button"><a class="button__link" href="/where-to-watch/">Where to watch</a></div></li><li class="buttons__item"><div class="button"><a class="button__link" href="/schedule/">Schedule</a></div></li></ul></div><div class="footer__navs footer__navs_item_1"><ul class="footer__nav footer__nav_1"><li class="footer__nav-item"><a href="/news/" class="footer__nav-link">News</a></li><li class="footer__nav-item"><a href="/usa/" class="footer__nav-link">USA</a></li><li class="footer__nav-item"><a href="/uk/" class="footer__nav-link">UK</a></li><li class="footer__nav-item"><a href="/politics/" class="footer__nav-link">Russian politics</a></li><li class="footer__nav-item"><a href="/business/" class="footer__nav-link">Business</a></li><li class="footer__nav-item"><a href="/sport/" class="footer__nav-link">Sport</a></li><li class="footer__nav-item"><a href="/op-edge/" class="footer__nav-link">Op-Edge</a></li></ul><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a href="/in-vision/" class="footer__nav-link">In vision</a></li><li class="footer__nav-item"><a href="/in-motion/" class="footer__nav-link">In motion</a></li><li class="footer__nav-item"><a href="/shows/" class="footer__nav-link">Shows</a></li><li class="footer__nav-item"><a href="/more/" class="footer__nav-link">More</a></li></ul><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a href="/on-air/" class="footer__nav-link">Live</a></li><li class="footer__nav-item"><a href="/where-to-watch/" class="footer__nav-link">Where to watch</a></li><li class="footer__nav-item"><a href="/schedule/" class="footer__nav-link">Schedule</a></li><li class="footer__nav-item"><a href="/legal-disclaimer/" class="footer__nav-link">Legal disclaimer</a></li><li class="footer__nav-item"><a href="/privacy-policy/" class="footer__nav-link">Privacy policy</a></li><li class="footer__nav-item"><a href="mailto:feedback@rttv.ru" class="footer__nav-link">Feedback</a></li><li class="footer__nav-item"><a href="/about-us/" class="footer__nav-link">About us</a></li><li class="footer__nav-item"><a href="/about-us/contact-info/" class="footer__nav-link">Contact info</a></li></ul><ul class="footer__nav footer__nav_4"><li class="footer__nav-item">RT NEWS APP</li><li class="footer__nav-item"><a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english" class="footer__nav-link footer__nav-link_color_fff" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Android']);">Android</a></li><li class="footer__nav-item"><a href="https://itunes.apple.com/us/app/rt-news-english/id649316948" class="footer__nav-link footer__nav-link_color_fff" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'iOS']);">iOS</a></li><li class="footer__nav-item"><a href="http://www.windowsphone.com/s?appid=1eaa6301-170d-4aeb-a8d0-815fe7dbd682" class="footer__nav-link footer__nav-link_color_fff" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows phone']);">Windows phone</a></li><li class="footer__nav-item"><a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" class="footer__nav-link footer__nav-link_color_fff" target="_blank" onclick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows 8']);">Windows 8</a></li></ul><ul class="footer__nav footer__nav_5"><li class="footer__nav-item"><a href="//arabic.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">العربية</a></li><li class="footer__nav-item"><a href="//actualidad.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">Español</a></li><li class="footer__nav-item"><a href="//russian.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">Русский</a></li><li class="footer__nav-item"><a href="http://rtdeutsch.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">Deutsch</a></li><li class="footer__nav-item"><a href="//francais.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">Français</a></li><li class="footer__nav-item"><a href="//inotv.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">ИНОТВ</a></li><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">RTД</a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link footer__nav-link_color_fff" target="_blank">RUPTLY</a></li></ul></div><div class="footer__right"><div class="footer__seach-form"><form name="search" class="seach-form" action="/search"><div class="seach-form__wrapper"><span class="seach-form__wrapper-input-text seach-form__wrapper-input-text_size_small"><input class="seach-form__input-text " type="text" name="q" value="" maxlength="60"></span><span class="seach-form__wrapper-input-submit"><input class="seach-form__input-submit" type="submit" value="Searh"></span></div></form></div><ul class="footer__alternative alternative"><li class="alternative__item"><a class="alternative__link" href="/applications/" onclick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li><li class="alternative__item alternative__item_padding_left"><a class="alternative__link alternative-links__link_rss" href="/rss/">RSS</a></li></ul><div class="footer__social"><ul class="socials"><li class="socials__item"><a href="//www.facebook.com/RTnews/" class="socials__link socials__link_facebook" target="_blank">facebook</a></li><li class="socials__item"><a href="//twitter.com/#!/RT_com" class="socials__link socials__link_twitter" target="_blank">twitter</a></li><li class="socials__item"><a href="//www.youtube.com/user/RussiaToday" class="socials__link socials__link_youtube" target="_blank">youtube</a></li><li class="socials__item"><a href="//plus.google.com/102728491539958529040/posts" class="socials__link socials__link_google-plus" target="_blank">google-plus</a></li><li class="socials__item"><a href="//instagram.com/rt" class="socials__link socials__link_instagram" target="_blank">instagram</a></li><li class="socials__item"><a href="//soundcloud.com/rttv" class="socials__link socials__link_soundcloud" target="_blank">soundcloud</a></li><li class="socials__item"><a href="//coub.com/russiatoday" class="socials__link socials__link_coub" target="_blank">coub</a></li></ul></div></div></div><div class="footer__copyright"><div class="footer__content"><div class="copyright"><img class="copyright__logotip" src="/static/img/logo-bottom.png" alt="RT.com">
+                    © Autonomous Nonprofit Organization “TV-Novosti”, 2005–2016. All rights reserved.
+                </div></div></div></div>                                            </div>
         </div>
-
-        <div class="main-footer-bottom">
-            <div class="main-footer-wp">
-                <div class="copyright">
-                    <figure class="logo-bottom pic">
-                        <img src="/static/img/static/logo-bottom.png" alt="RT.com"></figure>
-                        © Autonomous Nonprofit Organization “TV-Novosti”, 2005–2015. All rights reserved.
-                                        </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="mobileNav" class="mobile-nav">
-              <ul>
-                        <li class=""><a href="/news/">News</a></li>
-                        <li class=""><a href="/usa/">USA</a></li>
-                        <li class=""><a href="/uk/">UK</a></li>
-                        <li class=""><a href="/politics/">Russian politics</a></li>
-                        <li class=""><a href="/business/">Business</a></li>
-                        <li class=""><a href="/op-edge/">Op-Edge</a></li>
-                        <li class=""><a href="/in-vision/">In vision</a></li>
-                        <li class=""><a href="/in-motion/">In motion</a></li>
-                        <li class=""><a href="/shows/">Shows</a></li>
-                        <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
-                        <li class=""><a href="/more/">More</a></li>
-                    </ul>
-      <div class="top-modal-panel"><a id="hideNav" class="i-mobile i-menu"></a></div>
-    </div>
-<!--LiveInternet counter-->
-  <script type="text/javascript">
-  new Image().src = "http://counter.yadro.ru/hit?r"+
-  escape(document.referrer)+((typeof(screen)=="undefined")?"":
-  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-  ";"+Math.random();</script>
-<!--/LiveInternet-->	<!-- Start of StatCounter Code -->
+        <div class="widget"></div>
+        <script defer="defer" async="" data-main="/static/js/common.min.js?v=35e249a815ce5d0aac594485437f0526" src="/static/js/libs/require.js"></script>
+                        
+<!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-  var sc_project=4158078;
-  var sc_invisible=1;
-  var sc_partition=54;
-  var sc_click_stat=1;
-  var sc_security="fd2686a7";
-  
-  
-</script>
-<script type="text/javascript" src="/st/js/counters/statcounter.js"></script>
-<noscript><div class="statcounter"><a title="myspace hit counter" href="http://www.statcounter.com/myspace/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4158078/0/fd2686a7/1/" alt="myspace hit counter" ></a></div></noscript>
-<!-- End of StatCounter Code -->
+var sc_project=4158078; 
+var sc_invisible=1; 
+var sc_security="fd2686a7"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="shopify
+analytics" href="https://statcounter.com/shopify/" 
+target="_blank"><img class="statcounter" 
+src="https://c.statcounter.com/4158078/0/fd2686a7/1/" 
+alt="shopify analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
 <!-- Begin comScore Tag -->
 <script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "17935924" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17935924" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" />
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" />
 </noscript>
-<!-- End comScore Tag --><!-- tns-counter.ru -->
+<!-- End comScore Tag -->
 <script type="text/javascript">
-(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_total/' + Math.round(Math.random()*1E9);
-</script>
-<noscript>
-	<img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_total/" width="1" height="1" alt="" />
-</noscript>
-<!--/ tns-counter.ru --><script type="text/javascript">
 var _sf_async_config={};
 /** CONFIGURATION START /
 _sf_async_config.uid = 55718;
@@ -603,14 +283,126 @@ var oldonload = window.onload;
 window.onload = (typeof window.onload != 'function') ?
 loadChartbeat : function() { oldonload(); loadChartbeat(); };
 })();
-</script><!-- begin of Top100 code -->
-
-<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1886286"></script>
+</script>
+<script type="text/javascript">
+  (function() {
+  var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+  em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
 <noscript>
-<img src="http://counter.rambler.ru/top100.cnt?1886286" alt="" width="1" height="1" border="0" />
-
+  <img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 </noscript>
-<!-- end of Top100 code --><script>
+<script>
+		var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5773642-2']);
+	_gaq.push(['_setDomainName', '.rt.com']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();  
+	/**********************************
+	// Social plugins
+	**********************************/
+	var _ga = _ga || {};
+	var _gaq = _gaq || [];
+
+	_ga.trackSocial = function(opt_pageUrl, opt_trackerName) {
+	  _ga.trackFacebook(opt_pageUrl, opt_trackerName);
+	  _ga.trackTwitter(opt_pageUrl, opt_trackerName);
+	};
+
+
+	_ga.trackFacebook = function(opt_pageUrl, opt_trackerName) {
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (FB && FB.Event && FB.Event.subscribe) {
+		  FB.Event.subscribe('edge.create', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'like',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('edge.remove', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'unlike',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('message.send', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'send',
+				targetUrl, opt_pageUrl]);
+		  });
+		}
+	  } catch (e) {}
+	};
+
+	_ga.buildTrackerName_ = function(opt_trackerName) {
+	  return opt_trackerName ? opt_trackerName + '.' : '';
+	};
+
+	_ga.trackTwitter = function(opt_pageUrl, opt_trackerName) {
+	  function twitterEventHandler(event){
+		if (event) {
+		  var targetUrl; // Default value is undefined.
+		  if (event.target && event.target.nodeName == 'IFRAME') {
+			targetUrl = _ga.extractParamFromUri_(event.target.src, 'url');
+		  }
+		  _gaq.push([trackerName + '_trackSocial', 'twitter', event.type,
+			targetUrl, opt_pageUrl]);
+		}
+	  }
+
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (twttr && twttr.events && twttr.events.bind) {
+		  twttr.events.bind('tweet', twitterEventHandler);
+		  twttr.events.bind('follow', twitterEventHandler);
+		  twttr.events.bind('unfollow', twitterEventHandler);
+		}
+	  } catch (e) {}
+	};
+
+	_ga.extractParamFromUri_ = function(uri, paramName) {
+	  if (!uri) {
+		return;
+	  }
+	  var uri = uri.split('#')[0];  // Remove anchor.
+	  var parts = uri.split('?');  // Check for query params.
+	  if (parts.length == 1) {
+		return;
+	  }
+	  var query = decodeURI(parts[1]);
+
+	  // Find url param.
+	  paramName += '=';
+	  var params = query.split('&');
+	  for (var i = 0, param; param = params[i]; ++i) {
+		if (param.indexOf(paramName) === 0) {
+		  return unescape(param.split('=')[1]);
+		}
+	  }
+	  return;
+	};	
+	// Run trackings
+	$(_ga.trackSocial);
+</script>
+<!--LiveInternet counter-->
+  <script type="text/javascript">
+  new Image().src = "//counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";"+Math.random();</script>
+<!--/LiveInternet-->
+<!-- tns-counter.ru -->
+<script>
+	(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_total/' + Math.round(Math.random()*1E9);	
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<script>
     (function (w, d) {
         var s1 = d.getElementsByTagName('script')[0],
             s = d.createElement('script'),
@@ -631,14 +423,36 @@ loadChartbeat : function() { oldonload(); loadChartbeat(); };
         s1.parentNode.insertBefore(s, s1);
     }(window, document));
 </script>
-
-
-    <!-- 1x1 -->
-    <div id="div-gpt-ad-1422625477597-0" style="width:1px; height:1px; position: fixed;">
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" async="" src="https://counter.rambler.ru/top100.jcn?1886286"></script>
+<noscript>
+	<img src="https://counter.rambler.ru/top100.cnt?1886286" alt="" width="1" height="1" border="0" />
+</noscript>
+<!-- end of Top100 code -->
+    <!-- Yandex.Metrika counter -->
     <script type="text/javascript">
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422625477597-0'); });
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32550500 = new Ya.Metrika({id:32550500,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
     </script>
-    </div>
-
-
+    <noscript><div><img src="//mc.yandex.ru/watch/32550500" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->  
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
