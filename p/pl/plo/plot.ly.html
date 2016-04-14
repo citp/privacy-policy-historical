@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the plot.ly privacy policy that was archived on 2015-09-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909224928id_/https%3A//plot.ly/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plot.ly privacy policy that was archived on 2016-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414061113id_/https%3A//plot.ly/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="base-generic" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     
 
 
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script>!function(w, noop){ if(!w.console) w.console = {log: noop, warn: noop}; }(window, function(){});</script>
+<script type="text/javascript" async="" src="https://tag.marinsm.com/serve/5641f73b04b7cacb9d000124.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="https://script.crazyegg.com/pages/scripts/0042/1249.js?439015" async="" type="text/javascript"></script><script id="typef_orm" src="https://s3-eu-west-1.amazonaws.com/share.typeform.com/share.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script>!function(w, noop){ if(!w.console) w.console = {log: noop, warn: noop}; }(window, function(){});</script>
 
 
 <script>if(!"classList" in document.createElement("_"))document.write("<scri"+"pt src='//plot.ly/static/js/plugins/classList.min.js'></scr"+"ipt>");</script>
@@ -25,16 +27,38 @@
 
 <script>
 
-var ENV = {"DOMAIN_WEBAPP": "plot.ly", "SOCIALAUTH_ENABLED": true, "GOOGLEANALYTICS_ACCOUNT": "UA-39373211-1", "STRIPE_PUBLISHABLE_KEY": "pk_live_55FpF4lJegP5GCKBwvCpS3ku", "DOMAIN_STREAM": "stream.plot.ly", "USE_CONTENT_DELIVERY_NETWORKS": true, "SHAREPLOT_META_TAB_ENABLED": false, "GOOGLEDRIVE_ENABLED": true, "SOCIALFEEDBACK_ENABLED": true, "BASE_URL": "https://plot.ly", "STATIC_URL": "//plot.ly/static/", "WEBSOCKET_PORT": 443, "MIXPANEL_KEY": "ad6df61d0b9400400b240631576c24d4", "GOOGLEDRIVE_DEVELOPER_KEY": "", "GOOGLEANALYTICS_ENABLED": true, "FILEWELLSEARCH_ENABLED": false, "STRIPE_ENABLED": true, "GOOGLEDRIVE_CLIENT_ID": "945982715719-kj3ie7qge4ivf1d06fs0ibdn5ss1h8u8.apps.googleusercontent.com", "SENTRY_ENABLED": true, "MIXPANEL_ENABLED": true, "WEBSOCKET_HOST": "websocket.plot.ly", "ANON_TIMEOUT": 86400, "SOCIALSHARING_ENABLED": true, "API_URL": "https://api.plot.ly", "TOPOJSON_URL": "//plot.ly/static/plotlyjs/src/geo/topojson/", "DOMAIN_API": "api.plot.ly", "SUBSCRIPTIONS_ENABLED": true, "AUTH_LDAP_ENABLED": false, "SUGGEST_LOGIN": true, "DOMAIN_IS_PLOTLY": true, "USE_LOCAL_DOCS": false, "EMAIL_TO_PLOTLY_ENABLED": true, "RAVEN_CONFIG_WEBAPP": "https://2870d6dab7694084b6fb50c177569982@app.getsentry.com/9246", "MARKETING_PAGES_ENABLED": true, "FACEBOOK_PAGE_APP_ID": "409680159121928", "BUCKETEER_ENABLED": true, "HOMEPAGE": "https://plot.ly/feed/"};
+var ENV = {"DASHBOARDSLY_CREATE_URL": "https://dashboards.ly/create", "DOMAIN_WEBAPP": "plot.ly", "SOCIALAUTH_ENABLED": true, "GOOGLEANALYTICS_ACCOUNT": "UA-39373211-1", "STRIPE_PUBLISHABLE_KEY": "pk_live_55FpF4lJegP5GCKBwvCpS3ku", "DOMAIN_STREAM": "stream.plot.ly", "USE_CONTENT_DELIVERY_NETWORKS": true, "SHAREPLOT_META_TAB_ENABLED": false, "GOOGLEDRIVE_ENABLED": true, "SOCIALFEEDBACK_ENABLED": true, "BASE_URL": "https://plot.ly", "STATIC_URL": "//plot.ly/static/", "WEBSOCKET_PORT": 443, "MIXPANEL_KEY": "ad6df61d0b9400400b240631576c24d4", "GOOGLEDRIVE_DEVELOPER_KEY": "", "GOOGLEANALYTICS_ENABLED": true, "STRIPE_ENABLED": true, "GOOGLEDRIVE_CLIENT_ID": "945982715719-kj3ie7qge4ivf1d06fs0ibdn5ss1h8u8.apps.googleusercontent.com", "SENTRY_ENABLED": true, "MIXPANEL_ENABLED": true, "USER_PASSWORD_MIN_LENGTH": 8, "WEBSOCKET_HOST": "websocket.plot.ly", "ANON_TIMEOUT": 86400, "SOCIALSHARING_ENABLED": true, "API_URL": "https://api.plot.ly", "TOPOJSON_URL": "//plot.ly/static/plotlyjs/src/geo/topojson/", "DOMAIN_API": "api.plot.ly", "PLOTLY_ONPREM_VERSION": "", "SUBSCRIPTIONS_ENABLED": true, "AUTH_LDAP_ENABLED": false, "DOMAIN_IS_PLOTLY": true, "USE_LOCAL_DOCS": false, "EMAIL_TO_PLOTLY_ENABLED": true, "RAVEN_CONFIG_WEBAPP": "https://8ad265ab1e524522a93b9678c9861392@app.getsentry.com/61730", "USER_PASSWORD_MAX_LENGTH": 128, "MARKETING_PAGES_ENABLED": true, "FACEBOOK_PAGE_APP_ID": "409680159121928", "BUCKETEER_ENABLED": true, "HOMEPAGE": "https://plot.ly/feed/", "PLOTLY_ENV": "prod", "SHOW_ALL_GRAPHS_ON_FEED": false};
 
 var PLOTLYENV = ENV;
+
+/*
+ * IMPORTANT NOTE: the user of _username, isUserSignedIn() and everything else
+ * in this file is ABSOLUTELY DEPRECATED.
+ *
+ * There is a very nasty bug wherein the `username` template variable can get
+ * set by a `username` parameter in a route defined in urls.py. This manifested
+ * on v2 profiles, where we had a `username` in the route urls.py, and it was
+ * also getting defined in context_processors.py. If context_processors.py
+ * has an undefined username (which is true if the user is not logged in),
+ * instead of `username` being undefined here, it will use the `username` from
+ * the route. (i.e., when you're logged out and visit plot.ly/~hodor,
+ * `username` will be "hodor" and NOT undefined).
+ *
+ * DO NOT RELY ON ANYTHING IN HERE. IT IS GETTING REMOVED BY THE END OF
+ * NOVEMBER 2015. ~doeg
+ *
+ * @see https://github.com/plotly/streambed/milestones/Auth%20modal%202.0
+ */
 var _username = "";
 
-// This is the canonical, unique, central, master, reference, absolute way of checking if someone is logged in.  It's available *everywhere*. Do *not* use "user" anymore
+
+// DEPRECATED
 function isUserSignedIn() {
     return (_username !== "" && typeof(_username) != 'undefined' &&
             _username !== null);
 }
+
+// DEPRECATED
 function getSignedInUsername() {
     if (!isUserSignedIn()) {
         return null;
@@ -49,27 +73,37 @@ function getSignedInUsername() {
 for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
 mixpanel.init(ENV.MIXPANEL_KEY);</script>
 
-<script type="text/javascript" src="//plot.ly/static/CACHE/js/9ea70de79af8.js"></script>
+<!-- Crazy Egg -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0042/1249.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+<script type="text/javascript" src="//plot.ly/static/CACHE/js/050aeebf7fe8.js"></script>
+
+
+
+<script type="text/javascript">
+  function plotlyAddCloudLinkAlert() {}
+</script>
+
 
         
 
 
 
     <!-- css -->
-    <link rel="stylesheet" href="//plot.ly/static/CACHE/css/252a9709442a.css" type="text/css"><link rel="stylesheet" href="//plot.ly/static/CACHE/css/bf4a488e83a1.css" type="text/css" media="all"><link rel="stylesheet" href="//plot.ly/static/CACHE/css/5f4c0df098d7.css" type="text/css">
+    <link rel="stylesheet" href="//plot.ly/static/CACHE/css/be936f1e111d.css" type="text/css"><link rel="stylesheet" href="//plot.ly/static/CACHE/css/cd8c3bb8280f.css" type="text/css" media="all"><link rel="stylesheet" href="//plot.ly/static/CACHE/css/9dccb9bc03d5.css" type="text/css">
 
 
 
 
 
-
-
-
-    <link rel="stylesheet" type="text/css" href="//plot.ly/static/plotlycss/fonts/unified/icons.css">
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:600,400,300,200|Inconsolata|Ubuntu+Mono:400,700" rel="stylesheet" type="text/css">
-    
-
-
+<link rel="stylesheet" href="//plot.ly/static/CACHE/css/6b74cbcc1f31.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="//plot.ly/static/plotlycss/fonts/unified/icons.css">
 
 
 
@@ -125,17 +159,27 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
 
 
     <script>
-        var options = {
-            ignoreErrors:["Cannot read property 'href' of null", "Object #<SVGAnimatedString> has no method 'match'"],
-            ignoreUrls:[/plot\.ly\/~flann321\/9/i]
-        };
-        Raven.config('https://2870d6dab7694084b6fb50c177569982@app.getsentry.com/9246', options).install();
+        // The only browser that doesn't implement addEventListener is IE8 & lower
+        // @see http://caniuse.com/#feat=addeventlistener
+        var isIE8AndLower = !document.addEventListener;
+
+        if (!isIE8AndLower) {
+            var options = {
+                ignoreErrors: [
+                    "Cannot read property 'href' of null",
+                    "Object #<SVGAnimatedString> has no method 'match'"
+                ],
+                ignoreUrls:[/plot\.ly\/~flann321\/9/i]
+            };
+            Raven.config('https://8ad265ab1e524522a93b9678c9861392@app.getsentry.com/61730', options).install();
+        }
     </script>
 
 
 
     
         <title>Privacy policy | plotly</title>
+        <meta name="description" content="Make charts and dashboards online from CSV or Excel data. Create interactive D3.js charts, reports, and dashboards online. API clients for R and Python.">
         <link href="/favicon.ico" rel="shortcut icon">
         <meta name="google-site-verification" content="RQedJu9gg9jKmoferbui7dZALhOVogbjQLcq-ZFaYeA">
         <meta name="p:domain_verify" content="01cb6adff6e96135d480e6d973608d44">
@@ -179,18 +223,17 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     
 
     
-<link rel="stylesheet" href="//plot.ly/static/CACHE/css/54d2c787695a.css" type="text/css">
+<link rel="stylesheet" href="//plot.ly/static/CACHE/css/440b31081e33.css" type="text/css">
 
 
 </head>
 
 <body>
     <div id="main-wrapper">
-         
-<header class="headerbar">
+         <header class="headerbar">
 
     <div class="headerbar-leftside header-spacing">
-        <a href="https://plot.ly/feed/" class="logo">
+        <a href="https://plot.ly" class="logo" target="_self">
             <i class="icon-plotlylogo"></i>
             <em>plotly</em>
         </a>
@@ -202,78 +245,111 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
 
 
 
-<div class="headerbar-rightside header-spacing">
+<div class="headerbar-rightside headerbar__rightside">
     
-    <a href="#" id="toolsignin" class="headerbar-nav-item --product-header" target="_self">Sign In</a>
-    <a class="btn +push-quarter-sides" href="#" id="signup" target="_self">FREE SIGN UP</a>
-    <a class="btn +push-quarter-sides" href="https://plot.ly/products/enterprise/get-in-touch/" target="_self">REQUEST DEMO</a>
+    <a href="#" id="toolsignin" class="headerbar-nav-item" target="_self">Sign In</a>
+    <a class="btn --enterprise-quaternary +push-quarter-sides" href="#" id="signup" target="_self">SIGN UP</a>
 
     
+    
+        <a class="btn" href="/settings/subscription/?modal=true" target="_self">UPGRADE</a>
+        <a href="https://plotly.typeform.com/to/seG7Vb" class="typeform-share btn --quarternary" data-mode="1" target="_blank" onclick="window.mixpanel.track('Typeform demo request');">REQUEST DEMO</a>
+        <script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+    
+
+    <form action="https://plot.ly/i18n/setlang/" class="+inline-block" method="post"><input type="hidden" name="csrfmiddlewaretoken" value="u6hd54FvweSIqpsGQRLKhdzhorueXQjD">
+        
+        
+        
+        
+            
+        
+            
+                <input name="language" type="hidden" value="fr-ca">
+                <input type="submit" class="headerbar-input" value="français">
+            
+        
+    </form>
 </div>
 
-<div class="headerbar-nav header-spacing">
+<div class="headerbar-nav headerbar__nav">
 
     <a href="https://plot.ly/feed/" class="link --headerbar" target="_self">
-    <span class="headerbar-nav-item --product-header ">Explore</span>
+    <span class="headerbar-nav-item ">Feed</span>
     </a>
 
-    <div class="dropdown">
-      <a id="products-nav" href="https://plot.ly/products/" class="link --headerbar dropdown-toggle" target="_self">
-          <span class="headerbar-nav-item --product-header">
-            Products
-            <span class="caret user-caret"></span></span>
-          
+    
+        <a href="/products/cloud/" class="link --headerbar" target="_self">
+            <span class="headerbar-nav-item">
+                Pricing
+            </span>
+        </a>
+    
 
-      </a>
-
-      <nav id="products-nav" role="menu" class="dropdown-menu --product-pages --atright">
-        <a href="https://plot.ly/products/cloud/" class="dropdown-menu-item --product-pages" target="_self">CLOUD</a>
-        <a href="https://plot.ly/products/desktop/" class="dropdown-menu-item --product-pages" target="_self">DESKTOP</a>
-        <a href="https://plot.ly/products/on-premise/" class="dropdown-menu-item --product-pages" target="_self">ON PREMISE</a>
-        <a href="https://plot.ly/product/plotlyjs/" class="dropdown-menu-item --product-pages" target="_self">PLOTLY.JS</a>
-        <a href="https://plot.ly/products/add-ons/" class="dropdown-menu-item --product-pages" target="_self">ADD-ONS</a>
-      </nav>
-    </div>
+    
+        <a href="http://dashboards.ly/" class="link --headerbar" target="_blank">
+            <span class="headerbar-nav-item">
+                Dashboards
+            </span>
+        </a>
+    
 
     <div class="dropdown --product-pages">
-      <a href="https://plot.ly/products/industries/" id="products-nav" class="link --headerbar dropdown-toggle" target="_self">
-        <span class="headerbar-nav-item --product-header">
-          Industries
-        <span class="caret user-caret"></span></span>
-      </a>
-      <nav id="industries-nav" role="menu" class="dropdown-menu --product-pages --atright">
-          <a href="https://plot.ly/products/industries/finance/" class="dropdown-menu-item --product-pages" target="_self">FINANCE</a>
-          <a href="https://plot.ly/products/industries/insurance/" class="dropdown-menu-item --product-pages" target="_self">INSURANCE</a>
-          <a href="https://plot.ly/products/industries/aerospace/" class="dropdown-menu-item --product-pages" target="_self">AEROSPACE</a>
-          <a href="https://plot.ly/products/industries/energy/" class="dropdown-menu-item --product-pages" target="_self">ENERGY</a>
-          <a href="https://plot.ly/products/industries/research-and-development/" class="dropdown-menu-item --product-pages" target="_self">RESEARCH &amp; DEVELOPMENT</a>
-          <a href="https://plot.ly/products/industries/automotive/" class="dropdown-menu-item --product-pages" target="_self">AUTOMOTIVE</a>
-          <a href="https://plot.ly/products/industries/government-and-public/" class="dropdown-menu-item --product-pages" target="_self">GOVERNMENT</a>
-          <a href="https://plot.ly/products/industries/pharma/" class="dropdown-menu-item --product-pages" target="_self">PHARMA &amp; COMPUTATIONAL BIOLOGY</a>
-          <a href="https://plot.ly/products/industries/journalism/" class="dropdown-menu-item --product-pages" target="_self">JOURNALISM</a>
-          <a href="https://plot.ly/products/industries/business-intelligence/" class="dropdown-menu-item --product-pages" target="_self">BUSINESS INTELLIGENCE</a>
-      </nav>
-    </div>
-
-    <div class="dropdown --product-pages">
-         <a href="https://plot.ly/api/" id="products-nav" class="link --headerbar dropdown-toggle" target="_self">
-           <span class="headerbar-nav-item --product-header">
-             API
-           <span class="caret user-caret"></span></span>
+         <a href="http://help.plot.ly/" id="products-nav" class="link --headerbar dropdown-toggle cloud-link" target="_self">
+           <span class="headerbar-nav-item">
+             Help
+          </span>
          </a>
-         <nav class="dropdown-menu --product-pages --atright">
-             <a href="http://plot.ly/python" class="dropdown-menu-item --product-pages" target="_self">PYTHON</a>
-             <a href="http://plot.ly/r" class="dropdown-menu-item --product-pages" target="_self">R</a>
-             <a href="http://plot.ly/matlab" class="dropdown-menu-item --product-pages" target="_self">MATLAB</a>
-             <a href="http://plot.ly/javascript-graphing-library" class="dropdown-menu-item --product-pages" target="_self">JAVASCRIPT</a>
-             <a href="https://plot.ly/api/" class="dropdown-menu-item --product-pages" target="_self">MORE</a>
-         </nav>
     </div>
 
 
 </div>
 
     
+
+
+    
+
+
+<div class="headerbar__mobile-nav-toggle" id="headerbarMobileNavToggle">
+    <i class="icon icon-bars"></i>
+</div>
+
+<div class="headerbar__mobile-nav" id="headerbarMobileNavMenu">
+    
+        <a href="https://plot.ly/feed/">Feed</a>
+    
+    
+        <a href="/products/cloud/">Pricing</a>
+        <a href="http://dashboards.ly/" target="_blank">Dashboards</a>
+    
+    <a href="http://help.plot.ly/">Help</a>
+
+    <hr>
+
+    
+        <a href="#" id="toolsignin">Sign In</a>
+        <a href="#" id="signup">Sign up</a>
+        
+            <a href="/settings/subscription/?modal=true">Upgrade</a>
+        
+    
+</div>
+
+<script type="text/javascript">
+    function setupMobileNav() {
+        $('#headerbarMobileNavToggle').on('click', function() {
+            $('#headerbarMobileNavMenu').toggleClass('headerbar__mobile-nav--open');
+        });
+    }
+
+    if (document.readyState != 'loading') {
+        setupMobileNav();
+    } else {
+        document.addEventListener('DOMContentLoaded', setupMobileNav);
+    }
+</script>
+
 
 </header>
  
@@ -417,9 +493,9 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     <section class="section">
         <h3 class="heading gamma limited-width push-half--bottom">Your Choices</h3>
         <div class="content-box content-box--basic limited-width">    
-            <p>You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete you profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from the Service, you may contact us at feedback@plot.ly. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.</p>
+            <p>You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete you profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from the Service, you may contact us at accounts@plot.ly. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.</p>
 
-            <p>If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at feedback@plot.ly or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.</p>
+            <p>If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at accounts@plot.ly or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.</p>
 
             <p>Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten (10) business days for us to process your request, and you may receive promotional communications from us that you have opted-out from during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.</p>
         </div>
@@ -449,7 +525,7 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
         <h3 class="heading gamma limited-width push-half--bottom">Children’s Privacy</h3>
         <div class="content-box content-box--basic limited-width">
             <p>Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Service at any time or in any manner.</p>
-            <p>If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at <a class="link--bold link--impt" href="mailto:feedback@plot.ly">feedback@plot.ly</a> and request that we delete that child’s personally identifiable information from our systems.</p>
+            <p>If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at <a class="link--bold link--impt" href="mailto:accounts@plot.ly">accounts@plot.ly</a> and request that we delete that child’s personally identifiable information from our systems.</p>
         </div>
     </section>
     <section class="section">
@@ -457,7 +533,7 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
         <div class="content-box content-box--basic limited-width">                        
             <p>We use certain physical, managerial, and technical safeguards that are designed to improve the integrity and security of your personally identifiable information. We cannot, however, ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
 
-            <p>If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at <a class="link--bold link--impt" href="mailto:feedback@plot.ly">feedback@plot.ly</a>.</p>
+            <p>If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at <a class="link--bold link--impt" href="mailto:accounts@plot.ly">accounts@plot.ly</a>.</p>
         </div>
     </section>
     <section class="section">
@@ -484,7 +560,7 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     <section class="section">
         <h3 class="heading gamma limited-width push-half--bottom">Our Contact Information</h3>
         <div class="content-box content-box--basic limited-width"> 
-            <p>Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at <a class="link--bold link--impt" href="mailto:feedback@plot.ly">feedback@plot.ly</a>.</p>
+            <p>Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at <a class="link--bold link--impt" href="mailto:accounts@plot.ly">accounts@plot.ly</a>.</p>
 
             <p>
                 Plotly, Inc<br>
@@ -512,18 +588,22 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
                 <div class="col-2">
                     <h6 class="footer-heading">API</h6>
                     <ul>
-                        <li><a class="link --muted-bold" href="https://plot.ly/api/" target="_self">Documentation</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/api/" target="_self">API Libraries</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/rest/" target="_self">REST APIs</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/javascript-graphing-library/" target="_self">Plotly.js</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/workshop/" target="_self">Hardware</a></li>
+                        
+                            <li><a class="link --muted-bold" href="https://plot.ly/api/" target="_self">API Home</a></li>
+                            <li><a class="link --muted-bold" href="https://plot.ly/python/" target="_self">Python</a></li>
+                            <li><a class="link --muted-bold" href="https://plot.ly/r/" target="_self">R</a></li>
+                            <li><a class="link --muted-bold" href="https://plot.ly/matlab/" target="_self">MATLAB</a></li>
+                            <li><a class="link --muted-bold" href="https://plot.ly/javascript-graphing-library/" target="_self">JavaScript</a></li>
+                        
                     </ul>
                 </div>
                 <div class="col-2">
                     <h6 class="footer-heading">About Us</h6>
                     <ul>
                         <li><a class="link --muted-bold" href="https://plot.ly/company/team/" target="_self">Team</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/company/careers/" target="_self">Careers</a></li>
+                        
+                            <li><a class="link --muted-bold" href="https://plot.ly/company/careers/" target="_self">Careers</a></li>
+                        
                         <li><a class="link --muted-bold" href="http://blog.plot.ly" target="_blank">Plotly Blog</a></li>
                         <li><a class="link --muted-bold" href="http://moderndata.plot.ly" target="_blank">Modern Data</a></li>
                     </ul>
@@ -531,18 +611,19 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
                 <div class="col-2">
                     <h6 class="footer-heading">Help</h6>
                     <ul>
-                        <li><a class="link --muted-bold" href="http://help.plot.ly" target="_self">Knowledge Base</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/benchmarks/" target="_self">Benchmarks</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/workshop/" target="_self">Workshop</a></li>
+                        <li><a class="link --muted-bold cloud-link" href="https://plot.ly/tableau-alternative/" target="_self">Plotly vs Tableau</a></li>
+                        <li><a class="link --muted-bold cloud-link" href="https://plot.ly/highcharts-alternative/" target="_self">Plotly.js vs Highcharts</a></li>
+                        <li><a class="link --muted-bold cloud-link" href="https://plot.ly/dashboards/" target="_blank">Dashboard Examples</a></li>
+                        <li><a class="link --muted-bold cloud-link" href="http://help.plot.ly" target="_self">Help Center</a></li>
                     </ul>
                 </div>
                 <div class="col-2">
-                    <h6 class="footer-heading">Solutions</h6>
+                    <h6 class="footer-heading">Use Cases</h6>
                     <ul>
-                        <li><a class="link --muted-bold" href="https://plot.ly/products/cloud/" target="_self">Plans &amp; Pricing</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/products/on-premise/" target="_self">Enterprise</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/education/" target="_self">Education</a></li>
-                        <li><a class="link --muted-bold" href="https://plot.ly/product/plotlyjs/" target="_self">Plotly.js</a></li>
+                            <li><a class="link --muted-bold cloud-link" href="https://plot.ly/products/industries/" target="_self">By Industry</a></li>
+                            <li><a class="link --muted-bold" href="https://images.plot.ly/uses-cases/Excel+Reporting.pdf" target="_self">Excel Reporting</a></li>
+                            <li><a class="link --muted-bold" href="https://images.plot.ly/uses-cases/Plotly+for+Dashboards.pdf" target="_self">Plotly for Dashboards</a></li>
+                            <li><a class="link --muted-bold" href="https://images.plot.ly/uses-cases/Ad+Hoc+Analysis.pdf" target="_self">Ad Hoc Analysis</a></li>
                     </ul>
                 </div>
                 <div class="col-3">
@@ -748,6 +829,7 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
         </div>
     </div>
 </div>
+
 
 <!-- feedback modal -->
 
@@ -992,18 +1074,18 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
             <div class="modal__block modal__block--inner text--center">
                 <div class="radio__option--horiz download-format">
                     <input id="download-format-png" class="radio__btn" type="radio" name="download-format" value="png" checked="checked">
-                    <label class="radio__label" for="download-format-png">PNG</label>
+                    <label class="radio__label " for="download-format-png">PNG</label>
                 </div>
-                <div class="radio__option--horiz download-format">
-                    <input id="download-format-pdf" class="radio__btn" type="radio" name="download-format" value="pdf">
+                <div class="radio__option--horiz download-format muted">
+                    <input id="download-format-pdf" class="radio__btn" type="radio" name="download-format" value="pdf" disabled="true">
                     <label class="radio__label" for="download-format-pdf">PDF</label>
                 </div>
-                <div class="radio__option--horiz download-format">
-                    <input id="download-format-svg" class="radio__btn" type="radio" name="download-format" value="svg">
+                <div class="radio__option--horiz download-format muted">
+                    <input id="download-format-svg" class="radio__btn" type="radio" name="download-format" value="svg" disabled="true">
                     <label class="radio__label" for="download-format-svg">SVG</label>
                 </div>
-                <div class="radio__option--horiz download-format">
-                    <input id="download-format-eps" class="radio__btn" type="radio" name="download-format" value="eps">
+                <div class="radio__option--horiz download-format muted">
+                    <input id="download-format-eps" class="radio__btn" type="radio" name="download-format" value="eps" disabled="true">
                     <label class="radio__label" for="download-format-eps">EPS</label>
                 </div>
             </div>
@@ -1072,10 +1154,10 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     </div> <!-- end modal body -->
 
     <div class="modal__footer text--center">
-        <a href="#" class="btn btn--med btn--cta btn--primary catch-return" onclick="graphExport(); return false;" data-dismiss="modal">
+        <a href="#" class="btn btn--med btn--cta btn--primary catch-return" onclick="Sharing.graphExport(); return false;" data-dismiss="modal">
             Download
         </a>
-        <!-- <button type="button" class="btn btn--med btn--cta" onclick="sendToDrive()">Export to Drive</button> -->
+        <!-- <button type="button" class="btn btn--med btn--cta" onclick="Sharing.sendToDrive()">Export to Drive</button> -->
     </div>
 </div> <!-- end export modal -->
 
@@ -1164,10 +1246,10 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     <button type="button" class="close" data-dismiss="modal">×</button>
     <div class="modal__body push--bottom">
         <div class="modal__block modal__block--inner">
-            
-                <p>Please upgrade to <a href="https://plot.ly/product/enterprise/" class="link link--impt">Plotly Enterprise</a> to automatically import server data.</p>
-                <p>You can also import database data into Plotly with Python, MATLAB, or R - see our tutorials on <a href="http://moderndata.plot.ly/" target"_blank"="" class="link link--impt">Modern Data</a>.</p>
-            
+            <img src="//plot.ly/static/img/alation-logo.png" style="max-width: 200px;">
+            <p>Plotly connects to SQL databases through our partnership with <a href="https://alation.com/" target="_blank" class="link link--impt">Alation</a>.</p>
+            <p>Plotly's integration with <a href="https://alation.com/" target="_blank" class="link link--impt">Alation</a> increases analyst productivity by helping analysts to more quickly find, understand and query data stored in relational databases, Hadoop files or BI semantic layers. Alation delivers the industry's first data catalog built for collaboration. Visit the Alation <a href="https://alation.com/customers" target="_blank" class="link link--impt">Alation</a> to learn more.</p>
+            <p>You can also import database data into Plotly with Python or R - see our tutorials on <a href="http://moderndata.plot.ly/category/mysql/" target="_blank" class="link link--impt">Modern Data</a>.</p>
         </div>
     </div>
 </div>
@@ -1227,490 +1309,15 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
     </div>
 </script>
 
-        
-
-
-<div id="postSignupModal" class="modal modal--big modal-fixed--height hide fade grid" style="background-color:#f3f3f3">
-
-
-    <section id="thanks" style="max-height:600px; min-height:600px;">
-        <button type="button" class="close" data-dismiss="modal">×</button>
-        <div class="modal__header">
-            <h4 class="beta heading">
-                Hey there!
-            </h4>
-        </div>
-
-        <div class="modal__body">
-
-
-            <div style="width:100%" class="push-half--bottom">
-                <img class="" style="display:block; margin-left: auto; margin-right: auto" height="370" src="//plot.ly/static/img/tour/tour-bars.svg">
-
-
-                <h4 class="heading delta">
-                Thanks for signing up.<br>
-                There's a lot you can do with Plotly! Let us show you around.
-                </h4>
-
-            </div>
-        </div>
-
-        <div class="modal__footer text--right">
-            <a target="#" class="btn btn--small --small --secondary btn--cta2" data-dismiss="modal">Close</a>
-            <a next-section="#startTour" offset="0" class="btn btn--small --small btn--cta tour-cont-js">Start the tour!</a>
-        </div>
-
-    </section>
-
-
-    <section id="startTour" style="max-height:600px; min-height:600px;">
-    <button type="button" class="close" data-dismiss="modal">×</button>
-
-        <div class="modal__header">
-            <h4 class="beta heading">
-            Explore Plotly
-            </h4>
-        </div>
-
-        <div class="modal__body">
-            <div class="grid">
-
-                <div class="grid__item one-half">
-                <img class="content-box--img +push-bottom-quarter" src="//plot.ly/static/img/tour/tour-workspace.png">
-                </div><!--
-                --><div class="grid__item one-half">
-                    <h4 class="delta heading text--left">Want to jump right in and make a plot?</h4>
-                    Go to the <a href="https://plot.ly/plot" target="_self" class="link link--impt epsilon">workspace</a><br>
-                </div>
-
-                <div class="grid__item one-half">
-                <img class="content-box--img +push-bottom-quarter" src="//plot.ly/static/img/tour/tour-learn.png">
-                </div><!--
-                --><div class="grid__item one-half">
-                    <h4 class="delta heading text--left">Tutorials and educational resources</h4>
-                    Go to the <a href="http://help.plot.ly" target="_self" class="link link--impt epsilon">Learn page</a><br>
-                </div>
-
-                <div class="grid__item one-half">
-                <img class="content-box--img +push-bottom-quarter" src="//plot.ly/static/img/tour/tour-feed2.png">
-                </div><!--
-                --><div class="grid__item one-half">
-                    <h4 class="delta heading text--left">The Plotly community</h4>
-                    Check out the Plotly <a href="https://plot.ly/feed/" target="_self" class="link link--impt epsilon">feed</a><br>
-                </div>
-
-                <div class="grid__item one-half">
-                <img class="content-box--img +push-bottom-quarter" src="//plot.ly/static/img/tour/tour-api.png">
-                </div><!--
-                --><div class="grid__item one-half">
-                    <h4 class="delta heading text--left">Programmer? We've got you covered.</h4>
-                    See our <a href="https://plot.ly/api/" target="_self" class="link link--impt epsilon">API libraries</a><br>
-                </div>
-
-                <div class="grid__item one-half">
-                <img class="content-box--img +push-bottom-quarter" src="//plot.ly/static/img/tour/tour-workshop.png">
-                </div><!--
-                --><div class="grid__item one-half">
-                    <h4 class="delta heading text--left">Ready to build something?</h4>
-                    Go to the <a href="https://plot.ly/workshop/" target="_self" class="link link--impt epsilon">workshop</a><br>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="modal__footer text--right">
-            <a target="#" class="btn btn--small --small --secondary btn--cta2" data-dismiss="modal">Close</a>
-            <a next-section="#workspaceTour" offset="1" class="btn btn--small --small btn--cta tour-cont-js">Continue the tour</a>
-        </div>
-
-    </section>
-
-    <section id="workspaceTour" style="max-height:600px; min-height:600px;">
-    <button type="button" class="close" data-dismiss="modal">×</button>
-        <div class="modal__header soft-half--bottom">
-            <h4 class="beta heading">
-                Workspace
-            </h4>
-        </div>
-
-        <div class="modal__body">
-            <div>
-                <div class="content-box content-box--basic push--bottom">
-                <p>Easily make graphs with your data in the workspace. Import data from <b>Google Drive</b> or upload <b>Excel</b> or <b>text</b> files. You can apply fits, stats, and functions to your data.</p>
-
-                <p>Every element of a Plotly graph is customizable. Change the colors, annotate, write LaTeX, toggle graph ticks, and much more. It's up to you!</p>
-                </div>
-
-                <div class="grid grid--full">
-                    <div class="grid__item one-whole">
-                        <img class="content-box--img" width="850" height="275" src="//plot.ly/static/img/tour/tour-workspace2.png">
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-        <div class="modal__footer text--right">
-            <a href="/plot" target="_self" class="btn btn--small --small --secondary btn--cta2">Take me to the workspace</a>
-            <a next-section="#learnTour" offset="2" class="btn btn--small --small btn--cta tour-cont-js">Continue the tour</a>
-        </div>
-    </section>
-
-    <section id="learnTour" style="max-height:600px; min-height:600px;">
-    <button type="button" class="close" data-dismiss="modal">×</button>
-        <div class="modal__header">
-            <h4 class="beta heading">
-                Learn
-            </h4>
-        </div>
-
-        <div class="modal__body">
-            <div class="content-box content-box--basic push--bottom">
-            <p>
-                Need to make a line of best fit? Don't know how to make a bar chart? No problem! Plotly has extensive resources to help you learn. Below are a few links to some of the more popular tutorials featured on our <a href="http://help.plot.ly" class="link link--impt">learn page</a>.
-            </p>
-            </div>
-
-        <div class="grid">
-            <div class="push--bottom">
-            <div class="grid__item one-half">
-                <div class="content-box content-box--basic">
-
-                    <h4 class="heading delta text--left push-half--bottom">
-                        Getting Started
-                    </h4>
-
-                    <ul class="nav nav--stacked flush">
-                        <li>
-                            <a href="/add-data-to-the-plotly-grid/" target="_blank" class="link link--impt">
-                            Adding data to a grid
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/embed/" target="_blank" class="link link--impt">
-                            Share and embedding a graph
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/share-print/" target="_blank" class="link link--impt">
-                            Printing a graph
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div><!--
-
-            --><div class="grid__item one-half">
-                <div class="content-box content-box--basic">
-
-                    <h4 class="heading delta text--left push-half--bottom">
-                        Visual learner? We've got videos!
-                    </h4>
-
-                    <ul class="nav nav--stacked flush">
-                        <li>
-                            <a href="http://vimeo.com/98159668" target="_blank" class="link link--impt">
-                            Creating your first graph
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://vimeo.com/94000688" target="_blank" class="link link--impt">
-                            Styling a graph
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://vimeo.com/94003080" target="_blank" class="link link--impt">
-                            Sharing and collaboration
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            </div>
-
-            <div class="push--bottom">
-            <div class="grid__item one-whole">
-                <div class="content-box content-box--basic push--bottom">
-
-                    <h4 class="heading delta text--center push-half--bottom">
-                        Chart Tutorials
-                    </h4>
-
-
-                    <div class="grid__item one-fifth">
-                    <ul class="nav nav--stacked flush">
-                        <li><a class="link link--impt" target="_blank" href="https://plot.ly/how-to-create-a-line-of-best-fits/">
-                        <i class="ploticon-plot_fit soft-half--right"></i>Line of best fit
-                        </a></li>
-
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-line-graph-and-scatter-plot/">
-                        <i class="ploticon-plot_line soft-half--right"></i>Line &amp; scatter
-                        </a></li>
-                    </ul>
-                    </div><!--
-
-                    --><div class="grid__item one-fifth">
-                    <ul class="nav nav--stacked flush">
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-bar-chart-online/">
-                        <i class="ploticon-plot_bar soft-half--right"></i>Bar charts
-                        </a></li>
-
-                        <li><a class="link link--impt" target="_blank" href="/area-chart-tutorial/">
-                        <i class="ploticon-plot_area soft-half--right"></i>Area charts
-                        </a></li>
-                    </ul>
-                    </div><!--
-
-                    --><div class="grid__item one-fifth">
-                    <ul class="nav nav--stacked flush">
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-histogram-online/">
-                        <i class="ploticon-plot_hist soft-half--right"></i>Histograms
-                        </a></li>
-
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-box-plot-online/">
-                        <i class="ploticon-plot_box soft-half--right"></i>Box plots
-                        </a></li>
-                    </ul>
-                    </div><!--
-
-                    --><div class="grid__item one-fifth">
-                    <ul class="nav nav--stacked flush">
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-bubble-chart-online/">
-                        <i class="ploticon-plot_scatter soft-half--right"></i>Bubble charts
-                        </a></li>
-
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-heatmap-online/">
-                        <i class="ploticon-plot_heatmap soft-half--right"></i>Heatmaps
-                        </a></li>
-                    </ul>
-                    </div><!--
-
-                    --><div class="grid__item one-fifth">
-                    <ul class="nav nav--stacked flush">
-                        <li><a class="link link--impt" target="_blank" href="/how-to-make-a-graph-with-error-bars/">
-                        <i class="ploticon-plot_error_bars soft-half--right"></i>Error bars
-                        </a></li>
-
-                        <li><a class="link link--impt" target="_blank" href="/multiple-axes-tutorial/">
-                        <i class="ploticon-axes" style="padding: 0 13px 0 5px;"></i>Multiple axes
-                        </a></li>
-                    </ul>
-                    </div>
-
-                </div>
-
-            </div>
-            </div>
-
-        </div>
-        </div>
-
-        <div class="modal__footer text--right">
-            <a href="http://help.plot.ly" target="_self" class="btn btn--small --small --secondary btn--cta2">Take me to the Learn page</a>
-            <a next-section="#apiTour" offset="3" class="btn btn--small --small btn--cta tour-cont-js">Continue the tour</a>
-        </div>
-
-    </section>
-
-    <section id="apiTour" style="max-height:600px; min-height:600px;">
-        <button type="button" class="close" data-dismiss="modal">×</button>
-        <div class="modal__header">
-            <h4 class="beta heading">
-                Plotly API
-            </h4>
-        </div>
-
-        <div class="modal__body">
-
-            <div class="grid">
-
-                <div class="grid__item one-half">
-                    <div class="content-box content-box--basic push--bottom">
-                        <h4 class="heading delta text--left push-half--bottom">
-                        Do you create your graphs using code?
-                        </h4>
-
-                        <p class="push--bottom">
-                        We've written graphing libraries for our favourite programming languages.
-                        </p>
-
-                        <h5 class="heading epsilon text--left push-half--bottom">Documentation and user-guides:</h5>
-                        <ul class="nav nav--stacked flush">
-                            <a href="/python/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">Python</button>
-                            </a>
-                            <a href="/MATLAB/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">MATLAB</button>
-                            </a>
-                            <a href="/r/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">R</button>
-                            </a>
-                            <a href="/julia/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">Julia</button>
-                            </a>
-                            <a href="/node/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">node.js</button>
-                            </a>
-                            <a href="/arduino/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">Arduino</button>
-                            </a>
-                        </ul>
-
-                    </div>
-
-                    <div>
-                    <div class="content-box content-box--basic">
-                        <h4 class="heading delta text--left push-half--bottom">
-                        Real-Time Graphing
-                        </h4>
-                        <p>
-                        Plotly graphs can update in real-time, making them great for data-logging, instrumentation and monitoring applications.
-                        </p>
-                        <p>
-                        Check out our tutorials for
-                        <a href="/python/streaming" target="_blank" class="link link--impt">Python</a>,
-                        <a href="/matlab/streaming-tutorial" target="_blank" class="link link--impt">MATLAB</a>,
-                        <a href="https://github.com/plotly/plotly-nodejs" target="_blank" class="link link--impt">node.js</a>,
-                        and <a href="https://github.com/plotly/arduino-api" target="_blank" class="link link--impt">Arduino</a>!
-                        Or, roll your own streaming library with our
-                        <a href="/streaming/" target="_blank" class="link link--impt">API spec</a>.
-                        </p>
-                    </div>
-                    </div>
-
-                </div><!--
-
-                --><div class="grid__item one-half">
-                    <div class="content-box content-box--basic push--bottom">
-                        <h4 class="heading delta text--left push-half--bottom">
-                        Figure Converters
-                        </h4>
-                        <p>
-                           Do you make your graphs with <b>MATLAB</b>, <b>ggplot2</b>, <b>Igor Pro</b>, or <b>matplotlib</b>? Great!
-                        </p>
-
-                        <p class="push-half--bottom">
-                        Convert your figures into interactive, online Plotly graphs with our figure converters.
-                        </p>
-                        <br>
-
-                        <ul class="nav nav--stacked flush">
-                            <a href="/matplotlib/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">matplotlib</button>
-                            </a>
-                            <a href="/MATLAB/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">MATLAB</button>
-                            </a>
-                            <a href="/ggplot2/" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">ggplot2</button>
-                            </a>
-                            <a href="https://github.com/plotly/Igor-Pro-Graph-Converter" target="_blank" class="link link--impt">
-                            <button class="btn btn--small --small btn--cta">Igor Pro</button>
-                            </a>
-                        </ul>
-
-                    </div>
-
-                    <div>
-                    <div class="content-box content-box--basic">
-                        <h4 class="heading delta text--left push-half--bottom">
-                        Want to roll your own library?
-                        </h4>
-                        <p>
-                        Check out our <a href="/rest/" target="_blank" class="link link--impt">REST API</a>!
-                        </p>
-                    </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="modal__footer text--right soft-half--top">
-            <a href="https://plot.ly/api/" target="_self" class="btn btn--small --small --secondary btn--cta2">Take me to the API documentation</a>
-            <a next-section="#workshopTour" offset="4" class="btn btn--small --small btn--cta tour-cont-js">Continue the tour</a>
-        </div>
-
-    </section>
-
-    <section id="workshopTour" style="max-height:600px; min-height:600px;">
-        <button type="button" class="close" data-dismiss="modal">×</button>
-        <div class="modal__header">
-            <h4 class="beta heading">
-                Workshop
-            </h4>
-        </div>
-
-        <div class="modal__body">
-
-            <div class="push--bottom">
-            <h4 class="heading delta text--center push-half--bottom">
-            Hook up hardware and sensors to Plotly for real-time graphing and data logging.
-            </h4>
-            </div>
-
-            <div class="content-box content-box--basic push--bottom">
-                <div class="grid">
-                <div class="push--bottom">
-                    <div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-dht22-temperature.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-light-sensor.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_electric-imp-photoresistor.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_raspberry-pi-basics.jpg">
-                    </div>
-                </div>
-                </div>
-
-                <div class="grid">
-                <div class="">
-                    <div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-uv-sensor.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-water-flow.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-air-quality.jpg">
-                    </div><!--
-
-                    --><div class="grid__item one-quarter">
-                    <img class="content-box--img" alt="" src="//plot.ly/static/img/workshop/gallery_thumb_arduino-photoresistor.jpg">
-                    </div>
-                </div>
-                </div>
-            </div>
-
-        </div><br><br>
-
-        <div class="modal__footer text--right">
-            <a href="https://plot.ly/workshop/" target="_self" class="btn btn--small --small --secondary btn--cta2">Take me to the workshop</a>
-            <a next-section="#startTour" offset="0" class="btn btn--small --small btn--cta tour-cont-js">Restart tour</a>
-        </div>
-
-    </section>
-
-</div>
-
     
 
     
         <!-- The bare minimum imports to provide sign-in from all pages -->
 
 
-<script type="text/javascript" src="//plot.ly/static/js/plugins/d3.v3.min.js"></script>
-<script type="text/javascript" src="//plot.ly/static/CACHE/js/1f009d7b8251.js"></script>
+
+<script type="text/javascript" src="//plot.ly/static/CACHE/js/27441264e4ea.js"></script>
+
 <script type="text/javascript" src="//plot.ly/static/js/plugins/bootstrap.min.js"></script>
 <script type="text/javascript" src="//plot.ly/static/js/plugins/bootstrapx-clickover.js"></script>
 
@@ -1747,6 +1354,46 @@ mixpanel.init(ENV.MIXPANEL_KEY);</script>
 </script>
  
 
+    
+
+
+    <!-- auth modal v2 -->
+    
+      <div id="auth-modal-root"></div>
+
+      
+    
+
+
+    
+
+        <!-- Facebook Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '1525427597770923');
+        fbq('track', "PageView");</script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1525427597770923&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Facebook Pixel Code -->
+
+        <!-- Perfect Audience -->
+        <script type="text/javascript">
+            (function() {
+              window._pa = window._pa || {};
+              var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+              pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/5641f73b04b7cacb9d000124.js";
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+            })();
+        </script>
+
+        <!-- intercom.io -->
+        
     
 
 
