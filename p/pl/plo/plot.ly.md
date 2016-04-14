@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909224928id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414061113id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
 
 # Privacy policy | plotly
 
@@ -54,7 +54,7 @@ We rely on best practices and extensive testing, both internally and externally-
 
 We perform automated secure code reviews against the entire code base and correct issues prior to our releases. We continually test our applications, and monitor logs for exceptions and errors and remedy any irregularities. We perform a secure architecture design review for the applications provided. Our developers receive software security training (such as OWASP Top 1). Passwords are encrypted with PBKDF2.
 
-The Plotly Cloud product and Plotly Enterprise product allow users to make a plot public, private, or secret. A public plot is accessible to other users on the web. Other users have the ability to fork their own version of a public plot, but cannot modify the original plot. A private plot can only be accessed by a logged-in user with whom the plot is shared. A secret plot has a shared key associated with the plot and plot URL. Only a user with the specific URL can access the plot. Secret plots can be embedded in other apps and websites and will only be accessible to an individual browsing that page. Users can share plots and files with other users to collaborate. Permission to edit and collaborate can also be revoked. For more information on sharing and permissions, see our privacy pages for [R](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/r/privacy/%E2%80%9C), [Python](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/python/privacy/%E2%80%9C), [MATLAB](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/MATLAB/privacy/%E2%80%9C), and [Plotly Cloud](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttp://help.plot.ly/how-sharing-works-in-plotly/%E2%80%9C).
+The Plotly Cloud product and Plotly Enterprise product allow users to make a plot public, private, or secret. A public plot is accessible to other users on the web. Other users have the ability to fork their own version of a public plot, but cannot modify the original plot. A private plot can only be accessed by a logged-in user with whom the plot is shared. A secret plot has a shared key associated with the plot and plot URL. Only a user with the specific URL can access the plot. Secret plots can be embedded in other apps and websites and will only be accessible to an individual browsing that page. Users can share plots and files with other users to collaborate. Permission to edit and collaborate can also be revoked. For more information on sharing and permissions, see our privacy pages for [R](https://web.archive.org/web/20160414061113id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/r/privacy/%E2%80%9C), [Python](https://web.archive.org/web/20160414061113id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/python/privacy/%E2%80%9C), [MATLAB](https://web.archive.org/web/20160414061113id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/MATLAB/privacy/%E2%80%9C), and [Plotly Cloud](https://web.archive.org/web/20160414061113id_/https://plot.ly/privacy/%E2%80%9Chttp://help.plot.ly/how-sharing-works-in-plotly/%E2%80%9C).
 
 An organizational account on Plotly cloud has an administrator who can add and remove users. Plotly Enterprise supports LDAP.
 
@@ -89,9 +89,9 @@ Except as described in this Policy, we will not disclose your information that w
 
 ### Your Choices
 
-You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete you profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from the Service, you may contact us at feedback@plot.ly. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
+You may, of course, decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of the Service. You may update, correct, or delete you profile information and preferences at any time by accessing your account preferences page on the Service. If you wish to access or amend any other personal information we hold about you, or to request that we delete any information about you that we have obtained from the Service, you may contact us at accounts@plot.ly. Please note that while any changes you make will be reflected in active user databases instantly or within a reasonable period of time, we may retain all information you submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where we otherwise reasonably believe that we have a legitimate reason to do so.
 
-If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at feedback@plot.ly or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.
+If you receive commercial email from us, you may unsubscribe at any time by following the instructions contained within the email. You may also opt-out from receiving commercial email from us, and any other promotional communications that we may send to you from time to time, by sending your request to us by email at accounts@plot.ly or by writing to us at the address given at the end of this policy. We may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us in user account functionality on the Service.
 
 Please be aware that if you opt-out of receiving commercial email from us or otherwise modify the nature or frequency of promotional communications you receive from us, it may take up to ten (10) business days for us to process your request, and you may receive promotional communications from us that you have opted-out from during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service.
 
@@ -117,13 +117,13 @@ We are not responsible for the content or privacy and security practices and pol
 
 Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Service at any time or in any manner.
 
-If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at [feedback@plot.ly](mailto:feedback@plot.ly) and request that we delete that child’s personally identifiable information from our systems.
+If we learn that personally identifiable information has been collected on the Service from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at [accounts@plot.ly](mailto:accounts@plot.ly) and request that we delete that child’s personally identifiable information from our systems.
 
 ### Data Security
 
 We use certain physical, managerial, and technical safeguards that are designed to improve the integrity and security of your personally identifiable information. We cannot, however, ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [feedback@plot.ly](mailto:feedback@plot.ly).
+If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. We may post a notice through the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [accounts@plot.ly](mailto:accounts@plot.ly).
 
 ### Privacy Settings
 
@@ -145,71 +145,9 @@ For example, we may send a message to your email address, if we have one on file
 
 ### Our Contact Information
 
-Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [feedback@plot.ly](mailto:feedback@plot.ly).
+Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [accounts@plot.ly](mailto:accounts@plot.ly).
 
 Plotly, Inc  
 5555 avenue de Gaspé, Suite 201  
 Montréal, Québec H2T 2A3  
 Canada 
-
-####  Thanks for signing up.  
-There's a lot you can do with Plotly! Let us show you around. 
-
-#### Want to jump right in and make a plot?
-
-Go to the [workspace](https://plot.ly/plot)  
-
-
-#### Tutorials and educational resources
-
-Go to the [Learn page](http://help.plot.ly/)  
-
-
-#### The Plotly community
-
-Check out the Plotly [feed](https://plot.ly/feed/)  
-
-
-#### Ready to build something?
-
-Go to the [workshop](https://plot.ly/workshop/)  
-
-
-Easily make graphs with your data in the workspace. Import data from **Google Drive** or upload **Excel** or **text** files. You can apply fits, stats, and functions to your data.
-
-Every element of a Plotly graph is customizable. Change the colors, annotate, write LaTeX, toggle graph ticks, and much more. It's up to you!
-
-Need to make a line of best fit? Don't know how to make a bar chart? No problem! Plotly has extensive resources to help you learn. Below are a few links to some of the more popular tutorials featured on our [learn page](http://help.plot.ly/). 
-
-####  Do you create your graphs using code? 
-
-We've written graphing libraries for our favourite programming languages. 
-
-##### Documentation and user-guides:
-
-[ ](https://web.archive.org/python/) [ ](https://web.archive.org/MATLAB/) [ ](https://web.archive.org/r/) [ ](https://web.archive.org/julia/) [ ](https://web.archive.org/node/) [ ](https://web.archive.org/arduino/) 
-
-
-####  Real-Time Graphing 
-
-Plotly graphs can update in real-time, making them great for data-logging, instrumentation and monitoring applications. 
-
-Check out our tutorials for [Python](https://web.archive.org/python/streaming), [MATLAB](https://web.archive.org/matlab/streaming-tutorial), [node.js](https://github.com/plotly/plotly-nodejs), and [Arduino](https://github.com/plotly/arduino-api)! Or, roll your own streaming library with our [API spec](https://web.archive.org/streaming/). 
-
-####  Figure Converters 
-
-Do you make your graphs with **MATLAB** , **ggplot2** , **Igor Pro** , or **matplotlib**? Great! 
-
-Convert your figures into interactive, online Plotly graphs with our figure converters. 
-
-  
-
-
-[ ](https://web.archive.org/matplotlib/) [ ](https://web.archive.org/MATLAB/) [ ](https://web.archive.org/ggplot2/) [ ](https://github.com/plotly/Igor-Pro-Graph-Converter) 
-
-
-####  Want to roll your own library? 
-
-Check out our [REST API](https://web.archive.org/rest/)! 
-
-####  Hook up hardware and sensors to Plotly for real-time graphing and data logging. 
