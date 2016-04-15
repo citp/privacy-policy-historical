@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095439id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamhost.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415171358id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DreamHost
 
@@ -34,6 +34,6 @@ Please note that the contact information that you provide to us is used to [regi
 
 DreamHost's Whois Privacy, which masks your whois contact information via proxy, does not act as a shield from legal liability in conjunction with Domain Registration. In order to preserve neutrality in disputes between 3rd parties and domain registrants, DreamHost will act in accordance with ICANN's Registrar Accreditation Agreement Section 3.7.7.3, and will provide identifying information to third parties upon receipt of "reasonable evidence of actionable harm."
 
-#### Lucky Orange Web Analytics Service
+#### Crazy Egg Web Analytics Service
 
-This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>.
+This site uses the Crazy Egg analytics system to help improve usability and the customer experience. Crazy Egg may record mouse clicks, mouse movements and scrolling activity. Crazy Egg may record keystroke information that you voluntarily enter on this website. Crazy Egg does not track this activity on any site that does not use the Crazy Egg system. You can choose to disable the Crazy Egg Service at <https://www.crazyegg.com/opt-out>.
