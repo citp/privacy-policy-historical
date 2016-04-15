@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntube69.net privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110075641id_/http%3A//www.porntube69.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntube69.net privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415232244id_/http%3A//www.porntube69.net/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ We analyze aggregated user traffic information to help streamline our marketing 
 
 **Disclosure of Information.**
 
-if under duty to do so PornTube69.net may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornTube69.net or our subscribers or others.   
+if under duty to do so PornTube69.net may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornTube69.net or our subscribers or others.  
 This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is PornTube69.net's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.  
 Should you deliberately upload any illegal material PornTube69.net shall forward all available information to all relevant authorities and this without notice.  
 We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
