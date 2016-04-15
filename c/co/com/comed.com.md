@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comed.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009073354id_/https%3A//www.comed.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comed.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416011042id_/https%3A//www.comed.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ComEd - An Exelon Company
 
