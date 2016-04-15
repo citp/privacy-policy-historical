@@ -1,22 +1,29 @@
-<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2015-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908103447id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2016-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160415072631id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="not-ie"><!-- <![endif]--><head>
-
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/bound.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/dv5j6lr4ku/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2d4f7e7bad","applicationID":"8953552","transactionName":"IFdcREJZCV1dExteVhFTV0RZWAIeSxVVR14ASx1AQl8TUFsY","queueTime":4,"applicationTime":44,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4HV1BXGwsJUVJXAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta charset="utf-8">
+
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/bound.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/dv5j6lr4ku/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2d4f7e7bad","applicationID":"8953552","transactionName":"IFdcREJZCV1dExteVhFTV0RZWAIeSxVVR14ASx1AQl8TUFsY","queueTime":2,"applicationTime":33,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4HV1BXGwsJUVJXAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta content="yes" name="apple-mobile-web-app-capable">
 <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
 <!-- Icons -->
-<link href="https://assets.boundless.com/assets/favicon-27d597ea49aad146c961f699d7bea71e.png" rel="shortcut icon">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-df3f129a09c63886788c3a59b7b325cc.png" rel="apple-touch-icon">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-df3f129a09c63886788c3a59b7b325cc.png" rel="apple-touch-icon-precomposed">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-72-71cfafe494167f970843146c0a7486c3.png" rel="apple-touch-icon" sizes="72x72">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-114-487c148fba9ff64bd4eaaf6db026a00e.png" rel="apple-touch-icon" sizes="114x114">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-144-f6c493b4c19d10d30b84858e6e5bfc27.png" rel="apple-touch-icon" sizes="144x144">
+<link href="https://boundless-production.boundless-cdn.com/assets/favicon-4a432199dda8883f2ac18bc6f93aa300.png" rel="shortcut icon">
+<link href="https://boundless-production.boundless-cdn.com/touch_icons/Icon-60.png" rel="apple-touch-icon">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-29-b65205423fe177dae06274b0eee68e16.png" rel="apple-touch-icon" sizes="29x29">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-29@2x-188913fc684050ed73d15eee082d5efe.png" rel="apple-touch-icon" sizes="58x58">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-29@3x-f02cd508ad30c1cabf72a0476e9644f5.png" rel="apple-touch-icon" sizes="87x87">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-40-708afa11aa80beb47b8707611cb96fe0.png" rel="apple-touch-icon" sizes="40x40">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-40@2x-95dd5e395d514db8c409d6d45c020173.png" rel="apple-touch-icon" sizes="80x80">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-40@3x-e5a6255f86976cc57c0d327cae46bdb6.png" rel="apple-touch-icon" sizes="120x120">
+<link href="https://boundless-production.boundless-cdn.com/touch_icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-60@2x-e5a6255f86976cc57c0d327cae46bdb6.png" rel="apple-touch-icon" sizes="120x120">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-60@3x-334528b74be7b6326e57238dea5ad8eb.png" rel="apple-touch-icon" sizes="180x180">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-76-2ccd4849c71f5a7c7f8b6ddbaaa5b632.png" rel="apple-touch-icon" sizes="76x76">
+<link href="https://boundless-production.boundless-cdn.com/assets/touch_icons/Icon-76@2x-55d0f1e161393342544bd991ab5856f4.png" rel="apple-touch-icon" sizes="152x152">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="eHAX+tJ4QCOBUlZijStOAjoH6iB0Sd9dHlbInvhh+qyYgaJyd5s5UZSxDluo9PnrCg8VVFvOoedk5UwpQ4sVlQ==">
+<meta name="csrf-token" content="z9pGe9V7E0YtY37r5wEA6mtDncY/RyQqTni2U6YPX2yBBA+Zqe4MGfU2hvFx7PAxVkqBwxAqiLKy33JHRe5FBw==">
 <!-- iOS App Reference -->
 <!-- Stripe -->
 <meta content="pk_Y0xOTxNRUMiV2gwrFLF0NoJjeaeCg" name="stripe-key">
@@ -27,22 +34,23 @@
 <!-- Meta Description -->
 <meta content="The Boundless Privacy Policy discloses the privacy practices and policies of Boundless Learning, Inc. (“Boundless”, “we”, “us” or “our”) for boundless.com and its sub-domains." name="description">
 <!-- Meta Keywords -->
+<link rel="stylesheet" media="screen" href="https://boundless-production.boundless-cdn.com/assets/global/common/julia-b9fd69e1892f75f69cb52873c5e03374.css">
+<link rel="stylesheet" media="all" href="https://boundless-production.boundless-cdn.com/assets/shared-417fc7be7c0fc5ba73fdb310d75b6e34.css">
+<link rel="stylesheet" media="all" href="https://boundless-production.boundless-cdn.com/assets/marketing/marketing_common-ca61a311f6cda578aa48ff788ed304c8.css" debug="false">
+<link rel="stylesheet" media="all" href="https://boundless-production.boundless-cdn.com/assets/marketing/marketing-e1464bc82951c3e7ca4eda59582d771e.css" debug="false">
+
 <!-- Segment.io snippet -->
 <script>
-  window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
-  window.analytics.load("dv5j6lr4ku");
-  window.analytics.page();
+  !(function () {window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8";
+    window.analytics.load("dv5j6lr4ku");
+    window.analytics.page();
+  })();
 </script>
-<link rel="stylesheet" media="screen" href="https://assets.boundless.com/assets/global/common/julia-a48a173d346da6c5903ede996bbafc23.css">
-<link rel="stylesheet" media="all" href="https://assets.boundless.com/assets/marketing/marketing_common-e7e0e164807bbd90ff73d944ecfdb1f6.css" debug="false">
-<link rel="stylesheet" media="all" href="https://assets.boundless.com/assets/marketing/marketing-62a9ed6456a299830c02e074117cc61e.css" debug="false">
 
 <meta content="width=320.1, user-scalable=0, initial-scale=1, minimal-ui" name="viewport">
 
 <script>
   window.PageData = window.PageData || {};
-  // A/B testing experiments
-  PageData['experiments'] = [{"id":1,"key":"sneak_week1","variants":[{"id":1,"key":"0","weight":1},{"id":2,"key":"1","weight":1}]},{"id":2,"key":"sneak_week2","variants":[{"id":3,"key":"Assign Concept Reading","weight":1},{"id":4,"key":"Assign to Your Class","weight":1}]},{"id":3,"key":"sneak_week4","variants":[{"id":5,"key":"clicked_assign","weight":1},{"id":6,"key":"clicked_explore","weight":1},{"id":7,"key":"clicked_read","weight":1}]},{"id":4,"key":"sneak_assign_popover","variants":[{"id":8,"key":"original","weight":1},{"id":9,"key":"popover","weight":1}]},{"id":5,"key":"sneak_chapter_page","variants":[{"id":10,"key":"original","weight":1},{"id":11,"key":"with_assign_buttons","weight":1}]},{"id":6,"key":"editor_orientation","variants":[{"id":12,"key":"leave_your_mark","weight":1},{"id":13,"key":"join_our_cause","weight":1}]},{"id":7,"key":"editor","variants":[{"id":14,"key":"show_orientation","weight":1},{"id":15,"key":"normal","weight":1}]},{"id":8,"key":"feedback_type","variants":[{"id":16,"key":"show","weight":1},{"id":17,"key":"hide","weight":1}]},{"id":9,"key":"anonymous_assignments","variants":[{"id":18,"key":"original","weight":1},{"id":19,"key":"anonymous","weight":1}]},{"id":10,"key":"sneak_concept_footer","variants":[{"id":20,"key":"original","weight":1},{"id":21,"key":"updated_footer","weight":1}]},{"id":11,"key":"educator_pricing_matrix","variants":[{"id":22,"key":"limit_assignments","weight":1},{"id":23,"key":"limit_time","weight":1}]}];
 </script>
 </head>
 <body class="not-logged-in in-marketing-site marketing-layout-f13 marketing-statics privacy marketing-statics-privacy
@@ -92,32 +100,32 @@ Subjects
 <ul class="navbar__dropdown__list">
 <div class="scroll-gradient"></div>
 <div class="navbar__dropdown__inner">
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/accounting/">Accounting</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/algebra/">Algebra</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/art-history/">Art History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/biology/">Biology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/business/">Business</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/calculus/">Calculus</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/chemistry/">Chemistry</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/communications/">Communications</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/computer-science/">Computer Science</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/economics/">Economics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/education/">Education</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/finance/">Finance</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/management/">Management</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/marketing/">Marketing</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/microbiology/">Microbiology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/music/">Music</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/philosophy/">Philosophy</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/physics/">Physics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/physiology/">Physiology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/political-science/">Political Science</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/psychology/">Psychology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/sociology/">Sociology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/statistics/">Statistics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/u-s-history/">U.S. History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/world-history/">World History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/writing/">Writing</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/28/">Accounting</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/30/">Algebra</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/32/">Art History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/54/">Biology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/36/">Business</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/37/">Calculus</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/38/">Chemistry</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/39/">Communications</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/71/">Computer Science</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/56/">Economics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/61/">Education</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/41/">Finance</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/43/">Management</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/44/">Marketing</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/45/">Microbiology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/64/">Music</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/72/">Philosophy</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/46/">Physics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/47/">Physiology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/48/">Political Science</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/55/">Psychology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/50/">Sociology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/51/">Statistics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/42/">U.S. History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/70/">World History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/52/">Writing</a></li>
 </div>
 </ul>
 </div>
@@ -171,32 +179,32 @@ Subjects
 <ul class="navbar__dropdown__list">
 <div class="scroll-gradient"></div>
 <div class="navbar__dropdown__inner">
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/accounting/">Accounting</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/algebra/">Algebra</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/art-history/">Art History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/biology/">Biology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/business/">Business</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/calculus/">Calculus</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/chemistry/">Chemistry</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/communications/">Communications</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/computer-science/">Computer Science</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/economics/">Economics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/education/">Education</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/finance/">Finance</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/management/">Management</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/marketing/">Marketing</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/microbiology/">Microbiology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/music/">Music</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/philosophy/">Philosophy</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/physics/">Physics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/physiology/">Physiology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/political-science/">Political Science</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/psychology/">Psychology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/sociology/">Sociology</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/statistics/">Statistics</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/u-s-history/">U.S. History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/world-history/">World History</a></li>
-<li><a class="navbar__dropdown__list__item" data-push="true" href="/writing/">Writing</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/28/">Accounting</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/30/">Algebra</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/32/">Art History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/54/">Biology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/36/">Business</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/37/">Calculus</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/38/">Chemistry</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/39/">Communications</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/71/">Computer Science</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/56/">Economics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/61/">Education</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/41/">Finance</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/43/">Management</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/44/">Marketing</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/45/">Microbiology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/64/">Music</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/72/">Philosophy</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/46/">Physics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/47/">Physiology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/48/">Political Science</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/55/">Psychology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/50/">Sociology</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/51/">Statistics</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/42/">U.S. History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/70/">World History</a></li>
+<li><a class="navbar__dropdown__list__item" data-push="true" href="/52/">Writing</a></li>
 </div>
 </ul>
 </div>
@@ -225,141 +233,141 @@ Contribute
 <div class="hero--privacy-policy">
 <h1>BOUNDLESS LEARNING, INC.</h1>
 <h2>PRIVACY POLICY</h2>
-<p>Effective Date:  June 26, 2013.</p>
+<p>Effective Date: March 11, 2016.</p>
 <p>Welcome to Boundless!</p>
-<p>We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy discloses the privacy practices and policies of Boundless Learning, Inc. (“Boundless”, “we”, “us” or “our”) for boundless.com and its sub-domains (the “Website”) and all related tools and services, including any downloadable applications, we make available to you from time to time (the “Services”).  The Services include a platform to help students learn by connecting them with high quality, educational content, as well as tools that enable them to collaborate with other students or educators through social media features.  This privacy notice applies solely to information collected by or in connection with the Services.  This policy does not apply to the practices of companies that Boundless does not administer, or to individuals that Boundless does not employ.  We may update this Privacy Policy at any time by posting a new Privacy Policy to our Website.  Your access and use of the Services is subject to this Privacy Policy and to our separate Terms of Service at  <a href="http://www.boundless.com/terms">www.boundless.com/terms</a>. Capitalized terms used but not defined in this Privacy Policy have the meaning assigned to them in the Terms of Service.</p>
-<h2>Notice of Information We Collect And How We Use It.</h2>
-<p>Our primary purpose in collecting Personal Information (as defined below) is to provide you with a safe, smooth, efficient, and customized experience using our Services.  This allows us to provide services and features that most likely meet your needs, and to customize our Services to make your experience safer and easier.  "Personal Information" means information that specifically identifies an individual (such as a name, address, or e-mail address, etc.) or other information about that individual that is directly linked to Personal Information.  Personal Information does not include "aggregate" information, which is data we collect about the use of our Services.  We collect and store information, including Personal Information, that you provide to us when registering or when using the Services.  Some such information is required in order for you to register as a user of our Services.  You can choose not to provide us with certain information, but by doing so, you may not be able to take advantage of many of our features and functionality.  We use Personal Information to deliver the Services to you, to improve the delivery of our Services, including advertising, and to develop analytics and aggregated data that allow us and our partners to improve our Services and correspond with you.</p>
-<p>We also collect and store non-personally identifiable information that is automatically generated when you use the Services.  We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve you and our community.  By using our Services, you indicate your consent for Boundless and our affiliates to send cookies to your computer in order to uniquely identify your browser and improve the quality of our services; you may turn off cookies in your browser though, in doing so, some or all of our Services may not work.    A “cookie” is a piece of alphanumeric data stored on a visitor’s hard drive that enables us to improve your access to our Website and identify repeat visitors to our Services.  We use the non-personally identifiable information, such as your browser version, IP address, referring domains, pages visited, your mobile carrier, device and application IDs, the nature of your use of the Website and cookie information, to improve our Website delivery, including advertising, and to develop analytics and aggregated data that allow us and our partners to utilize our Service and reach out to you via our Services or otherwise.  If you wish to restrict or block the cookies which are set by Boundless, or by any other website, you can do this through your browser settings. The Help function within your browser should tell you how to do so.  For information on how to delete cookies on the browser of your mobile phone as applicable you will need to refer to your handset manual.</p>
-<p>In general, our collection and use of information is as follows:</p>
-<ul>
-<li>Boundless collects Personal Information you knowingly choose to submit to us during registration, such as your name, and email address,  which we use for the following general purposes: identification and authentication of a user, improvement to the Services, contact, research, and reporting of aggregated, anonymous data.</li>
-<li>Boundless automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request.  IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored by Boundless when you register with Boundless. IP addresses may be used for various research purposes, and/or delivering unique functionality to our service.</li>
-<li>Boundless may make discussion boards, forums and chat rooms (Public Areas) available to you on our Services.  You participate in these Public Areas with the acknowledgement that any information you share will be available to other users, including any Personal Information that you share in Public Areas, subject to the level of Public Areas which you indicate when you provide the applicable Personal Information, if any such level restriction are then offered by Boundless.  We may allow users to post content on the Services.  If we make such a feature available, you post content at your own risk.  We cannot control the actions of other users with whom you choose to share your information.  Even after removal, copies of such content may remain viewable in cached and archived pages or if other users have copied or stored your content.</li>
-</ul>
-<h2>Log Files</h2>
-<p>Like many websites, we may automatically gather certain information about our Website traffic and store it in log files.  This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.  We use this information, which does not identify individual users, to analyze trends, to administer the Website, to track users’ movements around the Website and to gather demographic information about our user base.</p>
-<p>We may link this automatically collected data to Personal Information.  IP addresses may be tied to Personal Information to troubleshoot access issues and ban users by IP from certain communities upon appropriate request.</p>
-<p>We may use a third-party tracking service that uses log files and cookies, see “Notice of Information We Collect and How We Collect It” above, to track non- Personal Information about visitors to the Website in the aggregate.  This service captures usage and volume statistics as well as geographical location data to compile usage reports and maps for optimization and troubleshooting purposes.</p>
-<h2>Clear Gifs (Web Beacons/Web Bugs)</h2>
-<p>We employ, and our third party advertising partners may employ, a software technology called clear gifs, also referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.</p>
-<p>We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”</p>
-<h2>Information We Collect To Respond To Your Choices and Requests</h2>
+<p>We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy discloses the privacy practices and policies of Boundless Learning, Inc. (“Boundless”, “we”, “us” or “our”) for use of boundless.com and its sub-domains (the “Website”) and for access to and use of any downloadable Boundless software or content through your use of an application for the administration, documentation, tracking, reporting and delivery of e-learning courses or training programs (an “LMS”) operated by your college, university or other educational institution (a “School”) and all related tools and services we make available to you from time to time (the “Services”).  This privacy notice applies solely to information collected by us in connection with the Services.  Your access and use of the Services is subject to this Privacy Policy and to our separate Terms of Service.  Capitalized terms used but not defined in this Privacy Policy have the meanings assigned to them in the Terms of Service.</p>
+<p>This policy does not apply to the practices of entities that Boundless does not administer or control, including but not limited to your School, or to individuals that Boundless does not employ. The use of any information provided by you to your School through the LMS is governed by the privacy policy applicable to such School and your use of the LMS.  Please check with your School prior to your use of the Services through the LMS to be sure you understand their privacy policies.</p>
+<p>Our Services are not directed to people who are under 13 years of age. If you become aware that your child or a minor for whom you are the guardian has provided us with information without your consent, please contact us at <a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>. We do not knowingly collect information from children under 13. If we become aware that a child under 13 has provided us with information, we take steps to remove that information and terminate the applicable account.</p>
+<p>We may update this Privacy Policy at any time by posting a new Privacy Policy to our Website for users of the Public Areas of our Website and by requiring your acceptance of the revised Terms of Service when you access private portions of the Website or when you use the LMS to access the Services and shall be effective from the time of your next use of the Services after such posting or acceptance.</p>
+<h2>1.  Information We Collect.</h2>
 <div class="indented">
-<h3>Registration.</h3>
-<p>In order to use many of our Services, you must first complete the registration form and provide an email address and password (“Login Credentials”). During registration, you are required to complete the registration form and create a user name and password and are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service.   We use this information to contact you about the Services in which you have expressed interest.</p>
-<p>Boundless may enable you to connect to your Boundless account with your Facebook account or other third-party social networking site account information (“Third Party Social Networking Account”).  By connecting to our Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain information about you with each other. We may receive and store information about you, but not limited to, your user ID associated with your Third Party Social Networking Account, and other information that you have permitted the third-party social network service provider to share with us, and any information you have made public in connection with that third party service.  Your use of any third-party social network service provider is subject to its terms of service and privacy policy. You should always review, and if necessary adjust, your privacy settings on social network service providers and other third-party websites and services before linking or connecting them to the Service.</p>
-<p>We may combine the information you submit under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of our Services.  For certain services, we may give you the opportunity to opt out of combining such information.</p>
-<h3>Profiles</h3>
-<p>Upon registering on our Website, a user profile may automatically be created for you.  Your profile name will be your first name and last initial unless otherwise set forth on the Website from time to time. You may select a profile photo to display with your profile information. Any information you choose to display on your profile may be viewed by other users when you post in Public Areas.</p>
-<h3>Subscriptions; Orders</h3>
-<p>If you purchase or subscribe to a fee-based Service or other products or services from us, we request certain Personal Information from you on our transaction form.  We may require you to provide contact information (such as name, email, and shipping address) and financial information (such as a credit card number, expiration date, account number if paying through a third party payment processing service).  We may use an outside credit card processing company to bill or process payments for goods or services. These companies do not retain, share, store or use Personal Information for any other purposes.</p>
-<p>We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.</p>
-<h3>Surveys or Contests</h3>
-<p>We may provide you the opportunity to participate in contests or surveys on our Services.  If you participate, we will request certain Personal Information from you.  The requested information typically includes contact information (such as name and mailing address) and demographic information.</p>
-<p>We use this information to notify contest winners and award prizes, to monitor site traffic, or to personalize our Services (in the case of anonymous information collected in surveys).</p>
-<p>We may cooperate with third parties to offer you surveys, contests, products and services through our Services.  When you participate in such surveys or contests, or purchase related products and services, you authorize us to share information about you, including Personal Information, with such third parties.  If you have any questions or concerns regarding how such third parties use your information, please consult the applicable third party’s privacy policy.  You agree that we will not be responsible or liable for any loss or damage incurred in connection with our cooperation with such third parties, their activities on our Services, and the sharing of your information with such third parties.</p>
-<h3>Tell-A-Friend</h3>
-<p>If you choose to use our referral service (if available) to tell a friend about our Services, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit our Website. Boundless uses this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may contact us at <a href="mailto:support@boundless.com">support@boundless.com</a> to request that we remove this information from our database.</p>
-<h3>Posting in Public Areas</h3>
-<p>If you choose to post messages in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message.  We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.  We reserve the right to terminate the accounts of visitors who use these Services in a manner inconsistent with the Terms of Service.</p>
-<p>When we use the phrase "public information", we mean the information you choose to disclose to other users of the Website, as well as information that is publicly available.  By posting information in a Public Area, you are choosing to make your information public.  However, some Public Areas may be restricted to a particular groups of users based on categories such as users’ class, school, or other custom created group (each a “Restricted Public Area”) to the extent indicated on the Website from time to time, such that information posted or shared in Restricted Public Areas will only be viewable by other users who have access to such Restricted Public Area.  Please note that, once you share information in a Public Area, or even a Restricted Public Area, other users may copy and share such information, through the Website or otherwise, with third parties or use such information for other purposes.</p>
-<p>Choosing to make your information public also means that this information:</p>
-<ul>
-<li>can be associated with you (i.e., your name, profile picture, profile, username, etc.)</li>
-<li>when others share information about you, they can also choose to make it public.</li>
-</ul>
-<p>The types of information listed below are by default publicly available, and are treated just like information you decided to make public.</p>
-<ul>
-<li>Name: This helps other users find you. By making your profile private, users may still search for and find your limited profile, such as your name as may be set forth by Boundless on the Website from time to time.</li>
-<li>Avatar or Profile Picture: Boundless may allow you to have an avatar or profile picture to help other users recognize you. If you are uncomfortable making your avatar or profile picture public, you can always delete it by hovering over profile picture and clicking "Change Picture."  A default profile picture may be assigned to your profile until you select one.</li>
-<li>Custom Created Groups:  Boundless may allow you to share information with a limited group of other users as set forth on the Website from time to time.  Limited groups may include groupings based on a class or school or other group set forth on the Website from time to time (“User Groups”).</li>
-</ul>
-<h3>Social Notebook; User Notes</h3>
-<p>Part of the Services include a Social Notebook feature that permits users to take notes online and highlight text (collectively “User Notes”) while reading online and share such User Notes with other users.  By submitting such User Notes on our Website you deem such User Notes as Contributions for public display on our Services, unless, you opt-out through your account settings by making your User Notes “private.” If made public, your User Notes may be displayed in our Public Areas.  Otherwise, if your settings are private for User Notes, Boundless may use your User Notes on an aggregate basis by removing any Personal Information.  You may not be able to view other users User Notes on the Website, if you make your own User Notes private.</p>
-<p>If you choose to create User Notes or post Contributions in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message.  We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</p>
-<h3>Dashboard Metrics; Social Activity Feed</h3>
-<p>Based on your privacy settings, we may make certain information about your use of the Services available for others to view on the Website from time to time, including, without limitation, which texts you have viewed or what Contributions you have made as well as your other uses of our Services as we describe on the Website from time to time.  You may opt-out of this feature through your account settings by making your use of the Services “private.”</p>
-<h3>Communications with Class Instructor</h3>
-<p>The Services may permit Instructors to interact with users of a particular Class and may use Boundless as a forum to assist students with their studies outside of the classroom.  An Instructor may view Restricted Public Areas for a particular class, as well as any other information that a user makes available to that Instructor.  Boundless may provide an option on the Website for a user to select for certain information to share only with an Instructor of a Class.  Boundless may add a feature to the Services for Instructors to assign study questions to certain users of a Class.  Instructors may be permitted to receive a summary of certain metrics as described on the Website from time to time regarding how certain users within a Class are using the Services.  Users who do not wish to participate in a Class or share information with a particular Instructor may have an option to opt-out of the Class as described on the Website from time to time.</p>
+<h3>(i) PERSONAL INFORMATION.</h3>
+<p>We collect and store information that you knowingly provide to us when you register or use the Services that specifically identifies you or can be used to identify you, such as your name, your mailing address and your e-mail address (“Personal Information”) and other information about you that is directly linked to your Personal Information.</p>
+<h3>(ii) INFORMATION OTHER THAN PERSONAL INFORMATION.</h3>
+<p>We also collect and store information that is not Personal Information and is automatically generated when you use the Services.  This type of information can include the nature of your use of the Services as well as your Internet protocol (IP) addresses, browser type, Internet service provider (ISP), browser version, referring/exit pages, operating system, date/time stamp and clickstream data, mobile carrier, device and application IDs and cookie information.  A “cookie” is a piece of alphanumeric data stored on a visitor’s hard drive that enables us to improve your access to the Services and identify repeat visitors. IP addresses are automatically reported by your browser each time you view a web page. We also  employ, and our third party advertising partners may employ, a software technology called clear gifs, also referred to as web beacons or web bugs, that help manage content on the Site by tracking what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ Personal Information.</p>
 </div>
-<h2>Communication from Us or our Services</h2>
-<p>When you send email or other communications to Boundless, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. When you send and receive messages we may collect and maintain information associated with those messages.  We may also occasionally send you information on products, services, special deals, and promotions offered by us or one of our partners. You can sign up for these emails from us on our registration page.</p>
+<h2>2.  How we Use the Information We Collect.</h2>
 <div class="indented">
-<h3>Newsletters</h3>
-<p>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, we provide you a way to unsubscribe.  Please see the “Choice and Opt-out” section.</p>
-<h3>Service-Related Announcements</h3>
-<p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our Service is temporarily suspended for maintenance, we might send you an email.</p>
-<p>Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.</p>
-<h3>Customer Service</h3>
-<p>Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password.  We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.  You may contact customer service at <a href="mailto:support@boundless.com">support@boundless.com</a>.</p>
-<h3>Use Profile</h3>
+<h3>A.  We use Personal Information you knowingly submit for:</h3>
+<div class="indented">
+<h4>(i) REGISTRATION.</h4>
+<p>In order to use many of the Services, you must first complete a registration form and provide us with Personal Information such as an email address and password (“Login Credentials”).  During registration, you are required to create a user name and password and are required to give truthful contact information (such as name and email address) in accordance with our Terms of Service. We use this information to contact you about the Services in which you have expressed interest.</p>
+<h4>(ii)  SUBSCRIPTIONS; ORDERS.</h4>
+<p>If you purchase or subscribe to a fee-based Service or other products or services from us, you will be required to provide certain Personal Information on the transaction form.  Currently, we use third party entities and credit card processing companies to collect your information and to process your payments for the Services (each, a “Third Party Payment Entities”).  The transaction forms for the Third Party Payment Entities will require you to provide financial information (such as a credit card number, expiration date and account number), are provided by or generated from their websites and are subject to the terms and conditions set forth on form or such websites.  You should always review the privacy policy and terms of services for each Third Party Payment Entity before using them.   We are not responsible for the conduct of such Third Party Payment Entity.</p>
+<p>Your purchases may also require you to provide us with contact information (such as name, email and shipping address).   We use the Personal Information you provide to us to fill your orders. If we have trouble processing an order, we will use this information to contact you.</p>
+<h4 iii="">SHARING INFORMATION WITH YOUR SCHOOL.</h4>
+<p>If you access the Services through the use of your School’s LMS or other portals, the LMS or portal will share Personal Information about you with Boundless (such as the credentials required for your access via single sign-on), and Boundless will send back to the LMS or portal information about your use of the Services and your performance within the Services (e.g., how much of a reading assignment you have completed and when and the score on a quiz).  The information provided will then be displayed in both your and the Instructor’s gradebook.</p>
+<p>We may also combine the Personal Information you submit to us under your account with information from other services or third parties in order to provide you with a better experience and to improve the quality of the Services. For certain Services, we may give you the opportunity to opt out of combining such information.</p>
+<h4>(iv)  THIRD PARTY SOCIAL NETWORKING ACCOUNTS.</h4>
+<p>Boundless may enable you to connect to your Boundless account with your Facebook account or other third-party social networking site account information (“Third Party Social Networking Account”).  By connecting to the Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain Personal Information about you with each other. We may receive and store information about you, but not limited to, your user ID associated with your Third Party Social Networking Account, and other information that you have permitted the third-party social network service provider to share with us, and any information you have made public in connection with that third party service. Your use of any third-party social network service provider is subject to its terms of service and privacy policy. You should always review, and if necessary adjust, your privacy settings on social network service providers and other third-party websites and services before linking or connecting them to the Service.</p>
+<h4>(v)   SOCIAL NOTEBOOK; USER NOTES.</h4>
+<p>Part of the Services include a Social Notebook feature that permits users to take notes online and highlight text (collectively “User Notes”) while reading online and share such User Notes with other users. By submitting such User Notes through the Service you deem such User Notes as Content for public display on the Services, unless, you opt-out through your account settings by making your User Notes “private.”  If made public, your User Notes may be displayed in our Public Areas. Otherwise, if your settings are private for User Notes, Boundless may use your User Notes on an aggregate basis by removing any Personal Information.  You may not be able to view other users User Notes on the Website, if you make your own User Notes private.</p>
+<p>If you choose to create User Notes or post Content in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</p>
+<h4>(vi)  DASHBOARD METRICS; SOCIAL ACTIVITY FEED.</h4>
+<p>Based on your privacy settings, we may make certain information about your use of the Services available for others to view on the Website from time to time, including, without limitation, which texts you have viewed or what Contributions you have made as well as your other uses of our Services as we describe on the Website from time to time. You may opt-out of this feature through your account settings by making your use of the Services “private.”</p>
+<h4>(vii) COMMUNICATIONS WITH INSTRUCTORS.</h4>
+<p>The Services may permit Instructors to interact with users of a particular class and may use Boundless as a forum to assist students through an LMS or outside of the School.  An Instructor may view Restricted Public Areas for a particular class, as well as any other information that a user makes available to that Instructor.  Boundless may provide an option for a user to select for certain information to share only with an Instructor. Boundless may add a feature to the Services for Instructors to assign study questions to certain users of a class. Instructors may be permitted to receive a summary of certain metrics from time to time regarding how certain users within a class are using the Services. Users who do not wish to participate in a class or share information with a particular Instructor may have an option to opt-out of the class as described on the Website from time to time.</p>
+<h4>(viii)  PROFILES.</h4>
+<p>Upon registering on our Website, a user profile may automatically be created for you. Your profile name will be your first name and last initial unless otherwise set forth on the Website from time to time. You may select a profile photo to display with your profile information. Any Personal Information you choose to display on your profile may be viewed by other users when you post in Public Areas.</p>
+<h4>(ix)  SURVEYS.</h4>
+<p>We may provide you the opportunity to participate in surveys on our Services. If you participate, we will request certain Personal Information from you. The requested information typically includes contact information (such as name and mailing address) and demographic information.  We may use responses you provide us to surveys to monitor site traffic and to personalize our Services</p>
+<p>We may cooperate with third parties to offer you surveys through our Services. When you participate in such surveys, you authorize us to share information about you, including Personal Information, with such third parties. If you have any questions or concerns regarding how such third parties use your information, please consult the applicable third party’s privacy policy. You agree that we will not be responsible or liable for any loss or damage incurred in connection with our cooperation with such third parties, their activities on our Services, and the sharing of your information with such third parties.</p>
+</div>
+<h3>B.  We Use Other Information We Collect for:</h3>
+<p>We receive and record information which is not Personal Information on our server logs from your browser, including your IP address, cookies and the pages that you request and use the information for various research purposes, to delivering unique functionality to the Services and to provide information to our advertisers and investors.  We also use this information, which does not identify individual users, to analyze trends, to administer the Services, to track users’ movements around the Services and to gather demographic information about our user base.</p>
+<p>We may link this automatically collected data to Personal Information. IP addresses may be tied to Personal Information to troubleshoot access issues and ban users by IP address from certain communities upon appropriate request.</p>
+<p>We may use a third-party tracking service that uses log files and cookies to track non- Personal Information about visitors to the Website in the aggregate. This service captures usage and volume statistics as well as geographical location data to compile usage reports and maps for optimization and troubleshooting purposes.</p>
+<p>By using the Services, you indicate your consent for Boundless and our affiliates to send cookies to your computer in order to uniquely identify your browser and to use the data gathered as set out in this Privacy Policy.</p>
+<p>If you wish to restrict or block the cookies which are set by Boundless, or by any other website, you can do this through your browser settings. The Help function within your browser should tell you how to do so. For information on how to delete cookies on the browser of your mobile phone as applicable you will need to refer to your handset manual. You may turn off cookies in your browser although, in doing so, some or all of the Services may not work.</p>
+<p>We use clear gifs in our HTML-based emails to let us know which emails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Choice and Opt-out.”</p>
+</div>
+<h2>3.  Posting in Public Areas.</h2>
+<p>Boundless may make discussion boards, forums and chat rooms (Public Areas) available to you through the Services. You participate in these Public Areas with the acknowledgement that any information you share will be available to other users, including any Personal Information that you share in Public Areas, subject to the level of Public Areas which you indicate when you provide the applicable Personal Information, if any such level restriction are then offered by Boundless. We may allow users to post content on the Services. If we make such a feature available, you post content at your own risk. We cannot control the actions of other users with whom you choose to share your information. Even after removal, copies of such content may remain viewable in cached and archived pages or if other users have copied or stored your content.  Please see our Terms of Service.</p>
+<p>If you choose to post messages in our Public Areas or leave feedback for other users, we will collect the information you post through our Services. When you submit a message through the Services, certain information about your profile may also be associated with such message. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</p>
+<p>When we use the phrase "public information", we mean the information you choose to disclose to other users of the Service, as well as information that is publicly available. By posting information in a Public Area, you are choosing to make your information public. However, some Public Areas may be restricted to a particular groups of users based on categories such as users’ class, School, or other custom created group (each a “Restricted Public Area”) to the extent indicated on the Website from time to time, such that information posted or shared in Restricted Public Areas will only be viewable by other users who have access to such Restricted Public Area. Please note that, once you share information in a Public Area, or even a Restricted Public Area, other users may copy and share such information, through the Website or otherwise, with third parties or use such information for other purposes.</p>
+<p>Choosing to make your information public also means that the information:</p>
+<ul>
+<li>can be associated with you (i.e., your name, profile picture, profile, username, etc.); and</li>
+<li>when others share the information about you, they can also choose to make it public.</li>
+</ul>
+<h2>4.  Your Information Which is by Default Public.</h2>
+<p>The types of information listed below are by default publicly available, and are treated just like information you decided to make public:</p>
+<ul>
+<li>Name: This helps other users find you. By making your profile private, users may still search for and find your limited profile, such as your name as may be set forth by Boundless through the Services from time to time.</li>
+<li>Avatar or Profile Picture: Boundless may allow you to have an avatar or profile picture to help other users recognize you. If you are uncomfortable making your avatar or profile picture public, you can always delete it by hovering over profile picture and clicking "Change Picture." A default profile picture may be assigned to your profile until you select one.</li>
+<li>Custom Created Groups: Boundless may allow you to share information with a limited group of other users as set forth through the Services from time to time. Limited groups may include groupings based on a class or School or other group set forth through the services from time to time (“User Groups”).</li>
+</ul>
+<p>You can choose not to provide us with Personal Information, but by doing so, you may not be able to take advantage of many of our features and functionality of the Services.</p>
+<h2>5.  Use of Your Information by Your School.</h2>
+<p>Please be aware that Services that are available through an LMS are reserved for registered users of the applicable LMS.   Your ability to access an LMC containing the Services is controlled by your School and completed through a single sign-on (SSO).  You will not be prompted to register for the Services independent of the sign-on process for the LMS and the process for becoming a registered user of your LMS will be set out in the materials provided to you by your School.  The use of any Personal Information or other information provided by you to your School through the LMS registration is governed by the privacy policy applicable to such School and your use of the LMS.  Please check with your School prior to your use of the Services through the LMS to be sure you understand their privacy policies.  We do not control your School’s use of your information.</p>
+<h2>6.  Communication from Us or our Services</h2>
+<p>When you send email or other communications to Boundless, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. When you send and receive messages we may collect and maintain information associated with those messages. We may also occasionally send you information on products, services, special deals, and promotions offered by us or one of our partners. You can sign up for these emails from us on our registration page.</p>
+<div class="indented">
+<h3 i="">NEWSLETTERS</h3>
+<p>If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.</p>
+<h3 ii="">SERVICE-RELATED ANNOUNCEMENTS</h3>
+<p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if the Services are temporarily suspended for maintenance, we might send you an email.</p>
+<p>Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.</p>
+<h3 iii="">CUSTOMER SERVICE</h3>
+<p>Based upon the Personal Information you provide us, we will send you a welcoming email to verify your username and password. We will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. You may contact customer service at <a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>.</p>
+<h3 iv="">USE PROFILE; MARKETING DATA</h3>
 <p>We store information that we collect through cookies, log files, clear gifs, to create a “profile” of your preferences. We use this profile in order to provide promotions and marketing offers and to improve the content of the Services for you.</p>
-<p>We do not share your profile with other third parties other than as set forth in this Privacy Policy, including, without limitation, when you login using a Third Party Social Networking Account, in which case we may share your profile information with the third party social network service provider.</p>
 <p>We may purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.</p>
 </div>
-<h2>Conditions Under Which We Share Information</h2>
-<p>We may share aggregated demographic information about our user base with our partners. This information does not identify individual users.  We do not link aggregate user data with Personal Information.  We may use and publicize aggregate information in any manner that does not identify you, without your consent.</p>
-<p>We do not sell, trade, or otherwise transfer to outside parties your Personal Information without your consent.  However we may share your Personal Information in situations described below:</p>
+<h2>7.  Conditions Under Which We Share Information</h2>
+<p>We may share aggregated demographic information about our user base with our partners and investors. This information does not identify individual users. We do not link aggregate user data with Personal Information. We may use and publicize aggregate information in any manner that does not identify you, without your consent.</p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your Personal Information without your consent. However we may share your Personal Information in situations described below:</p>
 <ul>
 <li>We may share aggregated data to improve the delivery of our Services, including advertising, to develop analytics, and to enable us and our partners to improve and promote our products and services.</li>
 <li>We may collect and share Personal Information made available by users in Public Areas.</li>
-<li>We may release your Personal Information to authorized agents who are employed by us to perform tasks on our behalf and need to share information with them to provide products, services and offers to you.  Unless we communicate with you differently, our authorized agents do not have the right to use any Personal Information we share with them beyond what is necessary to work with us.  You hereby consent to our sharing your Personal Information for the above purposes.</li>
-<li>Some Personal Information, such as users’ names, and location that is listed in your user profile or derived from IP Addresses may be publicly visible to other users on the Website or to the web.  We may implement a feature that permits you to choose what information is made public by changing your privacy setting in “Edit My Profile” on the Website.</li>
-<li>We believe it is necessary to investigate potential violations of our Terms of Service, to enforce those Terms of Service, to comply with law or to protect ours or others rights, property, or safety.</li>
+<li>We may release your Personal Information to authorized agents who are employed by us to perform tasks on our behalf and need to share information with them to provide products, services and offers to you. Unless we communicate with you differently, our authorized agents do not have the right to use any Personal Information we share with them beyond what is necessary to work with us. You hereby consent to our sharing your Personal Information for the above purposes.</li>
+<li>Some Personal Information, such as users’ names, and location that is listed in your user profile or derived from IP Addresses may be publicly visible to other users on the Website or to the web. We may implement a feature that permits you to choose what information is made public by changing your privacy setting in “Edit My Profile” on the Website.</li>
+<li>When we believe it is necessary we may use Personal Information to investigate potential violations of our Terms of Service, to enforce those Terms of Service, to comply with law or to protect ours or others rights, property, or safety.</li>
 <li>If we or our business are acquired, your non-personal information and your Personal Information would be transferred to the buyer as part of that transaction, provided that the conditions of this Privacy Policy would continue to apply.</li>
 </ul>
-<h2>Third Party Advertisers</h2>
+<h2>8.  Third Party Advertisers</h2>
 <p>The ads appearing on our Services are delivered to users by our advertising partners. We share Website usage information about users with our advertising partners for the purpose of targeting our Internet banner advertisements on our Website.</p>
 <p>Our advertising partners may use cookies and clear GIFs on our Services, which allows them to recognize a user’s cookie when a user visits the Website or Services. The information that our advertising partners collect and share through this technology is not Personal Information.</p>
-<p>For more information about our third-party advertisers, or to learn more about the choices available to you regarding this anonymous information, please contact  <a href="mailto:privacy@boundless.com">privacy@boundless.com</a>.</p>
-<h2>Third Party Social Network Sites.</h2>
-<p>By connecting to our Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain information about you with each other to enhance your use of each web site’s services.  You can stop or start sharing of your information through the Services with third party social network service providers by using the privacy settings under the Account page. You can also avoid sharing your Personal Information with third party social networks by not using your Third Party Social Networking Account to login to our Services.</p>
-<h2>Legal Disclaimer.</h2>
+<p>For more information about our third-party advertisers, or to learn more about the choices available to you regarding this anonymous information, please contact privacy@boundless.com.</p>
+<h2>9.  Third Party Social Network Sites.</h2>
+<p>By connecting to our Services with a Third Party Social Networking Account, you authorize Boundless and the third party social network service provider to share certain information about you with each other to enhance your use of each web site’s services. You can stop or start sharing of your information through the Services with third party social network service providers by using the privacy settings under the Account page. You can also avoid sharing your Personal Information with third party social networks by not using your Third Party Social Networking Account to login to our Services.</p>
+<h2>10. Legal Disclaimer.</h2>
 <p>We reserve the right to disclose your Personal Information as required by law and when we believe that disclosure is necessary to protect our rights; to comply with a judicial proceeding, court order, or legal process served on us or the Website; or in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of the business or asset to which the information pertains.</p>
-<h2>Choice and Opt-out</h2>
+<h2>11. Choice and Opt-out</h2>
 <p>We provide you the opportunity to ‘opt-out’ of having your Personal Information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on your profile account page.</p>
-<p>Some but not all third party advertising companies provide a mechanism to opt-out of their technology.    To opt-out of this activity with third party advertisers which are compliant with Network Advertising Initiative (NAI) requirements, please see the information available at NAI’s website at  <a href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/</a>.</p>
-<p>If you no longer wish to receive our communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at <a href="mailto:support@boundless.com">support@boundless.com</a>.</p>
-<h2>California Residents - Your California Privacy Rights</h2>
-<p>This Privacy Policy provides you a choice to opt-out regarding whether we share your Personal Information with third parties for their direct marketing purposes and information on how to exercise that choice.  We will not share your information with a third party for its direct marketing purposes, if you choose to opt out of our sharing of such information.  If you are a California resident and have questions about how we share information with third parties for their direct marketing purposes or about your ability to choose to opt out of that practice, please send an email that reads “Your California Privacy Rights” in subject line to: <a href="mailto:privacy@boundless.com">privacy@boundless.com</a>.  We are only required to respond to one request per customer each year.</p>
-<h2>Access to or Changing Your Information.</h2>
-<p>If your Personal Information changes, or if you no longer desire our Service, you may correct, update, delete or deactivate it emailing our Customer Support at <a href="mailto:support@boundless.com">support@boundless.com</a>, or by contacting us by postal mail at the contact information listed below.</p>
-<p>Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other Public Areas or social networking websites – that information can be seen, collected and used by others besides us.  We cannot be responsible for any unauthorized third-party use of such information.</p>
-<h2>Third party links</h2>
-<p>Occasionally, at our discretion, we may include or offer third party products or services on our Website.  These third party sites have separate and independent privacy policies.  We therefore have no responsibility or liability for the content and activities of these linked sites.  This Privacy Policy applies only to information collected by the Website. Nonetheless, we seek to protect the integrity of our Website and welcome any feedback about these sites.</p>
-<h2>Information You Post to Other Sites</h2>
-<p>Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking sites - that information can be seen, collected and used by others besides us.  We cannot be responsible for any unauthorized third-party use of such information.</p>
-<h2>Information Security</h2>
-<p>Boundless is committed to protecting the security and privacy of your information stored by us.  All data gathered on our Website is stored by us in a secure, password protected database.  Only we and our hosting provider have access to this database. We will protect Personal Information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  While all standard security protections are implemented by us and our hosting providers, we cannot guarantee the physical or electronic security of the servers and databases on which this Website is hosted.  We require our partners who receive your information to agree to security requirements consistent with this Privacy Policy.</p>
-<h2>Minors</h2>
-<p>Our Services are not directed to people under 13 years of age.  If you become aware that your child has provided us with Personal Information without your consent, please contact us at <a href="mailto:support@boundless.com">support@boundless.com</a>.  We do not knowingly collect Personal Information from children under 13.  If we become aware that a child under 13 has provided us with Personal Information, we take steps to remove that information and terminate the applicable account.</p>
-<h2>Terms of Service</h2>
-<p>Please also visit our  Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our Website.</p>
-<h2>Your Consent</h2>
-<p>By using the Website, you consent to our latest Privacy Policy.</p>
-<h2>Changes to our Privacy Policy</h2>
-<p>Boundless may update this Privacy Policy from time to time.  If we decide to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date at the top of this page.  If you have questions or concerns regarding our Privacy Policy, please contact us at: <a href="mailto:support@boundless.com">support@boundless.com</a></p>
-<h2>Contact Us</h2>
+<p>Some but not all third party advertising companies provide a mechanism to opt-out of their technology. To opt-out of this activity with third party advertisers which are compliant with Network Advertising Initiative (NAI) requirements, please see the information available at NAI’s website athttp://www.networkadvertising.org/choices/.</p>
+<p>If you no longer wish to receive our communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at <a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>.</p>
+<h2>12. California Residents - Your California Privacy Rights</h2>
+<p>This Privacy Policy provides you a choice to opt-out regarding whether we share your Personal Information with third parties for their direct marketing purposes and information on how to exercise that choice. We will not share your information with a third party for its direct marketing purposes, if you choose to opt out of our sharing of such information. If you are a California resident and have questions about how we share information with third parties for their direct marketing purposes or about your ability to choose to opt out of that practice, please send an email that reads “Your California Privacy Rights” in subject line to: privacy@boundless.com. We are only required to respond to one request per customer each year.</p>
+<h2>13. Access to or Changing Your Information.</h2>
+<p>If your Personal Information changes, or if you no longer desire to use the Services, you may correct, update, delete or deactivate it emailing our Customer Support at <a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>, or by contacting us by postal mail at the contact information listed below.</p>
+<p>Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other Public Areas or social networking websites – that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
+<h2>14. Third Party links</h2>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our Website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites.</p>
+<h2>15. Information You Post to Other Sites</h2>
+<p>Please keep in mind that whenever you voluntarily make your Personal Information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking sites - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
+<h2>16. Information Security</h2>
+<p>Boundless is committed to protecting the security and privacy of your information stored by us. All data gathered by us through the Services is stored by us in a secure, password protected database.  Only we and our hosting provider have access to this database. We will protect Personal Information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. While all standard security protections are implemented by us and our hosting providers, we cannot guarantee the physical or electronic security of the servers and databases on which the Services is hosted. We require our partners who receive your information to agree to security requirements consistent with this Privacy Policy.</p>
+<h2>17. Terms of Service</h2>
+<p>Please also visit our Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Services.</p>
+<h2>18. Your Consent</h2>
+<p>By using the Services, you consent to our latest Privacy Policy.</p>
+<h2>19. Changes to our Privacy Policy</h2>
+<p>Boundless may update this Privacy Policy from time to time as set forth above. If you have questions or concerns regarding our Privacy Policy, please contact us at:<a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a></p>
+<h2>20. Contact Us</h2>
 <p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p>
-<div class="indented">
-<p>
+<address>
 Boundless Learning, Inc.
 <br>
-207 South Street
+268 Summer Street
 <br>
-Boston, MA 02111
+Boston, MA 02210
 <br>
 boundless.com
 <br>
 <a href="mailto:support@boundless.com?subject=General Query">support@boundless.com</a>
-</p>
-</div>
-<p class="last-updated">
-<strong>
-<em>Copyright © 2015 Boundless Learning, Inc. Some Rights Reserved.</em>
-</strong>
-</p>
+</address>
+<p class="last-updated">Copyright © 2016 Boundless Learning, Inc. Some Rights Reserved.</p>
 </div>
 </div>
 </section>
@@ -373,82 +381,82 @@ Subjects
 </h5>
 <ul class="footer__subject-list">
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/accounting/">Accounting</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/accounting/">Accounting</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/algebra/">Algebra</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/algebra/">Algebra</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/art-history/">Art History</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/art-history/">Art History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/biology/">Biology</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/biology/">Biology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/business/">Business</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/business/">Business</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/calculus/">Calculus</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/calculus/">Calculus</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/chemistry/">Chemistry</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/chemistry/">Chemistry</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/communications/">Communications</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/communications/">Communications</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/computer-science/">Computer Science</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/computer-science/">Computer Science</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/economics/">Economics</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/economics/">Economics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/education/">Education</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/education/">Education</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/finance/">Finance</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/finance/">Finance</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/management/">Management</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/management/">Management</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/marketing/">Marketing</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/marketing/">Marketing</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/microbiology/">Microbiology</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/microbiology/">Microbiology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/music/">Music</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/music/">Music</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/philosophy/">Philosophy</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/philosophy/">Philosophy</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/physics/">Physics</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/physics/">Physics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/physiology/">Physiology</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/physiology/">Physiology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/political-science/">Political Science</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/political-science/">Political Science</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/psychology/">Psychology</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/psychology/">Psychology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/sociology/">Sociology</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/sociology/">Sociology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/statistics/">Statistics</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/statistics/">Statistics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/u-s-history/">U.S. History</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/u-s-history/">U.S. History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/world-history/">World History</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/world-history/">World History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="https://www.boundless.com/writing/">Writing</a>
+<a data-push="true" target="blank" href="https://www.boundless.com/writing/">Writing</a>
 </li>
 </ul>
 </div>
@@ -458,64 +466,64 @@ Subjects
 Products
 </h5>
 <ul class="footer__products-list">
-<li class="footer__products-list-item"><a href="https://www.boundless.com/teaching/">Teaching</a></li>
-<li class="footer__products-list-item"><a href="https://marketplace.boundless.com/">Textbooks</a></li>
-<li class="footer__products-list-item"><a href="https://marketplace.boundless.com/boost/">Boost</a></li>
-<li class="footer__products-list-item"><a href="https://www.boundless.com/subjects/quizzes/">Quizzes</a></li>
-<li class="footer__products-list-item"><a href="https://www.boundless.com/subjects/powerpoint-templates/">PowerPoints</a></li>
-<li class="footer__products-list-item"><a href="https://www.boundless.com/canvas/">Canvas Integration</a></li>
-<li class="footer__products-list-item"><a href="https://www.boundless.com/institutions/">Institutions</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/students/">For Students</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/teaching/">For Educators</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/institutions/">For Institutions</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://marketplace.boundless.com/">Marketplace</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/subjects/quizzes/">Quizzes</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/subjects/powerpoint-templates/">PowerPoints</a></li>
+<li class="footer__products-list-item"><a target="blank" href="https://www.boundless.com/canvas/">Canvas Integration</a></li>
 </ul>
 </div>
 <div class="footer__subgroup">
+<div class="company-subgroup">
 <h5 class="footer__header">
 Boundless
 </h5>
 <ul class="footer__company-links-list">
-<li class="footer__company-links-list-item"><a href="https://www.boundless.com/careers/">Careers</a></li>
-<li class="footer__company-links-list-item"><a href="https://www.boundless.com/about-us/">About Us</a></li>
-<li class="footer__company-links-list-item"><a href="https://www.boundless.com/team/">Team</a></li>
-<li class="footer__company-links-list-item"><a href="https://www.boundless.com/press/">Press</a></li>
-<li class="footer__company-links-list-item"><a href="https://www.boundless.com/community/">Community</a></li>
-<li class="footer__company-links-list-item"><a href="http://blog.boundless.com/">Blog</a></li>
+<li class="footer__company-links-list-item"><a target="blank" href="https://www.boundless.com/careers/">Careers</a></li>
+<li class="footer__company-links-list-item"><a target="blank" href="https://www.boundless.com/about-us/">About Us</a></li>
+<li class="footer__company-links-list-item"><a target="blank" href="https://www.boundless.com/partners/">Partners</a></li>
+<li class="footer__company-links-list-item"><a target="blank" href="https://www.boundless.com/press/">Press</a></li>
+<li class="footer__company-links-list-item"><a target="blank" href="https://www.boundless.com/community/">Community</a></li>
 </ul>
 </div>
 </div>
-<div class="footer__group">
-<ul class="footer__social-links-list">
-<li class="footer__social-links-list-item">
-<a class="footer__social-links-link facebook" href="https://www.facebook.com/GoBoundless" target="_blank" title="Boundless on Facebook">
-Facebook
-</a>
-</li>
-<li class="footer__social-links-list-item">
-<a class="footer__social-links-link twitter" href="http://twitter.com/GoBoundless" target="_blank" title="Boundless on Twitter">
-Twitter
-</a>
-</li>
-<li class="footer__social-links-list-item">
-<a class="footer__social-links-link googleplus" href="https://plus.google.com/100595869169508295306" rel="publisher" target="_blank" title="Boundless on Google+">
-Google+
-</a>
-</li>
-<li class="footer__social-links-list-item">
-<a class="footer__social-links-link tumblr" href="http://goboundless.tumblr.com/" target="_blank" title="Boundless on Tumblr">
-Tumblr
-</a>
-</li>
+<div class="footer__subgroup">
+<div class="follow-us-subgroup">
+<h5 class="footer__header">
+Follow Us
+</h5>
+<ul class="footer__follow-us-links-list">
+<li class="footer__follow-us-links-list-item"><a target="blank" title="Boundless on Facebook" href="https://www.facebook.com/GoBoundless">Facebook</a></li>
+<li class="footer__follow-us-links-list-item"><a target="blank" title="Boundless on Twitter" href="http://twitter.com/GoBoundless">Twitter</a></li>
+<li class="footer__follow-us-links-list-item"><a target="blank" href="http://blog.boundless.com/">Blog</a></li>
 </ul>
-<div class="footer__support">
-<span class="footer__support-text">Questions or comments?</span>
-<a class="footer__support-link" href="http://help.boundless.com">Visit support
-<i class="icon-long-arrow-right"></i>
-</a></div>
+</div>
+</div>
+<div class="footer__subgroup">
+<div class="questions-subgroup">
+<h5 class="footer__header">
+Questions?
+</h5>
+<ul class="footer__questions-links-list">
+<li class="footer__questions-links-list-item"><a target="blank" href="http://support.boundless.com">Visit Support</a></li>
+<li class="footer__questions-links-list-item"><a target="blank" href="mailto:support@boundless.com">Email Us</a></li>
+</ul>
+</div>
+</div>
+<div class="footer__subgroup">
+<h5 class="footer__header">
+Legal
+</h5>
+<ul class="footer__legal-links-list">
+<li class="footer__legal-links-list-item"><a target="blank" href="https://www.boundless.com/terms/">Terms of Service</a></li>
+<li class="footer__legal-links-list-item"><a target="blank" href="https://www.boundless.com/privacy/">Privacy</a></li>
+</ul>
+</div>
 </div>
 <div class="footer__footer">
 <p>Except where noted, content and user contributions on this site are licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> with attribution required.</p>
-<p>
-<a class="footer__usage-link" href="https://www.boundless.com/privacy/">Privacy</a>
-<a class="footer__usage-link" href="https://www.boundless.com/terms/">Terms</a>
-</p>
 </div>
 </div>
 </footer>
@@ -528,6 +536,7 @@ Tumblr
   var _event_queue = _event_queue || [];
   var browser_supported = true;
 </script>
+<script src="//js.pusher.com/2.2/pusher.min.js"></script>
 <script>
   window.PageData = (window.PageData || {});
 </script>
@@ -543,17 +552,19 @@ window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"id":682,"name
   
   (function (Boundless) {
   
+    document.domain = 'boundless.com';
+  
     constants = {
-      API: "https://www.boundless.com:443/api/public",
-      APP_URL: "https://www.boundless.com:443",
+      API: "https://www.boundless.com/api/public",
+      APP_URL: "https://www.boundless.com",
       BOOK_PRICE: 9.99,
       COURSE_PRICE: 29.99,
       COOKIE_DOMAIN: ".boundless.com",
       DEBUG: (window.location.href.indexOf('debug') != -1) || false,
       ENV: "production",
-      FIGURES_CDN: "//figures.boundless.com",
+      FIGURES_CDN: "//figures.boundless-cdn.com",
       FIGURES_URL: "http://figures.boundless.com",
-      HOST_DOMAIN: "www.boundless.com:443",
+      HOST_DOMAIN: "www.boundless.com",
       PROTOCOL: "https",
       WWW_HOST: "www.boundless.com",
       MARKETPLACE_HOST: "marketplace.boundless.com",
@@ -596,7 +607,8 @@ window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"id":682,"name
   })(window.Boundless);
 </script>
 
-<script src="https://assets.boundless.com/assets/global/core-be70a5f55b83846a329f2b1e8ab81c3e.js"></script>
+<script src="https://boundless-production.boundless-cdn.com/assets/shared-f72840b5961353d728d3eddb38556697.js"></script>
+<script src="https://boundless-production.boundless-cdn.com/assets/global/core-ad7d5795a5ae41ec895ffb01a559eb4b.js"></script>
 <script src="https://js.stripe.com/v2/"></script>
 <script>
   Boundless.PageCallbacks.push(function() {
@@ -605,8 +617,7 @@ window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"id":682,"name
     })
   })
 </script>
-<script src="https://assets.boundless.com/assets/marketing_site/application-839b272ec98c8df99f41127ab0c2aec3.js"></script>
-<script src="https://assets.boundless.com/assets/notifications/application-b5b2a9cf4ba53a46f217f48b1565fc98.js"></script>
+<script src="https://boundless-production.boundless-cdn.com/assets/marketing_site/application-a88df8801760235fc5a5e11f94910eab.js"></script>
 
 
 <script>
@@ -633,7 +644,6 @@ window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"id":682,"name
     }, 60000);
   });
 </script>
-<script src="//js.pusher.com/2.2/pusher.min.js"></script>
 <noscript>
 <div style='display:inline;'>
 <img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004080308/?value=0&amp;label=SnMoCKyoxgQQtJnk3gM&amp;guid=ON&amp;script=0' style='border-style:none;' width='1'>
@@ -669,7 +679,7 @@ MathJax.Hub.Config({
   }
 });
 </script>
-<script src="//mathjax.boundless.com/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="//cdn.mathjax.org/mathjax/2.6-latest/MathJax.js"></script>
 <!-- / Retargeting if initial purchase was just made -->
 <script type="text/javascript">
   var google_conversion_id = 1004080308;
