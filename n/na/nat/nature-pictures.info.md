@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature-pictures.info privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082606id_/http%3A//www.nature-pictures.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature-pictures.info privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415185823id_/http%3A//www.nature-pictures.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nature Pictures
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Bozgo is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.nature-pictures.info/contact-us/ "contact us").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
