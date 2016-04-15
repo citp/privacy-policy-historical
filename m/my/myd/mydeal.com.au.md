@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907120720id_/http%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415065849id_/http%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-[MyDeal.com.au](http://mydeal.com.au/) (“Site”) is owned and operated by [MyDeal.com.au](http://mydeal.com.au/) Pty Ltd, ABN 60 150 104 715 (“MyDeal”). 
+MyDeal.com.au (“Site”) is owned and operated by E-COM (Aus) Pty Ltd, ABN 60 150 104 715 (“MyDeal”).
 
 MyDeal respects your privacy and is committed to protecting your personal information in accordance with the National Privacy Principles of the Privacy Act 1988 (Cth). Personal information broadly means information or an opinion about an individual whose identity is apparent, or can be reasonably ascertained from that information or opinion. Our Privacy Policy sets out MyDeal’s policies relating to the collection and use of your personal information. It applies to your conduct on the Site and by using the Site, you agree to and consent to the collection, use and disclosure of personal information by MyDeal according to this Privacy Policy. 
 
