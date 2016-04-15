@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivamerchant.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127172331id_/https%3A//www.miva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivamerchant.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416013717id_/http%3A//www.miva.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
