@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamtuner.me privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807064639id_/http%3A//streamtuner.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamtuner.me privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415234146id_/http%3A//streamtuner.ag/privacy-policy) for the most accurate reproduction.*
 
 # Streamtuner Privacy Policy
 
