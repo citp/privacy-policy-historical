@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201080421id_/http%3A//www.charityjob.co.uk/info/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charityjob.co.uk privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415035113id_/https%3A//www.charityjob.co.uk/info/legal/privacypolicy) for the most accurate reproduction.*
 
 # CharityJob - Privacy and Cookie Policy
 
