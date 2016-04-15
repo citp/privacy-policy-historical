@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906053748id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2016-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160415120819id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
     <title>Kimono : Turn websites into structured APIs from your browser in seconds</title>
@@ -50,7 +50,7 @@
       <!-- <a class="navbar-brand" href="/" target="_self">kim<span>o</span>n<span>o</span></a> -->
       <a class="navbar-brand" href="/" target="_self" style="text-transform:none">kimono<span>labs</span></a>
       <!-- <p class="navbar-text hidden-sm hidden-xs">Create APIs where they don't exist</p> -->
-      <p class="beta-tag">BETA</p>
+      <p ng-if="false" class="beta-tag">BETA</p>
       <a class="navbar-text kim-new" ng-show="flags.new_features.length > 0" title="New Features" ng-class="{'active':flags.showNotificationPanel, 'highlighted': size(new_features) > 0}" ng-click="openNotifications()"></a>
       <p ng-show="size(new_features) > 0" class="beta-tag kim-feature-count">{{size(new_features)}}</p>
     </div>
@@ -58,41 +58,21 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://builtwith.kimonolabs.com" target="_self">#BuiltWithKimono</a></li>
-        <li ng-class="isActive('/pricing')"><a href="/pricing" target="_self">Pricing</a></li>
-        <li ng-class="isActive('/apidocs')"><a href="/apidocs" target="_self">API Docs</a></li>
+        <!-- <li><a href="http://builtwith.kimonolabs.com" target="_self">#BuiltWithKimono</a></li> -->
+        <li ng-class="isActive('/desktop')"><a href="/desktop" target="_self">Download Desktop App</a></li>
+        <li ng-class="isActive('/desktop')"><a href="/faq" target="_self">FAQ</a></li>
         <li><a href="http://help.kimonolabs.com/hc/en-us" target="_self">Help Center</a></li>
         <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
-        <li class="dropdown" dropdown="" ng-show="global.authenticated">
-          <a href="#" class="dropdown-toggle" dropdown-toggle="" id="UserMenu">{{global.user.name}} <b class="caret"></b></a>
-          <ul class="dropdown-menu" aria-labelledby="UserMenu">
-            <li ng-class="isActive('/profile')"><a href="/account" target="_self">Account</a></li>
-            <li ng-class="isActive('/apis')"><a href="/apis" target="_self">My APIs</a></li>
-            <li ng-class="isActive('/apps')"><a href="/apps" target="_self">My Apps</a></li>
-            <li ng-class="isActive('/newapi')"><a href="/newapi" target="_self">Combine APIs</a></li>
-            <li ng-class="isActive('/newapp')"><a href="/newapp" target="_self">App Builder</a></li>
-          </ul>
-        </li>
-        <li ng-if="false" ng-show="user.superuser" class="dropdown">
-          <a href="#" class="dropdown-toggle">Admin <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li ng-class="isActive('/admin/beta')"><a href="/admin/beta" target="_self">Beta Invites</a></li>
-            <li ng-class="isActive('/admin/users')"><a href="/admin/users" target="_self">Users</a></li>
-            <li ng-class="isActive('/admin/apis')"><a href="/admin/apis" target="_self">All APIs</a></li>
-            <li ng-class="isActive('/admin/apps')"><a href="/admin/apps" target="_self">All Apps</a></li>
-            <li ng-class="isActive('/admin/support')"><a href="/admin/support" target="_self">Support Tickets</a></li>
-            <li ng-class="isActive('/admin/errors')"><a href="/admin/errors" target="_self">Server Errors</a></li>
-          </ul>
-        </li>
-        <li ng-show="global.authenticated"><a href="/signout" target="_self">Logout</a></li>
-        <li ng-class="isActive('/login')" ng-hide="global.authenticated" id="LoginLink"><a href="/login" target="_self">Log in</a></li>
+        <!-- <li ng-class="isActive('/profile')" ng-show="global.authenticated"><a href="/account" target="_self">{{global.user.name}}</a></li> -->
+        <!-- <li ng-show="global.authenticated"><a href="/signout" target="_self">Logout</a></li> -->
+        <li ng-class="isActive('/forgotpassword')" id="LoginLink"><a href="/forgotpassword" target="_self">Reset Password</a></li>
         <!-- <li ng-hide="global.authenticated" class="hidden-xs" id="LoginPopover"><a href="#" class="login-popover">Log in</a></li> -->
-        <!-- <li ng-hide="global.authenticated"><a href="/signup" target="_self">Sign up</a></li> -->
+<!--         <li ng-hide="global.authenticated"><a href="/signup" target="_self">Sign up</a></li>
         <li>
           <form ng-hide="global.authenticated" class="navbar-right navbar-form">
             <a class="btn btn-primary btn-sm" href="/signup" target="_self">Sign up</a>
           </form>
-        </li>
+        </li> -->
 
         <li>
           <form ng-submit="submitSearch()">
@@ -184,48 +164,17 @@
     <div id="Footer">
   <div class="container">
     <div class="row">
-    <div class="col-md-2">
-      <h4>© 2015 kimonolabs, inc.</h4>
+    <div class="col-md-8">
+      <h4>© 2016 kimonolabs, inc.</h4>
     </div>
     <div class="col-md-2">
       <h4>Company</h4>
       <ul>
-        <li><a href="/about" target="_self">About</a></li>
+        <li><a href="/faq" target="_self">FAQ</a></li>
         <li><a href="/team" target="_self">Team</a></li>
-        <li><a href="/jobs" target="_self">Jobs</a></li>
         <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
         <li><a href="/terms" target="_self">Terms</a></li>
         <li><a href="/privacy" target="_self">Privacy</a></li>
-      </ul>
-    </div>
-    <div class="col-md-2">
-      <h4>Solutions</h4>
-      <ul>
-        <li><a href="/finance" target="_self">Finance</a></li>
-        <li><a href="/sec/explorer" target="_self">SEC API Explorer</a></li>
-        <li><a href="/sec/docs" target="_self">SEC API Docs</a></li>
-      </ul>
-    </div>
-    <div class="col-md-2">
-      <h4>Showcase</h4>
-      <ul>
-        <li><a href="http://builtwith.kimonolabs.com" target="_self">#BuiltWithKimono</a></li>
-        <li><a href="/bitcoin/correlator" target="_self">Bitcoin Correlator</a></li>
-        <li><a href="/sochi/showcase" target="_self">Sochi Showcase</a></li>
-        <li><a href="/sochi/explorer" target="_self">Sochi API</a></li>
-        <li><a href="/sochi/docs" target="_self">Sochi API Docs</a></li>
-        <li><a href="/worldcup/explorer" target="_self">World Cup API</a></li>
-        <li><a href="/worldcup/docs" target="_self">World Cup API Docs</a></li>
-        <li><a href="/marchmadness/explorer" target="_self">March Madness API</a></li>
-        <li><a href="/marchmadness/docs" target="_self">March Madness API Docs</a></li>
-      </ul>
-    </div>
-    <div class="col-md-2">
-      <h4>Help</h4>
-      <ul>
-        <li><a href="http://help.kimonolabs.com/hc/en-us" target="_self">Help Center</a></li>
-        <li><a href="/learn" target="_self">Video tutorials</a></li>
-        <li><a href="/support" target="_self">Support</a></li>
       </ul>
     </div>
     <div class="col-md-2">
@@ -246,9 +195,8 @@
   </div>
 
 </div>
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-<script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/kfah0efv5d/analytics.min.js"></script><script src="//cdn.optimizely.com/js/1853380170.js"></script>
-<script type="text/javascript">
+    <!-- <script src="//cdn.optimizely.com/js/1853380170.js"></script> -->
+<script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/kfah0efv5d/analytics.min.js"></script><script type="text/javascript">
   window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9";
   if (window.location.host === 'localhost' || window.location.host === 'localhost:4000' || window.location.host === 'localhost:3000' ) {
     window.analytics.load("tu8x6gusvq"); //dev
