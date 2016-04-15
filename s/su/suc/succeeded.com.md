@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the succeeded.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222103252id_/http%3A//www.succeeded.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the succeeded.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415223625id_/http%3A//www.succeeded.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
