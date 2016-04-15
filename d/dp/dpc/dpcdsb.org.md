@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpcdsb.org privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122025819id_/http%3A//www.dpcdsb.org/CEC/Admin/Contact/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpcdsb.org privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415152007id_/http%3A//www.dpcdsb.org/CEC/Admin/Contact/Privacy%2BPolicy.htm) for the most accurate reproduction.*
 
 # Dufferin-Peel Catholic District School Board - Contact - Privacy Policy
 
