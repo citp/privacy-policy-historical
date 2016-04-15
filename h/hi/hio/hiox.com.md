@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hiox.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021051id_/http%3A//hiox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiox.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416012723id_/https%3A//www.hiox.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | HIOX Softwares Private Limited
-
-Authenticating...
 
 #### Information collected by Hiox.com from users:
 
@@ -55,8 +53,8 @@ Privacy policy is subjected to change periodically as the contents of the site g
 
 A URL (Uniform Resource Locator) is the complete web address of a file or document you view in the address bar when using the Internet. Address bar is the one where you type the name of the website and it is located at the top of the page. An example of a URL is: 
 
-http://hiox.com/index.php  
-http is the protocol  
+https://hiox.com/index.php  
+https is the protocol  
 hiox.com is the server  
 index.php is the filename 
 
@@ -72,7 +70,7 @@ An Internet Protocol (IP) address is a set of numbers that is automatically assi
 
 ##### Domain Name
 
-A domain name is a part of the URL which identifies a particular web page. For example, in the URL http://hiox.com/server-maintenance-mgmt-service.php, the domain name is hiox.com.
+A domain name is a part of the URL which identifies a particular web page. For example, in the URL https://hiox.com/index.php, the domain name is hiox.com.
 
   
 
@@ -88,4 +86,4 @@ The cookie automatically identifies your computer, but not your identity, to our
 
 ##### Browser
 
-A browser, short for web browser, is a software application used to locate and display web pages when you search for a website. Two popular browsers are Netscape Navigator and Microsoft Internet Explorer. [Contact us](https://web.archive.org/web/20150315021051id_/http%3A//hiox.com/contact-us.php) for any queries or concerns in private policy.
+A browser, short for web browser, is a software application used to locate and display web pages when you search for a website. Two popular browsers are Netscape Navigator and Microsoft Internet Explorer. [Contact us](https://web.archive.org/web/20160416012723id_/https%3A//www.hiox.com/contact-us.php) for any queries or concerns in private policy.
