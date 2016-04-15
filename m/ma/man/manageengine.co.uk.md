@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220105951id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415022442id_/https%3A//manageengine.co.uk/privacy.html) for the most accurate reproduction.*
 
 # ManageEngine Privacy Policy
 
 12th October 2006
 
-[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
+[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](https://www.manageengine.co.uk/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
 
 **Our postal address is**
 
@@ -62,7 +62,7 @@ We make every effort including periodic reviews to ensure that personal informat
 
 ## Notification of Changes 
 
-Any changes to our privacy policy will be posted on our websites in order to keep you informed of any changes in nature of information collected and manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at <http://www.manageengine.com/privacy.html> periodically.
+Any changes to our privacy policy will be posted on our websites in order to keep you informed of any changes in nature of information collected and manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at [https://www.manageengine.com/privacy.html](https://web.archive.org/privacy.html) periodically.
 
 ## END OF PRIVACY POLICY
 
