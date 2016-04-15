@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountemps.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008010922id_/http%3A//www.roberthalf.com/accountemps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountemps.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415130456id_/https%3A//www.roberthalf.com/accountemps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Accountemps
 
