@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyhealthpost.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201801id_/http%3A//dailyhealthpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhealthpost.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415150058id_/http%3A//dailyhealthpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Health Post
 
