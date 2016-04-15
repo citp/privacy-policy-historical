@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portentinteractive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052939id_/http%3A//www.portent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portentinteractive.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415231801id_/http%3A//www.portent.com/privacy) for the most accurate reproduction.*
 
 # Portent, Inc. Privacy Policy & Terms of Use - Portent
 
