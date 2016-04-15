@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028082953id_/https%3A//www.laserfiche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserfiche.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415112721id_/https%3A//www.laserfiche.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Laserfiche
+# Privacy Policy
 
 ### Privacy Statement for Consumer Transactions
 
@@ -15,7 +15,7 @@ We can be reached via e-mail at info@laserfiche.com.
 
 You can reach us by telephone at **800-985-8533**.
 
-When you visit our Website, [www.laserfiche.com](http://www.laserfiche.com/), our Web server automatically recognizes your domain name and e-mail address (where possible).
+When you visit our Website, [www.laserfiche.com](https://www.laserfiche.com/), our Web server automatically recognizes your domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Website, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, and the e-mail addresses of those who make postings to our chat areas. We also collect aggregate information on what pages visitors access or view, information volunteered by the visitor, such as survey information and/or site registrations, name and address, telephone number, and payment information (e.g., credit card number and billing address).
 
