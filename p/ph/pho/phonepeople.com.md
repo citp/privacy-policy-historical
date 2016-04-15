@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828063250id_/http%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepeople.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415083618id_/http%3A//www.onebox.com/signup/privacy) for the most accurate reproduction.*
 
 # Onebox® respects your privacy and delivers a virtual phone system.
 
@@ -8,7 +8,7 @@ Onebox® respects your privacy and delivers a virtual phone system.
 
 This Privacy Policy is effective on April 15, 2010 for current users, and upon acceptance for new users.
 
-j2 Global Communications, Inc. and its subsidiaries (the "Company", "we", "us" or "our") are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the Onebox Web Site, www.onebox.com ("Site"), and all Services offered now or in the future through the Site ("Services"). For purposes of this policy, "Onebox account" is defined as the account through which you access the Services.
+j2 Web Services, Inc. and its subsidiaries (the "Company", "we", "us" or "our") are dedicated to establishing trusting relationships with our users by respecting their personal identity and by promoting the use of fair information practices. This privacy policy ("Policy") covers the Onebox Web Site, www.onebox.com ("Site"), and all Services offered now or in the future through the Site ("Services"). For purposes of this policy, "Onebox account" is defined as the account through which you access the Services.
 
 We do not share information obtained from users through our Site or Services with third parties except as otherwise specifically set forth in this Policy.
 
@@ -77,7 +77,7 @@ The Company does not release personally identifying information about our custom
 To request customer information from the Company in a civil case, you must serve the Company with a valid subpoena, court order or search warrant and agree to the Company's terms of compensation below.   
 All civil subpoenas should be directed to:
 
-j2 Global Communications, Inc.  
+j2 Web Services, Inc.  
 Subpoena Department  
 6922 Hollywood Boulevard  
 5th Floor Los Angeles, CA 90028  
@@ -85,7 +85,7 @@ Fax: 1-310-943-2400
 
 Upon receipt of a valid subpoena, it is the Company's policy to notify the subscriber whose information is sought. In non-emergency circumstances, the Company will generally not produce the subpoenaed subscriber's identity information until approximately two weeks after receipt of the subpoena, unless a formal objection is filed by the customer or we are legally required to do so.
 
-The Company charges $90.00 per hour for research (plus additional fees if testimony or deposition is required), $0.25 per page, and $22.00 to respond via Federal Express. We will invoice the person or entity submitting the subpoena following receipt and the subpoena proponent must make payment within 15 days from the date of receipt of our invoice. Checks should be made out to j2 Global Communications, Inc.
+The Company charges $90.00 per hour for research (plus additional fees if testimony or deposition is required), $0.25 per page, and $22.00 to respond via Federal Express. We will invoice the person or entity submitting the subpoena following receipt and the subpoena proponent must make payment within 15 days from the date of receipt of our invoice. Checks should be made out to j2 Web Services, Inc.
 
   2. **Provision of Services**
 
