@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929081337id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panelbase.net privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415074432id_/https%3A//www.panelbase.net/terms/Privacy.aspx) for the most accurate reproduction.*
 
 # panelbase.net - Privacy Statement
 
-Last updated: 25th May 2012
+Last updated: 8th Oct 2015
 
 At panelbase.net we are committed to protecting your privacy. Panelbase.net is operated by [Dipsticks Research Ltd](http://www.dipsticksresearch.com/), a professional market research agency who are also members of the [Market Research Society's Company Partner Scheme](http://www.mrs.org.uk/companypartner/companies.htm). Our primary business is to conduct research studies in order to provide insights for our clients, whilst ensuring that the personal identity of those participating in our surveys is protected. Results from surveys and research discussions are not linked to the individual identity of respondents without the informed consent of those respondents.
 
 By using this site, you consent to the data practices described in this statement. 
 
-Personally identifiable information is only collected with your full knowledge and permission. In those circumstances where we retain personal information, it is used only for the administration of your panelbase.net account and by trusted personnel only. Your personal data is stored in secure systems and is never sold or otherwise transferred to any third party.
+Personally identifiable information (PII) is only collected with your full knowledge and permission. In those circumstances where we retain personal information, it is used only for the administration of your panelbase.net account and by trusted personnel only. Your personal data is stored in secure systems and is never sold or otherwise transferred to any third party unless explicitly stated in the survey briefing. If your PII is being shared, we will inform you of exactly what information will be passed to third parties and the reason for doing so.
 
 We reserve the right to retain data pertaining to; partial registrations, deactivated or unsubscribed member accounts and all associated website and survey activity for the purpose of protecting panelbase.net and to prevent potentially fraudulent activity. All such storage of data will adhere to the Data Protection Act 1998 and all other prevailing UK law at all times.
 
@@ -65,4 +65,4 @@ NE46 3RU
 Email: [support@panelbase.net](mailto:support@panelbase.net?subject=Privacy%20statement%20enquiry)  
 Tel: 0800 1958492 
 
-© 2005 - 2015 panelbase.net. All rights reserved. panelbase.net is a division of Dipsticks Research Ltd.
+© 2005 - 2016 panelbase.net. All rights reserved. panelbase.net is a division of Dipsticks Research Ltd.
