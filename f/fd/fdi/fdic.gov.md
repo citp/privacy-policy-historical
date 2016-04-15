@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdic.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230161933id_/https%3A//www.fdic.gov/about/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdic.gov privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415093409id_/https%3A//www.fdic.gov/about/privacy/policy) for the most accurate reproduction.*
 
 # FDIC: FDIC Privacy Policy
 
@@ -34,9 +34,9 @@ When you visit our Web site, we automatically collect some general, anonymous in
 
 FDIC Web sites may use cookies; however, cookies set by or on behalf of FDIC do not collect personal information about you, but only about your browser "session". This non-personal information is not disclosed to third parties, unless otherwise indicated below, and may be retained by FDIC for Web site improvement and customization purposes, in compliance with FDIC's policies for privacy and data safeguarding. Only the following types of cookies are used on FDIC Web sites: 
 
-**[Session cookies (Tier 1)](https://web.archive.org/web/20141230161933id_/https://www.fdic.gov/about/privacy/policy/definitions.html#session)** are sometimes used on FDIC sites to provide streamlined navigation and for basic Web metrics. 
+**[Session cookies (Tier 1)](https://web.archive.org/web/20160415093409id_/https://www.fdic.gov/about/privacy/policy/definitions.html#session)** are sometimes used on FDIC sites to provide streamlined navigation and for basic Web metrics. 
 
-**[Persistent cookies (Tier 2)](https://web.archive.org/web/20141230161933id_/https://www.fdic.gov/about/privacy/policy/definitions.html#persistent)** may be used on some FDIC sites to allow you to create and save customized reports or preference settings for future visits. To learn more about these cookies, please [click here](https://web.archive.org/web/20141230161933id_/https://www.fdic.gov/about/privacy/policy/definitions.html#fdic). Persistent cookies may also be used as part of a voluntary Web customer satisfaction survey that appears to a small percentage of our Web site visitors and is administered for FDIC by ForeSee Results, a third-party survey company. The survey provides an opportunity to provide feedback about the Web site, and the information is used to improve the services delivered via FDIC.gov. During periods when feedback is collected, a visitor's browser will automatically set a persistent cookie to register that a user has been presented with the survey and to avoid repeatedly requesting feedback on subsequent visits. 
+**[Persistent cookies (Tier 2)](https://web.archive.org/web/20160415093409id_/https://www.fdic.gov/about/privacy/policy/definitions.html#persistent)** may be used on some FDIC sites to allow you to create and save customized reports or preference settings for future visits. To learn more about these cookies, please [click here](https://web.archive.org/web/20160415093409id_/https://www.fdic.gov/about/privacy/policy/definitions.html#fdic). Persistent cookies may also be used as part of a voluntary Web customer satisfaction survey that appears to a small percentage of our Web site visitors and is administered for FDIC by ForeSee Results, a third-party survey company. The survey provides an opportunity to provide feedback about the Web site, and the information is used to improve the services delivered via FDIC.gov. During periods when feedback is collected, a visitor's browser will automatically set a persistent cookie to register that a user has been presented with the survey and to avoid repeatedly requesting feedback on subsequent visits. 
 
 Also, some videos embedded in the FDIC Web site, but hosted by third party-vendors, may set a persistent cookie when you click to play the videos. These cookies are stored on your computer's hard drive and allow the third-party video provider to record and track the Web site that you have visited and which videos you have played. The FDIC does not capture or manage these cookies, and is not responsible for how they are utilized. Further information regarding the handling of these cookies is available in the privacy statements available on the video providers' Web sites. If you would like to view the videos without the use of persistent cookies, please refer to the "opt-out" instructions provided below. 
 
@@ -50,7 +50,7 @@ Various employees of the FDIC may see the information you submit in the course o
 
   * **If you file a complaint,** it may be sent to the appropriate financial institution and/or federal, state, or local government agencies for action or information may be supplied to the Department of Justice in the event it appears that federal criminal statutes have been violated by an entity you are reporting to the FDIC. The primary use of personal information you provide will be to enable the government to contact you in the event we have questions regarding the information you have reported. 
   * **If you register with an FDIC online mailing list,** the information you provide may be used to send you FDIC communications or notify you about updates to our Web site. 
-  * **If you submit an order** via FDIC's _Online Product Catalog_ , the information you supply is used only by authorized FDIC personnel, vendors, and [Pay.gov](https://pay.gov/paygov/) for the sole purpose of processing and fulfilling your order. 
+  * **If you submit an order** via FDIC's _Online Product Catalog_ , the information you supply is used only by authorized FDIC personnel and vendors for the sole purpose of processing and fulfilling your order. 
   * **If you register for a non-deposit claim,** the information you provide will be used by FDIC to certify your account ownership and process/resolve your claim. The information you provide is not shared with third parties. 
 
 
@@ -81,7 +81,7 @@ Links to Web sites outside of the FDIC are provided for your convenience. Such u
 To learn about FDIC's general privacy practices, including a list of **Privacy Impact Assessments** , as required by the E-Government Act of 2002, please visit the FDIC Privacy Program page at [http://www.fdic.gov/privacy/](https://web.archive.org/privacy/). 
 
 **10\. Questions or Complaints**  
-If you have privacy-related questions or complaints, please e-mail [Privacy@fdic.gov](https://web.archive.org/web/20141230161933id_/https://www.fdic.gov/about/privacy/policy/Privacy@fdic.gov) or write to: 
+If you have privacy-related questions or complaints, please e-mail [Privacy@fdic.gov](mailto:Privacy@fdic.gov) or write to: 
 
 **FDIC Chief Privacy Officer  
 3501 Fairfax Drive, Room VS-A-7074  
