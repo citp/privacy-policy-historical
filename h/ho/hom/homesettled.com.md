@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesettled.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208230522id_/http%3A//homesettled.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesettled.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415191108id_/http%3A//homesettled.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeSettled
 
@@ -46,11 +46,11 @@ Keeping account information accurate and updated is essential. If the account in
 
 We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by HomeSettled, you should go over the privacy policies and other terms, as they could diverge from other sites. HomeSettled will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
-**Childrenâ€™s Privacy**
+**Children’s Privacy**
 
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their childrenâ€™s use of the Internet.
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-**Change in Companyâ€™s Ownership**
+**Change in Company’s Ownership**
 
 If by chance another company obtains the assets in the business of HomeSettled, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
