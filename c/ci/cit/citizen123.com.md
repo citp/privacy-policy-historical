@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citizen123.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114153617id_/http%3A//www.citizen123.com/Ahmedabad/Public-YP/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen123.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415041348id_/http%3A//citizen123.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Citizen123
+# Privacy Policy – Citizen123
 
 Back to Top
 
