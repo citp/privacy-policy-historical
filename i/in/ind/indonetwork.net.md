@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215115448id_/http%3A//www.indonetwork.net/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonetwork.net privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415074934id_/http%3A//www.indonetwork.net/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Indonetwork.net
 
