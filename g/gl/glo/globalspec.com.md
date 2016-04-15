@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113172006id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415105013id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IHS Engineering360
 
@@ -119,4 +119,4 @@ GlobalSpec will investigate your complaint and respond to you promptly.
 
 ###  GlobalSpec Events Giveaways: 
 
-Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20151113172006id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
+Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20160415105013id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
