@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024142140id_/https%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cable.co.uk privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415233623id_/https%3A//www.cable.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
