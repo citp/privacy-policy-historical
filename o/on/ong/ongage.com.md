@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongage.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321164424id_/https%3A//www.ongage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongage.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415112436id_/https%3A//www.ongage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The vendor-agnostic email marketing front-end platformThe vendor-agnostic email marketing front-end platform
 
