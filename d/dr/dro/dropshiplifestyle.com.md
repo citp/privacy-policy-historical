@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013115342id_/http%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416141201id_/https%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — How To Start a Drop Shipping / eCommerce Store
+# Privacy Policy — Drop Ship Lifestyle 4.0: How To Start a Drop Shipping / eCommerce Store
 
 Data Controller and Owner  
 Drop Ship Lifestyle,  
@@ -11,7 +11,7 @@ Among the types of Personal Data that this Application collects, by itself or th
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
 
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
-Any use of Cookies – or of other tracking tools – by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+Any use of Cookies – or of other tracking tools – by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the purpose of providing the service required by the User and for remarketing across Facebook, Google, YouTube, and Twitter.
 
 Failure to provide certain Personal Data may make it impossible for this Application to provide its services.  
 The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.  
