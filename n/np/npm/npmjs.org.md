@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060317id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416053329id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
 
 # npm
 
@@ -40,11 +40,11 @@ Like most website operators, npm, Inc. collects non-personally-identifying infor
 
 npm, Inc. also collects potentially personally-identifying information like Internet Protocol (IP) addresses. npm, Inc. does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-The npm website uses Google Analytics to monitor and analyze user behavior. This service provides npm, Inc. with information on users' demographics, age, location, and interest categories, when such information is available. This information is not used to identify individual users, but can in some cases be very specific. You can learn more about the information gathered and retained by this service at the [Google Analytics privacy policy](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad).
+The npm website uses Google Analytics to monitor and analyze user behavior. This service provides npm, Inc. with information on users' demographics, age, location, and interest categories, when such information is available. This information is not used to identify individual users, but can in some cases be very specific. You can learn more about the information gathered and retained by this service at the [Google Analytics privacy policy](https://support.google.com/analytics/answer/2700409?hl=en&utm_id=ad). You can opt out of Google Analytics entirely with the [Google Analytics opt-out browser addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
-You can opt out of Google Analytics entirely with the [Google Analytics opt-out browser addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
+The npm website uses Oracle Marketing Cloud to collect and manage leads for marketing purposes. Information on what data Oracle Marketing Cloud stores about users, how it is collected, and how it is used are available in [Oracle Marketing Cloud & Oracle Data Cloud Privacy Policy](http://www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy).
 
-The npm website uses HubSpot to collect and manage leads for marketing purposes. Full details of the information tracked by HubSpot can be found at the [HubSpot privacy policy](https://www.hubspot.com/legal/privacy-policy). We only contact users for marketing purposes when they have explicitly expressed interest in a product or service, for example by filling out a form expressing interest in a beta program. We never share contact information with third parties, or sell contact information to third parties.
+The npm website uses Optimizely to test the effects of changes to the npm website on users' browsing experiences. Information on what data Optimizely stores about users, how it is collected, and how it is used are available in [Optimizely's privacy policy](https://www.optimizely.com/privacy/).
 
 ## Collection of Personally Identifying Information
 
@@ -58,7 +58,7 @@ If users do not want their information tracked in this manner, they can opt to n
 
 ## Use of Personally Identifying Information
 
-We may use personally identifying information we have collected about you to provide you with news, notes, recommendations, and to operate our business and the npm service. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so.
+We may use personally identifying information we have collected about you, including your email address, to provide you with news, notes, and recommendations. You can opt out of receiving such messages at any time by using the "unsubscribe" links or directions at the ends of messages you receive. In addition, we use collected personally identifying information to operate our business and the npm service. We do not disclose your personal information to unaffiliated third parties who may want to offer you their own products and services unless you have requested or authorized us to do so.
 
 We may share your personal information with third parties or affiliates where it is necessary for us to complete a transaction or do something you have asked us to do. Likewise, we may share your personal information with third parties or affiliates with whom we have contracted to perform services on our behalf. Companies that act on our behalf are required to keep the personal information we provide to them confidential and to use the personal information we share only to provide the services we ask them to perform.
 
@@ -104,12 +104,12 @@ If you are a non-US user of the service, by using our service and providing us w
 
 If you have any questions or concerns about how we track user information, or how that information is used, please contact us at once.
 
-You may contact npm, Inc. via our [contact form](http://www.npmjs.com/contact), by emailing [privacy@npmjs.com](mailto:privacy@npmjs.com), or via snail mail at:
+You may contact npm, Inc. via our [contact form](http://www.npmjs.com/contact), by emailing [legal@npmjs.com](mailto:legal@npmjs.com), or via snail mail at:
 
 npm, Inc.  
-200 Frank Ogawa Plaza  
-Floor 5  
-Oakland CA 94610  
+1999 Harrison Street  
+Suite 1150  
+Oakland CA 94612  
 USA
 
 ## Privacy Policy Changes
