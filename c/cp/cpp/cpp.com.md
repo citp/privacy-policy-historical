@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905144631id_/https%3A//www.cpp.com/en/private.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416110536id_/https%3A//www.cpp.com/en/private.aspx) for the most accurate reproduction.*
 
 # CPP - Privacy Statement
 
