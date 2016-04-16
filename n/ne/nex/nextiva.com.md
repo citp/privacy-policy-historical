@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextiva.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811115511id_/http%3A//www.nextiva.com/downloads/NextivaPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextiva.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416073313id_/https%3A//www.nextiva.com/downloads/NextivaPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY
 
@@ -9,7 +9,7 @@ PRIVACY
 
 
                                        Nextiva® Privacy Policy
-This Privacy Policy identiﬁes and describes the way Nextiva, Inc. (“Nextiva”) uses and protects
+This Privacy Policy identifies and describes the way Nextiva, Inc. (“Nextiva”) uses and protects
 the information we collect about Customers and Users. All uses of Nextiva’s products and
 services, as well as visits to our websites, are subject to this Privacy Policy. This Policy applies to
 all Customers and Users. The Customer who holds the account with Nextiva is responsible for
@@ -22,9 +22,9 @@ Customer - A "Customer" is anyone who purchases Nextiva products or services. Wh
 Customer purchases retail products or services for use by others, those individuals also may be
 considered Customers for purposes of this Policy.
 User - A "User" is anyone who visits our websites.
-Personal Information - "Personal Information" is information that directly identiﬁes or
+Personal Information - "Personal Information" is information that directly identifies or
 reasonably can be used to identify an individual Customer or User. Examples include name,
-address, telephone number, e-mail address, Social Security number, and ﬁnancial account
+address, telephone number, e-mail address, Social Security number, and financial account
 number. Personal Information does not include Published Listing Information as discussed in
 more detail below or information that is readily available to the public through no fault of
 Nextiva.
@@ -41,7 +41,7 @@ and "web page."
 1. Information - We may collect different types of personal and other information based on your
    use of our products and services and our business relationship with you, including contact
    information; billing information, equipment, performance, Nextiva’s website usage, viewing
-                                                                                        © 2015 NEXTIVA, ALL RIGHTS RESERVED
+                                                                                        © 2016 NEXTIVA, ALL RIGHTS RESERVED
 
 
    and other technical information about your use of our network, services, products or websites.
@@ -72,8 +72,8 @@ and "web page."
    Subject to applicable legal restrictions, such as those that exist for Customer Proprietary
    Network Information (CPNI), the Nextiva family of companies may share your Personal
    Information with each other to make sure your experience is as seamless as possible, and you
-   have the full beneﬁt of what Nextiva and its subsidiaries have to offer. Customer Proprietary
-   Network Information (CPNI) is information that relates to the quantity, conﬁguration, type,
+   have the full benefit of what Nextiva and its subsidiaries have to offer. Customer Proprietary
+   Network Information (CPNI) is information that relates to the quantity, configuration, type,
    destination, location and amount of use of the telecommunications services you purchase from
    us, as well as the information contained in your bills for those services. We collect CPNI in the
    normal course of providing you with telecommunications services. Your telephone number,
@@ -82,12 +82,12 @@ and "web page."
    on our behalf, and only as necessary for them to perform those services. We require those
    non-Nextiva companies to protect any Personal Information they may receive in a manner
    consistent with this policy, and we do not provide Personal Information to non-Nextiva
-                                                                                      © 2015 NEXTIVA, ALL RIGHTS RESERVED
+                                                                                      © 2016 NEXTIVA, ALL RIGHTS RESERVED
 
 
    companies for the marketing of their own products and services without your consent. We
    may provide Personal Information to non-Nextiva companies or other third parties for
-   purposes such as emergencies, pursuant to court orders, identity veriﬁcation to prevent fraud
+   purposes such as emergencies, pursuant to court orders, identity verification to prevent fraud
    and identity theft, enforcing of property rights, or obtaining payment for products and services
    that appear on your Nextiva billing statements.
 3. Privacy Controls - You can review and correct your Personal Information collected by us. You
@@ -100,7 +100,7 @@ and "web page."
    particular advertisement. This helps us tailor ads to your interests. These cookies can not only
    help us ensure that you do not repeatedly see the same ads, but (if you opt-out) they can also
    help us prevent you from seeing targeted ads at all. The information collected with these
-   cookies is not personally-identiﬁable, and we do not associate it with your Personal
+   cookies is not personally-identifiable, and we do not associate it with your Personal
    Information.
    You may opt out of Nextiva’s use of data for internet-based advertising. Please keep in mind
    that even after you opt-out, you may still continue to see ads, but they will no longer be
@@ -110,7 +110,7 @@ and "web page."
    your cookies, you will need to opt-out again to avoid being served targeted ads in the future.
    Users can control the use of cookies at the individual browser level. If you reject cookies, you
    may still use our site, but your ability to use some features or areas of our site may be limited.
-   To opt out of the beneﬁts of our targeted ads, click here:
+   To opt out of the benefits of our targeted ads, click here:
                                           Disable Nextiva Cookie
    We have relationships with other third party advertising companies to place advertisements
    on this website and other websites, and to perform tracking and reporting functions for this
@@ -120,7 +120,7 @@ and "web page."
    Information in this process, and we do not give any Personal Information to them. However,
    this Privacy Statement does not cover the collection methods or use of the information
    collected by these entities. For more information about third party advertising, please visit the
-                                                                                       © 2015 NEXTIVA, ALL RIGHTS RESERVED
+                                                                                       © 2016 NEXTIVA, ALL RIGHTS RESERVED
 
 
    Network Advertising Initiative (NAI). Opt out of being targeted by many third party
@@ -135,8 +135,8 @@ and "web page."
    site, the information is publicly available, and Nextiva cannot prevent distribution and use of
    that information by other parties.
    Nextiva may enter into written product or service agreements with business customers that
-   contain speciﬁc provisions related to the conﬁdentiality, security or other handling of
-   information. When provisions of a written product or service agreement differ from or conﬂict
+   contain specific provisions related to the confidentiality, security or other handling of
+   information. When provisions of a written product or service agreement differ from or conflict
    with the provisions of this Policy, the terms of the written agreement will apply. In all other
    instances, the terms of this Policy apply.
 6. Security - We have established electronic and administrative safeguards designed to secure
@@ -159,7 +159,7 @@ and "web page."
    our telemarketing calls to that number.
    Our practices as described above are designed to satisfy state and federal legal requirements
    limiting marketing contacts. You should know that those laws and regulations — such as the
-                                                                                       © 2015 NEXTIVA, ALL RIGHTS RESERVED
+                                                                                       © 2016 NEXTIVA, ALL RIGHTS RESERVED
 
 
    requirements governing the state and federal "Do Not Call" lists — generally permit companies
@@ -179,7 +179,7 @@ and "web page."
    transition of service to another provider, as well as in the unlikely event of an insolvency,
    bankruptcy, or receivership in which Customer and User records would be transferred to
    another entity as a result of such a proceeding.
-   We reserve the right to update this Privacy Policy as necessary to reﬂect any changes we make
+   We reserve the right to update this Privacy Policy as necessary to reflect any changes we make
    and to satisfy legal requirements. If we make a material change to this Policy, we will post a
    prominent notice of the change on our websites, and provide you with other appropriate
    notice and choice regarding the use of your information, at least 30 days before the effective
@@ -190,8 +190,8 @@ and policies. You may e-mail us at marketing@nextiva.com or write to us at 8800
 E. Chaparral Road, Suite 300; Scottsdale, Arizona, 85250. If you believe you have been aggrieved
 by any act of ours in violation of the law, we encourage you to contact us directly at either of
 these addresses to resolve your question or issue.
-You also have the option of ﬁling a complaint with the FTC Bureau of Consumer Protection, using
+You also have the option of filing a complaint with the FTC Bureau of Consumer Protection, using
 an online form, or by calling toll-free 1-877-FTC-HELP (1-877-328-4357; TTY: 1-866- 653-
 4261. Other rights and remedies also may be available to you under federal or other applicable
 laws.
-                                                                                       © 2015 NEXTIVA, ALL RIGHTS RESERVED
+                                                                                       © 2016 NEXTIVA, ALL RIGHTS RESERVED
