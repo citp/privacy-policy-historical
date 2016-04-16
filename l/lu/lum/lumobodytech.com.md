@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumobodytech.com privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012104612id_/http%3A//www.lumobodytech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumobodytech.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416221058id_/http%3A//www.lumobodytech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lumo
 
