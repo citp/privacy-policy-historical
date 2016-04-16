@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nliteos.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203072955id_/http%3A//www.nliteos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nliteos.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416155738id_/http%3A//www.nliteos.com/privacy.html) for the most accurate reproduction.*
 
 # nLite - Privacy Policy
 
@@ -21,4 +21,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 Also now Adsense can serve ads from a [third-party vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149&ctx=sibling).
 
 Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20151203072955id_/http%3A//www.nliteos.com/contact.html). 
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20160416155738id_/http%3A//www.nliteos.com/contact.html). 
