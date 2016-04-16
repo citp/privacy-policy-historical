@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124338id_/http%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrofax.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416025132id_/http%3A//www.metrofax.com/privacy-policy) for the most accurate reproduction.*
 
 # MetroFax Internet Fax Privacy Policy
 
