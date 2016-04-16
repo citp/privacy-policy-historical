@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082301id_/https%3A//www.logos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logos.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417013927id_/https%3A//www.logos.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Software Bíblico Logos
+# Privacy - Logos Bible Software
 
 Faithlife Corporation (d.b.a. Logos Bible Software, Vyrso, Verbum, and Noet) is the parent of several sites—including but not limited to Logos.com, Biblia.com, Faithlife.com, Vyrso.com, Verbum.com, and Noet.com—that share the same user accounts. Your account with any of these brands is a single account with Faithlife Corporation
 
