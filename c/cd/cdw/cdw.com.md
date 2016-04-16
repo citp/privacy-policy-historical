@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063225id_/http%3A//www.cdw.com/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416155138id_/https%3A//www.cdw.com/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Terms and Conditions - Privacy Policy
 
 ### At CDW, we understand that your privacy is an important part of the trust you place in us. This Policy explains how personal information of CDW customers is collected, used and disclosed by CDW LLC and its U.S. subsidiaries and affiliated companies ("CDW" or "We"). This privacy policy ("Policy") applies to the websites, online activities, and online services of CDW, including CDW.com and CDW’s mobile applications (collectively, "our Sites") where we post our Policy. Except for CDW’s own online activities on third-party websites and online services where we post our Policy, this Policy does not apply to, and CDW is not responsible for, any other data practices of third-party websites and online services or the practices of other third parties. To learn about third-party data practices, please visit their respective privacy policies. This Policy also does not apply to CDW websites or online services that display or link to different privacy statements.
 
- **INFORMATION COLLECTED**
+**INFORMATION COLLECTED**
 
 We collect information about you in various ways, including the following. 
 
@@ -66,7 +66,7 @@ Ways we may share your personal information with third parties include the follo
 
 
 
-We may also share aggregated or anonymized information in a form that does not directly identify you.
+We may also share aggregated or anonymized information in a form that does not directly identify you. 
 
 **SECURITY OF YOUR PERSONAL INFORMATION**
 
