@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006145524id_/http%3A//enpass.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416132743id_/https%3A//www.enpass.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enpass
 
-Your privacy is important to Sinew. This statement describes the information practices for Sinew web sites, including what type of information is gathered and tracked, how the information is used.
+Your privacy is important to [Sinew Software Systems](http://www.sinew.io/). This statement describes the information practices for Sinew web sites, including what type of information is gathered and tracked, how the information is used.
 
 ### What Personal Information we collect
 
@@ -11,6 +11,8 @@ Your privacy is important to Sinew. This statement describes the information pra
 Sinew collects personal information when:
 
 \- you request support for a Sinew product;
+
+\- you register on our support forum;
 
 \- you request information or materials (e.g., whitepapers or newsletters);
 
@@ -54,4 +56,4 @@ Our web sites often provide links to third-party web sites, such as those of our
 
 Sinew reserves the right to change this policy from time to time. If we do make changes, the revised Privacy Statement will be posted on this site.
 
-This Privacy Statement was last amended on January 1, 2015.
+This Privacy Statement was last amended on March 11, 2016.
