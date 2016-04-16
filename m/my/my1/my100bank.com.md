@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2015-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151014081528id_/http%3A//www.my100bank.com/public/userfiles/Sept_2015_Privacy_Stmt.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my100bank.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416101200id_/https%3A//www.my100bank.com/public/userfiles/Sept_2015_Privacy_Stmt.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                              Rev 09/2015
+                                                                                              Rev 03/2016
                       WHAT DOES HOME BANCSHARES, INC. DO
 FACTS                 WITH YOUR PERSONAL INFORMATION?
                       Financial companies choose how they share your personal information. Federal law gives
@@ -44,45 +44,44 @@ Questions?            Call 1-888-372-9788 or go to www.my100bank.com
 
 Page 2
 Who we are
-                                           Bank Holding Company
+                                            Bank Holding Company
 Who is providing this notice?
-                                           Bank
-                                           Insurance Agency
-                                           Title Company
+                                            Bank
+                                            Insurance Agency
 What we do
-How does Home BancShares, Inc.          To protect your personal information from unauthorized access and
-protect my personal information?        use, we use security measures that comply with federal law. These
-                                        measures include computer safeguards and secured files and
-                                        buildings.
+How does Home BancShares, Inc.          To protect your personal information from unauthorized access
+protect my personal information?        and use, we use security measures that comply with federal law.
+                                        These measures include computer safeguards and secured files
+                                        and buildings.
 How does Home BancShares, Inc.          We collect your personal information, for example, when you
 collect my personal information?
-                                           open an account or deposit money
-                                           pay your bills or apply for a loan
-                                           use your credit or debit card
+                                            open an account or deposit money
+                                            pay your bills or apply for a loan
+                                            use your credit or debit card
                                         We also collect your personal information from others, such as credit
                                         bureaus, affiliates, or other companies.
 Why can’t I limit all sharing?          Federal law gives you the right to limit only
-                                           sharing for affiliates’ everyday business purposes—information about
-                                            your creditworthiness
-                                           affiliates from using your information to market to you
-                                           sharing for nonaffiliates to market to you
-                                        State laws and individual companies may give you additional rights to limit
-                                        sharing.
+                                            sharing for affiliates’ everyday business purposes—information
+                                             about your creditworthiness
+                                            affiliates from using your information to market to you
+                                            sharing for nonaffiliates to market to you
+                                        State laws and individual companies may give you additional rights to
+                                        limit sharing.
 Definitions
 Affiliates                              Companies related by common ownership or control. They can be
                                         financial and nonfinancial companies.
                                             Home BancShares, Inc. does not share with our affiliates.
 Nonaffiliates                           Companies not related by common ownership or control. They can be
                                         financial and nonfinancial companies.
-                                            Nonaffiliates we share with can include companies that perform
-                                            marketing services on our behalf to offer our products and services.
+                                             Home BancShares, Inc. does not share with nonaffiliates so they
+                                             can market to you.
 Joint Marketing                         A formal agreement between nonaffiliated financial companies that
                                         together market financial products or services to you.
                                             Our joint marketing partners include investment companies and
-                                            insurance companies.
+                                             insurance companies.
 List of Affiliates
      Home BancShares, Inc.
      Centennial Bank
      Centennial Insurance Agency, Inc.
      Cook Insurance Agency, Inc.
-     Grand Prairie Title Company
+     Freedom Insurance Group, Inc
