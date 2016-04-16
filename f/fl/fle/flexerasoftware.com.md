@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207194902id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416125302id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Flexera Software
 
 These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
-
-  * [Terms of Use](https://web.archive.org/enterprise/company/terms/tab/use)
-  * [Privacy](https://web.archive.org/enterprise/company/terms/tab/privacy)
-  * [Security Notifications](https://web.archive.org/enterprise/company/terms/tab/security-notifications)
-  * [Product Accessibility](https://web.archive.org/enterprise/company/terms/tab/product-accessibility)
-
-
 
 These pages explain the Terms of Use for Flexera Software websites, legal and privacy notices for details on how we collect, use and protect your personal information on the website, our security issue disclosure process and information on software products that are accessible by individuals with visual, auditory, and mobility impairments.
 
@@ -17,7 +10,7 @@ This privacy policy applies to [www.flexnetoperations.com](http://www.flexnetope
 
 Flexera Software respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our Website without giving us any information about yourself. On occasion, we may need your personal information to provide services that you request, or you may have the option choose to provide us with your personal information. This policy describes how we collect and use your personal information.
 
-[](https://privacy.truste.com/privacy-seal/Flexera-Software/validation?rid=abc20255-bfcb-43cf-99a3-70761f0bd9e5 "TRUSTe European Safe Harbor certification") Flexera Software has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the Websites [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexnetmanager.com](http://www.flexnetmanager.com/) and [www.flexnetoperations.com](http://www.flexnetoperations.com/). The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
+[](https://privacy.truste.com/privacy-seal/validation?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6 "TRUSTe Privacy Certification") The TRUSTe program covers the Websites [www.flexerasoftware.com](http://www.flexerasoftware.com/), [www.flexnetmanager.com](http://www.flexnetmanager.com/) and [www.flexnetoperations.com](http://www.flexnetoperations.com/). The TRUSTe program does not cover information that may be collected through downloadable software and does not cover information collected through our service platforms. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [contracts@flexerasoftware.com](mailto:contracts@flexerasoftware.com). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 Flexera Software complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Flexera Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Flexera Software's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -105,6 +98,8 @@ We display personal testimonials of satisfied customers on our site in addition 
 
 If you choose to use our referral service and refer your friend to apply on a certain open position in our careers page, we will ask you for your friend’s name, phone number and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Flexera Software does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
+When purchasing product from the online store, you may be asked to enter the personal information of someone else as a shipping contact. This information will be stored and used to: generate access to the Customer Community; generate access to the Product and Licensing Center; and will be the default contact for renewal opportunity.
+
 ### Behavioral Targeting / Re-Targeting
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
@@ -133,7 +128,7 @@ Flexera Software's Website contains links to other sites. Flexera Software does 
 
 ### Changes to this Privacy Policy
 
-We may update this privacy policy to reflect changes to our information practices. At the end of this Privacy Policy will be the last updated date for your information. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on this website prior to the change becoming effective. At the end of this Privacy Policy will be the last updated date for your information. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ### Inquiries or Suggestions
 
@@ -144,4 +139,4 @@ Flexera Software
 Itasca, IL 60143  
 (847) 466-4000
 
-This document was last updated March 31, 2015.
+This document was last updated February 23, 2016.
