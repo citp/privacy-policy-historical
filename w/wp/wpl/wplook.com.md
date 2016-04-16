@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wplook.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914045905id_/https%3A//wplook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wplook.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416021636id_/https%3A//wplook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPlook Studio
 
@@ -124,12 +124,8 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-WPlook Studio  
-Montreal  
-Canada  
-4515 Grand Boulevard  
-Quebec  
-H4B 2Y1  
+**WPlook Studio**  
+49 Rue Renoir, Saint-Constant, J5A 0E6, Canada  
 wplook (at) wplook.com
 
-Last Edited on 2015-02-02
+Last Edited on 2015-25-11
