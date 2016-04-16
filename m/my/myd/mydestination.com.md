@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924130738id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416232302id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy My Destination - My Destination
 
@@ -81,4 +81,4 @@ MY DESTINATION may amend this Privacy Policy from time to time and such amendmen
 
 This Privacy Policy will be governed by English law and the parties hereby submit to the exclusive jurisdiction of the English courts.
 
-"I haven't been everywhere, but it’s on my list" \- Susan Sontag
+"Travel and change of pace impart new vigor to the mind" \- Seneca
