@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaughns-1-pagers.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318141206id_/http%3A//www.vaughns-1-pagers.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaughns-1-pagers.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416070522id_/http%3A//www.vaughns-1-pagers.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Vaughn's Summaries
 
