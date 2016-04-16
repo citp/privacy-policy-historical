@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketlanguages.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221154127id_/http%3A//www.rocketlanguages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketlanguages.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416114235id_/http%3A//www.rocketlanguages.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Rocket Languages Privacy Policy
 
