@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910154435id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416173227id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | resource scheduling software | Resource Guru
 
