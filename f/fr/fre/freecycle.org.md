@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the freecycle.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113423id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecycle.org privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416032809id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.*
 
 # The Freecycle Network
-
-Please consider turning off your ad-blocking software for this site, and/or making a [donation](https://www.freecycle.org/donate). As a charitable nonprofit we rely on this income to keep this site running.   
-Big thank-you hug!
 
 changing the world  
 one gift at a time™
