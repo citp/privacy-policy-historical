@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltonvillage.co.za privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023045146id_/http%3A//hiltonvillage.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltonvillage.co.za privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416095051id_/http%3A//hiltonvillage.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HiltonVillage.co.za | HiltonVillage.co.za
 
