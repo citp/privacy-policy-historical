@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154423id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturevillage.co.uk privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416093825id_/http%3A//www.furniturevillage.co.uk/Customer-Services/Privacy-Policy/Privacy.aspx) for the most accurate reproduction.*
 
 # Furniture Village Privacy Policy, We Promise We’re not Spies
 
