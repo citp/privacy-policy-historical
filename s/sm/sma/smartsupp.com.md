@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsupp.com privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004004218id_/https%3A//www.smartsupp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsupp.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416074951id_/https%3A//www.smartsupp.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Smartsupp
 
@@ -36,4 +36,4 @@ Visitor can prevent collection and storing of Cookie files by browsing the web i
 
 ## Changes of this privacy statement
 
-Smartsupp reserves the right to change or update this privacy statement without further notice. It's recommended that users check this privacy statement regularly to have the latest information about Smartsupp privacy policy. Up-todate version of this privacy statement can always be found on our website <https://www.smartsupp.com/>. 
+Smartsupp reserves the right to change or update this privacy statement without further notice. It's recommended that users check this privacy statement regularly to have the latest information about Smartsupp privacy policy. Up-todate version of this privacy statement can always be found on our website www.smartsupp.com. 
