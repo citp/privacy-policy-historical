@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwpmt.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208172852id_/http%3A//fwpmt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwpmt.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416091155id_/http%3A//fwpmt.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Wordpress Magazine Themes – FWPMT dot Com » Privacy Policy
 
