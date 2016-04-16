@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gympik.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128021708id_/http%3A//www.gympik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gympik.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416094814id_/https%3A//www.gympik.com/privacy) for the most accurate reproduction.*
 
-# Find the best fitness centres and professionals in bangalore
+# Find the best fitness centres and professionals in Bangalore
 
 **Gympik Health Solutions Pvt. Ltd.** (the "company", "Gympik" "gympik.com" "website"," us" or "we") has adopted this Privacy Policy because we are committed to protecting your privacy.   
 The following Privacy Policy is only in effect for the Media owned and operated by us.   
@@ -11,9 +11,9 @@ This Privacy Policy is effective as of November 1, 2013.
 If you choose to visit the Gympik Media, your visit and any dispute over privacy is subject to this Privacy Policy and the website's Terms of Use, including limitations on damages, jurisdiction of disputes and application of the law of the State of Karnataka, India.   
 If you have any questions about this Privacy Policy, please feel free to contact us at [contact@gympik.com](mailto:contact@gympik.com?subject=Contact) or write to us at:   
 Gympik Health Solutions Pvt. Ltd.   
-No. 271, 1st floor, 10th 'B' Cross,   
-30th Main, Opposite Oxford Institutions   
-J P Nagar Phase 1st, Bangalore- 560078  
+#42, 18th main,   
+Second Phase, JP Nagar,   
+Behind Canara bank, Bangalore- 560078  
 +91 80 41037263 
 
 #### INFORMATION THAT YOU GIVE US.
