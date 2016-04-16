@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webresourcesfree.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029075742id_/https%3A//www.webresourcesfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webresourcesfree.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416154221id_/https%3A//www.webresourcesfree.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Resources Free
 
@@ -26,4 +26,6 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of webresourcesfree.com then you may contact us at
 
-Admin[@]webresourcesfree.com
+support[@]webresourcesfree.com
+
+[](https://www.pinterest.com/pin/create/button/)
