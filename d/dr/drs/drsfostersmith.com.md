@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622232947id_/http%3A//www.petco.com/petco_page_PC_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416034109id_/http%3A//www.petco.com/petco_page_PC_privacypolicy.aspx) for the most accurate reproduction.*
 
-# Pet Supplies, Pet Food, and Pet Products from petco.com
+# 
 
-_Last updated:_ February 2, 2015
+Last updated: February 2, 2015
 
-## Introduction
+### Introduction
 
-This privacy policy applies to all websites and mobile applications linking to or posting this privacy policy and that are operated by Petco Animal Supplies, Inc. or any of its divisions or affiliates (collectively, "Petco", "we" and "us"). Each such website and mobile application is referred to in this privacy policy as a "Site".
+This privacy policy applies to all websites and mobile applications linking to or posting this privacy policy and that are operated by Petco Animal Supplies, Inc. or any of its divisions or affiliates (collectively, " _Petco_ ", " _we_ " and " _us_ "). Each such website and mobile application is referred to in this privacy policy as a " _Site_ ".
 
-In this privacy policy, we describe Petco's practices for collecting, storing, using, and disclosing the personal (and other) information that we may obtain about you through any of the Sites.* Please note that by using or accessing any of our Sites, you consent to the collection, storage, use and disclosure practices described in this privacy policy. 
+In this privacy policy, we describe Petco's practices for collecting, storing, using, and disclosing the personal (and other) information that we may obtain about you through any of the Sites.* Please note that by using or accessing any of our Sites, you consent to the collection, storage, use and disclosure practices described in this privacy policy.
 
-*Please note that information we obtain through any of the Sites in connection with your pet receiving from us any veterinary, wellness, pharmacy, or other services involving your pet's medical records is subject to our pet medical records policy (available [here](https://web.archive.org/petco_page_PC_petmedicalrecords.aspx)).
+*Please note that information we obtain through any of the Sites in connection with your pet receiving from us any veterinary, wellness, pharmacy, or other services involving your pet's medical records is subject to our pet medical records policy (available [here](https://web.archive.org/shop/PetcoContentDisplayView?storeId=10151&catalogId=10051&langId=-1&path=/content/petco/PetcoStore/en_US/pet-services/privacy-policy/pet-medical-records-policy.html)).
 
 For ease of reference, you may click on any of the following links to jump to one of the topics addressed in this privacy policy:
 
@@ -55,13 +55,13 @@ We may use information about you collected through our Sites for a variety of co
 
 Without limitation, we may use such information to: 
 
-  * administer and improve our Sites and businesses; 
-  * promote our products and services to you, as well as the products and services of our affiliates; 
-  * promote (and enable the promotion of) third-party products and services to you that we think you may find of interest; 
+  * administer and improve our Sites and businesses;
+  * promote our products and services to you, as well as the products and services of our affiliates;
+  * promote (and enable the promotion of) third-party products and services to you that we think you may find of interest;
   * deliver email communications, newsletters, and other correspondence to which you subscribe;
-  * communicate with you about our contests, sweepstakes and other promotions; 
-  * conduct other marketing activities; 
-  * communicate with you regarding your membership in one of our programs and facilitate the functioning of our programs; and 
+  * communicate with you about our contests, sweepstakes and other promotions;
+  * conduct other marketing activities;
+  * communicate with you regarding your membership in one of our programs and facilitate the functioning of our programs; and
   * respond to your inquiries and other correspondence, or request that you provide feedback to us.
 
 
@@ -82,7 +82,7 @@ We disclose to third parties the personal (or other) information collected about
 
 ### Security Measures for Information Collected Through Our Sites
 
-To help protect the privacy of information collected through our Sites, we employ security measures that are intended to be consistent with industry best practices. In addition, we take commercially reasonable steps to store such information with the objective of protecting such data against unauthorized access. Notwithstanding the foregoing, please be aware that our Sites are operated on software, hardware and networks, any component of which may, from time to time, experience breaches of security or other problems beyond our control and that may compromise the security of information collected about you. 
+To help protect the privacy of information collected through our Sites, we employ security measures that are intended to be consistent with industry best practices. In addition, we take commercially reasonable steps to store such information with the objective of protecting such data against unauthorized access. Notwithstanding the foregoing, please be aware that our Sites are operated on software, hardware and networks, any component of which may, from time to time, experience breaches of security or other problems beyond our control and that may compromise the security of information collected about you.
 
 Please also be aware that despite our best intentions and the guidelines outlined in this privacy policy, no data transmission over the Internet or via a Wi-Fi network, or any encryption method, can be guaranteed to be completely secure. You understand that it may be possible for third parties not under Petco's control to intercept or access your personal information transmitted through one of our Sites or via email. Accordingly, although we undertake commercially reasonable steps to protect the security and integrity of all information you provide through our Sites, due to the inherent nature of the Internet, we cannot guarantee that any such information will be absolutely safe from intrusion by others who do not have your authorization. Any such transmission of information about you to Petco is at your own risk.
 
@@ -94,7 +94,7 @@ We may retain original and updated information for reasons such as technical con
 
 ### How We Respond to Do Not Track Signals
 
-At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit [donottrack.us](http://donottrack.us/). 
+At this time, our Sites do not support "Do Not Track" preferences that may be available in your browser for letting websites know that you do not want them collecting certain kinds of information. Specifically, if you turn on the Do Not Track setting on your browser, our Sites are not currently capable of following whatever Do Not Track preferences you set. For more information about Do Not Track, visit [donottrack.us](http://donottrack.us/).
 
 ### Transfer of Data from Outside the United States
 
@@ -118,7 +118,7 @@ By choosing to visit any of our Sites, you agree that any dispute over privacy o
 
 ### Changes to this Privacy Policy
 
-We reserve the right to make changes to this privacy policy at any time, with any such changes to be effective prospectively. The use of your information is subject to the privacy policy and terms of use in effect at the time of collection. Please visit this page periodically so that you will be apprised of any such changes. Your continued use of our Sites after any modification to this privacy policy will constitute your acceptance of such modification. 
+We reserve the right to make changes to this privacy policy at any time, with any such changes to be effective prospectively. The use of your information is subject to the privacy policy and terms of use in effect at the time of collection. Please visit this page periodically so that you will be apprised of any such changes. Your continued use of our Sites after any modification to this privacy policy will constitute your acceptance of such modification.
 
 ### Contact Us
 
@@ -126,6 +126,6 @@ If you have any questions or comments regarding this privacy policy or any of ou
 
   * Calling Customer Service at (877) 738-6742;
   * Emailing us at [PrivacyPolicyInquiry@petco.com](mailto:PrivacyPolicyInquiry@petco.com); or
-  * Writing us at Petco, 9125 Rehco Rd., San Diego, CA 92121, Attn: Chief Information Security Officer/Privacy Policy. 
+  * Writing us at Petco, 10850 Via Frontera, San Diego, CA 92127, Attn: Chief Information Security Officer/Privacy Policy.
 
 
