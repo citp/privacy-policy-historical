@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906154140id_/http%3A//www.ecampus.com/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416040312id_/http%3A//www.ecampus.com/help/privacy-policy.asp) for the most accurate reproduction.*
 
 # Help Desk - Privacy Policy | eCampus.com | Textbooks - Easy. Fast. Cheap!
 
@@ -10,7 +10,7 @@ eCampus.com holds your email address in strictest confidence. We do not sell, gi
 
 ## Collecting and Using Your Info
 
-When you place an order, we'll ask you for your name, email address, mailing address, billing address, and credit card number with expiration date. This information allows us to process and fulfill your order and to notify you of your order status. Occasionally, we may use your email address to deliver information regarding important functionality changes to our website, new services, and special offers that might be of interest to you. If you would rather not receive this type of information, please visit us at [http://www.ecampus.com/unsubscribe.asp](https://web.archive.org/unsubscribe.asp).
+When you place an order, we'll ask you for your name, email address, mailing address, billing address, and credit card number with expiration date. This information allows us to process and fulfill your order and to notify you of your order status. Occasionally, we may use your email address to deliver information regarding important functionality changes to our website, new services, and special offers that might be of interest to you. If you would rather not receive this type of information, please sign in to your eCampus.com My Account to unsubscribe from our promotional emails.
 
 eCampus.com uses your purchasing information for the purpose of providing you a more efficient shopping experience and to make our recommendations about books and other merchandise that you may find interesting. We also monitor customer traffic patterns and site usage to help us develop the content, design, and layout of the web site.
 
@@ -20,7 +20,7 @@ eCampus.com uses your purchasing information for the purpose of providing you a 
 
 ## Disclosing Your Info
 
-eCampus.com considers the information you share with us to be personal and confidential. We do not sell, trade, or rent any of your personal information to others. However, we may choose to release this information to trustworthy third parties at some point in the future with your permission. If you do not want us to share your personal information with third parties, please visit us at [http://www.ecampus.com/unsubscribe.asp](https://web.archive.org/unsubscribe.asp).
+eCampus.com considers the information you share with us to be personal and confidential. We do not sell, trade or rent any of your personal information to others. However, we may choose to release this information to trustworthy third parties at some point in the future with your permission. If you do not want us to share your personal information with third parties, please sign in to your eCampus.com My Account to unsubscribe from our promotional emails.
 
 eCampus.com may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third parties, but these statistics will include no personal information. Finally, we may release the name, address and email address of sweepstakes entrants to reputable co-sponsors and to other third parties for the sole purpose of administering such sweepstakes.
 
@@ -42,4 +42,4 @@ eCampus.com suggests that you keep your password private and avoid disclosing it
 
 ## Unsubscribing from Email
 
-eCampus.com allows you to choose not to receive additional communications via email. If you only wish to receive basic communications regarding your order status and tracking, please visit us at [http://www.ecampus.com/unsubscribe.asp](https://web.archive.org/unsubscribe.asp).
+In accordance with federal laws, eCampus.com allows you unsubscribe from promotional emails. If you wish to unsubscribe, please sign in to your eCampus.com My Account to do so. Please be aware you will still receive transactional emails related to any order placed through eCampus.com such as order status updates and shipment confirmation emails.
