@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wewanttraffic.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926143933id_/http%3A//www.wewanttraffic.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wewanttraffic.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416043437id_/http%3A//www.wewanttraffic.com/privacy.html) for the most accurate reproduction.*
 
-# Traffic Online Website Privacy and Security Statement - Traffic Online
+# Traffic Website Privacy and Security Statement
 
 ## Our Commitment To Privacy
 
@@ -8,9 +8,13 @@ Traffic Group. Ltd is committed to protecting your privacy. In order to obtain m
 
 Traffic Group. Ltd automatically receives and records information from your computer and browser, including your IP address, Traffic Group. Ltd cookie information, software and hardware attributes, and the page you request. Traffic Group. Ltd uses this information for the following general purposes: - to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal use.
 
+Read more
+
 ## Website Privacy Policy
 
 By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law.
+
+Read more
 
 ## How long will the Traffic keep my personal information?
 
@@ -31,6 +35,8 @@ We transfer information about you if Traffic Group. Ltd is acquired by or merged
 
 Traffic Group. Ltd does not provide any personal information to any advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
 
+Read more
+
 ## Cookies Policy -Information Traffic collects from you
 
 ### A. What is a cookie?
@@ -43,11 +49,15 @@ Each browser is different, so check the "Help" menu of your browser to learn how
 
 During the course of any visit to the Traffic Group. Ltd website, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
+Read more
+
 ### B. How does Traffic Group. Ltd use cookies?
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our services pages, we might find this out from your cookie and highlight certain service information on your second and subsequent visits.
 
 Traffic Group. Ltd also operates measurement and research trials. We gather information regarding the visitors to Traffic Group. Ltd sites on our behalf using cookies, log file data and code which is embedded on our website. Traffic Group. Ltd uses this type of information to help improve the services we provide to our users. Traffic Group. Ltd strictly require that third parties do not use any information for their own business or other purposes. Certain other areas of the Traffic Group. Ltd site may use cookies for a specific reason - for example, to help an online element work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+
+Read more
 
 ## Will I be contacted for marketing purposes?
 
@@ -61,6 +71,8 @@ This privacy policy may be updated from time to time so you may wish to check it
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us via [contact form](https://web.archive.org/contactus/index.aspx "contact form").
 
+Read more
+
 ## How To Contact Us 
 
 Should you have other questions or concerns about these privacy policies, please contact us via [contact form](https://web.archive.org/contactus/index.aspx "contact form").
@@ -68,3 +80,5 @@ Should you have other questions or concerns about these privacy policies, please
 ## Notification of Changes
 
 If we decide to change our privacy policy, we will post those changes on our Home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+Read more
