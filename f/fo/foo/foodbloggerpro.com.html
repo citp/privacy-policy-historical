@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foodbloggerpro.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906204203id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodbloggerpro.com privacy policy that was archived on 2016-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160416163503id_/https%3A//www.foodbloggerpro.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 
@@ -65,7 +65,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 		var trackcmp_h = document.getElementsByTagName("head");
 		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
 	}
-</script><script async="" type="text/javascript" src="//trackcmp.net/visit?actid=251627669&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150906204203id_%2Fhttps%3A%2F%2Fwww.foodbloggerpro.com%2Fprivacy-policy%2F"></script>
+</script><script async="" type="text/javascript" src="//trackcmp.net/visit?actid=251627669&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160416163503id_%2Fhttps%3A%2F%2Fwww.foodbloggerpro.com%2Fprivacy-policy%2F"></script>
 
 <!-- END ActiveCampaign -->
 
@@ -76,7 +76,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 <!--Stylesheets-->
 <link rel="stylesheet" href="/css/bootstrap.css?v=1">
 <link rel="stylesheet" href="/css/bootstrap-responsive.css?v=1">
-<link rel="stylesheet" href="/css/foodbloggerpro.css?v=1">
+<link rel="stylesheet" href="/css/foodbloggerpro.css?v=14">
 
 
 <!--Javascript-->
@@ -105,30 +105,24 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			  <nav>
 				  
   				  <ul class="clearfix nav nav-pills">
+  				  	 
   					  
-  					  <li><a href="https://www.foodbloggerpro.com/video/">Videos</a></li>
-  					  <li><a href="https://www.foodbloggerpro.com/tools/">Tools</a></li>  						
-  					  <li><a href="https://www.foodbloggerpro.com/deals/">Deals</a></li>				
-  					  <li><a href="https://www.foodbloggerpro.com/community/">Community</a></li>
   					  <li><a href="https://www.foodbloggerpro.com/blog/">Blog</a></li>  		
-  					  <li><a href="https://www.foodbloggerpro.com/about/">About</a></li>
-  					  <li><a href="https://www.foodbloggerpro.com/login/">Login</a></li>
+  					  <!--<li><a href="https://www.foodbloggerpro.com/about/">About</a></li>-->
+  					  <li><a href="https://www.foodbloggerpro.com/login/">Member Login</a></li>
   					  
-  					  <li class="signup"><a href="/signup/">Become a Member</a></li>
+  					  <!--<li class="signup"><a href="/signup/">Become a Member</a></li>-->
   				  </ul>
 
 				  <select id="nav-select">
   			    	  <option value="">Navigation</option> 
-  			    	  <option value="https://www.foodbloggerpro.com/">Home</option>
-  			    	  <option value="https://www.foodbloggerpro.com/video/">Videos</option>
-  			    	  <option value="https://www.foodbloggerpro.com/tools/">Tools</option>
-  			    	  <option value="https://www.foodbloggerpro.com/deals/">Deals</option>
-  			    	  <option value="https://www.foodbloggerpro.com/community/">Community</option> 
-  			    	  <option value="https://www.foodbloggerpro.com/blog/">Blog</option>
-  			    	  <option value="https://www.foodbloggerpro.com/about/">About</option>
-  			    	   <option value="https://www.foodbloggerpro.com/login/">Login</option>
+  			    	 
   			    	  
-  			    	  <option value="/signup/">Become a Member</option>
+  			    	  <option value="https://www.foodbloggerpro.com/blog/">Blog</option>
+  			    	  <!--<option value="https://www.foodbloggerpro.com/about/">About</option>-->
+  			    	   <option value="https://www.foodbloggerpro.com/login/">Member Login</option>
+  			    	  
+  			    	  <!--<option value="/signup/">Become a Member</option>-->
 				  </select>
 				  
 			  </nav>
@@ -198,11 +192,39 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
  
 <!--End Container--> 
  
-  <!-- JavaScript at the bottom for fast page loading -->
+<!-- JavaScript at the bottom for fast page loading -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>-->
 <script src="/js/bootstrap.js"></script>
 <script src="/js/script.js"></script>
+
+<script type="text/javascript">
+    $(function() {
+      $('.progress-page .tracker-list form input').change(function() {
+        $(this).closest('form').trigger('submit');
+        return true;
+      });
+
+      $('.progress-page .tracker-list form').submit(function() {
+        var form = $(this);
+        var data = $(this).serialize();
+        var url = form.attr('action');
+
+        $.ajax({
+          type: "POST",
+          url: url,
+          data: data
+        })
+        .complete(function() {
+
+        });
+
+        return false;
+      });
+    })
+
+
+  </script>
 
 
 
@@ -211,12 +233,12 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
   <div class="row-fluid">
 	<div class="span12">
 
-	<div id="copyright" class="span9 pull-left">© 2015 Food Blogger Pro. All Rights Reserved.<br><a href="http://support.foodbloggerpro.com/"><i class="icon-heart"></i> Support</a> &nbsp;&nbsp; <a href="http://www.shareasale.com/shareasale.cfm?merchantID=45785" title="Food Blogger Pro Affiliate Program" target="_blank"><i class="icon-signal"></i> Affiliates</a> &nbsp;&nbsp; <a href="http://twitter.com/foodbloggerpro" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a> &nbsp;&nbsp; <a href="http://www.facebook.com/foodbloggerpro/" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a>&nbsp;&nbsp; <a href="https://www.foodbloggerpro.com/coupons/" target="_blank"><i class="icon-money"></i> Coupons</a>&nbsp;&nbsp; <a href="http://www.pinterest.com/foodbloggerpro/" target="_blank"><i class="icon-pinterest-sign"></i> Pinterest</a>  &nbsp;&nbsp; <a href="https://www.foodbloggerpro.com/privacy-policy/"><i class="icon-file-alt"></i> Privacy</a> &nbsp;&nbsp;  <a href="https://www.foodbloggerpro.com/terms-of-service/"><i class="icon-file-alt"></i> Terms</a> &nbsp;&nbsp; <a href="https://www.foodbloggerpro.com/?ACT=12&amp;csrf_token=d9be25d0f874c1d44f4306fdcf80d73f3fb9a189"><i class="icon-signout"></i> Logout</a>
+	<div id="copyright" class="span9 pull-left">© 2016 Food Blogger Pro. All Rights Reserved.<br><a href="http://support.foodbloggerpro.com/"><i class="icon-heart"></i> Support</a> &nbsp;&nbsp; <a href="http://www.shareasale.com/shareasale.cfm?merchantID=45785" title="Food Blogger Pro Affiliate Program" target="_blank"><i class="icon-signal"></i> Affiliates</a> &nbsp;&nbsp; <a href="http://twitter.com/foodbloggerpro" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a> &nbsp;&nbsp; <a href="http://www.facebook.com/foodbloggerpro/" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a>&nbsp;&nbsp; <a href="https://www.foodbloggerpro.com/coupons/" target="_blank"><i class="icon-money"></i> Coupons</a>&nbsp;&nbsp; <a href="http://www.pinterest.com/foodbloggerpro/" target="_blank"><i class="icon-pinterest-sign"></i> Pinterest</a>  &nbsp;&nbsp; <a href="https://www.foodbloggerpro.com/privacy-policy/"><i class="icon-file-alt"></i> Privacy</a> &nbsp;&nbsp;  <a href="https://www.foodbloggerpro.com/terms-of-service/"><i class="icon-file-alt"></i> Terms</a> 
 	</div>
 	<div id="parent-company" class="span3 pull-right"><a href="https://www.foodbloggerpro.com/">Brought to you by Food Blogger Pro</a></div>
 	</div>
-	
-</div>	
+
+</div>
 </div></footer>
 
 <!--Analytics-->
@@ -272,6 +294,13 @@ $("#nav-select").change(function() {
   };
 </script>
 <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/r04p5jop';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+
+
+
+
+
+
 
 
 
