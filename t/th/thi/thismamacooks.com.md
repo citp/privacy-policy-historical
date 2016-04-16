@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906125029id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416214951id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy for TMC! On a Diet & TMC! Reviews
 
@@ -25,8 +25,11 @@ This site gives users the option to remove their information from our mailing li
 **Advertising Networks  
 **I use third-party advertising companies to serve ads when you visit my website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
+**Amazon Affiliate**  
+All links on this site may be affiliate links and should be considered as such. This Mama Cooks! On a Diet is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+
 **Contacting Me  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this blog, fill out my [contact form](http://www.thismamacooks.com/contact-me).
 
-_**Updated 2/12/2015  
+_**Updated 11/2/2015  
 **_
