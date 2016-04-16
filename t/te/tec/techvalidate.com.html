@@ -1,21 +1,30 @@
-<!--The following is the downloaded HTML source of the techvalidate.com privacy policy that was archived on 2015-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913090600id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techvalidate.com privacy policy that was archived on 2016-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160416031722id_/https%3A//www.techvalidate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml" class=" wf-loading"><head>
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.net/ynv5qxg.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4a24010e54","applicationID":"67300","transactionName":"IgxcQRALX19XShdZXAMRU0cbS19aUEpZR0xOE0BcFAVQSg==","queueTime":0,"applicationTime":30,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEQlBUCwMA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://use.typekit.net/ynv5qxg.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4a24010e54","applicationID":"67300","transactionName":"IgxcQRALX19XShdZXAMRU0cbS19aUEpZR0xOE0BcFAVQSg==","queueTime":0,"applicationTime":32,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMEQlBUCwMA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
     <meta http-equiv="imagetoolbar" content="no">
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="wJ/X5lW8hsJ1aS1dV4kSMuTaO3l8scGmRl3VCKEY0katqVJ76mPuRhnmtSEcN5I8qJhVGb1K102NIh+AgnAjyg==">
+<meta name="csrf-token" content="vE7g7ZJi/WSSr6TWzfQQKoSnCmuyUV5ySJLYfTxwUUjk0OxI8RXbj16kSnJfMn6tqspknby5q8/YBqlnxDEs1g==">
 
-<meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="TMTAekLHSykF42oyQHAKik3RHu9jkmrXrjbekv/ow5Mh8kXn/RgjrWls8k4LzoqEAZNwj6JpfDxlSRQa3IAyHw==">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 
-<script type="text/javascript">(function(d) {var config = {kitId: 'ynv5qxg',scriptTimeout: 3000},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,'')+' wf-inactive';},config.scriptTimeout),tk=d.createElement('script'),f=false,s=d.getElementsByTagName('script')[0],a;h.className+=' wf-loading';tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!='complete'&&a!='loaded')return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
-<link rel="stylesheet" media="screen" href="/assets/corporate/corporate-237446a16444737a4d7a55197ac180bf.css">
+        <script>
+          (function(d) {
+            var config = {
+              kitId: 'ynv5qxg',
+              scriptTimeout: 3000,
+              async: true
+            },
+            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/wf-loading/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+          })(document);
+        </script>
+        <!--[if lt IE 9]><style></style><![endif]-->
+
+<link rel="stylesheet" media="screen" href="/assets/corporate/corporate-c605503bd43814091ee19843223362bd.css">
 <link rel="stylesheet" media="screen" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <script type="text/javascript">
      var _gaq = _gaq || [];
@@ -30,16 +39,16 @@
     </script>
 
       <!--[if !IE]> -->
-      <script src="/assets/d3-226fb9122532f895c9d963fc511249c9.js"></script>
+      <script src="/assets/d3-42db90adff2e7e9a25ee2a95787ca661.js"></script>
       <!-- <![endif]-->
-      <!--[if gte IE 9 ]><script src="/assets/d3-226fb9122532f895c9d963fc511249c9.js"></script><![endif]-->
-      <!--[if lt IE 9 ]><script src="/assets/r2d3-f26a0f69e327fc7bdcf08d3787ff66f8.js"></script><![endif]-->
+      <!--[if gte IE 9 ]><script src="/assets/d3-42db90adff2e7e9a25ee2a95787ca661.js"></script><![endif]-->
+      <!--[if lt IE 9 ]><script src="/assets/r2d3-fb80372e285089270417c9e76a1afa81.js"></script><![endif]-->
 
-<script src="/assets/corporate-d4b275822945669ad2ffa256522d967d.js"></script>
+<script src="/assets/corporate-ca695b0b4441b88c156a6cf152af44de.js"></script>
 <!--[if lt IE 9]>
-<script src="/assets/jquery_plugins/selectivizr-c83172a10db8555f8aabc218da1b1f43.js"></script>
-<script src="/assets/new_shared/font_awesome_ie8_fix-702ac88e2d7f5536c0dd0868fbc4f4d0.js"></script>
-<link rel="stylesheet" media="screen" href="/assets/corporate/ie_hacks-eeddd0725af7c7f6ac353cdf6c5bda1d.css" />
+<script src="/assets/jquery_plugins/selectivizr-5a3cc2c4dc9ebda00ae356bfdb34f889.js"></script>
+<script src="/assets/new_shared/font_awesome_ie8_fix-32b56ab01cef6c9706bd08f934693690.js"></script>
+<link rel="stylesheet" media="screen" href="/assets/corporate/ie_hacks-f47f0e9ee906b0dee3f9dece6cda51cf.css" />
 <![endif]-->
 <!--[if lt IE 10]>
 <style type='text/css'>label.hide-on-modern-browsers {display: block !important;}</style>
@@ -50,150 +59,557 @@
 <body class="basic-page">
 <div id="Container">
 <div id="Header">
-<div id="Logo"><a href="http://www.techvalidate.com/"><img alt="TechValidate" src="/assets/basic/tv_logo_2015@2x-f3196efbe3f544edb17cc12da528eabf.png" width="242" height="56"></a></div>
+<div id="Logo"><a href="https://www.techvalidate.com/"><img alt="TechValidate" src="/assets/basic/tv_logo_2015@2x-6d6801659ad08fa3fd53255a0de0596c.png" width="242" height="56"></a></div>
 </div>
 <div id="Contents"><div class="align-center">
 <h1>Privacy Policy</h1>
 <p>
 Versions:
-<select class="select_nav"><option value="/privacy?term_id=2">Please Select...</option><option value="" disabled="disabled">-------------------------------</option><option value="/privacy?term_id=2" selected="selected">August 21, 2015 (Current)</option>
+<select class="select_nav"><option value="/privacy?term_id=3">Please Select...</option><option value="" disabled="disabled">-------------------------------</option><option value="/privacy?term_id=3" selected="selected">January  1, 2016 (Current)</option>
+ <option value="/privacy?term_id=2">August 21, 2015</option>
  <option value="/privacy?term_id=1">January  1, 2015</option></select>
 </p>
 </div>
 <hr>
-<div class="terms-container normal-lists"><p>Welcome to the SurveyMonkey TechValidate Privacy Policy.</p>
+<div class="terms-container normal-lists"><div style="padding: 8px; background: #C9EAE7;">
+<p><strong>Effective Date: January 1, 2016</strong></p>
+<p style="margin-bottom: 0">In to better serve our users around the globe, we’re updating our Terms of Service and Privacy Policy for some users.  If you are located outside of the United States, TechValidate will soon change from being provided to you by SurveyMonkey Inc. (our U.S. company) to being provided to you by our Irish company, SurveyMonkey Europe.  This change in the entity you contract with will become effective either from 1 January 2016 (if you are a new customer after that date) or, the next time your TechValidate account renews (if you are an existing customer). As a result, if you have contracted with SurveyMonkey Inc. and you renew that contract on or after January 1, 2016, your contract will be assigned to SurveyMonkey Europe (our Irish company) upon such renewal date. The change in contracting entity will also result in SurveyMonkey Europe becoming the new data controller and data processor for certain personal data you provide to us to receive the services, but the ways in which we handle and process your data will not otherwise change. If you are an existing customer, we will consider that you have consented to these changes if you renew your contract and continue to use our services.</p></div>
+<br>
 
-<p>SurveyMonkey Inc. ("<strong>SurveyMonkey</strong>") respects individual privacy and values the confidence of its customers, employees, clinical trial participants, consumers, business partners and others. Not only does SurveyMonkey strive to collect, use and disclose personal information in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices.
-SurveyMonkey has provided this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use www.TechValidate.com (the "<strong>Site</strong>") (whether as a registered user or a non-registered visitor), when you participate in the Program (as a Vendor, through your Vendor Users or as a Customer, through your Customer Users), or when you access, download, purchase or use any information, services, products, hardware or software or other content (including but not limited to TechFacts) appearing on the Site (collectively, the "<strong>Services</strong>"). Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our <a href="/terms-of-use">TechValidate Website Terms of Use</a> or in our <a href="/tos">TechValidate Terms of Service &amp; License Agreement</a>, as applicable.
-This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site or through a message sent to your registered email address. Unless we provide you with separate notice and an opportunity to opt out, information will be treated in accordance with the Policy that was in place when the information was collected.</p>
+<p><span>This privacy policy applies to all the
+TechValidate products, services and websites offered by SurveyMonkey Inc. and
+SurveyMonkey Europe and their affiliates, except where otherwise noted
+(hereinafter "surveyMonkey"). SurveyMonkey respects individual privacy and
+values the confidence of its customers, employees, clinical trial participants,
+consumers, business partners and others. Not only does SurveyMonkey strive to
+collect, use and disclose personal information in a manner consistent with the
+laws of the countries in which it does business, but it also has a tradition of
+upholding the highest ethical standards in its business practices. SurveyMonkey
+has provided this Privacy Policy to inform you of our policies and procedures
+regarding the collection, use and disclosure of personal information we receive
+when you visit and use www.TechValidate.com (the "Site") (whether as
+a registered user or a non-registered visitor), when you participate in the
+Program (as a Vendor, through your Vendor Users or as a Customer, through your
+Customer Users), or when you access, download, purchase or use any information,
+services, products, hardware or software or other content (including but not
+limited to TechFacts) appearing on the Site (collectively, the
+"Services"). Unless otherwise defined in this Privacy Policy, terms used
+in this Privacy Policy have the same meanings as in our TechValidate Website
+Terms of Use or in our TechValidate Terms of Service &amp; License Agreement,
+as applicable. This Privacy Policy may be updated from time to time. We will
+notify you of any material changes by posting the new Privacy Policy on the
+Site or through a message sent to your registered email address. Unless we
+provide you with separate notice and an opportunity to opt out, information
+will be treated in accordance with the Policy that was in place when the
+information was collected.</span></p>
 
-<h5>Data Integrity:  Collection and Use of Personal Information</h5>
+<p><b><span>Data Integrity: Collection and Use of
+Personal Information</span></b></p>
 
-<p>Our primary goals in collecting information are to provide and improve our Site, Program and Services, to administer any registration or account and to enable users to enjoy, easily navigate, use or participate in the Site, Program and Services, as applicable.</p>
+<p><span>Our primary goals in collecting information
+are to provide and improve our Site, Program and Services, to administer any
+registration or account and to enable users to enjoy, easily navigate, use or
+participate in the Site, Program and Services, as applicable.</span></p>
 
-<p class="strong">(a) Vendor User Personal Information.</p>
+<p><span>&nbsp;</span></p>
 
-<ul>
-  <li>As part of the registration process for the Program, and from time to time thereafter, SurveyMonkey will collect certain personally identifiable information from Vendor Users that can be used to contact or identify the Vendor Users in order to administer the Vendor’s account ("<strong>Vendor User Personal Information</strong>"). Vendor User Personal Information includes, but is not limited to, a Vendor User’s first and last name, company name, email address, telephone and fax numbers, Vendor company password, domain address, and other personal information listed in our Vendor registration form.</li>
-  <li>SurveyMonkey’s primary goal in collecting Vendor User Personal Information is to enable SurveyMonkey to contact and communicate with a Vendor regarding the Program or activities relevant to a Vendor, to provide a Vendor with a smooth and efficient experience of the Program, to process fees and charge a Vendor for participation in the Program or for any Services it has selected, to administer any Vendor inquiries and to contact a Vendor about modifications to the status of any TechFacts or about any new or existing products and services that might be of interest to a Vendor.</li>
-  <li>As requested by a Vendor, SurveyMonkey will contact and communicate with Customer Users to inquire about their experiences with Vendor and Vendor Products. SurveyMonkey will share some of Vendor’s information (including name, address, other contact information and Vendor Products to be reviewed by the Customer Users).</li>
-</ul>
+<p><b><span>(a) Vendor User Personal Information.</span></b></p>
 
-<p class="strong">(b) Customer User Personal Information.</p>
+<p><span>As part of the registration process for the
+Program, and from time to time thereafter, SurveyMonkey will collect certain
+personally identifiable information from Vendor Users that can be used to
+contact or identify the Vendor Users in order to administer the Vendor's
+account ("Vendor User Personal Information"). Vendor User Personal
+Information includes, but is not limited to, a Vendor User's first and last
+name, company name, email address, telephone and fax numbers, Vendor company
+password, domain address, and other personal information listed in our Vendor
+registration form.</span></p>
 
-<ul>
-  <li>Under the Program, Vendors provide SurveyMonkey with contact information of Customer Users and request that SurveyMonkey contact such Customer Users on their behalf. "<strong>Customer User Personal Information</strong>" means information about a Customer User that can be used to contact or identify such user. Customer User Personal Information may include, but is not limited to, the Customer User’s company name, individual contact name, and email. SurveyMonkey requires that Vendors do not breach any obligations they have to Customer Users or to Customers in providing such contact information for these purposes and that they comply with all laws relating to privacy in disclosing such information to SurveyMonkey.</li>
-  <li>SurveyMonkey uses Customer User Personal Information to process, validate and verify a Customer User’s identity, to contact and communicate with that Customer User regarding the Customer User’s experiences with a Vendor and the applicable Vendor Products or activities relevant to the Customer User, to provide the Customer Users with a smooth and efficient experience of the Program, and to contact and communicate with the Customer User about modifications to the status of any TechFacts or about any new or existing products and services that might be of interest to the Customer User or Customer.</li>
-  <li>If a Customer User has visited the Site solely to respond to a Questionnaire about a particular Vendor, and the Customer User’s activities on the Site are limited to responding to that Questionnaire, SurveyMonkey will not share that Customer User’s Customer User Personal Information with any other Vendor. However, a Customer User may independently choose to provide us with Customer User Personal Information (for instance, in order to view certain assets such as whitepapers, videos, or other information), either by visiting or browsing the Site after completing a Questionnaire – in that case, SurveyMonkey may share that Customer User’s Customer User Personal Information with other Vendors as detailed herein.</li>
-  <li>TechFacts are provided on an anonymous basis, – that is, no Customer User Personal Information will be displayed in a TechFact unless the Customer User authorizes the use of the Customer User’s name and company affiliation.</li>
-</ul>
+<p><span>SurveyMonkey's primary goal in collecting
+Vendor User Personal Information is to enable SurveyMonkey to contact and
+communicate with a Vendor regarding the Program or activities relevant to a
+Vendor, to provide a Vendor with a smooth and efficient experience of the
+Program, to process fees and charge a Vendor for participation in the Program
+or for any Services it has selected, to administer any Vendor inquiries and to
+contact a Vendor about modifications to the status of any TechFacts or about
+any new or existing products and services that might be of interest to a
+Vendor.</span></p>
 
-<p class="strong">(c) Viewing TechFacts.</p>
+<p><span>As requested by a Vendor, SurveyMonkey will
+contact and communicate with Customer Users to inquire about their experiences
+with Vendor and Vendor Products. SurveyMonkey will share some of Vendor's
+information (including name, address, other contact information and Vendor
+Products to be reviewed by the Customer Users).</span></p>
 
-<ul>
-  <li>SurveyMonkey assigns a unique TechValidate identification number (a "<strong>TVID</strong>") to each TechFact.  The TVID will appear on each copy of the TechFact.  The Site is designed so that visitors may look up and view TechFacts without the collection of any personally identifiable information (except for such visitor’s internet protocol (IP) address).</li>
-</ul>
+<p><b><span>(b) Customer User Personal Information.</span></b></p>
 
-<p class="strong">(d) Log Data.</p>
+<p><span>Under the Program, Vendors provide
+SurveyMonkey with contact information of Customer Users and request that
+SurveyMonkey contact such Customer Users on their behalf. "Customer User
+Personal Information" means information about a Customer User that can be
+used to contact or identify such user. Customer User Personal Information may
+include, but is not limited to, the Customer User's company name, individual
+contact name, and email. SurveyMonkey requires that Vendors do not breach any
+obligations they have to Customer Users or to Customers in providing such
+contact information for these purposes and that they comply with all laws
+relating to privacy in disclosing such information to SurveyMonkey.</span></p>
 
-<ul>
-  <li>When you visit the Site, whether as a registered Vendor User, Customer User or a visitor just browsing the Site, our servers automatically record and collect information that your browser sends whenever you visit a website ("<strong>Log Data</strong>"). This Log Data may include information such as your computer’s Internet Protocol ("<strong>IP</strong>") address, the geographic location of the IP address you are using to access the Internet, browser and platform type, referring/exit pages, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics.</li>
-  <li>We use this Log Data to monitor and analyze use of the Site and the Service and for internal purposes such as to administer, improve and customize the Site, to help SurveyMonkey understand and analyze how the Site is being used, to track aggregate Site usage, to provide technical administration, to increase the Site’s functionality and user-friendliness and to better tailor the Site to our visitors’ needs. We do not treat Log Data as personal information or use it in association with other personal information, though we may aggregate, analyze and evaluate such information to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and the Services are used.</li>
-</ul>
+<p><span>SurveyMonkey uses Customer User Personal
+Information to process, validate and verify a Customer User's identity, to
+contact and communicate with that Customer User regarding the Customer User's
+experiences with a Vendor and the applicable Vendor Products or activities
+relevant to the Customer User, to provide the Customer Users with a smooth and
+efficient experience of the Program, and to contact and communicate with the
+Customer User about modifications to the status of any TechFacts or about any
+new or existing products and services that might be of interest to the Customer
+User or Customer.</span></p>
 
-<p class="strong">(e) Cookies.</p>
+<p><span>If a Customer User has visited the Site
+solely to respond to a Questionnaire about a particular Vendor, and the
+Customer User's activities on the Site are limited to responding to that
+Questionnaire, SurveyMonkey will not share that Customer User's Customer User
+Personal Information with any other Vendor. However, a Customer User may
+independently choose to provide us with Customer User Personal Information (for
+instance, in order to view certain assets such as whitepapers, videos, or other
+information), either by visiting or browsing the Site after completing a
+Questionnaire – in that case, SurveyMonkey may share that Customer User's
+Customer User Personal Information with other Vendors as detailed herein. </span></p>
 
-<ul>
-  <li>Like many websites, we use "<strong>cookies</strong>" to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your last logged email address for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser.</li>
-  <li>You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all (or any) functionality of the Services.</li>
-</ul>
+<p><span>TechFacts are provided on an anonymous
+basis, – that is, no Customer User Personal Information will be displayed
+in a TechFact unless the Customer User authorizes the use of the Customer
+User's name and company affiliation.</span></p>
 
-<p class="strong">(f) Communications with SurveyMonkey.</p>
+<p><b><span>(c) Viewing TechFacts.</span></b></p>
 
-<ul>
-  <li>If you contact us by email through the Site, through participation in the Program, through use of the Services or otherwise, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.</li>
-  <li>SurveyMonkey may contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from SurveyMonkey, you may follow the unsubscribe instructions provided in any of the communications (or update your preferences if you have a registered account).</li>
-  <li>SurveyMonkey may also request that you provide personal information when you request promotional information, when you complete a Customer User survey, or when you participate in contests.</li>
-</ul>
+<p><span>SurveyMonkey assigns a unique TechValidate
+identification number (a "TVID") to each TechFact. The TVID will
+appear on each copy of the TechFact. The Site is designed so that visitors may
+look up and view TechFacts without the collection of any personally
+identifiable information (except for such visitor's internet protocol (IP)
+address).</span></p>
 
-<p class="strong">(g) Phishing.</p>
+<p><b><span>(d) Log Data.</span></b></p>
 
-<p>Identity theft and the practice known as "<strong>phishing</strong>" are of great concern to SurveyMonkey. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your company ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.</p>
+<p><span>When you visit the Site, whether as a
+registered Vendor User, Customer User or a visitor just browsing the Site, our
+servers automatically record and collect information that your browser sends
+whenever you visit a website ("Log Data"). This Log Data may include
+information such as your computer's Internet Protocol ("IP") address,
+the geographic location of the IP address you are using to access the Internet,
+browser and platform type, referring/exit pages, pages of our Site that you
+visit, the time spent on those pages, information you search for on our Site,
+access times and dates, and other statistics.</span></p>
 
-<p class="strong">(h) Data Integrity.</p>
+<p><span>We use this Log Data to monitor and analyze
+use of the Site and the Service and for internal purposes such as to
+administer, improve and customize the Site, to help SurveyMonkey understand and
+analyze how the Site is being used, to track aggregate Site usage, to provide
+technical administration, to increase the Site's functionality and
+user-friendliness and to better tailor the Site to our visitors' needs. We do
+not use Log Data in association with other personal information, though we may
+aggregate, analyze and evaluate such information to attempt to provide you with
+a better experience, to improve the quality and value of the Services and to
+analyze and understand how our Site and the Services are used.</span></p>
 
-<p>SurveyMonkey will collect and use personal information only as set forth herein or in a manner that is compatible with the previously described purposes, except where an individual subsequently authorizes a different use.  SurveyMonkey has taken reasonable steps to ensure that it only collects personal information that is relevant to the aforementioned intended uses, and that it is accurate, complete, and current.</p>
+<p><b><span>(e) Cookies.</span></b></p>
 
-<h5>Choice</h5>
+<p><span>Like many websites, we use
+"cookies" to collect information. A cookie is a small data file that
+we transfer to your computer's hard disk for record-keeping purposes. We use
+cookies for two purposes. First, we utilize persistent cookies to save your
+last logged email address for future logins to the Site. Second, we utilize
+session ID cookies to enable certain features of the Site, to better understand
+how you interact with the Site and to monitor aggregate usage by users and web
+traffic routing on the Site. Unlike persistent cookies, session cookies are
+deleted from your computer when you log off from the Site and Service and then
+close your browser.</span></p>
 
-<p class="strong">(a)	Information Sharing and Disclosure</p>
+<p><span>You can instruct your browser, by changing
+its options, to stop accepting cookies or to prompt you before accepting a
+cookie from the websites you visit. If you do not accept cookies, however, you
+may not be able to use all portions of the Sites or all (or any) functionality
+of the Services.</span></p>
 
-<p>We only share Vendor User Personal Information, Customer User Personal Information, non-identifying information or Log Data with third parties as described below.  SurveyMonkey obtains the assurances from third parties that they will safeguard personal information consistently with this Policy in the following manners: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles; the third party being subject to EU Directive 95/46/EC (the EU Data Protection Directive) or to Swiss Federal Act on Data Protection; Safe Harbor certification by the agent; or the third party being subject to another European Commission or Swiss FDPIC adequacy finding (e.g., companies located in Canada). Where SurveyMonkey has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, SurveyMonkey will take reasonable steps to prevent or stop the use or disclosure.
-SurveyMonkey may share Vendor User Personal Information and Customer User Personal Information with third-party service providers and SurveyMonkey-related entities worldwide (e.g., its parents, affiliates and subsidiaries and their successors and assigns) in connection with communications, payments and other aspects of operating and promoting the Site, Program and Services. We require that these entities agree to use such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. We may, subject to the restrictions in subsection (b) of the Information Collection and Use section above, also share Customer User Personal Information with our business partners or other entities so those entities can provide you with advertising and marketing information on goods or services that may be of interest to you.</p>
+<p><span>For more details see our Cookies Policy
+<a href="/cookies-policy">here</a>.</span></p>
 
-<ul>
-  <li>Aggregate Information and Non-Identifying Information. We may share aggregated non-identifying information and Log Data that does not include Vendor User Personal Information or Customer User Personal Information, and we may otherwise disclose non-identifying information and Log Data with third parties (including media, suppliers, research companies and other organizations) for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain Vendor User Personal Information or Customer User Personal Information. Notwithstanding the foregoing, SurveyMonkey may identify Vendors (and Vendor Product names) in various SurveyMonkey presentations, on the Site, and in SurveyMonkey marketing materials, customer lists and financial reports, which may or may not be associated with aggregated non-identifying information and Log Data.</li>
-  <li>Compliance with Laws and Law Enforcement. SurveyMonkey cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of SurveyMonkey or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.</li>
-  <li>Business Transfers. SurveyMonkey may sell, transfer or otherwise share some or all of its assets, including Vendor User Personal Information and Customer User Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.</li>
-  <li>Service Providers. We may employ third party companies and individuals to facilitate our Sites and Services, to provide the Sites and Services on our behalf, to perform Site-related services (e.g., without limitation, bill or credit card payment processing, maintenance services, database management, web analytics and improvement of the Sites’ features) or to assist us in analyzing how our Sites and Services are used. These third parties have access to Vendor User Personal Information, Customer User Personal Information, non-identifying information and Log Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</li>
-</ul>
+<p><b><span>(f) Communications with SurveyMonkey.</span></b></p>
 
-<p>Individuals may choose (opt-out) not to provide their personal information being disclosed to a non-agent third party at the time the information is collected, by deleting or changing the information as described below or by making such a request to the privacy officer at the contact information listed below.  Individuals will also have the opportunity to opt out of any transfer to a non-agent third party if the new entity’s planned processing of your Vendor User Personal Information or Customer User Personal Information (as applicable) differs materially from that set forth in this Privacy Policy or for a purpose other than the purpose for which it was originally collected or subsequently authorized by you.</p>
+<p><span>If you contact us by email through the
+Site, through participation in the Program, through use of the Services or
+otherwise, we may keep a record of your contact information and correspondence,
+and may use your email address, and any information that you provide to us in
+your message, to respond to you.</span></p>
 
-<p class="strong">(b)	Changing or Deleting Your Information</p>
+<p><span>SurveyMonkey may contact you with
+newsletters, marketing or promotional materials and other information that may
+be of interest to you. If you decide at any time that you no longer wish to
+receive such communications from SurveyMonkey, you may follow the unsubscribe
+instructions provided in any of the communications (or update your preferences
+if you have a registered account).</span></p>
 
-<p>All registered users of our Site, Program and Services may review, update, correct or delete the personal information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
-From time to time, we may contact you by mail, email or telephone to tell you about additional products or services that we or third parties may offer. If you do not wish to receive such calls or promotional materials, please contact us and we will attempt to accommodate your request.</p>
+<p><span>SurveyMonkey may also request that you
+provide personal information when you request promotional information, when you
+complete a Customer User survey, or when you participate in contests.</span></p>
 
-<h5>Data Security</h5>
+<p><b><span>(g) Phishing.</span></b></p>
 
-<p>SurveyMonkey is concerned with safeguarding your information. We employ a variety of industry-standard administrative, physical and electronic security measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality or integrity of your unencrypted electronically stored "<strong>personal data</strong>" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+<p><span>Identity theft and the practice known as
+"phishing" are of great concern to SurveyMonkey. Safeguarding
+information to help protect you from identity theft is a top priority. We do
+not and will not, at any time, request your credit card information, your company
+ID, login password, or national identification numbers in a non-secure or
+unsolicited e-mail or telephone communication.. In addition, in using the
+Program or Services, please do not ask your Customer Users for credit card
+details, social security information, passwords, or similar types of
+information—we may remove questionnaires without notice that ask for this
+type of information.</span></p>
 
-<h5>International Transfers</h5>
+<p><b><span>(h) Data Integrity.</span></b></p>
 
-<p>Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  With regard to such transfers and maintenance, SurveyMonkey complies with the U.S.-EU and U.S.-Swiss Safe Harbor Framework as set forth herein and consistent with it Safe Harbor commitments.</p>
+<p><span>SurveyMonkey will collect and use personal
+information only as set forth herein or in a manner that is compatible with the
+previously described purposes, except where an individual subsequently
+authorizes a different use. SurveyMonkey has taken reasonable steps to ensure
+that it only collects personal information that is relevant to the
+aforementioned intended uses, and that it is accurate, complete, and current.</span></p>
 
-<h5>Links to Other Sites</h5>
+<p><b><u><span>Choice</span></u></b></p>
 
-<p>Our Site contains links to other websites. If you choose to visit an advertiser by "<strong>clicking on</strong>" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that the Site permits you to link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+<p><b><span>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information
+Sharing and Disclosure</span></b></p>
 
-<h5>Our Policy Towards Children</h5>
+<p><span>We only share Vendor User Personal
+Information, Customer User Personal Information, non-identifying information or
+Log Data with third parties as described below. SurveyMonkey obtains the
+assurances from third parties that they will safeguard personal information
+consistently with this Policy by way of contract obligating the agent to
+provide at least the same level of protection as is used by SurveyMonkey. Where
+SurveyMonkey has knowledge that an agent is using or disclosing personal
+information in a manner contrary to this Policy, SurveyMonkey will take commercially
+reasonable steps to prevent or stop the use or disclosure. SurveyMonkey may
+share Vendor User Personal Information and Customer User Personal Information
+with third-party service providers and SurveyMonkey-related entities worldwide
+(e.g., its parents, affiliates and subsidiaries and their successors and
+assigns) in connection with communications, payments and other aspects of
+operating and promoting the Site, Program and Services. We require that these
+entities agree to use such information based on our instructions and in
+compliance with this Privacy Policy and any other appropriate confidentiality
+and security measures. We may, subject to the restrictions in subsection (b) of
+the Information Collection and Use section above, also share Customer User
+Personal Information with our business partners or other entities so those
+entities can provide you with advertising and marketing information on goods or
+services that may be of interest to you.</span></p>
 
-<p>The Site and use of the Program and Services are not directed to children under eighteen (18). We do not knowingly collect personally identifiable information from children under thirteen (13) through the Site, Program or Services. If a parent or guardian becomes aware that his or her child has provided us with personal information without their consent, he or she should contact us <a href="https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/" rel="nofollow">electronically through this form</a>. If we become aware that a child under thirteen (13) has provided us with personal information through the Site, Program or Services we will delete such information from our files.</p>
+<p><b><span>Aggregate Information and
+Non-Identifying Information</span></b><span>. We may share
+aggregated non-identifying information and Log Data that does not include
+Vendor User Personal Information or Customer User Personal Information, and we
+may otherwise disclose non-identifying information and Log Data with third
+parties (including media, suppliers, research companies and other
+organizations) for industry analysis, demographic profiling and other purposes.
+Any aggregated information shared in these contexts will not contain Vendor
+User Personal Information or Customer User Personal Information.
+Notwithstanding the foregoing, SurveyMonkey may identify Vendors (and Vendor Product
+names) in various SurveyMonkey presentations, on the Site, and in SurveyMonkey
+marketing materials, customer lists and financial reports, which may or may not
+be associated with aggregated non-identifying information and Log Data.</span></p>
 
-<h5>Enforcement</h5>
+<p><b><span>Compliance with Laws and Law
+Enforcement.</span></b><span> SurveyMonkey cooperates with
+government and law enforcement officials and private parties to enforce and
+comply with the laws applicable to it. Where we are legally obliged to do so,
+we may disclose information about you to government or law enforcement
+officials or private parties as we, in our sole discretion, believe necessary
+or appropriate to respond to claims and legal process (including but not
+limited to subpoenas, warrants or requests under any mutual legal assistance
+treaties), to protect the property and rights of SurveyMonkey or a third party,
+to protect the safety of the public or any person, or to prevent or stop
+activity we may consider to be, or to pose a risk of being, any illegal,
+unethical or legally actionable activity.</span></p>
 
-<p class="strong">Limitations to this Privacy Policy</p>
+<p><b><span>Business Transfers.</span></b><span> SurveyMonkey may sell, transfer or otherwise share some or all of
+its assets, including Vendor User Personal Information and Customer User
+Personal Information, in connection with a merger, acquisition, reorganization
+or sale of assets or in the event of bankruptcy.</span></p>
 
-<p>SurveyMonkey may be limited in its adherence to this Privacy Policy (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation.</p>
+<p><b><span>Service Providers.</span></b><span> We may employ third party companies and individuals to facilitate
+our Sites and Services, to provide the Sites and Services on our behalf, to
+perform Site-related services (e.g., without limitation, bill or credit card
+payment processing, maintenance services, database management, web analytics
+and improvement of the Sites' features) or to assist us in analyzing how our
+Sites and Services are used. These third parties have access to Vendor User
+Personal Information, Customer User Personal Information, non-identifying
+information and Log Data only to perform these tasks on our behalf and are
+obligated not to disclose or use it for any other purpose.</span></p>
 
-<h5>European Safe Harbor Framework compliance</h5>
+<p><span>Individuals may choose to indicate that
+they do not wish for us to provide their personal information to a non-agent
+third party at the time the information is collected by us, by deleting or
+changing the information as described below or by making such a request to the
+privacy officer at the contact information listed below. Individuals will also
+have the opportunity to opt out of any transfer to a non-agent third party if
+the new entity's planned processing of your Vendor User Personal Information or
+Customer User Personal Information (as applicable) differs materially from that
+set forth in this Privacy Policy or for a purpose other than the purpose for
+which it was originally collected or subsequently authorized by you.</span></p>
 
-<p class="strong">(a)	Certification</p>
+<p><b><span>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Changing
+or Deleting Your Information</span></b></p>
 
-<p>SurveyMonkey complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries and Switzerland as reflected in this Privacy Policy.  SurveyMonkey certifies that it adheres to the SafeHarbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  SurveyMonkey will protect any information received in the U.S. from the EU or Switzerland in accordance with our Safe Harbor commitments.  For more information about the Safe Harbor Program and to review SurveyMonkey’s certification, please visit the U.S. Department of Commerce’s Website (http://export.gov/safeharbor/).
-You have consented to your personal data being transferred out of the EU and onto servers located in the United States. These servers are maintained by our U.S. company, SurveyMonkey Inc., which is certified under the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework. This means that we meet certain general EU requirements relating to the provision of adequate data privacy.</p>
+<p><span>All registered users of our Site, Program
+and Services may review, update, correct or delete the personal information in
+their registration profile by contacting us. If you completely delete all such
+information, then your account may become deactivated. If you would like us to
+delete your record in our system, please contact us and we will attempt to
+accommodate your request if we do not have any legal obligation to retain the
+record. See below for privacy contact information. From time to time, we may
+contact you by mail, email or telephone to tell you about additional products
+or services that we or third parties may offer. If you do not wish to receive
+such calls or promotional materials, please contact us and we will attempt to
+accommodate your request.</span></p>
 
-<p class="strong">(b) Enforcement</p>
+<p><b><span>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data
+Security</span></b></p>
 
-<p>SurveyMonkey uses a self-audit to assure its compliance with this Privacy Policy and periodically audits its operations to ensure they are in compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and that this Privacy Policy is accurate.  Should you have any concerns, complaints, or disputes related to SurveyMonkey’s compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks, please contact our privacy office using the contact information listed below and we will investigate and attempt to resolve your concerns or issues.  If the matter cannot be resolved through our internal process, we agree to dispute resolution using the American Arbitration Association as a third party resolution provider.  Their contact information can be found at www.adr.org.</p>
+<p><span>SurveyMonkey is concerned with safeguarding
+your information. We employ a variety of industry-standard administrative,
+physical and electronic security measures designed to protect your information
+from unauthorized access. We will make any legally required disclosures of any
+breach of the security, confidentiality or integrity of your unencrypted
+electronically stored "personal data" (as defined in applicable legislation
+or statutes on security breach notification) to you via email or (as permitted
+by law) conspicuous posting on the Site in the most expedient time possible and
+without unreasonable delay, insofar as consistent with (i) the legitimate needs
+of law enforcement; (ii) our legal obligations; or (ii) any measures necessary
+to determine the scope of the breach and restore the reasonable integrity of
+the data system.</span></p>
 
-<h5>Contact Information</h5>
+<p><b><span>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International
+Transfers</span></b></p>
 
-<p>For questions regarding our privacy policy or practices, contact SurveyMonkey by mail at</p>
+<p><span>Your information may be transferred to
+— and maintained on — computers located outside of your state,
+province, country or other governmental jurisdiction where the privacy laws may
+not be as protective as those in your jurisdiction. With regard to such
+transfers and maintenance, SurveyMonkey complies with the U.S.-EU and
+U.S.-Swiss Safe Harbor Framework as set forth herein and consistent with it
+Safe Harbor commitments. For more information about the Safe Harbor Program and
+to review SurveyMonkey's certification, please visit the U.S. Department of
+Commerce's Website (http://export.gov/safeharbor/). You have consented to your
+personal data being transferred out of the EU and onto servers located in the
+United States. These servers are maintained by our U.S. company, SurveyMonkey
+Inc., which is certified under the US-EU Safe Harbor Framework and the US-Swiss
+Safe Harbor Framework. This means that we meet certain general EU requirements
+relating to the provision of adequate data privacy.</span></p>
 
-<p>SurveyMonkey Inc., 101 Lytton Avenue, Palo Alto, CA 94301, USA, Attn: Privacy Department, or <a href="https://smforms.wufoo.com/forms/contact-surveymonkey-about-privacy/" rel="nofollow">electronically through this form</a>.</p>
+<p><b><span>(e) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enforcement</span></b></p>
 
-<h5>Changes to this Privacy Policy</h5>
+<p><span>SurveyMonkey uses a self-audit to assure
+its compliance with this Privacy Policy and periodically audits its operations
+to ensure they are in compliance with the U.S.-EU and U.S.-Swiss Safe Harbor
+Frameworks and that this Privacy Policy is accurate. Should you have any
+concerns, complaints, or disputes related to SurveyMonkey's compliance with the
+U.S.-EU and U.S.-Swiss Safe Harbor Frameworks, please contact our privacy
+officer – <a href="mailto:privacy@techvalidate.com">privacy@techvalidate.com</a>
+or by &nbsp;using the contact information listed below and we will investigate
+and attempt to resolve your concerns or issues. If the matter cannot be
+resolved through our internal process, we agree to dispute resolution using the
+American Arbitration Association as a third party resolution provider. Their
+contact information can be found at www.adr.org.</span></p>
 
-<p>We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as appropriate under the circumstances, such as via email or in another conspicuous manner reasonably designed to notify you.  If, after being informed of these changes, you do not cancel your subscription and continue to use our services beyond the advance-notice period, you will be considered as having expressly consented to the changes in our privacy policy. If you disagree with the terms of this privacy policy or any updated privacy policy, you may close your account at any time.</p>
+<p><b><span>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Links
+to Other Sites</span></b></p>
 
-<p></p>Effective: August 21, 2015*<p></p>
+<p><span>Our Site contains links to other websites.
+If you choose to visit an advertiser by "clicking on" a banner ad or
+other type of advertisement, or click on another third party link, you will be
+directed to that third party's website. The fact that the Site permits you to
+link to a website or present a banner ad or other type of advertisement is not
+an endorsement, authorization or representation of our affiliation with that
+third party, nor is it an endorsement of their privacy or information security
+policies or practices. We do not exercise control over third party websites.
+These other websites may place their own cookies or other files on your
+computer, collect data or solicit personal information from you. Other sites
+follow different rules regarding the use or disclosure of the personal
+information you submit to them. We encourage you to read the privacy policies
+or statements of the other websites you visit.</span></p>
 
-<p>*Prior Privacy Policies are available upon request.
-</p></div>
+<p><b><span>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our
+Policy Towards Children</span></b></p>
+
+<p><span>The Site and use of the Program and
+Services are not directed to children under eighteen (18). We do not knowingly
+collect personally identifiable information from children under thirteen (13)
+through the Site, Program or Services. If a parent or guardian becomes aware
+that his or her child has provided us with personal information without their
+consent, he or she should contact us electronically at privacy@techvalidate.com.&nbsp;
+If we become aware that a child under thirteen (13) has provided us with
+personal information through the Site, Program or Services we will delete such
+information from our files.</span></p>
+
+<p><b><span>(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Information
+for Customer Users and Interested Site Visitors</span></b></p>
+
+<p><span>When you respond to questionnaires or
+surveys hosted by SurveyMonkey, we collect, on behalf and upon instructions
+(including the ones provided in this privacy policy) of Vendors and Vendor
+Users, information relating to you and your use of the services. For further
+information on how the Vendor collects and uses your information you should
+contact the Vendor. SurveyMonkey will only independently collect or process any
+of your information where you have contacted us separately seeking further
+information on our TechValidate services and in those cases we may respond to
+your inquiries and occasionally provide you with marketing, advertising and
+related information regarding our services or those of our affiliates and
+partners. You can opt-out of receiving such information from us at any time by
+contacting either our customer support or writing to us at the contact address
+below. </span></p>
+
+<p><b><span>Enforcement</span></b></p>
+
+<p><b><span>(a)<span>&nbsp;&nbsp;&nbsp; </span></span></b><b><span>Limitations to this Privacy Policy</span></b></p>
+
+<p><span>SurveyMonkey may be limited in its
+adherence to this Privacy Policy (a) to the extent required to respond to a
+legal or ethical obligation; (b) to the extent necessary to meet national
+security, public interest or law enforcement obligations; and (c) to the extent
+expressly permitted by an applicable law, rule or regulation.</span></p>
+
+<p><b><span>(b)<span>&nbsp;&nbsp; </span></span></b><b><span>&nbsp;Additional information for European Union users</span></b></p>
+
+<p><span>SurveyMonkey provides some of its services
+to users in the EU through SurveyMonkey Europe, located at 2 Shelbourne
+Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland.</span></p>
+
+<p><b><span>"Personal data".</span></b><span> For users located in the EU, references to "personal information"
+in this policy are equivalent to what is commonly referred to as "personal
+data" in the EU.</span></p>
+
+<p><b><span>About IP addresses.</span></b><span> Our servers record the incoming IP addresses of visitors to our
+websites (whether or not the visitor is a SurveyMonkey customer) and store the
+IP addresses in log files. We use these log files for purposes such as system
+administration and maintenance, record keeping, tracking referring web sites,
+inferring your location, and security purposes (e.g. controlling abuse, spam
+and DDOS attacks). We also store IP addresses along with certain actions you
+take on our system. IP addresses are only linked to survey responses if a
+survey creator has configured a survey to collect IP addresses. By agreeing to
+this privacy policy, you expressly consent to SurveyMonkey using your IP
+address for the foregoing purposes. If you wish to opt out from the foregoing
+consent to use your IP address, you must cancel your contract (if you have one)
+or not respond to a questionnaire if requested to do so.</span></p>
+
+<p><b><span>Data controller.</span></b><span> SurveyMonkey Europe, whose contact information is listed above, is
+the data controller for registration, billing and other account information
+that we collect from Vendors in the EU. However, the data controller for Customer
+User data is the Vendor. The Vendor determines how their Customer User data is
+used and disclosed. SurveyMonkey only processes such data in accordance with a
+Vendor's instructions and permissions (including those given under this privacy
+policy) selected by the Vendor when they create and administer their account.</span></p>
+
+<p><b><span>Accessing and correcting your personal
+data.</span></b><span> You have the right to access and correct the
+personal information that SurveyMonkey holds about you. This right may be
+exercised by contacting customer support.</span></p>
+
+<p><b><span>Consents By clicking "I Agree"</span></b><span> or any other button indicating your acceptance of this privacy
+policy, you expressly consent to the following:</span></p>
+
+<p><span>You consent to the collection, use,
+disclosure and processing of your personal data in the manner described in this
+privacy policy, including our procedures relating to cookies, IP addresses and
+log files.</span></p>
+
+<p><span>Our servers are based in the United States,
+so your personal data will be primarily processed by us in the United States.
+You consent to the transfer and processing of your personal data in the United
+States by SurveyMonkey Inc. and in other data locations by our various
+affiliates and service providers as described in this privacy policy.</span></p>
+
+<p><span>You consent and agree that we may transfer
+your data to data processors located in countries, including the United States,
+which do not have data protection laws that provide the same level of
+protection that exists in countries in the European Economic Area. Your consent
+is voluntary, and you may revoke your consent by opting out at any time. Please
+note that if you opt-out, we may no longer be able to provide you our services.</span></p>
+
+<p><span>You consent to us sharing your personal
+data with relevant persons working for service providers who assist us to
+provide our services.</span></p>
+
+<p><span>If you have enabled cookies on your web
+browser, you consent to our use of cookies as described in this privacy policy.</span></p>
+
+<p><b><span>Additional information for Canadian
+users</span></b></p>
+
+<p><span>Please read this article for information
+about the U.S. Patriot Act and how it affects the personal information of
+Canadian users.</span></p>
+
+<p><b><span>Additional information for Japanese
+users</span></b></p>
+
+<p><span>You agree that you are responsible for
+notifying the respondents of surveys that you create using our services about
+how SurveyMonkey may use the respondents' survey responses and personal data as
+described in this privacy policy and obtaining prior consent from respondents
+to disclose their personal data to SurveyMonkey.</span></p>
+
+<p><b><span>Additional information for Australian
+users</span></b></p>
+
+<p><span>The personal information collected by us on
+behalf of a survey creator may include sensitive information. We will only use
+sensitive information for the purpose of storing and processing it on behalf of
+the survey creator. Sensitive information is defined in the Privacy Act 1988
+(Cth) and includes information about you such as racial or ethnic origin,
+religious beliefs, political affiliation, sexual preferences and criminal
+records, as well as health and genetic information about you.</span></p>
+
+<p><span>If you are dissatisfied with our handling
+of your complaint or do not agree with the resolution proposed by us, you may
+make a complaint to the Office of the Australian Information Commissioner
+(OAIC) by contacting the OAIC using the methods listed on their website at
+http://www.oaic.gov.au. Alternatively, you may request that we pass on the
+details of your complaint to the OAIC directly.</span></p>
+
+<p><span>For questions regarding our privacy policy
+or practices, contact SurveyMonkey by mail at</span></p>
+
+<p><b><span>Contact Information</span></b></p>
+
+<p><span>SurveyMonkey Inc., 101 Lytton Avenue, Palo
+Alto, CA 94301, USA, Attn: Privacy Department, or electronically at
+privacy@techvalidate.com.</span></p>
+
+<p><span>SurveyMonkey Europe, 2 Shelbourne
+Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland Attn: Privacy
+Department, or electronically at privacy@techvalidate.com.</span></p>
+
+<p><b><span>Changes to this Privacy Policy</span></b></p>
+
+<p><span>We may modify this privacy policy at any
+time, but if we do so, we will notify you by publishing the changes on this
+website. If we determine the changes are material, we will provide you with
+additional, prominent notice as appropriate under the circumstances, such as
+via email or in another conspicuous manner reasonably designed to notify you.
+If, after being informed of these changes, you do not cancel your contract and/or
+continue to use our services or this website beyond the advance-notice period,
+you will be considered as having expressly consented to the changes in our
+privacy policy. If you disagree with the terms of this privacy policy or any
+updated privacy policy, you may close an account or stop using this website at
+any time.</span></p>
+
+<p><span>&nbsp;</span></p>
+
+<p><span>Effective: January 1, 2016*</span></p>
+
+<p><span>*Prior Privacy Policies are available upon
+request.</span></p>
+</div>
 <div id="Footer">
-<p>© Copyright 2015 SurveyMonkey</p>
+<p>© Copyright 2016 SurveyMonkey</p>
 </div>
 </div>
 </div>
