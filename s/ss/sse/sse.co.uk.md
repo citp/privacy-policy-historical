@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023182412id_/https%3A//sse.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416171102id_/https%3A//sse.co.uk/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About us - SSE
 
