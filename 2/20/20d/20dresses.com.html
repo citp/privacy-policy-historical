@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406061753id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 20dresses.com privacy policy that was archived on 2016-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160416032755id_/http%3A//www.20dresses.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -21,14 +21,34 @@
 <meta name="Keywords" content="Privacy Policy">
 <meta name="Description" content="All information for Privacy Policy on 20dresses.com">
 
-<!-- <meta property="og:title" content="20dresses.com - Privacy Policy" />
-<meta property="og:type" content="website"/>
-<meta property="og:url" content="http://www.20dresses.com/" />
-<meta property="og:image" content="http://www.20dresses.com/system/application/views/images/contbg.jpg" />
-<meta property="og:site_name" content="20dresses"/>
-<meta property="og:description" content="All information for Privacy Policy on 20dresses.com" /> -->
 
-<link rel="image_src" href="http://www.20dresses.com/system/application/views/images/contbg.jpg">
+<meta property="fb:app_id" content="404140522973875">
+
+
+<meta property="og:title" content="20dresses.com - Privacy Policy">
+<meta property="og:keywords" content="20dresses.com - Privacy Policy">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.20dresses.com">
+<meta property="og:image" content="http://www.20dresses.com/images/fbinvitepic.jpg">
+<meta property="og:site_name" content="20dresses">
+<meta property="og:description" content="All you got to do is fill out a fun fashion quiz and register. You will get to know your fashion profile and your personal stylists will pick out cool, trendy and most affordable fashion products just for you from their awesome collection of Dresses, Tops, Backpacks, Shoes and fashion jewellery!">
+
+
+
+
+
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@20Dresses">
+<meta name="twitter:title" content="20Dresses.com: Personal Stylist for Fashion Obsessed Woman">
+<meta name="twitter:description" content="All information for Privacy Policy on 20dresses.com">
+<meta name="twitter:creator" content="@20Dresses">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image" content="http://www.20dresses.com//uploads/cat_banner/topscatbanner04062015.jpg"> 
+
+
+
+<link rel="image_src" href="http://www.20dresses.com/images/fbinvitepic.jpg">
 
 <link href="http://www.20dresses.com/system/application/views/css/homepage.css" rel="stylesheet" type="text/css">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.20dresses.com/system/application/views/jquery.ui/jquery-1.5.1.js"></script>
@@ -44,8 +64,6 @@
 <link href="http://www.20dresses.com/system/application/views/css/inner_content.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="http://www.20dresses.com/system/application/views/css/innerpage.css">
  
-
-
 
 <script type="text/javascript">
 	var $= jQuery.noConflict();
@@ -73,6 +91,24 @@ $(document).ready(function() {
 		if (navigator.cookieEnabled == 0) {
 				alert('Your browser"s cookie functionality is turned off. Please turn it on to load properly!.');
 		}
+
+
+ window.fbAsyncInit = function() {
+	  FB.init({
+		appId      : '404140522973875',
+		status     : true, 
+		cookie     : true,
+		xfbml      : true,
+		oauth      : true
+	  });
+};
+
+(function(d){
+   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+   js = d.createElement('script'); js.id = id; js.async = true;
+   js.src = "//connect.facebook.net/en_US/all.js";
+   d.getElementsByTagName('head')[0].appendChild(js);
+ }(document));
 
 
 		//select all the a tag with name equal to modal
@@ -124,6 +160,88 @@ $(document).ready(function() {
 
 
 
+
+
+
+	 $("#account_link").click(function(){
+        $("#nav_dropdown").slideToggle('slow');
+		$("#cart_dropdown").hide();
+		$("#customer_dropdown").hide();
+		$("#cod_dropdown").hide();
+		$("#notification-dropdown").hide();
+		return false;
+    });
+
+	$("#notification_link").click(function(){
+        $("#notification-dropdown").slideToggle('slow');
+		$("#cart_dropdown").hide();
+	    $("#nav_dropdown").hide();
+	    $("#cod_dropdown").hide();
+		$("#customer_dropdown").hide();
+		var base_url= 'http://www.20dresses.com/'; 
+		$.ajax({
+			type:'POST',
+			url:base_url+"profile/update_msg_read",
+			data:'',
+			success:function(data)
+			{		
+				$("#msg_count").html('0');
+			}
+		});
+		return false;
+    });
+
+
+	$("#testi_addbox").click(function(){
+		$("#testi_popup").slideToggle('slow'); 
+		$("#testi_msg").hide();
+		return false;
+	});
+
+
+	$("#nav_dropdown").click(function(e) {
+            e.stopPropagation();
+    });
+
+	$("#customer_dropdown").click(function(e) {
+		e.stopPropagation();
+	});
+	
+	
+	$("#notification-dropdown").click(function(e) {
+		e.stopPropagation();
+	});
+
+
+
+
+
+	 $("#cod_checker").click(function(){
+        $("#cod_dropdown").slideToggle('slow');
+		$("#cart_dropdown").hide();
+		$("#customer_dropdown").hide();
+		$("#notification-dropdown").hide();
+		$("#nav_dropdown").hide();
+		return false;
+    });
+
+	$("#cart_dropdown").click(function(e) {
+		e.stopPropagation();	});
+	
+	$("#cod_dropdown").click(function(e) {
+		e.stopPropagation();
+	});
+	
+	 $(".bag_topicon").click(function(e){
+		$("#cart_dropdown").slideToggle('slow'); 
+		$("#customer_dropdown").hide();
+		$("#nav_dropdown").hide();
+		$("#cod_dropdown").hide();
+		$("#notification-dropdown").hide();
+		return false;
+    });
+
+
 	// hide #back-top first
 	$("#back-top").hide();
 	
@@ -160,8 +278,20 @@ $(document).ready(function() {
 
 
 	$("#frmRegister").validate({
-		errorLabelContainer: $("#frmRegister div.error")
+		errorPlacement: function(error,element) {
+			return true;
+		 }
 	});
+
+	$("#frmFBRegister").validate({
+		errorLabelContainer: $("#frmFBRegister div.error")
+	
+	});
+
+	$('#txtCEmail').bind("cut copy paste",function(e) {
+          e.preventDefault();
+    });
+
 
 	$("#forgotpassword-link").live('click',function(){  	
         $("#forgotpassword-panel").toggle('slow'); 
@@ -183,39 +313,22 @@ function gotoregister() {
 	$('.register').fadeIn();
 }
 
-
- window.fbAsyncInit = function() {
-	  FB.init({
-		appId      : '404140522973875',
-		status     : true, 
-		cookie     : true,
-		xfbml      : true,
-		oauth      : true
-	  });
-};
-
-(function(d){
-   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-   js = d.createElement('script'); js.id = id; js.async = true;
-   js.src = "//connect.facebook.net/en_US/all.js";
-   d.getElementsByTagName('head')[0].appendChild(js);
- }(document));
-
-
 function fblogin() {
 
 	$("#frmLogin div.error").show();	
 	$("#frmRegister div.error").show();	
 	   FB.login(function(response) {
 			if(response.authResponse) {
-						// console.log('Welcome!  Fetching your information.... ');
+						
 						$("#frmLogin div.error").html('Welcome!  Fetching your information.... ');
 						$("#frmRegister div.error").html('Welcome!  Fetching your information.... ');
 					FB.api('/me', function(user) {
 							if(user.id) {
 							
 var strData						="id="+user.id+"&email="+user.email+"&fname="+user.first_name+"&lname="+user.last_name+"&birthday="+user.birthday+"&gender="+user.gender;
- var base_url='http://www.20dresses.com/login/fblogin';
+
+
+ var base_url='http://www.20dresses.com/register/fblogin';
 
 							  $.ajax({
 									type:'POST',
@@ -225,15 +338,24 @@ var strData						="id="+user.id+"&email="+user.email+"&fname="+user.first_name+"
 									success:function(data)
 									{
 										if(data.status=="success")	{
-											window.location.reload();
-										} else if(data.status=="error") {
+										
+											if(data.msg=="new") {
+												$('.register').fadeOut();
+												$('.fbregister').fadeIn();
+												$('.login').fadeOut();
+												$('.username').html(data.username);
 
-											if(data.msg=="quiz") {
-												window.location.href="http://www.20dresses.com/quiz";
+												$('#mask').css({'background-color':'#000','opacity':'0.8'});
+											} else {
+												window.location.reload();
+
 											}
 
+
+										} else if(data.status=="error") {
+
 											$("#ajax-loader").hide();
-												$('#frmRegister div.error').html(data.msg);
+											$('#frmRegister div.error').html(data.msg);
 											$('#frmLogin div.error').html(data.msg);
 										}
 									}
@@ -244,13 +366,14 @@ var strData						="id="+user.id+"&email="+user.email+"&fname="+user.first_name+"
 							
 			   } else {
 				   $("#ajax-loader").hide();
-				   $("#login div.error").show();
-				   $('#login div.error').html('');
+				   $("#frmLogin div.error").show();
+				   $('#frmLogin div.error').html('');
 
 				 // console.log('User cancelled login or did not fully authorize.');
 			   }
-		}, {scope: 'email,user_birthday'});
+		}, {scope: 'email,public_profile,user_birthday,user_friends'});
 	}
+
 
 
 $(document).click(function() {
@@ -266,7 +389,7 @@ function changePincode() {
 function IsNumeric(strString)
 {
 	  //  check for valid numeric strings	
-	   var strValidChars = "0123456789.-";
+	   var strValidChars = "0123456789";
 	   var strChar;
 	   var blnResult = true;
 
@@ -344,6 +467,65 @@ function hideCart(DivId){
 	//$('#'+DivId).hide();
 	$('#'+DivId).slideToggle('fast'); 
 	return false;
+}
+
+
+
+
+
+function regpopup() {
+
+		//Get the A tag
+		var id = $('#reg-link').attr('href');
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		var offset = $(this).offset();
+		//alert($(window).scrollTop());
+		//transition effect		
+		$('#mask').fadeIn(100);	
+		//$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  $(window).scrollTop()+(winH-$(id).height())/2);
+		$(id).css('left',  winW/2-$(id).width()/2);
+		$(id).fadeIn(1000);
+		gotoregister();
+}
+
+function loginpopup() {
+	
+
+		//Get the A tag
+		var id = $('#reg-link').attr('href');
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		var offset = $(this).offset();
+		//alert($(window).scrollTop());
+		//transition effect		
+		$('#mask').fadeIn(100);	
+		//$('#mask').fadeTo("slow",0.8);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  $(window).scrollTop()+(winH-$(id).height())/2);
+		$(id).css('left',  winW/2-$(id).width()/2);
+		$(id).fadeIn(1000);
+		gotologin();
 }
 
 
@@ -426,66 +608,109 @@ $("#nav-utility li").click(function(){
 
 <div id="utility-wrap">
 				<div class="clearfix" id="utility">
-									<ul>
-					<li>
-					<div class="free-shipping">
-						<ul id="rotate-text">
-							<li>FREE SHIPPING (ORDERS ABOVE RS 494)</li>
-							<li>20 DAYS RETURN. NO QUESTIONS ASKED</li>
-							<li>SAME DAY SHIPPING</li>
-							<li>GET 10% CREDITS ON EVERY PURCHASE</li>
-							<li>CASH ON DELIVERY</li>
-							<li>FREE REVERSE PICK UPS (SELECT PINCODES)</li>
-						</ul>
-
-<script type="text/javascript">
-jQuery(document).ready(function($) {
-    var fadeTime = 200;
-    $('#rotate-text li:first-child').show();
-    $('#rotate-text li:first-child').addClass('active');
 
 
-    var reload = setInterval(function(){
-        // get position of a element
-        var mbr_total = $('#rotate-text li').length;
-        var mbr_index = $('#rotate-text li.active').prevAll().length;
-        var mbr_targetkeyvisual = mbr_index + 2;
+						  <ul>
+						  
+								<li style="padding-top:7px;">
+									<a href="http://www.20dresses.com/Accessories/All"><span class="signin_div">OFFER: 25% OFF ON ACCESSORIES</span></a>
+								</li>
+						  </ul>
 
-        if (mbr_targetkeyvisual > mbr_total) {
-            mbr_targetkeyvisual = 1;
-        }
 
-        // hide current image and show the target image
-        $('#rotate-text li:visible').stop(true, true).fadeOut(fadeTime);        
-        $('#rotate-text li:nth-child('+mbr_targetkeyvisual+')').stop(true, true).fadeIn(fadeTime);
 
-        // remove active class from current indicator and add the same class to target indicator
-        $('#rotate-text li').removeClass('active');
-        $('#rotate-text li:nth-child('+mbr_targetkeyvisual+')').addClass('active');
 
-    }, 3000);
-});
-</script>                <!-- <p><span class="icon-phone-black"></span>1800 300 18000 (TOLL FREE)</p> -->
-            </div></li>
-					</ul>
-					
+
+
 
 					<div style="float:right;padding-right:14px;">
 					<ul id="nav-utility">
-										
+								
+			
+
+					
+					
+
+			
+
+
+					 <li>
+				
+							<a style="cursor:pointer;" id="cod_checker" title="Check if COD facility is available in your PINCODE">COD CHECKER
+							<img width="13" height="10" alt="down arrow" src="http://www.20dresses.com/system/application/views/images/down_arrow.png"></a>
+
+			<ul style="width: 172px;display:none;left:-60px;" id="cod_dropdown" class="nav_dropdown dropdown">					
+			  <li>  
+			  <form name="frmcodcheck" id="frmcodcheck" action="" method="post" class="cmxform">
+				<div class="error" style="color:red;width:163px;text-align:center;line-height:15px;"></div>
+
+					<div id="divcodcheck">
+							<table align="center" cellpadding="10px" cellspacing="10px">
+							<tbody><tr>
+								<td align="center" style="line-height:14px;"> <div style="padding-right:9px;">Check here if we have Cash on Delivery (COD) service in your PINCODE !</div> &nbsp; &nbsp;<br> <input style=" background: white;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #DDD inset;
+    color: #666;
+    float: left;
+    padding: 5px 10px;
+    width: 105px;
+    outline: none;" type="text" title="Please Enter 6 digit Pincode" id="cod_num" name="cod_num" maxlength="6" value="" class="required number">
+								</td>
+							</tr>
+							<tr>
+							
+								<td align="center">   <button onclick="chk_cod_avaibility();" style="float:left;margin-right: 15px; margin-left:13px;" type="button" class="btn style-btn">Submit </button>
+                                 </td>
+
+
+							</tr>
+							</tbody></table>
+						</div>
+					    </form>  
+					  </li>
+				 </ul>
+			</li>
+				
+
+				
 					<li class="customercare">
-						<a href="#register-panel" id="already" name="modal">Already a Member? 
+						<a href="http://www.20dresses.com/customercare/" title="Customer Care">FAQ</a>
+					</li>
+
+					
+
+						
+					<li class="customercare">
+						<a href="javascript:void(0);" onclick="regpopup();">
+							<span class="signin_div">REGISTER&nbsp;&nbsp;&nbsp;&nbsp;</span>
+						</a>
+
+							<a href="javascript:void(0);" onclick="loginpopup();">
 							<span class="signin_div">SIGN IN</span>
 						</a>
-					</li> 	
+					</li>  
+					
+					
+			<li class="bag_topicon">
+				<div class="showimgdrop" id="cart_link" style="display:none;">
+						<img width="53" height="61" alt="bag icon" class="block" src="http://www.20dresses.com/system/application/views/images/bag_icon.png">
+						<div class="showimg">
+							0						</div>
+				</div>  
 
-										</ul>
+					<div class="bag_topcont" style="z-index: 1000;">
+						<img width="31" height="30" alt="bag icon" src="http://www.20dresses.com/system/application/views/images/bag_black.png" style="margin: -15px 0  0 0; ">
+					</div>
+			</li>
+
+					</ul>
 
 
 
 	
 				
-				<div id="cart_dropdown" class="dropdown" style="display:none;">
+				<div id="cart_dropdown" class="dropdown" style="display:none;margin-left:213px">
 
 			
 <div class="bag_info" style="border:0;width: 300px; margin-top:18px;padding-top: 0px; font-size: 11px; text-transform: capitalize;">
@@ -499,7 +724,7 @@ jQuery(document).ready(function($) {
 						<tbody><tr>
 		<td style="border:0px;padding:10px;" valign="top" colspan="2">
 			<div class="Viewcart_footer"><span class="empty"> Your shopping bag is empty.</span><br>
-			 <a class="continue" href="http://www.20dresses.com/showroom" title="Continue Shopping">
+			 <a class="continue" href="http://www.20dresses.com/Apparels/Tops" title="Continue Shopping">
 				 <img width="160" height="25" alt="Continue Shopping" src="http://www.20dresses.com/system/application/views/images/continue_shop.jpg">
 			</a>
 			</div>
@@ -527,68 +752,39 @@ jQuery(document).ready(function($) {
 
 
 
-<div id="boxes">
-	<div id="register-panel" class="window" style="display:none;">
-		<div id="cbp-bicontrols" class="cbp-bicontrols register" style="margin-left:0px;top:-174px;left:-169px;">							
+
+
+
+	<a href="#register1-panel" id="reg-link">&nbsp;</a>
+
+ <div id="boxes">
+	<div id="register1-panel" class="window" style="display:none;">
+		<div id="cbp-bicontrols" class="cbp-bicontrols register" style="margin-left:0px;top:-250px;left:-420px; width:780px; height:auto;    padding: 0px; background:#f2f2f2;">							
 			
-<form action="" method="post" class="cmxform" name="frmRegister" id="frmRegister">
-<!-- <div><img src="http://www.20dresses.com/system/application/views/images/20dlogo.png" /></div>
- -->
-
-<!-- <div class="landing_logo"><img src="http://www.20dresses.com/new/20dlogo.png" /></div> -->
-
-
-<div class="becomeM">- It's free! Become a Member -</div>
-
-<div class="jointext">JOIN 20DRESSES</div>
-
-<!-- <div class="ypswrap"><img src="http://www.20dresses.com/new/ypstylist.jpg" /></div> -->
-
-<div class="ypswrap">YOUR PERSONAL STYLIST</div>
-
-<div class="landingsubtext">
-Fill a quick fashion profile quiz &amp; get your latest fashion fix that suits you the best at lowest prices!</div>
-
-
-<!-- <div class="landingsubtext">Cool new way to shop women's fashion! Just fill a quick fashion profile quiz & we will get the latest fashion fix that suits you best at the lowest prices!
-</div> -->
-
-
-
-<div class="landing_logintext"><a href="javascript:void(0);" onclick="fblogin();"><img alt="Register With Facebook" src="http://www.20dresses.com/new/REG_f.jpg"></a></div>
-
-
-<!-- <div class="landing_logintext">REGISTER FREE WITH <a href="javascript:void(0);" onclick="fblogin();"><img src="http://www.20dresses.com/new/landing_f.jpg" style="vertical-align:-10px;"/></a> &nbsp;
-<a href="#"><img src="http://www.20dresses.com/new/landing_g.jpg" style="vertical-align:-10px;"/></a></div>
- -->
-
-
-<div class="regemail">OR REGISTER VIA EMAIL</div>
-
-<div class="error" style="color: red; font-size: 12px; width: 220px; text-align: left; padding-left: 83px;"></div>
-
-<div><input type="text" id="txtemailAdd" name="txtemailAdd" placeholder="Email Address" title="Please enter valid Email Address " class="inputbox required email"></div>
-<div><input type="password" id="txtpassword" name="txtpassword" placeholder="Password" title=" Please enter Password" class="inputbox required"></div>
-<div><button type="button" onclick="registerajax();" class="shopnowbtn">REGISTER</button></div>
-
-
-<div class="landing_logintext">Already a member? <a href="javascript:void(0);" onclick="gotologin();">LOGIN</a></div>
-
-
-					</form>
-
+<link href="http://www.20dresses.com/system/application/views/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
 
-
+	 
 function registerajax()
 {	
 	if($("#frmRegister").valid())
 	{
 		$("#frmRegister div.error").show();
+		var email= $('#txtEmail').val();
+		var email2= $('#txtCEmail').val();
+
+		if(email!=email2) {
+			$("#frmRegister div.error").html("Email addresses do not match");
+			return false;
+		}
+
+		
 		$("#frmRegister div.error").html("<img width='150' style='padding-left:5px' alt='login loader' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
-	
-		var base_url= 'http://www.20dresses.com/login/ajaxlogin';
+
+		$('#btnRegister').attr('disabled', true);
+
+		var base_url= 'http://www.20dresses.com/register/ajaxregister';
 		var strData= $("#frmRegister").serialize();
 		
 		$.ajax({
@@ -598,61 +794,232 @@ function registerajax()
 			dataType: "json",
 			success:function(data)
 			{	
+
 				if(data.status=="success")
 				{	
 					createCookie('20dpassword',data.userpassword,365);
 					createCookie('20duname',data.useremail,365);
 					createCookie('20duid',data.userid,365);
 					$("#frmRegister div.error").hide();
+				//	window.location.href="http://www.20dresses.com/welcome/newregistration";
 					window.location.reload();
+
 				}
 				else if(data.status=='error')
 				{
-					if(data.msg=='quiz') {
-						window.location.href="http://www.20dresses.com/quiz";
+					if(data.msg=='Email Already Exist') {
+
+						var email = $('#frmRegister input[name="txtEmail"]').val();		
+						$('#frmLogin input[name="txtemailAdd"]').val(email);
+
+						var password = $('#frmRegister input[name="txtPassword"]').val();		
+						$('#frmLogin input[name="txtpassword"]').val(password);
+
+						$("#frmRegister div.error").show();
+						$("#frmRegister div.error").html('<div class="landing_logintext"><a onclick="gotologin();" href="javascript:void(0);">This email address is already registered on 20dresses. Login Now</a></div>');
+						
 					} else {
 						$("#frmRegister div.error").show();
 						$("#frmRegister div.error").html(data.msg);
-						return false;
+						
 					}
 				}
+
+					$('#btnRegister').removeAttr('disabled');
+
 			}
 		});
 	}
 }
 
-</script>		</div>
-		<div id="cbp-bicontrols" class="cbp-bicontrols login" style="display:none;margin-left:0px;top:-174px;left:-169px;">			
+function referCode() {
+
+	$('#frmRegister .ref_text').html("<img  src='http://www.20dresses.com/images/account-icon/loader.gif' />");
+			var refer = $('#txtReferCode').val();
+			if(refer=='') {
+				$('#frmRegister .ref_text').html("");
+				return false;
+			}
+
+			var strData= 'refer_code='+refer;
 			
-<!-- <div><img src="http://www.20dresses.com/system/application/views/images/20dlogo.png" /></div>
- -->
+			 $.ajax({
+				type:'POST',
+				url:"http://www.20dresses.com/refer/code",
+				data:strData,
+				dataType: "json",
+				success:function(data)
+				{		  
+					$('#frmRegister .ref_text').html(data.msg);
+				}
+			});
+}
 
 
-<!-- 
+$(document).ready(function() {
 
-<div class="landing_styletext"><img src="http://www.20dresses.com/new/ypstylist.jpg" />FASHIONABLE AND AFFORDABLE. </br> 
-STYLES SELECTED JUST FOR YOU!
+		$('#txtReferCode').change(function(e) {
+				referCode();
+		});
+
+		$('#txtReferCode').keyup(function(e) {
+				referCode();
+		});
+});
+
+
+
+
+  
+
+
+</script>
+
+
+
+<form action="" method="post" name="frmRegister" id="frmRegister" class="cmxform">
+
+
+<div class="ypswrap">To proceed, you need to register with 20Dresses</div>
+
+
+<a style="display: inline;padding:0" class="close"><img width="19" height="19" title="close" alt="close" src="http://www.20dresses.com/system/application/views/images/close_btn.jpg"></a>
+<div class="landing_logintext">
+
+
+<a href="javascript:void(0);" onclick="fblogin();"><img alt="Register With Facebook" src="http://www.20dresses.com/system/application/views/images/REG_fBIG.jpg"></a></div>
+
+
+
+<div class="divider">
+						<div class="or">OR</div>
+						</div>
+
+
+
+<div class="error" style="color: red; font-size: 12px; width: 100%; text-align: center; padding-left: 51px;"></div> 
+
+<div>
+<input type="text" id="txtFName" name="txtFName" placeholder="First Name" class="reginput required">
+
+<input type="text" id="txtLName" name="txtLName" placeholder="Last Name" class="reginput required">
+
 </div>
 
- -->
 
-<div class="becomeM">- Welcome Back -</div>
 
-<div class="jointext">20DRESSES</div>
+<div>
 
+<input type="email" name="txtEmail" id="txtEmail" placeholder="Enter Email Address" class="reginput required email">
+<input type="email" name="txtCEmail" id="txtCEmail" placeholder="Confirm Email Address" class="reginput required email">
+
+</div>
+
+
+
+
+
+<div>
+
+<input type="password" id="txtPassword" name="txtPassword" placeholder="Create Password" class="reginput required">
+
+
+
+<span class="dob">DOB
+</span>
+
+
+
+
+		<select title="Enter Date" class="required regsel" name="selDay" id="selDay" style="margin-left:7px;">
+		<option value="">Date</option>
+		<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+
+
+		<select title="Enter Month" style="width:95px;" class="regsel required" id="selMonth" name="selMonth">	
+		<option value="">Month</option>
+<option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option>	</select>
+
+
+	<select name="selYear" style="width:90px;" id="selYear" class="regsel required" title="Enter Year">
+	<option value="">Year</option>
+		<option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option></select>
+
+
+
+</div>
+
+
+
+
+<div>
+
+
+<input type="text" id="txtMobile" name="txtMobile" placeholder="Mobile Number(Optional)" class="number reginput">
+
+<input type="text" id="txtReferCode" name="txtReferCode" value="" placeholder="Enter Referral Code(Optional)" class="reginput">
+				<br><div class="ref_text"></div>
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+<input type="button" onclick="registerajax();" class="regsubmitbtn" value="REGISTER" name="btnRegister" id="btnRegister">
+
+</div>
+
+
+<div class="landing_logintext" style="padding-bottom:22px;">Already a member? <a href="javascript:void(0);" onclick="gotologin();">LOGIN</a></div>
+
+
+					</form>
+
+
+		</div>
+		<div id="cbp-bicontrols" class="cbp-bicontrols login" style="margin-left: 0px;top:-250px; left: -420px; width: 780px; height: auto; padding: 0px; display: none; background: rgb(242, 242, 242);">			
+			
+
+
+<div class="ypswrap" style="background: #ccc;padding: 0px;line-height:50px; margin-bottom:10px;">- WELCOME -</div>
+
+
+
+
+<a style="display: inline;padding:0" class="close"><img width="19" height="19" title="close" alt="close" src="http://www.20dresses.com/system/application/views/images/close_btn.jpg"></a>
 
 <div class="loginwith"><a href="javascript:void(0);" onclick="fblogin();"><img src="http://www.20dresses.com/system/application/views/images/login_f.jpg" alt="Login With Facebook"></a></div>
 
-				<form action="" method="post" class="cmxform" name="frmLogin" id="frmLogin">
+				<form action="" method="post" name="frmLogin" id="frmLogin" class="cmxform">
 
 
-<div class="ortext"> - OR - </div>
 
-<div class="regemail">Log in with your email</div>
-<div class="error" style="color: red; font-size: 12px; width: 220px; text-align: left; padding-left: 80px;"></div>
-<div><input type="text" placeholder="Email Address" title="Please enter valid Email Address " name="txtemailAdd" class="inputbox required email" id="txtemailAdd"></div>
-<div><input type="password" id="txtpassword" name="txtpassword" placeholder="Password" title=" Please enter Password" class="inputbox required"></div>
-<div><button type="button" onclick="loginajax();" class="shopnowbtn">LOG IN</button></div>
+
+
+<div class="divider">
+						<div class="or">OR</div>
+						</div>
+
+
+<div class="error" style="color: red; font-size: 12px; width:100%; "></div>
+
+
+
+<div><input type="email" placeholder="Email Address" title="Please enter valid email address." name="txtemailAdd" class="reginput required email" id="txtemailAdd"></div>
+
+
+<div>
+<input type="password" id="txtpassword" name="txtpassword" title="Please Enter Passowrd " placeholder="Password" class="reginput required"></div>
+
+
+
+
+<div><input type="button" onclick="loginajax();" value="LOG IN" name="btnLogin" id="btnLogin" class="regsubmitbtn"></div>
 
 
 
@@ -672,10 +1039,13 @@ STYLES SELECTED JUST FOR YOU!
 	
 								<div class="forgotpass">	Enter your Email Address here to receive  password</div>
 								
-					<div>		<input type="text" title="Please enter valid email address." class="inputbox required email" id="txtemail" name="txtemail" placeholder="Email Address" style="text-align: left; float: left;width:188px">
+					<div>		<input type="text" title="Please enter valid email address." class="inputbox required email" id="txtemail" name="txtemail" placeholder="Email Address" style="  height: 19px;
+    margin-left: 194px;
+    margin-top: 18px;
+    width: 188px;">
 						
-
-							<button type="button" class="shopnowbtn" onclick="forgotpasswordajax();" style="width: 114px; margin-top: 8px; padding: 6px; height: 32px;">SUBMIT</button>
+<input type="button" onclick="forgotpasswordajax();" value="SUBMIT" style="margin-right:185px" name="btnForgot" id="btnForgot" class="regsubmitbtn">
+							
 										</div>
 					</form>
 					</div>
@@ -684,8 +1054,6 @@ STYLES SELECTED JUST FOR YOU!
 
 
 <script type="text/javascript">
-
-
 function loginajax()
 {	
 	if($("#frmLogin").valid())
@@ -693,7 +1061,8 @@ function loginajax()
 		$("#frmLogin div.error").show();
 		$("#frmLogin div.error").html("<img width='150' style='padding-left:5px' alt='login loader' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
 	
-		var base_url= 'http://www.20dresses.com/login/ajaxlogin';
+		$('#btnLogin').attr('disabled', true);
+		var base_url= 'http://www.20dresses.com/register/ajaxlogin';
 		var strData= $("#frmLogin").serialize();
 		
 		$.ajax({
@@ -714,19 +1083,147 @@ function loginajax()
 				else if(data.status=='error')
 				{
 					if(data.msg=='quiz') {
-						window.location.href="http://www.20dresses.com/quiz/";
+					
+						var email = $('#frmLogin input[name="txtemailAdd"]').val();		
+						$('#frmRegister input[name="txtCEmail"]').val(email);
+
+						var email2 = $('#frmLogin input[name="txtemailAdd"]').val();		
+						$('#frmRegister input[name="txtEmail"]').val(email2);
+
+
+						var password = $('#frmLogin input[name="txtpassword"]').val();		
+						$('#frmRegister input[name="txtPassword"]').val(password);
+
+
+						$("#frmLogin div.error").show();
+						$("#frmLogin div.error").html('<div class="landing_logintext"><a onclick="gotoregister();" href="javascript:void(0);"> You are new to 20Dresses. Register Now</a></div>');
+
+						//window.location.href="http://www.20dresses.com/quiz/";
+
 					} else {
 						$("#frmLogin div.error").show();
 						$("#frmLogin div.error").html(data.msg);
-						return false;
+						
 					}
 				}
+				$('#btnLogin').removeAttr('disabled');
 			}
 		});
 	}
 }
 
 </script>		</div>
+
+		<div style="margin-left: 0px; top: -250px; left: -420px; width: 780px; padding: 0px; background: rgb(242, 242, 242) none repeat scroll 0% 0%; display: none; height: auto" class="cbp-bicontrols fbregister" id="cbp-bicontrols">	
+				<div class="ypswrap usernmae">- WELCOME GORGEOUS -</div>
+
+		<div class="jointext" style="font-size:17px;"> One Last Thing..</div>
+
+
+
+				<form action="" method="post" name="frmFBRegister" id="frmFBRegister" class="cmxform">
+
+
+
+<div class="error" style="color: red; font-size: 12px; width:100%; "></div>
+
+
+
+<div>
+
+<input type="text" id="txtMobile" name="txtMobile" placeholder="Mobile Number(Optional)" class="reginput">
+</div>
+<div>
+<input type="text" id="txtRefCode" name="txtRefCode" value="" placeholder="Enter Referral Code(Optional)" class="reginput">
+				<br><div class="ref_text" style="padding:0;"></div>
+
+
+
+</div>
+
+
+
+
+
+<div style="padding-bottom: 49px; padding-top: 10px;"><input type="button" value="CONTINUE" name="btnfbregister" onclick="fbregister();" id="btnfbregister" class="regsubmitbtn"></div>
+
+
+
+</form>
+
+<script type="text/javascript">
+function  fbregister() {
+	if($("#frmFBRegister").valid())
+	{
+			$("#frmFBRegister div.error").show();
+			$("#frmFBRegister div.error").html("<img width='150' style='padding-left:5px' alt='login loader' src='http://www.20dresses.com/system/application/views/images/signinloader.gif' />");
+		
+		
+			var strData= $("#frmRegister1").serialize();
+			
+				 $.ajax({
+					type:'POST',
+					url:"http://www.20dresses.com/register/fbregister",
+					data:strData,
+					dataType: "json",
+					success:function(data)
+					{	
+						if(data.status=='success') {
+							window.location.reload();
+						} else if(data.status=='error') {
+							$("#frmFBRegister div.error").html(data.msg);
+						}
+					}
+				});
+
+	}
+
+}
+
+
+$(document).ready(function() {
+
+		$('#txtRefCode').change(function(e) {
+				refCode();
+		});
+
+		$('#txtRefCode').keyup(function(e) {
+				refCode();
+		});
+});
+
+
+
+function refCode() {
+
+	$('#frmFBRegister .ref_text').html("<img  src='http://www.20dresses.com/images/account-icon/loader.gif' />");
+			var refer = $('#txtRefCode').val();
+			if(refer=='') {
+				$('#frmFBRegister .ref_text').html("");
+				return false;
+			}
+
+			var strData= 'refer_code='+refer;
+			
+			 $.ajax({
+				type:'POST',
+				url:"http://www.20dresses.com/refer/code",
+				data:strData,
+				dataType: "json",
+				success:function(data)
+				{		  
+					$('#frmFBRegister .ref_text').html(data.msg);
+				}
+			});
+}
+</script>
+
+
+
+
+
+	
+		</div>
 	</div>
 </div>
 
@@ -796,23 +1293,32 @@ function loginajax()
 	<div class="leftnav">
 	<ul id="nav1" class="nav">
 
-			<li>
-				<a style="text-transform:uppercase;" href="http://www.20dresses.com/quiz">GET STYLED</a>
-			</li>
 
+
+
+		<li>
+			<a href="http://www.20dresses.com/quiz">MY SHOWROOM</a>
+		</li>
+
+	 	<li>
 	
+			<a href="http://www.20dresses.com/new/All" class="new_collection" style="color:red;font-weight:bold;">NEW</a>
+		
+
+		</li>
+	 
 
 
-	<li><a href="http://www.20dresses.com/trends" title="Trends">TRENDS</a></li>
+		 <li><a href="http://www.20dresses.com/testimonials" title="Testimonials">TESTIMONIALS</a></li> 
+		 <!-- <li><a  href="http://www.20dresses.com/trends/Valentine-Love-Shop" title="Love Shop">LOVE SHOP</a></li>  -->
 	
-		<li><a href="http://www.20dresses.com/testimonials" title="Testimonials">TESTIMONIALS</a></li>
-		<!-- <li><a  href="http://www.20dresses.com/blog" target="_blank" title="Blog">Blog</a></li> -->
 	</ul>
 	</div>
 
 	<div class="centernav">	
 		<a href="http://www.20dresses.com/">
-			<img alt="20Dresses logo" src="http://www.20dresses.com/system/application/views/images/20dlogo.png" width="190" height="75">
+		
+			 <img alt="20Dresses logo" src="http://www.20dresses.com/system/application/views/images/20dlogo.png" width="190" height="75"> 
 		</a>
 	</div>
 
@@ -823,9 +1329,877 @@ function loginajax()
 	 <div class="rightnav">
 	 <ul id="nav2" class="nav">
 
+		  <li><a>Apparel</a>
+		
+		 <ul style=" right:-255px; width:970px; height:auto;">
+				
+<img src="http://www.20dresses.com/system/application/views/images/nav_arrow.png" style="margin-top:1px;padding-right:299px">
+		 
+		 <div class="dropdown_wrap">
+			
 
-	  <li><a href="http://www.20dresses.com/aboutus" title="About us">ABOUT US</a></li>
-			<li><a href="http://www.20dresses.com/howitworks">HOW IT WORKS</a></li>
+			
+	
+				<div class="featured_line"></div>
+				
+
+
+					<!-- left images links wrap starts-->
+					<div class="imagenav_wrap">
+
+
+
+
+
+						<div class="featured">FEATURED CATEGORIES</div>
+							
+					<span>
+					<a href="http://www.20dresses.com/Apparel/T-Shirts"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Perks-Of-Being-A-Sunflower-Tee-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">T-Shirts</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Apparel/Tops"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Blue-Me-Away-Cape-Top-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Tops</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Apparel/Dresses"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Fading-Into-Dusk-Dress-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Dresses</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Apparel/Shorts-and-Skirts"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Blinded-By-Blurred-Lines-Skirt-3.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Shorts and Skirts</div>
+						</a> 
+					</span> 
+
+
+					</div>
+
+
+
+					<div class="rightnav_wrap">
+					
+					
+					
+					 <div>
+
+
+
+
+<!-- <div class="textlinks_line"></div> -->
+
+					<div class="menu_cat_name"> <a style="text-align:left;" href="http://www.20dresses.com/Apparel/All"> ALL Apparel</a></div>
+											<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/T-Shirts">
+						
+						
+						T-Shirts 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Tops">
+						
+						
+						Tops								<span class="new_link">New!</span>
+								 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Dresses">
+						
+						
+						Dresses								<span class="new_link">New!</span>
+								 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Denims-Jeggings-and-Leggings">
+						
+						
+						Denims Jeggings &amp; Leggings								<span class="new_link">New!</span>
+								 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Shorts-and-Skirts">
+						
+						
+						Shorts &amp; Skirts 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Pants-and-Palazzos">
+						
+						
+						Pants &amp; Palazzos 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Shrugs">
+						
+						
+						Shrugs 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Jackets-and-Shrugs">
+						
+						
+						Jackets &amp; Shrugs 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Apparel/Jumpsuits">
+						
+						
+						Jumpsuits 
+						
+						</a>
+						
+						</div>
+					   					 </div> 
+
+					</div>
+
+		<!-- left images links wrap ends -->
+
+
+
+
+				
+
+					</div>
+		</ul>
+
+
+
+</li>
+
+
+
+		  <li><a>Bags</a>
+		
+		 <ul style=" right:-205px; width:970px; height:auto;">
+				
+<img src="http://www.20dresses.com/system/application/views/images/nav_arrow.png" style="margin-top:1px;padding-right:226px">
+		 
+		 <div class="dropdown_wrap">
+			
+
+			
+	
+				<div class="featured_line"></div>
+				
+
+
+					<!-- left images links wrap starts-->
+					<div class="imagenav_wrap">
+
+
+
+
+
+						<div class="featured">FEATURED CATEGORIES</div>
+							
+					<span>
+					<a href="http://www.20dresses.com/Bags/Slings"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Movie-Night-Popcorn-Sling-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Slings</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Bags/Wallets"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Breakfast-At-Tiffanys-Wallet-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Wallets</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Bags/Hand-Bags"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Both-The-Poles-Colorblock-Handbag-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Hand Bags</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Bags/Backpacks"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Stars-Of-The-Night-Backpack-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Backpacks</div>
+						</a> 
+					</span> 
+
+
+					</div>
+
+
+
+					<div class="rightnav_wrap">
+					
+					
+					
+					 <div>
+
+
+
+
+<!-- <div class="textlinks_line"></div> -->
+
+					<div class="menu_cat_name"> <a style="text-align:left;" href="http://www.20dresses.com/Bags/All"> ALL Bags</a></div>
+											<div><a style="text-align:left;" href="http://www.20dresses.com/Bags/Clutches">
+						
+						
+						Clutches 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Bags/Slings">
+						
+						
+						Slings 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Bags/Wallets">
+						
+						
+						Wallets 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Bags/Hand-Bags">
+						
+						
+						Hand Bags 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Bags/Backpacks">
+						
+						
+						Backpacks 
+						
+						</a>
+						
+						</div>
+					   					 </div> 
+
+					</div>
+
+		<!-- left images links wrap ends -->
+
+
+
+
+				
+
+					</div>
+		</ul>
+
+
+
+</li>
+
+
+
+		  <li><a>Accessories</a>
+		
+		 <ul style=" right:-81px; width:970px; height:auto;">
+				
+<img src="http://www.20dresses.com/system/application/views/images/nav_arrow.png" style="margin-top:1px;padding-right:131px">
+		 
+		 <div class="dropdown_wrap">
+			
+
+			
+	
+				<div class="featured_line"></div>
+				
+
+
+					<!-- left images links wrap starts-->
+					<div class="imagenav_wrap">
+
+
+
+
+
+						<div class="featured">FEATURED CATEGORIES</div>
+							
+					<span>
+					<a href="http://www.20dresses.com/Accessories/Necklaces"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Charms-Of-Gold-Necklace-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Necklaces</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Accessories/Body-Chains"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/The-Big-Bold-Gold-Body-Chain-3.jpg">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Body Chains</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Accessories/Stoles-and-Scarves"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Twisted-In-Florals-Printed-Scarf-1.jpg">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Stoles and Scarves</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Accessories/Stockings"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Little-Hearts-Maroon-Stocking-1.jpg">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Stockings</div>
+						</a> 
+					</span> 
+
+
+					</div>
+
+
+
+					<div class="rightnav_wrap">
+					
+					
+					
+					 <div>
+
+
+
+
+<!-- <div class="textlinks_line"></div> -->
+
+					<div class="menu_cat_name"> <a style="text-align:left;" href="http://www.20dresses.com/Accessories/All"> ALL Accessories</a></div>
+											<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Metallic-Tattoos">
+						
+						
+						Metallic Tattoos 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Necklaces">
+						
+						
+						Necklaces								<span class="new_link">New!</span>
+								 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Rings">
+						
+						
+						Rings 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Hats-And-Caps">
+						
+						
+						Hats And Caps 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Earrings">
+						
+						
+						Earrings 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Cuffs-and-Bangles">
+						
+						
+						Cuffs &amp; Bangles 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Ear-Cuffs">
+						
+						
+						Ear Cuffs 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Anklets-and-Heel-Chains">
+						
+						
+						Anklets &amp; Heel Chains 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Belts">
+						
+						
+						Belts 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Body-Chains">
+						
+						
+						Body Chains 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Stoles-and-Scarves">
+						
+						
+						Stoles &amp; Scarves 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Hair-Accessories">
+						
+						
+						Hair Accessories 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Sunglasses">
+						
+						
+						Sunglasses 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Brooches-and-Collar-Pins">
+						
+						
+						Brooches &amp; Collar Pins 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Accessories/Stockings">
+						
+						
+						Stockings 
+						
+						</a>
+						
+						</div>
+					   					 </div> 
+
+					</div>
+
+		<!-- left images links wrap ends -->
+
+
+
+
+				
+
+					</div>
+		</ul>
+
+
+
+</li>
+
+
+
+		  <li><a>Shoes</a>
+		
+		 <ul style=" right:-11px; width:970px; height:auto;">
+				
+<img src="http://www.20dresses.com/system/application/views/images/nav_arrow.png" style="margin-top:1px;padding-right:36px">
+		 
+		 <div class="dropdown_wrap">
+			
+
+			
+	
+				<div class="featured_line"></div>
+				
+
+
+					<!-- left images links wrap starts-->
+					<div class="imagenav_wrap">
+
+
+
+
+
+						<div class="featured">FEATURED CATEGORIES</div>
+							
+					<span>
+					<a href="http://www.20dresses.com/Shoes/Bellies-and-Flats"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Stud-Me-Not-Gladiator-Flats-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Bellies and Flats</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Shoes/Boots"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Cut-The-Grey-Ankle-Booties-1.JPG">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Boots</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Shoes/Heels-and-Wedges"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/The-Surface-Of-Gold-Heels-3.jpg">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Heels and Wedges</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/Shoes/Sneakers-and-Loafers"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/Black-Beast-High-Top-Sneakers-1.jpg">
+					
+<br>
+
+
+						<!-- <div class="new-flag">Just Added</div> -->
+						
+						<div class="featured_name">Sneakers and Loafers</div>
+						</a> 
+					</span> 
+
+
+					</div>
+
+
+
+					<div class="rightnav_wrap">
+					
+					
+					
+					 <div>
+
+
+
+
+<!-- <div class="textlinks_line"></div> -->
+
+					<div class="menu_cat_name"> <a style="text-align:left;" href="http://www.20dresses.com/Shoes/All"> ALL Shoes</a></div>
+											<div><a style="text-align:left;" href="http://www.20dresses.com/Shoes/Bellies-and-Flats">
+						
+						
+						Bellies &amp; Flats 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Shoes/Boots">
+						
+						
+						Boots 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Shoes/Heels-and-Wedges">
+						
+						
+						Heels &amp; Wedges 
+						
+						</a>
+						
+						</div>
+					   						<div><a style="text-align:left;" href="http://www.20dresses.com/Shoes/Sneakers-and-Loafers">
+						
+						
+						Sneakers &amp; Loafers 
+						
+						</a>
+						
+						</div>
+					   					 </div> 
+
+					</div>
+
+		<!-- left images links wrap ends -->
+
+
+
+
+				
+
+					</div>
+		</ul>
+
+
+
+</li>
+
+
+
+ <li>
+			<a style="padding-right:0;color:red;font-weight:bold;" href="http://www.20dresses.com/sale/All" title="SALE">
+					SALE
+			</a>
+
+			
+			
+		<ul style=" right:30px; width:970px; height:auto;">
+				
+			<img src="http://www.20dresses.com/system/application/views/images/nav_arrow.png" style="margin-top:1px;margin-right:-16px">
+		 
+			<div class="dropdown_wrap">
+
+
+					<div class="imagenav_wrap">
+						
+				
+						<div class="featured">FEATURED CATEGORIES</div>
+
+
+
+
+<div class="show_welhead">
+			
+								
+						<div class="show_weltext"><img src="http://www.20dresses.com/system/application/views/images/saleimage.png"></div>	
+				
+
+					</div> 
+
+							
+					<span>
+					<a href="http://www.20dresses.com/sale/Apparel"> 
+
+										
+					<img src="http://www.20dresses.com/uploads/product/cart_img/The-Icy-Floral-Denim-Top-1.JPG">
+					
+						<br>					
+						<div class="featured_name">Apparel</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/sale/Bags"> 
+
+											<img src="http://www.20dresses.com/uploads/product/cart_img/Night-Owl-Patchwork-Handbag-3.JPG">
+					
+						<br>					
+						<div class="featured_name">Bags</div>
+						</a> 
+					</span> 
+				
+					<span>
+					<a href="http://www.20dresses.com/sale/Shoes"> 
+
+											<img src="http://www.20dresses.com/uploads/product/cart_img/Slip-Into-Style-Heels-1.JPG">
+					
+						<br>					
+						<div class="featured_name">Shoes</div>
+						</a> 
+					</span> 
+
+				</div>
+
+
+
+				<div class="rightnav_wrap">
+
+					
+				
+					
+					 
+					 
+					 <div>
+
+	<div class="menu_cat_name">ALL CATEGORIES</div>
+
+
+	<div><a style="text-align:left;" href="http://www.20dresses.com/sale/All">ALL
+						
+								</a>
+								</div>
+
+											<div>
+						<a style="text-align:left;" href="http://www.20dresses.com/sale/Apparel">Apparel 
+						</a>
+						
+						</div>
+					   						<div>
+						<a style="text-align:left;" href="http://www.20dresses.com/sale/Bags">Bags 
+						</a>
+						
+						</div>
+					   						<div>
+						<a style="text-align:left;" href="http://www.20dresses.com/sale/Accessories">Accessories 
+						</a>
+						
+						</div>
+					   						<div>
+						<a style="text-align:left;" href="http://www.20dresses.com/sale/Shoes">Shoes 
+						</a>
+						
+						</div>
+					   					 </div> 
+
+					</div>
+
+					<!-- left images links wrap ends -->
+
+
+
+
+				
+
+					</div>
+		</ul>
+
+				</li>
+
 
 	     
 	</ul>
@@ -1079,8 +2453,13 @@ padding: 2px;">
 		<img height="12" width="17" src="http://www.20dresses.com/system/application/views/images/easyreturns_icon.png" class="easy_returns_exchange" alt="EASY RETURNS &amp; CHANGES"> &nbsp;EASY RETURNS &amp; CHANGES
 	</li>
 	<li style="margin:0 10px;">
-		<img height="12" width="17" src="http://www.20dresses.com/system/application/views/images/inviteearn_icon.png" class="invite_earn" alt="INVITE &amp; EARN"> &nbsp;INVITE &amp; EARN
+		<a class="footer_link_class" href="http://www.20dresses.com/invite"><img height="12" width="17" src="http://www.20dresses.com/system/application/views/images/inviteearn_icon.png" class="invite_earn" alt="INVITE &amp; EARN"> &nbsp;INVITE &amp; EARN
+		</a>
 	</li>
+ <li style="margin:0 10px;">
+<a href="https://mixpanel.com/f/partner" rel="nofollow"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics"></a>
+
+		</li>
 
 </ul>
 
