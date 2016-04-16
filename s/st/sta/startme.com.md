@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the startme.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117102038id_/https%3A//start.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startme.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416221329id_/https%3A//start.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - start.me
 
-_Last updated: March 26, 2015_
+_Last updated: March 03, 2016_
 
 **start.me BV** ("us", "we", or "our") operates the [start.me](https://start.me/) website (the "Service"). 
 
@@ -10,7 +10,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://start.me/terms.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [start.me/terms](https://start.me/terms). 
 
 ## Information Collection And Use
 
@@ -44,9 +44,24 @@ We may employ third party companies and individuals to facilitate our Service, t
 
 These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-## Trovi Search
+## E-mail widget
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit http://info.trovi.com/Privacy, and the search provider's privacy policy, as applicable.
+If you use the e-mail widget to display your latest e-mails on your start.me page, additional privacy policies may apply.
+
+#### Gmail
+
+If you use a Gmail mailbox, you can check the Gmail privacy policy [here](https://www.gmail.com/intl/en_us/mail/help/terms.html). 
+
+#### Context.io
+
+We use the Context.IO e-mail API to power all other mailboxes (incl. Yahoo, Outlook, Yandex, etc). Context.IO anonymizes your e-mail content and uses it commercially to improve spam filters, detect and help stop phishing attacks, and help companies adopt best practices.
+
+All your personal information (such as names, email addresses, and postal addresses) is removed. No part of the anonymized data can be traced to a specific email account.
+
+  * **Privacy FAQ:** <https://context.io/privacy-faq>
+  * **Opt-out:** [https://optout.context.io](https://optout.context.io/)
+
+
 
 ## Business Transaction
 
