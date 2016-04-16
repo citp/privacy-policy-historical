@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206041725id_/http%3A//www.securesafe.com/en/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416090636id_/http%3A//www.securesafe.com/en/security/privacy-policy) for the most accurate reproduction.*
 
-# SecureSafe - online secure storage for passwords & files / Privacy Policy | SecureSafe
+# Our privacy policy | SecureSafe
 
 We are committed to safeguarding the privacy of our website visitors and SecureSafe service users. This policy sets out how we will treat your personal information. Throughout the text of this policy we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
 
@@ -32,7 +32,7 @@ Our primary purpose in collecting personal information is to provide you with a 
   * provide the services and customer support you request;
   * customize, evaluate, and improve our services and the content and layout of our website;
   * send you targeted marketing, service update notices, and promotional offers based on your communication preferences;
-  * deliver specific update reports and exceptional SecureSafe special offers, based on your preferred communication methods. We do not send out these offers more than once every two months, as a short email. 
+  * deliver specific update reports and exceptional SecureSafe special offers, based on your preferred communication methods. We do not send out these offers more than once every two months, as a short email. 
   * send you a series of introductory emails consisting of six emails sent at three-week intervals. The emails explain the functions and features of SecureSafe in more detail. Users who no longer wish to receive our newsletter or advertising emails can click on the "Unsubscribe" link, which is included in all the emails we send.
   * compare information to test for accuracy and verify it with third parties.
 
@@ -51,7 +51,7 @@ We rely on the services of trusted partners to implement SecureSafe. The followi
 
 ## How you can access or change your personal information
 
-You can review and edit your personal information at any time by logging in to your SecureSafe account from any browser and clicking the "My Account" button in the top right corner of the SecureSafe web interface, accessible via: <http://www.securesafe.com/mylogin/>
+You can review and edit your personal information at any time by logging in to your SecureSafe account from any browser and clicking the "My Account" button in the top right corner of the SecureSafe web interface, accessible via: <http://www.securesafe.com/mylogin>
 
 ## How we handle amendments to this policy
 
@@ -61,4 +61,4 @@ We may update this privacy policy from time to time by posting a new version on 
 
 If you have questions or concerns regarding this policy, you should contact us by email [info@securesafe.com](mailto:info@securesafe.com) or by writing to us at DSwiss AG, Attn: Privacy Department, Badenerstrasse 281, 8003 Zurich, Switzerland.
 
-You can find answers to your support queries here: <http://www.securesafe.com/en/support/>
+You can find answers to your support queries here: <http://www.securesafe.com/en/support/>
