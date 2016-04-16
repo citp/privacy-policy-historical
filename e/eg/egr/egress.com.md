@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206212151id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416123757id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Egress Switch
 
