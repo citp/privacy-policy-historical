@@ -1,30 +1,16 @@
-<!--The following is the downloaded HTML source of the northcoastnow.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905081727id_/http%3A//northcoastnow.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the northcoastnow.com privacy policy that was archived on 2016-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417005027id_/http%3A//northcoastnow.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAcAVFBUGwIAVFVQAwMG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-				
-					
-				
-		<link rel="shortcut icon" href="">
-		
-		<title>   Privacy Policy </title>
-		
-		
-		<meta name="generator" content="WordPress 4.2.4"> <!-- leave this for stats -->
-		<link rel="stylesheet" href="//northcoastnow.com/wp-content/themes/custom-community/style.css" type="text/css" media="screen">
-		
-		
-		
-		
-		<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com Blog Posts RSS Feed" href="//northcoastnow.com/feed/">
-		<link rel="alternate" type="application/atom+xml" title="NorthCoastNow.com Blog Posts Atom Feed" href="//northcoastnow.com/feed/atom/">
-
-		<link rel="pingback" href="//northcoastnow.com/xmlrpc.php">
-
-		<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Feed" href="//northcoastnow.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Comments Feed" href="//northcoastnow.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Privacy Policy Comments Feed" href="//northcoastnow.com/privacy-policy/feed/">
+<!DOCTYPE html><html lang="en-US" class="no-js"><head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Privacy Policy | NorthCoastNow.com</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<link rel="pingback" href="http://northcoastnow.com/xmlrpc.php">
+<title>Privacy Policy | NorthCoastNow.com</title>
+<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Feed" href="http://northcoastnow.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Comments Feed" href="http://northcoastnow.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="NorthCoastNow.com » Privacy Policy Comments Feed" href="http://northcoastnow.com/privacy-policy/feed/">
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/northcoastnow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -43,313 +29,646 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<script type="text/javascript" src="//northcoastnow.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
-<script type="text/javascript" src="//northcoastnow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="//northcoastnow.com/wp-content/themes/custom-community/_inc/js/reflection.js?ver=4.2.4"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//northcoastnow.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//northcoastnow.com/wp-includes/wlwmanifest.xml"> 
+<link rel="stylesheet" id="cc2-default-google-fonts-ubuntu-condensed-css" href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed&amp;ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="cc2-default-google-fonts-pacifico-css" href="http://fonts.googleapis.com/css?family=Pacifico&amp;ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="cc2-default-google-fonts-lato-css" href="http://fonts.googleapis.com/css?family=Lato%3A300&amp;ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://northcoastnow.com/wp-content/themes/custom-community/includes/schemes/style.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="glyphicons-css" href="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/glyphicons/css/bootstrap-glyphicons.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="cc-animate-css-css" href="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/animatecss/animate.min.css?ver=4.2.4" type="text/css" media="all">
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/js/SlimConsoleDummy.min.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/tooltip.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/transition.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/affix.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/alert.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/button.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/carousel.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/collapse.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/dropdown.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/modal.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/popover.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/scrollspy.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/resources/bootstrap/js/tab.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/js/bootstrap-wp.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/js/head.core.css3.min.js?ver=4.2.4"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://northcoastnow.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://northcoastnow.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.2.4">
-<link rel="canonical" href="//northcoastnow.com/privacy-policy/">
-<link rel="shortlink" href="//northcoastnow.com/?p=16287">
-<style type="text/css">body {background: none #f1f1f1;color:#555555;font-family:Arial,Tahoma,Verdana,sans-serif;font-size:12px;line-height:170%;margin:0 auto;max-width:100%;min-width:100%;padding-top:0 !important;width:100%;background-position: center top;}body.activity-permalink {min-width: 100%;max-width: 100%;}#outerrim{margin:0 auto;width:100%;}#innerrim {margin:0 auto;max-width:1000px;min-width:1000px;}.v_line {border-right: 1px solid #f1f1f1;height: 100%;position: absolute;width: 0;}.v_line_left {margin-left: 223px;}.v_line_right {right: 223px;}h1, h2, h3, h4, h5, h6 {margin: 0 0 12px 0;}h1 { font-size: 28px; color:#555555; margin-bottom: 25px; line-height: 170%; }h2 { font-size: 24px; color:#555555;margin-top: -8px; margin-bottom: 25px; line-height: 170%; }h3 { font-size: 20px; color:#555555; }h4 { font-size: 16px; margin-bottom: 15px; }h5 { font-size: 14px; margin-bottom: 0; }h6 { font-size: 12px; margin-bottom: 0; }a { font-style:normal; color: #1f8787; text-decoration: none; padding: 1px 0; }a:hover, a:active { color: #555555; }a:focus { outline: none; }.padder { padding: 20px; }.clear { clear: left; }h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:focus { text-decoration: none; background-color: transparent; } p, em {font-size: 13px;margin-bottom: 15px;}em { font-style: italic; } p:last-child { margin-bottom: 0; }sub {line-height: 100%;font-size: 60%;font-family: Arial, Helvetica, sans-serif;vertical-align:bottom;}sup {line-height: 100%;font-size: 60%;font-family: Arial, Helvetica, sans-serif;vertical-align:top;}hr {background-color:#555555;border:0 none;clear:both;height:1px;margin: 20px 0;}blockquote {padding: 10px 20px; background-color: #f1f1f1;}blockquote, blockquote p, blockquote a, blockquote a:hover, blockquote a:focus,blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, blockquote h6 {font-family: georgia, times, serif; font-size: 16px; font-style:italic; }img.avatar {border:1px solid #f1f1f1;float:left;}span.cc_blockquote {width:30%; padding:2%; background-color: #f1f1f1;}span.cc_blockquote_left {float: left; }span.cc_blockquote_right {float: right; }span.cc_blockquote, span.cc_blockquote p, span.cc_blockquote a {font-family: times, serif;font-family: times, serif !important; font-size: 19px;font-size: 19px !important; font-style: italic;}body#bp-default.activity-permalink #wp-admin-bar .padder, body#bp-default #wp-admin-bar .padder {max-width:100%;min-width:100%;}#wp-admin-bar {font-size:11px;height:25px;left:0;position:fixed;top:0;width:100%;z-index:1000;}#wp-admin-bar a { background-color: transparent; text-decoration: none; }#header {position: relative;color: #555555;background: url(http://northcoastnow.com/wp-content/themes/custom-community/images/default-header.png);-moz-border-radius-bottomleft: 6px;-webkit-border-bottom-left-radius: 6px;border-bottom-left-radius: 6px;-moz-border-radius-bottomright: 6px;-webkit-border-bottom-right-radius: 6px;border-bottom-right-radius: 6px;margin-bottom: 12px;min-height: 50px;height:auto !important;padding-top: 25px; background-repeat: no-repeat; }#header #search-bar {position: absolute;top: 27px;right: 0;width: 390px;text-align: right;}#logo{position: absolute;}#header div#logo h1, #header div#logo h4 {left: 20px;line-height: 150%;margin: 0 0 -5px;top: 35px;font-size: 28px;}#header #search-bar .padder {padding: 10px 0;}#header #search-bar input[type=text] {-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px inset #888;padding: 2px;margin-right: 4px;}#header #search-bar input[type=submit] {font-size: 11px;padding: 1px 4px;margin-left: 4px;}#header div#logo h1 a, #header div#logo h4 a {color: #555555;font-size: 26px;}ul#nav {background:url("") no-repeat scroll 0 0 transparent;bottom:2px;list-style:none outside none;margin:15px 0 0;max-width:100%;min-width:100%;padding:45px 0 5px 0;position:relative;left: 20px;right: 15px;}ul#nav li {float:left;margin:0;padding:6px 28px 0 0;}ul#nav li a {-moz-background-inline-policy:continuous;-moz-border-radius-topleft:3px;border-top-left-radius:3px;-webkit-border-top-left-radius:3px;-moz-border-radius-topright:3px;border-top-right-radius:3px;-webkit-border-top-right-radius:3px;background:none repeat scroll 0 0 transparent;color:#555555;display:block;font-size:13px;font-weight:bold;padding:0;}ul#nav li.selected, ul#nav li.selected a, ul#nav li.current_page_item a {background:none repeat scroll 0 0;color: #1f8787;}ul#nav a:focus { outline: none; }#nav-home {float:left;}#nav-community {float:left;}div#container {-moz-border-radius:6px 6px 6px 6px;border-radius:6px;-webkit-border-radius:6px;background-color: #dddddd;background-image:none; border:none;overflow:hidden;position:relative;width:100%;}body.activity-permalink div#container {background: #dddddd;border:none;}#sidebar-me, #sidebar-login-form {margin-bottom:20px;}.right-sidebar-padder { padding: 30px 15px 30px 20px; }.left-sidebar-padder { padding:30px 15px 30px 20px; }div#sidebar {-moz-background-clip:border;-moz-background-inline-policy:continuous;-moz-background-origin:padding;-moz-border-radius-topright:6px;-webkit-border-top-right-radius:6px;border-top-right-radius:6px;background:transparent;border-left:none;float:right;margin-left:-224px;margin-top: 0px;width:224px;}div.widgetarea {-moz-background-clip:border;-moz-background-inline-policy:continuous;-moz-background-origin:padding;background:transparent;float:left;width:224px;}div#sidebar div#sidebar-me img.avatar, div.widgetarea div#sidebar-me img.avatar {float: left;margin: 0 10px 15px 0;}div#sidebar div#sidebar-me h4, div.widgetarea div#sidebar-me h4 {font-size: 16px;margin: 0 0 8px 0;font-weight: normal;}div#sidebar ul#bp-nav, div.widgetarea ul#bp-nav {clear: left;margin: 15px -16px;}div#sidebar ul#bp-nav li, div.widgetareaul#bp-nav li {padding: 10px 15px;}div#leftsidebar h3.widgettitle, div#sidebar h3.widgettitle, div.widgetarea h3.widgettitle {-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px;background:none repeat scroll 0 0 #f1f1f1;clear:left;color:#555555;font-size:12px;margin:0 8px 12px -9px;padding:5px 10px;width:182px;font-family: arial, helvetica, sans-serif; }div#leftsidebar h3.widgettitle a, div#sidebar h3.widgettitle a, div.widgetarea h3.widgettitle a {clear:left;color:#555555;background-color: transparent; text-decoration: none; font-size:12px;font-family: arial, helvetica, sans-serif; }div#leftsidebar h3.widgettitle a:hover, div#leftsidebar h3.widgettitle a:focus,div#sidebar h3.widgettitle a:hover, div#sidebar h3.widgettitle a:focus,div.widgetarea h3.widgettitle a:hover, div.widgetarea h3.widgettitle a:focus {color:#1f8787;background-color: transparent; text-decoration: none; }div#leftsidebar div#item-header-avatar img.avatar, div#sidebar div#item-header-avatar img.avatar { margin-bottom:20px;} div#sidebar h3.widgettitle p, div.widgetarea h3.widgettitle p {padding: 5px 10px;font-size: 12px;color:#555555;clear: left;}div#sidebar .widget_search, div.widgetarea .widget_search {margin-top: 0;}div#sidebar .widget_search input[type=text], div.widgetarea .widget_search input[type=text]{width: 110px;padding: 2px;}div#sidebar ul#recentcomments li, div#sidebar .widget_recent_entries ul li, div.widgetareaul#recentcomments li, div.widgetarea .widget_recent_entries ul li{margin-bottom: 5px;}div#sidebar ul.item-list img.avatar, div.widgetareaul.item-list img.avatar{width: 25px;height: 25px;margin-right: 10px;}div#sidebar div.item-avatar img, div.widgetareadiv.item-avatar img{width: 40px;height: 40px;}div#sidebar .avatar-block, div.widgetarea .avatar-block{ overflow: hidden; } .avatar-block img.avatar { margin-right: 4px; }div#sidebar ul.item-list div.item-title, div.widgetarea ul.item-list div.item-title{font-size:12px;line-height:140%;}div#sidebar div.item-options, div.widgetarea div.item-options{background:none repeat scroll 0 0 transparent;font-size:11px;margin:-12px 0 10px -14px;padding:5px 15px;text-align:left;}div#sidebar div.item-meta, div#sidebar div.item-content, div.widgetarea div.item-meta, div.widgetarea div.item-content{font-size: 11px;}div#sidebar div.tags div#tag-text, div.widgetarea div.tags div#tag-text{font-size: 1.4em;line-height: 140%;padding-top: 10px;}div#sidebar ul , div.widgetarea ul {text-align:left;}.widget li.cat-item {margin-bottom:8px;}.widget li.current-cat a, div.widget ul li.current_page_item a {color:#1f8787;}.widget li.current-cat, div.widget ul li.current_page_item{background:transparent;margin-left:-8px;padding:2px 8px 0 8px;width:100%;}div#leftsidebar {-moz-background-inline-policy:continuous;-moz-border-radius-topleft:6px;-webkit-border-top-left-radius:6px;border-top-left-radius:6px;background:transparent;border-left:0 none;border-right:none;float:left;margin-right:-225px;margin-top: 0px;position:relative;width:224px;}.paddersidebar{ padding:30px 15px 30px 20px; }div#sidebar div.item-options a.selected,div#leftsidebar div.item-options a.selected, div.widgetarea {color:#555555;}div#content {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;float:left;width:100%;}div#content .padder {-moz-border-radius:0px !important;border-left:none;border-right:none;margin-left:224px;margin-right:225px;min-height:300px;padding-top:30px;overflow: hidden;}div#content .left-menu {float: left;width: 170px;}div#content .main-column {margin-left: 190px;}div#item-header {overflow: hidden;}div#content div#item-header {margin-top:0;overflow:hidden;}div#item-header div#item-header-content { margin-left: 170px; }div#item-header h2 {font-size: 28px;margin: -5px 0 15px 0;line-height: 120%;}div#item-header h2 a {font-size:28px;}div#item-header img.avatar {float: left;margin: 0 15px 25px 0;}div#item-header h2 { margin-bottom: 5px; }div#item-header span.activity, div#item-header h2 span.highlight {vertical-align: middle;font-size: 13px;font-weight: normal;line-height: 170%;margin-bottom: 7px;color:#555555;}div#item-header h2 span.highlight { font-size: 16px; color:#555555; }div#item-header h2 span.highlight span {position: relative;top: -2px;right: -2px;font-weight: bold;font-size: 11px;background: #1f8787;color: #f1f1f1;padding: 1px 4px;margin-bottom: 2px;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;vertical-align: middle;cursor: pointer;display: none;}div#item-header div#item-meta {font-size: 14px;color: #555555;padding-bottom: 25px;overflow: hidden;margin: 15px 0 5px 0;}div#item-header div#item-actions {float: right;width: 20%;margin: 0 0 15px 15px;text-align: right;}div#item-header div#item-actions h3 {font-size: 12px;margin: 0 0 5px 0;}div#item-header ul {overflow: hidden;margin-bottom: 15px;}div#item-header ul h5, div#item-header ul span, div#item-header ul hr {display: none;}div#item-header ul li {float: none;}div#item-header ul img.avatar, div#item-header ul.avatars img.avatar {width: 30px;height: 30px;margin: 2px;}div#item-header div.generic-button, div#item-header a.button {float: left;margin: 10px 5px 0 0;}div#item-header div#message.info {line-height: 80%;}div.widget-title ul.item-list li{background:none;border-bottom:medium none;font-size:12px;margin-bottom:8px;padding:0;}div.widget-title ul.item-list li.selected {background:none;border:none;font-size:12px;color:#1f8787;}div.widget-title ul.item-list li.selected a {color:#555555;}ul.item-list {width: 100%;}ul.item-list li {position: relative;padding: 15px 0 20px 0;border-bottom: 1px solid #f1f1f1;}ul.single-line li { border: none; }body.activity-permalink ul.item-list li { padding-top: 0; border-bottom:none; }ul.item-list li img.avatar {float: left;margin: 3px 10px 10px 0;}div.widget ul.item-list li img.avatar {width:25px;height:25px;}ul.item-list li div.item-title, ul.item-list li h4 {float:left;font-size:14px;font-weight:normal;margin:0;width:47%;}div.widget ul.item-list li div.item-title, div.widgetul.item-list li h4 {float:none;width:100%;}ul.item-list li div.item-title span {font-size: 12px;color: #555555;}ul.item-list li div.item-desc {margin: 0 0 0 63px;font-size: 11px;color: #555555;width: 50%;}ul.item-list li div.action {position: absolute;top: 15px;right: 0;text-align: right;width: 34%;}.item-meta{float:left;width:87%;}ul.item-list li div.meta {color:#555555;font-size:11px;margin-top: 4px;}ul.item-list li h5 span.small {font-weight: normal;font-size: 11px;}div.item-list-tabs {background:none repeat scroll 0 0 transparent;border-bottom:4px solid #f1f1f1;clear:left;margin: 0px -20px 15px;overflow:hidden;padding-top:15px;}div.item-list-tabs ul {width: 100%;}div.item-list-tabs ul li {float: left;margin: 0px;}div.item-list-tabs ul li.selected {background:none;}div.item-list-tabs#subnav ul li {margin-top: 0;}div.item-list-tabs ul li:first-child {margin-left: 20px;}div.item-list-tabs ul li.last {float: right;margin: 7px 20px 0 0;}div.item-list-tabs#subnav ul li.last {margin-top: -4px;}div.item-list-tabs ul li.last select {max-width: 175px;}div.item-list-tabs ul li a,div.item-list-tabs ul li span {display: block;padding: 4px 8px;}div.item-list-tabs ul li a {text-decoration: none;background-color: transparent; }div.item-list-tabs ul li a:hover,div.item-list-tabs ul li a:focus {color: #555555; }div.item-list-tabs ul li span {color: #555555;}div.item-list-tabs ul li a span {display: inline;padding: 0;color: inherit;}div.item-list-tabs ul li.selected a, div.item-list-tabs ul li.current a {-moz-border-radius-topleft:6px;-moz-border-radius-topright:6px;-webkit-border-top-left-radius:6px;-webkit-border-top-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;background-color:#f1f1f1;color:#555555 !important;font-weight: normal;margin-top:0;}ul li.loading a {background-image: url(http://northcoastnow.com/wp-content/themes/custom-community/images/ajax-loader.gif );background-position: 92% 50%;background-repeat: no-repeat;padding-right: 30px !important;z-index: 1000;}div#item-nav ul li.loading a {background-position: 88% 50%;}#item-nav a{color:#1f8787;}#subnav a{color:#555555;}#item-nav a:hover{color:#555555;}#subnav a:hover{color:#1f8787;}div#subnav.item-list-tabs ul li {margin-top:1px;}div.item-list-tabs#object-nav {margin-top: 0;}div#subnav.item-list-tabs{background:none repeat scroll 0 0 #f1f1f1;border-bottom:medium none;margin:-20px -20px 15px;min-height:26px;overflow:hidden;}div#subnav.item-list-tabs ul li.selected a, div#subnav.item-list-tabs ul li.current a{background-color:#dddddd;}div.item-list-tabs ul li.feed a {background: url(http://northcoastnow.com/wp-content/themes/custom-community/_inc/images/rss.png ) center left no-repeat;padding-left: 20px;}.item-body {margin: 20px 0;}.activity{width:100%;}span.activity, div#message p {background:none;border:none;color:#555555;display:inline-block;font-size:11px;font-weight:normal;margin-top:6px;padding:3px 0 3px 0;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;line-height: 120%;width:80%;}div.widget span.activity {-moz-border-radius:3px 3px 3px 3px;-webkit-border-radius:3px;border-radius:3px;background:none repeat scroll 0 0 transparent;border-bottom:1px solid #f1f1f1;border-right:medium none;color:#555555;display:inline-block;float:left;font-size:11px;font-weight:normal;margin-bottom:8px;margin-left:0px;margin-top:0;width:100%;padding:3px 0;}#footer div.widget span.activity, #header div.widget span.activity {margin-left:0;}div.dir-search {float: right;margin: -37px 0 0 0;}div.dir-search input[type=text] {padding: 4px;font-size: 12px;}.readmore{float:right;}div.pagination {background:none repeat scroll 0 0 #f1f1f1;border-bottom:medium none;color:#555555;font-size:11px;height:16px;margin:-20px -20px 9px;padding:10px 20px;}div.pagination#user-pag, .friends div.pagination,.mygroups div.pagination, .myblogs div.pagination, noscript div.pagination {background: none;border: none;padding: 8px 15px;}div.pagination .pag-count {float: left;}div.pagination .pagination-links {float: right;}div.pagination .pagination-links span,div.pagination .pagination-links a {font-size: 12px;padding: 0 5px;}div.pagination .pagination-links a:hover {font-weight: bold;}div#pag-bottom {background:none repeat scroll 0 0 transparent;margin-top:0;}div#message {margin: 15px 0;}div#message.updated { clear: both; }div#message p {padding: 10px 15px;font-size: 12px;display:block;}div#message.error p {background: #e41717 !important;color: #f1f1f1 !important;border-color: #a71a1a;clear: left;}div#message.updated p {background:none;border:none;color:#555555;}form.standard-form#signup_form div div.error {color: #f1f1f1;background: #e41717;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;padding: 6px;width: 90%;margin: 0 0 10px 0;}a.comment-edit-link, a.comment-reply-link, a.button, input[type="submit"], input[type="button"], ul.button-nav li a, div.generic-button a {-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;background: none repeat scroll 0 0 #555555;border-bottom: 1px solid #aaaaaa;border-right: 1px solid #aaaaaa;border-top: none;border-left: none;color: #dddddd;font-family: arial, sans-serif; font-size: 12px;cursor: pointer;font-weight: normal;padding: 3px 5px;text-decoration: none;text-shadow: none; vertical-align: top; margin-top: 0;}a.comment-edit-link:hover, a.comment-edit-link:focus, a.comment-reply-link:hover, a.comment-reply-link:focus, a.button:focus, a.button:hover, input[type="submit"]:hover, input[type="button"]:hover,ul.button-nav li a:hover, div.generic-button a:hover, ul.button-nav li a:focus, div.generic-button a:focus {background:none repeat scroll 0 0 #1f8787;border-color:#aaaaaa;border-style:none solid solid none;border-width:medium 1px 1px medium;color:#dddddd;cursor:pointer;font-size:12px;font-weight:normal;padding:3px 5px;text-decoration:none;vertical-align: top;outline: none;}div.pending a, a.disabled, a.requested {border-bottom:1px solid #888888;border-right:1px solid #888888;border-top:none;border-left:none;color:#dddddd;background:none repeat scroll 0 0 #888888;cursor:default;}div.pending a:hover, a.disabled:hover, a.requested:hover {border-bottom:1px solid #888888;border-right:1px solid #888888;border-top:none;border-left:none;color:#dddddd;background:none repeat scroll 0 0 #888888;cursor:default;}div.accept, div.reject {float: left;margin-left: 10px;}ul.button-nav li {float: left;margin: 0 10px 10px 0;}ul.button-nav li.current a {font-weight: bold;color:#dddddd;}div#item-buttons div.generic-button {margin: 0 12px 12px 0;}.ajax-loader {background: url(http://northcoastnow.com/wp-content/themes/custom-community/images/ajax-loader.gif ) center left no-repeat !important;padding: 8px;display: none;z-index: 1000;}a.loading {background-image: url(http://northcoastnow.com/wp-content/themes/custom-community/images/ajax-loader.gif ) !important;background-position: 95% 50% !important;background-repeat: no-repeat !important;padding-right: 25px !important;z-index: 1000;}form.standard-form {}form.standard-form textarea, form.standard-form input[type=text],form.standard-form select, form.standard-form input[type=password],.dir-search input[type=text] {border: 1px inset #ccc;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;padding: 6px;font: inherit;font-size: 14px;color: #888;}form.standard-form select {padding: 3px;}form.standard-form input[type=password] {margin-bottom: 5px;}form.standard-form label, form.standard-form span.label {display: block;font-weight: bold;margin: 15px 0 5px 0;}form.standard-form div.checkbox label,form.standard-form div.radio label {font-weight: normal;margin: 5px 0 0 0;font-size: 14px;color: #888;}form.standard-form#sidebar-login-form label {margin-top: 5px;}form.standard-form input[type=text] {width: 75%;}form.standard-form#sidebar-login-form input[type=text],form.standard-form#sidebar-login-form input[type=password] {padding: 4px;width: 95%;}form.standard-form #basic-details-section input[type=password],form.standard-form #blog-details-section input#signup_blog_url {width: 35%;}form.standard-form#signup_form input[type=text],form.standard-form#signup_form textarea {width: 90%;}form.standard-form#signup_form div.submit { float: right; }div#signup-avatar img { margin: 0 15px 10px 0; }form.standard-form textarea {width: 75%;height: 120px;}form.standard-form textarea#message_content {height: 200px;}form.standard-form#send-reply textarea {width: 97.5%;}form.standard-form p.description {font-size: 11px;color: #888;margin: 5px 0;}form.standard-form div.submit {padding: 15px 0;clear: both;}form.standard-form div.submit input {margin-right: 15px;}form.standard-form div.radio ul {margin: 10px 0 15px 38px;list-style: disc;}form.standard-form div.radio ul li {margin-bottom: 5px;}form.standard-form a.clear-value {display: block;margin-top: 5px;outline: none;}form.standard-form #basic-details-section, form.standard-form #blog-details-section,form.standard-form #profile-details-section {float: left;width: 48%;}form.standard-form #profile-details-section { float: right; }form.standard-form #blog-details-section {clear: left;}form.standard-form input:focus, form.standard-form textarea:focus, form.standard-form select:focus {background: #fafafa;color: #666666;}form#send-invite-form {margin-top: 20px;}div#invite-list {height: 400px;overflow: scroll;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;padding: 5px;background: #dddddd;width: 160px;border: 1px solid #f1f1f1;margin: 10px 0;}form#signup_form div.register-section select{width:245px !important;}table {width: 100%;margin: 0 0 15px 0;}table thead tr {background: #f1f1f1;}table#message-threads {margin: 0 -20px;width: auto;}table.profile-fields { margin-bottom: 20px; }div#sidebar table , div.widgetarea table {margin: 0 0;width: 100%;}table tr td, table tr th {text-align:left;padding: 5px 7px 3px 7px;vertical-align: middle;border-bottom: 1px solid #f1f1f1;}table tr td.label {border-right: 1px solid #f1f1f1;font-weight: bold;width: 25%;}table tr td.thread-info p { margin: 0; }table tr td.thread-info p.thread-excerpt {color: #555555;font-size: 11px;margin-top: 3px;}div#sidebar table td, table.forum td , div.widgetarea table td, table.forum td { text-align: center; }table tr.alt, table tr th {background: #f1f1f1;}table.notification-settings {margin-bottom: 20px;text-align: left;}table.notification-settings th.icon, table.notification-settings td:first-child { display: none; }table.notification-settings th.title { width: 80%; }table.notification-settings .yes, table.notification-settings .no { width: 40px; text-align: center; }table.forum {margin: -1px -20px 20px -20px;width: auto;}table.forum tr:first-child {background: #dddddd;}table.forum tr.sticky td {background: #bbbbbb;border-top: 1px solid #f1f1f1;border-bottom: 1px solid #f1f1f1;}table.forum tr.closed td.td-title {padding-left: 35px;background-image: url(http://northcoastnow.com/wp-content/themes/custom-community/_inc/images/closed.png);background-position: 15px 50%;background-repeat: no-repeat;}table.forum td p.topic-text {color: #555555;font-size: 11px;}table.forum tr > td:first-child, table.forum tr > th:first-child {padding-left: 15px;}table.forum tr > td:last-child, table.forum tr > th:last-child {padding-right: 15px;}table.forum tr th#th-title, table.forum tr th#th-poster,table.forum tr th#th-group, table.forum td.td-poster,table.forum td.td-group, table.forum td.td-title { text-align: left; }table.forum td.td-freshness {font-size: 11px;color: #888888;}table.forum td img.avatar {margin-right: 5px;}table.forum td.td-poster, table.forum td.td-group{min-width: 130px;}table.forum th#th-title {width: 40%;}table.forum th#th-postcount {width: 1%;}form#whats-new-form {margin-bottom: 3px;border-bottom: 1px solid #f1f1f1;overflow: hidden;padding-bottom: 20px;}#item-body form#whats-new-form {margin-top: 20px;border: none;}.home-page form#whats-new-form {border-bottom: none;padding-bottom: 0;}form#whats-new-form h5 {margin: 0;font-weight: normal;font-size: 12px;color: #555555;margin: -5px 0 0 76px;padding: 0 0 3px 0;}form#whats-new-form #whats-new-avatar {float: left;}form#whats-new-form #whats-new-content {margin-left: 54px;padding-left: 22px;}form#whats-new-form #whats-new-textarea {padding: 8px;border: 1px inset #777777;background: #ffffff;margin-bottom: 10px;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;}form#whats-new-form textarea {width: 100%;height: 60px;font-size: 14px;font-family: inherit;color: #555;border: none;margin: 0;padding: 0;}form#whats-new-form #whats-new-options select {max-width: 200px;}form#whats-new-form #whats-new-submit {float: right;margin: 0;}ul.activity-list li {padding: 8px 0 0 0;overflow: hidden;}ul.activity-list > li:first-child {padding-top: 5px;}ul.activity-list li.has-comments {padding-bottom: 15px;}.activity-list li.mini {position: relative;font-size: 11px;min-height: 35px;padding: 12px 0 0 0;}.activity-list li.mini div.activity-meta {float:left;margin:8px 0;position:relative;}.activity-list li.mini div.activity-meta a {padding: 3px 8px;}.activity-list li.mini .activity-avatar img.avatar,.activity-list li.mini .activity-avatar img.FB_profile_pic {width: 30px;height: 30px;margin-left: 0;}.activity-list li.activity_comment .activity-avatar img.avatar, .activity-list li.activity_comment .activity-avatar img.FB_profile_pic {height:30px;margin-left:0;width:30px;}body.activity-permalink .activity-list li .activity-avatar img.avatar,body.activity-permalink .activity-list li .activity-avatar img.FB_profile_pic {width: 100px;height: 100px;margin-left: 0;}.activity-list li.mini .activity-content {min-height:20px;max-height:20px;height:20px;margin-right:0;padding: 0 0 0 8px;}.activity-list li.mini .activity-content p {margin: 0;float: left;}.activity-list li.mini .activity-meta {position: absolute;right: 0;}body.activity-permalink .activity-list li.mini .activity-meta {position:absolute;right:5px;top:45px;}.activity-list li.mini .activity-comments {clear: left;font-size: 12px;margin-top: 8px;}.activity-list li .activity-inreplyto {display:none;background:none;color:#555555;font-size:11px;margin-bottom:15px;margin-left:80px;padding-left:0;}.activity-list li .activity-inreplyto > p {margin: 0;display: inline;}.activity-list li .activity-inreplyto blockquote,.activity-list li .activity-inreplyto div.activity-inner {background: none;border: none;display: inline;padding: 0;margin: 0;overflow: hidden;}.activity-list .activity-avatar img {width: 60px;height: 60px;}body.activity-permalink .activity-list .activity-avatar img {margin-top:22px;width: 100px;height: 100px;}.activity-list .activity-content {-moz-border-radius:6px 6px 6px 6px;-webkit-border-radius:6px;border-radius:6px;background:none;margin-bottom:8px;margin-left:80px;min-height:15px;padding-bottom:8px;}body.activity-permalink .activity-list li .activity-content {background:none;border:medium none;margin-left:110px;margin-right:0;margin-top:17px;min-height:58px;}body.activity-permalink .activity-list li .activity-header > p {background: none;margin-left: -35px;padding: 0 0 0 38px;height: auto;margin-bottom: 0;}.activity-list .activity-content .activity-header,.activity-list .activity-content .comment-header {font-size: 11px;color: #555555;line-height: 170%;}.activity-list .activity-content .activity-header img.avatar {float: none !important;margin: 0 5px -8px 0 !important;}span.highlight {border:none;color:#1f8787;margin-right:3px;}span.highlight:hover {background:none !important;border:none;color:#555555; color:#555555 !important;}.activity-list .activity-content a:first-child:focus { outline: none; }.activity-list .activity-content span.time-since {color: #555555;}.activity-list .activity-content span.activity-header-meta a {background: none;padding: 0;font-size: 11px;margin: 0;border: none;color: #555555;}.activity-list .activity-content span.activity-header-meta a:hover {color: inherit;}.activity-list .activity-content .activity-inner,.activity-list .activity-content blockquote {margin: 15px 0 15px 5px;overflow: hidden;}body.activity-permalink .activity-content .activity-inner,body.activity-permalink .activity-content blockquote {margin-top: 5px;}.activity-inner > .activity-inner { margin: 0 !important; }.activity-inner > blockquote { margin: 0 !important; }.activity-list .activity-content img.thumbnail {float: left;margin: 0 10px 5px 0;border: 1px solid #f1f1f1;}.activity-list li.load-more {-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px;border-radius:4px;background:none repeat scroll 0 0 transparent !important;border-bottom:medium none;border-right:medium none;font-size:1.2em;margin:15px 0 !important;padding:10px 15px !important;text-align:left;}.activity-list li.load-more a {color: #1f8787;}.activity-list .activity-content .activity-inner, .activity-list .activity-content blockquote {-moz-border-radius:0;-webkit-border-radius:0;border-radius:0;background:none repeat scroll 0 0 transparent;border-top:1px solid #f1f1f1;color:#555555;margin:10px 10px 10px 0;overflow:hidden;padding:4px 0;width:100%;}.activity-list .activity-content .comment-header {color:#555555;line-height:170%;margin: 0;min-height:16px;padding-top:4px;}.activity-header a:hover {color:#555555;}div.activity-meta {clear:left;margin:0 0 3px 3px;}.activity-list div.activity-meta a {-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;background:none repeat scroll 0 0 #555555;border-bottom:1px solid #555555;border-right:1px solid #555555;color:#dddddd;margin-right:3px;padding:4px 8px;font-size:11px;text-decoration: none;font-family: arial, sans-serif;}.activity-list div.activity-meta a:hover,.activity-list div.activity-meta a:focus {background:none repeat scroll 0 0 #1f8787;color:#dddddd;}.activity-filter-selector {text-align: right;}div.activity-meta {clear:left;margin:0;}div.activity-comments {margin:0 0 0 70px;overflow:hidden;position:relative;width:auto;}body.activity-permalink div.activity-comments {width: auto;margin-left: 100px;background: none;}div.activity-comments > ul {-moz-border-radius:6px;-webkit-border-radius: 6px;border-radius: 6px;background:none;padding: 0 10px 0; }div.activity-comments ul, div.activity-comments ul li {border: none;list-style: none;}div.activity-comments ul {clear: left;margin-right:-10px;}div.activity-comments ul li {-moz-border-radius:6px 6px 6px 6px;-webkit-border-radius:6px;border-radius:6px;background:none;margin-bottom:8px;padding:10px 0 10px 0;border-top: 1px solid #f1f1f1;}body.activity-permalink div.activity-comments ul li {border-width: 1px;padding: 10px;}div.activity-comments ul li p:last-child {margin-bottom: 0;}div.activity-comments > ul > li:first-child {border-top: none;}div.activity-comments ul li:last-child {margin-bottom: 0;}div.activity-comments ul li > ul {margin-top: 5px;margin-left: 25px;width:100%;}body.activity-permalink div.activity-comments ul li > ul {margin-top: 15px;}div.acomment-avatar img {border:1px solid #f1f1f1 !important;float:left;margin-right:10px;}div.activity-comments div.acomment-content {font-size: 11px;background:none repeat scroll 0 0 transparent;border-top:1px solid #f1f1f1;color:#555555;margin:10px 10px 10px 0;overflow:hidden;padding:4px 0;}div.acomment-content .time-since { display: none; }div.acomment-content .activity-delete-link { display: none; }div.acomment-content .comment-header { display: none; }body.activity-permalink div.activity-comments div.acomment-content {font-size: 14px;}div.activity-comments div.acomment-meta {font-size: 13px;color: #555555;}div.activity-comments form.ac-form {display: none;margin: 10px 0 10px 33px;background:none repeat scroll 0 0 #adadad;border:medium none;-moz-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;padding: 8px;}div.activity-comments li form.ac-form {margin-right: 15px;}div.activity-comments form.root {margin-left: 0;}div.activity-comments div#message {margin-top: 15px;margin-bottom: 0;}div.activity-comments form.loading {background-image: url(http://northcoastnow.com/wp-content/themes/custom-community/images/ajax-loader.gif );background-position: 2% 95%;background-repeat: no-repeat;}div.activity-comments form .ac-textarea {padding: 8px;border: 1px inset #cccccc;background: #ffffff !important;margin-bottom: 10px;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;}div.activity-comments form textarea {width: 100%;font-family: inherit;font-size: 11px;color: #555555;height: 60px;border: none;padding: 0;}div.activity-comments form input {margin-top: 5px;}div.activity-comments form div.ac-reply-avatar {float: left;}div.ac-reply-avatar img {border: 1px solid #f1f1f1 !important;}div.activity-comments form div.ac-reply-content {margin-left: 44px;padding-left: 15px;color: #555555;font-size: 11px;}div.activity-comments div.acomment-avatar img {border-width:1px !important;float:left;margin-right:10px;}table#message-threads tr.unread td {background: #dddddd;border-top: 1px solid #f1f1f1;border-bottom: 1px solid #f1f1f1;font-weight: bold;}table#message-threads tr.unread td span.activity {background: #f1f1f1;}li span.unread-count, tr.unread span.unread-count {background: #dddddd;padding: 2px 8px;color: #555555;font-weight: bold;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;}div.item-list-tabs ul li a span.unread-count {padding: 1px 6px;color: #555555;}div.messages-options-nav {font-size: 11px;background: #dddddd;text-align: right;margin: 0 -20px;padding: 5px 15px;}div#message-thread div.message-box {margin: 0 -20px;padding: 15px;}div#message-thread div.alt {background: #dddddd;}div#message-thread p#message-recipients {margin: 10px 0 20px 0;}div#message-thread img.avatar {float: left;margin: 0 10px 0 0;vertical-align: middle;}div#message-thread strong {margin: 0;font-size: 16px;}div#message-thread strong span.activity {margin: 4px 0 0 10px;}div#message-thread div.message-metadata {overflow: hidden;}div#message-thread div.message-content {margin-left: 45px;}div#message-thread div.message-options {text-align: right;}ul#topic-post-list {margin: 15px -20px;width: auto;}ul#topic-post-list li {padding: 15px;position: relative;}ul#topic-post-list li.alt {background: #adadad;}ul#topic-post-list li div.poster-meta {margin-bottom: 10px;color: #555555;}ul#topic-post-list li div.post-content {margin-left: 54px;}div.admin-links {position: absolute;top: 15px;right: 25px;color: #555555;font-size: 11px;}div#topic-meta div.admin-links {bottom: 0;right: 0;top: auto;}div#topic-meta {position: relative;padding: 5px 0;}div#topic-meta h3 {font-size: 20px;}div#new-topic-post {margin: 0;padding: 1px 0 0 0;}div.poster-name a {color:#555555;}div.object-name a {color:#555555;}ul#friend-list li {height: 53px;}ul#friend-list li div.item-meta {width: 70%;}div.post {margin:2px 0 20px 0;overflow: hidden;}div.post h2.pagetitle, div.post h2.posttitle {margin: 0px 0 25px 0;line-height: 120%;}.navigation, .paged-navigation, .comment-navigation {overflow: hidden;font-style:normal;font-weight:normal;font-size: 13px;padding: 5px 0;margin: 5px 0 25px 0;}div.post p { margin: 0 0 20px 0; }div.post ul, div.post ol, div.post dl { margin: 0 0 0 20px; }div.post ul, div.page ul { list-style: circle outside none; margin: 0 0 6px 20px; }div.post ol, div.page ol { list-style: decimal outside none; margin: 0 0 6px 20px; }div.post ol ol { list-style: upper-alpha outside none; }div.post dl { margin-left: 0; }div.post dt {border-bottom:1px solid #f1f1f1;font-size:14px;font-weight:bold;overflow:hidden;}div.post dd {-moz-border-radius:0 0 6px 6px;border-radius:0 0 6px 6px;-webkit-border-bottom-left-radius: 6px;-webkit-border-bottom-right-radius: 6px;background:none repeat scroll 0 0 #dddddd;font-size:11px;line-height:12px;margin:0 0 15px;padding:4px;}div.post pre, div.post code p {padding: 15px;background: #dddddd;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;}div.post code { font-family: "Monaco", courier, sans-serif; }div.post blockquote {quotes: none;font-style:italic;padding:0 3em;font-family: georgia, times, serif;font-size: 16px;line-height: 150%;}div.post table {border-collapse:collapse;border-spacing:0;border: 1px solid #f1f1f1;}div.post table th { border-top: 1px solid #f1f1f1; text-align: left; }div.post table td { border-top: 1px solid #f1f1f1; }div.post div.post-content {margin-left: 94px;}div.post p.date, div.post p.postmetadata, div.comment-meta {color: #555555;font-size: 12px;padding: 3px 0;margin: 10px 0;border-bottom: none;border-top: 1px solid #f1f1f1;}div.post p.date a, div.post p.postmetadata a, div.comment-meta a, div.comment-options a {font-size: 12px;}div.post p.date a:hover, div.post p.postmetadata a:hover, div.comment-meta a:hover, div.comment-options a:hover {color: #555555;font-size: 12px;}div.post p.date em {font-style: normal;}div.post p.postmetadata {margin-top: 15px;clear: left;overflow: hidden;}div.post .tags { float: left; }div.post .comments { float: right; }div.post img { margin: 15px 0; border: none; border: none !important; }div.post img.wp-smiley { padding: 0 !important; margin: 0 !important; border: none; float: none !important; clear: none !important; }div.post img.centered, img.aligncenter {display: block;margin-left: auto;margin-right: auto;}div.post img.alignright {padding: 4px;margin: 0 0 2px 7px;display: inline;}div.post img.alignleft {padding: 0 12px 12px 0;margin: 0 7px 2px 0;display: inline;}div.post .aligncenter, div.post div.aligncenter {display: block;margin-left: auto;margin-right: auto;}div.post .wp-caption {border: 1px solid #f1f1f1;text-align: center;background-color: #f3f3f3;padding-top: 4px;-moz-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;margin-bottom:12px;}div.post .wp-caption img {margin: 0;padding: 0;border: 0 none;}div.post dd.wp-caption p.wp-caption-text, div.post .wp-caption p.wp-caption-text {font-size: 0.9em;line-height: 17px;padding: 0 4px 5px 0;margin: 0;}div.author-box, div.comment-avatar-box {width:50px; float:left; } div.author-box p, div.author-box a,div.comment-avatar-box p,div.comment-avatar-box a {font-size: 10px;font-style: normal;line-height: 120%;margin: 5px 0 0;text-align: center;width: 50px;}div.post div.author-box img {float: none;border: 1px solid #f1f1f1;margin: 8px 0 0 0;background:none repeat scroll 0 0 transparent;float: none;padding:0;width:50px;}div.comment-avatar-box img {float: none;border: 1px solid #f1f1f1;margin: 16px 0 0 4px;background:none repeat scroll 0 0 transparent;float: none;padding:0;width:50px;}div.comment-content {margin-left: 75px;min-height: 110px;}#trackbacks {margin-top: 30px;}#comments h3, #trackbacks h3, #respond h3 {font-size: 20px;margin: 5px 0 25px 0;font-weight: normal;color: #555555;}#comments span.title, #trackbacks span.title {color: #555555;}div.post ol.commentlist, div.page ol.commentlist { list-style: none outside none; margin-left: 0; }div.post ol.commentlist ul, div.page ol.commentlist ul { list-style: none outside none; margin-left: 20px; padding-bottom: 12px;}ol.commentlist li {margin: 0 0 20px 0;border-top: 1px solid #f1f1f1;}.commentlist ul li {padding: 0 12px; background: #f1f1f1;}.commentlist ul ul li {padding: 0 12px; background: #dddddd;}.commentlist ul ul ul li {padding: 0; }div.comment-meta {border-top: none;padding-top: 0;}div.comment-meta h5 {font-weight: normal;}div.comment-meta em {float: right;}div.post .commentlist div.comment-content ol {list-style: decimal outside none;margin-bottom: 0;padding-bottom: 6px;}div.post .commentlist div.comment-content ul {list-style: circle outside none;margin-bottom: 0;padding-bottom: 6px;}div.post .commentlist div.comment-content li {border: none; margin-bottom: 0;}div.comment-author img.avatar {margin: 4px 12px 12px -45px;}div.comment-body div.commentmetadata {margin-top:0;}div.comment-body div.comment-author {padding-top:6px;}div.reply {height: 32px;}div.comment-body {margin-bottom: 12px;margin-left: 45px;}div.post div.commentmetadata a.comment-edit-link { float:right; line-height: 120%;padding: 3px 5px;}ul.children li.comment { margin-left: 26px;}div.post .commentlist div.comment-body ol {list-style: decimal outside none;margin-bottom: 0;padding-bottom: 6px;}div.post .commentlist div.comment-body ul {list-style: circle outside none;margin-bottom: 0;padding-bottom: 6px;}.commentlist div.comment-body li {border:none;margin: 0;}#footer{text-align:left;text-shadow:none; margin-top:8px;-moz-border-radius: 6px;-webkit-border-radius: 6px;border-radius: 6px;margin-bottom: 8px;padding: 8px; }#footer div.credits, #footer a.credits, #footer a.credits:hover, #footer a.credits:focus { text-align: center; text-decoration: none; background-color: transparent; color: #aaaaaa; }#footer .cc-widget a.button, #header .cc-widget a.button{color: #dddddd;}#footer span.credits { text-align: center;}.cc-widget{width:30% !important;float:left;text-align:left !important;margin:20px 2% 20px 0 !important;-moz-border-radius: 6px !important;-webkit-border-radius: 6px !important;border-radius: 6px !important;background-color: #dddddd !important;padding:1% !important;overflow: hidden;}.cc-widget-right{margin:20px 0 20px !important;float:right !important;}#footer div.widgetarea h3.widgettitle, #header div.widgetarea h3.widgettitle,#footer div.widgetarea h3.widgettitle a, #header div.widgetarea h3.widgettitle {width:100%;-moz-border-radius:0 !important;-webkit-border-radius:0 !important;border-radius:0 !important;margin:0 0 12px -19px !important;padding:5px 24px 5px 19px !important;}div#content div.widgetarea h3.widgettitle,div#content div.widgetarea h3.widgettitle a {background: none !important;}.widget {margin-bottom: 20px;}div.widget ul li {background:none repeat scroll 0 0 transparent;border-bottom:medium none;min-height:20px;margin-bottom:5px;list-style: none outside none;}div.widget ul#groups-list li{min-height:60px;width:197px;margin-bottom:0 !important;}ul#groups-list li{padding:20px 0; }div.widget ul#members-list li {min-height:64px;width:189px;margin-bottom:0 !important;}li.vcard, div.widget ul#groups-list li {padding:0px !important;}div.widget ul#blog-post-list li{border-bottom:1px solid #f1f1f1;}div.widget ul#blog-post-list li,div.widget ul#blog-post-list li p,div.widget ul#blog-post-list li a,div.widget ul#blog-post-list li div {height:auto;background:none;}div.widget ul#blog-post-list li a{font-weight:normal;}div.widget_pages ul li {min-height:20px;height:auto;line-height:150%;padding-top:4px;}div.widget_tag_cloud div {padding:8px 10px 8px 0;}div.widget ul.children li {display:none;}div.widget ul li a {}div.widget ul li a:hover {}div.widget ul li.recentcomments a {font-weight:normal;}div.widget ul li.recentcomments a:hover {font-weight:normal;}select#cat {width:100%;}div.widget ul.item-list li div.item-title {margin-top: 3px;}div.widget ul li a.rsswidget {line-height:17px;}div.widget div.textwidget {padding: 0 10px 0 0;}div.widget table thead tr {background:none repeat scroll 0 0 #dddddd;}div.widget table tr td, div.widget table tr th {padding: 3px 5px;vertical-align: middle;border:none;}div#sidebar div#calendar_wrap, div.widgetarea div#calendar_wrap{margin-left:5px;}div.menu-top {font-size: 13px;margin-left: 12px;width: 100%;}div.menu-top.menu ul {list-style: none;margin: 0;float: right; }div.menu-top li {float: left;position: relative;list-style:none outside none;margin:4px 4px 0 0;}div.menu-top a {color: #1f8787;display: block;line-height: 30px;padding: 0 15px 2px 15px;text-decoration: none; background-color: transparent;}div.menu-top ul ul {display:none;float:left;left:0;position:absolute;top:27px;width:180px;z-index:1000000;}div.menu-top ul li ul li {min-width: 180px;z-index:1000000;margin-top:0px !important;}div.menu-top ul ul ul {left: 100%;top: 0;}div.menu-top ul ul a {background: #f1f1f1;color: #1f8787;line-height: 1em;padding: 10px 15px;width: 160px;height: auto;}div.menu-top li:hover > a,div.menu-top ul ul:hover > a {color: #555555;}div.menu-top ul.children li:hover > a,div.menu-top ul.sub-menu li:hover > a {background: #ededed !important;color: #555555;border-radius:0px;}div.menu-top ul li:hover > ul {display: block;}div.menu-top ul li.current_page_item > a,div.menu-top ul li.current-menu-ancestor > a,div.menu-top ul li.current-menu-item > a,div.menu-top li.selected > a,div.menu-top ul li.current-menu-parent > a,div.menu-top ul li.current_page_item > a:hover,div.menu-top ul li.current-menu-item > a:hover {background:none repeat scroll 0 0 #f1f1f1;color:#555555;}* html div.menu-top ul li.current_page_item a,* html div.menu-top ul li.current-menu-ancestor a,* html div.menu-top ul li.current-menu-item a,* html div.menu-top ul li.current-menu-parent a,* html div.menu-top ul li a:hover {color: #555555;}#access {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;background:#dddddd;display:block;float:left;margin-top:165px;padding-top:0;width:100%;}#access .menu-header,div.menu {font-size: 13px;margin-left: 12px;width: 100%;}#access .menu-header ul,div.menu ul {list-style: none;margin: 0;}div.menu ul {float:left;}#access .menu-header li,div.menu li {float: left;position: relative;list-style:none outside none;margin:4px 4px 0 0;-moz-border-radius-topleft: 6px;-moz-border-radius-topright: 6px;-webkit-border-top-left-radius:6px;-webkit-border-top-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;}#access a {color: #555555;display: block;line-height: 30px;padding: 0 15px 2px 15px;-moz-border-radius:6px 6px 0 0;-webkit-border-top-left-radius:6px;-webkit-border-top-right-radius:6px;border-top-left-radius:6px;border-top-right-radius:6px;text-decoration: none; background-color: transparent;}#access ul ul {-moz-box-shadow:0 3px 3px rgba(0, 0, 0, 0.2);-webkit-box-shadow:0 3px 3px rgba(0, 0, 0, 0.2);box-shadow:0 3px 3px rgba(0, 0, 0, 0.2);display:none;float:left;left:0;position:absolute;top:27px;width:180px;z-index:1000000;}#access ul li ul li {min-width: 180px;z-index:1000000;margin-top:0px !important;}#access ul ul ul {left: 100%;top: 0;}#access ul ul a {-moz-border-radius:0px !important;-webkit-border-radius:0px !important;border-radius:0px !important;background: #f1f1f1;color: #555555;line-height: 1em;padding: 10px 15px;width: 160px;height: auto;}#access li:hover > a,#access ul ul :hover > a {background: #f1f1f1;color: #555555;}#access ul.children li:hover > a,#access ul.sub-menu li:hover > a {background: #ededed !important;color: #555555;-moz-border-radius:0px;-webkit-border-radius:0px;border-radius:0px;}#access ul li:hover > ul {display: block;}#access ul li.current_page_item > a,#access ul li.current-menu-ancestor > a,#access ul li.current-menu-item > a,#access li.selected > a,#access ul li.current-menu-parent > a,#access ul li.current_page_item > a:hover,#access ul li.current-menu-item > a:hover {background:none repeat scroll 0 0 #f1f1f1;color:#555555;}* html #access ul li.current_page_item a,* html #access ul li.current-menu-ancestor a,* html #access ul li.current-menu-item a,* html #access ul li.current-menu-parent a,* html #access ul li a:hover {color: #555555;}div#cc_slider-top {-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;background-color:#dddddd;background-repeat:repeat-y;border:medium none;overflow:hidden;padding:0;margin-bottom: 12px;}div.cc_slider {margin-bottom: 0;overflow: hidden;}div.cc_slider.cc_slider_shortcode {margin-bottom: 12px;}div.cc_slider .featured{width:100%;padding-right:248px;position:relative;height:250px;float: left;background:#dddddd;margin-bottom: 20px;}div.cc_slider div.featured{margin-bottom: 0px;}div.cc_slider ul.ui-tabs-nav {list-style: none outside none;margin: 0;padding: 1px;position: absolute;right: 0;top: 0;width: 244px;}div.cc_slider ul.ui-tabs-nav li{padding:1px 2px 1px 13px;font-size:12px;color:#555555; height: 60px; background:none transparent; border: none; float:none; margin: 0;}div.cc_slider ul.ui-tabs-nav li img {float:left; margin:2px 5px 2px 0;background:#dddddd;padding:2px;border:1px solid #f1f1f1;}div.cc_slider ul.ui-tabs-nav li span{font-size:13px;line-height:18px;}div.cc_slider li.ui-tabs-nav-item a{display:block;height:60px;color:#555555 !important;background:#dddddd;font-weight: normal;line-height:20px;padding: 0 2px; width:100%;}div.cc_slider a, div.cc_slider a:hover, div.cc_slider a:focus { text-decoration: none; background-color: transparent; }div.cc_slider li.ui-tabs-nav-item a:hover{background:#ededed;}div.cc_slider ul.ui-tabs-nav li.ui-tabs-selected{background:url(http://northcoastnow.com/wp-content/themes/custom-community/images/grey/selected-item.png) top left no-repeat transparent;}div.cc_slider ul.ui-tabs-nav li.ui-tabs-selected a{background:#f1f1f1;}div.cc_slider .featured .ui-tabs-panel{width: 716px; height: 250px;overflow:hidden; background:#dddddd; position:relative; padding:0;border: medium none; border-radius: 0 0 0 0;}div#cc_slider-top div.cc_slider .featured .ui-tabs-panel{width: 756px;}div.cc_slider .featured .ui-tabs-panel .info{position:absolute;top:180px; left:0;height:70px;background: url(http://northcoastnow.com/wp-content/themes/custom-community/images/slideshow/transparent-bg.png);width:100%;}div.cc_slider .featured .info h2 > a{font-size:18px;color: #ffffff; color: #ffffff !important; overflow:hidden; font-family: arial, sans-serif;}div.cc_slider .featured .info h2 {padding:2px 2px 2px 5px;margin:0;line-height:100%;overflow:hidden;}div.cc_slider .featured .info p{margin:0 5px;font-size:13px;line-height:15px;color:#ffffff;font-family: arial, sans-serif;}div.cc_slider .featured .info a{color:#f1f1f1; color:#f1f1f1 !important;padding-left:0;}div.cc_slider .featured .info a:hover{}div.cc_slider .featured .ui-tabs-hide{display:none;}div.cc_slider .ui-tabs {padding: 0;position: relative;}div.cc_slider .ui-corner-all {border: medium none;border-radius: 0 0 0 0;}div.cc_slider .ui-widget-header {background: none repeat scroll 0 0 transparent;border: medium none;font-weight: normal;} .listposts {width:100%;}.list-posts-all {width:100%;margin-bottom:25px;}.boxgrid {-moz-background-clip: border;-moz-background-inline-policy: continuous;-moz-background-origin: padding;-moz-border-radius: 6px;-webkit-border-radius: 6px;border-radius: 6px;width: 222px;height: 160px;float: left;background: #161613;border: solid 1px #777;overflow: hidden;position: relative;float:left;margin:20px 20px 0 0;}#content .boxgrid img {-moz-background-clip: border;-moz-background-inline-policy: continuous;-moz-background-origin: padding;-moz-border-radius: 6px;-webkit-border-radius: 6px;border-radius: 6px;position: absolute;top: 0;left: 0;border: 0;}.boxgrid p, .boxgrid p a {padding: 0 0 0 10px;color: #ffffff;font: 11px Arial, sans-serif;}div.boxgrid h3 > a { color:#ffffff; font:12px Arial, sans-serif; letter-spacing:0; font-weight: bold; padding-left:0px; }.boxgrid h3 { margin: 5px 5px 5px 0px; }.boxcaption {-moz-background-clip: border;-moz-background-inline-policy: continuous;-moz-background-origin: padding;-moz-border-radius:0 0 6px 6px;-webkit-border-bottom-left-radius: 6px;-webkit-border-bottom-right-radius: 6px;border-bottom-left-radius: 6px;border-bottom-right-radius: 6px;float: left;position: absolute;background: #000;height: 80px;width: 100%;opacity: .8;filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);-MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";}.captionfull .boxcaption {top: 0;left: 0;}.caption .boxcaption {top: 0;left: 0;}.cover{margin-top:170px;}.boxgrid {border:1px solid #f1f1f1 !important;}div.posts-img-left-content-right {padding:20px 0 0 0;}div.posts-img-left-content-right img.wp-post-image {border:1px solid #f1f1f1;float:left;margin-bottom:0;margin-right:25px;margin-top:2px;}div.posts-img-left-content-right h3 a {font-size:20px;}div.posts-img-left-content-right a{}div.posts-img-right-content-left {padding:20px 0 0 0;float:right;}div.posts-img-right-content-left img.wp-post-image {float:right;border:1px solid #f1f1f1;margin-bottom:0;margin-top:2px;margin-left:25px;}div.posts-img-right-content-left h3 a {font-size:20px;}div.posts-img-right-content-left a{}div.posts-img-over-content {float:left;padding:20px 0 0;width:242px;}div.posts-img-over-content img.wp-post-image {border:1px solid #f1f1f1;margin-bottom:12px;margin-right:25px;margin-top:2px;}div.posts-img-over-content h3 a {font-size:20px;}div.posts-img-over-content h3 {width:222px;max-width:222px;padding-top:8px;border-top:1px solid #f1f1f1;}div.posts-img-over-content a{}div.posts-img-over-content p{padding-right:20px;width:222px;}div.posts-img-under-content {float:left;padding:20px 0 0;width:242px;}div.posts-img-under-content img.wp-post-image {border:1px solid #f1f1f1;margin-bottom:0;margin-right:25px;margin-top:5px;}div.posts-img-under-content h3 a {font-size:20px;}div.posts-img-under-content h3 {width:222px;max-width:222px;padding-top:8px;border-top:1px solid #f1f1f1;}div.posts-img-under-content a{}div.posts-img-under-content p {padding-right:0;width:222px;}div.single-img-left-content-right {padding:5px 0 0 0;}div.single-img-left-content-right img.wp-post-image {border:1px solid #f1f1f1;float:left;margin-bottom:20px;margin-right:25px;margin-top:5px;}div.single-img-left-content-right h3 a {font-size:20px;}div.single-img-left-content-right a{}div.single-img-right-content-left {padding:20px 0 0 0;float:right;}div.single-img-right-content-left img.wp-post-image {float:right;border:1px solid #f1f1f1;margin-bottom:20px;margin-top:5px;margin-left:25px;}div.single-img-right-content-left h3 a {font-size:20px;}div.single-img-right-content-left a{}div.single-img-over-content {padding:20px 0 0 0;}div.single-img-over-content img.wp-post-image {border:1px solid #f1f1f1;margin-bottom:20px;margin-right:25px;margin-top:5px;}div.single-img-over-content h3 a {font-size:20px;}div.single-img-over-content a{}div.single-img-under-content {padding:20px 0 0 0;}div.single-img-under-content img.wp-post-image {border:1px solid #f1f1f1;margin-bottom:20px;margin-right:25px;margin-top:5px;}div.single-img-under-content h3 a {font-size:20px;}div.single-img-under-content a{}.full_width_col {width:99.6%;margin:0 0.4% 20px 0;}.half_col_left {float:left;margin:0 1.4% 20px 0;padding:0;width:48%;}.half_col_right {float:right;margin:0 0.4% 20px 1.4%;padding:0;width:48%;}.third_col {float:left;margin:0 3.3% 20px 0;padding:0;width:31%;}.third_col_right {float:right;margin:0 0.4% 20px 0;padding:0;width:31%;}.two_third_col {float:left;margin:0 2.6% 20px 0;padding:0;width:64.6%;overflow: hidden;}.two_third_col_right {float:right;margin:0 0.4% 20px 0;padding:0;width:64.6%;}.fourth_col {float:left;margin:0 3.2% 20px 0;padding:0;width:22.5%;overflow: hidden;}.fourth_col_right {float:right;margin:0 0.4% 20px 0;padding:0;width:22.5%;}.three_fourth_col {float:left;margin:0 3.2% 20px 0;padding:0;width:69.8% !important;}.three_fourth_col_right {float:right;margin:0 0.4% 20px 0;padding:0;width:69.8% !important;}div.post img.attachment-slider-full {margin:0;}.accordion {width: 100%;border-bottom: solid 1px #c4c4c4;clear:both;margin-top:20px;}.accordion h3 {background:url(http://northcoastnow.com/wp-content/themes/custom-community/images/arrow-square.gif) no-repeat scroll 4px 50% #FFFFFF;border-color:#C4C4C4;border-style:solid solid none;border-width:1px 1px medium;cursor:pointer;margin:0;padding:7px 24px;}.accordion h3:hover {background-color: #f1f1f1;}.accordion h3.active {background:url(http://northcoastnow.com/wp-content/themes/custom-community/images/arrow-square-on.gif) no-repeat scroll #f1f1f1;background-position:4px 50%;}.accordion div {background: #ffffff;margin: 0px !important;padding: 20px;border-left: solid 1px #c4c4c4;border-right: solid 1px #c4c4c4;}.accordion div div {background: #ffffff;margin: 15px 0 0 !important;padding: 0;border-left: none;border-right: none;}.accordion h4{line-height:170%;background-color:#ffffff;color:#888888;border:1px solid #c4c4c4;font-size:21px;padding:2px 5px;}.accordion div p{}.accordion div strong,b{}.accordion br{line-height:0px;}div.announcement {float:right;height:60px;padding:10px;position:absolute;right:354px;text-align:center;top:120px;width:230px;font-size:30px;line-height:170%;}div.announcement a {font-size:30px;line-height:170%;}#content .gallery {margin: 0 auto 18px;}#content .gallery .gallery-item {float: left;margin-top: 0;text-align: center;width: 33%;}#content .gallery img {border: none;margin-top:20px;}#content .gallery .gallery-caption {color: #555555;font-size: 12px;margin: 0 0 20px;}#content .gallery dl {margin: 0;}#content .gallery br+br {display: none;}#content .attachment img { display: block;margin: 0 auto;} body.search div.post div.post-content, body.search div.comment-content {margin-left: 0; }div.search-result { margin-bottom: 30px; } body.search div#message p { padding: 10px 0; } body.search ul.item-list li div.item-title {font-size: 20px; margin-bottom:5px; font-weight: bold;}h2.content-title {border-bottom: 1px solid #dddddd; }div.search-result {background: none repeat scroll 0 0 #f1f1f1;margin-bottom: 22px;padding: 20px;} div#content .padder {margin-left:0px;} div#container, body.activity-permalink div#container { }a, div.post p.date a, div.post p.postmetadata a, div.comment-meta a, div.comment-options a, span.highlight, #item-nav a, div.widget ul li a:hover, body {font-family: Arial, sans-serif;}h1, h2, h1 a, h2 a {font-family: Arial, sans-serif;font-weight:bold;}h1, h2, h1 a, h2 a {}h3, h4, h5, h6, h3 a, h4 a, h5 a, h6 a {font-family: Arial, sans-serif;font-weight:bold;} body.home div.post p.date {display: none;}#access {margin-top:56px;} #access {}div#leftsidebar h3.widgettitle, div#sidebar h3.widgettitle, div.widgetarea h3.widgettitle {-moz-border-radius:0 0 0 0; -webkit-border-radius:0; border-radius:0; margin: 0 0 12px -19px; padding: 5px 22px 5px 20px;background-repeat: no-repeat;}div#leftsidebar h3.widgettitle, div#leftsidebar h3.widgettitle a {-moz-border-radius:0 0 0 0; -webkit-border-radius:0; border-radius:0; margin:0 0 12px -20px; padding:5px 22px 5px 19px;} div#leftsidebar h3.widgettitle, div#sidebar h3.widgettitle, div.widgetarea h3.widgettitle, div#leftsidebar h3.widgettitle a, div#sidebar h3.widgettitle a, div.widgetarea h3.widgettitle a {font-family: Arial, sans-serif;px; ;} </style>	</head>
+<link rel="canonical" href="http://northcoastnow.com/privacy-policy/">
+<link rel="shortlink" href="http://northcoastnow.com/?p=16287">
+ 	<style type="text/css">	
+		
+	
+	/** Le Container De Bootstrap **/
 
-	<body class="page page-id-16287 page-template-default" id="bp-default">
- <div id="outerrim">
-        <div id="innerrim">		
 	
-	<div id="header">	
+		
+		
+
+    /** Header **/
+
+		
+	.site-header .cc-header-image {
+			display: block;
+		}
 	
-    		
-						  		  		  		
-					<div id="logo">
-			<h4><a href="http://northcoastnow.com" title="Home">NorthCoastNow.com</a></h4>
-			<div id="blog-description">Online, On Air, and In Print</div>
-						</div>
-						
-		<div id="access">
-    		<div class="menu">
 	
-									<li id="nav-home">
-					<a href="http://northcoastnow.com" title="Home">Home</a>
-				</li>
-						
+		
 	
-										<div class="menu"><ul><li class="page_item page-item-341"><a href="http://northcoastnow.com/">About</a></li><li class="page_item page-item-246"><a href="http://northcoastnow.com/advertise-on-the-northcoastnowcom-network/">Advertise on the NorthCoastNOW.com Network</a></li><li class="page_item page-item-16287 current_page_item"><a href="http://northcoastnow.com/privacy-policy/">Privacy Policy</a></li><li class="page_item page-item-259"><a href="http://northcoastnow.com/user-agreement/">User Agreement</a></li></ul></div>
-			</div>
-		</div>
+	.site-branding {
+		
+			display: block;
+	
+	}
+
+		.site-header {
+			height: auto;
+		}
 			
-					<div class="clear"></div>
-	
-		</div><!-- #header -->
-
+		body.blog #masthead {
+			height: auto;
+		}
 				
 		
-				
-						
 		
-		
-		<div id="container">
-	<div id="content">
-		<div class="padder">
-
-		
-		<div class="page" id="blog-page">
-
 			
-				<h2 class="pagetitle">Privacy Policy</h2>
+		
+			
+			body.home #masthead {
+			height: auto;
+		}
+		
+				
+		
+	
 
-				<div id="post-16287" class="post-16287 page type-page status-publish hentry">
+    /** Navigation **/
 
-					<div class="entry">
+		nav button.navbar-toggle {
+		border-radius: 4px 4px 4px 4px;
+		float: right;
+		margin-bottom: 15px;
+		margin-right: 15px;
+		margin-top: 15px;
+		padding: 9px 10px;
+		position: relative;
+	}
 
-						<p>This Privacy Policy governs the manner in which NorthCoastNow collects, uses, maintains and discloses information collected from users (each, a “User”) of the <a href="http://www.NorthCoastNow.com">www.NorthCoastNow.com</a> website (“Site”). This privacy policy applies to the Site and all products and services offered by NorthCoastNow.</p>
-<p><strong>Personal identification information</strong></p>
-<p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
-<p><strong>Non-personal identification information</strong></p>
-<p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
-<p><strong>Web browser cookies</strong></p>
-<p>Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
-<p><strong>How we use collected information</strong></p>
-<p>NorthCoastNow may collect and use Users personal information for the following purposes:</p>
-<ul>
-<li><em>– To improve customer service</em>Information you provide helps us respond to your customer service requests and support needs more efficiently.</li>
-<li><em>– To personalize user experience</em>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
-<li><em>– To improve our Site</em>We may use feedback you provide to improve our products and services.</li>
-<li><em>– To process payments</em>We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li>
-<li><em>– To run a promotion, contest, survey or other Site feature</em>To send Users information they agreed to receive about topics we think will be of interest to them.</li>
-<li><em>– To send periodic emails</em>We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</li>
-</ul>
-<p><strong>How we protect your information</strong></p>
-<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
-<p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.</p>
-<p><strong>Sharing your personal information</strong></p>
-<p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p>
-<p><strong>Third party websites</strong></p>
-<p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p>
-<p><strong>Advertising</strong></p>
-<p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.<br>
-To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://networkadvertising.org/" target="_blank">networkadvertising.org</a></p>
-<p>&nbsp;</p>
-<p><strong>Changes to this privacy policy</strong></p>
-<p>NorthCoastNow has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
-<p><strong>Your acceptance of these terms</strong></p>
-<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
-<p><strong>Contacting us</strong></p>
-<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
-<p><a href="http://www.NorthCoastNow.com">NorthCoastNow</a></p>
-<p><a href="http://www.NorthCoastNow.com">www.NorthCoastNow.com</a></p>
-<p>225 East Ave.<br>
-Elyria, OH<br>
-44035</p>
-<p>440-329-7000</p>
-<p>bhudnutt@chroniclet.com</p>
-<p>This document was last updated on August 15, 2012</p>
 
-												
 
-					</div>
+    		.navbar-brand {
+			font-family: ;
+        }
+        
+
+	
+
+
+    
+    		 @media screen and (max-width: 782px) {             body.logged-in.admin-bar .site-navigation-top {
+                margin-top: 46px !important;
+            }
+        }
+
+        
+                
+        
+    
+			.site-navigation-top {
+			background: #0099ff;
+		}
+			.site-navigation-top .navbar-nav a,
+		.site-navigation-top .navbar-nav a:link,
+		.site-navigation-top .navbar-nav a:visited
+		{
+			color: #ffffff;
+		}
+			.site-navigation .navbar {
+			background: #0099ff;
+		}
+			.site-navigation .navbar-nav a,
+		.site-navigation .navbar-nav a:link,
+		.site-navigation .navbar-nav a:visited
+		{
+			color: #ffffff;
+		}
+	
+
+		
+
+
+    /** Typography **/
+
+        h1, h2, h3, h4, h5, h6 {
+        margin-top: 30px;
+                    font-family: ;
+                    font-weight: normal;
+        
+                    font-style: normal;
+        
+                    color: #;
+
+                    font-family: ;
+    }
+
+        @media screen and (min-width: 768px) {
+        
+        
+        
+        
+        
+            }
+
+	
+	/** Content: Center titles */
+	
+		
+
+	/** Widgets */
+	
+	
+	/** The CC Slider - Dynamic CSS Additions **/
+
+        .cc-slider .cc-slider-wrap {
+        width: ;
+    }
+        .cc-slider .carousel,
+    .cc-slider .carousel-inner > .item {
+        max-height: ;
+    }
+
+    	.cc-slider .cc-slider-secret-wrap:hover .carousel-control {
+		background: #;
+	}
+    .cc-slider .carousel-control:hover {
+        background: #;
+    }
+    	.cc-slider .carousel-caption h1 {
+		margin-bottom: 12px;
+		font-size: 18px;
+		clear: both;
+		color: #;
+		text-align: ;
+					text-shadow: none;
+										/**
+		Slider effect: 		*/
+		
+					display: none;
+			}
+	.cc-slider-excerpt {
+						
+			display: block;
+				width: 100%;
+		min-height: 40px;
+	}
+	.col-12 .cc-slider-excerpt,
+	.md-col-12 .cc-slider-excerpt {
+		min-height: 40px;
+	}
+	.cc-slider .carousel-caption p {
+		font-size: 11px;
+		margin: 0;
+		color: #;
+		text-align: ;
+					text-shadow: none;
+										
+					display: none;
+			}
+	.cc-slider .textwrap {
+		padding: 7px 10px; 
+	}
+	.cc-slider h1 .textwrap {
+			
+			}
+	.cc-slider p .textwrap {
+			
+			}	
+	@media screen and (min-width: 480px) { 
+		.cc-slider .carousel-caption h1, 
+		.cc-slider .col-12 .carousel-caption h1 {
+			font-size: 22px;
+		}
+		.cc-slider .carousel-caption p, 
+		.cc-slider .col-12 .carousel-caption p {
+			font-size: 14px;
+		}
+	}
+	@media screen and (min-width: 768px) { 
+		.cc-slider .carousel-caption h1 {
+			font-size: 32px;
+		}
+		.cc-slider-excerpt {
+			min-height: 55px;
+		}
+		.cc-slider .carousel-caption p {
+			font-size: 17px;
+		}
+		.cc-slider .carousel-indicators {
+			bottom: 15px;
+		}
+	}
+
+	/* Rudimentary support for Threaded Comments */
+	
+	.comment ul.children {
+		list-style-type: none;
+	}
+
+	/* Quick styling for avatar image (if enabled) */
+	
+	.post .entry-meta-author {
+		margin-right: 15px;
+		margin-top: -10px;
+		margin-left: 5px;
+	}
+	
+		
+	.has-author-avatar .page-header,
+	.has-author-avatar .page-header .entry-meta {
+		min-height: 60px; 
+	}
+	
+	.has-author-avatar .page-title {
+		margin-bottom: 20px;
+	}
+	
+
+	/* Footer Fullwidth */
+	
+		
+	#footer-fullwidth-wrap {
+		padding: 0 0 20px 0;
+		background: #eee;		
+		border-top: 1px solid #ddd;
+	}
+
+	/* Footer Columns */
+	
+	#footer-columns-wrap {
+		padding: 20px 0;
+		background: #2a2c2f;	
+	}
+	
+		/* Footer Columns Fonts */
+	
+		.footer-columns, 
+		.footer-columns p {
+			color: #8c8c8c;
+		}
+		.footer-columns a {
+			color: #c3c3c3;
+		}
+		.footer-columns a:hover {
+			color: #8c8c8c;
+		}
+	
+	
+@media (min-width: 992px) { 
+	.footer-columns .widgetarea {
+		
+		min-height: 300px;
+		overflow: auto;
+		
+		/* this will be packed into some options.. ;) 
+			background: #2a2a2a;
+			padding: 10px 20px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+		*/
+	}
+	
+}
+	.footer-columns .table tr > th, 
+	.footer-columns .table tr > td {
+		border-top: 1px solid #3f3f3f; 
+	}
+	.footer-columns .table tr {
+		border-bottom: none; 
+	}
+	.footer-columns .table-striped tr:nth-child(odd) > td {
+		background-color: #262626;
+	}
+
+	/* Footer Branding */
+	
+	#branding {
+		padding: 20px 0;
+		border-top: 1px solid #333;
+		background: #040c14;
+		color: #6a6a6a;
+	}
+	#branding p {
+		line-height: 100%; 
+		margin: 0;
+		color: #6a6a6a;
+	}
+	#branding a {
+		color: #9a9a9a;
+	} 
+	#branding a:hover, 
+	#branding a:focus {
+		color: #6a6a6a;
+		text-decoration: none;
+	}
+
+	/* Scroll-to-top button Styling */
+		
+	.top-link-container.affix-top {
+		position: absolute; /* allows it to "slide" up into view */
+		
+		bottom: -18px; /* negative of the offset - height of link element */
+		
+		/* padding from the left side of the window */
+		right: 10px;		
+	}
+	
+	.top-link-container.affix {
+		position: fixed; /* keeps it on the bottom once in view */
+		bottom: 18px; /* height of link element */
+		right: 10px;	}
+	
+	
+	.top-link-container .top-link-button-text {
+		margin-left: 5px;
+	}
+	
+	/* Hide link text on small devices */
+	@media max-width 767px{
+		.top-link-container .top-link-button-text {
+			display: none;
+		}
+	}
+
+
+		.site-branding,
+        .site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		
+    			.site-title a {
+						color: #blank;
+						
+						text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+			}
+
+	
+    
+</style>
+
+
+		
+		
 					
-					<div class="clear"></div>
+		<!-- Custom CSS -->
+		<style type="text/css">
+			.container {background-color: white;}
 
+.site-navigation .navbar-nav .active  a,
+.site-navigation .navbar-nav  .active a:hover,
+.site-navigation .navbar-nav  .active a:focus {
+color: #ffffff;
+background-color: #0099ff;
+border-bottom:2px solid white;
+}
+
+			.site-navigation .navbar-nav a,
+		.site-navigation .navbar-nav a:link,
+		.site-navigation .navbar-nav a:visited
+		{
+		color: #ffffff;
+background-color: #0099ff;
+
+		}
+.site-navigation .container {
+  padding-top: 00px;
+  padding-bottom: 00px;
+}
+	
+.navbar-default .navbar-nav &gt; li &gt; a:hover, .navbar-default .navbar-nav &gt; li &gt; a:focus {color:white;}		</style>
+		<!-- /Custom CSS -->
+	<style type="text/css">
+			.site-branding,
+        .site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		
+    			.site-title a {
+						color: #blank;
+						
+						text-shadow: 1px 1px 1px rgba(0,0,0,.3);
+			}
+
+	
+    </style>
+
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://northcoastnow.com/wp-content/uploads/2015/11/12015_original.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+</head>
+
+<body class="page page-id-16287 page-template-default custom-background group-blog">
+
+
+<!-- The Site's Main Header -->	
+<header id="masthead" class="site-header" role="banner">
+	<div class="container">
+		<div class="row">
+
+			<div class="site-header-inner md-col-12">
+				
+				<!-- The Header Image goes here -->
+					<div class="cc-header-image">	
+		<a class="cc-header-image-link" href="http://northcoastnow.com/" title="NorthCoastNow.com" rel="home">
+			<img src="http://northcoastnow.com/wp-content/uploads/2015/11/cropped-NorthcoastNowDigitalServices-011.jpg" width="1170" height="249" alt="">
+		</a>
+	</div>	
+					
+				<!-- The Site's Header Branding -->
+				<div class="site-branding">
+					<h1 class="site-title"><a href="http://northcoastnow.com/" title="NorthCoastNow.com" rel="home">NorthCoastNow.com</a></h1>
+					<p class="site-description">Online, On Air, and In Print</p>
 				</div>
 
-			
-		</div><!-- .page -->
-		 
-		
-		<div class="clear"></div>
-						<!-- instead of comment_form() we use comments_template(). If you want to fall back to wp, change this function call ;-) -->
-			
-	
-		
-	
-		
-		<div id="respond">
-
-			<div class="comment-avatar-box">
-				<div class="avb">
-				<img alt="" src="//1.gravatar.com/avatar/?s=50&amp;d=mm&amp;r=g" srcset="http://2.gravatar.com/avatar/?s=100&amp;d=mm&amp;r=g 2x" class="avatar avatar-50 photo avatar-default" height="50" width="50">				</div>
+				
 			</div>
-
-			<div class="comment-content">
-
-				<h3 id="reply" class="comments-header">
-					Leave a Reply				</h3>
-
-				<p id="cancel-comment-reply">
-					<a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Click here to cancel reply.</a>				</p>
-
-				
-					
-					<form action="//northcoastnow.com/wp-comments-post.php" method="post" id="commentform" class="standard-form">
-
-						
-							
-							<p class="form-author">
-								<label for="author">Name <span class="required">*</span></label>
-								<input type="text" class="text-input" name="author" id="author" value="" size="40" tabindex="1">
-							</p>
-
-							<p class="form-email">
-								<label for="email">Email  <span class="required">*</span></label>
-								<input type="text" class="text-input" name="email" id="email" value="" size="40" tabindex="2">
-							</p>
-
-							<p class="form-url">
-								<label for="url">Website</label>
-								<input type="text" class="text-input" name="url" id="url" value="" size="40" tabindex="3">
-							</p>
-
-						
-						<p class="form-textarea">
-							<label for="comment">Comment</label>
-							<textarea name="comment" id="comment" cols="60" rows="10" tabindex="4"></textarea>
-						</p>
-
-						
-						<p class="form-submit">
-							<input class="submit-comment button" name="submit" type="submit" id="submit" tabindex="5" value="Submit">
-							<input type="hidden" name="comment_post_ID" value="16287" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-						</p>
-
-						<div class="comment-action">
-													</div>
-
-					</form>
-
-					
-				
-			</div><!-- .comment-content -->
-		</div><!-- #respond -->
+		</div>
+		
+		
+	</div><!-- .container -->
+</header><!-- #masthead -->
 
 		
-			</div><!-- .padder -->
-	</div><!-- #content -->
-
-		<div class="v_line v_line_right"></div>
-<div id="sidebar" class="widgetarea">
-	<div class="right-sidebar-padder">
-
-			    
-		
-	<div class="widget">
-		<h3 class="widgettitle">Recent Posts</h3>
-		<ul>
-						<li><span><a href="http://northcoastnow.com/2012/03/19/man-arrested-for-hitting-toddler-leaving-the-scene-of-accident/">Man arrested for hitting toddler, leaving the scene of accident</a></span></li>
-						<li><span><a href="http://northcoastnow.com/2012/03/19/bees-fall-but-buoyed-by-local-support/">Bees fall, but buoyed by local support</a></span></li>
-						<li><span><a href="http://northcoastnow.com/2012/03/19/steakhouse-patrons-reportedly-steal-3-foot-buddha-statue/">Steakhouse patrons reportedly steal 3-foot Buddha statue</a></span></li>
-						<li><span><a href="http://northcoastnow.com/2012/03/19/man-cited-after-police-say-he-fired-pellet-gun-from-apartment-balcony/">Man cited after police say he fired pellet gun from apartment balcony</a></span></li>
-						<li><span><a href="http://northcoastnow.com/2012/03/19/indians-michael-brantley-to-fill-sizemore%e2%80%99s-spot-in-field-lineup/">Indians: Michael Brantley to fill Sizemore’s spot in field, lineup</a></span></li>
-					</ul>
-	</div>
 	
-	<div class="widget">
-		<h3 class="widgettitle">Archives</h3>
-		<ul>
-				<li><a href="http://northcoastnow.com/2012/03/">March 2012</a></li>
-	<li><a href="http://northcoastnow.com/2011/08/">August 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/07/">July 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/06/">June 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/05/">May 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/04/">April 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/03/">March 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/02/">February 2011</a></li>
-	<li><a href="http://northcoastnow.com/2011/01/">January 2011</a></li>
-	<li><a href="http://northcoastnow.com/2010/12/">December 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/11/">November 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/10/">October 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/09/">September 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/08/">August 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/07/">July 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/06/">June 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/05/">May 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/04/">April 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/03/">March 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/02/">February 2010</a></li>
-	<li><a href="http://northcoastnow.com/2010/01/">January 2010</a></li>
-	<li><a href="http://northcoastnow.com/2009/12/">December 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/11/">November 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/10/">October 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/09/">September 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/08/">August 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/07/">July 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/06/">June 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/05/">May 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/04/">April 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/03/">March 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/02/">February 2009</a></li>
-	<li><a href="http://northcoastnow.com/2009/01/">January 2009</a></li>
-		</ul>
-	</div>
-	<div class="widget">
-		<h3 class="widgettitle">Links</h3>
-		<ul>
-			<li><a href="http://chronicle.northcoastnow.com">Chronicle-Telegram</a></li>
-<li><a href="http://medinagazette.northcoastnow.com" title="The Medina County Gazette is a community newspaper serving Medina County, Ohio, since 1832.">The Medina County Gazette</a></li>
-<li><a href="http://weol.northcoastnow.com" title="The online home of News-Talk AM 930">WEOL Radio 930 AM</a></li>
-		</ul>
-	</div>
-	<div class="widget">
-		<h3 class="widgettitle">Meta</h3>
-		<ul>
-						<li><a href="http://northcoastnow.com/wp-login.php">Log in</a></li>
-					</ul>
-	</div>
-
+		<nav id="access-secondary" class="site-navigation">
 			
+			<div class="container">
+				<div class="row">
+					<div class="site-navigation-inner md-col-12">
+						<div class="navbar navbar-default">
+						    <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+						    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+						      <span class="icon-bar"></span>
+						      <span class="icon-bar"></span>
+						      <span class="icon-bar"></span>
+						    </button>
+						
+						    <!-- Your site title as branding in the menu, if set -->
+						    						    
+						    <!-- The WordPress Menu goes here -->
+						       <div class="navbar-collapse collapse"><ul id="main-menu" class="nav navbar-nav"><li id="menu-item-16392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16392"><a title="About" href="http://northcoastnow.com/">About</a></li>
+<li id="menu-item-16394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16394"><a title="Advertise on the NorthCoastNOW.com Network" href="http://northcoastnow.com/advertise-on-the-northcoastnowcom-network/">Advertise on the NorthCoastNOW.com Network</a></li>
+<li id="menu-item-16390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16390"><a title="Digital Services" href="http://digitalservices.websites.northcoastnow.com/">Digital Services</a></li>
+<li id="menu-item-16393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16393"><a title="User Agreement" href="http://northcoastnow.com/user-agreement/">User Agreement</a></li>
+<li id="menu-item-16391" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16287 current_page_item menu-item-16391 active"><a title="Privacy Policy" href="http://northcoastnow.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>						
+						</div><!-- .navbar -->
+					</div>
+				</div>
+			</div><!-- .container -->
+		</nav><!-- .site-navigation -->
+    <div class="main-content">
+        <div id="container" class="container">
+            <div class="row">
+				
+
+                
+                
+                <div id="content" class="main-content-inner col-md-8 col-lg-8">
+
+                    
+                    
+                        
+<article id="post-16287" class="post-16287 page type-page status-publish hentry">
+		<header class="page-header">
+		<h1 class="page-title">Privacy Policy</h1>
+	</header><!-- .entry-header -->
+	
+	<div class="entry-content">
+		<p>This Privacy Policy governs the manner in which NorthCoastNow collects, uses, maintains and discloses information collected from users (each, a “User”) of the <a href="http://www.NorthCoastNow.com">www.NorthCoastNow.com</a> website (“Site”). This privacy policy applies to the Site and all products and services offered by NorthCoastNow.</p> <p><strong>Personal identification information</strong></p> <p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p> <p><strong>Non-personal identification information</strong></p> <p>We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p> <p><strong>Web browser cookies</strong></p> <p>Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p> <p><strong>How we use collected information</strong></p> <p>NorthCoastNow may collect and use Users personal information for the following purposes:</p> <ul> <li><em>– To improve customer service</em>Information you provide helps us respond to your customer service requests and support needs more efficiently.</li> <li><em>– To personalize user experience</em>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li> <li><em>– To improve our Site</em>We may use feedback you provide to improve our products and services.</li> <li><em>– To process payments</em>We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li> <li><em>– To run a promotion, contest, survey or other Site feature</em>To send Users information they agreed to receive about topics we think will be of interest to them.</li> <li><em>– To send periodic emails</em>We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</li> </ul> <p><strong>How we protect your information</strong></p> <p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p> <p>Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.</p> <p><strong>Sharing your personal information</strong></p> <p>We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.</p> <p><strong>Third party websites</strong></p> <p>Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.</p> <p><strong>Advertising</strong></p> <p>Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.<br> To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://networkadvertising.org/" target="_blank">networkadvertising.org</a></p> <p>&nbsp;</p> <p><strong>Changes to this privacy policy</strong></p> <p>NorthCoastNow has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p> <p><strong>Your acceptance of these terms</strong></p> <p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p> <p><strong>Contacting us</strong></p> <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p> <p><a href="http://www.NorthCoastNow.com">NorthCoastNow</a></p> <p><a href="http://www.NorthCoastNow.com">www.NorthCoastNow.com</a></p> <p>225 East Ave.<br> Elyria, OH<br> 44035</p> <p>440-329-7000</p> <p>bhudnutt@chroniclet.com</p> <p>This document was last updated on August 15, 2012</p> 			</div><!-- .entry-content -->
+	</article><!-- #post-## -->
+
+                        
+	<div id="comments" class="comments-area">
+
 	
 	
-	</div><!-- .padder -->
-</div><!-- #sidebar -->
+	
+				<div class="form-horizontal">			<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel Reply</a></small></h3>
+									<form action="http://northcoastnow.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<div class="form-group"><div class="col-md-10 col-lg-10"><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required="true" required="required"></p></div></div>
+<div class="form-group"><div class="col-md-10 col-lg-10"><p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-describedby="email-notes" aria-required="true" required="required"></p></div></div>
+<div class="form-group"><div class="col-md-10 col-lg-10"><p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30"></p></div></div>
+												<div class="form-group"><div class="col-md-12 col-lg-12"><p><textarea placeholder="Start typing..." id="comment" class="form-control" name="comment" cols="45" rows="8" aria-required="true"></textarea></p></div></div>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:</p><div class="alert alert-info">&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </div>
+						<p class="form-submit"><input name="submit" type="submit" id="commentsubmit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="16287" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>					</form>
+							</div><!-- #respond -->
+			</div>
+</div><!-- #comments -->
+
+                    
+                </div><!-- close #content -->
+
+                
+<div class="sidebar sidebar-right col-md-4 col-lg-4">
+
+        <div class="sidebar-padder">
+
+                <aside id="rss-3" class="widget widget_rss"><h3 class="widget-title"><a class="rsswidget" href="http://feeds.feedburner.com/Chronicle-telegramTopStories"><img style="border:0" width="14" height="14" src="http://northcoastnow.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://chronicle.northcoastnow.com/">Latest Chronicle Top Stories</a></h3><ul><li><a class="rsswidget" href="http://chronicle.northcoastnow.com/2016/04/13/signing-day-firelands-trio-teammates-go-separate-ways-keep-playing-college/">Signing day: Firelands trio of teammates to go separate ways but keep playing in college</a> <span class="rss-date">April 13, 2016</span></li><li><a class="rsswidget" href="http://chronicle.northcoastnow.com/2016/04/13/browns-2/">Browns: Sashi Brown says Josh Gordon has ‘bright future’ but doesn’t promise return to team</a> <span class="rss-date">April 13, 2016</span></li><li><a class="rsswidget" href="http://chronicle.northcoastnow.com/2016/04/13/man-sentenced-cuyahoga-county-court-taking-son-alabama-home/">Man sentenced in Cuyahoga County court for taking son from Alabama home</a> <span class="rss-date">April 13, 2016</span></li><li><a class="rsswidget" href="http://chronicle.northcoastnow.com/2016/04/13/10-things-to-know-wednesday-april-13/">10 things to know, Wednesday, April 13</a> <span class="rss-date">April 13, 2016</span></li><li><a class="rsswidget" href="http://chronicle.northcoastnow.com/2016/04/13/litke-if-they-met-jordans-96-bulls-would-top-currys-warriors/">Litke: If they met, Jordan’s ’96 Bulls would top Curry’s Warriors</a> <span class="rss-date">April 13, 2016</span></li></ul></aside>
+    </div>
+
+</div><!-- close .sidebar-right -->
 
 
+            </div><!-- close .row -->
+        </div><!-- close .container -->
+    </div><!-- close .main-content -->
 
-		</div> <!-- #container -->		
 
+<footer id="colophon" class="site-footer" role="contentinfo">
+
+		
 				
-				
-				    			
-		<div id="footer">
-		
-			<div id="text-3" class="widget widget_text">			<div class="textwidget"><div id="contentad18826"><script type="text/javascript" src="http://api.content.ad/Scripts/widget.aspx?id=f77e127e-7485-4666-8f65-e3d06ce00146&amp;d=bm9ydGhjb2FzdG5vdy5jb20=&amp;wid=18826&amp;cb=1580481417225" async=""></script></div>
-<script type="text/javascript">
-    (function() {
-        var params =
-        {
-            id: "f77e127e-7485-4666-8f65-e3d06ce00146",
-            d:  "bm9ydGhjb2FzdG5vdy5jb20=",
-            wid: "18826",
-            cb: (new Date()).getTime()
-        };
+		<div id="footer-columns-wrap" class="footer-columns cc-footer">
+			<div class="container">
+				<div class="footer-columns-inner row">
+	
+					<div id="cc-footer-1" class="footer-column col-12 col-sm-4 col-lg-4">
+						<div class="widgetarea">
+						
+													
+						</div>	
+					</div>	
+					
+					<div id="cc-footer-2" class="footer-column col-12 col-sm-4 col-lg-4">
+						<div class="widgetarea">
+	
+							<div id="pages-3" class="footer-column-widget widget_pages"><h3 class="widgettitle">Pages</h3>		<ul>
+			<li class="page_item page-item-341"><a href="http://northcoastnow.com/">About</a></li>
+<li class="page_item page-item-246"><a href="http://northcoastnow.com/advertise-on-the-northcoastnowcom-network/">Advertise on the NorthCoastNOW.com Network</a></li>
+<li class="page_item page-item-16382"><a href="http://digitalservices.websites.northcoastnow.com/">Digital Services</a></li>
+<li class="page_item page-item-16287 current_page_item"><a href="http://northcoastnow.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-259"><a href="http://northcoastnow.com/user-agreement/">User Agreement</a></li>
+		</ul>
+		</div><div class="clear"></div>						
+						</div>	
+					</div>	
+					
+					<div id="cc-footer-3" class="footer-column col-12 col-sm-4 col-lg-4">
+						<div class="widgetarea">
 
-        var qs="";
-        for(var key in params){qs+=key+"="+params[key]+"&"}
-        qs=qs.substring(0,qs.length-1);
-        var s = document.createElement("script");
-        s.type= 'text/javascript';
-        s.src = "http://api.content.ad/Scripts/widget.aspx?" + qs;
-        s.async = true;
-        document.getElementById("contentad18826").appendChild(s);
-    })();
-</script></div>
-		</div><div class="clear"></div>		
-				  	
-	  			  	
-	  			  	
-	  		<div class="clear"></div>
-		  	<br>
-			<br>
-			<div class="credits">NorthCoastNow.com is proudly powered by <a class="credits" href="http://wordpress.org">WordPress</a> and <a class="credits" href="http://buddypress.org">BuddyPress</a>. 			Just another <a class="credits" href="http://themekraft.com/all-themes/" target="_blank" title="Wordpress Theme" alt="WordPress Theme">WordPress Theme</a> developed by Themekraft.</div>
+							<div id="meta-3" class="footer-column-widget widget_meta"><h3 class="widgettitle">Meta</h3>			<ul>
+						<li><a href="http://northcoastnow.com/wp-login.php">Log in</a></li>
+			<li><a href="http://northcoastnow.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://northcoastnow.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</div><div class="clear"></div>
+						</div>	
+					</div>	
+	
+				</div>
+			</div>
+		</div>
+	
 		
-						<br>
-		</div><!-- #footer -->
+	
+	<div id="branding">
+		<div class="container">
+			<div class="row">
+				<div class="branding-footer-inner col-12">
+					<div class="site-info">
+						
+		<p class="alignright">
+			<small><a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
 
-		
+			<span class="sep"> | </span>
+			
+			<a href="http://themekraft.com/store/custom-community-2-free-responsive-wordpress-bootstrap-theme/" rel="nofollow" title="WordPress Theme Custom Community 2">WordPress Theme Custom Community 2</a> developed by ThemeKraft</small>
+			
+		</p>
+		<!-- footer branding -->
 
-		</div><!-- #innerrim -->	</div><!-- #outerrim -->
-	<script type="text/javascript" src="//northcoastnow.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="//northcoastnow.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="//northcoastnow.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
-	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"72a153d99a","applicationID":"10042421","transactionName":"YAZbZ0oDXhUHBhcMVllMeFBMC18ISRUCAlw=","queueTime":0,"applicationTime":327,"atts":"TEFYEQIZTRs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
-</body></html>
+					</div><!-- close .site-info -->
+				</div>	
+			</div>
+		</div>
+	</div><!-- close #branding -->
+	
+</footer><!-- close #colophon -->
+
+<script type="text/javascript" src="http://northcoastnow.com/wp-content/themes/custom-community/includes/js/skip-link-focus-fix.js?ver=20130115"></script>
+<script type="text/javascript" src="http://northcoastnow.com/wp-includes/js/comment-reply.min.js?ver=4.2.4"></script>
+
+
+
+<!-- Comet Cache file path: /cache/comet-cache405/cache/http/northcoastnow-com/privacy-policy.html -->
+<!-- Comet Cache file built for (http://northcoastnow.com/privacy-policy/) in 0.26099 seconds, on: Apr 14th, 2016 @ 3:22 am UTC. -->
+<!-- This Comet Cache file will auto-expire (and be rebuilt) on: Apr 21st, 2016 @ 3:22 am UTC (based on your configured expiration time). -->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- Comet Cache fully functional :-) Cache file served for (http://northcoastnow.com/privacy-policy/) in 0.00598 seconds, on: Apr 17th, 2016 @ 12:50 am UTC. --></body></html>
