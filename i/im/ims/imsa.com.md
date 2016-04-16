@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110212938id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416151952id_/http%3A//www.imsa.com/privacy-policy) for the most accurate reproduction.*
 
-# IMSA | WeatherTech SportsCar Championship | Privacy Policy
+# Privacy Policy | International Motor Sports Association
 
 **We are always conscious and respectful of your personal privacy.**
 
