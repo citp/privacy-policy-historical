@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055203id_/http%3A//www.browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416153424id_/http%3A//browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brown Eyed Baker
-
-## Privacy Policy
+# Privacy Policy |
 
 ### PRIVACY POLICY LANGUAGE
 
@@ -33,6 +31,13 @@ Your provision of Personal Information to Brown Eyed Baker and/or this Web Site 
 **Advertising**. Brown Eyed Baker uses third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (not including your Personal Information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **Participation on a Public Website**. You should be aware that any Personal Information you submit to the comments section of the Web Site may be read, collected, or used by other users of this Web Site, including anonymous visitors.
+
+### Cookie Opt Out
+
+You can opt out of cookies using the Network Advertising Initiative opt-out at this page:  
+<http://www.networkadvertising.org/choices/>
+
+You can also choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
 ### How Your Information Will Be Used
 
