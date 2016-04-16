@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423063909id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416210107id_/https%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.*
 
-# eConveyancing - Company, Property & Title Search - InfoTrack : Privacy Policy
-
-## InfoTrack
-
-### Privacy Policy
-
-* * *
+# Privacy Policy - InfoTrack
 
 InfoTrack Pty Ltd ABN 36 092 724 251 (“InfoTrack” or “we”, “our” or “us”) is bound by the Privacy Act 1988 (as amended) and is committed to the protection of privacy in accordance with the applicable law. This Privacy Policy sets out how we treat the personal information that we collect, use and disclose and our procedures regarding the handling of personal and sensitive information, including collection, use, disclosure and storage of information, as well as the right of individuals to access and correct that information.
 
 InfoTrack may collect personal information in order to conduct our business, to provide and market our services and to meet our legal obligations. By using our website or our services, or by providing any personal information to us, you consent to the collection, use and disclosure of your personal information as set out in this Privacy Policy. 
 
-## The types of personal information we collect
+### The types of personal information we collect
 
 The type of information we may collect and hold includes (but is not limited to) personal information about:
 
@@ -37,7 +31,7 @@ In some circumstances, you may provide to us, and we may collect from you, perso
 
 If it is necessary to provide specific services to you, we may collect sensitive information about you (health information, information about racial or ethnic origin, criminal records, information about religious affiliation and political opinions), but only if you agree to provide it to us or authorise us to obtain it from a third party. We will only use sensitive information in accordance with the Privacy Act 1988 and for the purpose for which it is provided.
 
-## How personal information is collected and held by us
+### How personal information is collected and held by us
 
 In most cases we collect information from you directly when you fill in and return to us a signed client form or when you submit information through our website. We may also collect information from you in person or in the course of providing services to you. We may also collect information about you from third party suppliers and government database services.
 
@@ -53,7 +47,7 @@ Additionally, we take reasonable steps to destroy or permanently de-identify per
 
 Because transmission of information over the internet is often insecure we do not accept responsibility for the security of information you send to or receive from us over the internet, or for any unauthorised access or use of that information by others over the internet.
 
-## The purposes for which we collect, use and disclose personal information
+### The purposes for which we collect, use and disclose personal information
 
 Except as otherwise specified in this Privacy Policy, we will only use personal information for the purpose disclosed at the time of collection in the course of conducting our business. We will not use your personal information for any other purpose without first obtaining your consent or unless required by law.
 
@@ -86,7 +80,7 @@ We may also combine your personal information with information available from ot
 
 You may opt-out of receiving direct marketing or the disclosure your personal information for the purpose of direct marketing by contacting our privacy officer using the details set out below or by using any unsubscribe facility contained in a communication that you receive from us.
 
-## Sending personal information overseas
+### Sending personal information overseas
 
 We do not presently disclose personal information to any organisations located overseas; however we do disclose information in Australia, for the purposes described above, to some multinational organisations that are located both in Australia and overseas.
 
@@ -96,13 +90,13 @@ Some other countries may not have the same privacy laws as those applicable unde
 
 By providing your personal information to us, you consent to our disclosure of your personal information to organisations in other countries (for the purposes described above), even though it may not receive the same protections that it would in Australia, and if the organisation in another country handles the personal information in breach of the Australian Privacy Principles or other applicable legislation we will not be liable nor will you be able to seek redress against us under Australian Privacy Laws. You may request us not to transfer your personal information to other countries, but if you do so in some cases we may not be able to provide the services or products you have requested from us.
 
-## How you can access your personal information
+### How you can access your personal information
 
 You have a right to request access to your personal information and to request its correction. We will take all reasonably practicable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up to date. 
 
 At your request, we will provide you with a copy of any personal information which we hold about you, unless an exception under the Privacy Act 1988 applies. We may charge a reasonable fee for retrieving this information, in which case we will inform you of the fee and seek your agreement to that fee before providing the information.
 
-## How to contact us or make a complaint
+### How to contact us or make a complaint
 
 If you have any questions about this Privacy Policy, if you wish to correct or update information we hold about you or if you wish to make a complaint about the way we have collected, disclosed or used your personal information, please contact:
 
@@ -115,11 +109,11 @@ GPO Box 4029 Sydney NSW 2001
 
 We will acknowledge and investigate any complaint about the way we manage personal information as soon as practicable. We will take reasonable steps to remedy any failure to comply with our privacy obligations. If you are unhappy with our handling of the complaint, you may contact the Australian Information Commissioner.
 
-## Website
+### Website
 
 Information that may identify you as a user may be gathered during your access with our website and this privacy statement details how such information is collected, stored and used. We are not responsible for the privacy policies or privacy practices of the organisations we provide links to from our website. We suggest that you check the privacy policies and practices of those organisations.
 
-## Cookies
+### Cookies
 
 A 'cookie' is a piece of information that allows the server to identify and interact more effectively with your computer. The cookie assists us in identifying what our users find interesting on our website. 
 
@@ -127,6 +121,6 @@ When you use our website we allocate you a unique identification number (cookie)
 
 You can configure your web browser to refuse cookies but you then may not be able to use all or part of our website.
 
-## Updating Our Privacy Policy
+### Updating Our Privacy Policy
 
 This Privacy Policy may be updated from time to time so we recommend you review the information on our website on a regular basis.
