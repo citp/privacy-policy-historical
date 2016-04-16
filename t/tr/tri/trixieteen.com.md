@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223172853id_/http%3A//trixieteen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416165827id_/http%3A//trixieteen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
