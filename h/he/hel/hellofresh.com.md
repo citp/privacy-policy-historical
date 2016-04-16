@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofresh.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906170812id_/https%3A//www.hellofresh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofresh.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416073031id_/https%3A//www.hellofresh.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HelloFresh
 
@@ -68,7 +68,7 @@ We use information held about you in the following ways:
 
 We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
 
