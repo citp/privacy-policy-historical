@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the basunivesh.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608015125id_/http%3A//basunivesh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basunivesh.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416085014id_/http%3A//basunivesh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BasuNivesh
+# Privacy Policy
 
 Please read BasuNivesh privacy policy before using blog or submitting any personal information. By using the blog you are accepting the privacy policy of BasuNivesh.
 
