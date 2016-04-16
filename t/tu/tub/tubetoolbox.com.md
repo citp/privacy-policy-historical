@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubetoolbox.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022194905id_/http%3A//www.tubetoolbox.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetoolbox.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416141158id_/http%3A//www.tubetoolbox.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -60,7 +60,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.TubeToolbox.com/Terms_Of_Service.aspx](https://web.archive.org/web/20151022194905id_/http%3A//www.tubetoolbox.com/Terms_Of_Service.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.TubeToolbox.com/Terms_Of_Service.aspx](https://web.archive.org/web/20160416141158id_/http%3A//www.tubetoolbox.com/Terms_Of_Service.aspx)
 
 **Your Consent**
 
