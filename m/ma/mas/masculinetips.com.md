@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masculinetips.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217204137id_/http%3A//www.masculinetips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masculinetips.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416222241id_/http%3A//www.masculinetips.com/privacy-policy) for the most accurate reproduction.*
 
 # MasculineTips | Privacy Policy
 
