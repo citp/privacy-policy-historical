@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905135459id_/https%3A//www.rapidssl.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidssl.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416115953id_/https%3A//www.rapidssl.com/privacy/index.html) for the most accurate reproduction.*
 
 # 
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.rapidssl.com/seal_m "Validate TRUSTe privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=213efdf4-f261-4bcf-a3f6-9f421cac3957 "Validate TRUSTe privacy certification")
 
 ## Version 3.0 - Effective December 4, 2014
 
