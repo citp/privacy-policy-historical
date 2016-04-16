@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the puremix.net privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217135304id_/http%3A//www.puremix.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremix.net privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416231548id_/http%3A//www.puremix.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | pureMix.net
 
 Below you will find our updated Privacy Policy, effective as of February 20, 2013. Please note that this Privacy Policy applies to all users of the Puremix Services.
 
