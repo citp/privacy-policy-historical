@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228124519id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailonacid.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416121745id_/http%3A//www.emailonacid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Email on Acid
 
@@ -57,6 +57,28 @@ Email on Acid prohibits the sale or transfer of personal information for use wit
 
 Email on Acid is only responsible for the privacy statement and content of [www.emailonacid.com](https://www.emailonacid.com/). We are not responsible for the privacy practices or the use of cookies on websites that you visit before or after [www.emailonacid.com](https://www.emailonacid.com/). 
 
+## Email Editor Image Upload Information
+
+#### How long does Email on Acid store images in the editor?
+
+Images will be stored for two years.
+
+#### What does Email on Acid do with data you share with us?
+
+We will not modify or alter your media in anyway. We don't own the copyright to your media; we are simply providing a means of storage.
+
+#### Are images in the image library publicly accessible?
+
+By adding your media to our service, you acknowledge that it will be publicly accessible. At this time we do not offer private hosting.
+
+#### How does Email on Acid handle Digital Millenium Copyright Act (DMCA) takedown requests?
+
+If there is a takedown request we will be more than happy to comply. We will not contest the request for any reason.
+
+#### What is the uptime guarantee for hosted images?
+
+All media is stored in Amazon's S3 service and we will provide the same 99.9% guaranteed up-time.
+
 ## Legal Issues
 
 This website was developed and is hosted in the United States and is subject to United States law. Email on Acid will disclose personal information without your permission when required by law, or in good faith believe that such action is necessary to investigate or protect against harmful activities toward Email on Acid, its users, or if there has been an infringement of our [Terms of Service](https://www.emailonacid.com/terms) agreement. 
@@ -65,4 +87,4 @@ This website was developed and is hosted in the United States and is subject to 
 
 In the future, we may make updates to this privacy statement. Updates will be completed in this document so that you will always be kept aware of the ways in which we gather and use your personal information. 
 
-This privacy statement was last updated on July 14, 2012. 
+This privacy statement was last updated on March 15, 2016. 
