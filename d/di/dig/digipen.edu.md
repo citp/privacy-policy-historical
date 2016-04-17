@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digipen.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054812id_/https%3A//www.digipen.edu/index.php%3Fid%3D9965) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digipen.edu privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417061225id_/https%3A//www.digipen.edu/index.php%3Fid%3D9965) for the most accurate reproduction.*
 
 # DigiPen: Web Privacy Policy
 
