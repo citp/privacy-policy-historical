@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913224525id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untrainedhousewife.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417040751id_/http%3A//untrainedhousewife.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -90,4 +90,4 @@ angela@untrainedhousewife.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
 
-[](https://un233.isrefer.com/go/summitreg/AngEngland/ "Non-branded learning - Free event!")
+[](http://www.grabgreenhome.com/kitchen-cleaning-solutions?acc=127&bannerid=17)
