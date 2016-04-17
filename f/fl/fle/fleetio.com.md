@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleetio.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607181004id_/https%3A//www.fleetio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetio.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417124607id_/https%3A//www.fleetio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fleetio
 
