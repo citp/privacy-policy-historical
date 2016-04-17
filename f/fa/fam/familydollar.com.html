@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the familydollar.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905151053id_/http%3A//www.familydollar.com/legal/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the familydollar.com privacy policy that was archived on 2016-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417074815id_/https%3A//www.familydollar.com/legal/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
     <!--[if lt IE 9]>
@@ -7,9 +7,10 @@
     <![endif]-->
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     
-    <meta name="title" content="Privacy Policy - Family Dollar">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
+    <meta name="title" content="Privacy Policy">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="keywords" content="Legal">
+    <meta name="description" content="Privacy Policy">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="X-FRAME-OPTIONS" content="SAMEORIGIN">
     
@@ -56,7 +57,7 @@
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/familydollar/favicon.ico">
     <link rel="shortcut icon" type="image/x-icon" href="/etc/designs/familydollar/favicon.ico">
     
-    <title>Privacy Policy - Family Dollar</title>
+    <title>Privacy Policy</title>
     <!--[if lt IE 9]> 
     <link rel="stylesheet" type="text/css" href="/etc/designs/familydollar/clientlibs/css/ie8-and-down.css" />
     <![endif]-->
@@ -66,11 +67,83 @@
     <!--[if lt IE 9]>
     <script type="text/javascript" src="/etc/designs/familydollar/clientlibs/ie8/ie8.js" />
     <![endif]-->
+    <script type="text/javascript" src="/etc/designs/familydollar/clientlibs/js/cookies.js"></script>
+    <script type="text/javascript" src="/etc/designs/familydollar/clientlibs/js/vendor/js.cookie.js"></script>
     <script type="text/javascript">
       var doc = document.documentElement;
       doc.setAttribute('data-useragent', navigator.userAgent);
     </script>
     <script src="//assets.adobedtm.com/11eb749dff274bdc5cb31a0d952ab742905cd711/satelliteLib-e5974b7fc45a697af3ecf1955eecedf41cbd5c5b.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+         function addAltImage() {
+            $("img").each(function(){
+                var alt = $(this).attr("alt");
+                if(alt==null||alt==''){
+                    var src = $(this).attr("src");
+                    var altValue ='';
+                    var srcRen = '';
+                    if (src) {
+                      if(src.indexOf('/_jcr_content/renditions/cq5dam')!=-1){
+                          srcRen = src.substring(0,src.indexOf("."));
+                          altValue = srcRen.substring(srcRen.lastIndexOf("/")+1);
+                      }else{
+                          altValue = src.substring(src.lastIndexOf("/")+1, src.lastIndexOf("."));
+                      }
+                    }
+
+                     altValue = altValue.replace(/-/g, ' ').replace(/_/g, ' ');
+
+                    $(this).attr("alt",altValue);
+                }else{
+                        alt = alt.replace(/-/g, ' ').replace(/_/g, ' ');
+                        $(this).attr("alt",alt);
+                   }
+            });
+        }
+
+        $( document ).ready(function () {
+            addAltImage();
+            var cID = getCookie('cID');
+            var token = getCookie('token');
+            var inmarToken = getCookie('inmarToken');
+
+            $("#registration").show();
+            $("#stickyRegistration").show();
+            if (cID != null && cID !== '' && token != null && token !== '' && inmarToken != null && inmarToken !== '') {
+                $.ajax({
+                    type: 'POST',
+                    url:'/bin/familydollar/servlets/users',
+                    data:"operation=4" + '&cID=' + cID + '&token=' + token + '&inmarToken=' + inmarToken,
+                    success: function(json) {
+                        loginedUser = json;
+                        $(".firstname").text('Hi, ' + loginedUser.firstName);
+                        $(".fullname").text('Hi, ' + loginedUser.firstName + ' ' + loginedUser.lastName);
+
+                        $('.not-loggedin')
+                                .removeClass('not-loggedin')
+                                .addClass('loggedin');
+
+                        $(document).trigger('logined');
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                        console.log('Error to checking user login');
+                    },
+                    complete: function(jqXHR, textStatus) {
+                    }
+                });
+            }
+        });
+        $(document).on('click', '#logoutBtn', function() {
+            console.log('Logout');
+            setCookie('user-token','');
+            if(localStorage.getItem("jStorage")!=null){
+                localStorage.removeItem("jStorage");
+            }
+            window.location.href= $(this).attr('href');
+        });
+
+    </script>
 <script>
     var isEdit = 'false';
 </script></head>
@@ -86,7 +159,7 @@
 
 
 
-<body><nav id="my-menu" class="mm-menu mm-horizontal mm-offcanvas"><div id="storeMenuFeat" class="mm-panel mm-opened mm-current">
+<body><nav id="my-menu" class="sc-my-menu mm-menu mm-horizontal mm-offcanvas"><div id="storeMenuFeat" class="mm-panel mm-opened mm-current">
                     <div class="storeMenuBody">
                         <h4>Personalize Your Experience</h4>
                         <div class="storeMenuBodyText"><p>Get personalized deals, see how much you have saved, your favorite deals, coupons and more.</p></div>
@@ -104,45 +177,19 @@
                                 Not your store? <a href="/bin/familydollar/servlets/storeSearch">Edit <span class="tri"></span></a>
                             </p>
                         </div>
-                        <script type="text/javascript">
-                            function getCookie(cname) {
-                                var name = cname + "=";
-                                var ca = document.cookie.split(';');
-                                for (var i = 0; i < ca.length; i++) {
-                                    var c = ca[i];
-                                    while (c.charAt(0) == ' ') c = c.substring(1);
-                                    if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
-                                }
-                                return "";
-                            }
-                            $(document).ready(function () {
-                                var count = 0;
-                                var interal_store_locator = setInterval(function() {
-                                    var value = $('#mystorelpp_nav').html();
-                                    if (value || count > 20) {
-                                        clearInterval(interal_store_locator);
-                                        return;
-                                    }
-                                    ++count;
-                                    var x = getCookie("storeaddress");
-                                    $('#mystorelpp_nav').html(x);
-                                }, 1500);
-                            });
-                        </script>
-
                         <div class="findStore">
                             <h3>Want to Find a Store?</h3>
 
                             <a href="/bin/familydollar/servlets/storeSearch">
                                 <button>
-                                    <img class="icon" src="/etc/designs/familydollar/clientlibs/img/store-home-feat/loc-pin.png" alt="loc-pin">
+                                    <img class="icon" alt="Location Pin icon" src="/etc/designs/familydollar/clientlibs/img/store-home-feat/loc-pin.png">
                                     Store Locator
                                 </button>
                             </a>
                         </div>
                     </div>
                     <div class="storeMenuAd">
-                        <img src="/etc/designs/familydollar/clientlibs/img/mobile-menu-panel/mobile-menu-ad.png" alt="mobile-menu-ad">
+                        <img alt="Mobile menu ad" src="/etc/designs/familydollar/clientlibs/img/mobile-menu-panel/mobile-menu-ad.png">
                     </div>
                     <div class="storeMenuLinks">
                         <ul class="mm-list">
@@ -156,7 +203,7 @@
                             
                             <li>
                                 <a class="mm-subopen" href="#mm-0"></a><a href="/deals">
-                                    DEALS
+                                    SMART SAVINGS
                                 </a>
                                 
                                 
@@ -164,7 +211,7 @@
                             </li>
                             
                             <li>
-                                <a class="mm-subopen" href="#mm-1"></a><a href="/whats-new">
+                                <a class="mm-subopen" href="#mm-2"></a><a href="/whats-new">
                                     WHAT'S NEW
                                 </a>
                                 
@@ -173,7 +220,7 @@
                             </li>
                             
                             <li>
-                                <a class="mm-subopen" href="#mm-6"></a><a href="/products-services">
+                                <a class="mm-subopen" href="#mm-5"></a><a href="/products-services">
                                     PRODUCTS &amp; SERVICES
                                 </a>
                                 
@@ -182,7 +229,7 @@
                             </li>
                             
                             <li>
-                                <a class="mm-subopen" href="#mm-8"></a><a href="/ideas-inspiration">
+                                <a class="mm-subopen" href="#mm-7"></a><a href="/ideas-inspiration">
                                     IDEAS &amp; INSPIRATION
                                 </a>
                                 
@@ -193,23 +240,72 @@
 
                             
                             <li>
-                                <a class="mm-subopen" href="#mm-11"></a><a href="javascript:void(0);">
+                                <a class="mm-subopen" href="#mm-10"></a><a href="javascript:void(0);">
                                     HELP
                                 </a>
                                 
                             </li>
                         </ul>
                     </div>
+                    <div id="myStore" class="not-loggedin">
+                        <div class="loggedin-status">
+                            <div class="sc-your-local-store">
+                                <div class="row sc-title">Your local store</div>
+                                <div class="row sc-detail">
+                                    <p id="mystorelpp_nav"></p>
+                                </div>
+                                <div class="row sc-edit">
+                                    <span>Not your store ? </span>
+                                    <a href="/bin/familydollar/servlets/storeSearch">Edit</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="not-loggedin-status">
+                            <a href="/bin/familydollar/servlets/storeSearch" class="btn btn-default">
+                                <i class="sc-store"><img src="/etc/designs/familydollar/clientlibs/img/store-home-feat/loc-pin.png" alt="Location pin image"></i>Store locator
+                            </a>
+                        </div>
+                    </div>
                 </div><ul class="mm-list mm-panel mm-hidden" id="mm-0"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
-                                    DEALS
+                                    SMART SAVINGS
                                 </a></li>
                                     <li>
-                                        <a href="/deals">Deals Home</a>
+                                        <a href="/deals">Smart Savings Home</a>
                                     </li>
                                     
                                     <li>
-                                        <a href="/deals/ad-match">
-                                            Ad Match
+                                        <a href="/deals/price-drop">
+                                            Price Drop
+                                        </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/edlp">
+                                            EDLP
+                                        </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/sale">
+                                            Sale
+                                        </a>
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a class="mm-subopen" href="#mm-1"></a><a href="/deals/compare-and-save">
+                                            Compare and Save
+                                        </a>
+                                        
+                                        
+                                        
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/1-wow">
+                                            1$ WOW
                                         </a>
                                         
                                     </li>
@@ -221,14 +317,29 @@
                                         
                                     </li>
                                     
-                                    <li>
-                                        <a href="/deals/weekly-ads">
-                                            Weekly Ads
-                                        </a>
-                                        
-                                    </li>
-                                    
-                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
+                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-1"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-0">
+                                            Compare and Save
+                                        </a></li>
+                                            <li>
+                                                <a href="/deals/compare-and-save">Compare and Save Home</a>
+                                            </li>
+                                            
+                                            <li><a href="/deals/compare-and-save/baby-essential">Baby Essentials
+                                            </a></li>
+                                            
+                                            <li><a href="/deals/compare-and-save/food">Great Food Choices
+                                            </a></li>
+                                            
+                                            <li><a href="/deals/compare-and-save/health-wellness-essential">Health &amp; Wellness Essentials
+                                            </a></li>
+                                            
+                                            <li><a href="/deals/compare-and-save/household-basic">Household Basics
+                                            </a></li>
+                                            
+                                            <li><a href="/deals/compare-and-save/pet-care">Pet Care
+                                            </a></li>
+                                            
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
                                     WHAT'S NEW
                                 </a></li>
                                     <li>
@@ -236,25 +347,7 @@
                                     </li>
                                     
                                     <li>
-                                        <a class="mm-subopen" href="#mm-2"></a><a href="/whats-new/back-to-school">
-                                            Back to School
-                                        </a>
-                                        
-                                        
-                                        
-                                    </li>
-                                    
-                                    <li>
-                                        <a class="mm-subopen" href="#mm-3"></a><a href="/whats-new/summer">
-                                            Summer
-                                        </a>
-                                        
-                                        
-                                        
-                                    </li>
-                                    
-                                    <li>
-                                        <a class="mm-subopen" href="#mm-4"></a><a href="/whats-new/fabulous">
+                                        <a class="mm-subopen" href="#mm-3"></a><a href="/whats-new/fabulous">
                                             Fabulous
                                         </a>
                                         
@@ -263,11 +356,9 @@
                                     </li>
                                     
                                     <li>
-                                        <a class="mm-subopen" href="#mm-5"></a><a href="/whats-new/Sweepstakes">
-                                            Sweepstakes
+                                        <a href="/whats-new/cleaning">
+                                            Spring Cleaning
                                         </a>
-                                        
-                                        
                                         
                                     </li>
                                     
@@ -286,89 +377,45 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/whats-new/halloween">
-                                            Halloween
+                                        <a href="/whats-new/health-wellness">
+                                            Health &amp; Wellness
                                         </a>
                                         
                                     </li>
                                     
-                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-2"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">
-                                            Back to School
-                                        </a></li>
-                                            <li>
-                                                <a href="/whats-new/back-to-school">Back to School Home</a>
-                                            </li>
-                                            
-                                            <li><a href="/whats-new/back-to-school">Back To School
-                                            </a></li>
-                                            
-                                            <li><a href="/whats-new/school-supply-list">School Supply List
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/back-to-school-products">School Supplies
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/household-products/cleaning-essentials">Cleaning Essentials
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/food-and-beverages/breakfasts-snacks">Breakfasts &amp; Snacks
-                                            </a></li>
-                                            
-                                            <li><a href="/whats-new/back-to-school/feeding-america">Feeding America
-                                            </a></li>
-                                            
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">
-                                            Summer
-                                        </a></li>
-                                            <li>
-                                                <a href="/whats-new/summer">Summer Home</a>
-                                            </li>
-                                            
-                                            <li><a href="/whats-new/summer">Summer
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/grilling">Grilling
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/celebration">Celebration
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/cool-down">Cool Down
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/backyard-and-patio">Backyard &amp; Patio
-                                            </a></li>
-                                            
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">
+                                    <li>
+                                        <a class="mm-subopen" href="#mm-4"></a><a href="/whats-new/pets">
+                                            Pets
+                                        </a>
+                                        
+                                        
+                                        
+                                    </li>
+                                    
+                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-3"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-2">
                                             Fabulous
                                         </a></li>
                                             <li>
                                                 <a href="/whats-new/fabulous">Fabulous Home</a>
                                             </li>
                                             
-                                            <li><a href="/whats-new/fabulous/show-of-your-selfie-contest">Show Off Your Selfie Contest
-                                            </a></li>
-                                            
                                             <li><a href="/whats-new/fabulous/about">Videos
                                             </a></li>
                                             
-                                            <li><a href="/whats-new/fabulous/bloggers">Styling Tips
-                                            </a></li>
-                                            
-                                            <li><a href="/whats-new/fabulous/beauty">Products
-                                            </a></li>
-                                            
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-1">
-                                            Sweepstakes
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-4"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-2">
+                                            Pets
                                         </a></li>
                                             <li>
-                                                <a href="/whats-new/Sweepstakes">Sweepstakes Home</a>
+                                                <a href="/whats-new/pets">Pets Home</a>
                                             </li>
                                             
-                                            <li><a href="/whats-new/Sweepstakes/just-add-family">Just Add Family
+                                            <li><a href="/whats-new/pets/pet-pros">Pet Pros
                                             </a></li>
                                             
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
+                                            <li><a href="/whats-new/pets/tips-tricks">Tips &amp; Tricks
+                                            </a></li>
+                                            
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-5"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
                                     PRODUCTS &amp; SERVICES
                                 </a></li>
                                     <li>
@@ -376,7 +423,7 @@
                                     </li>
                                     
                                     <li>
-                                        <a class="mm-subopen" href="#mm-7"></a><a href="/products-services/products">
+                                        <a class="mm-subopen" href="#mm-6"></a><a href="/products-services/products">
                                             Products
                                         </a>
                                         
@@ -391,83 +438,89 @@
                                         
                                     </li>
                                     
-                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-6">
+                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-6"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-5">
                                             Products
                                         </a></li>
                                             <li>
                                                 <a href="/products-services/products">Products Home</a>
                                             </li>
                                             
-                                            <li><a href="/products-services/products/back-to-school-products">School Supplies
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/household-products/cleaning-essentials">Cleaning Essentials
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/food-and-beverages/breakfasts-snacks">Breakfasts &amp; Snacks
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/summer">Summer
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/grilling">Grilling
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/celebration">Celebration
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/cool-down">Cool Down
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/backyard-and-patio">Backyard &amp; Patio
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/food-and-beverages">Food &amp; Beverages
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/pet-supplies">Pet Supplies
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/household-products">Household Products
+                                            <li><a href="/products-services/products/automotive">Automotive
                                             </a></li>
                                             
                                             <li><a href="/products-services/products/baby-care">Baby Care
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/family-apparel">Family Apparel
+                                            <li><a href="/products-services/products/celebration">Celebration
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/health-and-wellness">Health &amp; Wellness
+                                            <li><a href="/products-services/products/household-products/cleaning-essentials">Cleaning Essentials
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/personal-care-and-beauty">Personal Care &amp; Beauty
+                                            <li><a href="/products-services/products/easter">Easter
                                             </a></li>
                                             
                                             <li><a href="/products-services/products/electronics">Electronics
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/automotive">Automotive
+                                            <li><a href="/products-services/products/family-apparel">Family Apparel
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/hardware">Hardware
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/home-decor">Home Décor
-                                            </a></li>
-                                            
-                                            <li><a href="/products-services/products/toys">Toys
+                                            <li><a href="/products-services/products/food-and-beverages">Food &amp; Beverages
                                             </a></li>
                                             
                                             <li><a href="/products-services/products/gift-cards">Gift Cards
                                             </a></li>
                                             
-                                            <li><a href="/products-services/products/outdoor">Outdoor
+                                            <li><a href="/products-services/products/halloween-candy">Halloween Candy
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/hardware">Hardware
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/health-and-wellness">Health &amp; Wellness
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/holiday-decor">Holiday Decor
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/holiday-gift-wrap">Holiday Gift Wrap
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/holiday-gifting">Holiday Gifting
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/home-decor">Home Décor
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/household-products">Household Products
                                             </a></li>
                                             
                                             <li><a href="/products-services/products/electronics?tag=electronics/wireless/phones">Mobile Phones
                                             </a></li>
                                             
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
+                                            <li><a href="/products-services/products/outdoor">Outdoor
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/personal-care-and-beauty">Personal Care &amp; Beauty
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/pet-supplies">Pet Supplies
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/back-to-school-products">School Supplies
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/thanksgiving">Thanksgiving
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/toys">Toys
+                                            </a></li>
+                                            
+                                            <li><a href="/products-services/products/valentines-day">Valentine's Day
+                                            </a></li>
+                                            
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-7"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
                                     IDEAS &amp; INSPIRATION
                                 </a></li>
                                     <li>
@@ -475,7 +528,7 @@
                                     </li>
                                     
                                     <li>
-                                        <a class="mm-subopen" href="#mm-9"></a><a href="/ideas-inspiration/recipes">
+                                        <a class="mm-subopen" href="#mm-8"></a><a href="/ideas-inspiration/recipes">
                                             Recipes
                                         </a>
                                         
@@ -484,7 +537,7 @@
                                     </li>
                                     
                                     <li>
-                                        <a class="mm-subopen" href="#mm-10"></a><a href="/ideas-inspiration/topics">
+                                        <a class="mm-subopen" href="#mm-9"></a><a href="/ideas-inspiration/topics">
                                             Topics
                                         </a>
                                         
@@ -492,7 +545,7 @@
                                         
                                     </li>
                                     
-                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-8">
+                                </ul><ul class="mm-list mm-panel mm-hidden" id="mm-8"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-7">
                                             Recipes
                                         </a></li>
                                             <li>
@@ -505,7 +558,13 @@
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#appetizers">Appetizer Recipes
                                             </a></li>
                                             
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/birthday">Birthday Recipes
+                                            </a></li>
+                                            
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#breakfast">Breakfast Recipes
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/celebration">Celebration Recipes
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#dessert">Dessert Recipes
@@ -517,25 +576,7 @@
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#drinks">Drinks Recipes
                                             </a></li>
                                             
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#grilling">Grilling Recipes
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#sides">Side Recipes
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#snacks">Snack Recipes
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/birthday">Birthday Recipes
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/celebration">Celebration Recipes
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions">Occasions
-                                            </a></li>
-                                            
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#holidays/easter">Easter
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#easter">Easter
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/fall-back-to-school">Fall / Back to School
@@ -544,19 +585,34 @@
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/game-day">Game Day
                                             </a></li>
                                             
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#holidays/halloween">Halloween
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#grilling">Grilling Recipes
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#halloween">Halloween
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#holidays">Holiday Recipes
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions">Occasions
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#sides">Side Recipes
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#snacks">Snack Recipes
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/recipes/recipe-filters#ocassions/summer">Summer
                                             </a></li>
                                             
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#holidays/thanksgiving">Thanksgiving
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#thanksgiving">Thanksgiving
                                             </a></li>
                                             
-                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#holidays/valentines-day">Valentine's Day
+                                            <li><a href="/ideas-inspiration/recipes/recipe-filters#valentines-day">Valentine's Day
                                             </a></li>
                                             
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-8">
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-9"><li class="mm-subtitle"><a class="mm-subclose" href="#mm-7">
                                             Topics
                                         </a></li>
                                             <li>
@@ -564,6 +620,9 @@
                                             </li>
                                             
                                             <li><a href="/ideas-inspiration/topics/baby-care">Baby Care
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/topics/blog-recipes">Blog Recipes
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/topics/clothing">Clothing
@@ -575,10 +634,13 @@
                                             <li><a href="/ideas-inspiration/topics/food">Food &amp; Recipes
                                             </a></li>
                                             
-                                            <li><a href="/ideas-inspiration/topics/blog-recipes">Blog Recipes
+                                            <li><a href="/ideas-inspiration/topics/halloween">Halloween
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/topics/health-beauty">Health &amp; Beauty
+                                            </a></li>
+                                            
+                                            <li><a href="/ideas-inspiration/topics/holiday">Holiday
                                             </a></li>
                                             
                                             <li><a href="/ideas-inspiration/topics/home-decor">Home Décor
@@ -593,15 +655,19 @@
                                             <li><a href="/ideas-inspiration/topics/seasonal">Seasonal
                                             </a></li>
                                             
+                                            <li><a href="/ideas-inspiration/topics/thanksgiving">Thanksgiving
+
+                                            </a></li>
+                                            
                                             <li><a href="/ideas-inspiration/topics/toys">Toys
                                             </a></li>
                                             
-                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-11"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
+                                        </ul><ul class="mm-list mm-panel mm-hidden" id="mm-10"><li class="mm-subtitle"><a class="mm-subclose" href="#storeMenuFeat">
                                     HELP
                                 </a></li>
                                     
                                     <li>
-                                        <a href="http://corporate.familydollar.com/pages/faq.aspx" target="target=" _blank="">
+                                        <a href="http://corporate.familydollar.com/pages/faq.aspx" target="target=" _blank="" link="" opens="" in="" new="" window="">
                                             FAQs
                                         </a>
                                     </li>
@@ -619,7 +685,7 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="http://corporate.familydollar.com/pages/contactus.aspx" target="target=" _blank="">
+                                        <a href="http://corporate.familydollar.com/pages/contactus.aspx" target="target=" _blank="" link="" opens="" in="" new="" window="">
                                             Contact Us
                                         </a>
                                     </li>
@@ -649,7 +715,53 @@
                                     </li>
                                     
                                 </ul></nav>
-    <div class="body-wrapper mm-page mm-slideout">
+    <style>
+<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("\x2Fetc\x2Fsegmentation");
+        CQ_Analytics.ClientContextUtils.init("\x2Fetc\x2Fclientcontext\x2Fdefault", "\x2Fcontent\x2Ffamilydollar\x2Fen\x2Flegal\x2FPrivacy\x2DPolicy");
+
+        
+    });
+</script>
+</div>
+
+        .centerAlign{
+            text-align: center;
+        }
+    </style>
+    <div class="mm-page mm-slideout"><div class="body-wrapper">
+        <div class="fd-configuration configuration">
+
+
+
+
+
+
+
+
+
+
+<script>
+    var isEdit = 'false';
+</script>
+
+
+
+
+
+
+
+<a href="/" class="hidden-lg hidden-md hidden-sm hidden-xs" id="homePageUrl">Home Page Url</a>
+<a href="/user-profile" class="hidden-lg hidden-md hidden-sm hidden-xs" id="userProfileUrl">User Profile Url</a>
+<a href="/edit-profile" class="hidden-lg hidden-md hidden-sm hidden-xs" id="editProfileUrl">Edit Profile Url</a>
+<a href="/login" class="hidden-lg hidden-md hidden-sm hidden-xs" id="loginPageUrl">Login Page Url</a>
+<a href="/deals//smart-coupons" class="hidden-lg hidden-md hidden-sm hidden-xs" id="smartCouponsUrl">Smart Coupons Url</a>
+<a href="/edit-profile" class="hidden-lg hidden-md hidden-sm hidden-xs" id="changePasswordUrl">Change Password Url</a>
+<a href="/reset-password" class="hidden-lg hidden-md hidden-sm hidden-xs" id="resetPasswordUrl">Reset Password Url</a></div>
+
         
 
 
@@ -687,7 +799,7 @@
 <div class="neighborhoodStore pt5 pb5">
     <div class="row">
 
-        <div id="neighborhoodStoreAddress" class="col-md-10 col-sm-8 hidden-xs">
+        <div id="neighborhoodStoreAddress" class="col-lg-10 col-md-10 col-sm-9 hidden-xs">
             <div class="inline topbar-address">
 
 
@@ -724,277 +836,18 @@
                 </p>
                 <a class="weeklyAds" href="#">Weekly Ads</a> |
                 <a class="coupons" href="#">Coupons</a> |
-                <a class="directions" target="_blank" href="#">Directions</a>
+                <a class="directions externalLink" target="_blank" href="#" title="link opens in new window">Directions</a>
             </div>
         </div>
     </div>
 </div>
 
-<script type="text/javascript">
-    var nearbyStores = [];
-
-    function getCookie(cname) {
-        var name = cname + "=";
-        var ca = document.cookie.split(';');
-        for (var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') c = c.substring(1);
-            if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
-        }
-        return "";
-    }
-
-    function setCookie(cname, cvalue) {
-        document.cookie = cname + "=" + cvalue +"; path=/";
-
-    }
-
-    $(document).ready(function () {
-        var x = getCookie("mystoreinfo");
-        if ((x == 'undefined' || x == "") && isEdit == 'false') {
-            if ($('div#currentStore').length) {
-                $('div#currentStore').css('display', 'none');
-            }
-            paintNearLocation();
-        } else {
-            populateStoreInfoFromCookie();
-        }
-    });
-
-    function populateStoreInfoFromCookie() {
-        var divId = 'div#currentStore #myStore';
-        //Clear old results before starting to parse new results
-        if ($('div#currentStore').length) {
-            $('div#currentStore').css('display', 'none');
-        }
-
-        var cks = getCookie("mystoreinfo");
-        var storeInfoArr = cks.split(":::");
-        if (storeInfoArr.length == 5) {
-            var sId = storeInfoArr[0];
-            var sAddress = storeInfoArr[1].replace(/\|/g, ",");
-
-            var sPhone = storeInfoArr[2];
-            var sHours = storeInfoArr[3];
-            var sMiles = storeInfoArr[4];
-
-            /*Top bar address*/
-            if ($('#topbaraddress').length) {
-                $('#topbaraddress').html(sAddress.replace(/<br \/>/g, ", "));
-            }
-
-            var shortAddress = sAddress.replace(/<br \/>.*<br \/>/g, ", ");
-
-            /*Home page - mystore section*/
-            if ($('p#mystorelpp_1').length) {
-                $('p#mystorelpp_1').html(shortAddress.replace(/\|/g, ","));
-            }
-            if ($('p#mystorelpp_nav').length) {
-                $('p#mystorelpp_nav').html(shortAddress.replace(/\|/g, ","));
-            }
-
-            /*Store results page - miles section */
-            if ($('div#currentStore').length && $('div#currentStore .distance').length) {
-                $('div#currentStore .distance span').html(sMiles + ' mi');
-            }
-            /*miles ends*/
-
-            /*Store results page information*/
-            $('#currentStoreTemp .store .storeInfo .name strong').html("Family Dollar #" + sId);
-            $('#currentStoreTemp .store .storeInfo .address').html(sAddress.replace(/\|/g, ","));
-            $('#currentStoreTemp .store .storeInfo .phone').html(sPhone);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .hours').html(sHours);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .weeklyAds').attr("href", "/weekly-ads?drpStoreID=" + sId);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .coupons').attr("href", "/deals/coupons");
-            var daddr = sAddress.replace(/<br \/>/g, " ");
-            daddr = encodeURIComponent(daddr);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .directions').attr("href", "https://maps.google.com?daddr=" + daddr);
-
-            //Add store result to results box
-            $(divId).html($('#currentStoreTemp .store').clone())
-
-            if ($('div#currentStore').length) {
-                $('div#currentStore').css('display', 'block');
-            }
-        }
-    }
-
-    function paintNearLocation() {
-
-        if (navigator.geolocation) {
-            // timeout at 60000 milliseconds (60 seconds)
-            var options = {timeout: 60000};
-            navigator.geolocation.getCurrentPosition(searchNearLocation,
-                    errorHandler2,
-                    options);
-        } else {
-            console.log("Sorry, browser does not support geolocation!");
-        }
-    }
-
-    function errorHandler2(err) {
-        if (err.code == 1) {
-            console.log("Error: Access is denied!");
-        } else if (err.code == 2) {
-            console.log("Error: Position is unavailable!");
-        }
-    }
-
-    function searchNearLocation(position) {
-        var lat = position.coords.latitude;
-        var lon = position.coords.longitude;
-
-        //Here is where we do a store search, and then populate the page with the JSON results
-        getNearestStore(lat, lon);
-    }
-
-    function getNearestStore(lat, lon, dist, num, startRecord) {
-
-        //Set default values for optional parameters
-        if ('undefined' === typeof dist) {
-            dist = 50;
-        }
-
-        if ('undefined' === typeof num) {
-            num = 1; // need only one record for display on the top bar
-        }
-
-        if ('undefined' === typeof startRecord) {
-            startRecord = 1;
-        }
-
-        $.ajax({
-            type: "GET",
-            dataType: "json",
-            contentType: "application/json; charset=utf-8",
-            cache: false,
-            url: "/bin/familydollar/servlets/proxyapp?lat=" + lat + "&lon=" + lon + "&distance=" + dist + "&numRecords=" + num + "&startRecord=" + startRecord,
-            success: function (response) {
-                //Fun stuff
-                nearbyStores = response;
-                populateNearbyResults(response);
-            },
-            error: function (hr, txtStatus, error) {
-                console.log(error);
-            }
-        });
-    }
-
-    function populateNearbyResults(stores) {
-
-        /*Top bar address */
-        //Clear old results before starting to parse new results
-        $('#topbaraddress').html("");
-        var storeCopy = "";
-
-        for (i = 0; i < stores.length; i++) {
-            /*only one store will be scanned in this loop*/
-
-            var address = "";
-            for (j = 0; j < stores[i].streetAddress.length; j++) {
-                if (stores[i].streetAddress[j].trim() != "") {
-                    address += stores[i].streetAddress[j] + ", ";
-                }
-            }
-            address += stores[i].city + ", " + stores[i].state + " " + stores[i].zipCode;
-            storeCopy += address;
-
-            /*Top bar copy*/
-            $('#topbaraddress').html(storeCopy);
-            /*Top bar fill ends*/
-
-
-            /*Store results page - miles section */
-            if ($('div#currentStore').length && $('div#currentStore .distance').length) {
-                $('div#currentStore .distance span').html(Math.round(stores[i].distance) + ' mi');
-            }
-            /*miles ends*/
-
-            var homeAddress = "";
-            homeAddress += stores[i].streetAddress[0] + ", ";
-            homeAddress += stores[i].city + ", " + stores[i].state;
-
-            var hours = "";
-            for (j = 0; j < stores[i].hours.length; j++) {
-                if (stores[i].hours[j].trim() != "") {
-                    hours += stores[i].hours[j] + "<br />";
-                }
-            }
-
-            /*Home page - mystore section*/
-            if ($('p#mystorelpp_1').length) {
-                $('p#mystorelpp_1').html(homeAddress);
-            }
-            var cookieData = stores[i].id + ":::" + address.replace(new RegExp(',', 'g'), '|') + ":::" + stores[i].phone + ":::" + hours + ":::" + Math.round(stores[i].distance);
-            setCookie('mystoreinfo', cookieData);
-            /*Home page mystore ends*/
-            break;
-        }
-
-        if ($('div#currentStore #myStore').length) {
-            populateStorePageNeighbor(stores);
-        }
-    }
-
-    function populateStorePageNeighbor(stores) {
-
-        var divId = 'div#currentStore #myStore';
-        //Clear old results before starting to parse new results
-        // $(divId).html('');
-        //clearMarkers();
-        if (stores.length == 0) {
-            // $(divId).css('display', 'none');
-        } else {
-            // $(divId).css('display', 'block');
-        }
-
-        for (i = 0; i < stores.length; i++) {
-            //Populate store result
-            $('#currentStoreTemp .store .distance span').html(Math.round(stores[i].distance) + " mi");
-            $('#currentStoreTemp .store .storeInfo .name strong').html("Family Dollar #" + stores[i].id);
-
-            var address = "";
-            for (j = 0; j < stores[i].streetAddress.length; j++) {
-                if (stores[i].streetAddress[j].trim() != "") {
-                    address += stores[i].streetAddress[j] + "<br />";
-                }
-            }
-            address += stores[i].city + ", " + stores[i].state + " " + stores[i].zipCode;
-
-            $('#currentStoreTemp .store .storeInfo .address').html(address);
-            $('#currentStoreTemp .store .storeInfo .phone').html(stores[i].phone);
-
-            var hours = "";
-            for (j = 0; j < stores[i].hours.length; j++) {
-                if (stores[i].hours[j].trim() != "") {
-                    hours += stores[i].hours[j] + "<br />";
-                }
-            }
-
-            $('#currentStoreTemp .store .storeInfo .moreInfo .hours').html(hours);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .weeklyAds').attr("href", "/weekly-ads?drpStoreID=" + stores[i].id);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .coupons').attr("href", "/deals/coupons");
-            var daddr = address.replace(/<br \/>/g, " ");
-            daddr = encodeURIComponent(daddr);
-            $('#currentStoreTemp .store .storeInfo .moreInfo .directions').attr("href", "https://maps.google.com?daddr=" + daddr);
-
-            //Add store result to results box
-            /*$('#currentStoreTemp .store').clone().appendTo('.storeList');*/
-            $(divId).html($('#currentStoreTemp .store').clone())
-        }
-
-        if ($('div#currentStore').length) {
-            $('div#currentStore').css('display', 'block');
-        }
-    }
-    $(window).load(function(){
-         paintNearLocation();
-    });
-</script></div>
+<script type="text/javascript" src="/etc/designs/familydollar/clientlibs/topBarAddress.js"></script>
+</div>
 
         </div>
 
-        <div id="neighborhoodStoreLocator" class="col-md-2 col-sm-4 hidden-xs">
+        <div id="neighborhoodStoreLocator" class="col-lg-2 col-md-2 col-sm-3 hidden-xs">
             <div class="section ml10">
 
 
@@ -1035,7 +888,7 @@
         <a href="#" data-toggle="dropdown" class="dropdown-toggle help bold pr10">Help</a>
         <ul class="dropdown-menu">
             
-            <li><a href="http://corporate.familydollar.com/pages/faq.aspx" target="_blank">FAQs
+            <li><a href="http://corporate.familydollar.com/pages/faq.aspx" target="_blank" title="link opens in new window">FAQs
             </a></li>
             
             <li><a href="/legal/Coupon-Policy">Coupon Policy
@@ -1044,7 +897,7 @@
             <li><a href="/legal/Return-Policy">Refund Policy
             </a></li>
             
-            <li><a href="http://corporate.familydollar.com/pages/contactus.aspx" target="_blank">Contact Us
+            <li><a href="http://corporate.familydollar.com/pages/contactus.aspx" target="_blank" title="link opens in new window">Contact Us
             </a></li>
             
             <li><a href="/legal/CA-Trans-Act">CA Trans. Act
@@ -1112,9 +965,58 @@
 
     </div>
 
-	<div class="col-md-3 col-sm-5">
-		<!-- Currently not in scope for this phase of the project -->
-	    
+	<div class="col-md-3 col-sm-5 not-loggedin">
+	     <div class="pr15 topnavicons parbase right list">
+
+
+
+
+
+
+
+
+<script>
+    var isEdit = 'false';
+</script>
+
+
+
+
+<div id="registration">
+    <!-- <div class="not-loggedin-status sc-not-login-status">
+        <div class="col-md-6 col-sm-6 sc-left">
+            <a href="/login"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-popup-logo.png" alt="popup logo icon"></a>
+        </div>
+        <div class="col-md-5 col-sm-5 sc-right">
+            <a href="/register">Signup</a>
+            <a class="sperate">|</a>
+            <a href="/login">Login</a>
+        </div>
+    </div>-->
+    <div class="loggedin-status sc-login-status">
+        <div class="col-md-6 col-sm-6 sc-left">
+            <a href="/deals//smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile.png" alt="mobile icon"></a>
+        </div>
+        <div class="col-md-6 col-sm-6 top-profile-dropdown">
+              <div class="dropdown">
+                <button class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="firstname">Hi, Anna B</span>
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                  <li><a href="/deals//smart-coupons">My Smart Coupons</a></li>
+                  <li><a href="/edit-profile">Edit Profile</a></li>
+                  <li><a href="#" data-sclogout="">Sign Out</a></li>
+                </ul>
+              </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/etc/designs/familydollar/clientlibs/topnavicons.js"></script>
+
+
+
+</div>
+
 	</div>
     
 </div>
@@ -1138,6 +1040,7 @@
 
 
 
+
 <script>
     var isEdit = 'false';
 </script>
@@ -1147,12 +1050,85 @@
 
 <style type="text/css">
     .cbp-hrmenu .cbp-hrsub {
-        height: 300px;
+        height: 283px;
     }
     .cbp-hrsub-inner > div:first-child {
-        min-height:295px;
+        min-height:278px;
+    }
+    .mobile-nav .mobileSticky .wrapper {
+        padding-top: 6px;
+    }
+    .menuPromoImage{
+        display: block;
+    }
+    .mobileSticky img.mobileHdrLogoImg {
+        margin-top: 7px;
+    }
+    #sc-logo-frame {
+        margin-top: 2px;
+    }
+    .white {
+        margin-top: 0;
+    }
+    #stickyRegistration {
+        vertical-align: middle;
+    }
+    #stickyRegistration .sc-not-login-status .sc-left img {
+        width: 100px;
+    }
+    #stickyRegistration .sc-not-login-status .sc-right {
+        background: black;
+        text-align: right;
+        padding-right: 7px;
+        padding-left: 5px;
+        padding-top: 3px;
+        font-size: 0.9em;
+        border-radius: 0 5px 5px 0;
+        margin-left: -4px;
+        margin-top: 4px;
+        padding-bottom: 3px;
+        display: inline;
+    }
+    #stickyRegistration .sc-not-login-status .sc-left {
+        display: inline;
+    }
+    #stickyRegistration .sc-not-login-status {}
+    #stickyRegistration .sc-not-login-status .sc-right a {
+        color: white;
+    }
+    #stickyRegistration .sc-login-status {
+        margin-right: -7px;
+    }
+    #stickyRegistration .sc-login-status .sc-left {
+        display: inline;
+        text-align: right;
+    }
+    #stickyRegistration .sc-login-status .sc-left img {
+        width: 20px;
+    }
+    #stickyRegistration .sc-login-status .sc-right a {
+        color: white;
+    }
+    #stickyRegistration .sc-login-status .sc-right {
+        font-size: 0.9em;
+        border-radius: 0 4px 4px 0;
+        padding: 5px;
+        background: black;
+        margin-top: 3px;
+        margin-left: -4px;
+        display: inline;
+    }
+    .icon-location-sticky {
+        margin-right: 10px;
+    }
+    .stickyHeader .not-loggedin form.relative {
+        margin-right: 76px;
+    }
+    .stickyHeader .loggedin form.relative {
+        margin-right: 10px;
     }
 </style>
+
 
 
 
@@ -1162,22 +1138,76 @@
         <div class="container">
             <div class="col-xs-9 hidden-xs">
                 <div class="inline hamburger-desktop"><a class="hamburger white"></a></div>
-                <div class="inline logo-sticky"><a href="/"><img src="/etc/designs/familydollar/clientlibs/img/family-dollar-logo-sticky.png" width="210px" alt="family-dollar-logo-sticky"></a></div>
+                <div class="inline logo-sticky"><a href="/"><img src="/etc/designs/familydollar/clientlibs/img/family-dollar-logo-sticky.png" alt="Family Dollar Logo" width="210px"></a></div>
             </div>
-            <div class="col-xs-3 hidden-xs">
+            <!--<div id="inmar-sc-logo">
+                <a href="/deals/smart-coupons"><img alt="icon mobile tablet" src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile-tablet.png"></a>
+            </div>-->
+            <div class="col-xs-3 hidden-xs not-loggedin">
                 <div class="inline wrapSearch">
                     <form action="/bin/familydollar/servlets/fdsitesearch" method="GET" class="relative">
+                        <!--  <div id="sc-logout" class="loggedin-block">
+                            <a href="#" data-sclogout="">Logout</a>
+                        </div> -->
                         <div class="searchField">
-                            <input type="submit" class="desktopSearch-submit" value="" style="">
+                            <input type="submit" class="desktopSearch-submit" value="">
                             <input name="q" maxlength="150" type="text" for="desktopSearch" id="desktopSearch" class="desktopSearch left" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
                         </div>
                     </form>
                 </div>
+
+                <div class="inline" id="stickyProfile" style="vertical-align: middle;">
+                    <span class="navbar-login mobileHide">
+                        <a class="account bold fs14 headerVAlign inline" data-placement="bottom" data-toggle="popover" title="" data-content="<div id='tooltip-account'>
+                            <div class='row'><a href='/user-profile'>My account</a> / <a href='#'>Settings</a></div>
+                            <p></p>
+                            <div class='row'><a id='logoutBtn' href='/'>Logout</a></div>
+                            <hr>
+                            <div class='row'>
+                            <a href='#'>
+                              <img src='/etc/designs/familydollar/clientlibs/forms/registerOrLogin/img/facebook.png' alt=" facebook="" icon="" data-original-title="">Account<span class="glyphicon glyphicon-triangle-bottom"></span></a>
+                    </span>
+                </div>
+
+                <div class="loggedin-status sc-login-status scroll-login-stt">
+                        <div class="sc-left">
+                            <a href="/deals//smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile.png" alt="smart coupon icon for mobile"></a>
+                        </div>
+                        <div class="top-profile-dropdown">
+                                      <div class="dropdown">
+                                        <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                                        <span class="firstname">Hi, Anna B</span>
+                                        
+                                        <span class="caret"></span></button>
+                                        <ul class="dropdown-menu">
+                                          <li><a href="/deals//smart-coupons">My Smart Coupons</a></li>
+                                          <li><a href="/edit-profile">Edit Profile</a></li>
+                                          <li><a href="#" data-sclogout="">Sign Out</a></li>
+                                        </ul>
+                                      </div>
+                                </div>
+                    </div>
+
                 <div class="inline icon-location-sticky">
                     <a href="/bin/familydollar/servlets/storeSearch">
-                        <img src="/etc/designs/familydollar/clientlibs/img/icon-location-maroon.png" width="32px" alt="icon-location-maroon">
+                        <img src="/etc/designs/familydollar/clientlibs/img/icon-location-maroon.png" alt="Location Icon maroon" width="32px">
                     </a>
                 </div>
+
+                <div class="inline not-loggedin" id="stickyRegistration">
+                    <!--<div class="not-loggedin-status sc-not-login-status">
+                        <div class="sc-left">
+                            <a href="/login"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile-tablet.png" alt="Moble icon for tablet"></a>
+                        </div>
+                        <div class="sc-right">
+                            <a href="/register">Signup</a>
+                            <a class="sperate">|</a>
+                            <a href="/login">Login</a>
+                        </div>
+                    </div>-->
+
+                </div>
+
             </div>
         </div>
     </div>
@@ -1207,8 +1237,8 @@
                                 
                             </div>
                             
-                            <div class="menuPromoImage cbp-hrsub-main" style="display: block;">
-                                <img src="/etc/designs/default/0.gif" alt="0" title="" class="responsive-shrink cq-image-placeholder">
+                            <div class="menuPromoImage cbp-hrsub-main">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Weekly-mn.jpg" alt="Weekly mn" title="Weekly-mn" class="responsive-shrink">
                             </div>
 
                             
@@ -1220,7 +1250,7 @@
                 
                 <li class="">
                     <a href="/deals" class="">
-                        Deals
+                        Smart Savings
                     </a>
 
 
@@ -1231,20 +1261,29 @@
                             <div>
                                 
                                 
-                                <a class="sidebarLink" href="/deals/ad-match"><h4 style="color: rgb(255, 255, 255); background:transparent url('/etc/designs/familydollar/clientlibs/img/mega-nav-highlight.jpg') no-repeat left center;">Ad Match
+                                <a class="sidebarLink" href="/deals/price-drop"><h4 style="color: rgb(255, 255, 255); background:transparent url('/etc/designs/familydollar/clientlibs/img/mega-nav-highlight.jpg') no-repeat left center;">Price Drop
+                                </h4></a>
+                                
+                                <a class="sidebarLink" href="/deals/edlp"><h4>EDLP
+                                </h4></a>
+                                
+                                <a class="sidebarLink" href="/deals/sale"><h4>Sale
+                                </h4></a>
+                                
+                                <a class="sidebarLink" href="/deals/compare-and-save"><h4>Compare and Save
+                                </h4></a>
+                                
+                                <a class="sidebarLink" href="/deals/1-wow"><h4>1$ WOW
                                 </h4></a>
                                 
                                 <a class="sidebarLink" href="/deals/coupons"><h4>Coupons
                                 </h4></a>
                                 
-                                <a class="sidebarLink" href="/deals/weekly-ads"><h4>Weekly Ads
-                                </h4></a>
-                                
                                 
                             </div>
                             
-                            <div class="menuPromoImage cbp-hrsub-main" style="display: block;">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Products-mega-menu.jpg" alt="Products-mega-menu" title="Products-mega-menu" class="responsive-shrink">
+                            <div class="menuPromoImage cbp-hrsub-main">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Products-mega-menu.jpg" alt="Products mega menu" title="Products-mega-menu" class="responsive-shrink">
                             </div>
 
                             
@@ -1260,7 +1299,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-one">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Admatch-mega-menu.jpg" alt="Admatch-mega-menu" title="Admatch-mega-menu" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/banners/PD-mega-menu.jpg" alt="PD mega menu" title="PD-mega-menu" class="responsive-shrink">
                             </div>
                             
 
@@ -1275,7 +1314,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-two">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/FD16167-02_Coupon_Mega.jpg" alt="FD16167-02_Coupon_Mega" title="FD16167-02_Coupon_Mega" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/Product-category/EDLP-Hero.jpg" alt="EDLP Hero" title="EDLP-Hero" class="responsive-shrink">
                             </div>
                             
 
@@ -1290,7 +1329,82 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-three">
-                                
+                                <img src="/content/dam/familydollar/Product-category/Sale-Hero.jpg" alt="Sale Hero" title="Sale-Hero" class="responsive-shrink">
+                            </div>
+                            
+
+                            
+                            
+                            <div class="cbp-hrsub-four">
+                                <ul>
+                                    
+                                    <li>
+                                        <a href="/deals/compare-and-save/baby-essential">
+                                            Baby Essentials
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/compare-and-save/food">
+                                            Great Food Choices
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/compare-and-save/health-wellness-essential">
+                                            Health &amp; Wellness Essentials
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/compare-and-save/household-basic">
+                                            Household Basics
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/deals/compare-and-save/pet-care">
+                                            Pet Care
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div>
+                            
+
+                            
+                            <div class="menuPromoImage cbp-hrsub-four">
+                                <img src="/content/dam/familydollar/Product-category/compare-Hero.jpg" alt="compare Hero" title="compare-Hero" class="responsive-shrink">
+                            </div>
+                            
+
+                            
+                            
+                            <div class="cbp-hrsub-five">
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                            
+
+                            
+                            <div class="menuPromoImage cbp-hrsub-five">
+                                <img src="/content/dam/familydollar/Product-category/WOW-Hero.jpg" alt="WOW Hero" title="WOW-Hero" class="responsive-shrink">
+                            </div>
+                            
+
+                            
+                            
+                            <div class="cbp-hrsub-six">
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                            
+
+                            
+                            <div class="menuPromoImage cbp-hrsub-six">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/FD16167-02_Coupon_Mega.jpg" alt="FD16167 02 Coupon Mega" title="FD16167-02_Coupon_Mega" class="responsive-shrink">
                             </div>
                             
                             
@@ -1312,16 +1426,10 @@
                             <div>
                                 
                                 
-                                <a class="sidebarLink" href="/whats-new/back-to-school"><h4 style="color: rgb(255, 255, 255); background:transparent url('/etc/designs/familydollar/clientlibs/img/mega-nav-highlight.jpg') no-repeat left center;">Back to School
+                                <a class="sidebarLink" href="/whats-new/fabulous"><h4 style="color: rgb(255, 255, 255); background:transparent url('/etc/designs/familydollar/clientlibs/img/mega-nav-highlight.jpg') no-repeat left center;">Fabulous
                                 </h4></a>
                                 
-                                <a class="sidebarLink" href="/whats-new/summer"><h4>Summer
-                                </h4></a>
-                                
-                                <a class="sidebarLink" href="/whats-new/fabulous"><h4>Fabulous
-                                </h4></a>
-                                
-                                <a class="sidebarLink" href="/whats-new/Sweepstakes"><h4>Sweepstakes
+                                <a class="sidebarLink" href="/whats-new/cleaning"><h4>Spring Cleaning
                                 </h4></a>
                                 
                                 <a class="sidebarLink" href="/whats-new/lawn-garden"><h4>Lawn &amp; Garden
@@ -1330,14 +1438,17 @@
                                 <a class="sidebarLink" href="/whats-new/game-day"><h4>Game Day
                                 </h4></a>
                                 
-                                <a class="sidebarLink" href="/whats-new/halloween"><h4>Halloween
+                                <a class="sidebarLink" href="/whats-new/health-wellness"><h4>Health &amp; Wellness
+                                </h4></a>
+                                
+                                <a class="sidebarLink" href="/whats-new/pets"><h4>Pets
                                 </h4></a>
                                 
                                 
                             </div>
                             
-                            <div class="menuPromoImage cbp-hrsub-main" style="display: block;">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Summer-mega-menu.jpg" alt="Summer-mega-menu" title="Summer-mega-menu" class="responsive-shrink">
+                            <div class="menuPromoImage cbp-hrsub-main">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Summer-mega-menu.jpg" alt="Summer mega menu" title="Summer-mega-menu" class="responsive-shrink">
                             </div>
 
                             
@@ -1348,38 +1459,8 @@
                                 <ul>
                                     
                                     <li>
-                                        <a href="/whats-new/back-to-school">
-                                            Back To School
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/whats-new/school-supply-list">
-                                            School Supply List
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/back-to-school-products">
-                                            School Supplies
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/household-products/cleaning-essentials">
-                                            Cleaning Essentials
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/food-and-beverages/breakfasts-snacks">
-                                            Breakfasts &amp; Snacks
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/whats-new/back-to-school/feeding-america">
-                                            Feeding America
+                                        <a href="/whats-new/fabulous/about">
+                                            Videos
                                         </a>
                                     </li>
                                     
@@ -1389,7 +1470,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-one">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/BTS-MegaNav.jpg" alt="BTS-MegaNav" title="BTS-MegaNav" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Fabulous-mega-menu.jpg" alt="Fabulous mega menu" title="Fabulous-mega-menu" class="responsive-shrink">
                             </div>
                             
 
@@ -1398,43 +1479,13 @@
                             <div class="cbp-hrsub-two">
                                 <ul>
                                     
-                                    <li>
-                                        <a href="/whats-new/summer">
-                                            Summer
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/grilling">
-                                            Grilling
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/celebration">
-                                            Celebration
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/cool-down">
-                                            Cool Down
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/backyard-and-patio">
-                                            Backyard &amp; Patio
-                                        </a>
-                                    </li>
-                                    
                                 </ul>
                             </div>
                             
 
                             
                             <div class="menuPromoImage cbp-hrsub-two">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Summer-MegaNav.jpg" alt="Summer-MegaNav" title="Summer-MegaNav" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/spring_menu_800x360.jpg" alt="spring menu 800x360" title="spring_menu_800x360" class="responsive-shrink">
                             </div>
                             
 
@@ -1443,37 +1494,13 @@
                             <div class="cbp-hrsub-three">
                                 <ul>
                                     
-                                    <li>
-                                        <a href="/whats-new/fabulous/show-of-your-selfie-contest">
-                                            Show Off Your Selfie Contest
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/whats-new/fabulous/about">
-                                            Videos
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/whats-new/fabulous/bloggers">
-                                            Styling Tips
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/whats-new/fabulous/beauty">
-                                            Products
-                                        </a>
-                                    </li>
-                                    
                                 </ul>
                             </div>
                             
 
                             
                             <div class="menuPromoImage cbp-hrsub-three">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Fabulous-mega-menu.jpg" alt="Fabulous-mega-menu" title="Fabulous-mega-menu" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Outdoor-MegaNav.jpg" alt="Outdoor MegaNav" title="Outdoor-MegaNav" class="responsive-shrink">
                             </div>
                             
 
@@ -1482,19 +1509,13 @@
                             <div class="cbp-hrsub-four">
                                 <ul>
                                     
-                                    <li>
-                                        <a href="/whats-new/Sweepstakes/just-add-family">
-                                            Just Add Family
-                                        </a>
-                                    </li>
-                                    
                                 </ul>
                             </div>
                             
 
                             
                             <div class="menuPromoImage cbp-hrsub-four">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Sweeps-MegaNav.jpg" alt="Sweeps-MegaNav" title="Sweeps-MegaNav" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/game_menu_800x360.jpg" alt="game menu 800x360" title="game_menu_800x360" class="responsive-shrink">
                             </div>
                             
 
@@ -1509,7 +1530,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-five">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Outdoor-MegaNav.jpg" alt="Outdoor-MegaNav" title="Outdoor-MegaNav" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/healthandwellness-megamenu.png" alt="healthandwellness megamenu" title="healthandwellness-megamenu" class="responsive-shrink">
                             </div>
                             
 
@@ -1518,28 +1539,25 @@
                             <div class="cbp-hrsub-six">
                                 <ul>
                                     
-                                </ul>
-                            </div>
-                            
-
-                            
-                            <div class="menuPromoImage cbp-hrsub-six">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Gameday-MegaNav.jpg" alt="Gameday-MegaNav" title="Gameday-MegaNav" class="responsive-shrink">
-                            </div>
-                            
-
-                            
-                            
-                            <div class="cbp-hrsub-seven">
-                                <ul>
+                                    <li>
+                                        <a href="/whats-new/pets/pet-pros">
+                                            Pet Pros
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/whats-new/pets/tips-tricks">
+                                            Tips &amp; Tricks
+                                        </a>
+                                    </li>
                                     
                                 </ul>
                             </div>
                             
 
                             
-                            <div class="menuPromoImage cbp-hrsub-seven">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/halloween-MegaNav.jpg" alt="halloween-MegaNav" title="halloween-MegaNav" class="responsive-shrink">
+                            <div class="menuPromoImage cbp-hrsub-six">
+                                
                             </div>
                             
                             
@@ -1570,8 +1588,8 @@
                                 
                             </div>
                             
-                            <div class="menuPromoImage cbp-hrsub-main" style="display: block;">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Products-mega-menu.jpg" alt="Products-mega-menu" title="Products-mega-menu" class="responsive-shrink">
+                            <div class="menuPromoImage cbp-hrsub-main">
+                                <img src="/etc/designs/default/0.gif" alt="0" title="" class="responsive-shrink cq-image-placeholder">
                             </div>
 
                             
@@ -1582,68 +1600,8 @@
                                 <ul>
                                     
                                     <li>
-                                        <a href="/products-services/products/back-to-school-products">
-                                            School Supplies
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/household-products/cleaning-essentials">
-                                            Cleaning Essentials
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/food-and-beverages/breakfasts-snacks">
-                                            Breakfasts &amp; Snacks
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/summer">
-                                            Summer
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/grilling">
-                                            Grilling
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/celebration">
-                                            Celebration
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/cool-down">
-                                            Cool Down
-                                        </a>
-                                    </li>
-                                    </ul><ul>
-                                    <li>
-                                        <a href="/products-services/products/backyard-and-patio">
-                                            Backyard &amp; Patio
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/food-and-beverages">
-                                            Food &amp; Beverages
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/pet-supplies">
-                                            Pet Supplies
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/household-products">
-                                            Household Products
+                                        <a href="/products-services/products/automotive">
+                                            Automotive
                                         </a>
                                     </li>
                                     
@@ -1654,20 +1612,20 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/products-services/products/family-apparel">
-                                            Family Apparel
+                                        <a href="/products-services/products/celebration">
+                                            Celebration
                                         </a>
                                     </li>
                                     
                                     <li>
-                                        <a href="/products-services/products/health-and-wellness">
-                                            Health &amp; Wellness
+                                        <a href="/products-services/products/household-products/cleaning-essentials">
+                                            Cleaning Essentials
                                         </a>
                                     </li>
-                                    </ul><ul>
+                                    
                                     <li>
-                                        <a href="/products-services/products/personal-care-and-beauty">
-                                            Personal Care &amp; Beauty
+                                        <a href="/products-services/products/easter">
+                                            Easter
                                         </a>
                                     </li>
                                     
@@ -1678,8 +1636,26 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/products-services/products/automotive">
-                                            Automotive
+                                        <a href="/products-services/products/family-apparel">
+                                            Family Apparel
+                                        </a>
+                                    </li>
+                                    </ul><ul>
+                                    <li>
+                                        <a href="/products-services/products/food-and-beverages">
+                                            Food &amp; Beverages
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/gift-cards">
+                                            Gift Cards
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/halloween-candy">
+                                            Halloween Candy
                                         </a>
                                     </li>
                                     
@@ -1690,8 +1666,74 @@
                                     </li>
                                     
                                     <li>
+                                        <a href="/products-services/products/health-and-wellness">
+                                            Health &amp; Wellness
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/holiday-decor">
+                                            Holiday Decor
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/holiday-gift-wrap">
+                                            Holiday Gift Wrap
+                                        </a>
+                                    </li>
+                                    </ul><ul>
+                                    <li>
+                                        <a href="/products-services/products/holiday-gifting">
+                                            Holiday Gifting
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
                                         <a href="/products-services/products/home-decor">
                                             Home Décor
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/household-products">
+                                            Household Products
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/electronics?tag=electronics/wireless/phones">
+                                            Mobile Phones
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/outdoor">
+                                            Outdoor
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/personal-care-and-beauty">
+                                            Personal Care &amp; Beauty
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/pet-supplies">
+                                            Pet Supplies
+                                        </a>
+                                    </li>
+                                    </ul><ul>
+                                    <li>
+                                        <a href="/products-services/products/back-to-school-products">
+                                            School Supplies
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/products-services/products/thanksgiving">
+                                            Thanksgiving
                                         </a>
                                     </li>
                                     
@@ -1702,20 +1744,8 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/products-services/products/gift-cards">
-                                            Gift Cards
-                                        </a>
-                                    </li>
-                                    </ul><ul>
-                                    <li>
-                                        <a href="/products-services/products/outdoor">
-                                            Outdoor
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/products-services/products/electronics?tag=electronics/wireless/phones">
-                                            Mobile Phones
+                                        <a href="/products-services/products/valentines-day">
+                                            Valentine's Day
                                         </a>
                                     </li>
                                     
@@ -1740,7 +1770,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-two">
-                                <img src="/content/dam/familydollar/megamenu-promo-ads/Products-mega-menu.jpg" alt="Products-mega-menu" title="Products-mega-menu" class="responsive-shrink">
+                                <img src="/content/dam/familydollar/megamenu-promo-ads/Products-mega-menu.jpg" alt="Products mega menu" title="Products-mega-menu" class="responsive-shrink">
                             </div>
                             
                             
@@ -1771,8 +1801,8 @@
                                 
                             </div>
                             
-                            <div class="menuPromoImage cbp-hrsub-main" style="display: block;">
-                                
+                            <div class="menuPromoImage cbp-hrsub-main">
+                                <img src="/etc/designs/default/0.gif" alt="0" title="" class="responsive-shrink cq-image-placeholder">
                             </div>
 
                             
@@ -1795,8 +1825,20 @@
                                     </li>
                                     
                                     <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/birthday">
+                                            Birthday Recipes
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
                                         <a href="/ideas-inspiration/recipes/recipe-filters#breakfast">
                                             Breakfast Recipes
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/celebration">
+                                            Celebration Recipes
                                         </a>
                                     </li>
                                     
@@ -1811,10 +1853,28 @@
                                             Dinner Recipes
                                         </a>
                                     </li>
-                                    
+                                    </ul><ul>
                                     <li>
                                         <a href="/ideas-inspiration/recipes/recipe-filters#drinks">
                                             Drinks Recipes
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#easter">
+                                            Easter
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/fall-back-to-school">
+                                            Fall / Back to School
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/game-day">
+                                            Game Day
                                         </a>
                                     </li>
                                     
@@ -1823,7 +1883,25 @@
                                             Grilling Recipes
                                         </a>
                                     </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#halloween">
+                                            Halloween
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#holidays">
+                                            Holiday Recipes
+                                        </a>
+                                    </li>
                                     </ul><ul>
+                                    <li>
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions">
+                                            Occasions
+                                        </a>
+                                    </li>
+                                    
                                     <li>
                                         <a href="/ideas-inspiration/recipes/recipe-filters#sides">
                                             Side Recipes
@@ -1837,61 +1915,19 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/birthday">
-                                            Birthday Recipes
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/celebration">
-                                            Celebration Recipes
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions">
-                                            Occasions
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#holidays/easter">
-                                            Easter
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/fall-back-to-school">
-                                            Fall / Back to School
-                                        </a>
-                                    </li>
-                                    </ul><ul>
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/game-day">
-                                            Game Day
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#holidays/halloween">
-                                            Halloween
-                                        </a>
-                                    </li>
-                                    
-                                    <li>
                                         <a href="/ideas-inspiration/recipes/recipe-filters#ocassions/summer">
                                             Summer
                                         </a>
                                     </li>
                                     
                                     <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#holidays/thanksgiving">
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#thanksgiving">
                                             Thanksgiving
                                         </a>
                                     </li>
                                     
                                     <li>
-                                        <a href="/ideas-inspiration/recipes/recipe-filters#holidays/valentines-day">
+                                        <a href="/ideas-inspiration/recipes/recipe-filters#valentines-day">
                                             Valentine's Day
                                         </a>
                                     </li>
@@ -1902,7 +1938,7 @@
 
                             
                             <div class="menuPromoImage cbp-hrsub-one">
-                                
+                                <img src="/etc/designs/default/0.gif" alt="0" title="" class="responsive-shrink cq-image-placeholder">
                             </div>
                             
 
@@ -1914,6 +1950,12 @@
                                     <li>
                                         <a href="/ideas-inspiration/topics/baby-care">
                                             Baby Care
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/topics/blog-recipes">
+                                            Blog Recipes
                                         </a>
                                     </li>
                                     
@@ -1936,8 +1978,8 @@
                                     </li>
                                     
                                     <li>
-                                        <a href="/ideas-inspiration/topics/blog-recipes">
-                                            Blog Recipes
+                                        <a href="/ideas-inspiration/topics/halloween">
+                                            Halloween
                                         </a>
                                     </li>
                                     
@@ -1946,13 +1988,19 @@
                                             Health &amp; Beauty
                                         </a>
                                     </li>
+                                    </ul><ul>
+                                    <li>
+                                        <a href="/ideas-inspiration/topics/holiday">
+                                            Holiday
+                                        </a>
+                                    </li>
                                     
                                     <li>
                                         <a href="/ideas-inspiration/topics/home-decor">
                                             Home Décor
                                         </a>
                                     </li>
-                                    </ul><ul>
+                                    
                                     <li>
                                         <a href="/ideas-inspiration/topics/household">
                                             Household
@@ -1968,6 +2016,13 @@
                                     <li>
                                         <a href="/ideas-inspiration/topics/seasonal">
                                             Seasonal
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="/ideas-inspiration/topics/thanksgiving">
+                                            Thanksgiving
+
                                         </a>
                                     </li>
                                     
@@ -2007,66 +2062,299 @@
             
 
 
-            <div class="">
+            <div class="not-loggedin">
                 <div class="originalHeader">
-                    <a href="#my-menu" class="hamburger black" id="my-menu">Menu</a><div class="mobileHdrLogo"><a href="/"><img class="mobileHdrLogoImg" src="/etc/designs/familydollar/clientlibs/img/fd-logo.png" width="220px" alt="fd-logo"></a></div>
-                    <div class="mobile-icons-wrapper hidden-print">
-                        <div class="mobile-noti-icon hidden-xs hidden-sm">
-                            <img class="mobile-noti-image" src="/etc/designs/familydollar/clientlibs/img/icon-cart.png" alt="cart-icon" width="28px">
-                            <div class="mobile-noti-bubble">12</div>
+                    
+                    <a href="#my-menu" class="hamburger black" id="my-menu">Menu</a><div class="mobileHdrLogo"><a href="/"><img class="mobileHdrLogoImg" alt="Family Dollar Logo" src="/etc/designs/familydollar/clientlibs/img/fd-logo.png" width="220px"></a></div>
+                    <div class="right sc-block-account sc-mobile ">
+                        <!--- <div class="left">
+                            <a href="/deals/smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile.png" width="16" alt="Icon mobile image"></a>
+                        </div>--->
+                        <!--<div class="sc-title not-loggedin-status">
+                            <a href="/login">Login</a>
+                        </div>-->
+                        <div class="loggedin-status">
+                            <div class="left">
+                                <a href="/deals//smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile.png" alt="Icon mobile image" width="16"></a>
+                            </div>
+                            <div class="top-profile-dropdown">
+                                      <div class="dropdown">
+                                        <button class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="firstname">Hi, Anna B</span>
+                                        
+                                        <span class="caret"></span></button>
+                                        <ul class="dropdown-menu">
+                                          <li><a href="/deals//smart-coupons">My Smart Coupons</a></li>
+                                          <li><a href="/edit-profile">Edit Profile</a></li>
+                                          <li><a href="#" data-sclogout="">Sign Out</a></li>
+                                        </ul>
+                                      </div>
+                                </div>
                         </div>
-                        <div class="mobile-noti-icon hidden-xs hidden-sm">
-                            <img src="/etc/designs/familydollar/clientlibs/img/icon-faves.png" alt="faves-icon" width="28px" class="mobile-noti-image">
-                            <div class="mobile-noti-bubble">9</div>
+                        <div class="sc-location">
+                            <a href="/bin/familydollar/servlets/storeSearch"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-location.png" alt="Location Icon" width="25"></a>
                         </div>
-
-                        <div class="mobile-noti-icon">
-                            <a href="/bin/familydollar/servlets/storeSearch">
-                                <img src="/etc/designs/familydollar/clientlibs/img/icon-location.png" alt="location-icon" width="28px">
-                            </a>
-                        </div>
-
                     </div>
-                    <div class="wrapSearch left hidden-print">
+
+                    <div class="right sc-block-account sc-tablet hidden">
+                        <div class="left">
+                            <a href="/deals//smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile-tablet.png" alt="Tablet Icon" width="100"></a>
+                        </div>
+
+
+
+
+                       <div class="sc-title not-loggedin-status">
+                            <div class="top-profile-dropdown">
+                                      <div class="dropdown">
+                                        <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                                        <span class="firstname">Hi, Anna B</span>
+                                           
+
+                                        <span class="caret"></span></button>
+                                        <ul class="dropdown-menu">
+                                          <li><a href="/deals//smart-coupons">My Smart Coupons</a></li>
+                                          <li><a href="/edit-profile">Edit Profile</a></li>
+                                          <li><a href="#" data-sclogout="">Sign Out</a></li>
+                                        </ul>
+                                      </div>
+                            <a href="/bin/familydollar/servlets/storeSearch"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-location.png" width="25" alt="Location icon"></a>
+                                </div>
+                        </div>
+
+
+
+
+                        <div class="sc-title loggedin-status">
+                            <a href="#">My Smart <span>Coupons</span></a>
+                        </div>
+
+
+
+
+                        <div class="sc-location">
+                            <a href="/bin/familydollar/servlets/storeSearch"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-location-desktop.png" width="35" alt="Location icon for desktop"></a>
+                        </div>
+                    </div>
+
+                    <div class="wrapSearch left">
                         <form action="/bin/familydollar/servlets/fdsitesearch" method="GET" class="relative">
                             <input type="submit" class="desktopSearch-submit" value="">
                             <input name="q" type="text" for="mobileSearch" id="mobileSearch" class="mobileSearch left" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
                         </form>
                     </div>
+
                 </div>
                 <div class="header mobileSticky hidden-print">
                     <div class="wrapper">
-                        
-                        <a href="#my-menu" class="hamburger white" id="my-menu">Menu</a>
+                        <div class="row">
+                            <div class="col-xs-4 col-sm-4 col-md-4" id="sc-first-frame">
+                                 <a href="#my-menu" class="hamburger white" id="my-menu">Menu</a>
 
-                        <div class="mobileHdrLogo"><a href="/"><img class="mobileHdrLogoImg" src="/etc/designs/familydollar/clientlibs/img/fd-emblem.png" width="36px" alt="fd-emblem"></a></div>
-                        <ul class="inline right">
-                            <li class="inline hidden-sm hidden-xs">
-                                <a href="#"><img src="/etc/designs/familydollar/clientlibs/img/icon-list-maroon.png" width="48px" alt="icon-list-maroon"></a>
-
-                                <div class="count inline fs9">2</div>
-                            </li>
-                            <li class="inline hidden-sm hidden-xs">
-                                <a href=""><img src="/etc/designs/familydollar/clientlibs/img/icon-cart-maroon.png" width="48px" alt="icon-cart-maroon"></a>
-
-                                <div class="count inline fs9">8</div>
-                            </li>
-                            <li class="inline hidden-sm hidden-xs">
-                                <a href=""><img src="/etc/designs/familydollar/clientlibs/img/icon-faves-maroon.png" width="48px" alt="icon-faves-maroon"></a>
-
-                                <div class="count inline fs9">1</div>
-                            </li>
-
-                            <li class="inline">
-                                <a href="/bin/familydollar/servlets/storeSearch">
-                                    <img src="/etc/designs/familydollar/clientlibs/img/icon-location-maroon.png" width="44px" alt="icon-location-maroon">
+                                <div class="mobileHdrLogo">
+                                    <a href="/"><img class="mobileHdrLogoImg" src="/etc/designs/familydollar/clientlibs/img/fd-emblem.png" alt="Family Dollar Emblem" width="36px"></a>
+                                </div>
+                            </div>
+                            <!---<div class="not-loggedin">
+                                <div class="col-xs-4 col-sm-4 col-md-4 loggedin-status" id="sc-logo-frame">
+                                    <a href="/deals/smart-coupons"><img  width="140" src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile-tablet.png alt="Tablet mobile icon"></a>
+                                </div>
+                            </div>--->
+                            <div class="col-xs-4 col-sm-4 col-md-4" id="sc-search-frame">
+                                <a href="#" data-sclogout="" class="sc-location loggedin-status" id="sc-logout-mb">
+                                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/logout.png" width="32" alt="smart coupon logout">
                                 </a>
-                            </li>
+                                <form action="/bin/familydollar/servlets/fdsitesearch" method="GET">
+                                    <button type="submit" class="sc-search"><img width="32" src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-search.png" alt="Search icon"></button>
+                                    <input name="q" maxlength="150" type="text" for="desktopSearch" id="desktopSearch" class="desktopSearch left" placeholder="Search" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search'">
+                                </form>
 
-                            <li class="inline">
-                                <a href=""><img src="/etc/designs/familydollar/clientlibs/img/icon-search.png" width="44px" alt="icon-search"></a>
-                            </li>
-                        </ul>
+
+                                <div class="loggedin-status ">
+                                <a href="/deals/smart-coupons"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-mobile.png" width="16" alt="Icon mobile image" class="icon-mobile"></a>
+                                  <div class="dropdown">
+                                        <button class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="firstname">Hi, Anna B</span>
+                                        
+                                        <span class="caret"></span></button>
+                                        <ul class="dropdown-menu">
+                                          <li><a href="/deals/smart-coupons">My Smart Coupons</a></li>
+                                          <li><a href="/edit-profile">Edit Profile</a></li>
+                                          <li><a href="#" data-sclogout="">Sign Out</a></li>
+                                        </ul>
+                                      </div>
+                                </div>
+
+
+
+
+
+
+                                <a href="/bin/familydollar/servlets/storeSearch" class="sc-location"><img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-location-sticky.png" width="32" alt="Smart coupon location image"></a>
+                            </div>
+
+                        </div>
+
+
+
+
+
+
+
+                        <div class="row" id="sc-sticky-search" style="display:none;">
+                            <div class="row sc-st-search">
+                                <form action="#">
+                                    <input type="text" name="txtSearch" placeholder="Search Keywords">
+                                    <a href="#">
+                                        <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-search-stick.png" width="28" alt="Smart coupon search icon">
+                                    </a>
+                                </form>
+                            </div>
+                            <div class="row sc-st-user">
+                                <div class="col-xs-7 col-sm-7 col-md-7 text-left">
+                          <span class="sc-dial">
+                            <a href="javascript:void(0);" data-toggle="popover" data-placement="bottom" data-content="
+                              <div id='sc-dial-popup'>
+                                <div class='sc-dlp-content'>
+                                  <div class='sc-dlp-wrap'>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-1' checked='checked'>
+                                        <label for='cb-1'>
+                                          All digital coupons
+                                          <span>52</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-2'>
+                                        <label for='cb-2'>
+                                          Baking
+                                          <span>2</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-3'>
+                                        <label for='cb-3'>
+                                          Beverage
+                                          <span>3</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-4'>
+                                        <label for='cb-4'>
+                                          Breakfast and Cereal
+                                          <span>3</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-5'>
+                                        <label for='cb-5'>
+                                          Canned goods &amp; soup
+                                          <span>5</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-6'>
+                                        <label for='cb-6'>
+                                          Dairy
+                                          <span>6</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-7'>
+                                        <label for='cb-7'>
+                                          Candy
+                                          <span>10</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                    <div class='row'>
+                                      <div class='sc-checkbox'>
+                                        <input type='checkbox' id='cb-8'>
+                                        <label for='cb-8'>
+                                          Food
+                                          <span>12</span>
+                                        </label>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              " data-original-title="" title="">
+                                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-dial.png" width="25" alt="Smart coupon dial icon">
+                                <span>Categories</span>
+                            </a>
+                          </span>
+                          <span class="sc-personalize">
+                            <a href="javascript:void(0);" data-toggle="popover" data-placement="bottom" data-content="
+                              <div id='sc-personal-popup'>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio1' class='css-checkbox' checked='checked' />
+                                  <label for='radio1' class='css-label radGroup1'>Personalized</label>
+                                </div>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio2' class='css-checkbox'/>
+                                  <label for='radio2' class='css-label radGroup1'>Newest</label>
+                                </div>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio3' class='css-checkbox'/>
+                                  <label for='radio3' class='css-label radGroup1'>Expiring</label>
+                                </div>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio4' class='css-checkbox'/>
+                                  <label for='radio4' class='css-label radGroup1'>Popular</label>
+                                </div>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio5' class='css-checkbox'/>
+                                  <label for='radio5' class='css-label radGroup1'>Brand</label>
+                                </div>
+                                <div class='row'>
+                                  <input type='radio' name='radio-set' id='radio6' class='css-checkbox'/>
+                                  <label for='radio6' class='css-label radGroup1'>Value</label>
+                                </div>
+                              </div>
+                              " data-original-title="" title="">
+                                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-arrow-chart.png" width="25" alt="smart coupon arrow chart icon">
+                                <span>Personalized</span>
+                            </a>
+                          </span>
+                                </div>
+                                <div class="col-xs-5 col-sm-5 col-md-5 text-right">
+                          <span class="sc-notifi">
+                            <a href="javascript:void(0);">
+                                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-notifi.png" width="25" alt="smart coupon notification icon">
+                                <span>$6.00</span>
+                                <span class="sc-notifi-number">2</span>
+                            </a>
+                          </span>
+                          <span class="sc-account">
+                            <a href="javascript:void(0);" data-toggle="popover" data-placement="bottom" data-content="
+                              <div id='sc-account-popup'>
+                                <ul>
+                                  <li><a href='#'>My profile</a></li>
+                                  <li><a href='#'>My saving</a></li>
+                                  <li><a href='#'>Change password</a></li>
+                                  <li><a href='#'>Coupon shopping list</a></li>
+                                  <li><a href='#'>Sign out</a></li>
+                                </ul>
+                              </div>
+                              " data-original-title="" title="">
+                                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/icon-stick-account.png" width="25" alt="smart coupon stick icon">
+                            </a>
+                          </span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -2094,6 +2382,7 @@
 <div class="legal-main-content">
     <div class="logo-top row">
         <div class="parbase legalLogo">
+
 
 
 
@@ -2286,7 +2575,7 @@
         <div class="social-section">
             <div class="row">
 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="sign-up-email-alerts">
                         <div class="smsEmailAlerts email-alerts-par">
 
@@ -2309,19 +2598,19 @@
 <h5>SIGN up FOR EMAIL ALERTS</h5>
 
 
-<form id="signUpForm903e164e-99fa-49f6-be4e-88d0c6f81f70" action="/products-services/services/email-subscription" novalidate="novalidate">
+<form id="signUpFormeefed954-cb1e-4c1e-87e5-5c2d4c939ab2" action="/products-services/services/email-subscription" novalidate="novalidate">
     <input type="email" class="" name="subscriptionemail" placeholder="Enter your email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your email address'" id="email" required="true" aria-required="true">
     <input type="submit" value="gO" class="button inline">
-    <span class="sign-up-errors" id="errors903e164e-99fa-49f6-be4e-88d0c6f81f70"></span>
+    <span class="sign-up-errors" id="errorseefed954-cb1e-4c1e-87e5-5c2d4c939ab2"></span>
 </form>
 
 <script>
     $(document).ready(function () {
-        $("#signUpForm903e164e-99fa-49f6-be4e-88d0c6f81f70").validate({
+        $("#signUpFormeefed954-cb1e-4c1e-87e5-5c2d4c939ab2").validate({
             errorElement: "span",
             //place all errors in a <div id="errors"> element
             errorPlacement: function(error, element) {
-                error.appendTo("span#errors903e164e-99fa-49f6-be4e-88d0c6f81f70");
+                error.appendTo("span#errorseefed954-cb1e-4c1e-87e5-5c2d4c939ab2");
             },
             rules: {
                 "tel": {
@@ -2351,73 +2640,14 @@
                     </div>
                 </div>
 
-                <div class="col-md-4">
-                    <div class="sign-up-sms-alerts">
-                        <div class="smsEmailAlerts sms-alerts-par">
-
-
-
-
-
-
-
-
-
-
-
-<script>
-    var isEdit = 'false';
-</script>
-
-
-
-<h5>send ME sms alerts</h5>
-
-
-<form id="signUpForme86ace9e-eb44-49ee-98a4-70fc81eb347a" action="/products-services/services/email-subscription" novalidate="novalidate">
-    <input type="tel" class="" name="tel" placeholder="Enter your mobile number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your mobile number'" id="tel" required="true" aria-required="true">
-    <input type="submit" value="GO" class="button inline">
-    <span class="sign-up-errors" id="errorse86ace9e-eb44-49ee-98a4-70fc81eb347a"></span>
-</form>
-
-<script>
-    $(document).ready(function () {
-        $("#signUpForme86ace9e-eb44-49ee-98a4-70fc81eb347a").validate({
-            errorElement: "span",
-            //place all errors in a <div id="errors"> element
-            errorPlacement: function(error, element) {
-                error.appendTo("span#errorse86ace9e-eb44-49ee-98a4-70fc81eb347a");
-            },
-            rules: {
-                "tel": {
-                    required: true,
-                    number: true
-                },
-                "email":{
-                    required: true,
-                    email: true
-                }
-            },
-            messages: {
-                "tel": {
-                    required: "",
-                    number : "Phone is not valid"
-                },
-                "email":{
-                    required: "",
-                    email : "Email is not valid"
-                }
-            }
-        });
-
-    });
-</script></div>
-
-                    </div>
-                </div>
+                
+                    
+                        
+                    
+                
                 <hr class="send-sms-hr">
 
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="parbase social-icons-par footerSocial">    
 
 
@@ -2443,13 +2673,13 @@
     <ul class="icons pl0 inline">
         <li class="mobileIcons inline">
             
-            <a href="https://www.facebook.com/familydollar" target="_blank"> <img alt="follow us on facebook" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-facebook.png"></a>
+            <a href="https://www.facebook.com/familydollar" target="_blank" title="link opens in new window" class="externalLink"> <img alt="follow us on facebook" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-facebook.png"></a>
             
-            <a href="https://twitter.com/myfamilydollar" target="_blank"> <img alt="follow us on twitter" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-twitter.png"></a>
+            <a href="https://twitter.com/myfamilydollar" target="_blank" title="link opens in new window" class="externalLink"> <img alt="follow us on twitter" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-twitter.png"></a>
             
-            <a href="https://www.youtube.com/user/TheFamilyDollar" target="_blank"> <img alt="follow us on youtube" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-youtube.png"></a>
+            <a href="https://www.youtube.com/user/TheFamilyDollar" target="_blank" title="link opens in new window" class="externalLink"> <img alt="follow us on youtube" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-youtube.png"></a>
             
-            <a href="https://www.pinterest.com/familydollar/" target="_blank"> <img alt="follow us on pinterest" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-pinterest.png"></a>
+            <a href="https://www.pinterest.com/familydollar/" target="_blank" title="link opens in new window" class="externalLink"> <img alt="follow us on pinterest" src="/etc/designs/familydollar/clientlibs/img/social-icons/icon-pinterest.png"></a>
             
         </li>
     </ul>
@@ -2492,13 +2722,13 @@
 
 <h5 class="bold hidden-sm-inline hidden-xs-inline desktop">FAMILY DOLLAR STORES<sup>®</sup>
 </h5>
-<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-54">
+<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-131">
     FAMILY DOLLAR STORES<sup>®</sup>
     <i class="icon-up-dir visible-sm-inline visible-xs-inline"></i>
 </h5>
 
 
-<ul id="footer-section-54" class="collapse">
+<ul id="footer-section-131" class="collapse">
     
     <li><a href="/weekly-ads">Weekly Ads</a></li>
     
@@ -2538,31 +2768,31 @@
 
 <h5 class="bold hidden-sm-inline hidden-xs-inline desktop">ABOUT FAMILY DOLLAR<sup>®</sup>
 </h5>
-<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-176">
+<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-170">
     ABOUT FAMILY DOLLAR<sup>®</sup>
     <i class="icon-up-dir visible-sm-inline visible-xs-inline"></i>
 </h5>
 
 
-<ul id="footer-section-176" class="collapse">
+<ul id="footer-section-170" class="collapse">
     
-    <li><a href="http://corporate.familydollar.com/pages/default.aspx" target="_blank">Our Company</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/default.aspx" target="_blank" title="link opens in new window">Our Company</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/careers.aspx" target="_blank">Careers</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/careers.aspx" target="_blank" title="link opens in new window">Careers</a></li>
     
-    <li><a href="http://www.dollartreeinfo.com/investors/" target="_blank">Investor Relations</a></li>
+    <li><a href="http://www.dollartreeinfo.com/investors/" target="_blank" title="link opens in new window">Investor Relations</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/news.aspx" target="_blank">News Room</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/news.aspx" target="_blank" title="link opens in new window">News Room</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/associates.aspx" target="_blank">Team Members</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/associates.aspx" target="_blank" title="link opens in new window">Associates</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/givingback.aspx" target="_blank">Giving Back</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/givingback.aspx" target="_blank" title="link opens in new window">Giving Back</a></li>
     
-    <li><a href="https://familyhope.e4erelief.org/home/home.aspx" target="_blank">FamilyHOPE</a></li>
+    <li><a href="https://familyhope.e4erelief.org/home/home.aspx" target="_blank" title="link opens in new window">FamilyHOPE</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/businesspartners.aspx" target="_blank">Business Partners</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/businesspartners.aspx" target="_blank" title="link opens in new window">Business Partners</a></li>
     
-    <li><a href="http://familydollar.online-msds.com/" target="_blank">MSDS</a></li>
+    <li><a href="http://familydollar.online-msds.com/" target="_blank" title="link opens in new window">MSDS</a></li>
     
 </ul></div>
 
@@ -2591,23 +2821,21 @@
 
 <h5 class="bold hidden-sm-inline hidden-xs-inline desktop">help
 </h5>
-<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-132">
+<h5 class="bold visible-sm-inline visible-xs-inline mobile collapsed" onclick="" data-toggle="collapse" data-target="#footer-section-236">
     help
     <i class="icon-up-dir visible-sm-inline visible-xs-inline"></i>
 </h5>
 
 
-<ul id="footer-section-132" class="collapse">
+<ul id="footer-section-236" class="collapse">
     
-    <li><a href="http://corporate.familydollar.com/pages/faq.aspx" target="_blank">FAQs</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/faq.aspx" target="_blank" title="link opens in new window">FAQs</a></li>
     
     <li><a href="/legal/Coupon-Policy">Coupon Policy</a></li>
     
     <li><a href="/legal/Return-Policy">Refund Policy</a></li>
     
-    <li><a href="http://corporate.familydollar.com/pages/contactus.aspx" target="_blank">Contact Us</a></li>
-    
-    <li><a href="/legal/CA-Trans-Act">CA Trans. Act</a></li>
+    <li><a href="http://corporate.familydollar.com/pages/contactus.aspx" target="_blank" title="link opens in new window">Contact Us</a></li>
     
     <li><a href="/legal/Product-Recalls">Product Recalls</a></li>
     
@@ -2640,20 +2868,48 @@
 
 
 
-
+<style>
+    .find-a-store .storeAddress{
+        margin-bottom: 10px !important;
+    }
+    .find-a-store .error{
+       color: red; 
+       display: block;
+    }
+</style>
 <div class="find-a-store">
     <hr class="hide-med-screen">
     <h5 class="bold">FIND A STORE
     </h5>
 
-    <p class="pb0 mb0 bold">Enter your location to find a FAMILY DOLLAR<sup>®</sup> store
-    </p>
+    <p class="pb0 mb0 bold">Enter your location to find a FAMILY DOLLAR<sup>®</sup> store</p>
 
-    <form action="/bin/familydollar/servlets/storeSearch">
-        <input type="text" name="address" placeholder="Enter a zip code, city, or state" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter a zip code, city, or state'">
-        <input type="submit" value="Search" class="button inline">
+    <form action="/bin/familydollar/servlets/storeSearch" class="not-loggedin">
+        <div class="col-xs-8 col-sm-8 col-md-8 sc-left">
+            <input type="text" name="address" placeholder="Enter a zip code, city, or state" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter a zip code, city, or state'">
+            <label id="address-error" class="error" for="address"></label>
+        </div>
+        <div class="col-xs-4 col-sm-3 col-md-3 sc-right">
+            <input type="submit" value="Search" class="button inline">
+            <div id="findAStoreloader">
+                <img src="/etc/designs/familydollar/clientlibs/smart-coupon/images/ajax-loader.gif" alt="Ajax loader image">
+            </div>
+        </div>
     </form>
-</div></div>
+</div>
+
+<style>
+#address-error{
+    color: red; 
+    display: block;
+}
+#findAStoreloader{
+    position: relative; 
+    top: -29px; 
+    left: 105px; 
+    display: none;
+}
+</style></div>
 
                 </div>
             </div>
@@ -2681,7 +2937,9 @@
 </script>
 
 
-    <p><a adhocenable="false" href="http://corporate.familydollar.com" target="_blank">FAMILY DOLLAR<sup>®</sup> Corporate</a> &nbsp; | &nbsp; &nbsp;<a alt="Careers" href="http://corporate.familydollar.com/pages/careers.aspx" target="_blank">Careers</a> &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Site Map" href="/sitemap">Site Map</a> &nbsp; &nbsp;| &nbsp; &nbsp;©&nbsp;2015 FAMILY DOLLAR STORES<sup>®</sup>, Inc. &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Terms of Use" href="/legal/Terms-of-Use">Terms</a> &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Privacy Policy" href="/legal/Privacy-Policy">Privacy</a></p>
+    <p><a adhocenable="false" href="http://corporate.familydollar.com" target="_blank" class="externalLink" title="link opens in new window">FAMILY DOLLAR<sup>®</sup> Corporate</a> &nbsp; | &nbsp; &nbsp;<a alt="Careers" href="http://corporate.familydollar.com/pages/careers.aspx" target="_blank" class="externalLink" title="link opens in new window">Careers</a> &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Site Map" href="/sitemap">Site Map</a> &nbsp; &nbsp;| &nbsp; &nbsp;©&nbsp;2016 FAMILY DOLLAR STORES<sup>®</sup>, Inc. &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Terms of Use" href="/legal/Terms-of-Use">Terms</a> &nbsp; &nbsp;| &nbsp; &nbsp;<a alt="Privacy Policy" href="/legal/Privacy-Policy">Privacy</a>&nbsp; &nbsp; | &nbsp; <a alt="California Transparency Act" href="/legal/CA-Trans-Act"><span style="color:#0033a1;">CALIFORNIA TRANSPARENCY ACT&nbsp;</span></a><br>
+</p>
+
 
 </div>
 
@@ -2698,10 +2956,33 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/992960352/?value=0&amp;guid=ON&amp;script=0"/>
+<style>
+ .inlinestyle{
+ 	display:inline;
+ }
+ .imgborder{
+	border-style:none;
+ }
+</style>
+<div class="inlinestyle">
+<img height="1" width="1" class="imgborder" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/992960352/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+        
+
+
+
+
+
+
+
+
+<script>
+    var isEdit = 'false';
+</script>
+
+
 
         <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4fea0878072dc57e" async="async"></script>
         <!-- cmp tracking code-->
@@ -2728,27 +3009,11 @@ var google_remarketing_only = true;
         </script>
         
         <script type="text/javascript">_satellite.pageBottom();</script>
-    </div>
+    </div><div id="loading-overlay">
+        <img src="/etc/designs/familydollar/clientlibs/page/base/footer/images/ajax-loader-all.gif" alt="Ajax loading image">
+    </div></div>
+    
 
 
 
-<script type="application/javascript">
-    $( document ).ready(function() {
-        $("img").each(function(){
-            var alt = $(this).attr("alt");
-            if(alt==null||alt==''){
-                var src = $(this).attr("src");
-                var altValue ='';
-                var srcRen = '';
-                if(src.indexOf('/_jcr_content/renditions/cq5dam')!=-1){
-                    srcRen = src.substring(0,src.indexOf("."));
-                    altValue = srcRen.substring(srcRen.lastIndexOf("/")+1);
-                }else{
-                    altValue = src.substring(src.lastIndexOf("/")+1, src.lastIndexOf("."));
-                }
-                $(this).attr("alt",altValue);
-            }
-        });
-    });
-</script>
 <div id="mm-blocker" class="mm-slideout"></div></body></html>
