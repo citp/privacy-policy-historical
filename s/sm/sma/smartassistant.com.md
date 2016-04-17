@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartassistant.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925103339id_/https%3A//smartassistant.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartassistant.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417223125id_/https%3A//smartassistant.com/legal) for the most accurate reproduction.*
 
-# Legal | SMARTASSISTANT Guided Selling - Product Finder
+# Legal | SMARTASSISTANT - Guided Selling Technology Provider
 
 Smart Information Systems GmbH  
-Graumanngasse 7  
-AT-1150 Vienna 
+Bayerngasse 3/5  
+AT-1030 Vienna 
 
 If you have any questions or concerns about data protection, you are welcome to contact us by email at this address: [office@smartassistant.com](mailto:office@smartassistant.com)
 
