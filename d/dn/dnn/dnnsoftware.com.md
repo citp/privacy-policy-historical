@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dnnsoftware.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914150447id_/http%3A//www.dnnsoftware.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnnsoftware.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417055554id_/http%3A//www.dnnsoftware.com/Privacy) for the most accurate reproduction.*
 
-# Web CMS - Online Community Software | DNN (DotNetNuke)
+# CMS Website Software, Content Management System Software
 
-DNN Software is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DNN Software Web site and governs data collection and usage. By using the DNN Software website, you consent to the data practices described in this statement.
+DNN Software is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the DNN Software site and governs data collection and usage. By using the DNN Software site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
-DNN Software collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. DNN Software also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+DNN Software collects personally identifiable information, such as your email address, name, home or work address or telephone number. DNN Software also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by DNN Software. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by DNN Software for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DNN Software Web site.
+There is also information about your computer hardware and software that is automatically collected by DNN Software. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by DNN Software for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the DNN Software site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through DNN Software public message boards, this information may be collected and used by others. Note: DNN Software does not read any of your private online communications.
 
