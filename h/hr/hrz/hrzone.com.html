@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the hrzone.com privacy policy that was archived on 2015-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151228125627id_/http%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hrzone.com privacy policy that was archived on 2016-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417214907id_/http%3A//www.hrzone.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch csstransforms csstransforms3d csstransitions svg" lang="en" style=""><head><script id="typef_orm" src="https://s3-eu-west-1.amazonaws.com/share.typeform.com/widget.js"></script><script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
   <title>Privacy policy | HRZone</title>
   <link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_iiSTDxjMBxCZajNulrC1CMNWFGxQBxHBu2i4i--yB8Y.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_86ZKhLSEgYNzUk0UabMHLFBeN82gEpw2hI2fU5yTcsA.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_kuLmpbwelmDDffSr_pA095JdA2Dp801DKIKUmkgz1nY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_uFTrzh76ZpkX83YGCdQi9QGT0ZDU9_HDtk3-_zdUNyM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.hrzone.com/sites/default/files/css/css_nDGXa4X3c8kDbaLCqrYUCAmiK0H9a1OKy395lbO2jLU.css" media="all">
   <meta http-equiv="ClearType" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//fonts.googleapis.com/css?family=Lato:400,700,900|Merriweather:400,400italic,700,900" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" href="/sites/all/themes/hrz/favicon.ico">
     <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/hrz/favicon-152.png">
@@ -25,7 +26,9 @@
     <script>
         window.siftMedia = window.siftMedia || {};
         window.siftMedia.debug = 0;
-    </script>    <!-- Begin comScore Tag -->
+    </script><link rel="shortcut icon" href="http://www.hrzone.com/sites/all/themes/hrz/favicon.ico" type="image/vnd.microsoft.icon">
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b7365c3a-ac59-4099-9bdb-2948d7a7aeef" type="text/javascript"></script><meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Begin comScore Tag -->
     <script>
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "19374723" });
@@ -39,10 +42,7 @@
     <img src="http://b.scorecardresearch.com/p?c1=2&c2=19374723&cv=2.0&cj=1" />
     </noscript>
     <!-- End comScore Tag -->
-		    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="b7365c3a-ac59-4099-9bdb-2948d7a7aeef" type="text/javascript"></script><meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="http://www.hrzone.com/sites/all/themes/hrz/favicon.ico" type="image/vnd.microsoft.icon">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta property="sift:targeting" content="[{&quot;key&quot;:&quot;type&quot;,&quot;value&quot;:&quot;Basic page&quot;},{&quot;key&quot;:&quot;topic&quot;,&quot;value&quot;:&quot;&quot;},{&quot;key&quot;:&quot;url&quot;,&quot;value&quot;:&quot;node_17358&quot;},{&quot;key&quot;:&quot;status&quot;,&quot;value&quot;:&quot;live&quot;},{&quot;key&quot;:&quot;homepage&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;key&quot;:&quot;user&quot;,&quot;value&quot;:&quot;out&quot;},{&quot;key&quot;:&quot;CxSegments&quot;,&quot;value&quot;:&quot;&quot;}]">
+		<script src="/sites/all/modules/custom/sm_pp_adblock_detection/js/ads.js"></script><meta charset="utf-8">
     <script>
         // Load GPT
         var googletag = googletag || {};
@@ -62,9 +62,56 @@
     </script>
     <script>
       var outOfPageAd = {
+        addVideoFurniture: function(event) {
+          var adSlot,
+              videoElement,
+              videoToggle;
+
+          // ignore the ad if there's no creative
+          if (event.isEmpty) {
+            return;
+          }
+
+          adSlot = this.getSlot(event);
+
+          videoElement = jQuery(adSlot).find('.ad-inline-video');
+
+          if(videoElement.length === 0) {
+            return;
+          }
+
+          videoToggle = jQuery(videoElement).find('.ad-inline-video__toggle');
+
+          if(videoToggle.length === 0) {
+            return;
+          }
+
+          videoToggle.on('click', function(event) {
+            outOfPageAd.clickVideo(event);
+          });
+        },
+
+        clickVideo: function(event) {
+            var videoToggle = jQuery(event.currentTarget),
+                videoToggleIcon = videoToggle.find('.ad-inline-video__toggle--icon').find('i'),
+                videoToggleText = videoToggle.find('.ad-inline-video__toggle--text'),
+                videoAd = videoToggle.closest('.ad-inline-video'),
+                videoCta = videoAd.find('.ad-inline-video__cta'),
+                videoDetail = videoAd.find('.ad-inline-video__detail');
+
+            videoToggleIcon.toggleClass('fa-close fa-play');
+            videoToggleText.text(function(index, value) {
+              return value === 'Watch' ? 'Close' : 'Watch'
+            })
+
+            videoDetail.slideToggle('fast');
+            videoCta.toggleClass('ad-inline-video__cta--full');
+        },
+
         duplicate: function(event) {
           var adIframe,
             adSlot,
+            duplicatedAd,
             outOfPageWrapper;
 
           // ignore the ad if there's no creative
@@ -80,16 +127,22 @@
           // duplicate the ad content into the page (assume that it's the creative is controlled by the publisher)
           // hide the iframe version
           adSlot = this.getSlot(event);
+
           outOfPageWrapper = this.getAdDocument(adSlot).getElementById('siftmedia-ad-duplicate');
-          if (outOfPageWrapper) {
-            // Duplicate ad is for inline.  We need more understanding of this within the team
-            duplicatedAd = document.createElement('div');
-            duplicatedAd.innerHTML = outOfPageWrapper.innerHTML;
-            adIframe = this.getAdIframe(adSlot);
-            adSlot.insertBefore(duplicatedAd, adIframe.nextSibling);
-            adIframe.style.display = 'none';
+
+          if (!outOfPageWrapper) {
+            return;
           }
+
+          // Duplicate ad is for inline.  We need more understanding of this within the team
+          duplicatedAd = document.createElement('div');
+          duplicatedAd.innerHTML = outOfPageWrapper.innerHTML;
+          adIframe = this.getAdIframe(adSlot);
+          adSlot.insertBefore(duplicatedAd, adIframe.nextSibling);
+          adIframe.style.display = 'none';
         },
+
+
         getAdDocument: function(adSlot) {
           return this.getAdIframe(adSlot).contentWindow.document;
         },
@@ -97,12 +150,19 @@
           var childIndex,
             iframeNode = null;
 
-          // iframe is the first child of the first div element
           for(childIndex = 0; childIndex < adSlot.childNodes.length; childIndex++) {
-            if ('div' === adSlot.childNodes[childIndex].nodeName.toLowerCase()) {
-                iframeNode = adSlot.childNodes[childIndex].childNodes[0];
+            if ('div' !== adSlot.childNodes[childIndex].nodeName.toLowerCase()) {
+              continue;
             }
+
+            if (adSlot.childNodes[childIndex].id.indexOf('google_ads_iframe') !== 0) {
+              continue;
+            }
+
+            iframeNode = adSlot.childNodes[childIndex].childNodes[0];
+            break;
           }
+
           return iframeNode;
         },
         getSlot: function(obj) {
@@ -118,6 +178,7 @@
               googletag.pubads().addEventListener('slotRenderEnded', function(event) {
                 _this.duplicate(event);
                 _this.resize(event);
+                _this.addVideoFurniture(event);
               });
             };
           })(this));
@@ -125,6 +186,7 @@
         resize: function(event) {
           var adIframe,
             adSlot,
+            duplicatedAd,
             outOfPageWrapper;
 
           // ignore the ad if there's no creative
@@ -145,8 +207,7 @@
         }
       }
       outOfPageAd.init();
-    </script><meta charset="utf-8">
-    <script>
+    </script>    <script>
       document.write('<div id="cX-root" style="display:none"></div>');
       var cX = cX || {}; cX.callQueue = cX.callQueue || [];
       cX.callQueue.push(['setSiteId', '9222353658873255874']);
@@ -155,7 +216,8 @@
       window.siftMedia = window.siftMedia || {};
       window.siftMedia.cxense = window.siftMedia.cxense || {};
       window.siftMedia.cxense.siteId = 9222353658873255874;
-    </script></head><body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-17358 node-type-page clearfix"><div id="cX-root" style="display:none"></div><meta name="description" content="Access our privacy policy for HRZone’s global website &amp; community of HR professionals.">
+    </script></head><body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-17358 node-type-page clearfix"><div id="cX-root" style="display:none"></div><meta property="sift:targeting" content="[{&quot;key&quot;:&quot;type&quot;,&quot;value&quot;:&quot;Basic page&quot;},{&quot;key&quot;:&quot;topic&quot;,&quot;value&quot;:&quot;&quot;},{&quot;key&quot;:&quot;url&quot;,&quot;value&quot;:&quot;node_17358&quot;},{&quot;key&quot;:&quot;status&quot;,&quot;value&quot;:&quot;live&quot;},{&quot;key&quot;:&quot;homepage&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;key&quot;:&quot;user&quot;,&quot;value&quot;:&quot;out&quot;},{&quot;key&quot;:&quot;CxSegments&quot;,&quot;value&quot;:&quot;&quot;}]">
+<meta name="description" content="Access our privacy policy for HRZone’s global website &amp; community of HR professionals.">
 <meta name="keywords" content="Privacy Policy, Cookie Policy">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <link rel="canonical" href="http://www.hrzone.com/privacy-policy">
@@ -186,25 +248,7 @@
 
 
     <div>
-              
-<div id="block-sm-pp-email-signup-popup-sm-pp-email-signup-popup" class="block block-sm-pp-email-signup-popup">
-  <div class="container">
-    <img src="/sites/all/themes/hrz/logo-colour.png">
-
-              <h3>Join your peers and be in the know</h3>
-    
-    
-    <div class="content">
-      <form class="email-signup-popup-form clearfix" action="/privacy-policy" method="post" id="sm-pp-email-signup-popup-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-emailaddress">
-  <label for="edit-emailaddress--3">Get our must-read email featuring quality content and insights from the finest writers direct to your inbox. </label>
- <input placeholder="Enter your email address here..." type="text" id="edit-emailaddress--3" name="emailaddress" value="" size="60" maxlength="254" class="form-text">
-</div>
-<input onlclick="" type="submit" id="edit-subscribe--3" name="op" value="Sign me up!" class="form-submit"><a href="/#close" class="close-email-popup" onclick="">Or close this</a><input type="hidden" name="form_build_id" value="form-HjMV2tfFnYVluVst-ZI_A2oMKTpGOPdTNDsR66SPJTc">
-<input type="hidden" name="form_id" value="sm_pp_email_signup_popup_form">
-</div></form>    </div>
-  </div>
-</div>
-      
+          
   <div class="cut-out">
   <div class="advert advert_top">
     <div class="ad-position" data-ad-unit="HRZ_Top" data-ad-size="billboard_responsive"></div>
@@ -213,7 +257,13 @@
 
   <div id="outer-wrap">
     <div id="inner-wrap">
-      <header class="header clearfix">
+      <div class="notifications-bar clearfix">
+  <div class="container">
+    <div class="notifications-bar__items">
+                </div>
+  </div>
+</div>
+<header class="header clearfix">
   <div class="container">
     <div class="clearfix" id="top">
       <a class="logo" href="/" title="Site logo">
@@ -253,28 +303,28 @@
 
           <div class="subnav-node_wrap clearfix">
                             <div class="subnav-node" data-navigation="node">
-    <a href="/lead/culture/corporate-scandals-how-hr-can-help-avoid-them">
+    <a href="/lead/culture/coffee-break-recruitment-fixes-happy-workplaces-and-the-taboo-of-salaries">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/peskymonkey_1.jpg?itok=UqHYYlV5" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/coffee-break_0.jpg?itok=gZTFIvKn" alt="">
         <span class="nav-tags-wrap"><span class="tags">Culture</span></span>
       </div>
-      Corporate scandals: how HR can help avoid them    </a>
+      Coffee Break: HR news in bite-sized portions    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/lead/future/ergonomic-review-evoluent-verticalmouse-v3">
+    <a href="/lead/change/this-anonymous-ftse50-hr-director-tells-us-why-corporate-intolerance-of-mental-health">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/81994119_32e102687a_o_0.jpg?itok=Q1lNbXE0" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Future</span></span>
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/syolacan_-_mental_distress.jpg?itok=vXkTzWb2" alt="">
+        <span class="nav-tags-wrap"><span class="tags">Change</span></span>
       </div>
-      Ergonomic review: Evoluent VerticalMouse V3    </a>
+      Anon FTSE50 HRD calls time on mental health stigma    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/lead/future/what-is-the-graduated-mirror-pyramid-hr-model">
+    <a href="/resources/social-hr-revolution-not-evolution">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/karimhesham.jpg?itok=fP2D8q1F" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Future</span></span>
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/socialhr.png?itok=Zwj7_T8Y" alt="">
+        <span class="nav-tags-wrap"><span class="tags">Culture</span></span>
       </div>
-      What is the Graduated Mirror Pyramid HR model?    </a>
+      Social HR: Revolution not Evolution    </a>
   </div>
                       </div>
         </div>
@@ -305,28 +355,28 @@
 
           <div class="subnav-node_wrap clearfix">
                             <div class="subnav-node" data-navigation="node">
-    <a href="/engage/employees/legal-advice-fighting-at-the-christmas-party">
+    <a href="/engage/employees/we-keep-goals-fresh-and-relevant-via-monthly-clarity-meetings">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/viktorgladkov.jpg?itok=NxNv2bkp" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/pick-uppath.jpg?itok=bnvy0ei-" alt="">
         <span class="nav-tags-wrap"><span class="tags">Employees</span></span>
       </div>
-      Legal advice: fighting at the Christmas party    </a>
+      Using 'clarity meetings' to check on annual goals    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/engage/employees/older-workers-what-do-they-offer-need">
+    <a href="/engage/employees/its-all-about-creating-a-culture-of-trust-which-helps-to-naturally-drive-motivation">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/lisafx.jpg?itok=-Z50Ebsd" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/alxpin.jpg?itok=ERbcrzo2" alt="">
         <span class="nav-tags-wrap"><span class="tags">Employees</span></span>
       </div>
-      Older workers: what do they offer &amp; need?    </a>
+      Trust - the natural driver of motivation levels    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/engage/employees/three-ways-best-employers-show-their-people-they-are-valued">
+    <a href="/resources/the-state-of-employee-engagement-0">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/cincila.jpg?itok=y9PsjewW" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Employees</span></span>
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/istock_000043198958_large_0.jpg?itok=YJA8oc8F" alt="">
+        <span class="nav-tags-wrap"><span class="tags">Employees</span><span class="sponsored">Sponsored</span></span>
       </div>
-      3 ways top employers show people they're valued    </a>
+      The state of employee engagement     </a>
   </div>
                       </div>
         </div>
@@ -354,28 +404,28 @@
 
           <div class="subnav-node_wrap clearfix">
                             <div class="subnav-node" data-navigation="node">
-    <a href="/perform/people/why-bring-green-space-into-your-working-day">
+    <a href="/perform/business/its-not-just-fun-and-games-any-more-why-gamification-matters-in-hr">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/ni_qin.jpg?itok=5DP46cse" alt="">
-        <span class="nav-tags-wrap"><span class="tags">People</span></span>
-      </div>
-      Why bring green space into your working day?    </a>
-  </div>
-                            <div class="subnav-node" data-navigation="node">
-    <a href="/perform/people/is-your-first-aid-kit-up-to-scratch">
-      <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/gannet77.jpg?itok=6b8KgoAs" alt="">
-        <span class="nav-tags-wrap"><span class="tags">People</span></span>
-      </div>
-      Is your first aid kit up to scratch?     </a>
-  </div>
-                            <div class="subnav-node" data-navigation="node">
-    <a href="/perform/business/settlement-agreements-are-they-being-overused">
-      <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/kyoshino.jpg?itok=pAoi6dhH" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/ilbusca_-_gamification.jpg?itok=tFGOrjjA" alt="">
         <span class="nav-tags-wrap"><span class="tags">Business</span></span>
       </div>
-      Settlement agreements: are they being overused?    </a>
+      Not just fun &amp; games: gamification matters in HR    </a>
+  </div>
+                            <div class="subnav-node" data-navigation="node">
+    <a href="/community/blogs/perrytimms/social-the-emotions-and-needs-in-all-of-us">
+      <div class="nav-image-wrap">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/rawpixel_-_social.jpg?itok=ab-Arfdl" alt="">
+        <span class="nav-tags-wrap"><span class="tags">People</span></span>
+      </div>
+      Social: The emotions and needs in all of us    </a>
+  </div>
+                            <div class="subnav-node" data-navigation="node">
+    <a href="/perform/people/how-fast-should-you-respond-to-emails-at-work">
+      <div class="nav-image-wrap">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/siphotography_3.jpg?itok=faiL1ese" alt="">
+        <span class="nav-tags-wrap"><span class="tags">People</span></span>
+      </div>
+      How fast should you respond to emails at work?    </a>
   </div>
                       </div>
         </div>
@@ -406,28 +456,28 @@
 
           <div class="subnav-node_wrap clearfix">
                             <div class="subnav-node" data-navigation="node">
-    <a href="/talent/retention/how-to-retain-your-best-staff-when-the-january-blues-hit">
+    <a href="/talent/acquisition/you-complete-me-how-to-find-those-special-recruits">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/jrwasserman.jpg?itok=a461o17R" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Retention</span></span>
-      </div>
-      How to retain staff when the January blues hit    </a>
-  </div>
-                            <div class="subnav-node" data-navigation="node">
-    <a href="/talent/acquisition/heres-what-makes-an-interviewer-a-professional">
-      <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/shironosov.jpg?itok=cVZMxSDO" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/chaofann.jpg?itok=erxvBy5-" alt="">
         <span class="nav-tags-wrap"><span class="tags">Acquisition</span></span>
       </div>
-      Here's what makes an interviewer a professional    </a>
+      You complete me! How to find special recruits    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/talent/development/time-to-zoom-in-to-the-future-of-learning">
+    <a href="/resources/on-demand-webinar-background-screening-research-results-2016">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/vjotov.jpg?itok=yXGcE-Y9" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/istock_skynesher_research.jpg?itok=zVaC3kNB" alt="">
+        <span class="nav-tags-wrap"><span class="tags">Acquisition</span><span class="sponsored">Sponsored</span></span>
+      </div>
+      On-demand webinar: Background screening results    </a>
+  </div>
+                            <div class="subnav-node" data-navigation="node">
+    <a href="/community/blogs/alan-watkins/the-mismeasurement-of-talent-must-stop">
+      <div class="nav-image-wrap">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/blade_kostas.jpg?itok=NDfHy1gV" alt="">
         <span class="nav-tags-wrap"><span class="tags">Development</span></span>
       </div>
-      Time to zoom in to the future of learning?    </a>
+      The mismeasurement of talent must stop    </a>
   </div>
                       </div>
         </div>
@@ -450,35 +500,35 @@
                 <a href="/community-voice/discuss">Discuss</a>
               </li>
                           <li data-navigation-container="community-voice_press">
-                <a href="/community-voice/industry-insight/">Industry Insight</a>
+                <a href="/community-voice/industry-insight/">Industry updates</a>
               </li>
                       </ul>
         </div>
 
         <div class="subnav-node_wrap">
                         <div class="subnav-node" data-navigation="node">
-    <a href="/community/blogs/mark-mccormack/what-we-can-all-learn-from-the-queens-annual-christmas-message-1">
+    <a href="/community/blogs/tharanipirya/steps-for-employee-retention-in-an-organisation">
       <div class="nav-image-wrap">
         <img src="/sites/all/themes/hrz/img/default-16x9.jpg" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Communication</span></span>
+        <span class="nav-tags-wrap"><span class="tags">HR policies</span></span>
       </div>
-      5 Top Tips for your presentation delivery skills    </a>
+      Employee Retention    </a>
   </div>
                         <div class="subnav-node" data-navigation="node">
-    <a href="/community/blogs/robert-malvasi/corporate-health-and-wellbeing-programmes-five-trends-for-2016">
+    <a href="/community/blogs/charlieday/transform-how-hr-attracts-trains-and-engages-employees-with-real-time">
       <div class="nav-image-wrap">
         <img src="/sites/all/themes/hrz/img/default-16x9.jpg" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Employee benefits</span></span>
+        <span class="nav-tags-wrap"><span class="tags">Innovation</span></span>
       </div>
-      5 corporate health and wellbeing trends 2016    </a>
+      How real-time video will transform HR    </a>
   </div>
                         <div class="subnav-node" data-navigation="node">
-    <a href="/community/blogs/peter-cook/innovation-in-hr">
+    <a href="/community/blogs/abhichaudhari/employee-satisfaction-perks-or-profile">
       <div class="nav-image-wrap">
         <img src="/sites/all/themes/hrz/img/default-16x9.jpg" alt="">
-        <span class="nav-tags-wrap"><span class="tags">Engagement</span></span>
+        <span class="nav-tags-wrap"><span class="tags">Change management</span></span>
       </div>
-      Inspiring Creativity and Innovation in HR    </a>
+      Employee Satisfaction – Perks OR Profile     </a>
   </div>
                   </div>
       </div>
@@ -513,28 +563,28 @@
 
           <div class="subnav-node_wrap clearfix">
                             <div class="subnav-node" data-navigation="node">
-    <a href="/lead/culture/presenteeism-physical-presence-and-psychological-absence-combined">
+    <a href="/perform/people/sleep-stress-mood-the-healthy-trinity-of-executive-performance">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/luriisokolov.jpg?itok=h1hgNUgw" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/rkankaro.jpg?itok=MFceLgkq" alt="">
         <span class="nav-tags-wrap"><span class="tags">Academics Corner</span></span>
       </div>
-      Presenteeism is 'psychological absence' at work    </a>
+      Sleep, stress &amp; mood: the trinity of performance    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/perform/business/boring-and-unproductive-meetings-theres-an-app-for-that">
+    <a href="/talent/acquisition/the-four-career-preparation-behaviours-of-recent-graduates">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/mimic51.jpg?itok=PdijyV0x" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/srdjanpav.jpg?itok=wvdb08lc" alt="">
         <span class="nav-tags-wrap"><span class="tags">Academics Corner</span></span>
       </div>
-      Unproductive meetings? There's an app for that!    </a>
+      How do graduates prepare for the world of work?    </a>
   </div>
                             <div class="subnav-node" data-navigation="node">
-    <a href="/perform/business/risky-business-how-historical-views-of-risk-management-limit-ambidexterity">
+    <a href="/perform/people/the-email-conundrum-what-can-organisations-do">
       <div class="nav-image-wrap">
-        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/squaredpixels_3.jpg?itok=OgKLYcBy" alt="">
+        <img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/globalstock_0.jpg?itok=iJ8Ok45s" alt="">
         <span class="nav-tags-wrap"><span class="tags">Academics Corner</span></span>
       </div>
-      Is your view of risk management holding HR back?    </a>
+      The email conundrum: what can organisations do?    </a>
   </div>
                       </div>
         </div>
@@ -600,7 +650,7 @@
  <input placeholder="Enter your keywords" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text">
 </div>
 <input type="hidden" name="id" value="1">
-<input class="visuallyhidden form-submit" type="submit" id="edit-submit-1" name="op" value="Search"><input type="hidden" name="form_build_id" value="form--Noh-BCDg4I1scmUROjbOxwpqCcQiy8uDw6mOOZ1a-k">
+<input class="visuallyhidden form-submit" type="submit" id="edit-submit-1" name="op" value="Search"><input type="hidden" name="form_build_id" value="form-yNkIwgajpVuAAg6ovVJyI20OBtGCx4CmzBW3xffvawA">
 <input type="hidden" name="form_id" value="search_api_page_search_form_search">
 <button type="submit" id="edit-submit-btn" name="op" class="form-submit"><span class="fa fa-search"></span></button></div></form>    </div>
   </div>
@@ -620,8 +670,8 @@
             <div class="container cut-out">
         
         
-        
         <section class="main-content clearfix">
+          
                       <div class="tabs clearfix"></div>
           
           
@@ -935,7 +985,7 @@
   <label for="edit-emailaddress">Get HRZone in your inbox </label>
  <input placeholder="name@domain.com" type="text" id="edit-emailaddress" name="emailaddress" value="" size="60" maxlength="254" class="form-text">
 </div>
-<input type="submit" id="edit-subscribe" name="op" value="Subscribe" class="form-submit"><input type="hidden" name="form_build_id" value="form-65QV84axfrmI9d_e4Q71fibGaOVjf5QuuveIZlCJwk0">
+<input type="submit" id="edit-subscribe" name="op" value="Subscribe" class="form-submit"><input type="hidden" name="form_build_id" value="form-RkKsiIhn1jvozrlDj46jio8eYGc3hz3iG5s3L9kJgls">
 <input type="hidden" name="form_id" value="sm_pp_newsletter_subscriptions_form">
 </div></form>  </div>
 </div>
@@ -947,45 +997,70 @@
   <div class="footer-content clearfix">
   <div class="container">
           <div class="footer-coloumn cxense-you-might-like">
-        <h2>You might also like</h2><div data-cxense-type="php" data-cxense-widget="c6a0c92a7cf3556944a001f5353841bfd0fccd9b">
-            <div class="media-block">
-      <div class="media-block__info clearfix">
-        <div class="field-name-field-content-date">
-          <i class="fa fa-clock-o"></i>
-          9th Dec 2015        </div>
-      </div>
-      <div class="media-block__img clearfix">
-        <a data-cxense-click="http://api.cxense.com/public/widget/click/EnaFPJYy0iKscKHKoUCJg5mBkMnwMTQ9qX7y9n_meAJX2NR_9bHm1CozqDteBR06PV4rMAKnKgQkfHdIVlgfl7p_FAZKEZpqmpeAQEx1Ip2FuMa5PcPoa7GZd5DtKWUK4iZ2XwOcWmvb9Xa757kH9nIQoeDLLm0xe9p8y8MlengcEaBTPyHDRaOyVXmAENR1TRgPyEcsD1UMkOVXswbwpd4liLzIsOTTUlDGke5Hoe4bF7qYoVh6MgOpIEP52AD4Nhn2mGpOCtiblHsvuBz9HgoG1Hsiz_75EMvEfeSET_k5n48kX9gANVMW1vr8s-LBXxM-Z5xjvMRwEuaVnVYzz9xqq7317K1lDPEBbUzdkFXWSodyzLsGZ3tn8xBxCjZQBfkLV7C44eN-jvgpyBrmOjypOmWLNdVh_kuOX3XWgWFO6bKA2yGAQosqspYTgG6Wu-MJwyOKqnJW3Jgs0EFa-ZnyBRN06z10WB6Ne64s2SCxCBrI0J4cvx4OEjkgQ46lJDK5qa4EoGV8PbAg-U1PMrnGiqHbdFs19OvPEXzw3XVvBc_R35bTUT7BxOQ9xsJ6G7kDbx_ZA6YL-mQ0Oz77o2n1hzo5PnjR_aibd5KInP3rVA0" href="http://www.hrzone.com/engage/employees/legal-advice-fighting-at-the-christmas-party" target="_top"><img src="//www.hrzone.com/sites/default/files/styles/media_medium/public/viktorgladkov.jpg?itok=NxNv2bkp" alt="16x9 Image"></a>
-
-        <div class="media-block-footer-indicator">
-          <div class="media-block-tag">
-            <span class="tag">Employees</span>
+        <h2>You might also like</h2><div xmlns:tmp="javascript:" data-cxense-type="inline" data-cxense-widget="c6a0c92a7cf3556944a001f5353841bfd0fccd9b">
+  <div style="display: none" data-cxense-item="template">
+          <!--%
+    var items = data.response.items;
+    for (var i = 0; i < items.length; i++) {
+      var item = items[i],
+        regex,
+        thumbnail;
+          
+      if (typeof item['og-image'] !== 'undefined'){
+        regex  = /^https?:/;
+        thumbnail = item['og-image'].replace(regex, '');
+        thumbnail = thumbnail.replace('/files/styles/meta_thumb/public/', '/files/styles/media_medium/public/');
+      }else{
+        thumbnail=item['dominantimage'];
+      }
+  %-->
+      <div class="media-block">
+        <div class="media-block__info clearfix">
+          <div class="field-name-field-content-date">
+            <i class="fa fa-clock-o"></i>
+            {{item['sft-date']}}
           </div>
         </div>
+        <div class="media-block__img clearfix">
+          <a data-cxense-click="{{item['click_url']}}" href="{{item['url']}}" target="_top"><img src="{{thumbnail}}" alt="16x9 Image"></a>
+
+          <div class="media-block-footer-indicator">
+            <div class="media-block-tag">
+              <span class="tag">{{item['sft-section']}}</span>
+            </div>
+          </div>
+        </div>
+        <div class="media-block-title">
+          <h3><a data-cxense-click="{{item['click_url']}}" href="{{item['url']}}" target="_top">{{item['sft-title']}}</a></h3>
+        </div>
       </div>
-      <div class="media-block-title">
-        <h3><a data-cxense-click="http://api.cxense.com/public/widget/click/EnaFPJYy0iKscKHKoUCJg5mBkMnwMTQ9qX7y9n_meAJX2NR_9bHm1CozqDteBR06PV4rMAKnKgQkfHdIVlgfl7p_FAZKEZpqmpeAQEx1Ip2FuMa5PcPoa7GZd5DtKWUK4iZ2XwOcWmvb9Xa757kH9nIQoeDLLm0xe9p8y8MlengcEaBTPyHDRaOyVXmAENR1TRgPyEcsD1UMkOVXswbwpd4liLzIsOTTUlDGke5Hoe4bF7qYoVh6MgOpIEP52AD4Nhn2mGpOCtiblHsvuBz9HgoG1Hsiz_75EMvEfeSET_k5n48kX9gANVMW1vr8s-LBXxM-Z5xjvMRwEuaVnVYzz9xqq7317K1lDPEBbUzdkFXWSodyzLsGZ3tn8xBxCjZQBfkLV7C44eN-jvgpyBrmOjypOmWLNdVh_kuOX3XWgWFO6bKA2yGAQosqspYTgG6Wu-MJwyOKqnJW3Jgs0EFa-ZnyBRN06z10WB6Ne64s2SCxCBrI0J4cvx4OEjkgQ46lJDK5qa4EoGV8PbAg-U1PMrnGiqHbdFs19OvPEXzw3XVvBc_R35bTUT7BxOQ9xsJ6G7kDbx_ZA6YL-mQ0Oz77o2n1hzo5PnjR_aibd5KInP3rVA0" href="http://www.hrzone.com/engage/employees/legal-advice-fighting-at-the-christmas-party" target="_top">Legal advice: fighting at the Christmas party</a></h3>
+  <!--%
+    }
+  %-->
+  </div>
+</div>
       </div>
-    </div>
-  </div>      </div>
 
       <div class="footer-coloumn">
-        <h2>Trending on HRZone</h2><div data-cxense-type="php" data-cxense-widget="a176370c12d1804f2073e5351581f3c6b038b122">
-    <ul class="hrz-list hrz-list_counter list-unstyled no-space">
-          <li>
-        <span>Acquisition</span>
-        <h3><a data-cxense-click="http://api.cxense.com/public/widget/click/DP_B6FAZlTQYH890aPQA1raVJ9LJ7gfhks3W82JvTJOM4_1ajPEDb2OS_7HIGfwBYRQA0atQaqA-0LL4nwHyod0iIejBkOg8kuxMKqb38fF_dcjkuQhuiund-aVDzw7DqHAKiaCWaumAKSde3KVdQmGx7meIB9V708KEW2Oh28841XOJ7w1DsaWgytFXWdrtYYYqluhUDGLZWE5NmX45hf9i7Ex3wAqPirggXCjuxfv1_KSrz15Ras6xtOwF-TLGXlCMdJuY1Uteg87n4LDxhaZKCYPl9j1huJYCeb_-iykyz9u_39TVaUg-_SpFUGuEhM7jbwEPgfyN28OMZLDjk2LjpSTElX9UITN6EcUcLjCl9PVwUg1U95XRdLto6yG4voz-MeJNONJGi0SVwJCh7Au1fbZTnqtjxeUXAv7bBEoZXkoRKD5_tWPdKjOaP4yNn9nh6ppYQjE4FoHhm30dd1NpKZRkE9mDJYxAPxMBClmNrp66qp2VP6XSjurJwDJJNrcbvzjxiaf3qqWXZowtx2JyrFXdn7c_ZbYez1Z9jsddhHgUEHDeVsqL86raBC7eMY1u4SFw5Ts31vqwNSZicw0" href="http://www.hrzone.com/talent/acquisition/heres-what-makes-an-interviewer-a-professional" target="_top">Here's what makes an interviewer a professional</a></h3>
-      </li>
-          <li>
-        <span>Future</span>
-        <h3><a data-cxense-click="http://api.cxense.com/public/widget/click/JdOfi9hy5MlyBDzii0lXDvGCXSK16-r1a2PrtPvhEQXLdDkwJUKMYTppGsEq6tYzfUNtQ5JhAgFQcCXwDSC6jYSMls4CPBFKEwq35oYtXbepvjZa3RYxbQTa2YgdO2NUGBOROoLvEkC-v2HazWRsbTwDjm54lx7NJBpuZ7urVuuTiqrixkhD7OGoKGjycXcRt-GhyvqVOA99MAQ7aHN2lC4NJafRwx9NvFg3PIOm3TpePQcTW2mW4_-IDImWDKgpB_dgaoWQvXe2Ht-84pqnj-mSBtnatKrq4VJRgrBus6wtbesL4cywlZHzVeMtt6ku3zHqZ-zArSNn8JqVaDNKGKeixgHjXY3-jIp5AflZIlVDVkt4kvKOAmnn54KZj3TIePqb61RxMmnvmqGCPPvxbB8BD91t5P26F6Hj2CCHg6LxbMCcIxAyKKgsI_Cs4NhcIZjgYgT5bzMQMTj3I2IVhbZmltDrc6uA_Nkitn0oUMSe3WWDL3YMChFJ15CCe5aRaj8Jpr8KLK1viaXhse8jBSNIdE1KpmKAirbzyaChkQ9uyBpHc4Ol9JD8Zbp0r3gR7t-OnYCQAN5_whs0" href="http://www.hrzone.com/lead/future/future-of-hr-employee-experience-hrs-new-mandate" target="_top">Future of HR: Employee experience - HR's mandate</a></h3>
-      </li>
-          <li>
-        <span>Culture</span>
-        <h3><a data-cxense-click="http://api.cxense.com/public/widget/click/Oqg8jGuFo0Kit_fD0OnIcG3vZWu-RSawh8p6yY1fv_2Kv7Q7ykHbmgi19K6s4rhDdxw021WP9avg14AyOzJy86Lu2_C5oqtkJUFnkFiO1zEoFAb1dbNda8nndplVP-0sfuLT_YaJg2S00tLTEg1hZzBIkSk4BVgBpSHV_dBRXPo6S_llq0uSMmBgLDnaEydfcRAnyCqo5LoD67RsjZmN-o2RZuxqhmHR7WFsM8CxUXDPffJC65UUvb0X-KvG4Ua43yTo-23y-d62-euIwr7Eb8o6SJBEP-rUbzpaDSZyuKt_CjuHfFwX2yJgvkL6XrU4Kr-40U7g5ELnpHWeT9t2OmNxRv4hGZ5_-j7E_iM8DNvOge2azl-FaIz3CyhoN6wKifuFkTqaCfksTIBaxBgl_3zwXJU_gdlZrmk2YNyXWmdur9Tz4wJxGgaPQvEUQ7s1JQL8JnfO43d3oMdDD9bcVN9V8vCyTCEcdzm_ajqzzfQYcRcUYITxvzHVR448AE-trvl3VHSyXLP2g7N7XhgfX1XDzPIO1zJpEu58G5lw3FpH5OHxYrr-TyJBwOdeEgpgUm-spc2eZC_S0" href="http://www.hrzone.com/lead/culture/corporate-scandals-how-hr-can-help-avoid-them" target="_top">Corporate scandals: how HR can help avoid them</a></h3>
-      </li>
-      </ul>
-</div>      </div>
+        <h2>Trending on HRZone</h2><div xmlns:tmp="javascript:" data-cxense-type="inline" data-cxense-widget="a176370c12d1804f2073e5351581f3c6b038b122">
+  <div style="display: none" data-cxense-item="template">
+          <ul class="hrz-list hrz-list_counter list-unstyled no-space">
+    <!--%
+      var items = data.response.items;
+      for (var i = 0; i < items.length; i++) {
+        var item = items[i];
+    %-->
+        <li>
+          <span>{{item['sft-section']}}</span>
+          <h3><a data-cxense-click="{{item['click_url']}}" href="{{item['url']}}" target="_top">{{item['sft-title']}}</a></h3>
+        </li>
+    <!--%
+      }
+    %-->
+  </ul>
+  </div>
+</div>
+      </div>
 
       <div class="footer-coloumn">
         <div class="entity entity-bean bean-footer-promotion-block clearfix" about="/block/upcoming-events" typeof="">
@@ -1004,11 +1079,11 @@
     
 <div class="field field-name-field-heading field-type-text field-label-hidden">
   
-      Birmingham. Feb 2 - 4  </div>
+      London. March 15 - 16  </div>
 
 <div class="field field-name-field-title-and-link field-type-url field-label-hidden">
   
-      <a href="http://www.hrevent.com/">HR Directors Business Summit</a>  </div>
+      <a href="http://london.hrtechcongress.com/">HR Tech World Congress - London</a>  </div>
   </div>
 </div>
 </div>      <div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-promo-item-head-title-link clearfix" about="/field-collection/field-promo-item-head-title-link/3" typeof="">
@@ -1016,26 +1091,14 @@
     
 <div class="field field-name-field-heading field-type-text field-label-hidden">
   
-      London. Feb 3 - 4  </div>
+      London. April 11  </div>
 
 <div class="field field-name-field-title-and-link field-type-url field-label-hidden">
   
-      <a href="http://www.learningtechnologies.co.uk/">Learning Technologies</a>  </div>
+      <a href="http://www.missionexcellence.com/teambuilding/newsletters/showcase2016.html">Team Development by Fighter Pilots</a>  </div>
   </div>
 </div>
 </div>      <div class="field-collection-view clearfix view-mode-full"><div class="entity entity-field-collection-item field-collection-item-field-promo-item-head-title-link clearfix" about="/field-collection/field-promo-item-head-title-link/4" typeof="">
-  <div class="content">
-    
-<div class="field field-name-field-heading field-type-text field-label-hidden">
-  
-      London. March 15 - 16  </div>
-
-<div class="field field-name-field-title-and-link field-type-url field-label-hidden">
-  
-      <a href="http://london.hrtechcongress.com/">HR Tech World Congress</a>  </div>
-  </div>
-</div>
-</div>      <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-promo-item-head-title-link clearfix" about="/field-collection/field-promo-item-head-title-link/1" typeof="">
   <div class="content">
     
 <div class="field field-name-field-heading field-type-text field-label-hidden">
@@ -1047,49 +1110,60 @@
       <a href="http://www.cipd.co.uk/events/learning-development-show">CIPD Learning and Development Show</a>  </div>
   </div>
 </div>
-</div>  </div>
-</div>  </div>
-</div>
-      </div>
-      </div>
-</div>
+</div>      <div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="entity entity-field-collection-item field-collection-item-field-promo-item-head-title-link clearfix" about="/field-collection/field-promo-item-head-title-link/1" typeof="">
+  <div class="content">
+    
+<div class="field field-name-field-heading field-type-text field-label-hidden">
+  
+      Berlin. June 08 - 09  </div>
 
+<div class="field field-name-field-title-and-link field-type-url field-label-hidden">
+  
+      <a href="http://hr360.wbresearch.com/">HR 360 European Summit</a>  </div>
+  </div>
+</div>
+</div>  </div>
+</div>  </div>
+</div>
+      </div>
+      </div>
+</div>
   <div class="footer-info clearfix">
-    <div class="container">
-      <div class="social-icons social-share">
-                  <a class="twitter fa fa-twitter" href="https://twitter.com/HRZone"></a>
-        
-                <a class="facebook fa fa-facebook" href="https://www.facebook.com/pages/HRZone/181316581890799"></a>
-        
-                <a class="google-plus fa fa-google-plus" href="https://plus.google.com/110242942934890913664"></a>
-        
-                <a class="linkedin fa fa-linkedin" href="http://www.linkedin.com/groups?home=&amp;gid=1938654&amp;trk=anet_ug_hm"></a>
-              </div>
-      <!-- Footer navigation -->
-      <nav class="clearfix">
-        <ul class="links nav-footer list-unstyled no-space"><li class="menu-1851 first"><a href="/about-hrzone" title="">About HRZone</a></li>
+  <div class="container">
+    <div class="social-icons social-share">
+              <a class="twitter fa fa-twitter" href="https://twitter.com/HRZone"></a>
+      
+            <a class="facebook fa fa-facebook" href="https://www.facebook.com/pages/HRZone/181316581890799"></a>
+      
+            <a class="google-plus fa fa-google-plus" href="https://plus.google.com/110242942934890913664"></a>
+      
+            <a class="linkedin fa fa-linkedin" href="http://www.linkedin.com/groups?home=&amp;gid=1938654&amp;trk=anet_ug_hm"></a>
+          </div>
+    <!-- Footer navigation -->
+    <nav class="clearfix">
+      <ul class="links nav-footer list-unstyled no-space"><li class="menu-1851 first"><a href="/about-hrzone" title="">About HRZone</a></li>
 <li class="menu-1847"><a href="/business-and-hr-glossary" title="">Glossary</a></li>
 <li class="menu-1849"><a href="http://www.siftmedia.co.uk/b2b-communites" title="">About Sift Media</a></li>
 <li class="menu-1850"><a href="http://www.siftmedia.co.uk/portfolio/hrzone" title="">Advertise on HRZone</a></li>
 <li class="menu-1846"><a href="/terms-and-conditions-of-use" title="">Terms of use</a></li>
 <li class="menu-1845 active-trail active"><a href="/privacy-policy" title="" class="active-trail active">Privacy policy</a></li>
 <li class="menu-1848 last"><a href="/contact-us" title="">Contact us</a></li>
-</ul>      </nav>
-      <div class="sm-copyright">
-        Copyright 2015 Sift Media
-      </div>
-
-      <a class="sm-logo" href="http://www.siftmedia.co.uk">
-        <img src="/sites/all/themes/pp/img/siftmedia-logo.png" alt="Sift Media" width="152" height="47">
-      </a>
+</ul>    </nav>
+    <div class="sm-copyright">
+      Copyright 2016 Sift Media
     </div>
+
+    <a class="sm-logo" href="http://www.siftmedia.co.uk">
+      <img src="/sites/all/themes/pp/img/siftmedia-logo.png" alt="Sift Media" width="152" height="47">
+    </a>
   </div>
+</div>
+  <script>
+    window.pp_navigation = {"topics_75":[{"nid":"28736","title":"Coffee Break: Recruitment fixes, happy workplaces and the taboo of salaries","short_title":"Coffee Break: HR news in bite-sized portions","url":"\/lead\/culture\/coffee-break-recruitment-fixes-happy-workplaces-and-the-taboo-of-salaries","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/coffee-break_0.jpg?itok=gZTFIvKn","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28661","title":"This anonymous FTSE50 HR Director tells us why corporate intolerance of mental health must change","short_title":"Anon FTSE50 HRD calls time on mental health stigma","url":"\/lead\/change\/this-anonymous-ftse50-hr-director-tells-us-why-corporate-intolerance-of-mental-health","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/syolacan_-_mental_distress.jpg?itok=vXkTzWb2","sponsored":false,"term":"Change","brand_id":null,"in_association":""},{"nid":"28721","title":"Social HR: Revolution not Evolution","short_title":"Social HR: Revolution not Evolution","url":"\/resources\/social-hr-revolution-not-evolution","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/socialhr.png?itok=Zwj7_T8Y","sponsored":false,"term":"Culture","brand_id":null,"in_association":""}],"topics_75_84":[{"nid":"28736","title":"Coffee Break: Recruitment fixes, happy workplaces and the taboo of salaries","short_title":"Coffee Break: HR news in bite-sized portions","url":"\/lead\/culture\/coffee-break-recruitment-fixes-happy-workplaces-and-the-taboo-of-salaries","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/coffee-break_0.jpg?itok=gZTFIvKn","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28721","title":"Social HR: Revolution not Evolution","short_title":"Social HR: Revolution not Evolution","url":"\/resources\/social-hr-revolution-not-evolution","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/socialhr.png?itok=Zwj7_T8Y","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28656","title":"The team is dead... long live the team!","short_title":"The team is dead... long live the team!","url":"\/community\/blogs\/blaire-palmer\/the-team-is-dead-long-live-the-team","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/apodiam.jpg?itok=MZu6Gkd4","sponsored":false,"term":"Culture","brand_id":null,"in_association":""}],"topics_75_85":[{"nid":"28661","title":"This anonymous FTSE50 HR Director tells us why corporate intolerance of mental health must change","short_title":"Anon FTSE50 HRD calls time on mental health stigma","url":"\/lead\/change\/this-anonymous-ftse50-hr-director-tells-us-why-corporate-intolerance-of-mental-health","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/syolacan_-_mental_distress.jpg?itok=vXkTzWb2","sponsored":false,"term":"Change","brand_id":null,"in_association":""},{"nid":"28645","title":"Why a Change Pathfinder is essential to HR transformation","short_title":"Which role is essential for HR transformation?","url":"\/lead\/change\/why-a-change-pathfinder-is-essential-to-hr-transformation","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/cityplaces\/istock_000044463528_medium.jpg?itok=5I6dhdk6","sponsored":false,"term":"Change","brand_id":null,"in_association":""},{"nid":"28691","title":"Seven Emails: from childlike interactions to gender equality and the alienation of labour","short_title":"Seven Emails: the alienation of labour","url":"\/lead\/change\/seven-emails-from-childlike-interactions-to-gender-equality-and-the-alienation-of-labour","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/stockfinland.jpg?itok=ILUA1Q78","sponsored":false,"term":"Change","brand_id":null,"in_association":""}],"topics_75_86":[{"nid":"28587","title":"Make HR #1 for business impact","short_title":"Make HR #1 for business impact","url":"\/resources\/make-hr-1-for-business-impact","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_yuri_arcurs_business_impact.jpg?itok=vzlM5np0","sponsored":false,"term":"Strategy","brand_id":"23275","in_association":"Sponsored"},{"nid":"28576","title":"Annual HR practices are failing. Your managers are the solution.","short_title":"Annual HR practices are failing. Here's a fix.","url":"\/community\/blogs\/robcatalano\/annual-hr-practices-are-failing-your-managers-are-the-solution","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alexrvan.jpg?itok=mCudUfIj","sponsored":false,"term":"Strategy","brand_id":null,"in_association":""},{"nid":"28560","title":"What\u2019s the label that works - wellbeing or productivity?","short_title":"Which label works - wellbeing or productivity?","url":"\/lead\/strategy\/whats-the-label-that-works-wellbeing-or-productivity","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alphaspirit.jpg?itok=lB_bsN5u","sponsored":false,"term":"Strategy","brand_id":null,"in_association":""}],"topics_75_87":[{"nid":"28496","title":"Leaders are doing way too much and it\u2019s all the wrong stuff","short_title":"Leaders are doing way, way too much","url":"\/community\/blogs\/blaire-palmer\/leaders-are-doing-way-too-much-and-its-all-the-wrong-stuff","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_jrcasas_bad_leadership.jpg?itok=Gf9sO5wW","sponsored":false,"term":"Future","brand_id":null,"in_association":""},{"nid":"28397","title":"The ever-transforming role of the HR leader","short_title":"The ever-transforming role of the HR leader","url":"\/lead\/future\/the-ever-transforming-role-of-the-hr-leader","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/byakkaya.jpg?itok=8Bf6XDAI","sponsored":false,"term":"Future","brand_id":null,"in_association":""},{"nid":"28356","title":"\"The biggest challenge is how we actually make wellbeing part of our everyday conversation.\"","short_title":"How do we make wellbeing part of the conversation?","url":"\/lead\/future\/the-biggest-challenge-is-how-we-actually-make-wellbeing-part-of-our-everyday","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/cc027_1.jpg?itok=SPRY0S1E","sponsored":false,"term":"Future","brand_id":null,"in_association":""}],"topics_76":[{"nid":"28729","title":"\"We keep goals fresh and relevant via monthly clarity meetings.\"","short_title":"Using 'clarity meetings' to check on annual goals","url":"\/engage\/employees\/we-keep-goals-fresh-and-relevant-via-monthly-clarity-meetings","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/pick-uppath.jpg?itok=bnvy0ei-","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28728","title":"\"It's all about creating a culture of trust, which helps to naturally drive motivation levels.\"","short_title":"Trust - the natural driver of motivation levels","url":"\/engage\/employees\/its-all-about-creating-a-culture-of-trust-which-helps-to-naturally-drive-motivation","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alxpin.jpg?itok=ERbcrzo2","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28713","title":"The state of employee engagement ","short_title":"The state of employee engagement ","url":"\/resources\/the-state-of-employee-engagement-0","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000043198958_large_0.jpg?itok=YJA8oc8F","sponsored":false,"term":"Employees","brand_id":"25356","in_association":"Sponsored"}],"topics_76_88":[{"nid":"28729","title":"\"We keep goals fresh and relevant via monthly clarity meetings.\"","short_title":"Using 'clarity meetings' to check on annual goals","url":"\/engage\/employees\/we-keep-goals-fresh-and-relevant-via-monthly-clarity-meetings","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/pick-uppath.jpg?itok=bnvy0ei-","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28728","title":"\"It's all about creating a culture of trust, which helps to naturally drive motivation levels.\"","short_title":"Trust - the natural driver of motivation levels","url":"\/engage\/employees\/its-all-about-creating-a-culture-of-trust-which-helps-to-naturally-drive-motivation","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alxpin.jpg?itok=ERbcrzo2","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28713","title":"The state of employee engagement ","short_title":"The state of employee engagement ","url":"\/resources\/the-state-of-employee-engagement-0","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000043198958_large_0.jpg?itok=YJA8oc8F","sponsored":false,"term":"Employees","brand_id":"25356","in_association":"Sponsored"}],"topics_76_89":[{"nid":"28609","title":"Instruments of success - Is your organisation using data effectively?","short_title":"HR Analytics - How to avoid flying blind ","url":"\/resources\/instruments-of-success-is-your-organisation-using-data-effectively","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/fairsail-image_0.jpg?itok=_4jhXoix","sponsored":false,"term":"Managers","brand_id":"28608","in_association":"Sponsored"},{"nid":"27969","title":"A step-by-step guide to building a big brand for your company","short_title":"The big book of employer branding ","url":"\/resources\/a-step-by-step-guide-to-building-a-big-brand-for-your-company","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_tuomas_kujansuu_employer.jpg?itok=xE4XgTBa","sponsored":false,"term":"Managers","brand_id":"23338","in_association":"Sponsored"},{"nid":"27651","title":"Have you completed your Radon Risk Assessment? It's the law.","short_title":"Have you completed your Radon Risk Assessment?","url":"\/resources\/have-you-completed-your-radon-risk-assessment-its-the-law","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_peter_booth_graph_1.jpg?itok=aZnA-u7P","sponsored":false,"term":"Managers","brand_id":"27650","in_association":"Sponsored"}],"topics_76_90":[{"nid":"28381","title":"What role do employees play in a brand\u2019s customer experience? ","short_title":"What role do staff play in customer experience?","url":"\/engage\/customers\/what-role-do-employees-play-in-a-brands-customer-experience","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/tomtatopictures.jpg?itok=G01xbZlc","sponsored":false,"term":"Customers","brand_id":null,"in_association":""},{"nid":"27277","title":"Passionate employees deliver superior CX","short_title":"Passionate employees deliver superior CX","url":"\/engage\/customers\/passionate-employees-deliver-superior-cx","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/vernon_wiley_0.jpg?itok=Dqb6EH-N","sponsored":false,"term":"Customers","brand_id":null,"in_association":""},{"nid":"25689","title":"Why engaging the employee is great for the customer","short_title":"Why engaging employees is great for customers","url":"\/engage\/customers\/why-engaging-the-employee-is-great-for-the-customer","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/andresr_istock.jpg?itok=6KW-QKiD","sponsored":false,"term":"Customers","brand_id":null,"in_association":""}],"topics_77":[{"nid":"28662","title":"It's not just fun and games any more: why gamification matters in HR","short_title":"Not just fun & games: gamification matters in HR","url":"\/perform\/business\/its-not-just-fun-and-games-any-more-why-gamification-matters-in-hr","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/ilbusca_-_gamification.jpg?itok=tFGOrjjA","sponsored":false,"term":"Business","brand_id":null,"in_association":""},{"nid":"28660","title":"Social: The emotions and needs in all of us","short_title":"Social: The emotions and needs in all of us","url":"\/community\/blogs\/perrytimms\/social-the-emotions-and-needs-in-all-of-us","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/rawpixel_-_social.jpg?itok=ab-Arfdl","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28612","title":"How fast should you respond to emails at work?","short_title":"How fast should you respond to emails at work?","url":"\/perform\/people\/how-fast-should-you-respond-to-emails-at-work","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/siphotography_3.jpg?itok=faiL1ese","sponsored":false,"term":"People","brand_id":null,"in_association":""}],"topics_77_82":[{"nid":"28660","title":"Social: The emotions and needs in all of us","short_title":"Social: The emotions and needs in all of us","url":"\/community\/blogs\/perrytimms\/social-the-emotions-and-needs-in-all-of-us","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/rawpixel_-_social.jpg?itok=ab-Arfdl","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28612","title":"How fast should you respond to emails at work?","short_title":"How fast should you respond to emails at work?","url":"\/perform\/people\/how-fast-should-you-respond-to-emails-at-work","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/siphotography_3.jpg?itok=faiL1ese","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28610","title":"How can we ensure employee health and wellbeing during restructuring?","short_title":"Ensuring staff wellbeing during restructuring","url":"\/perform\/people\/how-can-we-ensure-employee-health-and-wellbeing-during-restructuring","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/hires_2.jpg?itok=2ioUPeEC","sponsored":false,"term":"People","brand_id":null,"in_association":""}],"topics_77_83":[{"nid":"28662","title":"It's not just fun and games any more: why gamification matters in HR","short_title":"Not just fun & games: gamification matters in HR","url":"\/perform\/business\/its-not-just-fun-and-games-any-more-why-gamification-matters-in-hr","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/ilbusca_-_gamification.jpg?itok=tFGOrjjA","sponsored":false,"term":"Business","brand_id":null,"in_association":""},{"nid":"28666","title":"How to effectively deal with expenses","short_title":"How to effectively deal with expenses","url":"\/resources\/how-to-effectively-deal-with-expenses","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000043198958_large.jpg?itok=9q3mPBO4","sponsored":false,"term":"Business","brand_id":"28665","in_association":"Sponsored"},{"nid":"28640","title":"Why do we continue to stereotype returning mothers?","short_title":"Why do we continue stereotyping returning mothers?","url":"\/perform\/business\/why-do-we-continue-to-stereotype-returning-mothers","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/iuriisokolov.jpg?itok=ZkTJH_kN","sponsored":false,"term":"Business","brand_id":null,"in_association":""}],"topics_78":[{"nid":"28655","title":"You complete me! How to find those special recruits","short_title":"You complete me! How to find special recruits","url":"\/talent\/acquisition\/you-complete-me-how-to-find-those-special-recruits","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/chaofann.jpg?itok=erxvBy5-","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""},{"nid":"28685","title":"On-demand webinar: Background screening research results 2016","short_title":"On-demand webinar: Background screening results","url":"\/resources\/on-demand-webinar-background-screening-research-results-2016","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_skynesher_research.jpg?itok=zVaC3kNB","sponsored":false,"term":"Acquisition","brand_id":"23346","in_association":"Sponsored"},{"nid":"28613","title":"The mismeasurement of talent must stop","short_title":"The mismeasurement of talent must stop","url":"\/community\/blogs\/alan-watkins\/the-mismeasurement-of-talent-must-stop","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/blade_kostas.jpg?itok=NDfHy1gV","sponsored":false,"term":"Development","brand_id":null,"in_association":""}],"topics_78_79":[{"nid":"28655","title":"You complete me! How to find those special recruits","short_title":"You complete me! How to find special recruits","url":"\/talent\/acquisition\/you-complete-me-how-to-find-those-special-recruits","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/chaofann.jpg?itok=erxvBy5-","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""},{"nid":"28685","title":"On-demand webinar: Background screening research results 2016","short_title":"On-demand webinar: Background screening results","url":"\/resources\/on-demand-webinar-background-screening-research-results-2016","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_skynesher_research.jpg?itok=zVaC3kNB","sponsored":false,"term":"Acquisition","brand_id":"23346","in_association":"Sponsored"},{"nid":"28592","title":"Recruiting for a role with an 85 year old legacy at stake","short_title":"Recruiting with an 85 year old legacy at stake","url":"\/talent\/acquisition\/recruiting-for-a-role-with-an-85-year-old-legacy-at-stake","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/peter_pan_statue_2.jpg?itok=sxDneUKP","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""}],"topics_78_80":[{"nid":"28272","title":"Stop your talent drain using analytics technology","short_title":"Stop your talent drain using analytics technology","url":"\/talent\/retention\/stop-your-talent-drain-using-analytics-technology","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/esp_imaging.jpg?itok=-bnfhS0v","sponsored":false,"term":"Retention","brand_id":null,"in_association":""},{"nid":"28171","title":"How to retain your best staff when the January blues hit","short_title":"How to retain staff when the January blues hit","url":"\/talent\/retention\/how-to-retain-your-best-staff-when-the-january-blues-hit","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/jrwasserman.jpg?itok=a461o17R","sponsored":false,"term":"Retention","brand_id":null,"in_association":""},{"nid":"27600","title":"Workplace wellbeing - in the hands of technology","short_title":"Workplace wellbeing - in the hands of technology","url":"\/talent\/retention\/workplace-wellbeing-in-the-hands-of-technology","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/shih-wei.jpg?itok=Wd3qiyTc","sponsored":false,"term":"Retention","brand_id":null,"in_association":""}],"topics_78_81":[{"nid":"28613","title":"The mismeasurement of talent must stop","short_title":"The mismeasurement of talent must stop","url":"\/community\/blogs\/alan-watkins\/the-mismeasurement-of-talent-must-stop","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/blade_kostas.jpg?itok=NDfHy1gV","sponsored":false,"term":"Development","brand_id":null,"in_association":""},{"nid":"28647","title":"How does continuous improvement relate to HR software?","short_title":"Discover the value of continuous improvement","url":"\/resources\/how-does-continuous-improvement-relate-to-hr-software","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_maxsattana_improvement.jpg?itok=A5zGwYCH","sponsored":false,"term":"Development","brand_id":"23219","in_association":"Sponsored"},{"nid":"28565","title":"How to future-proof your next talent management system","short_title":"Future-proof your next talent management system","url":"\/resources\/how-to-future-proof-your-next-talent-management-system","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_sommail_talent_management_0.jpg?itok=xfQdh9Ml","sponsored":false,"term":"Development","brand_id":"23328","in_association":"Sponsored"}],"community-voice":[{"nid":"28740","title":"Steps for Employee Retention in an Organisation","short_title":"Employee Retention","url":"\/community\/blogs\/tharanipirya\/steps-for-employee-retention-in-an-organisation","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"45","term_name":"HR policies","term":"HR policies"},{"nid":"28733","title":"Transform how HR attracts, trains and engages employees with real-time video","short_title":"How real-time video will transform HR","url":"\/community\/blogs\/charlieday\/transform-how-hr-attracts-trains-and-engages-employees-with-real-time","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"46","term_name":"Innovation","term":"Innovation"},{"nid":"28730","title":"Employee Satisfaction \u2013 Perks OR Profile ","short_title":"Employee Satisfaction \u2013 Perks OR Profile ","url":"\/community\/blogs\/abhichaudhari\/employee-satisfaction-perks-or-profile","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"27","term_name":"Change management","term":"Change management"}],"community-voice_blog":[{"nid":"28740","title":"Steps for Employee Retention in an Organisation","short_title":"Employee Retention","url":"\/community\/blogs\/tharanipirya\/steps-for-employee-retention-in-an-organisation","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"45","term_name":"HR policies","term":"HR policies"},{"nid":"28733","title":"Transform how HR attracts, trains and engages employees with real-time video","short_title":"How real-time video will transform HR","url":"\/community\/blogs\/charlieday\/transform-how-hr-attracts-trains-and-engages-employees-with-real-time","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"46","term_name":"Innovation","term":"Innovation"},{"nid":"28730","title":"Employee Satisfaction \u2013 Perks OR Profile ","short_title":"Employee Satisfaction \u2013 Perks OR Profile ","url":"\/community\/blogs\/abhichaudhari\/employee-satisfaction-perks-or-profile","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"27","term_name":"Change management","term":"Change management"}],"community-voice_any_answers":[{"nid":"28727","title":"Where do you see the HR function sitting in 5 years time?","short_title":"The future of HR","url":"\/community\/discuss\/where-do-you-see-the-hr-function-sitting-in-5-years-time","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"27","term_name":"Change management","term":"Change management"},{"nid":"28715","title":"Help with my studies","short_title":"Survey","url":"\/community\/discuss\/help-with-my-studies","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"47","term_name":"Job design","term":"Job design"},{"nid":"28710","title":"Bulk Cropping Photos for ID Cards ","short_title":"Obtaining Facial Photo from a Bunch of Images ","url":"\/community\/discuss\/bulk-cropping-photos-for-id-cards","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"64","term_name":"Recruitment","term":"Recruitment"}],"community-voice_press":[{"nid":"27354","title":"HR Tech World Congress 2015 To Open In Paris For First Time","short_title":"HR Tech World Congress 2015 To Open In Paris","url":"\/community-voice\/industry-insight\/hr-tech-world-congress-2015-to-open-in-paris-for-first-time","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null},{"nid":"25632","title":"Finalists for the North American Employee Engagement Awards announced","short_title":"Engagement Awards US finalists announced","url":"\/community-voice\/industry-insight\/finalists-for-the-north-american-employee-engagement-awards","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null},{"nid":"25429","title":"One month to go to get your Employee Engagement efforts recognized globally","short_title":"Engagement Awards US closes to entries in a month","url":"\/community-voice\/industry-insight\/one-month-to-go-to-get-your-employee-engagement-efforts-recognized","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null}],"topics_":[{"nid":"28498","title":"Sleep, stress & mood: the healthy trinity of executive performance","short_title":"Sleep, stress & mood: the trinity of performance","url":"\/perform\/people\/sleep-stress-mood-the-healthy-trinity-of-executive-performance","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/rkankaro.jpg?itok=MFceLgkq","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28556","title":"The four career preparation behaviours of recent graduates","short_title":"How do graduates prepare for the world of work?","url":"\/talent\/acquisition\/the-four-career-preparation-behaviours-of-recent-graduates","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/srdjanpav.jpg?itok=wvdb08lc","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28493","title":"The email conundrum: what can organisations do?","short_title":"The email conundrum: what can organisations do?","url":"\/perform\/people\/the-email-conundrum-what-can-organisations-do","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/globalstock_0.jpg?itok=iJ8Ok45s","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""}],"topics_92":[{"nid":"28498","title":"Sleep, stress & mood: the healthy trinity of executive performance","short_title":"Sleep, stress & mood: the trinity of performance","url":"\/perform\/people\/sleep-stress-mood-the-healthy-trinity-of-executive-performance","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/rkankaro.jpg?itok=MFceLgkq","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28556","title":"The four career preparation behaviours of recent graduates","short_title":"How do graduates prepare for the world of work?","url":"\/talent\/acquisition\/the-four-career-preparation-behaviours-of-recent-graduates","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/srdjanpav.jpg?itok=wvdb08lc","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28493","title":"The email conundrum: what can organisations do?","short_title":"The email conundrum: what can organisations do?","url":"\/perform\/people\/the-email-conundrum-what-can-organisations-do","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/globalstock_0.jpg?itok=iJ8Ok45s","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""}],"topics_91":[{"nid":"28661","title":"This anonymous FTSE50 HR Director tells us why corporate intolerance of mental health must change","short_title":"Anon FTSE50 HRD calls time on mental health stigma","url":"\/lead\/change\/this-anonymous-ftse50-hr-director-tells-us-why-corporate-intolerance-of-mental-health","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/syolacan_-_mental_distress.jpg?itok=vXkTzWb2","sponsored":false,"term":"HR After Dark","brand_id":null,"in_association":""},{"nid":"28456","title":"Here's how to make other HR pros hate you on Twitter","short_title":"How to make other HR pros hate you on Twitter","url":"\/lead\/culture\/heres-how-to-make-other-hr-pros-hate-you-on-twitter","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000074801915_medium_1.jpg?itok=t57BnAmn","sponsored":false,"term":"HR After Dark","brand_id":null,"in_association":""},{"nid":"27263","title":"Talent have not won the war. It\u2019s a terrible lie.","short_title":"Talent have not won the war. It\u2019s a terrible lie.","url":"\/lead\/future\/talent-have-not-won-the-war-its-a-terrible-lie","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/andrew_rich.jpg?itok=P6XUQjgC","sponsored":false,"term":"HR After Dark","brand_id":null,"in_association":""}],"topics_41":[{"nid":"28728","title":"\"It's all about creating a culture of trust, which helps to naturally drive motivation levels.\"","short_title":"Trust - the natural driver of motivation levels","url":"\/engage\/employees\/its-all-about-creating-a-culture-of-trust-which-helps-to-naturally-drive-motivation","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alxpin.jpg?itok=ERbcrzo2","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""},{"nid":"28729","title":"\"We keep goals fresh and relevant via monthly clarity meetings.\"","short_title":"Using 'clarity meetings' to check on annual goals","url":"\/engage\/employees\/we-keep-goals-fresh-and-relevant-via-monthly-clarity-meetings","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/pick-uppath.jpg?itok=bnvy0ei-","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""},{"nid":"28730","title":"Employee Satisfaction \u2013 Perks OR Profile ","short_title":"Employee Satisfaction \u2013 Perks OR Profile ","url":"\/community\/blogs\/abhichaudhari\/employee-satisfaction-perks-or-profile","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""}],"topics_54":[{"nid":"28498","title":"Sleep, stress & mood: the healthy trinity of executive performance","short_title":"Sleep, stress & mood: the trinity of performance","url":"\/perform\/people\/sleep-stress-mood-the-healthy-trinity-of-executive-performance","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/rkankaro.jpg?itok=MFceLgkq","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""},{"nid":"28393","title":"The science behind game-based training explains its popularity - we just need to understand it in order to make an informed decision about whether to use it","short_title":"How the brain responds to gamification","url":"\/community\/blogs\/mark-mccormack\/the-science-behind-game-based-training-explains-its-popularity-we","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""},{"nid":"28560","title":"What\u2019s the label that works - wellbeing or productivity?","short_title":"Which label works - wellbeing or productivity?","url":"\/lead\/strategy\/whats-the-label-that-works-wellbeing-or-productivity","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/alphaspirit.jpg?itok=lB_bsN5u","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""}]}  </script>
 </footer>
     </div>
   </div>
 </div>
-  <script>
-    window.pp_navigation = {"topics_75":[{"nid":"28156","title":"Corporate scandals: how HR can help avoid them","short_title":"Corporate scandals: how HR can help avoid them","url":"\/lead\/culture\/corporate-scandals-how-hr-can-help-avoid-them","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/peskymonkey_1.jpg?itok=UqHYYlV5","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28157","title":"Ergonomic review: Evoluent VerticalMouse V3","short_title":"Ergonomic review: Evoluent VerticalMouse V3","url":"\/lead\/future\/ergonomic-review-evoluent-verticalmouse-v3","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/81994119_32e102687a_o_0.jpg?itok=Q1lNbXE0","sponsored":false,"term":"Future","brand_id":null,"in_association":""},{"nid":"28158","title":"What is the Graduated Mirror Pyramid HR model?","short_title":"What is the Graduated Mirror Pyramid HR model?","url":"\/lead\/future\/what-is-the-graduated-mirror-pyramid-hr-model","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/karimhesham.jpg?itok=fP2D8q1F","sponsored":false,"term":"Future","brand_id":null,"in_association":""}],"topics_75_84":[{"nid":"28156","title":"Corporate scandals: how HR can help avoid them","short_title":"Corporate scandals: how HR can help avoid them","url":"\/lead\/culture\/corporate-scandals-how-hr-can-help-avoid-them","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/peskymonkey_1.jpg?itok=UqHYYlV5","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28127","title":"Will Zuckerberg's move shake up paternity culture?","short_title":"Will Zuckerberg's move shake up paternity culture?","url":"\/lead\/culture\/will-zuckerbergs-move-shake-up-paternity-culture","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/fldphotos.jpg?itok=u6PsJXXL","sponsored":false,"term":"Culture","brand_id":null,"in_association":""},{"nid":"28113","title":"Conversations are the smallest units of change","short_title":"Conversations are the smallest units of change","url":"\/community\/blogs\/perrytimms\/conversations-are-the-smallest-units-of-change","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/yongyuan_dai.jpg?itok=n5OLbiYc","sponsored":false,"term":"Culture","brand_id":null,"in_association":""}],"topics_75_85":[{"nid":"28091","title":"Apprenticeship levy: how to get the most out of it","short_title":"Apprenticeship levy: how to get the most out of it","url":"\/lead\/change\/apprenticeship-levy-how-to-get-the-most-out-of-it","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/nullplus_0.jpg?itok=6iqhnKND","sponsored":false,"term":"Change","brand_id":null,"in_association":""},{"nid":"28003","title":"Let\u2019s bury the \u2018human remains\u2019 stigma and build HR\u2019s future","short_title":"It's time to bury the \u2018human remains\u2019 stigma","url":"\/lead\/change\/lets-bury-the-human-remains-stigma-and-build-hrs-future","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/maartje_van_caspel.jpg?itok=pUoc53RB","sponsored":false,"term":"Change","brand_id":null,"in_association":""},{"nid":"28047","title":"HR titles are disappearing and here's why","short_title":"HR titles are disappearing and here's why","url":"\/lead\/change\/hr-titles-are-disappearing-and-heres-why","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/franckreporter_4.jpg?itok=5WI2RLrt","sponsored":false,"term":"Change","brand_id":null,"in_association":""}],"topics_75_86":[{"nid":"28151","title":"What exactly is wrong with Boards?","short_title":"What exactly is wrong with Boards?","url":"\/community\/blogs\/blaire-palmer\/what-exactly-is-wrong-with-boards","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/pixdeluxe.jpg?itok=32thzyin","sponsored":false,"term":"Strategy","brand_id":null,"in_association":""},{"nid":"27987","title":"Critical reasons to automate performance management","short_title":"Vital reasons to automate performance management","url":"\/resources\/critical-reasons-to-automate-performance-management","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000041815148_full.jpg?itok=YckZq54A","sponsored":false,"term":"Strategy","brand_id":"23347","in_association":"Sponsored"},{"nid":"27986","title":"How to transform HR with Human Resource Management Software","short_title":"Transform HR with HR Management Software","url":"\/resources\/how-to-transform-hr-with-human-resource-management-software","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000055004404_xxxlarge.jpg?itok=bcBNzWx9","sponsored":false,"term":"Strategy","brand_id":"23347","in_association":"Sponsored"}],"topics_75_87":[{"nid":"28157","title":"Ergonomic review: Evoluent VerticalMouse V3","short_title":"Ergonomic review: Evoluent VerticalMouse V3","url":"\/lead\/future\/ergonomic-review-evoluent-verticalmouse-v3","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/81994119_32e102687a_o_0.jpg?itok=Q1lNbXE0","sponsored":false,"term":"Future","brand_id":null,"in_association":""},{"nid":"28158","title":"What is the Graduated Mirror Pyramid HR model?","short_title":"What is the Graduated Mirror Pyramid HR model?","url":"\/lead\/future\/what-is-the-graduated-mirror-pyramid-hr-model","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/karimhesham.jpg?itok=fP2D8q1F","sponsored":false,"term":"Future","brand_id":null,"in_association":""},{"nid":"28103","title":"What are our columnists' NY resolutions for 2016?","short_title":"What are our columnists' NY resolutions for 2016?","url":"\/lead\/future\/what-are-our-columnists-ny-resolutions-for-2016","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/barcin.jpg?itok=R5RgHTk7","sponsored":false,"term":"Future","brand_id":null,"in_association":""}],"topics_76":[{"nid":"12146","title":"Legal advice: fighting at the Christmas party","short_title":"Legal advice: fighting at the Christmas party","url":"\/engage\/employees\/legal-advice-fighting-at-the-christmas-party","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/viktorgladkov.jpg?itok=NxNv2bkp","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28145","title":"Older workers: what do they offer & need?","short_title":"Older workers: what do they offer & need?","url":"\/engage\/employees\/older-workers-what-do-they-offer-need","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/lisafx.jpg?itok=-Z50Ebsd","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28122","title":"Three ways best employers show their people they are valued","short_title":"3 ways top employers show people they're valued","url":"\/engage\/employees\/three-ways-best-employers-show-their-people-they-are-valued","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/cincila.jpg?itok=y9PsjewW","sponsored":false,"term":"Employees","brand_id":null,"in_association":""}],"topics_76_88":[{"nid":"12146","title":"Legal advice: fighting at the Christmas party","short_title":"Legal advice: fighting at the Christmas party","url":"\/engage\/employees\/legal-advice-fighting-at-the-christmas-party","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/viktorgladkov.jpg?itok=NxNv2bkp","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28145","title":"Older workers: what do they offer & need?","short_title":"Older workers: what do they offer & need?","url":"\/engage\/employees\/older-workers-what-do-they-offer-need","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/lisafx.jpg?itok=-Z50Ebsd","sponsored":false,"term":"Employees","brand_id":null,"in_association":""},{"nid":"28122","title":"Three ways best employers show their people they are valued","short_title":"3 ways top employers show people they're valued","url":"\/engage\/employees\/three-ways-best-employers-show-their-people-they-are-valued","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/cincila.jpg?itok=y9PsjewW","sponsored":false,"term":"Employees","brand_id":null,"in_association":""}],"topics_76_89":[{"nid":"27969","title":"A step-by-step guide to building a big brand for your company","short_title":"The big book of employer branding ","url":"\/resources\/a-step-by-step-guide-to-building-a-big-brand-for-your-company","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_tuomas_kujansuu_employer.jpg?itok=xE4XgTBa","sponsored":false,"term":"Managers","brand_id":"23338","in_association":"Sponsored"},{"nid":"27651","title":"Have you completed your Radon Risk Assessment? It's the law.","short_title":"Have you completed your Radon Risk Assessment?","url":"\/resources\/have-you-completed-your-radon-risk-assessment-its-the-law","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_peter_booth_graph_1.jpg?itok=aZnA-u7P","sponsored":false,"term":"Managers","brand_id":"27650","in_association":"Sponsored"},{"nid":"27636","title":"On-Demand Webinar: Empowering your line managers to tackle mental health","short_title":"Empower your line managers to tackle mental health","url":"\/webinars\/on-demand-webinar-empowering-your-line-managers-to-tackle-mental-health","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/mental-health.jpg?itok=Z0yI5WAF","sponsored":false,"term":"Managers","brand_id":"23369","in_association":"Sponsored"}],"topics_76_90":[{"nid":"27277","title":"Passionate employees deliver superior CX","short_title":"Passionate employees deliver superior CX","url":"\/engage\/customers\/passionate-employees-deliver-superior-cx","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/vernon_wiley_0.jpg?itok=Dqb6EH-N","sponsored":false,"term":"Customers","brand_id":null,"in_association":""},{"nid":"25689","title":"Why engaging the employee is great for the customer","short_title":"Why engaging employees is great for customers","url":"\/engage\/customers\/why-engaging-the-employee-is-great-for-the-customer","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/andresr_istock.jpg?itok=6KW-QKiD","sponsored":false,"term":"Customers","brand_id":null,"in_association":""},{"nid":"25537","title":"\"Our next challenge is retaining new talent.\"","short_title":"Interview: Regine Buettner, EVP HR, DHL Express","url":"\/engage\/customers\/our-next-challenge-is-retaining-new-talent","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/dp_mailcenter_spich.jpg?itok=LjZKWVLr","sponsored":false,"term":"Customers","brand_id":null,"in_association":""}],"topics_77":[{"nid":"28155","title":"Why bring green space into your working day?","short_title":"Why bring green space into your working day?","url":"\/perform\/people\/why-bring-green-space-into-your-working-day","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/ni_qin.jpg?itok=5DP46cse","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28152","title":"Is your first aid kit up to scratch? ","short_title":"Is your first aid kit up to scratch? ","url":"\/perform\/people\/is-your-first-aid-kit-up-to-scratch","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/gannet77.jpg?itok=6b8KgoAs","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28149","title":"Settlement agreements: are they being overused?","short_title":"Settlement agreements: are they being overused?","url":"\/perform\/business\/settlement-agreements-are-they-being-overused","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/kyoshino.jpg?itok=pAoi6dhH","sponsored":false,"term":"Business","brand_id":null,"in_association":""}],"topics_77_82":[{"nid":"28155","title":"Why bring green space into your working day?","short_title":"Why bring green space into your working day?","url":"\/perform\/people\/why-bring-green-space-into-your-working-day","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/ni_qin.jpg?itok=5DP46cse","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28152","title":"Is your first aid kit up to scratch? ","short_title":"Is your first aid kit up to scratch? ","url":"\/perform\/people\/is-your-first-aid-kit-up-to-scratch","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/gannet77.jpg?itok=6b8KgoAs","sponsored":false,"term":"People","brand_id":null,"in_association":""},{"nid":"28085","title":"Your questions on proactive wellbeing answered","short_title":"Your questions on proactive wellbeing answered","url":"\/perform\/people\/your-questions-on-proactive-wellbeing-answered","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/mienny.jpg?itok=XefuahmH","sponsored":false,"term":"People","brand_id":null,"in_association":""}],"topics_77_83":[{"nid":"28149","title":"Settlement agreements: are they being overused?","short_title":"Settlement agreements: are they being overused?","url":"\/perform\/business\/settlement-agreements-are-they-being-overused","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/kyoshino.jpg?itok=pAoi6dhH","sponsored":false,"term":"Business","brand_id":null,"in_association":""},{"nid":"28165","title":"Improving employee satisfaction in transportation and logistics","short_title":"Improving employee satisfaction in logistics","url":"\/perform\/business\/improving-employee-satisfaction-in-transportation-and-logistics","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/taniasohlman.jpg?itok=LWiNvwr7","sponsored":false,"term":"Business","brand_id":null,"in_association":""},{"nid":"28013","title":"Can an employee\u2019s contract of employment be changed once signed?","short_title":"Can you change employment contracts after signing?","url":"\/perform\/business\/can-an-employees-contract-of-employment-be-changed-once-signed","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/palirao.jpg?itok=7hfAIz5Q","sponsored":false,"term":"Business","brand_id":null,"in_association":""}],"topics_78":[{"nid":"28171","title":"How to retain your best staff when the January blues hit","short_title":"How to retain staff when the January blues hit","url":"\/talent\/retention\/how-to-retain-your-best-staff-when-the-january-blues-hit","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/jrwasserman.jpg?itok=a461o17R","sponsored":false,"term":"Retention","brand_id":null,"in_association":""},{"nid":"28167","title":"Here's what makes an interviewer a professional","short_title":"Here's what makes an interviewer a professional","url":"\/talent\/acquisition\/heres-what-makes-an-interviewer-a-professional","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/shironosov.jpg?itok=cVZMxSDO","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""},{"nid":"28027","title":"Time to zoom in to the future of learning?","short_title":"Time to zoom in to the future of learning?","url":"\/talent\/development\/time-to-zoom-in-to-the-future-of-learning","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/vjotov.jpg?itok=yXGcE-Y9","sponsored":false,"term":"Development","brand_id":null,"in_association":""}],"topics_78_79":[{"nid":"28167","title":"Here's what makes an interviewer a professional","short_title":"Here's what makes an interviewer a professional","url":"\/talent\/acquisition\/heres-what-makes-an-interviewer-a-professional","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/shironosov.jpg?itok=cVZMxSDO","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""},{"nid":"28061","title":"Would you instinctively distrust a hiring algorithm?","short_title":"Would you distrust a hiring algorithm?","url":"\/talent\/acquisition\/would-you-instinctively-distrust-a-hiring-algorithm","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/jrcasas_0.jpg?itok=MI9RQAuZ","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""},{"nid":"27957","title":"Utilising disruptive talent to expand the possible","short_title":"Utilising disruptive talent to expand the possible","url":"\/talent\/acquisition\/utilising-disruptive-talent-to-expand-the-possible","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/exposegmbh.jpg?itok=D6sMphih","sponsored":false,"term":"Acquisition","brand_id":null,"in_association":""}],"topics_78_80":[{"nid":"28171","title":"How to retain your best staff when the January blues hit","short_title":"How to retain staff when the January blues hit","url":"\/talent\/retention\/how-to-retain-your-best-staff-when-the-january-blues-hit","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/jrwasserman.jpg?itok=a461o17R","sponsored":false,"term":"Retention","brand_id":null,"in_association":""},{"nid":"27600","title":"Workplace wellbeing - in the hands of technology","short_title":"Workplace wellbeing - in the hands of technology","url":"\/talent\/retention\/workplace-wellbeing-in-the-hands-of-technology","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/shih-wei.jpg?itok=Wd3qiyTc","sponsored":false,"term":"Retention","brand_id":null,"in_association":""},{"nid":"27573","title":"Creating an intuitive workplace for future wellbeing","short_title":"Creating intuitive workplaces for future wellbeing","url":"\/talent\/retention\/creating-an-intuitive-workplace-for-future-wellbeing","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/enviromantic.jpg?itok=e2IjdeKM","sponsored":false,"term":"Retention","brand_id":null,"in_association":""}],"topics_78_81":[{"nid":"28027","title":"Time to zoom in to the future of learning?","short_title":"Time to zoom in to the future of learning?","url":"\/talent\/development\/time-to-zoom-in-to-the-future-of-learning","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/vjotov.jpg?itok=yXGcE-Y9","sponsored":false,"term":"Development","brand_id":null,"in_association":""},{"nid":"28095","title":"\"Talent is one ingredient in how success happens.\"","short_title":"\"Talent is one ingredient in how success happens.\"","url":"\/talent\/development\/talent-is-one-ingredient-in-how-success-happens","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/maxresdefault_0.jpg?itok=Ax_yTYQW","sponsored":false,"term":"Development","brand_id":null,"in_association":""},{"nid":"28084","title":"What can a growth mindset do for you?","short_title":"LIVE Q&A: What can a growth mindset do for you?","url":"\/community\/blogs\/shonette\/what-can-a-growth-mindset-do-for-you","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Development","brand_id":null,"in_association":""}],"community-voice":[{"nid":"28236","title":"What we can all learn from the Queen\u2019s annual Christmas message ","short_title":"5 Top Tips for your presentation delivery skills","url":"\/community\/blogs\/mark-mccormack\/what-we-can-all-learn-from-the-queens-annual-christmas-message-1","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"31","term_name":"Communication","term":"Communication"},{"nid":"28229","title":"Corporate Health and Wellbeing Programmes Five Trends For 2016","short_title":"5 corporate health and wellbeing trends 2016","url":"\/community\/blogs\/robert-malvasi\/corporate-health-and-wellbeing-programmes-five-trends-for-2016","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"36","term_name":"Employee benefits","term":"Employee benefits"},{"nid":"28228","title":"Innovation in HR","short_title":"Inspiring Creativity and Innovation in HR","url":"\/community\/blogs\/peter-cook\/innovation-in-hr","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"41","term_name":"Engagement","term":"Engagement"}],"community-voice_blog":[{"nid":"28236","title":"What we can all learn from the Queen\u2019s annual Christmas message ","short_title":"5 Top Tips for your presentation delivery skills","url":"\/community\/blogs\/mark-mccormack\/what-we-can-all-learn-from-the-queens-annual-christmas-message-1","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"31","term_name":"Communication","term":"Communication"},{"nid":"28229","title":"Corporate Health and Wellbeing Programmes Five Trends For 2016","short_title":"5 corporate health and wellbeing trends 2016","url":"\/community\/blogs\/robert-malvasi\/corporate-health-and-wellbeing-programmes-five-trends-for-2016","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"36","term_name":"Employee benefits","term":"Employee benefits"},{"nid":"28228","title":"Innovation in HR","short_title":"Inspiring Creativity and Innovation in HR","url":"\/community\/blogs\/peter-cook\/innovation-in-hr","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"41","term_name":"Engagement","term":"Engagement"}],"community-voice_any_answers":[{"nid":"28181","title":"Can gamification really motivate staff participation and engagement?","short_title":"Is 'gamification' a method used by your company?","url":"\/community\/discuss\/can-gamification-really-motivate-staff-participation-and-engagement","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"49","term_name":"Learning","term":"Learning"},{"nid":"28172","title":"Extension Notice Period","short_title":"Extension Notice Period","url":"\/community\/discuss\/extension-notice-period","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"45","term_name":"HR policies","term":"HR policies"},{"nid":"28168","title":"End of a Secondment","short_title":"End of a Secondment","url":"\/community\/discuss\/end-of-a-secondment","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":"45","term_name":"HR policies","term":"HR policies"}],"community-voice_press":[{"nid":"27354","title":"HR Tech World Congress 2015 To Open In Paris For First Time","short_title":"HR Tech World Congress 2015 To Open In Paris","url":"\/community-voice\/industry-insight\/hr-tech-world-congress-2015-to-open-in-paris-for-first-time","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null},{"nid":"25632","title":"Finalists for the North American Employee Engagement Awards announced","short_title":"Engagement Awards US finalists announced","url":"\/community-voice\/industry-insight\/finalists-for-the-north-american-employee-engagement-awards","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null},{"nid":"25429","title":"One month to go to get your Employee Engagement efforts recognized globally","short_title":"Engagement Awards US closes to entries in a month","url":"\/community-voice\/industry-insight\/one-month-to-go-to-get-your-employee-engagement-efforts-recognized","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"tid":null,"term_name":null,"term":null}],"topics_":[{"nid":"27491","title":"Presenteeism: Physical presence and psychological absence combined","short_title":"Presenteeism is 'psychological absence' at work","url":"\/lead\/culture\/presenteeism-physical-presence-and-psychological-absence-combined","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/luriisokolov.jpg?itok=h1hgNUgw","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"27568","title":"Boring and unproductive meetings? There's an app for that!","short_title":"Unproductive meetings? There's an app for that!","url":"\/perform\/business\/boring-and-unproductive-meetings-theres-an-app-for-that","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/mimic51.jpg?itok=PdijyV0x","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28009","title":"Risky business: how historical views of risk management limit ambidexterity","short_title":"Is your view of risk management holding HR back?","url":"\/perform\/business\/risky-business-how-historical-views-of-risk-management-limit-ambidexterity","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/squaredpixels_3.jpg?itok=OgKLYcBy","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""}],"topics_92":[{"nid":"27491","title":"Presenteeism: Physical presence and psychological absence combined","short_title":"Presenteeism is 'psychological absence' at work","url":"\/lead\/culture\/presenteeism-physical-presence-and-psychological-absence-combined","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/luriisokolov.jpg?itok=h1hgNUgw","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"27568","title":"Boring and unproductive meetings? There's an app for that!","short_title":"Unproductive meetings? There's an app for that!","url":"\/perform\/business\/boring-and-unproductive-meetings-theres-an-app-for-that","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/mimic51.jpg?itok=PdijyV0x","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""},{"nid":"28009","title":"Risky business: how historical views of risk management limit ambidexterity","short_title":"Is your view of risk management holding HR back?","url":"\/perform\/business\/risky-business-how-historical-views-of-risk-management-limit-ambidexterity","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/squaredpixels_3.jpg?itok=OgKLYcBy","sponsored":false,"term":"Academics Corner","brand_id":null,"in_association":""}],"topics_91":[{"nid":"28071","title":"What keeps HR up at night? The top concerns of HR professionals","short_title":"What keeps HR up at night?","url":"\/resources\/what-keeps-hr-up-at-night-the-top-concerns-of-hr-professionals","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_ivonnew_trouble_sleeping.jpg?itok=dWB6rlwL","sponsored":false,"term":"HR After Dark","brand_id":"23338","in_association":"Sponsored"},{"nid":"27986","title":"How to transform HR with Human Resource Management Software","short_title":"Transform HR with HR Management Software","url":"\/resources\/how-to-transform-hr-with-human-resource-management-software","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/istock_000055004404_xxxlarge.jpg?itok=bcBNzWx9","sponsored":false,"term":"HR After Dark","brand_id":"23347","in_association":"Sponsored"},{"nid":"27263","title":"Talent have not won the war. It\u2019s a terrible lie.","short_title":"Talent have not won the war. It\u2019s a terrible lie.","url":"\/lead\/future\/talent-have-not-won-the-war-its-a-terrible-lie","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/andrew_rich.jpg?itok=P6XUQjgC","sponsored":false,"term":"HR After Dark","brand_id":null,"in_association":""}],"topics_41":[{"nid":"28196","title":"Employer branding: 12 tips of Christmas ","short_title":"Employer branding: 12 tips of Christmas ","url":"\/community\/blogs\/gemmcgrattan\/employer-branding-12-tips-of-christmas","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""},{"nid":"28199","title":"Google re:Work \u2013 casting light on data driven decision making","short_title":"3 HR areas where companies can learn from Google","url":"\/community\/blogs\/paul-barnes\/google-rework-casting-light-on-data-driven-decision-making","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""},{"nid":"28228","title":"Innovation in HR","short_title":"Inspiring Creativity and Innovation in HR","url":"\/community\/blogs\/peter-cook\/innovation-in-hr","thumbnail_url":"\/sites\/all\/themes\/hrz\/img\/default-16x9.jpg","sponsored":false,"term":"Engagement","brand_id":null,"in_association":""}],"topics_54":[{"nid":"28020","title":"Future of HR: Is it time we went fear-free?","short_title":"Future of HR: Is it time we went fear-free?","url":"\/lead\/future\/future-of-hr-is-it-time-we-went-fear-free","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/majivecka.jpg?itok=7Z3HQkhw","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""},{"nid":"28021","title":"Future of HR: Making diversity and inclusion real","short_title":"Future of HR: Making diversity and inclusion real","url":"\/lead\/future\/future-of-hr-making-diversity-and-inclusion-real","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/lorenzoantonucci.jpg?itok=gPRelY63","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""},{"nid":"28024","title":"Future of HR: Engagement is over \u2013 manage energy","short_title":"Future of HR: Engagement is over \u2013 manage energy","url":"\/lead\/future\/future-of-hr-engagement-is-over-manage-energy","thumbnail_url":"\/\/www.hrzone.com\/sites\/default\/files\/styles\/media_medium\/public\/jeff_hu.jpg?itok=_4X9bRw6","sponsored":false,"term":"Neuroscience","brand_id":null,"in_association":""}]}  </script>
     <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 
@@ -1108,12 +1182,13 @@
 </script>
 
   <script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_JLxuxbhhrFRy-sBnijHkR0TGGHgiukMPv94zvDWgQ3g.js"></script>
-<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js__xWWqTWCnjHjdxV7AVqdzcgG5GDhMYQ5sM7eGr-4p2Q.js"></script>
+<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_ExC9gH277BPVU59rADeYY7ibvNLiyQcl8afz5nO3RDU.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2100040-8", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension2", "Basic page");ga("send", "pageview");
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2100040-8", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("set", "dimension2", "Basic page");ga("set", "dimension8", "unknown");ga("send", "pageview");
 //--><!]]>
 </script>
+<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_xfoV4ZT_-uuc1Zixyn3Pyx4Vsm3rka1fPbbODZZJkkk.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
   var cX = cX || {}; cX.callQueue = cX.callQueue || [];
@@ -1130,28 +1205,23 @@
       window.siftMedia.cxense.widgets = {"06ee3f249141d45edbbef6ecf9c01913f0378520":"HRZ (PP) - Trending Articles (onto article)","074641a7f01c362aecc92b253a0217ce0d6abade":"ND - test","0d08515695f9e517afff9e001727bd363219d625":"HRZ (PP) - Related content","2e49058dee4b35fa1901e445218d27cd8804dc3b":"HRZ (PP) - Content Block (Overview Pages)","4536315d228a83a082af1ae14830541f9f09e2ea":"HRZ (PP) - Popular Resources (Overview Pages)","6247df75b433581e8a8027ffce67370b50839905":"ND tracking test","7f9b1f6e7f4ca90afbbba69cdcf1ea14d845f891":"HRZ (PP) - Anyanswer Trending Block","9e0c42e8217d702366ddbd23851553a0256272f1":"[DEV-test] of HRZ (PP) - Trending Articles (3)","a176370c12d1804f2073e5351581f3c6b038b122":"HRZ (PP) - Trending Articles (3)","aad8b9e95e7bdca3f9a621f6d5017c445c6fa508":"PA copy of HRZ (PP) - Essential Reading (home page)","ac4c855ea6dc4e643a3a13f24034a42ba4942856":"HRZ (PP) - Anyanswer Related Content","c6a0c92a7cf3556944a001f5353841bfd0fccd9b":"HRZ (PP) - You Might Also Like (single)","d11d985b389ec14841568278a5545ae29a82f57a":"HRZ (PP) - Essential Reading (Overview Pages)"};
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_ci_mulkex5WSdZAqgZRlg_xGBX0ObjKsrTK1q2t4Jtw.js"></script>
+<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_JCdwykZzKL0ipQ78AhkCmZ9RYC4Vl354SMmDOZYS010.js"></script>
 <script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
 <script type="text/javascript" src="//platform.instagram.com/en_US/embeds.js"></script>
 <script type="text/javascript" src="//dcc4iyjchzom0.cloudfront.net/widget/loader.js"></script>
+<script type="text/javascript" src="//fast.wistia.net/assets/external/E-v1.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
         (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_McyQSqiswAu2YkWIHbfhk6FCOe5oGmA3p9tL3W2knvk.js"></script>
-<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_0B9dEOdrDIawN_75t10WHbb4Ywc0c3jGLaevsVVzkzo.js"></script>
+<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script type="text/javascript" src="http://www.hrzone.com/sites/default/files/js/js_m1GiSi1r-ttabFXHrtUVSTuMIR9Jrd42kPbehu2QPm8.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hrz","theme_token":"hlIsaZ_ER47MNFgQLXP2sBj1oUfy6swA95tcmLSwCqU","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/quote\/quote.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"2":1,"3":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_hellobar\/js\/sm_pp_email_signup_hellobar.js":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_popup\/js\/sm_pp_email_signup_popup.js":1,"\/\/platform.twitter.com\/widgets.js":1,"\/\/platform.instagram.com\/en_US\/embeds.js":1,"\/\/dcc4iyjchzom0.cloudfront.net\/widget\/loader.js":1,"4":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/pp\/js\/page.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/quote\/quote.css":1,"sites\/all\/modules\/custom\/sm_pp_cookies\/sm_pp_cookies.css":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_hellobar\/css\/sm_pp_email_signup_hellobar.css":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_popup\/css\/sm_pp_email_signup_popup.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/custom\/sm_pp_media_ckeditor\/css\/sm_pp_media_ckeditor.css":1,"sites\/all\/modules\/custom\/sm_pp_media_ckeditor\/css\/sm_pp_media_ckeditor_perm.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.css":1,"sites\/all\/themes\/hrz\/css\/style.css":1}},"quote_nest":"0","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"sm_pp_newsletter_subs":{"newsletters":[]},"urlIsAjaxTrusted":{"\/privacy-policy":true},"field_group":{"html-element":"full"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hrz","theme_token":"uhbf-FAwbWXxFhh1Orl1CUe_xPpZglhy02VHVLBsgOo","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/quote\/quote.js":1,"sites\/all\/modules\/custom\/sm_pp_newsletter_subscriptions\/js\/sm_pp_newsletter_subscriptions.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/custom\/sm_pp_adblock_detection\/js\/sm_pp_adblock_detection.js":1,"2":1,"3":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_hellobar\/js\/sm_pp_email_signup_hellobar.js":1,"sites\/all\/modules\/custom\/sm_pp_user_tracking_googleanalytics\/js\/sm_pp_user_tracking_googleanalytics.js":1,"\/\/platform.twitter.com\/widgets.js":1,"\/\/platform.instagram.com\/en_US\/embeds.js":1,"\/\/dcc4iyjchzom0.cloudfront.net\/widget\/loader.js":1,"\/\/fast.wistia.net\/assets\/external\/E-v1.js":1,"4":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/pp\/js\/page.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/quote\/quote.css":1,"sites\/all\/modules\/custom\/sm_pp_cookies\/sm_pp_cookies.css":1,"sites\/all\/modules\/custom\/sm_pp_email_signup_hellobar\/css\/sm_pp_email_signup_hellobar.css":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/custom\/sm_pp_media_ckeditor\/css\/sm_pp_media_ckeditor.css":1,"sites\/all\/modules\/custom\/sm_pp_media_ckeditor\/css\/sm_pp_media_ckeditor_perm.css":1,"sites\/all\/themes\/hrz\/css\/style.css":1}},"quote_nest":"0","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"sm_pp_newsletter_subs":{"newsletters":[]},"urlIsAjaxTrusted":{"\/privacy-policy":true},"field_group":{"html-element":"full"}});
 //--><!]]>
 </script>
-  <script type="text/javascript" src="/sites/all/modules/contrib/wysiwyg/wysiwyg.js?nijcfw"></script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-
+  <script type="text/javascript" src="/sites/all/modules/contrib/wysiwyg/wysiwyg.js?nijcfw"></script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
