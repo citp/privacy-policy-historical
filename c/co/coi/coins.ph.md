@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922113342id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417221732id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
 
-# Coins.ph is a quick way to transfer cash, pay bills, and load your phone.
+# Coins.ph is the best way to send money, pay bills, and load your phone in the Philippines.
 
 **Effective Date: Dec 1st, 2013. Last updated: Jan 30th, 2014.**
 
