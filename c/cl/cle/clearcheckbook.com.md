@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908000342id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417220653id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: ClearCheckbook.com
 
