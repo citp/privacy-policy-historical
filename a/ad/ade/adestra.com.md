@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121646id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417031414id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adestra
 
@@ -67,3 +67,5 @@ OX2 0EA
 Tel: +44 (0) 1865 242425  
 Fax: +44 (0) 1865 255241  
 Email: [moreinfo@adestra.com](mailto:moreinfo@adestra.com)
+
+This site uses cookies to improve your user experience. By using this site you agree to these cookies being set. Accept [Read More](http://www.adestra.com/cookie-policy/)
