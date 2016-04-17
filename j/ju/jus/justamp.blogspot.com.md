@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justamp.blogspot.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028111221id_/http%3A//justamp.blogspot.com/2009/09/privacy-policy-for-just-another-mobile.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justamp.blogspot.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417222734id_/http%3A//justamp.blogspot.com/2009/09/privacy-policy-for-just-another-mobile.html) for the most accurate reproduction.*
 
 # Just Another Mobile Phone Blog: Privacy Policy for Just Another Mobile Phone Blog
 
