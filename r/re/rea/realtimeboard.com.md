@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtimeboard.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910044705id_/https%3A//realtimeboard.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimeboard.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417150247id_/https%3A//realtimeboard.com/policy) for the most accurate reproduction.*
 
 # Privacy policy, online whiteboard | RealtimeBoard
 
