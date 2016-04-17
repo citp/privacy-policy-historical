@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211203217id_/http%3A//www.virool.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417185909id_/https%3A//www.virool.com/help/article/214947518) for the most accurate reproduction.*
 
-# Privacy Policy | Virool
+# Privacy Policy | Virool Help
 
 **Privacy Policy**
 
-**August 2012**
+**December 2015**
 
 This privacy policy (the “Policy”) describes the privacy practices of Virool Inc. (“Virool,” “we,” “our,” or “us”) with respect to our online video advertising services. We select, target and deliver our advertisers’ ads through use of our proprietary technology and/or technology from third party technology service providers, if any (the “Virool Platform”). In addition, in order to provide our users, current and prospective customers and job seekers, with information regarding our services, we maintain our corporate website, www.virool.com (the “Site”). This Policy describes how we collect, use and disclose information in connection with our operation of the Virool Platform and the Site.
 
 Virool reserves the right to modify this Policy at any time by posting the changes on the Site.
 
-Your continued use of the Virool Platform and/or the Site constitutes your acceptance of the current posted Policy.
+Your continued use of the Virool Platform and/or the Site constitutes your acceptance of the current posted Policy.62
 
 **What Information We Collect – Personally Identifiable Information**
 
@@ -28,7 +28,7 @@ The Site collects non-personally identifiable information that your browser auto
 
 We, and some of our third-party service providers, collect non-personally identifiable information through the use of “cookies.” A cookie is a small text file containing a string of characters that is placed by an Internet server on your hard drive. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to store the non-personally identifiable described above, and to store inferences we make based on that non-personally identifiable information about what a User’s interests might be. Most web browsers are initially set up to accept cookies, but you can change your web browser settings to cause your browser to refuse cookies or to indicate when a cookie is being sent. You can remove and/or disable cookies by following directions provided in your Internet web browser’s “help” file or menu. Please be aware, however, that some aspects of the Virool Platform may not function properly if cookies are disabled.
 
-We also collect non-personally identifiable information through the use of “tracking pixels,” also known as “beacons.” A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third party service providers to help us collect and analyze this information.
+We also collect non-personally identifiable information through the use of “tracking pixels,” also known as “beacons.” A tracking pixe7l is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third party service providers to help us collect and analyze this information.
 
 **Third-Party Information**
 
@@ -62,15 +62,18 @@ We may occasionally update this Policy. When we do, we will also revise the effe
 
 **Contacting Us**
 
-If you have any questions, comments or concerns about this Policy, please email us at [[privacy@virool.com](mailto:privacy@virool.com)]. You may also contact us by calling
+If you have any questions, comments or concerns about this Policy, please email us at [privacy@virool.com]. You may also contact us by calling
 
-(415) 735-5560 or sending a letter to:
+(415) 735-5560 or sending a letter to:
 
-Virool, Inc.  
-Attention: Privacy Inquiries  
-767 Bryant St, Unit 210  
+Virool, Inc.
+
+Attention: Privacy Inquiries
+
+767 Bryant St, Unit 210
+
 San Francisco, CA 94107
 
-**You can opt out of interest-based advertising.**  
-virool.com Platform Opt Out: You can click below to opt out of having the Platform used to select ads for you based on your online behavior. When you opt out, an opt out cookie (from virool.com) will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies’ use of the Platform. If you block or delete the opt out cookie, the Platform will not see your choice.  
+**You can opt out of interest-based advertising.**
 
+virool.com Platform Opt Out: You can click below to opt out of having the Platform used to select ads for you based on your online behavior. When you opt out, an opt out cookie (from virool.com) will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies’ use of the Platform. If you block or delete the opt out cookie, the Platform will not see your choice.
