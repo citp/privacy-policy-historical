@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearblue.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208064032id_/http%3A//uk.clearblue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearblue.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417173901id_/http%3A//uk.clearblue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clearblue
 
@@ -75,7 +75,5 @@ SPD Swiss Precision Diagnostics GmbH and its affiliates take reasonable precauti
 **If you have any comments or questions about this Privacy Policy, wish to report any violations of the Privacy Policy or would like to request access, correction or deletion of your Personal Information,** please write to SPD Swiss Precision Diagnostics Ltd., Attn. General Counsel at 47 route de St Georges, 1213 Petit-Lancy, Switzerland, or email SPD at [privacy@spdspark.com](mailto:privacy@spdspark.com).
 
 **If you have product related enquiries** please contact the **Careline**. This is operated by SPD’s affiliated company, SPD Development Company Limited in the UK. The Careline contact details are shown on the Site of your country of residence under Contacts. Please be ready to quote the lot number from the product pack. Calls to the Careline may be monitored or recorded for quality control purposes and your personal data may be collected as outlined above.
-
-**We welcome any suggestions, ideas or comments you have regarding our Site.** You may send these suggestions to [websuggestions@spdspark.com](mailto:websuggestions@spdspark.com)
 
 **Thank you for visiting our Site.**
