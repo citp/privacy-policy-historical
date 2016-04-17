@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627160813id_/http%3A//travelvista.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelvista.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417103112id_/http%3A//travelvista.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » World Travel Guide | TravelVista.net
+# Privacy Policy
 
 Travel Vista has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
