@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921221318id_/http%3A//www.repvine.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repvine.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417094252id_/http%3A//repvine.com/privacy-policy) for the most accurate reproduction.*
 
-# Repvine
-
-### PrivacyPolicy
+# Privacy policy - Repvine
 
 **Why do you have a Privacy Policy?**
 
@@ -30,11 +28,11 @@
 
 **How can I update my information?**
 
-> If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the in the My Account section of the site] or by contacting our[Customer Support](http://www.repvine.com/contact/).
+> If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the in the My Account section of the site] or by contacting our[Customer Support](http://repvine.com/contact/).
 
 **How can I opt-out of receiving emails?**
 
-> Receiving Repvine notifications are part of the membership of the Service, alerting you to actions with your Repvine account. Further, Repvine may produce and sent you a Newsletter as part of the membership of the Service. The main purpose of Repvine is to find and share the things that make daily life interesting. In addition to the offers on the site we need to be able to reach out to our users via email. We don’t clutter up your inbox. You are able to control how you receive and view these emails by going to the settings page of Repvine.
+> Receiving SharingSmiles notifications are part of the membership of the Service, alerting you to actions with your SharingSmiles account. Further, SharingSmiles may produce and sent you a Newsletter as part of the membership of the Service. The main purpose of SharingSmiles is to find and share the things that make daily life interesting. In addition to the offers on the site we need to be able to reach out to our users via email. We don’t clutter up your inbox. You are able to control how you receive and view these emails by going to the settings page of SharingSmiles.
 
 **Co – registrations.**
 
@@ -46,4 +44,4 @@
 
 **Changes To The Privacy Policy.**
 
-> By registering, you agree to accept this privacy policy and are aware that Repvine’s privacy policy may change from time to time without notice. We strongly advise our members to check back from time to time. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and/or by posting a notice on our Web site. We also welcome any feedback from you; please [contact us](http://www.repvine.com/contact/) if you have any comments regarding this privacy policy. You are encouraged to [contact us](http://www.repvine.com/contact/) for more information.
+> By registering, you agree to accept this privacy policy and are aware that SharingSmiles’s privacy policy may change from time to time without notice. We strongly advise our members to check back from time to time. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email and/or by posting a notice on our Web site. We also welcome any feedback from you; please [contact us](http://repvine.com/contact/) if you have any comments regarding this privacy policy. You are encouraged to [contact us](http://repvine.com/contact/) for more information.
