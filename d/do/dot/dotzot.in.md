@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotzot.in privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715112614id_/http%3A//www.dotzot.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotzot.in privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417195930id_/http%3A//dotzot.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Dotzot
 
