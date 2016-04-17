@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the role-editor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051859id_/http%3A//role-editor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the role-editor.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417163150id_/https%3A//www.role-editor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | User Role Editor
+# Privacy Policy - User Role Editor
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via [Contact Form](http://role-editor.com/contact-us "Contact Us"). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via [Contact Form](https://www.role-editor.com/contact-us "Contact Us"). 
 
 At role-editor.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by role-editor.com and how it is used. 
 
