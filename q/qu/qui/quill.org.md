@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428101652id_/http%3A//www.quill.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417172954id_/https%3A//www.quill.org/privacy) for the most accurate reproduction.*
 
 # Quill.org — Interactive Writing and Grammar
 
@@ -145,10 +145,9 @@ We may revise this Privacy Policy from time to time. We will notify users of any
 
 If you have any questions regarding this Privacy Policy, comments, or would like to know what Personal Information has been collected about you, please contact us by emailing hello@quill.org or writing to:
 
-Empirical Resolution Inc.  
-1625 Putnam Ave. #3G
+Empirical Resolution Inc.   
+55 Exchange Pl.   
+Suite #603   
+New York, NY 10005
 
-Ridgewood, NY 11385
-
- _updated 11/10/14_  
-
+ _updated 12/07/15_
