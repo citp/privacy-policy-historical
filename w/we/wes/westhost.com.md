@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westhost.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923212205id_/https%3A//www.westhost.com/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westhost.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417110857id_/https%3A//www.westhost.com/policies/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WestHost
 
@@ -6,7 +6,7 @@
 
 Your Satisfaction is Our Underlying Policy
 
-[](http://www.etrust.org/cert/729200.html "TRUSTe online privacy certification")
+[](http://www.etrust.org/cert/729200.html)
 
 ## Privacy Policy
 
@@ -17,6 +17,8 @@ This Privacy Policy discusses how Hosting Services, Inc. (HSI) collects, uses, m
 Upon request, we provide Users with access to all information they have provided to us. Users can access this information by e-mailing us at [ billing@westhost.com](mailto:billing@westhost.com) or [billing@contact4.westhost.com](mailto:billing@contact4.westhost.com). If their personally identifiable information changes, Users may correct, update, or delete inaccuracies through [https://cp.westhost.com](https://cp.westhost.com/) or <https://corp2.westhost.com/account>. If Users are having trouble accessing the contact address above, our customer support team can assist them, and they can be contacted at 1-800-222-2165 option 7. Users may also contact us at the address below to correct, amend or delete information we maintain about them.
 
 HSI complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce.  These frameworks address the collection, use and retention of personal information from European Union member countries and Switzerland. HSI has certified that it adheres to both Safe Harbor Privacy Principles’ respective provisions addressing notice, choice, onward transfer, security, data integrity, access and enforcement. The EU has recognized the US Safe Harbor as providing adequate data protection. The seven applicable Safe Harbor Principles can be found in this Privacy Policy.  This Privacy Policy covers information collected during the pure base process.  If Users have questions or complaints regarding our Privacy Policy or practices, please contact us at [sales@westhost.com](mailto:sales@westhost.com) or call 1-800-222-2165 option 7. If Users are not satisfied with our response, Users can contact [eTRUST here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+The EU Safe Harbor program is due to be superseded by the [EU Privacy Shield](http://www.privacytrust.com/privacyshield/) later this year. Until such time any data collected will remain in accordance with Safe Harbor.
 
 HSI's Safe Harbor Certification can be found here: <http://www.etrust.org/cert/729200.html>
 
