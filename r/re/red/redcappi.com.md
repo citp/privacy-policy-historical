@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcappi.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120065347id_/http%3A//www.redcappi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcappi.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417123429id_/https%3A//www.redcappi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | RedCappi
 
@@ -19,4 +19,4 @@ At RedCappi, we respect our customers and make every effort to ensure the privac
 
 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.redcappi.com](https://web.archive.org/web/20141120065347id_/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.redcappi.com](https://web.archive.org/web/20160417123429id_/)
