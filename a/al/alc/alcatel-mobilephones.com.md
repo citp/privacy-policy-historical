@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alcatel-mobilephones.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182217id_/http%3A//www.alcatelonetouch.us/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcatel-mobilephones.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417171032id_/http%3A//www.alcatelonetouch.us/privacy-policy) for the most accurate reproduction.*
 
-# ALCATEL ONETOUCH: Help > Privacy, Security & Accessibility
+# Alcatel | Privacy Policy
 
-Your privacy is important to us and TCL Communication Technology Holdings Limited (collectively "TCT”) recognizes privacy and security as being concerns for most individuals accessing the Internet, including its customers. TCT has developed a Privacy Policy that covers how it collects, uses, discloses and stores your information. By using TCT’s web site, you consent to the collection and use of your information by TCT as set forth in the then current Privacy Policy. This statement of Privacy Policy discloses TCT’s privacy policy for a public web site relating to ALCATEL ONETOUCH.
+Your privacy is important to us and TCL Communication Technology Holdings Limited (collectively "TCT”) recognizes privacy and security as being concerns for most individuals accessing the Internet, including its customers. TCT has developed a Privacy Policy that covers how it collects, uses, discloses and stores your information. By using TCT’s web site, you consent to the collection and use of your information by TCT as set forth in the then current Privacy Policy. This statement of Privacy Policy discloses TCT’s privacy policy for a public web site relating to alcatel.
 
-#### Collection of Personal Information
+### Collection of Personal Information
 
 When a visitor places an order with TCT, TCT may collect personal information about you, including name, title, company, address, email address, phone numbers and, in rare instances, other categories of personal information, such as payment card information, driver’s license numbers, social security numbers (or equivalent national identification numbers) and date of birth.
 
@@ -14,7 +14,7 @@ In addition, TCT’s web server logs collect the domain names of visitors to its
 
 Any submissions that you make to any public areas of TCT’s web site such as bulletin boards ("Public Areas") will be public and will not be considered personal information. TCT does not control, and are not responsible for, the actions of other users of the web site or of clients with respect to any information you post in Public Areas. In addition, information that you submit to Public Areas may be collected and used by others to send you unsolicited messages and for other purposes.
 
-#### Personally Identifiable Information
+### Personally Identifiable Information
 
 When you are on the TCT’s web site and are asked for personal information, you are sharing that information with TCT, its subsidiaries and related companies. Additionally, if you purchase a cellular phone, accessories or other device requiring service, your personal information is shared with the service provider/carrier with whom you subscribe.
 
@@ -28,7 +28,7 @@ TCT takes great pride in utilizing only reputable business partners. TCT may, on
 
 Except as outlined in this policy or on its web site, TCT does not provide your personal information to third parties without your consent. Please note that, in special cases, TCT may need to share information without acquiring consent, such as when it believes in good faith that the law requires it, or to identify, contact or bring legal action against someone who may be violating its site’s Terms of Use or may be violating TCT’s or other's rights or causing injury to or interfering with TCT's or others’ property.
 
-#### Non-Personally Identifiable Information
+### Non-Personally Identifiable Information
 
 When you enter TCT’s web site, the server may attach a small text file to your hard drive — commonly called a “cookie”. Your unique cookie tells TCT that it is you whenever you re-enter the web site, so TCT can recall where you have previously been on the web site, and what, if anything, you have in your shopping cart. Cookies help TCT deliver a better web site experience to its users.
 
@@ -36,13 +36,13 @@ TCT may also use cookies to measure traffic patterns, and which areas of the TCT
 
 You have choices with respect to cookies. By modifying your Internet browser preferences, you have the ability to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please note that, if you choose to reject all cookies you will be unable to use those services or engage in activities that require the placement of cookies.
 
-#### Use of Information Collected via TCT’s Web Site
+### Use of Information Collected via TCT’s Web Site
 
 TCT shall use your personally identifiable information that is collected on its web sites primarily for the following purposes:
 
   * To deliver services or to complete a transaction or service requested by you. TCT's primary goal in collecting personal information is to facilitate product order processing and to enable TCT to contact you if a problem arises with your order. Additionally, if you purchase a cellular phone, accessories or other device requiring service, your personal information may be used to obtain a credit report if necessary. Such information is required when making a purchase.
-  * To alert you of special offers, updated information and other new products or services from TCT, or other third parties, or to forward promotional materials to you
-  * To fulfill the terms of a promotion. TCT shall use the information it collects to help target valuable marketing and advertising offers. This kind of advertising may be done with banner ads as well as promotional emails sent by TCT, or by third parties under contract with TCT. TCT may also match user information with third party data to help it better understand its customers. TCT also conducts research on its users' demographics, interests, and behavior based on the information provided to it when making a purchase, during a promotion, from surveys and from its server log files. TCT does this to better understand and serve its users. This research is compiled and analyzed on an aggregated basis as to prevent identification of personal information relating to any one individual. TCT may share this aggregated data with its business partners
+  * To alert you of special offers, updated information and other new products or services from TCT, or other third parties, or to forward promotional materials to you.
+  * To fulfill the terms of a promotion. TCT shall use the information it collects to help target valuable marketing and advertising offers. This kind of advertising may be done with banner ads as well as promotional emails sent by TCT, or by third parties under contract with TCT. TCT may also match user information with third party data to help it better understand its customers. TCT also conducts research on its users' demographics, interests, and behavior based on the information provided to it when making a purchase, during a promotion, from surveys and from its server log files. TCT does this to better understand and serve its users. This research is compiled and analyzed on an aggregated basis as to prevent identification of personal information relating to any one individual. TCT may share this aggregated data with its business partners.
   * To ensure TCT’s web site are relevant to your needs as well as to help TCT create and publish content most relevant to you. This information may also be used to provide you with a customized experience on TCT’s web site, which includes interactive communications, and other services. TCT’s web site may also contain optional surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. TCT uses the information you provide to help it design and build better products, to customize your shopping experience, and to provide advice and purchase recommendations. Taking part in any of these segments is always optional and voluntary
   * To notify you about a material change to this privacy policy or the Terms of Use Agreement, if necessary
   * To allow you access to limited-entry areas of TCT’s web sites
@@ -51,15 +51,15 @@ TCT shall use your personally identifiable information that is collected on its 
 
 
 
-#### Access to Personal Information
+### Access to Personal Information
 
 TCT or its business partners may, from time to time, send you email or direct mail regarding TCT’s products and services. If you do not want to receive such information, simply inform TCT when giving your personal information, or follow the directions contained on the mailing to remove your name from its mailing list(s).
 
 On certain types of TCT promotions or sweepstakes, TCT will ask for your email address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests. Please note that by refusing to provide personal information or by denying or withdrawing consent to use personal information for purposes identified, you may be unable to participate in certain programs or activities sponsored by TCT.
 
-You also have the right to access (review, correct, amend or delete) your personal information by contacting TCT. Individuals are responsible for providing TCT with accurate and complete personal information, and for contacting TCT if correction of such information is required. Please note that, where permitted, TCT reserves the right to disallow unreasonable requests for access. If you have established a "user profile" on TCT’s web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information. Please use the [Contact Us](https://web.archive.org/info/contactUs) form to direct any questions concerning TCT’s Privacy Policy. Requests to unsubscribe from ("opt-out" of) communications from TCT may also be made using the [Contact Us](https://web.archive.org/info/contactUs) form.
+You also have the right to access (review, correct, amend or delete) your personal information by contacting TCT. Individuals are responsible for providing TCT with accurate and complete personal information, and for contacting TCT if correction of such information is required. Please note that, where permitted, TCT reserves the right to disallow unreasonable requests for access. If you have established a "user profile" on TCT’s web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information. Please use the Contact Us form to direct any questions concerning TCT’s Privacy Policy. Requests to unsubscribe from ("opt-out" of) communications from TCT may also be made using the Contact Us form.
 
-#### Security of Your Personal Information
+### Security of Your Personal Information
 
 When you place an order or provide personal information, TCT employs certain technical and organization security measures. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, TCT cannot ensure or warrant the security of any information you transmit to TCT and you understand that any information that you transfer to TCT is done at your own risk.
 
@@ -67,14 +67,14 @@ Your information is protected during transmission by Secure Sockets Layer (SSL) 
 
 We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information. You can add or update certain information on pages. When you update information, a copy of the prior version may be kept for our records
 
-#### International Transfer of Information
+### International Transfer of Information
 
 As part of a global company TCT has international sites and users from all over the world. The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country. Whenever TCT handles personal information, regardless of where this occurs, it takes appropriate steps to ensure that your information is treated securely and in accordance with the relevant Terms of Use, this Privacy Policy and all applicable laws and regulations.
 
-#### Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 TCT reserves the right to change this Privacy Policy from time to time in its sole discretion. When TCT does, TCT will also revise the "last update" date at the bottom of this Privacy Policy.
 
-#### Collection and Use of Information from Children Under the Age of 13
+### Collection and Use of Information from Children Under the Age of 13
 
 TCT does not knowingly collect personal information from children under 13. If TCT learns that it has collected the personal information of a child under 13 TCT will take steps to delete the information as soon as possible.
