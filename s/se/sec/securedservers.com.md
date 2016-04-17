@@ -1,67 +1,80 @@
-> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202113828id_/http%3A//www.securedservers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417030301id_/https%3A//phoenixnap.com/cs/legal/pp.html) for the most accurate reproduction.*
 
-# SecuredServers | Privacy Policy
+# Phoenix NAP Privacy Agreement
 
-This privacy policy only applies to this website. It does not apply to any websites that might be operated by Secured Servers' clients or their clients. Secured Servers' clients may or may not have their own privacy policy. If you have questions about a Secured Servers' client's privacy policy you must contact that client directly. Secured Servers expressly denies any responsibility for any information that you provide to a Secured Servers client or a client of a Secured Servers client. 
+Phoenix NAP holds user privacy paramount and takes great care keeping information of site users and Clients private and secure. PNAP adheres to the U. S. – Swiss Safe Harbor framework as well as Safe Harbor principles agreed to and set forth by the U. S. Department of Commerce and the European Union (EU), [http://export.gov/safeharbor/.](http://export.gov/safeharbor/)
 
-### Our Commitment to Privacy:
+The following explains our policies and procedures surrounding collected data, describing the information we collect, how we use, disclose, and share Client data, and how we protect the information. This Privacy Agreement does not apply to Third Party Services governed by their own privacy policies. 
 
-SECURED SERVERS, LLC Is committed to protecting the privacy of visitors to this Web site ("Site") and other SECURED SERVERS Web sites. To accomplish this, we have implemented a comprehensive Privacy Policy that governs all information collected on or submitted to our Site. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of Secured Servers' Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. 
+* Method; Types of Data Collected 
 
-### The Information We Collect and How We Use It:
+Data is collected using the following methods: 
 
-  1. Non-Personal and Aggregated Information. When you visit our Site, we may log general data, such as your domain name (e.g., www.securedservers.com), the name of the Web page from which you entered our Site, which pages you visit on our Site, and how much time you spend on each page. We use this information to continually monitor and improve our Site and for internal analysis. In particular, we use IP addresses to analyze trends, administer the Site, track user's movement, and gather information for aggregate use. (IP addresses are not linked to personally identifiable information.)
-  2. Personal Information. As a visitor to our Site, you may choose to use the Site to send us personal information (e.g., your name, mailing address, telephone number, e-mail address), for example, when you send a question via the Site, register for a particular service, or submit your resume through our Site. Anytime you submit personal information for a specific purpose using the Site, your information is used for that purpose only, unless you consent otherwise or as required by law. When you submit personal information to SECURED SERVERS on this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country, which may not provide privacy protections similar to those your country provides.
-
-
-
-We do not send unsolicited e-mail to you or other visitors to our Site. We use e-mail to respond to e-mail messages from you, to confirm product or service orders placed online and to engage other communication that you have authorized or that we have determined necessary to more effectively service you and our customers. 
-
-In many cases, you choose the amount of information you supply (e.g., when sending us information through the Site, you may choose to include only an e-mail address - not a telephone number or mailing address - for replies). There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. 
-
-### Cookies:
-
-The term "cookie" refers to files that are transferred from a Web site to your computer's hard drive. SECURED SERVERS does not use cookies, except as expressly set forth in this Privacy Policy. 
-
-### Who We Share It With:
-
-  
+  * Online registration and online signup forms
+  * Sales inquiries and transactions
+  * Electronic Client communications
+  * Telephone, in-person, paper, and other traditional forms of communication and interaction
+  * Third party sources
 
 
-We may share non-personal, aggregated information with our customers, partners, and advertisers. Aggregated information is not linked to any personal information that can identify an individual person or website. 
 
-Unless we have your permission or are required by law, we only share the personal information you provide through our Site with SECURED SERVERS affiliates and/or business partners that are acting on our behalf. We make every reasonable effort to ensure that such SECURED SERVERS affiliates and business partners, including those in the U.S. and/or any other countries, protect your personal information consistent with our Privacy Policy. 
+The data may include information about users from forms, registrations, transactions, financial, site usage, preferences, and privileges and can include names, titles, contact information, and payment information. 
 
-### Our Commitment To Data Security:
+* What Data We Collect and How We Are Allowed to Use It 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through the Site. However, please be advised that SECURED SERVERS cannot and does not guarantee and has no control over the public or third party network through which you send your personal information to Secured Servers' Site. 
+Data that PNAP collects is or can be used for the following purposes:
 
-### Our Commitment To Children's Privacy:
+  1. **Engaging in transactions for service.** Name, address, email, purchase details, and payment information may be collected and stored as part of the transaction history. Some of this data may need to be shared with credit card clearing houses, banking institutions, and/or similar agents (an entity—person or company—acting on our behalf) requiring the information to complete the transaction. 
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. 
+PNAP will not transfer information to any of its agents without ascertaining that the Agent subscribes to Safe Harbor principles or is subject to the EU Directive on Data Protection (or other adequacy finding) or enters into a written agreement requiring at least the dame level of privacy protection as required by the relevant Safe Harbor principles. 
 
-### Linked Internet Web Sites:
-
-This Site provides hyperlinks that, when clicked, take you to another place within the document, to another document altogether, or to other Web sites not controlled by SECURED SERVERS. These hyper-linked Web sites may contain privacy provisions that are different from those provided herein. SECURED SERVERS is not responsible for the collection, use or disclosure of information collected through these Web sites, and SECURED SERVERS expressly disclaims any and all liability related to such collection, use, or disclosure. 
-
-### How To Correct, Amend, or Delete Your Information:
-
-  
-
-
-We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact [asap-support@securedservers.com](mailto:asap-support@securedservers.com). To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. Privacy Policy Changes: 
-
-This Privacy Policy is subject to change. Any changes to Secured Servers' Privacy Policy will be posted on the Site. All information submitted through the Site to SECURED SERVERS is subject to the terms and conditions of this Privacy Policy, as amended. 
-
-### How To Contact Us:
-
-  
+  2. **Providing future marketing, service, and support.** Contact data and product/service/support information is collected and used to provide Client with support, service, updates, and similar notices, as well as to tailor future products and offerings to Clients.
+  3. **Selecting Content**. Form data and site navigation data is collected and used to help create user friendly and easily navigable site content. 
+  4. **Responding to user inquiries and requests for information**. Contact information is collected and used to provide online newsletters, opt-in mailing lists, and specific answers to Client requests for further information. 
+  5. **Responding to Law Enforcement, government officials, third party subpoenas, court orders, or applicable law, reporting or preventing suspected fraudulent or illegal activity while using PNAP services**. PNAP will notify Client of information requests or submissions if and as allowed. 
+  6. **Contractors**. Data is shared if it is necessary for them to perform duties on our behalf. 
+  7. **Affiliates**. Shared data is subject to this PA. 
+  8. **Another Entity**. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding we will transfer all collected data. 
+  9. **PNAP Communities (Resellers, sales representatives, et. al)**. Data is used to provide communities with relevant product alerts and updates related to product releases, prices, terms, special offers, and associated campaigns when a program member signs up to the relevant program or account as well as to follow up on Client requests for products or services. 
+  10. **To PNAP from public discussions and forums**. Some parts of the site allow interactive discussions that PNAP does not control the content of, some of which are moderated, all of which are subject to access for technical reasons by PNAP. Due to the public nature of the forums, Client should consider any data posted and tailor content submitted accordingly. 
 
 
-Should you have other questions or concerns about Secured Servers' Privacy Policy, please [contact us](mailto:asap-support@securedservers.com) at or write to us at: 
+* Client Portal, Customization, Preferences, and Opt-Out 
 
-**Secured Servers, LLC**   
-2353 W. University Dr.   
-Tempe, AZ 85281-7223   
-Phone (480) 449-7750   
-Fax (480) 449-8801 
+New Clients are automatically registered for access to the Client Portal, which includes the ability to create, add, and delete users and privileges and opt in or out of some* services and/or mailing lists. The Client Portal allows you control over electronic information delivery, but not over PNAP’s collection and storage of information. A “Master Account” is provided to Clients, and that account has the ability to manage Client’s profile information as long as the account remains active. 
+
+*Clients cannot opt out of communications regarding downloads, sales transactions, software updates, patches, and fixes, legal disclosures, network upgrades, or other related maintenance. 
+
+* Safe Harbor 
+
+PNAP is committed to uphold the highest ethical standards in its business practices and strives to collect, use and disclose personal information in a manner consistent with the laws of countries in which it does business. This Safe Harbor Privacy Policy sets forth the privacy principles that PNAP follows with respect to personal information transferred from the European Economic Area (EEA) (which includes the twenty-eight member states of the European Union (EU) plus, Iceland, Liechtenstein and Norway) and from Switzerland to the United States. PNAP complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. PNAP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement within the scope of its Safe Harbor certification. In addition, certain personal information may be subject to more specific privacy policies of PNAP, which are also consistent with the requirements of the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework.
+
+If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
+
+To learn more about the Safe Harbor program, and to view PNAP's certification, please visit the [export.gov](http://export.gov/) Safe Harbor page.
+
+In compliance with the U.S.-EU and US-Swiss Safe Harbor Principles, PNAP commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact PNAP at the address below.
+
+PNAP has further committed to refer unresolved privacy complaints under the U.S.-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+* Security 
+
+PNAP uses commercially reasonable methods to keep collected data safe, including policies, procedures, employee training, physical access, and technical elements relating to data access controls. Standard security protocols and mechanisms are used to facilitate the exchange and transmission of sensitive data, like credit card details. Personally Identifiable Information (PII) is not processed in a way that is incompatible for the purposes it is collected for and authorized by the individual to be used for. PNAP will notify individuals affected due to actual or reasonably suspected breach by an unauthorized person in accordance with applicable law by email or Client Portal ticket, and, failing that, by regular mail promptly and consistent with the legitimate needs of law enforcement and measures necessary for PNAP or law enforcement to determine the scope of the breach and ensure/restore the integrity of the data system. Notification may be delayed if PNAP or a law enforcement agency determines that notification will impede a criminal investigation, in which case notification is not provided unless and until PNAP or the agency determines that the investigation will not be compromised by the investigation. 
+
+* Enforcement 
+
+Internal mechanisms have been established to verify PNAP’s ongoing adherence to its privacy agreement, including Safe Harbor principles. Individuals covered by this agreement are encouraged to raise any concerns about processing of personal information by contacting PANAP so that PNAP may seek to resolve any concerns. PNAP has agreed to participate in the Dispute Resolution Program provided by the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. 
+
+* Policy Updates 
+
+If PNAP will be using Client PII in a manger that is different than provided in this agreement we will notify client by email. If changes are made that do not affect PII that we already have stored in our databases, we will notify Client by email or post changes in a prominent notice in the Client Portal.
+
+* Contact Information and Inspection Rights 
+
+Questions, concerns, or comments about this agreement should be addressed to:
+
+Phoenix NAP LLC  
+C/O Legal Department  
+2353 West University Dr  
+Tempe, AZ 85281  
+
