@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the full30.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906121739id_/https%3A//www.full30.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the full30.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418010205id_/https%3A//www.full30.com/privacy) for the most accurate reproduction.*
 
 # 
 
