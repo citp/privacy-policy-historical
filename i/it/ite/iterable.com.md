@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iterable.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304073658id_/http%3A//iterable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iterable.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417102722id_/https%3A//iterable.com/privacy-policy) for the most accurate reproduction.*
 
-# Iterable | Privacy policy
+# Privacy Policy
 
 * * *
 
-By visiting the website located at http://iterable.com and any other applications and features (collectively, the “Site”) and using the services (the “Services”) provided by Iterable, Inc. (“Iterable.com” or “us”), you consent to our use and processing of your information as set forth herein. This Privacy Policy covers Iterable.com’s treatment of personal information that Iterable.com gathers when you are on the Site or use the Services and that our customers and business partners share with Iterable.com. These privacy practices apply to Iterable.com’s customers and any internet users that visit the websites, applications or other features offered by Iterable.com’s customers (collectively, “Customer Sites”). This policy does not apply to third parties that Iterable.com does not own or control. 
+By visiting the website located at http://iterable.com and any other applications and features (collectively, the “Site”) and using the services (the “Services”) provided by Iterable, Inc. (“Iterable.com” or “us”), you consent to our use and processing of your information as set forth herein. This Privacy Policy covers Iterable.com’s treatment of personal information that Iterable.com gathers when you are on the Site or use the Services and that our customers and business partners share with Iterable.com. These privacy practices apply to Iterable.com’s customers and any internet users that visit the websites, applications or other features offered by Iterable.com’s customers (collectively, “Customer Sites”). This policy does not apply to third parties that Iterable.com does not own or control.
 
-Any order forms or additional agreements to which users agree governing the provision of optional Iterable.com features shall take precedence over the terms of this Privacy Policy to the extent of any differences, so please read such order forms or additional agreements carefully. 
+Any order forms or additional agreements to which users agree governing the provision of optional Iterable.com features shall take precedence over the terms of this Privacy Policy to the extent of any differences, so please read such order forms or additional agreements carefully.
 
 ## Collection of Information from Customer Site End Users
 
@@ -22,33 +22,33 @@ Standard Data – common information found in every communication sent over the 
 
 Clickstream Data – Iterable.com can infer how you use our Customer Sites and various pages on the internet.
 
-Iterable.com may use this PII and non-personally identifiable information to provide our Services to our customers. 
+Iterable.com may use this PII and non-personally identifiable information to provide our Services to our customers.
 
 ### Cookies
 
 Cookies are alphanumeric identifiers transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Like most internet sites, Iterable.com uses cookies to enhance our users’ and customers’ experience on the internet. These cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your name or e-mail address is.
 
-Most browsers allow you to prevent the browser from accepting new cookies, to be notified when you receive a new cookie, or to disable cookies. To disable cookies set by Iterable.com, simply contact us at privacy@Iterable.com and we will provide you with an opt-out. 
+Most browsers allow you to prevent the browser from accepting new cookies, to be notified when you receive a new cookie, or to disable cookies. To disable cookies set by Iterable.com, simply contact us at privacy@Iterable.com and we will provide you with an opt-out.
 
 ### Data Retention
 
-Cookies set on behalf of Iterable.com expire after three years and the expiration date updates every time you encounter our server. Iterable.com retains standard web log data 5 years after you visit a Customer Site, and aggregations and reports for up to 10 years after you visit a Customer Site. 
+Cookies set on behalf of Iterable.com expire after three years and the expiration date updates every time you encounter our server. Iterable.com retains standard web log data 5 years after you visit a Customer Site, and aggregations and reports for up to 10 years after you visit a Customer Site.
 
 ### Consumer Choice and Access
 
-The process for individual internet users to review and/or request changes to their PII collected by Iterable.com is outlined in the Additional Policies section below. 
+The process for individual internet users to review and/or request changes to their PII collected by Iterable.com is outlined in the Additional Policies section below.
 
 ## Collection of Information from Iterable.com Customers
 
-This section describes our policies for end users of the Iterable.com Site and Services, Iterable.com customers, and corporate partners. 
+This section describes our policies for end users of the Iterable.com Site and Services, Iterable.com customers, and corporate partners.
 
 ### Information You Provide to Us
 
 We receive and store any information you enter on the Site or through the Services or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. We use PII provided by you for such purposes as responding to your requests for Services, customizing the content you see, communicating with you about our products, and marketing our Services to you.
 
-In order for you to use all of our features, you must register with Iterable.com. We require your e-mail address and password during the registration process. 
+In order for you to use all of our features, you must register with Iterable.com. We require your e-mail address and password during the registration process.
 
-Further information may be required if you choose to purchase paid components of the Services, such as credit card and billing information. Iterable.com uses third party partners for credit card processing who may require and store your credit card and billing information. 
+Further information may be required if you choose to purchase paid components of the Services, such as credit card and billing information. Iterable.com uses third party partners for credit card processing who may require and store your credit card and billing information.
 
 ### Automatic Information
 
@@ -56,9 +56,9 @@ We receive and store certain types of information whenever you interact with us.
 
 ### E-mail Communications
 
-If you purchase Iterable.com’s online tools to collect and analyze user and usage data for your Customer Site through the Site or Services, Iterable.com will communicate with you about the services you purchase by e-mail. You consent to receiving such confirmations by e-mail. If you contact us via e-mail through the Site, we may retain a record of your contact information and any information you provide us in your message to respond to you. We may receive a confirmation when you open an e-mail from Iterable.com. 
+If you purchase Iterable.com’s online tools to collect and analyze user and usage data for your Customer Site through the Site or Services, Iterable.com will communicate with you about the services you purchase by e-mail. You consent to receiving such confirmations by e-mail. If you contact us via e-mail through the Site, we may retain a record of your contact information and any information you provide us in your message to respond to you. We may receive a confirmation when you open an e-mail from Iterable.com.
 
-We may also send e-mails with service updates, news or promotions. If you do not want to receive e-mail from us, please contact us at privacy@Iterable.com. If you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site and Services. 
+We may also send e-mails with service updates, news or promotions. If you do not want to receive e-mail from us, please contact us at privacy@Iterable.com. If you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Site and Services.
 
 ### Information From Other Sources
 
@@ -84,7 +84,7 @@ Iterable.com may provide services or sell products jointly with affiliated busin
 
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products and services. Examples include billing, processing payments, providing marketing assistance, and providing customer service. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, Iterable.com’s agents do not have any right to use PII collected from our Site and Services beyond what is necessary to assist us.
 
-Financial and billing information is collected through the Site and Services directly by a third-party intermediary and is used solely to bill for the Services. Iterable.com does not receive your billing information from this third-party intermediary, who may store, retain, and use the information provided solely for the purpose of credit card processing. 
+Financial and billing information is collected through the Site and Services directly by a third-party intermediary and is used solely to bill for the Services. Iterable.com does not receive your billing information from this third-party intermediary, who may store, retain, and use the information provided solely for the purpose of credit card processing.
 
 ### Promotional Offers
 
@@ -96,11 +96,11 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 ### Protection of Iterable.com and Others
 
-We may release PII when we in our sole discretion believe in good faith that release is necessary or appropriate to comply with the law, enforce or apply our conditions of use and other agreements, or protect the rights, property, or safety of Iterable.com, our employees, our customers, or others. 
+We may release PII when we in our sole discretion believe in good faith that release is necessary or appropriate to comply with the law, enforce or apply our conditions of use and other agreements, or protect the rights, property, or safety of Iterable.com, our employees, our customers, or others.
 
 ### With Your Consent
 
-Except as set forth above, you will be notified when your personal information may be shared with third parties. 
+Except as set forth above, you will be notified when your personal information may be shared with third parties.
 
 ## Additional Policies
 
@@ -110,11 +110,11 @@ Your Iterable.com account information is protected by a password for your privac
 
 ### Accessing Information
 
-You are able to access, add to and update certain information about you. When you update information, however, we often maintain a copy of the unrevised information in our records. You may deactivate your Iterable.com account by following the deactivation process set forth on the Site. Some information may remain in our records after deletion of your account. Please contact us at privacy@Iterable.com if you have questions or concerns about accessing your PII. 
+You are able to access, add to and update certain information about you. When you update information, however, we often maintain a copy of the unrevised information in our records. You may deactivate your Iterable.com account by following the deactivation process set forth on the Site. Some information may remain in our records after deletion of your account. Please contact us at privacy@Iterable.com if you have questions or concerns about accessing your PII.
 
 ### Conditions of Use
 
-Your use of the Site and Services and any possible dispute over privacy are subject to this Privacy Policy and our Terms of Service, including limitations on damages, dispute resolution, and application of California state law. 
+Your use of the Site and Services and any possible dispute over privacy are subject to this Privacy Policy and our Terms of Service, including limitations on damages, dispute resolution, and application of California state law.
 
 ### International Visitors
 
@@ -122,13 +122,13 @@ For users outside the United States, please note that any data or PII you enter 
 
 ### US-EU Safe Harbor and US-Swiss Safe Harbor
 
-Iterable, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iterable Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Iterable Inc.’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/\])
+Iterable, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iterable Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Iterable Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### Privacy Complaints by European Union And Swiss Citizens
 
 In compliance with the US-EU and US-Swiss Safe Harbor Principles, Iterable Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Iterable Inc. at privacy@iterable.com or by mail at 470 Bryant Street, San Francisco, CA, 94107.
 
-Iterable Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Iterable Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Iterable Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Iterable Inc., please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Use of Iterable.com by Children
 
@@ -140,10 +140,10 @@ The Site and Services may permit you to link to other websites on the Internet, 
 
 ### Changes to this Privacy Policy
 
-Iterable.com may amend this Privacy Policy. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our privacy policy, we will notify you by posting an announcement on our Site. 
+Iterable.com may amend this Privacy Policy. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our privacy policy, we will notify you by posting an announcement on our Site.
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Iterable.com, please send us a detailed message to privacy@iterable.com or to Iterable, Inc. at 470 Bryant Street, San Francisco, CA 94107. Your privacy is important to us and we will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at Iterable.com, please send us a detailed message to privacy@iterable.com or to Iterable, Inc. at 929 Market St. Suite 500, San Francisco, CA 94103. Your privacy is important to us and we will make every effort to resolve your concerns.
 
-Last Updated: April 2013
+Last Updated: July 13, 2015
