@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010075001id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfainstitute.org privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417194627id_/https%3A//www.cfainstitute.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx) for the most accurate reproduction.*
 
 # CFA Institute Privacy Policy
 
-**Last updated: March 2014**
+**Last updated: January 2016**
 
 This privacy policy (" **Privacy Policy** ") describes how CFA Institute gathers and protects certain individually identifiable information (" **Personal Information** ") and how CFA Institute may use, process, transfer, and share Personal Information. CFA Institute, located at 915 East High Street, Charlottesville, VA, 22902, owns and operates this website (the " **Site** "). This Privacy Policy applies to Personal Information that we collect through the Site, as well as offline collections of Personal Information about CFA Institute and CIPM Association members (" **Members** "), CFA®, CIPM®, and Claritas® Program candidates, and participants and attendees at CFA Institute events.
 
@@ -32,14 +32,31 @@ You may provide Personal Information to CFA Institute in a number of ways, inclu
 The Personal Information that we collect may include: your full name, business address, home address, email address, telephone number, credit card number, passport number, national ID, driver's license number, education, job description, employer, criminal history, medical or health information, gender, religious/philosophical beliefs, marital status, and date of birth.
 
 **Information collected by the Site through cookies and other tracking devices**  
-Our Site uses cookies and other tracking devices to collect information automatically. A cookie is a data file that is placed by the web server into your browser's application folder on your computer. Cookies collect information about how our Site is accessed and used, and this information may include browser type, IP address, date and time of access, previously viewed websites, and your actions on our Site. We may use session cookies, which are deleted as soon as you close your browser, as well as persistent cookies, which remain on your browser. The information collected by cookies generally cannot identify you individually. However, to the extent that we combine Personal Information with non-personal cookie information, we will treat that information as Personal Information.
+Our Site uses cookies and other tracking devices, as described below, to collect information automatically.
 
-CFA Institute uses cookies to facilitate access and use of the Site, improve the performance of the Site, understand the activities of Site visitors, identify patterns in Site usage, remember you as a previous user and your previously set preferences, and gain information about your internet browsing habits. CFA Institute may also use cookies to associate you with your account profile.
+CFA Institute and its third-party partners and vendors use these devices to facilitate access and use of the Site, improve the performance of the Site, understand the activities of Site visitors, identify patterns in Site usage, remember you as a previous user and your previously set preferences, and gain information about your internet browsing habits. CFA Institute may also use cookies to associate you with your account profile.
 
-By using the Site, you agree to our use of cookies as described above. You may configure your Internet browser to notify you when a cookie is sent (giving you the option to decide whether to accept it or not), and to reject or remove cookies. To remove cookies, please follow your browser's instructions or contact your browser provider for more information. By removing or refusing to accept cookies, you may be unable to use or access some features of our Site.
+**Cookies.** Cookies are small pieces of information that a website transfers to your computer. Our Site may use session ID cookies (expire when you close the browser) and persistent cookies (persist even after you close the browser), which help our Site run more smoothly and tailor content for you. Most web browsers have options that allow you to control whether or not to accept cookies and give you the option to delete all cookies. However, please note that disabling cookies in your browser may prevent access to some parts of our Site. Do Not Track Signals: our Site is not currently configured to respond to a browser’s Do Not Track signals.
 
-**Information collected by third party cookies and other tracking devices**  
-CFA Institute uses selected third parties to conduct analytics on the Site, as well as to serve relevant ads on third party Internet sites. CFA Institute currently uses Omniture for these purposes. CFA Institute does not provide any Personal Information to these companies to allow them to use such information on their own behalf, or for the benefit of any other party. These advertising companies may, however, place their own cookies on your browser. You can choose not to allow these advertising companies to use their cookies to serve you ads on third party internet sites. [Review Omniture's privacy policy opt-out instructions](http://www.omniture.com/en/privacy/product#optout). [Review the Omniture Privacy Policy](http://www.omniture.com/en/privacy).
+**Device IDs.** We may collect and store a unique device ID associated with your particular device to track the number of unique visitors using our Site and to enable you to interact with and use our Site. We link your device ID with the technical information accessed through your use of our Site for the uses described in this Privacy Policy.
+
+**Clear Gifs (Web Beacons/Web Bugs).** Our Site may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), which helps us to better manage content on our Site by informing us what content is viewed or clicked on. Clear gifs are tiny graphics with a unique identifier similar in function to cookies. In contrast to cookies, which are stored on a visitor's computer, clear gifs are embedded invisibly on web pages and e-mails and are about the size of a period.
+
+**Log Files.** We may also gather certain information automatically and store it in log files. For instance, when you visit our Site, the server may automatically recognize some information, including but not limited to, the date and time you visited our Site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), and the domain name and address of your internet service provider.
+
+**Online Behavioral Advertising.** Our Site may place or recognize cookies and similar technologies on your browser or device when you visit it for purposes of serving you targeted advertising (a.k.a. "online behavioral advertising"). We also work with third party analytics and advertising companies who place their own cookies or similar technology on your browser or device when you visit our Site and other third-party websites, in order to provide analytics to us or serve customized advertisements to you. As noted above, you can set your device or browser to accept or reject most cookies, or at least notify you in most situations that the technology is offered. As an additional step, these advertising companies may participate in one of the following self-regulatory programs for online behavioral advertising, with corresponding user opt-outs:
+
+  * [Networking Advertising Initiative](http://www.networkadvertising.org/choices)
+  * [Digital Advertising Alliance](http://www.aboutads.info/choices)
+  * [Digital Advertising Alliance Canada](http://youradchoices.ca/choices)
+  * DAA AppChoices Mobile App - For mobile devices (e.g., smartphones, tablets), you may consider downloading the DAA AppChoices Mobile App to manage such technology
+  * [European Interactive Digital Advertising Alliance in Europe](http://www.youronlinechoices.eu/)
+
+
+
+Please note that even if you reject such devices, you may continue to receive advertisements, but the advertisements will not be tailored to your browsing activities and interests. 
+
+By using the Site, you agree to the use of cookies and other tracking devices as described above. You may configure your Internet browser to notify you when a cookie is sent (giving you the option to decide whether to accept it or not), and to reject or remove cookies. To remove cookies, please follow your browser's instructions or contact your browser provider for more information. By removing or refusing to accept cookies, you may be unable to use or access some features of our Site.
 
 [Back to top](https://web.archive.org/about/governance/policies/Pages/cfa_institute_privacy_policy.aspx#top)
 
@@ -117,7 +134,7 @@ CFA Institute does not knowingly collect any personal information from children 
 
 ## Changes to This Policy
 
-If we make any material changes to our privacy practices we will post a prominent notice on our website notifying users of the change.
+If we make any material changes to our privacy practices, we will post a prominent notice on our Site notifying users of the change.
 
 ## Contact Us
 
