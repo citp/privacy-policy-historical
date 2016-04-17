@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the ktopia.net privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222204342id_/http%3A//ktopia.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktopia.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417081421id_/http%3A//ktopia.net/privacy.php) for the most accurate reproduction.*
 
 # Ktopia - Our Privacy Policy
 
-### Privacy
+### Privacy Policy
 
-## Policy
+Our team here at Top Fashion Wear is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
-Thank you for visiting our web site. This privacy policy explains to you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**General**  
+Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
 
-The privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+1\. for special promotions which may be offered on occasion on our sites in conjunction with a third party service provider in order to fullfill any deals or promotions that the user signed up for
 
-#### What information do we collect?
+2\. to third party service providers we have partnered with so we may provide services our users requested
 
-We collect information when you register an account on our site. We require a working email address to become a member of our web site. You may visit our web site anonymously, however there will be some features that are restricted unless you are a member.
+3\. following a notice posted on a relevant page on our site that collects personal information following a transaction that notifies the user and discloses the purchase
 
-#### What do we use your information for?
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We may use the given information to personalize your experience as well as for internal record keeping. This will help us improve our web site through statistical analysis and feedback we receive from you. We may also use the emails provided to send periodic emails regarding special promotions or events we may host. We will also host a service that will allow your email to be a subscriber to our newsletter which will outline the latest updates of our web site. We will not disclose any information we gather to outside third party sources.
+**Cookies**  
+To make our content and site as a whole as relevant as possible, we will collect information that identifies your browser type, user agent, IP address or other information. We will never track and store any personally identifiable information. We are able to do this by placing small files or cookies on your computer when you browser through our sites. Cookies are simply small pieces of data that include an anonymous unique identifier that travels to your browser and is stored on your hard drive. Users have the ability to delete and/or clear cookies whenever they so choose, and cookies in no way cause any damage to a computer. They simply enable a more efficient, relevant browsing experience.
 
-#### How we secure your information?
+**Disclosure of User Information for Legal Purposes**  
+Federal and state laws requires that from time to time we may be obligated to share personal user information (review Cookies section) that are pursuant to judicial subpoenas or warrants. We also reserve the right to use and share personal information we collect in order to investigate and prevent any activity deemed illegal, fraudulent or may cause physical harm to another person.
 
-In order to prevent unauthorized access to third parties we have put in place different security measures. This will ensure that your personal information will stay secure to the best of our abilities. 
+**External Links**  
+Our site’s pages will contain links to third party websites that be be unrelated to the content we have created and own. Please understand that we are not responsible for the privacy practices of any and all third party companies and websites. It is always recommended to review the privacy policies of all websites you enter to ensure you are fully protected under the law.
 
-#### Do we use cookies?
+**Children**  
+Federal law mandates that we cannot collect any personally identifiable information that originates from a child under the age of thirteen without full consent from that child’s parent of guardian. Therefore we will never collect any information if we know or deem the user to be under the age of thirteen.
 
-We do not use cookies. However, this may be subject to change in the future to provide a better personal experience.
-
-#### Links to other websites
-
-Our website, at times, may contain third party links to other web sites. If you choose to navigate to their website, we will not be responsible for the protection or privacy of any information you provide while visiting such web sites. These third party sites have their own separate and independent privacy policies.
-
-#### Terms and Conditions
-
-Please also visit our Terms and Conditions section which will outline the uses, any disclaimers, and limitations of liability governing our web site at [http://www.ktopia.net/terms.php](https://web.archive.org/web/20150222204342id_/http%3A//ktopia.net/terms.php)
-
-#### Changes
-
-If we change our privacy policy, we will post these changes here.
+**Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
