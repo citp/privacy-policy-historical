@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130152739id_/http%3A//www.herbs-info.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-info.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417174027id_/http%3A//www.herbs-info.com/privacy.html) for the most accurate reproduction.*
 
 # Herbs Info - Privacy Policy
 
