@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatik.net privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109144753id_/http%3A//estatik.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatik.net privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418005520id_/https%3A//estatik.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Estatik
 
@@ -21,7 +21,7 @@ Estatik website visitors are not obliged to provide us with any kind of informat
 
 _Non-personal_ information collected by computer:
 
-  * Cookies – small pieces of information sent from [www.estatik.net](http://estatik.net/) and stored in Your browser while You are browsing our website. Cookies help Estatik identify You as an individual. Mostly browsers automatically allow to accept cookies but You can change Your browser settings and reject [www.estatik.net](http://estatik.net/) cookies.
+  * Cookies – small pieces of information sent from [www.estatik.net](https://estatik.net/) and stored in Your browser while You are browsing our website. Cookies help Estatik identify You as an individual. Mostly browsers automatically allow to accept cookies but You can change Your browser settings and reject [www.estatik.net](https://estatik.net/) cookies.
 
 
 
@@ -29,7 +29,7 @@ _Non-personal_ information collected by computer:
 
 In general we need this information for improving our products and services, namely:
 
-  * Learn about most needed and urgent features/products/services You would like to use on [www.estatik.net](http://estatik.net/)
+  * Learn about most needed and urgent features/products/services You would like to use on [www.estatik.net](https://estatik.net/)
   * Provide You support service, fix any bugs/issues
   * Offer You new products/services as well as notify about sales, best deals, etc.
 
