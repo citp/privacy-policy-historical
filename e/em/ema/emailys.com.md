@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emailys.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128085534id_/http%3A//emailys.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailys.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417172826id_/http%3A//www.emailys.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Emailys
 
-Emailys is committed to protecting the privacy of our clients and web site visitors. Maintaining it fosters confidence, goodwill and stronger relationships. For more information on how Emailys enforces permission email marketing with our clients, please see our [Anti-Spam Policy](https://web.archive.org/web/20151128085534id_/http%3A//emailys.com/antispam-policy.html) as well as feel free to contact us.   
+Emailys is committed to protecting the privacy of our clients and web site visitors. Maintaining it fosters confidence, goodwill and stronger relationships. For more information on how Emailys enforces permission email marketing with our clients, please see our [Anti-Spam Policy](https://web.archive.org/web/20160417172826id_/http%3A//www.emailys.com/antispam-policy.html) as well as feel free to contact us.   
 
 
 ### Web Site Information Collection
