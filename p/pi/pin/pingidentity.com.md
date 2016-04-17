@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926133145id_/https%3A//www.pingidentity.com/content/pic/en/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417125639id_/https%3A//www.pingidentity.com/en/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,7 +85,9 @@ We have implemented reasonable information security policies, rules and technica
 
 All our employees, contractors and data processors who have access to, and are associated with the processing of your personal data, are obligated to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us.
 
-[](https://safeharbor.export.gov/list.aspx)[  ](http://export.gov/safeharbor)
+[**We self-certify compliance with:**](https://safeharbor.export.gov/list.aspx)
+
+[](http://www.export.gov/safeharbor)
 
 ### Safe Harbor Privacy Statement
 
