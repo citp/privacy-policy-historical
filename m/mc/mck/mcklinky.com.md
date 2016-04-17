@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906164014id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417092507id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mcklinky.com
 
@@ -27,8 +27,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 • To send periodic emails  
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, simply click on the unsubscribe options at the bottom of every email..  
-
+Note: If at any time you would like to unsubscribe from receiving future emails, simply click on the unsubscribe options at the bottom of every email..
 
 **How do we protect your information?**
 
