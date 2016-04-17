@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoins.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201111id_/http%3A//www.yoins.com/Yoins-Privacy-and%25C2%25A0Cookies-a-8.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoins.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417224010id_/http%3A//www.yoins.com/Yoins-Privacy-and%25C2%25A0Cookies-a-8.html) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -56,9 +56,9 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 We may disclose your personal information to any of our group of companies. We may also disclose your personal information to third parties:
 
-    â—¦    in the event that YOINS sells or buys any business or assets;  
-    â—¦    if YOINS or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets; or  
-    â—¦    if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of; or to protect the rights, property, or safety of YOINS, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+    \---    in the event that YOINS sells or buys any business or assets;  
+    \---    if YOINS or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets; or  
+    \---    if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of; or to protect the rights, property, or safety of YOINS, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Third party sites**
 
