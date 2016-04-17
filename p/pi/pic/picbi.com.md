@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picbi.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910143921id_/http%3A//picbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbi.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417044552id_/http%3A//picbi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
