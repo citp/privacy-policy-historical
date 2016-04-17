@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150449id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417032749id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartSurvey
 
@@ -8,7 +8,7 @@ This privacy policy applies to **www.smartsurvey.co.uk** which is owned and oper
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.smartsurvey.co.uk you are accepting and consenting to the practices described in this policy.
 
-For the purposes of the Data Protection Act 1988, the data controller is Smartline International Limited (registration number: 4885155) of (Unit 37, Basepoint Business Centre, Tewkesbury, GL208SD) in relation to all data (e.g. registration, billing and account information) other than data provided on client surveys. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our clients’ instructions and permissions. 
+For the purposes of the Data Protection Act 1988, the data controller is Smartline International Limited (registration number: 4885155) of (Unit 23, Basepoint Business Centre, Tewkesbury, GL208SD) in relation to all data (e.g. registration, billing and account information) other than data provided on client surveys. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our clients’ instructions and permissions. 
 
 SmartSurvey (Smartline International Limited) is registered under the data protection act (registration number: Z1155070).
 
@@ -95,6 +95,10 @@ Our website may contain links to and from third party websites, including those 
 
 Our website includes Social Media features, such as the Facebook Like button and widgets,and the Share button or interactive mini-programs that run on our website. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it and we cannot accept any liability or responsibility for the use of your information by them.
 
+Data gathered regarding your past activities on our site is used to display relevant offers to you via remarketing adverts, no personally identifying data is used for this purpose. Third-party vendors associated with Google use cookies to serve such remarketing advertising to you throughout the internet.
+
+You may opt out of such advertising at any time through [Google's Ads Settings](https://www.google.com/settings/u/0/ads/authenticated).
+
 The information that we collect from you is stored in the UK and will not leave Europe at any point. The security of your personal information is important to us and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website you are responsible for keeping this password confidential and must not share it with anyone. 
@@ -103,4 +107,4 @@ We follow generally accepted industry standards to protect the personally identi
 
 Any changes we may make to this policy in the future will be posted on this page and, where the changes are material, notified to you by email or by means of a notice on our home page, prior to the changes becoming effective. Please check back frequently to see any updates or changes to our privacy policy. You will be deemed to have expressly consented to any change if you continue to use our website and services after the date on which the change becomes effective.
 
-_**Last Updated:** 27th February 2014_
+_**Last Updated:** 16th March 2016_
