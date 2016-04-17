@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031021319id_/http%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngpvan.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417150838id_/https%3A//www.ngpvan.com/content/privacy-policy) for the most accurate reproduction.*
 
 # NGP VAN | The Leading Technology Provider to Democratic and progressive campaigns
 
@@ -96,6 +96,12 @@ NGP VAN does not use cookies or the information obtained through cookies for any
 
 Notwithstanding the above, we reserve the right to disclose data as applicable, if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and other agreements; or to protect the rights, property, or safety of NGP VAN, Inc., our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
+### European Union Safe Harbor Compliant
+
+### Switzerland Safe Harbor Compliant
+
+NGP VAN has certified its adherence to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America, and from Switzerland to the United States of America.  Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data.  While we are confident the above policies meet or exceed the Principles’ requirements, if there is any conflict between the policies in this Privacy Statement and the Principles, the Principles shall govern with respect to personal data originating from the EU and Switzerland.  We encourage interested persons to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes.  If a complaint or dispute concerning EU data privacy cannot be resolved through our internal process, we agree to dispute resolution using JAMS, a third party resolution provider serving as the independent resource mechanism for those affected.  Further information concerning the EU Safe Harbor and the accompanying Principles can be found at: <http://export.gov/safeharbor/>.
+
 ### Acceptance:
 
 Your use of our Web-based software and services constitutes your consent to and your agreement with this Privacy Statement.  If you do not agree to this policy, then you are not permitted to use our software or services.
@@ -108,6 +114,6 @@ NGP VAN
 1101 15th St, NW Suite 500  
 Washington, DC 20005  
 Phone: 202-686-9330  
-E-mail: [support@ngpvan.com](http://ngpvan-com.ngpvanhost.com/mailto:support@ngpvan.com)
+E-mail: [support@ngpvan.com](https://ngpvan-com.ngpvanhost.com/mailto:support@ngpvan.com)
 
-_Last Modified - 8/21/2012_
+_Last Modified - 2/22/2016_
