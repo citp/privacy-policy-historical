@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053954id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Chicago Bears | Privacy policy
 
@@ -148,7 +148,7 @@ We will retain your information for as long as your account is active or as need
 
 **10\. Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [fanservices@chicagobears.com](https://web.archive.org/web/20150905053954id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or write us at:
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [fanservices@chicagobears.com](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or write us at:
 
 Chicago Bears  
 1920 Football Drive  
@@ -164,7 +164,7 @@ Please note that the Services are directed towards users who reside in the Unite
 
 **12\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fanservices@chicagobears.com](https://web.archive.org/web/20150905053954id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or by regular mail at:
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fanservices@chicagobears.com](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or by regular mail at:
 
 CA Privacy Rights  
 Chicago Bears  
