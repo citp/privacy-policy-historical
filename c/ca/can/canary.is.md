@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2015-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151112172548id_/http%3A//canary.is/legal/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417164745id_/https%3A//canary.is/legal/web-privacy) for the most accurate reproduction.*
 
 # Canary Website Privacy Policy | Canary
 
-Canary Connect, Inc. ("Canary") collects personal information on our website at [canary.is ](https://web.archive.org/)and [http://store.canary.is/ ](https://web.archive.org/store/)(together the "Site"). Canary takes security seriously and we care about the integrity of your personal information. What information Canary collects from visitors to our website and what Canary does with that information is outlined in this policy. This information is used to provide our users and customers with the best service and allows us to understand how visitors navigate our Site. By visiting the Site and using our services (e.g., ordering our products, contacting us, etc.) you agree that your personal information will be handled as described in this Policy. Your use of our Site and services, and any dispute over privacy, is subject to this Policy, including those additional terms and conditions and policies referenced or available by hyperlink at [www.canary.is/legal](https://web.archive.org/legal/), including but not limited to, Canary’s System Privacy Policy, System Terms and Conditions, Website Terms of Service, and End User License Agreement, all of which are incorporated by reference into this Policy.
+###### Website Privacy Policy
 
-### Information We Collect About You
+Canary Connect, Inc. ("Canary") collects personal information on our website at [canary.is ](https://web.archive.org/)and [https://store.canary.is](https://store.canary.is/)(together the "Site"). Canary takes security seriously and we care about the integrity of your personal information. What information Canary collects from visitors to our website and what Canary does with that information is outlined in this policy. This information is used to provide our users and customers with the best service and allows us to understand how visitors navigate our Site. By visiting the Site and using our services (e.g., ordering our products, contacting us, etc.) you agree that your personal information will be handled as described in this Policy. Your use of our Site and services, and any dispute over privacy, is subject to this Policy, including those additional terms and conditions and policies referenced or available by hyperlink at [www.canary.is/legal](https://web.archive.org/legal/), including but not limited to, Canary’s System Privacy Policy, System Terms and Conditions, Website Terms of Service, and End User License Agreement, all of which are incorporated by reference into this Policy.
+
+###### Information We Collect About You
 
 ###### Information We Collect Directly From You
 
@@ -19,11 +21,11 @@ We collect information from you when you make a purchase, verify your credit car
 
 We may automatically collect the following information about your use of our Site or services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you visit; links you click; your IP address; the length of time you visit our Site and or use our services; and the referring URL, or the webpage that led you to our Site. Please see the section "Cookies and Other Tracking Mechanisms" below for more information about our use of cookies and other tracking mechanisms.
 
-### Children
+###### Children
 
 Our Site does not knowingly collect or store any personal information about children under the age of 13.
 
-### How We Use Your Information
+###### How We Use Your Information
 
 We use your information for the following purposes:
 
@@ -34,7 +36,7 @@ We use your information for the following purposes:
 
 
 
-### How We Share Your Information
+###### How We Share Your Information
 
 We do not sell your personal information to third parties for their own marketing purposes. We will share your information, including your personal information, with third parties to assist us in providing our services to you and for certain legal purposes. Specifically, we may share your information as follows:
 
@@ -47,7 +49,7 @@ We do not sell your personal information to third parties for their own marketin
 
 
 
-### Our Use of Cookies and Other Tracking Mechanisms
+###### Our Use of Cookies and Other Tracking Mechanisms
 
 ###### COOKIES
 
@@ -79,7 +81,7 @@ For more information on Flash LSOs, or to learn how to manage your settings for 
 
 Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
-### Third Party Analytics and Tracking
+###### Third Party Analytics and Tracking
 
 Like many websites, we use tools (including, but not limited to, Google analytics, Optimizely, Crazyegg, and Qualaroo) to collect information from visitors in order to better understand how they use our website (e.g., browser type, domains, page views). We use these tools to help us improve our services, performance, and user experiences. These entities may use cookies and other tracking technologies to perform their services. Please visit their sites to learn more about the technologies we use, their respective terms and privacy policies, and your options to opt-out of their services (if applicable). We do not share your personal information with these third parties.
 
@@ -87,7 +89,7 @@ In addition, in some of our email messages, we use a "click-through URL" linked 
 
 We currently do not honor browser requests not to be tracked on our Site. Through third parties, however, you do have the option not to be tracked for purposes of advertising. Please see the section regarding "Third Party Ad Networks" below for additional information.
 
-### Third Party Ad Networks & Opt Out Options
+###### Third Party Ad Networks & Opt Out Options
 
 We use third parties such as network advertisers, including, but not limited to, Google's Display Network, Quantcast, and Mediaplex to display advertisements on other websites. Through a process called "retargeting," also known as "remarketing," network advertisers place a cookie on your browser that allows us to show you ads on other sites based on your previous activity on our Site. 
 
@@ -99,29 +101,29 @@ Opting out of one or more NAI member or DAA member networks (many of which will 
 
 Additionally, we use the Google Analytics features for Display Advertising , including Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Using the Ads Settings, you can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. You can also install the Google Analytics opt-out add-on to your browser to prevent your data from being collected by Google Analytics.
 
-### User Generated Content
+###### User Generated Content
 
 We invite you to post content on our Site, including your comments, pictures, and any other information that you would like to be available on our Site. If you post content to our Site, all of the information that you post will be available to all visitors to our Site and will be subject to our website Terms of Service. If you post your own content on our Site or Services, your posting may become public and Company cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.
 
-### Third-Party Links, Websites and Features
+###### Third-Party Links, Websites and Features
 
 Our Site and Services may contain links to third-party websites as well as social media features such as Facebook and Twitter. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We do not control what information these websites collect.
 
-### International Visitors
+###### International Visitors
 
 The Canary website is hosted in the United States. If you are accessing the site from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, then please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
 
-### What Choices Do I Have Regarding Use of My Personal Information?
+###### What Choices Do I Have Regarding Use of My Personal Information?
 
 We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any Services you have requested or received from us.
 
-### Security
+###### Security
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. Please note that no method of transmission over the Internet or electronic storage is 100% secure, and we recommend that you also take steps to prevent your personal data such as signing off after using a shared computer, keeping any log-in information and password private.
 
 We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
-### Contact Us
+###### Contact Us
 
 If you have any questions about our privacy policy or would like to remove your information from our marketing lists, you may contact us at: [legal@canary.is ](mailto:legal@canary.is)or by mail to:
 
@@ -130,7 +132,7 @@ Canary Connect, Inc.
 New York, NY, 10017  
 
 
-### Changes to this Policy
+###### Changes to this Policy
 
 This Policy is current as of the date set forth below. If we make any changes that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
 
