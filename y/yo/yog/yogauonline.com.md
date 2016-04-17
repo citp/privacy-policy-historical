@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408094400id_/http%3A//yogauonline.com/yogatherapy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogauonline.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417055832id_/https%3A//www.yogauonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Yoga U Online
+# Privacy Policy | YogaUOnline
+
+## Privacy Policy
 
 ## Commitment to Your Privacy
 
@@ -31,5 +33,3 @@ Finally, we never use or share the personally identifiable information provided 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here<http://www.networkadvertising.org/managing/opt_out.asp>
-
-Bookmark/Search this post with 
