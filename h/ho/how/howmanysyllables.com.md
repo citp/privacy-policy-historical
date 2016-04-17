@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227062628id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmanysyllables.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417045553id_/http%3A//www.howmanysyllables.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
