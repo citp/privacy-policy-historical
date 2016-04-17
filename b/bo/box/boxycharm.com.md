@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109133450id_/http%3A//www.boxycharm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417095222id_/http%3A//www.boxycharm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BOXYCHARM: The Best Beauty Subscription Boxes
 
-Last Modified: August  10th, 2015 
+Last Modified: November  9th, 2015 
 
 Boxy Charm Inc. (collectively with its affiliates and subsidiaries 
 
