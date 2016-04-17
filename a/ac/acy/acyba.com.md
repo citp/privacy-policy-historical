@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212081703id_/http%3A//www.acyba.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acyba.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418002006id_/https%3A//www.acyba.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
   * We will not sell, distribute or lease your personal information to third parties.
 
@@ -35,7 +35,8 @@ We require this information to understand your needs and provide you with a bett
 ### Security
 
 We are committed to ensuring that your information is secure.  
-In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
+None of your credit card information and/or Paypal account informations are stored in any way by Acyba.
 
 ### How we use cookies
 
