@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615003000id_/http%3A//blippar.com/en/content/124-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippar.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417164442id_/https%3A//blippar.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy - Blippar | Augmented Reality
+# Privacy for Augmented Reality App Blippar
 
-Effective Date: May 1st 2014
+Effective Date: May 1st 2014
 
 The website www.blippar.com (the “Blippar Website”) is owned and operated by Blippar.Com Limited and the expressions "Blippar", "we", "us" and "our" mean Blippar.Com Limited (Registered Number 07446749) whose principal place of business is at 6th Floor, Weston House, 246 High Holborn, London, England, WC1V 7EX.
 
@@ -12,15 +12,15 @@ We take the privacy of users of the Blippar Website seriously. We will obtain, r
 
 This Privacy Policy forms part of the conditions of use of the Blippar Website, which can be found at blippar.com/terms. By using the Blippar Website, the Blippar Mobile Application and the services on the Blippar Website, you consent to the collection and use of your personal data by us for the purposes authorized below and for any other purpose, which is reasonably necessary for the provision of the proper administration of our relationship with you and the Blippar Website.
 
-What information do we collect?
+**What information do we collect?**
 
 We collect information provided by you when you use the Blippar Website and other of the services on the Blippar Website.
 
 In particular, we may collect information from you through the Blippar Website in the following circumstances:        
 
-  * When         you contact us by email or through the Blippar Website with any         particular comments or inquiries;
-  * When         you sign up to the Blippar newsletter; and
-  * When         you contact us to receive details about our Blippbuilder tool.
+  * When you contact us by email or through the Blippar Website with any particular comments or inquiries;
+  * When you sign up to the Blippar newsletter; and
+  * When you contact us to receive details about our Blippbuilder tool.
 
 
 
@@ -28,11 +28,11 @@ For more details about data collection through the Blippar Mobile Application, p
 
 We may collect additional information in connection with your participation in any promotions or competitions offered by us and information you provide when giving us feedback or completing profile forms and questionnaires. We also monitor customer traffic patterns and the use of the Blippar Website, which enables us to improve the service we provide.
 
-How do we use the data we collect?
+**How do we use the data we collect?**
 
 We use personal information collected from you for the following purposes:                                 
 
-  * To deliver our         products and services (including, without limitation, the Blippar Mobile Application);                        
+  * To deliver our products and services (including, without limitation, the Blippar Mobile Application);                        
   * To provide a more personalized service;
   * To contact you regarding the products or services that you have requested;
   * To respond to any comments or queries you may have;        
@@ -42,23 +42,23 @@ We use personal information collected from you for the following purposes:   
 
 
 
-Where you have not objected to such use, we might also use your information to let you know about other products and services which we offer which may be of interest to you. If you do not object initially, but you change your mind later, please email us at info@blippar.com.
+Where you have not objected to such use, we might also use your information to let you know about other products and services which we offer which may be of interest to you. If you do not object initially, but you change your mind later, please email us at [info@blippar.com](mailto:info@blippar.com).
 
-Children Under the Age of 13
+**Children Under the Age of 13**
 
-The Blippar Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Blippar Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information to or on the Blippar Website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@blippar.com.
+The Blippar Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Blippar Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information to or on the Blippar Website. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [info@blippar.com](mailto:info@blippar.com).
 
-Changes to our policy
+**Changes to our policy**
 
 We reserve the right to make changes to this Privacy Policy at any time without prior notice by posting new terms on the Blippar Website. We will only use information in accordance with the Privacy Policy under which the information was collected. If you regularly use the Blippar Website you should continue to check this Privacy Policy for updates and amendments, as you will be deemed to have accepted the changes if you continue to use the Blippar Website after any changes have been posted.
 
-How do we store and maintain personal information?
+**How do we store and maintain personal information?**
 
 All of our employees are subject to obligations of confidentiality regarding information which they have access to in the course of their employment including the personal information of customers. All personal information is held in secure computer storage facilities and paper-based files. We take steps to protect the personal information we hold from misuse, loss, unauthorized access, modification or disclosure.
 
 It may be necessary for us to maintain our records for a number of years. However, when information is no longer required, we will destroy records containing personal information securely.
 
-Disclosure of your information
+**Disclosure of your information**
 
 As we develop our business we might buy or sell businesses or subsidiaries. Where such a transaction occurs, or in the event that we are or substantially all of our assets are acquired, the transferred assets will generally include customer information but any such transfer shall be conditional on this information remaining subject to the restrictions on its use as set out in the Privacy Policy notice pre-existing the transfer.
 
@@ -72,7 +72,7 @@ Where any of your personal information is transferred by us outside of the Europ
 
 We regard our databases of information (which will include your personal information) as an important part of our business and we will not give or sell this information to any outside organization for use in its marketing or solicitation without your consent.
 
-Cookies – What are they and how do we use them?
+**Cookies – What are they and how do we use them?**
 
 "Cookies" are small bits of electronic information that a website can transfer to your hard drive to help tailor and keep records of your visit to that website. If you visit the Website, cookies are used to allow us to better customize your visit to your individual preferences, helping us provide you with the best possible service on the Website. Most major websites use cookies and their use is standard on the Internet. You can find out more about the way cookies work on[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.cookiecentral.com%2F&sa=D&sntz=1&usg=AFQjCNHw6DBIfPn05hduykMfBqiflHuIqw)[www.cookiecentral.com](http://www.google.com/url?q=http%3A%2F%2Fwww.cookiecentral.com%2F&sa=D&sntz=1&usg=AFQjCNHw6DBIfPn05hduykMfBqiflHuIqw) and[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ)[www.allaboutcookies.org](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ).
 
@@ -82,7 +82,7 @@ On visiting our Blippar Website you will be sent anonymous cookies to keep track
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser, but this may restrict the use of some parts of the Website.
 
-Web Beacons – What are they and how do we use them?
+**Web Beacons – What are they and how do we use them?**
 
 We or third parties on our behalf may use web beacons in combination with cookies on the Website, in our emails or in our advertisements. Web beacons help us understand how visitors interact with the Blippar Website and enable us to measure the effectiveness of the Blippar Website and our advertising, for example by counting the number of individuals who have visited the Blippar Website via a particular advert.
 
@@ -92,11 +92,11 @@ Where web beacons are used in connection with cookies then they may be rendered 
 
 You can find out more about the way web beacons work on[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ)[www.allaboutcookies.org](http://www.google.com/url?q=http%3A%2F%2Fwww.allaboutcookies.org%2F&sa=D&sntz=1&usg=AFQjCNG6Kq_2OlsHGdCE3CC2dOVinle_sQ).
 
-Links
+**Links**
 
 The Blippar Website contains links to other websites. Please note that we are not responsible for the privacy practices of such other websites, and we recommend you read the privacy statements immediately on entering other websites. This Privacy Policy applies only to information collected through the Blippar Website.
 
-Your rights
+**Your rights**
 
 IF YOU DO NOT WISH YOUR PERSONAL DATA TO BE USED IN THE MANNER SET OUT IN THIS PRIVACY POLICY PLEASE EXIT the Blippar Website IMMEDIATELY AND DO NOT USE the Blippar Website IN THE FUTURE.
 
@@ -106,15 +106,15 @@ We will be happy to answer any inquiries from you regarding this Privacy Policy,
 
 Please enclose your postal details, proof of identity and a cheque for £10 payable to Blippar.com Limited.
 
-Your California Privacy Rights
+**Your California Privacy Rights**
 
 California Civil Code Section § 1798.83 permits users of the Blippar Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@blippar.com or write to us at Blippar LLC, RocketSpace, 225 Bush Street, Floor 12, San Francisco, CA 94104, USA.
 
-Jurisdiction
+**Jurisdiction**
 
 This Privacy Policy will be exclusively governed by and construed in accordance with the laws of England and Wales (without giving effect to any choice or conflict of law provision) whose Courts will have exclusive jurisdiction in any dispute, save that we have the right, at our sole discretion, to commence and pursue proceedings in alternative jurisdictions.
 
-Use of Blippar Application through mobile device
+**Use of Blippar Application through mobile device**
 
 This Privacy Policy applies to our collection and processing of personal data through the Blippar Mobile Application.
 
