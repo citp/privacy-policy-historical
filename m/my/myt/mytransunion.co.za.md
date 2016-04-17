@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319023945id_/https%3A//mytransunion.co.za/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytransunion.co.za privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417141146id_/https%3A//mytransunion.co.za/Home/Privacy) for the most accurate reproduction.*
 
 # TransUnion | Privacy Policy
 
-### Privacy Policy
+Privacy Policy 
 
 **TRANSUNION CREDIT BUREAU (PTY) LIMITED ("TRANSUNION")**
 
@@ -150,7 +150,7 @@ TransUnion engages third parties that help it deliver its banner advertisements 
 
 
 
-**COMPLIANCE AND ENFORCEMENT OF THIS PRIVACY POLICY**
+**COMPLIANCE AND ENFORCEMENT OF THIS PRIVACY POLICY** **COMPLIANCE AND ENFORCEMENT OF THIS PRIVACY POLICY**
 
 Our compliance with this Privacy Policy will be monitored on a regular basis. Should you have any queries with our Privacy Policy or the manner in which your personal information is treated, we encourage you to direct any such queries or concerns to TransUnion by contacting us at the following email address [webmaster@transunion.co.za](mailto:webmaster@transunion.co.za) or [TUCompliance@TransUnion.co.za](mailto:TUCompliance@TransUnion.co.za). We will ensure you are contacted without delay in an effort to respond to your queries and/or attempt to resolve your concerns in accordance with the principles embodied in this Privacy Policy.
 
