@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the apsrtconline.in privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607025145id_/http%3A//www.apsrtconline.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsrtconline.in privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417054544id_/http%3A//apsrtconline.in/oprs-web/home/privacy.do) for the most accurate reproduction.*
 
-# Privacy Policy at APSRTConline.in
+# APSRTC Official Website for Online Bus Ticket Booking - APSRTConline.in
 
 **That's** why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the information of those using the APSRTC website. Information that can be linked to a specific individual, such as name, address, telephone number, e-mail address and credit card number are protected.
 
-We encourage you to review our Privacy Policy, and become familiar with it, but you should know that we do not sell or rent our customers' personal information to third parties. 
+We encourage you to review our Privacy Policy, and become familiar with it, but you should know that we do not sell or rent our customers' personal information to third parties.
 
-This Privacy Policy explains the following: 
+This Privacy Policy explains the following:
 
 **What personal information does APSRTC gather from me and how is this information used?**   
-When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site. 
+When browsing our site, you are not required to provide any personal information unless and until you choose to make a purchase or sign up for one of our e-mail newsletters or other services as described above. A valid credit card is required to make a purchase on our site.
 
 **Making a Purchase ?**   
-In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. 
+In order to purchase travel and related services through our site, you must provide us with certain personal information such as your name, your credit card number and expiration date, your telephone number, your e-mail address and the name or names of the person(s) traveling (if not you). We require this information so that we can process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status.
 
 **With whom (if anyone) will my personal information be shared?**  
-When you reserve or purchase travel services through APSRTC, we provide to the bus travels, in future to hotel, car-rental agency, travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements. 
+When you reserve or purchase travel services through APSRTC, we provide to the bus travels, in future to hotel, car-rental agency, travel agency or other involved third party only that portion of your personal information that is needed for the successful fulfillment of your travel arrangements.
 
 **What safeguards are in place to protect the loss, misuse or alteration of your information?**   
-All personal information you provide to APSRTC is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on APSRTC, you are protected. 
+All personal information you provide to APSRTC is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. In addition, when you make travel purchases on APSRTC, you are protected.
 
 **What other information should I know about my privacy?**  
-APSRTC contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which APSRTC has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, APSRTC may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority. 
+APSRTC contains links to other web sites. Please note that when you click on one of these links, you are entering another web site for which APSRTC has no responsibility. We encourage you to read the privacy statements of all such sites as their policies may be materially different from this Privacy Policy. Of course, you are solely responsible for maintaining the secrecy of your passwords and credit card numbers. In addition to the circumstances described above, APSRTC may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority.
 
-### Thank you for Choosing Us.
+**Thank you for Choosing Us.**
