@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016143422id_/http%3A//www.spotxchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotxchange.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417055333id_/https%3A//www.spotxchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SpotX
 
@@ -43,7 +43,7 @@ SpotX may also make requests to multiple third-party data vendors for additional
 
 SpotX also works with approved affiliates for the collection and aggregation of search terms used for audience modeling and targeting purposes. No Personal Information is ever shared by SpotX with these affiliates, but SpotX may share aggregate Anonymous Information with these affiliates. SpotX may retain and target keyword category associations for up to 30 days.
 
-If you want your unique SpotX Cookie on your computer replaced with an opt-out Cookie, see section towards button of the page. This change will be effective for all of the websites and advertisers that use our ad-serving technologies.
+If you want your unique SpotX Cookie on your computer replaced with an opt-out Cookie, see section towards the bottom of the page. This change will be effective for all of the websites and advertisers that use our ad-serving technologies.
 
 Each Network Site is required to post a privacy statement on the website that describes SpotX’s collection and use of information through that website. Most major third-party online advertising companies have agreed to provide an opt-out mechanism for their ad cookies.
 
