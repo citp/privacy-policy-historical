@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelofink.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101100435id_/http%3A//www.pixelofink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelofink.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417073856id_/http%3A//www.pixelofink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixel of Ink
 
@@ -25,7 +25,3 @@ Before I collect any personally identifiable information, I will provide an expl
 :: Links
 
 While Pixel of Ink is highly selective about which sites I provide links to, I do not control these web sites, nor do I endorse or otherwise accept responsibility for the content or privacy policies of those sites. I encourage you to review the privacy policies posted on third party sites.
-
-### Comments
-
-comments
