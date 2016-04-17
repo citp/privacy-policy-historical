@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225172640id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417092953id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hangout Marketing Challenge
 
