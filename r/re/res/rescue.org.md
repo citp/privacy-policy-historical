@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescue.org privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909171456id_/http%3A//www.rescue.org/respecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescue.org privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417030855id_/http%3A//www.rescue.org/respecting-your-privacy) for the most accurate reproduction.*
 
 # Respecting Your Privacy - International Rescue Committee privacy policy | International Rescue Committee (IRC)
 
@@ -14,7 +14,7 @@ Opt-Out
 
 If you supply us with your postal address or e-mail address online you may receive periodic mailings from us with information on our programs and services. If you do not want to receive postal mail and/or e-mail from us in the future, please let us know by sending your request via e-mail to [donorservices@rescue.org](mailto:donorservices@rescue.org?subject=IRC%20privacy%20policy).
 
-The IRC will never rent, trade or sell your e-mail address. However, we may on occasion share your name and postal address with other organizations unless you opt-out. If you would prefer that your name and postal address not be shared with other, simply send us a request via e-mail to [donorservices@rescue.org](mailto:donorservices@rescue.org?subject=IRC%20privacy%20policy).
+The IRC will not sell, share or trade our donors' names, postal or email addresses with any other entity. Should you have questions regarding our privacy policy, you may contact us at [donorservices@rescue.org](mailto:donorservices@rescue.org).
 
 Exceptions to Opt-Out
 
