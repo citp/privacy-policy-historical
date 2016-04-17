@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017164306id_/http%3A//www.babyli.st/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyli.st privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417225908id_/https%3A//babyli.st/privacy) for the most accurate reproduction.*
 
 # BabyList Privacy Policy
 
 #### Baby List, Inc.
 
-Effective Date: June 2, 2015
+Effective Date: March 24, 2016
 
-#### PRIVACY POLICY
+#### Privacy Policy
 
 This Privacy Policy explains what information will be collected by Baby List, Inc. (“Baby List,” “we,” “us,” or “our”) when you access our Website, software, applications, products or related services (collectively, the “Service”) and how the information will be used. We will not use or share your information with anyone except as described in this Privacy Policy.  Each time you use our Service you are accepting the practices described in this Privacy Policy at that time. 
 
-#### Definitions
+#### DEFINITIONS
 
 This Privacy Policy uses certain capitalized terms that have particular meanings. Sometimes, those terms are defined when they are first used. In addition, and for ease of reference, the following terms are defined in this section: 
 
@@ -26,7 +26,7 @@ This Privacy Policy uses certain capitalized terms that have particular meanings
 
 _Personal Information We Affirmatively Collect From You_
 
-We may collect Personal Information about you, such as your first and last name, phone number, email address, physical address or credit card information, through our Service when (i) you register for an account on our Website or App, (ii) you sign up for our newsletter, (iii) you order from our Website or App, or (iv) you include Personal Information in User Content (as defined below).  Other information you may affirmatively provide to us is generally maintained along with Personal Information. You can choose not to provide any information that is requested of you by us. However, this may limit your ability to use the Service.  
+We may collect Personal Information about you, such as your first and last name, phone number, email address, physical address or credit card information, through our Service when (i) you register for an account on our Website or App, (ii) you sign up for our newsletter, (iii) you order from our Website or App, (iv) you give or receive a cash gift through our cash registry service or (v) you include Personal Information in User Content (as defined below).  Other information you may affirmatively provide to us is generally maintained along with Personal Information. You can choose not to provide any information that is requested of you by us. However, this may limit your ability to use the Service.  
 
 Additionally, if a friend refers you to us by providing us with your e-mail address, we may send you a message.  However, we use your e-mail address only to send the friend’s message unless you otherwise affirmatively provide information to us. When you sign up for e-mails or register an account, we may ask you for your birthdate to make sure you are 18 or older and may use a technical measure, such as a cookie, to restrict your ability to change your age.  
 
