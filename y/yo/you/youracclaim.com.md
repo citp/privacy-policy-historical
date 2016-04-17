@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325052213id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417062023id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
 
 # Acclaim
 
