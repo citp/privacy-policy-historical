@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717043742id_/http%3A//www.whistleout.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417105120id_/https%3A//www.whistleout.com/Privacy) for the most accurate reproduction.*
 
-# Website Privacy Policy - WhistleOut
+# Privacy Policy - WhistleOut
 
-**Who are WhistleOut?**
-
-The website located at [www.whistleout.com](http://www.whistleout.com/) (this **Site** ) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) ( **WhistleOut** ). You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at [www.whistleout.com](http://www.whistleout.com/) or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws. 
+The website located at [www.whistleout.com](https://www.whistleout.com/) (this **Site** ) is operated under exclusive licence by WhistleOut Pty Ltd (ABN 14 130 446 267) ( **WhistleOut** ). You may have been referred to the Site from the website of one of our referral partners so it is important that you understand that the Site is controlled and operated by WhistleOut and not by the owner or controller of the website from which you have been referred. References in this Privacy Policy to the Site mean either the main website operated by WhistleOut currently located at [www.whistleout.com](https://www.whistleout.com/) or a sub domain carrying the comparison and ranking service in respect of various goods and services offered by WhistleOut to which you have been referred from the website of one of our referral partners, whichever is relevant in the context. WhistleOut is firmly committed to maintaining your privacy by dealing with personal information in accordance with all applicable laws. 
 
 The following privacy policy ( **Privacy Policy** ) outlines the type of information we will collect from you, how we may use that information, whether we may disclose such information to a third party, and your ability to update or correct such information. 
 
@@ -14,7 +12,7 @@ This Privacy Policy applies solely to this Site, and does not apply to third par
 
 **Your Consent to this Privacy Policy**
 
-This Privacy Policy is in addition to and to be read in conjunction with this Site's Terms and Conditions of Use which can be found at [Terms of Use](http://www.whistleout.com/Terms-Of-Use). If you do not agree with any of the terms of our Privacy Policy, please leave the Site immediately. 
+This Privacy Policy is in addition to and to be read in conjunction with this Site's Terms and Conditions of Use which can be found at [Terms of Use](https://www.whistleout.com/Terms-Of-Use). If you do not agree with any of the terms of our Privacy Policy, please leave the Site immediately. 
 
 **Non-Personal Information**
 
@@ -38,7 +36,7 @@ We use cookies to track sales transactions with a range of different partner sit
 
 Users who do not wish to receive cookies can instruct their web browsers to refuse them but this may limit the features of this Site which are available to you. 
 
-Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively you can opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/privacy_ads.html). Alternatively you can opt out of cookies by visiting the [Network Advertising Initiative opt out page](https://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Third Party Measurement**
 
@@ -104,4 +102,4 @@ WhistleOut will review and update this Privacy Policy periodically to ensure tha
 
 If you have any questions, complaints or requests relating to online privacy issues on this Site, please email WhistleOut at [privacy@whistleout.com](mailto:privacy@whistleout.com). 
 
-For additional information with regard to online privacy issues, you can visit the Australian Federal Privacy Commissioner's site at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+For additional information with regard to online privacy issues, you can visit the Australian Federal Privacy Commissioner's site at [www.privacy.gov.au](https://www.privacy.gov.au/). 
