@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907105206id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417085817id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDeck
 
@@ -92,9 +92,9 @@ We partner with third parties to display advertising on our Website and manage o
 
 * * *
 
-    * OnDeck takes the security of your information very seriously. OnDeck protects your information using bank-level data security: 128 bit-encryption and a Secure Sockets Layer (SSL) protocol. This creates an encrypted connection between your browser and our servers. When you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information. 
+    * OnDeck takes the security of your information very seriously. Your information is securely sent to OnDeck with 128 bit-encryption over the Transport Layer Security (TLS) protocol. This creates an encrypted connection between your browser and our servers. Thus, when you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information. 
 
-If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords, and we securely store them in separate encrypted areas with our financial services providers.
+If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords.
 
 * * *
 
