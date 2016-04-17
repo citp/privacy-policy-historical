@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicadeangela.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217023530id_/http%3A//musicadeangela.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicadeangela.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418002456id_/http%3A//www.musicadeangela.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
