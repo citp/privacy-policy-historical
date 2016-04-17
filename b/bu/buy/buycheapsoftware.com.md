@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504063557id_/https%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # BuyCheapSoftware
 
+|   
+---  
+  
   * BuyCheapSoftware is committed to protecting all customer privacy. Our business is founded on the trust you place in us. The information we collect is only used to process orders and to provide a personalized shopping environment. You can help us ensure your privacy by not sharing your user name or password with anyone. 
   * **UNDER NO CIRCUMSTANCES WILL WE EVER RELEASE, SELL, RENT, OR LEASE CUSTOMER INFORMATION TO ANY 3rd PARTY.**
   * **Personal Information**  
@@ -21,4 +24,91 @@ Just [**Click here**](mailto:support@buycheapsoftware.com) to send us feedback b
   * **Corrections in Your Information**  
 Simply call our toll free number (888-999-2611) Open Monday to Friday, 9:00 AM to 5:00 PM Pacific Time, or send us an [email](mailto:sales@buycheapsoftware.com). 
 
+  
+| 
+
+  
+[](https://www.paypal.com/webapps/mpp/paypal-popup "How PayPal Works")
+
+|   
+---  
+[Office Home and Business 2016 1-PC DOWNLOAD Retail 1-User](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6505)
+
+Our Price: **$ 194.95**
+
+Retail Price $249.99
+
+  
+  
+[Norton Security Standard v3.0 Retail DOWNLOAD 1-Device Full USA Version](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6446)
+
+Our Price: **$ 23.45**
+
+Retail Price $49.99
+
+  
+  
+[Titanium Internet Security 2016 DOWNLOAD for 3-PC's](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=5114)
+
+Our Price: **$ 23.95**
+
+Retail Price $59.99
+
+  
+  
+[Kaspersky AntiVirus 2016 Full 1-PC USA DOWNLOAD 1-Year Updates](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6154)
+
+Our Price: **$ 17.95**
+
+Retail Price $32.95
+
+  
+  
+[Titanium Maximum Security 2016 DOWNLOAD for 3-PC or 3-Mac](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=5702)
+
+Our Price: **$ 32.95**
+
+Retail Price $89.95
+
+  
+  
+[Office Home and Student 2016 1-PC DOWNLOAD 100% guaranteed](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6504)
+
+Our Price: **$ 116.95**
+
+Retail Price $149.99
+
+  
+  
+[Office Home and Business 2016 Medialess Retail Box for 1-PC](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6507)
+
+Our Price: **$ 198.89**
+
+Retail Price $249.99
+
+  
+  
+[Endpoint Protection 12.1, 1-Year Ess. Mtce. Renewal License (25-49 user)](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=5516)
+
+Our Price: **$ 20.00**
+
+Retail Price $24.89
+
+  
+  
+[Endpoint Protection 12.1, 3-Year Ess. Mtce. Comp. Upgrade (50-99 user)](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=6528)
+
+Our Price: **$ 46.15**
+
+Retail Price $57.21
+
+  
+  
+[Windows Pro 7 SP1 Full OEM for 64-BIT ONLY email-Key-Code must have one DVD](https://web.archive.org/web/20160417074134id_/http%3A//www.buycheapsoftware.com/details.asp?productID=5748)
+
+Our Price: **$ 123.00**
+
+Retail Price $199.00
+
+  
 
