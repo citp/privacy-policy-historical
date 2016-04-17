@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleez.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617190120id_/http%3A//gleez.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleez.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417102217id_/http%3A//gleez.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Gleez
 
