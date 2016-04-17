@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genfb.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229103613id_/http%3A//www.genfb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genfb.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417165230id_/http%3A//www.genfb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenFB
 
