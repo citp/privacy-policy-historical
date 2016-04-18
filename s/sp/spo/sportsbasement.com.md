@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209141214id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbasement.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418070206id_/http%3A//www.sportsbasement.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Basement
 
@@ -33,19 +33,19 @@ As a natural consequence of the development of our company, we could be sold to 
 
 ### Events
 
-Wednesday, Dec. 9, 2015
+Monday, Apr. 18, 2016
     
-Thursday, Dec. 10, 2015
+Tuesday, Apr. 19, 2016
     
-Friday, Dec. 11, 2015
+Wednesday, Apr. 20, 2016
     
-Saturday, Dec. 12, 2015
+Thursday, Apr. 21, 2016
     
-Sunday, Dec. 13, 2015
+Friday, Apr. 22, 2016
     
-Monday, Dec. 14, 2015
+Saturday, Apr. 23, 2016
     
-Tuesday, Dec. 15, 2015
+Sunday, Apr. 24, 2016
     
 
 All events are free unless otherwise indicated. See event descriptions for more information.
