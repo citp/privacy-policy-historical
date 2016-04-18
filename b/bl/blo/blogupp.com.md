@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogupp.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808154745id_/https%3A//www.blogupp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogupp.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418133756id_/https%3A//www.blogupp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
