@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905100325id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418110504id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
 
-# Great Lakes Higher Education Corporation & Affiliates
+# Privacy Policy
 
 ## Privacy Policies for Great Lakes Higher Education Corporation Affiliates
 
