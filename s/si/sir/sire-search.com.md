@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006201026id_/http%3A//sire-search.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sire-search.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418192753id_/https%3A//sire-search.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SIRE Life Sciences®
 
 SIRE Life Sciences online service is committed to protecting the privacy of our users. We want to provide a safe and secure user experience. We will ensure that the information you submit to us via our website at [www.sire-search.com](http://www.sire-search.com/) remains private, and is only used for the purposes set out in this policy.
+
+By clicking on the opt-in tickbox you agree to receive offers, newsletters, promotions and updates from partners of SIRE Life Sciences. You can withdraw your consent at any time. 
 
  **How do we use the information we collect?**  
 Your personal details, including your name, e-mail address and CV, are held and used by us for the following purposes:
