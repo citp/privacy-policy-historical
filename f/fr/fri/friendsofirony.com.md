@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendsofirony.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219161047id_/http%3A//friendsofirony.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsofirony.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418180520id_/http%3A//friendsofirony.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Friends Of Irony
+# Our Privacy Policy - Friends Of Irony - Friends of Irony LLC
 
 PRIVACY STATEMENT
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 How do I withdraw my consent?  
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at support@friendsofirony.com or mailing us at:  
 Friends of Irony  
-123 E. 9th St, Suite 328, Upland, CA 91786 
+123 E. 9th St, STE 100-F, Upland, CA 91786 
 
 SECTION 3 - DISCLOSURE
 
@@ -79,5 +79,5 @@ QUESTIONS AND CONTACT INFORMATION
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@friendsofirony.com or by mail at  
 Friends of Irony  
 [Re: Privacy Compliance Officer]  
-123 E. 9th St, Suite 328, Upland, CA 91786   
+123 E. 9th St, STE 100-F, Upland, CA 91786   
 \---- 
