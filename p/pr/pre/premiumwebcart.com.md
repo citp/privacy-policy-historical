@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102055622id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418233126id_/http%3A//www.cloudnet360.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Premium Web Cart Inc. - Privacy Policy
+# CloudNet360: Privacy Policy
 
 Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy governs our policies and practices regarding the collection,
 
 ##### 1\. Personal Information
 
-Personal Information includes your name, address, e-mail address, and phone number, as well as other non-public information that is associated with the foregoing ("Personal Information"). Personal Information may be processed by PremiumWebCart.com, Developer(s), or User(s) in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+Personal Information includes your name, address, e-mail address, and phone number, as well as other non-public information that is associated with the foregoing ("Personal Information"). Personal Information may be processed by CloudNet360.com, Developer(s), or User(s) in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
 The collection of Personal Information helps us learn about our customers and potential customers. This information may be used to contact you with information and offers regarding our products and services.
 
@@ -20,7 +20,7 @@ By submitting Personal Information, you agree to the terms of this Policy and ex
 
 ##### 3\. Use of Personal Information
 
-PremiumWebCart.com may process and store Personal Information on behalf of our customers that have been posted on our websites from the users of such websites. PremiumWebCart.com does not own the Personal Information, and we will only use Personal Information appropriately. The Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
+CloudNet360.com may process and store Personal Information on behalf of our customers that have been posted on our websites from the users of such websites. CloudNet360.com does not own the Personal Information, and we will only use Personal Information appropriately. The Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
 
 ##### 4\. Disclosure of Personal Information
 
@@ -28,13 +28,13 @@ Except as otherwise stated in this Privacy Policy, we do not generally share Per
 
 We currently have subsidiaries and other companies under a common control (collectively, "affiliates"). We may share some or all of your Personal Information with these affiliates, and we will require our affiliates to honor this Privacy Policy. Further, if our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Policy.
 
-We may also disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on PremiumWebCart.com; or (b) to protect and defend the rights or property of PremiumWebCart.com or users of our website or our customers' websites.
+We may also disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on CloudNet360.com; or (b) to protect and defend the rights or property of CloudNet360.com or users of our website or our customers' websites.
 
-We also use third parties to maintain and store your Personal Information and to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by PremiumWebCart.com.
+We also use third parties to maintain and store your Personal Information and to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by CloudNet360.com.
 
 ##### 5\. Opt-Out Opportunity
 
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at support@PremiumWebCart.com . Despite your indicated e-mail preferences, we may send you notices of any updates of our legal policies to the account you created with us.
+Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at support@CloudNet360.com . Despite your indicated e-mail preferences, we may send you notices of any updates of our legal policies to the account you created with us.
 
 ##### 6\. External Websites
 
@@ -46,7 +46,7 @@ We will use reasonable measures to maintain the security of your Personal Inform
 
 ##### 8\. Dispute Resolution
 
-If you choose to visit PremiumWebCart.com's website, your visit and any dispute over privacy is subject to this Privacy Policy, as governed by the laws of the State of Illinois.
+If you choose to visit CloudNet360.com's website, your visit and any dispute over privacy is subject to this Privacy Policy, as governed by the laws of the State of Illinois.
 
 ##### 9\. Minors
 
@@ -63,7 +63,7 @@ This statement was last updated on July 15, 2009.
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:  
 
 
-PremiumWebCart.com  
+CloudNet360.com  
 Privacy Officer  
 878 Tower Rd.   
 Mundelein, IL 60060. 
