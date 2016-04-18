@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolcumshots.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221114507id_/http%3A//lolcumshots.com/tour_01/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolcumshots.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418180011id_/http%3A//www.lolcumshots.com/tour_01/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
