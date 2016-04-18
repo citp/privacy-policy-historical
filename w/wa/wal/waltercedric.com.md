@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waltercedric.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920070349id_/https%3A//www.waltercedric.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waltercedric.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418124653id_/http%3A//www.waltercedric.com/legal/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -99,7 +99,7 @@ We can be reached [via e-mail HERE](http://www.waltercedric.com/-contact-me.html
 <http://www.google.com/privacy.html>
 
   * **Google Adsense, their partners and other 3rd Party Advertisers**
-    * Third parties may be placing and reading cookies on your users’ browser, or using web beacons to collect information, in the course of ads being served on this website.
+    * Third parties may be placing and reading cookies on your users� browser, or using web beacons to collect information, in the course of ads being served on this website.
     * ## Current Google 3rd Party Ad Providers
 
       * [AdShuffle](http://www.adshuffle.com/)
