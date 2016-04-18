@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908091754id_/http%3A//www.shipspotting.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipspotting.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418222549id_/http%3A//www.shipspotting.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShipSpotting.com - Ship Photos and Ship Tracker
 
