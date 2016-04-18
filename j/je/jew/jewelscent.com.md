@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013221213id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419012752id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JewelScent
 
@@ -52,10 +52,10 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 #### Questions or Conerns
 
-If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to info@jewelscent.com and we will make every effort to resolve your concerns. You may also write to us at:
+If you have any questions or concerns regarding privacy at Company site, please send us a detailed message to privacy@jewelscent.com and we will make every effort to resolve your concerns. You may also write to us at:
 
 JewelScent Inc  
-448 S. Hill St., Suite #712  
-Los Angeles, Ca 90013
+P.O. Box 8965  
+Brea, CA 92822
 
-Effective Date: July 1, 2013
+Effective Date: December 9, 2015
