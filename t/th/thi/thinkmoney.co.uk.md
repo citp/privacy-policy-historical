@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035640id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkmoney.co.uk privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418054506id_/http%3A//www.thinkmoney.co.uk/about-thinkmoney/privacy-policy) for the most accurate reproduction.*
 
 # Thinkmoney privacy policy
 
