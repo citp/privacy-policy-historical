@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929051340id_/http%3A//www.leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadid.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418193759id_/https%3A//www.leadid.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeadiD
 
 **PRIVACY POLICY**
 
-This Privacy Policy is provided by Lead Intelligence, Inc. (“Lead Intel”) to let you know what information is collected, how it’s collected, how we protect it, use it, and share it, including when you access or use our Site or Services, as defined in our [Terms of Use](http://www.leadid.com/about-us/terms-of-use/). Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in the Terms of Use. In the event of any conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control to the extent of such conflict.
+This Privacy Policy is provided by Lead Intelligence, Inc. (“Lead Intel”) to let you know what information is collected, how it’s collected, how we protect it, use it, and share it, including when you access or use our Site or Services, as defined in our [Terms of Use](https://www.leadid.com/about-us/terms-of-use/). Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in the Terms of Use. In the event of any conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control to the extent of such conflict.
 
 By submitting your information and by using the LeadiD Site (“Site”) and LeadiD Services (“Services”), Lead Intel will assume that you have read, understood, and consent to this Privacy Policy, our Terms of Use, all amendments, addenda, and licenses to the Privacy Policy and Terms of Use, and all applicable Lead Intel rules and policies (collectively, the “Agreement”). We also assume that you consent to Lead Intel’s use of your information and data as described in the Agreement. If you do not consent, you should not access or use the Site or Services.
 
