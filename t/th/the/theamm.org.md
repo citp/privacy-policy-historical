@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000214id_/https%3A//theamm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamm.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418083405id_/https%3A//theamm.org/privacy-policy) for the most accurate reproduction.*
 
 # AMM Privacy Policy
 
@@ -61,3 +61,5 @@ Our Services are not directed to people under 13. If you become aware that your 
 ## Changes to this Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at **http://www.theamm.org/privacy-policy**. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an e-mail to the email associated with your account. By continuing to access or use the web site after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+
+Thoughts or questions about this Privacy Policy? Please [contact us](mailto:info@theamm.org "Contact American Marriage Ministries"). 
