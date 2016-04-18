@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818094748id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexingtonlaw.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418233628id_/https%3A//www.lexingtonlaw.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lexington Law
 
 **Lexington Privacy Policy**
+
+Last Updated January 2016
 
 © Lexington Law Firm
 
@@ -61,12 +63,13 @@ Consent - We will share your Personal Information with others outside of Lexingt
 Service Providers - We provide Personal Information to related companies and other trusted businesses or persons who use, analyze, or process it on our behalf, based on our instructions and in compliance with appropriate confidentiality and security measures. For example, we may use others to: 
 
   * deliver, evaluate the effectiveness of, and assist in improving our products and services
-  * advertise, market, or make product or service offerings
+  * conduct consumer research and satisfaction surveys 
   * assist us in analyzing and understanding consumers and how to reach them more effectively
   * assist us in fraud prevention, with our security measures, and to provide us technical support
   * provide customer support 
   * manage customer data, and to ensure data integrity and accuracy
   * process financial transactions and perform accounting functions
+  * advertise, market, or make product or service offerings 
 
 
 
