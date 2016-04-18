@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissmyads.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318150608id_/https%3A//www.kissmyads.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmyads.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418030416id_/https%3A//www.kissmyads.com/privacypolicy) for the most accurate reproduction.*
 
 # KissMyAds - The Mobile Advertising Network
 
