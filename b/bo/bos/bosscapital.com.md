@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008123047id_/http%3A//www.bosscapital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bosscapital.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418021448id_/http%3A//www.bosscapital.com/privacy_policy_en) for the most accurate reproduction.*
 
-# Privacy Policy – BossCapital
+# Privacy Policy. – BossCapital
 
-**Boss Capital Privacy and Security**
+## Privacy Policy.
+
+## **Boss Capital Privacy and Security**
 
 Boss Capital views its customer’s security as the utmost importance in our site’s integrity and promise to our traders.  We have taken a variety of security measures to ensure that the usage of the Boss Capital’s platform is 100% safe and secure. We are constantly updating and testing the site to safeguard the financial and personal safety of all our traders.
 
-**Binary Options Privacy on Boss Capital**
+## **Binary Options Privacy on Boss Capital**
 
 **Personal Information** \- Boss Capital promises that all its trader’s personal details and activities will never be used or sold by our staff or to outside vendors. All activity and trading will remain private and secure at all times.
 
