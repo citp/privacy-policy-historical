@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020100id_/https%3A//www.bigmiketrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmiketrading.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418133942id_/https%3A//futures.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Big Mike Trading Forum
+# Privacy Policy - futures.io Forum
 
-Last modified: March 1, 2013
+Last modified: October 11, 2015
 
-This Privacy Policy discloses our privacy practices and the possible uses of the information that we gather on the Big Mike Trading Forum web site (“Website”). This policy can be modified at any time and it is your responsibility to observe any changes to the policy by reviewing this page on an ongoing basis.
+This Privacy Policy discloses our privacy practices and the possible uses of the information that we gather on the futures.io Forum web site (“Website”). This policy can be modified at any time and it is your responsibility to observe any changes to the policy by reviewing this page on an ongoing basis.
 
 **_Registration_**
 
@@ -12,7 +12,7 @@ Although registration is not required for general use of our Website, some areas
 
 **_Information Collected_**
 
-When you visit Big Mike Trading, we send one or more cookies to your web browser. A cookie is a small piece of information that is stored in your browser and can be referenced by our Website every time you visit our pages. Only the domain which set that cookie can access the information from it. Other domains can't access cookies set by us and we can't access cookies set by others.
+When you visit futures.io, we send one or more cookies to your web browser. A cookie is a small piece of information that is stored in your browser and can be referenced by our Website every time you visit our pages. Only the domain which set that cookie can access the information from it. Other domains can't access cookies set by us and we can't access cookies set by others.
 
 Whenever your access a file from our website, the server may log data about your activity on the Website, and may include the following: (i) Requested URL, (ii) Your IP address, (iii) Date & Time of request, (iv) Your user agent, (v) Referring webpage (if any), (vi) Your Website username, and (vii) Size of the requested document.
 
@@ -58,4 +58,4 @@ Should our privacy policy change, notification will be posted on our Website. If
 
 If you have any questions in regard to this Agreement, please contact us:
 
-By using this site, you are agreeing to the [Disclaimers, Terms of Use and Terms and Conditions](https://www.bigmiketrading.com/disclaimer/) as well as our [Privacy Policy](https://www.bigmiketrading.com/privacy/).
+By using this site, you are agreeing to the [Disclaimers, Terms of Use and Terms and Conditions](https://futures.io/disclaimer/) as well as our [Privacy Policy](https://futures.io/privacy/).
