@@ -1,21 +1,15 @@
-<!--The following is the downloaded HTML source of the wapinda.in privacy policy that was archived on 2015-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151217082342id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wapinda.in privacy policy that was archived on 2016-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160418082819id_/http%3A//www.wapinda.in/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>	
 <title>privacy policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="revisit-after" content="2 days">
  
-<!--<meta http-equiv="cache-control" content="max-age=2629000" />
-
-<meta http-equiv="expires" content="Tue, 01 Jan 2080 1:00:00 GMT" />-->
- 
 <meta name="robots" content="noindex, nofollow">
 <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
 <link rel="shortcut icon" href="http://www.wapinda.in/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://www.wapinda.in/favicon.ico" type="image/x-icon">
-<!--<link href="http://www.wapinda.in/css/style.css" rel="stylesheet" type="text/css" media="all" />
---><!--<link href="http://www.wapinda.in/css/menu.css" rel="stylesheet" type="text/css" media="all" />-->
     
 <style>
 body{margin:0px;padding:0px;font-family:Arial, Helvetica, sans-serif;font-size:13px;color:#000;background-color:#D9EBAF;}
@@ -130,11 +124,100 @@ input, button, select, textarea{font-size:14px;position:relative;height:25px;}
 .adsdiv_left img{ width:250px; }
 .adsdiv_left a{color:#FF0000;}
 </style>  
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.wapinda.in/js/union_html5_sdk.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+
+function mynewBan()
+{
+	
+	var requestban=(window.XMLHttpRequest) ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
+	requestban.open("GET","http://www.wapinda.in/mynewban.php",true);
+	requestban.send(null);
+	requestban.onreadystatechange=function()
+	{
+	
+		if(requestban.readyState==4)
+		{
+			if(document.getElementById('mynewban_id1') != null || document.getElementById('mynewban_id1') != undefined) {
+				document.getElementById('mynewban_id1').innerHTML=requestban.responseText;
+			}
+			
+			if(document.getElementById('mynewban_id2') != null || document.getElementById('mynewban_id2') != undefined) {
+				document.getElementById('mynewban_id2').innerHTML=requestban.responseText;
+			}
+			
+			 
+			
+		}
+	
+	}
+
+}
+  
+
+function mynewCode()
+{
+	
+	var requestcode=(window.XMLHttpRequest) ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
+	requestcode.open("GET","http://www.wapinda.in/mynewcode.php",true);
+	requestcode.send(null);
+	requestcode.onreadystatechange=function()
+	{
+	
+		if(requestcode.readyState==4)
+		{
+			if(document.getElementById('mynewcode_id1') != null || document.getElementById('mynewcode_id1') != undefined) {
+				document.getElementById('mynewcode_id1').innerHTML=requestcode.responseText;
+			}
+			
+			if(document.getElementById('mynewcode_id2') != null || document.getElementById('mynewcode_id2') != undefined) {
+				document.getElementById('mynewcode_id2').innerHTML=requestcode.responseText;
+			}
+			
+			 
+			
+		}
+	
+	}
+
+}
+  
+function mynewAff()
+{
+	
+	var requestaff=(window.XMLHttpRequest) ? new XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP");
+	requestaff.open("GET","http://www.wapinda.in/mynewaff.php",true);
+	requestaff.send(null);
+	requestaff.onreadystatechange=function()
+	{
+	
+		if(requestaff.readyState==4)
+		{
+			if(document.getElementById('mynewaff_id1') != null || document.getElementById('mynewaff_id1') != undefined) {
+				document.getElementById('mynewaff_id1').innerHTML=requestaff.responseText;
+			}
+			
+			if(document.getElementById('mynewaff_id2') != null || document.getElementById('mynewaff_id2') != undefined) {
+				document.getElementById('mynewaff_id2').innerHTML=requestaff.responseText;
+			}
+			
+			if(document.getElementById('mynewaff_id3') != null || document.getElementById('mynewaff_id3') != undefined) {
+				document.getElementById('mynewaff_id3').innerHTML=requestaff.responseText;
+			}
+			
+			if(document.getElementById('mynewaff_id4') != null || document.getElementById('mynewaff_id4') != undefined) {
+				document.getElementById('mynewaff_id4').innerHTML=requestaff.responseText;
+			}
+			
+		}
+	
+	}
+
+}
+// window.onload=downloadSong;
+</script>
+
 </head>
-<body>
-<!--<script src="http://www.wapinda.in/js/jquery-1.8.3.min.js"></script>-->
-  <!-- <script src="http://www.wapinda.in/js/script.js"></script>-->
+<body onload="mynewCode();mynewAff();mynewBan()">
 <header>
    
         <div class="logo"><a href="http://www.wapinda.in" title="wapinda.in  Download free videos, mp4, mp3 songs ">wapinda.in</a>
@@ -142,12 +225,11 @@ input, button, select, textarea{font-size:14px;position:relative;height:25px;}
                   
         <div class="search">
          <form action="http://www.wapinda.in/search_redirect.php">
-           <input type="text" value="Search mp3, mp4, video" onfocus="this.value = '';" id="keyword" name="keyword" onblur="if (this.value == '') {this.value = 'Search mp3, mp4, video';}">
+           <input name="keyword" type="text" id="keyword" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search mp3, mp4, video';}" value="Search mp3, mp4, video" size="45" maxlength="45">
           </form>            
         </div>
         
-        <div class="adsdiv">
-        <a href="http://click.union.ucweb.com/index.php?service=RedirectService&amp;pub=tarandeep2@wapinda&amp;offer_id=com.mobile.android.indiapp.apk" target="_blank" title="Download video, mp3 songs and 9apps" rel="nofollow"><img src="http://www.wapinda.in/images/9apps.jpg" alt="9apps" width="258" height="43"></a>        </div>
+        <div class="adsdiv" id="mynewban_id1"></div>
         
         <marquee style="float:left;width:100%;color:#F00;font-size:14px;font-weight:bold;height:20px;background-color:#FFFFFF" scrolldelay="100"><a style="color:#FF0000" href="http://www.wapinda.in/app/wapinda.apk" title="New Launched wapinda android app"><img src="http://www.wapinda.in/images/ic_launcher.png">Download New Launched wapinda App!!!</a></marquee>    
      
@@ -155,24 +237,24 @@ input, button, select, textarea{font-size:14px;position:relative;height:25px;}
           <nav id="cssmenu">
                 <ul>
                     <li><a href="http://www.wapinda.in" title="Download free videos, mp4, mp3 songs">Home</a></li>
-                     <li><a href="http://www.wapinda.in/music/bollywood-songs.html" title="Free download Bollywood  video, mp4, mp3 songs">Bollywood Songs</a></li>
-                    <li><a href="http://www.wapinda.in/music/bhojpuri-songs.html" title="Free download Bhojpuri video, mp4, mp3 Songs">Bhojpuri Songs</a></li>
-                    <li><a href="http://www.wapinda.in/music/punjabi-songs.html" title="Free download Punjabi video, mp4, mp3 Songs">Punjabi Songs</a></li>
-                     <li><a href="http://www.wapinda.in/music/marathi-songs.html" title="Free download Marathi video, mp4, mp3 Songs">Marathi Songs</a></li>
+                     <li><a href="http://www.wapinda.in/music/bollywood-songs.html" title="Bollywood  video, mp4, mp3 songs">Bollywood Songs</a></li>
+                    <li><a href="http://www.wapinda.in/music/punjabi-songs.html" title="Punjabi video, mp4, mp3 Songs">Punjabi Songs</a></li>
+                     <li><a href="http://www.wapinda.in/music/marathi-songs.html" title="Marathi video, mp4, mp3 Songs">Marathi Songs</a></li>
                     
                    
-                   <li><a href="http://www.wapinda.in/music/gujarati-songs.html" title="Free download Gujarati video, mp4, mp3 Songs">Gujarati Songs</a></li>
+                   <li><a href="http://www.wapinda.in/music/gujarati-songs.html" title="Gujarati video, mp4, mp3 Songs">Gujarati Songs</a></li>
                    
-                    <li><a href="http://www.wapinda.in/music/malayalam-songs.html" title="Free download Malayalam video, mp4, mp3 Songs">Malayalam Songs</a></li>
+                    <li><a href="http://www.wapinda.in/music/malayalam-songs.html" title="Malayalam video, mp4, mp3 Songs">Malayalam Songs</a></li>
                     
-                    <li><a href="http://www.wapinda.in/music/tamil-songs.html" title="Free download Tamil video, mp4, mp3 Songs">Tamil Songs</a></li>
+                    <li><a href="http://www.wapinda.in/music/tamil-songs.html" title="Tamil video, mp4, mp3 Songs">Tamil Songs</a></li>
                     
-                     <li><a href="http://www.wapinda.in/9apps.html" title="Free download 9apps">9Apps</a></li>
+                     <li><a href="http://www.wapinda.in/music/comedy-videos.html" title="comedy video, mp4, mp3 Songs">Comedy videos</a></li>
+                    
+                     <li><a href="http://www.wapinda.in/music/festival-songs.html" title="festival video, mp4, mp3 Songs">Festival songs</a></li>
                      
-                      <li><a href="http://www.wapinda.in/android-app.html" title="Download &amp; Install wapinda android app">Wapinda APP</a></li>
+                      <li class="last"><a href="http://www.wapinda.in/android-app.html" title="Download &amp; Install wapinda android app">Wapinda APP</a></li>
                    
-                    <li class="last"><a href="http://www.wapinda.in/wallpaper.html" title="Download wallpaper and screen saver">Wallpaper</a></li>
-                   
+                     
                         
                 </ul>
          </nav>
@@ -185,18 +267,7 @@ input, button, select, textarea{font-size:14px;position:relative;height:25px;}
 Privacy Policy.
 </h1>
 <div class="adsdiv_left">
-		<!--<script src="http://admaster.union.ucweb.com/js/union_html5_sdk.js"></script>
---><script>
-     try{ 
-        Umobi.AdView({
-            pub:"tarandeep2@wapinda34",
-            format_type:Umobi.AdFormatType.BANNER
-        });
-     }catch(e){}
-</script>
-<noscript><a href="http://click.union.ucweb.com/?pub=tarandeep2@wapinda34&tm=5672710e0b820">
-    <img src="http://slot.union.ucweb.com/?pub=tarandeep2@wapinda34&format_type=img&tm=5672710e0b820"/>
-</a></noscript> </div>
+		 </div>
 
    <div>
      <p>Privacy Policy for <strong>wapinda.in</strong></p>
@@ -223,31 +294,16 @@ Privacy Policy.
   
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015" href="http://www.wapinda.in/listensong/6x1-9KbySuM/new-dandiya-raas-dance-songs-audio-jukebox-navratri-special-garba-dance-songs-2015.html">
+  <a title="Non stop gujarati garba dj songs   lal lal sanedo   navratri raas garba   dandiya songs" href="http://www.wapinda.in/listensong/wXmg40tRURk/non-stop-gujarati-garba-dj-songs-lal-lal-sanedo-navratri-raas-garba-dandiya-songs.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/6x1-9KbySuM/default.jpg" alt="New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/wXmg40tRURk/default.jpg" alt="Non stop gujarati garba dj songs   lal lal sanedo   navratri raas garba   dandiya songs" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015</h3>
+                    <h3 itemprop="name">Non stop gujarati garba dj songs   lal lal sanedo   navratri raas garba   dandiya songs</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/listensong/6x1-9KbySuM/new-dandiya-raas-dance-songs-audio-jukebox-navratri-special-garba-dance-songs-2015.html" itemprop="url">
-</div>
- 
- 
- <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
- 
-  <a title="Navratri   non stop raas garba   dandiya audio songs   taliyo na tale" href="http://www.wapinda.in/listensong/TfRfpStmDQs/navratri-non-stop-raas-garba-dandiya-audio-songs-taliyo-na-tale.html">
-                
-                    <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/TfRfpStmDQs/default.jpg" alt="Navratri   non stop raas garba   dandiya audio songs   taliyo na tale" width="120" height="90">
-					</div>
-                   
-                    <h3 itemprop="name">Navratri   non stop raas garba   dandiya audio songs   taliyo na tale</h3>
-                     
-                </a>
-                <meta content="http://www.wapinda.in/listensong/TfRfpStmDQs/navratri-non-stop-raas-garba-dandiya-audio-songs-taliyo-na-tale.html" itemprop="url">
+                <meta content="http://www.wapinda.in/listensong/wXmg40tRURk/non-stop-gujarati-garba-dj-songs-lal-lal-sanedo-navratri-raas-garba-dandiya-songs.html" itemprop="url">
 </div>
  
  
@@ -268,66 +324,55 @@ Privacy Policy.
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Khelaiya   vol 1   non stop disco dandia    non stop gujrati garba songs" href="http://www.wapinda.in/listensong/NBt60JiIUTA/khelaiya-vol-1-non-stop-disco-dandia-non-stop-gujrati-garba-songs.html">
+  <a title="Maa no garbo   part   1   prachin garba   traditional raas garba   dandiya video songs   navratri" href="http://www.wapinda.in/listensong/PRed2DR4yGY/maa-no-garbo-part-1-prachin-garba-traditional-raas-garba-dandiya-video-songs-navratri.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/NBt60JiIUTA/default.jpg" alt="Khelaiya   vol 1   non stop disco dandia    non stop gujrati garba songs" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/PRed2DR4yGY/default.jpg" alt="Maa no garbo   part   1   prachin garba   traditional raas garba   dandiya video songs   navratri" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Khelaiya   vol 1   non stop disco dandia    non stop gujrati garba songs</h3>
+                    <h3 itemprop="name">Maa no garbo   part   1   prachin garba   traditional raas garba   dandiya video songs   navratri</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/listensong/NBt60JiIUTA/khelaiya-vol-1-non-stop-disco-dandia-non-stop-gujrati-garba-songs.html" itemprop="url">
+                <meta content="http://www.wapinda.in/listensong/PRed2DR4yGY/maa-no-garbo-part-1-prachin-garba-traditional-raas-garba-dandiya-video-songs-navratri.html" itemprop="url">
 </div>
  
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Pardeshi khelaiyo   raas garba   dandiya non stop video songs   navratri special" href="http://www.wapinda.in/listensong/aaknkay11-k/pardeshi-khelaiyo-raas-garba-dandiya-non-stop-video-songs-navratri-special.html">
+  <a title="Falguni pathak raas garba navratri 2015   day 2" href="http://www.wapinda.in/listensong/g4cUWFEXTqM/falguni-pathak-raas-garba-navratri-2015-day-2.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/aaknkay11-k/default.jpg" alt="Pardeshi khelaiyo   raas garba   dandiya non stop video songs   navratri special" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/g4cUWFEXTqM/default.jpg" alt="Falguni pathak raas garba navratri 2015   day 2" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Pardeshi khelaiyo   raas garba   dandiya non stop video songs   navratri special</h3>
+                    <h3 itemprop="name">Falguni pathak raas garba navratri 2015   day 2</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/listensong/aaknkay11-k/pardeshi-khelaiyo-raas-garba-dandiya-non-stop-video-songs-navratri-special.html" itemprop="url">
+                <meta content="http://www.wapinda.in/listensong/g4cUWFEXTqM/falguni-pathak-raas-garba-navratri-2015-day-2.html" itemprop="url">
+</div>
+ 
+ 
+ <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
+ 
+  <a title="New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015" href="http://www.wapinda.in/listensong/6x1-9KbySuM/new-dandiya-raas-dance-songs-audio-jukebox-navratri-special-garba-dance-songs-2015.html">
+                
+                    <div class="album-thumb">
+                   <img src="https://i.ytimg.com/vi/6x1-9KbySuM/default.jpg" alt="New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015" width="120" height="90">
+					</div>
+                   
+                    <h3 itemprop="name">New dandiya raas dance songs audio jukebox   navratri special garba dance songs 2015</h3>
+                     
+                </a>
+                <meta content="http://www.wapinda.in/listensong/6x1-9KbySuM/new-dandiya-raas-dance-songs-audio-jukebox-navratri-special-garba-dance-songs-2015.html" itemprop="url">
 </div>
  
  <div class="adsdiv_left" style="float:left;">
-		<!--<script src="http://admaster.union.ucweb.com/js/union_html5_sdk.js"></script>
---><script>
-     try{ 
-        Umobi.AdView({
-            pub:"tarandeep2@wapinda34",
-            format_type:Umobi.AdFormatType.BANNER
-        });
-     }catch(e){}
-</script>
-<noscript><a href="http://click.union.ucweb.com/?pub=tarandeep2@wapinda34&tm=56179b7c40118">
-    <img src="http://slot.union.ucweb.com/?pub=tarandeep2@wapinda34&format_type=img&tm=56179b7c40118"/>
-</a></noscript>       </div>
+		       </div>
        
 <h2>Most Popular Ganesh Chaturthi 2015 Videos</h2>
      
      
   
- <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
- 
-  <a title="Ganapati devotional songs by shankar mahadevan   jukebox   ganesh chaturthi special" href="http://www.wapinda.in/listensong/RxWD-SDKquM/ganapati-devotional-songs-by-shankar-mahadevan-jukebox-ganesh-chaturthi-special.html">
-                
-                    <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/RxWD-SDKquM/default.jpg" alt="Ganapati devotional songs by shankar mahadevan   jukebox   ganesh chaturthi special" width="120" height="90">
-					</div>
-                   
-                    <h3 itemprop="name">Ganapati devotional songs by shankar mahadevan   jukebox   ganesh chaturthi special</h3>
-                     
-                </a>
-                <meta content="http://www.wapinda.in/listensong/RxWD-SDKquM/ganapati-devotional-songs-by-shankar-mahadevan-jukebox-ganesh-chaturthi-special.html" itemprop="url">
-</div>
- 
- 
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
   <a title="Ganesh chaturthi special jukebox   ganpati aarti with lyrics" href="http://www.wapinda.in/listensong/OcBZbbaFr3A/ganesh-chaturthi-special-jukebox-ganpati-aarti-with-lyrics.html">
@@ -340,21 +385,6 @@ Privacy Policy.
                      
                 </a>
                 <meta content="http://www.wapinda.in/listensong/OcBZbbaFr3A/ganesh-chaturthi-special-jukebox-ganpati-aarti-with-lyrics.html" itemprop="url">
-</div>
- 
- 
- <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
- 
-  <a title="Ganpati aarti   sukhkarta dukhharta   lata mangeshkar   devotional songs   marathi songs" href="http://www.wapinda.in/listensong/w0W8Wh-8UCg/ganpati-aarti-sukhkarta-dukhharta-lata-mangeshkar-devotional-songs-marathi-songs.html">
-                
-                    <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/w0W8Wh-8UCg/default.jpg" alt="Ganpati aarti   sukhkarta dukhharta   lata mangeshkar   devotional songs   marathi songs" width="120" height="90">
-					</div>
-                   
-                    <h3 itemprop="name">Ganpati aarti   sukhkarta dukhharta   lata mangeshkar   devotional songs   marathi songs</h3>
-                     
-                </a>
-                <meta content="http://www.wapinda.in/listensong/w0W8Wh-8UCg/ganpati-aarti-sukhkarta-dukhharta-lata-mangeshkar-devotional-songs-marathi-songs.html" itemprop="url">
 </div>
  
  
@@ -375,47 +405,66 @@ Privacy Policy.
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Sri ganesha moolamanthra   slokas jukebox   songs of lord ganesha  tamil devotional songs" href="http://www.wapinda.in/listensong/qJt6YKUh7oU/sri-ganesha-moolamanthra-slokas-jukebox-songs-of-lord-ganesha-tamil-devotional-songs.html">
+  <a title="Top ganesh bhajans   ganesh aarti   ganesh mantra" href="http://www.wapinda.in/listensong/UrmrMcnI0eg/top-ganesh-bhajans-ganesh-aarti-ganesh-mantra.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/qJt6YKUh7oU/default.jpg" alt="Sri ganesha moolamanthra   slokas jukebox   songs of lord ganesha  tamil devotional songs" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/UrmrMcnI0eg/default.jpg" alt="Top ganesh bhajans   ganesh aarti   ganesh mantra" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Sri ganesha moolamanthra   slokas jukebox   songs of lord ganesha  tamil devotional songs</h3>
+                    <h3 itemprop="name">Top ganesh bhajans   ganesh aarti   ganesh mantra</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/listensong/qJt6YKUh7oU/sri-ganesha-moolamanthra-slokas-jukebox-songs-of-lord-ganesha-tamil-devotional-songs.html" itemprop="url">
+                <meta content="http://www.wapinda.in/listensong/UrmrMcnI0eg/top-ganesh-bhajans-ganesh-aarti-ganesh-mantra.html" itemprop="url">
+</div>
+ 
+ 
+ <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
+ 
+  <a title="Sirkazhi govindarajan tamil hit songs   vinayagar murugan   jukebox   bhakthi" href="http://www.wapinda.in/listensong/AIjmvQq9SCU/sirkazhi-govindarajan-tamil-hit-songs-vinayagar-murugan-jukebox-bhakthi.html">
+                
+                    <div class="album-thumb">
+                   <img src="https://i.ytimg.com/vi/AIjmvQq9SCU/default.jpg" alt="Sirkazhi govindarajan tamil hit songs   vinayagar murugan   jukebox   bhakthi" width="120" height="90">
+					</div>
+                   
+                    <h3 itemprop="name">Sirkazhi govindarajan tamil hit songs   vinayagar murugan   jukebox   bhakthi</h3>
+                     
+                </a>
+                <meta content="http://www.wapinda.in/listensong/AIjmvQq9SCU/sirkazhi-govindarajan-tamil-hit-songs-vinayagar-murugan-jukebox-bhakthi.html" itemprop="url">
+</div>
+ 
+ 
+ <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
+ 
+  <a title="Om gan ganpataye namo namah ganesh mantra by hemant chauhan  full song  i jai jai dev ganesh" href="http://www.wapinda.in/listensong/pR0zINRgNHc/om-gan-ganpataye-namo-namah-ganesh-mantra-by-hemant-chauhan-full-song-i-jai-jai-dev-ganesh.html">
+                
+                    <div class="album-thumb">
+                   <img src="https://i.ytimg.com/vi/pR0zINRgNHc/default.jpg" alt="Om gan ganpataye namo namah ganesh mantra by hemant chauhan  full song  i jai jai dev ganesh" width="120" height="90">
+					</div>
+                   
+                    <h3 itemprop="name">Om gan ganpataye namo namah ganesh mantra by hemant chauhan  full song  i jai jai dev ganesh</h3>
+                     
+                </a>
+                <meta content="http://www.wapinda.in/listensong/pR0zINRgNHc/om-gan-ganpataye-namo-namah-ganesh-mantra-by-hemant-chauhan-full-song-i-jai-jai-dev-ganesh.html" itemprop="url">
 </div>
  
  <div class="adsdiv_left" style="float:left;">
-		<!--<script src="http://admaster.union.ucweb.com/js/union_html5_sdk.js"></script>
---><script>
-     try{ 
-        Umobi.AdView({
-            pub:"tarandeep2@wapinda34",
-            format_type:Umobi.AdFormatType.BANNER
-        });
-     }catch(e){}
-</script>
-<noscript><a href="http://click.union.ucweb.com/?pub=tarandeep2@wapinda34&tm=56179b7c9e652">
-    <img src="http://slot.union.ucweb.com/?pub=tarandeep2@wapinda34&format_type=img&tm=56179b7c9e652"/>
-</a></noscript>       </div>
+		       </div>
 <h2>Most Popular Krishna Janmashtami Videos</h2>
      
      
   
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Janmashtami special songs   2015   jukebox" href="http://www.wapinda.in/mostpopular/--qsGdzHkdU/janmashtami-special-songs-2015-jukebox.html">
+  <a title="Janmashtami  special krishna bhajans    tara vina shyam mane    non stop audio songs" href="http://www.wapinda.in/mostpopular/GSVWH9bCces/janmashtami-special-krishna-bhajans-tara-vina-shyam-mane-non-stop-audio-songs.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/--qsGdzHkdU/default.jpg" alt="Janmashtami special songs   2015   jukebox" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/GSVWH9bCces/default.jpg" alt="Janmashtami  special krishna bhajans    tara vina shyam mane    non stop audio songs" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Janmashtami special songs   2015   jukebox</h3>
+                    <h3 itemprop="name">Janmashtami  special krishna bhajans    tara vina shyam mane    non stop audio songs</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/mostpopular/--qsGdzHkdU/janmashtami-special-songs-2015-jukebox.html" itemprop="url">
+                <meta content="http://www.wapinda.in/mostpopular/GSVWH9bCces/janmashtami-special-krishna-bhajans-tara-vina-shyam-mane-non-stop-audio-songs.html" itemprop="url">
 </div>
  
  
@@ -436,64 +485,53 @@ Privacy Policy.
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Krishna janmashtami 2014 abhisheka" href="http://www.wapinda.in/mostpopular/dsbde65LVwo/krishna-janmashtami-2014-abhisheka.html">
+  <a title="Popular krishna bhajans   songs   janmashtami special songs jukebox" href="http://www.wapinda.in/mostpopular/--qsGdzHkdU/popular-krishna-bhajans-songs-janmashtami-special-songs-jukebox.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/dsbde65LVwo/default.jpg" alt="Krishna janmashtami 2014 abhisheka" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/--qsGdzHkdU/default.jpg" alt="Popular krishna bhajans   songs   janmashtami special songs jukebox" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Krishna janmashtami 2014 abhisheka</h3>
+                    <h3 itemprop="name">Popular krishna bhajans   songs   janmashtami special songs jukebox</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/mostpopular/dsbde65LVwo/krishna-janmashtami-2014-abhisheka.html" itemprop="url">
+                <meta content="http://www.wapinda.in/mostpopular/--qsGdzHkdU/popular-krishna-bhajans-songs-janmashtami-special-songs-jukebox.html" itemprop="url">
 </div>
  
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Krishna puja vidhi for janmashtami and daily krishna puja" href="http://www.wapinda.in/mostpopular/KY8TCLhw-q8/krishna-puja-vidhi-for-janmashtami-and-daily-krishna-puja.html">
+  <a title="Green gold   krishna janmashtami special   full songs" href="http://www.wapinda.in/mostpopular/yuA2PiTd_QQ/green-gold-krishna-janmashtami-special-full-songs.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/KY8TCLhw-q8/default.jpg" alt="Krishna puja vidhi for janmashtami and daily krishna puja" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/yuA2PiTd_QQ/default.jpg" alt="Green gold   krishna janmashtami special   full songs" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Krishna puja vidhi for janmashtami and daily krishna puja</h3>
+                    <h3 itemprop="name">Green gold   krishna janmashtami special   full songs</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/mostpopular/KY8TCLhw-q8/krishna-puja-vidhi-for-janmashtami-and-daily-krishna-puja.html" itemprop="url">
+                <meta content="http://www.wapinda.in/mostpopular/yuA2PiTd_QQ/green-gold-krishna-janmashtami-special-full-songs.html" itemprop="url">
 </div>
  
  
  <div class="album-list" itemscope="" itemtype="http://schema.org/MusicAlbum">
  
-  <a title="Krishna janmashtami bhajans vol.1i full audio songs juke box" href="http://www.wapinda.in/mostpopular/FckwSayoFBM/krishna-janmashtami-bhajans-vol-1i-full-audio-songs-juke-box.html">
+  <a title="Janmashtami special bhajans vol.3 i full audio songs juke box" href="http://www.wapinda.in/mostpopular/RFrP1VemNUo/janmashtami-special-bhajans-vol-3-i-full-audio-songs-juke-box.html">
                 
                     <div class="album-thumb">
-                   <img src="https://i.ytimg.com/vi/FckwSayoFBM/default.jpg" alt="Krishna janmashtami bhajans vol.1i full audio songs juke box" width="120" height="90">
+                   <img src="https://i.ytimg.com/vi/RFrP1VemNUo/default.jpg" alt="Janmashtami special bhajans vol.3 i full audio songs juke box" width="120" height="90">
 					</div>
                    
-                    <h3 itemprop="name">Krishna janmashtami bhajans vol.1i full audio songs juke box</h3>
+                    <h3 itemprop="name">Janmashtami special bhajans vol.3 i full audio songs juke box</h3>
                      
                 </a>
-                <meta content="http://www.wapinda.in/mostpopular/FckwSayoFBM/krishna-janmashtami-bhajans-vol-1i-full-audio-songs-juke-box.html" itemprop="url">
+                <meta content="http://www.wapinda.in/mostpopular/RFrP1VemNUo/janmashtami-special-bhajans-vol-3-i-full-audio-songs-juke-box.html" itemprop="url">
 </div>
  
     </div>
 <div class="clear"></div>
    
 <div class="adsdiv_left">
-		<!--<script src="http://admaster.union.ucweb.com/js/union_html5_sdk.js"></script>
---><script>
-     try{ 
-        Umobi.AdView({
-            pub:"tarandeep2@wapinda34",
-            format_type:Umobi.AdFormatType.BANNER
-        });
-     }catch(e){}
-</script>
-<noscript><a href="http://click.union.ucweb.com/?pub=tarandeep2@wapinda34&tm=5672710e0ba08">
-    <img src="http://slot.union.ucweb.com/?pub=tarandeep2@wapinda34&format_type=img&tm=5672710e0ba08"/>
-</a></noscript> </div>      
+		 </div>      
      </div>
        
    </section>
@@ -503,65 +541,65 @@ Privacy Policy.
 	<div class="footer_sitemap">
             <h3>Album</h3>
             <ul> 
-                        <li><a href="http://www.wapinda.in/music/dabang.html" title="free download videos and mp3 songs of Dabang album">Dabang</a></li>
-                        <li><a href="http://www.wapinda.in/music/aman-ki-asha.html" title="free download videos and mp3 songs of Aman ki asha album">Aman ki asha</a></li>
-                        <li><a href="http://www.wapinda.in/music/three.html" title="free download videos and mp3 songs of Three album">Three</a></li>
-                        <li><a href="http://www.wapinda.in/music/aashiqi-2.html" title="free download videos and mp3 songs of Aashiqi 2 album">Aashiqi 2</a></li>
-                        <li><a href="http://www.wapinda.in/music/kambakht-ishq.html" title="free download videos and mp3 songs of Kambakht ishq album">Kambakht ishq</a></li>
-                        <li><a href="http://www.wapinda.in/music/united-six-2011.html" title="free download videos and mp3 songs of United six 2011 album">United six 2011</a></li>
-                        <li><a href="http://www.wapinda.in/music/dunno-y.html" title="free download videos and mp3 songs of Dunno y album">Dunno y</a></li>
+                        <li><a href="http://www.wapinda.in/music/caravan.html" title="videos and mp3 songs of Caravan album">Caravan</a></li>
+                        <li><a href="http://www.wapinda.in/music/dabang.html" title="videos and mp3 songs of Dabang album">Dabang</a></li>
+                        <li><a href="http://www.wapinda.in/music/bin-bulaye-baraati-2011.html" title="videos and mp3 songs of Bin bulaye baraati 2011 album">Bin bulaye baraati 2011</a></li>
+                        <li><a href="http://www.wapinda.in/music/i-am-2011.html" title="videos and mp3 songs of I am 2011 album">I am 2011</a></li>
+                        <li><a href="http://www.wapinda.in/music/aasha.html" title="videos and mp3 songs of Aasha album">Aasha</a></li>
+                        <li><a href="http://www.wapinda.in/music/mumbai-mast-kallander.html" title="videos and mp3 songs of Mumbai mast kallander album">Mumbai mast kallander</a></li>
+                        <li><a href="http://www.wapinda.in/music/i-dentity-raghav.html" title="videos and mp3 songs of I dentity  raghav album">I dentity  raghav</a></li>
                         </ul>
       </div>
       
 	<div class="footer_sitemap">
             <h3>Actors</h3>
             <ul> 
-                        <li><a href="http://www.wapinda.in/music/rajendra-kumar.html" title="free download videos and mp3 songs of Rajendra Kumar actor">Rajendra Kumar</a></li>
-                        <li><a href="http://www.wapinda.in/music/jaideep-ahlawat.html" title="free download videos and mp3 songs of Jaideep ahlawat actor">Jaideep ahlawat</a></li>
-                        <li><a href="http://www.wapinda.in/music/akshay-kumar.html" title="free download videos and mp3 songs of Akshay Kumar actor">Akshay Kumar</a></li>
-                        <li><a href="http://www.wapinda.in/music/saeed-jaffrey.html" title="free download videos and mp3 songs of Saeed jaffrey actor">Saeed jaffrey</a></li>
-                        <li><a href="http://www.wapinda.in/music/manoj-bajpai.html" title="free download videos and mp3 songs of Manoj Bajpai actor">Manoj Bajpai</a></li>
-                        <li><a href="http://www.wapinda.in/music/hrithik-roshan.html" title="free download videos and mp3 songs of Hrithik Roshan actor">Hrithik Roshan</a></li>
-                        <li><a href="http://www.wapinda.in/music/iftekhar.html" title="free download videos and mp3 songs of Iftekhar actor">Iftekhar</a></li>
+                        <li><a href="http://www.wapinda.in/music/shreyas-talpade.html" title="videos and mp3 songs of Shreyas talpade actor">Shreyas talpade</a></li>
+                        <li><a href="http://www.wapinda.in/music/annu-kapoor.html" title="videos and mp3 songs of Annu kapoor actor">Annu kapoor</a></li>
+                        <li><a href="http://www.wapinda.in/music/jeetendra.html" title="videos and mp3 songs of Jeetendra actor">Jeetendra</a></li>
+                        <li><a href="http://www.wapinda.in/music/yuvraj-parashar.html" title="videos and mp3 songs of Yuvraj Parashar actor">Yuvraj Parashar</a></li>
+                        <li><a href="http://www.wapinda.in/music/kunal-khemu.html" title="videos and mp3 songs of Kunal Khemu actor">Kunal Khemu</a></li>
+                        <li><a href="http://www.wapinda.in/music/ranjeet.html" title="videos and mp3 songs of Ranjeet actor">Ranjeet</a></li>
+                        <li><a href="http://www.wapinda.in/music/asrani.html" title="videos and mp3 songs of Asrani actor">Asrani</a></li>
                         </ul>
       </div>
       
       <div class="footer_sitemap">
             <h3>Actresses</h3>
             <ul> 
-                        <li><a href="http://www.wapinda.in/music/mamta-kulkarni.html" title="free download videos and mp3 songs of Mamta Kulkarni actress">Mamta Kulkarni</a></li>
-                        <li><a href="http://www.wapinda.in/music/urvashi-sharma.html" title="free download videos and mp3 songs of Urvashi sharma actress">Urvashi sharma</a></li>
-                        <li><a href="http://www.wapinda.in/music/mumtaz.html" title="free download videos and mp3 songs of Mumtaz actress">Mumtaz</a></li>
-                        <li><a href="http://www.wapinda.in/music/bipasha-basu.html" title="free download videos and mp3 songs of Bipasha basu actress">Bipasha basu</a></li>
-                        <li><a href="http://www.wapinda.in/music/mahie-gill.html" title="free download videos and mp3 songs of Mahie Gill actress">Mahie Gill</a></li>
-                        <li><a href="http://www.wapinda.in/music/sonakshi-sinha.html" title="free download videos and mp3 songs of Sonakshi Sinha actress">Sonakshi Sinha</a></li>
-                        <li><a href="http://www.wapinda.in/music/yami-gautam.html" title="free download videos and mp3 songs of Yami Gautam actress">Yami Gautam</a></li>
+                        <li><a href="http://www.wapinda.in/music/tisca-chopra.html" title="videos and mp3 songs of Tisca Chopra actress">Tisca Chopra</a></li>
+                        <li><a href="http://www.wapinda.in/music/ayesha-takia.html" title="videos and mp3 songs of Ayesha Takia actress">Ayesha Takia</a></li>
+                        <li><a href="http://www.wapinda.in/music/gauhar-khan.html" title="videos and mp3 songs of Gauhar Khan actress">Gauhar Khan</a></li>
+                        <li><a href="http://www.wapinda.in/music/kim-sharma.html" title="videos and mp3 songs of Kim sharma actress">Kim sharma</a></li>
+                        <li><a href="http://www.wapinda.in/music/pooja-kumar.html" title="videos and mp3 songs of Pooja kumar actress">Pooja kumar</a></li>
+                        <li><a href="http://www.wapinda.in/music/aruna-irani.html" title="videos and mp3 songs of Aruna Irani actress">Aruna Irani</a></li>
+                        <li><a href="http://www.wapinda.in/music/sonam-kapoor.html" title="videos and mp3 songs of Sonam kapoor actress">Sonam kapoor</a></li>
                         </ul>
       </div>
       
       <div class="footer_sitemap">
             <h3>Latest MP3 &amp; Video Songs</h3>
             <ul> 
-                        <li><a href="http://www.wapinda.in/music/hamari-adhuri-kahani.html" title="free download videos and mp3 songs of Hamari adhuri kahani actress">Hamari adhuri kahani</a></li>
-                        <li><a href="http://www.wapinda.in/music/ishqedarriyaan-2015.html" title="free download videos and mp3 songs of Ishqedarriyaan 2015 actress">Ishqedarriyaan 2015</a></li>
-                        <li><a href="http://www.wapinda.in/music/second-hand-husband.html" title="free download videos and mp3 songs of Second hand husband actress">Second hand husband</a></li>
-                        <li><a href="http://www.wapinda.in/music/dil-dhadakne-do.html" title="free download videos and mp3 songs of Dil dhadakne do actress">Dil dhadakne do</a></li>
-                        <li><a href="http://www.wapinda.in/music/guddu-rangeela.html" title="free download videos and mp3 songs of Guddu rangeela actress">Guddu rangeela</a></li>
-                        <li><a href="http://www.wapinda.in/music/welcome-to-karachi.html" title="free download videos and mp3 songs of Welcome to karachi actress">Welcome to karachi</a></li>
-                        <li><a href="http://www.wapinda.in/music/abcd-2.html" title="free download videos and mp3 songs of Abcd 2 actress">Abcd 2</a></li>
+                        <li><a href="http://www.wapinda.in/music/hamari-adhuri-kahani.html" title="videos and mp3 songs of Hamari adhuri kahani actress">Hamari adhuri kahani</a></li>
+                        <li><a href="http://www.wapinda.in/music/guddu-rangeela.html" title="videos and mp3 songs of Guddu rangeela actress">Guddu rangeela</a></li>
+                        <li><a href="http://www.wapinda.in/music/second-hand-husband.html" title="videos and mp3 songs of Second hand husband actress">Second hand husband</a></li>
+                        <li><a href="http://www.wapinda.in/music/ishqedarriyaan-2015.html" title="videos and mp3 songs of Ishqedarriyaan 2015 actress">Ishqedarriyaan 2015</a></li>
+                        <li><a href="http://www.wapinda.in/music/welcome-to-karachi.html" title="videos and mp3 songs of Welcome to karachi actress">Welcome to karachi</a></li>
+                        <li><a href="http://www.wapinda.in/music/bezubaan-ishq.html" title="videos and mp3 songs of Bezubaan ishq actress">Bezubaan ishq</a></li>
+                        <li><a href="http://www.wapinda.in/music/dil-dhadakne-do.html" title="videos and mp3 songs of Dil dhadakne do actress">Dil dhadakne do</a></li>
                         </ul>
       </div>
       
       <div class="footer_sitemap">
             <h3>Top Searched MP3 &amp; Video Songs</h3>
             <ul> 
-                        <li><a href="http://www.wapinda.in/music/maal-vali-anti.html" title="free download videos and mp3 songs of Maal vali anti">Maal vali anti</a></li>
-                        <li><a href="http://www.wapinda.in/music/safera-mp3-mp4-video.html" title="free download videos and mp3 songs of Safera mp3, mp4, video">Safera mp3, mp4, video</a></li>
-                        <li><a href="http://www.wapinda.in/music/song-malay-no-vokal.html" title="free download videos and mp3 songs of Song malay no vokal">Song malay no vokal</a></li>
-                        <li><a href="http://www.wapinda.in/music/wayam-gift-mirror-to-sharon.html" title="free download videos and mp3 songs of Wayam gift mirror to sharon">Wayam gift mirror to sharon</a></li>
-                        <li><a href="http://www.wapinda.in/music/alex-mica.html" title="free download videos and mp3 songs of Alex mica">Alex mica</a></li>
-                        <li><a href="http://www.wapinda.in/music/maine-dil-tujh-ko-diya-all-video-song-full-hd.html" title="free download videos and mp3 songs of Maine dil tujh ko diya all video song full hd">Maine dil tujh ko diya all video song full hd</a></li>
-                        <li><a href="http://www.wapinda.in/music/actress-jothirmazhi-hot-songs.html" title="free download videos and mp3 songs of Actress jothirmazhi hot songs">Actress jothirmazhi hot songs</a></li>
+                        <li><a href="http://www.wapinda.in/music/love-enkubye-by-joel-kisakyr.html" title="videos and mp3 songs of Love  enkubye  by  joel  kisakyr">Love  enkubye  by  joel  kisakyr</a></li>
+                        <li><a href="http://www.wapinda.in/music/pyar-ka-punchnama-reverse-speech.html" title="videos and mp3 songs of Pyar ka punchnama    reverse speech">Pyar ka punchnama    reverse speech</a></li>
+                        <li><a href="http://www.wapinda.in/music/zimedar-chala-re-manti.html" title="videos and mp3 songs of Zimedar chala re manti">Zimedar chala re manti</a></li>
+                        <li><a href="http://www.wapinda.in/music/kuththathey.html" title="videos and mp3 songs of Kuththathey">Kuththathey</a></li>
+                        <li><a href="http://www.wapinda.in/music/deep-rising.html" title="videos and mp3 songs of Deep rising">Deep rising</a></li>
+                        <li><a href="http://www.wapinda.in/music/kehvu-ghanu-ghanu-hd-vedio.html" title="videos and mp3 songs of Kehvu ghanu ghanu hd vedio">Kehvu ghanu ghanu hd vedio</a></li>
+                        <li><a href="http://www.wapinda.in/music/mr-and-mrs-ramachari-songs.html" title="videos and mp3 songs of Mr and mrs ramachari songs">Mr and mrs ramachari songs</a></li>
                         </ul>
       </div>
       
@@ -571,11 +609,10 @@ Privacy Policy.
                 <ul>
                     <li><a href="http://www.wapinda.in" title="wapinda.in | Home | Download free videos, mp4, mp3 songs">Home</a></li>
                     <li><a href="http://www.wapinda.in/about-us.html" title="about us"> About Us </a></li>
-                    <li><a href="http://www.wapinda.in/9apps.html" title="Free download 9apps"> 9Apps </a></li>
+                    
                       <li><a href="http://www.wapinda.in/dmca.html" title="wapinda.in | DMCA | Download free videos, mp4, mp3 songs">DMCA</a></li>
                         <li><a href="http://www.wapinda.in/privacy-policy.html" title="wapinda.in | Privacy Policy | Download free videos, mp4, mp3 songs">Privacy Policy</a></li>
                          <li><a href="http://www.wapinda.in/android-app.html" title="Download &amp; Install wapinda android app">Wapinda APP</a></li>
-                   <li><a href="http://www.wapinda.in/wallpaper.html" title="Download wallpaper and screen saver">Wallpaper</a></li>
                    
                        <li class="last" title="wapinda.in | Contact Us | Download free videos, mp4, mp3 songs"><a href="http://www.wapinda.in/contact">Contact</a></li>
                 </ul>
@@ -587,9 +624,6 @@ Privacy Policy.
             
             
 </footer> 
- 
-  
-
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -601,5 +635,6 @@ Privacy Policy.
   ga('send', 'pageview');
 
 </script>
+
 
 </body></html>
