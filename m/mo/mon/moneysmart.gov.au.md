@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926113333id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418114208id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | ASIC's MoneySmart
 
@@ -64,13 +64,3 @@ As there may be security risks in sending information via the internet, you shou
 If you have any concerns about your privacy when using this website, email us at [info@moneysmart.gov.au](mailto:info@moneysmart.gov.au "info@moneysmart.gov.au") or phone the ASIC Infoline on 1300 300 630.
 
 Last updated: 01 May 2015
-
-Helpful
-
-Not helpful
-
-Comments
-
-Thank you for your feedback
-
-You can only click once
