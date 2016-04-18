@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2015-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151002092550id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalbmx.com privacy policy that was archived on 2016-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160418030022id_/http%3A//www.vitalbmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="bmx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="/AEuD1KsUUwm2R3LZ/RH3Jj8quDw4S1BuyzeMypeqJY=" name="csrf-token">
+<meta content="0EKoYJkvZgVBu00rB9u/G+JbMZO6bfQvL5lUXGg89Z0=" name="csrf-token">
 <!--[if lte IE 8]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -29,41 +29,144 @@
     userCardAutoPopup: 'on'
   }
 </script>
+<script type="text/javascript">
+  
+  //New Tactical Generator
+  
+  var blasterGen = makeBlasterGen(10);
+  var blasterGenWrap = makeBlasterGen(15);
+  var blasterScroll = makeBlasterGen(12);
+  
+  function makeBlasterGen(amnt) {
+      var text = "";
+      var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+  
+      for( var i=0; i < amnt; i++ )
+          text += possible.charAt(Math.floor(Math.random() * possible.length));
+  
+      return text;
+  }
+  
+  //alert('Blaster Gen: '+blasterGen+' Blaster Wrapper: '+blasterGenWrap);
+  
+  var vital_request_num = "";
+  var aba_json_url = "";
+  
+  $j(document).ready(function() {
+  	$j('*[data-buster="busted"]').addClass(blasterGen).removeAttr('data-buster');
+  	$j('*[data-buster="busterWrap"]').addClass(blasterGenWrap).removeAttr('data-buster');
+  	$j('*[data-scroll-buster="true"]').attr('id', blasterScroll).removeAttr('data-scroll-buster');
+  	
+  	$j("<style> \
+  	."+blasterGenWrap+"{ \
+  		position: relative; \
+  		visibility: visible !important; \
+  		display: block !important; \
+  	} \
+  	."+blasterGen+"{ \
+  		position: absolute; \
+  		top: 0; \
+  		left: 0; \
+  		width: 100%; \
+  		height: 100%; \
+  		visibility: visible !important; \
+  		display: block !important; \
+  	} \
+  	 \
+  	a."+blasterGen+", \
+  	a."+blasterGen+":hover{ \
+  	  background-color: transparent !important; \
+  	} \
+  	 \
+  	."+blasterGenWrap+" div{ \
+  		z-index: 10; \
+  		position: relative; \
+  	} \
+  	 \
+  	."+blasterGenWrap+" a{ \
+  		z-index: 5; \
+  	} \
+  	 \
+  	#view_home .sidebar ."+blasterGenWrap+":first-child{ \
+  		height: 600px; \
+  		width: 300px; \
+  		visibility: visible !important; \
+  		display: block !important; \
+  	} \
+  	 \
+  	#view_home .sidebar ."+blasterGenWrap+":first-child{ \
+  		height: 600px; \
+  		width: 300px; \
+  		visibility: visible !important; \
+  		display: block !important; \
+  	}\
+  	\
+  	.sidebar #"+blasterScroll+"{margin-bottom:0} \
+  	.sidebar #"+blasterScroll+" + .item{margin-top:15px} \
+  	.advancedEditor .sidebar #"+blasterScroll+"{ \
+  		top: 0 !important; \
+  	}  	\
+  	.advancedEditor #"+blasterScroll+" iframe{ \
+  		height: 1px; \
+  		width: 1px; \
+  		overflow: hidden; \
+  	} \
+  	\
+  	#"+blasterScroll+"{ \
+  		height: 600px; \
+  		width: 300px; \
+  		visibility: visible !important; \
+  		display: block !important; \
+  	} \
+  	\
+  	#view_home #spb-items ."+blasterGenWrap+"{\
+  		min-height:90px;\
+  		text-align:center;\
+  	}\
+  	\
+	#view_home #spb-items ."+blasterGenWrap+" div{ \
+		visibility: visible !important; \
+		display: block !important; \
+		min-height:0px;\
+		min-width:0px;\
+		padding:0px;\
+		margin:0px auto;\
+		left:30px;\
+		position:absolute;\
+	}\
+  	</style>").appendTo( "head" );  		  
+	
+	  $j.get('/partials/vital_routes', function(vrdata) {
+	    if(typeof(vrdata['vital_request_num']) != 'undefined') {
+	      vital_request_num = vrdata.vital_request_num;
+	      aba_json_url = vrdata.abaroute;
+	      
+	
+	      <!---Indep AB Check--->
+	      $j(document).ready(function() {
+            if (document.getElementById("tester") == undefined && !window.abvRequested){
+	            abvRequested = true;
+	            $j.getScript(vrdata.abalibroute);
+	            $j.post(vrdata['abvroute']+"?rn=" + vital_request_num, function() {});
+	          }
+	      });
+	    }
+	  });
+  
+  });
+</script>
+
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.0.beta2/handlebars.min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js"></script>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <link href="/assets/fancybox/jquery.fancybox-1.3.1-72cd4254f9fd953117285e2c4106cedf.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/assets/fancybox/jquery.fancybox-patch-f4d36e69503b6525f0625dd6ee6225e5.css" media="screen" rel="stylesheet" type="text/css">
 <script src="/assets/fancybox/jquery.fancybox-1.3.1-4f8b34f2317571d2a98aa9c6a56a1a71.js" type="text/javascript"></script>
-<script src="/assets/vital.apps-c6a74616735d87d25edffa98a181a451.js" type="text/javascript"></script>
-<script src="/assets/jquery_ujs-006f5caf36b7f4eab9000e3613f27d85.js" type="text/javascript"></script>
-<script src="/assets/ablock-47736c0909f6b8441f95e5ac266e2668.js" type="text/javascript"></script></head><body id="privacy_policy" class="small_scrn"><div id="tester" style="display:none;">an advertisement</div>
-<script src="/assets/jquery.role-0fd8cbb7b1030b70bb6ddb2a4a73bf66.js" type="text/javascript"></script>
+<script src="/assets/vital.apps-295bc6b6322fe579803a8ae9f8afd44d.js" type="text/javascript"></script>
+<script src="/assets/jquery_ujs-362562ee6d7362cf6c74aaac58df1cb1.js" type="text/javascript"></script>
+<script src="/assets/advertisement-632bdd1b461e22fb96c22d29cd1c2941.js" type="text/javascript"></script></head><body id="privacy_policy" class="small_scrn"><div id="tester" class="banner" style="display:none;">an advertisement</div>
+<script src="/assets/jquery.role-8b6b06de318e555d4b6a824acfe379af.js" type="text/javascript"></script>
 <script src="/assets/arrive.min-7888c99d400fddbcba4ee712216d4121.js" type="text/javascript"></script>
-<script type="text/javascript">
-  var vital_request_num = "";
-  var aba_json_url = "";
-
-  $j.get('/partials/vital_routes', function(vrdata) {
-    if(typeof(vrdata['vital_request_num']) != 'undefined') {
-      vital_request_num = vrdata.vital_request_num;
-      aba_json_url = vrdata.abaroute;
-      $j.getScript(vrdata.abalibroute);
-      
-
-      <!---Indep AB Check--->
-      $j(window).load(function() {
-        if($j('.gad-inner').length > 0 && $j('.gad-inner iframe:visible').length == 0){
-          if (!window.abvRequested){
-            abvRequested = true;
-            $j.post(vrdata['abvroute']+"?rn=" + vital_request_num, function() {});
-          }
-        }
-      });
-    }
-  });
-</script>
-
 
 <script type="text/javascript">
 //<![CDATA[
@@ -123,11 +226,9 @@ window.fbAsyncInit = function() {
 </script>
 
 <script type="text/javascript">
-$j(document).ready(function() {
-	setInterval(function() { checkSpecificBlock() }, 500);
-	
+$j(document).ready(function() {	
 	setInterval(function() {
-		$j('.tacticalWrapper').not('#wpadWrapper .tacticalWrapper').parents().each(function() {
+		$j('.'+blasterGenWrap+'').not('#wpadWrapper .'+blasterGenWrap+'').parents().each(function() {
 			if( $j(this).css('display') == 'none' ){
 				$j(this).addClass('triggerHide');
 			} else {
@@ -140,39 +241,6 @@ $j(document).ready(function() {
 var isBlocked = 0;
 var checkItt = 0;
 var beenHidden = 0;
-
-function checkSpecificBlock(){
-	isBlocked = 0;
-	$j('.tacticalWrapper').each(function() {
-		checkItt++;
-		noTactical = $j('.tacticalWrapper').length;
-		if( $j(this).css('display') == 'none' || parseInt($j(this).css('opacity')) < 1 ){
-			isBlocked = 1;			
-		} else if ($j('.triggerHide').length > 0) {
-			isBlocked = 1;
-		} else if ($j(this).find('a').parent().css('display') == 'none') {
-			isBlocked = 1;
-		}
-		
-		if(noTactical == checkItt){
-			checkItt = 0;
-			actionSpecificBlock();
-		}
-	});
-}
-
-function actionSpecificBlock() {
-	if(isBlocked == 1){
-		//if ($j('.coverAll').length < 1){
-			//$j('body').prepend('<div class="coverAll" style="display:block;width:100%;height:100%;opacity:0.8;position:fixed;top:0;left:0;background-color:#000;z-index:3000;"></div>');
-			beenHidden = 1;
-			$j('#header_wrapper, #main_nav_wrapper, #container').css('opacity','0.0').css('visiblity','hidden');
-		//}
-	} else if (beenHidden == 1) {
-		//$j('.coverAll').remove();
-		$j('#header_wrapper, #main_nav_wrapper, #container').css('opacity','1.0').css('visiblity','visible');
-	}
-}
 
 /*Responsive Video Embeds*/
 $j(document).ready(function() {
@@ -236,11 +304,106 @@ function responsiveWallpaperAds() {
 }
 $j(document).ready(function() { responsiveWallpaperAds(); });
 $j(window).resize(function() { responsiveWallpaperAds(); });
+
+//Slideshow Embeds
+var cbVal = new Date().getUTCMilliseconds();
+function slideshowEmbeds() {
+	countSlideshows = $j('div[data-target="slideshow"]').length;
+	if (countSlideshows > 0){
+		$j('head').append('<link rel="stylesheet" type="text/css" href="/assets/mediaelement/mediaelementplayer.min.css?body=1&cb='+cbVal+'">');
+		$j('head').append('<link rel="stylesheet" type="text/css" href="/assets/mediaelement/mediaelementplayer-patch.css?body=1&cb='+cbVal+'">');
+		$j('head').append('<link rel="stylesheet" type="text/css" href="/assets/mediaelement/mediaelementplayer-mobile.css?body=1&cb='+cbVal+'">');
+		$j('head').append('<link rel="stylesheet" type="text/css" href="/assets/slideshow/mobile.MTB/style.css?body=1&cb='+cbVal+'">');
+		$j('head').append('<link rel="stylesheet" type="text/css" href="/assets/slideshow/mobile.MTB/plugin/vital_mobile.css?body=1&cb='+cbVal+'">');
+		
+		$j.getScript( "http://s0.2mdn.net/instream/html5/ima3.js?body=1&cb="+cbVal, function(data, status, jqxhr) {
+		$j.getScript( "/assets/mediaelement/mediaelement-and-player.js?body=1&cb="+cbVal, function(data, status, jqxhr) {
+		$j.getScript( "/assets/mediaelement/fullscreen-api.js?body=1&cb="+cbVal, function(data, status, jqxhr) {
+		$j.getScript( "/assets/mediaelement/mep-feature-google-ima.js?body=1&cb="+cbVal, function(data, status, jqxhr) {
+		$j.getScript( "/assets/slideshow/mobile.MTB/plugin/vital.js?body=1&cb="+cbVal, function(data, status, jqxhr) {
+			$j('div[data-target="slideshow"]').each(function() {
+				thisXML = $j(this).attr('data-xml-url');
+				thisPreroll = $j(this).attr('data-preroll-url');
+				$j(this).vitalSlideshow({
+				  adTagUrl: thisPreroll,
+				  xmlURL: thisXML,
+				  theme: "bmx",
+				  volume: 0.5
+				});				
+			});
+		});	});	});	});	});	
+		
+	}
+}
+
+var slideshowCounter = 0;
+var totalSlideshows = 0;
+
+function sizeSlideshow(thisSlideshow) {
+	thisSlideshow.addClass('sizingIsWorking');
+	thisSlideshow.width('100%');
+	thisSlideshow.height(thisSlideshow.width() * 0.666667);
+}
+
+function replaceSlideshowIframes() {
+
+  // Store URLs in reverse order to prevent Google Crawler false detections.
+  String.prototype.reverse = function() { return this.split('').reverse().join(''); };
+  var iframe_finder = [ "iframe[src*='", window.location.host, "/slideshow_frame_sources/", "']" ].reverse().map(function(x) { return x.reverse() }).join('')
+
+	totalSlideshows = $j(iframe_finder.reverse()).length;
+	
+	$j(iframe_finder.reverse()).each(function () {
+	    slideshowCounter++;
+	    thisSrc = $j(this).attr('src');
+	    
+	    var match = thisSrc.match(/slideshow_frame_sources\/(\d+)/);
+	    if (match) {	      
+	      
+	      if($j(this).parent().hasClass('playerWrapper')){
+	      	console.log('unwrapping');
+	      	$j(this).unwrap();
+	      }
+	      
+	      $j(this).wrap('<div class="slideshowWrapper"></div>');
+	      
+	      $j(this).replaceWith(replacement_code[match[1]]);
+	    }
+	    
+	    thisSlideshow = $j(this);
+	    sizeSlideshow(thisSlideshow);
+	    
+	    if(slideshowCounter === totalSlideshows){
+	    	slideshowEmbeds();
+	    }
+	});
+}
+
+$j(document).ready(function() { 
+	
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+	 	replaceSlideshowIframes();
+	 	
+	 	$j(window).resize(function() {
+	 		$j('div[data-target="slideshow"]').each(function() {
+	 			thisSlideshow = $j(this);
+	 			sizeSlideshow(thisSlideshow);
+	 		});
+	 	});
+	}
+	
+});
+
+
+//ABA Interstitial Variables
+var intCookie1 = '';
+var intCookie2 = '';
+
 </script>
 
 <script src="http://www.vitalbmx.com/partials/user_j?following_url=privacy_policies&amp;notif_id="></script>
-<link href="/assets/120111_main.min-51998de728b37e245eba2063661ced9e.css" media="screen" rel="stylesheet" type="text/css">
-<!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="/assets/120111_main.min-073ffbeeb3f2e74bbf9d84ef293e0fe5.css" media="screen" rel="stylesheet" type="text/css">
+<!--[if IE]><link href="/assets/ie-1bc487bf5a3ab2bb04f275d4516cbec6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="/assets/120305_comments.min-711bbb7452777a48b900e3a527717086.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" media="screen" rel="stylesheet" type="text/css">
@@ -248,7 +411,7 @@ $j(window).resize(function() { responsiveWallpaperAds(); });
 
 
 
-<link href="http://assets.vitalmedianet.com/stylesheets/120103_bmx.css?1443777950" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120103_bmx-f37c1a26ce1f995f3068cdbaae726bfa.css" media="screen" rel="stylesheet" type="text/css">
 
 
 <link href="https://plus.google.com/113723584621793382880" rel="publisher">
@@ -424,7 +587,7 @@ node.parentNode.insertBefore(gads, node);
 
 <script src="/geo.js?from=privacy_policies" type="text/javascript"></script>
 
-<base href="http://www.vitalbmx.com/privacy-policy">
+<base href="http://www.vitalbmx.com/privacy-policy"> 
 
 
 
@@ -457,14 +620,14 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <div id="logo">
           <a href="http://www.vitalbmx.com">Vital BMX</a>
         </div>
-        <div id="adb-top" class="tacticalWrapper">
+        <div id="adb-top" data-buster="busterWrap">
             <div class="gad-inner" id="BMX_desktop_homepage_top">
     <script type="text/javascript">
       googletag.cmd.push(function() { googletag.display('BMX_desktop_homepage_top'); });
     </script>
   </div>
 
-          <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" class="tactical" href="#" role="aba-top"></a></div>
+          <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" data-buster="busted" href="#" role="aba-top"></a></div>
         </div>
       </div> 
  
@@ -497,6 +660,9 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <ul>
         <li><a href="/videos/main">All Videos</a></li>
         <li><a href="/videos/main?scope=feature">Feature Videos</a></li>
+        <li><a href="/videos/gameofbikepark2015">Game of BIKE 2015: Park</a></li>
+        <li><a href="/videos/gameofbikedirt2015">Game of BIKE 2015: Dirt</a></li>
+        <li><a href="/videos/gameofbikestreet2015">Game of BIKE 2015: Street</a></li>
         <li><a href="/videos/gameofbikepark">Game of BIKE 2014: Park</a></li>
         <li><a href="/videos/gameofbikestreet">Game of BIKE 2014: Street</a></li>
         <li><a href="/videos/gameofbike2013">Game of BIKE 2013</a></li>
@@ -534,7 +700,7 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <a href="/forums/main">Forum</a>
       </li>
       <li id="main_nav_store">
-        <a href="http://store.vitalbmx.com/">Store</a>
+        <a href="http://store.vitalbmx.com/" rel="nofollow" target="_blank">Store</a>
       </li>
     </ul>
   </div>
@@ -543,21 +709,21 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
 <div id="wpadWrapper"> 
   <div id="wpadContainer"> 
     <div class="wpadUnit" id="wpadUnitL">
-      <div class="tacticalWrapper" id="BMX_desktop_wallpaper_left">
+      <div data-buster="busterWrap" id="BMX_desktop_wallpaper_left">
         <script type="text/javascript">
           googletag.cmd.push(function() { googletag.display('BMX_desktop_wallpaper_left'); });
         </script>
       </div>
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" class="tactical" href="#" role=""></a></div>
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" data-buster="busted" href="#" role=""></a></div>
     </div> 
     <div id="wpadCenter"></div> 
     <div class="wpadUnit" id="wpadUnitR">
-      <div class="tacticalWrapper" id="BMX_desktop_wallpaper_right">
+      <div data-buster="busterWrap" id="BMX_desktop_wallpaper_right">
         <script type="text/javascript">
           googletag.cmd.push(function() { googletag.display('BMX_desktop_wallpaper_right'); });
         </script>
       </div>
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" class="tactical" href="#" role=""></a></div>
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" data-buster="busted" href="#" role=""></a></div>
     </div> 
   </div> 
 </div> 
@@ -690,7 +856,7 @@ Irvine, CA 92612
     </div>
     
 <div class="sidebar normal">
-  <div class="ad tacticalWrapper" id="scroll_ad">
+  <div class="ad" data-buster="busterWrap" data-scroll-buster="true">
   
     <div class="gad-inner" id="BMX_desktop_features_main_side">
     <script type="text/javascript">
@@ -698,7 +864,7 @@ Irvine, CA 92612
     </script>
   </div>
 
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" class="tactical" href="#" role="aba-side"></a></div>
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" data-buster="busted" href="#" role="aba-side"></a></div>
 </div>
 
 </div>
@@ -708,14 +874,14 @@ Irvine, CA 92612
       
   <!-- footer -->
 <div id="footer">  
-    <div id="adb-bottom" class="tacticalWrapper">
+    <div id="adb-bottom" data-buster="busterWrap">
   		  <div class="gad-inner" id="BMX_desktop_homepage_bottom">
     <script type="text/javascript">
       googletag.cmd.push(function() { googletag.display('BMX_desktop_homepage_bottom'); });
     </script>
   </div>
 
-  		<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" class="tactical" href="#" role="aba-bottom"></a></div>
+  		<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;"><a id="tacticalBottom" data-buster="busted" href="#" role="aba-bottom"></a></div>
   	</div>
 
 <script type="text/javascript">
@@ -747,7 +913,7 @@ Irvine, CA 92612
     <span>Edition: <a href="http://www.vitalbmx.com?perm=1">Int'l</a> | <a href="http://uk.vitalbmx.com?perm=1">UK</a></span>
     <span>Version: <a href="http://www.vitalbmx.com/privacy-policy?mobile=false">Desktop</a> | <a href="http://m.vitalbmx.com/privacy-policy?mobile=true">Mobile</a></span>
   </label>
-  <label>© 2015 Vital Media Network, Inc.</label>
+  <label>© 2016 Vital Media Network, Inc.</label>
 </div>
 </div>
 <!-- // footer -->
