@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiaforum.com privacy policy that was archived on 2015-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151023204240id_/http%3A//www.australiaforum.com/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaforum.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419011935id_/http%3A//www.australiaforum.com/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
 
 # Living and Working in Australia Forum With Immigration and Travel Information - FAQ: Privacy Policy
 
