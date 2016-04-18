@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairsisters.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925205804id_/https%3A//hairsisters.com/blog/page%3Ftitle%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairsisters.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418211138id_/https%3A//www.hairsisters.com/blog/page%3Ftitle%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - hairsisters.com
 
