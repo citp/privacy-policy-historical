@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dayre.me privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919035359id_/https%3A//dayre.me/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dayre.me privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418121653id_/https%3A//dayre.me/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dayre
 
@@ -93,7 +93,7 @@ We will not rent or sell your information to third parties outside Dayre (or the
     * Following termination or deactivation of your account, Dayre, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
   5. ### Children's privacy
 
-Dayre does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please email us at [admin@dayre.me](mailto:admin@dayre.me)
+Dayre does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact](https://dayre.me/contact) us.
 
   6. ### Other web sites and services
 
@@ -101,11 +101,11 @@ We are not responsible for the practices employed by any websites or services li
 
   7. ### How to contact us about a deceased user
 
-In the event of the death of an Dayre User, please email us at [admin@dayre.me](mailto:admin@dayre.me). We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+In the event of the death of an Dayre User, please [contact](https://dayre.me/contact) us. We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
 
   8. ### How to contact us
 
-If you have any questions about this Privacy Policy or the Service, please email us at [admin@dayre.me](mailto:admin@dayre.me)
+If you have any questions about this Privacy Policy or the Service, please [contact](https://dayre.me/contact) us.
 
   9. ### Changes to our privacy policy
 
