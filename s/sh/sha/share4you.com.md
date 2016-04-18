@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the share4you.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324022650id_/https%3A//www.share4you.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share4you.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418215006id_/https%3A//www.share4you.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Share4you
 
