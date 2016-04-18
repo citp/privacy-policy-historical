@@ -1,27 +1,64 @@
-> *The following text is extracted and transformed from the inbound.org privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012073305id_/http%3A//inbound.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbound.org privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418182721id_/https%3A//inbound.org/privacy) for the most accurate reproduction.*
 
-# Stratasoft, Incorporated Privacy Statement
+# Privacy Policy
 
-Stratasoft respects your privacy and is committed to protecting it. In general, you can visit our website without telling us who you are or giving us any personal information. In some cases, however, we may need personally identifiable information (any information by which you can be identified). In such cases, we will explicitly ask for such information and will only use it to support your customer relationship with us. 
+This privacy policy sets out how Inbound.org uses and protects any information that you give Inbound.org when you use this website.  
 
-What Information We Collect  
-On some Stratasoft pages, you can request services, make inquiries and submit a resume. The types of personal information collected on these pages are name, e-mail address, location and phone/fax number. 
 
-When you visit any website on the Internet, the site will record your computer's IP address (the unique Internet address of your computer). Stratasoft does not link your IP address to anything personally identifiable to you. 
+Inbound.org is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 
-How We Use the Information  
-We Collect Stratasoft uses your personal information to follow up on a request for service, e-mail you to confirm receipt of a request or online application, answer inquiries and improve our service to you. 
 
-The IP addresses logged on www.stratasoft.com are used to generate aggregate statistical reports, to detect errors and to maintain security. These log files are eventually deleted. 
+Inbound.org may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3/26/2015.
 
-Who We Share the Information With  
-Stratasoft will not sell, rent or lease your personally identifiable information to others except with your permission or under court order. We will only share the personal data you provide with our business partners who are acting on our behalf to serve you. Such Stratasoft business partners are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+ **What we collect**    
+We may collect the following information:
 
-Stratasoft does not release any of the IP addresses that it collects for the sole purpose of website administration to any third party. 
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Links to Other Sites  
-Stratasoft is not responsible for the privacy practices or the content of any other website to which there is a link on this website. 
+
+
+**What we do with the information we gather**  
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customize the website according to your interests.
+  * We may provide your information to our third party partners for marketing or promotional purposes.
+  * We will never sell your information.
+
+
+
+**Security**    
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**    
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+ **Links to other websites**  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**  
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 25 First St, Second Floor, Cambridge MA 02141.
 
   
-Information Security and Quality  
-Stratasoft has put in place appropriate technical and managerial procedures to keep your personally identifiable information accurate, complete, current and secure. We will make every effort to correct any personal information that you detect is inaccurate. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
