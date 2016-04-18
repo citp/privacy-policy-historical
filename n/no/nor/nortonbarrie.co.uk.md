@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nortonbarrie.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626074609id_/http%3A//www.nortonbarrie.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonbarrie.co.uk privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418165826id_/http%3A//www.nortonbarrie.co.uk/privacy) for the most accurate reproduction.*
 
 # Norton Barrie - Privacy Policy
 
