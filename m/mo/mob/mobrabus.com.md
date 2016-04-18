@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the mobrabus.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210231200id_/http%3A//www.mobrabus.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobrabus.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419010158id_/http%3A//www.mobrabus.com/Pages/PrivacyPolicy) for the most accurate reproduction.*
 
-# MoBrabus.com | Mo Brabus
+# Privacy
 
-Mo Brabus Privacy Policy
-
-**1.          Introduction**
+1.         Introduction
 
 1.1     We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
 
 1.2     We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. / By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-**2.          Credit**
+2.         Credit
 
-2.1     This document was created using a template from [SEQ Legal](http://www.seqlegal.com/) (http://www.seqlegal.com).
+2.1     This document was created using a template from [SEQ Legal](http://www.seqlegal.com/) (http://www.seqlegal.com).
 
-**3.          Collecting personal information**
+3.         Collecting personal information
 
 3.1     We may collect, store and use the following kinds of personal information:
 
@@ -36,11 +34,11 @@ Mo Brabus Privacy Policy
 
 (i)       Any other personal information that you choose to send to us; and
 
-(j)      _Provide details of other personal information collected_.
+(j)       _Provide details of other personal information collected_.
 
 3.2     Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
-**4.          Using your personal information**
+4.         Using your personal information
 
 4.1     Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
 
@@ -74,7 +72,7 @@ Mo Brabus Privacy Policy
 
 (n)      Verify compliance with the terms and conditions governing the use of our website, including monitoring private messages sent through our website private messaging service.
 
-(o)      _Other uses_.
+(o)       _Other uses_.
 
 4.3     If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
@@ -82,7 +80,7 @@ Mo Brabus Privacy Policy
 
 4.5     All our website financial transactions are handled through our payment services providers, You can review the provider's privacy policy by visiting their website. We will share information with our payment services providers only to the extent necessary for the purposes of processing payments you make via our website and dealing with complaints and queries relating to such payments.
 
-**5.          Disclosing personal information**
+5.         Disclosing personal information
 
 5.1     We may disclose your personal information:
 
@@ -98,7 +96,7 @@ Mo Brabus Privacy Policy
 
 5.2     Except as provided in this policy, we will not provide your personal information to third parties.
 
-**6.          International data transfers**
+6.         International data transfers
 
 6.1     Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
@@ -108,7 +106,7 @@ Mo Brabus Privacy Policy
 
 6.4     You expressly agree to the transfers of personal information described in this Section 6.
 
-**7.          Retaining personal information**
+7.         Retaining personal information
 
 7.1     This Section 7 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
 
@@ -116,7 +114,7 @@ Mo Brabus Privacy Policy
 
 7.3     Without prejudice to Section 7.2, we will usually delete personal data falling within the categories set out below at the date/time set out below:
 
-(a)      _All Your personal data_  will be deleted 1 year after you cancel your subscription to our website or services.
+(a)       _All Your personal data  _ will be deleted 1 year after you cancel your subscription to our website or services.
 
 7.4     Notwithstanding the other provisions of this Section 7, we will retain documents (including electronic documents) containing personal data:
 
@@ -126,7 +124,7 @@ Mo Brabus Privacy Policy
 
 (c)      In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-**8.          Security of your personal information**
+8.         Security of your personal information
 
 8.1     We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -138,7 +136,7 @@ Mo Brabus Privacy Policy
 
 8.5     You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website.
 
-**9.          Amendments**
+9.         Amendments
 
 9.1     We may update this policy from time to time by publishing a new version on our website.
 
@@ -146,7 +144,7 @@ Mo Brabus Privacy Policy
 
 9.3     We may notify you of changes to this policy [by email or through the private messaging system on our website.
 
-**10.       Your rights**
+10.      Your rights
 
 10.1    You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to:
 
@@ -160,17 +158,17 @@ Mo Brabus Privacy Policy
 
 10.4    In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
 
-**11.       Third party websites**
+11.      Third party websites
 
 11.1    Our website includes hyperlinks, and details of, third party websites.
 
 11.2    We have no control over, and are not responsible for, the privacy policies and practices of third parties.
 
-**12.       Updating information**
+12.      Updating information
 
 12.1    Please let us know if the personal information that we hold about you needs to be corrected or updated.
 
-**13.       Cookies**
+13.      Cookies
 
 13.1    Our website uses cookies.
 
@@ -209,3 +207,6 @@ Mo Brabus Privacy Policy
 13.11  Deleting cookies will have a negative impact on the usability of many websites.
 
 Mo Brabus Admim.
+
+  
+
