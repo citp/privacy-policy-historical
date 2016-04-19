@@ -1,32 +1,52 @@
-<!--The following is the downloaded HTML source of the blablacar.co.uk privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906122941id_/https%3A//www.blablacar.co.uk/blog/privacy-and-data-protection-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blablacar.co.uk privacy policy that was archived on 2016-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419105237id_/https%3A//www.blablacar.co.uk/privacy-and-data-protection-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" data-locale="en_GB" lang="en"><head>
+<!DOCTYPE html><html data-locale="en_GB" lang="en" class="js"><head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script src="/v-1461054154/assets/build/js/jquery.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYOWFNAAQsEVVhX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 
         <title>Privacy and Data Protection Policy | BlaBlaCar.co.uk</title>
 
-    <link rel="canonical" href="https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy">
+    <link rel="canonical" href="https://www.blablacar.co.uk/privacy-and-data-protection-policy">
 
-    
+    <link rel="alternate" href="https://www.fr.blablacar.be/privacy-and-data-protection-policy" hreflang="fr-BE">
+<link rel="alternate" href="https://www.nl.blablacar.be/privacy-and-data-protection-policy" hreflang="nl-BE">
+<link rel="alternate" href="https://www.blablacar.com.br/privacy-and-data-protection-policy" hreflang="pt-BR">
+<link rel="alternate" href="https://www.blablacar.cz/privacy-and-data-protection-policy" hreflang="cs-CZ">
+<link rel="alternate" href="https://www.blablacar.de/privacy-and-data-protection-policy" hreflang="de-DE">
+<link rel="alternate" href="https://www.blablacar.es/privacy-and-data-protection-policy" hreflang="es-ES">
+<link rel="alternate" href="https://www.blablacar.fr/privacy-and-data-protection-policy" hreflang="fr-FR">
+<link rel="alternate" href="https://www.blablacar.hr/privacy-and-data-protection-policy" hreflang="hr-HR">
+<link rel="alternate" href="https://www.blablacar.in/privacy-and-data-protection-policy" hreflang="en-IN">
+<link rel="alternate" href="https://www.blablacar.it/privacy-and-data-protection-policy" hreflang="it-IT">
+<link rel="alternate" href="https://www.blablacar.hu/privacy-and-data-protection-policy" hreflang="hu-HU">
+<link rel="alternate" href="https://www.blablacar.mx/privacy-and-data-protection-policy" hreflang="es-MX">
+<link rel="alternate" href="https://www.blablacar.nl/privacy-and-data-protection-policy" hreflang="nl-NL">
+<link rel="alternate" href="https://www.blablacar.pl/privacy-and-data-protection-policy" hreflang="pl-PL">
+<link rel="alternate" href="https://www.blablacar.pt/privacy-and-data-protection-policy" hreflang="pt-PT">
+<link rel="alternate" href="https://www.blablacar.ro/privacy-and-data-protection-policy" hreflang="ro-RO">
+<link rel="alternate" href="https://www.sk.blablacar.com/privacy-and-data-protection-policy" hreflang="sk-SK">
+<link rel="alternate" href="https://www.blablacar.rs/privacy-and-data-protection-policy" hreflang="sr-Latn-RS">
+<link rel="alternate" href="https://www.blablacar.com.tr/privacy-and-data-protection-policy" hreflang="tr-TR">
+<link rel="alternate" href="https://www.blablacar.co.uk/privacy-and-data-protection-policy" hreflang="en-GB">
+<link rel="alternate" href="https://www.blablacar.ru/privacy-and-data-protection-policy" hreflang="ru-RU">
+<link rel="alternate" href="https://www.blablacar.com.ua/privacy-and-data-protection-policy" hreflang="uk-UA">
+
     <meta name="robots" content="index, follow">
 
     
     
 
         <meta name="robots" content="noodp, noydir">
-    <meta name="description" content="    
-1. General
-
-1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclos...">
+    <meta name="description" content="BlaBlaCar connects drivers with empty seats and people travelling the same way - 25 million trusted members saving up to 70% on inter-city travel!">
     <meta name="keywords" content=" ">
 
-                        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.blablacar.co.uk/blog/privacy-and-data-protection-policy">
+                        <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.blablacar.co.uk/privacy-and-data-protection-policy">
             
-                <link href="/v-1441285994/assets/build/vendor/css/main.css" rel="stylesheet" type="text/css">
-<link href="/v-1441285994/assets/build/css/blablacar.css" rel="stylesheet" type="text/css">
-<!--[if IE]><link href="/v-1441285994/assets/build/css/blablacar_1.css" rel="stylesheet" type="text/css" /><![endif]-->
-<!--[if IE]><link href="/v-1441285994/assets/build/css/blablacar_2.css" rel="stylesheet" type="text/css" /><![endif]-->
+                <link href="/v-1461054154/assets/build/vendor/css/main.css" rel="stylesheet" type="text/css">
+<link href="/v-1461054154/assets/build/css/blablacar.css" rel="stylesheet" type="text/css">
+<!--[if IE]><link href="/v-1461054154/assets/build/css/blablacar_1.css" rel="stylesheet" type="text/css"><![endif]-->
+<!--[if IE]><link href="/v-1461054154/assets/build/css/blablacar_2.css" rel="stylesheet" type="text/css"><![endif]-->
     
         <link rel="icon" type="image/x-icon" href="https://d1ovtcjitiy70m.cloudfront.net/vi-1/favicon.ico">
     <link rel="apple-touch-icon-precomposed" href="https://d1ovtcjitiy70m.cloudfront.net/vi-1/apple-touch-icon.png">
@@ -35,12 +55,11 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://d1ovtcjitiy70m.cloudfront.net/vi-1/apple-touch-icon-144x144.png">
 
         <meta property="fb:app_id" content="123152947759014">
-    <meta property="og:url" content="https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy">
+    <meta property="og:url" content="https://www.blablacar.co.uk/privacy-and-data-protection-policy">
 
     <meta property="og:locale" content="en_GB">
     <meta property="og:site_name" content="BlaBlaCar.co.uk">
-            <meta property="og:title" content="     Privacy and Data Protection Policy
-">
+            <meta property="og:title" content="Privacy and Data Protection Policy">
         <meta property="og:type" content="website">
         <meta property="og:image" content="https://www.blablacar.co.uk/images/logo-bbc-fb.png">
     
@@ -54,14 +73,26 @@
     
     <link rel="image_src" href="https://d1ovtcjitiy70m.cloudfront.net/vi-1/images/logo.gif">
 
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="/v-1441285994/assets/build/js/jquery.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYOWFNAAQsEVVhX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-    <!--[if lt IE 9]>
-        <script src="/v-1441285994/assets/static/html5shiv.min.js"></script>
+        <!--[if lt IE 9]>
+        <script src="/v-1461054154/assets/static/html5shiv.min.js"></script>
     <![endif]-->
 
-    
-        <script>document.documentElement.className = 'js';</script>
-</head>
+    <!-- BEGIN TRACKJS -->
+    <script type="text/javascript">window._trackJs = { token: 'a5de65bc2fad41aab960dd9768dbeb46' };</script>
+    <script type="text/javascript" src="//d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js"></script>
+    <!-- END TRACKJS -->
+
+                <script type="text/javascript">
+    (function(){
+        var bsa = document.createElement('script');
+        bsa.type = 'text/javascript';
+        bsa.async = true;
+        bsa.src = '//cdn.optimizely.com/js/3575310035.js';
+        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+    })();
+    </script><script type="text/javascript" async="" src="//cdn.optimizely.com/js/3575310035.js"></script>
+
+    </head>
 <body itemscope="" itemtype="http://schema.org/Article">
     <div id="skip-link"><a href="#maincontent">Skip to content</a></div>
     <!--[if lt IE 9]>
@@ -80,13 +111,15 @@
             
             
     <script type="text/template" id="cookie-banner-template">
-        <div class="cookie-banner">
-            <p class="align-center no-margin size14">
-                BlaBlaCar is using cookies to deliver a better service. By using our website, you agree to <a href="/blog/cookies" target="_blank" class="blue">our policy on cookies usage</a>.
-                <button type="button" class="btn-link no-padding js-close">
-                    <i class="bbc-icon-cancel" aria-hidden="true"></i><span>Close this message</span>
-                </button>
+        <div class="CookieBanner js-CookieBanner u-verticallyCentered">
+            <i class="bbc-icon2-info u-inlineBlock u-alignMiddle u-gray size26 no-margin-left" aria-hidden="true"></i>
+            <p class="u-inlineBlock u-alignMiddle no-margin size14 u-gray">
+                By using our website, you accept that we use cookies to perform analytics and produce content & ads tailored to your interests. Read <a href="/blog/cookies" target="_blank" class="blue">our policy on cookies usage</a>.
             </p>
+            <button type="button" class="CookieBanner-button js-CookieBanner-button">
+                <i class="bbc-icon2-cross" aria-hidden="true"></i>
+                <span class="u-visuallyHidden">Close this message</span>
+            </button>
         </div>
     </script>
 
@@ -95,7 +128,7 @@
                             <header class="site-header" role="banner">
                 
     <div class="container clearfix">
-                    <a href="/" class="logo">
+                    <a href="/" class="logo js-optInExcluded">
                 <img src="https://d1ovtcjitiy70m.cloudfront.net/vi-1/images/blablacar-logo-290x48.png" width="145" height="24" alt="BlaBlaCar">
             </a>
         
@@ -122,8 +155,8 @@
     <div class="login form-register">
         <span class="login-arrow"></span>
         <div class="text-intro"></div>
-        <form id="login-form" action="https://www.blablacar.co.uk/login_check" method="POST" novalidate="">
-        <div class="social-signin facebook-signin">
+        
+    <div class="social-signin facebook-signin">
         <a href="http://www.blablacar.co.uk/connect/facebook" class="btn-social btn-facebook white js-oauth-connect" data-provider="facebook">
             <i class="bbc-icon2-facebook-logo size26 first white push-left" aria-hidden="true"></i>
             Connect with Facebook
@@ -136,6 +169,8 @@
         </p>
     
     
+<form id="login-form" action="https://www.blablacar.co.uk/login_check" method="POST" novalidate="">
+
     
             <p class="separator hr"><span>or</span></p>
 
@@ -196,8 +231,7 @@
                 
                 
                 <div class="row blog-container">
-    
-<div class="span3" role="complementary">
+    <div class="span3" role="complementary">
     <ul class="nav nav-tabs nav-stacked">
                     <li>
                 <a href="/how-does-car-sharing-work">How BlaBlaCar Works</a>
@@ -206,9 +240,24 @@
                 <a href="/trust-safety-insurance">Trust &amp; Safety</a>
             </li>
                     <li>
-                <a href="/experience-level">Experience Levels</a>
+                <a href="/ladies-only">Ladies only</a>
+            </li>
+                    <li>
+                <a href="/member-ratings">Member ratings</a>
             </li>
                     <li class="active">
+                <a href="/privacy-and-data-protection-policy">Privacy and Data Protection Policy</a>
+            </li>
+                    <li>
+                <a href="/terms-and-conditions">Terms And Conditions</a>
+            </li>
+                    <li>
+                <a href="/cookies">Cookies</a>
+            </li>
+                    <li>
+                <a href="/experience-level">Experience Levels</a>
+            </li>
+                    <li>
                 <a href="/blog">Blog</a>
             </li>
                     <li>
@@ -216,390 +265,204 @@
             </li>
             </ul>
 
-            <section class="blog-sideblock">
-    <div class="blog-sideblock-part">
-        <h2>Topics</h2>
-        <ul class="unstyled blog-sideblock-list">
-                        <li class="first">
-                <a href="/blog/cat/blabla-news">
-                    BlaBla News
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/environment">
-                    Environment
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/blabla-games">
-                    BlaBla Games
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/events">
-                    Events
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/collaborative-consumption">
-                    Collaborative consumption
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/about-ride-sharing">
-                    About ride-sharing
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/getaways">
-                    BlaBla Getaways
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/savings">
-                    Savings
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/blabla-community">
-                    BlaBla Community
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/cat/blabla-friends">
-                    BlaBla Friends
-                </a>
-            </li>
-                    </ul>
-    </div>
-    <div class="blog-sideblock-part">
-        <h2>Archives</h2>
-        <ul class="unstyled blog-sideblock-list">
-                        <li class="first">
-                <a href="/blog/archive/052011">
-                    May 2011
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/062011">
-                    June 2011
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/082011">
-                    August 2011
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/102011">
-                    October 2011
-                    <span class="number">
-                        (2)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/122011">
-                    December 2011
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/052012">
-                    May 2012
-                    <span class="number">
-                        (7)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/062012">
-                    June 2012
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/072012">
-                    July 2012
-                    <span class="number">
-                        (5)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/092012">
-                    September 2012
-                    <span class="number">
-                        (1)
-                    </span>
-                </a>
-            </li>
-                        <li>
-                <a href="/blog/archive/102012">
-                    October 2012
-                    <span class="number">
-                        (2)
-                    </span>
-                </a>
-            </li>
-                    </ul>
-    </div>
-
-                    <div class="blog-sideblock-part">
-            <h2>Photos</h2>
-            <ul class="unstyled blog-sideblock-photos clearfix">
-                                <li>
-                    <a href="/blog/latitude2015">
-                                                    <img width="55" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/thumblatitude.jpg" alt="So much BlaBla at Latitude">
-                                            </a>
-                </li>
-                                <li>
-                    <a href="/blog/festival-republic">
-                                                    <img width="55" src="//d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/Laura/thumbnaili.jpg" alt="Rideshare to the Summer Festivals!">
-                                            </a>
-                </li>
-                                <li>
-                    <a href="/blog/blablatimes2015">
-                                                    <img width="55" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/thumbnail%20blablatime.jpg" alt="BlaBla Tour rides into the UK!">
-                                            </a>
-                </li>
-                                <li>
-                    <a href="/blog/blablatime-2015">
-                                                    <img width="55" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/vignettes-120-90/Thumbnail%20(1).png" alt="Come and join us for some BlaBla Time!">
-                                            </a>
-                </li>
-                                <li>
-                    <a href="/blog/blablacar-axa-ridesharing-insurance">
-                                                    <img width="55" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/Laura/email-banner-final_again_final.png" alt="Your journey is insured, in partnership with AXA!">
-                                            </a>
-                </li>
-                                <li>
-                    <a href="/blog/online-booking-advantages-driver-passenger">
-                                                    <img width="55" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/Laura/onlie-booking-thumbnail.png" alt="Welcome to online booking!">
-                                            </a>
-                </li>
-                            </ul>
-        </div>
-    </section>
-
     
 </div>
-        <div class="span7 blog-post-container">
-        <article class="blog-post" role="article">
-            <header>
-                    <a href="/blog" class="back-articles">Back to posts</a>
-
-                    <div class="sharing">
-        <span class="libShar">Share</span>
-
-                <div class="g-plusone" data-size="medium" data-annotation="none" data-href="https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy"></div>
-
-                <a href="http://twitter.com/share" data-text="BlaBlaCar Blog https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy #BlaBlaCar" data-url="..." class="twitter-share-button" data-size="medium" data-count="none"><span class="hide">Tweeter</span></a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.blablacar.co.uk%2Fblog%2Fprivacy-and-data-protection-policy&amp;width=95&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:20px;" allowtransparency="true"></iframe>
-    </div>
-
-            </header>
-            <h1>     Privacy and Data Protection Policy
-</h1>
+        <section class="span7 blog-post-container">
+        <article class="blog-post blog-post-static" role="article">
+            <h1>Privacy and Data Protection Policy</h1>
             <div class="clearfix"></div>
-                        <div class="blog-content">
-                                   <h2>1. General</h2>
+            <div class="blog-content">
 
-<p>1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the <a href="//www.blablacar.co.uk">www.blablacar.com</a> website and other associated partner websites, microsites and sub-sites (the “Site”).</p>
+                <h2>General</h2>
+                <div class="list-identation">
+                    <p><strong>1.1</strong> - Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the <a href="https://www.blablacar.co.uk/">www.blablacar.com</a> website and other associated partner websites, microsites and sub-sites (the “Site”).
+</p>
 
-<p>1.2 By using this Site or any services we offer, you are consenting to the collection, use, and disclosure of that information about you in accordance with, and are agreeing to be bound by, this Privacy Policy.</p>
+                    <p><strong>1.2</strong> - By using this Site or any services we offer, you are consenting to the collection, use, and disclosure of that information about you in accordance with, and are agreeing to be bound by, this Privacy Policy
+</p>
 
-<p>1.3 [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see&nbsp;<a href="http://ico.org.uk/" target="_blank">http://ico.org.uk/</a>.]</p>
-
-<h2>&nbsp;</h2>
-
-<h2>2. Ways that we collect information</h2>
-
-<p>2.1 We may collect and process the following personal information or data (information that can be uniquely identified with you) about you:</p>
-
-<p style="margin-left:40px">2.1.1 Certain information required to register with the Site or to access other services provided by us, including your name, address, date of birth and if you are a Driver certain information about your vehicle etc.;</p>
-
-<p style="margin-left:40px">2.1.2 Your e-mail address and a password;</p>
-
-<p style="margin-left:40px">2.1.3 A mobile phone number;</p>
-
-<p style="margin-left:40px">2.1.4 A record of any correspondence between you and us;</p>
-
-<p style="margin-left:40px">2.1.5 A record of any bookings you have made or advertisements you have placed with or through the Site;</p>
-
-<p style="margin-left:40px">2.1.6 Your replies to any surveys or questionnaires that we may use for research purposes;</p>
-
-<p style="margin-left:40px">2.1.7 Details of accounting or financial transactions including transactions carried out through the Site or otherwise. This may include information such as your credit card, debit card or bank account details, details of Trips or Legs (as described in our Conditions) you have booked or offered through the Site;</p>
-
-<p style="margin-left:40px">2.1.8 Details of your visits to the Site and the resources that you access;</p>
-
-<p style="margin-left:40px">2.1.9 Information we may require from you when you report a problem with the Site.</p>
-
-<p>2.2 We only collect such information when you choose to supply it to us. You do not have to supply any personal information to us but you may not be able to take advantage of all the services we offer without doing so.</p>
-
-<p>2.3 Information is also gathered without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies. These methods do not collect or store personal information.</p>
-
-<p>2.4 An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet. It is generally considered to be non-personally identifiable information, because in most cases an IP address can only be traced back to your ISP or the large company or organisation that provides your internet access (such as your employer if you are at work).</p>
-
-<p>2.5 We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.</p>
-
-<p>&nbsp;</p>
-
-<h2>3. Use</h2>
-
-<p>3.1 We may use this information to:</p>
-
-<p style="margin-left:40px">3.1.1 ensure that the content of the Site is presented in the most effective manner for you and for your computer and customise the Site to your preferences;</p>
-
-<p style="margin-left:40px">3.1.2 assist in making general improvements to the Site;</p>
-
-<p style="margin-left:40px">3.1.3 carry out and administer any obligations arising from any agreements entered into between you and us;</p>
-
-<p style="margin-left:40px">3.1.4 allow you to participate in features of the Site and other services;</p>
-
-<p style="margin-left:40px">3.1.5 contact you and notify you about changes to the Site or the services we offer (except where you have asked us not to do this);</p>
-
-<p style="margin-left:40px">3.1.6 collect payments from you;</p>
-
-<p style="margin-left:40px">3.1.7 analyse how users are making use of the Site and for internal marketing and research purposes.</p>
-
-<p>3.2 We will not resell your information to any third party nor use it for any third party marketing.</p>
-
-<p>&nbsp;</p>
-
-<h2>4. Sharing your information</h2>
-
-<p>4.1 If we charge you any fees or collect any money from you in relation to any services on the Site, including any sponsorship money, credit or debit card payments will be collected by our&nbsp;payment processor.&nbsp;</p>
-
-<p>4.2 In order for payments to be processed you may need to provide some necessary details to our payment processor. We will tell you about this at the point we collect that information.</p>
-
-<p>4.3 We do not disclose any information you provide via the Site any third parties except:</p>
-
-<p style="margin-left:40px">4.3.1 As part of our booking process and in order to provide our services information may be passed to a Passenger (if you are a Driver) or to a Driver (if you are a Passenger).</p>
-
-<p style="margin-left:40px">4.3.2 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation (for example, if required to do so by a court order or for the purposes of prevention of fraud or other crime);</p>
-
-<p style="margin-left:40px">4.3.3 in order to enforce any terms of use that apply to any of the Site, or to enforce any other terms and conditions or agreements for our Services that may apply;</p>
-
-<p style="margin-left:40px">4.3.4 we may share information with our international partner websites where you have made a booking through the Site with a user of our partner websites or where you have used the Site tointeract with a third party;</p>
-
-<p style="margin-left:40px">4.3.5 we may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or&nbsp;reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected;</p>
-
-<p style="margin-left:40px">4.3.6 to protect the rights, property, or safety of Comuto SA, the Site’s users, or any other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
-
-<p>4.4 Other than as set out above, we shall not disclose any of your personal information unless you give us permission to do so.</p>
-
-<p>&nbsp;</p>
-
-<h2>5. Cookies</h2>
-
-<p>5.1 A cookie is a piece of data stored locally on your computer and contains information about your activities on the Internet. The information in a cookie does not contain any personally&nbsp;identifiable information you submit to our site.</p>
-
-<p>5.2 On the Site, we use cookies to track users' progress through the Site, allowing us to make improvements based on usage data. We also use cookies if you log in to one of our online services to enable you to remain logged in to that service. A cookie helps you get the best out of the Site and helps us to provide you with a more customised service.</p>
-
-<p>5.3 Once you close your browser, our access to the cookie terminates. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. To change your browser settings you should go to your advanced preferences.</p>
-
-<p>5.4 We are required to obtain your consent to use cookies. [We have a clear cookies notice on the home page of the website.] If you continue to use the Site having seen the notice then we assume you are happy for us to use the cookies described above.</p>
-
-<p>5.5 If you choose not to accept the cookies, this will not affect your access to the majority of information available on the Site. However, you will not be able to make full use of our online services.</p>
-
-<p>&nbsp;</p>
-
-<h2>6. Access to and correction of personal information</h2>
-
-<p>6.1 We will take all reasonable steps in accordance with our legal obligations to update or correct personally identifiable information in our possession that you submit via this Site.</p>
-
-<p>6.2 The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. If you wish to see details of any personal information that we hold about you please contact us by way of our contact page.</p>
-
-<p>6.3 We take all appropriate steps to protect your personally identifiable information as you transmit your information from your computer to our Site and to protect such information for loss, misuse, and unauthorised access, disclosure, alteration, or destruction. We use leading technologies and encryption software to safeguard your data, and operate strict security standards to prevent any unauthorised access to it.</p>
-
-<p>6.4 Where you use passwords, usernames, or other special access features on this site, you also have a responsibility to take reasonable steps to safeguard them.</p>
-
-<p>&nbsp;</p>
-
-<h2>7. Other websites</h2>
-
-<p>7.1 This Site contains links and references to other websites. Please be aware that this Privacy Policy does not apply to those websites.</p>
-
-<p>7.2 We cannot be responsible for the privacy policies and practices of sites that are not operated by us, even if you access them via the Site. We recommend that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions.</p>
-
-<p>7.3 In addition, if you came to this Site via a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.</p>
-
-<p>&nbsp;</p>
-
-<h2>8. Transferring your information outside of Europe</h2>
-
-<p>8.1 As part of the services offered to you through the Site, the information you provide to us may be transferred to, and stored at, countries outside of the European Union (“EU”). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU or one of our service providers is located in a country outside of the EU. We may also share information with other equivalent national bodies, which may be located in countries worldwide. These countries may not have similar data protection laws to the UK. If we transfer your information outside of the EU in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy policy.</p>
-
-<p>8.2 If you use the Site while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.</p>
-
-<p>8.3 By submitting your personal information to us you agree to the transfer, storing or processing of your information outside the EU in the manner described above.</p>
-
-<p>&nbsp;</p>
-
-<h2>9. Notification of changes to our Privacy Policy</h2>
-
-<p>We will post details of any changes to our Privacy Policy on the Site to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.</p>
-
-<p>&nbsp;</p>
-
-<h2>10. Contact us</h2>
-
-<p>If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by way of our contact page.<br>
-&nbsp;</p>
-                      </div>
-                   <footer>
-                    <a href="/blog" class="back-articles">Back to posts</a>
-
-                <div class="blog-post-details">
-                    <div class="poster-details">
-                                                <ul class="unstyled clearfix">
-                                                        <li class="post-date">
-                                05/10/2012
-                            </li>
-                        </ul>
-                    </div>
-                        <div class="sharing">
-        <span class="libShar"></span>
-
-                <div class="g-plusone" data-size="medium" data-annotation="none" data-href="https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy"></div>
-
-                <a href="http://twitter.com/share" data-text="BlaBlaCar Blog https://www.blablacar.co.uk/blog/privacy-and-data-protection-policy #BlaBlaCar" data-url="..." class="twitter-share-button" data-size="medium" data-count="none"><span class="hide">Tweeter</span></a>
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.blablacar.co.uk%2Fblog%2Fprivacy-and-data-protection-policy&amp;width=95&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:95px; height:20px;" allowtransparency="true"></iframe>
-    </div>
-
+                    <p><strong>1.3</strong> - [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see <a href="http://ico.org.uk/" target="_blank">http://ico.org.uk/</a>.]</p>
                 </div>
-            </footer>
+
+                <h2>Ways that we collect information</h2>
+                <div class="list-identation">
+                    <p><strong>2.1</strong> - We may collect and process the following personal information or data (information that can be uniquely identified with you) about you:
+</p>
+                    <div class="list-identation">
+                        <p><strong>2.1.1</strong> - Certain information required to register with the Site or to access other services provided by us, including your name, address, date of birth and if you are a Driver certain information about your vehicle etc.;
+</p>
+
+                        <p><strong>2.1.2</strong> - Your e-mail address and a password;
+</p>
+
+                        <p><strong>2.1.3</strong> - A mobile phone number;
+</p>
+
+                        <p><strong>2.1.4</strong> - A record of any correspondence between you and us;
+</p>
+
+                        <p><strong>2.1.5</strong> - A record of any bookings you have made or advertisements you have placed with or through the Site;
+</p>
+
+                        <p><strong>2.1.6</strong> - Your replies to any surveys or questionnaires that we may use for research purposes;
+</p>
+
+                        <p><strong>2.1.7</strong> - Details of accounting or financial transactions including transactions carried out through the Site or otherwise. This may include information such as your credit card, debit card or bank account details, details of Trips or Legs (as described in our Conditions) you have booked or offered through the Site;
+</p>
+
+                        <p><strong>2.1.8</strong> - Details of your visits to the Site and the resources that you access;
+</p>
+
+                        <p><strong>2.1.9</strong> - Information we may require from you when you report a problem with the Site.</p>
+                    </div>
+                    <p><strong>2.2</strong> - We only collect such information when you choose to supply it to us. You do not have to supply any personal information to us but you may not be able to take advantage of all the services we offer without doing so.
+</p>
+
+                    <p><strong>2.3</strong> - Information is also gathered without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies. These methods do not collect or store personal information.
+</p>
+
+                    <p><strong>2.4</strong> - An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet. It is generally considered to be non-personally identifiable information, because in most cases an IP address can only be traced back to your ISP or the large company or organisation that provides your internet access (such as your employer if you are at work).</p>
+<p></p>
+
+                    <p><strong>2.5</strong> - We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.</p>
+                </div>
+
+                <h2>Use</h2>
+                <div class="list-identation">
+                    <p><strong>3.1</strong> - We may use this information to:
+</p>
+
+                    <div class="list-identation">
+                        <p><strong>3.1.1</strong> - ensure that the content of the Site is presented in the most effective manner for you and for your computer and customise the Site to your preferences;
+</p>
+
+                        <p><strong>3.1.2</strong> - assist in making general improvements to the Site;
+</p>
+
+                        <p><strong>3.1.3</strong> - carry out and administer any obligations arising from any agreements entered into between you and us;
+</p>
+
+                        <p><strong>3.1.4</strong> - allow you to participate in features of the Site and other services;
+</p>
+
+                        <p><strong>3.1.5</strong> - contact you and notify you about changes to the Site or the services we offer (except where you have asked us not to do this);
+</p>
+
+                        <p><strong>3.1.6</strong> - collect payments from you;
+</p>
+
+                        <p><strong>3.1.7</strong> - analyse how users are making use of the Site and for internal marketing and research purposes.</p>
+                    </div>
+                    <p><strong>3.2</strong> - We will not resell your information to any third party nor use it for any third party marketing.
+</p>
+                </div>
+
+                <h2>4. Sharing your information</h2>
+                <div class="list-identation">
+                    <p><strong>4.1</strong> - If we charge you any fees or collect any money from you in relation to any services on the Site, including any sponsorship money, credit or debit card payments will be collected by our payment processor.
+</p>
+
+                    <p><strong>4.2</strong> - In order for payments to be processed you may need to provide some necessary details to our payment processor. We will tell you about this at the point we collect that information
+</p>
+
+                    <p><strong>4.3</strong> - We do not disclose any information you provide via the Site any third parties except:
+</p>
+
+                    <div class="list-identation">
+                        <p><strong>4.3.1</strong> - As part of our booking process and in order to provide our services information may be passed to a Passenger (if you are a Driver) or to a Driver (if you are a Passenger).
+</p>
+
+                        <p><strong>4.3.2</strong> - If we are under a duty to disclose or share your personal data in order to comply with any legal obligation (for example, if required to do so by a court order or for the purposes of prevention of fraud or other crime);
+</p>
+
+                        <p><strong>4.3.3</strong> - in order to enforce any terms of use that apply to any of the Site, or to enforce any other terms and conditions or agreements for our Services that may apply;
+</p>
+
+                        <p><strong>4.3.4</strong> - we may share information with our international partner websites where you have made a booking through the Site with a user of our partner websites or where you have used the Site tointeract with a third party;
+</p>
+
+                        <p><strong>4.3.5</strong> - we may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected;
+</p>
+
+                        <p><strong>4.3.6</strong> - to protect the rights, property, or safety of Comuto SA, the Site’s users, or any other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
+                    </div>
+
+                    <p><strong>4.4</strong> - Other than as set out above, we shall not disclose any of your personal information unless you give us permission to do so.</p>
+                </div>
+
+                <h2>5. Cookies</h2>
+                <div class="list-identation">
+                    <p><strong>5.1</strong> - A cookie is a piece of data stored locally on your computer and contains information about your activities on the Internet. The information in a cookie does not contain any personally identifiable information you submit to our site.
+</p>
+
+                    <p><strong>5.2</strong> - On the Site, we use cookies to track users' progress through the Site, allowing us to make improvements based on usage data. We also use cookies if you log in to one of our online services to enable you to remain logged in to that service. A cookie helps you get the best out of the Site and helps us to provide you with a more customised service.
+</p>
+
+                    <p><strong>5.3</strong> - Once you close your browser, our access to the cookie terminates. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. To change your browser settings you should go to your advanced preferences.
+</p>
+
+                    <p><strong>5.4</strong> - We are required to obtain your consent to use cookies. [We have a clear cookies notice on the home page of the website.] If you continue to use the Site having seen the notice then we assume you are happy for us to use the cookies described above.
+</p>
+
+                    <p><strong>5.5</strong> - If you choose not to accept the cookies, this will not affect your access to the majority of information available on the Site. However, you will not be able to make full use of our online services.</p>
+                </div>
+
+                <h2>6. Access to and correction of personal information</h2>
+                <div class="list-identation">
+                    <p><strong>6.1</strong> - We will take all reasonable steps in accordance with our legal obligations to update or correct personally identifiable information in our possession that you submit via this Site.
+</p>
+
+                    <p><strong>6.2</strong> - The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. If you wish to see details of any personal information that we hold about you please contact us by way of our contact page.
+</p>
+
+                    <p><strong>6.3</strong> - We take all appropriate steps to protect your personally identifiable information as you transmit your information from your computer to our Site and to protect such information for loss, misuse, and unauthorised access, disclosure, alteration, or destruction. We use leading technologies and encryption software to safeguard your data, and operate strict security standards to prevent any unauthorised access to it.
+</p>
+
+                    <p><strong>6.4</strong> - Where you use passwords, usernames, or other special access features on this site, you also have a responsibility to take reasonable steps to safeguard them.</p>
+                </div>
+
+                <h2>7. Other websites</h2>
+                <div class="list-identation">
+                    <p><strong>7.1</strong> - This Site contains links and references to other websites. Please be aware that this Privacy Policy does not apply to those websites.
+</p>
+
+                    <p><strong>7.2</strong> - We cannot be responsible for the privacy policies and practices of sites that are not operated by us, even if you access them via the Site. We recommend that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions.
+</p>
+
+                    <p><strong>7.3</strong> - In addition, if you came to this Site via a third party site, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.</p>
+                </div>
+
+                <h2>8. Transferring your information outside of Europe</h2>
+                <div class="list-identation">
+                    <p><strong>8.1</strong> - As part of the services offered to you through the Site, the information you provide to us may be transferred to, and stored at, countries outside of the European Union (“EU”). By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU or one of our service providers is located in a country outside of the EU. We may also share information with other equivalent national bodies, which may be located in countries worldwide. These countries may not have similar data protection laws to the UK. If we transfer your information outside of the EU in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy policy.
+</p>
+
+                    <p><strong>8.2</strong> - If you use the Site while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.
+</p>
+
+                    <p><strong>8.3</strong> - By submitting your personal information to us you agree to the transfer, storing or processing of your information outside the EU in the manner described above.</p>
+                </div>
+
+                <h2>9. Notification of changes to our Privacy Policy</h2>
+                <p>We will post details of any changes to our Privacy Policy on the Site to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.</p>
+
+                <h2>10. Contact us</h2>
+                <p>If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by way of our contact page.</p>
+
+            </div>
         </article>
-    </div>
+    </section>
 </div>
             </div>
 
-                            <footer class="footer-container" role="contentinfo">
+                            
+<footer class="footer-container" role="contentinfo">
     <section class="site-footer">
         <div class="row">
             <div class="relative span4">
                 <h2>
                     Using BlaBlaCar
                 </h2>
-
                                         <ul class="footer-list">
         
                                         
@@ -651,7 +514,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/member-ratings">
+                <a href="/member-ratings">
                     Ratings
                 </a>
             </li>
@@ -660,8 +523,8 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/ladies-only">
-                    Ladies Only
+                <a href="/ladies-only">
+                    Ladies only
                 </a>
             </li>
         
@@ -678,7 +541,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/member-stories">
+                <a href="/blablalife/blablastories/member-testimonials" rel="nofollow">
                     Member stories
                 </a>
             </li>
@@ -698,14 +561,13 @@
                 <h2>
                     Our Company
                 </h2>
-
                                         <ul class="footer-list">
         
                                         
                                         
             <li class="
                 first                            ">
-                <a href="/blog/blablacar-about">
+                <a href="/about-us" rel="nofollow">
                     About Us
                 </a>
             </li>
@@ -714,7 +576,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/blablacar-press">
+                <a href="/newsroom" rel="nofollow">
                     Press
                 </a>
             </li>
@@ -723,7 +585,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/partners">
+                <a href="/about-us/widget-for-our-partners" rel="nofollow">
                     Partners
                 </a>
             </li>
@@ -732,7 +594,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/recruitment">
+                <a href="/dreamjobs" rel="nofollow">
                     We're Hiring!
                 </a>
             </li>
@@ -741,7 +603,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/cookies">
+                <a href="/cookies">
                     Cookies policy
                 </a>
             </li>
@@ -750,7 +612,7 @@
                                         
             <li class="
                                             ">
-                <a href="/car-sharing-charter" rel="nofollow">
+                <a href="/car-sharing-charter">
                     Ridesharer's Agreement
                 </a>
             </li>
@@ -759,7 +621,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/terms-and-conditions">
+                <a href="/terms-and-conditions">
                     Terms &amp; Conditions
                 </a>
             </li>
@@ -768,7 +630,7 @@
                                         
             <li class="
                                             ">
-                <a href="/blog/privacy-and-data-protection-policy">
+                <a href="/privacy-and-data-protection-policy">
                     Privacy Policy
                 </a>
             </li>
@@ -777,54 +639,46 @@
                             </div>
             <div class="relative span4">
                 <h2>
-                    BlaBla Blog
+                    BlaBlaLife
                 </h2>
-
-                        <ul class="footer-list">
+                                        <ul class="footer-list">
                     <li class="first">
                 <div class="clearfix">
                                         <div class="home-blog-post-illustration">
-                        <a href="/blog/latitude2015">
-                            <img width="88" src="https://d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/thumblatitude.jpg" alt="So much BlaBla at Latitude">
+                        <a href="https://www.blablacar.co.uk/blablalife/going-places/tips/car-share-lanes">
+                            <img width="88" src="https://s3-eu-west-1.amazonaws.com/bbcwpe-dev/wp-content/uploads/2016/01/04090812/TwopluslaneMS7-150x150.jpg" alt="Where are our car sharing lanes?">
                         </a>
                     </div>
                                         <div class="home-blog-post-text">
                         <h3>
-                            <a href="/blog/latitude2015">
-                                So much BlaBla at Latitude
+                            <a href="https://www.blablacar.co.uk/blablalife/going-places/tips/car-share-lanes">
+                                Where are our car sharing lanes?
                             </a>
                         </h3>
                         <p>
-                            <a href="/blog/latitude2015">
-                                
-Latitude 2015 was awesome!
-
-A big thank you to everyone who came to see us at our BlaBla Tent. We loved hear...                            </a>
+                            <a href="https://www.blablacar.co.uk/blablalife/going-places/tips/car-share-lanes">
+                                Gain access to the express lane by ridesharing with BlaBlaCar. 
+                            </a>
                         </p>
                     </div>
                 </div>
             </li>
-            </ul>
-        <ul class="footer-list">
                     <li>
                 <div class="clearfix">
                                         <div class="home-blog-post-illustration">
-                        <a href="/blog/festival-republic">
-                            <img width="88" src="//d2hqsaoq1cfj21.cloudfront.net/blogstatics/images/Laura/thumbnaili.jpg" alt="Rideshare to the Summer Festivals!">
+                        <a href="https://www.blablacar.co.uk/blablalife/whats-new/ridesharing-just-got-comfy">
+                            <img width="88" src="https://s3-eu-west-1.amazonaws.com/bbcwpe-dev/wp-content/uploads/2016/03/07120834/Max2_RGB_email-600-x-300-banner-150x150.jpg" alt="Ridesharing just got comfy!">
                         </a>
                     </div>
                                         <div class="home-blog-post-text">
                         <h3>
-                            <a href="/blog/festival-republic">
-                                Rideshare to the Summer Festivals!
+                            <a href="https://www.blablacar.co.uk/blablalife/whats-new/ridesharing-just-got-comfy">
+                                Ridesharing just got comfy!
                             </a>
                         </h3>
                         <p>
-                            <a href="/blog/festival-republic">
-                                
-&nbsp;
-
-Did you know BlaBlaCar is the official ridesharing partner of Festival Republic? Enjoy easy, low-cost and...                            </a>
+                            <a href="https://www.blablacar.co.uk/blablalife/whats-new/ridesharing-just-got-comfy">
+                                Everyone loves to travel in comfort. This is why our members can now choose to travel with a maximum of two pa...                            </a>
                         </p>
                     </div>
                 </div>
@@ -832,13 +686,12 @@ Did you know BlaBlaCar is the official ridesharing partner of Festival Republic?
             </ul>
 <ul class="footer-list">
     <li class=" footer-contact">
-        <a href="/blog">
-            Go to the BlaBla Blog
+        <a href="https://www.blablacar.co.uk/blablalife/">
+            Visit BlaBlaLife
         </a>
     </li>
 </ul>
-
-            </div>
+                            </div>
         </div>
     </section>
     <section class="periphal-link-footer">
@@ -850,24 +703,15 @@ Did you know BlaBlaCar is the official ridesharing partner of Festival Republic?
                     Keep In Touch!
                 </h2>
                 <ul class="footer-social-network-list">
-                                        <li>
-                        <a href="http://www.youtube.com/c/BlaBlaCarUK" class="youtube"><span>Youtube</span></a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/BlaBlaCarUK" class="twitter"><span>Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="https://www.facebook.com/BlaBlaCar" class="facebook"><span>Facebook</span></a>
-                    </li>
-                    <li>
-                        <a href="http://plus.google.com/+BlaBlaCarUK" rel="publisher" class="google-plus"><span>Google+</span></a>
-                    </li>
-                    <li>
-                        <a href="http://pinterest.com/blablacar" class="pinterest"><span>Pinterest</span></a>
-                    </li>
+                                        
+                    <li><a href="https://www.youtube.com/c/BlaBlaCarUK" class="youtube"><span>Youtube</span></a></li>
+                    <li><a href="https://twitter.com/BlaBlaCarUK" class="twitter"><span>Twitter</span></a></li>
+                    <li><a href="https://www.facebook.com/BlaBlaCar" class="facebook"><span>Facebook</span></a></li>
+                    <li><a href="https://plus.google.com/+BlaBlaCarUK" rel="publisher" class="google-plus"><span>Google+</span></a></li>
+                    
                 </ul>
                 <p class="footer-copyright">
-                    BlaBlaCar, 2015 ©
+                    BlaBlaCar, 2016 ©
                 </p>
             </div>
 
@@ -884,89 +728,114 @@ Did you know BlaBlaCar is the official ridesharing partner of Festival Republic?
                                 <div class="dropdown-menu clearfix">
                                     <ul class="left-column">
                                                                                     <li>
-                                                <a rel="nofollow" href="https://www.blablacar.de/" id="lang-de_DE">
+                                                <a rel="nofollow" href="https://www.fr.blablacar.be/" id="lang-fr_BE" class="js-optInExcluded">
+                                                    <span class="flag fr_be"></span> Belgique (Français)
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.nl.blablacar.be/" id="lang-nl_BE" class="js-optInExcluded">
+                                                    <span class="flag nl_be"></span> België (Vlaams)
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.com.br/" id="lang-pt_BR" class="js-optInExcluded">
+                                                    <span class="flag pt_br"></span> Brasil
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.cz/" id="lang-cs_CZ" class="js-optInExcluded">
+                                                    <span class="flag cs_cz"></span> Česká republika
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.de/" id="lang-de_DE" class="js-optInExcluded">
                                                     <span class="flag de_de"></span> Deutschland
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.es/" id="lang-es_ES">
+                                                <a rel="nofollow" href="https://www.blablacar.es/" id="lang-es_ES" class="js-optInExcluded">
                                                     <span class="flag es_es"></span> España
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.fr/" id="lang-fr_FR">
+                                                <a rel="nofollow" href="https://www.blablacar.fr/" id="lang-fr_FR" class="js-optInExcluded">
                                                     <span class="flag fr_fr"></span> France
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.hr/" id="lang-hr_HR">
+                                                <a rel="nofollow" href="https://www.blablacar.hr/" id="lang-hr_HR" class="js-optInExcluded">
                                                     <span class="flag hr_hr"></span> Hrvatska
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.in/" id="lang-en_IN">
+                                                <a rel="nofollow" href="https://www.blablacar.in/" id="lang-en_IN" class="js-optInExcluded">
                                                     <span class="flag en_in"></span> India
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.it/" id="lang-it_IT">
+                                                <a rel="nofollow" href="https://www.blablacar.it/" id="lang-it_IT" class="js-optInExcluded">
                                                     <span class="flag it_it"></span> Italia
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.hu/" id="lang-hu_HU">
+                                                <a rel="nofollow" href="https://www.blablacar.hu/" id="lang-hu_HU" class="js-optInExcluded">
                                                     <span class="flag hu_hu"></span> Magyarország
-                                                </a>
-                                            </li>
-                                                                                                                                <li>
-                                                <a rel="nofollow" href="https://www.blablacar.mx/" id="lang-es_MX">
-                                                    <span class="flag es_mx"></span> México
-                                                </a>
-                                            </li>
-                                                                                                                                <li>
-                                                <a rel="nofollow" href="https://www.blablacar.nl/" id="lang-nl_NL">
-                                                    <span class="flag nl_nl"></span> Nederland
                                                 </a>
                                             </li>
                                                                                             </ul>
                                                 <ul class="right-column">
                                                                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.pl/" id="lang-pl_PL">
+                                                <a rel="nofollow" href="https://www.blablacar.mx/" id="lang-es_MX" class="js-optInExcluded">
+                                                    <span class="flag es_mx"></span> México
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.nl/" id="lang-nl_NL" class="js-optInExcluded">
+                                                    <span class="flag nl_nl"></span> Nederland
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.pl/" id="lang-pl_PL" class="js-optInExcluded">
                                                     <span class="flag pl_pl"></span> Polska
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.pt/" id="lang-pt_PT">
+                                                <a rel="nofollow" href="https://www.blablacar.pt/" id="lang-pt_PT" class="js-optInExcluded">
                                                     <span class="flag pt_pt"></span> Portugal
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.ro/" id="lang-ro_RO">
+                                                <a rel="nofollow" href="https://www.blablacar.ro/" id="lang-ro_RO" class="js-optInExcluded">
                                                     <span class="flag ro_ro"></span> România
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.rs/" id="lang-sr_Latn_RS">
+                                                <a rel="nofollow" href="https://www.sk.blablacar.com/" id="lang-sk_SK" class="js-optInExcluded">
+                                                    <span class="flag sk_sk"></span> Slovensko
+                                                </a>
+                                            </li>
+                                                                                                                                <li>
+                                                <a rel="nofollow" href="https://www.blablacar.rs/" id="lang-sr_Latn_RS" class="js-optInExcluded">
                                                     <span class="flag sr_latn_rs"></span> Srbija
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.com.tr/" id="lang-tr_TR">
+                                                <a rel="nofollow" href="https://www.blablacar.com.tr/" id="lang-tr_TR" class="js-optInExcluded">
                                                     <span class="flag tr_tr"></span> Türkiye
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="/" id="lang-en_GB">
+                                                <a rel="nofollow" href="/" id="lang-en_GB" class="js-optInExcluded">
                                                     <span class="flag en_gb"></span> United Kingdom
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.ru/" id="lang-ru_RU">
+                                                <a rel="nofollow" href="https://www.blablacar.ru/" id="lang-ru_RU" class="js-optInExcluded">
                                                     <span class="flag ru_ru"></span> Россия
                                                 </a>
                                             </li>
                                                                                                                                 <li>
-                                                <a rel="nofollow" href="https://www.blablacar.com.ua/" id="lang-uk_UA">
+                                                <a rel="nofollow" href="https://www.blablacar.com.ua/" id="lang-uk_UA" class="js-optInExcluded">
                                                     <span class="flag uk_ua"></span> Україна
                                                 </a>
                                             </li>
@@ -975,7 +844,11 @@ Did you know BlaBlaCar is the official ridesharing partner of Festival Republic?
                             </div>
                                                             </div>
                     </div>
-    </section>
+
+                    <p class="footnote">
+                Additional insurance does not replace driver's mandatory car insurance. Conditions apply.
+            </p>
+            </section>
 </footer>
 
                     </div>
@@ -990,8 +863,9 @@ Did you know BlaBlaCar is the official ridesharing partner of Festival Republic?
 
 
 <script type="text/javascript">
-var js = document.getElementsByTagName('html');
-js[0].setAttribute('class','js');
+        var htmlTag = document.documentElement;
+    var htmlClass = htmlTag.className.replace(/no-js/g, 'js');
+    htmlTag.setAttribute('class', htmlClass);
 </script>
 
 <script type="text/javascript">
@@ -1009,7 +883,7 @@ js[0].setAttribute('class','js');
     };
 </script>
 
-<script src="/v-1441285994/assets/build/js/common.js" type="text/javascript"></script>
+<script src="/v-1461054154/assets/build/js/common.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 window.datepickerDateFormat = "DD/MM/YYYY";
@@ -1030,25 +904,11 @@ $(function(){
 });
 </script>
 
-<script type="text/javascript">
-window.___gcfg = {lang: 'en'};
 
-(function() {
-    var po = document.createElement('script');
-    po.type = 'text/javascript';
-    po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(po, s);
-})();
-</script>
-
-<script src="/v-1441285994/assets/build/js/main.js" type="text/javascript"></script>
+<script src="/v-1461054154/assets/build/js/main.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-
     $(document).ready(function () {
-
         // Social
         SocialMenu.init();
 
@@ -1069,60 +929,59 @@ window.___gcfg = {lang: 'en'};
             });
         });
 
-    //lazy loading
-    var lazyload = jQuery("script[type='text/lazyload']");
-    lazyload.each( function(i,el)
-    {
-        $(this).after($(this).html());
-    });
+        // Load additional css asynchronously
+        cssAsync("/v-1461054154/assets/build/css/blablacar-print.css", "print");
 
-    $('a.no-link').bind('click', function(event) {
-        event.preventDefault();
-    });
+        //lazy loading
+        var lazyload = jQuery("script[type='text/lazyload']");
+        lazyload.each(function(i,el) {
+            $(this).after($(this).html());
+        });
 
+        $('a.no-link').bind('click', function(event) {
+            event.preventDefault();
+        });
 
-    var popSelector = $('.megatip');
-    if(popSelector.length) {
-        if(popSelector.attr('data-trigger') != 'manual') {
-            popSelector.popover();
-        }else {
-            popSelector.on('mouseover', function() {
-                $(this).popover('show');
-            });
+        var popSelector = $('.megatip');
+        if (popSelector.length) {
+            if (popSelector.attr('data-trigger') != 'manual') {
+                popSelector.popover();
+            } else {
+                popSelector.on('mouseover', function() {
+                    $(this).popover('show');
+                });
 
-            $('body').on('mouseout', function(e) {
-                var popoverElem = $('.popover');
-                if(popoverElem.length) {
-                    var popSelector = $('.megatip');
-                    popSelector.each(function() {
-                        var that = $(this);
-                        //the 'is' for buttons that trigger popups
-                        //the 'has' for icons and other elements within a button that triggers a popup
-                        if (!that.is(e.target) && that.has(e.target).length === 0 && popoverElem.has(e.target).length === 0) {
-                            that.popover('hide');
-                            return;
-                        }
-                    });
-                }
-            });
+                $('body').on('mouseout', function(e) {
+                    var popoverElem = $('.popover');
+                    if (popoverElem.length) {
+                        var popSelector = $('.megatip');
+                        popSelector.each(function() {
+                            var that = $(this);
+                            //the 'is' for buttons that trigger popups
+                            //the 'has' for icons and other elements within a button that triggers a popup
+                            if (!that.is(e.target) && that.has(e.target).length === 0 && popoverElem.has(e.target).length === 0) {
+                                that.popover('hide');
+                                return;
+                            }
+                        });
+                    }
+                });
+            }
         }
-    }
 
-    showmore();
+        showmore();
 
-    /* Countdown for home banner
-    $('#game-countdown').countdown({
-        until: new Date(2014, 2-1, 15),
-        layout: '<span><span class="nb">{dnn}</span> {dl}</span> <span><span class="nb">{hnn}</span> {hl}</span> <span><span class="nb">{mnn}</span> {ml}</span> <span><span class="nb">{snn}</span> {sl}</span>'
+        /* Countdown for home banner
+        $('#game-countdown').countdown({
+            until: new Date(2014, 2-1, 15),
+            layout: '<span><span class="nb">{dnn}</span> {dl}</span> <span><span class="nb">{hnn}</span> {hl}</span> <span><span class="nb">{mnn}</span> {ml}</span> <span><span class="nb">{snn}</span> {sl}</span>'
+        });
+        */
+
+        // mobile detection only for  android mobile and on the homepage
+                                        
+        $('#facebooklikebox').html('<span style="height: 20px; width: 90px; "><iframe  scrolling="no" style="overflow: hidden; height: 20px; width: 90px; border: none; " title="Like this content on Facebook." class="fb_ltr " src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/BlaBlaCar&amp;layout=button_count&amp;extended_social_context=false&amp;show_faces=false&amp;locale=en_US&amp;width=90&amp;action=like&amp;node_type=link&amp;send=false&amp;show_faces=false&amp;height=21" scrolling="no" frameborder="0"></iframe></span>');
     });
-    */
-
-// mobile detection only for  android mobile and on the homepage
-        
-
-$('#facebooklikebox').html('<span style="height: 20px; width: 90px; "><iframe  scrolling="no" style="overflow: hidden; height: 20px; width: 90px; border: none; " title="Like this content on Facebook." class="fb_ltr " src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/BlaBlaCar&amp;layout=button_count&amp;extended_social_context=false&amp;show_faces=false&amp;locale=en_US&amp;width=90&amp;action=like&amp;node_type=link&amp;send=false&amp;show_faces=false&amp;height=21" scrolling="no" frameborder="0"></iframe></span>');
-});
-
 </script>
 
 <!-- Marketing button manager -->
@@ -1132,8 +991,24 @@ $('#facebooklikebox').html('<span style="height: 20px; width: 90px; "><iframe  s
     dataLayer = [{
         'site_language': 'GB',
         'media': 'web','diplayed_currency':    'GBP',
-                                                                                                                    'current_route': 'blablacar_blog_post_show'
-    }];
+                // If the user is eligible to no payment, and is on payment or post payment page
+                                                                                                                            'current_route': 'blablacar_blog_static_privacyPolicy',
+        
+        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            }];
 </script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PL2STX"
@@ -1152,8 +1027,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     var initTracking = function() {
         $(function(){
+
+            // Make tracking parameters work with # in the URL
+            function transformURL(url) {
+                var mkCodePosition = url.indexOf('#comuto_cmkt=');
+                if (mkCodePosition != -1) {
+                    var questionMarkPosition = url.indexOf('?');
+                    if (questionMarkPosition != -1) {
+                        url = url.replace('#comuto_cmkt=','&comuto_cmkt=');
+                    } else {
+                        url = url.replace('#comuto_cmkt=','?comuto_cmkt=');
+                    }
+                }
+                return(url);
+            }
+
             $.post('/tracking/cmkt', { //call tracking resource
-                location: document.location.href,
+                location: transformURL(document.location.href),
                 originalData: window.dataLayer[0]
 
             }, function(data){ //then trigger gtm with extended dataLayer
@@ -1166,7 +1056,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     };
 
     if(!w.$) {
-        loadJs("/v-1441285994/assets/build/js/jquery.js", false, initTracking);
+        loadJs("/v-1461054154/assets/build/js/jquery.js", false, initTracking);
     }
     else {
         initTracking();
@@ -1176,6 +1066,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </script>
 <!-- End Google Tag Manager -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ddbb7b50c4","applicationID":"984195,423380","transactionName":"NFwEYRBTWEsCUhJdVw0WJUARRllVTFMKVVoPWAVUEG1UVAxWOURXEE05RgpdQQ==","queueTime":0,"applicationTime":240,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ddbb7b50c4","applicationID":"984195,11304863","transactionName":"NFwEYRBTWEsCUhJdVw0WJ1YWW1lWTHMKVVoPWAVUEH9XUQ1zE1pcD1xceQ1VX1ZZRQlbVAFYFA==","queueTime":2,"applicationTime":113,"atts":"GBsHF1hJS0U=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
