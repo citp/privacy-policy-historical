@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the seagm.com privacy policy that was archived on 2015-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151207143204id_/http%3A//www.seagm.com%3Fr%3Dpage%26view%3Dmemberprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seagm.com privacy policy that was archived on 2016-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419131144id_/https%3A//www.seagm.com/page/index%3Fview%3Dmemberprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?11vC96Mzb8OVN4LgG0BkoWba6AiAsNaF" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=139274246138520&amp;version=v2.0"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIDUFVVGwIBUVlTBwIO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
-<title>Privacy Policy | SEA Gamer Mall Global Online Game Store</title>
-<meta name="description" content="Read the privacy &amp; policy of seagm.com before using the website. Visit here to learn more.">
-<meta name="keywords" content="fifa 16 coins,fifa coins, archeage gold, wow gold, maplestory mesos, cabal 2 alz, steam wallet code, mycard, acash, cherry credits, itunes gift card, google play gift card, karma koins, rixty code,">
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" charset="utf-8" src="//v2.zopim.com/?11vC96Mzb8OVN4LgG0BkoWba6AiAsNaF" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T4C5KB"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIDUFVVGwIBUVlTBwIO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<title>SEA Gamer Mall | Global Online Game Store</title>
+<meta name="description" content="SEAGM is a trusted online game store providing global gamer with a large variety of games, gaming merchandise, cards, CD-keys, codes, etc. Visit us now! ">
+<meta name="keywords" content="seagm, sea gamer mall, online game store, mmorpg, gaming, digital goods, digital prepaid code, virtual items, in-game items, game card, gift card, boost, leveling">
 <meta name="msvalidate.01" content="B2D541D4AF5AD042D1DFC4AE5DE7C10A">
 <meta name="alexaVerifyID" content="Yj4ii12fWYGV_AAwRRi2gYAfbPs">
 <meta name="ROBOTS" content="NOODP">
@@ -14,80 +14,101 @@
 <meta name="verify-webtopay" content="64976a9cab041f993b6c51ec1b2c1414">
 <meta property="wb:webmaster" content="b4046b3f6c9be535">
  
- 
- 
-<meta property="qc:admins" content="357136670763517566547">
+<meta property="qc:admins" content="261321436751756654">
  
 <meta property="fb:admins" content="721271477">
 <meta property="fb:app_id" content="139274246138520">
 <meta property="og:site_name" content="SEA Gamer Mall">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@seagm">
-<meta property="og:title" content="Privacy Policy | SEA Gamer Mall Global Online Game Store">
-<meta property="og:description" content="Read the privacy &amp; policy of seagm.com before using the website. Visit here to learn more.">
-<meta property="og:url" content="http://www.seagm.com/?r=page&amp;view=memberprivacy">
+<meta property="og:title" content="SEA Gamer Mall | Global Online Game Store">
+<meta property="og:description" content="SEAGM is a trusted online game store providing global gamer with a large variety of games, gaming merchandise, cards, CD-keys, codes, etc. Visit us now! ">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://static.seagm.com/skin/images/logo_src.png">
-<link rel="icon" href="http://static.seagm.com/skin/fav.ico">
-<link rel="stylesheet" href="http://static.seagm.com/skin/css/component.css">
-<link rel="stylesheet" href="http://static.seagm.com/skin/css/style.css">
-<link rel="stylesheet" href="http://static.seagm.com/skin/css/lib.css">
-<link rel="stylesheet" href="http://static.seagm.com/skin/css/tuki.css">
-<link rel="alternate" hreflang="x-default" href="http://www.seagm.com/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="en" href="http://www.seagm.com/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="ms" href="http://www.seagm.com/ms/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="id" href="http://www.seagm.com/id/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="de" href="http://www.seagm.com/de/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="es" href="http://www.seagm.com/es/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="fr" href="http://www.seagm.com/fr/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="it" href="http://www.seagm.com/it/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="nl" href="http://www.seagm.com/nl/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="pt" href="http://www.seagm.com/pt/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="ru" href="http://www.seagm.com/ru/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="vi" href="http://www.seagm.com/vi/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="zh" href="http://www.seagm.com/zh/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="zh-tw" href="http://www.seagm.com/zh-tw/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="ja" href="http://www.seagm.com/ja/?r=page&amp;view=memberprivacy">
-<link rel="alternate" hreflang="th" href="http://www.seagm.com/th/?r=page&amp;view=memberprivacy">
-<script src="http://static.seagm.com/skin/js/jquery-2.1.3.min.js"></script>
- 
-<script src="http://static.seagm.com/skin/js/jquery.md5.min.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.url.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukigrowl.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukivalidator.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukibox.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukidialog.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukitip.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukislide.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukiajax.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukitab.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukiselect.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukimenu.js"></script>
-<script src="http://static.seagm.com/skin/js/jquery.tukicountdown.js"></script>
-<script src="http://static.seagm.com/skin/js/swfobject.js"></script>
-<script src="http://static.seagm.com/skin/js/web_socket.js"></script>
-<script src="http://static.seagm.com/skin/js/tuki.js"></script>
- 
+<meta property="og:image" content="https://static.seagm.com/v3/images/logo_src.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<link rel="icon" href="https://static.seagm.com/skin/fav.ico">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/component.css">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/style.css">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/tuki.css">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/lib.css">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/about.css">
+<link rel="stylesheet" href="https://static.seagm.com/v3/css/x-about.css">
+<script src="https://static.seagm.com/v3/js/jquery-2.1.4.min.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tuki.js"></script>
+<script src="https://static.seagm.com/v3/js/php.js"></script>
+<script src="https://static.seagm.com/v3/js/tuki.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukimenu.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukiselect.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukislide.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukicountdown.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukitip.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukibox.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.tukivalidator.js"></script>
+<script src="https://static.seagm.com/v3/js/jquery.md5.min.js"></script>
 <!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+        <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+<link rel="canonical" href="https://www.seagm.com/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="en" href="https://www.seagm.com/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="ms" href="https://www.seagm.com/ms/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="id" href="https://www.seagm.com/id/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="de" href="https://www.seagm.com/de/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="es" href="https://www.seagm.com/es/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="fr" href="https://www.seagm.com/fr/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="it" href="https://www.seagm.com/it/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="nl" href="https://www.seagm.com/nl/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="pt" href="https://www.seagm.com/pt/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="ru" href="https://www.seagm.com/ru/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="vi" href="https://www.seagm.com/vi/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="zh" href="https://www.seagm.com/zh/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="zh-tw" href="https://www.seagm.com/zh-tw/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="ja" href="https://www.seagm.com/ja/page/index?view=memberprivacy">
+<link rel="alternate" hreflang="th" href="https://www.seagm.com/th/page/index?view=memberprivacy">
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 <body><script type="text/javascript">
 //<![CDATA[
-try{(function(a){var b="http://",c="www.seagm.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+try{(function(a){var b="https://",c="www.seagm.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
 //]]>
 </script>
  
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=139274246138520&version=v2.0";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T4C5KB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T4C5KB');
+    </script>
+ 
  
 <div id="tukigrowl_wrapper"></div>
+ 
+<div id="search_frame_wrp">
+<div class="inner">
+<div id="search_frame">
+<a href="#" id="search_close" class="close" onclick="$('#search_frame_wrp').removeClass('show');$('body').removeClass('popup');"><span>Close</span></a>
+<div id="search_input">
+<div class="inner">
+<form action="/search" target="background">
+<input type="text" name="keywords" placeholder="Type to search" value="" autocomplete="off" autofocus="" maxlength="25">
+<button><span>Search now</span></button>
+</form>
+</div>
+</div>
+<div id="search_result">
+<div class="inner">
+<div class="tips">Begin typing your search <b>Game</b> / <b>Card</b> and press return to search.</div>
+<div id="result_box" class="hide">
+<div class="list_wrp">
+<ul id="list_game">
+<li class="title"><b>Games</b></li>
+</ul>
+<ul id="list_card">
+<li class="title"><b>Cards</b></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
  
 <div id="tukibox_overlay" class="hide">
 <div class="inner">
@@ -106,444 +127,393 @@ try{(function(a){var b="http://",c="www.seagm.com",d="/cdn-cgi/cl/",e="img.gif",
 <div id="tukitip" class="popup_loading hide">Loading...</div>
 </div>
 <script>
-//init tukibox
-$.tukibox();
-//init tukidialog
-$.tukidialog();
-//init tukitip
-$.tukitip();
-//init tukiajax
-$.tukiajax();
-//init tukitab
-$.tukitab();
-//init tukimen
-$.tukimenu();
-//init tukivalidator
-$.tukivalidator();
-</script>
+        //处理所有ajax返回
+        function processResponse($obj, data) {
+            //var $this = $obj;
+            for (var i=0; i<data.length; i++) {
+                if ('this' === data[i].selector) {
+                    //$obj = $this;
+                } else if ('jQuery' === data[i].selector) {
+                    $obj = jQuery;
+                } else {
+                    $obj = jQuery(data[i].selector);
+                }
+                delete data[i].selector;
+                for (var command in data[i]) {
+                    for (var j=0; j<data[i][command].length; j++) {
+                        $obj = $obj[command].apply($obj, data[i][command][j]);
+                    }
+                }
+            }
+        }
+
+        //拦截 表单提交
+        $('body').on('submit', 'form[target="background"]', function() {
+            var formData = new FormData(this);
+            var $form = $(this);
+            $('#tukitip').removeClass('hide');
+
+            //验证表单
+            // if (! $form.tukivalidator()) return false;
+
+            $.ajax({
+                type: 'POST',
+                url: this.action,
+                data: formData,
+                /**
+                 *必须false才会自动加上正确的Content-Type
+                 */
+                contentType: false,
+                /**
+                 * 必须false才会避开jQuery对 formdata 的默认处理
+                 * XMLHttpRequest会对 formdata 进行正确的处理
+                 */
+                processData: false,
+                dataType: 'json',
+                success: function(data){
+                    processResponse($form, data);
+                    if (tipTimer == undefined) $('#tukitip').addClass('hide');
+                }
+            });
+            /*
+             var $form = $(this);
+             $.post($form.attr('action'), $form.serializeArray(), function(data) {
+             processResponse($form, data);
+             }, 'json');*/
+            return false;
+        });
+    </script>
  
-<header id="header" class="wrapper">
+<header id="header" class="">
 <div class="inner">
 <div id="logo">
-<a href="http://www.seagm.com/">SEA Gamer Mall</a>
+<a href="/"><span>SEA Gamer Mall</span></a>
 </div>
-<section id="search_wrapper" class="hide">
-<label><input type="text" name="keyword" placeholder="Search Games/Cards" class="search" value="" title="Search Games/Cards" autocomplete="off" maxlength="25"><a href="#" class="close">X</a>
-</label>
-<ul>
-<li class="noresult"></li>
-</ul>
-</section>
-</div></header>
-<script>
-var $resultDiv = $("#search_wrapper ul");
-$('#search_wrapper input').keyup(function(event) {
-	var keyword = $(this).val().replace(/\s/g, '').toLowerCase();
-	if (event.keyCode == 13 || event.keyCode == 38 || event.keyCode == 40)
-    {
-    	return true;
-    }
-	var i = 0;
-	if (keyword.length > 1) {
-		$resultDiv.empty();
-
-		for(var n in clientData.gameList) {
-			var keywords = clientData.gameList[n].keywords.replace(/\s/g, '').toLowerCase();
-			if (keywords.indexOf(keyword) > -1) {
-				i++;
-				$resultDiv.append('<li id="'+i+'" class="game"><a class="_gap" href="/' + clientData.gameList[n].code + ' "><span>' + clientData.gameList[n].name + '</span></a></li>');
-			}
-		}
-		for(var j in clientData.cardTypeCategoryList) {
-			var keywords = clientData.cardTypeCategoryList[j].keywords.replace(/\s/g, '').toLowerCase();
-			if (keywords.indexOf(keyword) > -1) {
-				i++;
-				$resultDiv.append('<li id="'+i+'" class="card"><a class="_gap" href="/' + clientData.cardTypeCategoryList[j].code + '"><span>' + clientData.cardTypeCategoryList[j].name + '</span></a></li>');
-			}
-		}
-
-		for(var v in clientData.merchandiseList) {
-			var keywords = clientData.merchandiseList[v].keywords.replace(/\s/g, '').toLowerCase();
-			if (keywords.indexOf(keyword) > -1) {
-				i++;
-				$resultDiv.append('<li id="'+i+'" class="merchandise"><a class="_gap" href="/merchandise/' + clientData.merchandiseList[v].code + '?storage_id='+clientData.merchandiseList[v].storage_id+'"><span>' + clientData.merchandiseList[v].name + '</span></a></li>');
-			}
-		}
-
-		if (0 == i) {
-			$resultDiv.append('<li class="noresult">No result ...</li>');
-		} else {
-			$resultDiv.children('li:first').addClass('homecurrent');
-            $resultDiv.find('li > a._gap').click(function(){
-                var name = $(this).find('span').html();
-                ga('send', 'event', 'Header Search', 'Search Click', name);
-            });
-		}
-
-		$(this).parent().parent().removeClass('hide');
-	} else {
-		$(this).parent().parent().addClass('hide');
-	}
-});
-
-
-$('#search_wrapper input').keydown(function(event) {
-	var $this = $(this);
-	var $current = $resultDiv.children('li.homecurrent:first');
-
-	//表示没有搜索到任何东西，不做处理
-	if (0 == $current.size()) return true;
-
-    //按下回车 ，如果有已选中的，直接跳转
-	if (event.keyCode == 13) {
-		$this.blur().val($current.text()).parent().addClass('redirect').parent().addClass('hide');
-        window.location.href = $current.find('a').attr('href');
-        var name =  $current.find('a._gap').html().substr(7);
-        ga('send', 'event', 'Header Search', 'Search Enter', name);
-	} else if (event.keyCode == 38) {
-		var $prev = $current.prev();
-        var $prev_li = $prev.attr('id');
-		if ($prev.size() > 0) {
-			$current.removeClass('homecurrent');
-			$prev.addClass('homecurrent');
-			$this.val($prev.text());
-
-            //向下滚动
-            if ($prev_li >  6) {
-                var m = $prev_li-7;
-                var upHeight = m * 40;
-                $current.parent().scrollTop(upHeight);
-            }
-		}
-		return false;
-	} else if (event.keyCode == 40) {
-		var $next = $current.next();
-        var $next_li = $next.attr('id');
-		if ($next.size() > 0) {
-			$current.removeClass('homecurrent');
-			$next.addClass('homecurrent');
-			$this.val($next.text());
-
-            //向上滚动
-            if ($next_li >  7) {
-                var lineH = 0;
-                var m = $next_li-7;
-               // var lineH =  $current.parent().find("li:first").height(); //获取行高
-                var upHeight = m * 40;
-                $current.parent().scrollTop(upHeight);
-            }
-		}
-		return false;
-     }
-});
-
-//失焦
-/*$('#search_wrapper input').blur(function(){
-    $('#search_wrapper input').val('');
-    $('#search_wrapper').addClass('hide');
-});*/
-
-$('#search_wrapper .close').click(function(){
-	$('#search_wrapper input').val('');
-	$('#search_wrapper').addClass('hide');
-});
-</script>
-<nav id="navigation" class="wrapper">
+<div id="search_wrp">
+<a href="#" id="search_bt" onclick="$('body').addClass('popup');$('#search_frame_wrp').addClass('show');setTimeout(function(){$('#search_input').find('input').focus();}, 1000);"><span>Search</span></a>
+</div>
+</div>
+<nav id="navigation">
 <div class="inner">
+<a href="#" id="nav_zone_ctrl"><span><i></i></span></a>
+<div id="nav_zone_wrp">
 <ul id="nav_zone" class="navigation_ul">
-<li class="tukimenu" rel="tukimenu"><a href="http://www.seagm.com/game" class="bt" rel="game">GAME<i></i></a>
-<section id="g_dropmenu" class="menu dropmenu">
+<li><a href="/homepage" class="bt home"><span>HOME</span></a></li>
+<li>
+<a href="/game" class="bt game" rel="game"><span>GAME</span></a>
+<section id="g_dropmenu" class="dropmenu">
 <ul>
-<li><a href="http://www.seagm.com/game/gold" class="gold"><span>In-Game Currency</span></a></li>
-<li><a href="http://www.seagm.com/game/card" class="card"><span>Game Card</span></a></li>
-<li><a href="http://www.seagm.com/game/item" class="item"><span>In-Game Item</span></a></li>
-<li><a href="http://www.seagm.com/game/levelup" class="levelup"><span>Power Leveling</span></a></li>
-<li><a href="http://www.seagm.com/game/account" class="account"><span>Game Account</span></a></li>
-</ul>
-</section>
-</li>
-<li class="tukimenu" rel="tukimenu"><a href="http://www.seagm.com/card" class="bt" rel="card">CARD<i></i> </a>
-<section id="c_dropmenu" class="menu dropmenu">
-<ul class="list show" id="card_type">
-<li><a href="http://www.seagm.com/card/game-cards" class="more">Game Cards</a></li>
-<li><a href="http://www.seagm.com/card/gift-card" class="more">Gift Cards</a></li>
-<li><a href="http://www.seagm.com/card/console-points" class="more">Game Console Cards</a></li>
-<li><a href="http://www.seagm.com/card/cd-key" class="more">CD-Key</a></li>
-<li><a href="http://www.seagm.com/card/mobile-reloads" class="more">Mobile Cards</a></li>
-<li><a href="http://www.seagm.com/card/tools" class="more">Tools</a></li>
-<li><a href="http://www.seagm.com/card/freebie-newbie-code" class="more">Freebie Codes</a></li>
-<li><a href="http://www.seagm.com/card" class="more">All types</a></li>
-</ul>
-</section>
-</li>
-<li class="tukimenu" rel="tukimenu"><a href="http://www.seagm.com/merchandise" class="bt new" rel="merchandise">MERCHANDISE<i></i></a>
-<section id="m_dropmenu" class="menu dropmenu">
-<ul class="list show" id="merchandies_type">
-<li><a href="http://www.seagm.com/merchandise/plush" class="more">Toys &amp; Plush</a></li>
-<li><a href="http://www.seagm.com/merchandise/hats" class="more">Hats</a></li>
-<li><a href="http://www.seagm.com/merchandise/tshirt" class="more">T-Shirt</a></li>
-<li><a href="http://www.seagm.com/merchandise/bracelet" class="more">Bracelet</a></li>
-<li><a href="http://www.seagm.com/merchandise/console" class="more">Console</a></li>
-<li><a href="http://www.seagm.com/merchandise/gaming-mouse" class="more">Gaming Mouse</a></li>
-<li><a href="http://www.seagm.com/merchandise/game-dvd" class="more">Game DVD</a></li>
-<li><a href="http://www.seagm.com/merchandise" class="more">All Categories</a></li>
-</ul>
-</section>
-</li>
+<li><a href="/game"><span>All Games</span></a></li>
+<li><a href="/game?code=gold"><span>In Game Currencies</span></a></li>
+<li><a href="/game?code=item"><span>In Game Items</span></a></li>
+<li><a href="/game?code=card"><span>Game Card</span></a></li>
+<li><a href="/game?code=levelup"><span>Power Leveling Service</span></a></li>
+<li><a href="/game?code=account"><span>Account</span></a></li>
+<li><a href="/game?code=mobile-prepaid"><span>Mobile Reload</span></a></li>
+<li><a href="/game?code=package"><span>Package</span></a></li>
  
-<li><a href="http://help.seagm.com/" class="bt" target="_blank">SUPPORT</a></li>
-<li><a href="http://www.seagm.com/pay/account" class="bt">Payment Method</a></li>
-<li><a href="#" onclick="$zopim(function(){$zopim.livechat.window.openPopout();});return false" class="bt">LiveChat</a></li>
-<li><a href="http://www.seagm.com/game-zone" class="bt psr" target="_blank">GameZone </a></li>
-			</ul>
-			<ul id="user_zone" class="navigation_ul">
-				<li id="log_in"><a href="/login?display=popup" title="Sign in" class="bt" target="tukibox"><i class="icb1"></i><span>Sign in</span></a></li>
-<li id="log_re"><a href="/register" class="bt"><i class="icb2"></i><span>Register</span></a></li>
-<li class="tukimenu">
-	<a href="#" class="bt" title="Regional Settings"><i class="icb4"></i></a>
-	<section id="s_dropmenu" class="menu">
-		<div class="in">
-		<form action="/selector" method="post">
-			<div class="line">
-				<span>Country:</span>
-				<select name="region" class="region_selector w150">
-				<option value="af">Afghanistan</option>
-<option value="al">Albania</option>
-<option value="dz">Algeria</option>
-<option value="as">American Samoa</option>
-<option value="ad">Andorra</option>
-<option value="ao">Angola</option>
-<option value="ai">Anguilla</option>
-<option value="aq">Antarctica</option>
-<option value="ag">Antigua and Barbuda</option>
-<option value="ar">Argentina</option>
-<option value="am">Armenia</option>
-<option value="aw">Aruba</option>
-<option value="au">Australia</option>
-<option value="at">Austria</option>
-<option value="az">Azerbaijan</option>
-<option value="bs">Bahamas</option>
-<option value="bh">Bahrain</option>
-<option value="bd">Bangladesh</option>
-<option value="bb">Barbados</option>
-<option value="by">Belarus</option>
-<option value="be">Belgium</option>
-<option value="bj">Benin</option>
-<option value="bm">Bermuda</option>
-<option value="bt">Bhutan</option>
-<option value="bo">Bolivia</option>
-<option value="ba">Bosnia and Herzegovina</option>
-<option value="bw">Botswana</option>
-<option value="br">Brazil</option>
-<option value="vg">British Virgin Islands</option>
-<option value="bn">Brunei</option>
-<option value="bg">Bulgaria</option>
-<option value="bf">Burkina Faso</option>
-<option value="bi">Burundi</option>
-<option value="kh">Cambodia</option>
-<option value="cm">Cameroon</option>
-<option value="ca">Canada</option>
-<option value="cv">Cape Verde</option>
-<option value="ky">Cayman Islands</option>
-<option value="cf">Central African Republic</option>
-<option value="td">Chad</option>
-<option value="cl">Chile</option>
-<option value="cn">China</option>
-<option value="cx">Christmas Island</option>
-<option value="cc">Cocos (Keeling) Islands</option>
-<option value="co">Colombia</option>
-<option value="km">Comoros</option>
-<option value="cg">Congo</option>
-<option value="ck">Cook Islands</option>
-<option value="cr">Costa Rica</option>
-<option value="hr">Croatia</option>
-<option value="cu">Cuba</option>
-<option value="cy">Cyprus</option>
-<option value="cz">Czech Republic</option>
-<option value="cd">Democratic Republic Congo</option>
-<option value="dk">Denmark</option>
-<option value="dj">Djibouti</option>
-<option value="dm">Dominica</option>
-<option value="do">Dominican Republic</option>
-<option value="ec">Ecuador</option>
-<option value="eg">Egypt</option>
-<option value="sv">El Salvador</option>
-<option value="gq">Equatorial Guinea</option>
-<option value="er">Eritrea</option>
-<option value="ee">Estonia</option>
-<option value="et">Ethiopia</option>
-<option value="fk">Falkland Islands</option>
-<option value="fo">Faroe Islands</option>
-<option value="fj">Fiji</option>
-<option value="fi">Finland</option>
-<option value="fr">France</option>
-<option value="pf">French Polynesia</option>
-<option value="ga">Gabon</option>
-<option value="gm">Gambia</option>
-<option value="ge">Georgia</option>
-<option value="de">Germany</option>
-<option value="gh">Ghana</option>
-<option value="gi">Gibraltar</option>
-<option value="gr">Greece</option>
-<option value="gl">Greenland</option>
-<option value="gd">Grenada</option>
-<option value="gp">Guadeloupe</option>
-<option value="gu">Guam</option>
-<option value="gt">Guatemala</option>
-<option value="gn">Guinea</option>
-<option value="gw">Guinea-Bissau</option>
-<option value="gy">Guyana</option>
-<option value="ht">Haiti</option>
-<option value="hn">Honduras</option>
-<option value="hk">Hong Kong</option>
-<option value="hu">Hungary</option>
-<option value="is">Iceland</option>
-<option value="in">India</option>
-<option value="id">Indonesia</option>
-<option value="ir">Iran</option>
-<option value="iq">Iraq</option>
-<option value="ie">Ireland</option>
-<option value="im">Isle of Man</option>
-<option value="il">Israel</option>
-<option value="it">Italy</option>
-<option value="ic">Ivory Coast</option>
-<option value="jm">Jamaica</option>
-<option value="jp">Japan</option>
-<option value="jo">Jordan</option>
-<option value="kz">Kazakhstan</option>
-<option value="ke">Kenya</option>
-<option value="ki">Kiribati</option>
-<option value="kw">Kuwait</option>
-<option value="kg">Kyrgyzstan</option>
-<option value="la">Lao People's Democratic Republ</option>
-<option value="lv">Latvia</option>
-<option value="lb">Lebanon</option>
-<option value="ls">Lesotho</option>
-<option value="lr">Liberia</option>
-<option value="ly">Libya</option>
-<option value="li">Liechtenstein</option>
-<option value="lt">Lithuania</option>
-<option value="lu">Luxembourg</option>
-<option value="mo">Macau</option>
-<option value="mk">Macedonia</option>
-<option value="mg">Madagascar</option>
-<option value="mw">Malawi</option>
-<option value="my">Malaysia</option>
-<option value="mv">Maldives</option>
-<option value="ml">Mali</option>
-<option value="mt">Malta</option>
-<option value="mh">Marshall Islands</option>
-<option value="mq">Martinique</option>
-<option value="mr">Mauritania</option>
-<option value="mu">Mauritius</option>
-<option value="yt">Mayotte</option>
-<option value="mx">Mexico</option>
-<option value="fm">Micronesia</option>
-<option value="md">Moldova</option>
-<option value="mc">Monaco</option>
-<option value="mn">Mongolia</option>
-<option value="me">Montenegro</option>
-<option value="ms">Montserrat</option>
-<option value="ma">Morocco</option>
-<option value="mz">Mozambique</option>
-<option value="mm">Myanmar</option>
-<option value="na">Namibia</option>
-<option value="nr">Nauru</option>
-<option value="np">Nepal</option>
-<option value="nl">Netherlands</option>
-<option value="an">Netherlands Antilles</option>
-<option value="nc">New Caledonia</option>
-<option value="nz">New Zealand</option>
-<option value="ni">Nicaragua</option>
-<option value="ne">Niger</option>
-<option value="ng">Nigeria</option>
-<option value="nu">Niue Island</option>
-<option value="nf">Norfolk Island</option>
-<option value="kp">North Korea</option>
-<option value="mp">Northern Mariana Islands</option>
-<option value="no">Norway</option>
-<option value="om">Oman</option>
-<option value="pk">Pakistan</option>
-<option value="pw">Palau</option>
-<option value="ps">Palestine</option>
-<option value="pa">Panama</option>
-<option value="pg">Papua New Guinea</option>
-<option value="py">Paraguay</option>
-<option value="pe">Peru</option>
-<option value="ph">Philippines</option>
-<option value="pn">Pitcairn Islands</option>
-<option value="pl">Poland</option>
-<option value="pt">Portugal</option>
-<option value="pr">Puerto Rico</option>
-<option value="qa">Qatar</option>
-<option value="ro">Romania</option>
-<option value="ru">Russia</option>
-<option value="rw">Rwanda</option>
-<option value="bl">Saint Barthelemy</option>
-<option value="sh">Saint Helena</option>
-<option value="kn">Saint Kitts and Nevis</option>
-<option value="lc">Saint Lucia</option>
-<option value="mf">Saint Martin</option>
-<option value="pm">Saint Pierre and Miquelon</option>
-<option value="vc">Saint Vincent and the Grenadin</option>
-<option value="ws">Samoa</option>
-<option value="sm">San Marino</option>
-<option value="st">São Tomé and Príncipe</option>
-<option value="sa">Saudi Arabia</option>
-<option value="sn">Senegal</option>
-<option value="rs">Serbia</option>
-<option value="sc">Seychelles</option>
-<option value="sl">Sierra Leone</option>
-<option value="sg">Singapore</option>
-<option value="sk">Slovakia</option>
-<option value="si">Slovenia</option>
-<option value="sb">Solomon Islands</option>
-<option value="so">Somalia</option>
-<option value="za">South Africa</option>
-<option value="kr">South Korea</option>
-<option value="es">Spain</option>
-<option value="lk">Sri Lanka</option>
-<option value="sd">Sudan</option>
-<option value="sr">Suriname</option>
-<option value="sz">Swaziland</option>
-<option value="se">Sweden</option>
-<option value="ch">Switzerland</option>
-<option value="sy">Syria</option>
-<option value="tw">Taiwan</option>
-<option value="tj">Tajikistan</option>
-<option value="tz">Tanzania</option>
-<option value="th">Thailand</option>
-<option value="tl">Timor-Leste</option>
-<option value="tg">Togo</option>
-<option value="tk">Tokelau</option>
-<option value="to">Tonga</option>
-<option value="tt">Trinidad and Tobago</option>
-<option value="tn">Tunisia</option>
-<option value="tr">Turkey</option>
-<option value="tm">Turkmenistan</option>
-<option value="tc">Turks and Caicos Islands</option>
-<option value="tv">Tuvalu</option>
-<option value="ug">Uganda</option>
-<option value="ua">Ukraine</option>
-<option value="ae">United Arab Emirates</option>
-<option value="gb">United Kingdom</option>
-<option value="us" selected="selected">United States</option>
-<option value="uy">Uruguay</option>
-<option value="vi">US Virgin Islands</option>
-<option value="uz">Uzbekistan</option>
-<option value="vu">Vanuatu</option>
-<option value="ve">Venezuela</option>
-<option value="vn">Vietnam</option>
-<option value="wf">Wallis and Futuna</option>
-<option value="ye">Yemen</option>
-<option value="zm">Zambia</option>
-<option value="zw">Zimbabwe</option>
-				</select>
-			</div>
-			<div class="line">
-				<span>Language:</span>
-				<select name="language" class="language_selector w150">
-				<option value="ms">Bahasa Malaysia</option>
+</ul>
+</section>
+</li>
+<li>
+<a href="/card" class="bt card" rel="card"><span>CARD</span></a>
+<section id="c_dropmenu" class="dropmenu">
+<ul id="card_type">
+<li><a href="/card"><span>All Cards</span></a></li>
+<li><a href="/card?code=game-cards"><span>Game Cards</span></a></li>
+<li><a href="/card?code=gift-card"><span>Gift Cards</span></a></li>
+<li><a href="/card?code=console-points"><span>Game Console Cards</span></a></li>
+<li><a href="/card?code=cd-key"><span>CD-Key</span></a></li>
+<li><a href="/card?code=mobile-reloads"><span>Mobile Cards</span></a></li>
+<li><a href="/card?code=tools"><span>Tools</span></a></li>
+<li><a href="/card?code=freebie-newbie-code"><span>Freebie Codes</span></a></li>
+</ul>
+</section>
+</li>
+<li><a href="http://help.seagm.com/" class="bt support" target="_blank"><span>SUPPORT</span></a></li>
+<li><a href="/homepay" class="bt paymtd"><span>Payment Method</span></a></li>
+<li><a href="#" onclick="$zopim(function(){$zopim.livechat.window.openPopout();});return false" class="bt livechat"><span>LiveChat</span></a></li>
+</ul>
+</div>
+<div id="user_zone_wrp">
+<ul id="user_zone" class="navigation_ul">
+<li>
+<a href="#" class="bt  user">
+<span> Sign In / Register</span>
+<div id="user_bt_info"><img src="https://static.seagm.com/v3/images/flag_new/united_states.png"> EN / USD</div>
+</a>
+<section id="u_dropmenu" class="dropmenu">
+<div class="inner">
+<div id="u_menu_wrp" class="inner_wrp">
+<div id="s_menu_ctrl">
+<a href="#" class="change">
+<span class="user">Guest</span>
+<span class="img"><img src="https://static.seagm.com/v3/images/flag_new/united_states.png"></span>
+<span class="lan">EN / USD</span>
+<span class="switch">change settings</span>
+</a>
+</div>
+<ul id="u_menu">
+<li class="signin"><a href="https://member.seagm.com/sso/login?origin=https%3A%2F%2Fwww.seagm.com%2Fpage%2Findex%3Fview%3Dmemberprivacy">Sign In</a></li>
+<li class="register"><a href="https://member.seagm.com/sso/reg?origin=https%3A%2F%2Fwww.seagm.com%2Fpage%2Findex%3Fview%3Dmemberprivacy">Register</a></li>
+</ul>
+</div>
+<div id="u_settings_wrp" class="inner_wrp">
+<div class="inner">
+<form action="/setting" method="post">
+<ul id="s_menu">
+<li>
+<div id="s_menu_title">
+<h3>User Settings</h3>
+<a href="#" class="x"><span>close</span></a>
+</div>
+</li>
+<li>
+<div class="T"><span class="rgn">Country</span></div>
+<div class="C">
+<div class="select_wrp">
+<select name="region" class="region_selector">
+<option value="af" data-language="en" data-currency="USD">Afghanistan</option>
+<option value="al" data-language="en" data-currency="EUR">Albania</option>
+<option value="dz" data-language="fr" data-currency="USD">Algeria</option>
+<option value="as" data-language="en" data-currency="USD">American Samoa</option>
+<option value="ad" data-language="en" data-currency="EUR">Andorra</option>
+<option value="ao" data-language="pt" data-currency="USD">Angola</option>
+<option value="ai" data-language="en" data-currency="USD">Anguilla</option>
+<option value="aq" data-language="en" data-currency="USD">Antarctica</option>
+<option value="ag" data-language="en" data-currency="USD">Antigua and Barbuda</option>
+<option value="ar" data-language="es" data-currency="USD">Argentina</option>
+<option value="am" data-language="en" data-currency="EUR">Armenia</option>
+<option value="aw" data-language="nl" data-currency="USD">Aruba</option>
+<option value="au" data-language="en" data-currency="AUD">Australia</option>
+<option value="at" data-language="de" data-currency="EUR">Austria</option>
+<option value="az" data-language="ru" data-currency="RUB">Azerbaijan</option>
+<option value="bs" data-language="en" data-currency="USD">Bahamas</option>
+<option value="bh" data-language="en" data-currency="USD">Bahrain</option>
+<option value="bd" data-language="en" data-currency="USD">Bangladesh</option>
+<option value="bb" data-language="en" data-currency="USD">Barbados</option>
+<option value="by" data-language="ru" data-currency="EUR">Belarus</option>
+<option value="be" data-language="nl" data-currency="EUR">Belgium</option>
+<option value="bj" data-language="fr" data-currency="USD">Benin</option>
+<option value="bm" data-language="en" data-currency="USD">Bermuda</option>
+<option value="bt" data-language="en" data-currency="USD">Bhutan</option>
+<option value="bo" data-language="es" data-currency="USD">Bolivia</option>
+<option value="ba" data-language="en" data-currency="EUR">Bosnia and Herzegovina</option>
+<option value="bw" data-language="en" data-currency="USD">Botswana</option>
+<option value="br" data-language="pt" data-currency="BRL">Brazil</option>
+<option value="vg" data-language="en" data-currency="USD">British Virgin Islands</option>
+<option value="bn" data-language="en" data-currency="SGD">Brunei</option>
+<option value="bg" data-language="en" data-currency="EUR">Bulgaria</option>
+<option value="bf" data-language="fr" data-currency="USD">Burkina Faso</option>
+<option value="bi" data-language="fr" data-currency="USD">Burundi</option>
+<option value="kh" data-language="en" data-currency="USD">Cambodia</option>
+<option value="cm" data-language="en" data-currency="USD">Cameroon</option>
+<option value="ca" data-language="en" data-currency="CAD">Canada</option>
+<option value="cv" data-language="pt" data-currency="USD">Cape Verde</option>
+<option value="ky" data-language="en" data-currency="USD">Cayman Islands</option>
+<option value="cf" data-language="fr" data-currency="USD">Central African Republic</option>
+<option value="td" data-language="fr" data-currency="USD">Chad</option>
+<option value="cl" data-language="es" data-currency="USD">Chile</option>
+<option value="cn" data-language="zh" data-currency="CNY">China</option>
+<option value="cx" data-language="en" data-currency="USD">Christmas Island</option>
+<option value="cc" data-language="en" data-currency="USD">Cocos (Keeling) Islands</option>
+<option value="co" data-language="es" data-currency="USD">Colombia</option>
+<option value="km" data-language="fr" data-currency="USD">Comoros</option>
+<option value="cg" data-language="fr" data-currency="USD">Congo</option>
+<option value="ck" data-language="en" data-currency="USD">Cook Islands</option>
+<option value="cr" data-language="es" data-currency="USD">Costa Rica</option>
+<option value="hr" data-language="en" data-currency="EUR">Croatia</option>
+<option value="cu" data-language="es" data-currency="USD">Cuba</option>
+<option value="cy" data-language="en" data-currency="EUR">Cyprus</option>
+<option value="cz" data-language="en" data-currency="EUR">Czech Republic</option>
+<option value="cd" data-language="fr" data-currency="USD">Democratic Republic Congo</option>
+<option value="dk" data-language="en" data-currency="DKK">Denmark</option>
+<option value="dj" data-language="fr" data-currency="USD">Djibouti</option>
+<option value="dm" data-language="en" data-currency="USD">Dominica</option>
+<option value="do" data-language="es" data-currency="USD">Dominican Republic</option>
+<option value="ec" data-language="es" data-currency="USD">Ecuador</option>
+<option value="eg" data-language="en" data-currency="USD">Egypt</option>
+<option value="sv" data-language="es" data-currency="USD">El Salvador</option>
+<option value="gq" data-language="en" data-currency="USD">Equatorial Guinea</option>
+<option value="er" data-language="en" data-currency="USD">Eritrea</option>
+<option value="ee" data-language="en" data-currency="EUR">Estonia</option>
+<option value="et" data-language="en" data-currency="USD">Ethiopia</option>
+<option value="fk" data-language="en" data-currency="USD">Falkland Islands</option>
+<option value="fo" data-language="en" data-currency="USD">Faroe Islands</option>
+<option value="fj" data-language="en" data-currency="USD">Fiji</option>
+<option value="fi" data-language="en" data-currency="EUR">Finland</option>
+<option value="fr" data-language="fr" data-currency="EUR">France</option>
+<option value="pf" data-language="fr" data-currency="USD">French Polynesia</option>
+<option value="ga" data-language="fr" data-currency="USD">Gabon</option>
+<option value="gm" data-language="en" data-currency="USD">Gambia</option>
+<option value="ge" data-language="en" data-currency="EUR">Georgia</option>
+<option value="de" data-language="de" data-currency="EUR">Germany</option>
+<option value="gh" data-language="en" data-currency="USD">Ghana</option>
+<option value="gi" data-language="en" data-currency="USD">Gibraltar</option>
+<option value="gr" data-language="en" data-currency="EUR">Greece</option>
+<option value="gl" data-language="en" data-currency="USD">Greenland</option>
+<option value="gd" data-language="en" data-currency="USD">Grenada</option>
+<option value="gp" data-language="en" data-currency="EUR">Guadeloupe</option>
+<option value="gu" data-language="en" data-currency="USD">Guam</option>
+<option value="gt" data-language="es" data-currency="USD">Guatemala</option>
+<option value="gn" data-language="fr" data-currency="USD">Guinea</option>
+<option value="gw" data-language="pt" data-currency="USD">Guinea-Bissau</option>
+<option value="gy" data-language="en" data-currency="USD">Guyana</option>
+<option value="ht" data-language="fr" data-currency="USD">Haiti</option>
+<option value="hn" data-language="es" data-currency="USD">Honduras</option>
+<option value="hk" data-language="zh" data-currency="HKD">Hong Kong</option>
+<option value="hu" data-language="en" data-currency="USD">Hungary</option>
+<option value="is" data-language="en" data-currency="EUR">Iceland</option>
+<option value="in" data-language="en" data-currency="USD">India</option>
+<option value="id" data-language="id" data-currency="IDR">Indonesia</option>
+<option value="ir" data-language="en" data-currency="USD">Iran</option>
+<option value="iq" data-language="en" data-currency="USD">Iraq</option>
+<option value="ie" data-language="en" data-currency="EUR">Ireland</option>
+<option value="im" data-language="en" data-currency="USD">Isle of Man</option>
+<option value="il" data-language="en" data-currency="USD">Israel</option>
+<option value="it" data-language="it" data-currency="EUR">Italy</option>
+<option value="ic" data-language="fr" data-currency="USD">Ivory Coast</option>
+<option value="jm" data-language="en" data-currency="USD">Jamaica</option>
+<option value="jp" data-language="ja" data-currency="JPY">Japan</option>
+<option value="jo" data-language="en" data-currency="USD">Jordan</option>
+<option value="kz" data-language="ru" data-currency="RUB">Kazakhstan</option>
+<option value="ke" data-language="en" data-currency="USD">Kenya</option>
+<option value="ki" data-language="en" data-currency="USD">Kiribati</option>
+<option value="kw" data-language="en" data-currency="USD">Kuwait</option>
+<option value="kg" data-language="ru" data-currency="RUB">Kyrgyzstan</option>
+<option value="la" data-language="en" data-currency="USD">Lao People's Democratic Republ</option>
+<option value="lv" data-language="en" data-currency="EUR">Latvia</option>
+<option value="lb" data-language="en" data-currency="USD">Lebanon</option>
+<option value="ls" data-language="en" data-currency="USD">Lesotho</option>
+<option value="lr" data-language="en" data-currency="USD">Liberia</option>
+<option value="ly" data-language="en" data-currency="USD">Libya</option>
+<option value="li" data-language="de" data-currency="CHF">Liechtenstein</option>
+<option value="lt" data-language="en" data-currency="EUR">Lithuania</option>
+<option value="lu" data-language="en" data-currency="EUR">Luxembourg</option>
+<option value="mo" data-language="zh" data-currency="MOP">Macau</option>
+<option value="mk" data-language="en" data-currency="EUR">Macedonia</option>
+<option value="mg" data-language="fr" data-currency="USD">Madagascar</option>
+<option value="mw" data-language="en" data-currency="USD">Malawi</option>
+<option value="my" data-language="en" data-currency="MYR">Malaysia</option>
+<option value="mv" data-language="en" data-currency="USD">Maldives</option>
+<option value="ml" data-language="fr" data-currency="USD">Mali</option>
+<option value="mt" data-language="en" data-currency="EUR">Malta</option>
+<option value="mh" data-language="en" data-currency="USD">Marshall Islands</option>
+<option value="mq" data-language="fr" data-currency="USD">Martinique</option>
+<option value="mr" data-language="en" data-currency="USD">Mauritania</option>
+<option value="mu" data-language="en" data-currency="USD">Mauritius</option>
+<option value="yt" data-language="fr" data-currency="USD">Mayotte</option>
+<option value="mx" data-language="es" data-currency="MXN">Mexico</option>
+<option value="fm" data-language="en" data-currency="USD">Micronesia</option>
+<option value="md" data-language="en" data-currency="EUR">Moldova</option>
+<option value="mc" data-language="fr" data-currency="EUR">Monaco</option>
+<option value="mn" data-language="en" data-currency="USD">Mongolia</option>
+<option value="me" data-language="en" data-currency="EUR">Montenegro</option>
+<option value="ms" data-language="en" data-currency="USD">Montserrat</option>
+<option value="ma" data-language="en" data-currency="USD">Morocco</option>
+<option value="mz" data-language="pt" data-currency="USD">Mozambique</option>
+<option value="mm" data-language="en" data-currency="USD">Myanmar</option>
+<option value="na" data-language="en" data-currency="USD">Namibia</option>
+<option value="nr" data-language="en" data-currency="USD">Nauru</option>
+<option value="np" data-language="en" data-currency="USD">Nepal</option>
+<option value="nl" data-language="nl" data-currency="EUR">Netherlands</option>
+<option value="an" data-language="nl" data-currency="USD">Netherlands Antilles</option>
+<option value="nc" data-language="fr" data-currency="USD">New Caledonia</option>
+<option value="nz" data-language="en" data-currency="NZD">New Zealand</option>
+<option value="ni" data-language="es" data-currency="USD">Nicaragua</option>
+<option value="ne" data-language="fr" data-currency="USD">Niger</option>
+<option value="ng" data-language="en" data-currency="USD">Nigeria</option>
+<option value="nu" data-language="en" data-currency="USD">Niue Island</option>
+<option value="nf" data-language="en" data-currency="USD">Norfolk Island</option>
+<option value="kp" data-language="en" data-currency="USD">North Korea</option>
+<option value="mp" data-language="en" data-currency="USD">Northern Mariana Islands</option>
+<option value="no" data-language="en" data-currency="NOK">Norway</option>
+<option value="om" data-language="en" data-currency="USD">Oman</option>
+<option value="pk" data-language="en" data-currency="USD">Pakistan</option>
+<option value="pw" data-language="en" data-currency="USD">Palau</option>
+<option value="ps" data-language="en" data-currency="USD">Palestine</option>
+<option value="pa" data-language="es" data-currency="USD">Panama</option>
+<option value="pg" data-language="en" data-currency="USD">Papua New Guinea</option>
+<option value="py" data-language="es" data-currency="USD">Paraguay</option>
+<option value="pe" data-language="es" data-currency="USD">Peru</option>
+<option value="ph" data-language="en" data-currency="PHP">Philippines</option>
+<option value="pn" data-language="en" data-currency="USD">Pitcairn Islands</option>
+<option value="pl" data-language="en" data-currency="PLN">Poland</option>
+<option value="pt" data-language="pt" data-currency="EUR">Portugal</option>
+<option value="pr" data-language="es" data-currency="USD">Puerto Rico</option>
+<option value="qa" data-language="en" data-currency="USD">Qatar</option>
+<option value="ro" data-language="en" data-currency="EUR">Romania</option>
+<option value="ru" data-language="ru" data-currency="RUB">Russia</option>
+<option value="rw" data-language="en" data-currency="USD">Rwanda</option>
+<option value="bl" data-language="fr" data-currency="USD">Saint Barthelemy</option>
+<option value="sh" data-language="en" data-currency="USD">Saint Helena</option>
+<option value="kn" data-language="en" data-currency="USD">Saint Kitts and Nevis</option>
+<option value="lc" data-language="en" data-currency="USD">Saint Lucia</option>
+<option value="mf" data-language="fr" data-currency="USD">Saint Martin</option>
+<option value="pm" data-language="fr" data-currency="USD">Saint Pierre and Miquelon</option>
+<option value="vc" data-language="en" data-currency="USD">Saint Vincent and the Grenadin</option>
+<option value="ws" data-language="en" data-currency="USD">Samoa</option>
+<option value="sm" data-language="it" data-currency="EUR">San Marino</option>
+<option value="st" data-language="pt" data-currency="USD">São Tomé and Príncipe</option>
+<option value="sa" data-language="en" data-currency="USD">Saudi Arabia</option>
+<option value="sn" data-language="fr" data-currency="USD">Senegal</option>
+<option value="rs" data-language="en" data-currency="USD">Serbia</option>
+<option value="sc" data-language="fr" data-currency="USD">Seychelles</option>
+<option value="sl" data-language="en" data-currency="USD">Sierra Leone</option>
+<option value="sg" data-language="en" data-currency="SGD">Singapore</option>
+<option value="sk" data-language="en" data-currency="EUR">Slovakia</option>
+<option value="si" data-language="en" data-currency="EUR">Slovenia</option>
+<option value="sb" data-language="en" data-currency="USD">Solomon Islands</option>
+<option value="so" data-language="en" data-currency="USD">Somalia</option>
+<option value="za" data-language="en" data-currency="USD">South Africa</option>
+<option value="kr" data-language="en" data-currency="USD">South Korea</option>
+<option value="es" data-language="es" data-currency="EUR">Spain</option>
+<option value="lk" data-language="en" data-currency="USD">Sri Lanka</option>
+<option value="sd" data-language="en" data-currency="USD">Sudan</option>
+<option value="sr" data-language="nl" data-currency="USD">Suriname</option>
+<option value="sz" data-language="en" data-currency="USD">Swaziland</option>
+<option value="se" data-language="en" data-currency="EUR">Sweden</option>
+<option value="ch" data-language="en" data-currency="CHF">Switzerland</option>
+<option value="sy" data-language="en" data-currency="USD">Syria</option>
+<option value="tw" data-language="zh" data-currency="NTD">Taiwan</option>
+<option value="tj" data-language="ru" data-currency="RUB">Tajikistan</option>
+<option value="tz" data-language="en" data-currency="USD">Tanzania</option>
+<option value="th" data-language="th" data-currency="THB">Thailand</option>
+<option value="tl" data-language="pt" data-currency="USD">Timor-Leste</option>
+<option value="tg" data-language="fr" data-currency="USD">Togo</option>
+<option value="tk" data-language="en" data-currency="USD">Tokelau</option>
+<option value="to" data-language="en" data-currency="USD">Tonga</option>
+<option value="tt" data-language="en" data-currency="USD">Trinidad and Tobago</option>
+<option value="tn" data-language="en" data-currency="USD">Tunisia</option>
+<option value="tr" data-language="en" data-currency="TRY">Turkey</option>
+<option value="tm" data-language="ru" data-currency="USD">Turkmenistan</option>
+<option value="tc" data-language="en" data-currency="USD">Turks and Caicos Islands</option>
+<option value="tv" data-language="en" data-currency="USD">Tuvalu</option>
+<option value="ug" data-language="en" data-currency="USD">Uganda</option>
+<option value="ua" data-language="en" data-currency="RUB">Ukraine</option>
+<option value="ae" data-language="en" data-currency="USD">United Arab Emirates</option>
+<option value="gb" data-language="en" data-currency="GBP">United Kingdom</option>
+<option value="us" selected="selected" data-language="en" data-currency="USD">United States</option>
+<option value="uy" data-language="es" data-currency="USD">Uruguay</option>
+<option value="vi" data-language="en" data-currency="USD">US Virgin Islands</option>
+<option value="uz" data-language="en" data-currency="USD">Uzbekistan</option>
+<option value="vu" data-language="en" data-currency="USD">Vanuatu</option>
+<option value="ve" data-language="es" data-currency="USD">Venezuela</option>
+<option value="vn" data-language="vi" data-currency="VND">Vietnam</option>
+<option value="wf" data-language="fr" data-currency="USD">Wallis and Futuna</option>
+<option value="ye" data-language="en" data-currency="USD">Yemen</option>
+<option value="zm" data-language="en" data-currency="USD">Zambia</option>
+<option value="zw" data-language="en" data-currency="USD">Zimbabwe</option>
+</select>
+</div>
+</div>
+</li>
+<li>
+<div class="T"><span class="lan">Language</span></div>
+<div class="C">
+<div class="select_wrp">
+<select name="language" class="language_selector">
+<option value="ms">Bahasa Malaysia</option>
 <option value="id">Bahasa Indonesia</option>
 <option value="de">Deutsch</option>
 <option value="es">Español</option>
@@ -558,12 +528,16 @@ $('#search_wrapper .close').click(function(){
 <option value="zh-tw">繁体中文</option>
 <option value="ja">日本語</option>
 <option value="th">ภาษาไทย</option>
-				</select>
-			</div>
-			<div class="line">
-				<span>Currency:</span>
-				<select name="currency" class="currency_selector w150">
-				<option value="AUD">Australian Dollar (A$)</option>
+</select>
+</div>
+</div>
+</li>
+<li>
+<div class="T"><span class="crc">Currency</span></div>
+<div class="C">
+<div class="select_wrp">
+<select name="currency" class="currency_selector">
+<option value="AUD">Australian Dollar (A$)</option>
 <option value="GBP">British Pound (£)</option>
 <option value="BRL">Brazil Reais (R$)</option>
 <option value="CAD">Canadian Dollar (C$)</option>
@@ -574,6 +548,7 @@ $('#search_wrapper .close').click(function(){
 <option value="IDR">Indonesia Rupiah (Rp)</option>
 <option value="JPY">Japanese Yen (¥)</option>
 <option value="MYR">Malaysia Ringgit (RM)</option>
+<option value="MXN">Mexican Peso </option>
 <option value="TRY">New Turkish Lira (TL)</option>
 <option value="NZD">New Zealand Dollar </option>
 <option value="NOK">Norwegian Krone (kr)</option>
@@ -581,318 +556,413 @@ $('#search_wrapper .close').click(function(){
 <option value="PLN">Polish Zloty (zł)</option>
 <option value="RUB">Russian Ruble (руб)</option>
 <option value="SGD">Singapore Dollar (S$)</option>
+<option value="CHF">Swiss Franc</option>
 <option value="NTD">Taiwan New Dollar (NT$)</option>
 <option value="THB">Thailand Baht (฿)</option>
 <option value="USD" selected="selected">US Dollar (US$)</option>
 <option value="VND">Vietnamese Dong (₫)</option>
-				</select>
-			</div>
-			<div class="line">
-				<input type="hidden" name="request_uri" value="/?r=page&amp;view=memberprivacy">
-				<div class="btw"><span>Save settings</span><input type="submit" class="button" value="Save setting"></div>
-			</div>
-		</form>
-		</div>
-	</section>
-</li>
-<li class="tukimenu" id="popupCart">
-	<a href="#t_dropmenu" class="bt" title="Shopping Cart"><i class="icb6"></i><span id="headCart" class="counter hide">0</span></a>
-<section id="t_dropmenu" class="menu empty">
-	<div class="in">
-		<div class="tip">No Order</div>
-		<div class="cart_order_list">
-					</div>
-		<div class="pay">
-			<h5>Total: <em class="price">US$ 0.00</em></h5>
-			<div class="btc"><a href="http://www.seagm.com/cart" onclick="ga('send', 'event', 'Navigation Bar', 'View Cart', 'ClickedViewCart');" class="btw green" title="View Cart"><span>View Cart</span></a></div>
-		</div>
-	</div>
-</section></li>			</ul>
-		</div>
-	</nav>
-<section id="subnav">
-    <div class="inner">
-    	<p class="link fwb"><a href="/">SEAGM</a>
-			    	</p>
-    	    </div>
-</section>
-<script>
-    function selectServices(aObj) {
-        if ($('#page_tab').hasClass('expand')) {
-            if ($(aObj).parent().hasClass('current')) {
-                $('#page_tab').removeClass('expand');
-                return false;
-            } else {
-                $('#page_tab').removeClass('expand').find('li.current').removeClass('current');
-                $(aObj).parent().addClass('current');
-                return true;
-            }
-        } else {
-            $('#page_tab').addClass('expand');
-            return false;
-        }
-    }
-</script><div id="content" class="columnA clearfix">
-    <div id="content_r" class="intropage">
-    	<h1>Privacy Policy</h1>
-		<article class="m20 tj lh14">
-			<p>SEA Gamer Mall respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. </p>
-			<p>In addition to this general online privacy policy, you may receive notice of other terms that apply to particular promotions or services. </p>
-			<h2>Personally Identifiable Information </h2>
-			<p>SEA Gamer Mall does not share, disclose or sell any personally-identifiable information (such as your name, address, telephone number or e-mail address) collected online on SEA Gamer Mall´ sites with other unaffiliated companies or organizations for non-SEA Gamer Mall marketing purposes. Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding. SEA Gamer Mall also does not market to, or knowingly collect personal information from, children under he age of 13 on Company sites.</p>
-			<h2>How We Use Information </h2>
-			<p>SEA Gamer Mall uses the personally-identifiable information we collect online principally to provide you with the service(s) you have ordered and to let you know about other offerings which may be of interest to you. Postal and e-mail address information, for example, enables communication about services offered and ordered, as well as the proper provisioning and billing of those services.</p>
-			<p>We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with SEA Gamer Mall´ services, or with our customers´ or others´ use of them.</p>
-			<h2>How We Collect Information </h2>
-			<p>SEA Gamer Mall collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer´s name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. </p>
-			<p>SEA Gamer Mall may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites. </p>
-			<h2>Security </h2>
-			<p>We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the SEA Gamer Mall´s web site you will need to submit a password or some other type of authenticating information.</p>
-		    <h2>Advertising Cookies</h2>
-            <p>As you browse www.seagm.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this <a href="http://www.networkadvertising.org/choices/" target="_blank" title="Opt Out Adroll">page</a> to opt out of AdRoll and their partners' targeted advertising.</p>
-		</article>
-    </div>
-	<aside id="content_l">
-		<h3>&nbsp;</h3>
-		<menu>
-			<li><a href="/?r=page&amp;view=about">About SEAGM</a></li>
-			<li><a href="/?r=page&amp;view=contact">Contact Us</a></li>
-            <li><a href="/?r=page&amp;view=email">Email Us</a></li>
-			<li><a href="/?r=page&amp;view=join">Join Us</a></li>
-			<li><a href="/?r=page&amp;view=membership">Membership</a></li>
-			<li><a href="/?r=page&amp;view=partnership">Partners</a></li>
-			<li><a href="/?r=page&amp;view=termsofuse">SEAGM Terms of Use</a></li>
-			<li class="current"><a href="/?r=page&amp;view=memberprivacy">Member Privacy Policy</a></li>
-		</menu>
-    </aside>
+</select>
 </div>
-<footer id="footer" class="wrapper">
-	<div class="inner_wrapper">
-		<aside>
-        	<h2>SEA Gamer Mall</h2>
-			<p><strong>DISCLAIMER</strong>: Registered names and trademarks are the copyright and property of their respective owners. Use of this Web site constitutes acceptance of the Terms of use &amp; Privacy Policy.</p>
-			<div id="google_translate_element"></div>
-			<script>
-			function googleTranslateElementInit() {
-			  new google.translate.TranslateElement({
-				pageLanguage: 'auto',
-				autoDisplay: false
-			  }, 'google_translate_element');
-			}
-			</script>
-            <br>
-            <!-- begin WebMoney Transfer : attestation label -->
-<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=291022639088" target="_blank"><img src="http://static.seagm.com/media/bank/webmoney-verify.png" alt="Here you can find information as to the passport for our WM-identifier 291022639088" border="0"></a>
-<!-- end WebMoney Transfer : attestation label -->
-		</aside>
-		<div class="content">
-			<section id="pay_mtd">
-				<a href="/pay/account">More<i></i></a>
-				<ul>
-					<li class="p01">Paypal</li>
-					<li class="p02">Maybank</li>
-					<li class="p04">DBS</li>
-					<li class="p05">Skrill</li>
-					<li class="p06">cashU</li>
-					<li class="p07">Alipay</li>
-					<li class="p08">webmoney</li>
-					<li class="p09">Paysafecard</li>
-				</ul>
-			</section>
-			<section id="ctc_mtd">
-				<dl>
-					<dt>Malaysia &amp; International Calls</dt>
-					<dd>
-						<em>+60124023320</em><br>
-						<em>+60124052343</em><br>
-						<em>+60165212343</em><br>
-						<em>+60165514211</em><br>
-						<em>+60165512314</em><br>
-						<em>+60105664551</em>
-					</dd>
-                    <dt>Indonesia SMS ONLY</dt>
-					<dd><em>+62-85270310000</em></dd>
-				</dl>
-				<dl>
-                	<dt>Thailand Calls 700AM-1050PM Bangkok Time</dt>
-                    <dd><em>0897397412</em><br>
-                    <em>0814796345</em></dd>
-					<dt>Indonesia BBM Channel</dt>
-					<dd><em>BBM PIN: C00424C0E</em></dd>
-				</dl>
-				<dl>
-					                    &nbsp;
-                    					<dt>Follow SEAGM on</dt>
-					<dd class="social">
-						<a href="https://www.facebook.com/SEAGM" class="facebook" target="_blank">Follow us on facebook</a>
-						<a href="https://twitter.com/seagm" class="twitter" target="_blank">Follow us on twitter</a>
-						<a href="https://www.youtube.com/SEAGamerMall" class="youtube" target="_blank">Follow us on youtube</a>
-						<a href="https://plus.google.com/+seagm/" class="google" target="_blank">Follow us on google+</a>
-						<a href="https://instagram.com/seagm/" class="pinterest" target="_blank">Follow us on instagram</a>
-					</dd>
-				</dl>
-			</section>
-		</div>
-		<nav id="footer_nav">
-			<p>Copyright © 2007-2015 SEAGM Gamer Mall. All Rights Reserved.</p>
-			<a href="/?r=page&amp;view=about">About Us</a>
-			<a href="/?r=page&amp;view=contact">Contact Us</a>
-			<a href="/?r=page&amp;view=join">Join Us</a>
-			<a href="/?r=page&amp;view=membership">Membership</a>
-			<a href="/?r=page&amp;view=partnership">Partners</a>
-            <a href="/?r=page&amp;view=termsofuse">Terms of use</a>
-            <a href="/?r=page&amp;view=memberprivacy">Privacy Policy</a>
-		</nav>
-	</div>
+</div>
+</li>
+<li>
+<div class="btc">
+<input type="hidden" name="request_uri" value="/page/index?view=memberprivacy">
+<div class="btw"><span>Save settings</span><input type="submit" class="button" value="Save setting"></div>
+</div>
+</li>
+</ul>
+</form>
+</div>
+</div>
+</div>
+</section>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<script>
+        //cart view
+        $('#popupCart .cart').click(function() {
+            var $a = $(this);
+
+            if ($a.hasClass('activated')) {
+                $a.removeClass('activated');
+            } else {
+                $a.addClass('activated');
+                $('#user_zone').find('a.user').removeClass('activated');
+                $('#nav_zone_ctrl').removeClass('activated');
+            }
+
+            $.getJSON('/cart/get-order', function(data) {
+                processResponse($a, data);
+            });
+            return false;
+        });
+
+        //navigation show & close (w800)
+        $('#nav_zone_ctrl').click(function(){
+            var $this = $(this);
+            if($this.hasClass('activated')) {
+                $this.removeClass('activated');
+            } else {
+                $this.addClass('activated');
+                $('#user_zone .cart').removeClass('activated');
+                $('#user_zone .user').removeClass('activated');
+            }
+            return false;
+        });
+
+        //user zone dropmenu show & close
+        $('#user_zone .user').click(function(){
+            var $this = $(this);
+
+            if ($this.hasClass('activated')) {
+                $this.removeClass('activated');
+            } else {
+                $this.addClass('activated');
+                $('#user_zone .cart').removeClass('activated');
+                $('#nav_zone_ctrl').removeClass('activated');
+            }
+            return false;
+        });
+
+        //settings show (w480)
+        $('#s_menu_ctrl .change').click(function(){
+            var $this = $('#u_settings_wrp');
+            if($this.hasClass('show')) {
+                $this.removeClass('show');
+            } else {
+                $this.addClass('show');
+            }
+
+            if($body.hasClass('show_settings')) {
+                $body.removeClass('show_settings');
+            } else {
+                $body.addClass('show_settings');
+            }
+
+            return false;
+        });
+
+        //settings close (w480)
+        $('#s_menu_title .x').click(function(){
+            var $this = $('#u_settings_wrp');
+            if($this.hasClass('show')) {
+                $this.removeClass('show');
+            }
+            if($body.hasClass('show_settings')) {
+                $body.removeClass('show_settings');
+            }
+            return false;
+        });
+
+        //float nav
+        $(window).scroll(function() {
+            if ($(document).scrollTop() >= $('#header > .inner').height()+0) {
+                $('#header').addClass('float');
+            } else {
+                $('#header').removeClass('float');
+            }
+        });
+
+        //close at click
+        $(document).click(function(e){
+            var $userZone = $(e.target).closest('#user_zone');
+            if ($userZone.length == 0) {
+                $('#user_zone').find('li > a.activated').removeClass('activated');
+            }
+        });
+    </script>
+<div id="content" class="ucp">
+<aside id="content_l">
+<a href="#" id="about_menu_ctrl"><span><i></i></span></a>
+<div id="about_menu_wrp">
+<ul id="about_menu">
+<li><a href="/page/index?view=about">About SEAGM</a></li>
+<li><a href="/page/index?view=contact">Contact Us</a></li>
+ 
+<li><a href="/page/index?view=membership">Membership</a></li>
+ 
+<li><a href="/page/index?view=termsofuse">SEAGM Terms of Use</a></li>
+<li class="current"><a href="/page/index?view=memberprivacy">Member Privacy Policy</a></li>
+</ul>
+</div>
+</aside>
+<div id="content_r">
+<h1>Member Privacy Policy</h1>
+<div id="aboutContainer">
+<div class="about_wrp">
+<article class="none">
+<p>SEA Gamer Mall respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. </p>
+<p>In addition to this general online privacy policy, you may receive notice of other terms that apply to particular promotions or services. </p>
+<h3>Personally Identifiable Information </h3>
+<p>SEA Gamer Mall does not share, disclose or sell any personally-identifiable information (such as your name, address, telephone number or e-mail address) collected online on SEA Gamer Mall´ sites with other unaffiliated companies or organizations for non-SEA Gamer Mall marketing purposes. Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding. SEA Gamer Mall also does not market to, or knowingly collect personal information from, children under he age of 13 on Company sites.</p>
+<h3>How We Use Information </h3>
+<p>SEA Gamer Mall uses the personally-identifiable information we collect online principally to provide you with the service(s) you have ordered and to let you know about other offerings which may be of interest to you. Postal and e-mail address information, for example, enables communication about services offered and ordered, as well as the proper provisioning and billing of those services.</p>
+<p>We also provide personally-identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with SEA Gamer Mall´ services, or with our customers´ or others´ use of them.</p>
+<h3>How We Collect Information </h3>
+<p>SEA Gamer Mall collects information online by asking you for it, for example, when you order a service, apply for a job, or respond to a survey, offer or other promotion. A customer´s name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted. </p>
+<p>SEA Gamer Mall may also use "cookies" and similar technology to obtain information about your visits to our sites or your responses to e-mail from us - both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites. </p>
+<h3>Security </h3>
+<p>We use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use. For example, you will note that while using some features of the SEA Gamer Mall´s web site you will need to submit a password or some other type of authenticating information.</p>
+<h3>Advertising Cookies</h3>
+<p>As you browse www.seagm.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [company website]. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this <a href="http://www.networkadvertising.org/choices/" target="_blank" title="Opt Out Adroll" class="send">page</a> to opt out of AdRoll and their partners' targeted advertising.</p>
+</article>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	$('#about_menu_ctrl').click(function(){
+		var $this = $(this);
+		if($this.hasClass('activated')) {
+			$this.removeClass('activated');
+		} else {
+			$this.addClass('activated');
+		}
+		return false;
+	});
+</script><footer id="footer">
+<div class="inner">
+<div id="disclaimer_wrp"><p>
+<b>DISCLAIMER</b>:
+Registered names and trademarks are the copyright and property of their respective owners. Use of this Web site constitutes acceptance of the <b>Terms of use</b> and <b>Privacy Policy</b>. </p></div>
+<div id="footer_payments_wrp">
+<ul id="footer_payments">
+<li><span><img src="https://static.seagm.com/v3/images/bank/paypal.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/b1.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/b10.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/b16.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/cashu.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/alipay.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/acc_blue_on_white_en.png"></span></li>
+<li><span><img src="https://static.seagm.com/v3/images/bank/paysafecard.png"></span></li>
+</ul>
+</div>
+<div id="footer_sns_wrp">
+<ul id="footer_sns">
+<li><a href="https://www.facebook.com/SEAGM" class="facebook" target="_blank"><span>Follow us on facebook</span></a></li>
+<li><a href="https://twitter.com/seagm" class="twitter" target="_blank"><span>Follow us on twitter</span></a></li>
+<li><a href="https://www.youtube.com/SEAGamerMall" class="youtube" target="_blank"><span>Follow us on youtube</span></a></li>
+<li><a href="https://plus.google.com/+seagm/" class="googleplus" target="_blank"><span>Follow us on google+</span></a></li>
+<li><a href="https://pinterest.com/seagamermall/" class="pinterest" target="_blank"><span>Follow us on pinterest</span></a></li>
+</ul>
+</div>
+<div id="footer_nav_wrp">
+<p>Copyright © 2007-2016 SEA Gamer Mall. All Rights Reserved.</p>
+<ul id="footer_nav">
+<li><a href="/page/index?view=about">About Us</a></li>
+<li><a href="/page/index?view=contact">Contact Us</a></li>
+ 
+<li><a href="/page/index?view=membership">Membership</a></li>
+ 
+<li><a href="/page/index?view=termsofuse">Terms of use</a></li>
+<li><a href="/page/index?view=memberprivacy">Privacy Policy</a></li>
+</ul>
+</div>
+</div>
 </footer>
 <script>
-//float nav
-$(window).scroll(function() {
-    if ($(document).scrollTop() >= $('#header').height()+45) {
-        $('#header').addClass('float');
-        $('#navigation').addClass('float');
-    } else {
-        $('#header').removeClass('float');
-        $('#navigation').removeClass('float');
-    }
-});//是否登录检测
-$('a.nolink').on('click', function(){
-	if ($(this).attr('href') == '#') return false;
-});
+    //init tukibox
+    $.tukibox();//登录框loading效果
+    //init tukimenu
+    $.tukimenu();//下拉框效果
+    $.tukivalidator();
+    //init tukiselect
+    $('.select_s').tukiselect();//服务器列表，业务列表选择
+    //init tukislide
+    $('div.tukislide').tukislide();//home_scroll滑动
+    //int countdown();
+    $('div.countdown').tukicountdown();//倒计时
+    //init tukitip
+    $.tukitip();//搜索框
 
-var $growlWarpper = $('#tukigrowl_wrapper');
-var sess_id = "dm038h23fvamdsisvdats2pk45";
+    var Please_fill_out_this_field = "Please fill out this field.";
+    var Please_enter_the_same_value_again = "Please enter the same value again.";
+    var Please_select_a_player = "Please select a player";
+    var none_t = "none";
+
+    //全局元素
+var $head = $('head');
+var $body = $('body');
+
+//弹出小窗
+var $popup = $('#tukibox_overlay');
+var $popupTitle = $popup.find('span.tukibox_title');
+var $popupContent = $popup.find('div.tukibox_content');
+
+//弹出提示
+var $tip = $('#tukitip');
+var tipTimer; //定时器
+
+//websocket
+var sess_id = "v5a729oe5t8vpf631fs6ubg611";
 var sess_id_hash = $.MD5(sess_id);
-var store_url = "http://www.seagm.com/";
-var ws_server = "ws://ws.seagamermall.com:443/";
+var store_url = "https://www.seagm.com";
+var ws_server = "wss://ws.seagamermall.com/";
 
-//region switcher
-$('select.region_selector').on('change', function(){
-	var $form = $(this).closest('form');
-	var region = $(this).val();
-	if (clientData.currencyList.hasOwnProperty(clientData.regionList[region].currency))
-		$form.find('select.currency_selector').val(clientData.regionList[region].currency);
-	if (clientData.languageList.hasOwnProperty(clientData.regionList[region].language))
-		$form.find('select.language_selector').val(clientData.regionList[region].language);
+$('.select_wrp select.region_selector').on('change', function(){
+    var $form = $(this).closest('form');
+    $form.find('.select_wrp select.currency_selector').val($(this).find('option:selected').data('currency'));
+    $form.find('.select_wrp select.language_selector').val($(this).find('option:selected').data('language'));
 });
 
-function checkLogin()
-{
-	if (clientData.user.id > 10000) {
-		return true;
-	} else {
-	$('#tukibox_overlay').show();
-		Tuki.box.open('Please sign in first', '#l_dropmenu');
-		return false;
-	}
+$('.tukiselector select.region_selector').on('change', function(){
+    var $region = $(this).val();
+    //var $currency_r=clientData.regionList[$region].currency;
+    var $currency_r = $(this).find('option:selected').data('currency');
+    var $menu = $(".tukiselector select.currency_selector");
+    $($menu).val($currency_r);
+    $($menu).trigger("change");
+});
+
+$('.tukiselector select.currency_selector').on('change', function(){
+    var $currency=$(this).val();
+    var $div_id='#account_'+$currency;
+    $($div_id).addClass('show').siblings('.show').removeClass('show');
+});
+
+//弹出菜单
+$body.on('click', 'a[rel="dropmenu"]', function() {
+    var $this = $(this);
+    if ('#' == $this.attr('href')) {
+        if ($this.next().hasClass('show')) {
+            $this.next().removeClass('show');
+        } else {
+            $body.find('section.show').removeClass('show');
+            $this.next().addClass('show');
+        }
+        return false;
+    }
+});
+
+//弹出菜单
+/*$body.on('click', 'a[rel="dropmenu"]', function() {
+ var $this = $(this);
+ alert($this.attr('href'));
+ if ('#' == $this.attr('href')) {
+ if ($this.next().hasClass('show')) {
+ $this.next().removeClass('show');
+ } else {
+ $body.find('section.show').removeClass('show');
+ $this.next().addClass('show');
+ }
+ return false;
+ }
+ });*/
+
+//拦截 普通链接
+$body.on('click', 'a[target="background"]', function() {
+    var $a = $(this);
+    $tip.removeClass('hide');
+    $.getJSON($a.attr('href'), function(data) {
+        processResponse($a, data);
+        if (tipTimer == undefined) $tip.addClass('hide');
+    });
+    return false;
+});
+
+//popup
+$popup.on('click', 'a.close', function(){
+    $popup.addClass('hide');
+    $body.removeClass('overlay');
+    return false;
+});
+
+// close tip
+$tip.on('click', 'a.closed', function(){
+    $tip.addClass('hide').removeClass('popup_alert popup_notify popup_delete').html('Loading...');
+    return false;
+});
+
+$body.on('click', 'a[target=popup]', function(){
+    var $this = $(this);
+    $popup.removeClass('hide');
+    $body.addClass('overlay');
+    $popupTitle.html($this.attr('title'));
+    $popupContent.load($this.attr('href'));
+    return false;
+});
+
+//tab功能模块
+$body.on('click', 'li.tukitab > a', function(){
+    var $tukilabel = $(this);
+    var $tukitab = $tukilabel.parent('li.tukitab');
+    var $tukipanel = $($tukilabel.attr('href'));
+    $tukipanel.siblings('.show').removeClass('show').addClass('hide');
+    $tukipanel.removeClass('hide').addClass('show');
+    $tukitab.addClass('current').siblings('.current').removeClass('current');
+    return false;
+});
+
+//function
+function popup_alert(message) {
+    //alert(message);
+    $tip.removeClass('hide').addClass('popup_alert').removeClass('popup_notify').removeClass('popup_delete').html(message);
+    if(!$tip.hasClass('popup_loading')) {
+        $tip.addClass('popup_loading')
+    }
+    tipTimer = setTimeout(function(){$tip.addClass('hide').removeClass('popup_alert popup_notify popup_delete').html('Loading...')}, 4000);
 }
 
-//刷新验证码
-/*
-function reloadCaptcha(e)
-{
-	$this = $(this);
-	$img = $this.find('img.captcha_img');
-
-	$img.attr('src', $img.attr('src') + '&' + Math.random());
-	return false;
+function popup_notify(message) {
+    //alert(message);
+    $tip.removeClass('hide').addClass('popup_notify').removeClass('popup_alert').removeClass('popup_delete').html(message);
+    if(!$tip.hasClass('popup_loading')) {
+        $tip.addClass('popup_loading')
+    }
+    tipTimer = setTimeout(function(){$tip.addClass('hide').removeClass('popup_alert popup_notify popup_delete').html('Loading...')}, 3000);
 }
-$('a.captcha').click(reloadCaptcha);
-$('body').on('error', 'form.login_form', reloadCaptcha);
-*/
 
-//input placeholder
-$('input').focus(function() {
-	if ($(this).attr('title') == $(this).val()) {
-		$(this).val('');
-	}
-});
-$('input').blur(function(){
-	if ('' == $(this).val()) {
-		$(this).val($(this).attr('title'));
-	}
-});
+function popup_delete(message) {
+    $tip.removeClass('hide').addClass('popup_delete').removeClass('popup_loading').removeClass('popup_notify').removeClass('popup_alert').html(message);
+    tipTimer = 1;
+}
 
-//change select's value to submit the form
-$('section.autosubmit').change(function(){
-	$(this).closest('form').submit();
-});
+function popup_box(body, title) {
+    $popup.removeClass('hide');
+    $body.addClass('overlay');
+    $popupTitle.html(title);
+    $popupContent.html(body);
+}
+
+function close_popup_box() {
+    $popup.addClass('hide');
+    $body.removeClass('overlay');
+    $popupTitle.html('');
+    $popupContent.html('');
+}
 
 //init tukislide
-$('div.tukislide').tukislide();
-//init tukiselect
-$('.select_s').tukiselect();
-//int countdown();
-$('div.countdown').tukicountdown();
-
-//clientdata
-window.clientData = {"user":{"id":"10000","group_id":"1","unread_notification_count":"0"},"currencyList":{"AUD":{"code":"AUD","name":"Australian Dollar (A$)","format":"A$ $m","exchange_rate":"299.165500"},"GBP":{"code":"GBP","name":"British Pound (\u00a3)","format":"\u00a3 $m","exchange_rate":"616.492200"},"BRL":{"code":"BRL","name":"Brazil Reais (R$)","format":"R$ $m","exchange_rate":"108.746700"},"CAD":{"code":"CAD","name":"Canadian Dollar (C$)","format":"C$ $m","exchange_rate":"307.692307"},"CNY":{"code":"CNY","name":"Chinese Yuan Renminbi (\u00a5)","format":"\u00a5 $m","exchange_rate":"65.335900"},"DKK":{"code":"DKK","name":"Danish Krone (kr)","format":"kr $m","exchange_rate":"58.139534"},"EUR":{"code":"EUR","name":"Euro (\u20ac)","format":"\u20ac $m","exchange_rate":"452.178500"},"HKD":{"code":"HKD","name":"Hong Kong Dollar (HK$)","format":"HK$ $m","exchange_rate":"54.047700"},"IDR":{"code":"IDR","name":"Indonesia Rupiah (Rp)","format":"Rp $m","exchange_rate":"0.029585"},"JPY":{"code":"JPY","name":"Japanese Yen (\u00a5)","format":"\u00a5 $m","exchange_rate":"3.310162"},"MYR":{"code":"MYR","name":"Malaysia Ringgit (RM)","format":"RM $m","exchange_rate":"100.000000"},"TRY":{"code":"TRY","name":"New Turkish Lira (TL)","format":"TL $m","exchange_rate":"143.476100"},"NZD":{"code":"NZD","name":"New Zealand Dollar ","format":"$ $m","exchange_rate":"266.666666"},"NOK":{"code":"NOK","name":"Norwegian Krone (kr)","format":"kr $m","exchange_rate":"46.948356"},"PHP":{"code":"PHP","name":"Philippines Peso (\u20b1)","format":"\u20b1 $m","exchange_rate":"8.306300"},"PLN":{"code":"PLN","name":"Polish Zloty (z\u0142)","format":"$m z\u0142 ","exchange_rate":"101.010101"},"RUB":{"code":"RUB","name":"Russian Ruble (\u0440\u0443\u0431)","format":"\u0440\u0443\u0431 $m","exchange_rate":"5.998800"},"SGD":{"code":"SGD","name":"Singapore Dollar (S$)","format":"S$ $m","exchange_rate":"298.500000"},"NTD":{"code":"NTD","name":"Taiwan New Dollar (NT$)","format":"NT$ $m","exchange_rate":"12.455700"},"THB":{"code":"THB","name":"Thailand Baht (\u0e3f)","format":"\u0e3f $m","exchange_rate":"11.737700"},"USD":{"code":"USD","name":"US Dollar (US$)","format":"US$ $m","exchange_rate":"420.703000"},"VND":{"code":"VND","name":"Vietnamese Dong (\u20ab)","format":"\u20ab $m","exchange_rate":"0.018000"}},"effective_bit":"-2","sessId":"dm038h23fvamdsisvdats2pk45"};
-
-//过期提示
-setTimeout(function(){}, clientData.maxlifetime);
-</script>
-<script src="http://static.seagm.com/data/games.js"></script>
-<script src="http://static.seagm.com/data/card_categories.js"></script>
-<script src="http://static.seagm.com/data/languages.js"></script>
-<script src="http://static.seagm.com/data/regions.js"></script>
-<script src="http://static.seagm.com/data/players.js"></script>
-<script src="http://static.seagm.com/data/merchandises.js"></script>
-<!-- TEST ENV -->
-<!-- FB Customer Audience -->
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '461454460655072']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=461454460655072&amp;ev=PixelInitialized" /></noscript>
-<!-- Begin google translate -->
-<script data-cfasync="true" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<!-- End google translate -->
-<!-- Google Analytics -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-7286851-2', 'auto');
-    ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
-<!-- getclicky -->
+$('div.tukislide').tukislide();    window.clientData = {"effective_bit":"-2","effectiveBit":"-2","currency_format":"US$ $m"};
+    </script>
+<script src="https://static.seagm.com/data/regions.js"></script>
+ 
 <script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];clicky_site_ids.push(66436013);(function(){var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = '//static.getclicky.com/js';( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();</script><!-- end getclicky analytics-->
-
-<!--Start of Zopim Live Chat Script-->
-<script data-cfasync="true" type="text/javascript">
-window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
-$.src='//v2.zopim.com/?11vC96Mzb8OVN4LgG0BkoWba6AiAsNaF';z.t=+new Date;$.
-type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
-
-$zopim(function() {
-        $zopim.livechat.departments.filter('English Speaking CS', '中文客服', 'Indonesian CS', 'พนักงานดูแลลูกค้าไทย', 'Malay Speaking CS');
-	$zopim.livechat.departments.setLabel('Choose support language');
-	});
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+        $.src='//v2.zopim.com/?11vC96Mzb8OVN4LgG0BkoWba6AiAsNaF';z.t=+new Date;$.
+            type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
-<!--End of Zopim Live Chat Script-->
-
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script data-cfasync="true" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e98a4ee69f5d41c"></script>
-<script data-cfasync="true" type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
-
-<!-- PRODCN -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"35156fd84c","applicationID":"11581039","transactionName":"NFwDNRRUW0JZVEIKVw0WNBMPGkFEU14YE1AT","queueTime":0,"applicationTime":193,"atts":"GBsAQ1xOSEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+<script>
+    $zopim(function() {
+                $zopim.livechat.departments.filter('English Speaking CS', '中文客服', 'Indonesian CS', 'พนักงานดูแลลูกค้าไทย', 'Malay Speaking CS');
+		$zopim.livechat.departments.setLabel('Choose support language');
+            });
+</script>
+ 
+ 
+ 
+ 
+<script type="text/javascript">
+    var clicky_site_ids = clicky_site_ids || [];clicky_site_ids.push(66436013);(function(){var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = '//static.getclicky.com/js';( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();</script> 
+ 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e98a4ee69f5d41c"></script>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"35156fd84c","applicationID":"11581039","transactionName":"NFwDNRRUW0JZVEIKVw0WNBMPGlxfXFJOTUgLSQ==","queueTime":0,"applicationTime":48,"atts":"GBsAQ1xOSEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
