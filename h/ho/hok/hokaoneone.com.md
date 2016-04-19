@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906002629id_/http%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419183054id_/http%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # HOKA ONE ONE® Official Site | Privacy Policy
 
