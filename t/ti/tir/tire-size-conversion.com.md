@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326104158id_/http%3A//tire-size-conversion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tire-size-conversion.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419203634id_/https%3A//tiresize.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for tire-size-conversion.com**
+**Privacy Policy for tiresize.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@tire-size-conversion.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@tiresize.com. 
 
-At tire-size-conversion.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by tire-size-conversion.com and how it is used. 
+At tiresize.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by tiresize.com and how it is used. 
 
 **Log Files**  
-Like many other Web sites, tire-size-conversion.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, tiresize.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
-Tire-size-conversion.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Tiresize.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser. Some content on tiresize.com will not work properly with out the use of cookies. 
 
 **DoubleClick DART Cookie**
 
-.:: Google, as a third party vendor, uses cookies to serve ads on tire-size-conversion.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to tire-size-conversion.com and other sites on the Internet.   
+.:: Google, as a third party vendor, uses cookies to serve ads on tiresize.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to tiresize.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
@@ -25,12 +25,11 @@ Google Adsense
 Commission Junction   
 Link Share   
 Amazon   
-Ebay Partner Network 
+Ebay Partner Network   
+Impact Radius 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on tire-size-conversion.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on tiresize.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. Tiresize.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-tire-size-conversion.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. tire-size-conversion.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Tiresize.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
