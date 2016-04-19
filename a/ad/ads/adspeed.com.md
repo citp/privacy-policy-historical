@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102011226id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419040917id_/https%3A//www.adspeed.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
