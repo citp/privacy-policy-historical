@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoopers.com privacy policy that was archived on 2015-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150802002331id_/http%3A//en.scoopers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoopers.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419204703id_/http%3A//en.scoopers.com/privacy) for the most accurate reproduction.*
 
 # Scoopers - Share your passions, Photos, Videos, Music and Scoops in our Community
 
