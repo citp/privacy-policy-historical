@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233437id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419044518id_/http%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Proofpoint - Enterprise Email Security, Email Archiving, and Privacy Protection Solutions
+# Privacy Policy | Proofpoint
 
 ##  [Proofpoint Privacy Policy](https://web.archive.org/us/proofpoint-privacy-policy)
 
