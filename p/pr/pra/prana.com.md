@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211205100id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419121440id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | prAna
 
@@ -66,7 +66,7 @@ We do not otherwise share your personal information with third parties except as
 • to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of prAna our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and  
 • in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
 
-In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, click here and send us your name and mailing address. It may take up to 8 weeks for you to stop receiving unwanted catalogs.
+In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, please contact Customer Service at (866) 915-6457 and provide your name and mailing address.
 
 #### SECURITY OF YOUR PERSONAL INFORMATION
 
