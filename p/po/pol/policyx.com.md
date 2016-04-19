@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policyx.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019201701id_/http%3A//www.policyx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policyx.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419213006id_/http%3A//www.policyx.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PolicyX.com privacy policy description
 
