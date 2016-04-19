@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepandshare.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215090921id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepandshare.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420004928id_/http%3A//www.keepandshare.com/business/privacyagreement.php) for the most accurate reproduction.*
 
 # Privacy Policy | Keep&Share
 
