@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905071523id_/https%3A//www.robinsfcu.org/sites/www.robinsfcu.org/files/Documents/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsfcu.org privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420010759id_/https%3A//www.robinsfcu.org/sites/PDF/Disclosures/2016_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                              Rev [07/2015]
-                           WHAT DOES ROBINS FEDERAL CREDIT UNION DO
+                                                                                                                              Rev [01/2016]
+                           WHAT DOES ROBINS FINANCIAL CREDIT UNION DO
   FACTS                    WITH YOUR PERSONAL INFORMATION?
                            Financial companies choose how they share your personal information. Federal law gives
   Why?                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
@@ -18,9 +18,9 @@
                            notice.
   How?                     All financial companies need to share customers’ non-public personal information to run their
                            everyday business. In the section below, we list the reasons financial companies can share their
-                           customers’ non-public personal information; the reasons Robins Federal Credit Union chooses to
+                           customers’ non-public personal information; the reasons Robins Financial Credit Union chooses to
                            share; and whether you can limit this sharing.
-                                                                         Does Robins Federal
+                                                                        Does Robins Financial
   Reasons we can share your personal information                                                           Can you limit this sharing?
                                                                          Credit Union share?
   For our everyday business purposes—
@@ -60,7 +60,7 @@
                                 Do not share my personal information with nonaffiliates to market their products and
                                   services to me.
                           Name                                                                                       Mail to:
-                          Address                                                                                    Robins Federal
+                          Address                                                                                    Robins Financial
                                                                                                                      Credit Union
                                                                                                                      Support Services
                           City, State, Zip                                                                           PO Box 6849
@@ -71,38 +71,38 @@
 
 Page 2
 Who we are
-Who is providing this notice?        Robins Federal Credit Union
+Who is providing this notice?          Robins Financial Credit Union
 What we do
-How does Robins Federal Credit Union To protect your personal information from unauthorized access
-protect my personal information?     and use, we use security measures that comply with federal law.
-                                     These measures include computer safeguards and secured files
-                                     and buildings.
-How does Robins Federal Credit Union We collect your personal information, for example, when you
-collect my personal information?         open an account or apply for a loan
-                                         send emails or other types of communication to the credit union
-                                         conduct transactions with us or others
-                                     We also collect information we receive from consumer reporting
-                                     agencies and other third parties such as market research firms.
-                                     Federal law gives you the right to limit only
+How does Robins Financial Credit Union To protect your personal information from unauthorized access
+protect my personal information?       and use, we use security measures that comply with federal law.
+                                       These measures include computer safeguards and secured files
+                                       and buildings.
+How does Robins Financial Credit Union We collect your personal information, for example, when you
+collect my personal information?           open an account or apply for a loan
+                                           send emails or other types of communication to the credit union
+                                           conduct transactions with us or others
+                                       We also collect information we receive from consumer reporting
+                                       agencies and other third parties such as market research firms.
+                                       Federal law gives you the right to limit only
 Why can’t I limit all sharing?
-                                         sharing for affiliates’ everyday business purposes—information
-                                          about your creditworthiness
-                                         affiliates from using your information to market to you
-                                         sharing for nonaffiliates to market to you
-                                     State laws and individual companies may give you additional rights to
-                                     limit sharing.
-                                     Robins Federal Credit Union will treat an opt-out request from any one
+                                           sharing for affiliates’ everyday business purposes—information
+                                            about your creditworthiness
+                                           affiliates from using your information to market to you
+                                           sharing for nonaffiliates to market to you
+                                       State laws and individual companies may give you additional rights to
+                                       limit sharing.
+                                       Robins Financial Credit Union will treat an opt-out request from any one
 What happens when I limit sharing
-                                     party to an account as if all of you chose to opt-out.
+                                       party to an account as if all of you chose to opt-out.
 for an account I hold jointly with
 someone else?
 Definitions
-Affiliates                           Companies related by common ownership or control. They can be
-                                     financial and nonfinancial companies.
-                                         Robins Federal Credit Union does not share with affiliates
-Nonaffiliates                        Companies not related by common ownership or control. They can be
-                                     financial and nonfinancial companies.
-                                         Robins Federal Credit Union does not share with nonaffiliates
-Joint marketing                      A formal agreement between nonaffiliated financial companies that
-                                     together market financial products or services to you.
-                                         CUNA Mutual, Southwest Business Corporation
+Affiliates                             Companies related by common ownership or control. They can be
+                                       financial and nonfinancial companies.
+                                           Robins Financial Credit Union does not share with affiliates
+Nonaffiliates                          Companies not related by common ownership or control. They can be
+                                       financial and nonfinancial companies.
+                                           Robins Financial Credit Union does not share with nonaffiliates
+Joint marketing                        A formal agreement between nonaffiliated financial companies that
+                                       together market financial products or services to you.
+                                           CUNA Mutual, Southwest Business Corporation
