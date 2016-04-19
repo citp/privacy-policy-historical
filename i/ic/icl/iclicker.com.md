@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916004059id_/https%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclicker.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419043217id_/https%3A//www1.iclicker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - i>clicker
 
