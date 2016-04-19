@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209104508id_/http%3A//www.the-amazing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-amazing.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419023536id_/http%3A//www.the-amazing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazing Funny Photos and Science News
 
