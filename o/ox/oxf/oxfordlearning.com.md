@@ -1,72 +1,58 @@
-> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015001925id_/http%3A//www.oxfordlearning.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordlearning.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419042950id_/http%3A//www.oxfordlearning.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Terms | Oxford Learning | Oxford Learning
+# Privacy Policy | Oxford Learning
 
-### Oxford Learning Privacy & Terms
+This Privacy Policy was last modified on January 21, 2015.
 
-PLEASE READ THESE TERMS OF USE (“TERMS”) CAREFULLY BEFORE ACCESSING INFORMATION AT OXFORDLEARNING.COM, OR OTHER OXFORD LEARNING SITES (“SITE” OR “SITES”). BY USING AND PARTICIPATING IN THESE SITES, YOU SIGNIFY THAT YOU HAVE READ THESE TERMS AND AGREE TO BE BOUND BY AND COMPLY WITH THEM. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, PLEASE PROMPTLY EXIT ALL SITES. OXFORD LEARNING RESERVES THE RIGHT TO MODIFY THESE TERMS AT ANY TIME AND WILL PUBLISH NOTICE OF ANY SUCH MODIFICATIONS ON-LINE AT THIS SITE OR ELSEWHERE ON-LINE. BY CONTINUING TO ACCESS A SITE AFTER NOTICE OF SUCH MODIFICATIONS HAS BEEN PUBLISHED, YOU SIGNIFY YOUR AGREEMENT TO BE BOUND BY THEM.
+**Oxford Learning®  **(“us”, “we”, or “our”) operates **www.oxfordlearning.com**  (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-### Permission to Use Materials
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessiblae at our site.
 
-User may download material from Site only for User’s own personal, non-commercial use. User may not otherwise copy, reproduce, retransmit, distribute, publish, commercially exploit or otherwise transfer any material. The burden of determining that use of any information, software or any other content on the Site is permissible rests with User.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-### Privacy Policy
+**Log Data**  
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Oxford Learning Centres, Inc. and its subsidiaries, affiliates and franchisees (“OLC”) is committed to protecting your personal information (“Personal Information”), how we use it, and when we share it with third parties.
+**Cookies**  
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-Our Privacy Policy explains how we handle your Personal Information. By using this Site or by contacting our corporate office or franchisees, you agree to this Privacy Policy and to the Terms and Conditions governing its use. If you have questions, comments or concerns about our Privacy Policy, please contact us at [privacyofficer@oxfordlearning.com](mailto:privacyofficer@oxfordlearning.com).
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-  1. #### What Is Personal Information?
+**DoubleClick Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
 
-Personal Information includes your name, address, telephone number, e-mail address, credit card information, postal/zip code, town or city, gender and purchase history, click through activity, product or service preferences or instructions and any and all other information you may provide in our website, by telephone, mail or e-mail.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings page.
 
-  2. #### Why We Collect Personal Information
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the ​site. ​Any ​​data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-We collect Personal Information in order to facilitate the services that are offered by OLC generally. We may also put Personal Information to other uses, which may include communicating information and offers to customers; to better understand, analyze, and respond to our customers’ needs and preferences, and to subsequently develop, enhance, and/or provide products and services to meet those needs. 
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
-Your Personal Information may also be used by us to contact you regarding other products or services which may be of interest to you. Your Personal Information may be combined with other Personal Information collected by us to provide aggregate statistical information about customers’ service usage preferences. We reserve the right to access and/or disclose Personal Information where required to comply with applicable laws or lawful government requests or, in our reasonable opinion.
+We use “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use (as amended for government websites) and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
-Your Personal Information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of OLC or any of its affiliates or franchisees. OLC may also disclose your Personal Information to one or more of their respective subsidiary and parent companies and businesses, and other affiliated legal entities and businesses who are under common corporate control. However, all of the parent, subsidiary and affiliated legal entities and businesses of OLC that receive your Personal Information will comply with the terms of this privacy policy with respect to their use and disclosure of such Personal Information. 
+Google Analytics employs cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website. According to Google, the data collected cannot be altered or retrieved by services from other domains.
 
-  3. #### Consent
+If you choose, you can opt out by turning off cookies in the preferences settings in your web browser.
 
-We try to ensure that you understand how we use your Personal Information. One of the ways this is done is by obtaining your consent. Consent may be either express or implied. Express consent is given when we specifically ask you if it acceptable to you that we gather certain information and you explicitly agree that it is. Implied consent occurs when you provide information that may be Personal Information without objection. As we obtain only the information necessary to assist you with the transaction you require, we operate under the understanding that you have agreed to provide us with this Personal Information voluntarily and with knowledge of this Policy whenever you do so. 
+**Communications**  
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send.
 
-  4. #### Cookies
+**Compliance With Laws**  
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.
 
-Like most websites, this Site uses cookies to keep track of your activity on the website and enhance your experience on the website. We also use cookies to deliver content specific to your interests, and if you choose, to save other Personal Information so you do not have to re-enter it each time you visit the Site. If you wish to disable these cookies, the “help” portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the website.
+**Business Transaction**  
+If we are involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-  5. #### Storage of Personal Information
+**Security**  
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-We store the Personal Information you provide to us in our computer databases. We own, maintain and operate our computer servers containing our databases. We use firewalls and other security measures to protect our servers.
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-  6. #### No Sharing, Selling, or Bartering of Your Personal Information
+**Children’s Privacy**  
+Our Site does not address anyone under the age of 13 (“Children”). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-We will not give, sell, rent, or loan any of your Personal Information to any third party (with the exception of third parties performing functions on our behalf who have an obligation to keep your information completely confidential or a third party who buys our business) unless you have authorized us to do so.
+**Changes To This Privacy Policy**  
+This Privacy Policy may be updated from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-  7. #### Site Usage Information
-
-Like most web sites, this Site gathers traffic patterns, site usage information and other aggregated data in order to evaluate our visitors’ preferences and the effectiveness of our Site. This aggregate usage data does not identify you individually. We may share anonymous, aggregated statistics about visitors to our Site with others outside our company, or we may allow third-parties to collect aggregate data through our Site.
-
-  8. #### Access
-
-We will advise you on request about what Personal Information about you that we have collected, as well as how it has or will be used. If you provide a written request for this information, we will provide it to you within a reasonable time following confirmation of your identity and may charge a reasonable cost (e.g. photocopying, mail charges) to the individual making the request. We will inform you whether or not we hold Personal Information about you and, when possible, the source of the Information, its use, and any parties to whom it may have been disclosed. You may be required to provide sufficient proof of your identity at this time to ensure the safety and security of the Personal Information we hold and that it is provided to individuals in accordance with this Policy. We reserve the right to decline to provide access to Personal Information where the information requested would disclose: Personal Information of another individual or of a deceased individual; is not readily retrievable and the burden or cost of providing would be disproportionate to the nature or value of the information; does not exist, is not held, or cannot be found by us; could reasonably result in serious emotional harm to the individual or another individual, or serious bodily harm to another individual; or may harm or interfere with law enforcement activities and other investigative or regulatory functions of a body authorized by statute to perform such functions. We will not respond to repetitious or vexatious requests for access. 
-
-  9. #### Security of Your Personal Information
-
-We operate secure data networks protected by industry standard firewall and password protected systems, and maintain physical, electronic and procedural safeguards to guard the integrity and privacy of these servers and of your Personal Information. Although we can’t guarantee that there will never be a security problem, we and our agents that have access to your information carefully guard against the loss, misuse or alteration of the information we collect on our Site.
-
-  10. #### Changes in Our Privacy Policy
-
-We reserve the right to change our Privacy Policy from time to time — for example, by altering our policy on sharing Personal Information. Be sure to check this page periodically for updates.
-
-  11. #### Governing Law
-
-OLC controls and operates this Site in Canada. Our online privacy practices are governed by the laws of Canada and Ontario, which may differ from privacy laws in your province, state or home country. By submitting your Personal Information to this Site or to OLC by any other means, you consent to the transfer of your Personal Information to any country and its use and disclosure in accordance with Canadian federal and Ontario provincial law and with this Privacy Policy.
-
-  12. #### For More Information
-
-If you have any questions regarding this Privacy Policy or the privacy practices of OLC or its affiliates, please contact us by sending an email to privacyofficer@oxfordlearning.com or writing to us at Oxford Learning Centre Head Office, 747 Hyde Park Road, Suite 230, London, ON, N6H 3S3, Attention: Chief Privacy Officer.
-
-
-
+**Contact Us**  
+If you have any questions about this Privacy Policy, please contact us.
