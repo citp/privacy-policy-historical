@@ -1,21 +1,101 @@
-> *The following text is extracted and transformed from the tastyblogsnack.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226050011id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyblogsnack.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419223718id_/http%3A//ijustine.com/privacy) for the most accurate reproduction.*
 
-# (mt) Media Temple - Company - Legal - Privacy Policy
+# Privacy – iJustine
 
-(mt) Media Temple, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which (mt) Media Temple protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by (mt) Media Temple, including mediatemple.net, and ac.mediatemple.net. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+Welcome to iJustine, a website (the "Website") licensed by Flutter, Inc, ("Flutter", "We" or "Us"). This Privacy Policy (the "Privacy Policy") along with the Terms of Use provides the terms and conditions governing your use of this Website. Flutter provides intriguing web content, ideas, images, advertising and messages about news, entertainment, health and culture for its community platforms, brands, partners and advertisers.
 
-**A. Personally-Identifiable Information:**
+Your privacy is important to Flutter. Therefore, we have developed a Privacy Policy that covers how we collect, use, disclose, transfer and store your information. Please take a moment to familiarize yourself with our Privacy Policy. By using Flutter you agree to the terms of this Privacy Policy. This Privacy Policy also applies to users that have agreed to receive e-mail marketing from Flutter and joint marketing advertisers that collaborate with Flutter, whether via email, on third party websites, via co-registration or otherwise.
 
-(mt) Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to (mt) Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want (mt) Media Temple to use this information for additional purposes. You may also request that (mt) Media Temple not use your information by sending an e-mail to contact@mediatemple.net, however, (mt) Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your (mt) Media Temple services. Absent any instructions from you, (mt) Media Temple may use information you provide to inform you about additional services and products offered by the (mt) Media Temple family of companies, (mt) Media Temple venture companies, (mt) Media Temple authorized agents, and other goods and services providers with whom (mt) Media Temple has relationships and whose offerings might be of interest to you. (mt) Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those (mt) Media Temple sites where you may provide (mt) Media Temple with credit card or other ordering information via the web, (mt) Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, (mt) Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
+#### 1\. Collection and Use of Personal Information
 
-**B. Non Personally-Identifiable (Generic) Information:**
+You may be asked to provide your personal information anytime you are in contact with Flutter or an affiliated company, when you use our Website. Flutter and its affiliates may share this personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content and advertising. You agree to provide information, which shall be true, correct and accurate, based on your knowledge. You may amend, alter or require deletion of certain details of your information by contacting the Website at the contact details provided, below.
 
-In general, (mt) Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the (mt) Media Temple sites visited. (mt) Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about (mt) Media Temple services). (mt) Media Temple does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the AccountCenter. 
+Your information may also be stored and processed in a country other than the one where you use the Website. For purposes of sharing or disclosing data in accordance with the Privacy Policy, Flutter reserves the right to transfer your information outside of your country. By using the Website, you consent to any such transfer of your information outside of your country and also within Flutter's affiliates, subsidiaries and partners whose personnel and subcontractors, shall have access to the same provided they have agreed to abide by the terms of the Privacy Policy and the applicable data protection laws. To make sure your personal information is secure; we communicate our privacy and security guidelines to Flutter employees and enforce privacy safeguards within Flutter.
 
-**C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+This Website is not directed towards minors. We do not knowingly collect personal information from any person who is under 18 years. If we learn that we have collected the personal information of a person below the age of 18 years, we will take steps to delete the information within a reasonable time frame. If a parent or guardian becomes aware that his or her child has provided the Website with any information without their consent, he or she should contact Flutter at the contact details provided in this Privacy Policy. You as an adult should be rightfully aware, that by entering information willfully and knowingly, you have entered into a binding contract with the Website.
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website (mt) Media Temple may host for you as part of your (mt) Media Temple services, is available to anyone else who visits that space. (mt) Media Temple cannot safeguard any information you disclose in these locations. Additionally, (mt) Media Temple websites contain links to sites that belong to third parties unrelated to (mt) Media Temple. (mt) Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+Given below are some examples of the type of personal information that Flutter may collect and how we may use it. You are advised to read the same.
 
-**D. Exceptions and Limitations:**
+#### What personal information we collect:
 
-Notwithstanding the foregoing and in compliance with applicable laws, (mt) Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to (mt) Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, (mt) Media Temple may be required to disclose personally identifiable information. In addition, (mt) Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate (mt) Media Temple; or (iii) to protect the rights or property of (mt) Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, (mt) Media Temple reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to (mt) Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be (mt) Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by (mt) Media Temple; and (iii) agrees to the obligations of this policy statement.
+When you submit information upon registration, we may collect a variety of information, including your name, password, mailing address, phone number, email address and contact preferences, including any other usage and interaction details with Flutter, or a Flutter affiliated company. You may be required to update your information from time to time for which you shall be sent notifications.
+
+#### How we use your personal information:
+
+  * The personal information we collect allows us to keep you posted on Flutter's latest product announcements, software updates and upcoming events, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages. It also helps us to improve our services, content and advertising. If you do not want to be on our mailing list, you can opt out at anytime by updating your preferences on the Website.
+  * We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising and to personalize and improve your experience.
+  * From time to time, we may use your personal information to send important notices, such as communications and changes to our terms, conditions and policies. Since, this information is important to your interaction with Flutter, you cannot opt out of receiving these communications.
+  * We may also use personal information for internal purposes such as auditing, data analysis and research to improve Flutter's products, services and customer communications.
+  * To register for an account with us to build an application.
+
+
+
+#### 2\. Collection and Use of Non-Personal Information
+
+We also collect non-personal information (data in a form that does not permit direct association with any specific individual). We may collect, use, transfer and disclose non-personal information for any purpose.
+
+Given below are some examples of non-personal information that we collect and how we may use it:
+
+  * We may collect information such as industry, language, pin code, area code, unique device identifier, location and the time zone, where a Flutter product is used so that we can better understand customer behavior and improve our products, services and advertising.
+  * We also may collect information regarding customer activities on our Website and from our other products and services. This information may be aggregated and used to help us provide more useful information to our customers and to understand which parts of our Website, products and services are of most interest. Such aggregated data shall be considered as non-personal information for the purposes of this Privacy Policy.
+
+In the event we combine any non-personal information along with any personal information, the combined information will be treated as personal information for as long as it remains combined.
+
+#### 3\. Cookies and Other Technologies
+
+Flutter's Website, online services, email messages and advertisements may use "cookies" and other technologies such as pixel tags. These technologies help us better understand user behavior, tells us which parts of our Website users have visited and facilitates and measures the effectiveness of advertisements and web searches. A cookie is a small piece of information that a website can send to your browser which may then be stored on your computer's hard drive. It acts as an anonymous tag that identifies your computer, but not you personally. Cookies have the ability to store information about web pages viewed and the advertisements viewed or clicked. For registered customers, cookies can also save user information and screen preferences. We treat information collected by cookies and other technologies as non-personal information.
+
+However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by law, we also treat these identifiers as personal information.
+
+Flutter and its affiliates use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests and measure the effectiveness of advertising campaigns. This helps Flutter improve the quality of its service by storing user preferences, improves search results and advertisement selection and tracks user trends. If you do not want to receive advertisements with this level of relevance, you can opt out by contacting Flutter through the contact details provided below. However, if you choose to opt out, you will continue to receive the same number of advertisements, but they may be less relevant because they will not be based on your interests. You may still see advertisements related to the content on a web page or in an application or based on other non-personal information. This opt out applies only to Flutter advertising services and does not affect interest-based advertising from other advertising networks.
+
+Flutter and its affiliates also use cookies and other technologies to remember personal information when you use our Website, online services and applications. Our goal, in these cases, is to make your experience with Flutter more convenient and personal.
+
+If you want to disable cookies you can modify your settings on your browser in order to reject automatic acceptance of cookie. Please check with your provider to find out how to disable cookies. Please note that certain features of the Website may not be available once cookies are disabled.
+
+We gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, internet service provider (ISP), referring and exit pages, operating system, date/time stamp and click-stream data. We use this information to understand and analyze trends, to administer the Website, to learn about user behavior on the Website and to gather demographic information about our user base as a whole. Flutter and its affiliates may use this information in marketing and advertising services as well.
+
+Pixel tags, also known as a clear GIF or web beacon, are invisible tags placed on certain pages of our website but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies, the pixel tag will simply detect an anonymous website visit. Pixel tags enables Flutter to send email messages in such a format that customer can read and they tell us whether the email has been opened by the customer. We may use this information to reduce or eliminate messages sent to customers.
+
+#### 4\. Disclosure to Third Parties
+
+At times Flutter may make certain personal information available to strategic partners that work with Flutter to provide products and services, or that help Flutter market to customers, such as a credit card processing company to bill you for services or an email service provider to send out emails on our behalf. Personal information will only be shared by Flutter to provide or improve our products, services and advertising, however, it will not be shared with third parties for their marketing purposes. You shall be contacted for a confirmation on any of your personal information being shared with a third party and if you wish not to share any such information with the third party, Flutter shall respect such request.
+
+#### 5\. Information Sharing
+
+Notwithstanding anything contained to the contrary, your information may be shared by Flutter:
+
+    * (i) with its legal counsel/s or upon a law enforcement agency's request or in response to a legal process (for instance, in response to a court order or a subpoena);
+    * (ii) during investigations, for prevention of any illegal activities or suspected fraud;
+    * (iii) situations involving potential threats to the physical safety of any person;
+    * (iv) violations of any of the terms of the Policy and to verify or enforce compliance with the policies governing the Website or its Applications and applicable laws or as otherwise required or permitted by law or as consistent with the legal requirements of United States of America;
+    * (v) to operate its systems properly including sharing with Flutter's affiliates; or
+    * (vi) to protect other Website users; or
+    * (vii) with third party subcontractors solely for the purpose of or in connection with the services, who are contractually bound to protect your information from unauthorized use or transfer.
+
+Additionally, in the event of reorganization, bankruptcy, merger, or sale of company assets, financing, or acquisition of all or a portion of our business to another company, we may transfer any and all personal information we collect to the relevant third party. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this.
+
+#### 6\. Security
+
+The security of your personal information is important to us. Flutter takes precautions, including administrative, technical and physical measures, to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, disclosure, alteration and destruction. When you enter sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). This Website has various electronic, procedural and physical security measures in place to protect the loss, misuse and alteration of information, or any accidental loss, destruction or damage to data. When you submit your information via the Website, your information is protected through Flutter 's security systems. There may be instances where Flutter requires proof of identity before disclosing any of your information to you. You agree to be responsible to protect the security of your username and password and other registration details, if any.
+
+Flutter may create links to other websites. You are requested to be aware that Flutter does not provide any personally identifiable information to such other websites and that it is not responsible for the privacy practices of third parties. You agree that Flutter cannot control these links and Flutter shall not be responsible for any use of such websites. If you have any questions about the security at the Website, you may contact us. Please be aware, however, that despite our efforts, no security measures are impenetrable.
+
+#### 7\. Integrity and Retention of Data
+
+Flutter makes it easy for you to keep your personal information accurate, complete and up to date. We will retain your personal information and any data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+#### 8\. Modification
+
+Flutter reserves the right to amend this Privacy Policy at any time. The policies, as and how modified, shall be updated on the Website and the same shall be notified on the Website. We encourage you to review this Privacy Policy whenever you visit our Website s to understand how your personal information is used.
+
+#### 9\. Contact for any Questions
+
+In case, you have any questions about this Privacy Policy, or this Website, or your dealings with this Website, you may contact a representative of Flutter by e-mailing us at help@flutter.co.
+
+#### 10\. Unsubscribe
+
+The Website provides the user the opportunity to stop receiving communications from Flutter. In order to do this, you need to send an e-mail to help@flutter.co.
+
+
+
