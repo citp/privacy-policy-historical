@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055033id_/http%3A//noisebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419191242id_/http%3A//www.noisebot.com/privacy.htm) for the most accurate reproduction.*
 
-# NoiseBot.com Funny T-Shirts - Privacy Policy
+# Privacy Policy | NoiseBot.com
 
 Here's the deal, straight-up: NoiseBot.com is 110% committed to respecting your privacy. You can rest assured that your personal information will not be sold, reused, rented, disclosed, or loaned to anyone. Any information that you provide will be handled with the utmost care and concern. If you have any questions, send an e-mail to **[hey@noisebot.com](mailto:hey@noisebot.com)**. 
 
