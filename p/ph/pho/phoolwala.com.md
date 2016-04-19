@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022044711id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419141942id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
 
 # Phoolwala.com Privacy Policy to Send Flowers Gifts to India-Phoolwala.com
 
@@ -8,7 +8,7 @@ Quick Search
 
 Same Day Flower Delivery!
 
-[ ](http://www.phoolwala.com/category/birthday-gifts/ "Express Birthday Flowers Delivery") [ ](http://www.phoolwala.com/products/express-delivery/ "Send Sameday Gifts To India")
+[ ](http://www.phoolwala.com/products/golden-n-silver-roses/ "Golden N Silver Roses") [ ](http://www.phoolwala.com/products/express-delivery/ "Send Sameday Gifts To India")
 
 **Privacy Policy: Phoolwala.com**
 
