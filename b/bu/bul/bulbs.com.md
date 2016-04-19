@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052553id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419093132id_/http%3A//www.bulbs.com/yrprivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | Bulbs.com
 
@@ -53,7 +53,7 @@ We may also record which Web site or search engine referred you to Bulbs.com. Th
 
 When you visit Bulbs.com, we send you back a cookie - a list of data that enhances your shopping convenience. This information is only available to be sent back to the computer that sent it to you so that you can create a list of those items you are purchasing. 
 
-Bulbs.com uses Google AdWords Conversion Tracking — an analytics service provided by Google that tells us how many customers click on our Google Ads and proceed to place an order on the website. This is similar to your regular customer shopping experience on the website, but in this case a cookie is only placed when you click on a Google Ad. This cookie expires in 30 days and does not identify personal information about the customer. The cookie provides conversion data as it related to the Google ad that was clicked — allowing Bulbs.com to provide a better website experience to its customers. Users who do not want to participate in this tracking can easily disable the Google conversion tracking cookie on their Internet browser via the user settings. See the [Google Privacy Policy](http://www.google.com/policies/privacy/) for more information about conversion tracking and the ability to opt out. 
+Bulbs.com uses Google AdWords Conversion Tracking &8212; an analytics service provided by Google that tells us how many customers click on our Google Ads and proceed to place an order on the website. This is similar to your regular customer shopping experience on the website, but in this case a cookie is only placed when you click on a Google Ad. This cookie expires in 30 days and does not identify personal information about the customer. The cookie provides conversion data as it related to the Google ad that was clicked &8212; allowing Bulbs.com to provide a better website experience to its customers. Users who do not want to participate in this tracking can easily disable the Google conversion tracking cookie on their Internet browser via the user settings. See the [Google Privacy Policy](http://www.google.com/policies/privacy/) for more information about conversion tracking and the ability to opt out. 
 
 Back to top
 
