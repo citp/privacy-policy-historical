@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806075050id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.in privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419195845id_/https%3A//www.online.citibank.co.in/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Citibank
 
