@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the coinmama.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031703id_/https%3A//www.coinmama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinmama.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419042846id_/https%3A//www.coinmama.com/privacy-policy) for the most accurate reproduction.*
 
-# Conimama Privacy Policy | CoinMama
+# Coinmama | Privacy policy
 
 **GENERAL**
 
-As used herein, « Coinmama » refers to the website Coinmama.com, including without limitation thereby, its owners, directors, investors, employees or other related parties. Depending upon context, « Coinmama » may also refer to the services, products, Site, content or other materials (collectively, « Materials ») provided by Coinmama.
+As used herein, “Coinmama” refers to the website Coinmama.com, including without limitation thereby, its owners, directors, investors, employees or other related parties. Depending upon context, “Coinmama” may also refer to the services, products, Site, content or other materials (collectively, “Materials”) provided by Coinmama.
 
-Coinmama and its affiliates (hereinafter,  » Coinmama « , « we », « us » or « our ») are committed to protecting and respecting your privacy.
+Coinmama and its affiliates (hereinafter, ” Coinmama “, “we”, “us” or “our”) are committed to protecting and respecting your privacy.
 
-This Privacy Policy (together with our Terms of Use) governs our collection, processing and use of your Personal Information. We define « Personal Information » as information that identifies you personally, e.g. your name, address, e-mail address, trades, banking details, etc.
+This Privacy Policy (together with our Terms of Use) governs our collection, processing and use of your Personal Information. We define “Personal Information” as information that identifies you personally, e.g. your name, address, e-mail address, trades, banking details, etc.
 
 The purpose of this Privacy Policy is to inform you of:
 
@@ -43,12 +43,14 @@ We may use your Personal Information for the following purposes:
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you);
   * To analyze use of our Site;
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs;
-  * To undertake a verification or your identity with our third party electronic identification provider as per the Money Laundering Regulations 2007 and AML policy.
+  * To undertake a verification or your identity with our third party electronic identification provider as per the Money Laundering Regulations 2007 and AML policy.
   * To process transactions. Your information, whether public or private, will not be sold, exchanged, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer;
   * To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.;
   * To administer a contest, promotion, survey or other site feature.
 
 
+
+We may and will share your Personal Information with third party payment processors in order to allow payment processing using these third parties.
 
 We will process your Personal Information only for the purpose(s) for which it has been provided to us.
 
@@ -70,7 +72,7 @@ By using our Site you are agreeing that we may use cookies for the purposes set 
 
 We use the Personal Information for the purposes indicated at the time you provide us with such information, and/or otherwise for the purposes set out in this Privacy Policy and/or as otherwise permitted by law.
 
-You acknowledge that by using our Services and Your acceptance of these Terms of Use that you will be providing us with Personal Information. You consent to us disclosing that information where we are required by law to third parties for electronic identification purposes as outlined above.
+You acknowledge that by using our Services and Your acceptance of these Terms of Use that you will be providing us with Personal Information. You consent to us disclosing that information where we are required by law to third parties for electronic identification purposes as outlined above.
 
 Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -84,7 +86,7 @@ We do not control those third party sites or any of the content contained therei
 
 **CORRECTION/UPDATING/DELETION OF PERSONAL INFORMATION**
 
-You have the right to access your Personal Information and to require the correction, updating and blocking of inaccurate and/or incorrect data by sending an email to us at: [support@coinmama.com](mailto:support@coinmama.com) Coinmama will action your request only where this is not inconsistent with its Terms of Use, legal and regulatory obligations.
+You have the right to access your Personal Information and to require the correction, updating and blocking of inaccurate and/or incorrect data by sending an email to us at: [support@coinmama.com](https://www.coinmama.com/cdn-cgi/l/email-protection#e3909693938c9197a3808c8a8d8e828e82cd808c8e) Coinmama will action your request only where this is not inconsistent with its Terms of Use, legal and regulatory obligations.
 
 Upon your written request, we will provide you of the Personal Information relating to you that we hold and the use and general disclosure of your Personal Information.
 
@@ -114,4 +116,4 @@ Platform: hardware and software technologies which are used by Coinmama to provi
 
 **CONTACT US**
 
-If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices as it or they relate to the Platform, please contact us at the following e-mail address: [support@coinmama.com](mailto:support@coinmama.com)
+If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices as it or they relate to the Platform, please contact us at the following e-mail address: [support@coinmama.com](https://www.coinmama.com/cdn-cgi/l/email-protection#34474144445b464074575b5d5a595559551a575b59)
