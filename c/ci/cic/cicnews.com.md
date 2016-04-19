@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026091316id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419220115id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
 # CIC NEWS - Privacy Policy
 
