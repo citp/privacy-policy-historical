@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206124934id_/http%3A//www.lookingyourbest.com/info/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookingyourbest.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420014653id_/http%3A//www.lookingyourbest.com/privacy-statement) for the most accurate reproduction.*
 
 # LookingYourBest.com - Your Plastic Surgery Resource
 
 Please read this privacy statement carefully. (Read Terms and Conditions related to using this website.) Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this LOOKINGYOURBEST.COM web site. By using this web site, you agree to the terms of the most recent version of this Privacy Statement. You may be subject to additional terms that may apply when you access particular services or materials on certain areas in this web site, or by following a link from this web site.
 
 What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
-What Does LOOKINGYOURBEST.COM Do with Non-personal Information?  
 What Is Personal Information?  
 How Does LOOKINGYOURBEST.COM Keep and Use Personal Information?  
 Does LOOKINGYOURBEST.COM Ever Share Personal Information with Third Parties?  
 What About Privacy on Other Web Sites?  
 Does LOOKINGYOURBEST.COM Ever Communicate Directly with Visitors to This Web Site?  
-Are There Special Rules About Children's Privacy?  
+Are There Special Rules About Children’s Privacy?  
 What About Web Site Security?  
 Consult or Email a Doctor  
 What About Spam and Doctor Email?  
@@ -35,7 +34,7 @@ Non-personal information is information we collect through this web site that do
 
 
 
-If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer's web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computer�s hard drive. The information that we collect using cookies is non-personal information. US Government Information Bulletin (I-034) contains a good description of cookie technology at: http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties to place cookies on our web site.
+If you visit our web site to read or download information, such as information about a health condition or about one of our products, we may collect certain non-personal information about you from your computer. This information is collected from your computer’s web browser: If you only read or download information on our web site, we do not collect or learn your name, e-mail address, home address, or other personal information about you. We may place a text file called a cookie in the browser files of your computer when you visit. The cookie may be stored on your computer�s hard drive. The information that we collect using cookies is non-personal information. US Government Information Bulletin (I-034) contains a good description of cookie technology at: http://www.ciac.org/ciac/bulletins/i-034.shtml. You are always free to decline our cookies if your browser permits, but some parts of our web site may not work properly for you if you do so. We will not allow third parties to place cookies on our web site.
 
 **What Does LOOKINGYOURBEST.COM Do with Non-personal Information?**
 
@@ -44,7 +43,7 @@ Because non-personal information cannot identify you or be tied to you in any wa
   * create reports for internal use to develop programs, products, services or content
   * customize the information or services that are of interest to you
   * share it with or sell it to third parties
-  * provide aggregated "traffic statistics" and "response rates" to third parties
+  * provide aggregated “traffic statistics” and “response rates” to third parties
 
 
 
@@ -77,7 +76,7 @@ We may keep and use personal information we collect from you through this web si
   * to remove your personal identifiers (your name, e-mail address, social security number, etc). In this case, you would no longer be identified as a single unique individual. Once we have de-identified information, it is non-personal information and we may treat it like other non-personal information.
   * to enforce this Privacy Statement and other rules about your use of this web site
   * to protect our rights or property
-  * to protect someone's health, safety or welfare
+  * to protect someone’s health, safety or welfare
   * to comply with a law or regulation, court order or other legal process
 
 
@@ -91,7 +90,7 @@ We may disclose your personal information to third parties if we feel that the d
 
   * enforce this Privacy Statement and the other rules about your use of this web site
   * protect our rights or property
-  * protect someone's health, safety or welfare
+  * protect someone’s health, safety or welfare
   * comply with a law or regulation, court order or other legal process
 
 
@@ -100,7 +99,7 @@ Please note: In addition to the ways that we may keep, disclose, and use informa
 
 **What About Privacy on Other Web Sites?**
 
-This web site may contain links to other web sites. We provide the links for your convenience, but we do not review, control, or monitor the privacy practices of web sites operated by others. This Privacy Statement does not apply to any other web site. We are not responsible for the performance of web sites operated by third parties or for your business dealings with them. Therefore, whenever you leave this web site we recommend that you review each web site's privacy practices and make your own conclusions regarding the adequacy of these practices.
+This web site may contain links to other web sites. We provide the links for your convenience, but we do not review, control, or monitor the privacy practices of web sites operated by others. This Privacy Statement does not apply to any other web site. We are not responsible for the performance of web sites operated by third parties or for your business dealings with them. Therefore, whenever you leave this web site we recommend that you review each web site’s privacy practices and make your own conclusions regarding the adequacy of these practices.
 
 back to top
 
@@ -108,9 +107,9 @@ back to top
 
 We may contact you periodically by e-mail, mail or telephone to provide information regarding programs, products, services and content that may be of interest to you. In addition, some of the features on this web site allow you to communicate with us using an online form. If your communication requests a response from us, we will send you a response via e-mail. The e-mail response or confirmation may include your personal information, including personal information about your health, your name, address, etc. We cannot guarantee that our e-mails to you will be secure from unauthorized interception.
 
-**Are There Special Rules About Children's Privacy?**
+**Are There Special Rules About Children’s Privacy?**
 
-We care about protecting the online privacy of children. We will not intentionally collect any personal information (such as a child's name or e-mail address) from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please contact us.
+We care about protecting the online privacy of children. We will not intentionally collect any personal information (such as a child’s name or e-mail address) from children under the age of 13. If you think that we have collected personal information from a child under the age of 13, please contact us.
 
 What About Web Site Security?
 
@@ -118,7 +117,7 @@ We take reasonable steps to protect your personal information from loss, misuse,
 
 **Consult or Email a Doctor**
 
-The purpose of the form is to allow potential clients to use Looking Your Best as a resource for scheduling a consultation, or asking a question about a procedure for, from, or with a Doctor registered with the site. If you are asking for money, pro-bono work or unpaid consultatory advice, arranging contact with a third party, or in general your intent is not to visit the Doctor's office to discuss your own plastic surgery procedures, the next section applies to you. If you have any questions regarding this paragraph, please [contact](mailto:info@lookingyourbest.com) the website administration.
+The purpose of the form is to allow potential clients to use Looking Your Best as a resource for scheduling a consultation, or asking a question about a procedure for, from, or with a Doctor registered with the site. If you are asking for money, pro-bono work or unpaid consultatory advice, arranging contact with a third party, or in general your intent is not to visit the Doctor’s office to discuss your own plastic surgery procedures, the next section applies to you. If you have any questions regarding this paragraph, please [contact](mailto:info@lookingyourbest.com) the website administration.
 
 back to top
 
