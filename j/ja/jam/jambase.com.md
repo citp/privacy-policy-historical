@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082737id_/http%3A//www.jambase.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419042113id_/http%3A//www.jambase.com/privacy) for the most accurate reproduction.*
 
-# About Us > Privacy on JamBase
-
-### Privacy Policy
-
-JamBase is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+# Privacy Policy - JamBase
 
 ### Consumer Information
 
@@ -19,6 +15,14 @@ Cookies are not required in order to access JamBase, but JamBase does use cookie
 ### Security
 
 We take all reasonable steps to protect personal information and we use technology such as encryption, access control procedures, firewalls and physical security. By using this Web site or registering for any JamBase service, you agree to the terms and conditions of this Privacy Policy. Without limitation of the foregoing, you understand and agree that (1) the information collected by JamBase may be stored indefinitely, (2) JamBase may store, access and use the information in any jurisdiction, including jurisdictions in which the privacy laws may be different and less protective than those in your home jurisdiction and (3) JamBase may collect, process, use and disclose the information for a variety of purposes, including, without limitation, direct marketing by JamBase, advertisers and limited third parties to which JamBase may disclose the information.
+
+### Registration, Login and Authentication
+
+By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.
+
+#### Facebook Authentication (Facebook, Inc.)
+
+Facebook Authentication is a registration and authentication service provided by Facebook, Inc. and is connected to the Facebook social network. Personal Data collected: various types of Data as specified in the privacy policy of the service. Place of processing: US - [Facebook Authentication Information](https://www.facebook.com/help/405977429438260)
 
 ### Advertising
 
