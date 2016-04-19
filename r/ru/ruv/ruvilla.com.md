@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruvilla.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414015206id_/http%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruvilla.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419060255id_/https%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Villa
 
@@ -102,11 +102,11 @@ For your convenience and information, our websites may contain links to other si
 
 For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact VILLA by email, telephone, or postal mail:
 
-**VILLA Customer Services**
+**VILLA Internet Customer Service**
 
 1926 Arch Street, 3R,  
 Philadelphia, PA 19103
 
-Phone (215) 279-5688   
+Phone 844 RUVILLA | 844-788-4552   
 Fax (215) 279-5599  
 [custserv@ruvilla.com](mailto:custserv@ruvilla.com)
