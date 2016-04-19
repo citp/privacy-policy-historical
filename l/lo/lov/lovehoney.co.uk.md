@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013021441id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419222124id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
@@ -26,7 +26,9 @@ If you wish to remove these cookies, you can do so by following [these instructi
 
 We hate junk mail too!
 
-We will email you to process your order and afterwards to introduce you to the benefits of our loyalty programme. Only Lovehoney will use your email address. We will never pass on your email address or personal information to a third party for marketing purposes. We will provide your email address to delivery services for the sole purpose of sending you tracking notifications for your delivery.
+We will email you to process your order and afterwards to introduce you to the benefits of our loyalty programme. We will never pass on your email address or personal information to a third party for marketing purposes. We will provide your email address to delivery services for the sole purpose of sending you tracking notifications for your delivery.
+
+To ensure we always provide you with the top-notch service you deserve, Lovehoney work closely with the independent reviews database [Trustpilot](https://uk.trustpilot.com/review/www.lovehoney.co.uk). You will receive a final email once your order is complete to ask you to rate your experience shopping with us.
 
 When you join the Lovehoney email newsletter, you can unsubscribe at any time by clicking the unsubscribe link that is at the bottom of every message that we send. Or you can send a message to our customer care department and we will unsubscribe you.
 
@@ -38,19 +40,17 @@ Personal information you provide is used by us only for the following purposes:
 
 • With your permission, to notify you of products or special offers that may be of interest to you
 
-We do not sell or otherwise share your information with any third party. We use your information exclusively as stated within this Policy.
-
 We may share your personal information with members of Lovehoney's group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
 
 If we sell or buy any business or assets, we may disclose such information to the prospective seller or buyer of such business or assets as may reasonably be required.
 
-Our site may contain links to other web sites that are not owned or operated by us. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies. Please refer to the privacy policy of the third party web site for guidance on the operation, function and management of that web site. You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email).
+Our site may contain links to other websites that are not owned or operated by us. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies. Please refer to the privacy policy of the third party web site for guidance on the operation, function and management of that web site. You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email).
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the Internet may not be completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to prevent unauthorised access.
+Unfortunately, the transmission of information via the internet may not be completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to prevent unauthorised access.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy and how they affect you.
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy and how they affect you.
 
 The Data Protection Act (the "Act") has various provisions which ensure that any person who has access to your personal information must comply with strict rules.
 
