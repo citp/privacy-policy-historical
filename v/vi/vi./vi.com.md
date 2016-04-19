@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235751id_/http%3A//www.vi.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vi.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419035643id_/http%3A//www.vi.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vi
 
@@ -80,6 +80,6 @@ ViSalus™
 340 E. Big Beaver Rd Suite 400  
 Troy, MI 48084
 
-By Phone: Member Support at 1-877-847-2587
+By Phone: Member Support at 1-248-764-7640
 
 By E-mail: [info@visalus.com](mailto:info@visalus.com)
