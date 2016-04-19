@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playwarren.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928172847id_/https%3A//www.playwarren.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playwarren.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419094632id_/https%3A//www.playwarren.com/privacy) for the most accurate reproduction.*
 
 # Play Warren | Privacy Policy
 
 PlayWarren.com (“the Operator”) knows that You care how information about You is used and shared and is committed to protecting your personal information. The Operator wants its services to be safe and enjoyable for everyone. This Policy aims to help you understand what information the Operator might collect about You and how the Operator uses that information.
 
-By visiting the Website having domain name [www.PlayWarren.com](https://web.archive.org/web/20140928172847id_/https%3A//www.playwarren.com/www.PlayWarren.com) including any of its sub-domains and links thereon, (and by accessing or using any Service or Software available from the Operator through this Website or which is available for download through third party applications) You are accepting and consenting to the practices described in this Privacy Policy.
+By visiting the Website having domain name [www.PlayWarren.com](https://web.archive.org/web/20160419094632id_/https%3A//www.playwarren.com/www.PlayWarren.com) including any of its sub-domains and links thereon, (and by accessing or using any Service or Software available from the Operator through this Website or which is available for download through third party applications) You are accepting and consenting to the practices described in this Privacy Policy.
 
 The Operator complies with the data protection laws of California. Any personal information provided to or gathered by the Operator is controlled by the Operator (acting as the data controller in terms of data protection laws).
 
