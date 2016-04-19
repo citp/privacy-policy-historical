@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginprofitsite.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920014830id_/http%3A//www.pluginprofitsite.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginprofitsite.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419063135id_/http%3A//www.pluginprofitsite.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -84,21 +84,16 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 Stone Evans  
-1321 Upland Dr.  
-#4176  
-Houston, TX 77043  
-USA 
+18208 Preston Rd.  
+Ste D-9 #311  
+Dallas, TX 75252  
+USA
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, [contact us here](http://support.pluginprofitsite.com/) or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, [contact us here](http://support.pluginprofitsite.com/) or write us at the mailing address listed above.
 
-Stone Evans  
-1321 Upland Dr.  
-#4176  
-Houston, TX 77043  
-USA 
+[](http://www.pluginprofitsite.com/)
 
-This privacy policy was last updated on 08-30-2013.
-
-Copyright 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at PlugInProfitSite.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © Stone Evans, The Home Biz Guy  
+All rights reserved worldwide.
