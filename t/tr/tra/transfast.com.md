@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926214035id_/https%3A//transfast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfast.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419050351id_/https%3A//transfast.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TRANSFAST
+# Privacy Policy | transfast
 
 [ ](https://web.archive.org/)
 
-Policy Effective as of August 13, 2015
+Policy Effective as of August 7, 2015
 
-This Privacy Policy applies to the Site, [www.TRANSFAST.com](http://www.transfast.com/). Transfast.com is powered by Trans-Fast Remittance LLC, and in California by Trans-Fast Remittance Inc.  ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future. This privacy policy describes how TRANSFAST Remittance LLC collects and uses the personal information you provide on our web site: [www.transfast.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy applies to the Site, www.TRANSFAST.com. Transfast.com is powered by Trans-Fast Remittance LLC, and in California by Trans-Fast Remittance Inc.  ‘Site’, by definition for this agreement includes our Service application(s) available via internet/web access, mobile and smart phones, tablets, or any other technology that allows you to access the Service, which exists now or in the future. This privacy policy describes how TRANSFAST Remittance LLC collects and uses the personal information you provide on our web site: [www.transfast.com](https://transfast.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 We are committed to protecting our customers' privacy and security. This Privacy Statement explains what personal information we collect about you, with whom we share it, and how you [The user of the Service] can direct us not to share certain information with certain parties. "Personal Information" refers to information such as name and email that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
 
@@ -66,7 +66,7 @@ All TRANSFAST employees pass financial and criminal background checks as a condi
 **Testimonials**  
 We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at customersupport@transfast.com
 
-**R** **eferrals**  
+**Referrals**  
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name, email address and phone number.  We will automatically send your friend a one-time email inviting him or her to visit the site. TRANSFAST  stores  this information for the sole purpose of sending this one-time email, and for tracking the success of our referral program. 
 
 Your friend may contact us at customersupport@transfast.com, or click the "Unsubscribe" button at the end of the email  to request that we remove this information from our database.
@@ -97,6 +97,5 @@ Attn: Customer Service
 44 Wall Street, 4th floor  
 New York, NY 10005, USA
 
-  
   
 
