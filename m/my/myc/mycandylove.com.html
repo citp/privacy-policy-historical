@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycandylove.com privacy policy that was archived on 2015-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911220500id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycandylove.com privacy policy that was archived on 2016-04-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419102406id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head><title>My Candy Love, a game of love and flirting for girls!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -78,8 +78,8 @@ Discover new episodes regularly and meet the students at Sweet Amoris High Schoo
 	
 	<![endif]-->
 
-	<link rel="stylesheet" type="text/css" href="/theme/client/css/total-min.css¿3606811280317219277">
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/theme/client/js/total-min.js¿42190565913064882397"></script>
+	<link rel="stylesheet" type="text/css" href="/theme/client/css/total-min.css¿40183136312106735551">
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/theme/client/js/total-min.js¿12797144021438825946"></script>
 
 <!-- GPT - INIT -->
 <script type="text/javascript">
@@ -141,6 +141,11 @@ Discover new episodes regularly and meet the students at Sweet Amoris High Schoo
     Gpt.init = function() {
         googletag.cmd.push(function(){
             //Init all previous pubads
+            if(typeof districtmHeader == 'function'){
+                districtmHeader();
+            }
+            
+            //Initialise le système de publicité.
             googletag.pubads().enableSingleRequest();
             googletag.enableServices();
 
@@ -148,6 +153,14 @@ Discover new episodes regularly and meet the students at Sweet Amoris High Schoo
             for(var i=0; i<Gpt.tags.length; i++) {
                 googletag.display(Gpt.tags[i]);
             }
+
+            //Rafraichit les publicités (en cas de non changement de page).
+            googletag.pubads().refresh();
+
+            // Set timer to refresh slot every 30 seconds
+            setInterval(function(){
+                googletag.pubads().refresh();
+            }, 30000);
         });
     };
 </script>
@@ -167,7 +180,7 @@ var crtg_script=document.createElement('script');crtg_script.type='text/javascri
 if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 })();
-</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=3247&amp;cookieName=crtg_rtabeemov&amp;rnd=80648948435&amp;varName=crtg_content" async=""></script>
+</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=3247&amp;cookieName=crtg_rtabeemov&amp;rnd=14467232072&amp;varName=crtg_content" async=""></script>
 
 
 </head>
@@ -644,8 +657,8 @@ else if(document.getElementsByTagName("body").length>0)document.getElementsByTag
 
 
 	<div id="copyright">
-		<div id="copy1">© 2015 | <a href="/" title="My Candy Love"><img src="/theme/client/img/i18n/fr/minilogo.png" alt="My Candy Love"></a>
-			<a href="http://us.beemoov.com" target="_blank">Beemoov Games</a> - <a href="http://us.cromimi.com" target="_blank">Rodent breeding game</a> - <a href="http://virtualworldsforteens.com/review/my-candy-love/" target="_blank">Virtual Worlds for Teens</a> - <a href="http://www.boy-games.net" target="_blank">Boy Games</a> - <a href="http://www.activefreestuff.com" target="_blank">Active Free Stuff</a> 
+		<div id="copy1">© 2016 | <a href="/" title="My Candy Love"><img src="/theme/client/img/i18n/fr/minilogo.png" alt="My Candy Love"></a>
+			<a href="http://us.beemoov.com" target="_blank">Beemoov Games</a> - <a href="http://us.cromimi.com" target="_blank">Rodent breeding game</a> - <a href="http://virtualworldsforteens.com/review/my-candy-love/" target="_blank">Virtual Worlds for Teens</a> - <a href="http://www.funnyfashiongames.com" target="_blank">Funny Fashion Games</a> - <a href="http://www.boy-games.net" target="_blank">Boy Games</a> 
 		</div>
 		<div id="copy2">
 			<div class="copy2g">
