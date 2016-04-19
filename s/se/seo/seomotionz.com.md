@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seomotionz.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610005644id_/http%3A//seomotionz.com/%3Fpage_id%3D595) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomotionz.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419224611id_/http%3A//seomotionz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEO Motionz
+# Privacy Policy - SEO Motionz
 
 Your privacy is very important to us. Accordingly, we have developed this Policy
 
@@ -132,9 +132,7 @@ to provide advertisements about goods and services of interest to you. If you wo
 
 more information about this practice and to know your choices about not having this
 
-information used by these companies,
-
-please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+information used by these companies.
 
 **Policy Changes**
 
