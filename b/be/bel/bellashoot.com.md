@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellashoot.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214200634id_/http%3A//bellashoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellashoot.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420204853id_/http%3A//bellashoot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bellashoot
 
