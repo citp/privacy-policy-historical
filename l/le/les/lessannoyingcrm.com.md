@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325080908id_/https%3A//www.lessannoyingcrm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessannoyingcrm.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420235637id_/https%3A//www.lessannoyingcrm.com/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policies
 
@@ -40,14 +40,18 @@ If the owner of a multi-user account leaves the company, it may be necessary to 
 
 Because we store your information in multiple locations, including redundant back-ups, your information may remain on our servers after you delete your account. However, this information will never be accessed or used for any reason without your express consent. 
 
-**Cookies**
+**US-EU Safe Harbor Privacy Statement**  
+Less Annoying CRM complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Less Annoying CRM has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
 
+In compliance with the US-EU Safe Harbor Principles, Less Annoying CRM commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact Less Annoying CRM at [privacy@lessannoyingcrm.com](mailto:privacy@lessannoyingcrm.com). 
+
+Less Annoying CRM has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+
+**Cookies**  
 Less Annoying CRM, like many online services, requires the use of cookies to operate. Cookies are small pieces of data from our system that is stored on your hard drive, and contain anonymous identifiers. We use these cookies to record session information, and they do not represent a threat to your personal information's security. 
 
-**Changes to this Privacy Policy**
-
+**Changes to this Privacy Policy**  
 We reserve the right to change our Privacy Policy at any time. In the event of any substantial changes to this Privacy Policy, users will be informed through the email address listed on their account or by the information being displayed prominently on the Less Annoying CRM website. 
 
-**Questions/Comments**
-
+**Questions/Comments**  
 If you have any questions about our Privacy Policy, please do not hesitate to contact us at info@lessannoyingcrm.com. We will attempt to get back to you as soon as possible. 
