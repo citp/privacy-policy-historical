@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906102653id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reggaerecord.com privacy policy that was archived on 2016-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160420132936id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,6 @@
 <meta name="description" content="Tokyo based reggae music store with 30,000+ items in stock. Vinyl 7inch, 10inch, 12inch, LP, CD, DVD and more. Mail order service worldwide!">
 <meta name="robots" content="noindex,nofollow,archive,noodp">
 <link rel="stylesheet" href="/en/css/dubst.css" type="text/css">
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <title>Help - ReggaeRecord.com</title>
 <script language="javascript" type="text/javascript">
 <!--
@@ -18,7 +17,7 @@ depth_fix = "../";
 </script>
 <script language="javascript" type="text/javascript">
 <!--
-var myCart = new jsCart(99, 'US$', 119.066799);
+var myCart = new jsCart(99, 'US$', 109.0833);
 var last_selected_nd = "";
 var last_nd_backup = "";
 
@@ -43,8 +42,9 @@ var search_form_loaded = false;
 function showSearchForm() {
 	$('multi_search').style.display = "block";
 	$('simple_search').style.display = "none";
+	//$('multi_search_form').artist.focus();
 	document.cookie = "multi_search_form=open; path=/; expires=Tue, 1-Jan-2030 00:00:00 GMT;";
-	if (!search_form_loaded) {
+	/*if (!search_form_loaded) {
 		new Ajax.Updater
 		(
 			"multi_search",
@@ -55,13 +55,14 @@ function showSearchForm() {
 				evalScripts: true
 			}
 		);
-	}
+	}*/
 	//if ($("requery_button") != null) $("requery_button").style.display = "block";
 }
 
 function hideSearchForm() {
 	$('multi_search').style.display = "none";
 	$('simple_search').style.display = "block";
+	//$('simple_search_form').keyword.focus();
 	document.cookie = "multi_search_form=closed; path=/; expires=Tue, 1-Jan-2030 00:00:00 GMT;";
 	//if ($("requery_button") != null) $("requery_button").style.display = "none";
 }
@@ -98,7 +99,7 @@ function addToWishList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 0);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=27421419';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWishList&cart_key=35228240';
 	}
 }
 
@@ -115,7 +116,7 @@ function addToWantList(code) {
 	}
 	if (confirmed) {
 		myCart.setAmount(code, 2);
-		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=27421419';
+		location.href='/en/help/privacy.php?code=' + code + '&command=addToWantList&cart_key=35228240';
 	}
 }
 
@@ -151,305 +152,937 @@ function numberFormat(val, digits_sub_one) {
 
 -->
 </script>
-<script language="javascript" src="/js/player.js" type="text/javascript">
+<script src="/js/player.js?20151208-1826" type="text/javascript">
 </script>
-<script language="javascript" src="/js/prototype.js" type="text/javascript">
+<script src="/js/prototype.js" type="text/javascript">
 </script>
-<script language="javascript" src="/js/library.js" type="text/javascript">
+<script src="/js/library.js?20151208-1826" type="text/javascript">
 </script>
+<script src="/js/jquery.bxSlider.min.js" type="text/javascript">
+	
+</script>
+<script src="/js/require.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+require.config({
+	urlArgs: "bust=" + (new Date()).getTime(),
+    baseUrl: '/',
+    paths: {
+        'jquery': "/js/jquery-1.11.3.min",
+        'bootstrap': "/js/bootstrap.min",
+        'bxslider' : "/js/jquery.bxSlider.min"
+    },
+    shim: {
+        'bootstrap': ['jquery'],
+        'bxslider' : ['jquery']
+    },
+    map: {
+        '*': {
+            'jquery': 'jQueryNoConflict'
+        },
+        'jQueryNoConflict': {
+            'jquery': 'jquery'
+        }
+    }
+});
+define('jQueryNoConflict', ['jquery'], function ($) {
+    return $.noConflict();
+});
+if (Prototype.BrowserFeatures.ElementExtensions) {
+    require(['jquery', 'bootstrap'], function ($) {
+        // Fix incompatibilities between BootStrap and Prototype
+        var disablePrototypeJS = function (method, pluginsToDisable) {
+                var handler = function (event) {  
+                    event.target[method] = undefined;
+                    setTimeout(function () {
+                        delete event.target[method];
+                    }, 0);
+                };
+                pluginsToDisable.each(function (plugin) { 
+                    $(window).on(method + '.bs.' + plugin, handler); 
+                });
+            },
+            pluginsToDisable = ['collapse', 'dropdown', 'modal', 'tooltip', 'popover', 'tab'];
+        disablePrototypeJS('show', pluginsToDisable);
+        disablePrototypeJS('hide', pluginsToDisable);
+    });
+}
+
+require(['jquery', 'bootstrap'], function($) {
+    $(document).ready(function () {
+		$(document).on('click', '.top_selector li a', function(e) {
+			$(e.target).closest('.input-group').find('input[type=text]').val($(e.target).html());
+		});
+
+		$(document).on('click', 'a.btn-play', function(e) {
+			window.open($(this).attr('href'), $(this).attr('target'), 'width=418,height=336,menubar=0,toolbar=0,scrollbars=0,location=0,status=0,resizable=yes');
+			return false;
+		});
+
+		$(document).on('click', '.image_selector .btn-thumbnail', function(e) {
+			var $me = $(e.target);
+			var img_src = $me.attr('src');
+			var src_360 = img_src.replace(/_60\.jpg/, '_360.jpg');
+			$me.closest('.image_selector').find('img[name=main_image]').attr('src', src_360);
+		});
+
+		$(document).on('click', '.image_selector .magnify', function(e) {
+			var $me = $(e.target);
+			var src_main = $me.closest('.image_selector').find('img[name=main_image]').attr('src');
+			var src_800 = src_main.replace(/_360\.jpg/, '_800.jpg');
+			$('#image_overlay').css('visibility', 'visible');
+			if ($('.image_selector .thumbnails').length == 0) {
+				$('#image_overlay .btn-prev, #image_overlay .btn-next').css('display', 'none');
+			}
+			$('#image_overlay .image').html('<img src="' + src_800 + '" width="800" alt="" />');
+		});
+
+		$(document).on('click', '.slide_show .btn-next', function(e) {
+			var $me = $(e.target);
+			var $thumbnails = $('.image_selector .thumbnails');
+			var src_800 = $('#image_overlay').find('img').attr('src');
+			var $img_60 = $thumbnails.find('img[src$="' + src_800.replace(/_800\.jpg/, '_60.jpg') + '"]');
+			var $img_next = $img_60.next('img');
+			if ($img_next.length == 0) $img_next = $thumbnails.find('img:first-child');
+			var src_800 = $img_next.attr('src').replace(/_60\.jpg/, '_800.jpg');
+			$('#image_overlay .image img').attr('src', $img_next.attr('src').replace(/_60\.jpg/, '_800.jpg'));
+			return false;
+		});
+
+		$(document).on('click', '.slide_show .btn-prev', function(e) {
+			var $me = $(e.target);
+			var $thumbnails = $('.image_selector .thumbnails');
+			var src_800 = $('#image_overlay').find('img').attr('src');
+			var $img_60 = $thumbnails.find('img[src$="' + src_800.replace(/_800\.jpg/, '_60.jpg') + '"]');
+			var $img_prev = $img_60.prev('img');
+			if ($img_prev.length == 0) $img_prev = $thumbnails.find('img:last-child');
+			$('#image_overlay .image img').attr('src', $img_prev.attr('src').replace(/_60\.jpg/, '_800.jpg'));
+			return false;
+		});
+
+		$(document).on('click', '#image_overlay', function(e) {
+			$('#image_overlay').css('visibility', 'hidden');
+		});
+	});
+});
+
+require(['jquery', 'bxslider'], function($) {
+	$(document).ready(function() {
+		var slider = $('#slider8').bxSlider({
+			controls: false,
+		});
+		$('.thumbs a').click(function(){
+			var thumbIndex = $('.thumbs a').index(this);
+			slider.goToSlide(thumbIndex);
+			$('.thumbs a').removeClass('pager-active');
+			$(this).addClass('pager-active');
+			return false;
+		});
+		$('.thumbs a:first').addClass('pager-active');
+	})
+})
+
+-->
+</script>
+<noscript>
+<div style="width: 100%; margin-top: 20px; position:fixed !important; z-index: 9999">
+<div class="fixed_width">
+<div class="alert alert-danger">
+<h1>
+This site requires JavaScript but your browser does not support JavaScript. Please activate Javascript from security options or something like that.</h1>
+</div>
+</div>
+</div>
+</noscript>
 </head>
-<body bgcolor="#FFFFFF" onload="MM_preloadImages('/en/common_img/head_bt_top_f2.gif','/en/common_img/head_bt_shop_f2.gif','/en/common_img/head_bt_new_reggae_f2.gif','/en/common_img/head_bt_new_bass_f2.gif','/en/common_img/head_bt_new_allgenre_f2.gif','/en/common_img/head_bt_othersnew_f2.gif','/en/common_img/head_bt_sale_f2.gif','/en/common_img/head_bt_ranking_f2.gif','/en/common_img/head_bt_content_f2.gif','/en/common_img/head_bt_cart_f2.gif','/en/common_img/head_bt_my_f2.gif','/en/common_img/head_bt_rc_f2.gif','/en/common_img/head_bt_dl_f2.gif','/common_img/num_0.gif','/common_img/num_1.gif','/common_img/num_2.gif','/common_img/num_3.gif','/common_img/num_4.gif','/common_img/num_5.gif','/common_img/num_6.gif','/common_img/num_7.gif','/common_img/num_8.gif','/common_img/num_9.gif'); myCart.updateTotal(); initEventListener();">
+<body bgcolor="#FFFFFF" onload="myCart.updateTotal(); initEventListener();">
 <a name="top"></a>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:url(/common_img/head_bg.gif)">
+
+<div class="min_width" style="background:url(/common_img/head_bg.gif)">
+<div class="fixed_width">
+
+<table style="width: 100%">
 <tbody><tr>
-<td><img src="/common_img/spacer.gif" width="7" height="1" alt=""></td>
-<td><table border="0" cellspacing="0" cellpadding="0">
+<td>
+
+<table>
 <tbody><tr>
-<td rowspan="2"><table border="0" cellspacing="0" cellpadding="0">
+<td rowspan="2">
+
+<a href="http://www.reggaerecord.com/" target="_top"><img src="/common_img/head_logo.gif" width="84" height="43" style="margin-top: 5px" alt="ReggaeRecord.com"></a>
+
+</td>
+<td rowspan="2">
+
+<a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank">
+<img src="/common_img/dub_logo.gif" width="57" height="43" style="margin-top: 5px; margin-left: 10px" alt="Dub Store Sound Inc.">
+</a>
+
+</td>
+<td valign="top">
+<a href="http://www.reggaerecord.com/">
+<img src="/common_img/head_logo_2.gif" style="margin-left: 10px" alt="Online Store for Reggae &amp; Black Music - Reggaerecord.Com" width="224" height="32" border="0">
+</a>
+</td>
+<td rowspan="2" valign="bottom" nowrap="nowrap">
+
+<table class="rr-tbl nopadding">
 <tbody><tr>
-<td><img src="/common_img/spacer.gif" width="1" height="5" alt=""></td>
+<td colspan="2" valign="top">
+<h1 class="headtitle2">Reggae &amp; Black Music Online Store</h1>
+</td>
 </tr>
 <tr>
-<td><a href="http://www.reggaerecord.com/" target="_top"><img src="/common_img/head_logo.gif" width="84" height="43" border="0" alt="ReggaeRecord.com"></a></td>
-</tr>
-</tbody></table></td>
-<td rowspan="2"><img src="/common_img/spacer.gif" width="10" height="1" alt=""></td>
-<td rowspan="2"><table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><img src="/common_img/spacer.gif" width="1" height="5" alt=""></td>
-</tr>
-<tr>
-<td><a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank"><img src="/common_img/dub_logo.gif" width="57" height="43" border="0" alt="Dub Store Sound Inc."></a></td>
-</tr>
-</tbody></table></td>
-<td rowspan="2"><img src="/common_img/spacer.gif" width="10" height="1" alt=""></td>
-<td valign="top"><a href="http://www.reggaerecord.com/"><img src="/common_img/head_logo_2.gif" alt="Online Store for Reggae &amp; Black Music - Reggaerecord.Com" width="224" height="32" border="0"></a></td>
-<td rowspan="2"><img src="/common_img/spacer.gif" width="10" height="1" alt=""></td>
-<td rowspan="2" valign="bottom" nowrap="nowrap"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td colspan="2" valign="top"><h1 class="headtitle2" style="margin-top:0; margin-bottom:0;">Reggae &amp; Black Music Online Store</h1></td>
-</tr>
-<tr>
-<td><img src="/common_img/spacer.gif" width="1" height="3" alt=""></td>
-</tr>
-<tr>
-<td><table border="0" cellspacing="0" cellpadding="0">
+<td>
+
+<table style="margin-left: 10px">
 <tbody><tr>
 <td><a href="/jp/help/privacy.php"><img src="/common_img/icon_jp.gif" border="0" width="32" height="21" alt="Japanese (日本語)"></a></td><td><img src="/common_img/icon_en.gif" border="0" width="32" height="21" alt="English"></td></tr>
 <tr>
 <td align="center"></td><td align="center"><img src="/common_img/lang_ind.gif" border="0" width="5" height="4" alt=""></td></tr>
-</tbody></table></td>
-<td><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td class="txt10_bwhite" style="padding-left:4px"><form action="/en/help/privacy.php" method="post" style="margin:0px">Currency: 
+</tbody></table>
+
+</td>
+<td>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="txt10_bwhite" style="padding-left:4px">
+
+<form action="/en/help/privacy.php" method="post" style="margin:0px">Currency: 
 <select name="my_currency" onchange="this.form.submit()" class="txt10">
 <option value="us_dollar" selected="selected">USD</option>
 <option value="gbp">GBP</option>
 <option value="euro">EUR</option>
 </select>
 </form>
-</td></tr>
-</tbody></table></td>
+
+</td>
 </tr>
-</tbody></table></td>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</td>
 </tr>
 <tr>
-<td valign="bottom"><h2 class="headtitle" style="margin-bottom:0; margin-top:0;">presented by DUB STORE SOUND INC.</h2></td>
+<td valign="bottom">
+<h2 class="headtitle" style="margin: 0 0 0 10px">presented by DUB STORE SOUND INC.</h2>
+</td>
 </tr>
-</tbody></table></td>
-<td align="right" valign="top" style="padding:3px 4px 0px 0px" class="headtitle"></td>
-<td align="right" valign="top" width="100px"><table border="0" cellspacing="0" cellpadding="0">
+</tbody></table>
+
+</td>
+<td align="right" valign="top" width="100px">
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td rowspan="2"><img src="/common_img/spacer.gif" width="6" height="2" alt=""></td>
-<td align="right" valign="top" class="headtitle"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="top" style="padding:3px 4px 0px 0px"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td><img src="/img/bt_info_low_l.gif" width="15" height="15" alt=""></td>
-<td align="left" style="background-color:#D7AC00" nowrap="nowrap"><a href="/en/mypage/signup.php" class="txt10_bwhite" style="padding-right:4px;">Register</a></td>
-<td><img src="/img/bt_info_low_r.gif" width="5" height="15" alt=""></td>
-</tr>
-</tbody></table></td>
-<td><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="bottom">
-<td width="1" bgcolor="#FFFFFF"><img src="/common_img/spacer.gif" width="1" height="14" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td nowrap="nowrap"><a href="http://www.reggaerecord.com/en/cart/index.php"><font color="#FFFFFF">Shopping Cart</font></a></td>
-<td><img src="/common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" bgcolor="#FFFFFF"><img src="/common_img/spacer.gif" width="1" height="14" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="4" height="1" alt=""></td>
-</tr>
-</tbody></table></td>
-<td valign="top" align="right" style="padding:0px 8px 0px 0px; "><table border="0" cellspacing="0" cellpadding="0" style="background:url(/common_img/cart_bg.gif)">
-<tbody><tr>
-<td style="background:url(/common_img/head_bg.gif)"><img src="/common_img/cart_left.gif" width="8" height="20" alt=""></td>
-<td><a href="http://www.reggaerecord.com/en/cart/index.php" target="_top"><img src="/common_img/icon_cart.gif" width="24" height="20" border="0" alt="your shopping cart"></a></td>
-<td><img src="/common_img/spacer.gif" width="7" height="20" name="price_8" alt=""></td><td><img src="/common_img/spacer.gif" width="8" height="20" name="price_8" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="price_7" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="price_6" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="price_5" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="price_4" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="price_3" alt=""></td>
-<td><img src="/common_img/num_yen.gif" width="8" height="20" name="price_2" alt=""></td>
-<td><img src="/common_img/num_0.gif" width="8" height="20" name="price_1" alt=""></td>
-<td width="0" id="foreign_price" style="padding-left:4px">(US$0.00)</td><td><img src="/common_img/spacer.gif" width="8" height="20" name="amount_4" alt=""></td>
-<td><img src="/common_img/spacer.gif" width="8" height="20" name="amount_3" alt=""></td>
-<td><img src="/common_img/num_(.gif" width="8" height="20" name="amount_2" alt=""></td>
-<td><img src="/common_img/num_0.gif" width="8" height="20" name="amount_1" alt=""></td>
-<td><img src="/common_img/num_items.gif" width="37" height="20" alt=""></td>
-<td style="background:url(/common_img/head_bg.gif)"><img src="/common_img/cart_right.gif" width="8" height="20" alt=""></td>
-</tr>
-</tbody></table></td>
-</tr>
-</tbody></table></td>
+<td align="right" valign="top" class="headtitle">
+
+<div id="cart_indicator" style="margin-top: 5px 0 0 0;">
+<a href="http://www.reggaerecord.com/en/cart/index.php" target="_top">
+<i class="fa fa-shopping-cart" title="your shopping cart"></i>
+</a>¥<span id="cart_indicator_price">0</span>
+ <span id="foreign_price">(US$0.00)</span> (<span id="cart_indicator_amount">0</span> items)
+</div>
+
+</td>
 </tr><tr>
-<td colspan="2" class="txt11_white" align="right" valign="top" nowrap="nowrap"><form name="login_form" action="https://www.reggaerecord.com/en/help/privacy.php" method="post" style="margin:0;"><table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td nowrap="nowrap"><input type="hidden" name="command" value="login"><span style="vertical-align:bottom">ID: </span><input type="text" name="ID" size="25" style="
-		vertical-align:middle;
-		font-size:10px;
-		height:10px;
-		ime-mode:
-		disabled;
-	">
-<span style="vertical-align:bottom">Pass: </span><input type="password" name="pass" size="12" style="
-		vertical-align:middle;
-		font-size:10px;
-		height:10px;
-		ime-mode:
-		disabled
-	"><input type="checkbox" name="auto_login" style="vertical-align:middle" title="Login automatically on/after next access" onclick="
-		if (!this.checked) {
-			myCart.deleteCookie('user_id');
-			myCart.deleteCookie('password');
-		}
-	"></td>
-<td rowspan="2"><img src="../../common_img/spacer.gif" width="6" height="1" alt=""></td>
-<td rowspan="2"><input type="image" src="../common_img/bt_login.gif"></td>
-</tr>
-<tr>
-<td align="right" style="
-		color:#FFFFFF;
-		font-size:10px;
-		heignt:10px;
-	"><img src="../../common_img/auto_login.gif" width="73" height="7" alt="Log-in automatically from the next time"></td>
-</tr>
-</tbody></table></form></td></tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td colspan="3"><img src="/common_img/spacer.gif" width="800" height="2" alt=""></td>
+<td colspan="2" class="txt11_white" align="right" valign="top" nowrap="nowrap">
+</td>
 </tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td colspan="3" align="center"><table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:url(/common_img/tab_bg_2.gif)">
-<tbody><tr>
-<td align="center"><table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="bottom">
 
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/"><img src="/en/common_img/head_bt_top.gif" alt="home" title="home" name="bt_top" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_top',
-			'',
-			'/en/common_img/head_bt_top_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/catalog/index.php"><img src="/en/common_img/head_bt_shop.gif" alt="catalog" title="catalog" name="bt_shop" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_shop',
-			'',
-			'/en/common_img/head_bt_shop_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/catalog/new_reggae.php"><img src="/en/common_img/head_bt_new_reggae.gif" alt="new reggae" title="new reggae" name="bt_new_reggae" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_new_reggae',
-			'',
-			'/en/common_img/head_bt_new_reggae_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/catalog/new_bass.php"><img src="/en/common_img/head_bt_new_bass.gif" alt="new bass" title="new bass" name="bt_new_bass" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_new_bass',
-			'',
-			'/en/common_img/head_bt_new_bass_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/catalog/new_allgenre.php"><img src="/en/common_img/head_bt_new_allgenre.gif" alt="new all genre" title="new all genre" name="bt_new_allgenre" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_new_allgenre',
-			'',
-			'/en/common_img/head_bt_new_allgenre_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="58" height="29"><a href="http://www.reggaerecord.com/en/catalog/othersnew.php"><img src="/en/common_img/head_bt_othersnew.gif" alt="other new reggae items" title="other new reggae items" name="bt_othersnew" width="58" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_othersnew',
-			'',
-			'/en/common_img/head_bt_othersnew_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/catalog/sale.php"><img src="/en/common_img/head_bt_sale.gif" alt="discount" title="discount" name="bt_sale" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_sale',
-			'',
-			'/en/common_img/head_bt_sale_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/ranking/index.php"><img src="/en/common_img/head_bt_ranking.gif" alt="ranking menu" title="ranking menu" name="bt_ranking" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_ranking',
-			'',
-			'/en/common_img/head_bt_ranking_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/content/index.php"><img src="/en/common_img/head_bt_content.gif" alt="content menu" title="content menu" name="bt_content" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_content',
-			'',
-			'/en/common_img/head_bt_content_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/cart/index.php"><img src="/en/common_img/head_bt_cart.gif" alt="shopping cart" title="shopping cart" name="bt_cart" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_cart',
-			'',
-			'/en/common_img/head_bt_cart_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/en/mypage/index.php"><img src="/en/common_img/head_bt_my.gif" alt="my page" title="my page" name="bt_my" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_my',
-			'',
-			'/en/common_img/head_bt_my_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaecollector.com" target="_blank"><img src="/en/common_img/head_bt_rc.gif" alt="Used/Vintage (to ReggaeCollector.com)" title="Used/Vintage (to ReggaeCollector.com)" name="bt_rc" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_rc',
-			'',
-			'/en/common_img/head_bt_rc_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-<td width="71" height="29"><a href="http://www.reggaerecord.com/download/en" target="_blank"><img src="/en/common_img/head_bt_dl.gif" alt="downloads" title="downloads" name="bt_dl" width="71" height="28" border="0" onmouseover="
-		MM_swapImage
-		(
-			'bt_dl',
-			'',
-			'/en/common_img/head_bt_dl_f2.gif',
-			1
-		)
-	" onmouseout="MM_swapImgRestore()"></a></td>
-
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td id="header_stripe" style="background-color:#669900"><img src="/common_img/spacer.gif" width="800" height="6" alt=""></td>
-</tr>
-</tbody></table></td>
+</td>
 </tr>
 </tbody></table>
-<div id="multi_search" style="display:none">
-1<form name="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
+
+</div>
+
+</div>
+
+<div id="header_tabs_bg" class="min_width">
+<div class="fixed_width">
+
+<ul id="header_tabs" class="clearfix">
+
+<li role="presentation">
+<a class="cat-top" href="http://www.reggaerecord.com/en/">
+HOME</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/index.php">
+CATALOG</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/new_reggae.php">
+New Reggae</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/new_bass.php">
+New Bass</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/new_allgenre.php">
+New All Genre</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/othersnew.php">
+Others New</a>
+</li><li role="presentation">
+<a class="cat-catalog" href="http://www.reggaerecord.com/en/catalog/sale.php">
+DISCOUNT</a>
+</li><li role="presentation">
+<a class="cat-content" href="http://www.reggaerecord.com/en/content/index.php">
+FEATURE</a>
+</li><li role="presentation">
+<a class="cat-rc" href="http://www.reggaecollector.com" target="_blank">
+Used/Vintage</a>
+</li><li role="presentation">
+<a class="cat-dl" href="http://www.reggaerecord.com/download/en" target="_blank">
+Downloads</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+<div id="header_stripe" style="background-color:#669900">
+</div>
+
+
+<div id="multi_search" class="search_form min_width" style="display:none;">
+<div class="fixed_width clearfix">
+<script language="javascript" type="text/javascript">
+search_form_loaded = true;
+</script>
+<div class="container" id="multi_search_inputs">
+<form name="multi_search_form" id="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
 <input type="hidden" name="search_type" value="multi">
-<input type="hidden" name="search_key" value="17107207">
+<input type="hidden" name="search_key" value="92515633">
+
+<div class="row" style="margin-bottom: 1px;">
+
+<div class="col-xs-4">
+		<div class="input-group top_selector">
+		<input name="artist" placeholder="Artist" type="text" value="" class="form-control input-sm" tabindex="1001">
+		<div class="input-group-btn">
+			<button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown">
+				&nbsp;<span class="caret"></span>&nbsp;
+			</button>
+			<ul class="tops dropdown-menu">
+				<li class="text-center"><b>Top Artists</b></li>
+							<li>
+					<a href="#">Al Campbell</a>
+				</li>
+								<li>
+					<a href="#">Alton Ellis</a>
+				</li>
+								<li>
+					<a href="#">Augustus Pablo</a>
+				</li>
+								<li>
+					<a href="#">Barrington Levy</a>
+				</li>
+								<li>
+					<a href="#">Barry Brown</a>
+				</li>
+								<li>
+					<a href="#">Beenie Man</a>
+				</li>
+								<li>
+					<a href="#">Beres Hammond</a>
+				</li>
+								<li>
+					<a href="#">Bob Marley, Wailers</a>
+				</li>
+								<li>
+					<a href="#">Buju Banton</a>
+				</li>
+								<li>
+					<a href="#">Burro Banton</a>
+				</li>
+								<li>
+					<a href="#">Byron Lee, Dragonaires</a>
+				</li>
+								<li>
+					<a href="#">Capleton</a>
+				</li>
+								<li>
+					<a href="#">Cocoa Tea</a>
+				</li>
+								<li>
+					<a href="#">Cornell Campbell</a>
+				</li>
+								<li>
+					<a href="#">Culture</a>
+				</li>
+								<li>
+					<a href="#">Delroy Wilson</a>
+				</li>
+								<li>
+					<a href="#">Dennis Brown</a>
+				</li>
+								<li>
+					<a href="#">Earl Sixteen</a>
+				</li>
+								<li>
+					<a href="#">Frankie Paul</a>
+				</li>
+								<li>
+					<a href="#">Freddie McGregor</a>
+				</li>
+								<li>
+					<a href="#">Garnett Silk</a>
+				</li>
+								<li>
+					<a href="#">Gregory Isaacs</a>
+				</li>
+								<li>
+					<a href="#">Heptones</a>
+				</li>
+								<li>
+					<a href="#">Horace Andy</a>
+				</li>
+								<li>
+					<a href="#">Jackie Mittoo</a>
+				</li>
+								<li>
+					<a href="#">Jacob Miller</a>
+				</li>
+								<li>
+					<a href="#">Jah Shaka</a>
+				</li>
+								<li>
+					<a href="#">John Holt</a>
+				</li>
+								<li>
+					<a href="#">Johnny Clarke</a>
+				</li>
+								<li>
+					<a href="#">Johnny Osbourne</a>
+				</li>
+								<li>
+					<a href="#">Ken Boothe</a>
+				</li>
+								<li>
+					<a href="#">King Tubby</a>
+				</li>
+								<li>
+					<a href="#">Lee Perry</a>
+				</li>
+								<li>
+					<a href="#">Linval Thompson</a>
+				</li>
+								<li>
+					<a href="#">Luciano</a>
+				</li>
+								<li>
+					<a href="#">Mad Professor</a>
+				</li>
+								<li>
+					<a href="#">Max Romeo</a>
+				</li>
+								<li>
+					<a href="#">Mighty Diamonds</a>
+				</li>
+								<li>
+					<a href="#">Morgan Heritage</a>
+				</li>
+								<li>
+					<a href="#">Revolutionaries</a>
+				</li>
+								<li>
+					<a href="#">Sanchez</a>
+				</li>
+								<li>
+					<a href="#">Scientist</a>
+				</li>
+								<li>
+					<a href="#">Shabba Ranks</a>
+				</li>
+								<li>
+					<a href="#">Sizzla</a>
+				</li>
+								<li>
+					<a href="#">Skatalites</a>
+				</li>
+								<li>
+					<a href="#">Sugar Minott</a>
+				</li>
+								<li>
+					<a href="#">Toots &amp; The Maytals</a>
+				</li>
+								<li>
+					<a href="#">U Roy</a>
+				</li>
+								<li>
+					<a href="#">Yabby U</a>
+				</li>
+								<li>
+					<a href="#">Yellowman</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+<div class="col-xs-4">
+		<input name="title" placeholder="Title" type="text" value="" class="form-control input-sm" tabindex="1001">
+</div>
+
+<div class="col-xs-3">
+		<div class="input-group top_selector">
+		<input name="label" placeholder="Label" type="text" value="" class="form-control input-sm" tabindex="1001">
+		<div class="input-group-btn">
+			<button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown">
+				&nbsp;<span class="caret"></span>&nbsp;
+			</button>
+			<ul class="tops dropdown-menu dropdown-menu-right">
+				<li class="text-center"><b>Top Label</b></li>
+							<li>
+					<a href="#">ACE</a>
+				</li>
+								<li>
+					<a href="#">Ariwa</a>
+				</li>
+								<li>
+					<a href="#">Atlantic</a>
+				</li>
+								<li>
+					<a href="#">Beverleys</a>
+				</li>
+								<li>
+					<a href="#">BGP</a>
+				</li>
+								<li>
+					<a href="#">Black Art</a>
+				</li>
+								<li>
+					<a href="#">Bristol Archive</a>
+				</li>
+								<li>
+					<a href="#">Channel One/Digikiller/Deeper Knowledge</a>
+				</li>
+								<li>
+					<a href="#">Clocktower</a>
+				</li>
+								<li>
+					<a href="#">Collectables</a>
+				</li>
+								<li>
+					<a href="#">Cook Records/Folkways Records</a>
+				</li>
+								<li>
+					<a href="#">Digital B</a>
+				</li>
+								<li>
+					<a href="#">Dub Store Records</a>
+				</li>
+								<li>
+					<a href="#">Dynamic</a>
+				</li>
+								<li>
+					<a href="#">Greensleeves</a>
+				</li>
+								<li>
+					<a href="#">Honest Jons</a>
+				</li>
+								<li>
+					<a href="#">Iroko Records</a>
+				</li>
+								<li>
+					<a href="#">Jah Shaka</a>
+				</li>
+								<li>
+					<a href="#">Jamaican Recordings</a>
+				</li>
+								<li>
+					<a href="#">Jammys</a>
+				</li>
+								<li>
+					<a href="#">Jammys/Dub Store Records</a>
+				</li>
+								<li>
+					<a href="#">Jet Star</a>
+				</li>
+								<li>
+					<a href="#">Joe Frasier</a>
+				</li>
+								<li>
+					<a href="#">Kent</a>
+				</li>
+								<li>
+					<a href="#">Kingston Sounds/Jamaican Recordings</a>
+				</li>
+								<li>
+					<a href="#">Koyashi Haikyu</a>
+				</li>
+								<li>
+					<a href="#">Massive B</a>
+				</li>
+								<li>
+					<a href="#">Merritone/Dub Store Records</a>
+				</li>
+								<li>
+					<a href="#">Mississippi Records</a>
+				</li>
+								<li>
+					<a href="#">Moodisc</a>
+				</li>
+								<li>
+					<a href="#">Mr Bongo</a>
+				</li>
+								<li>
+					<a href="#">Penthouse</a>
+				</li>
+								<li>
+					<a href="#">Pressure Sounds</a>
+				</li>
+								<li>
+					<a href="#">Prince Jammys Dub/Dub Store Records</a>
+				</li>
+								<li>
+					<a href="#">Reggae On Top</a>
+				</li>
+								<li>
+					<a href="#">Scotch Bonnet</a>
+				</li>
+								<li>
+					<a href="#">Shocking Vibes</a>
+				</li>
+								<li>
+					<a href="#">Soul Beat</a>
+				</li>
+								<li>
+					<a href="#">Soul Jazz Records</a>
+				</li>
+								<li>
+					<a href="#">Soul Jazz Records/Studio One</a>
+				</li>
+								<li>
+					<a href="#">Studio One</a>
+				</li>
+								<li>
+					<a href="#">Tamoki Wambesi</a>
+				</li>
+								<li>
+					<a href="#">Taxi</a>
+				</li>
+								<li>
+					<a href="#">Techniques</a>
+				</li>
+								<li>
+					<a href="#">Tuff Scout</a>
+				</li>
+								<li>
+					<a href="#">Twinkle</a>
+				</li>
+								<li>
+					<a href="#">Victor Ent.</a>
+				</li>
+								<li>
+					<a href="#">VP</a>
+				</li>
+								<li>
+					<a href="#">Wackies</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+<div class="col-xs-1 text-left">
+	<button type="submit" tabindex="1002" class="btn btn-primary btn-sm">
+		&nbsp;<i class="fa fa-search"></i>&nbsp;
+	</button>
+	</div>
+
+</div>
+
+<div class="row">
+
+<div class="col-xs-2">
+<select name="recent" class="form-control input-sm" tabindex="1002">
+<option value="">How recent</option>
+<option value="1">1 day</option>
+<option value="2">2 days</option>
+<option value="3">3 days</option>
+<option value="4">4 days</option>
+<option value="5">5 days</option>
+<option value="6">6 days</option>
+<option value="7">7 days</option>
+<option value="14">14 days</option>
+<option value="21">21 days</option>
+<option value="30">30 days</option>
+<option value="60">60 days</option>
+<option value="90">90 days</option>
+</select>
+</div>
+
+<div class="col-xs-2">
+<input name="song" placeholder="Album content" type="text" value="" class="form-control input-sm" tabindex="1002">
+</div>
+
+<div class="col-xs-3">
+<input name="producer" placeholder="Producer" type="text" value="" class="form-control input-sm" list="list-producer" tabindex="1002">
+</div>
+
+<div class="col-xs-4">
+		<div class="input-group top_selector">
+		<input name="rhythm" placeholder="Rhythm" type="text" value="" class="form-control input-sm" tabindex="1001">
+		<div class="input-group-btn">
+			<button type="button" class="btn btn-default dropdown-toggle btn-sm" data-toggle="dropdown">
+				&nbsp;<span class="caret"></span>&nbsp;
+			</button>
+			<ul class="tops dropdown-menu dropdown-menu-right">
+				<li class="text-center"><b>Top Rhythm</b></li>
+							<li>
+					<a href="#">African Beat/Under Mi Sensi</a>
+				</li>
+								<li>
+					<a href="#">Answer</a>
+				</li>
+								<li>
+					<a href="#">Arena</a>
+				</li>
+								<li>
+					<a href="#">Ba Ba Boom</a>
+				</li>
+								<li>
+					<a href="#">Bam Bam/Murder She Wrote</a>
+				</li>
+								<li>
+					<a href="#">Billie Jean</a>
+				</li>
+								<li>
+					<a href="#">Cherry Oh Baby</a>
+				</li>
+								<li>
+					<a href="#">Cuss Cuss</a>
+				</li>
+								<li>
+					<a href="#">Darker Shade Of Black</a>
+				</li>
+								<li>
+					<a href="#">Diwali/Get Busy/No Letting Go</a>
+				</li>
+								<li>
+					<a href="#">Drifter</a>
+				</li>
+								<li>
+					<a href="#">Fade Away/Peanie Peanie</a>
+				</li>
+								<li>
+					<a href="#">Far East/Jah Sharkey</a>
+				</li>
+								<li>
+					<a href="#">Freedom Blues</a>
+				</li>
+								<li>
+					<a href="#">Full Up</a>
+				</li>
+								<li>
+					<a href="#">General</a>
+				</li>
+								<li>
+					<a href="#">Gunman</a>
+				</li>
+								<li>
+					<a href="#">Heavenless</a>
+				</li>
+								<li>
+					<a href="#">Hot Milk/Murderer</a>
+				</li>
+								<li>
+					<a href="#">Hypocrite</a>
+				</li>
+								<li>
+					<a href="#">Joy Ride</a>
+				</li>
+								<li>
+					<a href="#">Jump Up/Kuff</a>
+				</li>
+								<li>
+					<a href="#">Love Is Not A Gamble</a>
+				</li>
+								<li>
+					<a href="#">Mad Mad/Diseases</a>
+				</li>
+								<li>
+					<a href="#">Mama/Giggy</a>
+				</li>
+								<li>
+					<a href="#">Mud Up</a>
+				</li>
+								<li>
+					<a href="#">Party Time</a>
+				</li>
+								<li>
+					<a href="#">Pepper Seed</a>
+				</li>
+								<li>
+					<a href="#">Police In Helicopter</a>
+				</li>
+								<li>
+					<a href="#">Promised Land/Love Fire</a>
+				</li>
+								<li>
+					<a href="#">Punanny</a>
+				</li>
+								<li>
+					<a href="#">Real Rock</a>
+				</li>
+								<li>
+					<a href="#">Revolution/Here I Come</a>
+				</li>
+								<li>
+					<a href="#">Rougher Yet</a>
+				</li>
+								<li>
+					<a href="#">Rumours</a>
+				</li>
+								<li>
+					<a href="#">Satta Massa Ganna</a>
+				</li>
+								<li>
+					<a href="#">Shank I Sheck</a>
+				</li>
+								<li>
+					<a href="#">Shanty Town/007</a>
+				</li>
+								<li>
+					<a href="#">Sleng Teng</a>
+				</li>
+								<li>
+					<a href="#">Stalag</a>
+				</li>
+								<li>
+					<a href="#">Stop That Train</a>
+				</li>
+								<li>
+					<a href="#">Taxi</a>
+				</li>
+								<li>
+					<a href="#">Tempo</a>
+				</li>
+								<li>
+					<a href="#">Things &amp; Time</a>
+				</li>
+								<li>
+					<a href="#">Three Blind Mice</a>
+				</li>
+								<li>
+					<a href="#">Tonight</a>
+				</li>
+								<li>
+					<a href="#">World A Music/Jamrock</a>
+				</li>
+								<li>
+					<a href="#">Worries In The Dance</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+</div>
+
+<div class="col-xs-1 text-left">
+	<div style="height: 30px; display: table-cell; vertical-align: middle">
+	<a href="javascript:hideSearchForm();" tabindex="1002" style="font-size: 10px;">
+		<i class="fa fa-chevron-up"></i>Keyword Search	</a>
+	</div>
+</div>
+
+</div>
+
+</form>
+
+</div>
+
+<table class="header_buttons">
+<tbody><tr>
+	<td>
+			<a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
+			</td>
+	<td>
+	<a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
+	</td>
+	<td>
+		<div class="btn-group">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+			<i class="fa fa-2x fa-bars text_link"></i>
+		</a>
+		<table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
+			<tbody><tr>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Sites						</div>
+						<div class="panel-body">
+							<dl>
+								<dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
+								<dd><small>World's largest class vinyl shop</small></dd>
+								<dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
+								<dd><small>Digital download shop</small></dd>
+								<dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
+								<dd><small>Largest store for vintage vinyls</small></dd>
+															</dl>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Search						</div>
+						<div class="panel-body">
+							<a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
+							Genre index							</a><br>
+							<a href="http://www.reggaerecord.com/en/ranking">
+							Ranking menu							</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+							Artist index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/label_index.php">
+							Label index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
+							Rhythm index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+							Producer index</a><br>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Help						</div>
+						<div class="panel-body">
+							<a href="https://www.reggaerecord.com/en/mypage/signup.php">
+							Sign up							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_01.php#01">
+							First time?							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_08.php#07">
+							Contact us							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_05.php">
+							Shipping							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_04.php#03">
+							Payment							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_08.php">
+							FAQ							</a><br>
+							<a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
+							Mail magazine options							</a><br>
+													</div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+	</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+
+<div id="simple_search" class="search_form min_width" style="display:block">
+<div class="fixed_width clearfix">
+<form name="multi_search_form" style="margin:0px; " action="/en/catalog/search.php" method="get">
+<input type="hidden" name="search_type" value="multi">
+<input type="hidden" name="search_key" value="92515633">
 <input type="hidden" name="artist" value="">
 <input type="hidden" name="title" value="">
 <input type="hidden" name="label" value="">
@@ -459,8 +1092,6 @@ function numberFormat(val, digits_sub_one) {
 <input type="hidden" name="song" value="">
 <input type="hidden" name="recent" value="">
 </form>
-</div>
-<div id="simple_search" style="display:block">
 <script language="javascript" type="text/javascript">
 <!--
 function setShim(obj) {
@@ -479,85 +1110,162 @@ function hideShim() {
 
 -->
 </script>
-<table width="100%" cellpadding="4" cellspacing="0">
+
+<div id="simple_search_inputs" class="container">
+<div class="col-xs-12">
+<form class="form-horizontal" role="search" name="simple_search_form" id="simple_search_form" action="/en/catalog/search.php" method="get">
+	<input type="hidden" name="search_type" value="fuzzy">
+	<input type="hidden" name="search_key" value="92515633">
+
+	<div class="form-group">
+
+		<div class="input-group">
+			<input type="text" name="keyword" id="input_keyword" class="form-control" placeholder="Artist, title, Label, Rhythm etc." value="">
+
+			<div class="input-group-btn">
+				<button type="submit" class="btn btn-primary">
+					&nbsp;<i class="fa fa-search"></i>&nbsp;
+				</button>
+			</div>
+		</div>
+
+		
+		<a style="font-size: 10px; line-height: 11px; margin: 0" href="javascript:showSearchForm();">
+			Detailed Search<i class="fa fa-chevron-down"></i>
+		</a>
+	</div>
+</form>
+
+</div>
+</div>
+
+<table class="header_buttons">
 <tbody><tr>
-<td style="border-top:solid 1px #333333; background-color:#666666" class="txt12" align="center"><form name="simple_search_form" action="/en/catalog/search.php" style="margin:0px 0px; " method="get">
-<input type="hidden" name="search_type" value="fuzzy">
-<input type="hidden" name="search_key" value="17107207">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="middle" style="padding-right:4px"></td>
-<td style="padding-right:4px; color:#FFFFFF; font-weight:bold">Search: </td>
-<td><input type="text" name="keyword" size="60" class="txt11" onmouseover="
-		$('simple_search_note').style.display='block';
-		setShim($('simple_search_note'));
-	" onmouseout="
-		$('simple_search_note').style.display='none';
-		hideShim();
-	"></td>
-<td align="right" style="padding:0px 0px 0px 8px;"><input type="image" src="/en/common_img/bt_go.gif"></td>
-<td align="left" style="padding:0px 0px 0px 8px"><a href="javascript:showSearchForm();"><font color="#99FFFF">&gt;&gt;Show detailed search form</font></a></td>
+	<td>
+			<a href="/en/help/privacy.php?command=auth"><h5 class="text_link">Log in</h5></a>
+			</td>
+	<td>
+	<a href="/en/cart"><h5><i class="fa fa-2x fa-shopping-cart text_link" style="vertical-align: middle;"></i></h5></a>
+	</td>
+	<td>
+		<div class="btn-group">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+			<i class="fa fa-2x fa-bars text_link"></i>
+		</a>
+		<table class="dropdown-menu dropdown-menu-right dropdown-panels" id="header_menu">
+			<tbody><tr>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Sites						</div>
+						<div class="panel-body">
+							<dl>
+								<dt><a href="http://www.reggaerecord.com">ReggaeRecord</a></dt>
+								<dd><small>World's largest class vinyl shop</small></dd>
+								<dt><a href="http://www.reggaerecord.com/download" target="_blank">ReggaeRecord Downloads</a></dt>
+								<dd><small>Digital download shop</small></dd>
+								<dt><a href="http://www.reggaecollector.com" target="_blank">ReggaeCollector</a></dt>
+								<dd><small>Largest store for vintage vinyls</small></dd>
+															</dl>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Search						</div>
+						<div class="panel-body">
+							<a href="http://www.reggaerecord.com/en/catalog/genre_index.php">
+							Genre index							</a><br>
+							<a href="http://www.reggaerecord.com/en/ranking">
+							Ranking menu							</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+							Artist index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/label_index.php">
+							Label index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/rhythm_index.php">
+							Rhythm index</a><br>
+							<a href="http://www.reggaerecord.com/en/catalog/artist_index.php">
+							Producer index</a><br>
+						</div>
+					</div>
+				</td>
+				<td>
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							Help						</div>
+						<div class="panel-body">
+							<a href="https://www.reggaerecord.com/en/mypage/signup.php">
+							Sign up							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_01.php#01">
+							First time?							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_08.php#07">
+							Contact us							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_05.php">
+							Shipping							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_04.php#03">
+							Payment							</a><br>
+							<a href="http://www.reggaerecord.com/en/help/help_08.php">
+							FAQ							</a><br>
+							<a href="http://www.reggaerecord.com/en/mypage/mail_magazine.php">
+							Mail magazine options							</a><br>
+													</div>
+					</div>
+				</td>
+			</tr>
+		</tbody></table>
+		</div>
+	</td>
 </tr>
-<tr>
-<td align="left" colspan="4"><iframe scrolling="no" frameborder="0" id="shim" style="z-index:999; position:absolute; display:none; "></iframe>
-<div id="simple_search_note" style="border:solid 1px #666666; padding:2px; display:none; position:absolute; background-color:#FFFFCC; z-index:1000" class="txt11">Multiple words, separated by spaces, can be specified. Hit enter key to start searching.</div></td>
-</tr>
-</tbody></table></form></td>
-</tr></tbody></table></div>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td bgcolor="#CCCCCC"><img src="/common_img/spacer.gif" width="800" height="1" alt=""></td>
-</tr>
-<tr bgcolor="#999999">
-<td><table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="1"><img src="/common_img/spacer.gif" width="1" height="33" alt=""></td>
-<td align="center"><table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td><select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=32';">
-<option value="">Best Selling CDs</option>
-<option value="period=week1">Within 7days</option>
-<option value="period=month1">Within 30days</option>
-<option value="period=month3">Within 90days</option>
-<option value="period=year1">Within 90days</option>
-<option value="period=month1&amp;section_web=dancehall&amp;month1=1">Dancehall</option>
-<option value="period=week3&amp;section_web=oldies&amp;week3=2">Oldies</option>
-</select></td>
-<td><img src="/common_img/spacer.gif" width="8" height="2" alt=""></td>
-<td><select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=16';">
-<option value="">Best Selling LPs</option>
-<option value="period=week1">Within 7days</option>
-<option value="period=month1">Within 30days</option>
-<option value="period=month3">Within 90days</option>
-<option value="period=year1">Within 90days</option>
-<option value="period=month1&amp;section_web=dancehall&amp;month1=1">Dancehall</option>
-<option value="period=week2&amp;section_web=oldies&amp;week2=0">Oldies</option>
-</select></td>
-<td><img src="/common_img/spacer.gif" width="8" height="2" alt=""></td>
-<td><select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=12';">
-<option value="">10 / 12"s</option>
-<option value="period=week1">Within 7days</option>
-<option value="period=month1">Within 30days</option>
-<option value="period=month3">Within 90days</option>
-<option value="period=year1">Within 90days</option>
-<option value="period=month1&amp;section_web=dancehall&amp;month1=1">Dancehall</option>
-<option value="period=month1&amp;section_web=oldies&amp;month1=1">Oldies</option>
-<option value="period=month1&amp;section_web=newroots&amp;month1=1">New Roots</option>
-</select></td>
-<td><img src="/common_img/spacer.gif" width="8" height="2" alt=""></td>
-<td><select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=2';">
-<option value="">Best Selling 7"s</option>
-<option value="period=week1">Within 7days</option>
-<option value="period=month1">Within 30days</option>
-<option value="period=month3">Within 90days</option>
-<option value="period=year1">Within 90days</option>
-<option value="period=week2&amp;section_web=newrelease">New Release Best Seller</option>
-<option value="period=week2&amp;section_web=dancehall">Dancehall</option>
-<option value="period=week2&amp;section_web=60s">60's Best Seller</option>
-<option value="period=week2&amp;section_web=70s">70's Best Seller</option>
-</select></td>
-<td><img src="/common_img/spacer.gif" width="8" height="2" alt=""></td>
-<td nowrap="nowrap"><iframe id="shim" style="display:none; position:absolute; z-index:99;" src="javascript:false;" frameborder="0" scrolling="no"></iframe>
+</tbody></table>
+
+<iframe scrolling="no" frameborder="0" id="shim" style="z-index:999; position:absolute; display:none; "></iframe>
+
+<div id="simple_search_note" style="border:solid 1px #666666; padding:2px; display:none; position:absolute; background-color:#FFFFCC; z-index:1000" class="txt11">
+Multiple words, separated by spaces, can be specified. Hit enter key to start searching.</div>
+</div>
+</div>
+
+
+<div id="search_bar" class="min_width">
+<div class="fixed_width">
+
+<select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=32';">
+	<option value="">Best Selling CDs</option>
+	<option value="period=week1">Within a Week</option>
+	<option value="period=month1">Within a Month</option>
+	<option value="period=month3">Within 3 Months</option>
+	<option value="period=year1">Within a Year</option>
+</select>
+
+<select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=16';">
+	<option value="">Best Selling LPs</option>
+	<option value="period=week1">Within a Week</option>
+	<option value="period=month1">Within a Month</option>
+	<option value="period=month3">Within 3 Months</option>
+	<option value="period=year1">Within a Year</option>
+</select>
+
+<select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=12';">
+	<option value="">10 / 12"s</option>
+	<option value="period=week1">Within a Week</option>
+	<option value="period=month1">Within a Month</option>
+	<option value="period=month3">Within 3 Months</option>
+	<option value="period=year1">Within a Year</option>
+</select>
+
+<select class="txt11b" onchange="document.location='http://www.reggaerecord.com/en/ranking/best_seller.php?' + this.value + '&amp;format_code=2';">
+	<option value="">Best Selling 7"s</option>
+	<option value="period=week1">Within a Week</option>
+	<option value="period=month1">Within a Month</option>
+	<option value="period=month3">Within 3 Months</option>
+	<option value="period=year1">Within a Year</option>
+	<option value="period=week2&amp;section_web=newrelease">New Releases</option>
+</select>
+
+<span style="position: relative; display: inline-block">
+
+<iframe id="shim" style="display:none; position:absolute; z-index:99;" src="javascript:false;" frameborder="0" scrolling="no"></iframe>
 <div class="scroll" align="left" id="ranking_rhythm_new" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
 <div class="scroll" align="left" id="ranking_rhythm_foundation" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
 <div class="scroll" align="left" id="ranking_rhythm_japanese" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
@@ -567,64 +1275,37 @@ function hideShim() {
 <div class="scroll" align="left" id="ranking_label_dancehall" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
 <div class="scroll" align="left" id="ranking_label_oldies" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
 <div class="scroll" align="left" id="ranking_label_japanese" onclick="showLayer(this.id, false);" onmouseover=" setOnClickHandler(true);"></div>
-<select class="txt11b" onchange="getRanking(this.value); this.selectedIndex=0;">
-<option value="">Hot Ranking Menu</option>
-<option value="ranking_rhythm_new">Rhythm; Brand-new</option>
-<option value="ranking_rhythm_foundation">Rhythm; Foundation</option>
-<option value="ranking_rhythm_japanese">Rhythm; Japanese</option>
-<option value="ranking_artist_dancehall">Artist; Brand-new</option>
-<option value="ranking_artist_oldies">Artist; Oldies</option>
-<option value="ranking_artist_japanese">Artist; Japanese</option>
-<option value="ranking_label_dancehall">Label; Brand-new</option>
-<option value="ranking_label_oldies">Label; Oldies</option>
-<option value="ranking_label_japanese">Label; Japanese</option>
-</select>
-</td>
-</tr>
-</tbody></table></td>
-<td width="1"><img src="/common_img/spacer.gif" width="1" height="1" alt=""></td>
-</tr>
-</tbody></table></td>
-<!--<td width="16" valign="bottom"><img src="/common_img/spacer.gif" width="16" height="16" alt="" /></td>-->
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td bgcolor="#333333"><img src="/common_img/spacer.gif" width="800" height="1" alt=""></td>
-</tr>
-<tr>
-<td bgcolor="#666666" class="txt12_white" valign="bottom" style="padding:1px 0px 1px 8px"><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="middle">
-<td style="padding-right:8px"><a href="javascript:history.back();"><img src="/en/common_img/bt_back.gif" border="0" width="45" height="15" alt="back"></a></td>
-<td><a href="../"><font color="#FFFFFF">Top</font></a> → Help</td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td style="background-color:#666666; border-top:solid 1px #999999; padding:2px 0px 0px 0px" align="center"><a href="http://www.reggaerecord.com/en/catalog/search.php?search_type=topics&amp;keyword=3337"><img src="/en/common_img/banner_dse.jpg" width="600" height="32" alt="" style="border:solid 1px #333333"></a></td>
-</tr>
-</tbody></table>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td rowspan="3" valign="top" bgcolor="#666666">
-</td>
-<td colspan="2" width="100%" height="11" valign="top" style="background:url(../help/img/main_frame_l.gif) repeat-y;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td colspan="2" bgcolor="#666666"><img src="../../common_img/spacer.gif" width="8" height="2" alt=""></td>
-</tr>
-<tr>
-<td colspan="2" bgcolor="#999999"><img src="../../common_img/spacer.gif" width="8" height="1" alt=""></td>
-</tr>
-<tr>
-<td bgcolor="#669900" colspan="2"><img src="../../common_img/spacer.gif" width="2" height="6" alt=""></td>
-</tr>
-<tr>
-<td bgcolor="#FFFFFF" align="left" colspan="2"><img src="../help/img/main_frame_tl.gif" width="32" height="11" alt=""></td>
-</tr>
 
-<tr>
-<td width="32" style="background:url(img/main_frame_l.gif) repeat-y;"><img src="../../common_img/spacer.gif" width="28" height="1" alt=""></td>
-<td width="100%" valign="top"><table width="800px" align="center" border="0" cellspacing="0" cellpadding="0" height="100%">
+<select class="txt11b" onchange="getRanking(this.value); this.selectedIndex=0;">
+	<option value="">Hot Ranking Menu</option>
+	<option value="ranking_rhythm_new">Rhythm; Brand-new</option>
+	<option value="ranking_rhythm_foundation">Rhythm; Foundation</option>
+	<option value="ranking_rhythm_japanese">Rhythm; Japanese</option>
+	<option value="ranking_artist_dancehall">Artist; Brand-new</option>
+	<option value="ranking_artist_oldies">Artist; Oldies</option>
+	<option value="ranking_artist_japanese">Artist; Japanese</option>
+	<option value="ranking_label_dancehall">Label; Brand-new</option>
+	<option value="ranking_label_oldies">Label; Oldies</option>
+	<option value="ranking_label_japanese">Label; Japanese</option>
+</select>
+
+</span>
+
+</div>
+</div>
+
+<div class="fixed_width">
+<ol class="breadcrumb">
+	<li>
+		<a href="../">
+		Top		</a>
+	</li>
+		<li>
+	Help	</li>
+	</ol>
+</div>
+	<div class="fixed_width legacy">
+	<table width="800px" align="center" border="0" cellspacing="0" cellpadding="0" height="100%">
 <tbody><tr> 
 <td valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -882,64 +1563,211 @@ are accepted</b></div></td>
 </td>
 <td valign="top" width="20"><img src="../../common_img/spacer.gif" width="20" height="1" alt=""></td>
 </tr>
-</tbody></table></td>
-</tr>
-</tbody></table></td>
-<td rowspan="3" valign="top" bgcolor="#666666"></td>
+</tbody></table>	</div>
+	<div id="footer" class="min_width">
+<div id="footer_content" class="fixed_width">
+<table id="footer_links">
+  <tbody><tr>
+	<td valign="top" nowrap="nowrap" style="padding-right:15px;">
+	<p class="footer_section_title">Vinyls &amp; CDs</p>
+	<ul class="footer_section_links">
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/">ReggaeRecord.com Top</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/catalog/index.php">Catalog</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/catalog/new_reggae.php">New Reggae</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/catalog/new_allgenre.php">New All Genres</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/catalog/othersnew.php">Others New</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/catalog/sale.php">Discount</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/ranking/index.php">Ranking</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/content/index.php">Feature</a>
+    	</li>
+	</ul>
+	</td>
+
+    <td valign="top" nowrap="nowrap" style="padding-right:15px;">
+	<p class="footer_section_title">Downloads</p>
+	<ul class="footer_section_links">
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/index.php" target="download">ReggaeRecord Downloads Top</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php" target="download">Catalog</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/ranking.php" target="download">Ranking</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=recommend" target="download">Recommendations</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=best_seller" target="download">Best Sellers</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=new" target="download">Newest Releases</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?tab=exclusive" target="download">Exclusives</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/item_list.php?genre_category=Others" target="download">All Genres</a>
+		</li>
+		<li>
+		<a href="http://www.reggaerecord.com/download/en/help.php#I am an artist" target="download_help">Sell Your Downloads In Our Store</a>
+		</li>
+		<!-- <li><a href="/jp/ranking/index.php">DJ Charts   (later)</a></li> -->
+	<!--<li><a href="/jp/content/index.php">Special Compilations  (later)</a></li> -->
+    <!--<li><a href="" target="_blank">Sell Your Downloads</li> In Our Store</a> -->
+	</ul>
+	</td>
+
+	<td valign="top" nowrap="nowrap" style="padding-right:15px;">
+	<p class="footer_section_title">2nd Hand &amp; Rare Items</p>
+	<ul class="footer_section_links">
+		<li>
+		<a href="http://www.reggaecollector.com/en/" target="_blank">ReggaeCollector.com Top</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/stock/index.php" target="_blank">Catalog</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/stock/index.php?target=ordinary&amp;order=4&amp;reset=on" target="_blank">Originals - New Arrivals</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/stock/index.php?target=collectors&amp;order=4&amp;reset=on" target="_blank">Rarities - New Arrivals</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/stock/index.php?target=pricedown&amp;order=8&amp;reset=on" target="_blank">Bargain Sales</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/ranking/index.php" target="_blank">Ranking</a>
+		</li>
+		<li>
+		<a href="https://www.reggaerecord.com/rc/want/index.php?" target="_blank">Want List Form</a>
+		</li>
+		<li>
+		<a href="http://www.reggaecollector.com/en/info/want.php" target="_blank">Buying Your Collection</a>
+		</li>
+		</ul>
+	</td>
+
+
+
+	<td valign="top" nowrap="nowrap" style="padding-right:15px;">
+	<p class="footer_section_title">Newsletters &amp; Magazines</p>
+	<ul class="footer_section_links">
+	<li>
+	<a href="http://www.reggaerecord.com/download/en/index.php?form=mm_signup" target="download">
+	Downloads Newsletter</a>
+	</li>
+	<li>
+	<a href="https://www.reggaerecord.com/en/mypage/mail_magazine.php">Vinyls &amp; CDs Newsletter</a>
+	</li>
+		<li>
+		<a href="http://www.reggaerecord.com/rc/mypage/mail_magazine.php" target="_blank">2nd Hand &amp; Rare Items Newsletter</a>
+		</li>
+		<li> 		</li></ul>
+    <!--
+    <br/>
+    <p class="footer_section_title">FEATURES</p>
+	<span style="line-height:18px; font-size:12px;">
+    <a href="http://www.reggaerecord.com/en/content/artist_hall_of_fame.php">Artist Hall Of Fame</a>
+    </li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/content/label_hall_of_fame.php">Label Hall Of Fame</a>
+    	</li>
+    	<li>
+    	<a href="http://www.reggaerecord.com/en/content/rhythm_hall_of_fame.php">Rhythm Hall Of Fame</a></ul>
+     -->
+	</td>
+
+
+	<td valign="top" nowrap="nowrap">
+	<p class="footer_section_title">Dub Store Sound Inc.</p>
+	<ul class="footer_section_links">
+		<li>
+		<a href="http://www.dubstore.co.jp/en/index.php" target="_blank">Home</a>
+		</li>
+		<li>
+		<a href="http://www.dubstore.co.jp/en/studio1.php" target="_blank">Studio One Japanese Official Agency</a>
+		</li>
+		<li>
+		<a href="http://www.dubstore.co.jp/en/dsr.php" target="_blank">Dub Store Records</a>
+		</li>
+		<li>
+		<a href="http://www.dubstore.co.jp/en/dist_sale.php" target="_blank">Wholesale</a>
+		</li>
+		<li>
+		<a href="http://www.dubstore.co.jp/en/dist_buy.php" target="_blank">Vinyls &amp; CDs Distribution</a>
+		</li>
+			<!-- <a href="">Vinyl Pressing  (later)</a><br> -->
+    <!-- <a href="">Digital Distribution  (later)</a><br> -->
+    <!-- <a href="">Publishing  (later)</a><br> -->
+    	<li>
+    <a href="http://www.dubstore.co.jp/en/shop.php" target="_blank">Visit Our Store In Tokyo</a>
+    </li>
+    	<li>
+    	<a href="http://www.dubstore.co.jp/en/comp.php" target="_blank">Company Profile</a>
+    	</li>
+    	<li>
+    	<a href="mailto:downloads_en@reggaerecord.com">Contact Us</a>
+    	</li>
+	</ul>
+	</td>
+
+
+  </tr>
+</tbody></table>
+
+<table class="rr-tbl-sns" style="margin-left: -4px">
+
+<tbody><tr>
+<td><g:plusone size="small" count="false"></g:plusone></td>
+<td><div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=166528043423669&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/DubStoreRecords" send="false" layout="button_count" show_faces="false" action="like" font=""></fb:like></td>
 </tr>
 
-<tr>
-<td colspan="2" valign="bottom" style="background:url(../help/img/main_frame_l.gif) repeat-y;"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
-<tbody><tr>
-<td bgcolor="#FFFFFF" align="left"><img src="../help/img/main_frame_bl.gif" width="32" height="11" alt=""></td>
-</tr>
-<tr>
-<td bgcolor="#669900"><img src="../../common_img/spacer.gif" width="2" height="6" alt=""></td>
-</tr>
-</tbody></table></td>
-</tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#A85A31">
-<tbody><tr>
-<td bgcolor="#CC9999"><img src="../../common_img/spacer.gif" width="8" height="1" alt=""></td>
-</tr>
-<tr>
-<td style="padding-top:5px"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#A85A31">
-<tbody><tr>
-<td align="left" style="width:300px; padding-left:8px"><table width="100" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td class="headtitle" nowrap="nowrap"><a href="http://www.reggaerecord.com/en/help/privacy.php"><font color="#FFFFFF">Privacy Policy</font></a></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td class="headtitle" nowrap="nowrap"><a href="http://www.reggaerecord.com/en/help/help_01.php"><font color="#FFFFFF">About This Site</font></a></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td class="headtitle" nowrap="nowrap"><a href="http://www.reggaerecord.com/en/help/sitemap.php"><font color="#FFFFFF">Site Map</font></a></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td class="headtitle" nowrap="nowrap"><a href="http://www.dubstore.co.jp/en/" target="_blank"><font color="#FFFFFF">About Us</font></a></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td class="headtitle" nowrap="nowrap"><a href="http://www.reggaerecord.com/en/help/index.php"><font color="#FFFFFF">Help</font></a></td>
-<td width="4"><img src="../../common_img/spacer.gif" width="4" height="1" alt=""></td>
-<td width="1" valign="top" bgcolor="#FFFFFF"><img src="../../common_img/spacer.gif" width="1" height="1" alt=""></td>
-</tr>
-</tbody></table></td>
-<td align="center">&nbsp;</td>
-<td class="headtitle" align="right" style="width:300px; padding-right:8px">Copyright (C) 2015 DUB STORE SOUND INC. </td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td bgcolor="#663333"><img src="../../common_img/spacer.gif" width="800" height="1" alt=""></td>
-</tr>
-</tbody></table>
+
+<div id="footer_bottom">
+
+<div class="clearfix">
+
+<div style="float: right; width: 40%; text-align: right; white-space: nowrap">
+Copyright (C) DUB STORE SOUND INC.　ALL RIGHTS RESERVED.<br>
+</div>
+
+<div>
+
+
+<a class="link" style="padding-left: 0" href="http://www.reggaerecord.com/en/help/privacy.php">
+Privacy Policy</a>
+
+<a class="link" href="http://www.reggaerecord.com/en/help/privacy.php#04">
+Notation based on the Specified Commercial Transaction Act</a>
+
+</div>
+
+</div>
+
+<div class="text-right">
+&nbsp;</div>
+
+</div>
+</div>
+
 <!-- Google Code for &#35370;&#21839; Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -965,4 +1793,4 @@ _uacct = "UA-1067474-1";
 urchinTracker();
 </script>
 
-</body></html>
+</div></body></html>
