@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315025229id_/https%3A//www.urbansitter.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbansitter.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420235043id_/https%3A//www.urbansitter.com/public/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UrbanSitter
 
