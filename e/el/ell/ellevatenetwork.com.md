@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913163233id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420172605id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Ellevate – a global professional women's network
+# Privacy Policy | Ellevate
 
 85 Broads Unlimited LLC dba Ellevate Network (“Ellevate”, “our”, “us” or “we”) provides this privacy policy (“Privacy Policy”) to describe how we use and process certain information that we obtain through the web site at www.ellevatenetwork.com (the “Site”). We invite all visitors to, or users of, the Site (“You”) to carefully review this Privacy Policy before continuing to access or use the Site.
 
