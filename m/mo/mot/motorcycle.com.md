@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcycle.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208180153id_/http%3A//www.motorcycle.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcycle.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420100637id_/http%3A//www.motorcycle.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Motorcycle.com: News, Reviews, Videos : Terms of Service
 
