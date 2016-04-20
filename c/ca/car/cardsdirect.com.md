@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026062336id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardsdirect.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420164216id_/http%3A//www.cardsdirect.com/about_us/privacypolicy.aspx) for the most accurate reproduction.*
 
-# About Us: Privacy Policy
+# CardsDirect's Customer Privacy Policy
 
 PRIVACY POLICY
 
