@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twit.tv privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116080202id_/http%3A//www.twit.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twit.tv privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420033035id_/https%3A//twit.tv/about/privacy) for the most accurate reproduction.*
 
 # Privacy | TWiT
 
