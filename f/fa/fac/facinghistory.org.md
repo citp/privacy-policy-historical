@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2015-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151012171345id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420040111id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Facing History and Ourselves
 
-**Basics of This Privacy Policy**
+### **Basics of This Privacy Policy**
 
 > **Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations.  **
 
-Full Privacy Policy 
+### Full Privacy Policy
 
 Facing History is committed to protecting your privacy. Please read the Facing History Privacy Statement below for details about particular Facing History sites and services that you may use.
 
