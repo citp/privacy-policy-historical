@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020002936id_/https%3A//help.mobizen.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobizen.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421003257id_/https%3A//help.mobizen.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Helpdesk
 
 Jin Lee  
-posted this on Mar 10, 09:44 
+posted this on March 10, 2015, 09:44 
 
 ### Privacy Policy
 
