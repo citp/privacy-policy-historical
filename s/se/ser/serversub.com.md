@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318200615id_/https%3A//serversub.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421014740id_/https%3A//serversub.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ServerSub | Dedicated, Virtual Servers, Security Solutions
 
@@ -65,8 +65,8 @@ Although most changes are likely to be minor, ServerSub may change its Privacy P
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
 > ServerSub.com  
->  __No.9,General A.Gurcan St,  
->     Mete Alley, Gungoren,  
->     IST 34173, Turkey
+>  __364 E Main Street,  
+>     Suite 1011, Middletown,  
+>     DE 19709, United States
 > 
 > __info [@] ServerSub.com
