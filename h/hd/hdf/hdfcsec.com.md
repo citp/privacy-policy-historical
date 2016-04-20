@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120085611id_/http%3A//hdfcsec.com/Privacy-Policy/201009091238093125000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfcsec.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420092034id_/http%3A//hdfcsec.com/Privacy-Policy/201009091238093125000) for the most accurate reproduction.*
 
-# HDFC securities
+# /trade/activation/201307231558208853844
 
 ## Statement on privacy and security
 
