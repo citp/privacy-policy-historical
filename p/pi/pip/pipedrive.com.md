@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317120337id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420101524id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pipedrive
 
@@ -42,7 +42,6 @@ Optimizely | optimizelySegments | Helps to store users segment information (e.g.
 Optimizely | optimizelyRedirect | Helps to detect redirect loop. | 2 | 5 seconds  
 Optimizely | optimizelyPendingLogEvents | Helps to ensure that all events are tracked even if actions happen in rapid succession. | 2 | 15 seconds  
 Woopra Analytics | wooTracker | Helps to measure site performance | 2 | 1 year  
-SessionCam | sc.* | Helps to record multiple pages visited duringa user's unique visit to a web site. | 2 | session  
 Pipedrive | (billing_currency) | Helps to remember the preferred billing currency of the visitor | 3 | n/a  
 Pipedrive | has_account | Helps to make clear whether the visitor has an account with Pipedrive | 3 | 1 year  
   
