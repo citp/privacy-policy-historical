@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonenumberstar.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225222044id_/http%3A//www.phonenumberstar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenumberstar.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420031526id_/http%3A//www.phonenumberstar.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Phone Directory
 
 **Information Available Through Phonenumberstar.com**  
 1\. Phonenumberstar.com aggregates publicly available information from phone books, social networks, marketing surveys, real estate listings, business websites, and other public sources (“Public Information”). This Public Information may be made available to users through the Phonenumberstar.com website. Phonenumberstar does not verify and cannot guarantee the accuracy of this Public Information.   
@@ -71,4 +71,4 @@ You may remove your information from the Phonenumberstar phone directory, please
 
 For any suggestions and comments regarding Phonenumberstar.com or our Privacy Policy, please contact us via [contact page](http://www.phonenumberstar.com/contact.html)
 
-If you feel this website does not comply with ths above policy or if you have any questions you can [contact us](https://web.archive.org/web/20151225222044id_/http%3A//www.phonenumberstar.com/contact.html).
+If you feel this website does not comply with ths above policy or if you have any questions you can [contact us](https://web.archive.org/web/20160420031526id_/http%3A//www.phonenumberstar.com/contact.html).
