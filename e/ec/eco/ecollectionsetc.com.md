@@ -1,130 +1,138 @@
-> *The following text is extracted and transformed from the ecollectionsetc.com privacy policy that was archived on 2006-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061217040558id_/http%3A//collectionsetc.com/helpPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecollectionsetc.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420171032id_/http%3A//www.shopjustice.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Collections Etc. values its customers and respects their privacy
+# Privacy Policy: Customer Information - Shop Justice
 
-Customer Privacy
+PRIVACY POLICY 
 
-Privacy Policy   
-Last updated on: 04/25/2006
+Updated and effective as of April 14, 2016.
 
-Introduction
+We are committed to protecting your personal information. Please take a few minutes to read and understand our privacy policies so that you know how we collect, use and share your personal information obtained online and in our U.S. stores. This Privacy Policy supersedes any prior privacy policy, statements, or representations relating to the collection, retention, or sharing of information.
 
-Collections Etc. values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, sales and specials, and promotions. This policy describes the personal information we collect about you on this web site, why we collect it, how we use it and when we share it with third parties. 
+Our site is intended for a general audience and we do not knowingly collect personal information online from children under the age of 13 unless doing so is in compliance with the Children’s Online Privacy Protection Act.
 
-Our policy also describes the choices you can make about how we collect and use your information. This privacy policy does not apply to the use or disclosure of information that is collected or obtained by us through means other than this web site. 
+### Contents
 
-Our web site contains links to third-party web sites. Such linked sites are not under the control of Collections Etc. and we are not responsible for the contents or privacy practices of any linked site. 
+  * [Collection of Customer Information](https://web.archive.org/customer-service/privacy-policy#sub1)
+  * [Information Collected for the Purpose of Online Orders](https://web.archive.org/customer-service/privacy-policy#sub2)
+  * [The Use of Cookies and Similar Tracking Technologies](https://web.archive.org/customer-service/privacy-policy#sub3)
+  * [How Your Information is Used and Shared](https://web.archive.org/customer-service/privacy-policy#sub4)
+  * [Online Advertising, Third Party Advertisers and Analytics](https://web.archive.org/customer-service/privacy-policy#sub5)
+  * [How We Respond To “Do Not Track” Signals](https://web.archive.org/customer-service/privacy-policy#sub6)
+  * [Information You Disclose Publicly on our Sites](https://web.archive.org/customer-service/privacy-policy#sub7)
+  * [Information We Receive from Third Parties](https://web.archive.org/customer-service/privacy-policy#sub8)
+  * [Contracted Companies that Facilitate Communications and Transactions With You](https://web.archive.org/customer-service/privacy-policy#sub9)
+  * [Disclosure Required by Law and to Help Protect the Security and Safety of Our Websites](https://web.archive.org/customer-service/privacy-policy#sub10)
+  * [Choices You Have About the Collection, Use and Sharing of your Personal Information](https://web.archive.org/customer-service/privacy-policy#sub11)
+  * [California Residents](https://web.archive.org/customer-service/privacy-policy#sub12)
+  * [Privacy Policy Questions](https://web.archive.org/customer-service/privacy-policy#sub13)
+  * [Security of Our Website](https://web.archive.org/customer-service/privacy-policy#sub14)
 
-If you have any questions about our privacy policy:   
-1\. click [here](mailto:CustomerService@CollectionsEtc.com) to contact our Customer Care department via email,   
-2\. call us at 1-620-584-8000 seven days a week, 6:00 AM to midnight CST, or   
-3\. write us at Collections Etc. Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007.
 
-If our information practices change in the future, we will let you know by posting the policy changes on our web site or by communicating directly with you via email. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information. 
 
-What information does Collections Etc. collect about me?
+### 1\. Collection of Customer Information.
 
-Information collected from you using technology   
-CollectionsEtc.com collects some information about you using technology related to the operation of the World Wide Web, including Internet Protocol ("IP") addresses and cookies. This technology may not be readily apparent to you. 
+Justice collects various types of personal information about you during the course of our customer relationship. We do not require you to share any personal information in order to enjoy our website or purchase items in our stores. However, our site may contain special sections and privileges for members who register. Details on the information we ask for at registration, as well as any other rules or restrictions, are made available at registration areas.
 
-_IP Addresses_  
-Each visitor to this site has an IP address that is associated with the place from which you access the Internet - like your ISP (Internet service provider), your company, or your university. Our web site collects your IP address when you visit the site so that our server can send the information and content you request back to your computer. This information is not personally identifiable.   
-_  
-Cookies_  
-Cookies are pieces of information that a web site sends to your computer while you are viewing the web site. These pieces of information allow the web site to remember important information that will make your use of that site more productive. CollectionsEtc.com uses cookies to keep track of what you have in your shopping cart and to remember you when you return to our store. Cookies cannot harm your computer and they do not contain any personal or private information. You must accept cookies to purchase products at CollectionsEtc.com.
+The personal information we ask for online is usually first and last name, mailing address, phone number and email address. We do not collect any personal information online unless it is voluntarily provided, for instance when registering, participating in contests, sweepstakes, promotions, completing online surveys, creating a wishlist and emailing it to a friend, or purchasing products from our online stores.
 
-CollectionsEtc.com employs WebTrends On Demand™ to aggregate data collected by technological means. Any information that WebTrends On Demand™ collects is completely anonymous. Click [here](https://ondemand.webtrends.com/privacypolicy.asp) to view the privacy policy for WebTrends On Demand.
+We also collect information from you offline if, for example, you request a copy of our catalog, participate in a sweepstakes or purchase products from one of our stores. Justice also collects aggregate, non-personal information that is used to help us improve your customer experience. We may combine this information with information we collect on or offline to better understand your needs, target advertising to you, and to improve our stores, websites, products and services.
 
-We use this information collected through technological means to make our site more interesting and useful to you. We normally don't combine this type of information with personally identifiable information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our policies or rules, in response to a subpoena, or to protect our site, guests, or others. 
+### 2\. Information Collected for the Purpose of Online Orders.
 
-CollectionsEtc.com also uses third party advertising companies to serve ads on our behalf across the Internet. These third party advertising companies may collect anonymous information about your visits to our Web site, and your interaction with our ads. For instance, they may keep track of how many of our ads you had seen before visiting our site. This is primarily accomplished through technology, including cookies and Action Tags (commonly referred to as Web Beacons or GIF tags), which we place on various pages within our Web site.
+Online shoppers at shopjustice.com must be over age 18 and must use a valid credit card or other valid payment method accepted by us to purchase products online. Visitors younger than 18 may make a Wishlist. When an online order is placed, we collect information associated with the requested transaction, such as the customer's name, mailing address, products ordered, shipping addresses, email address, and credit card information. We ask for this information so that we may fulfill the order. We will send a confirmation email to the address provided after the order is successfully placed. Customers will be added to our marketing database unless they have requested not to receive such communications by opting-out.
 
-The third party advertising companies do not collect any personally identifiable information through the use of their technology. The third party advertising companies may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice or the process of opting out of third party cookies, please click [here](http://www.networkadvertising.org/).
+You have the option of registering certain information for future orders while completing your online order. If you choose to register, we will capture your login name, password, name and mailing address, and any alternate ship-to addresses. Once you have successfully entered the required information, an account will be created for you online.
 
-Information You Provide  
-If you browse CollectionsEtc.com, you may generally do so anonymously without providing any personal information. However, there are cases where we may ask you for personal data. When personally identifiable information is collected, you will know because you will have to fill out a secure form. For example, when you purchase from CollectionsEtc.com, request a catalog, or register for a Preferred Customer Account, we collect information that you volunteer such as your name, postal address, telephone number, email address, and financial information, such as credit card. This information is necessary to create an account, or process the order or catalog request. Collections Etc. stores financial information in industry standard encryption format for purposes of processing credit card or deferred billing payment. Collections Etc. will not email you asking for your personal or financial information.
+### 3\. The Use of Cookies and Similar Tracking Technologies.
 
-Our product display pages allow you to send email to a friend about an item on this site. We require your name, your email address, your friend's name and your friend's email address. The individual you designate will be sent a one-time email, displaying your name as the sender. The names and email addresses are not stored by Collections Etc.
+A "cookie" is a small file that is saved on a user's hard drive. Shopjustice.com uses cookies and similar passive tracking devices to determine how many people visit our websites, which web pages are visited, how long visitors stay there and the amount of the purchase. This information helps us create a better website experience and provide you with targeted advertising. We also may use 1x1 pixels (“clear gifs” or “web beacons”), embedded scripts or similar technologies to automatically collect certain non-personal information related to your use of our website, such as your browser, the time of day you visit our site, all the content you view, and the type of device you are using to access our website.
 
-How do you use my information? 
+Each visitor's IP address may also be collected. An IP address is the automatic number assigned to each user's computer when that person surfs the web.
 
-You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our web site products and our privacy statement.
+If you access our content via a mobile device, we may also receive your mobile device identifier. Some mobile service providers may also provide with information regarding the physical location of the device used to access our content.
 
-When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated you do not want to receive promotional materials from us, you may receive periodic mailings or promotional email offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such mailings from us, please click [here](https://web.archive.org/web/20061217040558id_/http%3A//collectionsetc.com/HelpCustomerService.aspx) for contact information or call us at 1-620-584-8000. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.
+### 4\. How Your Information is Used and Shared.
 
-If you have provided us with a valid email address, we will send you order confirmation emails and shipment confirmation emails when your order is shipped from our distribution centers. We may contact you by mail or telephone if we have questions about your order. If one or more of the items in your order is on backorder, you may receive an email notification regarding the expected delivery date. 
+Tween Brands, owner of the Justice brand, may share personally identifiable information collected online and in-store under this Privacy Policy with and among its affiliated companies, including other brands owned by Tween Brands' parent company, Ascena Retail Group, Inc., for several purposes. For example, your personal information may be used to send you promotional materials about goods and services (including special offers and promotions) either offered by Justice or other Ascena-owned brands. We may also send you promotional materials about goods or services offered by outside third parties. These promotional materials may be sent to you by postal mail, email or other means. You may opt-out of receiving these communications. Please note that when you purchase or request products from Justice promotional materials may accompany delivery of that product. We refer to sending you promotional materials in these circumstances as "fulfillment uses" of your personal information. Because these promotional materials accompany products that you have requested, your opt-outs, if any, will not apply to any of these fulfillment uses.
 
-How do you use third party personal information?
+Justice may also use your personal information for purposes other than sending you promotional materials. For example, we may use your information to complete transactions requested by you (such as your purchase of a product offered on one of our websites), or to send you administrative communications about either your account with us or new features on our websites, including any future changes to this Privacy Policy. Because these uses of your personal information do not involve sending you promotional materials, your opt-outs will not apply to any of these operational uses.
 
-What is third party personal information?   
-This is information we have collected through our web site from a person other than the person to whom it pertains or whom it identifies, such as information about a person for whom you are ordering a gift. Our product display pages allow you to send email to a friend about an item on this site. We require your name, your email address, your friend's name and your friend's email address. The individual you designate will be sent a one-time email, displaying your name as the sender. The names and email addresses are not stored by Collections Etc.
+In addition, there may be times when, at your direction, we will share certain information with a third party website, such as if you choose to post content from one of our sites or online features to your personal page on another website or if you log-in to our site using your credentials from another website. In those cases, we will share the information necessary to carry out your request.
 
-How do we use this information?   
-This information is primarily used for the purpose for which such information is collected, including completing the order fulfillment process. Except as noted below, we will share third party personal information with our business partners for other purposes only if we have received the third party's permission to do so. We may on occasion contact the third party in the event of a product recall due to safety or quality of material/workmanship concerns. We will use third party personal information to mail the third party a catalog or other marketing material or to contact the third party by email with promotional offers only if we have their permission to do so.
+We may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating for example your age and gender or similar information with information about other individuals), and/or by removing characteristics (such as your name) that make the information personally identifiable directly to you. Given the nature of this information, there are no restrictions under this Privacy Policy upon our right to aggregate or de-personalize your personal information and we may use, sell and/or share such non-personally identifiable information with any outside third parties.
 
-When do we share personal information with other third parties? 
+From time to time we may release your personal information to select third parties so that they (or their clients/subscribers) can send you promotional materials and communications about respective goods and services ("promotional purposes") offered by them. When releasing your information for promotional purposes, we attempt to select reputable companies that offer high quality products and services. However, your personal information will become permanently subject to the information use and release practices of that third party. Those parties will not be restricted by this Privacy Policy with respect to their use and further sharing of your personal information. You may choose to opt-out of releasing your information to third parties as described in section 11 below.
 
-When you provide us with a mailing address on our site, Collections Etc. will provide your name and postal address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please click [here](https://web.archive.org/web/20061217040558id_/http%3A//collectionsetc.com/HelpCustomerService.aspx) for contact information or call us at 1-620-584-8000. Please see the end of this document for additional contact information.
+From time to time we may offer links to third party sites on our site. Again by linking through to and using these websites and/or applications you become subject to the third parties' privacy policies, so please read the third party sites' privacy policies before submitting personal or other information or using the applications.
 
-We provide your personal information, including IP Address, and personal information of third parties to third party agents we have hired to help us provide the good or service you have requested. For example, we use an outside shipping company to ship orders, a credit card processing company to bill customers for goods and services, and a payment solution company to allow customers to shop online without a credit card (deferred billing). These companies do not retain, share, store or use personally identifiable information for any secondary purposes. When you place an order with us for merchandise, we use the shipping information you provided at order entry to fulfill your order and provide this information to the shipping company. If you have paid for your order using a credit card, we transmit the information required to authorize your credit card over a secure channel to the credit card processing company for authorization. If you have select to pay for your order with deferred billing, we transmit your personal information, and IP address to the payment solution company to authorize credit.
+### 5\. Online Advertising, Third Party Advertisers and Analytics
 
-We may disclose personal information about you or third parties without notice in response to a subpoena or when we believe in good faith that the law permits or requires it or to respond to an emergency situation. We may also share personal information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: 
+We may share your information, including non-personal information or information that has been de-identified, as well as a record of any transactions you conduct on our website or offline with us, with third-party advertising partners (including network advertisers, ad agencies, and analytics companies) and their service providers in order to provide us with information regarding traffic on our website, deliver advertising tailored to your interests when you visit this or other websites and applications and to provide us with information regarding the use of our website and the effectiveness of our advertisements.
 
-1\. Permitted or required by law;   
-2\. Trying to protect against or prevent actual or potential fraud or unauthorized transactions; or   
-3\. Investigating fraud that has already taken place. 
+In connection with serving content and providing analytics and advertisement services, third parties may collect certain information about your visits to our or other websites. These third parties may set and access their own tracking technologies such as cookies and may otherwise collect or have access to your IP address, browser type, type of device you use to access our website and domain name from which you arrived at our website, device identifier, location-data, and specific web pages on our website through which you click, among other information. We may share device identifier, de-personalized information, usage information and similar information about visitors with third-party advertising companies, analytics providers, and other vendors for similar purposes.
 
-Personal information is not provided to these agencies or companies for marketing purposes. We may also share statistical or aggregated information about our users with advertisers, business partners, sponsors and other third parties. No personal information is supplied in these cases. This data is used to customize our web site content and advertising to deliver a better experience to our users. In the event Collections Etc. or its subsidiaries or affiliates or their assets are sold, merged or otherwise involved in a corporate transaction, your personal information and third party personal information will likely be involved in that transaction. Before any such change in ownership or transfer of personal information in a manner not previously disclosed in this privacy policy, we will post a notice on this web site or send out a notice. You (and any third parties) will have the opportunity at that time to opt out of any such transfer or new use of personal information.
+Tracking technologies, including those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Some of the of service providers we use to perform advertising services may be members of the Network Advertising Initiative ("NAI") or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding targeted advertising and the "opt-out" procedures of NAI members. You may also want to visit <http://www.aboutads.info/choices/>, which provides information regarding targeted advertising and offers an "opt-out" by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while online.
 
-Third Party Sites  
-You may visit other web sites, through links on our site, who may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those web sites linking from or to our site are not covered by this Policy, and we encourage you to be very cautious before you disclose your personal information to others.
+In addition, we set our own cookie in coordination with our online advertising vendor Conversant, LLC. (and its service providers) to assist us in determining which of our offers and advertisements to serve you on our site or elsewhere online. To opt-out of this cookie [click here](http://dtmc.shopjustice.com/adinfo/choice/prod/?type=fpc&cid=3270&cname=Justice&cmagic=3f7bcd&clogo=3270.png&loc=us&lang=en-us). Please note that this is a cookie-based opt-out, so if you clear/delete the cookies on your device and/or browser, you may need to opt back out using the link above.
 
-What are "cookies" and how does Collections Etc. use them? 
+### 6\. How We Respond To “Do Not Track” Signals
 
-Cookies are pieces of information that a web site sends to your computer while you are viewing the web site. These pieces of information allow the web site to remember important information that will make your use of that site more productive. For instance, we use cookies to remember and process the items added to your shopping cart. We do not use cookies to store any personal or financial information on your computer.
+**Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, our site does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” please visit[http://www.allaboutdnt.com](http://www.allaboutdnt.com/)**
 
-You may choose to have your computer warn you each time a cookie is sent or you may turn off all cookies. You do this through your browser settings. Each browser is a little different; so identify the correct way to do this through the Help menu in your specific browser. However, cookies allow you to take advantage of some of our web site's best features, including buying products, so we recommend that you leave this feature turned on. In some cases, failure to accept cookies may disable or render unusable some features of our web site.
+### 7\. Information You Disclose Publicly on our Sites.
 
-How do I know my information is secure? 
+Our sites may offer message boards, chat rooms, and other public areas (collectively, "Community Forums") where you can engage in social networking, interact with others, as well as have the opportunity to submit photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including personal information (collectively, "User Submissions"). To participate in Community Forums, you may be asked to select a username and password. Please do not use your (or anyone else's) real name as your username.
 
-Collections Etc. is committed to earning and keeping your trust. We understand the need for our customer's personal information and credit card information to remain secure and private. We use industry standard encryption technologies when transferring and receiving your personal information. On the Internet, when you see a solid key icon or a locked padlock icon in the lower portion of your browser window, this indicates that the site is secured through Secure Sockets Layer (SSL). Pages on our web site requesting personal information should always have one of these icons. In addition, only authorized Collections Etc. employees have access to customer personal information on our servers. While we cannot guarantee that loss, misuse or alteration to data will not occur, we take reasonable precautions to prevent such unfortunate occurrences.
+Note that anything you post to a Community Forum is public. Information you post or make available in the Community Forums may be viewed, collected or used by others. The restrictions in this Privacy Policy do not apply to your disclosure of information in Community Forums. Think carefully before you post and use caution before disclosing any Personal Information.
 
-Does Collections Etc. have a Kid's Privacy Policy? 
+User Submissions may be published online or offline in any media or format (currently existing or hereafter developed). We may also publish your name, voice, likeness and other personal information with your User Submissions, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Submissions you submit to our Community Forums, please review our [Terms of Use](http://www.shopjustice.com/customer-service/terms-of-use).
 
-Collections Etc. does not seek to solicit information from children under 18 years of age. No information should be submitted to this site by guests under 18 years of age, and guests under 18 years old are not allowed to register for our mailings, contests, or customer accounts. We recognize the need to protect the privacy of children. If a child submits information to us and we know that the person submitting the information is a child, we will not use it for any purpose. We will delete any information inadvertently given to us without parental consent as soon as we discover it and we will not disclose it to third parties. 
+### 8\. Information We Receive from Third Parties.
 
-Addressing California SB 27 - How can I opt-out on CollectionsEtc.com?
+We may receive information about you from third parties. For example, if you are on another website and you opt-in to receive information from Justice, that website will forward to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including personal information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected.
 
-For California Residents Only  
-Under California law, residents of California who have an established business relationship with Collections Etc. may choose to opt-out of Collections Etc. sharing their personal information with 3rd parties for marketing purposes. Collections Etc. customers can also opt-out of receiving future Collections Etc. catalogs.
+In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third party website or interactive service. We will not use information we collect solely through a "connection" for marketing purposes without consent.
 
-If you would like us not to share your personal information with 3rd parties and/or would like to stop receiving Collections Etc. catalogs, click here. 
+We may also supplement the information we collect about you with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-How can I update my information on your web site? 
+### 9\. Contracted Companies that Facilitate Communications and Transactions With You.
 
-If you have registered as a "Preferred Customer" on our web site, you may update your privacy preferences at any time. You may also contact us using any of the contact addresses listed below for any reason, including a request to be added or taken off a list, to access, correct or update your information, or if you have questions or concerns about our use of your information.
+We may hire companies to help deliver products or services, like a shipping company that delivers a package, or who may provide support for the internal operations or websites of our companies, or a company that helps fulfillment for online product orders. In those instances, there is a need to share your information with these contracted companies, but they in turn do not disclose or use that information for any other purpose. Your opt-out choices below will not apply to sharing of your information by us with any of these companies. **Note: our contracted companies are contractually bound to maintain the confidentiality and security of all customer information.**
 
-By Postal Mail  
-Collections Etc. Privacy Policy  
-Customer Care Department  
-2521 Busse Road  
-Elk Grove Village, IL 60007
+### 10\. Disclosure Required by Law and to Help Protect the Security and Safety of Our Websites.
 
-By Phone  
-Call seven days a week, 6:00 AM to midnight CST at 1-620-584-8000.
+Regardless of any opt-out choices that you make under 9 below, we will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including a court order or subpoena, or (b) will help to: enforce contest, sweepstakes, promotions, and/or game rules; protect your (c) safety or security; and/or, (d) protect the safety and security of our websites.
 
-By email  
-Email: [CustomerService@CollectionsEtc.com](mailto:CustomerService@CollectionsEtc.com?subject=Privacy%20Policy). Please specify the words "Privacy Policy" in the subject line. 
+### 11\. Choices You Have About the Collection, Use and Sharing of your Personal Information.
 
-Click [here](mailto:CustomerService@CollectionsEtc.com?subject=Unsubscribe) to unsubscribe from Collections Etc. periodic emailings. Please specify the word "Unsubscribe" in the subject line.
+With regard to personal information that you have provided under this Privacy Policy, there are several opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices.
 
-Please note: When you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.
+Your three opt-out choices are:
 
-Changes to the Collections Etc. Privacy Policy 
+(i). Third Parties: You may choose to opt out of receiving promotional materials from third parties and if so we will not release your personal information to them. If you do not choose this opt-out, we may release your personal information as set forth in Section 4 so that third parties can send you promotional communications and materials.
 
-Your use of our web site constitutes your agreement to the policies and procedures set forth in this privacy policy. In the event that Collections Etc. amends its Privacy Policy, these changes will be clearly posted on our site so that you can be kept informed of how, where, when and why we collect information and how we use it.
+(ii). Tween Brands and Affiliated Companies: You may choose to opt-out of receiving promotional materials from any of the Tween Brands companies and its affiliated companies, including Justice. In doing so, you may choose to opt-out of receiving all promotional materials delivered to you OR designate communications of a specific manner, such as postal mail, email, or voice-messaging.
 
-If you have any additional questions, please contact a Collections Etc. customer care representative at the contact points listed above.
+(iii). Complete Customer Opt-out: You may choose to opt-out of receiving promotional materials from all of the Tween Brands companies, its affiliated companies, and third parties.
 
-Copyright Laws  
-Collections Etc™ and other marks on our web site and in our catalog mailings are trademarks of Collections Etc. Inc. All content on this web site, including without limitation, the text, graphics, web site design, icons and images are the sole property of Collections Etc., Inc. Copyright 2005. Replication of the content of this web site in any manner without the express written consent of Collections Etc. Inc. is strictly prohibited. 
+Please keep in mind that any opt-out choices you make will not apply in situations where (a) you later make a specific request for information from us; (b) we use your personal information for either operational uses or fulfillment uses (as described above); or (c) we share your personal information under the provisions above with respect to "Contracted Companies That Facilitate Transactions with You, and "Disclosures Required by Law and to Help Protect the Security and Safety of Our Websites."
+
+There are several methods by which you can exercise your opt-out choices: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; (b) sending a written request via postal mail to: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054 or (c) telephone 1-866-246-5822 and press the Customer Service option key to leave a message for our privacy policy team. Regardless of which method you choose, please be sure to indicate your opt-out choice. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails.
+
+### 12\. California Residents.
+
+Under California law, you may make a written request to us about how we have shared your information with contracted partners for our direct marketing purposes and other third parties for their direct marketing purposes. In response to your written request, we may provide you with a notice describing the cost-free means to opt-out of our direct marketing promotions and/or other third party information sharing. There are two methods by which you can make this request: (a) sending a written request via email to: [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and by writing "Privacy Policy" in the subject line; or (b) sending a written request via postal mail to: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054.
+
+### 13\. Privacy Policy Questions.
+
+If you have questions or wish to send us comments, you can let us know by sending us an email at [privacy@tweenbrands.com](mailto:privacy@tweenbrands.com) and writing "Privacy Policy" in the subject line, or by writing to us at: Justice Privacy Policy, 8323 Walton Parkway, New Albany, OH 43054.
+
+Customers may also contact 1-866-246-5822 and press the appropriate option key to leave a message for our Privacy Policy team.
+
+### 14\. Security of Our Website.
+
+We use reasonable administrative, technical, personnel and physical measures to safeguard your personal information in its possession against loss, theft and unauthorized use, disclosure or modification. All information is stored behind firewalls. Credit information is encrypted both in transit and when stored with online databases.
+
+Thank you for reading our Privacy Policy. We may change our policy from time to time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by prominently posting notice of the changes on our websites covered by this Privacy Policy.
+
+Use of our websites signifies your acceptance of the terms of this Privacy Policy.
