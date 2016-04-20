@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skygarden.london privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201240id_/http%3A//skygarden.london/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skygarden.london privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420091759id_/http%3A//skygarden.london/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | SkyGarden
 
