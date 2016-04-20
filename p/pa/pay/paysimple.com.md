@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909021716id_/https%3A//paysimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paysimple.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420075758id_/https%3A//paysimple.com/privacy.html) for the most accurate reproduction.*
 
 # PaySimple Privacy Policy
 
-_Last Modified: October 16, 2013_
+_Last Modified: April 5, 2016_
 
 This Privacy Policy discloses the privacy practices for www.paysimple.com (including all sub-domains, the "Site"), which is owned and operated by PaySimple, Inc. ("PaySimple," "our," "we" or "us") as well as the use of any mobile device application created by PaySimple ("App"). This Privacy Policy applies to our collection and use of information from all visitors to the Site and all users of an App, including, without limitation, visitors using only free services offered on the Site and/or through the App.
 
@@ -14,7 +14,7 @@ Except as otherwise set forth in this Privacy Policy, PaySimple does not sell, s
 
 We may use contact information from registered or non-registered users to send promotional products and information about PaySimple, the Site or an App and/or on behalf of our partner companies.
 
-We may provide personally identifiable information of registered users to third party service providers and referral partners that work on behalf of or with us to provide some of the aspects of our services and to help us communicate with you. However, these service providers and referral partners do not have any independent right to disclose this information (except to the same extent we would have a right to disclose that information under this Privacy Policy).
+We may provide information, including personally identifiable information of registered users to third party service providers and referral partners that work on behalf of or with us to provide some of the aspects of our services, to help us communicate with you, or to provide you with ancillary services offered by such service providers and referral partners. We may also receive information about you, including personally identifiable information, from our third party service providers and referral partners. However, these service providers and referral partners do not have any independent right to disclose this information (except to the same extent we would have a right to disclose that information under this Privacy Policy).
 
 Although we currently do not have a parent company, subsidiaries, joint ventures, or other companies under common control with us (collectively, "Affiliates"), we may in the future. You hereby agree that we may share some or all of your personally identifiable information with these Affiliates. We will require our Affiliates to comply with this Privacy Policy.
 
