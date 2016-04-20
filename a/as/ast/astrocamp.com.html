@@ -1,55 +1,71 @@
-<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2015-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151213071848id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2016-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160420074055id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
     <title>Horoscope - Astrology, Daily Horoscope, 2010 Horoscope </title>
     <meta name="description" content="AstroCamp.com FREE Astrology and Horoscope Zone. Our FREE Horoscopes and Astrology includes 2010 astrology, horoscope compatibility,  love horoscope, birth horoscope, daily horoscope, 2009 horoscope ">
     <meta name="keywords" content="horoscopes, astrology, free daily horoscopes, zodiac horoscopes, monthly horoscopes, 2010 horoscope, 2010 astrology, astrological remedies,  aries horoscope, taurus horoscope, gemini horoscope, cancer horoscope, leo horoscope, virgo horoscope, libra horoscope zone, scorpio horoscope,  sagittarius astrology, capricorn horoscope, aquarius horoscope, pisces Astrology zone">
     <link rel="stylesheet" href="css/style.css">
-    <style type="text/css">
-        <!
-        -- body
-        {
-            margin-left: 0px;
-            margin-top: 0px;
-            margin-right: 0px;
-            margin-bottom: 0px;
-        }
-        -- ></style>
-<style type="text/css" media="screen,projection"></style></head>
+    
+<link rel="stylesheet" type="text/css" href="/dist/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/dist/css/bootstrap-theme.css">
+<link rel="stylesheet" type="text/css" href="/dist/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/dist/css/ac-global-min.css">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1581367602176475"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/dist/js/ac-global.js"></script>
+<script type="text/javascript" src="/assets/js/ie-emulation-modes-warning.js"></script>
+<script type="text/javascript" src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+ <!--[if lt IE 9]>
+      <script type="text/javascript" src="/assets/js/ie8-responsive-file-warning.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+ <![endif]-->
+</head>
 <body>
-    <table width="1003" border="0" cellspacing="0" cellpadding="0" align="center" style="border: 3px solid #f3f3f3;">
-        <tbody><tr>
-            <td colspan="3">
-                <!--Start Header -->
-                <!--include virtual="/include_db.asp"-->
+<div class="container">
+        <!--include virtual="/include_db.asp"-->
 
 
 <!--app download script-->
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=112718628891441"></script><script type="text/javascript">
-    window.onload = function () {
+<script type="text/javascript">
+    $(document).ready(function () {
         if (isMobileJS.Android()) {
             if (!getCookiesAppPopup()) {
-                if (document.getElementById('appDownload').style.display == 'none') {
-                    document.getElementById('overlayshow').style.display = "block";
-                    document.getElementById('appDownload').style.display = "block";
-                    setonclickfunctionapp();
-                }
+                $('#appDownload').modal('toggle');
             }
         }
+    });
 
-        if ('' == 'true')
-        {
+
+
+
+    window.onload = function () {
+        //        if (isMobileJS.Android()) {
+        //            if (!getCookiesAppPopup()) {
+        //                if (document.getElementById('appDownload').style.display == 'none') {
+        //                    document.getElementById('overlayshow').style.display = "block";
+        //                    document.getElementById('appDownload').style.display = "block";
+        //                    setonclickfunctionapp();
+        //                }
+        //            }
+        //        }
+
+        if ('' == 'true') {
             showHidediv(document.getElementById('ddlCountry'));
         }
     }
 </script>
  <!---end--->
 
-    <script type="text/javascript">
-        window.google_analytics_uacct = "UA-245702-6";
-    </script>
+  <!--  <script type="text/javascript">
+        //window.google_analytics_uacct = "UA-245702-6";
+    </script>-->
     
     <script type="text/javascript">
     <!--
@@ -67,715 +83,429 @@
 
     <script language="JavaScript">
     <!--
-    function resizeIframeWidth(frame){
-        E = getElementById(frame);
-        // Set width of iframe according to its content
-        if (e.Document && e.Document.body.scrollWidth) //ie5+ syntax
-            e.width = e.contentWindow.document.body.scrollWidth;
-        else if (e.contentDocument && e.contentDocument.body.scrollWidth) //ns6+ & opera syntax
-            e.width = e.contentDocument.body.scrollWidth + 35;
-        else (e.contentDocument && e.contentDocument.body.offsetWidth) //standards compliant syntax – ie8
+        function resizeIframeWidth(frame) {
+            E = getElementById(frame);
+            // Set width of iframe according to its content
+            if (e.Document && e.Document.body.scrollWidth) //ie5+ syntax
+                e.width = e.contentWindow.document.body.scrollWidth;
+            else if (e.contentDocument && e.contentDocument.body.scrollWidth) //ns6+ & opera syntax
+                e.width = e.contentDocument.body.scrollWidth + 35;
+            else (e.contentDocument && e.contentDocument.body.offsetWidth) //standards compliant syntax – ie8
             e.width = e.contentDocument.body.offsetWidth + 35;
-    }
-    //-->
+        }
+        //-->
+        $(document).ready(function () {
+            $("[data-toggle=popover]").popover({
+                html: true,
+                content: function () {
+                    return $('#popover-content').html();
+                }
+            });
+        });
+
     </script>
-
-<table border="0" width="100%">
-<tbody><tr>
-<td colspan="6">
-<div class="topbg">
-    <a href="/horoscope/horoscope2016.asp" class="topmenu" title="Get Horoscope 2016"><b>Horoscope 2016</b></a> | 
-    <a href="/chinese-horoscope-2016.html" class="topmenu" title="Chinese Horoscope 2016"><b>Chinese Horoscope 2016</b></a> |       
-    <a href="/horoscope/rashifal2016.asp" class="topmenu" title="Rashifal 2016"><b>राशिफल 2016</b></a> |
-    <a href="/rasi-palan-2016.html" class="topmenu" title="Get Rasi Palan 2016"><b>Rasi Palan 2016</b></a> |
-    <a href="/horoscope/numerology2016.asp" class="topmenu" title="Numerology Horoscope 2016"><b>Numerology 2016</b></a> |   
-    <!--<a href="/Lal-kitab-astrology-2015-summarized.asp" class="topmenu" title="Lalkitab Horoscope 2015"><b>Lalkitab Horoscope 2015</b></a> |-->
-   <a href="http://contasty.com/" class="topmenu" style="float:right;" title="Contest Network"><b>Contest Network</b></a>
-</div>
-
-</td>
-</tr>
-    <tr>
-     <td scope="col">
         
-          </td>
-               <td scope="col">
-        <a href="http://www.youtube.com/AstroSageIndia" target="_blank">
-          <img src="/images/astrology-youtube.png" border="0" alt="Astrology on Youtube">
-         </a>
-          </td>
-       
-          <td scope="col">
-        <a href="http://twitter.com/punitastrologer" target="_blank">
-          <img src="/images/twitter-ico.png" border="0" alt="AstroCAMP on Twitter">
-         </a>
-          </td>
-          <td scope="col">
-        <a href="http://www.facebook.com/astrology.horoscope" target="_blank">
-          <img src="/images/facebook-ico.png" border="0" alt="AstroCAMP on Facebook">
-         </a>
-          </td>
-         
-           
-          <td scope="col" align="center" width="220">
-            <div>
-                <a href="/index.asp" title="AsotrCAMP.com Home Page" class="topmenu">Home</a>&nbsp;| <a href="/contactus.asp" title="Contact AstroCAMP.com" class="topmenu">Contact Us</a>&nbsp;| 
-                        
-                        <a href="mailto:customercare@astrocamp.com" class="popup topmenu" title="Contact AstroCAMP.com Customer Care" style="text-decoration:none">Customer 
-            Care
-            <span class="Mobnum"><font style="font-size:13px;">customercare@astrocamp.com<br>+91 95606 70006 (10AM to 6PM IST)</font></span></a>
-                        
-                                      
-                       
-            </div>
-        </td>
-        <td scope="col" align="right">
-            <form action="http://www.google.com/cse" id="cse-search-box">
-                <div>
+    <div class="row desktop contact-row"><ul class="topnav-alt pull-left">
+    <li><a href="/" title="AstroCAMP.com" class="topmenu">Home</a></li>
+    <li><a href="/contactus.asp" title="Contact AstroCAMP.com" class="topmenu">Contact Us</a></li>
+    <li><a href="mailto:customercare@astrocamp.com" class="popup topmenu" title="Contact AstroCAMP.com Customer Care" style="text-decoration: none">Customer Care <span class="Mobnum"><font style="font-size: 13px;">
+           customercare@astrocamp.com<br>+91 95606 70006 (9AM to 6PM IST)</font></span></a> </li>
+</ul>
+<div class="topnav-social navbar-nav pull-left">
+   <a href="http://www.youtube.com/AstroSageIndia" target="_blank" data-toggle="tooltip-b" title="Subscribe us on YouTube"><i class="fa fa-youtube-square text-youtube"></i></a>
+   <a href="http://twitter.com/punitastrologer" target="_blank" data-toggle="tooltip-b" title="Follow us on Twitter"><i class="fa fa-twitter-square text-twitter"></i></a>
+   <a href="http://www.facebook.com/astrology.horoscope" target="_blank" data-toggle="tooltip-b" title="Like us on Facebook"><i class="fa fa-facebook-square text-fb"></i></a>
+</div> 
+ <form action="http://www.google.com/cse" id="cse-search-box" class="form-inline pull-right">
+                <div class="form-group">
+                    <label class="sr-only" for="exampleInputAmount">Search</label>
                     <input type="hidden" name="cx" value="partner-pub-7494543079410386:4090402924">
                     <input type="hidden" name="ie" value="UTF-8">
-                    <input type="text" name="q" size="40">
-                    <input type="submit" name="sa" value="Search">
+                    <input type="text" class="form-control" name="q" size="40">                    
                 </div>
+                <input type="submit" name="sa" value="Search" class="btn btn-danger">
             </form>
             <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-        </td>
-        
-    </tr>
-    <tr>
-        <td height="145" colspan="6" valign="top" background="/images/header.gif" scope="col" style="background-repeat: no-repeat;">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td width="10%" height="103" scope="col">
-                        <a href="http://www.astrocamp.com"><img src="/images/img_transparent.gif" alt="AstroCAMP.com" style="border:0"></a>
-                    </td>
-                    <td width="27%" scope="col">
-                        &nbsp;
-                    </td>
-                    <td width="63%" scope="col">
-                       <div>
-                          <table cellspacing="0" cellpadding="0" width="100%" border="0">
-                    <tbody><tr>
-                      <td><div align="left">
-                        <a title="Aries Horoscope 2016" href="/horoscope/arieshoroscope2016.asp" onmouseover="roll('aries', '/images/sign_images/aries-hover.gif')" onmouseout="roll('aries', '/images/sign_images/aries.gif')">
-
-                          <img src="/images/sign_images/aries.gif" width="50" height="65" border="0" alt="Aries Horoscope – Aries Astrology" name="aries">
-
-                        </a>
-                        </div>
-                      </td>
-                       <td>
-                        <div align="left">
-                          <a title="Taurus Horoscope 2016" href="/horoscope/taurushoroscope2016.asp" onmouseover="roll('taurus', '/images/sign_images/taurus-hover.gif')" onmouseout="roll('taurus', '/images/sign_images/taurus.gif')">
-
-                            <img src="/images/sign_images/taurus.gif" width="50" height="65" border="0" alt="Taurus Horoscope – Astrology" name="taurus">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Gemini Horoscope 2016" href="/horoscope/geminihoroscope2016.asp" onmouseover="roll('gemini', '/images/sign_images/gemini-hover.gif')" onmouseout="roll('gemini', '/images/sign_images/gemini.gif')">
-
-                            <img src="/images/sign_images/gemini.gif" width="50" height="65" border="0" alt="Gemini Horoscope - Astrology" name="gemini">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Cancer Horoscope 2016" href="/horoscope/cancerhoroscope2016.asp" onmouseover="roll('cancer', '/images/sign_images/cancer-hover.gif')" onmouseout="roll('cancer', '/images/sign_images/cancer.gif')">
-
-                            <img src="/images/sign_images/cancer.gif" width="50" height="65" border="0" alt="Cancer Horoscope - Astrology" name="cancer">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Leo Horoscope 2016" href="/horoscope/leohoroscope2016.asp" onmouseover="roll('leo', '/images/sign_images/leo-hover.gif')" onmouseout="roll('leo', '/images/sign_images/leo.gif')">
-
-                            <img src="/images/sign_images/leo.gif" width="50" height="65" border="0" alt="Leo Horoscope - Astrology" name="leo">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Virgo Horoscope 2016" href="/horoscope/virgohoroscope2016.asp" onmouseover="roll('virgo', '/images/sign_images/virgo-hover.gif')" onmouseout="roll('virgo', '/images/sign_images/virgo.gif')">
-
-                            <img src="/images/sign_images/virgo.gif" width="50" height="65" border="0" alt="Virgo Horoscope - Astrology" name="virgo">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Libra Horoscope 2016" href="/horoscope/librahoroscope2016.asp" onmouseover="roll('libra', '/images/sign_images/libra-hover.gif')" onmouseout="roll('libra', '/images/sign_images/libra.gif')">
-
-                            <img src="/images/sign_images/libra.gif" width="50" height="65" border="0" alt="Libra Horoscope - Astrology" name="libra">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Scorpio Horoscope 2016" href="/horoscope/scorpiohoroscope2016.asp" onmouseover="roll('scorpio', '/images/sign_images/scorpio-hover.gif')" onmouseout="roll('scorpio', '/images/sign_images/scorpio.gif')">
-
-                            <img src="/images/sign_images/scorpio.gif" width="50" height="65" border="0" alt="Scorpio Horoscope - Astrology" name="scorpio">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Sagittarius Horoscope 2016" href="/horoscope/sagittariushoroscope2016.asp" onmouseover="roll('sagittarius', '/images/sign_images/sagittarius-hover.gif')" onmouseout="roll('sagittarius', '/images/sign_images/sagittarius.gif')">
-
-                            <img src="/images/sign_images/sagittarius.gif" width="50" height="65" border="0" alt="Sagittarius Horoscope - Astrology" name="sagittarius">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Capricorn Horoscope 2016" href="/horoscope/capricornhoroscope2016.asp" onmouseover="roll('capricorn', '/images/sign_images/capricorn-hover.gif')" onmouseout="roll('capricorn', '/images/sign_images/capricorn.gif')">
-
-                            <img src="/images/sign_images/capricorn.gif" width="50" height="65" border="0" alt="Capricorn Horoscope - Astrology" name="capricorn">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Aquarius Horoscope 2016" href="/horoscope/aquariushoroscope2016.asp" onmouseover="roll('aquarius', '/images/sign_images/aquarius-hover.gif')" onmouseout="roll('aquarius', '/images/sign_images/aquarius.gif')">
-
-                            <img src="/images/sign_images/aquarius.gif" width="50" height="65" border="0" alt="Aquarius Horoscope - Astrology" name="aquarius">
-
-                          </a>
-                        </div>
-                      </td>
-                      <td>
-                        <div align="left">
-                          <a title="Pisces Horoscope 2016" href="/horoscope/pisceshoroscope2016.asp" onmouseover="roll('pisces', '/images/sign_images/pisces-hover.gif')" onmouseout="roll('pisces', '/images/sign_images/pisces.gif')">
-
-                            <img src="/images/sign_images/pisces.gif" width="50" height="65" border="0" alt="Pisces Horoscope - Astrology" name="pisces">
-
-                          </a>
-                        </div>
-                      </td>
-                      
-
-                      </tr>
-                    
-                    </tbody></table>
-                       </div> 
-                    </td>
-                    <td scope="col">
-                        &nbsp;
-                    </td>
-                </tr>
-                <tr>
-                    <td height="29" colspan="3" scope="col">
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                                <td width="4%" height="25" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td width="96%" scope="col">
-                                    <!-- SmartMenus 6 config and script core files -->
-
-<script type="text/javascript" src="/script/c_config.js"></script>
-
-<script type="text/javascript" src="/script/c_smartmenus.js"></script>
-
-<!-- Sample menu definition -->
-<ul id="Menu1" class="MM">
-    <li><a href="/" title="AstroCAMP.com Home">Home&nbsp;&nbsp;</a></li>
-    <li><a href="/allservices.asp" title="AstroCAMP.com Horoscope and Astrology Services">&nbsp;&nbsp;Services&nbsp;&nbsp;</a></li>
-    <li><a href="/horoscope" title="Horoscope Home" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Horoscopes&nbsp;&nbsp;</a>
-        <ul class="SM">
-            <li><a href="/horoscope/daily-horoscope.asp" title="Get Daily Horoscope for today" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Daily Horoscopes&nbsp;&nbsp;</a>
-                <ul class="SM">
-                    <li><a href="/horoscope/daily-aries-horoscope.asp" title="Get Today's Aries Horoscope">Daily Aries Horoscope </a></li>
-                    <li><a href="/horoscope/daily-taurus-horoscope.asp" title="Get Today's Taurus Horoscope">Daily Taurus Horoscope </a></li>
-                    <li><a href="/horoscope/daily-gemini-horoscope.asp" title="Get Today's Gemini Horoscope">Daily Gemini Horoscope </a></li>
-                    <li><a href="/horoscope/daily-cancer-horoscope.asp" title="Get Today's Cancer Horoscope">Daily Cancer Horoscope </a></li>
-                    <li><a href="/horoscope/daily-leo-horoscope.asp" title="Get Today's Leo Horoscope">Daily Leo Horoscope </a></li>
-                    <li><a href="/horoscope/daily-virgo-horoscope.asp" title="Get Today's Virgo Horoscope">Daily Virgo Horoscope </a></li>
-                    <li><a href="/horoscope/daily-libra-horoscope.asp" title="Get Today's Libra Horoscope">Daily Libra Horoscope </a></li>
-                    <li><a href="/horoscope/daily-scorpio-horoscope.asp" title="Get Today's Scorpio Horoscope">Daily Scorpio Horoscope </a></li>
-                    <li><a href="/horoscope/daily-sagittarius-horoscope.asp" title="Get Today's Sagittarius Horoscope">Daily Sagittarius Horoscope </a></li>
-                    <li><a href="/horoscope/daily-capricorn-horoscope.asp" title="Get Today's Capricorn Horoscope">Daily Capricorn Horoscope </a></li>
-                    <li><a href="/horoscope/daily-aquarius-horoscope.asp" title="Get Today's Aquarius Horoscope">Daily Aquarius Horoscope </a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/daily-pisces-horoscope.asp" title="Get Today's Pisces Horoscope">Daily Pisces Horoscope </a></li>
-                </ul>
-            </li>
-            <li><a href="/horoscope/weekly-horoscope.asp" title="Get Weekly Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Weekly Horoscopes&nbsp;&nbsp;</a>
-                <ul class="SM">
-                    <li><a href="/horoscope/weekly-aries-horoscope.asp" title="Get Weekly Aries Horoscope Here">Weekly Aries Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-taurus-horoscope.asp" title="Get Weekly Taurus Horoscope Here">Weekly Taurus Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-gemini-horoscope.asp" title="Get Weekly Gemini Horoscope Here">Weekly Gemini Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-cancer-horoscope.asp" title="Get Weekly Cancer Horoscope Here">Weekly Cancer Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-leo-horoscope.asp" title="Get Weekly Leo Horoscope Here">Weekly Leo Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-virgo-horoscope.asp" title="Get Weekly Virgo Horoscope Here">Weekly Virgo Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-libra-horoscope.asp" title="Get Weekly Libra Horoscope Here">Weekly Libra Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-scorpio-horoscope.asp" title="Get Weekly Scorpio Horoscope Here">Weekly Scorpio Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-sagittarius-horoscope.asp" title="Get Weekly Sagittarius Horoscope Here">Weekly Sagittarius Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-capricorn-horoscope.asp" title="Get Weekly Capricorn Horoscope Here">Weekly Capricorn Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-aquarius-horoscope.asp" title="Get Weekly Aquarius Horoscope Here">Weekly Aquarius Horoscope </a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/weekly-pisces-horoscope.asp" title="Get Weekly Pisces Horoscope Here">Weekly Pisces Horoscope </a></li>
-                </ul>
-            </li>
-            
-            <li><a href="/horoscope/weeklylove.asp" title="Get Weekly Love Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Weekly Love Horoscopes&nbsp;&nbsp;</a>
-                <ul class="SM">
-                    <li><a href="/horoscope/weekly-aries-love-horoscope.asp" title="Get Weekly Aries Love Horoscope Here">Weekly Aries Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-taurus-love-horoscope.asp" title="Get Weekly Taurus Love Horoscope Here">Weekly Taurus Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-gemini-love-horoscope.asp" title="Get Weekly Gemini Love Horoscope Here">Weekly Gemini Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-cancer-love-horoscope.asp" title="Get Weekly Cancer Love Horoscope Here">Weekly Cancer Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-leo-love-horoscope.asp" title="Get Weekly Leo Horoscope Love Here">Weekly Leo Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-virgo-love-horoscope.asp" title="Get Weekly Virgo Love Horoscope Here">Weekly Virgo Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-libra-love-horoscope.asp" title="Get Weekly Libra Love Horoscope Here">Weekly Libra Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-scorpio-love-horoscope.asp" title="Get Weekly Scorpio Love Horoscope Here">Weekly Scorpio Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-sagittarius-love-horoscope.asp" title="Get Weekly Sagittarius Love Horoscope Here">Weekly Sagittarius Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-capricorn-love-horoscope.asp" title="Get Weekly Capricorn Love Horoscope Here">Weekly Capricorn Love Horoscope </a></li>
-                    <li><a href="/horoscope/weekly-aquarius-love-horoscope.asp" title="Get Weekly Aquarius Love Horoscope Here">Weekly Aquarius Love Horoscope </a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/weekly-pisces-love-horoscope.asp" title="Get Weekly Pisces Love Horoscope Here">Weekly Pisces Love Horoscope </a></li>
-                </ul>
-            </li>
-            
-            <li><a href="/horoscope/monthly-horoscope.asp" title="Monthly December Horoscope and Astrology" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Monthly Horoscopes&nbsp;&nbsp;</a>
-            <ul class="SM">
-                    <li><a href="/horoscope/monthly-aries-horoscope.asp" title="Get December Aries Horoscope Here">December Aries Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-taurus-horoscope.asp" title="Get December Taurus Horoscope Here">December Taurus Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-gemini-horoscope.asp" title="Get December Gemini Horoscope Here">December Gemini Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-cancer-horoscope.asp" title="Get December Cancer Horoscope Here">December Cancer Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-leo-horoscope.asp" title="Get December Leo Horoscope Here">December Leo Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-virgo-horoscope.asp" title="Get December Virgo Horoscope Here">December Virgo Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-libra-horoscope.asp" title="Get December Libra Horoscope Here">December Libra Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-scorpio-horoscope.asp" title="Get December Scorpio Horoscope Here">December Scorpio Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-sagittarius-horoscope.asp" title="Get December Sagittarius Horoscope Here">December Sagittarius Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-capricorn-horoscope.asp" title="Get December Capricorn Horoscope Here">December Capricorn Horoscope </a></li>
-                    <li><a href="/horoscope/monthly-aquarius-horoscope.asp" title="Get December Aquarius Horoscope Here">December Aquarius Horoscope </a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/monthly-pisces-horoscope.asp" title="Get December Pisces Horoscope Here">December Pisces Horoscope </a></li>
-                </ul>
-            </li> 
-            
-             <li><a href="/horoscope/horoscope2016.asp" title="Get 2015 Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Horoscope 2016&nbsp;&nbsp;</a> 
-            <ul class="SM">
-                    <li><a href="/horoscope/arieshoroscope2016.asp" title="Get 2016 Aries Horoscope">Aries Horoscope 2016</a></li>
-                    <li><a href="/horoscope/taurushoroscope2016.asp" title="Get 2016 Taurus Horoscope">Taurus Horoscope 2016</a></li>
-                    <li><a href="/horoscope/geminihoroscope2016.asp" title="Get 2016 Gemini Horoscope">Gemini Horoscope 2016</a></li>
-                    <li><a href="/horoscope/cancerhoroscope2016.asp" title="Get 2016 Cancer Horoscope">Cancer Horoscope 2016</a></li>
-                    <li><a href="/horoscope/leohoroscope2016.asp" title="Get 2016 Leo Horoscope">Leo Horoscope 2016</a></li>
-                    <li><a href="/horoscope/virgohoroscope2016.asp" title="Get 2016 Virgo Horoscope">Virgo Horoscope 2016</a></li>
-                    <li><a href="/horoscope/librahoroscope2016.asp" title="Get 2016 Libra Horoscope">Libra Horoscope 2016</a></li>
-                    <li><a href="/horoscope/scorpiohoroscope2016.asp" title="Get 2016 Scorpio Horoscope">Scorpio Horoscope 2016</a></li>
-                    <li><a href="/horoscope/sagittariushoroscope2016.asp" title="Get 2016 Sagittarius Horoscope">Sagittarius Horoscope 2016</a></li>
-                    <li><a href="/horoscope/capricornhoroscope2016.asp" title="Get 2016 Capricorn Horoscope">Capricorn Horoscope 2016</a></li>
-                    <li><a href="/horoscope/aquariushoroscope2016.asp" title="Get 2016 Aquarius Horoscope">Aquarius Horoscope 2016</a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/pisceshoroscope2016.asp" title="Get 2016 Pisces Horoscope">Pisces Horoscope 2016</a></li>
-                </ul></li>
 
 
-                <li><a href="/horoscope/rashifal2016.asp" title="Get 2015 Horoscope Here" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;राशिफल 2016&nbsp;&nbsp;</a> 
-            <ul class="SM">
-                    <li><a href="/horoscope/meshrashifal2016.asp" title="Get मेष राशिफल 2016">मेष राशिफल 2016</a></li>
-                    <li><a href="/horoscope/vrishabharashifal2016.asp" title="Get वृषभ राशिफल 2016">वृषभ राशिफल 2016</a></li>
-                    <li><a href="/horoscope/mithunrashifal2016.asp" title="Get मिथुन राशिफल 2015">मिथुन राशिफल 2016</a></li>
-                    <li><a href="/horoscope/karkarashifal2016.asp" title="Get कर्क  राशिफल 2016">कर्क राशिफल 2016</a></li>
-                    <li><a href="/horoscope/simharashifal2016.asp" title="Get सिंह राशिफल 2016">सिंह राशिफल 2016</a></li>
-                    <li><a href="/horoscope/kanyarashifal2016.asp" title="Get कन्या राशिफल 2016">कन्या राशिफल 2016</a></li>
-                    <li><a href="/horoscope/tularashifal2016.asp" title="Get तुला राशिफल 2016">तुला राशिफल 2016</a></li>
-                    <li><a href="/horoscope/vrishchikarashifal2016.asp" title="Get वृश्चिक राशिफल 2016">वृश्चिक राशिफल 2016</a></li>
-                    <li><a href="/horoscope/dhanurashifal2016.asp" title="Get धनु राशिफल 2016">धनु राशिफल 2016</a></li>
-                    <li><a href="/horoscope/makararashifal2016.asp" title="Get मकर राशिफल 2016">मकर राशिफल 2016</a></li>
-                    <li><a href="/horoscope/aquariushoroscope2016.asp" title="Get कुम्भ राशिफल 2016">मकर राशिफल 2016</a></li>
-                    <li class="NOSEPARATOR"><a href="/horoscope/pisceshoroscope2016.asp" title="Get मीन राशिफल 2016">मीन राशिफल 2016</a></li>
-                </ul></li>
+   
 
-              <li><a href="/horoscope/numerology2016.asp" title="Get Numerology 2016 Horoscope Here">&nbsp;&nbsp;Numerology 2016 Horoscope&nbsp;&nbsp;</a></li>
-              <li><a href="/numerology-2016-hindi.html" title="Ankjyotish 2016 in Hindi">&nbsp;&nbsp;अंक ज्योतिष 2016&nbsp;&nbsp;</a></li>            
-              <li><a href="/chinese-horoscope-2016.html" title="Get 2016 Horoscope Here">&nbsp;&nbsp;Chinese Horoscope 2016&nbsp;&nbsp;</a></li>
-              <li><a href="#" title="Transit 2016" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Transit 2016&nbsp;&nbsp;</a>
-               <ul class="SM">
-                 <li class="NOSEPARATOR"><a href="/rahu-transit-2016.asp" title="Rahu Transit 2016">&nbsp;&nbsp;Rahu Transit 2016&nbsp;&nbsp;</a></li> 
-               </ul>
-              </li> 
-                         
-              <li><a href="/rasi-palan-2016.html" title="Get Rasi Palan 2016">&nbsp;&nbsp;Rasi Palan 2016&nbsp;&nbsp;</a></li>           
-              <li class="NOSEPARATOR"><a href="/tarot-reading-2016-horoscope.html" title="Tarot Horoscope 2016">&nbsp;&nbsp;Tarot Horoscope 2016&nbsp;&nbsp;</a></li>
-           
-             </ul>
-            </li>          
-       
-    <li><a href="/astrology-software.asp" title="Softwares" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Softwares&nbsp;&nbsp;</a>
-        <ul class="SM">
+
+</div>
+    <div class="row desktop border-b"><div class="topbar-custom">      
+    <ul class="topnav navbar-nav">
+      <li><a href="/horoscope/horoscope2016.asp" class="topmenu" title="Get Horoscope 2016"><b>Horoscope 2016</b></a></li>
+      <li><a href="/chinese-horoscope-2016.html" class="topmenu" title="Chinese Horoscope 2016"><b>Chinese Horoscope 2016</b></a></li>
+      <li><a href="/horoscope/rashifal2016.asp" class="topmenu" title="Rashifal 2016"><b>राशिफल 2016</b></a></li>
+      <li><a href="/rasi-palan-2016.html" class="topmenu" title="Get Rasi Palan 2016"><b>Rasi Palan 2016</b></a></li>
+      <li><a href="/horoscope/numerology2016.asp" class="topmenu" title="Numerology Horoscope 2016"><b>Numerology 2016</b></a></li>
+      <li><a href="/lal-kitab-horoscope-2016.html" class="topmenu" title="Lalkitab Horoscope 2016"><b>Lalkitab Horoscope 2016</b></a></li>
+
+      <li><a href="/chaitra-navratri-2012-date.html" class="topmenu" title="Navratri 2016: Chaitra Navratri 2016"><b>Navratri 2016</b></a></li>
+      <li><a href="/hanuman-jayanti-2015.html" class="topmenu" title="Hanuman Jayanti 2016"><b>Hanuman Jayanti 2016</b></a></li>
+    </ul>   
+         
+</div></div>
+     
+    <div class="row"><div class="header-panel desktop">
+ <div class="col-xs-3">
+    <a href="http://www.astrocamp.com" class="navbar-brand"><img src="/images/logo.png" alt="AstroCAMP.com" width="250"></a>
+ </div>
+ <div class="col-xs-9">
+   <div class="show-grid navsign">
+    <div class="col-xs-1 text-center"><a href="/horoscope/arieshoroscope2016.asp"><img src="/images/signs/aries.png" width="50"><div>Aries</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/taurushoroscope2016.asp"><img src="/images/signs/taurus.png" width="50"><div>Taurus</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/geminihoroscope2016.asp"><img src="/images/signs/gemini.png" width="50"><div>Gemini</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/cancerhoroscope2016.asp"><img src="/images/signs/cancer.png" width="50"><div>Cancer</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/leohoroscope2016.asp"><img src="/images/signs/leo.png" width="50"><div>Leo</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/virgohoroscope2016.asp"><img src="/images/signs/virgo.png" width="50"><div>Virgo</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/librahoroscope2016.asp"><img src="/images/signs/libra.png" width="50"><div>Libra</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/scorpiohoroscope2016.asp"><img src="/images/signs/scorpio.png" width="50"><div>Scorpio</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/sagittariushoroscope2016.asp"><img src="/images/signs/sagittarius.png" width="50"><div>Sagittarius</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/capricornhoroscope2016.asp"><img src="/images/signs/capricorn.png" width="50"><div>Capricorn</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/aquariushoroscope2016.asp"><img src="/images/signs/aquarius.png" width="50"><div>Aquarius</div></a></div>
+    <div class="col-xs-1 text-center"><a href="/horoscope/pisceshoroscope2016.asp"><img src="/images/signs/pisces.png" width="50"><div>Pisces</div></a></div>
+   </div>
+ </div>
+</div>
+
+<nav class="navbar navbar-custom">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+       <li><a href="/" title="AstroCAMP.com Home">Home</a></li>
+        <li><a href="/allservices.asp" title="AstroCAMP.com Horoscope and Astrology Services">Services</a></li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Horoscopes <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/horoscope/daily-horoscope.asp" title="Get Daily Horoscope for today">Daily Horoscopes</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/weekly-horoscope.asp" title="Get Weekly Horoscope Here">Weekly Horoscopes</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/weeklylove.asp" title="Get Weekly Love Horoscope Here">Weekly Love Horoscopes</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/monthly-horoscope.asp" title="Monthly April Horoscope and Astrology">Monthly Horoscopes</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/horoscope2016.asp" title="Get 2015 Horoscope Here">Horoscope 2016</a> </li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/rashifal2016.asp" title="Get 2015 Horoscope Here">राशिफल 2016</a> </li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/horoscope/numerology2016.asp" title="Get Numerology 2016 Horoscope Here">Numerology 2016 Horoscope</a></li>
+            <li role="separator" class="divider"></li>
+              <li><a href="/lal-kitab-horoscope-2016.html" title="Lal Kitab Horoscope 2016 Predictions">Lal Kitab Horoscope 2016</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="/numerology-2016-hindi.html" title="Ankjyotish 2016 in Hindi">अंक ज्योतिष 2016</a></li>
+              <li role="separator" class="divider"></li>            
+              <li><a href="/chinese-horoscope-2016.html" title="Get 2016 Horoscope Here">Chinese Horoscope 2016</a></li>
+              <li role="separator" class="divider"></li>             
+              <li><a href="/rasi-palan-2016.html" title="Get Rasi Palan 2016">Rasi Palan 2016</a></li>  
+              <li role="separator" class="divider"></li>         
+              <li><a href="/tarot-reading-2016-horoscope.html" title="Tarot Horoscope 2016">Tarot Horoscope 2016</a></li>              
+          </ul>
+        </li>
+
+       <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Softwares <span class="caret"></span></a>
+       <ul class="dropdown-menu">
             <li><a href="/astrology-software.asp" title="Other Software">All Software</a></li>
-            <li><a href="/mobilekundli.asp" title="Mobile Kundli Software" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>Mobile Kundli &nbsp;&nbsp;</a>
-                <ul class="SM">
-                    <li><a href="/download.asp" title="Download Mobile Kundli Software">Download </a></li>
-                    <li><a href="/features.asp" title="Features of Mobile Kundli Software">Features </a></li>
-                    <li><a href="/screenshots.asp" title="Screen Shots of Mobile Kundli Software">Screen Shots </a></li>
-                    <li class="NOSEPARATOR"><a href="/buy.asp" title="Buy Mobile Kundli Software">Buy </a></li>
-                </ul>
-            </li>
-            <li><a href="/varahamihira.asp" title="Varahamihira Software" style="padding-right: 15px;"><span class="SMS"><img src="/images/v_arrow.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>Varahamihira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-                <ul class="SM">
-                    <li><a href="/varahamihira.asp" title="Features of Varahamihira Software">Features</a></li>
-                    <li><a href="#" title="Screen Shots of Varahamihira Software">Screen Shots</a></li>
-                    <li class="NOSEPARATOR"><a href="/productorder.asp?ItemId=40&amp;CatId=9" title="Buy Varahamihira Software">Buy </a></li>
-                </ul>
-            </li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/mobilekundli.asp" title="Mobile Kundli Software">Mobile Kundli </a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/varahamihira.asp" title="Varahamihira Software">Varahamihira&nbsp;</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/online-kundali-software-astrology-software.asp" title="Free Online Astrology Software / Web-based Software">MyKundali.com Internet / Web Software</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/kundali-astrology-software-nokia-phones.asp" title="Free Astrology Software for Nokia Phones">My Kundali For Nokia / Symbian Phones</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/astrology-magazine-nokia-phones.asp" title="Free Astrology Magazine for Nokia Phones">Astrology Magazine On Nokia Symbian</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/astrology-software-chrome-extension.asp" title="Free Astrology Software Extension for Chrome Browser">My Kundali Chrome Extension</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/gprs-wap-astrology-software-mobile-phones.asp" title="Free Astrology Software for GPRS/ WAP Mobile Phones">ASTROWAP - WAP / GPRS Astrology Software</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/online-gps-horary-astrology-software.asp" title="FREE Online GPS enabled Horary Astrology Software">GPSHorary.Com Online Horary Astrology Software</a></li>
+            <li role="separator" class="divider"></li>
             <li><a href="/kundli-software-android-astrology.asp" title="AstroSage Kundli for Android">AstroSage Kundli for Android</a></li>
-            <li class="NOSEPARATOR"><a href="/othersoftware.asp" title="Other Software">Other Software</a></li>
-        </ul>
-    </li>
-    <li><a href="/astrology/" title="Free Astrology" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Free Astrology&nbsp;&nbsp;</a>
-        <ul class="SM">
-            <li><a href="/kundli/" title="Get Free Birth Chart Here">&nbsp;&nbsp;Birth Chart (Kundli)&nbsp;&nbsp;</a></li>
-            <li><a href="/HoroscopeCompatibility.asp" title="Match Horoscope for free">&nbsp;&nbsp;Horoscope Compatibility&nbsp;&nbsp;</a></li>
-            <li><a href="/thirumanaporutham.asp" title="Thirumana Porutham for free">&nbsp;&nbsp;Thirumana Porutham&nbsp;&nbsp;</a></li>
-            <li><a href="/hora.asp" title="Get Free Hora Calculator">&nbsp;&nbsp;Daily Hora Calculator&nbsp;&nbsp;</a></li>
-            <li><a href="/rahuKaal.asp" title="Get Free Rahukalam Calculator">&nbsp;&nbsp;Rahukalam&nbsp;&nbsp;</a></li>
-            <li><a href="/choghadiya.asp" title="Get Free Choghadiya Calculator">&nbsp;&nbsp;Choghadiya&nbsp;&nbsp;</a></li>
-            <li><a href="/sunrise.asp" title="Get Free Sunrise &amp; Sunset Calculator">&nbsp;&nbsp;Sunrise &amp; Sunset&nbsp;&nbsp;</a></li>
-            <li><a href="/todaypanchang.asp" title="Get Free Today Panchang">&nbsp;&nbsp;Today Panchang&nbsp;&nbsp;</a></li>
-            <li><a href="/ZodiacSigns.asp" title="Get Free Zodiac Signs Horoscopes">&nbsp;&nbsp;Zodiac Signs&nbsp;&nbsp;</a></li>
-            <li class="NOSEPARATOR"><a href="/ramshalaka.asp" title="Get ramshalaka here.">&nbsp;&nbsp;Ramshalaka&nbsp;&nbsp;</a></li>
-        </ul>
-    </li>
-    <li><a href="/Horoscopes.asp" title="Get Free Horosocpe Here" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Free Reports&nbsp;&nbsp;</a>
-        <ul class="SM">
-            <li><a href="/sade_sati.asp" title="Get Free Sade Sati Calculator">&nbsp;&nbsp;Sade Sati Report&nbsp;&nbsp;</a></li>
-            <li><a href="/kalsarpayoga.asp" title="Get Free Kal sarpa dosh report">&nbsp;&nbsp;Kalsarpa Yoga Report&nbsp;&nbsp;</a></li>
-            <li><a href="/mangal_dasha.asp" title="Get Free Mangal Dosha / Manglik Calculator">&nbsp;&nbsp;Mangal Dosha Report&nbsp;&nbsp;</a></li>
-            <li><a href="/personalized-horoscope-2010.asp" title="Get Free Personalized Horoscope / Vedic Astrology Varshfal">&nbsp;&nbsp;Personalized Horoscope&nbsp;&nbsp;</a></li>
-            <li><a href="/transit-today.asp" title="Get Transit Predictions for Today">&nbsp;&nbsp;Transit Today&nbsp;&nbsp;</a></li>
-            <li class="NOSEPARATOR"><a href="/moonsign/calculator.asp" title="Find Your Moon Sign">&nbsp;&nbsp;Find Moon Sign&nbsp;&nbsp;</a></li>
-        </ul>
-    </li>
-    <li><a href="/astrology-articles.asp" title="Get Our Free Astrology Magazine" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Magazine&nbsp;&nbsp;</a>
-        <ul class="SM">
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Astrology" title="Read Astrology Articles">&nbsp;&nbsp;Astrology&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Horoscope" title="Read Horoscope Articles">&nbsp;&nbsp;Horoscope&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Dharm" title="Read Religion and Festivals Articles">&nbsp;&nbsp;Religion &amp; Festivals&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=StockMarket" title="Read Articles on Stock Market">&nbsp;&nbsp;Stock Market Astrology&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Celebrities" title="Read Celebrity Horoscope">&nbsp;&nbsp;Celebrity Horoscope&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Tutorials" title="Learn Vedic Astrology and Astrology Tutorials">&nbsp;&nbsp;Astrology Tutorials&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Movies" title="Read articles on Bollywood and Hollywood Movies and Celebirties">&nbsp;&nbsp;Movies&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Sports" title="Sports Articles">&nbsp;&nbsp;Sports&nbsp;&nbsp;</a></li>
-            <li class="NOSEPARATOR"><a href="http://www.astrocamp.com/content.asp?contenttype=News" title="Astrology News, Events and Latest Happenings">&nbsp;&nbsp;Astrology News&nbsp;&nbsp;</a></li>
-        </ul>
+            <li role="separator" class="divider"></li>
+            <li><a href="/othersoftware.asp" title="Other Software">Other Software</a></li>
+          </ul>
         </li>
-        <li>
-            <a href="" title="Resources" style="padding-right: 15px;"><span class="MMS" style="top: 9px; right: 4px; display: block;"><img src="/images/h_arrow_over.gif" alt="+" style="display:block;border:0;width:0;height:0;"></span>&nbsp;&nbsp;Resources&nbsp;&nbsp;</a>
-            <ul class="SM">
-                <li><a href="/kundli/kundali.asp">&nbsp;&nbsp;Online Kundali Software&nbsp;&nbsp;</a></li>
-                <li class="NOSEPARATOR"><a href="/lalkitab.html" title="Get Lal Kitab">&nbsp;&nbsp;Lal Kitab&nbsp;&nbsp;</a></li>                
-            </ul>
+
+       <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Free Astrology <span class="caret"></span></a>
+       <ul class="dropdown-menu">
+            <li><a href="/kundli/" title="Get Free Birth Chart Here">Birth Chart (Kundli)</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/HoroscopeCompatibility.asp" title="Match Horoscope for free">Horoscope Compatibility</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/thirumanaporutham.asp" title="Thirumana Porutham for free">Thirumana Porutham</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/hora.asp" title="Get Free Hora Calculator">Daily Hora Calculator</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/rahuKaal.asp" title="Get Free Rahukalam Calculator">Rahukalam</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/choghadiya.asp" title="Get Free Choghadiya Calculator">Choghadiya</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/sunrise.asp" title="Get Free Sunrise &amp; Sunset Calculator">Sunrise &amp; Sunset</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/todaypanchang.asp" title="Get Free Today Panchang">Today Panchang</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/ZodiacSigns.asp" title="Get Free Zodiac Signs Horoscopes">Zodiac Signs</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/ramshalaka.asp" title="Get ramshalaka here.">Ramshalaka</a></li>
+          </ul>
         </li>
-    <li class="NOSEPARATOR"><a href="/products.asp" title="AstroCAMP Products Shop">&nbsp;&nbsp;Astro Shop&nbsp;&nbsp;<img src="/images/horoscope-astrology-new0ld.gif"></a></li>
-</ul>
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
-<table border="0" style="width: 100%">
-    <tbody><tr>
-        <td height="80" colspan="5" scope="col">
-            <table border="0" cellspacing="0" cellpadding="0" width="100%">
-                <tbody><tr>
-                    <td width="1%" height="45" scope="col">
-                        &nbsp;
-                    </td>
-                    <td width="8%" scope="col">
-                        <div align="center">                            
-                                <a class="menufontdivider" title="List of all Horoscope and Astrology Services" href="/allservices.asp?Cat_Id=1">
-                                <img src="/images/2013-reports.png" width="38" height="36" border="0"></a>
-                                </div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="9%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Get consultation over phone" href="/allservices.asp?Cat_Id=4">
-                                <img src="/images/img_ph_service.jpg" width="45" height="45" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <img src="/images/img_line.gif" width="1" height="50">
-                    </td>
-                    <td width="10%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Career Horoscope Services and Reports" href="/service.asp?service_id=81">
-                                <img src="/images/icon_education.gif" width="67" height="35" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="8%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Finance Horoscope Services and Reports." href="/service.asp?service_id=82">
-                                <img src="/images/icon_finance.gif" width="34" height="40" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="10%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Gemstone and Remedies Astrology Services and Reports" href="/service.asp?service_id=84">
-                                <img src="/images/icon_gemstone.gif" width="51" height="37" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="9%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Love and Marriage Astrology Services and Reports" href="/service.asp?service_id=80">
-                                <img src="/images/icon_love.gif" width="42" height="34" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="8%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Lal Kitab Astrology Services and Reports" href="/service.asp?service_id=5">
-                                <img src="/images/icon_lalkitab.gif" width="34" height="34" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="8%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Questions Astrology Services and Reports" href="/allservices.asp?Cat_Id=3">
-                                <img src="/images/icon_questions.gif" width="39" height="36" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="8%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Health Astrology Services and Reports" href="/service.asp?service_id=7">
-                                <img src="/images/icon_health.gif" width="48" height="33" border="0"></a></div>
-                    </td>
-                    <td width="1%" rowspan="2" scope="col">
-                        <div align="center">
-                            <img src="/images/img_line.gif" width="1" height="50"></div>
-                    </td>
-                    <td width="11%" scope="col">
-                        <div align="center">
-                            <a class="menufontdivider" title="Birth Time Rectification Services" href="/service.asp?service_id=2">
-                                <img src="/images/icon_time.gif" width="35" height="34" border="0"></a></div>
-                    </td>
-                    <td width="1%" scope="col">
-                        &nbsp;
-                    </td>
-                </tr>
-                <tr>
-                    <td height="26" scope="col">
-                        &nbsp;
-                    </td>
-                    <td scope="col" width="73px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="2016 Horoscope and 2016 Personalized Reports" href="/allservices.asp?Cat_Id=1">2016
-                                Reports</a></span>
-                        </div>
-                    </td>
-                    <td scope="col" width="115px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Get consultation over phone" href="/allservices.asp?Cat_Id=4">Phone Consultation</a></span></div>
-                    </td>
-                    <td scope="col" width="88px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Career Astrology Reports" href="/service.asp?service_id=81">Career</a></span></div>
-                    </td>
-                    <td scope="col" width="123px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Finance Astrology Reports" href="/service.asp?service_id=82">Finance</a></span></div>
-                    </td>
-                    <td scope="col" width="105px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Gemstone and Remedies Horoscope and Astrology" href="/service.asp?service_id=84">Gemstone &amp;<br>
-                                Remedies</a></span></div>
-                    </td>
-                    <td scope="col" width="125px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Love and Marriage Analysis Services" href="/service.asp?service_id=80">Love &amp; Marriage</a></span></div>
-                    </td>
-                    <td scope="col" width="71px">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Lal Kitab Horoscopes" href="/service.asp?service_id=5">Lal Kitab</a></span></div>
-                    </td>
-                    <td scope="col">
-                        <div align="center">
-                            <span>&nbsp;<a class="menufontdivider" title="Ask a Question – Horary Service" href="/allservices.asp?Cat_Id=3">Questions</a></span></div>
-                    </td>
-                    <td scope="col">
-                        <div align="center">
-                            <span>&nbsp;<a class="menufontdivider" title="Health Astrological Analysis" href="/service.asp?service_id=7">Health</a></span></div>
-                    </td>
-                    <td scope="col">
-                        <div align="center">
-                            <span><a class="menufontdivider" title="Birth Time Rectification Horoscope and Astrology" href="/service.asp?service_id=2">Birth Time<br>
-                                Rectification</a></span></div>
-                    </td>
-                    <td width="1%" scope="col">
-                        &nbsp;
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
+
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Free Reports <span class="caret"></span></a>
+       <ul class="dropdown-menu">
+            <li><a href="/sade_sati.asp" title="Get Free Sade Sati Calculator">Sade Sati Report</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/kalsarpayoga.asp" title="Get Free Kal sarpa dosh report">Kalsarpa Yoga Report</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/mangal_dasha.asp" title="Get Free Mangal Dosha / Manglik Calculator">Mangal Dosha Report</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/personalized-horoscope-2010.asp" title="Get Free Personalized Horoscope / Vedic Astrology Varshfal">Personalized Horoscope</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/transit-today.asp" title="Get Transit Predictions for Today">Transit Today</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="/moonsign/calculator.asp" title="Find Your Moon Sign">Find Moon Sign</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Magazine <span class="caret"></span></a>
+       <ul class="dropdown-menu">
+           <li><a href="http://www.astrocamp.com/content.asp?contenttype=Astrology" title="Read Astrology Articles">Astrology</a></li>
+           <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Horoscope" title="Read Horoscope Articles">Horoscope</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Dharm" title="Read Religion and Festivals Articles">Religion &amp; Festivals</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=StockMarket" title="Read Articles on Stock Market">Stock Market Astrology</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Celebrities" title="Read Celebrity Horoscope">Celebrity Horoscope</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Tutorials" title="Learn Vedic Astrology and Astrology Tutorials">Astrology Tutorials</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Movies" title="Read articles on Bollywood and Hollywood Movies and Celebirties">Movies</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=Sports" title="Sports Articles">Sports</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="http://www.astrocamp.com/content.asp?contenttype=News" title="Astrology News, Events and Latest Happenings">Astrology News</a></li>
+          </ul>
+        </li>
+         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
+       <ul class="dropdown-menu">
+           <li><a href="/kundli/kundali.asp">Online Kundali Software</a></li>
+           <li role="separator" class="divider"></li>
+           <li><a href="/lalkitab.html" title="Get Lal Kitab">Lal Kitab</a></li>    
+          </ul>
+        </li>
+         <li><a href="/products.asp" title="AstroCAMP Products Shop">Astro Shop</a></li>
+         
+      </ul>
+    
+      
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<div class="service-panel desktop"> 
+   <h4 class="mobile">Paid Services</h4>
+   <div class="show-grid navservice">
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="List of all Horoscope and Astrology Services" href="/allservices.asp?Cat_Id=1"><img src="/images/2013-reports.png" width="38" height="36" alt=""><div>2016 Reports</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Get consultation over phone" href="/allservices.asp?Cat_Id=3"><img src="/images/img_ph_service.jpg" width="40" height="40" alt=""><div>Phone Consultation</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Career Horoscope Services and Reports" href="/service.asp?service_id=81"><img src="/images/icon_education.gif" width="67" height="35" alt=""><div>Career</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Finance Horoscope Services and Reports." href="/service.asp?service_id=82"><img src="/images/icon_finance.gif" width="34" height="40" alt=""><div>Finance</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Gemstone and Remedies Astrology Services and Reports" href="/service.asp?service_id=84"><img src="/images/icon_gemstone.gif" width="51" height="37" alt=""><div>Gemstone &amp; Remedies</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Love and Marriage Astrology Services and Reports" href="/service.asp?service_id=80"><img src="/images/icon_love.gif" width="42" height="34" alt=""><div>Love &amp; Marriage</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Lal Kitab Astrology Services and Reports" href="/service.asp?service_id=5"><img src="/images/icon_lalkitab.gif" width="34" height="34" alt=""><div>Lal Kitab</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Questions Astrology Services and Reports" href="/allservices.asp?Cat_Id=3"><img src="/images/icon_questions.gif" width="39" height="36" alt=""><div>Question</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Health Astrology Services and Reports" href="/service.asp?service_id=7"><img src="/images/icon_health.gif" width="48" height="33" alt=""><div>Health</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Birth Time Rectification Services" href="/service.asp?service_id=2"><img src="/images/icon_time.gif" width="35" height="34" alt=""><div>Birth Time Rectification</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="AstroSage Cloud (Silver Plan) - 1 Year" href="/service.asp?service_id=68"><img src="/images/astrosage-silver-plan.png" width="38" height="36" alt=""><div>AstroSage Cloud (Silver)</div></a></div>
+    <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="AstroSage Cloud (Gold Plan) - 1 Year" href="/service.asp?service_id=69"><img src="/images/astrosage-gold-plan.png" width="38" height="36" alt=""><div>AstroSage Cloud (Gold)</div></a></div>
+    <!--<div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Life reading for your whole life" href="/service.asp?service_id=85"><img src="/images/img_life.jpg" width="38" height="36" alt="" /><div>Life Reading</div></a></div> -->   
+</div>
+</div></div>
+   
 
 <script type="text/javascript" src="/script/appdownload-popup.js"></script>
-<link rel="stylesheet" href="/css/appdownload-popup.css" type="text/css">
-
-
 
 <!-- Modal -->
-<div id="overlayshow" style="display:none;"></div>
-<div id="appDownload" style="display:none;">
-            <div class="popup-header">
-                <a href="#" onclick="appDownloadPopup('cancel-app-popup', 'download-app');" class="closeapp">×</a>
-                <h4 class="popup-title">
-                    <b>AstroSage Kundli Android App</b>
-                 </h4>
+<div class="modal fade in" id="appDownload" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" class="close pull-left ui-margin-r" data-dismiss="modal" aria-hidden="true" style="font-size: 36px; margin-top: -8px;" onclick="appDownloadPopup('cancel-app-popup', 'download-app');">×</a>
+                <h4 class="modal-title">
+                    <b>AstroSage Kundli Android App</b></h4>
             </div>
-            <div align="center">
-                <br>
-
-                <h4 align="center" class="popup-title">Free Kundli Software &amp; More</h4>
-                <br>
-                <div class="popup-button">
-                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source=astrocamppopup&amp;utm_medium=popup&amp;utm_campaign=mobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">Download FREE
-                        <h6>In less than a Minute</h6>
+            <div class="modal-body">
+                <h4 align="center">
+                    Free Kundli Software &amp; More</h4>
+                <div align="center" class="ui-margin-t">
+                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');" class="btn btn-danger btn-lg">Download FREE<br>
+                        <h6>
+                            In less than a Minute</h6>
                     </a>
                 </div>
                 <div align="center">
-                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source=astrocamppopup&amp;utm_medium=popup&amp;utm_campaign=mobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">
-                        <img src="/images/app-download.jpg" class="resimg"></a></div>
+                    <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">
+                        <img src="/images/app-download.jpg" class="img-responsive"></a></div>
             </div>
- </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
 <!-- /.modal -->
 
-                <!--End Header -->
-            </td>
-        </tr>
-        <tr>
-            <td width="0%" valign="top">
-                <!--Start Left -->
-                <!--End Left -->
-            </td>
-            <td width="77%" valign="top">
-                <div class="content_page_border">
-                    <!--Start Main -->
-                    <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0" class="subpagetable">
-    <tbody><tr>
-        <td height="28" bgcolor="#FEF8E0" class="heading" scope="col">
-            <h1>Privacy Policy</h1>
-        </td>
-    </tr>
-    <tr>
-        <td height="1" bgcolor="#FFFFFF" scope="col">
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" bgcolor="#FFFFFF" scope="col">
-            <table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td width="97%" height="29" valign="top" bgcolor="#FFFFFF" scope="col">
-                        <div align="justify" class="subpagecontent">
-
-<p>We at AstroCAMP ("we" or "AstroCAMP") we take the privacy of the information you provide us very seriously. We created this privacy policy to demonstrate our commitment to privacy. Please read this carefully to understand how we use any information you provide us at AstroCAMP.com</p>
-<ul>
-  <li>  AstroCAMP guarantees confidentiality of our members� identity, birth details and any forecasts made using those details as much possible under legal regulatory and security environment.</li>
-  <li>    AstroCAMP further guarantees that no direct or indirect use will be made by AstroCAMP about any information that is revealed in the prediction for a member, except for the explicit purpose of communicating the horoscope charts and predictions back to the member. </li>
-  <li>    We allow members to access their users profiles and change information, as they deem necessary. </li>
-  <li>    We do not sell or rent your personally identifiable information to anyone. </li>
-</ul>
-<p>As we keep adding new services and items, we suggest that you check back from time to time in order to understand how we treat your information. In case of change in our privacy policy, we will post those changes on this page so that you are always aware of what personal information we collect, how we use it and under what circumstances we disclose it. Your continued use of the site will constitute your acknowledgment of our Privacy Policy.</p>
-<p>The items below provide an index to the information that follows: </p>
-<p><strong>1. What  personal information we collect?</strong></p>
-<p>a. Registration Data</p>
-<p>During membership registration, AstroCAMP collects personal information including your name, gender, birth information, email address, and your place of birth and residence. This information is used to calculate your accurate horoscope. Your e-mail address together with a password is used to secure your profile and to make our personalized e-mail services available to you.   You do not have to provide any personal information to use AstroCAMP�s services. However, if you choose not to become a member of AstroCAMP, we may not be able to provide you with some of the other services that require such information e.g. personalized free horoscopes.</p>
-<p>b. Log Files, IP Address and Cookies</p>
-<p>When you visit AstroCAMP.com and interact with the services and tools that reside there, AstroCAMP and third parties with whom AstroCAMP has contracted to provide services to AstroCAMP may collect information on your actions. The purpose of this information collection is generally to gather broad demographic information that is not personal. We also use your IP address to help diagnose problems with our software or our server and to administer our website. We track the visitor IP address to get more information on visitor�s demography e.g. which parts of the world our traffic comes from. We collect browser types used, screen resolutions, and time spent on the website to analyze trends, administer and troubleshoot the site, understand user linking and disliking within the website. All of this information is used for gathering broad demographic data to enhance the performance and services of the site.</p>
-<p>c. Through Order Forms</p>
-<p>We gather information that is required to fulfill our paid services though our order forms. This personal is maintained in strict confidence. As stated earlier, we guarantee confidentiality of our members� identity, birth details and the prediction made possible under legal regulatory and security environment. AstroCAMP further guarantees that no direct or indirect use will be made by AstroCAMP about any information that is revealed in the prediction for a member, except for the explicit purpose of communicating the horoscope charts and predictions back to the member.</p>
-<p>d. Other information </p>
-<p>Any other information we receive due to email or other method of contact in regard to specific services or products, as a general rule, are not made part of your member profile, and are used only to address your specific need or concern that you may have communicated to us on. </p>
-<p><strong>2. Security<br>
-  </strong>We DO NOT collect any payment information on our website. It is collected and processed in a secured manner by third party payment gateways. We follow reasonable industry standards, technical measures and procedural measures to protect against unauthorized access and use of your supplied information. However, you should know that neither we nor any other web site can fully eliminate all the risks.</p>
-<p><strong>3. Other web sites links<br>
-  </strong>Our web site may contain links to other web sites. AstroCAMP is not responsible for the privacy practices followed by other such web sites.<br>
-</p>
-<p><strong>4. Contacting us<br>
-  </strong>If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at <a href="mailto:query@astrocamp.com">query@astrocamp.com</a></p>
-<p></p>
 
 
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
+        <div class="row main-container padding-t">
+            <div class="col-sm-9">
+                <div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <h1>
+            Privacy Policy</h1>
+    </div>
+    <div class="padding-all">
+        <p>
+            We at AstroCAMP ("we" or "AstroCAMP") we take the privacy of
+            the information you provide us very seriously. We created this privacy policy to
+            demonstrate our commitment to privacy. Please read this carefully to understand
+            how we use any information you provide us at AstroCAMP.com</p>
+        <ul>
+            <li>AstroCAMP guarantees confidentiality of our members' identity, birth details and
+                any forecasts made using those details as much possible under legal regulatory and
+                security environment.</li>
+            <li>AstroCAMP further guarantees that no direct or indirect use will be made by AstroCAMP
+                about any information that is revealed in the prediction for a member, except for
+                the explicit purpose of communicating the horoscope charts and predictions back
+                to the member. </li>
+            <li>We allow members to access their users profiles and change information, as they
+                deem necessary. </li>
+            <li>We do not sell or rent your personally identifiable information to anyone. </li>
+        </ul>
+        <p>
+            As we keep adding new services and items, we suggest that you check back from time
+            to time in order to understand how we treat your information. In case of change
+            in our privacy policy, we will post those changes on this page so that you are always
+            aware of what personal information we collect, how we use it and under what circumstances
+            we disclose it. Your continued use of the site will constitute your acknowledgment
+            of our Privacy Policy.</p>
+        <p>
+            The items below provide an index to the information that follows:
+        </p>
+        <p>
+            <strong>1. What personal information we collect?</strong></p>
+        <p>
+            a. Registration Data</p>
+        <p>
+            During membership registration, AstroCAMP collects personal information including
+            your name, gender, birth information, email address, and your place of birth and
+            residence. This information is used to calculate your accurate horoscope. Your e-mail
+            address together with a password is used to secure your profile and to make our
+            personalized e-mail services available to you. You do not have to provide any personal
+            information to use AstroCAMP's services. However, if you choose not to become a
+            member of AstroCAMP, we may not be able to provide you with some of the other services
+            that require such information e.g. personalized free horoscopes.</p>
+        <p>
+            b. Log Files, IP Address and Cookies</p>
+        <p>
+            When you visit AstroCAMP.com and interact with the services and tools that reside
+            there, AstroCAMP and third parties with whom AstroCAMP has contracted to provide
+            services to AstroCAMP may collect information on your actions. The purpose of this
+            information collection is generally to gather broad demographic information that
+            is not personal. We also use your IP address to help diagnose problems with our
+            software or our server and to administer our website. We track the visitor IP address
+            to get more information on visitor's demography e.g. which parts of the world our
+            traffic comes from. We collect browser types used, screen resolutions, and time
+            spent on the website to analyze trends, administer and troubleshoot the site, understand
+            user linking and disliking within the website. All of this information is used for
+            gathering broad demographic data to enhance the performance and services of the
+            site.</p>
+        <p>
+            c. Through Order Forms</p>
+        <p>
+            We gather information that is required to fulfill our paid services though our order
+            forms. This personal is maintained in strict confidence. As stated earlier, we guarantee
+            confidentiality of our members' identity, birth details and the prediction made
+            possible under legal regulatory and security environment. AstroCAMP further guarantees
+            that no direct or indirect use will be made by AstroCAMP about any information that
+            is revealed in the prediction for a member, except for the explicit purpose of communicating
+            the horoscope charts and predictions back to the member.</p>
+        <p>
+            d. Other information
+        </p>
+        <p>
+            Any other information we receive due to email or other method of contact in regard
+            to specific services or products, as a general rule, are not made part of your member
+            profile, and are used only to address your specific need or concern that you may
+            have communicated to us on.
+        </p>
+        <p>
+            <strong>2. Security<br>
+            </strong>We DO NOT collect any payment information on our website. It is collected
+            and processed in a secured manner by third party payment gateways. We follow reasonable
+            industry standards, technical measures and procedural measures to protect against
+            unauthorized access and use of your supplied information. However, you should know
+            that neither we nor any other web site can fully eliminate all the risks.</p>
+        <p>
+            <strong>3. Other web sites links<br>
+            </strong>Our web site may contain links to other web sites. AstroCAMP is not responsible
+            for the privacy practices followed by other such web sites.<br>
+        </p>
+        <p>
+            <strong>4. Contacting us<br>
+            </strong>If you have any questions about this privacy statement, the practices of
+            this site, or your dealings with this web site, you can contact us at <a href="mailto:query@astrocamp.com">
+                query@astrocamp.com</a></p>
+      
+    </div>
+</div>
 
-                    <!--End Main -->
-                </div>
-            </td>
-            <td width="23%" valign="top">
-                <!--Start Right -->
+            </div>
+            <div class="col-sm-3">
                 <script language="JAVASCRIPT">
-function validform(theform) {
- 
-	badinput=false;
-	x=0;
-	errarr=new Array();
-	if(document.forms[theform].txtusername.value=="") {
-	  	badinput=true;
-	  	errarr[x] = "User Email ID";
-	  	document.getElementById("Email").focus();
-		x++;
-	}
-	else
-	if(document.forms[theform].txtpassword.value=="") {
-	  	badinput=true;
-	  	errarr[x] = "Password";
-	  	document.getElementById("passwor").focus();
-		x++;
-	}
-		
-	thestr="";
-	if(badinput) {
-		for(i=0;i<x;i++) {
-			thestr=thestr + "\n" + errarr[i];
-		}
-		alert("The following fields need input:" + thestr);
-	}
-	return !badinput;
-}
+    function validform(theform) {
+
+        badinput = false;
+        x = 0;
+        errarr = new Array();
+        if (document.forms[theform].txtusername.value == "") {
+            badinput = true;
+            errarr[x] = "User Email ID";
+            document.getElementById("Email").focus();
+            x++;
+        }
+        else
+            if (document.forms[theform].txtpassword.value == "") {
+                badinput = true;
+                errarr[x] = "Password";
+                document.getElementById("passwor").focus();
+                x++;
+            }
+
+        thestr = "";
+        if (badinput) {
+            for (i = 0; i < x; i++) {
+                thestr = thestr + "\n" + errarr[i];
+            }
+            alert("The following fields need input:" + thestr);
+        }
+        return !badinput;
+    }
 
 </script>
 <script type="text/javascript">
@@ -786,464 +516,407 @@ function validform(theform) {
     }
 
 </script>
-
-<script>    (function(d, s, id) {
+<script>    (function (d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=112718628891441";
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=1581367602176475";
         fjs.parentNode.insertBefore(js, fjs);
     } (document, 'script', 'facebook-jssdk'));</script>
-
-<table width="98%" border="0" align="left" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td height="5" valign="top" bgcolor="#FFFFFF" scope="col">
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-            <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td width="100%" height="5" scope="col">
-                    </td>
-                </tr>
-               
-                <tr>
-                    <td valign="top" scope="col">
-                        
-                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                           
-                            <tbody><tr>
-                                <td height="30" colspan="3" bgcolor="#fefcf6" scope="col">
-                                    <img src="/images/hdg_login.gif" width="78" height="20">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="7" colspan="3" bgcolor="#fefcf6" scope="col" class="astologername1">
-                                <div id="hidediv" style="height:25px">
-               <a onclick="showHide('showdiv','hidediv');" style="cursor:pointer; text-decoration:underline"><b>Login</b></a>
-              <span style="padding-left:120px;"><a href="/register.asp"><b>Sign Up</b></a></span>
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <img src="/images/hdg_login.gif" width="78" height="20"></div>
+    <div class="padding-all">
+        
+        <div id="hidediv">
+            <a href="javascript:showHide('showdiv','hidediv');" class="text-danger col-xs-6"><b>
+                Login</b></a> <a href="/register.asp" class="text-danger text-right col-xs-6"><b>Sign
+                    Up</b></a>
+            <div class="clearfix">
+            </div>
+        </div>
+        <div id="showdiv" style="display: none;">
+            <form id="frmlogin" runat="server" action="/loginchk.asp" method="post" class="form-signin" onsubmit="return validform('frmlogin')">
+            <label for="inputEmail" class="sr-only">
+                Email address</label>
+            <input type="text" id="Email" name="txtusername" class="form-control" placeholder="Email address" required="" autofocus="">
+            <label for="inputPassword" class="sr-only">
+                Password</label>
+            <input type="password" id="passwor" name="txtpassword" class="form-control" placeholder="Password" required="">
+            <p class="text-center">
+                <a href="/forgotpwd.asp" class="text-danger"><b>Forgot your password?</b></a></p>
+            <button class="btn btn-danger btn-block" type="submit" id="btnlogin" name="btnlogin">
+                Sign in</button>
+            <div class="text-center padding-t">
+                New User? <a href="/register.asp" class="text-danger"><b>Sign Up</b></a></div>
+            </form>
+        </div>
+        
+    </div>
 </div>
-                                </td>
-                            </tr>
-                            <tr>
-                            <td colspan="3">
-                            <div id="showdiv" style="display:none;">      
-                            <form id="frmlogin" runat="server" action="/loginchk.asp" method="post" onsubmit="return validform('frmlogin')">                      
-                            <table>                             
-                             <tbody><tr>
-                                <td width="7%" height="23" bgcolor="#fefcf6" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td width="31%" bgcolor="#fefcf6" class="astologername1" scope="col">
-                                    Email
-                                </td>
-                                <td width="62%" bgcolor="#fefcf6" scope="col">
-                                    <input name="txtusername" type="text" class="logintxtbox" id="Email">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="23" bgcolor="#fefcf6" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td bgcolor="#fefcf6" class="astologername1" scope="col">
-                                    Password
-                                </td>
-                                <td bgcolor="#fefcf6" scope="col">
-                                    <input name="txtpassword" type="password" class="logintxtbox" id="passwor">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="23" bgcolor="#fefcf6" scope="col">
-                                    &nbsp;
-                                </td>                                
-                                <td bgcolor="#fefcf6" scope="col" colspan="2" align="center">
-                                    <a href="/forgotpwd.asp"><span class="menufontdivider">
-                                            Forgot your password?</span></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="46" bgcolor="#fefcf6" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td bgcolor="#fefcf6" class="loginfont" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td bgcolor="#fefcf6" scope="col">
-                                    <input id="btnlogin" type="image" value="LOGIN" src="/images/btn_login.gif" name="btnlogin">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="26" bgcolor="#fefcf6" scope="col">
-                                    &nbsp;
-                                </td>
-                                <td colspan="2" valign="top" bgcolor="#fefcf6" class="loginfont" scope="col">
-                                    <div align="center">
-                                        <span class="topmenudivider">New User?</span> <a href="/register.asp"><span class="menufontdivider">
-                                            Sign Up</span></a></div>
-                                </td>
-                            </tr>
-                          
-                           
-                            </tbody></table>
-                             </form>
-                            </div>
-                            </td>
-                            </tr>
-                           
-                        </tbody></table>
-                        
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-     
-      <tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>
-     <tr>
-         <td align="center">
-             <div class="ad-view-sm ad-view-1">
-                 <img src="/ads/marriage-halfbanner-ad.gif" alt="Free AstroSage Matrimony - Shaadi" width="230">
-                 <div class="ad-mask">
-                     <a href="https://marriage.astrosage.com/?utm_source=astrocamp&amp;utm_medium=halfbanner&amp;utm_campaign=asmarriage" class="ad-info" title="www.AstroSageMarriage.com: Free Matrimony - Shaadi">Join
-                         Now FREE</a>
-                 </div>
-             </div>
-        </td>
-    </tr>
-     <tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>
-    <tr>
-         <td valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-          <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">   
-           <tbody><tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>  
-             
-             <tr>
-                   
-                    <th width="100%" scope="col">
-                        <div align="left" class="leftboxhdg">
-                           <a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" target="_blank"> AstroSage TV</a>
-                        </div>
-                    </th>
-                </tr>
-                 <tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>
-                <tr>
-                <td>
-                 <iframe width="220" height="124" src="//www.youtube.com/embed/videoseries?list=UUHBM-lmpDCFzu8hpo8HjW-A" frameborder="0" allowfullscreen=""></iframe>
+<div class="ad-view-sm ad-view-1 panel">
+    <img src="/ads/marriage-halfbanner-ad.gif" alt="Free AstroSage Matrimony - Shaadi" width="230">
+    <div class="ad-mask">
+        <a href="https://marriage.astrosage.com/?utm_source=astrocamp&amp;utm_medium=halfbanner&amp;utm_campaign=asmarriage" class="ad-info" title="www.AstroSageMarriage.com: Free Matrimony - Shaadi">Join
+            Now FREE</a>
+    </div>
+</div>
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <b><a href="http://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" target="_blank">AstroSage TV</a></b></div>
+    <iframe width="100%" height="auto" src="//www.youtube.com/embed/videoseries?list=UUHBM-lmpDCFzu8hpo8HjW-A" frameborder="0" allowfullscreen=""></iframe>
+</div>
 
-                </td>
-                </tr>
-            </tbody></table>
-         </td>
-         
-     </tr>
-     
-    <tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>
-   
-    <tr>
-      
-        <td bgcolor="#FEFCF6" scope="col" class="table">
-            <!-- Tabs -->
-            <script type="text/javascript" src="/script/ui_tab.js"></script>
-            <div class="tab_section">
-                <ul id="articletabs1" class="shadetabs">
-                    <li><a href="#" rel="Articles" class="selected" style="width:82px; text-align:center">Articles</a></li>
-                    <li><a href="#" rel="2014" style="width:82px; text-align:center" class="">2016</a></li>
-                </ul>
-                <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td>
-                            <div class="tabcontent_section">
-                                <div id="Articles" class="tabcontent" style="display: block;">
-                                    <div class="rightmenu">
-
-                                        <script src="http://feeds.feedburner.com/astrocamp/articles?format=sigpro" type="text/javascript"></script>
-
-                                        <noscript>
-                                            <p>
-                                                Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/astrocamp/articles">
-                                                </a>
-                                                <br />
-                                                Powered by FeedBurner</p>
-                                        </noscript>
-                                    </div>
-                                </div>
-                                <div id="2014" class="tabcontent" style="display: none;">
-                                            <div style="height:400px; overflow-y:scroll;">            
+<div class="panel panel-default">
+    <!-- tabs -->
+<ul class="nav nav-tabs ui-custom-tabs">
+    <li class="active"><a href="#eng" data-toggle="tab">Articles</a></li>
+    <li><a href="#fest" data-toggle="tab" class="no-border-r">2016</a></li>
+</ul>
+<div class="tab-content">
+    <div class="tab-pane fade in active" id="eng">
+        <div class="ui-scroll ul-li">
+            <script src="http://feeds.feedburner.com/astrocamp/articles?format=sigpro" type="text/javascript"></script>
+            <noscript>
+                <p>
+                    Subscribe to RSS headline updates from: <a href="http://feeds.feedburner.com/astrocamp/articles">
+                    </a>
+                    <br />
+                    Powered by FeedBurner</p>
+            </noscript>
+        </div>
+    </div>
+    <div class="tab-pane fade" id="fest">
+        <div class="ui-scroll ul-li">
+                        <div style="height:500px; overflow-y:scroll;">     
+            <ul>       
                  <li><a href="/horoscope/horoscope2016.asp">Horoscope 2016</a></li> 
                  <li><a href="/horoscope/rashifal2016.asp" title="राशिफल 2016">राशिफल 2016</a></li> 
                  <li><a href="/horoscope/numerology2016.asp" title="Get Chinese horoscope 2016">Numerology 2016 Horoscope</a></li>
-                 <li><a href="/chinese-horoscope-2016.html" title="Get Numerology horoscope 2016">Chinese Horoscope 2016</a></li>             
-                 <li><a href="/rahu-transit-2016.asp" title="Rahu Transit 2015: Unveil Your Future For 2015">Rahu Transit 2016</a></li> 
-                 <li><a href="/rasi-palan-2016.html" title="Get Rasi Palan 2016">Rasi Palan 2016</a></li>           
+                 <li><a href="/chinese-horoscope-2016.html" title="Get Numerology horoscope 2016">Chinese Horoscope 2016</a></li>           
+                 <li><a href="/rasi-palan-2016.html" title="Get Rasi Palan 2016">Rasi Palan 2016</a></li> 
+                 <li><a href="/horoscope/numerology2016.asp" title="Get Numerology 2016 Horoscope Here">Numerology 2016 Horoscope</a></li>
+                 <li><a href="/numerology-2016-hindi.html" title="Ankjyotish 2016 in Hindi">अंक ज्योतिष 2016</a></li>           
                  <li><a href="/tarot-reading-2016-horoscope.html" title="Tarot Horoscope 2016">Tarot Horoscope 2016</a></li>
                  <li><a href="/shani-sade-sati-2016.html" title="Shani Sadhe Sati 2016">Shani Sade Sati 2016</a></li>
+                 <li><a href="/rahu-transit-2016.asp" title="Rahu Transit 2016">Rahu Transit 2016</a></li>
+                 <li><a href="/jupiter-transit-2016.html" title="Jupiter Transit 2016">Jupiter Transit 2016</a></li> 
+                 <li><a href="/ketu-transit-2016.html" title="Ketu Transit 2016">Ketu Transit 2016</a></li>  
+                 </ul>
             </div>
 
-                                </div>
-            <!--<div id="2013" class="tabcontent">
-            <li><a href="/2013/chinesehoroscope2013.asp" title="Get Chinese horoscope 2013">Chinese Horoscope 2013</a></li>
-            <li><a href="/2013/astrology2013.asp" title="Get Astrology 2013">Astrology 2013</a></li>
-            <li><a href="/2013/chineseastrology2013.asp" title="Get Chinese Astrology 2013">Chinese Astrology 2013</a></li>
-            <li><a href="/horoscope/sex-horoscope-2013.asp" title="Get Sex Horoscope 2013">Sex Horoscope 2013</a></li>
-            <li><a href="/horoscope/health-horoscope-2013.asp" title="Get Health Horoscope 2013">Health Horoscope 2013</a></li>
-            <li><a href="/horoscope/love-horoscope-2013.asp" title="Get love Horoscope 2013">Love Horoscope 2013</a></li>
-            <li><a href="/horoscope/rasipalan-2013-tamil-astrology.asp" title="Get Tamil Horoscope 2013">Tamil Horoscope 2013</a></li>
-            <li><a href="/horoscope/numerology-2013.asp" title="Get Numerology Horoscope 2013">Numerology 2013</a></li>
-            <li><a href="/horoscope/rashifal/2013-rashifal-hindi.asp" title="Get hindi rashifal 2013">2013 Hindi Rashifal</a></li>
-            <li><a href="/horoscope/hairstyle-2013-haircut-2013.asp" title="Get Hairstyles 2013">Hairstyles 2013</a></li>
-                                    
-                                </div>-->
-                            </div>
-                        </td>
-                    </tr>
+        </div>
+    </div>
+</div>
+<!-- /tabs -->
 
-                    <script type="text/javascript">
-                        var articles = new ddtabcontent("articletabs1")
-                        articles.setpersist(true)
-                        articles.setselectedClassTarget("link")
-                        articles.init()
-                    </script>
+</div>
 
-                </tbody></table>
-            </div>
-            <!-- End Tabs -->
-        </td>
-    </tr>
-     
-  
-     <tr>
-        <td scope="col" height="8">
-        </td>
-    </tr>
-   
- <tr>
-        <td height="208" valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <th height="10" colspan="2" scope="col">
-                    </th>
-                </tr>
-                <tr>
-                    <th width="15%" height="18" scope="col">
-                        <div align="center">
-                            <img src="/images/icon_cart.gif" width="23" height="18"></div>
-                    </th>
-                    <th width="85%" scope="col">
-                        <div align="left" class="leftboxhdg">
-                            Buy Today
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <td scope="col" height="8">
-                    </td>
-                </tr>
-              
-                <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            Gemstones
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/product-images/Thumbnails/gemstones.jpg" width="60" style="padding: 5px;" alt="Get gemstones">
-                        </div>
-                        <div align="left">
-                            <span class="varahi">Best quality gemstones with assurance of AstroSage.com</span>
-                            <a href="/products.asp#GemStones" class="varahimore">More</a></div>
-                    </th>
-                </tr>
-                <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            Yantras
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/product-images/Thumbnails/yantras.jpg" width="60" style="padding: 5px;" alt="Get yantras">
-                        </div>
-                        <div align="left">
-                            <span class="varahi">Take advantage of Yantra with assurance of AstroSage.com</span>
-                            <a href="/products.asp#Yantras" class="varahimore">More</a></div>
-                    </th>
-                </tr>
-                <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            Navagrah Yantras
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/product-images/Thumbnails/navagrah-yantras.jpg" width="60" style="padding: 5px;" alt="Get navagrah yantras">
-                        </div>
-                        <div align="left">
-                            <span class="varahi">Yantra to pacify planets and have a happy life .. get from AstroSage.com</span>
-                            <a href="/products.asp#Navagrah Yantras" class="varahimore">More</a></div>
-                    </th>
-                </tr>
-                <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            Rudraksha
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/product-images/Thumbnails/rudraksha.jpg" width="60" style="padding: 5px;" alt="Get rudraksha">
-                        </div>
-                        <div align="left">
-                            <span class="varahi">Best quality Rudraksh with assurance of AstroSage.com</span>
-                            <a href="/products.asp#Rudraksha" class="varahimore">More</a></div>
-                    </th>
-                </tr>
-               <!-- <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            AstroSage Kundli Pro
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/product-images/Thumbnails/astrosage-kundli.png" width="60" height="90" style="padding: 5px;" alt="Get AstroSage kundli software for mobile"/>
-                        </div>
-                        <div align="left">
-                            <span class="varahi">AstroSage Kundli Pro is most advanced Indian astrology software available for Android mobile phones.</span>
-                            <a href="/productorder.asp?ItemId=39&CatId=9" class="varahimore">More</a></div>
-                    </th>
-                </tr>
-                <tr>
-                    <th bgcolor="#fdf2d0" height="24" colspan="2" scope="col">
-                        <div align="left" class="ui-contentbold">
-                            Varahamihira
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="19" colspan="2" scope="col">
-                        <div align="left" style="float: left">
-                            <img src="/images/astrology-software.jpg" width="60" style="padding: 5px;"  alt="Get varahamihira"/>
-                        </div>
-                        <div align="left">
-                            <span class="varahi">"Varahamihira" is a Windows based astrological program for Vedic,
-                                KP, Lal Kitab and other systems.</span> <a href="/productorder.asp?ItemId=40&CatId=9" class="varahimore">
-                                    More</a></div>
-                    </th>
-                </tr>-->
-                <tr>
-                    <th height="10" colspan="2" scope="col">
-                    </th>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>
-        <td scope="col" height="7">
-        </td>
-    </tr>    
-    <tr>
-        <td height="141" valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-            <table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <th height="10" colspan="2" scope="col">
-                    </th>
-                </tr>
-                <tr>
-                    <th width="10%" height="21" scope="col">
-                        <div align="center">
-                            <img src="/images/icon_hand.gif" width="19" height="21"></div>
-                    </th>
-                    <th width="90%" scope="col">
-                        <div align="left" class="leftboxhdg">
-                            Today's Horoscope
-                        </div>
-                    </th>
-                </tr>
-                <tr>
-                    <th height="10" colspan="2" scope="col">
-                    </th>
-                </tr>
-                <tr>
-                    <th height="28" colspan="2" class="content" scope="col">
-                        Get your personalised horoscope<br>
-                        based on your sign.
-                    </th>
-                </tr>
-                <tr>
-                    <th height="10" colspan="2" scope="col">
-                    </th>
-                </tr>
-                <tr>
-                    <th height="20" colspan="2" class="astologername" scope="col">
-                        Select your Sign
-                    </th>
-                </tr>
-                <tr>
-                    <th height="28" colspan="2" scope="col">
-                        <select onchange="window.open(this.options[this.selectedIndex].value,'_top')" name="select2" class="topdropdown">
-                            <option>Select</option>
-                            <option value="/dailyhoroscope.asp?horo1=1">Aries</option>
-                            <option value="/dailyhoroscope.asp?horo1=2">Taurus</option>
-                            <option value="/dailyhoroscope.asp?horo1=3">Gemini</option>
-                            <option value="/dailyhoroscope.asp?horo1=4">Cancer</option>
-                            <option value="/dailyhoroscope.asp?horo1=5">Leo</option>
-                            <option value="/dailyhoroscope.asp?horo1=6">Virgo</option>
-                            <option value="/dailyhoroscope.asp?horo1=7">Libra</option>
-                            <option value="/dailyhoroscope.asp?horo1=8">Scorpio</option>
-                            <option value="/dailyhoroscope.asp?horo1=9">Sagittarius</option>
-                            <option value="/dailyhoroscope.asp?horo1=10">Capricorn</option>
-                            <option value="/dailyhoroscope.asp?horo1=11">Aquarius</option>
-                            <option value="/dailyhoroscope.asp?horo1=12">Pisces</option>
-                        </select>
-                    </th>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>
-        <td scope="col" height="7">
-        </td>
-    </tr>
-    <tr>
-        <td scope="col" height="7">
-            <iframe src="http://www.astrocamp.com/celebastrologeriframe.asp?displayType=5&amp;prtnr_id=0" scrolling="no" frameborder="0" width="224" height="400" marginwidth="0" marginheight="0"></iframe>
-        </td>
-    </tr>
-    <tr>
-        <td scope="col" height="7">
-        </td>
-    </tr>
-    <tr>
-        <td height="141" valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-            <div class="ac-ui-w2-ah">
-    <form method="post" action="/kundli/personalized-horoscope.asp" onsubmit="return Validation1(this)"></form>
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <img src="/images/icon_cart.gif" width="23" height="18">
+        <b>Buy Today</b></div>
+    <div class="title bg-danger padding-all">
+        <b>Gemstones</b></div>
+    <div class="padding-all">
+        <img src="/images/product-images/Thumbnails/gemstones.jpg" width="60" class="pull-left padding-r" alt="Get gemstones">
+        Best quality gemstones with assurance of AstroSage.com <a href="/products.asp#GemStones" class="text-danger text-bold text-unerline">More</a>
+    </div>
+    <div class="title bg-danger padding-all">
+        <b>Yantras</b></div>
+    <div class="padding-all">
+        <img src="/images/product-images/Thumbnails/yantras.jpg" width="60" class="pull-left padding-r" alt="Get yantras">
+        Take advantage of Yantra with assurance of AstroSage.com <a href="/products.asp#Yantras" class="text-danger text-bold text-unerline">More</a>
+    </div>
+    <div class="title bg-danger padding-all">
+        <b>Navagrah Yantras</b></div>
+    <div class="padding-all">
+        <img src="/images/product-images/Thumbnails/navagrah-yantras.jpg" width="60" class="pull-left padding-r" alt="Get Navagrah Yantras">
+        Yantra to pacify planets and have a happy life .. get from AstroSage.com <a href="/products.asp#Navagrah Yantras" class="text-danger text-bold text-unerline">More</a>
+    </div>
+    <div class="title bg-danger padding-all">
+        <b>Rudraksha</b></div>
+    <div class="padding-all">
+        <img src="/images/product-images/Thumbnails/rudraksha.jpg" width="60" class="pull-left padding-r" alt="Get rudraksha">
+        Best quality Rudraksh with assurance of AstroSage.com <a href="/products.asp#Rudraksha" class="text-danger text-bold text-unerline">More</a>
+    </div>
+</div>
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <img src="/images/icon_hand.gif" width="19" height="21">
+        <b>Today's Horoscope</b></div>
+    <div class="panel-body">
+        <p>
+            Get your personalised horoscope based on your sign.</p>
+        <div>
+            Select your Sign
+            <select onchange="window.open(this.options[this.selectedIndex].value,'_top')" name="select2" class="topdropdown">
+                <option>Select</option>
+                <option value="/dailyhoroscope.asp?horo1=1">Aries</option>
+                <option value="/dailyhoroscope.asp?horo1=2">Taurus</option>
+                <option value="/dailyhoroscope.asp?horo1=3">Gemini</option>
+                <option value="/dailyhoroscope.asp?horo1=4">Cancer</option>
+                <option value="/dailyhoroscope.asp?horo1=5">Leo</option>
+                <option value="/dailyhoroscope.asp?horo1=6">Virgo</option>
+                <option value="/dailyhoroscope.asp?horo1=7">Libra</option>
+                <option value="/dailyhoroscope.asp?horo1=8">Scorpio</option>
+                <option value="/dailyhoroscope.asp?horo1=9">Sagittarius</option>
+                <option value="/dailyhoroscope.asp?horo1=10">Capricorn</option>
+                <option value="/dailyhoroscope.asp?horo1=11">Aquarius</option>
+                <option value="/dailyhoroscope.asp?horo1=12">Pisces</option>
+            </select>
+        </div>
+    </div>
+</div>
+<div align="center">
+    <iframe src="http://www.astrocamp.com/celebastrologeriframe.asp?displayType=5&amp;prtnr_id=0" scrolling="no" frameborder="0" width="224" height="400" marginwidth="0" marginheight="0">
+    </iframe>
+</div>
+<div class="panel">
+    <!--[if lt IE 9]>
+<style>
+.ac-ui-w2-ah .ui-rdo input[type="radio"] {
+    display:block;
+}
+.ac-ui-w2-ah .ui-rdo input[type="radio"] + label span {    
+    background:none;   
+    }
+.ac-ui-w2-ah .ui-rdo input[type="radio"]:checked + label span {
+    background:none;
+    }    
+</style>
+<![endif]-->
+<style>
+    .ac-ui-w2-ah
+    {
+        width: 100%;
+    }
+    .ac-ui-w2-ah fieldset
+    {
+        border: 1px solid #ccc;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        margin: 0;
+        padding: 5px;
+    }
+    .ac-ui-w2-ah legend
+    {
+        font-family: Arial;
+        font-size: 12px;
+        font-weight: bold;
+        line-height: 20px;
+        color: #990000;
+        border: 0px solid #ccc;
+        padding: 1px;
+        text-align: center;
+    }
+    .ac-ui-w2-ah label
+    {
+        font-family: "Helvetica Neue" ,Helvetica,Arial,sans-serif;
+        font-size: 15px;
+        font-weight: normal;
+        line-height: 20px;
+    }
+    .ac-ui-w2-ah input, .ac-ui-w2-ah textarea
+    {
+        -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
+        -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
+        box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
+        -webkit-transition: border linear .2s,box-shadow linear .2s;
+        -moz-transition: border linear .2s,box-shadow linear .2s;
+        -ms-transition: border linear .2s,box-shadow linear .2s;
+        -o-transition: border linear .2s,box-shadow linear .2s;
+        transition: border linear .2s,box-shadow linear .2s;
+    }
+    .ac-ui-w2-ah input:focus, .ac-ui-w2-ah textarea:focus
+    {
+        box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
+        -o-box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
+        -webkit-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
+        -moz-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
+        outline: 0;
+    }
+    .ac-ui-w2-ah label
+    {
+        font-weight: bold;
+        clear: both;
+        display: block;
+        text-align: right;
+        margin: 3px 5px 3px 3px;
+        font-size: 12px;
+        color: #990000;
+        float: left;
+        width: 40px;
+    }
+    .ac-ui-w2-ah input[type="text"], .ac-ui-w2-ah input[type="password"]
+    {
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        border: 1px solid #aaa;
+        padding: 5px;
+        font-size: 13px;
+        margin-top: 0;
+        background: #fff;
+    }
+    .ac-ui-w2-ah select.Sbox:focus, .ac-ui-w2-ah select.Lbox:focus
+    {
+        box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
+        -o-box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
+        -webkit-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
+        -moz-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
+        outline: 0;
+    }
+    .ac-ui-w2-ah select.Sbox
+    {
+        height: 34px !important;
+        margin: 0;
+        padding-top: 6px;
+        padding-bottom: 8px;
+        vertical-align: middle;
+        outline: none;
+        border: none;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        -webkit-transition: border linear .2s,box-shadow linear .2s;
+        -moz-transition: border linear .2s,box-shadow linear .2s;
+        -ms-transition: border linear .2s,box-shadow linear .2s;
+        -o-transition: border linear .2s,box-shadow linear .2s;
+        transition: border linear .2s,box-shadow linear .2s;
+        border: 1px solid #aaa;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background: #fff url("/images/h_arrow.gif") no-repeat right center;
+        margin-bottom: 3px;
+        width: 46px;
+    }
+    .ac-ui-w2-ah input[type="text"], .ac-ui-w2-ah input[type="password"]
+    {
+        width: 150px;
+    }
+    .ui-rdo input[type="radio"]
+    {
+        display: none;
+    }
+    .ui-rdo input[type="radio"] + label
+    {
+        color: #000;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+    }
+    .ui-rdo input[type="radio"] + label span
+    {
+        display: inline-block;
+        width: 19px;
+        height: 19px;
+        margin: -1px 4px 0 0;
+        vertical-align: middle;
+        background: url(/images/rdo-chk.png) -38px top no-repeat;
+        cursor: pointer;
+    }
+    .ui-rdo input[type="radio"]:checked + label span
+    {
+        background: url(/images/rdo-chk.png) -57px top no-repeat;
+    }
+    .ui-clear
+    {
+        clear: both;
+    }
+    .mybutton
+    {
+        border: none;
+        background: #ca0303;
+        background: -webkit-gradient(linear, left top, left bottom, from(#f20909), to(#690202));
+        background: -webkit-linear-gradient(top, #f20909, #690202);
+        background: -moz-linear-gradient(top, #f20909, #690202);
+        background: -ms-linear-gradient(top, #f20909, #690202);
+        background: -o-linear-gradient(top, #f20909, #690202);
+        padding: 0px 12px;
+        height: 30px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-box-shadow: 0 0px 0px #000;
+        -moz-box-shadow: 0 0px 0px #000;
+        box-shadow: 0 0px 0px #000;
+        text-shadow: rgba(0,0,0,.4) 0 1px 0;
+        color: white;
+        font-size: 12px;
+        font-family: Arial, Sans-Serif;
+        text-decoration: none;
+        vertical-align: middle;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .mybutton:hover
+    {
+        background: #d44908;
+        color: #fff;
+    }
+    .mybutton:active
+    {
+        background: #c62905;
+    }
+</style>
+
+<script language="JavaScript">
+<!--
+    function Validation1(theForm) {
+
+        if (theForm.astroname.value == "") {
+            alert("Please enter a value for the \"Name\" field.");
+            theForm.astroname.focus();
+            return (false);
+        }
+
+        if (theForm.astroday.selectedIndex == 0) {
+            alert("Please select the day");
+            theForm.astroday.focus();
+            return (false);
+        }
+
+        if (theForm.astromonth.selectedIndex == 0) {
+            alert("Please select the month");
+            theForm.astromonth.focus();
+            return (false);
+        }
+
+
+        if (theForm.astroyear.selectedIndex == 0) {
+            alert("Please select the year");
+            theForm.astroyear.focus();
+            return (false);
+        }
+
+        if (theForm.astrohrs.selectedIndex == 0) {
+            alert("Please select the hrs");
+            theForm.astrohrs.focus();
+            return (false);
+        }
+
+        if (theForm.astromin.selectedIndex == 0) {
+            alert("Please select the min");
+            theForm.astromin.focus();
+            return (false);
+        }
+
+        if (theForm.astrosec.selectedIndex == 0) {
+            alert("Please select the sec");
+            theForm.astrosec.focus();
+            return (false);
+        }
+
+        return (true);
+    }
+-->
+</script>
+
+<div class="ac-ui-w2-ah">
+    <form method="post" action="/kundli/personalized-horoscope.asp" onsubmit="return Validation1(this)">
     <fieldset>
         <legend>Free Personalized Horoscope 2016</legend>
         <label for="name">
@@ -1759,310 +1432,12 @@ function validform(theform) {
             <input type="submit" name="widzbtn" rel="nofollow" id="widzbtn" value="Get Horoscope" class="mybutton">
         </div>
     </fieldset>
-    
-</div><table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
-               <!--[if lt IE 9]>
-<style>
-.ac-ui-w2-ah .ui-rdo input[type="radio"] {
-    display:block;
-}
-.ac-ui-w2-ah .ui-rdo input[type="radio"] + label span {    
-    background:none;   
-    }
-.ac-ui-w2-ah .ui-rdo input[type="radio"]:checked + label span {
-    background:none;
-    }    
-</style>
-<![endif]-->
-<style>
-    .ac-ui-w2-ah
-    {
-        width: 100%;
-    }
-    .ac-ui-w2-ah fieldset
-    {
-        border: 1px solid #ccc;
-        -webkit-border-radius: 4px;
-        -moz-border-radius: 4px;
-        border-radius: 4px;
-        margin: 0;
-        padding: 5px;
-    }
-    .ac-ui-w2-ah legend
-    {
-        font-family: Arial;
-        font-size: 12px;
-        font-weight: bold;
-        line-height: 20px;
-        color: #990000;
-        border: 0px solid #ccc;
-        padding: 1px;
-        text-align: center;
-    }
-    .ac-ui-w2-ah label
-    {
-        font-family: "Helvetica Neue" ,Helvetica,Arial,sans-serif;
-        font-size: 15px;
-        font-weight: normal;
-        line-height: 20px;
-    }
-    .ac-ui-w2-ah input, .ac-ui-w2-ah textarea
-    {
-        -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
-        -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
-        box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
-        -webkit-transition: border linear .2s,box-shadow linear .2s;
-        -moz-transition: border linear .2s,box-shadow linear .2s;
-        -ms-transition: border linear .2s,box-shadow linear .2s;
-        -o-transition: border linear .2s,box-shadow linear .2s;
-        transition: border linear .2s,box-shadow linear .2s;
-    }
-    .ac-ui-w2-ah input:focus, .ac-ui-w2-ah textarea:focus
-    {
-        box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
-        -o-box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
-        -webkit-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
-        -moz-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
-        outline: 0;
-    }
-    .ac-ui-w2-ah label
-    {
-        font-weight: bold;
-        clear: both;
-        display: block;
-        text-align: right;
-        margin: 3px 5px 3px 3px;
-        font-size: 12px;
-        color: #990000;
-        float: left;
-        width: 40px;
-    }
-    .ac-ui-w2-ah input[type="text"], .ac-ui-w2-ah input[type="password"]
-    {
-        -webkit-border-radius: 4px;
-        -moz-border-radius: 4px;
-        border-radius: 4px;
-        border: 1px solid #aaa;
-        padding: 5px;
-        font-size: 13px;
-        margin-top: 0;
-        background: #fff;
-    }
-    .ac-ui-w2-ah select.Sbox:focus, .ac-ui-w2-ah select.Lbox:focus
-    {
-        box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
-        -o-box-shadow: inset 0 1px 1px #fff, 0px 0px 10px #fffc06;
-        -webkit-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
-        -moz-box-shadow: inset 0 1px 1px #fff, 0 0 10px #fffc06;
-        outline: 0;
-    }
-    .ac-ui-w2-ah select.Sbox
-    {
-        height: 34px !important;
-        margin: 0;
-        padding-top: 6px;
-        padding-bottom: 8px;
-        vertical-align: middle;
-        outline: none;
-        border: none;
-        -webkit-border-radius: 4px;
-        -moz-border-radius: 4px;
-        border-radius: 4px;
-        -webkit-transition: border linear .2s,box-shadow linear .2s;
-        -moz-transition: border linear .2s,box-shadow linear .2s;
-        -ms-transition: border linear .2s,box-shadow linear .2s;
-        -o-transition: border linear .2s,box-shadow linear .2s;
-        transition: border linear .2s,box-shadow linear .2s;
-        border: 1px solid #aaa;
-        -webkit-appearance: none;
-        -moz-appearance: none;
-        appearance: none;
-        background: #fff url("/images/h_arrow.gif") no-repeat right center;
-        margin-bottom: 3px;
-        width: 46px;
-    }
-    .ac-ui-w2-ah input[type="text"], .ac-ui-w2-ah input[type="password"]
-    {
-        width: 150px;
-    }
-    .ui-rdo input[type="radio"]
-    {
-        display: none;
-    }
-    .ui-rdo input[type="radio"] + label
-    {
-        color: #000;
-        font-family: Arial, sans-serif;
-        font-size: 12px;
-        font-weight: normal;
-    }
-    .ui-rdo input[type="radio"] + label span
-    {
-        display: inline-block;
-        width: 19px;
-        height: 19px;
-        margin: -1px 4px 0 0;
-        vertical-align: middle;
-        background: url(/images/rdo-chk.png) -38px top no-repeat;
-        cursor: pointer;
-    }
-    .ui-rdo input[type="radio"]:checked + label span
-    {
-        background: url(/images/rdo-chk.png) -57px top no-repeat;
-    }
-    .ui-clear
-    {
-        clear: both;
-    }
-    .mybutton
-    {
-        border: none;
-        background: #ca0303;
-        background: -webkit-gradient(linear, left top, left bottom, from(#f20909), to(#690202));
-        background: -webkit-linear-gradient(top, #f20909, #690202);
-        background: -moz-linear-gradient(top, #f20909, #690202);
-        background: -ms-linear-gradient(top, #f20909, #690202);
-        background: -o-linear-gradient(top, #f20909, #690202);
-        padding: 0px 12px;
-        height: 30px;
-        -webkit-border-radius: 3px;
-        -moz-border-radius: 3px;
-        border-radius: 3px;
-        -webkit-box-shadow: 0 0px 0px #000;
-        -moz-box-shadow: 0 0px 0px #000;
-        box-shadow: 0 0px 0px #000;
-        text-shadow: rgba(0,0,0,.4) 0 1px 0;
-        color: white;
-        font-size: 12px;
-        font-family: Arial, Sans-Serif;
-        text-decoration: none;
-        vertical-align: middle;
-        font-weight: bold;
-        cursor: pointer;
-    }
-    .mybutton:hover
-    {
-        background: #d44908;
-        color: #fff;
-    }
-    .mybutton:active
-    {
-        background: #c62905;
-    }
-</style>
+    </form>
+</div>
 
-<script language="JavaScript">
-<!--
-    function Validation1(theForm) {
-
-        if (theForm.astroname.value == "") {
-            alert("Please enter a value for the \"Name\" field.");
-            theForm.astroname.focus();
-            return (false);
-        }
-
-        if (theForm.astroday.selectedIndex == 0) {
-            alert("Please select the day");
-            theForm.astroday.focus();
-            return (false);
-        }
-
-        if (theForm.astromonth.selectedIndex == 0) {
-            alert("Please select the month");
-            theForm.astromonth.focus();
-            return (false);
-        }
-
-
-        if (theForm.astroyear.selectedIndex == 0) {
-            alert("Please select the year");
-            theForm.astroyear.focus();
-            return (false);
-        }
-
-        if (theForm.astrohrs.selectedIndex == 0) {
-            alert("Please select the hrs");
-            theForm.astrohrs.focus();
-            return (false);
-        }
-
-        if (theForm.astromin.selectedIndex == 0) {
-            alert("Please select the min");
-            theForm.astromin.focus();
-            return (false);
-        }
-
-        if (theForm.astrosec.selectedIndex == 0) {
-            alert("Please select the sec");
-            theForm.astrosec.focus();
-            return (false);
-        }
-
-        return (true);
-    }
--->
-</script>
-
-
-
-            </table>
-        </td>
-    </tr>
-        <tr>
-        <td scope="col" height="7">
-        </td>
-    </tr>
-    <tr>
-        <td height="141" valign="top" bgcolor="#FEFCF6" scope="col" class="table">
-            <div class="ac-ui-w3-wrapp">
-    <form method="post" action="http://www.astrocamp.com/include/i_astrosage-widget-services.asp"></form>
-        <fieldset>
-            <legend>Reports</legend>
-            <div class="ac-ui-w3-rdo">
-                <span>
-                    <input type="radio" id="radioWidgetService11" value="88" name="radioWidgetServices" checked="checked">
-                    <label for="radioWidgetService11">
-                        <span></span>2016 Personalized Horoscope - $35</label>
-                </span>
-                <div class="ac-ui-w3-clear">
-                </div>
-                <span>
-                    <input type="radio" id="radioWidgetService21" value="80" name="radioWidgetServices">
-                    <label for="radioWidgetService21">
-                        <span></span>Marriage and Love Analysis</label>
-                </span>
-                <div class="ac-ui-w3-clear">
-                </div>
-                <span>
-                    <input type="radio" id="radioWidgetService31" value="81" name="radioWidgetServices">
-                    <label for="radioWidgetService31">
-                        <span></span>Career / Job</label>
-                </span>
-                <div class="ac-ui-w3-clear">
-                </div>
-                <span>
-                    <input type="radio" id="radioWidgetService41" value="82" name="radioWidgetServices">
-                    <label for="radioWidgetService41">
-                        <span></span>Finance</label>
-                </span>
-                <div class="ac-ui-w3-clear">
-                </div>
-                <span>
-                    <input type="radio" id="radioWidgetService51" value="7" name="radioWidgetServices">
-                    <label for="radioWidgetService51">
-                        <span></span>Health &amp; Fitness</label>
-                </span>
-                <div class="ac-ui-w3-clear">
-                </div>
-                <div align="right">
-                    <input type="hidden" name="hdnPartnerId" id="hdnPartnerId" value="0">
-                    <input type="submit" value="Order Now" style="width: 100px;">
-                </div>
-            </div>
-        </fieldset>
-    
-</div><table width="94%" border="0" align="center" cellpadding="0" cellspacing="0">
-               <style>
+</div>
+<div class="panel">
+    <style>
     .ac-ui-w3-wrapp
     {
         width: 100%;
@@ -2180,12 +1555,56 @@ function validform(theform) {
     } 
 </style>
 <![endif]-->
-
-            </table>
-        </td>
-    </tr>
-</tbody></table>
-<style type="text/css">
+<div class="ac-ui-w3-wrapp">
+    <form method="post" action="http://www.astrocamp.com/include/i_astrosage-widget-services.asp">
+        <fieldset>
+            <legend>Reports</legend>
+            <div class="ac-ui-w3-rdo">
+                <span>
+                    <input type="radio" id="radioWidgetService11" value="88" name="radioWidgetServices" checked="checked">
+                    <label for="radioWidgetService11">
+                        <span></span>2016 Personalized Horoscope - $35</label>
+                </span>
+                <div class="ac-ui-w3-clear">
+                </div>
+                <span>
+                    <input type="radio" id="radioWidgetService21" value="80" name="radioWidgetServices">
+                    <label for="radioWidgetService21">
+                        <span></span>Marriage and Love Analysis</label>
+                </span>
+                <div class="ac-ui-w3-clear">
+                </div>
+                <span>
+                    <input type="radio" id="radioWidgetService31" value="81" name="radioWidgetServices">
+                    <label for="radioWidgetService31">
+                        <span></span>Career / Job</label>
+                </span>
+                <div class="ac-ui-w3-clear">
+                </div>
+                <span>
+                    <input type="radio" id="radioWidgetService41" value="82" name="radioWidgetServices">
+                    <label for="radioWidgetService41">
+                        <span></span>Finance</label>
+                </span>
+                <div class="ac-ui-w3-clear">
+                </div>
+                <span>
+                    <input type="radio" id="radioWidgetService51" value="7" name="radioWidgetServices">
+                    <label for="radioWidgetService51">
+                        <span></span>Health &amp; Fitness</label>
+                </span>
+                <div class="ac-ui-w3-clear">
+                </div>
+                <div align="right">
+                    <input type="hidden" name="hdnPartnerId" id="hdnPartnerId" value="0">
+                    <input type="submit" value="Order Now" style="width: 100px;">
+                </div>
+            </div>
+        </fieldset>
+    </form>
+</div>
+</div>
+<div class="desktop"><style type="text/css">
     .ui-fbslide
     {
         position: fixed;
@@ -2227,330 +1646,175 @@ function validform(theform) {
         </div>
     </div>
 </div>
+</div>
 
-                <!--End Right -->
-            </td>
-        </tr>
-        <tr>
-            <td colspan="3">
-                <!--Start Footer -->
-                <table border="0" width="100%" cellpadding="0" cellspacing="0" style="margin-top:25px;">
-    <tbody><tr>
-        <td width="60%">
-                    <div id="BottomPanel">
-                        <div class="Box">
-                            <div class="SiteMapHeading" style="margin-left: 40px;">
-                                Astrology</div>
-                            <ul style="margin-top:6px;">
-                                <li><a href="/horoscope/daily-horoscope.asp" title="Get Daily Horoscope for today">Daily Horoscope</a></li>
-                                <li><a href="/horoscope/weekly-horoscope.asp" title="Get Weekly Horoscope">Weekly Horoscope</a></li>
-                                <li><a href="/horoscope/monthly-horoscope.asp" title="Get Monthly Horoscope">Monthly Horoscope</a></li>
-                                <li><a href="/horoscope/horoscope2016.asp" title="Get Yearly Horoscope">Yearly Horoscope</a></li>
-                                <li><a href="/horoscope/index.asp" title="Get Facts &amp; Characteristics for Horoscope">Facts &amp; Characteristics</a></li>
-                                <li><a href="/sade_sati.asp" title="Saturn Sade Sati Report">Saturn Sade Sati Report</a></li>
-                                
-                                <li><a href="/kalsarpayoga.asp" title="kalsarpa Yoga Report">Kalsarpa Yoga Report</a></li>
-                                
-                                <li><a href="/mangal_dasha.asp" title="Mangal Dosha Report">Mangal Dosha Report</a></li>
-                                <li><a href="/personalized-horoscope-2010.asp" title="Personalized Horoscope">Personalized
-                                    Horoscope</a></li>
-                                <li><a href="/transit-today.asp" title="Transit Today">Transit Today</a></li>
-                            </ul>
-                        </div>
-                        <div class="Box">
-                            <div class="SiteMapHeading" style="margin-left: 40px;">
-                                Reports</div>
-                            <ul style="margin-top:6px;">
-                                <li><a href="/allservices.asp?Cat_Id=1" title="Get 2016 Reports">2016 Reports</a></li>
-                                <li><a href="/service.asp?service_id=3" title="Get Business Reports">Business</a></li>
-                                <li><a href="/service.asp?service_id=81" title="Get Career Reports">Career</a></li>
-                                <li><a href="/service.asp?service_id=82" title="Get Finance Reports">Finance</a></li>
-                                <li><a href="/service.asp?service_id=84" title="Get Gemstone &amp; Remedies Reports">Gemstone &amp; Remedies</a></li>
-                                <li><a href="/service.asp?service_id=80" title="Get Love &amp; Marriage Reports">Love &amp; Marriage</a></li>
-                                <li><a href="/service.asp?service_id=5" title="Get Lal Kitab Reports">Lal Kitab</a></li>
-                                <li><a href="/service.asp?service_id=83" title="Get Questions Reports">Detailed 1 Question</a></li>
-                                <li><a href="/service.asp?service_id=7" title="Get Health Reports">Health</a></li>
-                                <li><a href="/service.asp?service_id=2" title="Get Birth Time Rectification Reports">Birth Time
-                                    Rectification</a></li>
-                            </ul>
-                        </div>
-                        <div class="Box">
-                            <div class="SiteMapHeading" style="margin-left: 40px;">
-                                More on Astrology</div>
-                            <ul style="margin-top:6px;">
-                                <li><a href="/kundli/" title="Birth Chart">Birth Chart (Kundli)</a></li>
-                                <li><a href="/HoroscopeCompatibility.asp" title="Horoscope Compatibility">Horoscope
-                                    Compatibility</a></li>
-                                <li><a href="/hora.asp" title="Daily Hora Calculator">Daily Hora Calculator</a></li>
-                                <li><a href="/rahuKaal.asp" title="Rahukalam">Rahukalam</a></li>
-                                <li><a href="/choghadiya.asp" title="Choghadiya">Choghadiya</a></li>
-                                <li><a href="/sunrise.asp" title="Sunrise &amp; Sunset">Sunrise &amp; Sunset</a></li>
-                                <li><a href="/todaypanchang.asp" title="Today Panchang">Today Panchang</a></li>
-                            </ul>
-                        </div>
-                        <div class="Box">
-                            <div class="SiteMapHeading" style="margin-left: 40px;">AstroCAMP Magazine</div>
-                            <ul style="margin-top:6px;">
-                                <li><a href="/astrology-articles.asp" title="All Articles">All Articles</a></li>
-                                <li><a href="/content.asp?contenttype=Astrology" title="Astrology">Astrology</a></li>
-                                <li><a href="/content.asp?contenttype=Horoscope" title="Horoscope">Horoscope</a></li>
-                                <li><a href="/content.asp?contenttype=Dharm" title="Religion &amp; Festivals">Religion &amp; Festivals</a></li>
-                                <li><a href="/content.asp?contenttype=StockMarket" title="Stock Market Astrology">Stock Market Astrology</a></li>
-                                <li><a href="/content.asp?contenttype=Celebrities" title="Celebrity Horoscope">Celebrity Horoscope</a></li>
-                                <li><a href="/content.asp?contenttype=Tutorials" title="Astrology Tutorials">Astrology Tutorials</a></li>
-                                <li><a href="/content.asp?contenttype=Movies" title="Movies">Movies</a></li>
-                                <li><a href="/content.asp?contenttype=Sports" title="Sports">Sports</a></li>
-                                <li><a href="/content.asp?contenttype=News" title="Astrology News">Astrology News</a></li>
-                            </ul>
-                        </div>
-        </div></td>
-    </tr>  
-   </tbody></table>
- <!--<script type="text/javascript">
-     (function() {
-         var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-         po.src = 'https://apis.google.com/js/plusone.js';
-         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-     })();
-</script>-->
 
-<div>
-<script type="text/javascript">    var switchTo5x = true;</script>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                
+<div class="row">
+<div class="col-sm-3">
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <b>Astrology</b></div>
+    <div class="list-group">
+        <a class="list-group-item" href="/horoscope/daily-horoscope.asp" title="Get Daily Horoscope for today">Daily Horoscope</a>
+        <a class="list-group-item" href="/horoscope/weekly-horoscope.asp" title="Get Weekly Horoscope">Weekly Horoscope</a>
+        <a class="list-group-item" href="/horoscope/monthly-horoscope.asp" title="Get Monthly Horoscope">Monthly Horoscope</a>
+        <a class="list-group-item" href="/horoscope/horoscope2016.asp" title="Get Yearly Horoscope">Yearly Horoscope</a>
+        <a class="list-group-item" href="/horoscope/index.asp" title="Get Facts &amp; Characteristics for Horoscope">Facts &amp; Characteristics</a>
+        <a class="list-group-item" href="/sade_sati.asp" title="Saturn Sade Sati Report">Saturn Sade Sati Report</a>
+        <a class="list-group-item" href="/kalsarpayoga.asp" title="kalsarpa Yoga Report">Kalsarpa Yoga Report</a>
+        <a class="list-group-item" href="/mangal_dasha.asp" title="Mangal Dosha Report">Mangal Dosha Report</a>
+        <a class="list-group-item" href="/personalized-horoscope-2010.asp" title="Personalized Horoscope">Personalized Horoscope</a>
+        <a class="list-group-item" href="/transit-today.asp" title="Transit Today">Transit Today</a>
+    </div>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <b>Reports</b></div>
+    <div class="list-group">
+        <a class="list-group-item" href="/allservices.asp?Cat_Id=1" title="Get 2016 Reports">2016 Reports</a>
+        <a class="list-group-item" href="/service.asp?service_id=3" title="Get Business Reports">Business</a>
+        <a class="list-group-item" href="/service.asp?service_id=81" title="Get Career Reports">Career</a>
+        <a class="list-group-item" href="/service.asp?service_id=82" title="Get Finance Reports">Finance</a>
+        <a class="list-group-item" href="/service.asp?service_id=84" title="Get Gemstone &amp; Remedies Reports">Gemstone &amp; Remedies</a>
+        <a class="list-group-item" href="/service.asp?service_id=80" title="Get Love &amp; Marriage Reports">Love &amp; Marriage</a>
+        <a class="list-group-item" href="/service.asp?service_id=5" title="Get Lal Kitab Reports">Lal Kitab</a>
+        <a class="list-group-item" href="/service.asp?service_id=83" title="Get Questions Reports">Detailed 1 Question</a>
+        <a class="list-group-item" href="/service.asp?service_id=7" title="Get Health Reports">Health</a>
+        <a class="list-group-item" href="/service.asp?service_id=2" title="Get Birth Time Rectification Reports">Birth Time Rectification</a>
+    </div>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <b>More on Astrology</b></div>
+    <div class="list-group">
+        <a class="list-group-item" href="/kundli/" title="Birth Chart">Birth Chart (Kundli)</a>
+        <a class="list-group-item" href="/HoroscopeCompatibility.asp" title="Horoscope Compatibility">Horoscope Compatibility</a>
+        <a class="list-group-item" href="/hora.asp" title="Daily Hora Calculator">Daily Hora Calculator</a>
+        <a class="list-group-item" href="/rahuKaal.asp" title="Rahukalam">Rahukalam</a>
+        <a class="list-group-item" href="/choghadiya.asp" title="Choghadiya">Choghadiya</a>
+        <a class="list-group-item" href="/sunrise.asp" title="Sunrise &amp; Sunset">Sunrise &amp; Sunset</a>
+        <a class="list-group-item" href="/todaypanchang.asp" title="Today Panchang">Today Panchang</a>
+    </div>
+</div>
+</div>
+<div class="col-sm-3">
+<div class="panel panel-default panel-warning">
+    <div class="panel-heading">
+        <b>AstroCAMP Magazine</b></div>
+    <div class="list-group">
+        <a class="list-group-item" href="/astrology-articles.asp" title="All Articles">All Articles</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Astrology" title="Astrology">Astrology</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Horoscope" title="Horoscope">Horoscope</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Dharm" title="Religion &amp; Festivals">Religion &amp; Festivals</a>
+        <a class="list-group-item" href="/content.asp?contenttype=StockMarket" title="Stock Market Astrology">Stock Market Astrology</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Celebrities" title="Celebrity Horoscope">Celebrity Horoscope</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Tutorials" title="Astrology Tutorials">Astrology Tutorials</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Movies" title="Movies">Movies</a>
+        <a class="list-group-item" href="/content.asp?contenttype=Sports" title="Sports">Sports</a>
+        <a class="list-group-item" href="/content.asp?contenttype=News" title="Astrology News">Astrology News</a>
+    </div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+
+ <div class="panel panel-default">
+<div class="fb-comments" data-width="100%" data-numposts="10"></div>
+</div>
+
+
+
+<div class="table-responsive">
+    <script type="text/javascript">    var switchTo5x = true;</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">    stLight.options({ publisher: "63548d66-1bc8-48fb-b32a-1da3f5ef9b90" });</script>
-<div class="ShareDiv">
-          <span class="st_sharethis_vcount" displaytext="ShareThis"></span>
-          <span class="st_facebook_vcount" displaytext="Facebook"></span>
-          <span class="st_twitter_vcount" displaytext="Tweet"></span>
-          <span class="st_linkedin_vcount" displaytext="LinkedIn"></span>
-          <span class="st_pinterest_vcount" displaytext="Pinterest"></span>
-          <span class="st_plusone_vcount" displaytext="Google +1"></span>
-          <span class="st_email_vcount" displaytext="Email"></span>
+<table class="ShareDiv table table-bordered">
+<tbody><tr>
+          <td><span class="st_sharethis_vcount" displaytext="ShareThis"></span></td>
+          <td><span class="st_facebook_vcount" displaytext="Facebook"></span></td>
+          <td><span class="st_twitter_vcount" displaytext="Tweet"></span></td>
+          <td><span class="st_linkedin_vcount" displaytext="LinkedIn"></span></td>
+          <td><span class="st_pinterest_vcount" displaytext="Pinterest"></span></td>
+          <td><span class="st_plusone_vcount" displaytext="Google +1"></span></td>
+          <td><span class="st_email_vcount" displaytext="Email"></span></td>
+          </tr>
+</tbody></table>
 </div>
 
-</div>
-<table>
-    <tbody><tr>
-        <td height="1px">
-        </td>
-    </tr>
-</tbody></table>
 
 <script language="javascript" type="text/javascript">
     <!--
-        function Clear()
-        {
-            document.getElementById("emailid").value = "";
-        }
+    function Clear() {
+        document.getElementById("emailid").value = "";
+    }
      -->
 </script>
-
 <script language="JavaScript" src="/script/gen_validatorv31.js" type="text/javascript"></script>
+<form id="frmemail" runat="server" action="../WeeklyReport.asp" method="post" class="bg-danger round-corner-all form-horizontal">
 
-<form id="frmemail" runat="server" action="../WeeklyReport.asp" method="post">
-<table width="100%" border="0">
-    <tbody><tr>
-        <td height="45" bgcolor="#f3f3f3" scope="col">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <th width="17%" height="33" scope="col">
-                        &nbsp;
-                    </th>
-                    <th width="36%" class="newslettercontent" scope="col">
-                        <div align="left">
-                            Subscribe weekly Astrology Reports for FREE</div>
-                    </th>
-                    <th width="23%" scope="col">
-                        <div align="left">
-                            <input id="emailid" name="emailid" type="text" class="newslettertxtbox" value="Email Id" onfocus="return Clear(this)">
-                        </div>
-                    </th>
-                    <th width="7%" scope="col">
-                        <input id="subemail" type="image" src="/images/submit.gif" name="subemail">
-                    </th>
-                    <th width="17%" scope="col">
-                        &nbsp;
-                    </th>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    <tr>
-        <td height="61" bgcolor="#FFFFFF" scope="col">
-            <div align="center">
-                <a href="/affiliate/" class="footerfont">Affiliates</a> <span class="footerfontdivider">
-                    |</span> 
-                <a href="/services.asp" class="footerfont">Astrology Services/ Reports</a> <span class="footerfontdivider">
-                    |</span> <a href="/astrology-software.asp" class="footerfont">Astrology Software</a>
-                <span class="footerfontdivider">|</span> <a href="/FreeBirthChart.asp" class="footerfont">Free Birth Chart</a>
-                <span class="footerfontdivider">|</span> <a href="/feedback.asp" class="footerfont">Feedback</a>
-                <span class="footerfontdivider">|</span> <a href="/contactus.asp" class="footerfont">
-                    Contact us</a> <span class="footerfontdivider">|</span> <a href="/aboutus.asp" class="footerfont">
-                        About us</a> <span class="footerfontdivider">|</span> <a href="/horoscope/daily-horoscope.asp" class="footerfont">Daily Horoscopes</a> <span class="footerfontdivider">|</span>
-                <a href="/PrivacyPolicy.asp" class="footerfont">Privacy Policy</a> <span class="footerfontdivider">|</span>
-                <a href="/terms.asp" class="footerfont">Terms of Use</a>
-                <!--<span class="footerfontdivider">|</span>  <a href="#" class="footerfont">Disclaimer</a>-->
-                <br>
-                <span class="copyright">© Copyright 2015 AstroCAMP.com All Rights Reserved</span></div>
-        </td>
-    </tr>
-    <tr>
-    <td>
-      <div>
-    <a href="/horoscope/horoscope2016.asp" class="topmenu">Horoscope 2016</a> 
- : <a href="/horoscope/arieshoroscope2015.asp" class="topmenu">Aries 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/taurushoroscope2016.asp" class="topmenu">Taurus 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/geminihoroscope2016.asp" class="topmenu">Gemini 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/cancerhoroscope2016.asp" class="topmenu">Cancer 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/leohoroscope2016.asp" class="topmenu">Leo 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/virgohoroscope2016.asp" class="topmenu">Virgo 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/librahoroscope2016.asp" class="topmenu">Libra 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/scorpiohoroscope2016.asp" class="topmenu">Scorpio 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/sagittariushoroscope2016.asp" class="topmenu">Sagittarius 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/capricornhoroscope2016.asp" class="topmenu">Capricorn 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/aquariushoroscope2016.asp" class="topmenu">Aquarius 2016 Horoscope</a> 
- <span class="topmenudivider"> | </span><a href="/horoscope/pisceshoroscope2016.asp" class="topmenu">Pisces 2016 Horoscope</a> 
+<div class="form-group padding-all">
+ <label class="col-sm-5 control-label"> Subscribe weekly Astrology Reports for FREE</label>
+ <div class="col-sm-5">
+  <input id="emailid" name="emailid" type="text" class="form-control" value="Email Id" onfocus="return Clear(this)">
  </div>
-  
-<link rel="stylesheet" type="text/css" href="/css/popupbox.css">
-<script type="text/javascript">
-    var overlayid = ["overlay2","overlay0", "overlay1"];
-    var popupid = ["popup2","popup0", "popup1"];
-    var cookiesname = ["ishowadv2","ishowadv0", "ishowadv1"];
-    var interval = 1000 * 120;
-    var passcookie, currentpopupid;
-    
-
-    function setonclickfunction() {
-        document.addEventListener("click", function(e) {
-            if (ovr.style.visibility == "visible" && pop.style.visibility == "visible") {
-                closePopup("trans", "trans", overlayid[currentpopupid], popupid[currentpopupid]);
-            }
-        });
-    }
-
-
-    function setpopuptimer(i) {
-        currentpopupid = i;
-        var timeOutValue = setTimeout(function() {            
-            ovr = document.getElementById(overlayid[i]);
-            pop = document.getElementById(popupid[i]);
-            ovr.style.visibility = (ovr.style.visibility == "visible") ? "hidden" : "visible";
-            pop.style.visibility = (pop.style.visibility == "visible") ? "hidden" : "visible";
-            passcookie = cookiesname[i];
-            setonclickfunction()
-        }, interval);
-        return timeOutValue;
-    }
-    
-    
-    
-    function closePopup(tag, tagvalue, overlayidpass, popupidpass) {
-        //alert(tag+","+ tagvalue+","+ overlayidpass+","+ popupidpass);
-        document.getElementById(overlayidpass).style.visibility = 'hidden';
-        document.getElementById(popupidpass).style.visibility = 'hidden';
-        _gaq.push(['_trackEvent', tag, tagvalue]);
-        //alert('after');
-        var xmlhttp;
-        if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
-            xmlhttp = new XMLHttpRequest();
-        }
-        else {// code for IE6, IE5
-            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
-        }
-        xmlhttp.onreadystatechange = function() {
-            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {                
-            }
-        }
-        xmlhttp.open("GET", "/include/create-cookies.asp?cookiesname=" + passcookie, true)
-        xmlhttp.send();        
-    }
-
-</script>
-
-
-<div id="overlay2"></div>
-<div id="popup2">
-    <div class="box-area">
-    <div>
-       <div class="brtop-red"></div>
-       <div class="brtop-yallow"></div>
-       <div class="brtop-green"></div>       
-       <div class="brtop-orange"></div>
-       <div style="clear:both"></div>
-    </div>
-        <a href="javascript:closePopup('cancel-marriage','cross-english','overlay2','popup2')" class="close"></a>
-        <div class="col1-1">     
-              <div class="punchline"><h3>Do you want to get married?</h3></div>
-              <div class="url"><a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" rel="nofollow" onclick="javascript:closePopup('register-marriage','link','overlay2','popup2')">https://www.AstroSageMarriage.com/</a></div>
-          
-            <div align="center">
-            <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','icon','overlay2','popup2')">
-            <img src="/images/promotion/matrimony-img/marriage.png" width="250" class="p-img">
-            </a>
-            </div>
-        </div>
-        <div class="col2-2">
-            <div class="content-area">
-             <div align="center">
-             <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" rel="nofollow" target="_blank" onclick="javascript:closePopup('register-marriage','logo','overlay2','popup2')">
-             <img src="/images/promotion/matrimony-img/logo1.png" width="300" class="p-img">
-             </a>
-             </div>
-               <div class="punchline"><h2>FREE Matrimony site by No. 1 astrology portal AstroSage.com</h2></div>
-               <div align="center" style=" margin-top:30px;"> 
-                <a href="https://marriage.astrosage.com?&amp;utm_source=astrocamp&amp;utm_medium=popup&amp;utm_campaign=asmarriage" target="_blank" class="pro-btn" rel="nofollow" onclick="javascript:closePopup('register-marriage','button','overlay2','popup2');">Register Now</a>
-               </div>
-            </div>
-            <div style=" height:20px;"></div>
-        </div>
-        <div style="clear: both"></div>
-         <div>
-       <div class="brbtm-red"></div>
-       <div class="brbtm-yallow"></div>
-       <div class="brbtm-green"></div>       
-       <div class="brbtm-orange"></div>
-       <div style="clear:both"></div>
-    </div>
-    </div>
+ <div class="col-sm-2">
+   <input id="subemail" type="submit" class="btn btn-danger" name="subemail">
+ </div>
 </div>
-<script type="text/javascript">setpopuptimer(0)</script>
-    </td>
-    </tr>
-</tbody></table>
-
 </form>
 
+ <div class="text-center padding-b">
+      <a href="/affiliate/" class="footerfont">Affiliates</a> <span class="footerfontdivider">|</span> 
+      <a href="/services.asp" class="footerfont">Astrology Services/ Reports</a> <span class="footerfontdivider">|</span> 
+      <a href="/astrology-software.asp" class="footerfont">Astrology Software</a> <span class="footerfontdivider">|</span> 
+      <a href="/FreeBirthChart.asp" class="footerfont">Free Birth Chart</a> <span class="footerfontdivider">|</span>
+      <a href="/feedback.asp" class="footerfont">Feedback</a> <span class="footerfontdivider">|</span> 
+      <a href="/contactus.asp" class="footerfont">Contact us</a> <span class="footerfontdivider">|</span> 
+      <a href="/aboutus.asp" class="footerfont">About us</a> <span class="footerfontdivider">|</span> 
+      <a href="/horoscope/daily-horoscope.asp" class="footerfont">Daily Horoscopes</a> <span class="footerfontdivider">|</span> 
+      <a href="/PrivacyPolicy.asp" class="footerfont">Privacy Policy</a> <span class="footerfontdivider">|</span> 
+      <a href="/terms.asp" class="footerfont">Terms of Use</a>              
+      <br>
+      <span class="copyright">© Copyright 2016 AstroCAMP.com All Rights Reserved</span></div>
+       
+<div class="text-center padding-b">
+      <a href="/horoscope/horoscope2016.asp" class="topmenu">Horoscope 2016</a> : 
+      <a href="/horoscope/arieshoroscope2015.asp" class="topmenu">Aries 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/taurushoroscope2016.asp" class="topmenu">Taurus 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/geminihoroscope2016.asp" class="topmenu">Gemini 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/cancerhoroscope2016.asp" class="topmenu">Cancer 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/leohoroscope2016.asp" class="topmenu">Leo 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/virgohoroscope2016.asp" class="topmenu">Virgo 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/librahoroscope2016.asp" class="topmenu">Libra 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/scorpiohoroscope2016.asp" class="topmenu">Scorpio 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/sagittariushoroscope2016.asp" class="topmenu">Sagittarius 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/capricornhoroscope2016.asp" class="topmenu">Capricorn 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/aquariushoroscope2016.asp" class="topmenu">Aquarius 2016 Horoscope</a> <span class="topmenudivider">|</span>
+      <a href="/horoscope/pisceshoroscope2016.asp" class="topmenu">Pisces 2016 Horoscope</a>
+</div>
+<!--#xinclude virtual = "/include/popupbox.asp"-->       
+
 <script language="JavaScript" type="text/javascript">
-//You should create the validator only after the definition of the asp form
-  var frmvalidator  = new Validator("frmemail");
+    //You should create the validator only after the definition of the asp form
+    var frmvalidator = new Validator("frmemail");
 
-  frmvalidator.EnableMsgsTogether();
-  frmvalidator.addValidation("emailid","req","ENTER YOUR E-MAIL ID");
-  frmvalidator.addValidation("emailid","email","ENTER A VALID E-MAIL ADDRESS");
-  
+    frmvalidator.EnableMsgsTogether();
+    frmvalidator.addValidation("emailid", "req", "ENTER YOUR E-MAIL ID");
+    frmvalidator.addValidation("emailid", "email", "ENTER A VALID E-MAIL ADDRESS");  
 </script>
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-245702-6");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-
-                <!--End Footer -->
-            </td>
-        </tr>
-    </tbody></table>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+            </div>
+        </div>
+    </div>
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 </body></html>
