@@ -1,69 +1,65 @@
-> *The following text is extracted and transformed from the timeclockwizard.com privacy policy that was archived on 2008-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080623220510id_/http%3A//www.timeclockwizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeclockwizard.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420052108id_/https%3A//www.timeclockwizard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Time Clock Wizard
+# Privacy Policy - Time Clock Wizard
 
-**Time Clock Wizard  
-**
+This privacy policy pertains to the use of the TimeClockWizard.com Web site at http://www.TimeClockWizard.com and covers how TimeClockWizard.com treats personal information that TimeClockWizard.com collects and receives. Personal information is information about you that is personally identifiable, like your name, address, email address, or phone number. Children under 18 are not permitted to use the TimeClockWizard.com service, and so this privacy policy makes no provision for children’s use of the site.
 
-## **PRIVACY POLICY**
+•   TimeClockWizard.com collects personal information when you register with TimeClockWizard.com to use TimeClockWizard.com services or to post content on TimeClockWizard.com.
 
-Welcome to Time Clock Wizard (the "Site").
+•   When you register we ask for your email address and personal information such as your name.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Time Clock Wizard (collectively, "Services") ("Authorized Customers").
+•   TimeClockWizard.com automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.
 
-**"Personally Identifiable Information"**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
-or demographic information not connected to an identified individual.
+•   TimeClockWizard.com uses information for the following general purposes: products and services provision, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
-**What Personally Identifiable Information is collected?**  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with TimeClockWizard.com. IP addresses may be used for various purposes, including:
 
-**What organizations are collecting the information?**  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+•   To diagnose or service technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
+•   To estimate the total number of users visiting TimeClockWizard.com from specific geographical regions.
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
+## Cookies
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by Time Clock Wizard is securely stored and is not accessible to third parties or employees of Time Clock Wizard except for use as indicated above.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at comments2 (at) timeclockwizard.com
+•   You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+•   If you reject all cookies, you will not be able to use TimeClockWizard.com’s products or services that require you to “sign in,” and you may not be able to take full advantage of the TimeClockWizard.com service.
 
-**How does Time Clock Wizard use login information?**  
-Time Clock Wizard uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
+•   TimeClockWizard.com uses its own cookies for a number of purposes, including to:
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-Time Clock Wizard has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
+1.   Access your information when you “sign in”.
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+2.   Keep track of preferences you specify while you are using TimeClockWizard.com’s services.
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at comments2 (at) timeclockwizard.com 
+3.   Estimate and report our total audience size and traffic.
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting comments2 (at) timeclockwizard.com. However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+4.   Conduct research to improve TimeClockWizard.com’s content and services.
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+## Information Sharing and Disclosure
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
+•   TimeClockWizard.com will never rent or sell your personal information.
 
-2006 **Time Clock Wizard** , 
+•   Generally, TimeClockWizard.com does not share personal information about you with other people or non-affiliated companies without your consent except to provide products or services you’ve either requested, or which may compliment your existing account service, and in the following circumstances:
 
-All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
+1.   TimeClockWizard.com may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court orders or legal process or to establish or exercise our legal rights or defend against legal claims.
 
+2.   It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, violations of TimeClockWizard.com’s terms of use, or as otherwise permitted or required by law. We will transfer information about you if TimeClockWizard.com is acquired by or merged with another company. In this event, TimeClockWizard.com will notify you by email or by putting a prominent notice on the TimeClockWizard.com web site before information about you is transferred and becomes subject to a different privacy policy. No personally identifiable information will ever be used without your permission (i.e. we will ask you for a quote or testimonial).
+
+## Editing and Deleting Account Information. Security.
+
+•   You can change your TimeClockWizard.com Account Information, at any time.
+
+•   We may send you certain communications relating to the TimeClockWizard.com service, such as service announcements and administrative messages, that are considered part of your TimeClockWizard.com account.
+
+•   You can delete your TimeClockWizard.com account at any time from your account page; however, please note that your identification information may remain in TimeClockWizard.com’s records for some period.
+
+•   We limit access to personal information about you to our employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+
+•   Your TimeClockWizard.com Account Information is password-protected.
+
+•   In certain areas, TimeClockWizard.com may use SSL-encryption to protect data transmissions.
+
+## Changes to this Privacy Policy
+
+TimeClockWizard.com may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice either to your TimeClockWizard.com Message Inbox, the email address used to register your TimeClockWizard.com account, or by placing a prominent notice on our site. If you have questions or suggestions please contact us at support@timeclockwizard.com.
