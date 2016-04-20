@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216185618id_/http%3A//www.phoenix.com/pages/phoenix-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420182820id_/http%3A//www.phoenix.com/pages/phoenix-privacy-policy) for the most accurate reproduction.*
 
 # Phoenix Technologies - Phoenix Privacy Policy - Phoenix Technologies Ltd
 
