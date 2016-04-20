@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601001444id_/http%3A//www.gnomicfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnomicfun.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420054519id_/http%3A//www.gnomicfun.com/privacy) for the most accurate reproduction.*
 
 # gnomicfun.com - Privacy Policy
 
