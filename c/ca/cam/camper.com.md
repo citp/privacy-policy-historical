@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224071401id_/http%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camper.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420211606id_/http%3A//www.camper.com/html/legal/privacy_en.html) for the most accurate reproduction.*
 
 # Camper. Legal Information and Privacy Policy.
 
@@ -70,10 +70,6 @@ Browsing  |  Browser Cookies  |  __camperCountry  |  www.camper.com  |  Browser 
 __camperGeoCountry  |  www.camper.com  |  Country detection via browser IP. It is deleted at the end of the session.   
 __camperLang  |  www.camper.com  |  It detects the language and guarantees that it is not changed during the session. It is deleted after one month.   
 __camperShowPopUpNews  |  www.camper.com  |  It shows associated information to users who have subscribed to our newsletters. If they are not subscribers, no information associated with newsletters is shown. It is deleted after seven days.   
-SAVId  |  www.camper.com  |  This set of cookies makes it possible to present a version of the website optimised for the browser and the user operating system. It also facilitates direct traffic to the end users via the Level 3 network avoiding public exchange points.   
-SL_Audience   
-SL_ClassKey   
-SL_UVId   
 Website location  |  __mxsv  |  .camper.com  |  Detecting user's location during the browsing and the purchasing process. It thus provides support for Google Analytics' tracking. It is deleted at the end of the session.   
 Drupal JS-Elemente  |  has_js  |  www.camper.com  |  This cookie informs the system about whether JavaScript is enabled in the browser being utilized by the user. It is deleted at the end of the session.   
 EXTERNAL COOKIES   
@@ -104,6 +100,8 @@ Please do not forget that some parts of the website may not function correctly i
 ### Reviewing, editing and deleting your data
 
 Under the terms of the applicable data protection rules and legislation you are entitled to inspect, correct and/or delete any personal data concerning you, as well as to revoke your consent to receive information about promotions and other matters of interest related to CAMPER, at any time. To this end you may address a request for such inspection, correction, deletion and/or objection to Ruralmed S.L. (CAMPER) Att.: department Web y SAC, Polígono Industrial s/n, 07300 Inca, Mallorca, Islas Baleares, Spain. Or by e-mail at the following address: [customercare@camper.es](mailto:customercare@camper.es). 
+
+To allow, know, block or delete the installed cookies on your computer, you can do it by changing your setting options on your computer’s browser. 
 
 ### Changes to the Privacy Policy
 
