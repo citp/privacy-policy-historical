@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235305id_/http%3A//cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421015629id_/https%3A//www.cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cotopaxi - Gear For Good
+# Privacy Policy – Cotopaxi - Gear For Good
 
 Cotopaxi is committed to protecting the privacy of visitors of this web site and registered users. At Cotopaxi, we want you to have an enjoyable shopping experience. And while it is necessary for us to collect certain personal information, which you consent to collect by accessing or registering on this web site, we respect and protect your right to privacy as set forth in this Privacy Policy.
 
@@ -18,7 +18,7 @@ Any of the information we collect from you may be used in one of the following w
 
 * To personalize your experience (your information helps us to better respond to your individual needs).
 * To process transactions (your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested).
-* To send periodic emails (the email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.). Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+* To send you marketing materials (the email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.). We may combine the information we collect with data from third party sources. Note: If at any time you would like to unsubscribe from receiving future correspondence, we include detailed unsubscribe instructions at the bottom of each email or you may contact customer service to opt out of receiving marketing materials.
 
 How do we protect your information?
 
@@ -30,7 +30,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 Do we disclose any information to outside parties?
 
-Except as part of a sale of the Company or the majority of assets of the Company, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to comply with this privacy policy and therefore keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Except as part of a sale of the Company or the majority of assets of the Company, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, creating marketing materials, or servicing you, so long as those parties agree to comply with this privacy policy and therefore keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 Third party links
 
