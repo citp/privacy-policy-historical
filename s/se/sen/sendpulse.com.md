@@ -1,44 +1,71 @@
-> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401135215id_/http%3A//sendpulse.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendpulse.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420062523id_/https%3A//sendpulse.com/privacy) for the most accurate reproduction.*
 
-# wirelessROI [ Interactive Business Messaging ]
+# Privacy Police | Sendpulse
 
-wirelessROI is committed to safeguarding your privacy. wirelessROI will not release your personal information to any third party without your consent, and will not view or gather any information from data you entrust to us, except as described below.  
-  
-What information does wirelessROI ask for and how is it used?  
-  
-  
-When you register for our service, wirelessROI will ask you for basic contact and billing information, including your principal telephone number, address, and e-mail address. wirelessROI may use your contact information to contact you for account maintenance purposes. As wirelessROI provides additional features and services we may request additional information in order to implement such new features and services. 
+### SendPulse privacy policy
 
-wirelessROI will occasionally contact you to inform you of new features and services, to request participation in market surveys, or to inform you of wirelessROI and partner promotions, and for other customer satisfaction and customer service issues. 
+#### Customer personally identifiable information (PII):
 
-wirelessROI logs information about accesses to the wirelessROI site, including the IP addresses from which you came to the site, to diagnose problems with the server, administer the wirelessROI site, and do billing and statistical analysis. Additionally, wirelessROI reserves the right to conduct aggregate statistical analyses on our customers' messaging activities and share aggregated information with third parties in which cases your personally identifiable information will not be disclosed. wirelessROI may under certain circumstances disclose information when we reasonably believe that such action is necessary to (1) conform with legal requirements or comply with legal processes; (2) protect and defend the rights and property of wirelessROI; or (3) protect the legal interests of our members or other third parties. 
+Customer’s personally identifiable information (PII) such as name, email address, mailing address, phone number, billing information as well as other account information is held in strict confidence by SendPulse! 
 
-wirelessROI may also provide links to our partners¹ web sites. wirelessROI is not responsible for the services or privacy and security policies of our partners.  
-  
-Do I get to choose what information I disclose?  
-  
-You will only be required to disclose the information to wirelessROI that is required to register for and use our services.   
-Who has access to my personal information?   
-  
-  
-Your data is stored in our secured database, which is kept behind firewalls for additional security. Your wirelessROI password, personal information, your customer data, and messages content are similarly protected. We are continuously implementing more rigorous security and privacy features to protect your information. 
+Our website doesn’t collect PII from the user’s computer. 
 
-The wirelessROI database is physically protected at a secure, third-party site and is monitored by security personnel and under surveillance twenty-four hours a day. Only authorized personnel can access the data center, and they must submit multiple forms of identification.   
-  
-What if I need to change the personal information I previously disclosed?   
-  
-The wirelessROI site displays your company details and offers an e-mail facility to update any changes.   
-Choice/Opt-out  
-  
-Our users are given the opportunity to 'opt-out' of having their information used for any purpose. Users who no longer wish to receive communications from us may opt-out by clicking on the un-subscribe link that is present in every email.  
-Is my private information Secure?   
-  
-At wirelessROI, our number one focus is customer trust. We understand the need for our customer's personal data to be completely secure and private. When users submit sensitive information via the website, your information is protected both online and off-line. 
+PII information is requested and collected in conjunction with 
 
-Once you are logged in with your user name and password all communication is encrypted and is protected with the best encryption software in the industry - SSL. We are continually testing and updating a state-of-the-art system to protect our customer's personal information.  
-  
-Changes to this Privacy Policy   
-  
-We reserve the right to change this Privacy Policy at any time. Any changes to the Privacy Policy will immediately be posted to our Web site. Contact wirelessROI for further details,[info@wirelessROI.com](mailto:info@wirelessROI.com)  
-Tel: +353 (0)61 503083  
-Fax: +353 (0)61 338065
+  * Registration of our services.
+  * Providing you the services you have requested from SendPulse.
+
+
+
+The user would voluntarily supply the company with PII when he wants to subscribe.
+
+We do not sell or share our customer list with PII or any other customer entities!
+
+#### Customers and Subscribers Email Tracking
+
+SendPulse company servers do not record email addresses of visitors or customers unless expressly specified for  
+purposes such as means of identification for a service or tool available for registered and/or restricted use. 
+
+SendPulse will not sell or share subscribers’ email address to the third parties. Email addresses and other associated information generated by the subscribers are held in strict confidence!
+
+SendPulse. keeps customers’ email addresses in order to send subscriber’s follow up messages or company news, email addresses may be used also to market SendPulse products directly to the customers.
+
+However, if you wish to avoid receiving any future email news from SendPulse, please:
+
+  * choose to unsubscribe from receiving SendPulse news and updates at <http://login.sendpulse.com/settings/>  
+(this sections is available for SendPulse existing customers only) or
+  * Reply back to our message with ‘UNSUBSCRIBE’ in the subject line.
+
+
+
+#### Storing information under your account
+
+Information placed and stored in the areas SendPulse Company websites (e.g. the Members’ Area) designed for the storage and retrieval of personal data or providing you the services you have requested is tied to the username and password of the member whose Internet account information is stored under.
+
+Information which is stored or which passes through our systems (e.g. email lists or email messages’ content, passwords, etc.) is considered the property of the account owner.
+
+SendPulse Company does not monitor, review or read such information without the permission of the owner,  
+except to the extent required to assure the proper functioning of all SendPulse service related systems.
+
+SendPulse will not disclose information stored under your account to any third party!
+
+#### Your personal data protection
+
+SendPulse Company does not store individual Internet account passwords in the accessible format, and will not divulge or change any passwords on any account without proper authorization from the account owner or responsible party. 
+
+In addition, any information collected through our websites or over the Internet is transmitted using current industry-standard security and/or encryption methods aimed at protecting our customer’s information from unauthorized access or use.
+
+We recommend that you always keep your password private, and change it periodically in order to better protect your personal data.
+
+#### Employees Rights and Liabilities
+
+SendPulse Company employees are authorized to access customer information whenever it is necessary to review your account, provide you with requested information or services, or correct, update, delete account information. Our employees are required to treat all such personal and account information as confidential. Likewise, all  
+companies (these companies can include banks, registered agents, and other service providers) to whom we do disclose information to under this statement are contractually required to keep this information confidential, and to use it only as it pertains to providing you the services you have requested, and any and all functions attendant with such services.
+
+#### Summary
+
+All customer’s identifiable and other information that SendPulse Company collects via the Internet, in person, over the phone, or in any other manner is used for internal accounting and customer service purposes, and is NOT sold, rented or disclosed to any outside party that is not involved in the provisioning of your services.
+
+#### Contact us
+
+Please direct questions regarding this statement to SendPulse’s Customer Support staff at [support@sendpulse.com](mailto:support@sendpulse.com).
