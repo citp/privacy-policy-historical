@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011041id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420184207id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Craft Coffee
 
 We take your privacy seriously at Craft Coffee. We will never send you spam, or sell your information to marketers. For the full legalese, see below.
 
-This privacy policy covers the use of the web site located at [http://www.craftcoffee.com](http://www.craftcoffee.com/) and the services provided by Caffeinated Labs, LLC ("Craft Coffee"), including how Craft Coffee treats personal information that Craft Coffee collects and receives. Pursuant to Craft Coffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Craft Coffee does not own or control, or individuals that Craft Coffee does not employ or manage. 
+This privacy policy covers the use of the web site located at [http://www.craftcoffee.com](http://www.craftcoffee.com/) and the services provided by Caffeinated Labs, Inc. ("Craft Coffee"), including how Craft Coffee treats personal information that Craft Coffee collects and receives. Pursuant to Craft Coffee's [Terms of Use](https://web.archive.org/terms), you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Craft Coffee does not own or control, or individuals that Craft Coffee does not employ or manage. 
 
 This policy is effective on October 28, 2010.
 
@@ -77,4 +77,4 @@ If this privacy policy is changed, Craft Coffee will post changes so that you ar
 
 ## Questions
 
-If you have questions or suggestions you can contact Craft Coffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, LLC, Attn: Customer Support; 140 Metropolitan Ave, FL 3, Brooklyn, NY 11249. You can also reach us at 877-497-2278. 
+If you have questions or suggestions you can contact Craft Coffee [via our contact form](https://web.archive.org/contact) or by postal mail to Caffeinated Labs, Inc., Attn: Customer Support; 140 Metropolitan Ave, FL 3, Brooklyn, NY 11249. You can also reach us at 877-497-2278. 
