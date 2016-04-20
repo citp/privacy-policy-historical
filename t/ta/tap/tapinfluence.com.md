@@ -1,75 +1,72 @@
-> *The following text is extracted and transformed from the tapinfluence.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617020542id_/http%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapinfluence.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420044310id_/http%3A//www.tapinfluence.com/privacy) for the most accurate reproduction.*
 
-# Privacy | TapInfluence
+# TapInfluence Privacy Policy
 
-Your privacy is important to us. This Privacy Policy applies to all of the products, widgets, services and websites offered by TapInfluence LLC or its subsidiaries or affiliated companies ; collectively, TapInfluence’s “services”.
+**TapInfluence  
+****Privacy Policy**
 
-In order to provide our full range of services, we may collect the following types of information:
+** ** This Privacy Policy governs the manner in which TapInfluence collects, uses, and discloses information collected from users (each, a “User“) of the [http://www.tapinfluence.com](http://www.tapinfluence.com/) website (“Site“). This privacy policy applies to the Site and all products and services offered by TapInfluence.
 
-  * **Information you provide**  – When you sign up for TapInfluence or other TapInfluence service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other TapInfluence services or third parties in order to provide you with a better experience and to improve the quality of our services.
-  * **Cookies**  – When you visit TapInfluence, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. We may set a cookie in your browser when you visit a website and view or click on an ad supported by TheBlogFrog’s advertising services.
-  * **Log information**  – When you access TapInfluence services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **User communications**  – When you send messages, chats, or other communications to TapInfluence, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Affiliated sites**  – We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to TapInfluence in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
-  * **Other sites**  – This Privacy Policy applies to TapInfluence services only. We do not exercise control over the sites which display widgets or services from TapInfluence. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+**_Personal information_**
 
+Personal information refers to information that is connected to a User’s name, and may include things such as a User’s email address, mailing address, telephone number, and demographic information. TapInfluence collects personal information when Users voluntarily submit it to us. For example, we may collect personal information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources that we make available on our Site.
 
+In addition to personal information that we may receive from Users, TapInfluence may collect other information from Users using the following technologies:
 
-TapInfluence only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
-
-  * Providing our services to users, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network; and
-  * Developing new services.
+  * _Cookies_. “Cookies” are small bits of information that the Site places on the hard drive of a User’s computer. Cookies remember information about activities on the Site to make a User’s visits to the Site more enjoyable and valuable by providing a customized experience and recognizing a User’s preferences. If a User has chosen to disable cookies on his or her browser, some of the functionality of the Site may be lost. Certain services provided by TapInfluence, require that cookies be enabled in a User’s browser and cannot be used when cookies are disabled.
+  * _Flash Cookies_. (also called Local Shared Objects or “LSOs”). Flash cookies are data files similar to cookies, except that they can store more complex data. Flash cookies are used to remember settings, preferences, and usage, particularly for video, interactive gaming, and other similar services.
+  * _Web beacons or clear pixels_. Web beacons are small graphic images on a web page or in an email that can be used for such things as recording the pages and advertisements that a User selects, or tracking the performance of email marketing campaigns.
+  * _Web server logs_. Web server logs are records of activity created by the computer that delivers the webpages requested by the User’s browser. For example, a web server log may record the search term entered or the link clicked to bring a User a webpage. The web server log also may record information about a User’s browser, such as IP address and the cookies set on the browser by the server.
+  * _Device information_. We may collect information about the mobile device or computer used to access the Site, including without limitation the hardware model, operating system and version, browser type, unique device identifiers, and mobile network information.
 
 
 
-TapInfluence processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
+TapInfluence participates in behavioral-based advertising. This means that a third party may use technology (e.g., a cookie) to collect information about a User’s use of the Site so that they can provide advertising about products and services tailored to a User’s interest. That advertising may appear either on the Site, or on other websites.
 
-### Choices for personal information
+**_How we use personal information_**
 
-When you register at TapInfluence, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+TapInfluence may use a User’s personal information for the following purposes:
 
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
-
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TapInfluence features and services may not function properly if your cookies are disabled.
-
-You can decline to submit personal information to any of our services, in which case TapInfluence may not be able to provide those services to you.
-
-### Information sharing
-
-TapInfluence only shares personal information with other companies or individuals outside of TapInfluence in the following limited circumstances:
-
-  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of TapInfluence, its users or the public as required or permitted by law.
+  * _To improve customer service_. Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To personalize user experience_. We may use personal information to understand how our Users use the services and resources provided on our Site.
+  * _To improve our Site_. We may use feedback you provide to improve our products and services.
+  * _To run a promotion, contest, survey or other Site feature_. To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_. We may use the email address to respond to their inquiries, questions, and/or other requests. If User joins our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
-If TapInfluence becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+**_How we protect personal information_**
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who clicked on a particular term. Such information does not identify you individually.
+We use reasonable measures to help prevent personal information from becoming disclosed to individuals who are not described in this policy. While TapInfluence attempts to protect the information in our possession, no security system is perfect and TapInfluence cannot promise that information about you will remain secure in all circumstances.
 
-### Information security
+**_Sharing your personal information_**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+TapInfluence may share a User’s personal information with companies that are affiliated with us (that is, that control, are controlled by, or are under common control with TapInfluence). TapInfluence may also share a User’s personal information with third parties who advertise their products and services on the Site or other third parties who would like to send you information about their products and services. For example, TapInfluence may offer a discount or contest in conjunction with a co-sponsor that may have special offers or promotions that might be of interest to a User. In such a case, a User’s personal information may be shared with the co-sponsor and their use of such User’s personal information is governed by their privacy policy.
 
-We restrict access to personal information to TapInfluence employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+There may be instances when TapInfluence may disclose personal information without providing a User with a choice in order to protect the legal rights of TapInfluence, other affiliated companies or their employees, agents, and contractors; to protect the safety and security of other Users; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if TapInfluence sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, TapInfluence may transfer personal information to a third party as part of that transaction.
 
-### Data integrity
+**_Third party websites_**
 
-TapInfluence processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-### Accessing and updating personal information
+**_Changes to this privacy policy_**
 
-When you use TapInfluence services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+TapInfluence has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-### Enforcement
+**_California residents_**
 
-TapInfluence regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or TapInfluence’s treatment of personal information by [contacting us](http://theblogfrog.com/feedback.aspx) through this web site.
+Under California Civil Code sections 1798.83-1798.84, California residents who have an established business relationship with Syttr are entitled to ask us for a notice describing what categories of personal customer information we share with third parties for their direct marketing purposes. This notice will identify the categories of information shared with and will include a list of the third parties with which it is shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to us at the addresses listed below.
 
-When we receive formal written complaints, it is TapInfluence’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between TheBlogFrog and an individual.
+**_Contacting us_**
 
-### Changes to this Privacy Policy
+If you have questions about this privacy policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date
+TapInfluence  
+2100 Central Ave, STE 200  
+Boulder, CO  
+720-726-4074  
+[info@tapinfluence.com](mailto:info@tapinfluence.com)
+
+If TapInfluence needs, or is required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.
+
+_This document was last updated on December 4, 2015_
