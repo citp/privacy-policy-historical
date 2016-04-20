@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getpaidfasttoday.com privacy policy that was archived on 2014-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140920053917id_/http%3A//advertiseout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidfasttoday.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420160126id_/http%3A//www.advertiseout.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Advertise Out Marketing News
+# Privacy | Advertise Out Marketing News
 
 AdvertiseOut.com (“AdvertiseOut.com “, “we” or “us”), respects the privacy of visitors to its website, the home page of which is located at http://www.AdvertiseOut.com Wealth.com (the “Website”), and affiliated websites and is committed to maintaining the accuracy, confidentiality, and security of your personal information. This privacy policy explains how we collect, use, disclose and safeguard the personal information you provide to us.
 
