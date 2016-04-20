@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmyquotes.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711224727id_/http%3A//www.filmyquotes.com/main/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmyquotes.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421002905id_/http%3A//www.filmyquotes.com/main/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Biggest Collection Of Bollywood Dialogues By Movies And Stars | Filmy Quotes
 
