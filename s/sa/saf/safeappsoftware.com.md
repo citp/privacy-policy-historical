@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeappsoftware.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813064020id_/http%3A//www.safeappsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeappsoftware.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420042706id_/http%3A//www.safeappsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # SafeApp Software, LLC - Keep Your Computer Running FAST And Working RIGHT
 
