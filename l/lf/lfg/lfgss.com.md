@@ -1,89 +1,157 @@
-> *The following text is extracted and transformed from the lfgss.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052126id_/https%3A//www.lfgss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lfgss.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420071733id_/https%3A//www.lfgss.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - London Fixed-gear and Single-speed
+# Privacy Policy | About
 
-Last modified: May 18, 2008
+## LFGSS
 
-At London Fixed-gear and Single-speed we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by LFGSS Cycling Club or its subsidiaries or affiliated companies (collectively, London Fixed-gear and Single-speed's "services"). In addition, where more detailed information is needed to explain our privacy practices, we may post separate privacy notices to describe how particular services process personal information.
+## Forum Privacy Policy
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/sendmessage.php) through our website.
+### Our approach to privacy
 
-## Information we collect and how we use it
+The forum [http://www.lfgss.com](http://www.lfgss.com/) (the " **forum** ") is operated by the person, company or organisation detailed in the forum administrator section of the forum (" **we** " or " **us** "). We control how your personal information is used.
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as London Fixed-gear and Single-speed Search. In order to provide our full range of services, we may collect the following types of information:
+We are committed to protecting and respecting your privacy. This privacy policy sets out how we collect, use and share information that identifies you or is associated with you (" **personal information** ") when you use our forum.
 
-**Information you provide** \- When you sign up for a London Fixed-gear and Single-speed Account or other London Fixed-gear and Single-speed service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other London Fixed-gear and Single-speed services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+By setting up an account with us or using and accessing the forum, you consent to the use of your personal information as described in this privacy policy.
 
-**London Fixed-gear and Single-speed cookies** \- When you visit London Fixed-gear and Single-speed, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some London Fixed-gear and Single-speed features and services may not function properly if your cookies are disabled.
+You should also be aware that we use cookies to store and access information whilst providing the forum. You can find out more about our use of cookies in our cookies policy <http://www.lfgss.com/legal/cookies>.
 
-**Log information** \- When you use London Fixed-gear and Single-speed services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+### Personal information we hold about you
 
-**User communications** \- When you send email or other communication to London Fixed-gear and Single-speed, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+We collect personal information from you when you voluntarily submit information directly to us or the forum. This can include information you provide when you register to use the forum, complete a form, comment on the forum, correspond with us, subscribe to our email lists or respond to surveys or promotions. We also collect personal information indirectly from you such as information about the pages you look at on the forum or the device you connect to the forum with. We may also collect personal information about you from third parties such as other users of the forum.
 
-**Affiliated sites** \- We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to London Fixed-gear and Single-speed in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
+We describe the categories of personal information we collect in more detail below:
 
-**Links** \- London Fixed-gear and Single-speed may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our services.
+**Contact details** : such as your name and email address.
 
-**Other sites** \- This Privacy Policy applies to web sites and services that are owned and operated by London Fixed-gear and Single-speed. We do not exercise control over links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+**Profile information** : such as user name, your interests and experiences and your profile picture.
 
-London Fixed-gear and Single-speed only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+**Comments and opinions** : such as comments and opinions you leave on the forum or when you respond to our surveys, promotions or other user content such as classified ads, events or polls.
 
-    * Providing our products and services to users, including the display of customized content and advertising; 
-    * Auditing, research and analysis in order to maintain, protect and improve our services; 
-    * Ensuring the technical functioning of our network; and 
-    * Developing new services. 
+**Private messages to us** : private messages you send to us that you do not make publicly available on the forum.
 
-You can find more information about how we process personal information by referring to the privacy notices for particular services if one is available.
+**Private messages to other users** : private messages you send to other users that you do not make publicly available on the forum.
 
-London Fixed-gear and Single-speed processes personal information on our servers in the United States of America. We may process personal information to provide our services.
+**Payment and transaction information** : we will keep records of the products and services you purchase from us and the payment method you use for the transaction.
 
-## Choices for personal information 
+**Your preferences** : choices you make such as notification preferences or choices about how the forum is displayed.
 
-When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
+**Information about how you use and connect to the online service**
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
+We collect information about how you use the forum such as the pages and links you access, the time you access the forum and duration you are on it, the website you come to the forum from or go to after leaving the forum and selections and choices you make when using the forum.
 
-You can decline to submit personal information to any of our services, in which case London Fixed-gear and Single-speed may not be able to provide those services to you. 
+We also collect information about the computer or other electronic devices you use to connect to the forum such as details about the type of device (which can include unique device identifying numbers), its operating system, browser and applications connected to the forum through the device, your Internet service provider or mobile network, your IP address and your device's telephone number (if it has one).
 
-## Information sharing 
+Typically, the information we collect about how you use or connect to the forum is associated with your device and not you as a named individual. However, if you are logged into a registered account this information may also be associated with your account.
 
-London Fixed-gear and Single-speed only shares personal information with other companies or individuals outside of London Fixed-gear and Single-speed in the following limited circumstances: 
+**Information about your location**
 
-We have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
+Other than information you choose to provide to us, we do not collect information about your precise location. Your device's IP address may help us determine an approximate location but this will be no more precise than the city, state or country you are using your device in.
 
-We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
+**Information provided by other users**
 
-We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of London Fixed-gear and Single-speed, its users or the public as required or permitted by law. 
+Other users provide information that is associated with you such as comments and opinions they post on the forum that identify you or their responses to your comments and opinions or messages. For example, other users could provide information that is associated with you when responding to a post you have made on the forum or when addressing queries you have about classified ads or events.
 
-If London Fixed-gear and Single-speed becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
+**Information provided by other organisations**
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
+Other organisations may provide information that we associate with you where they are lawfully permitted to share it, such as contact details, demographic data, or Internet navigation information.
 
-## Information security 
+**Information from fraud and crime prevention organisations**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
+If fraudulent or other criminal activity is suspected relating to your account, we may be provided with information by credit reference, fraud and crime prevention organisations.
 
-We restrict access to personal information to London Fixed-gear and Single-speed employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+### How we use your information
 
-## Data integrity 
+We will also use your personal information for the purposes specifically described below:
 
-London Fixed-gear and Single-speed processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
+**Contact details** : we will use your contact details so that we can communicate with you directly about the service and about queries, issues or concerns you or other users have. We may also use your contact details to send you information about products and services that may be of interest to you (such communications will be in accordance with your marketing preferences).
 
-## Accessing and updating personal information 
+**Profile information** : we will use your profile information to create a public profile for you on the forum.
 
-When you use London Fixed-gear and Single-speed services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information.
+**Comments and opinions** : we will display your public comments, opinions and responses on the public areas of the forum. We will not publicly display your private messages or private interactions with us or another user. We will also use your comments and opinions to determine topics, products and services that may be of interest to you.
 
-## Creative Commons
+**Payment and transaction information** : we will use payment and transaction information you provide to process payment for any service or product you purchase from us. We may also use the history of your transactions with us to determine topics, products and services that may be of interest to you.
 
-All information and data that you supply to the London Fixed-gear and Single-speed services you allow to be licensed under the [Creative Commons Attribution-Share Alike 2.0 UK: England & Wales License ](http://creativecommons.org/licenses/by-sa/2.0/uk/). This is required to allow others to fully interact with the service (for example to quote your posts) and for us to provide the service (for example to show adverts on a page that contains your content).
+**Private messages to us** : we will use private messages you send to us to help us respond to any query, issue or concern you raise.
 
-## Enforcement 
+**Private messages to other users** : we will facilitate the delivery and storage of private messages between you and other users of the forum.
 
-London Fixed-gear and Single-speed regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or London Fixed-gear and Single-speed's treatment of personal information by [contacting us](https://web.archive.org/sendmessage.php) through this web site. When we receive formal written complaints via this website, it is London Fixed-gear and Single-speed's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between London Fixed-gear and Single-speed and an individual. 
+**Your preferences** : we will use your preference settings for the purpose of providing notifications, displaying the forum and following other choices you are able to make about how the service is delivered.
 
-## Changes to this policy 
+**Information about how you use and connect to the online service** : we use this information to present the forum to you on your device. We will also use this information to determine topics, products and services that may be of interest to you.
 
-Please note that this Privacy Policy may change from time to time.
+**Information about your location** : we may use an approximate location to ensure content on the forum is relevant to the city, state or country you are using your device in. We will not collect or track your exact location without your consent.
 
+**Information provided by other users** : we will display comments and opinions posted by other users in the forum which may contain personal information about you. If you are concerned about any content which contains personal information about you please report it to us. We will use your personal information that is contained in private messages sent to us by other users to respond to any query, issue or concern they raise.
 
+**Information about topics, products and services that may be of interest to you** : we will use information we gather about topics, products and services that may be of interest to you to help us improve the forum and develop new products and services. We may also use this information to help us decide on marketing that may be relevant to you.
 
+**Information about fraudulent or criminal activity relating to your account** : we will use information about fraudulent or criminal activity relating to your account for the purposes of preventing fraud or crime.
+
+**All personal information: will use all the personal information we collect to** : (i) monitor and improve the forum and our procedures and processes; and (ii) to help us develop new products and services. Our use of your personal information in this way will not result in information that was not previously publicly available being made public on the forum. We will also not use information about fraudulent or criminal activity relating to your account in the development of new products and services.
+
+We may anonymise and aggregate any of the information we collect (so that it does not directly identify you). We may use anonymised information for purposes that include testing our IT systems, research, data analysis, improving the forum and developing new products and features.
+
+### Information we share with third parties
+
+We may share your personal information with the following parties:
+
+**Companies in the same group of companies as us** : our subsidiaries (i.e. any organisation we own or control) or our ultimate holding company (i.e. any organisation that owns or controls us) and any subsidiaries it owns. These companies will only use your personal information in the same way as we can under this privacy policy.
+
+**Service providers and advisors** : third parties who provide a service to us, for example, we use third party email provider to help us deliver your email notifications to you. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure.
+
+**Other users of the forum** : your comments and opinions, your user name, your profile picture, the description of yourself that you add to your profile and other user generated or supplied content will be available to other users of the forum. Some actions, such as declaring attendance of an event, may also grant other users of the forum access to your contact details.
+
+**Purchasers of our business** : personal information may be disclosed or transferred to buyers or perspective buyers of our business or any of our assets as part of the sale.
+
+**Law enforcement, regulators and other parties for legal reasons** : third parties who we are under a legal obligation to disclose your personal information to or who we need to disclose your personal information to protect our rights, property or safety or the rights, property or safety of others, detect and investigate illegal activities and breaches of any agreement we have with you.
+
+We do not disclose information about identifiable individuals to anyone else except as set out above. We may provide third parties with aggregate statistical information and analytics about users of the forum but will we make sure no one can be identified from this information before we disclose it.
+
+### Marketing and Advertising
+
+**Email Marketing** \- From time to time we may contact you by email with information about our products and services. If you do not want us to send you email marketing, please let us know by sending an email to us at [david@buro9.com](mailto:david@buro9.com). You can also unsubscribe from our marketing emails by clicking on the unsubscribe link (where available) in the emails we send to you.
+
+**Email Notifications About Activity on the Forum** \- We will send you email notifications when certain actions take place on the forum. Such notifications will be sent in accordance with your notification settings under your user profile. If you want to stop or change the notifications you receive you can do so by amending your notification setting in your user profile.
+
+**Advertising on the Forum and other Websites** \- We or our advertising partners may show advertisements to you on the forum or on other websites. To do this we or our advertising partners may collect information about how you use the forum or the types of other web pages, content and ads you, or others who are using the device you connect to the forum, interact with, visit or view. The information collected might also include the IP address of the device you connect to the forum.
+
+We or our advertising partners use the information that is collected to make sure adverts you see either on the forum or other websites or apps (where our partners have advertising space) are more relevant to you.
+
+The techniques our advertising partners use recognise the device you are using but are not aimed at you as a named individual. Typically cookies and similar technologies are used to provide this type of advertising. You can find out more about cookies and how to manage their use by reading our cookies policy <http://www.lfgss.com/legal/cookies>.
+
+### Storing and transferring your personal information
+
+**Timeframe** : your personal information will be kept by us for as long as your account remains active. If you deactivate your account your personal information will be kept for a reasonable period of time after this so that we can complete any activities it is being used for. Your comments on the forum will be associated with your account as long as your account remains active. If you deactivate your account, your comments will be kept (as they form part of the discussions on the forum) but will no longer be associated with your account.
+
+**Cookies and Local Storage** : we may store information (which may include personal information) locally on your device using cookies and other browser and application storage methods. For further information please see our cookies policy <http://www.lfgss.com/legal/cookies>.
+
+**International Transfers of your Personal Information** : the personal information we collect may be transferred to and stored in countries outside of the jurisdiction you are in. Some of these jurisdictions offer differing levels of protection in respect of personal information and may, in certain instances, be less protective than the jurisdiction you are typically resident in. We will take all reasonable steps to ensure that your personal information is treated securely and in accordance with this privacy policy.
+
+### Accessing your personal information
+
+Most of the personal information we hold about you is available directly from viewing your account and looking back over your own activities. If you think there is other information you would like to access, please contact us using the contact details set out in the "Contacting us" section below. Please provide as much information as you can about the information you are looking for and we will be happy to try and help you find it.
+
+### Links to third party sites
+
+The forum may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
+
+### Our policy towards children
+
+Our forum is only available to persons aged 13 or over.
+
+The forum is not directed to persons under 13 and we do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information, without your consent, then please contact us using the details below so that we can take steps to remove such information and terminate the child's account.
+
+### Changes to this policy
+
+We may update this privacy policy from time to time and so you should review this policy periodically. When we change this privacy policy in a material way, we will update the "last modified" date at the bottom of this privacy policy. Changes to this privacy policy are effective when they are posted on this page.
+
+### Notice to you
+
+If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email or by placing a notice on the forum. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this privacy policy.
+
+### Contacting us
+
+Questions, comments and requests regarding this privacy policy are welcome and should be addressed to [david@buro9.com](mailto:david@buro9.com).
+
+This privacy policy was last modified on 2014-03-06 00:00:00 +0000 UTC.
