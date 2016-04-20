@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221041517id_/http%3A//www.clozette.co.id/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clozette.co.id privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420073517id_/http%3A//www.clozette.co.id/info/privacy) for the most accurate reproduction.*
 
 # Clozette Indonesia | Your Personal Online Closet and a Fashion Social Network
 
@@ -104,8 +104,10 @@ Clozette offers several newsletters to which you may voluntarily subscribe and u
 **If you have any questions about this Privacy Policy, please contact us at[hello@clozette.co.](mailto:hello@clozette.co)**
 
 **Contact Information**   
-Clozette Indonesia   
-Jl. Kemang raya No.2, Jakarta Selatan 12730, Indonesia   
-Tel.: +62 21 717 91239   
+Clozette Indonesia 
+
+Palma One Building, 8th Floor, Suite 810   
+Jl. HR Rasuna Said Kav. X2 No. 4, Jakarta 12950, Indonesia   
+Phone: +6221 252 1087/93 | Fax: +6221 252 1292   
 E-Mail: hello@clozette.co   
-Web: id.clozette.co 
+Web: clozette.co.id 
