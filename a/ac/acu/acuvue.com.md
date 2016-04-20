@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906064830id_/http%3A//www.acuvue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420090007id_/http%3A//www.acuvue.com/privacy-policy) for the most accurate reproduction.*
 
 # ACUVUE® Brand Privacy Policy | ACUVUE® Brand
 
