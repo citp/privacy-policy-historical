@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220000457id_/http%3A//www.gitex.com/Content/Privacy-Pledge-1-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitex.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420053741id_/http%3A//www.gitex.com/Content/Privacy-Pledge-1-2) for the most accurate reproduction.*
 
 # GITEX 2016 - Privacy Pledge
 
