@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-broker-rating.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114070322id_/http%3A//www.forex-broker-rating.com/policy_of_confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-broker-rating.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421005347id_/http%3A//www.forex-broker-rating.com/policy_of_confidentiality) for the most accurate reproduction.*
 
 # Forex Broker Rating | Privacy policy
 
