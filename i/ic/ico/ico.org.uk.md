@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084641id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420162840id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | ICO
 
@@ -6,11 +6,12 @@
 
 This privacy notice tells you what to expect when the Information Commissioner’s Office (ICO) collects personal information. It applies to information we collect about:
 
-  * visitors to our websites
-  * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry
-  * people who use our services, eg who subscribe to our newsletter or request a publication from us
-  * people who notify under the Data Protection Act
-  * job applicants and our current and former employees
+  * visitors to our websites;
+  * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry;
+  * people who use our services, eg who subscribe to our newsletter or request a publication from us;
+  * people who notify under the Data Protection Act;
+  * people who register their household CCTV camera; and
+  * job applicants and our current and former employees.
 
 
 
@@ -52,6 +53,14 @@ Our helpline also offers a translation service for customers when English is not
 
 The ICO is part of the GSI network. Any email sent to us, including any attachments, may be monitored and used by us for reasons of security and for monitoring compliance with office policy.  Email monitoring or blocking software may also be used. Please be aware that you have a responsibility to ensure that any email you send to us is within the bounds of the law.
 
+## People who use our LiveChat service 
+
+We use a third party provider, Goss Interactive, to supply and support our LiveChat service, which we use to handle customer enquiries in real time.
+
+If you use the LiveChat service we will collect your name, email address (optional) and the contents of your LiveChat session. This information will be retained for six months and will not be shared with any other organisations.
+
+You can request a transcript of your LiveChat session if you provide your email address at the start of your session or when prompted at the end.
+
 ## People who make a complaint to us
 
 When we receive a complaint from a person we make up a file containing the details of the complaint. This normally contains the identity of the complainant and any other individuals involved in the complaint.
@@ -74,11 +83,17 @@ We have to hold the details of the people who have requested the service in orde
 
 ## People who register (notify) under the Data Protection Act 1998
 
-Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO puts technical measures in place to prevent the bulk download of the electronic version of the register. However, as the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
+Many businesses are required by law to ‘notify’ certain specified information to the Information Commissioner. This may contain personal information, for example where the business is a sole trader. The ICO compiles this information into a register which it is required by law to make publicly available. The ICO cannot therefore give any guarantees as to how the information contained on the register will be used by those accessing it.
 
 When businesses fill in their registration forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a registration, but will not put it on the public register.
 
 When we request information as part of the registration process, we make it clear where the provision of information is required by law and where it is voluntary.
+
+## People who are required to register (notify) their household CCTV camera
+
+This type of registration will contain personal data; the operator of the domestic CCTV system must be a named individual and the registration requires the address of where the camera(s) is/are located. The ICO compiles this information into a register which it is required by law to make publicly available – although for this type of registration there is the option to provide an email or PO Box address instead of a full postal address for publication only. As the register is publicly available, the ICO cannot give any guarantees as to how the information contained on the register will be used by those accessing it.
+
+When we request this information we make it clear what information we will and will not be publishing on the register.
 
 ## Service providers reporting a breach
 
@@ -139,7 +154,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 18 June 2015.
+We keep our privacy notice under regular review. This privacy notice was last updated on 31 March 2016.
 
 ## How to contact us
 
@@ -152,5 +167,3 @@ Water Lane
 Wilmslow  
 Cheshire  
 SK9 5AF
-
-[Read more in our guide to information](https://web.archive.org/global/icos-publication-scheme-compliance/ "ICO's publication scheme compliance")
