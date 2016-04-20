@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064821id_/https%3A//www.globalscape.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420035931id_/https%3A//www.globalscape.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalscape
 
