@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendaylight.org privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924021231id_/https%3A//www.opendaylight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendaylight.org privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420130155id_/https%3A//www.opendaylight.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenDaylight
 
