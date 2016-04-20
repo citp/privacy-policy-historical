@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105042114id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420182845id_/http%3A//www.youthcentral.vic.gov.au/know-your-rights/privacy) for the most accurate reproduction.*
 
 # Privacy Laws | What Are Privacy Laws? - Youth Central
 
@@ -63,7 +63,7 @@ Make sure you give the organisation a reasonable amount of time to respond.
 
 ### 2\. If You're Not Happy with Their Response
 
-If you're not satisfied **** with the way the organisation responds you have the right to [complain to the Commissioner for Privacy and Data Protection](http://www.privacy.vic.gov.au/domino/privacyvic/web2.nsf/pages/complaints) (new window). The Commissioner will try to solve your problem.
+If you're not satisfied **** with the way the organisation responds you have the right to [complain to the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/menu-resources/resources-privacy/videos) (new window). The Commissioner will try to solve your problem.
 
 ### 3\. If a Solution Fails or Isn't Possible
 
@@ -101,7 +101,7 @@ If you have a privacy complaint that relates to either the actions of the Federa
 
 ## Links
 
- **[Office of the Commissioner for Privacy and Data Protection](http://www.privacy.vic.gov.au/domino/privacyvic/web2.nsf/pages/complaints)**  
+ **[Office of the Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/)**  
 Regulating the way that the Victorian government and local councils collect and handle personal information, and handling complaints about the way your personal information has been handled.
 
  **[Victorian Civil and Administrative Appeals Tribunal (VCAT)](http://www.vcat.vic.gov.au/)**  
