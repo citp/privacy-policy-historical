@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecams.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219170126id_/http%3A//www.firecams.com/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecams.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421015146id_/http%3A//www.firecams.com/page/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy at FireCams | FireCams.com - Live Cam Sex
 
@@ -117,4 +117,4 @@ We keep our privacy policy under regular review and will post any changes to it 
 
 If you have any questions about this privacy policy then please contact us at [FireCams](http://www.firecams.com/) or contact us through e-mail: [ support@firecams.com](mailto:support@firecams.com)
 
-Tel: 1 8008685182
+Tel: 1 8008654158
