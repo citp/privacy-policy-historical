@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreespinner.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810185140id_/http%3A//bestfreespinner.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreespinner.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421184939id_/http%3A//bestfreespinner.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Best Free Spinner - Free or Pro Article Spinner, Text Spinner
 
@@ -11,7 +11,23 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 What Are Cookies? 
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+
+
+
+If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
+
+  * Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
+  * Provide links to the appropriate vendor and ad network websites.
+  * Inform your users that they may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+
+
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/) for guidance on drafting a privacy policy.
 
 IP Addresses 
 
