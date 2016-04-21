@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchalerts.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210053236id_/http%3A//www.twitchalerts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchalerts.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421080201id_/https%3A//www.twitchalerts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TwitchAlerts - TwitchAlerts
 
