@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813145244id_/http%3A//www.driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421061441id_/http%3A//driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
 # DriverFinder - Privacy Policy
 
