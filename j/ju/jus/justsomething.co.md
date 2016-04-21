@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185241id_/http%3A//justsomething.co/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421082607id_/http%3A//justsomething.co/privacy-policy-page) for the most accurate reproduction.*
 
-# Privacy policy | Just something (creative)
+# Privacy policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://justsomething.co/contact/ "Contact us").
 
