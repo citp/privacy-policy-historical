@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005121028id_/http%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiveage.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421162954id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hiveage
+# Privacy Policy
 
 Vesess is committed to protecting the privacy of those who visit the Hiveage.com website and use the Hiveage Service. Your privacy is important to us, and to better protect it, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by us.
 
