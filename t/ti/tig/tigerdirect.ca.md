@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082146id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421223815id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
 **Privacy Policy**  
-Last Modified: June 9, 2015
+Last Modified: March 18, 2016
 
 ****INTRODUCTION****  
-TigerDirect.ca Inc. ("Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.   
+TigerDirect.ca ("Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.  
 This policy describes the information we may collect online at TigerDirect.ca ("Website" or "Site") and via the TigerDirect.ca mobile application ("App"). For the purpose of this policy, references to "Website" or "Site" also include the App, where applicable. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website (or by downloading or using the App), you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website (or the App) after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
 ****1\. INFORMATION WE COLLECT****  
-We collect several types of information from you in various ways when you interact with us, including information by which you may be personally identified, such as your name, postal address, telephone number, credit/debit card or other payment method information, date of birth, or e-mail address ("Personal Information") or information about your internet connection, the equipment you use to access our Website and usage details. We collect this information directly from you when you provide it to us, automatically as you navigate through the Website, or through third parties. Information collected automatically may include usage details, IP addresses and other information collected through cookies, web beacons, and other tracking technologies. 
+We collect several types of information from you in various ways when you interact with us, including information by which you may be personally identified, such as your name, postal address, telephone number, credit/debit card or other payment method information, date of birth, or e-mail address ("Personal Information") or information about your internet connection, the equipment you use to access our Website and usage details. We collect this information directly from you when you provide it to us, automatically as you navigate through the Website, or through third parties. Information collected automatically may include usage details, IP addresses and other information collected through cookies, web beacons, and other tracking technologies.
 
 **Information You Provide to Us:**
 
@@ -78,13 +78,13 @@ The safety and security of your information also depends on you. Where we have g
 
 ****7\. CORRECTIONS/INFORMATION; REMOVAL/OPT-OUT****
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending a letter to: TigerDirect.ca Inc., Attn: Legal, 7795 W. Flagler St. Suite 35, Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca Inc., Attn: Privacy Officer, 7795 W. Flagler St. Suite 35, Miami, FL 33144.
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending a letter to: TigerDirect.ca, Attn: General Manager, 55 East Beaver Creek Rd. Unit G, Richmond Hill, ON, Canada, L4B 1E5 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. 
 
 ****8\. DEAL MOBILE TEXT ALERTS****  
 What are TigerDirect.ca Deal Mobile Text Alerts? TigerDirect.ca Deal Mobile Text Alerts are SMS messages that are sent to opted in users that contain promotional alerts for 6 messages per month. 
 
 **How do I sign up for TigerDirect.ca Deal Mobile Text Alerts?**  
-Sign up for TigerDirect.ca Deal Mobile Text Alerts by texting TIGER to DEALS (33257). By signing up, you will receive 6 messages per month. Tiger Promo Alerts are not mobile spam. The service is a recurring message program. 
+Sign up for TigerDirect.ca Deal Mobile Text Alerts by texting TIGER to DEALS (33257). By signing up, you will receive 6 messages per month. Tiger Promo Alerts are not mobile spam. The service is a recurring message program.
 
 **What if I want to opt back in?**  
 You can start receiving TigerDirect.ca Deal Mobile Text Alerts messages again by following any of the steps outlined in the above section: "How do I sign up for TigerDirect.ca Deal Mobile Text Alerts". 
@@ -104,11 +104,11 @@ AT&T, T-Mobile®, Verizon Wireless, Sprint, Nextel, Boost, Alltel, U.S. Cellular
 
 ****9\. CONTACT INFORMATION****
 
-If you have any questions or concerns about this Privacy Policy, please e-mail us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca, Inc., Attn: Legal, 7795 W. Flagler St. Suite 35, Miami, FL 33144. 
+If you have any questions or concerns about this Privacy Policy, please e-mail us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca, Attn: General Manager, 55 East Beaver Creek Rd. Unit G, Richmond Hill, ON, Canada, L4B 1E5
 
 ****10\. BUSINESS TRANSFER****
 
-We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some of all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding. 
+We may transfer or assign any customer information, including Personal Information, owned, under the control of, or received by the Company or its affiliates, in connection with a merger, divestiture, stock sale, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding. 
 
 ****11\. LIMITATIONS ON LIABILITY****
 
