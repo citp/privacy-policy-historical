@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080534id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdog.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422005240id_/http%3A//watchdog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watchdog.org
 
 **Watchdog.org Privacy policy**
 
-**Updated: September 28,   2012**
+**Updated: January 7,   2016**
 
 Thank you for visiting [Watchdog.org](http://watchdog.org/ "Watchdog.org")!  This website is a project of the [Franklin Center for Government and Public Integrity](http://franklincenterhq.org/ "Franklin Center").  At the [Franklin Center](http://franklincenterhq.org/ "Franklin Center"), we are always doing our best to provide privacy and security of information that you share with us online at our website and via any e-communications and social networks.  We urge you to also take steps to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information.  This privacy policy is designed to help you keep you and your information safe while you are visiting our websites while also providing you with information about security measures, precautions and legal requirements to secure your information.
 
@@ -52,7 +52,7 @@ This Website may be linked to other websites which are not under the control of 
 
 Our site links to a limited number of other websites such as media, blogs and other websites of interest to supporters of the _Franklin Center_.  The _Franklin Center_ is not responsible for the content or the privacy policies of these websites, however, we do our best to ensure that we are leading you to responsible and credible content.  For questions or for general contact, please contact:
 
-[www.watchdog.org](http://watchdog.org/ "Watchdog.org")   c/o Watchdog.org Information Center Franklin Center for Government & Public Integrity 1229 King Street 3rd Floor Alexandria, VA 22314 Phone: (571) 384-2090 
+[www.watchdog.org](http://watchdog.org/ "Watchdog.org")   c/o Watchdog.org Information Center Franklin Center for Government & Public Integrity 107 S. West St. Suite 718 Alexandria, VA 22314 Phone: (571) 384-2090 
 
 info@watchdog.org
 
