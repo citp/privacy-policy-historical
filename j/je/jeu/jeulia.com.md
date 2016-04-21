@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531011422id_/http%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeulia.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421044418id_/https%3A//www.jeulia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
