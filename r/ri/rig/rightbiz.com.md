@@ -1,59 +1,41 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419062229id_/http%3A//www.rightbiz.com/%3Flang%3Den%26action%3Dterms%26section%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421094058id_/http%3A//rightbiz.com/privacy) for the most accurate reproduction.*
 
-# Register your Domain Name and Web Hosting with us
+# Privacy | RightBiz Coupons & Deals RightBiz Coupons & Deals
 
-**RightBiz.com** **Privacy Policy**
+## Privacy Policy:
 
-**PRIVACY OF YOUR PAYMENT DETAILS**   
-We use encrypted SSL connection to process your credit card information and DO NOT store any of your payment details in our system. The payments are carried out in the background by the PayPal payment processing gateway and go through the HSBC bank's terminal. Working with the two leaders in online payment operations, we guarantee fast and secure processing of your payment. Not only do we NOT make a record of your credit card details in our system, but also - for maximum online security - we do NOT share this information with any third party. 
+RightBiz Enterprises (" **RightBiz WP Network** ") operates rightbiz.com and may operate other websites. It is RightBiz WP Network's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**PRIVACY OF YOUR ACCOUNT**   
-We consider your registration data and the content of all your messages private and confidential. The header of the messages that you send will contain your name (e-mail address) and Internet Protocol (IP) address. We will not intentionally monitor or disclose any of your e-mail content or registration data unless we are required to do so: 
+### Website Visitors
 
-  * to enforce these Terms and Conditions, 
+Like most website operators, RightBiz WP Network collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. RightBiz WP Network's purpose in collecting non-personally identifying information is to better understand how RightBiz WP Network's visitors use its website. From time to time, RightBiz WP Network may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-  * by law, 
+RightBiz WP Network also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on rightbiz.com blogs/sites. RightBiz WP Network only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-  * to defend ourselves in any legal action, 
+### Gathering of Personally-Identifying Information
 
-  * to protect our property. 
+Certain visitors to RightBiz WP Network's websites choose to interact with RightBiz WP Network in ways that require RightBiz WP Network to gather personally-identifying information. The amount and type of information that RightBiz WP Network gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [rightbiz.com](http://rightbiz.com/) to provide a username and email address. Those who engage in transactions with RightBiz WP Network are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, RightBiz WP Network collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with RightBiz WP Network. RightBiz WP Network does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
+### Aggregated Statistics
 
+RightBiz WP Network may collect statistics about the behavior of visitors to its websites. RightBiz WP Network may display this information publicly or provide it to others. However, RightBiz WP Network does not disclose personally-identifying information other than as described below.
 
+### Protection of Certain Personally-Identifying Information
 
-Since your password is essential for protecting your privacy, we encourage you to NOT share it with anyone and change it frequently. Additionally, you agree to respect the privacy and confidentiality of others. 
+RightBiz WP Network discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on RightBiz WP Network's behalf or to provide services available at RightBiz WP Network's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using RightBiz WP Network's websites, you consent to the transfer of such information to them. RightBiz WP Network will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, RightBiz WP Network discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when RightBiz WP Network believes in good faith that disclosure is reasonably necessary to protect the property or rights of RightBiz WP Network, third parties or the public at large. If you are a registered user of an RightBiz WP Network website and have supplied your email address, RightBiz WP Network may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with RightBiz WP Network and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. RightBiz WP Network takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-**PRIVACY OF YOUR REGISTRATION DATA**   
-RightBiz.com collects certain information during the registration process. The personally identifiable information that RightBiz.com collects includes first and last name. RightBiz.com also collects non-personally identifiable information, such as country, age, gender, etc. You may update your Registration Information at any time from your Web Hosting Control Panel - > My Account - > Change Login Credentials section. 
+### Cookies
 
-We may disclose aggregate registration statistics in connection with our marketing activities.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. RightBiz WP Network uses cookies to help RightBiz WP Network identify and track visitors, their usage of RightBiz WP Network website, and their website access preferences. RightBiz WP Network visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using RightBiz WP Network's websites, with the drawback that certain features of RightBiz WP Network's websites may not function properly without the aid of cookies.
 
-**WHY WE NEED THIS INFORMATION**   
-Your registration information is needed in order for us to operate the site, to provide support for your account, for statistical purposes, etc. RightBiz.com will NOT send you any unsolicited information, including e-mails, except as mentioned hereby.
+### Business Transfers
 
-New customers will receive a RightBiz.com welcome e-mail containing information about the features provided by the Service, as well as WHCP (Web Hosting Control Panel) and FTP login details. RightBiz.com may also send system notifications upon need, related to any upgrade, maintenance or other service issues concerning your hosting account. 
+If RightBiz WP Network, or substantially all of its assets, were acquired, or in the unlikely event that RightBiz WP Network goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of RightBiz WP Network may continue to use your personal information as set forth in this policy.
 
-RightBiz.com will keep your personally identifiable information private and will NOT share it with any unauthorized third parties. 
+### Ads
 
-**COOKIES**  
-We use different cookies on our website to make it as useful to you as possible. Cookies are small text files that we put on your computer or mobile device to tell us what you want to use on our site but they do not tell us who you are.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by RightBiz WP Network and does not cover the use of cookies by any advertisers.
 
-[Here](http://www.aboutcookies.org/default.aspx) you can learn more about cookies and how to [control](http://www.aboutcookies.org/default.aspx?page=1) or [delete](http://www.aboutcookies.org/default.aspx?page=2) them.
+### Privacy Policy Changes
 
-Here are the cookies that we use on our site: 
-
-_Essential cookies_  
-We use a cookie to remember your login for you and what you’ve put in the shop cart. Also, we set a cookie to help you choose a preferred font size for using the site. These cookies we consider essential for the operation of our website. 
-
-_External web services_  
-We use an external live chat service (using cookies to remember your session name) to deliver real time support to you should you want to.
-
-_Payment processing_  
-To process payments online, we require the billing address for the credit card used and our external payment provider, PayPal/WorldPay, requires your credit card details.
-
-We assume you are happy with this usage of cookies on this website. If you are not happy, then you should either not use this site, or delete the cookies (you can check out how to do that according to your browser [here](http://www.aboutcookies.org/Default.aspx?page=2)), or browse the site using your browser’s anonymous usage setting (named “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.).
-
-Please remember that if you choose to delete the cookies or use the browser anonymously, you may find that certain sections of this website do not work properly.
-
-Quality web hosting, domain name registration and transfer, plus top customer support service to help you with your website hosting requirements.  
-
+Although most changes are likely to be minor, RightBiz WP Network may change its Privacy Policy from time to time, and in RightBiz WP Network's sole discretion. RightBiz WP Network encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a rightbiz.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
