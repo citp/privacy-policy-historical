@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandspeedchecker.co.uk privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022173625id_/http%3A//www.broadbandspeedchecker.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandspeedchecker.co.uk privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421060230id_/http%3A//www.broadbandspeedchecker.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Broadband Speed Checker - Privacy Policy
 
@@ -30,15 +30,13 @@ Personal information may be collected from you in various ways, for example:
 
 
 
-Your information will not be disclosed to any third party unless you have given your consent to such disclosure, or where we are compelled to do so by law.
-
 You may at any time ask us to refrain from sending you marketing messages by sending us an email with the words UNSUBSCRIBE in the subject box or by telephoning us. If we contact you by email each time you receive a message you will also have the option to decline to receive further information of that type from us.
 
 If you would like us to destroy information we hold about you, please let us know. However, please note that if you use any of our services which require you to provide personal information, deleting our records may mean that you will need to resubmit it to continue using such services.
 
 We may disclose aggregate statistics about our site visitors, clients and sales in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
 
-If you use our Speed Checker Scheduler application, we may provide the internet connection quality information to 3rd parties without any personal information or means to identify you.
+If you use our Speed Checker Scheduler application, we may provide the internet connection quality information to 3rd parties without any personal information with the exception of your IP address.
 
 ## Collected location data
 
