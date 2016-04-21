@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025211653id_/http%3A//www.premierleague.com/content/premierleague/en-gb/toolbar/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierleague.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422003814id_/http%3A//www.premierleague.com/content/premierleague/en-gb/toolbar/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,17 @@ We and/or our member Clubs may at times wish to use personal information supplie
 At any stage subsequently you can also inform us that you no longer wish to receive information from us or third parties to which we have passed your data by clicking on the designated hyperlink at the bottom of the relevant communication. If you have chosen to receive emails from a particular Club, your data will be passed onto that club accordingly, will be held in accordance with their privacy policy, and you should contact them directly if you no longer wish to receive communications.
 
 Data stored on this website will be stored in a secure manner and we shall use reasonable endeavours to ensure that any such data cannot be accessed by unauthorised third parties.
+
+**CHILDREN & PRIVACY  
+**
+
+It is important to us that children can enjoy our site in a responsible fashion.  We encourage parents and guardians to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission.
+
+Your child's privacy is important to us. We are committed to safeguarding children's personal information collected online, and to helping parents and guardians and their children learn how to exercise control over personal information while exploring the Internet.
+
+If you're aged 12 or under, please get permission from your parent or guardian to register on our site.
+
+If you are a parent or guardian and would like to review any personal information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child’s personal information or if you have any questions about our Privacy Policy or practices, you may contact us at [info@premierleague.com](mailto:info@premierleague.com).
 
 **COOKIES              **
 
