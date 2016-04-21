@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pellaatlowes.com privacy policy that was archived on 2015-09-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150918233344id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pellaatlowes.com privacy policy that was archived on 2016-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160421183626id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -195,12 +195,83 @@
     
         
             
-                <!-- including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/masthead_main_min.html at 2015-09-05T9:18:24.507-0400 -->
+                <!-- including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/masthead_main_min.html at 2016-04-21T5:20:23.383-0400 -->
                 <!-- Begin PresDay Homepage Test -->
 <div class="mboxDefault" style="visibility: visible; display: block;"></div>
 <script type="text/javascript">
-mboxCreate('cq_hpmbox_area1_test');
-</script><div id="mboxMarker-default-cq_hpmbox_area1_test-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://lowes.tt.omtrdc.net/m2/lowes/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580382076730-658512&amp;mboxPage=1580382076730-658512&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;mbox=cq_hpmbox_area1_test&amp;mboxId=0&amp;mboxTime=1580382076887&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150905151919id_%2Fhttps%3A%2F%2Fwww.lowes.com%2Fen_us%2Fl%2Fprivacy-and-security-statement.html&amp;mboxReferrer=&amp;mboxVersion=46" language="JavaScript"></script>
+(function() {
+	var pcid = mboxFactoryDefault.getPCId().getId(),
+        storeData = '',
+        userData = '',
+        scatData = '',
+        scvisitorid,
+        userDataObj,
+        currentStoreData;
+
+    if (typeof _satellite === "object") {
+		storeData = _satellite.readCookie('selectedStore1');
+        userData = _satellite.readCookie('userDetails');
+        scatData = _satellite.readCookie('s_vi');
+    } else {
+	    var cookieArray = document.cookie.split('; '),
+	        storeRGX = /selectedStore1/,
+	        userRGX = /userDetails/,
+        	svidRGX = /s_vi=/;
+	    for (var i = 0; i < cookieArray.length; i++) {
+	        var term = cookieArray[i];
+	        if (storeRGX.test(cookieArray[i])) {
+	            storeData = term;
+	        }
+	        if (userRGX.test(cookieArray[i])) {
+	            userData = term;
+	        }
+            if (svidRGX.test(cookieArray[i])) {
+            	scatData = term;
+            }
+	    }
+    }
+
+    /*Prepare User Data*/
+    if (userData !== undefined && userData !== '' && userData !== 'userDetails=') {
+        userData = userData.replace('userDetails=', '');
+        userDataObj = JSON.parse(userData);
+    }
+
+    /*Prepare Store Data*/
+    if (storeData !== undefined && storeData !== '' && storeData !== 'selectedStore1=') {
+        storeData = storeData.replace('selectedStore1=', '');
+        storeData = storeData.split('|');
+        currentStoreData = storeData[0].split('##');
+    }
+
+    /* Prepare Site Cat ID */
+    if (scatData !== undefined && scatData !== '' && scatData !== 's_vi=') {
+        var svid, bracketIndex;
+        svid = scatData.split('|').slice(1).toString();
+        bracketIndex = svid.indexOf('[');
+        scvisitorid = svid.substring(0, bracketIndex);
+    }
+    if (typeof scvisitorid === "undefined") scvisitorid = '';
+    
+    /*Update Mbox based on available data
+    condition for both logged in + zipped in*/
+    if ( storeData !== undefined && storeData !== '' && userData !== undefined && userData !== '' ){
+		mboxCreate('cq_hpmbox_area1_test', 'profile.pcid='+pcid, 'mbox3rdPartyId='+userDataObj.id, 'profile.commerceid='+userDataObj.id, 'profile.scvisitorid='+scvisitorid, 'profile.storeId='+storeData[1], 'profile.zip='+storeData[3], 'profile.storeState='+currentStoreData[1].trim());
+    }
+    /*condition for only zipped in*/
+    else if ( storeData !== undefined && storeData !== '' ) {
+        mboxCreate('cq_hpmbox_area1_test', 'profile.pcid='+pcid, 'profile.scvisitorid='+scvisitorid, 'profile.storeId='+storeData[1], 'profile.zip='+storeData[3], 'profile.storeState='+currentStoreData[1].trim());
+    }
+    /*condition for only logged in*/
+    else if ( userData !== undefined && userData !== '' ) {
+        mboxCreate('cq_hpmbox_area1_test', 'profile.pcid='+pcid, 'mbox3rdPartyId='+userDataObj.id, 'profile.commerceid='+userDataObj.id, 'profile.scvisitorid='+scvisitorid);
+    }
+    /*no user or store data available*/
+    else {
+    	mboxCreate('cq_hpmbox_area1_test', 'profile.pcid='+pcid, 'profile.scvisitorid='+scvisitorid);
+    }
+})();
+</script><div id="mboxMarker-default-cq_hpmbox_area1_test-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://lowes.tt.omtrdc.net/m2/lowes/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580382079213-570476&amp;mboxPage=1580382079213-570476&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxXDomain=enabled&amp;mboxCount=1&amp;profile.pcid=null&amp;profile.scvisitorid=&amp;mbox=cq_hpmbox_area1_test&amp;mboxId=0&amp;mboxTime=1580382079286&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160421183630id_%2Fhttp%3A%2F%2Fwww.lowes.com%2Fen_us%2Fl%2Fprivacy-and-security-statement.html&amp;mboxReferrer=&amp;mboxVersion=46" language="JavaScript"></script>
 <!-- End PresDay Homepage Test -->
 <div id="header-block">
 	<div class="my-lowes-nav">
@@ -214,7 +285,7 @@ mboxCreate('cq_hpmbox_area1_test');
 			<li id="lowes-account" class="main-level aux-nav"><a href="/en_us/mylowes.html" class="nav-heading" id="nav-my-account"><span class="nav-icon my-account"></span> <span>Your&nbsp;Account</span> <span class="ui-icon ui-icon-carat-1-s"></span></a>
 				<ul class="sub-level">
 					<li><a name="MASTHEAD_Account_Profile" id="nav-my-profile" href="/UserProfileCmd?storeId=10151&amp;langId=-1&amp;catalogId=10051&amp;state=P">Preferences</a></li>
-					<li><a name="MASTHEAD_Account_Orders" id="nav-my-order" href="/LowesFindOrders?storeId=10151&amp;langId=-1&amp;catalogId=10051">Purchases</a></li>
+					<li><a name="MASTHEAD_Account_Orders" id="nav-my-order" href="/en_us/mylowes/purchases.html">Purchases</a></li>
 					<li><a name="MASTHEAD_Account_Rebates" id="nav-my-rebates" href="/cd_Rebate+Center_441568837_">Rebates</a></li>
 					<li><a name="MASTHEAD_Account_Subscriptions" id="nav-my-subscriptions" href="/LowesUserSubscriptionCmd?storeId=10151&amp;langId=-1&amp;catalogId=10051">Subscriptions</a></li>
 					<li><a name="MASTHEAD_Account_Credit_Center" id="nav-my-credit-center" href="/cd_Lowes+Consumer+Credit+Center_739786611_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Credit&nbsp;Card&nbsp;Services</a></li>
@@ -293,11 +364,14 @@ mboxCreate('cq_hpmbox_area1_test');
 			<a name="MASTHEAD_logo" title="Lowes.com" href="/"><img src="/images/logo.png" alt="Lowe's Home Improvement"></a>
 		</div>
 		<div id="header-info" class="grid_10">
-			<div class="header-espot"><a title="FREE PARCEL SHIPPING on Qualifying Orders" href="/cd_Shipping+and+Delivery_378641591_#FreeShipping"><img src="/images/espot/shipping_global.png" alt="FREE PARCEL SHIPPING on Qualifying Orders"></a></div>
+				<div class="header-espot">
+					<a title="FREE PARCEL SHIPPING on Qualifying Orders" href="/cd_Shipping+and+Delivery_378641591_#FreeShipping"><img src="/images/espot/shipping_global.png" alt="FREE PARCEL SHIPPING on Qualifying Orders">
+					</a>
+				</div>
 			<ul id="service-nav" class="aux-nav">
 				<li><a name="MASTHEAD_Help" href="/cd_Help_962503896_">Help</a></li>
 				<li>
-					<a name="MASTHEAD_Weekly_Ads" id="nav-weekly-ads" class="weekly-ad" target="_blank" href="http://lowes.shoplocal.com/lowes">Weekly Ads</a>
+					<a name="MASTHEAD_Weekly_Ads" id="nav-weekly-ads" class="weekly-ad" href="/en_us/l/savings-t.html">Weekly Ads</a>
 				</li>
 				<li><a name="MASTHEAD_Gift_Cards" href="/Gift-Guide/Gift-Cards/_/N-1z135r1/pl">Gift Cards</a></li>
 				<li><a name="MASTHEAD_For_Your_Business" target="_blank" href="http://www.lowesforpros.com">For Pros</a></li>
@@ -336,9 +410,6 @@ mboxCreate('cq_hpmbox_area1_test');
 				<a class="nav-heading" name="MASTHEAD_Departments"><span>Shop</span><span class="ui-icon ui-icon-carat-1-s"></span></a>
 				<div id="nav-departments" class="sub-level">
 					<ul class="categories">
-						<li class="category halloween"><a class="category-name" name="MASTHEAD_Depts_Halloween" rel="/wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/departments/halloween.html" href="/Holiday-Decorations/Halloween-Decorations/_/N-1z0vwa5/pl">Halloween &amp; Harvest</a>
-							<div class="category-panel"><!-- Content Area: Halloween--></div>
-						</li>
 						<li class="category"><a class="category-name" name="MASTHEAD_Depts_Appliances" rel="/wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/departments/appliances.html" href="/Appliances/_/N-1z13elr/pc">Appliances</a>
 							<div class="category-panel"><!-- Content Area: Appliances --></div>
 						</li>
@@ -359,6 +430,9 @@ mboxCreate('cq_hpmbox_area1_test');
 						</li>
 						<li class="category"><a class="category-name" name="MASTHEAD_Depts_Heating_and_Cooling" href="/Heating-Cooling/_/N-1z13cpa/pc" rel="/wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/departments/heating_cooling.html">Heating &amp; Cooling</a>
 							<div class="category-panel"><!-- Content Area: Heating and Cooling --></div>
+						</li>
+						<li class="category"><a class="category-name" name="MASTHEAD_Depts_Home_Automation_and_Security" href="/en_us/l/home-automation.html" rel="/wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/departments/home_automation.html">Home Automation &amp; Security</a>
+							<div class="category-panel"><!-- Content Area: Home Automation and Security--></div>
 						</li>
 						<li class="category"><a class="category-name" name="MASTHEAD_Depts_Home_Decor_and_Paint" href="/Home-Decor/_/N-1z13dfg/pc" rel="/wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/departments/home_decor.html">Home Décor</a>
 							<div class="category-panel"><!-- Content Area: Home Decor and Paint --></div>
@@ -449,13 +523,18 @@ mboxCreate('cq_hpmbox_area1_test');
 				</div>
 			</li>
 			<li class="main-level">
+				<a name="MASTHEAD_Savings" class="nav-heading" href="/en_us/l/savings.html"><span>Savings</span></a>
+			</li>
+			<!-- This is commented out to save for future reference. Masthead savings is now changed to link from RH job RH26287: Savings Masthead Update - Remove Flyout
+
+			<li class="main-level">
 				<a class="nav-heading" name="MASTHEAD_Savings"><span>Savings</span><span class="ui-icon ui-icon-carat-1-s"></span></a>
 				<div class="sub-level" id="nav-promo">
 					<div class="category-panel">
 						<h2>Choose Your Savings</h2>
 						<ul>
 							<li class="grid_3">
-									<a title="Weekly Ad" target="_blank" href="http://lowes.shoplocal.com/lowes">
+									<a title="Weekly Ad" href="/en_us/l/savings-t.html">
 									<div class="nav_savings_icon">
 										<img class="nav_savings_ad" alt="Weekly Ad" src="/img_savings/weekly_ad.jpg">
 									</div>
@@ -497,7 +576,7 @@ mboxCreate('cq_hpmbox_area1_test');
 								</a>
 							</li>
 							<li class="grid_3 border_left">
-								<a title="Apply Now" href="/cd_Lowes+Consumer+Credit+Center_739786611_?storeId=10151&amp;langId=-1&amp;catalogId=10051">
+								<a title="Apply Now" href="/cd_Lowes+Consumer+Credit+Center_739786611_?storeId=10151&langId=-1&catalogId=10051">
 									<div class="nav_savings_text">
 										<span class="nav_savings_heading">5% off*<br>Every Day</span>
 										<p class="nav_savings_sub_copy">Save with your Lowe's Consumer Credit Card.</p>
@@ -529,12 +608,14 @@ mboxCreate('cq_hpmbox_area1_test');
 					<div class="ui-north-arrow"></div>
 				</div>
 			</li>
+			-->
 			<li class="main-level">
 				<a name="MASTHEAD_MyLowes" class="nav-heading my-lowes" href="/webapp/wcs/stores/servlet/UserRegistrationForm?langId=-1&amp;storeId=10151&amp;catalogId=10051&amp;new=Y?cm_sp=NoDivision-_-MyLowesLP|A0-_-Corp|MyLowes_Masthead"><span>MyLowe's</span></a>
 			</li>
 		</ul>
 	</div>
 </div>
+
                 <!-- finished including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/MastheadArea/masthead_main_min.html -->
             
             
@@ -611,7 +692,7 @@ mboxCreate('cq_hpmbox_area1_test');
     <div style="position: relative;">
 
         
-    <img src="//lda.lowes.com/is/image/Lowes/HP-Banner-v2.0?$Sharpening-1$&amp;$layer_0_size=650,220&amp;$layer_0_color=ffffff&amp;layer=1&amp;src=Lowes/Help_main_hero&amp;$layer_1_sizeN=1.0,1.0&amp;$layer_1_posN=0,0&amp;$layer_1_rotate=0&amp;layer=comp&amp;scl=1&amp;qlt=75,1" width="650" height="220" usemap="#bannerMap:c1fa7bb5-396b-49a0-bdd3-cb614ea0c35d">
+    <img src="//lda.lowes.com/is/image/Lowes/HP-Banner-v2.0?$Sharpening-1$&amp;$layer_0_size=650,220&amp;$layer_0_color=ffffff&amp;layer=1&amp;src=Lowes/Help_main_hero&amp;$layer_1_sizeN=1.0,1.0&amp;$layer_1_posN=0,0&amp;$layer_1_rotate=0&amp;layer=comp&amp;scl=1&amp;qlt=75,1" width="650" height="220" usemap="#bannerMap:9584ddf3-d079-4d37-a711-b23ccf91846f">
 
 
         
@@ -693,10 +774,10 @@ mboxCreate('cq_hpmbox_area1_test');
 
 
 <ul>
-<li>Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including <a href="http://www.osh.com/PrivacyPolicy">Orchard Supply Company, LLC</a>, <a href="https://www.irissmarthome.com/myhome/terms">Iris Smart Home</a>, <a href="http://www.atgstores.com/about/privacy.aspx">ATGStores.com</a> and <a href="http://www.alacrityservices.com/privacy.aspx">Alacrity Services</a> or Lowe’s
+<li>Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including <a href="http://www.osh.com/PrivacyPolicy">Orchard Supply Company, LLC</a>, <a href="https://www.irissmarthome.com/myhome/terms">Iris Smart Home</a>, <a href="http://www.atgstores.com/about/privacy.aspx">ATGStores.com</a> and <a href="https://www.alacrityservices.com/privacy-policy/">Alacrity Services</a> or Lowe’s
 relationship with <a href="http://porch.com/about/privacy/">Porch.com</a>;</li>
 <li>Credit-related products (such as Lowe’s branded credit cards issued by banks), which are covered by the issuing banks’ privacy notices that appear on the credit applications or that you receive in connection with your credit accounts;</li>
-<li>Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s <a href="http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy">privacy notice</a>; and</li>
+<li>Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s <a href="http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy">privacy notice</a>; and</li>
 <li>Lowe’s employment-related records (other than job applicant information submitted through the Career Portal).</li>
 </ul>
 
@@ -1091,8 +1172,8 @@ North Wilkesboro, N.C. 28659 <br>
     
         
             
-                <!-- including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/FooterArea/footer_main_min.html at 2015-09-05T9:18:25.196-0400 -->
-                <div id="footer-block" class="container_16">
+                <!-- including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/FooterArea/footer_main_min.html at 2016-04-21T5:20:23.677-0400 -->
+                <div id="footer-block" class="container_16 clearfix">
 	<hr class="divider">
 	<div id="footer-spotlight" class="clearfix">
 		<div class="grid_3">
@@ -1104,8 +1185,8 @@ North Wilkesboro, N.C. 28659 <br>
 				<li><a name="FOOTER_Innovative_Products" href="/cd_innovation_219980703_">Innovative Products</a></li>
 				<li><a name="FOOTER_Iris_Smart_Home" href="http://www.irisbylowes.com">Iris Smart Home</a></li>
 				<li><a name="FOOTER_Kobalt_Tools" target="_blank" href="http://www.kobalttools.com">Kobalt Tools</a></li>
-				<li><a name="FOOTER_Build_Grow" target="_blank" href="http://www.lowesbuildandgrow.com/pages/default.aspx">Lowe's Build &amp; Grow</a></li><a name="FOOTER_Build_Grow" target="_blank" href="http://www.lowesbuildandgrow.com/pages/default.aspx">
-				</a><li><a name="FOOTER_Build_Grow" target="_blank" href="http://www.lowesbuildandgrow.com/pages/default.aspx"></a><a name="FOOTER_LCI" target="_blank" href="http://www.lowescreativeideas.com/Home.aspx">Lowe's Creative Ideas</a></li>
+				<li><a name="FOOTER_Build_Grow" target="_blank" href="http://lowesbuildandgrow.com">Lowe's Build &amp; Grow</a></li><a name="FOOTER_Build_Grow" target="_blank" href="http://lowesbuildandgrow.com">
+				</a><li><a name="FOOTER_Build_Grow" target="_blank" href="http://lowesbuildandgrow.com"></a><a name="FOOTER_LCI" target="_blank" href="http://www.lowescreativeideas.com/Home.aspx">Lowe's Creative Ideas</a></li>
 				<li><a name="FOOTER_Mobile_Site" target="_blank" href="http://m.lowes.com">Lowe's Mobile Site</a></li>
 				<li><a name="FOOTER_Moving" href="/cd_Lowes+Moving+Center_509684072_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Lowe's Moving Center</a></li>
 				<li><a name="FOOTER_Plant_Guide" href="/cd_Lowes+Plant+Guide_253427968_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Lowe's Plant Guide</a></li>
@@ -1113,7 +1194,6 @@ North Wilkesboro, N.C. 28659 <br>
 				<li><a name="FOOTER_Lowes_Pros" target="_blank" href="http://www.lowesforpros.com">LowesForPros</a></li>
 				<li><a name="FOOTER_Orchard_Supply_Hardware" target="_blank" href="http://www.osh.com">Orchard Supply Hardware</a></li>
 				<li><a name="FOOTER_Porch" target="_blank" href="http://porch.com">Porch</a></li>
-				<li><a name="FOOTER_Lowes_Racing" target="_blank" href="http://www.lowesracing.com">Team Lowe's Racing</a></li>
 			</ul>
 		</div>
 		<div class="grid_3">
@@ -1141,7 +1221,7 @@ North Wilkesboro, N.C. 28659 <br>
 				<li><a name="FOOTER_Rebate_Center" href="/cd_Rebate+Center_441568837_">Rebate Center</a></li>
 				<!-- <li><a name="FOOTER_Rebate_Center" href="/cd_Rebate+Center_421976552_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Rebate Center</a></li> -->
 				<li><a name="FOOTER_Recalls" href="/cd_Recalls+and+Product+Safety+News_169016347_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Recalls &amp; Product Safety</a></li>
-				<li><a name="FOOTER_Returns" href="/cd_Shipping+and+Delivery_378641591_#ReturnsExchanges?storeId=10151&amp;langId=-1&amp;catalogId=10051">Returns / Exchanges</a></li>
+				<li><a name="FOOTER_Returns" href="/cd_Shipping+and+Delivery_378641591_?storeId=10151&amp;langId=-1&amp;catalogId=10051#ReturnsExchanges">Returns / Exchanges</a></li>
 				<li><a name="FOOTER_Shipping_and_Delivery" href="/cd_Shipping+and+Delivery_378641591_?storeId=10151&amp;langId=-1&amp;catalogId=10051">Shipping &amp; Delivery</a></li>
 			</ul>
 		</div>
@@ -1162,10 +1242,23 @@ North Wilkesboro, N.C. 28659 <br>
 		</div>
 		<div class="grid_4">
 			<div class="help">
-				<h6 class="clearfix"><span class="footer-icon lowes-help"></span> <span class="spotlight-info">Need Help? Customer Care:<br>1-800-445-6937 Products &amp; Sales: 1-877-465-6937</span></h6>
+				<h6 class="clearfix">
+					<span class="footer-icon lowes-help"></span> <span class="spotlight-info">Need Help? Customer Care:<br>1-800-445-6937 Products &amp; Sales: 1-877-465-6937</span>
+				</h6>
 			</div>
 			<div>
-				<h6 class="clearfix"><a name="FOOTER_Mobile_App" class="footer-link" href="/cd_Lowes+Mobile_789316640_?storeId=10151&amp;langId=-1&amp;catalogId=10051"><span class="footer-icon lowes-mobile"></span> <span class="spotlight-link">Discover <br>Lowe's Apps <span class="ui-icon ui-icon-carat-1-e"></span></span></a></h6>
+				<h6 class="clearfix">
+					<a name="FOOTER_Mobile_App" class="footer-link" href="/cd_Lowes+Mobile_789316640_?storeId=10151&amp;langId=-1&amp;catalogId=10051">
+						<span class="footer-icon lowes-mobile"></span> 
+						<span class="spotlight-link">Discover <br>Lowe's Apps <span class="ui-icon ui-icon-carat-1-e"></span></span>
+					</a>
+				</h6>
+			</div>
+			<div>
+				<h6 class="clearfix"><a id="sms_trigger" name="FOOTER_SMS_Signup" class="footer-link" href="javascript:void(0);">
+					<span class="footer-icon lowes-sms"></span>
+					<span class="spotlight-link">On the Go? <br>Be the First to Know! <br>Sign Up For Text Alerts<span class="ui-icon ui-icon-carat-1-e"></span></span></a>
+				</h6>
 			</div>
 		</div>
 	</div>
@@ -1178,7 +1271,7 @@ North Wilkesboro, N.C. 28659 <br>
 		</ul>
 		<div class="grid_12 alpha omega">
 			<p class="copyright">
-				© 2015 Lowe's. All rights reserved. Lowe's and the gable design are registered trademarks of LF, LLC<a href="#disable_autozip" name="FOOTER_DISABLE_AUTOZIP" class="disguise-link" id="disable-autozip">.</a>
+				© 2016 Lowe's. All rights reserved. Lowe's and the gable design are registered trademarks of LF, LLC<a href="#disable_autozip" name="FOOTER_DISABLE_AUTOZIP" class="disguise-link" id="disable-autozip">.</a>
 			</p>
 		</div>
 	</div>
@@ -1199,9 +1292,16 @@ North Wilkesboro, N.C. 28659 <br>
 		<iframe src="/images/blank.gif" scrolling="no" frameborder="0" width="450" height="320" allowtransparency="true"></iframe>
 	</div>
 </div>
+<div id="sms_modal" class="sms_modal" style="display:none;">
+    <div class="sms_modal_content">
+        <iframe src="/images/blank.gif" scrolling="no" frameborder="0" width="450" height="320" allowtransparency="true"></iframe>
+    </div>
+</div>
+<div id="js-liveperson-persist"></div>
 <!-- Google GCS and maps -->
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script src="https://apis.google.com/js/client.js" type="text/javascript"></script>
+
                 <!-- finished including ESI for /wcsstore/B2BDirectStorefrontAssetStore/MContent/Structured/FooterArea/footer_main_min.html -->
             
             
@@ -1269,7 +1369,7 @@ North Wilkesboro, N.C. 28659 <br>
 
 
 
-<span record="&quot;pageView&quot;, {&quot;pagedata.category&quot;:&quot;l > privacy-and-security-statement&quot;,&quot;pagedata.pageName&quot;:&quot;privacy-and-security-statement&quot;,&quot;pagedata.subCategory&quot;:&quot;l > privacy-and-security-statement&quot;,&quot;pagedata.subSubCategory&quot;:&quot;l > privacy-and-security-statement&quot;,&quot;pagedata.pageType&quot;:&quot;l&quot;,&quot;pagedata.department&quot;:&quot;l&quot;}"></span>
+<span record="&quot;pageView&quot;, {&quot;pagedata.category&quot;:&quot;l > privacy-and-security-statement&quot;,&quot;pagedata.pageName&quot;:&quot;privacy-and-security-statement&quot;,&quot;pagedata.pageType&quot;:&quot;l&quot;,&quot;pagedata.department&quot;:&quot;l&quot;,&quot;pagedata.subCategory&quot;:&quot;l > privacy-and-security-statement&quot;,&quot;pagedata.subSubCategory&quot;:&quot;l > privacy-and-security-statement&quot;}"></span>
     <div class="servicecomponents cloudservices"><div class="cloudservice testandtarget"><script type="text/javascript">
     CQ_Analytics.TestTarget.maxProfileParams = 11;
     CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
@@ -1278,7 +1378,7 @@ North Wilkesboro, N.C. 28659 <br>
     </script>
     </div>
 <div class="sitecatalyst cloudservice"><script language="javascript">
-    var s_account = "lowesprod,lowesglobalprod";
+    var s_account = "lowesprod";
 </script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/sitecatalyst/sitecatalyst.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/sitecatalyst/util.min.js"></script>
@@ -1298,6 +1398,7 @@ CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
     this.frameworkMappings.push({scVar:"pageName",cqVar:"pagedata.pageName",resourceType:"lowes/components/page/commons/global"});
     this.frameworkMappings.push({scVar:"prop2",cqVar:"pagedata.subCategory",resourceType:"lowes/components/page/commons/global"});
     this.frameworkMappings.push({scVar:"prop1",cqVar:"pagedata.category",resourceType:"lowes/components/page/commons/global"});
+    this.frameworkMappings.push({scVar:"pageURL",cqVar:"pagedata.path",resourceType:"lowes/components/page/commons/global"});
     this.frameworkMappings.push({scVar:"prop3",cqVar:"pagedata.subSubCategory",resourceType:"lowes/components/page/commons/global"});
     this.frameworkMappings.push({scVar:"prop4",cqVar:"pagedata.pageType",resourceType:"lowes/components/page/commons/global"});
     this.frameworkMappings.push({scVar:"channel",cqVar:"pagedata.department",resourceType:"lowes/components/page/commons/global"});
@@ -1328,14 +1429,17 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
     if (collect) {
         CQ_Analytics.Sitecatalyst.updateEvars();
         /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-        var s_code=s.t();if(s_code)document.write(s_code);
+        // Turning off the site cat page view initialization
+        // We will now be firing this via DTM
+        // - All site cat setup and variables will still operate normally
+        //var s_code=s.t();if(s_code)document.write(s_code);
         s.linkTrackEvents = lte;
         if(s.linkTrackVars.indexOf('events')==-1){delete s.events};
         $CQ(document).trigger("sitecatalystAfterCollect");
     }
 });
 </script>
-<noscript><img src="http://metrics.lowes.com/b/ss/lowesprod,lowesglobalprod/1/H.26.2--NS/1441459105213?cdp=2&amp;gn=content%3Alowes%3Aen_us%3Al%3Aprivacy-and-security-statement" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://metrics.lowes.com/b/ss/lowesprod/1/H.26.2--NS/1461230423688?cdp=2&amp;gn=content%3Alowes%3Aen_us%3Al%3Aprivacy-and-security-statement" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 </div>
 <div class="cloudservice generictracker">
