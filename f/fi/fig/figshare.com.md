@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128150524id_/http%3A//figshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figshare.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421074013id_/https%3A//figshare.com/privacy) for the most accurate reproduction.*
 
-# None
+# figshare
 
 We at **figshare LLP ("figshare")** respect your concerns about privacy and value the relationship we have with you. This Online Privacy Notice applies to personal information we collect on this website (the “Site”).
 
@@ -23,6 +23,8 @@ Click on one of the links below to jump to the listed section:
   * How To Contact Us
 
 
+
+## Information We Collect
 
 We may obtain certain personal information (such as name, email address, orcid id) when you choose to provide them through our Site. The types of personal information we may collect include:
 
@@ -52,6 +54,8 @@ We may use the information we obtain from your use of our cookies for the follow
 
 Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Site.
 
+## How We Use The Information We Collect
+
 We may use the information we obtain through the Site to:
 
   * Create and manage your account;
@@ -71,10 +75,14 @@ In addition, we use information collected online through cookies and other autom
 
 We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
+## Online Tracking
+
 We may use third-party web analytics services on our Site, such as Google Analytics. These service providers help us analyze how users use our Site. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. These service providers may retain and use anonymised, aggregated data collected from users of our Site in connection with their own businesses, including in order to improve their products and services. To learn more about opting out of data collection through Google Analytics, click the link below:  
 [Google Analytics](http://tools.google.com/dlpage/gaoptout)
 
 This Site is not designed to respond to “do not track” signals received from browsers.
+
+## Information We Share
 
 We may share the information you provide with companies that are related to Macmillan through common ownership. We may also share the personal information we obtain with our publishing partners.
 
@@ -86,23 +94,41 @@ Our Site may feature blogs, forums and discussion groups. Please be aware that s
 
 We also may disclose information about you (i) if we are required to do so by law, regulation or legal process (such as a court order or subpoena), (ii) in response to requests by government agencies, such as law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
+## Links To Other Websites
+
 Our Site may contain links to other websites for your convenience and information. These may include, for example, some of the blogs and forums you may access through this Site. These websites may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites that are not affiliated with figshare , any use of those websites, or the privacy practices of those websites.
+
+## Children's Privacy
 
 Our Site is not directed to children under the age of 13 and we do not knowingly collect personal information from children under the age of 13 on our Site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on our Site, we will delete the information from our records.
 
+## How We Protect Personal Information
+
 We maintain administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+## Your Choices
 
 We give you the option of requesting that we not use your information for marketing purposes. Send us an email at info@figshare.com with your name and e-mail address, if you do not want us to use your information for marketing purposes.
 
 Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue.
 
+## Notice to California Residents
+
 California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. In the alternative, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has opted out of such information-sharing. We have such a policy in place. As discussed above in the section entitled “Your Choices”, if you wish to opt-out of our sharing of your information with third parties for the third parties’ direct marketing purposes, please follow the appropriate opt-out link in that section.
+
+## Access and Correction
 
 Subject to applicable law, you may (i) have the right to access certain personal information we maintain about you and obtain a copy of that information, (ii) update or correct inaccuracies in that information, (iii) object to our use of your personal information, and (iv) delete your personal information from our database. To exercise these rights, please contact us as indicated in the How To Contact Us section of this Online Privacy Notice. To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. If you are resident in the EU, a charge may be applicable before we provide a copy to you of any of your personal information that we maintain.
 
+## Data Transfers
+
 We may transfer the personal information we collect about you to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice and in accordance with applicable law. Where your personal information is collected in the EEA and we then transfer it outside the EEA, we will ensure that an adequate level of protection is in place to protect your personal information.
 
+## Updates To Our Online Privacy Notice
+
 Changes to this Online Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the Site subsequent to any change to this Online Privacy Notice constitutes your acceptance of the change. Please review this statement periodically to ensure you are aware of any changes or updates to this Online Privacy Notice. We indicate the effective date of this Online Privacy Notice (and any updates) at the top of the Notice.
+
+## How To Contact Us
 
 If you have any questions about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
 
