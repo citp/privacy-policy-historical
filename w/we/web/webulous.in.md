@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webulous.in privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214103916id_/http%3A//www.webulousthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webulous.in privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421233241id_/http%3A//www.webulous.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Webulous Themes
 
-This Privacy Policy governs the manner in which Webulous.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.webulousthemes.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Webulous.in.
+This Privacy Policy governs the manner in which Webulous.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.webulous.in/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Webulous.in.
 
 ## Personal identification information
 
@@ -62,7 +62,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ### Webulous
 
-http://www.webulousthemes.com/  
+http://www.webulous.in/  
 4/352D, MS Nagar, Salem 636015. Tamilnadu. India  
 hi@webulous.in
 
