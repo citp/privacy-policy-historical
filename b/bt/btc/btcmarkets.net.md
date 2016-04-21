@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btcmarkets.net privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316084524id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btcmarkets.net privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421042629id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.*
 
 # BTC Markets | Bitcoin Exchange | Buy and Sell Bitcoins
 
