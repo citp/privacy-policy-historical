@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022081931id_/http%3A//www.mxfastmoney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422000057id_/http%3A//mxfastmoney.com/privacy) for the most accurate reproduction.*
 
-# MX Fast Money: Privacy Policy
+# MX Fast Money Success System - MX Fast Money Privacy Policies
+
+**> > MX Fast Money Privacy Policy << **
 
 MX Fast Money is the only operator collecting or maintaining personal information through the www.mxfastmoney.com website.
 
@@ -26,7 +28,7 @@ We at MX Fast Money may share information with governmental agencies or other co
 
 COMMITMENT TO DATA SECURITY
 
-Your personally identifiable information is kept secure on a secure server protected by password and firewall. Only authorized corporate staff of MX Fast Money have access to this information. 
+Your personally identifiable information is kept secure on a secure server protected by password and firewall. Only authorized corporate staff of MX Fast Money have access to this information.
 
 The names and email addresses collected are not sold, or disclosed to any third parties.
 
@@ -36,7 +38,7 @@ PRIVACY CONTACT INFORMATION
 
 If you have any questions, concerns, or comments about our Privacy Policy you may contact us using the information below:
 
-MX FAST MONEY REGISTERED OFFICE 
+MX FAST MONEY REGISTERED OFFICE
 
 MillionaireX7 Global Incorporated  
 Mill Mall Tower, 2nd Floor  
