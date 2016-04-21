@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekdone.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928081117id_/https%3A//weekdone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekdone.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421161412id_/https%3A//weekdone.com/privacy) for the most accurate reproduction.*
 
 # Weekdone Privacy Policy - Weekdone
 
