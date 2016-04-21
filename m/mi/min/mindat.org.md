@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116222325id_/http%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindat.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422003750id_/http%3A//www.mindat.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
