@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myclientline.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905190811id_/https%3A//myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myclientline.net privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422014708id_/https%3A//www.myclientline.net/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # 
 
                      Business Track Online Privacy & Cookies Statement
-                                            Last Updated: April 14, 2015
+                                          Last Updated: August 18, 2015
 First Data Merchant Services Corporation is a subsidiary of First Data Corporation
 Protecting the privacy of users of Business Track (including Client Line) is important to us. Our Online
 Privacy & Cookies Statement is designed to inform you about our collection and use of personal
@@ -23,9 +23,10 @@ similar information. In some cases you may provide it directly, such as by enter
 application or online form, and in some cases you may provide it indirectly, such as the IP address of the
 computer or device you use to connect with us online. We may use the personal information you provide
 us to:
+                                 ation you have requested,
                                        -initiated or authorized transactions,
                                         -added services,
-                                                   out First Data and its services that we believe you would find
+                                                                                                         s,
 interesting.
 When You Browse the First Data Website, We Do Not Seek to Determine Your Identity.
 Personal information, such as your email address, is not included in cookies and is not collected unless
@@ -37,7 +38,7 @@ or to prevent harm (for example, for fraud prevention purposes we may confirm th
 matches the location you enter into an online form). In addition, we may aggregate data about users of
 our site and use it for statistical or analytic purposes. This information helps us to better understand our
 site’s users and how to improve our site and our offerings.
-                                                                                                                1
+                                                                                                              1
 
 
 Information about Online Tracking
@@ -144,126 +145,135 @@ or sources, including sites owned or operated by our affiliates, vendors or part
                                                                                                           4
 
 
-                                     AVISO DE PRIVACIDAD INTEGRAL
-FIRST DATA MERCHANT SERVICES MÉXICO, S. DE R.L. DE C.V. (en adelante (“First Data”), con
-domicilio ubicado en Jaime Balmes número 11, Torre “D”, Piso 4, Colonia Los Morales, Delegación
-Miguel Hidalgo, C.P. 11510, es la Sociedad Responsable (el “Responsable”), del tratamiento legítimo,
-uso, almacenamiento y divulgación controlado e informado de los datos personales, que recabamos para
-alcanzar los objetivos corporativos a través de todas las áreas del negocio y reiterar el compromiso con
-la privacidad y el derecho a la autodeterminación informativa.
-El presente Aviso de Privacidad tiene como objeto informarle sobre el tratamiento que se le dará a sus
-datos personales cuando los mismos son recabados, utilizados, almacenados y/o transferidos por “First
-Data”, lo cual se lleva a cabo de conformidad con las disposiciones de la Ley Federal de Protección de
-Datos Personales en Posesión de los Particulares (en adelante la “Ley”) y su Reglamento.
-        Datos Personales que se recaban
+                                AVISO DE PRIVACIDAD INTEGRAL
+FIRST DATA MERCHANT SERVICES MÉXICO, S. DE R.L. DE C.V. (en adelante (“First
+Data”), con domicilio ubicado en Jaime Balmes número 11, Torre “D”, Piso 4, Colonia Los
+Morales, Delegación Miguel Hidalgo, C.P. 11510, es la Sociedad Responsable (el
+“Responsable”), del tratamiento legítimo, uso, almacenamiento y divulgación controlado e
+informado de los datos personales, que recabamos para alcanzar los objetivos corporativos a
+través de todas las áreas del negocio y reiterar el compromiso con la privacidad y el derecho a
+la autodeterminación informativa.
+El presente Aviso de Privacidad tiene como objeto informarle sobre el tratamiento que se le
+dará a sus datos personales cuando los mismos son recabados, utilizados, almacenados y/o
+transferidos por “First Data”, lo cual se lleva a cabo de conformidad con las disposiciones de la
+Ley Federal de Protección de Datos Personales en Posesión de los Particulares (en adelante la
+“Ley”) y su Reglamento.
+       Datos Personales que se recaban
 Usted puede navegar por nuestro sitio web sin proporcionarnos los datos, sin embargo, existen
-determinadas secciones dentro del mismo en donde puede proporcionar voluntariamente sus datos. Sus
-datos pueden ser recabados en diferentes situaciones, ya sea contenidos en un correo electrónico, en
-una solicitud de alguno de nuestros productos o servicios obtenidos de forma personal, telefónica, o por
-medio de nuestra página web, o los que proporcione, con miras al establecimiento de una relación
-jurídica; todos los datos serán tratados tanto dentro como fuera de México, por “First Data” y/o por sus
-sociedades controladoras controladas, filiales, subsidiarias, matrices, o agencias; los cuales pueden ser,
-cualquiera de los siguientes: (i) Información de contacto, como: Nombre, Dirección, Fecha de
-Nacimiento, RFC, CURP, Número de Teléfono Fijo, Celular y Fax, Correo Electrónico; (ii) Documentación
-de Identidad, tales como: Credencial de Elector, Pasaporte, Licencia de Manejo, Cartilla o Cedula
-Profesional; (iii) Datos académicos, tales como: Historia académica, título profesional, numero de cedula
-profesional, especialidad, certificados académicos; (iv) Datos laborales, tales como: cargo dentro de la
-corporación, domicilio, número de teléfono fijo, celular y fax, correo electrónico, número de seguro social,
-cv; (v) Información familiar, tales como nombre de cónyuge, hijos; (vi) Referencias Personales, tales
-como información de personas no familiares; (vii) Datos de facturación, tales como: denominación o
-razón social de la Sociedad a la que se hará el cargo, domicilio fiscal, RFC, nombre del Representante
-Legal; (viii) Datos financieros, tales como: número de identificación de cuentas bancarias, forma de pago,
-institución financiera y clabe interbancaria.
-        Datos Personales Sensibles
-Le informamos que a fin de cumplimiento a las finalidades previstas en el presente Aviso de Privacidad,
-ya sea en su calidad de candidato, empleado, cliente o proveedor, First Data no recaba Datos
-Personales Sensibles, considerando todos aquellos que puedan afectar la esfera más íntima del ser
-humano.
-        Finalidades y/o usos de los Datos Personales
-Podemos utilizar sus datos personales para diversas finalidades, dependiendo de las circunstancias
-particulares en las que se recaban, así como a responder de información y atención y su servicio.
-Archivo de registros y expediente de la relación contractual para seguimiento de servicios futuros,
-gestión financiera, elaboración y envío de cotizaciones, formalización de contratos, envío de
-                                                                                                          5
+determinadas secciones dentro del mismo en donde puede proporcionar voluntariamente sus
+datos. Sus datos pueden ser recabados en diferentes situaciones, ya sea contenidos en un
+correo electrónico, en una solicitud de alguno de nuestros productos o servicios obtenidos de
+forma personal, telefónica, o por medio de nuestra página web, o los que proporcione, con
+miras al establecimiento de una relación jurídica; todos los datos serán tratados tanto dentro
+como fuera de México, por “First Data” y/o por sus sociedades controladoras controladas,
+filiales, subsidiarias, matrices, o agencias; los cuales pueden ser, cualquiera de los siguientes:
+(i) Información de contacto, como: Nombre, Dirección, Fecha de Nacimiento, RFC, CURP,
+Número de Teléfono Fijo, Celular y Fax, Correo Electrónico; (ii) Documentación de Identidad,
+tales como: Credencial de Elector, Pasaporte, Licencia de Manejo, Cartilla o Cedula
+Profesional; (iii) Datos académicos, tales como: Historia académica, título profesional, numero
+de cedula profesional, especialidad, certificados académicos; (iv) Datos laborales, tales como:
+cargo dentro de la corporación, domicilio, número de teléfono fijo, celular y fax, correo
+electrónico, número de seguro social, cv; (v) Información familiar, tales como nombre de
+cónyuge, hijos; (vi) Referencias Personales, tales como información de personas no familiares;
+(vii) Datos de facturación, tales como: denominación o razón social de la Sociedad a la que se
+hará el cargo, domicilio fiscal, RFC, nombre del Representante Legal; (viii) Datos financieros,
+tales como: número de identificación de cuentas bancarias, forma de pago, institución
+financiera y clabe interbancaria.
+       Datos Personales Sensibles
+Le informamos que a fin de cumplimiento a las finalidades previstas en el presente Aviso de
+Privacidad, ya sea en su calidad de candidato, empleado, cliente o proveedor, First Data no
+recaba Datos Personales Sensibles, considerando todos aquellos que puedan afectar la esfera
+más íntima del ser humano.
+                                                                                                 5
 
 
-publicaciones, facturación y cobro, siempre obedeciendo a la relación que tengamos con Usted y el
-Aviso de Privacidad especifico que, en su caso, se haya puesto a su disposición.
-        Menores e incapaces
-First Data y sus filiales, son una Empresa comprometida con la privacidad de los menores incapaces; por
-ello, no recabamos intencionalmente ni tratamos datos personales de menores e incapaces, cuando no
-se cuenta con el consentimiento expreso de sus padres, tutores o representantes legales. Si Usted es
-padre, tutor o representante legal de un menor o incapaz y sabe que nos ha proporcionado datos
-personales sin su consentimiento, podrá solicitar que los mismos sean cancelados a la siguiente
-dirección de correo electrónico: privacidaddedatos@firstdata.com
-        Uso de tecnologías de seguimiento
-Cuando usted navega en nuestro sitio web se recaba cierta información no personal por medio de
-“cookies” y de los “registros del servidor” o “web beacons”. La obtención de esta información se da por el
-simple uso e interacción con nuestro sitio de Internet y la información que se recaba puede consistir en
-direcciones de Protocolo de Internet, su sistema operativo, tipo de navegador, información sobre su
-ubicación (proporcionada por dispositivos móviles) y la ruta que Usted sigue durante el tiempo que pasa
-en nuestro sitio.
-Estos datos se recaban únicamente con los siguientes propósitos: generar estadísticas relativas a las
-visitas a nuestro sitio web, al tiempo que pasa en el mismo, y los sitios de referencia que puedan haberle
-traído al nuestro. Esta información también se utiliza para mantener y actualizar los perfiles de los
-usuarios y para adecuar o personalizar la información que se proporciona por este medio.
-        Transferencias de Datos Personales
-First Data podrá transferir sus Datos personales a terceros ya sea personas físicas o morales distintas a
-esta Sociedad, con los que mantenga una relación jurídica, únicamente con el fin de cumplir con las
-finalidades descritas en el Aviso de Privacidad. First Data también podrá transferir sus datos personales
-en los casos específicamente previstos en la Ley, en este sentido su información puede ser compartida
-con: (i) Compañias de Seguros; (ii) Sociedades que operen junto con First Data algún tipo de software y
-cualquier infraestructura de informática que sirva de plataforma para mantener actualizadas y protegidas
-sus bases de datos; (iii) proveedores de mensajería; (iv) Proveedores de administración de nómina; (v)
-Proveedores que realizan la destrucción de la documentación física proporcionada para cumplir con los
-fines del servicio proporcionado; y (vi) Agencias de Cobranza.
-La autorización del Titular conforme a esta sección, faculta al Responsable y/o sus Encargados a
-transmitir Datos Personales del Titular a dichos proveedores, en el entendido de que estos últimos están
-obligados a través de los contratos correspondientes, a mantener la confidencialidad de los Datos
-Personales suministrados por el Responsable y/o sus Encargados y a observar el presente Aviso de
-Privacidad.
-First Data, se compromete a no transferir su información personal a terceros sin su consentimiento, salvo
-las excepciones previstas en Ley Federal de Datos Personales en Posesión de los Particulares y su
-Reglamento, así como a realizar esta transferencia en los términos que fijan dichos ordenamientos.
-                                                                                                         6
+     Finalidades y/o usos de los Datos Personales
+Podemos utilizar sus datos personales para diversas finalidades, dependiendo de las
+circunstancias particulares en las que se recaban, así como a responder de información y
+atención y su servicio. Archivo de registros y expediente de la relación contractual para
+seguimiento de servicios futuros, gestión financiera, elaboración y envío de cotizaciones,
+formalización de contratos, envío de publicaciones, facturación y cobro, siempre obedeciendo a
+la relación que tengamos con Usted y el Aviso de Privacidad especifico que, en su caso, se
+haya puesto a su disposición.
+     Menores e incapaces
+First Data y sus filiales, son una Empresa comprometida con la privacidad de los menores
+incapaces; por ello, no recabamos intencionalmente ni tratamos datos personales de menores
+e incapaces, cuando no se cuenta con el consentimiento expreso de sus padres, tutores o
+representantes legales. Si Usted es padre, tutor o representante legal de un menor o incapaz y
+sabe que nos ha proporcionado datos personales sin su consentimiento, podrá solicitar que los
+mismos sean cancelados a la siguiente dirección de correo electrónico:
+privacidaddedatos@firstdata.com
+     Uso de tecnologías de seguimiento
+Cuando usted navega en nuestro sitio web se recaba cierta información no personal por medio
+de “cookies” y de los “registros del servidor” o “web beacons”. La obtención de esta
+información se da por el simple uso e interacción con nuestro sitio de Internet y la información
+que se recaba puede consistir en direcciones de Protocolo de Internet, su sistema operativo,
+tipo de navegador, información sobre su ubicación (proporcionada por dispositivos móviles) y la
+ruta que Usted sigue durante el tiempo que pasa en nuestro sitio.
+Estos datos se recaban únicamente con los siguientes propósitos: generar estadísticas
+relativas a las visitas a nuestro sitio web, al tiempo que pasa en el mismo, y los sitios de
+referencia que puedan haberle traído al nuestro. Esta información también se utiliza para
+mantener y actualizar los perfiles de los usuarios y para adecuar o personalizar la información
+que se proporciona por este medio.
+     Transferencias de Datos Personales
+First Data podrá transferir sus Datos personales a terceros ya sea personas físicas o morales
+distintas a esta Sociedad, con los que mantenga una relación jurídica, únicamente con el fin de
+cumplir con las finalidades descritas en el Aviso de Privacidad. First Data también podrá
+transferir sus datos personales en los casos específicamente previstos en la Ley, en este
+sentido su información puede ser compartida con: (i) Compañias de Seguros; (ii) Sociedades
+que operen junto con First Data algún tipo de software y cualquier infraestructura de informática
+que sirva de plataforma para mantener actualizadas y protegidas sus bases de datos; (iii)
+proveedores de mensajería; (iv) Proveedores de administración de nómina; (v) Proveedores
+                                                                                                6
 
 
-Si usted no manifiesta su oposición para que sus datos personales puedan ser transferidos, se
-entenderá que ha otorgado su consentimiento.
-      No consiento que mis datos personales sean transferidos.
-        Medidas de Seguridad
-First Data ha adoptado medidas de seguridad, administrativas, técnicas y físicas, necesarias y a su
-alcance para proteger los datos personales contra daño, perdida, alteración, destrucción o el uso, acceso
-o tratamiento no autorizado.
-        Derechos con respecto a sus Datos Personales
-Como titular de datos personales, usted puede ejercitar ante el Responsable de Datos Personales de
-First Data, los derechos de acceso, rectificación, cancelación y oposición (derechos “ARCO”).
-Asimismo, puede revocar, en todo momento, el consentimiento que haya otorgado y que fuere necesario
-para el tratamiento de sus datos, así como limitar el uso o divulgación de los mismos.
+que realizan la destrucción de la documentación física proporcionada para cumplir con los fines
+del servicio proporcionado; y (vi) Agencias de Cobranza.
+La autorización del Titular conforme a esta sección, faculta al Responsable y/o sus Encargados
+a transmitir Datos Personales del Titular a dichos proveedores, en el entendido de que estos
+últimos están obligados a través de los contratos correspondientes, a mantener la
+confidencialidad de los Datos Personales suministrados por el Responsable y/o sus
+Encargados y a observar el presente Aviso de Privacidad.
+First Data, se compromete a no transferir su información personal a terceros sin su
+consentimiento, salvo las excepciones previstas en Ley Federal de Datos Personales en
+Posesión de los Particulares y su Reglamento, así como a realizar esta transferencia en los
+términos que fijan dichos ordenamientos.
+     Medidas de Seguridad
+First Data ha adoptado medidas de seguridad, administrativas, técnicas y físicas, necesarias y
+a su alcance para proteger los datos personales contra daño, perdida, alteración, destrucción o
+el uso, acceso o tratamiento no autorizado.
+     Derechos con respecto a sus Datos Personales
+Como titular de datos personales, usted puede ejercitar ante el Responsable de Datos
+Personales de First Data, los derechos de acceso, rectificación, cancelación y oposición
+(derechos “ARCO”). Asimismo, puede revocar, en todo momento, el consentimiento que haya
+otorgado y que fuere necesario para el tratamiento de sus datos, así como limitar el uso o
+divulgación de los mismos.
 Lo anterior, a través del envío de su solicitud en los términos establecidos por la Ley al correo
-electrónico: privacidaddedatos@firstdata.com o al domicilio especificado en el primer párrafo del
-presente.
+electrónico: privacidaddedatos@firstdata.com o al domicilio especificado en el primer párrafo
+del presente.
 Para su fácil referencia, se describen brevemente los derechos ARCO:
-- Acceso.- que se le informe cuáles de sus datos personales están contenidos en las bases de datos de
-First Data, para qué se utilizan dichos datos personales, el origen y las comunicaciones que se hayan
-realizado con los mismos y, en general, las condiciones y generalidades del tratamiento.
-- Rectificación.- que se corrijan o actualicen sus datos personales en caso de que sean inexactos o
-incompletos.
-- Cancelación.- que sus datos personales sean dados de baja, total o parcialmente, de las bases de
-datos de First Data cuando considere que los mismos no están siendo tratados conforme a los principios
-y deberes que establece la Ley.
+- Acceso.- que se le informe cuáles de sus datos personales están contenidos en las bases de
+datos de First Data, para qué se utilizan dichos datos personales, el origen y las
+comunicaciones que se hayan realizado con los mismos y, en general, las condiciones y
+generalidades del tratamiento.
+- Rectificación.- que se corrijan o actualicen sus datos personales en caso de que sean
+inexactos o incompletos.
+- Cancelación.- que sus datos personales sean dados de baja, total o parcialmente, de las
+bases de datos de First Data cuando considere que los mismos no están siendo tratados
+conforme a los principios y deberes que establece la Ley.
+                                                                                                7
+
+
 - Oposición.- oponerse por causa legítima al tratamiento de sus datos personales.
-Si desea conocer los requisitos y procedimientos para el ejercicio de derechos ARCO, le pedimos
-contacte al Responsable de Datos Personales de First Data.
-        Cambios al Aviso de Privacidad
-Los cambios sustanciales en el presente Aviso de Privacidad, le serán comunicados a través de nuestro
-sitio web: www.firstdata.com.mx
-        Contacto
-                                                                                                        7
-
-
+Si desea conocer los requisitos y procedimientos para el ejercicio de derechos ARCO, le
+pedimos contacte al Responsable de Datos Personales de First Data.
+     Cambios al Aviso de Privacidad
+Los cambios sustanciales en el presente Aviso de Privacidad, le serán comunicados a través
+de nuestro sitio web: www.firstdata.com.mx
+     Contacto
 En caso de tener dudas o comentarios respecto al Aviso de Privacidad, le pedimos contacte al
-Departamento de Protección de Datos Personales (COMPLIANCE), a través de la siguiente dirección de
-correo electrónico privacidaddedatos@firstdata.com, o en la dirección antes especificada.
-Fecha de última actualización: Agosto 2013
-                                                                                                 8
+Departamento de Protección de Datos Personales (COMPLIANCE), a través de la siguiente
+dirección de correo electrónico privacidaddedatos@firstdata.com, o en la dirección antes
+especificada.
+Fecha de última actualización: Agosto 2015
+                                                                                           8
