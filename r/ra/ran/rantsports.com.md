@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072052id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantsports.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421182103id_/http%3A//www.rantsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# – Privacy Policy
 
 PRIVACY POLICY  
 Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of [RantSports](https://web.archive.org/) and users of the Fan Stats by RantSports mobile application. The website and mobile application referenced above are hereinafter referred to, collectively, as the “Site”.  
