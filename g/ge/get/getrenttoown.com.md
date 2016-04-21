@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the getrenttoown.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104124508id_/http%3A//www.getrenttoown.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrenttoown.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421043540id_/http%3A//www.getrenttoown.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GetRentToOwn: Contact Us to find out more about Foreclosure Listings in your area
-
-###### **PRIVACY POLICY  
-Effective: December 8, 2010**
 
 Last Updated: April 9, 2014
 
 **Privacy Statement:**  
-We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site (“Site”). By visiting, registering or using services obtained through our Site, you agree to the terms of this Privacy Policy.  If you do not agree with any terms of this Policy, please do not use or submit any personal information to this Site.
+We have developed this Privacy Policy to inform you of the data gathering and dissemination practices applicable to our web site ( Site ). By visiting, registering or using services obtained through our Site, you agree to the terms of this Privacy Policy.  If you do not agree with any terms of this Policy, please do not use or submit any personal information to this Site.
 
 **GetRentToOwn.com Privacy Pledge:** We do not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this site. We fully disclose our privacy policy in this document. If you have any questions or comments, you are invited to [contact us](https://web.archive.org/contact-us.html).
 
@@ -60,9 +57,6 @@ Please note that if GetRentToOwn.com or any lines of its business are sold or di
 Your information may be transferred to, stored and processed in the United States or any other country where we have facilities, and by providing us with your information, you consent to the transfer, storage and processing of such information outside of your country.
 
 **Your California Privacy Rights:**  
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties’ direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 6303 Owensmouth Avenue 10th Floor Woodland Hills, CA 91367-2263 Please include your name and the address to which you would like us to respond. 
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for those third parties direct marketing purposes and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by US Mail at 25350 Magic Mountain Parkway, Suite 300, Valencia, CA 91355 Please include your name and the address to which you would like us to respond. 
 
 Thank you for becoming familiar with the GetRentToOwn.com privacy policy. You can always [contact us](https://web.archive.org/contact-us.html) with any questions.
-
-  
-
