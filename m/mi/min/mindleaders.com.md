@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209152327id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421123341id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # Skillsoft Privacy Policy and Cookies Statement
 
@@ -101,3 +101,6 @@ We welcome your comments. Should you have any questions or concerns about our Pr
 If you feel that Skillsoft is not abiding by this Privacy Policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with the Company to resolve your concerns.
 
 Last Updated: September 22, 2015
+
+  
+
