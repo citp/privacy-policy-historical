@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the btcmarkets.net privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316084524id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the btcmarkets.net privacy policy that was archived on 2016-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160421042629id_/https%3A//btcmarkets.net/pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="globalsign-domain-verification" content="rVEJKn6XUnNMLgNcsdruQZ9ex_ZPOo7s5oHHAEwP81">
@@ -7,16 +7,17 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>BTC Markets | Bitcoin Exchange | Buy and Sell Bitcoins</title>
-<meta name="description" content="Australia's Bitcoin exchange. Buy and sell Bitcoin. International traders welcome. No deposit or withdrawal fees. Trading fees from 0.1%. Trade digital currency now.">
-<meta property="og:image" content="https://btcmarkets.net/images/icons/BtcMarkets356x356.png">
+<meta name="description" content="Australia's Bitcoin and Ethereum exchange. Buy and sell Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
+<meta property="og:image" content="https://btcmarkets.net/images/icons/BtcMarkets400x400.png">
 <meta property="og:title" content="BTC Markets | Bitcoin Exchange &amp; Crypto Exchange">
-<meta property="og:description" content="Australia's Bitcoin exchange. International crypto currency traders welcome. No deposit or withdrawal fees. Trading fees from 0.1%. Trade digital currency now.">
+<meta property="og:description" content="Australia's Bitcoin and Ethereum exchange. Buy and sell Bitcoin (BTC) and Ethereum (ETH). Trade Bitcoins, Litecoin and Ethereum today.">
 <meta property="og:site_name" content="BTC Markets">
-<link rel="icon" type="image/png" href="/images/icons/favicon.png">
+<link rel="icon" type="image/png" href="/images/icons/favicon1.png">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/css/jquery.dataTables.css?v=36">
-<link rel="stylesheet" href="/css/style.css?v=37">
-<script type="text/javascript" async="" src="//widget.uservoice.com/tE2nRVM4ErB9PjH73aA.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.9.0-min.js?v=36"></script>
+<link rel="stylesheet" href="/css/jquery.bxslider.css?v=1">
+<link rel="stylesheet" href="/css/style.css?v=59">
+<script type="text/javascript" async="" src="//widget.uservoice.com/tE2nRVM4ErB9PjH73aA.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/jquery-1.9.0-min.js?v=36"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.10.4.custom.min.js?v=36"></script>
 <script type="text/javascript" src="/js/jquery.bpopup.min.js?v=36"></script>
 <script type="text/javascript" src="/js/notify.min.js?v=36"></script><style type="text/css" id="notify-default">.notifyjs-default-base {
@@ -40,16 +41,17 @@
 }
 </style>
 <script type="text/javascript" src="/js/xdate.js?v=36"></script>
-<script type="text/javascript" src="/js/config.js?v=36"></script>
-<script type="text/javascript" src="/js/util2.js?v=36"></script>
+<script type="text/javascript" src="/js/config.js?v=39"></script>
+<script type="text/javascript" src="/js/util2.js?v=41"></script>
 <script type="text/javascript" src="/js/forms.js?v=36"></script>
-<script type="text/javascript" src="/js/modal.js?v=36"></script>
+<script type="text/javascript" src="/js/modal.js?v=37"></script>
 <script type="text/javascript" src="https://js.pusher.com/2.2/pusher.min.js?v=36"></script>
-<script type="text/javascript" src="/js/socket.js?v=36"></script>
+<script type="text/javascript" src="/js/socket.js?v=38"></script>
 <script type="text/javascript" src="/js/jquery.dataTables.min.js?v=36"></script>
-<script type="text/javascript" src="/js/chart/highstock.js?v=36"></script>
+<script type="text/javascript" src="/js/chart/highstock.js?v=37"></script>
+<script type="text/javascript" src="/js/fp.js?v=1"></script>
 <script type="text/javascript" src="/js/chart/themes/btcmarkets.js?v=36"></script>
-<script type="text/javascript" src="/js/basePage.js?v=37"></script>
+<script type="text/javascript" src="/js/basePage.js?v=40"></script>
 <style type="text/css" id="core-notify">.notifyjs-corner {
   position: fixed;
   margin: 5px;
@@ -94,35 +96,28 @@
 <div id="Main">
 <div id="TopBar">
 <div id="TopBarContent" class="container">
-<div class="label">Bitcoin:</div>
-<div id="LastPriceBTC"></div>
-<div class="label">Litecoin:</div>
-<div id="LastPriceLTC"></div>
 <div id="LoggedInPanel"><a id="CreateAccount" href="signupIndividual">Create Account</a> | <a href="login" id="Login">Login</a></div>
 </div>
 </div>
 <header>
 <div class="container">
 <a href="/home" id="Logo">
-<img src="/images/logo.png" alt="BTC Markets Logo">
-<span>Australia's Bitcoin Exchange</span>
+<img src="/images/logo-round.png" alt="BTC Markets Logo">
 </a>
-<div id="Notification"></div>
+<nav>
+<ul id="MainNav">
+<li><a href="/home" id="homeMenu"><span>Home</span></a></li>
+<li><a href="/trading" id="tradingMenu"><span>Buy / Sell</span></a></li>
+<li><a href="/account" id="accountMenu"><span>Account</span></a></li>
+</ul>
+<ul id="AltNav">
+<li><a href="/faq" id="faqMenu"><span>FAQs</span></a></li>
+<li><a href="/news" id="newsMenu"><span>News</span></a></li>
+<li><a href="/support" id="supportMenu" class="last"><span>Support</span></a></li>
+</ul>
+</nav>
 </div>
 </header>
-<nav>
-<div class="container" id="navContainer">
-<ul>
-<li><a href="/home" id="homeMenu">Home</a></li>
-<li><a href="/trading" id="tradingMenu">Buy / Sell</a></li>
-<li><a href="/account" id="accountMenu">Account</a></li>
-<li><a href="/faq" id="faqMenu">FAQs</a></li>
-<li><a href="/news" id="newsMenu">News</a></li>
-<li><a href="/support" id="supportMenu" class="last">Support</a></li>
-</ul>
-</div>
-</nav>
-<div id="PageContent" class="container">
 <input type="hidden" id="csrfTokenInput" value="">
 <script>
         function setActiveMenu() {
@@ -130,6 +125,7 @@
             $("#" + menuItem + "Menu").addClass('active');
         }
     </script>
+<div id="PageContent" class="container">
 <section>
 <h2>Privacy Policy</h2>
 <p>
@@ -239,6 +235,10 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 </div>
 <footer>
 <div id="FooterContainer">
+<div id="TwitterFeed">
+<a class="twitter-timeline" href="https://twitter.com/BTCMarkets" data-widget-id="436847161481756672" data-chrome="transparent noborders">Tweets by @BTCMarkets</a>
+<script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+</div>
 <ul class="link-list">
 <li><a href="/home">Home</a></li>
 <li><a href="/howitworks">How It Works</a></li>
@@ -257,11 +257,15 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 <li><a href="https://github.com/BTCMarkets/API">API</a></li>
 <li><a href="/support">Support</a></li>
 </ul>
-<p id="Copyright">© 2015, BTC Markets Pty Ltd. All rights reserved. ACN 164 093 887 ABN 45 164 093 887
+<ul class="link-list">
+<li>
+<a href="/protectYourself">Protect Yourself Online</a>
+</li>
+</ul>
+<a href="http://adcca.org.au/members/" id="ADCCA"><img src="/images/adcca-industry.png" alt="ADCCA Logo" id="ADCCALogo"></a>
+<p id="Copyright">© 2016, BTC Markets Pty Ltd. All rights reserved. ACN 164 093 887 ABN 45 164 093 887
 </p>
 <div id="Contacts">
-<a id="EmailIcon" href="mailto:support@btcmarkets.net">support@btcmarkets.net<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a>
 <ul>
 <li>
 <a id="FacebookIcon" href="https://facebook.com/BTCMarkets"></a></li>
@@ -272,6 +276,7 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 <a id="GooglePlusIcon" href="https://plus.google.com/104320130854460500341"></a>
 </li>
 </ul>
+<a id="EmailIcon" href="mailto:support@btcmarkets.net">support@btcmarkets.net</a>
 </div>
 <ul id="PolicyLinks">
 <li><a href="/tos">Terms of Service</a></li>
@@ -307,11 +312,6 @@ UserVoice.push(['showTab', 'classic_widget', {
 }]);
 </script>
 </div>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
