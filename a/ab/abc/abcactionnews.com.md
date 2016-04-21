@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907202009id_/http%3A//www.abcactionnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcactionnews.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421134140id_/http%3A//www.abcactionnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | abcactionnews.com | Tampa Bay News, Weather, Sports, Things To Do | WFTS-TV
 
