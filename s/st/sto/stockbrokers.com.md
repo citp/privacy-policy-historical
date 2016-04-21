@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220195017id_/http%3A//www.stockbrokers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421083952id_/http%3A//www.stockbrokers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - StockBrokers.com News
 
