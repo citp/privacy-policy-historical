@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151919id_/http%3A//www.lowes.com/en_us/l/privacy-and-security-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowescreativeideas.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421183630id_/http%3A//www.lowes.com/en_us/l/privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Privacy-and-Security-Statement
 
@@ -29,9 +29,9 @@ In some cases, we may provide additional details about privacy practices specifi
 
 This Privacy Statement _does not apply_ to:
 
-  * Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/PrivacyPolicy), [Iris Smart Home](https://www.irissmarthome.com/myhome/terms), [ATGStores.com](http://www.atgstores.com/about/privacy.aspx) and [Alacrity Services](http://www.alacrityservices.com/privacy.aspx) or Lowe’s relationship with [Porch.com](http://porch.com/about/privacy/);
+  * Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/PrivacyPolicy), [Iris Smart Home](https://www.irissmarthome.com/myhome/terms), [ATGStores.com](http://www.atgstores.com/about/privacy.aspx) and [Alacrity Services](https://www.alacrityservices.com/privacy-policy/) or Lowe’s relationship with [Porch.com](http://porch.com/about/privacy/);
   * Credit-related products (such as Lowe’s branded credit cards issued by banks), which are covered by the issuing banks’ privacy notices that appear on the credit applications or that you receive in connection with your credit accounts;
-  * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy); and
+  * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy); and
   * Lowe’s employment-related records (other than job applicant information submitted through the Career Portal).
 
 
