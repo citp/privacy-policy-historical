@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponshoebox.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204115551id_/http%3A//couponshoebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponshoebox.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421144521id_/http%3A//couponshoebox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
