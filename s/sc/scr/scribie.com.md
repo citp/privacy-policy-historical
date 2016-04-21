@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016140747id_/https%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421032045id_/https%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
 
-# Scribie Audio/Video Transcription Service | Privacy Policy
+# Scribie | Privacy Policy
+
+##  Audio/Video Transcription Service 
 
 We collect personal information in a number of ways when you visit our site or use our service. For example, you provide us with personal information when you register for an account or contact us by email. CGBiz Corporation automatically receives and records information from your browser, including your IP address and cookies. The personal information collected is used for billing, identification, authentication, service improvement, research, and contact.
 
