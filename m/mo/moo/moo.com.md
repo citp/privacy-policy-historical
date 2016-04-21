@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025150258id_/http%3A//www.moo.com/us/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421071519id_/https%3A//www.moo.com/us/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy
+# Privacy and Cookie Policy | MOO (United States)
 
 * 3\. Then select 'Accept Cookies' option
 
@@ -113,7 +113,7 @@ Our site may contain links to other sites. MOO Print Ltd is not responsible for 
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with MOO Print Ltd, you can [contact us](https://web.archive.org/us/help/contact-us.html). You can also use this address if you wish to request from MOO Print Ltd a copy of the personal data we hold about you.
 
-**MOO Print Ltd, 32-38 Scrutton Street (REAR), London, EC2A 4RQ**
+**MOO Print Ltd, 2nd Floor, 20 Farringdon Road, London, EC1M 3AF**
 
 As a user, you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, please contact us – we’ll be happy to help.
 
