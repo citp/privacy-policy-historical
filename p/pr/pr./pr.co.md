@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr.co privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915063351id_/http%3A//www.pr.co/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr.co privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421144425id_/https%3A//pr.co/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - pr.co
 
