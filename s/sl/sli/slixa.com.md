@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slixa.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913030258id_/https%3A//www.slixa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slixa.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421193345id_/https%3A//www.slixa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Slixa
 
