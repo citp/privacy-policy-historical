@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319201547id_/https%3A//www.beeline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeline.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421112510id_/https%3A//www.beeline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beeline.com
+# Beeline VMS & Contingent Workforce Solutions—Privacy Policy
 
 Beeline.com, Inc. respects the privacy of personal information it receives in the course of our business. This policy expresses Beeline’s commitment to maintain the privacy of personal information that is shared with us, outlines what types of personally identifiable information Beeline receives, and summarizes what we do with this personal information.
 
