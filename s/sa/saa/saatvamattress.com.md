@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saatvamattress.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009111403id_/http%3A//www.saatvamattress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saatvamattress.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421163713id_/http%3A//www.saatvamattress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Saatva Mattress
 
