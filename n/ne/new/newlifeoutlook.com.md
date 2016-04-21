@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newlifeoutlook.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413003125id_/http%3A//www.newlifeoutlook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlifeoutlook.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421041709id_/http%3A//newlifeoutlook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Life Outlook
+# Privacy Policy | NewLifeOutlook
 
 This privacy policy (the “Privacy Policy”) describes the manner in which Rebellion Media Group Corp. and its subsidiaries and affiliates (“we”, “us”, or “our”, as the context requires) collects information from you on our websites, mobile applications or any related software, features or functionality (collectively the “Sites and Services”) and how we use and maintain that information .If you do not agree to this Privacy Policy, please do not use the Sites and Services.
 
