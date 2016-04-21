@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rat32.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417002058id_/http%3A//rat32.com/rat32/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rat32.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421191708id_/http%3A//rat32.com/rat32/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,5 +43,3 @@ If you wish to disable cookies, you may do so through your individual browser op
 ## Write a Comment
 
 Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
-
-You must be [logged in](http://rat32.com/rat32/wp-login.php?redirect_to=http%3A%2F%2Frat32.com%2Frat32%2Fprivacy-policy%2F) to post a comment.
