@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realchannel65.com.ng privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220195223id_/http%3A//www.realchannel65.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realchannel65.com.ng privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421084836id_/http%3A//www.realchannel65.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# PRIVACY POLICY | Realchannel65
 
 **PRIVACY POLICY**
 
