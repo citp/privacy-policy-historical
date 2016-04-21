@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smutty.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912055120id_/http%3A//smutty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smutty.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421101319id_/http%3A//smutty.com/privacy.php) for the most accurate reproduction.*
 
 # smutty.com privacy
 
