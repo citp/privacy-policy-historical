@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901123305id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintboard.in privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421080414id_/http%3A//www.complaintboard.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Complaint Board Forum
 
@@ -66,6 +66,3 @@ If we merge with or are acquired by another company, the resulting combined comp
 ### Share this site with others
 
 ### Recently Updated Complaints
-
-[393275 - B.A 1st](https://web.archive.org/complaints-reviews/393275-l420542.html)  
-My regestraion no 03023010004356 an d my schlorship...
