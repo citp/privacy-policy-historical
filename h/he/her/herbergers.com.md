@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herbergers.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219204018id_/http%3A//www.herbergers.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbergers.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421055654id_/http%3A//www.herbergers.com/content/customer-service/privacy-policy/content1.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security Procedures - Herberger's
 
-This Privacy Policy was last updated on September 27, 2014.
+This Privacy Policy was last updated on March 16, 2015.
 
 This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.
 
@@ -49,7 +49,7 @@ The security of your personal information is important to us. To prevent unautho
 
 ### Definition Of And How We Use "Cookies"
 
-A "cookie" is a small file stored on your computer's hard drive by your web browser that allows our website to recognize you every time you visit our site. No personal identifiable information about you is stored in the cookies. On our site, cookies are used to keep a list of: pages that you clicked on during your visit; items you have selected for printing; and items you have put on your shopping list or placed in the Shopping Bag.
+A "cookie" is a small file stored on your computer's hard drive by your web browser that allows our website to recognize you every time you visit our site. No personal identifiable information about you is stored in the cookies. On our site, cookies are used to keep a list of: pages that you clicked on during your visit; items you have selected for printing; and items you have put on your shopping list or placed in the Shopping Bag. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
 
 It is your choice to not accept cookies. The "Help" menu of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. However, because cookies allow you to take full advantage of all features on our website, for the best experience we recommend you leave cookies enabled.
 
@@ -63,7 +63,7 @@ By opting in to mobile text alerts, the Bon-Ton customer agrees to receive a max
 
 Bon-Ton collects certain information automatically, such as the type of mobile device you use, device identifier, your mobile operating system, pages you visit on our mobile site, search terms, the type of mobile Internet browsers you use and information about the way you use our mobile website and applications.
 
-Read the [Mobile Terms & Conditions](https://web.archive.org/tc266866.mtiny.com)
+Read the [Mobile Terms & Conditions](https://web.archive.org/content/root-mobile-terms-conditions/content.html?viewName=ContentView)
 
 ### Changes To This Privacy Policy
 
