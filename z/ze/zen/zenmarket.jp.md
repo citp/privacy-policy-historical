@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207200135id_/http%3A//zenmarket.jp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421061711id_/http%3A//zenmarket.jp/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ZenMarket.jp - Japan Shopping Service
 
 ### What information do we collect?
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.  
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. 
 
 ### What do we use your information for?
 
@@ -26,17 +26,17 @@ Any of the information we collect from you may be used in one of the following w
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, please contact us.
+Note: If at any time you would like to unsubscribe from receiving future emails, please contact us. 
 
 ### How do we protect your information?
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.  
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
 ### Do we use cookies?
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information).  
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits. 
 
 ### Do we disclose any information to outside parties?
 
