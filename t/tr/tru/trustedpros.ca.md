@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013190323id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedpros.ca privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421204411id_/https%3A//trustedpros.ca/privacy) for the most accurate reproduction.*
 
 # TrustedPros Privacy Policy
 
+  
+
+
 * * *
 
-##   
-PRIVACY POLICY - (INDIVIDUALS)
+## PRIVACY POLICY - (INDIVIDUALS)
 
 Effective **April** **9, 2015**
 
