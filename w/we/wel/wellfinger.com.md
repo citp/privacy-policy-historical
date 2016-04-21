@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellfinger.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203022021id_/http%3A//wellfinger.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellfinger.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421080101id_/http%3A//www.wellfinger.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Well Finger
 
@@ -33,3 +33,5 @@ We has no access to or control over these cookies that are used by third-party a
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 if you require any other policy don't hesitate to [contact us](https://web.archive.org/contactus.html). 
+
+* * *
