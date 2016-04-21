@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207153805id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tortugabackpacks.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421025732id_/http%3A//www.tortugabackpacks.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ All direct payment gateways adhere to the standards set by PCI-DSS as managed by
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Shopify's [Terms of Service](http://www.shopify.com/legal/terms "Shopify Terms of Service") or [Privacy Statement](http://www.shopify.com/legal/privacy "Shopify's Privacy Statement").
+For more insight, you may also want to read Shopify's [Terms of Service](https://www.shopify.com/legal/terms "Shopify Terms of Service") or [Privacy Statement](https://www.shopify.com/legal/privacy "Shopify's Privacy Statement").
 
 ****Section**  5 - Third-Party Services**
 
