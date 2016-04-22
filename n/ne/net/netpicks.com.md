@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netpicks.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203141219id_/http%3A//www.netpicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpicks.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422193734id_/http%3A//www.netpicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetPicks
 
@@ -101,6 +101,6 @@ If you have any questions about this Privacy Policy, please contact us.
 
 Email: info   @    netpicks.com
 
-Postal Address: 9400 MacArthur Blvd #124-417 Irving,TX 75063 USA
+Postal Address: NetPicks LLC 2303 Ranch Road 620 South Ste 135-526 Austin, TX 78734 USA
 
 Website URL: http://www.netpicks.com
