@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103143040id_/http%3A//graphicleftovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422165534id_/http%3A//graphicleftovers.com/privacy-policy) for the most accurate reproduction.*
 
 # Resources · GL Stock Images
 
