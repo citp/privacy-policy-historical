@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southreport.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629191804id_/http%3A//www.southreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southreport.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422222456id_/http%3A//www.southreport.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - South Report.
+# privacy policy | South Report.
 
 ## privacy policy
 
@@ -22,4 +22,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Published On December 11, 2014 by December 12, 2014
+Published On November 15, 2014 by November 15, 2014
