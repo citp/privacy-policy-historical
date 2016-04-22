@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citethemrightonline.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222014311id_/http%3A//www.citethemrightonline.com/Privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethemrightonline.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422170049id_/http%3A//www.citethemrightonline.com/Privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Cite them right online - Privacy and cookie policy
 
