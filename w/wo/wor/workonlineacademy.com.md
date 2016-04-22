@@ -1,35 +1,60 @@
-> *The following text is extracted and transformed from the workonlineacademy.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223154353id_/http%3A//workonlineacademy.com/lp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workonlineacademy.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422043326id_/http%3A//www.getmorequalityleads.com/Privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy — workonlineacademy.com
+# Privacy Policy
 
-  * ## Privacy Policy
+### 
 
-Your privacy is very important to us. We strictly enforce our privacy policy. We want to make your venture as enjoyable and rewarding as possible.
+Priceless Possibilities Privacy Policy
 
-This Privacy Policy is to demonstrate our seriousness in your well being and security. This Privacy Policy describes how our Company ( **Work Online Academy** ) collects information, who accesses stored information, and how it is stored. We request that you read this Privacy Policy carefully.
+**HOW DOES PRICELESS POSSIBILITIES COLLECT AND USE MY INFORMATION?**
 
-### Personal Information Our Company (Work Online Academy) Collects and How It Is Used
+Priceless Possibilities may collect and use your personal information to provide you with information about the products or services that may be of value to you. Certain personal information that Priceless Possibilities collects about you may be publicly available via government records, telephone books, and other widely available media (i.e. the Internet). However, Priceless Possibilities treats all information that you provide to us as non-public. 
 
-Our company collects information in different ways from new affiliates and members who opt-in to our program. We use this information solely to provide affiliates and members with our products and services. We do not, under any circumstance, disclose personal information collected.
+  1. Information that you provide. 
+    * Priceless Possibilities collects the personal information that you provide when you sign up at one of our affiliate websites. 
+  2. Information provided by the affiliate who owns this website. 
+    * We may receive information from the affiliate about you after the affiliate has contacted you. Any information that we receive from affiliates is covered by this privacy policy and is considered non-public information. 
+  3. Technical Information. We use technology to: 
+    * Gather technical information from your Web browser (IP address, Browser type, Operating system); 
+    * Set persistent cookies on your computer; and 
+    * Collect information about your navigation through our website. 
 
-**Registration:** Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), SSN. The personal information collected from members during the registration process is used to deliver products. This information is not shared with third parties. Social Security Numbers are collected for tax purposes. This information is held with extreme confidentiality on a computer disconnected from any kind of internet service.
+We use this information for routine website maintenance; to establish that you are a unique user; to provide a personalized website experience; and/or for the purposes of assessing the effectiveness of our website, products and services. 
 
-**Online Shopping:** At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
-
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient’s name, address, and phone number. Our company has no control over the third parties’ use of any personal information you provide when placing such an order. Please exercise care when doing so.
-
-If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-**Responses to Email Inquiries:** When visitors or members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
-
-**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
-
-**Public Forums:** Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-
-**Where to Direct Questions About Our Privacy Policy:**  
-If you have any questions about this Privacy Policy or the practiced described herein, you may contact us through the contact information provided on this web site. or [info@workonlineacademy.com](mailto:info@workonlineacademy.com "Email Us")
-
-**Revisions to This Policy:** Our company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time in any manner, by updating this posting.
+If you choose to disable cookies, you will still be able to access most of the website. However, as a security precaution, you may not be able to access certain information that could be used for email harvesting purposes. 
 
 
+Top
 
+* * *
+
+**DOES PRICELESS POSSIBILITIES SHARE MY PERSONAL INFORMATION WITH THIRD PARTIES?**
+
+Priceless Possibilities may share your personal information: 
+
+  * With the owner of the website that you sign up at. 
+  * As required by law. 
+
+**Examples:** We may need to share your information with law enforcement or government agencies in response to a subpoena, state/federal audit or other similar circumstances. Additionally, the law requires that all mortgages and deeds of trust be recorded with the local county recorder's office 
+
+
+Top
+
+* * *
+
+**CAN I OPT-OUT OF COMMUNICATIONS FROM PRICELESS POSSIBILITIES?**
+
+You can OPT-OUT of communications from Priceless Possibilities by using the unsubscribe link that is available at the bottom of every email that is sent out by us. You may also opt out by sending an email to techsupport@pricelesspossibilities.com requesting that you be removed from all future mailings. 
+
+  
+Top
+
+* * *
+
+**WILL THIS PRIVACY POLICY CHANGE?**
+
+To accommodate changes on the website, changing technology, and legal developments, Priceless Possibilities may change this Privacy Policy from time to time. The Last Revision Date of the Privacy Policy will be posted here.
+
+**Last revision date:** May 31, 2005 
+
+Top
