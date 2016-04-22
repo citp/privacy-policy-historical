@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the basethings.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224043653id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basethings.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422210916id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html%3FosCsid%3Db45fbdb7a98c9837acb9bc6f76e02a2b) for the most accurate reproduction.*
 
 # Ultimate source for All Kind of Gadgets - Buy Online HEAVY TRUCK CONSTRUCTION VEHICLES TOY PLAY SET | BaseThings.com - Buy Online HEAVY TRUCK CONSTRUCTION VEHICLES TOY PLAY SET | BaseThings.com
+
+[](http://www.basethings.com/#)
 
 **Overview**
 
