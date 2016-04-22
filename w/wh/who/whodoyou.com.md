@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918201027id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423013124id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy: WhoDoYou – Local businesses recommended by friends
+# Privacy policy: WhoDoYou – Local businesses recommended on social media
 
 Your privacy is important to WhoDoYou. We hope this privacy policy will help you understand how WhoDoYou collects, uses and safeguards the personal information you provide to us on our site.
 
