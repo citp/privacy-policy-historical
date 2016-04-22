@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115208id_/https%3A//thrillcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillcall.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422235419id_/https%3A//thrillcall.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Thrillcall
 
