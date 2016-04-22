@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218171342id_/http%3A//www.psychologicalscience.org/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologicalscience.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422095103id_/http%3A//www.psychologicalscience.org/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Association for Psychological Science
 
@@ -21,10 +21,10 @@ to outside companies.
 You may request that your name and address not be provided to third parties by writing:
 
 **Association for Psychological Science**  
-1133 15th Street, NW
+1800 Massachusetts Ave NW 
 
-Suite 1000  
-Washington, DC 20005  
+Suite 402  
+Washington, DC 20036  
 USA
 
 Telephone: +1 202.293.9300, Fax: +1 202.293.9350
