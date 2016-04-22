@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottlenotes.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202083552id_/http%3A//www.bottlenotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottlenotes.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422212847id_/http%3A//www.bottlenotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Bottlenotes
 
