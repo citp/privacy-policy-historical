@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905094653id_/https%3A//www.flvc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422041923id_/https%3A//www.flvc.org/privacy) for the most accurate reproduction.*
 
-# FloridaShines | Resources for Florida's High School and College Students
+# FloridaShines | Colleges & Careers in Florida
 
 The Florida Virtual Campus is committed to protecting the privacy of visitors to its website.
 
