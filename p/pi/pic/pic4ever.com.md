@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pic4ever.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134404id_/http%3A//www.pic4ever.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pic4ever.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422103839id_/http%3A//www.pic4ever.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - www.pic4ever.com
+# Privacy and Cookie Policy
 
 Your privacy is important to us. This privacy policy outlines what personal information is collected and how it is used. 
 
@@ -20,4 +20,4 @@ Google, as a third party vendor, uses cookies to serve ads on this website.
 Google's use of the DART cookie enables it to serve ads to users based on their visit to our website and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-[Back to Main Website: www.pic4ever.com](http://www.pic4ever.com/ "Free Smileys and Emoticons")
+[Back to Main Website: www.pic4ever.com](http://www.pic4ever.com/ "Free Smileys, Emoticons and Emojis")
