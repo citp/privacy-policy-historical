@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234941id_/http%3A//www.wordtracker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtracker.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422125506id_/http%3A//www.wordtracker.com/privacy) for the most accurate reproduction.*
 
 # Wordtracker's privacy policy
 
