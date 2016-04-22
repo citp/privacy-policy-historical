@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174147id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422074040id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank of Melbourne
 
   * Privacy
+  * Privacy Statement and Declaration
   * What kinds of personal information do we collect and hold?
   * Why do we collect, hold, use and disclose personal information?
   * How do we collect personal information?
@@ -20,7 +21,11 @@
 
 We are bound by the Privacy Act and will protect your personal information in accordance with the Australian Privacy Principles. These principles govern how we can collect, use, hold and disclose your personal information.
 
-This is a summary of our Privacy Policy. Download a copy of our full **[Privacy Policy (PDF 93kb)](https://web.archive.org/content/dam/bom/downloads/170037%20PP%20408739_BOMW2853_0914_ONLINE.pdf)**  (Opens in new window), view the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
+This is a summary of our Privacy Policy. View the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
+
+**Privacy Statement and Declaration**
+
+We collect personal information from you to process your application, provide you with your product or service, and manage your product or service. Read the full [Privacy Statement and Declaration](https://webapps.bankofmelbourne.com.au/apply-now/privacy.asp?view=oaf).
 
 **What kinds of personal information do we collect and hold?**
 
@@ -108,10 +113,8 @@ You can contact us by:
 
 calling [**13 22 66**](tel:132266)
 
-emailing [bankofmelbourne@bankofmelbourne.com.au](mailto:bankofmelbourne@bankofmelbourne.com.au)
-
 visiting any of our branches or agencies
 
-writing to us at PO Box 1376, Melbourne, VIC 3001.
+writing to us at PO Box 20037, Melbourne, VIC 3001.
 
 Our Privacy Officer can also be contacted in relation to privacy concerns by writing to GPO Box 5265, Sydney NSW 2001.
