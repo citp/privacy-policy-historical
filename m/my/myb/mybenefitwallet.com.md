@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybenefitwallet.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915180440id_/https%3A//mybenefitwallet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybenefitwallet.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422202728id_/https%3A//www.mybenefitwallet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BenefitWallet
 
