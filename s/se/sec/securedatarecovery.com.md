@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026152921id_/http%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422231308id_/https%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Data Recovery Services
 
