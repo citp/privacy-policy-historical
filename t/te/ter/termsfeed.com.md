@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908021247id_/https%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the termsfeed.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422183351id_/https%3A//termsfeed.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy of TermsFeed - TermsFeed
+# Privacy Policy - TermsFeed
 
-Our Privacy Policy was last updated and posted on 13 September 2012. It governs the privacy terms of our Website, located at www.termsfeed.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Our Privacy Policy was last updated and posted on 13 September 2012. It governs the privacy terms of our Website, located at www.termsfeed.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Use](https://web.archive.org/legal/terms-of-use).
 
 **Your Privacy**  
 TermsFeed follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.
