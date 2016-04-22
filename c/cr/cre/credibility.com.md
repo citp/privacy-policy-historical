@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the credibility.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007004749id_/https%3A//credibility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credibility.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422144641id_/https%3A//credibility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Credibility.com
 
-This Privacy Policy describes the Data Privacy practices that are applicable to the websites operated by Credibility Corp. (individually or collectively “ **We** “, “ **Our** “, “ **Credibility.com** ” or “ **Credibility Corp.** “) located at URLs [https://credibility.com](https://credibility.com/), [https://community.credibility.com](https://community.credibility.com/), <https://facebook.com/GetCredibility>, <https://twitter.com/GetCredibility> (individually or collectively “ **Credibility.com websites** “). 
+This Privacy Policy describes the Data Privacy practices that are applicable to the websites operated by Credibility Corp. (individually or collectively “ **We** “, “ **Our** “, “ **Credibility.com** ” or “ **Credibility Corp.** “) located at URLs [https://credibility.com](https://credibility.com/), <https://facebook.com/GetCredibility>, <https://twitter.com/GetCredibility> (individually or collectively “ **Credibility.com websites** “). 
 
 This site may provide links to third party websites that may employ different information management practices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
