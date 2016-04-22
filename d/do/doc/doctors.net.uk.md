@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctors.net.uk privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820073710id_/http%3A//about.doctors.net.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctors.net.uk privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422153830id_/http%3A//about.doctors.net.uk/privacy-policy) for the most accurate reproduction.*
 
 # Doctors.net.uk - Privacy policy
 
@@ -59,13 +59,9 @@ In addition, Doctors.net.uk has agreements with sponsors and medical information
 
 Sponsors undertake to use such data only for assessing your access (and the frequency of that access) to material provided by them via the Doctors.net.uk website for their internal auditing purposes.
 
-## International Data Transfers
+## Data Transfers
 
-Information that Doctors.net.uk collects may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-Information which you provide may be transferred to or accessed from countries (including the United States) which do not have data protection laws equivalent to those in force in the European Economic Area.
-
-You expressly agree to such transfers of personal information.
+Information that Doctors.net.uk collects will only be stored and processed within the European Economic Area [unless we seek and receive your active, specific and informed consent for specific reasons from time to time].  
 
 ## Confidentiality
 
