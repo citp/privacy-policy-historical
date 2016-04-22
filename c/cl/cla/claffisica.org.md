@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the claffisica.org privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621001253id_/http%3A//www.claffisica.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claffisica.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422075456id_/http%3A//www.claffisica.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - CLAFFISICA
 
