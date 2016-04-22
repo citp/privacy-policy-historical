@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321074839id_/https%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422064719id_/https%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# DigitalWorldz Technology Forum - Satellite, Cable TV, IPTV, Console Experts -
+# DigitalWorldz - Satellite, Cable TV, Streaming TV, Computer Technology Experts -
 
 ## **Privacy  Policy**
 
@@ -196,8 +196,3 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 
 [Permalink](https://www.digitalworldz.co.uk/privacy-policy.php) | Last updated: Jan 04, 12:45 PM
-
-* * *
-
-  
-
