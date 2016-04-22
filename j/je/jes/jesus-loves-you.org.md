@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jesus-loves-you.org privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029033718id_/http%3A//thehungersite.greatergood.com/clickToGive/ths/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesus-loves-you.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422175700id_/http%3A//thehungersite.greatergood.com/clickToGive/ths/privacy) for the most accurate reproduction.*
 
 # Privacy @ The Hunger Site
 
@@ -25,6 +25,7 @@ This privacy policy covers the following:
 > [The Alzheimer's Site](http://thealzheimerssite.com/) and store and blog   
 > [The Diabetes Site](http://thediabetessite.com/) and store and blog   
 > [The Literacy Site](http://theliteracysite.com/) and store and blog   
+> [The Earth Site](http://blog.theearthsite.com/) blog and store   
 > [The Rainforest Site](http://therainforessite.com/) and store and blog   
 > [Shelter Challenge](http://shelterchallenge.com/)   
 > [Free Kibble](http://freekibble.com/)   
@@ -41,10 +42,6 @@ This privacy policy covers the following:
 > **Family Pet**   
 > [Coupaw](http://coupaw.com/)   
 > [Petsitting.com](http://petsitting.com/)   
-> [LocalDogWalker](http://localdogwalker.com/)   
-> [**GreaterGood.org**](http://greatergood.org/)   
-> [Cats R Cool](http://catsrcool.com/)   
-> [One Picture Saves a Life](http://onepicturesaves.com/)   
 > [**GreaterGood Wholesale**](http://greatergoodwholesale.com/)   
 > [Alpha Pooch](http://alphapooch.com/)   
 > [Unreal Lambskin](http://unreallambskin.com/)
@@ -171,6 +168,7 @@ Please note: Your credit card statement will show the name of the store where yo
 > The Alzheimer's Site   
 > The Diabetes Site   
 > The Literacy Site   
+> The Earth Site   
 > The Rainforest Site   
 > Creative Kidstuff   
 > Sensational Beginnings   
@@ -182,7 +180,7 @@ Please note: Your credit card statement will show the name of the store where yo
 
 If we cannot identify which storefront you entered through, charges will appear on your statement as CharityUSA.com, LLC.
 
-Ordering online with us is secure and easy. If you have any concerns about ordering online, please feel free to place your order with our customer service department by phone. Hours are 10:00 am to 6:00 pm (Eastern Time), Monday through Friday. You may call us toll-free within the U.S. and Canada at 1-888-355-4321. To contact us from outside the U.S. and Canada, please call 206-268-5401.
+Ordering online with us is secure and easy. If you have any concerns about ordering online, please feel free to place your order with our customer service department by phone. Hours are 8:00 am to 7:00 pm (Eastern Time), Monday through Friday. You may call us toll-free within the U.S. and Canada at 1-888-355-4321. To contact us from outside the U.S. and Canada, please call 206-268-5401.
 
 ### Collection of Personal Information from Children
 
@@ -209,7 +207,7 @@ U.S.A.
 
 U.S. and Canada: 1-888-355-4321   
 Outside the U.S. and Canada: 206-268-5401   
-Customer Service hours are 10:00 am to 6:00 pm (Eastern Time), Monday through Friday.
+Customer Service hours are 8:00 am to 7:00 pm (Eastern Time), Monday through Friday.
 
 You will be notified if your personal information is collected by any third party that is not our agent/service provider other than as specified in this policy, so you can make an informed choice as to whether or not to share your information with that party. Although there are no plans to do this presently, if this ever occurs, an opt-out will be provided to you before any personal information is shared, so it is always your choice when information is provided to a third party.
 
@@ -217,4 +215,4 @@ You will be notified if your personal information is collected by any third part
 
 We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you by means of a notice on this Site or by email prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-This Privacy Policy was last updated on April 30, 2015.
+This Privacy Policy was last updated on April 18, 2016.
