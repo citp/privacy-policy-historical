@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915133103id_/https%3A//ticktick.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticktick.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422181613id_/https%3A//ticktick.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - TickTick
 
 Our privacy policy explains how information is collected, used and disclosed by TickTick with respect to your access and use of TickTick’s services through our mobile & web application (referred to below as “TickTick”).
 
-### What Information Do We Collect?
+### 1、What Information Do We Collect?
 
 We collect certain information you provide to us when using TickTick, such as when you send us an email or post information on our Google Groups, the information includes:
 
@@ -12,7 +12,7 @@ We collect certain information you provide to us when using TickTick, such as wh
 
 **“Non-Personal Information”** is the information that cannot be directly associated with a specific person or entity. Non-Personal Information includes but is not limited to your device’s configuration, the package ID and version of TickTick that you use.
 
-### How Do We Use the Information We Collect?
+### 2、How Do We Use the Information We Collect?
 
 We use the information collected through TickTick for the purposes described below:
 
@@ -23,16 +23,16 @@ We use the information collected through TickTick for the purposes described bel
 
 
 
-### What Information Do We Share With Third Parties?
+### 3、What Information Do We Share With Third Parties?
 
 We will not share the personal information we have collected from you.
 
 We are not responsible for the actions of service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties.
 
-### Links to Other Sites
+### 4、Links to Other Sites
 
 TickTick may contain links to other sites. Any information you provide on those sites is provided directly to the owner of that site and is subject to that party's privacy policy. Our privacy policy does not apply to such sites, and we are not responsible for the content or privacy and security practices and policies of those sites.
 
-### Changes
+### 5、 Changes
 
 Any information that is collected is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise our privacy policy from time-to-time. If we make any material changes to this policy, we will notify you of such changes by posting them on TickTick or by sending you an email or other notification, and we will indicate when such changes will become effective. By continuing to access or use TickTick after those changes become effective, you are agreeing to be bound by the revised policy.
