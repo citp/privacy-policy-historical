@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cbd.ae privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318161742id_/https%3A//www.cbd.ae/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbd.ae privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422164250id_/https%3A//www.cbd.ae/general/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CBD.ae | Privacy Policy
 
-**Last Updated February 1st, 2014**
+**Last Updated December 1st, 2015**
 
 **Collecting and Using Information **
 
@@ -24,7 +24,7 @@ We use Personal Information:
     * to enhance the CBD Site, identifying usage trends and determining the effectiveness of promotional campaigns;
     * for risk control, for fraud detection and prevention, to comply with laws and regulations, and to comply with other legal process and law enforcement requirements;
   3. **Other Information We Collect Online**  
-Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data. 
+Other Information is any information other than Personal Information that does not reveal your specific identity or does not directly relate to an individual, such as browser information, information collected through cookies, pixel tags and other technologies, demographic information, other information provided by you such as your date of birth or household income, and aggregated and de-identified data. You can be located automatically when using CBD Mobile Applications if you activated the location services on your smartphone. It is clarified that CBD performs conservation of historical location data for different reasons including but not limited to marketing purposes. It is reminded that CBD will not be held responsible for any use that is made of the automatic Location data related to mobile phones including ,GPS, particularly regarding private and personal data that are managed directly by mobiles phones providers. 
   4. **How We Collect and Use Other Information**  
 We and our third-party service providers may collect and use Other Information in a variety of ways, including but not limited to:   
 
