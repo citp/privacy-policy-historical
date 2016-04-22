@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207141720id_/http%3A//www.wedmantra.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedmantra.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422113501id_/http%3A//www.wedmantra.com/privacy.php) for the most accurate reproduction.*
 
 # wedmantra.com -Privacy Policy
 
@@ -43,14 +43,3 @@ Our website may contain links to other websites of interest. However, once you h
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties, which we think you may find interesting if you tell us that you wish this to happen.  
 You may request details of personal information, which we hold about you under the Information Technology Act 2000.   
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-##### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us at :  
-Company Name: Wedmantra, 5th Floor, "Jubilee Square," Road No. 36, Jubilee Hills, Hyderabad, Telangana 500033
-
-Phone Nos :  
-Dialling from India : 1860-200-4444 
-
-Dialling from outside India : (00) 91 088 86 677733  
-
