@@ -1,100 +1,70 @@
-> *The following text is extracted and transformed from the social9.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the social9.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422220906id_/http%3A//www.social9.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policies | Social9
 
-**Go Daddy Respects Your Privacy**
+### Introduction
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We respect your privacy, and want to ensure the best experience while interacting with Social9 (“we” or “us”), while using our services (“Social9 Services”, “Social9 Widget” or “Social9 Platform” ), or browsing our website www.social9.com (“Website”, or “Social9 Website”), including the internal dashboard provided to our Customers. Social9 Services are deployed on our Customers’ web or mobile applications (“Customer Web Applications” or “Customer Websites”) and is used by our Customers’ online users (“End-Users”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy describes how we collect, use, and disclose the Personal and non-Personal Information of our customers and End-Users (as defined below) on the Social9 Website and through Social9’ Services.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy is incorporated to and is subject to the Social9 Terms of Use, and any capitalized terms not defined herein will have the meaning provided in our Terms of Use. By using Social9’ Website or Services, you consent to the use of your Personal Information as described in this Privacy Policy.
 
-**Information Collection and Use**
+### Operation of Social9 Website
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The Social9 website has three key purposes : i) Providing information on our products, services, and on technical support and resources, ii) as a key channel of communication, and iii) providing access to the Social9 Dashboard to let our Customers manage their Social9 account and configurations. During the operation of the Website, we may collect your personal information via various channels such as contact forms, live chats, account creation, etc.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+### Operation of Social9 Services
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Social9 Services are delivered to our Customers and their End-Users users via our turnkey plugins and HTML code on our Customers’ web applications. In order to provide these services, Social9 may collect some Non-Personal Information of the End-Users on behalf of our Customers. The collected information is owned by Social9 and that Customer, and will be used as per this Privacy Policy, as well as per our Customer’s privacy policy.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### Information We Collect
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We aim to collect and use such information as is required to enable us to manage our Customer accounts, provide Social9 Services, maintain our Customer/visitor lists, respond to inquiries or provide feedback, for identification and authentication purposes, and for service improvements. We will only use your Personal Information for the purposes for which they were collected.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use, or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers, and electronic addresses when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+“Personal Information” is personally identifiable information, such as your name, address, email address, credit card information, birth date, and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always the Customer’s choice whether or not to provide Personal Information, but if the Customer chooses not to provide certain requested Personal Information, in some instances the Customer may not be able to register to use the Website, or be able to access and use the Website at all.
 
-**Security**
+In other instances, the Customers’ choice not to provide certain Personal Information may mean that the Customer will not be able to use certain features of the Website or the Service. We may collect Personal Information through registration processes, communications with the Customer, information downloads, service use, user support, and surveys.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+“Non-Personal Information” is information of an anonymous nature, such as an Internet Protocol Address (IP Address), the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the website. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website is not considered Personal Information.
 
-**Updating Your Information**
+Such Non-Personal Information may be collected by Social9 in the course of operating the Website. For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored in a cookie when you choose to visit the Website.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### How We Use the Information that We Collect
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may use the information (Personal as well as Non-Personal) in the following ways:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  1. We will use your email address to contact you about important information or notices about Social9 or to respond to your queries. We may display your name, email address, and other information within your Social9 account as well as other sections of the website. It will only be viewable to you.
+  2. We may use non-personally identifiable information to statistically analyze our web and business performances. This helps us to enhance your experience with our services.
+  3. If you write a testimonial for us and give us consent to publish it, we may display your name, title, and company on our testimonial section. We never disclose or share any information which identifies you personally with any third party. (Please see below disclosure for further details.)
+  4. End-User information is used to deliver services to our Customers, provide analytics, and other services. Our Customers own that information.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+### When We Disclose Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Social9 does not share, sell, or rent your information to any third party website or company. We may require disclosing your personal information to respond to legal requirements, to enforce our policies, to respond to claims that you or use of service by you violates another’s rights, or to protect anyone’s rights, property, or safety.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### Security
 
-**Compliance with Laws and Law Enforcement**
+Any personal data you provide us is securely stored in a database which only a few authorized employees can access. The server holding your personal data is protected against unauthorized physical as well as electronic access. These measures include an electronic firewall and various other protection measures that involve virus scanning, installation of security patches, vulnerability testing, backup, recovery planning, employee training, security audits, and other steps designed to constantly improve the data protection procedures. The server is not directly connected to the internet and data is therefore available only to authorized computers. However, Social9 cannot assure full security as it is not possible to make a system 100% secure in practice.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### Your Rights
 
-**Third Party Service Providers**
+You can ask us to correct and, where relevant, erase your information. Please note that certain Personal Information may need to be retained by Social9 for a period of time. This is necessary for legitimate business purposes and required or authorized by applicable law. As mentioned above you have a right to change your Personal Information at any time by logging into your Social9 dashboard or by sending us an email.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### Business Relationships with Social Share Networks
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Social9 may have business relations (or partnerships) with some social share networks such as Google, Facebook, Pinterest, etc. However, we are not responsible for the terms of use and privacy policies for any of these social share networks. Please visit their websites for more information about their privacy policies and terms of use.
 
-**Supplementation of Information**
+### Changes to This Privacy Policy
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may update this Privacy Policy by posting a new version on our website. This helps you to always be aware of what information we collect, how we use it, and under what circumstances, if any, it is disclosed.
 
-**Contests/Surveys**
+### Contact and Questions
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+If you have any questions about this Privacy Policy, please contact:
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Email: legal [at] social9 [dot] com
