@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317105656id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422161758id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
 # Tickifieds Privacy Policy
 
@@ -64,27 +64,27 @@ If you have any enquiries or wish to provide feedback about this policy, please 
 | Ad Title | Event Date [](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/a/attr/col_11)[](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/d/attr/col_11)  
 ---|---|---  
   
-[](http://www.tickifieds.com/mls/other_soccer_tickets/216885_argentina_vs__el_salvador_tickets___international_friendly_soccer_fedex_field)
+[](http://www.tickifieds.com/mls/other_soccer_tickets/209880_liverpool_fc_vs__as_roma_tickets_fenway_park)
 
-|  [**Argentina vs. El Salvador Tickets - International Friendly Soccer Fedex Field**](http://www.tickifieds.com/mls/other_soccer_tickets/216885_argentina_vs__el_salvador_tickets___international_friendly_soccer_fedex_field) |  Fri March 27, 2015   
-Argentina vs. El Salvador Fedex Field Landover Maryland Fri, Mar 27 2015, for Argentina vs. El Salvador soccer tickets, see 123GetaTicket, The Little Guys with Lots of Great Tickets - "We've Got your Ticket" use ...   
+|  [**Liverpool FC vs. AS Roma Tickets Fenway Park**](http://www.tickifieds.com/mls/other_soccer_tickets/209880_liverpool_fc_vs__as_roma_tickets_fenway_park) |  Fri January 23, 2015   
+Soccer tickets for sale Liverpool FC vs. AS Roma Fenway Park Boston, MA, tickets available now at 123GetaTicket.com - use Promo Code ((( ChipShot ))) at checkout get some great tickets at bargain prices see The ...   
   
-[](http://www.tickifieds.com/concerts_and_events/florida/212051_5_seconds_of_summer___vip_soundcheck_tickets)
+[](http://www.tickifieds.com/concerts_and_events/massachusetts/225221_justin_bieber_meet_and_greet_passes_for_sale)
 
-|  [**5 SECONDS OF SUMMER - VIP Soundcheck Tickets**](http://www.tickifieds.com/concerts_and_events/florida/212051_5_seconds_of_summer___vip_soundcheck_tickets) |  Sun September 13, 2015   
-See 5 SECONDS OF SUMMER live with these VIP Soundcheck Passes at CRUZAN AMPHITHEATRE Live on 9/13/2015!! We have 2 premium VIP Soundcheck Passes to see 5 SECONDS OF SUMMER at CRUZAN AMPHITHEATRE on 9/13/2015. Be a 5 ...   
+|  [**Justin Bieber Meet and Greet Passes for Sale**](http://www.tickifieds.com/concerts_and_events/massachusetts/225221_justin_bieber_meet_and_greet_passes_for_sale) |  Tue May 10, 2016   
+Justin Bieber Meet and Greet Deluxe Package includes: Meet and Greet with Justin Bieber | Premium reserved floor ticket in first fifteen rows from stage (orders of three or more may be split) | Authentic ...   
   
-[](http://www.tickifieds.com/concerts_and_events/canada/ontario/206566_ed_mirvish_theatre_toronto_aladdin_tickets)
+[](http://www.tickifieds.com/concerts_and_events/michigan/224805_selena_gomez_tickets___palace_of_auburn_hills___6_24_2016)
 
-|  [**Ed Mirvish Theatre Toronto Aladdin Tickets**](http://www.tickifieds.com/concerts_and_events/canada/ontario/206566_ed_mirvish_theatre_toronto_aladdin_tickets) |  Tue January 05, 2016   
-Toronto Aladdin Tickets and online discount coupon, see Aladdin at Ed Mirvish Theatre have a fantastic selection of tickets available, Order Early and use online discount coupon "123Tix" at checkout for great ...   
+|  [**Selena Gomez Tickets - Palace of Auburn Hills - 6/24/2016**](http://www.tickifieds.com/concerts_and_events/michigan/224805_selena_gomez_tickets___palace_of_auburn_hills___6_24_2016) |  Fri June 24, 2016   
+See Selena Gomez live from your seats in section 228 at Palace of Auburn Hills on 6/24/2016!! We have 2 premium tickets available in section 228 row 14 to see Selena Gomez at Palace of Auburn Hills on 6/24/2016. Be a ...   
   
-[](http://www.tickifieds.com/concerts_and_events/tennessee/212120_5sos_tickets_for_sale___rock_out_with_your_socks_out_tour_vip_package)
+[](http://www.tickifieds.com/nfl/afc/jacksonville_jaguars/210425_jacksonville_jaguars_tickets)
 
-|  [**5SOS Tickets for Sale - Rock Out With Your Socks Out Tour VIP Package**](http://www.tickifieds.com/concerts_and_events/tennessee/212120_5sos_tickets_for_sale___rock_out_with_your_socks_out_tour_vip_package) |  Sat August 08, 2015   
-See 5 Seconds of Summer live at The Cynthia Woods Mitchell Pavilion 2005 Lake Robbins Dr, Spring, Texas on 8/8/2015!! We have 4 premium Rock Out With Your Socks Out Tour VIP Packages for 5SOS at Cynthia Woods ...   
+|  [**Jacksonville Jaguars Tickets**](http://www.tickifieds.com/nfl/afc/jacksonville_jaguars/210425_jacksonville_jaguars_tickets) |  Tue August 09, 2016   
+Jacksonville Jaguars Tickets - Get ready the NFL season is almost here - order now for Preseason: Jacksonville Jaguars Vs. Tampa Bay Buccaneers Tickets - Jacksonville Jaguars 2014 season - Preseason: ...   
   
-[](http://www.tickifieds.com/concerts_and_events/texas/216574_ariana_grande_houston_rodeo_tickets_2015)
+[](http://www.tickifieds.com/ncaa/other_ncaa/222282_2016_ncaa_men_s_basketball_tournament___final_four_tickets___houston__tx)
 
-|  [**Ariana Grande Houston Rodeo Tickets 2015**](http://www.tickifieds.com/concerts_and_events/texas/216574_ariana_grande_houston_rodeo_tickets_2015) |  Tue March 17, 2015   
-See Houston Livestock Show And Rodeo - Ariana Grande live from your seats in section Loge - 540 at NRG Stadium on 3/17/2015!! We have 2 premium tickets available in section Loge - 540 row J to see Houston Livestock Show ... 
+|  [**2016 NCAA Men's Basketball Tournament | Final Four Tickets | Houston, TX**](http://www.tickifieds.com/ncaa/other_ncaa/222282_2016_ncaa_men_s_basketball_tournament___final_four_tickets___houston__tx) |  Sat April 02, 2016   
+2016 NCAA Men's Basketball Tournament Final Four Tickets, Final Four: All Sessions Pass Tickets, NRG Stadium Houston, TX - For NCAA Event Tickets make 123Getaticket your last stop, The Little Guys with Lots of ... 
