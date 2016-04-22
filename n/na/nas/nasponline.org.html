@@ -1,452 +1,1174 @@
-<!--The following is the downloaded HTML source of the nasponline.org privacy policy that was archived on 2015-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151007131700id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nasponline.org privacy policy that was archived on 2016-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160422120320id_/http%3A//www.nasponline.org/utility/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	NASP - Website Privacy Policy
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-				
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script type="text/javascript" src="/scripts/styles.js"></script>
-		<script type="text/javascript" src="/facebox/facebox.js"></script>
-		<script type="text/javascript" src="/navigation/highlightNav_main.js"></script>
+<!DOCTYPE html><html lang="en" class=" js csstransforms"><head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<script type="text/JavaScript">
-			//Set Page Domain (Errors on Testing)
-			try{
-				document.domain = 'nasponline.org';
-			}
-			catch(err){}
-			//Popup Function For iWeb (Login / Etc)
-			function openWindow(theURL,winName) { //v2.0
-				//window.open(theURL,winName,"toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=834,height=754");
-				window.open(theURL,"_parent");
-			}
+		<title>Privacy Policy</title>
 
-			function openWindow1(theURL,winName) {
-				window.open(theURL,winName,"toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=834,height=754");
-			}
-			//Menu Hover Color Change
-			$(document).ready(function(){
-				$('#nav li').mouseover(function(){$(this).addClass("sfhover");});
-				$('#nav li').mouseout(function(){$(this).removeClass("sfhover");});
-			});
-		</script>
-		<script type="text/javascript">
-			//Analytics Script
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-			//Analytics Track Page
-			try {
-				var pageTracker = _gat._getTracker("UA-772889-1");
-				pageTracker._trackPageview();
-			} catch(err) {}
-		</script>
-		<script type="text/javascript"> 
-			//Accordion (w/ first set to closed)
-			$(document).ready(function(){
-				$('.acc_container').hide(); 
-				//$('.acc_trigger:first').addClass('active').next().show(); 
-				$('.acc_trigger').click(function(){
-					if( $(this).next().is(':hidden') ) { 
-						$('.acc_trigger').removeClass('active').next().slideUp(); 
-						$(this).toggleClass('active').next().slideDown(); 
-					}
-					return false; 
-				});
-			});
-		</script> 
-		<script type="text/javascript">
-			//Facebox
-			jQuery(document).ready(function($) {
-				$('a[rel*=facebox]').facebox({
-					loading_image : '/facebox/loading.gif',
-					close_image   : '/facebox/closelabel.gif'
-				}) 
-			})
-		</script>
-		<script type="text/javascript">
-			//Login DropDown
-			$(document).ready(function(){
-				$('#login-trigger').click(function(){
-					$(this).next('#login-content').slideToggle();
-					$(this).toggleClass('active');
-					if ($(this).hasClass('active')) $(this).find('span').html('&#x25B2;')
-					else $(this).find('span').html('&#x25BC;')
-				})
-			});
-		</script>
-		<script type="text/javascript">
-			//Form Toggling
-			$(document).ready(function(){
-				$('#newsearchbox').find(':input').focus(function(){
-					if ($(this).next(':input').attr('disabled') !== undefined){
-						$(this).next(':input').removeAttr('disabled');
-					}
-				})
-				$('#login-content').find(':input').focus(function(){
-					$('#login-content').find(':input').each(function(index){
-						if ($(this).attr('disabled') !== undefined){
-							$(this).removeAttr('disabled');
-						}
-					})
-				})
-				$('a[rel*=facebox]').click(function(){
-					$('#facebox #login-content2').find(":input").on('focus', function(){
-						$('#login-content2').find(":input").each(function(index){
-							if ($(this).attr('disabled') !== undefined){
-								$(this).removeAttr('disabled');
-							}
-						})
-					})
-				})
-			});
-		</script>
-		<script type="text/javascript" language="javascript">
-			//message box?
-			$(document).ready(function(){
-				$(window).scroll(function(){
-					$('#message_box').animate({top:($(window).scrollTop()+200)+"px" },{queue: false, duration:0});  
-				});
-				$('#close_message').click(function(){
-					$('#message_box').fadeOut(500);
-					//$('#message_box').animate({opacity:0}, "slow");
-				});
-			});
-		 </script>
-		 <style type="text/css">
-			body {
-				margin: 0; 
-				padding: 0;
-				text-align: center; 
-				color: #000000;
-			}
-			.oneColFixCtr #container {
-				width: 960px;  
-				background: #FFFFFF;
-				margin: 0 auto;
-				border: none;
-				text-align: left;
-			}
-			.oneColFixCtr #mainContent {
-				background: #FFFFFF;
-			}
-			.style1 {color: #FFFFFF}
-			.watermarked {
-				background-color:#F0F8FF;
-				color:gray;
-				font-size: 10px;
-				border: 1px inset #999999;
-				height: 10px;
-				width: 80px;
-				margin-left: 28px;
-			}	
-			#newHeader {
-				float:left;
-				background:url(/images/Headers-960/interiorNASPheader.jpg) top left no-repeat;
-				width:960px;
-				height:96px;
-			}
-			.breadcrumbStyle {
-				float:left;
-				position:relative;
-				margin-top:0px;
-				border:0px solid #CCC;
-				font-size:.9em;
-				vertical-align:middle;
-			}	
-			.breadcrumbStyle a:hover {
-				color:red;
-			}	
-			.breadcrumbHomeStyle {
-				vertical-align:middle;
-				}	
-			
-			html>body #nav li.current1 > a {
-				background: #EEEDD8 url(/images/icons/arrow_out.png) no-repeat right center;
-				color:#222;
-				background-position: 97% 50%; 
-			}
-			
-			html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover, html>body #subnav ul li.current1 a, html>body #subnav ul li.current1 a:hover {
-				background: #E8F3FF url(/images/2arrow_gray_right.png) no-repeat left center;
-				padding-right:20px;
-				font-weight:bold;
-				color: #000; 
-				z-index:3;
-			}
-			html>body #subnav ul li.current1 a:hover {
-				color:#000; 
-			}
-		</style>
-		<link rel="stylesheet" href="/styles/new-header2.css" type="text/css">
-		<link rel="stylesheet" href="/css/message-boxes.css" type="text/css">
-		<link rel="stylesheet" href="/styles/interiorNASPstyle960_2col.css" type="text/css"><link rel="stylesheet" href="/styles/interiorprint.css" type="text/css" media="print"><link rel="stylesheet" href="/facebox/facebox.css" type="text/css" media="screen"><link rel="stylesheet" href="/styles/login.css" type="text/css"><link rel="stylesheet" href="/styles/top_menu.css" type="text/css"><link rel="stylesheet" href="/GridViewCSSThemes/YahooGridView.css" type="text/css">
+		
+		
+		  <link rel="canonical" href="https://www.nasponline.org/utility/privacy-policy">
+			<base href="/">
+			  <!--[if IE]><script type="text/javascript">
+				// Fix for IE ignoring relative base tags.
+				// See http://stackoverflow.com/questions/3926197/html-base-tag-and-local-folder-path-with-internet-explorer
+				(function() {
+					var baseTag = document.getElementsByTagName('base')[0];
+					baseTag.href = baseTag.href;
+				})();
+			</script><![endif]-->
+				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700">
+				<link rel="stylesheet" type="text/css" href="https://www.nasponline.org/assets/Documents/Prebuilt/style/public.css">
+				<link rel="stylesheet" type="text/css" href="https://www.nasponline.org/assets/Documents/Prebuilt/style/custom.css">
+				<link rel="stylesheet" type="text/css" href="https://apps.nasponline.org/css/jquery.bxslider.css">
 		<!--[if lt IE 9]>
-			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="/assets/Documents/Prebuilt/js/respond.min.js"></script>
 		<![endif]-->
- 
-		
-	<style type="text/css">
-	<!--
-	#newHeader{
-		background:url(/images/Headers-960/new_logo/nasp.jpg) top left no-repeat;
-		height:120px;
-	}
-	#homeButton {
-		/*background-color:#70732E;*/
-	}
-	#homeButton a:hover {
-		text-decoration:none;
-	}
-	#contentHolder {
-		float: left;
-		color: inherit;
-		padding-left: 0px;
-		padding-right: 0px;
-		width: 745px;
-	}
-	-->	
-	</style>
+		<script>
+			/* Modernizr 2.8.3 (Custom Build) | MIT & BSD
+			 * Build: http://modernizr.com/download/#-csstransforms-cssclasses-testprop-testallprops-domprefixes
+			 */
+			;window.Modernizr=function(a,b,c){function x(a){j.cssText=a}function y(a,b){return x(prefixes.join(a+";")+(b||""))}function z(a,b){return typeof a===b}function A(a,b){return!!~(""+a).indexOf(b)}function B(a,b){for(var d in a){var e=a[d];if(!A(e,"-")&&j[e]!==c)return b=="pfx"?e:!0}return!1}function C(a,b,d){for(var e in a){var f=b[a[e]];if(f!==c)return d===!1?a[e]:z(f,"function")?f.bind(d||b):f}return!1}function D(a,b,c){var d=a.charAt(0).toUpperCase()+a.slice(1),e=(a+" "+n.join(d+" ")+d).split(" ");return z(b,"string")||z(b,"undefined")?B(e,b):(e=(a+" "+o.join(d+" ")+d).split(" "),C(e,b,c))}var d="2.8.3",e={},f=!0,g=b.documentElement,h="modernizr",i=b.createElement(h),j=i.style,k,l={}.toString,m="Webkit Moz O ms",n=m.split(" "),o=m.toLowerCase().split(" "),p={},q={},r={},s=[],t=s.slice,u,v={}.hasOwnProperty,w;!z(v,"undefined")&&!z(v.call,"undefined")?w=function(a,b){return v.call(a,b)}:w=function(a,b){return b in a&&z(a.constructor.prototype[b],"undefined")},Function.prototype.bind||(Function.prototype.bind=function(b){var c=this;if(typeof c!="function")throw new TypeError;var d=t.call(arguments,1),e=function(){if(this instanceof e){var a=function(){};a.prototype=c.prototype;var f=new a,g=c.apply(f,d.concat(t.call(arguments)));return Object(g)===g?g:f}return c.apply(b,d.concat(t.call(arguments)))};return e}),p.csstransforms=function(){return!!D("transform")};for(var E in p)w(p,E)&&(u=E.toLowerCase(),e[u]=p[E](),s.push((e[u]?"":"no-")+u));return e.addTest=function(a,b){if(typeof a=="object")for(var d in a)w(a,d)&&e.addTest(d,a[d]);else{a=a.toLowerCase();if(e[a]!==c)return e;b=typeof b=="function"?b():b,typeof f!="undefined"&&f&&(g.className+=" "+(b?"":"no-")+a),e[a]=b}return e},x(""),i=k=null,e._version=d,e._domPrefixes=o,e._cssomPrefixes=n,e.testProp=function(a){return B([a])},e.testAllProps=D,g.className=g.className.replace(/(^|\s)no-js(\s|$)/,"$1$2")+(f?" js "+s.join(" "):""),e}(this,this.document);
+		</script>
+		<script src="/assets/Documents/Prebuilt/js/jquery-1.11.3.min.js" async=""></script>
 	
-</head>
-	<body class="oneColFixCtr">
-		<a name="top"></a>
-			
-		<div id="container">
-			<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm" class="formfield">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJGN0bDAwJGtlZXBsb2dnZWRpbgUVY3RsMDAkY3RsMDAkYnRuR29vZ2xlBRljdGwwMCRjdGwwMCRrZWVwbG9nZ2VkaW4yToO7n/z1Y17fUz6qM3Z0VQqjo1Y=">
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="027A10D4">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwKR08HbAwLl+POXBwLw4vWHDALY+N6JBwK05tuDAgLp4ai0CgK+98DcCgKa/dn6DwKp/tvCCAKMmZrWDALoue33DWitnuu0Es6fmgtIjaZvgQc+9qlW">
-				<div id="newHeader">
-					<a href="/" class="homeArea"></a>
-					
-					<div id="homeButton">
-					<header class="cf">
-					<nav>
-						<ul>
-							<li id="login">
-								
-								<a id="login-trigger" href="#">Log in <span>▼</span></a>
-								
-								<div id="login-content">
-									<fieldset id="inputs">
-										<span class="loginlabel" for="username">Username</span>
-										<input name="ctl00$ctl00$username" type="text" id="ctl00_ctl00_username" title="Username" class="username">
-										<span class="loginlabel" for="password">Password</span>
-										<input name="ctl00$ctl00$password" type="password" id="ctl00_ctl00_password" title="Password" class="password">
-									</fieldset>
-									<fieldset id="actions">
-										<input type="submit" name="ctl00$ctl00$submit" value="Login" id="ctl00_ctl00_submit" disabled="disabled" class="submit_btn">
-										<span class="keeploggedin_label" for="keeploggedin">Keep me signed in</span>
-										<span title="Keep me signed in"><input id="ctl00_ctl00_keeploggedin" type="checkbox" name="ctl00$ctl00$keeploggedin" checked="checked"></span>
-									</fieldset>
-									<fieldset id="forgot">
-										<a href="javascript:openWindow('http://iweb.nasponline.org/iweb/LogIn/RetrievePassword.aspx?ReturnPage=http://www.nasponline.org/about_nasp/privacy-policy.aspx','ForgotPassword');">Forgot Password?</a>
-									</fieldset>
-								</div>                     
-							</li>
-							<li id="signup">
-								<a href="javascript:openWindow('https://iweb.nasponline.org/iweb/Profile/CreateNewUser.aspx?ReturnPage=http://www.nasponline.org/about_nasp/privacy-policy.aspx','JoinNASP');">Join NASP</a>		
-							</li>
-						</ul>
-					</nav>
-					</header>
-					</div>
-					
-					<div id="newsearchbox">
-						<input name="ctl00$ctl00$search" type="text" value="Search NASP" id="ctl00_ctl00_search" title="Search" class="newsearchbox" onfocus="if (this.value == 'Search NASP') this.value = '';" onblur="if(this.value == '') { this.value='Search NASP'; }">
-						<input type="image" name="ctl00$ctl00$btnGoogle" id="ctl00_ctl00_btnGoogle" disabled="disabled" title="Search" class="newsearchboxIcon" src="/images/icons/GoButton.png" border="0">
-					</div>
-				</div>
-				
-				<!--
-				<style type="text/css">
-					#population_bar{
-						position:absolute;
-						top:110px;
-						margin:0px auto;
-						width:960px;
-						height:25px;
-						background:#65655d;
-					}
-					#population_bar a{
-						text-decoration:none;
-						color:#F0F0F0;
-						font-size:12px;
-						display:block;
-						margin:4px 40px;
-						float:left;
-					}
-					#population_bar a:hover {
-						color:#F0F0F0;
-					}
-					#population_bar a:active {
-						color:#F0F0F0;
-					}
-					#population_bar a img{
-						float:left;
-						border:0px;
-					}
-				</style>
-				<div id="population_bar">
-					<div style="margin:0px 30px 0px 90px;">
-					<a href="/students/index.aspx">Students</a>
-					<a href="/earlycareer/index.aspx">Early Career</a>
-					<a href="/families/index.aspx">Families</a>
-					<a href="/educators/index.aspx">Educators</a>
-					<a href="/membership/my-account.aspx"><img src="/images/icons/my-account-icon.jpg" /> View My Account</a>
-					</div>
-				</div>
-				-->
-				<img src="/images/popsbar_960.jpg" alt="Populations" border="0" usemap="#Map1" id="popsbar">
-				<map name="Map1" id="Map1">
-					<area shape="rect" coords="151,4,217,21" href="/students/index.aspx">
-					<area shape="rect" coords="273,5,358,22" href="/earlycareer/index.aspx">
-					<area shape="rect" coords="417,6,491,21" href="/families/index.aspx">
-					<area shape="rect" coords="564,6,640,20" href="/educators/index.aspx">
-					<area shape="rect" coords="683,5,813,20" href="/membership/memberupdate.aspx">
-				</map>
-				
-
-				<table width="100%" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td colspan="2" style="padding-left:10px; padding-top:10px">
-							
-							<span id="ctl00_ctl00_SiteMapPath1" class="breadcrumbStyle"><a href="#ctl00_ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=ot6EuPmjsT6mpJLe16Rda6fhGC67YmuX8quqcwWhDgnw3-UQvN1-2cHDecP6uWkFqZR4QBKYGFKjH9GkwP7cgB8uwGY1&amp;t=635692430249476852" border="0"></a><a id="ctl00_ctl00_SiteMapPath1_SkipLink"></a></span>
-						</td>
-					</tr>
-					<tr>
-						<td colspan="2" style="padding:0px">
-							<!-- ### SITE-Wide Message ### -->
-							
-	<style media="all" type="text/css">
 		
-		     #message_box { 
-				position: absolute;
-				background-color:#FBFCE4;
-				margin: 0 auto; 
-				z-index: 10; 
-				margin-left:120px;
-				border:2px solid #ffcc33;
-				text-align:left;  
-				font-weight:normal;
-				font-size:1em;
-				padding:10px; 
-				width:720px;
-			}
+	</head>
+
+	<body>
+		<!--[if lt IE 7]>
+			<script type="text/javascript">document.getElementById("body").className = "ie6 lt-ie8 lt-ie9";</script>
+		<![endif]-->
+		<!--[if IE 7]>
+			<script type="text/javascript">document.getElementById("body").className = "ie7 lt-ie8 lt-ie9";</script>
+		<![endif]-->
+
 		
-	</style> 
-	<div id="message_box" style="border:1px solid #D8000C;background-color:#FFE8E8;padding:10px;color:#D8000C;display:none;">
-		<img src="/images/message-icons/error.png" border="0" align="left" style="margin:0 10px 40px 0;">
-		<img src="/images/icons/48.png" width="20" height="20" title="close" id="close_message" style="float:right;cursor:pointer">
-	</div>
-	
-							<!-- ### SITE-Wide Message ### -->
-						</td>
-					</tr>
-					<tr valign="top">
-						<td width="172" align="left" id="menucell">
-							<div id="contentleft">
-								
-	<div id="nav">
-		<ul>
-			
-			<li><a href="/about_sp/index.aspx">About School Psychology</a></li>	
-			<li class="current1"><a href="index.aspx">About NASP</a>
-			<div id="subnav">
-				<ul>
-					<li><a href="/about_nasp/mission.aspx">Vision, Mission, Core Values, &amp; Priorities</a></li>
-					<li><a href="/about_nasp/position_paper.aspx">Position Statements</a></li>
-					<li><a href="/about_nasp/leadership.aspx">NASP Leadership</a></li>
-					<li><a href="/about_nasp/awards.aspx">Awards &amp; Grants</a></li>
-					<li><a href="/about_nasp/interestgroups.aspx">Interest Groups</a></li>
-					<li><a href="/about_nasp/990Forms.aspx">IRS 990 Forms</a></li>
-					<li><a href="/about_nasp/links_state_orgs.aspx">State Associations</a></li>
-					<li><a href="/about_nasp/meet_staff.aspx">NASP Staff</a></li>
-					<li><a href="/about_nasp/employment.aspx">Employment at NASP</a></li>
-				</ul>
-			</div></li>
-			<li><a href="/membership/index.aspx">Membership</a></li>
-			<li><a href="/standards/index.aspx">Professional Standards &amp; Training</a></li>
-			<li><a href="/profdevel/index.aspx">Continuing Professional Development</a></li>		
-			<li><a href="/certification/index.aspx">National Certification</a></li>
-			<li><a href="/conventions/index.aspx">Conventions</a></li>
-			<li><a href="/communications/index.aspx">Communications/Media</a></li>
-			<li><a href="/advocacy/index.aspx">Advocacy/Public Policy</a></li>
-			<li><a href="/resources/index.aspx">Resource Library</a></li>
-			<li><a href="/careers/index.aspx">Career Center</a></li>
-			<li><a href="/publications/index.aspx">Publications</a></li>
-			<li><a href="http://communities.nasponline.org/home">Communities</a></li>
-		</ul>
-	</div>
-
-							</div>
-						</td>
-						<td width="780" style="padding-left: 20px; padding-right: 20px; padding-bottom:20px; padding-top:15px">
-							<div id="contentHolder"> 
-								
-	
-<h1>NASP Website Privacy Policy</h1>
-<p>We  respect your privacy. Any personal information you provide to us including and  similar to your name, address, telephone number, and e-mail address will not be  intentionally released, sold, or rented to any entities or individuals outside  of our organization except as noted below. </p>
-<h2>With Whom Do We Share  the Personal Information We Collect Through This Site? </h2>
-<p><strong>Our  Service Providers</strong><br>
-  We  may share your personal information with companies (including our affiliates)  that perform services on our behalf, for example, companies that help process  credit card payments. Our service providers are required by contract to protect  the confidentiality of the personal information we share with them and to use  it only to provide specific services on our behalf. </p>
-<p><strong>Select  Business Partners</strong><br>
-In  some instances, member names and mailing addresses may be shared for one-time  use with select business partners whose products are believed to be of value to  members. E-mail addresses will not be shared.</p>
-<p><strong>Business  Transfers</strong><br>
-Your  personal information may be transferred to another entity (either an affiliated  entity or an unrelated third party) in connection with a merger,  reorganization, dissolution, or similar corporate event. If such a transfer  were ever to occur, the acquiring entity’s use of your personal information  will still be subject to this privacy policy. </p>
-<p><strong>Government  and Legal Disclosures </strong><br>
-We  may disclose the personal information we collect through this site, when we, in  good faith, believe disclosure is appropriate to comply with the law (or a  court order or subpoena); to prevent or investigate a possible crime, such as  fraud or identity theft; to enforce our terms and conditions or other  agreements that govern your use of this site; or to protect the rights,  property, or safety of our company, our users, or others. </p>
-<p><strong>External  Sites </strong><br>
-We  are not responsible for the content of external Internet sites. You are advised  to read the privacy policy of external sites before disclosing any personal  information. </p>
-<h2>Cookies</h2>
-<p>
-  A  “cookie” is a small data text file that is placed in your browser and allows us  to recognize you each time you visit this site (personalization, etc). Cookies  themselves do not contain any personal information, and we do not use cookies  to collect personal information. Cookies may also be used by third party  content providers, such as newsfeeds. </p>
-<h2>Remember the Risks  Whenever You Use the Internet</h2>
-<p>While  we have taken steps to protect your personal information, we cannot guarantee  the security of any information that you transmit to us and you are solely  responsible for maintaining the secrecy of any passwords or other account  information. In addition, other Internet sites or services that may be  accessible through our site have separate data and privacy practices  independent of us, and therefore we disclaim any responsibility or liability  for their policies or actions. Please contact those vendors and others directly  if you have any questions about their privacy policies. </p>
-<p>For  any other information, please <a href="meet_staff.aspx">contact the NASP office</a>.</p>
 
 
-							</div>
-						</td>  
-					</tr>
-				</tbody></table>
-				<div id="face_login" style="display:none;">
-					<h2 style="margin: 0 0 0 10px;text-align:center;">Please <span style="color:#444444;">Login</span> to Access<br><u>Members Only</u> Content</h2>
-					<div style="width:300px;" id="login2">
-						<div id="login-content2">
-							<fieldset id="inputs2">
-								<span class="loginlabel" for="username2">Username</span>
-								<input name="ctl00$ctl00$username2" type="text" id="ctl00_ctl00_username2" title="Username" class="username">
-								<span class="loginlabel" for="password2">Password</span>
-								<input name="ctl00$ctl00$password2" type="password" id="ctl00_ctl00_password2" title="Password" class="password">
-							</fieldset>
-							<fieldset id="actions2">
-								<input type="submit" name="ctl00$ctl00$submit2" value="Login" id="ctl00_ctl00_submit2" disabled="disabled" class="submit_btn">
-								<span class="face_keep_label" for="keeploggedin2">Keep me signed in</span>
-								<span title="Keep me signed in"><input id="ctl00_ctl00_keeploggedin2" type="checkbox" name="ctl00$ctl00$keeploggedin2" checked="checked"></span>
-							</fieldset>
-							<fieldset id="forgot2">
-								<a href="javascript:openWindow('http://iweb.nasponline.org/iweb/LogIn/RetrievePassword.aspx?ReturnPage=http://www.nasponline.org/about_nasp/privacy-policy.aspx','ForgotPassword');">Forgot Password?</a>
-							</fieldset>
-							<fieldset id="createAccount">
-								<a href="javascript:openWindow('https://iweb.nasponline.org/iweb/Profile/CreateNewUser.aspx?ReturnPage=http://naspdata/membership/memberupdate.aspx','JoinNASP');">Create Account</a>
-							</fieldset>
-						</div>
-					</div>
-				</div>         
 
+
+
+	<header class="page-header" role="banner">
+		<div class="page-bounds group">
+
+			<h1 class="page-logo">
+					<a href="/" class="block">
+						<span class="text">NASP: The National Association of School Psychologists</span>
+		<img src="https://www.nasponline.org/assets/images/logo-wide.png" alt="" class="page-logo-wide">
+
+		<img src="https://www.nasponline.org/assets/images/logo-tall.png" alt="" class="page-logo-tall">
+
+					</a>
+			</h1>
+
+		<img src="https://www.nasponline.org/assets/images/Logos/NASP-logo_RGB.png" alt="" class="page-logo-print page-logo-print-cq">
+
+
+			<button type="button" class="mobile-nav-toggle toggle" data-toggle-target=".page-utility, .page-search, .page-nav" aria-hidden="true"><img src="assets/Images/icon-menu.png" alt=""></button>
+
+				<nav class="page-utility">
+
+<a href="https://www.nasponline.org/x32238.xml" target="" class="">
+Leadership Tools</a>
+<a href="https://www.nasponline.org/utility/about-nasp" target="" class="">
+About NASP</a>
+<a href="https://www.nasponline.org/resources-and-publications/books-and-products" target="" class="">
+NASP Store</a>
+<a href="https://www.nasponline.org/careercenter" target="" class="">
+Career Center</a>
+<a href="https://www.nasponline.org/createaccount" target="" class="">
+Create an Account</a>
+<a href="https://www.nasponline.org/membership-and-community/join-nasp" target="" class="nav-toggle white">
+Join NASP</a>
+<a href="https://www.nasponline.org/membership-and-community/manage-your-account" target="" class="nav-toggle">
+</a>
+<a href="https://www.nasponline.org/account/login?returnTo=https://www.nasponline.org/utility/privacy-policy" target="" class="nav-toggle">
+Login</a>				</nav>
+
+			<form action="/search/search-results" method="GET" class="page-search">
+				<input type="text" name="keywords" title="Search NASP" placeholder="Search NASP" class="page-search-input">
+				<button type="submit" class="page-search-submit">Go</button>
 			</form>
+
+			<nav class="page-nav">
+	<ul>
+					<li>
+				<a href="https://www.nasponline.org/about-school-psychology" target=""><span>About School Psychology</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/about-school-psychology/who-are-school-psychologists" target=""><span>Who Are School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/a-career-that-makes-a-difference" target=""><span>A Career That Makes a Difference</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/becoming-a-school-psychologist" target=""><span>Becoming a School Psychologist</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x28169.xml" target=""><span>Graduate Educators</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/becoming-a-school-psychologist/a-career-in-school-psychology-frequently-asked-questions" target=""><span>A Career in School Psychology: Frequently Asked Questions</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28181.xml" target=""><span>Approved Graduate Programs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28182.xml" target=""><span>Why Become an NCSP</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/workforce-and-salary-information" target=""><span>Workforce &amp; Salary Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/media-room" target=""><span>Media Room</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/about-school-psychology/media-room/press-releases" target=""><span>Press Releases</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/media-room/school-psychology-in-the-news" target=""><span>School Psychology in the News</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28176.xml" target=""><span>Position Statements</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/promote-the-profession" target=""><span>Promote the Profession</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications" target=""><span>Resources &amp; Publications</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/books-and-products" target=""><span>Books &amp; Products</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources" target=""><span>Resources</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/school-safety-and-crisis" target=""><span>School Safety &amp; Crisis</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/mental-health" target=""><span>Mental Health</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/special-education" target=""><span>Special Education</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/diversity" target=""><span>Diversity</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/school-psychology" target=""><span>School Psychology</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources/search-by-topic" target=""><span>Search by Topic</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28229.xml" target=""><span>Communiqué</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x32629.xml" target=""><span>CQ Archive</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28433.xml" target=""><span>CQ Advertising</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28431.xml" target=""><span>CQ General Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28432.xml" target=""><span>CQ Author Guidelines</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28231.xml" target=""><span>School Psychology Forum</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x32317.xml" target=""><span>Current Issue</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32324.xml" target=""><span>About SPF</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32323.xml" target=""><span>Archive</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32325.xml" target=""><span>Author Guidelines</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32326.xml" target=""><span>Advertising Information</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28230.xml" target=""><span>School Psychology Review</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x32321.xml" target=""><span>Current Issue</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32327.xml" target=""><span>About SPR</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32328.xml" target=""><span>Archive</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32329.xml" target=""><span>Author Guidelines</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32330.xml" target=""><span>Advertising Information</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals" target=""><span>Early Career Professionals</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/essential-ethics-for-early-career-school-psychologists" target=""><span>Essential Ethics for Early Career School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/becoming-a-valued-team-player-tips-for-early-career-practitioners" target=""><span>Becoming a Valued Team Player: Tips for Early Career Practitioners </span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/developing-support-systems-and-managing-stress" target=""><span>Developing Support Systems and Managing Stress</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/essential-tools-for-prospective-and-early-career-school-psychology-faculty" target=""><span>Essential Tools for Prospective and Early Career School Psychology Faculty</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/preparing-for-faculty-careers-in-school-psychology" target=""><span>Preparing for Faculty Careers in School Psychology</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals/leadership-and-advocacy-for-early-career-school-psychologists" target=""><span>Leadership and Advocacy for Early Career School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32220.xml" target=""><span>Embracing the Learning Curve: Supervision &amp; the Early Career School Psychologis</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32221.xml" target=""><span>Ready or Not: Supervision of Early Career School Psychologists</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/school-psychology-graduate-students" target=""><span>School Psychology Graduate Students</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/school-psychology-graduate-students/funding-for-graduate-students" target=""><span>Funding for Graduate Students</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32082.xml" target=""><span>NASP Student Leadership</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32056.xml" target=""><span>Find a Mentor</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32055.xml" target=""><span>Become a Mentor</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/school-psychology-graduate-students/graduate-student-fact-sheets" target=""><span>Graduate Student Fact Sheets</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/school-psychology-graduate-students/student-connections-articles" target=""><span>Student Connections Articles</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/graduate-educators" target=""><span>Graduate Educators</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/graduate-educators/technical-assistance-briefs" target=""><span>Technical Assistance Briefs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/graduate-educators/model-school-psychology-intern-supervisor-recognition" target=""><span>Model School Psychology Intern Supervisor Recognition</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/graduate-educators/abtract-reader" target=""><span>Abtract Reader</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/families-and-educators" target=""><span>Families &amp; Educators</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x33816.xml" target=""><span>Who Are School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/families-and-educators/information-for-principals-and-administrators" target=""><span>Information for Principals and Administrators</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x33868.xml" target=""><span>Position Statements</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x33869.xml" target=""><span>NASP Practice Model</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32331.xml" target=""><span>Podcast Directory</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32621.xml" target=""><span>School Psychology Awareness</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x33651.xml" target=""><span>Advertise With Us</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x34391.xml" target=""><span>Proposal Submission Guidelines</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development" target=""><span>Professional Development</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x17824.xml" target=""><span>Online Learning Center (OLC)</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention" target=""><span>NASP Annual Convention</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention/convention-program" target=""><span>Convention Program</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention/convention-faqs" target=""><span>Convention FAQs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention/convention-contacts" target=""><span>Convention Contacts</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention/future-conventions" target=""><span>Future Conventions</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention/past-conventions" target=""><span>Past Conventions</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences" target=""><span>NASP 2016 Summer Conferences</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/denver" target=""><span>Denver</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/bethesda" target=""><span>Bethesda</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/registration-details" target=""><span>Registration Details</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/prepua/ure-workshops" target=""><span>PREP<u>a</u>RE Workshops</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/exhibitor-information" target=""><span>Exhibitor Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/earning-cpd" target=""><span>Earning CPD</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences/volunteer-opportunities" target=""><span>Volunteer Opportunities</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/call-for-presentation-proposals" target=""><span>Call for Presentation Proposals</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/professional-development/call-for-presentation-proposals/present-at-the-nasp-convention" target=""><span>Present at the NASP Convention</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/call-for-presentation-proposals/submitting-a-successful-proposal" target=""><span>Submitting a Successful Proposal</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum" target=""><span>PREP<u>a</u>RE Training Curriculum</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/about-prepare" target=""><span>About PREPaRE</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/prepare-workshops" target=""><span>PREPaRE Workshops</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/need-for-crisis-training-in-schools" target=""><span>Need for Crisis Training in Schools</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/holding-a-prepare-workshop" target=""><span>Holding a PREPaRE Workshop</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32160.xml" target=""><span>Find a Local PREPaRE Trainer</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/training-outcomes-and-evaluations" target=""><span>Training Outcomes &amp; Evaluations</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/suggestions-for-funding-prepare-trainings" target=""><span>Suggestions for Funding PREPaRE Trainings</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/upcoming-prepare-workshops" target=""><span>Upcoming PREPaRE Workshops</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/prepare-frequently-asked-questions" target=""><span>PREPaRE Frequently Asked Questions</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/prepare-in-practice" target=""><span>PREPaRE in Practice</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32149.xml" target=""><span>Organizations That Have Held PREPaRE Workshops</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum/prepare-trainers" target=""><span>PREPaRE Trainers</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17837.xml" target=""><span>Public Policy Institute</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17795.xml" target=""><span>Career Center</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/speakers-bureau" target=""><span>Speakers Bureau</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-approved-provider-program" target=""><span>NASP-Approved Provider Program</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-approved-provider-program/nasp-approved-provider-directory" target=""><span>NASP-Approved Provider Directory</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-approved-provider-program/approved-provider-faq" target=""><span>Approved Provider FAQ</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-approved-provider-program/become-an-approved-provider-reviewer" target=""><span>Become an Approved Provider Reviewer</span></a>
+			</li>
+
+					</ul>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification" target=""><span>Standards &amp; Certification</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification" target=""><span>National Certification</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/apply-for-the-ncsp" target=""><span>Apply for the NCSP</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/ncsp-eligibility" target=""><span>NCSP Eligibility</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/ncsp-renewal" target=""><span>NCSP Renewal</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/ncsp-faqs" target=""><span>NCSP FAQs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/why-become-an-ncsp" target=""><span>Why Become an NCSP</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification/inactive-and-retired-ncsp" target=""><span>Inactive &amp; Retired NCSP</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/nasp-practice-model" target=""><span>NASP Practice Model</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/nasp-practice-model/nasp-practice-model-implementation-guide" target=""><span>NASP Practice Model Implementation Guide</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/nasp-practice-model/practice-model-webinar" target=""><span>Practice Model Webinar</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/nasp-practice-model/implementation-and-promotion-resources" target=""><span>Implementation &amp; Promotion Resources</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17843.xml" target=""><span>Self-Assessment Survey</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/graduate-program-approval" target=""><span>Graduate Program Approval</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/graduate-program-approval/nasp-approved-programs" target=""><span>NASP-Approved Programs</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32162.xml" target=""><span>School Psychology Program Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics" target=""><span>Professional Ethics</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics/informal-ethical-problem-solving-of-colleagues-misconduct" target=""><span>Informal Ethical Problem Solving of Colleague's Misconduct</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics/notification-of-nasp-ethical-disciplinary-action" target=""><span>Notification of NASP Ethical Disciplinary Action</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics/ethical-and-professional-practices-committee-members" target=""><span>Ethical and Professional Practices Committee Members</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics/resolving-complaints" target=""><span>Resolving Complaints</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/state-school-psychology-credentialing-requirements" target=""><span>State School Psychology Credentialing Requirements</span></a>
+					<ul>
+						
+					</ul>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy" target=""><span>Research &amp; Policy</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/professional-positions" target=""><span>Professional Positions</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/professional-positions/position-statements" target=""><span>Position Statements</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/professional-positions/white-papers" target=""><span>White Papers</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/professional-positions/resolutions" target=""><span>Resolutions</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/ready-to-learn-empowered-to-teach" target=""><span>Ready to Learn, Empowered to Teach</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center" target=""><span>NASP Research Center</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/research-committee" target=""><span>Research Committee</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/school-psychology-workforce" target=""><span>School Psychology Workforce</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/research-summaries" target=""><span>Research Summaries</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/nasp-studies" target=""><span>NASP Studies</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/reports-and-fact-sheets" target=""><span>Reports &amp; Fact Sheets</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/research-websites" target=""><span>Research Websites</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/research-citations" target=""><span>Research Citations</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center/grant-funding-opportunities" target=""><span>Grant Funding Opportunities</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/partnerships" target=""><span>Partnerships</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters" target=""><span>Policy Matters</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/i-am-a-rural-school-psychologist" target=""><span>I Am a Rural School Psychologist</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/using-social-media-to-advance-advocacy-efforts" target=""><span>Using Social Media to Advance Advocacy Efforts</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/school-psychology-graduate-students-in-missouri-are-outstanding-advocates" target=""><span>School Psychology Graduate Students in Missouri are Outstanding Advocates</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/nasp-opposes-anti-trans-legislation" target=""><span>NASP Opposes Anti Trans Legislation</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/the-importance-of-state-and-local-advocacy" target=""><span>The Importance of State and Local Advocacy</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/the-every-student-succeeds-act-and-school-psychologists" target=""><span>The Every Student Succeeds Act and School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/nasp-calls-for-end-of-ban-on-gun-research" target=""><span>NASP Calls for End of Ban on Gun Research</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/house-passes-the-every-student-succeeds-act" target=""><span>House Passes The Every Student Succeeds Act</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/nasp-urges-congress-to-pass-the-every-student-succeeds-act" target=""><span>NASP Urges Congress to Pass the Every Student Succeeds Act</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/esea-heads-to-vote" target=""><span>ESEA Heads to Vote</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/esea-conference-to-begin-today" target=""><span>ESEA Conference to Begin Today</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/committing-to-advocacy" target=""><span>Committing to Advocacy</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28458.xml" target=""><span>Mental Health ESEA Conference Letter</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28459.xml" target=""><span>Public Opinion, Research, and ESEA</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28460.xml" target=""><span>Successful 2015 GW/NASP Public Policy Institute</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28461.xml" target=""><span>ESEA Heads to Conference</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28462.xml" target=""><span>Senate Passes ESEA Reauthorization Legislation</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28463.xml" target=""><span>One Step Closer to ESEA Reauthorization</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28464.xml" target=""><span>ESEA Matters to Your Practice</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/the-presidents-fiscal-year-2015-budget-request" target=""><span>The President's Fiscal Year 2015 Budget Request</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/busy-start-to-2015" target=""><span>Busy Start to 2015</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/the-patient-protection-and-affordable-care-act-(aca)" target=""><span>The Patient Protection &amp; Affordable Care Act (ACA)</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/advocacy-in-schools-a-graduate-student-example" target=""><span>Advocacy in Schools: A Graduate Student Example</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/school-psychologists-as-change-agents-advocating-for-our-own-profession" target=""><span>School Psychologists as Change Agents: Advocating for Our Own Profession</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/specialized-instructional-support-personnel-week-2016" target=""><span>Specialized Instructional Support Personnel Week 2016</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters/anxious-about-advocating" target=""><span>Anxious About Advocating?</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities" target=""><span>Current Law &amp; Policy Priorities</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities/current-law" target=""><span>Current Law</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities/legislative-priorities" target=""><span>Legislative Priorities</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities/briefings" target=""><span>Briefings</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities/policy-priorities" target=""><span>Policy Priorities</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)" target=""><span>Public Policy Institute (PPI)</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/topics-and-learning-objectives" target=""><span>Topics and Learning Objectives</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/agenda-overview" target=""><span>Agenda Overview</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/registration-information" target=""><span>Registration Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/hotel-and-travel-information" target=""><span>Hotel and Travel Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/capitol-hill-day" target=""><span>Capitol Hill Day</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/scholarship-opportunities" target=""><span>Scholarship Opportunities</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)/previous-ppis" target=""><span>Previous PPIs</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources" target=""><span>Advocacy Tools &amp; Resources</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources/communications-strategies-and-resources" target=""><span>Communications Strategies &amp; Resources</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources/school-psychology-awareness-week-2015" target=""><span>School Psychology Awareness Week 2015</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources/advocacy-roadmaps" target=""><span>Advocacy Roadmaps</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources/general-advocacy-resources" target=""><span>General Advocacy Resources</span></a>
+			</li>
+
+					</ul>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community" target=""><span>Membership &amp; Community</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/join-nasp" target=""><span>Join NASP</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/rates-and-categories" target=""><span>Rates &amp; Categories</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/rates-and-categories/membership-installment-payment-plan" target=""><span>Membership Installment Payment Plan</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/member-benefits" target=""><span>Member Benefits</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/get-involved" target=""><span>Get Involved</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/get-involved/interest-groups" target=""><span>Interest Groups</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/professional-liability-insurance" target=""><span>Professional Liability Insurance</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants" target=""><span>Awards, Scholarships, &amp; Grants</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/government-and-professional-relations-awards" target=""><span>Government &amp; Professional Relations Awards</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/lifetime-achievement-award" target=""><span>Lifetime Achievement Award</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/paul-h-henkin-memorial-scholarship-award" target=""><span>Paul H. Henkin Memorial Scholarship Award</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/school-psychologist-of-the-year-award" target=""><span>School Psychologist of the Year Award</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/graduate-student-research-grants" target=""><span>Graduate Student Research Grants</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/minority-scholarship-program" target=""><span>Minority Scholarship Program</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants/school-grants-(external-sources)" target=""><span>School Grants (External Sources)</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/manage-your-account" target=""><span>Manage Your Account</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/manage-your-account/member-profile" target=""><span>Member Profile</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/manage-your-account/contact-information" target=""><span>Contact Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/manage-your-account/subscription-preferences" target=""><span>Subscription Preferences</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32353.xml" target=""><span>Payment History</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/find-a-state-association" target=""><span>Find a State Association</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/nasp-elections" target=""><span>NASP Elections</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/nasp-elections/election-faqs" target=""><span>Election FAQs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/nasp-elections/elections-nasp-website-user-policy-for-nasp-leaders" target=""><span>Elections - NASP Website User Policy for NASP Leaders</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/nasp-elections/elections-conflict-of-interest-policy" target=""><span>Elections - Conflict of Interest Policy</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/membership-faqs" target=""><span>Membership FAQs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32130.xml" target=""><span>Communities</span></a>
+			</li>
+
+					</ul>
+			</li>
+
+	</ul>
+
+
+			</nav>
+
 		</div>
-		<div id="footer">
-	<p>National Association of School Psychologists, 4340 East West Highway, Suite 402, Bethesda, MD  20814
-	<br>Phone: (301) 657-0270 <span>|</span> Toll Free: (866) 331-NASP <span>|</span> Fax: (301) 657-0275 </p>
-	<p><a href="/sitemap.aspx">Site Map</a> <span>|</span> <a href="/resources/rssfeeds.aspx">RSS Feeds</a> <span>|</span> <a href="/copyright.aspx">Copyright</a>  <span>|</span> <a href="/about_nasp/faqs_main.aspx">FAQs</a> <span>|</span> <a href="/about_nasp/meet_staff.aspx">Contact Us</a> <span>|</span> <a href="/about_nasp/privacy-policy.aspx">Privacy Policy</a></p>
-</div>
+	</header>
+
+
+
+<section class="page-content" role="main">
+	<div class="page-bounds">
+
+		<nav class="breadcrumbs">
+			<a href="/">Home</a>
+		</nav>
+ 
+		<h1 class="title-1">NASP Privacy Policy</h1>
+
+		<div class="pageBuilderLayout" id="igx-body"><div class="row igx-body-container" id="IGXPresentationRow_0cf1c0a10bf17602c6cdfa0587c2bc62"><div class="col-sm-4 column-secondary-top override-bootstrap column-secondary-top override-bootstrap pagePresentationLayoutColumn" gridwidth="4" id="IGXPresentationColumn_2e49dde65f3425dec9120b0ac9e0f592">
+
+<div class="content-box margin-large sidebar-nav-container ">
+    <h2 class="sidebar-nav-title content-box-title toggle" data-toggle-target="next">In This Section</h2>
+        <ul class="sidebar-nav">
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/vision-mission-core-values-and-priorities">Vision, Mission, Core Values, &amp; Priorities</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/nasp-leadership">NASP Leadership</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/nasp-education-and-research-trust">NASP Education and Research Trust</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/financial-information">Financial Information</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/ethical-and-legal-policies">Ethical &amp; Legal Policies</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/employment-at-nasp">Employment at NASP</a></li>
+                    <li><a href="https://www.nasponline.org/utility/about-nasp/contact-us">Contact Us</a></li>
+        </ul>
+</div></div><div class="col-sm-4 column-primary override-bootstrap column-primary override-bootstrap pagePresentationLayoutColumn" gridwidth="4" id="IGXPresentationColumn_9900dc0b41ab3586d359ecd868bb416f">
+<div class="margin-large formatted ">
+	<p>We respect your privacy. Any personal information you provide to us including and similar to your name, address, telephone number, and e-mail address will not be intentionally released, sold, or rented to any entities or individuals outside of our organization except as noted below. &nbsp;NASP reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our website. Any such changes will be effective immediately upon posting.</p>
+<h2>With Whom Do We Share the Personal Information We Collect Through This Site?</h2>
+<p><strong>Our Service Providers</strong><br> We may share your personal information with companies (including our affiliates) that perform services on our behalf, for example, companies that help process credit card payments. Our service providers are required by contract to protect the confidentiality of the personal information we share with them and to use it only to provide specific services on our behalf.</p>
+<p><strong>Select Business Partners</strong><br> In some instances, member names and mailing addresses may be shared for one-time use with select business partners whose products are believed to be of value to members.</p>
+<p><strong>Business Transfers</strong><br> Your personal information may be transferred to another entity (either an affiliated entity or an unrelated third party) in connection with a merger, reorganization, dissolution, or similar corporate event. If such a transfer were ever to occur, the acquiring entity’s use of your personal information will still be subject to this Privacy Policy.</p>
+<p><strong>Government and Legal Disclosures</strong><br> We may disclose the personal information we collect through this site, when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce our terms and conditions or other agreements that govern your use of this site; or to protect the rights, property, or safety of our company, our users, or others.</p>
+<p><strong>External Sites</strong><br> The NASP website contains links to other websites. Please note that when you click on one of these links, you are entering another website for which NASP has no responsibility. You are advised to read the privacy policy of external sites before disclosing any personal information. Additionally, you are not permitted to deep-link to any portion of this website unless such deep-linking is for a legitimate non-commercial, educational purpose. Additionally, you are not permitted to “frame”, “mirror” or otherwise incorporate any part of this website into any other website without our prior written authorization.</p>
+<p><strong>Cookies </strong><br> A “cookie” is a small data text file that is placed in your browser and allows us to recognize you each time you visit this site (personalization, etc). Cookies themselves do not contain any personal information, and we do not use cookies to collect personal information. Cookies may also be used by third party content providers, such as newsfeeds.</p>
+<p><strong>Remember the Risks Whenever You Use the Internet </strong><br> While we have taken steps to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies.</p>
+</div></div><div class="col-sm-4 column-secondary override-bootstrap column-secondary override-bootstrap pagePresentationLayoutColumn" gridwidth="4" id="IGXPresentationColumn_079bf6e2fe03b9a9b02483f9c8661528"></div></div></div>
+
+	</div>
+</section><!-- .page-content -->
+
+
+<footer class="page-footer" role="contentinfo">
+    <div class="page-bounds">
+
+        <div class="footer-contact">
+            <h1 class="footer-contact-title">National Association of School Psychologists</h1>
+            <p>4340 East West Highway, Suite 402, Bethesda, MD 20814</p>
+<p>P: <a href="tel:1-301-657-0270">301-657-0270</a> <span class="spacer">|</span> Toll Free: <a href="tel:1-866-331-6277">866-331-NASP</a> <span class="spacer">|</span> F: <a href="tel:1-301-657-0275">301-657-0275</a></p>
+        </div>
+
+        <div class="footer-social">
+            <a href="https://twitter.com/nasponline" class="icon-social-tw">Twitter</a>
+<a href="https://www.facebook.com/nasponline" class="icon-social-fb">Facebook</a>
+<a href="https://www.pinterest.com/nasponline/" class="icon-social-pin">Pinterest</a>
+<a href="https://instagram.com/nasponline/" class="icon-social-igm">Instagram</a>
+<a href="#" class="icon-social-rss">RSS</a>
+        </div>
+
+            <nav class="footer-utility">
+
+<a href="https://www.nasponline.org/utility/site-map" target="" class="">
+Site Map</a>
+<a href="https://www.nasponline.org/utility/privacy-policy" target="" class="">
+Privacy Policy</a>
+<a href="https://www.nasponline.org/utility/terms-of-use" target="" class="">
+Terms of Use</a>
+<a href="https://www.nasponline.org/resources-and-publications/publications/advertising-information" target="" class="">
+Advertising</a>
+<a href="https://www.nasponline.org/about-school-psychology/media-room" target="" class="">
+Media</a>
+<a href="https://www.nasponline.org/utility/about-nasp/contact-us" target="" class="">
+Contact Us</a>            </nav>
+
+        <nav class="footer-nav group">
+	<ul>
+					<li>
+				<a href="https://www.nasponline.org/about-school-psychology" target=""><span>About School Psychology</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/about-school-psychology/who-are-school-psychologists" target=""><span>Who Are School Psychologists</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/a-career-that-makes-a-difference" target=""><span>A Career That Makes a Difference</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/becoming-a-school-psychologist" target=""><span>Becoming a School Psychologist</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/workforce-and-salary-information" target=""><span>Workforce &amp; Salary Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/media-room" target=""><span>Media Room</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/about-school-psychology/promote-the-profession" target=""><span>Promote the Profession</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications" target=""><span>Resources &amp; Publications</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/resources-and-publications/books-and-products" target=""><span>Books &amp; Products</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/resources" target=""><span>Resources</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28229.xml" target=""><span>Communiqué</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28231.xml" target=""><span>School Psychology Forum</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x28230.xml" target=""><span>School Psychology Review</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/early-career-professionals" target=""><span>Early Career Professionals</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/school-psychology-graduate-students" target=""><span>School Psychology Graduate Students</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/graduate-educators" target=""><span>Graduate Educators</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/resources-and-publications/families-and-educators" target=""><span>Families &amp; Educators</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32331.xml" target=""><span>Podcast Directory</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32621.xml" target=""><span>School Psychology Awareness</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x33651.xml" target=""><span>Advertise With Us</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x34391.xml" target=""><span>Proposal Submission Guidelines</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development" target=""><span>Professional Development</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/x17824.xml" target=""><span>Online Learning Center (OLC)</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-annual-convention" target=""><span>NASP Annual Convention</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-2016-summer-conferences" target=""><span>NASP 2016 Summer Conferences</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/call-for-presentation-proposals" target=""><span>Call for Presentation Proposals</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/prepare-training-curriculum" target=""><span>PREP<u>a</u>RE Training Curriculum</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17837.xml" target=""><span>Public Policy Institute</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17795.xml" target=""><span>Career Center</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/speakers-bureau" target=""><span>Speakers Bureau</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/professional-development/nasp-approved-provider-program" target=""><span>NASP-Approved Provider Program</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification" target=""><span>Standards &amp; Certification</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/standards-and-certification/national-certification" target=""><span>National Certification</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/nasp-practice-model" target=""><span>NASP Practice Model</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x17843.xml" target=""><span>Self-Assessment Survey</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/graduate-program-approval" target=""><span>Graduate Program Approval</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32162.xml" target=""><span>School Psychology Program Information</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/professional-ethics" target=""><span>Professional Ethics</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/standards-and-certification/state-school-psychology-credentialing-requirements" target=""><span>State School Psychology Credentialing Requirements</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy" target=""><span>Research &amp; Policy</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/research-and-policy/professional-positions" target=""><span>Professional Positions</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/ready-to-learn-empowered-to-teach" target=""><span>Ready to Learn, Empowered to Teach</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/nasp-research-center" target=""><span>NASP Research Center</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/partnerships" target=""><span>Partnerships</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/policy-matters" target=""><span>Policy Matters</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/current-law-and-policy-priorities" target=""><span>Current Law &amp; Policy Priorities</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/public-policy-institute-(ppi)" target=""><span>Public Policy Institute (PPI)</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/research-and-policy/advocacy-tools-and-resources" target=""><span>Advocacy Tools &amp; Resources</span></a>
+			</li>
+
+					</ul>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community" target=""><span>Membership &amp; Community</span></a>
+					<ul>
+									<li>
+				<a href="https://www.nasponline.org/membership-and-community/join-nasp" target=""><span>Join NASP</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/rates-and-categories" target=""><span>Rates &amp; Categories</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/member-benefits" target=""><span>Member Benefits</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/get-involved" target=""><span>Get Involved</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/professional-liability-insurance" target=""><span>Professional Liability Insurance</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/awards-scholarships-and-grants" target=""><span>Awards, Scholarships, &amp; Grants</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/manage-your-account" target=""><span>Manage Your Account</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/find-a-state-association" target=""><span>Find a State Association</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/nasp-elections" target=""><span>NASP Elections</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/membership-and-community/membership-faqs" target=""><span>Membership FAQs</span></a>
+			</li>
+			<li>
+				<a href="https://www.nasponline.org/x32130.xml" target=""><span>Communities</span></a>
+			</li>
+
+					</ul>
+			</li>
+
+	</ul>
+
+
+        </nav>
+
+        <p class="footer-copyright">© 2015 National Association of School Psychologists</p>
+
+    </div>
+</footer>
+
+
+
+
+
+
+        <script type="text/javascript" src="https://www.nasponline.org/assets/Documents/Prebuilt/js/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="https://www.nasponline.org/assets/Documents/Prebuilt/js/jquery-ui-1.11.4.js"></script>
+        <script type="text/javascript" src="https://www.nasponline.org/assets/Documents/Prebuilt/js/polyfills.js"></script>
+        <script type="text/javascript" src="https://www.nasponline.org/assets/Documents/Prebuilt/js/scripts.js"></script>
+        <script type="text/javascript" src="https://apps.nasponline.org/js/jquery-extensions/jquery.bxslider.js"></script>
 
 	
-
 </body></html>
