@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924013901id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefunder.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422210638id_/https%3A//wefunder.com/privacy) for the most accurate reproduction.*
 
 # Invest in Startups You Love - Wefunder
 
