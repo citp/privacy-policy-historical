@@ -1,176 +1,144 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911153236id_/http%3A//www.casa.gov.au/standard-page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422202714id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
 
-# Privacy | Civil Aviation Safety Authority
+# Privacy statement | Civil Aviation Safety Authority
 
-Statement
+## We respect your privacy
 
-##  Respecting your privacy and the law  
+CASA is committed to respecting your right to privacy and protecting your personal information. We are bound by the _Privacy Act 1988_ , and our staff are trained to respect your privacy in accordance with our standards, policies and procedures.
 
+For more information you can [read our privacy policy](https://web.archive.org/standard-page/civil-aviation-safety-authority-casa-privacy-policy-0). The information in this policy changes from time to time.
 
-CASA is committed to respecting your right to privacy and protecting your personal information. CASA is bound by the _Privacy Act 1988_ (Commonwealth). Our staff are trained to respect your privacy in accordance with our standards, policies and procedures. 
+This following list explains what sort of information we collect when you go to our website and how we use it.
 
-For further information, please refer to [CASA’s Privacy Policy](https://web.archive.org/page/PC_101992).
-
-The following explains what information we gather from you when you go to our website, how we use that information and how you can contact us for more information. 
-
-  * The information we collect 
-  * Emailing us 
-  * Third party services 
-  * How we use your information 
-  * Login Accounts 
-  * What CASA does with your personal licensing information 
-  * Permission to contact you 
-  * Securing your information 
-  * Disclaimer 
-  * Contacts 
-  * Complaints about breaching Australian Privacy Principles 
+  * The information we collect
+  * Emailing us
+  * Third party services
+  * How we use your information
+  * Login accounts
+  * What CASA does with your personal licensing information
+  * Permission to contact you
+  * Securing your information
+  * Disclaimer
+  * Contacts
+  * Complaints about breaching your privacy
 
 
 
-By using this website you consent to the use of your information in accordance with this document. 
+By using our website, you consent to us using your information in accordance with this document.
 
-The information on CASA’s privacy policy is subject to change. Please return periodically to review. 
+## The information we collect
 
-##  The information we collect  
+Each time you visit CASA’s website, our web server collects the following information:
 
-
-Each time you visit CASA’s web site, our web server collects the following types of information: 
-
-  * your server address; 
-  * top level domain name (e.g.: .com, .gov, .au) 
-  * the type of browser and operating system you used; 
-  * date and time of your visit; 
-  * the previous site visited; 
-  * which pages are accessed; 
-  * the time spent on individual pages and the site overall; 
-  * which files were downloaded. 
+  * your server address
+  * top level domain name (e.g.: .com, .gov, .au)
+  * the type of browser and operating system you used
+  * date and time of your visit
+  * the previous site visited
+  * which pages are accessed
+  * the time spent on individual pages and the site overall, and
+  * which files were downloaded.
 
 
 
-This information is analysed to determine this web site's usage statistics. 
+We use this information to monitor our website's usage statistics.
 
-However, no attempt will be made to identify individual users or their browsing activities except, in the unlikely event of an irregularity that requires further official enquiries by our IT Security Advisor. A law enforcement agency may exercise their legal authority to inspect our service provider's log files. In some areas of the site we use technology called cookies when you visit our site. Cookies are small pieces of information which can be stored on your hard drive or in memory. They can record information about your visit to the site, allowing it to remember you next time you visit and provide a more meaningful experience. 
+We don’t identify individual users or their browsing activities except in the unlikely event of an irregularity that requires further official enquiries by our IT security advisor. A law enforcement agency may use their legal authority to inspect our service provider's log files. In some areas of the site we use technology called cookies when you visit our site. Cookies are small pieces of information which can be stored on your hard drive or in memory. They can record information about your visit to the site, allowing it to remember you next time you visit and provide a more meaningful experience.
 
-The cookies we send to your PC cannot read your hard drive, obtain any information from your browser or command your computer to perform any action. They cannot be sent to another site or be retrieved by any site other than CASA. 
+The cookies we send to your computer can’t read your hard drive, gather any information from your browser or command your computer to perform any action. They can’t be sent to another site or be retrieved by any site other than CASA.
 
-###  Emailing us  
+### Emailing us
 
+We will only record your email address if you send us a message. Your address will only be used for the purpose for which you provided, and not for any other purpose. It won’t be disclosed without your consent.
 
-CASA will only record your email address if you send us a message. The address will be used only for the purpose for which you provided it. We will not use your email address for any other purpose and will not disclose it without your consent. 
+All correspondence and comments supplied to CASA will be stored for a period of time as set down in [CASA's record authority](http://www.naa.gov.au/records-management/agency/keep-destroy-transfer/agency-ra/authority.aspx?a=2002/05214604&).
 
-All correspondence and comments supplied to CASA will be stored for a period of time as set down in [CASA's record authority](http://www.naa.gov.au/records-management/agency/keep-destroy-transfer/agency-ra/authority.aspx?a=2002/05214604&). 
+### Third party services
 
-###  Third party services  
+#### Google maps
 
+This service uses the Google Maps Application Programming Interface (API) to embed google maps. Google maps uses first-party cookies and JavaScript code to help analyse how users use the service. It anonymously tracks how our visitors interact with the service, including where they came from, what they did with the service and, in the case of mobile applications or services, your geographic location, using GPS signals sent by a mobile device.
 
-####  Google Maps  
+The information generated by the cookie about your use of the service, including your IP address, will be transmitted to and stored by google on servers in the United States.
 
+Google will use this information for reporting on activity and usage. You can refuse the use of cookies or GPS by selecting the appropriate settings on your browser or mobile device.
 
-This Service uses the Google Maps Application Programming Interface (API) to embed Google Maps. Google Maps uses first-party cookies and JavaScript code to help analyse how users use the service. It anonymously tracks how our visitors interact with the service, including where they came from, what they did with the service and, in the case of mobile applications or services, your geographic location (using GPS signals sent by a mobile device).
+#### Google analytics
 
-The information generated by the cookie about your use of the service (including your IP address) will be transmitted to and stored by Google on servers in the United States.
+In addition to web server logs, we also use Google analytics which is a web analytics service provided by Google. We use the information from Google analytics to help improve our website.
 
-Google will use this information for the purpose of compiling reports on activity and providing other services relating to activity and usage. You may refuse the use of cookies or GPS by selecting the appropriate settings on your browser or mobile device. 
+Google analytics uses cookies to help analyse how users use the site. The information generated by the cookie about your use of the service, including your IP address, will be transmitted to and stored by Google on servers in the United States.
 
-####  Google Analytics  
+Google use this information to evaluate how you use our website, including website activity and the services relating to website activity and internet usage. Google may transfer this information to third parties where required by law, or where third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google.
 
+See [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/) for more information.
 
-In addition to web server logs, CASA also uses Google Analytics, a web analytics service provided by Google, Inc. (‘Google’). Reports obtained from Google Analytics are used to help improve the CASA's website. 
+#### Online Store
 
-Google Analytics uses ‘cookies’ to help analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. 
+Our online store is managed by BRN Benchmark Pty Ltd and is hosted by Shopify Inc. See the [online store's privacy statement](http://shop.casa.gov.au/pages/privacy-statement) for more information.
 
-Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
+#### YouTube
 
-Please refer to [Google's Privacy policy](http://www.google.com/intl/en/policies/privacy/) for further information. 
+We use YouTube, owned by Google, for the embedded display of video material and captions. The information collected about your use of the YouTube video service will be transmitted to and stored by Google on servers in the United States. Google will use this information to report on video activity, for development and improvement purposes. You may refuse to provide this information by not viewing videos presented via YouTube’s service.
 
-####  Online Store  
+#### Social Strata
 
+We have a discussion forum owned by Social Strata Inc. called Infopop and hosted in the United States, to conduct electronic collaboration between CASA and the Australian aviation industry. Please read their [privacy policy](http://assets.socialstrata.com/docs/privacy_policy.php) for more information.
 
-CASA's online store is managed by BRN Benchmark Pty Ltd and is hosted by Shopify Inc. See the [online store's privacy statement](http://shop.casa.gov.au/pages/privacy-statement) for more information. 
-
-####  YouTube  
-
-
-This Service may use YouTube, owned by Google, for the embedded display of video material and captions within this Service. The information collected about your use of the YouTube video service embedded in this Service will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of compiling reports on video activity, made available to the Agency for development and improvement purposes. You may refuse to provide this information by not viewing videos presented via YouTube’s service.
-
-####  Social Strata  
-
-
-This Service uses a discussion forum owned by Social Strata Inc. called Infopop and hosted in the United States, for the purposes of conducting electronic collaboration between CASA and the Australian aviation industry. Please read their [privacy policy](http://assets.socialstrata.com/docs/privacy_policy.php) for more information. 
-
-##  How we use your information  
-
+## How we use your information
 
 The type of information we collect from you will depend on what online services you use. When you subscribe to a mailing list, we use your e-mail address to send information on the topics you nominated. We may also use your email address to send regular communications about aviation safety information.
 
-When responding to items displayed in our web site we may request (for example, in an order form), and you may provide personal information such as your name and address, email address and contact phone numbers. In the forms we will usually tell you how we use the personal information we collect, who we give access to that information and how you can access it, if we have retained it.
+When responding to items displayed in our website we may request (for example, in an order form), and you may provide personal information such as your name and address, email address and contact phone numbers. In the forms we will usually tell you how we use the personal information we collect, who we give access to that information and how you can access it, if we have retained it.
 
 We will only record your e-mail address if you send us a message or enter it into a form on our site. It will only be used for the purpose for which you have provided it and we will not disclose it without your consent.
 
-###  Login Accounts  
+### Login Accounts
+
+Some areas of our websites are restricted to users with login accounts. Additional information may be collected when creating accounts for these areas. Access to these areas will be associated with the user account used to login. Information on the user account stored in these areas is protected by the login name and password assigned by the user.
+
+### What CASA does with your personal licensing information?
+
+The way we use and disclose any information you provide for aircraft registration, aviation medical certification and licensing applications is limited by the Privacy Act.
+
+We use this information internally for the purposes of its functions under the _Civil Aviation Act 1988_ and the _Aviation Transport Security Act 2004_.
+
+We disclose name and address details to mailing houses and other contractors disseminating information on CASA’s behalf. We may use this information for research and analysis into matters affecting aviation safety.
+
+Where we collect information for personnel licensing and security identity document applications, we will use it for licensing, identity and security checking purposes. We may disclose this information as part of our accountability obligations to the Government and to Parliament. We may also disclose it to the following government agencies for the following purposes:
+
+  * Department of Infrastructure and Transport for aviation safety and security purposes, and for research, statistical analysis, economic modelling, and other policy development purposes
+  * Australian Transport Safety Bureau (ATSB) for investigating aviation accidents and incidents, and for research into matters affecting aviation safety
+  * Australian Security and Intelligence Organisation, Australian Federal Police, Attorney General's Department and the Department of Immigration and Border Control, for aviation security purposes
+  * Airservices Australia for air traffic management, and
+  * Australian Maritime Safety Authority for search and rescue purposes.
 
 
-Some areas of CASA's web sites are restricted to users with login accounts. Additional information may be collected when creating accounts for these areas. Access to these areas will be associated with the user account used to login. Information on the user account stored in these areas is protected by the login name and password assigned by the user.
 
-###  What CASA does with your personal licensing information?  
+We may also disclose this information to the national aviation authority of another country to check claims made in the application, or for enforcement purposes. That authority may also provide this information to the national aviation authority of another country if requested for genuine aviation safety or security purposes.
 
+We also disclose personal information in compliance with mandatory legal requirements, for example, in response to notices of production from the ATSB or by court order.
 
-Information you provide on aircraft registration, aviation medical certification and personnel licensing applications includes personal information the collection, use and disclosure of which is governed by the Commonwealth Privacy Act. 
+### Permission to contact you
 
-CASA uses this information internally for the purposes of its functions under the _Civil Aviation Act 1988_ (Commonwealth) and _Aviation Transport Security Act 2004_ (Commonwealth).
+If you do not want to receive further mailing list emails from us, you can do this by contacting the CASA webmaster or using the ‘unsubscribe’ link in any of our mailing list emails.
 
-CASA discloses name and address details to mailing houses and other contractors disseminating information on CASA’s behalf. CASA may use this information for the purposes of its own research and analysis into matters affecting aviation safety.
+Where you contact us by email or through our websites, we may respond by email. In some cases, we may include personal information we hold in our response. You should be aware that internet email has associated risks including potential for non-delivery, interception or modification.
 
-Information given to CASA for personnel licensing and security identity document applications will be used for licensing, identity and security checking purposes. CASA may also disclose this information as part of its accountability obligations to the Government and to Parliament. It may disclose this information to the following government agencies for the following purposes: 
+### Securing your information
 
-  * Department of Infrastructure and  Transport for aviation safety and security purposes, and for research, statistical analysis, economic modelling, and other policy development purposes; 
-  * Australian Transport Safety Bureau (ATSB), for the purposes of investigations into aviation accidents and incidents, and for research into matters affecting aviation safety; 
-  * Australian Security and Intelligence Organisation, Australian Federal Police, Attorney General's Department and the Department of Immigration and Citizenship, for aviation security purposes; 
-  * Airservices and Australian Maritime Safety Authority (ASMA), for air traffic management and search and rescue purposes. 
+To protect your information from misuse, we store it using multiple firewalls, secure passwords and sign in processes.
 
+## Making a complaint
 
+If you believe we have breached your privacy, you can make a written complaint to our privacy contact officer using the contact details below. We will respond within 30 days of receiving your complaint.
 
-CASA may disclose this information to the national aviation authority of another country in order to verify claims made in the application, or for enforcement purposes. It may also provide this information to the national aviation authority of another country on receipt of a request for bona fide aviation safety or security purposes.
+You can also contact the privacy contact officer if you have any questions about this privacy statement or any privacy concerns.
 
-CASA also discloses personal information in compliance with mandatory legal requirements, for example, in response to notices of production from the ATSB or by court order.
+## Contact details
 
-###  Permission to contact you  
-
-
-You can choose not to receive further mailing list emails from us by withdrawing your consent. To do this, contact the CASA webmaster. You may also use the ‘unsubscribe’ link included in each email we send from our mailing list. 
-
-Where you contact CASA via email or through our web sites, CASA may respond by email. Depending on the nature of the interaction, information held by CASA may be included in such communications. You should be aware that internet email has associated risks including potential for non-delivery, interception or modification. 
-
-###  Securing your information  
+  * You can call us on 131 757 within Australia, or +61262171111 outside Australia.
+  * You can send any queries or complaints about privacy to [privacy@casa.gov.au](mailto:privacy@casa.gov.au)
+  * Under the Privacy Act you can complain to the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/) (OAIC) about how we have handled your personal information. However, before complaining to the OAIC, you will generally need to complain to us first and allow us 30 days to respond.
 
 
-Stored information about you is protected from unauthorised access through the use of multiple firewalls, secure passwords and sign in processes. 
-
-###  Disclaimer  
-
-
-The information contained on this Web site is for information purposes only. Whilst CASA has taken reasonable steps to ensure the accuracy of this information, CASA makes no warranty or representation that it is accurate.
-
-The linked sites included in this website are not under the control of CASA and CASA is not responsible for the content of any linked site or any link contained in a linked site, or changes or updates to such sites. Links to other web sites are inserted for convenience and do not constitute endorsement of material at those sites, or any associated organisation, product or service. You must not create or maintain any link from another website to this website without our written consent.
-
-CASA is not responsible to you or anyone else for any loss suffered in connection with the use of this website or any of the content. This includes, but is not limited to, the transmission of any computer virus. We recommend that prior to using any downloaded files you carry out an appropriate virus check.
-
-Where any law implies a warranty into these terms of use which may not be lawfully excluded, then to the maximum extent permitted by law, our liability for breach of the warranty will, at our option, be limited to the supply of the Services again, or the payment of the cost of having them supplied again.
-
-###  Complaints  
-
-
-If you believe that we have breached the Australian Privacy Principles you may put your complaint in writing to our Privacy Contact Officer (details below) and we will respond within 30 days of your written request being received.
-
-Or, if you have any questions about this privacy statement or any privacy concerns, you should direct them to the Privacy Contact Officer. 
-
-####  Contact details  
-
-
-CASA can be contacted by telephone on 131 757 within Australia, or +61262171111 from outside Australia. 
-
-Queries or complaints concerning privacy may be directed to Jennifer Smith-Roberts by phone on 02 6217 1445, or by email at [privacy@casa.gov.au](mailto:privacy@casa.gov.au)
-
-Under the  _[Privacy Act 1988](https://www.comlaw.gov.au/Series/C2004A03712)_ you may make a complaint to the Office of the Australian Information Commissioner (OAIC) about our handling of your personal information.
-
-Further information about the complaints process can be found on the [Office of the Australian Information Commissioner's](http://www.oaic.gov.au/) website. 
