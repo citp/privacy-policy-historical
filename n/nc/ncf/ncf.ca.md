@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncf.ca privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914204125id_/https%3A//www.ncf.ca/ncf/support/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncf.ca privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422112415id_/http%3A//www.ncf.ca/ncf/support/privacy.jsp) for the most accurate reproduction.*
 
 # NCF Privacy Policy
 
@@ -88,9 +88,9 @@ The Supreme Court ruled in [R v Spencer](http://scc-csc.lexum.com/scc-csc/scc-cs
 
 Top
 
-What does the proposed Bill C-13 mean to my privacy at NCF?
+What does Bill C-13 mean to my privacy at NCF?
 
-[Bill C-13](http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&Bill=C13&Parl=41&Ses=2) would negate the Supreme Court decision by providing agencies with broad powers to request information without a search warrant or court order. This would include the user information associated with an IP address. Further information on Bill C-13 and its erosion of your privacy can be found at [https://cippic.ca](https://cippic.ca/) and [https://openmedia.ca](https://openmedia.ca/). 
+[Bill C-13](http://www.parl.gc.ca/LegisInfo/BillDetails.aspx?Language=E&Mode=1&Bill=C13&Parl=41&Ses=2) negates the Supreme Court decision by providing agencies with broad powers to request information without a search warrant or court order. This would include the user information associated with an IP address. Further information on Bill C-13 and its erosion of your privacy can be found at [https://cippic.ca](https://cippic.ca/) and [https://openmedia.ca](https://openmedia.ca/). 
 
 Top
 
