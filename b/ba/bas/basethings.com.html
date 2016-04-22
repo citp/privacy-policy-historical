@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the basethings.com privacy policy that was archived on 2015-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151224043653id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the basethings.com privacy policy that was archived on 2016-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160422210916id_/http%3A//www.basethings.com/p2/Privacy-Policy/pages.html%3FosCsid%3Db45fbdb7a98c9837acb9bc6f76e02a2b) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="LTR" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head profile="http://www.w3.org/2005/10/profile">
 			<meta name="alexaVerifyID" content="XsORCmW34pmkuSVl7CxGBdm8p60">
@@ -7,7 +7,7 @@
 			<!--<meta property="og:title" content="Basethings" />-->
 			<link rel="icon" type="[MIME TYPE]" href="templates/basething_red/images/fav_icon.png">
 			
-			<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.4.min.js"></script>
+			<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery-1.4.min.js"></script>
 			
 			<script type="text/javascript">
 			  var _gaq = _gaq || [];
@@ -48,6 +48,9 @@
 			<link rel="stylesheet" type="text/css" href="templates/basething_red/styles/styles.css">
             
 			<script src="templates/basething_red/js/jquery.min.js"></script>
+
+		<script src="templates/basething_red/js/ajax_search.js"></script>
+
 			<script type="text/javascript" src="templates/basething_red/js/jquery.mediaqueries.js"></script>
 
 			<!-- Internet Explorer HTML5 enabling code start here: -->
@@ -78,14 +81,10 @@
 			document.createElement('aside');
 			document.createElement('footer');
 			document.createElement('hgroup');
-			
-			
-			
-			
+		
 			</script>
 			<!--ie8 elements code end here-->
-
-	            
+        
             <link href="templates/basething_red/styles/flexslider.css" media="all" type="text/css" rel="stylesheet">
             <link href="templates/basething_red/styles/bxslider.css" media="all" type="text/css" rel="stylesheet">
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -105,7 +104,15 @@
    $(".se-pre-con").fadeOut();
    $(".main_pages_block").fadeIn();
 })
-		
+
+		this.randomtip = function(){
+	var length = $("#tips li").length; // this is where we put the id of the list
+	var ran = Math.floor(Math.random()*length) + 1;
+	$("#tips li:nth-child(" + ran + ")").show();
+};
+$(document).ready(function(){	
+	randomtip();
+});
 		    </script>
 			<!--toggle button code end here-->
 
@@ -115,34 +122,20 @@
 			<script type="text/javascript" src="templates/basething_red/js/balloontip.js"></script>
 			<!--tooltip end here-->
 
-			<!--Search box script start here-->
-			<script type="text/ecmascript">
-			function suggest(inputString){
-					if(inputString.length == 0) {
-						$('#suggestions').fadeOut();
-					} else {
-					$('#keywords').addClass('load');
-						$.post("get_product_list.php", {queryString: ""+inputString+""}, function(data){
-							if(data.length >0) {
-								$('#suggestions').fadeIn();
-								$('#suggestionsList').html(data);
-								$('#keywords').removeClass('load');
-							}
-						});
-					}
-				} 
 			
-				function fill(thisValue) {
-					$('#keywords').val(thisValue);
-					setTimeout("$('#suggestions').fadeOut();", 600);
-				}
-			</script>
-			<!--Search box script end here-->
 			<!--Custamisation end here-->
 			<style type="text/css">
 			<!--
 			.content_wrapper {	 background: url(/templates/basething_red/images/bg1.jpg) no-repeat top center #fff;	}
 			-->
+			pre{display:block;font:12px "Courier New", Courier, monospace;padding:10px;border:1px solid #bae2f0;background:#e3f4f9;	margin:.5em 0;width:600px;}		
+			#tips, #tips li{margin:0;padding:0;list-style:none;}
+			#tips{font-size:16px;line-height:120%;}
+			#tips li{padding:20px;background:#cb2936;display:none;color:#fff; }
+			#tips li p {padding:10px 0 0;font-size:14px;}
+			#search_suggest {position: absolute;background:#333;text-align:left;top:28px;z-index:999999;overflow: auto; height: 400px;}	
+			.suggest_link {padding: 6px 10px;border-bottom: 1px solid #222;line-height: 20px;color:#fff;border-top: 1px solid #555;}
+			.suggest_link_over {padding:6px 10px;line-height: 20px;border-bottom: 1px solid #222;border-top: 1px solid #555;background:#000;color:#fff;}	
 			</style>
             <!--left bar scripts -->
             <!--<link href="templates/basething_red/styles/jquery.sidr.dark.css" type="text/css" media="screen" rel="stylesheet" />
@@ -186,8 +179,10 @@
 	
 </script>
 
-			<script src="templates/basething_red/js/snowstorm.js"></script>
-            <!--Javascript loading end here-->
+			<!--<script src="templates/basething_red/js/snowstorm.js"></script> //Javascript loading end here-->
+            
+            		
+            
 		
         
 		
@@ -199,11 +194,104 @@
 <!-- RCI [EOM] -mainpage-top : includes/runtime/mainpage/login_mainpage_top.php -->
 <!-- RCI [BOM] -mainpage-top : includes/runtime/mainpage/sss_mainpage_top.php -->
 <!-- RCI [EOM] -mainpage-top : includes/runtime/mainpage/sss_mainpage_top.php -->
+        
         <div class="se-pre-con">
-            
+        <div class="loading_bg"><img src="templates/basething_red/images/basethings_load.jpg" width="100%" alt="Loading"></div>
+        <h2><img src="templates/basething_red/images/loading_New.gif" alt="Loading" width="80%"></h2>
+        <div class="random_block">
+        
+	<ul id="tips">  
+    	<li><h3>Reasons to shop at BaseThings.</h3><p>We pay if we delay.</p></li>
+	<li><h3>Reasons to shop at BaseThings.</h3><p>Quality we guarantee it.</p> </li>
+	<li><h3>Reasons to shop at BaseThings.</h3><p>Fast and reliable delivery.</p></li>
+	<li><h3>Reasons to shop at BaseThings.</h3><p>We're here for you 24/7 support.</p></li>
+	<li><h3>Reasons to shop at BaseThings.</h3><p>Quick checkout.</p></li>
+	
+	</ul>
+	</div>
+	<!--<div class="loading_bg"><img src="templates/basething_red/images/page1.jpg" width="100%" alt="Loading" /></div>-->
         </div>
         <div class="main_pages_block">
+        <div class="subscribe subscribe_new">
+            
         
+<style>
+.loading_bg {padding:0;}
+.random_block {position:absolute;bottom:30px;width:100%;}
+    #mlb2-1528705,#mlb2-1528705 *,#mlb2-1528705 a:hover,#mlb2-1528705 a:visited,#mlb2-1528705 a:active {overflow: visible;position: static;background: none;border: none;bottom: auto;clear: none;cursor: default;float: none;font-size: medium;letter-spacing: normal;line-height: normal;text-align: left;text-indent: 0;text-transform: none;visibility: visible;white-space: normal;max-height: none;max-width: none;left: auto;min-height: 0;min-width: 0;right: auto;top: auto;width: auto;z-index: auto;text-shadow: none;box-shadow: none;}  
+    .se-pre-con > h2 {right: 0px;position: absolute;bottom: 35px;z-index:9999;}
+    #mlb2-1528705 .subscribe-form {padding: 7px;width: 93% !important;}  
+    #mlb2-1528705 .subscribe-form .form-section h4 {margin: 15px 0px;padding: 0px!important;color: #ff0!important;font-family: Arial!important;font-size: 16px!important;line-height: 100%;}    
+    #mlb2-1528705 .subscribe-form .form-section p {line-height: 150%;padding: 0px!important;margin: 0px 0px 0px 0px;color: #fff !important;font-family: Arial!important;font-size: 13px!important;font-weight: bold;}
+    #mlb2-1528705 .subscribe-form .form-section .form-group label {float: left;margin-bottom: 10px;width: 100%;line-height: 100%;font-weight: bold;color: #000000!important;font-family: Arial!important;font-size: 13px!important;}   
+    #mlb2-1528705 .subscribe-form .form-section .checkbox {width: 100%;margin: 0px 0px 10px 0px;}    
+    #mlb2-1528705 .subscribe-form .form-section .checkbox label {color: #000000!important;font-family: Arial!important;font-size: 13px!important;}    
+    #mlb2-1528705 .subscribe-form .form-section .checkbox input {margin: 0px 5px 0px 0px;}   
+    #mlb2-1528705.ml-subscribe-form .form-group .form-control {font-weight: bold;font-size: 13px;padding: 2px 10px;height: auto;margin:10px 0 0 0;font-family: Arial;border: 2px solid #fff !important;color: #000 !important;background: #ddd;clear: left;}   
+    #mlb2-1528705.ml-subscribe-form button {border: none !important;cursor: pointer !important;width: 100% !important;border-radius: 5px !important;height: 27px !important;margin:10px 0 0 0;font-weight: bold;background-color: #cb2936 !important;color: #FFFFFF!important;font-family: Arial!important;
+font-size: 13px!important;text-align: center !important;}    
+    #mlb2-1528705.ml-subscribe-form button.gradient-on {background: #cb2936;}   
+    #mlb2-1528705.ml-subscribe-form button.gradient-on:hover {background: #b81623;}  
+    #mlb2-1528705.ml-subscribe-form .form-section.ml-error label {
+        color: red!important;
+    }   
+    #mlb2-1528705.ml-subscribe-form .form-group.ml-error label {
+        color: red!important;
+    }    
+    #mlb2-1528705.ml-subscribe-form .form-group.ml-error .form-control {
+        border-color: red!important;
+    }
+    .form-section a img {width:100%;}
+</style>
+<div id="mlb2-1528705" class="ml-subscribe-form">
+    <div class="ml-vertical-align-center">
+        <div class="subscribe-form ml-block-success" style="display:none">
+            <div class="form-section">
+                <br><br><br><br><br><br><br><br><br><br><br>
+                <p>Thank you! You have successfully subscribed to our Shoot It Program.</p>
+            </div>
+        </div>
+        <form class="ml-block-form" action="//app.mailerlite.com/webforms/submit/q6n9k9" data-code="q6n9k9" method="POST" target="_blank">
+            <div class="subscribe-form">
+                <div class="form-section">
+                    <!--<h4>Promotional Offer</h4>
+                    <a gref=""><img src="templates/basething_red/images/pramotion_img1.jpg" alt="pramotion" /></a>-->
+                </div>
+                <br><br><br><br><br><br><br><br><br><br><br>
+                <div class="form-section">
+                    <div class="form-group ml-field-email ml-validate-required ml-validate-email">
+                        <input type="email" name="fields[email]" class="form-control" placeholder="Email*" value="">
+                    </div>
+                    <div class="form-group ml-field-email1 ml-validate-required">
+                        <input type="text" name="fields[email1]" class="form-control" placeholder="Mobile*" value="">
+                    </div>
+                </div>
+                <input type="hidden" name="ml-submit" value="1">
+                <button type="submit" class="primary gradient-on">
+                    Sign Up &amp; Win 
+                </button>
+                <button disabled="disabled" style="display: none;" type="submit" class="loading gradient-on">
+                    <img src="//static.mailerlite.com/images/rolling.gif" width="20" height="20">
+                </button>
+            </div>
+        </form>
+        <script>
+            function ml_webform_success_1528705() {
+                jQuery('#mlb2-1528705').find('.ml-block-success').show();
+                jQuery('#mlb2-1528705').find('.ml-block-form').hide();
+            };
+        </script>
+    </div>
+</div>
+<script type="text/javascript" src="//static.mailerlite.com/js/w/webforms.js?v21"></script>
+          <!-- <label><strong>Subscribe</strong> Now &amp; Get Daily <strong>Deal Offers</strong>.</label>  
+           <input id="ml_signup_email" name="email" type="text" value="Email:" onclick="if(this.value=='Email:'){this.value=''}" onblur="if(this.value==''){this.value='Email:'}" />   
+           <input id="ml_signup_name" name="name" type="text" value="First Name:" onclick="if(this.value=='First Name:'){this.value=''}" onblur="if(this.value==''){this.value='First Name:'}" />
+           <input name="ml_groups[]" value="139431" type="hidden" />
+           <button id="ml_subscribe">Subscribe</button>-->
+
+     <!--Signup form end here-->
+    </div>
         
     <div id="header_wrapper"> <!--header starts here -->          
       <!-- header //-->              
@@ -225,18 +313,33 @@
 	window.onload = WindowWidth;
 </script>-->
 <style type="text/css">
-
+.se-pre-con{display:none;}
+.nav ul .drop-down {top:35px;border:1px solid #ccc;border-top:none;}
+.nav ul li {padding:5px 0;}
+.nav ul li a {padding: 5px 13px 5px 7px;}
+.p_img{ height:auto; text-align:center;}
+.p_img img {height:auto;text-align:center;height: auto; width: 100%;}
+.third-img img {margin-right:0;height: 28px;}
+.main_pages_block .subscribe_new{position: fixed;padding:0px;width: 173px;right:0;background:url(templates/basething_red/images/pramotion_img5.jpg) no-repeat 0 0; bottom:150px;border:none;z-index:9999;min-height:300px;}
+.main_pages_block .subscribe_new input {float:none;background:#fff;width:96%;margin:0 0 10px 0;}
+.basepisa_logo_icon {font-size:0;padding: 22px 0 22px 70px;width: 100px;background:url(templates/basething_red/images/basepaisa.png) no-repeat 0 0;display: block;}
+.rupee_rupee h4 {font-size: 18px;font-weight: normal;}.rupee_rupee h4 span {color:#3c98d8;}
+.desk-banner {float:right;width:30%;}
+.banner_middle {float:left;width:69%;}
+.banner_left, .banner_right{ width:100%;}
+.h_right_div{ float:right; padding:10px 0 0 0;width: 28%;}
 #header_wrapper {padding:0;}
+.logo {margin: 19px 0 -163px -143px;padding: 18px 7px 0 15px;background:none;} 
 .shopping_design table tr td.main span.smallText {float:left;text-transform: capitalize;}
 .shopping_design table tr td.main span.smallText_1 {float:right;text-transform: capitalize;font-weight: bold;font-size: 12px;}
 .shopping_design table tr td.main a {display: block;width: 52px;margin: 10px 0 0;} 
 .pageHeading, DIV.pageHeading, td.pageHeading, td.productlisting-headingPrice, .productlisting-headingPrice { border-bottom: 1px solid #cb2936;padding: 5px;}
-/*.bx-wrapper .bx-viewport {
-	height:190px !important;
-}*/
+.h_login {padding:0;}
 #header_wrapper a.app_but {display:block;background:#3c98d8;line-height:30px;text-align:center;margin: 0 0 5px;padding:5px;color:#fff;border-bottom:1px solid #ddd;}
 #header_wrapper a.app_but p {display:inline; position: relative;}
 #header_wrapper a.app_but p span.icon {background:url(templates/basething_red/images/base_icon.gif) no-repeat right center; position: absolute;  width: 30px;height: 33px;top:-10px;right:-40px;}
+.flexslider { margin: 0;height: 264px;}
+.bx-wrapper .bx-viewport {min-height:200px;}
 .bx-wrapper .bx-viewport .slider1 .slide {width:222px !important;}
 .infoBoxContents td table tr td.main a.contnu1 {width:180px;float:left;margin: 0 19% 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;float:right;}
@@ -245,25 +348,54 @@
 .card_box3 p {padding:5px 0;  margin: 5px;display: inline-block;width: 96%;}
 .card_box3 p input.submitButton {background:#cb2936;color:#fff;height:30px;border:1px solid #900;display:block;margin: 10px 0 0 0;float: right;}
 .payment_box table.step-block tr td {padding:0;}
-@media screen and (max-width: 1024px) {
-.se-pre-con{
-   display:block;
-   position:absolute;
-   left:0;
-   top:0;width:100%;height:100%;
-   background:url(templates/basething_red/images/loading_icon4.gif) no-repeat center center #eff1f1;
+.h_login li.my_points_1 {width:100%;background:none;padding:5px 0 0;}
+.h_login li.my_points_1 a {display: block;line-height: 28px;font-size: 15px;}
+.h_login li.my_points_1 a span {font-size:16px;color:#cb2936; margin: 0 0 0 -3px;}
+.h_login li.my_points_1 a:hover {color:#cb2936;}
+.h_login li.my_points_2 a span {color:#cb2936;padding:0 5px;}
+.h_login li.my_points_2 a:hover {color:#666;text-decoration: none;}
+.product_block_list {display:none;}
+.prod-desc-cont {width: 100% !important;}
+.share_block .fb_iframe_widget,.share_block span,.share_block a,.share_block .twitter-tweet-button {float:left;margin:0 5px 0 0;}
+.share_block span,.share_block a {vertical-align:inherit;display:inline;}
+.share_block > div#___plusone_0 {vertical-align:inherit !important;}
+.recent_blog ul li .post_recent a img {width:76%;}
+.recent_blog ul li p {text-align: left;}
+@media screen and (max-width: 1600px) {
+#mlb2-1528705.ml-subscribe-form .form-group .form-control {width: 87%;}
 }
-.main_pages_block {display:none;}
+@media screen and (max-width: 1024px) {
+.main_pages_block .subscribe_new {display:none;}
+.logo {margin: 0px 0 -120px -31px;}
+.h_left {padding: 0 30px 0 0;}
+.se-pre-con{display:block;position:absolute;left:0;top:0;width:100%;height:100%;background:url(templates/basething_red/images/load_bg.gif) repeat 0 0;}
+.main_pages_block,#header_wrapper a.app_but {display:none;}
+.product_block_list {background:#fff;display:block;display:block;}
+.add_new_products ul li {background:#fff;text-align: center;}
+.add_new_products ul li a span{display: block;font-size:17px;padding: 0 0 10px;}
+.product_block_list .main_product {margin:15px 0 0 0;}
+.product_main ul li .p_inner > h2 {position: absolute;width: 100%;top:0;right:0;}
+.product_main ul li .p_inner a {display: block;font-size: 0px;height: 166px;text-align: center;}
+.product_main1 ul li .p_inner a {font-size: 12px !important;height: auto !important;}
+.bx-wrapper .bx-prev {left: -30px;}
+.bx-wrapper .bx-next {right: -30px;}
 }
 @media screen and (max-width: 1000px) {
+.desk-banner {display: block;}
 .breadcumb {padding:0;}.payment ul.iso_block,.footer_mobile {padding: 15px 0 0 0;}
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 17% 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;}
 .payment ul.iso_block li h2 {line-height: 60px;}.payment ul.iso_block li {padding: 0;}
+.logo {margin:0;padding: 0;}
+.flexslider { margin: 0;height: auto;}
+.h_right_div {width:20%;}
+.search-here #form {width:100%;}
 }
 @media screen and (max-width: 950px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 15% 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;}
+.logo {width:26%;}
+.logo a img {width:100%;}
 }
 @media screen and (max-width: 900px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 13% 0 0;}
@@ -272,16 +404,24 @@
 @media screen and (max-width: 850px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 10% 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;}
+.h_right_div {width:30%;}
+.h_left {display: none;}
 }
 @media screen and (max-width: 790px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 7% 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;}
 }
 @media screen and (max-width: 800px) {
-.call {line-height: 22px;}
+.banner_container .desk-banner {display: block;}
+.logo {width:30%;margin: 0 !important; padding: 0 !important;}
 .call span{padding: 5px;background:#333;color: #fff !important;}
+.ipad-ban-right {display: none;}
+.call {float: right;margin: 5px 10px;}
+.h_mycart {padding: 0 10px 0 30px;}
+.product_main ul li .p_inner a {height: 123px;line-height: normal;}
 }
 @media screen and (max-width: 768px) {
+.logo {margin: 0px 0 0 0px;}
 #background,#large,#brands,.footer_mobile .subscribe {display:none !important;}
 }
 @media screen and (max-width: 735px) {
@@ -291,7 +431,6 @@
 @media screen and (max-width: 710px) {
 .payment ul.iso_block li:first-child {float:none;margin:0;}
 }
-
 @media screen and (max-width: 690px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 10px 0 0;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;}
@@ -299,33 +438,67 @@
 @media screen and (max-width: 655px) {
 .infoBoxContents td table tr td.main a.contnu1 {margin: 0 0 10px 0;width: 96%;}
 .infoBoxContents td table tr td.main a.btn2 {margin:0;float:left;}
+.banner_container .desk-banner,.banner_block  {display: none;}
+.banner_middle {width:100%;}
+.header_right .search-here {width: 80%;}
+.nav {width: 60px;}
+.menu-but, .banner_middle .search-here {width: 100%;}
+.payment li {margin:0;}
+.product_main ul li .p_inner a {height: 190px;}
+}
+@media screen and (max-width: 550px) {
+.h_right_div {width: 45%;}
 }
 @media screen and (max-width: 480px) {
 #header_wrapper a.app_but {line-height:20px;}
 #header_wrapper a.app_but p {display:block;}
 #header_wrapper a.app_but p span.icon {right: 0px;top: -17px;}
-.mobile_login {padding: 5px 0 10px;}
-.h_login {padding: 10px 0 10px 10px;}
+.logo {width: 50%;}.product_main ul li .p_inner a {height: 145px;}
+.mobile_login {padding: 5px 0 10px;width: 49%;}
+.h_login {padding: 10px 0 0 10px;}
 .h_mycart { padding: 0 6px 0 30px;}
-
+.product-left {display:none;}
+.product-right {width:100%;}
+.product-right .inner_pro {padding:0;}
 }
 @media screen and (max-width: 460px) {
-.productListing td.productListing-data:first-child {
-    padding: 0;
-    width: 50px !important;
+.productListing td.productListing-data:first-child {padding: 0;width: 50px !important;}
+.logo {width:50%;margin: 0; padding: 0 !important;}
+.mobile_login {width: 46%;}
+.banner_middle {width: 100%;}
+.banner_ad img {width: 100%;}
 }
+@media screen and (max-width: 414px) {
+.bx-wrapper .bx-controls-direction a {width:8px;}
+.bx-wrapper .bx-prev {left: -12px;}
+.bx-wrapper .bx-next {right: -12px;}
+}
+@media screen and (max-width: 400px) {
+.logo {margin: 0 0 -105px 0 !important;}
+}
+@media screen and (max-width: 385px) {
+
 }
 @media screen and (max-width: 370px) {
-.payment ul.iso_block li h2 {  font-size: 16px;}
+.payment ul.iso_block li h2 {font-size: 16px;}
 .payment ul.iso_block li {margin: 0 10px 0 0;}
 .footer_mobile .subscribe {display:none !important;}
+.product_main ul li .p_inner .p_img {height:180px;}
+.product_main ul li .p_inner h2 a {font-size:0;}
+.product_main ul li .p_inner a {height: 120px;}
+}
+@media screen and (max-width: 360px) {
+.mobile_login {width: 50%;}
+.p_inner { height: 100px;}
+.logo {padding: 0 !important;width: 46%;margin: 0 0 -70px !important;}
 }
 @media(max-width:350px){
     .header_right {float:left;}
-     .banner_ad img {height:100%;}
-    }
-    @media(max-width:320px){
+    .banner_ad img {height:100%;}
+}
+@media(max-width:320px){
      .banner_ad img {height:155px;}
+     .product_main ul li .p_inner .p_img {height:110px;}
     }
 </style>
 
@@ -336,17 +509,17 @@
 <a class="app_but" href="https://play.google.com/store/apps/details?id=com.ogma.basethings&amp;hl=en" target="_blank">Try Our awesome new App <p>Get the app <span><strong>Downloads in less than a minute</strong></span><span class="icon"></span></p></a>
   <div class="container">
   
-      <div class="logo"><a href="http://www.basethings.com/"><img src="templates/basething_red/images/logo_New3.png" alt="Base things"></a>  </div>
+      <div class="logo"><a href="http://www.basethings.com/"><img src="templates/basething_red/images/basethings_new_logo1.png" alt="Base things"></a>  </div>
       <div class="h_right_div mobile_login">
             <div class="h_login">
               <ul>
                 <!--<li><a href="#">Request A Product</a></li>-->
-                                <li class="first"><a href="http://www.basethings.com/login.php">Login</a></li>
-                                <li><a href="http://www.basethings.com/create_account.php">Register</a></li>
+                                <li class="first"><a href="http://www.basethings.com/login.php?osCsid=b8704b59881b0a500eda83db0cab4440">Login</a></li>
+                                <li><a href="http://www.basethings.com/create_account.php?osCsid=b8704b59881b0a500eda83db0cab4440">Register</a></li>
               </ul>
             </div>
             <div class="call"> Call Us: <span>+91 8099808800</span> </div>
-            <div class="h_mycart"> My Cart: <span>( <a href="http://www.basethings.com/shopping_cart.php">0</a> ) Items</span> </div>
+            <div class="h_mycart"> My Cart: <span>( <a href="http://www.basethings.com/shopping_cart.php?osCsid=b8704b59881b0a500eda83db0cab4440">0</a> ) Items</span> </div>
        </div>
       <div class="header_right">
             <div>
@@ -354,16 +527,18 @@
                 <div class="h_login">
                 <ul>
                     <!--<li><a href="#">Request A Product</a></li>-->
-                                        <li class="first"><a href="http://www.basethings.com/login.php">Login</a></li>
-                                        <li><a href="http://www.basethings.com/create_account.php">Register</a></li>
-                </ul>
+                                        <li class="first"><a href="http://www.basethings.com/login.php?osCsid=b8704b59881b0a500eda83db0cab4440">Login</a></li>                    
+                    <li><a href="http://www.basethings.com/create_account.php?osCsid=b8704b59881b0a500eda83db0cab4440">Register</a></li>
+                    <li class="my_points_1"><a href="http://www.basethings.com/login.php"><img src="templates/basething_red/images/basepaisa.png" width="30" alt="BasePaisa"> Cash Wallet <span> <img src="templates/basething_red/images/question_icon2.gif" alt="Question"> </span></a> </li>                
+                                    </ul>
                 </div>
                 
-                <div class="h_mycart"> My Cart: <span>( <a href="http://www.basethings.com/shopping_cart.php">0</a> ) Items</span> </div>
+                <div class="h_mycart"> My Cart: <span>( <a href="http://www.basethings.com/shopping_cart.php?osCsid=b8704b59881b0a500eda83db0cab4440">0</a> ) Items </span> </div>
+                       
                 </div>
                 <div class="h_left">
                     
-                                            <a href="http://www.basethings.com/p4006/Spy-Pen-Invisible-Ink-Spy-Pen-Basethings/product_info.html"><img src="images/assds.jpg" border="0" alt="Top Banner"></a>
+                                            <a href="http://www.basethings.com/5Rs-to-27Rs-Products/c191/index.html"><img src="images/bachaho.jpg" border="0" alt="Top Banner"></a>
                     
                 </div>
             </div>
@@ -375,94 +550,58 @@
                                              <div class="drop-down clearfix">
                                              <div class="clearfix">
                           <ul>
-                                                        <li><a href="index.php?cPath=88">Home and Garden</a></li>
-                                                        <li><a href="index.php?cPath=125">Apple Mobiles</a></li>
-                                                        <li><a href="index.php?cPath=110">Branded Products</a></li>
-                                                        <li><a href="index.php?cPath=85">Mobile Phones</a></li>
+                                                        <li><a href="index.php?cPath=190">Camera Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=189">Car Gadgets</a></li>
                                                         <li><a href="index.php?cPath=53">Mobile Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=16">Fashion Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=15">USB Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=150">Everything @99</a></li>
+                                                        <li><a href="index.php?cPath=85">Mobile Phones</a></li>
+                                                        <li><a href="index.php?cPath=125">Apple Mobiles</a></li>
+                                                        <li><a href="index.php?cPath=42">Pen Drives &amp; Memory cards</a></li>
+                                                        <li><a href="index.php?cPath=134">Tablets</a></li>
                                                         <li><a href="index.php?cPath=151">Injured Mobiles</a></li>
-                                                        <li><a href="index.php?cPath=152">Nokia Body Panel</a></li>
+                                                        <li><a href="index.php?cPath=15">USB Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=24">HDMI Gadgets</a></li>
                                                       </ul>
                           </div> 
                           <div class="clearfix">
                           <ul>
-                                                        <li><a href="index.php?cPath=144">External Hard Disks</a></li>
-                                                        <li><a href="index.php?cPath=133">Tv Video Player</a></li>
-                                                        <li><a href="index.php?cPath=80">Spy Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=26">Hard Drives</a></li>
+                                                        <li><a href="index.php?cPath=180">Laptop's</a></li>
                                                         <li><a href="index.php?cPath=18">Computer Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=56">Electronic Gadgets</a></li>
                                                         <li><a href="index.php?cPath=76">Laptop Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=78">Watches</a></li>
-                                                        <li><a href="index.php?cPath=135">Blend and shake</a></li>
-                                                        <li><a href="index.php?cPath=148">Home Appliances</a></li>
-                                                        <li><a href="index.php?cPath=134">New Product's</a></li>
-                                                      </ul>
-                          </div> 
-                          <div class="clearfix">
-                          <ul>
-                                                        <li><a href="index.php?cPath=132">Walkie Talkies</a></li>
-                                                        <li><a href="index.php?cPath=19">Audio Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=23">Bar Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=22">Car Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=17">Funny Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=91">Kitchen Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=37">Party Gadgets</a></li>
                                                         <li><a href="index.php?cPath=20">Video Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=98">Wall clocks</a></li>
-                                                        <li><a href="index.php?cPath=63">Health and Fitness</a></li>
+                                                        <li><a href="index.php?cPath=19">Audio Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=55">Industrial Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=80">Spy Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=37">Party Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=56">Electronic Gadgets</a></li>
                                                       </ul>
                           </div> 
                           <div class="clearfix">
                           <ul>
+                                                        <li><a href="index.php?cPath=17">Funny Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=25">Network Gadgets</a></li>
                                                       </ul>
                           </div>
                                                     <div class="clearfix"> <img src="images/electronic-gadgets-image.png" alt=""> </div>
                                                      </div>
                                                     
                                              </li>
-                                           <li><a href="index.php?cPath=11">Cables</a>
+                                           <li><a href="index.php?cPath=11">Home &amp; Kitchen</a>
                                              <div class="drop-down clearfix">
                                              <div class="clearfix">
                           <ul>
-                                                        <li><a href="index.php?cPath=24">Data Cables</a></li>
-                                                        <li><a href="index.php?cPath=25">Network Cables</a></li>
-                                                        <li><a href="index.php?cPath=26">Computer Cables</a></li>
-                                                        <li><a href="index.php?cPath=27">Audio &amp; Video Cables</a></li>
-                                                      </ul>
-                          </div>
-                                                    <div class="clearfix"> <img src="images/data-cables.jpg" alt=""> </div>
-                                                     </div>
-                                                    
-                                             </li>
-                                           <li><a href="index.php?cPath=12">Personal Needs</a>
-                                             <div class="drop-down clearfix">
-                                             <div class="clearfix">
-                          <ul>
-                                                        <li><a href="index.php?cPath=42">Pen Drives</a></li>
-                                                        <li><a href="index.php?cPath=164">Customer Free Gifts</a></li>
-                                                        <li><a href="index.php?cPath=161">Sports Equipments</a></li>
-                                                        <li><a href="index.php?cPath=159">bedsheets</a></li>
-                                                        <li><a href="index.php?cPath=145">Screen Guard's</a></li>
+                                                        <li><a href="index.php?cPath=188">Shoes</a></li>
+                                                        <li><a href="index.php?cPath=148">Home Appliances</a></li>
                                                         <li><a href="index.php?cPath=123">Home Decor</a></li>
-                                                        <li><a href="index.php?cPath=96">Combo</a></li>
-                                                        <li><a href="index.php?cPath=95">Portable HDD</a></li>
-                                                        <li><a href="index.php?cPath=94">Docks &amp; Mounts</a></li>
-                                                        <li><a href="index.php?cPath=93">Power Bank</a></li>
-                                                      </ul>
-                          </div> 
-                          <div class="clearfix">
-                          <ul>
-                                                        <li><a href="index.php?cPath=44">Connectors</a></li>
-                                                        <li><a href="index.php?cPath=43">Memory Cards</a></li>
-                                                        <li><a href="index.php?cPath=167">Earrings</a></li>
-                                                        <li><a href="index.php?cPath=55">Industrial Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=52">Useful Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=159">Furnishing</a></li>
+                                                        <li><a href="index.php?cPath=88">Home and Garden</a></li>
+                                                        <li><a href="index.php?cPath=91">Kitchen Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=110">Television's</a></li>
+                                                        <li><a href="index.php?cPath=98">Wall clocks</a></li>
+                                                        <li><a href="index.php?cPath=181">Hardware</a></li>
                                                       </ul>
                           </div>
-                                                    <div class="clearfix"> <img src="images/pen-drives.jpg" alt=""> </div>
+                                                    <div class="clearfix"> <img src="images/images (15).jpg" alt=""> </div>
                                                      </div>
                                                     
                                              </li>
@@ -470,99 +609,103 @@
                                              <div class="drop-down clearfix">
                                              <div class="clearfix">
                           <ul>
+                                                        <li><a href="index.php?cPath=147">Frangrances</a></li>
+                                                        <li><a href="index.php?cPath=41">Health Care</a></li>
+                                                        <li><a href="index.php?cPath=113">Trimmer's</a></li>
+                                                        <li><a href="index.php?cPath=116">Hair Dryers</a></li>
+                                                        <li><a href="index.php?cPath=114">Hair Straighteners</a></li>
                                                         <li><a href="index.php?cPath=39">Personal Care</a></li>
-                                                        <li><a href="index.php?cPath=122">Makeup</a></li>
-                                                        <li><a href="index.php?cPath=109">Remington</a></li>
-                                                        <li><a href="index.php?cPath=116">Philips</a></li>
-                                                        <li><a href="index.php?cPath=115">Panasonic</a></li>
-                                                        <li><a href="index.php?cPath=114">Babyliss</a></li>
-                                                        <li><a href="index.php?cPath=113">Braun</a></li>
-                                                        <li><a href="index.php?cPath=41">Health Gadgets</a></li>
-                                                        <li><a href="index.php?cPath=40">Grooming</a></li>
-                                                        <li><a href="index.php?cPath=147">Kemei</a></li>
+                                                        <li><a href="index.php?cPath=63">Health and Fitness</a></li>
+                                                        <li><a href="index.php?cPath=179">Sunglasses</a></li>
+                                                        <li><a href="index.php?cPath=78">Watches</a></li>
+                                                        <li><a href="index.php?cPath=182">Facials</a></li>
                                                       </ul>
                           </div> 
                           <div class="clearfix">
                           <ul>
+                                                        <li><a href="index.php?cPath=173">FemNmas Anklets</a></li>
+                                                        <li><a href="index.php?cPath=172">FemNmas Bags</a></li>
+                                                        <li><a href="index.php?cPath=174">FemNmas Rings</a></li>
+                                                        <li><a href="index.php?cPath=167">FemNmas</a></li>
+                                                        <li><a href="index.php?cPath=184">Jewellery</a></li>
                                                       </ul>
                           </div>
                                                     <div class="clearfix"> <img src="images/personal-care-category.jpg" alt=""> </div>
                                                      </div>
                                                     
                                              </li>
-                                           <li><a href="index.php?cPath=28">Gifts</a>
+                                           <li><a href="index.php?cPath=28">Kids' Toys &amp; Games</a>
                                              <div class="drop-down clearfix">
                                              <div class="clearfix">
                           <ul>
-                                                        <li><a href="index.php?cPath=155">Silver Rakhis</a></li>
-                                                        <li><a href="index.php?cPath=156">Gold Rakhis</a></li>
-                                                        <li><a href="index.php?cPath=143">Christmas Decorations</a></li>
-                                                        <li><a href="index.php?cPath=142">Offers zone</a></li>
-                                                        <li><a href="index.php?cPath=129">Rakhi Gifts</a></li>
-                                                        <li><a href="index.php?cPath=131">Eid-Gifts</a></li>
+                                                        <li><a href="index.php?cPath=187">Sports Accessories</a></li>
+                                                        <li><a href="index.php?cPath=34">Toys</a></li>
                                                         <li><a href="index.php?cPath=120">Baby prams &amp; Stroller</a></li>
                                                         <li><a href="index.php?cPath=119">Toddlers</a></li>
-                                                        <li><a href="index.php?cPath=99">Fathers Day</a></li>
-                                                        <li><a href="index.php?cPath=149">Mother's Day Gifts</a></li>
-                                                      </ul>
-                          </div> 
-                          <div class="clearfix">
-                          <ul>
-                                                        <li><a href="index.php?cPath=90">Valentines Day Gifts</a></li>
                                                         <li><a href="index.php?cPath=29">Kids</a></li>
-                                                        <li><a href="index.php?cPath=32">Specials</a></li>
-                                                        <li><a href="index.php?cPath=34">Toys</a></li>
-                                                        <li><a href="index.php?cPath=33">Cool Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=149">Gift Articles</a></li>
+                                                        <li><a href="index.php?cPath=146">PC Games</a></li>
+                                                        <li><a href="index.php?cPath=99">Fathers Day</a></li>
+                                                        <li><a href="index.php?cPath=132">Walkie Talkies</a></li>
                                                       </ul>
                           </div>
                                                     <div class="clearfix"> <img src="images/kids-cat.jpg" alt=""> </div>
                                                      </div>
                                                     
                                              </li>
-                                           <li><a href="index.php?cPath=46">Books &amp; Stationary</a>
+                                           <li><a href="index.php?cPath=12">Automative</a>
+                                             <div class="drop-down clearfix">
+                                             <div class="clearfix">
+                          <ul>
+                                                        <li><a href="index.php?cPath=170">Car Decorators</a></li>
+                                                        <li><a href="index.php?cPath=94">Docks &amp; Mounts</a></li>
+                                                        <li><a href="index.php?cPath=145">Spare Parts</a></li>
+                                                        <li><a href="index.php?cPath=52">Useful Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=22">Car Gadgets</a></li>
+                                                      </ul>
+                          </div>
+                                                    <div class="clearfix"> <img src="images/car-gadgets-image.png" alt=""> </div>
+                                                     </div>
+                                                    
+                                             </li>
+                                           <li><a href="index.php?cPath=46">Books &amp; Special's</a>
                        
                        <div class="drop-down drop-down-rtl clearfix">
                                               <div class="clearfix">
                           <ul>
-                                                        <li><a href="index.php?cPath=163">Garden Books</a></li>
-                                                        <li><a href="index.php?cPath=158">Office &amp; Stationery Supplies</a></li>
-                                                        <li><a href="index.php?cPath=157">Luxury Pens</a></li>
-                                                        <li><a href="index.php?cPath=146">PC Games</a></li>
-                                                        <li><a href="index.php?cPath=117">Romance</a></li>
-                                                        <li><a href="index.php?cPath=118">Love</a></li>
+                                                        <li><a href="index.php?cPath=186">Academy Books</a></li>
+                                                        <li><a href="index.php?cPath=171">Printers</a></li>
                                                         <li><a href="index.php?cPath=92">Accessories</a></li>
-                                                        <li><a href="index.php?cPath=86">Food and Wine</a></li>
-                                                        <li><a href="index.php?cPath=81">Indian Books</a></li>
                                                         <li><a href="index.php?cPath=87">Entertainment</a></li>
+                                                        <li><a href="index.php?cPath=86">Food and Wine</a></li>
+                                                        <li><a href="index.php?cPath=163">Garden Books</a></li>
+                                                        <li><a href="index.php?cPath=81">Indian Books</a></li>
+                                                        <li><a href="index.php?cPath=118">Love</a></li>
+                                                        <li><a href="index.php?cPath=157">Luxury Pens</a></li>
+                                                        <li><a href="index.php?cPath=158">Office &amp; Stationery Supplies</a></li>
                                                       </ul>
                           </div> 
                           <div class="clearfix">
                           <ul>
                                                         <li><a href="index.php?cPath=82">Photography</a></li>
+                                                        <li><a href="index.php?cPath=117">Romance</a></li>
                                                         <li><a href="index.php?cPath=89">Travel Books</a></li>
                                                         <li><a href="index.php?cPath=57">Business Management</a></li>
                                                         <li><a href="index.php?cPath=67">Biographies and Autobiographies</a></li>
+                                                        <li><a href="index.php?cPath=143">Christmas Decorations</a></li>
                                                         <li><a href="index.php?cPath=62">History</a></li>
+                                                        <li><a href="index.php?cPath=156">Gold Rakhis</a></li>
                                                         <li><a href="index.php?cPath=61">Literature</a></li>
+                                                        <li><a href="index.php?cPath=129">Rakhi Gifts</a></li>
+                                                      </ul>
+                          </div> 
+                          <div class="clearfix">
+                          <ul>
+                                                        <li><a href="index.php?cPath=155">Silver Rakhis</a></li>
+                                                        <li><a href="index.php?cPath=90">Valentines Day Gifts</a></li>
                                                       </ul>
                           </div>
                                                     <div class="clearfix"> <img src="images/Business Management.jpg" alt=""> </div>
-                           
-                           </div>
-                                                     
-                                             </li>
-                                           <li><a href="index.php?cPath=13">Funny &amp; Crazy</a>
-                       
-                       <div class="drop-down drop-down-rtl clearfix">
-                                              <div class="clearfix">
-                          <ul>
-                                                        <li><a href="index.php?cPath=35">Masks</a></li>
-                                                        <li><a href="index.php?cPath=36">Crazy Tools</a></li>
-                                                        <li><a href="index.php?cPath=51">Puzzles</a></li>
-                                                        <li><a href="index.php?cPath=121">FIFA 2014</a></li>
-                                                      </ul>
-                          </div>
-                                                    <div class="clearfix"> <img src="images/Masks.jpg" alt=""> </div>
                            
                            </div>
                                                      
@@ -575,13 +718,41 @@
                                                         <li><a href="index.php?cPath=73">Personal</a></li>
                                                         <li><a href="index.php?cPath=74">Business</a></li>
                                                         <li><a href="index.php?cPath=75">Accessories</a></li>
-                                                        <li><a href="index.php?cPath=138">Shoulder Bags :</a></li>
+                                                        <li><a href="index.php?cPath=138">Shoulder Bags</a></li>
                                                         <li><a href="index.php?cPath=139">Wallets and Purces</a></li>
                                                         <li><a href="index.php?cPath=140">Backpacks</a></li>
                                                         <li><a href="index.php?cPath=141">Luggage Bags</a></li>
                                                       </ul>
                           </div>
                                                     <div class="clearfix"> <img src="images/travel-personal.jpg" alt=""> </div>
+                           
+                           </div>
+                                                     
+                                             </li>
+                                           <li><a href="index.php?cPath=13">Offer Zone</a>
+                       
+                       <div class="drop-down drop-down-rtl clearfix">
+                                              <div class="clearfix">
+                          <ul>
+                                                        <li><a href="index.php?cPath=191">5Rs to 27Rs Products</a></li>
+                                                        <li><a href="index.php?cPath=185">FREE SAMPLE</a></li>
+                                                        <li><a href="index.php?cPath=36">Crazy Tools</a></li>
+                                                        <li><a href="index.php?cPath=121">FIFA 2014</a></li>
+                                                        <li><a href="index.php?cPath=51">Puzzles</a></li>
+                                                        <li><a href="index.php?cPath=164">Customer Free Gifts</a></li>
+                                                        <li><a href="index.php?cPath=96">Combo</a></li>
+                                                        <li><a href="index.php?cPath=142">Offers zone</a></li>
+                                                        <li><a href="index.php?cPath=33">Cool Gadgets</a></li>
+                                                        <li><a href="index.php?cPath=175">Friday Fry</a></li>
+                                                      </ul>
+                          </div> 
+                          <div class="clearfix">
+                          <ul>
+                                                        <li><a href="index.php?cPath=183">Red Hot Deals</a></li>
+                                                        <li><a href="index.php?cPath=150">Everything @99</a></li>
+                                                      </ul>
+                          </div>
+                                                    <div class="clearfix"> <img src="images/" alt=""> </div>
                            
                            </div>
                                                      
@@ -597,7 +768,7 @@
                       <div id="suggestionsList" class="suggestionList"></div>
                     </div>
                   </form>
-                </div> 
+                </div>
        </div>
   </div>
   <!--header end here --> 
@@ -622,15 +793,13 @@
               <div class="banner_container">
                 <div class="breadcumb">
                     <ul>
-                        <li><a href="http://www.basethings.com" class="headerNavigation">Home</a> <a href="http://www.basethings.com/p2/Privacy-Policy/pages.html" class="headerNavigation">Privacy Policy</a></li> 
+                        <li><a href="http://www.basethings.com" class="headerNavigation">Home</a> <a href="http://www.basethings.com/p2/Privacy-Policy/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440" class="headerNavigation">Privacy Policy</a></li> 
                     </ul>                
                     <div class="search-hr">           
                     <form id="form" action="advanced_search_result.php">
-                        <input type="text" id="keywords" name="keywords" onkeyup="suggest(this.value);" size="25" value="Product Search Here..." onfocus="if (this.value==this.defaultValue) this.value = ''" onblur="if(this.value=='') this.value=this.defaultValue">
+                        <input type="text" id="keywords" name="keywords" size="25" onkeyup="searchSuggest();" autocomplete="off">
                         <input type="submit" name="search" id="search" value="" class="btn">
-                        <div id="suggestions" class="suggestionsBox" style="display: none;"> <img style="position: relative; top: -12px; left: 30px;" src="templates/basething_red/images/arrow.png" alt="upArrow">
-                          <div id="suggestionsList" class="suggestionList"></div>
-                        </div>
+                        <br><div id="search_suggest"></div>
                      </form>
                     </div>                
                  </div>
@@ -653,19 +822,45 @@
               <!-- RCI [BOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
 <!-- RCI [EOM] -global-top : includes/runtime/global/CDS_header_banner_global_top.php -->
 <!-- cds_pages.tpl.php -->
-<div class="shopping_design clearfix">
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
 
-  <tbody><tr>
-      </tr>
-      <tr>
-      <td valign="top">
-        <table border="0" width="100%" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td valign="top" class="cds_category_description"><!-- pages.php $display_string // -->
-<table style="display:block;" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr style="display:block;">
-    <td valign="top"><div class="cds_pages_body"><h1>Privacy Policy</h1>
+<!--========Header=======-->
+<!-- GOOGLE +1 BUTTON -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!--GOOGLE +1 BUTTON END-->
+<!-- Facebook Like -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Facebook Like end -->
+
+<div id="wrapper">
+<div class="container">
+<div class="main_blog_block">
+<div class="blog_left">
+<div class="blog_list">
+<ul>
+ <li>
+<h2 class="headline"><a href="#">Privacy Policy</a></h2>
+<span> by System on 5 Aug 08 </span>
+<div class="post_content">
+<a href="#"><img width="100%" alt="Blog" class="Privacy Policy" src="images/header_account.gif"></a>
+<div class="share_block" style="margin-top:10px;">
+<fb:like send="false" layout="button_count" show_faces="false"></fb:like><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>&nbsp;&nbsp;
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><a title="Privacy Policy - " href="http://pinterest.com/pin/create/button/?url=http://www.basethings.com/pages.php?pID=&amp;osCsid=b8704b59881b0a500eda83db0cab4440&amp;&amp;media=http://www.flourconfections.com/images/header_account.gif"></a>&nbsp;&nbsp;<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><g:plusone size="medium" annotation="bubble" width="24" href="http://www.flourconfections.com/pages.php?pID=2"></g:plusone> 
+</div>
+
+  <br><h1>Privacy Policy</h1>
 <p><strong>Overview</strong></p>
 <p>Your privacy is very important to us. We do not publish, sell or rent  your personal information to third parties for their marketing purposes  without your explicit consent. Please read this privacy policy to learn  more about the ways in which we use and protect your personal  information.</p>
 <p>The privacy practices of this statement apply to our services available under the domain and subdomains of www.BaseThings.com  (the "Site") and apply generally to our parent, affiliates,  subsidiaries or joint venture websites whose specific privacy policies  are available from our Privacy Central pages. By visiting this website  you agree to be bound by the terms and conditions of this Privacy  Policy. If you do not agree please do not use or access our Site.</p>
@@ -734,38 +929,160 @@
 <p>Name and address of the entity collecting and retaining Your Information</p>
 <p>Name and address of the entity collecting and retaining Your Information shall be the contracting entity stated in the Basethings.com User Agreement</p>
 <h2>Grievance Officer:</h2>
-<p>In accordance with Information Technology Act 2000 and rules made  there under, the name and contact details of the Grievance Officer are  published on the Website.</p></div></td>
-  </tr>
-</tbody></table>
-<!-- pages.php $display_string //eof -->
-</td>          </tr>
-          <tr>
-            <!-- ACF start -->
-            <td class="cds_category_description">
-            
-                            
-            </td>
-            <!-- ACF eof -->
-          </tr>
-        </tbody></table>
-      </td>
-    </tr>
-      
-</tbody></table>
-</div>
-<!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
+<p>In accordance with Information Technology Act 2000 and rules made  there under, the name and contact details of the Grievance Officer are  published on the Website.</p><!-- pages.php $display_string //eof -->
+
+							
+                        </div></li>
+                    </ul>
+					<!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
 <!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_CDpathSession_global_bottom.php -->
 <!-- RCI [BOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
 <!-- RCI [EOM] -global-bottom : includes/runtime/global/CDS_navigation_global_bottom.php -->
+                </div>
+            </div>
+            
+            <div class="blog_right">
+                <div class="blog_list recent_blog">
+                	<h2>Recent Posts</h2>
+                    <ul>
+                    				<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p49/How-to-Use-your-Spy-Pen-Camera/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/ps1.jpg" border="0" alt="How to Use your Spy Pen Camera" title=" How to Use your Spy Pen Camera " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p49/How-to-Use-your-Spy-Pen-Camera/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">How to Use your Spy Pen Camera</a><br></h4>
+                <p>Pen camera is perfect if you need to make short recordings of what/who is in fro....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p51/FREE-SAMPLE-!-FREE-DELIVERY-!-T-20-FEVER/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p51/FREE-SAMPLE-!-FREE-DELIVERY-!-T-20-FEVER/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">FREE SAMPLE ! FREE DELIVERY ! T-20 FEVER</a><br></h4>
+                <p></p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p418/PLASTIC-CAN-REPAIR-ITSELF/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p418/PLASTIC-CAN-REPAIR-ITSELF/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">PLASTIC CAN REPAIR ITSELF</a><br></h4>
+                <p></p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p461/Bluetooth-Headset-or-Tiny-Golden-Phone%3F/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p461/Bluetooth-Headset-or-Tiny-Golden-Phone%3F/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Bluetooth Headset or Tiny Golden Phone?</a><br></h4>
+                <p></p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p52/T-20-World-Cup-Free-Sample-ke-saat,-100%25-Free/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p52/T-20-World-Cup-Free-Sample-ke-saat,-100%25-Free/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">T-20 World Cup Free Sample ke saat, 100% Free</a><br></h4>
+                <p></p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p53/HTC-One-(M8)-HTC-One-(M8)-Full-phone-specifications/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/3252014100451PM_635_htc_one_m8.jpg" border="0" alt="HTC One (M8) HTC One (M8) - Full phone specifications" title=" HTC One (M8) HTC One (M8) - Full phone specifications " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p53/HTC-One-(M8)-HTC-One-(M8)-Full-phone-specifications/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">HTC One (M8) HTC One (M8) - Full phone specifications</a><br></h4>
+                <p>HTC One m8 specifications</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p54/Xiaomi-Mi3-Launched-in-India,Releasing-on-July-15th:Amazing-Specs/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/XiaoMi-Mi3-launched.jpg" border="0" alt="Xiaomi Mi3 Launched in India,Releasing on July 15th:Amazing Specs" title=" Xiaomi Mi3 Launched in India,Releasing on July 15th:Amazing Specs " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p54/Xiaomi-Mi3-Launched-in-India,Releasing-on-July-15th:Amazing-Specs/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Xiaomi Mi3 Launched in India,Releasing on July 15th:Amazing Specs</a><br></h4>
+                <p>Xiaomi Mi3 Launched in India,Releasing on July 15th:Amazing Specs</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p55/Top-10-Android-Wear-Apps/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/android_wear-app.png" border="0" alt="Top 10 Android Wear Apps" title=" Top 10 Android Wear Apps " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p55/Top-10-Android-Wear-Apps/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Top 10 Android Wear Apps</a><br></h4>
+                <p>Top 10 Android Wear Apps</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p59/Samsung-Galaxy-S5-launched-in-India/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/galaxy-s5-launch.jpg" border="0" alt="Samsung Galaxy S5 launched in India" title=" Samsung Galaxy S5 launched in India " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p59/Samsung-Galaxy-S5-launched-in-India/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Samsung Galaxy S5 launched in India</a><br></h4>
+                <p>Samsung Galaxy S5 launched in India</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p60/Samsung-Galaxy-S5-to-launch-in-India-with-Exynos-octa-core-processor/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/samsung-galaxy-s52.jpg" border="0" alt="Samsung Galaxy S5 to launch in India with Exynos octa-core processor" title=" Samsung Galaxy S5 to launch in India with Exynos octa-core processor " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p60/Samsung-Galaxy-S5-to-launch-in-India-with-Exynos-octa-core-processor/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Samsung Galaxy S5 to launch in India with Exynos octa-core processor</a><br></h4>
+                <p>The Samsung Galaxy S5 will come with an Exynos octa-core processor in India inst....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p61/Samsung-has-launched-the-Galaxy-S5-4G-variant-in-India,/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/samsung-galaxy-s5-4g-launched-in-india.jpg" border="0" alt="Samsung has launched the Galaxy S5 4G variant in India," title=" Samsung has launched the Galaxy S5 4G variant in India, " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p61/Samsung-has-launched-the-Galaxy-S5-4G-variant-in-India,/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Samsung has launched the Galaxy S5 4G variant in India,</a><br></h4>
+                <p>Samsung has today launched the 4G variant of the flagship device. The Galaxy S5 ....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p62/Xiaomi-Mi-4-Announced:-Improved-Specs-and-Metallic-Design-for-$320/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/mi-4.jpg" border="0" alt="Xiaomi Mi 4 Announced: Improved Specs and Metallic Design for $320" title=" Xiaomi Mi 4 Announced: Improved Specs and Metallic Design for $320 " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p62/Xiaomi-Mi-4-Announced:-Improved-Specs-and-Metallic-Design-for-$320/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Xiaomi Mi 4 Announced: Improved Specs and Metallic Design for $320</a><br></h4>
+                <p>Xiaomi Mi 4 Announced: Improved Specs and Metallic Design</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p64/Nokia-Lumia-530-Specs,-Price-and-Release-Date/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/lumia-525_thumb.jpg" border="0" alt="Nokia Lumia 530- Specs, Price and Release Date" title=" Nokia Lumia 530- Specs, Price and Release Date " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p64/Nokia-Lumia-530-Specs,-Price-and-Release-Date/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Nokia Lumia 530- Specs, Price and Release Date</a><br></h4>
+                <p>Nokia Lumia 520 is the most popular Windows Phone 8 device released ever and to ....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p65/Samsung-Reveals-Budget-Android-4.4-KitKat-Devices:-Galaxy-Ace-4,-Galaxy-Young-2-and-Galaxy-Core-2/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/Galaxy-Young-2-798x350.png" border="0" alt="Samsung Reveals Budget Android 4.4 KitKat Devices: Galaxy Ace 4, Galaxy Young 2 and Galaxy Core 2" title=" Samsung Reveals Budget Android 4.4 KitKat Devices: Galaxy Ace 4, Galaxy Young 2 and Galaxy Core 2 " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p65/Samsung-Reveals-Budget-Android-4.4-KitKat-Devices:-Galaxy-Ace-4,-Galaxy-Young-2-and-Galaxy-Core-2/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Samsung Reveals Budget Android 4.4 KitKat Devices: Galaxy Ace 4, Galaxy Young 2 and Galaxy Core 2</a><br></h4>
+                <p>Samsung has a ton of smartphones incoming which include nothing but follow-ups t....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p66/Samsung-Reportedly-Launching-Galaxy-Note-4-on-September-3/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/Samsung-To-Launch.jpg" border="0" alt="Samsung Reportedly Launching Galaxy Note 4 on September 3" title=" Samsung Reportedly Launching Galaxy Note 4 on September 3 " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p66/Samsung-Reportedly-Launching-Galaxy-Note-4-on-September-3/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Samsung Reportedly Launching Galaxy Note 4 on September 3</a><br></h4>
+                <p>Samsung unveiled its flagship smartphone, Galaxy S5 earlier this year. But major....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p67/Arise-India-Launches-Android-4.2-Jellybean-LED-TVs/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/Arise-India-Launches.jpg" border="0" alt="Arise India Launches Android 4.2 Jellybean LED TVs" title=" Arise India Launches Android 4.2 Jellybean LED TVs " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p67/Arise-India-Launches-Android-4.2-Jellybean-LED-TVs/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Arise India Launches Android 4.2 Jellybean LED TVs</a><br></h4>
+                <p>Many of the latest 4K TVs and 3D TVs are beginning to implement Smart technology....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p68/New-Acer-Iconia-A1-713-launched:-Coming-to-Kill-Samsung-Tab-3-Neo/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="images/acer_iconia_one_7.jpg" border="0" alt="New Acer Iconia A1-713 launched: Coming to Kill Samsung Tab 3 Neo" title=" New Acer Iconia A1-713 launched: Coming to Kill Samsung Tab 3 Neo " width="100%" height="100%"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p68/New-Acer-Iconia-A1-713-launched:-Coming-to-Kill-Samsung-Tab-3-Neo/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">New Acer Iconia A1-713 launched: Coming to Kill Samsung Tab 3 Neo</a><br></h4>
+                <p>Acer has launched Iconia A1-713 tablet that was introduced in April for Rs. 12,9....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p69/Xolo-to-follow-Xiaomi-by-launching-its-custom-HIVE-UI-on-August-6:-Herea��s-what-you-need-to-know/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p69/Xolo-to-follow-Xiaomi-by-launching-its-custom-HIVE-UI-on-August-6:-Herea��s-what-you-need-to-know/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Xolo to follow Xiaomi by launching its custom HIVE UI on August 6: Here’s what you need to know</a><br></h4>
+                <p>Xolo to follow Xiaomi by launching its custom HIVE UI on August 6: Here’s what....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p70/21-Things-You-Didn't-Know-Your-iPhone-Could-Do/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p70/21-Things-You-Didn't-Know-Your-iPhone-Could-Do/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">21 Things You Didn't Know Your iPhone Could Do</a><br></h4>
+                <p>Your iPhone can do all sorts of magical things that you probably aren't aware of....</p>	
+            </li>
+		
+        			<li>
+                <div class="post_recent"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p71/OPPO-Find-7-:-Master-Of-Specifications/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"></a><br></div>
+                <h4 class="headline"><a href="http://www.basethings.com/Products-And-Pages-Informations/CDpath3/p71/OPPO-Find-7-:-Master-Of-Specifications/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">OPPO Find 7 : Master Of Specifications</a><br></h4>
+                <p>Oppo, the Chinese smart phone manufacturers who have recently entered the smart ....</p>	
+            </li>
+		
+                            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- cds_pages.tpl.php-eof -->              
               <!--</td>--> 
               <!-- content_eof //-->
-                  </div>
+                   </div>
      </div>
   </div>
- 
- <div id="brands">
-<div class="container">
+  
+  
+  
+  <div id="brands">
+  <div class="container">
       	<a href="#"><img src="templates/basething_red/images/fastrack.gif" alt="fastrack"></a>
         <a href="#"><img src="templates/basething_red/images/titan.gif" alt="titan"></a>
         <a href="#"><img src="templates/basething_red/images/sony.gif" alt="sony"></a>
@@ -798,26 +1115,27 @@
     <div class="f_left_top"></div>
     <div class="footer_left">
     <div class="f_left_main">
-    <div class="f_logo"><a href="http://www.basethings.com/index.html"><img src="templates/basething_red/images/f_logo.png" alt=" "></a></div>
+    <div class="f_logo"><a href="http://www.basethings.com/index.html?osCsid=b8704b59881b0a500eda83db0cab4440"><img src="templates/basething_red/images/f_logo.png" alt=" "></a></div>
     <ul>
-        <li><a href="http://www.basethings.com/shopping_cart.php">Shopping Cart</a></li>
-        <li><a href="http://www.basethings.com/p31/About-Us/pages.html">About Us</a></li>
-        <li><a href="http://www.basethings.com/p32/QR-Code-Shopping/pages.html">QR Code Shopping</a></li>
-        <li><a href="http://www.basethings.com/p2/Privacy-Policy/pages.html">Privacy Policy</a></li>
-        <!--<li><a href="http://www.basethings.com/contact_us.php">Contact Us</a></li>-->
+        <li><a href="http://www.basethings.com/shopping_cart.php?osCsid=b8704b59881b0a500eda83db0cab4440">Shopping Cart</a></li>
+        <li><a href="http://www.basethings.com/p31/About-Us/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">About Us</a></li>
+        <li><a href="http://www.basethings.com/p32/QR-Code-Shopping/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">QR Code Shopping</a></li>
+        <li><a href="http://www.basethings.com/p2/Privacy-Policy/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Privacy Policy</a></li>
+        <!--<li><a href="http://www.basethings.com/contact_us.php?osCsid=b8704b59881b0a500eda83db0cab4440">Contact Us</a></li>-->
         <li><a href="contact.html">Contact Us</a></li>
-        <li><a href="http://www.basethings.com/account.php">My Account</a></li>
-        <li><a href="http://www.basethings.com/p28/Customer-Care/pages.html">Customer Care</a></li>
-        <li><a href="http://www.basethings.com/p3/Shipping-Policy/pages.html">Shipping Policy</a></li>
-        <li><a href="http://www.basethings.com/p21/Cancellations-&amp;-Returns/pages.html"> Return Policy</a></li>
-        <li><a href="http://www.basethings.com/p1/Terms-and-Conditions/pages.html">Terms and Conditions</a></li>
-        <li><a href="http://www.basethings.com/p30/Pre-Shipment-Quality-Check/pages.html">100% Quality Check</a></li>
-        <li><a href="http://www.basethings.com/p29/Collect-On-Delivery/pages.html">Collect On Delivery</a></li>  
-        <li><a href="http://www.basethings.com/p46/Coupon-Partners/pages.html">Coupon Codes</a></li>
-        <li><a href="http://www.basethings.com/p169/BUY-iphone6-in-india/pages.html">Blog</a></li>
+        <li><a href="http://www.basethings.com/account.php?osCsid=b8704b59881b0a500eda83db0cab4440">My Account</a></li>
+        <li><a href="http://www.basethings.com/p28/Customer-Care/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Customer Care</a></li>
+        <li><a href="http://www.basethings.com/p3/Shipping-Policy/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Shipping Policy</a></li>
+        <li><a href="http://www.basethings.com/p21/Cancellations-&amp;-Returns/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440"> Return Policy</a></li>
+        <li><a href="http://www.basethings.com/p1/Terms-and-Conditions/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Terms and Conditions</a></li>
+        <li><a href="http://www.basethings.com/p30/Pre-Shipment-Quality-Check/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">100% Quality Check</a></li>
+        <li><a href="http://www.basethings.com/p29/Collect-On-Delivery/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Collect On Delivery</a></li>  
+        <li><a href="http://www.basethings.com/p46/Coupon-Partners/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Coupon Partners</a></li>
+        <li><a href="http://www.basethings.com/p169/BUY-iphone6-in-india/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Blog</a></li>
+        <li><a href="basepaisa.html">BasePaisa</a></li>
     </ul>
     </div>
-    <div class="copy_right"> Copyright © 2012 <strong>Basethings.com</strong></div>
+    <div class="copy_right"> Copyright © 2016 <strong>Basethings.com</strong></div>
     <div class="f_icon">
 	<script type="text/javascript">
     $(document).ready(function() {
@@ -882,8 +1200,8 @@
     <div class="customers">
         <h3>Happy Customers:</h3>
           
-    <p>Thanks! Very quick delivery. Just as described. Thanks again!!</p>
-    <span><em>- Prasanth Naarla</em></span>
+    <p>Very good stuff - accurate as described and prompt service</p>
+    <span><em>- Supriya Chenna</em></span>
     <div class="col1"></div><div class="col2"></div>
         </div>
     </div>
@@ -909,13 +1227,17 @@
     
    
     <div class="third-img">
-    <img src="templates/basething_red/images/RuPay_Logo.png" alt="RuPay Logo">
-    <img src="templates/basething_red/images/dp_logo.png" alt="Bluedart">
+    <img src="templates/basething_red/images/basepaisa.jpg" alt="Basepaisa">
     <img src="templates/basething_red/images/paytm_new.gif" alt="Paytm">
+    <img src="templates/basething_red/images/mobikwik.gif" alt="Mobikwik">
+    <img src="templates/basething_red/images/dp_logo.png" alt="Dircepay">
+    <img src="templates/basething_red/images/ccavenue.gif" alt="CCavenue">   
     <img src="templates/basething_red/images/cash.gif" alt="Cash on Delivery">
-    <img src="templates/basething_red/images/dotzot.gif" alt="DotZot">
     <img src="templates/basething_red/images/fedex.gif" alt="fedex">
-    <!--<img src="templates/basething_red/images/bluedart.jpg" alt="Bluedart">
+    <img src="templates/basething_red/images/dotzot.gif" alt="DotZot">
+    
+ <!--<img src="templates/basething_red/images/RuPay_Logo.png" alt="RuPay Logo">
+    <img src="templates/basething_red/images/bluedart.jpg" alt="Bluedart">
     <img src="templates/basething_red/images/TimesOfMoney.jpg" alt="TimesOfMoney">-->
     </div>
     </div>
@@ -942,19 +1264,19 @@
   </div>
   <div class="footer_mobile">
     <p>
-    <a href="http://www.basethings.com/shopping_cart.php">Shopping Cart</a>
-    <a href="http://www.basethings.com/p31/About-Us/pages.html">About Us</a>
-    <a href="http://www.basethings.com/p32/QR-Code-Shopping/pages.html">QR Code Shopping</a>
-    <a href="http://www.basethings.com/p2/Privacy-Policy/pages.html">Privacy Policy</a>
-    <a href="http://www.basethings.com/contact_us.php">Contact Us</a>
-    <a href="http://www.basethings.com/account.php">My Account</a>
-    <a href="http://www.basethings.com/p28/Customer-Care/pages.html">Customer Care</a>
-    <a href="http://www.basethings.com/p3/Shipping-Policy/pages.html">Shipping Policy</a>
-    <a href="http://www.basethings.com/p21/Cancellations-&amp;-Returns/pages.html">Return Policy</a>
-    <a href="http://www.basethings.com/p1/Terms-and-Conditions/pages.html">Terms and Conditions</a>
-    <a href="http://www.basethings.com/p30/Pre-Shipment-Quality-Check/pages.html">100% Quality Check</a>
-    <a href="http://www.basethings.com/p29/Collect-On-Delivery/pages.html">Collect On Delivery</a>  
-    <a href="http://www.basethings.com/p46/Coupon-Partners/pages.html">Coupon Codes</a>
+    <a href="http://www.basethings.com/shopping_cart.php?osCsid=b8704b59881b0a500eda83db0cab4440">Shopping Cart</a>
+    <a href="http://www.basethings.com/p31/About-Us/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">About Us</a>
+    <a href="http://www.basethings.com/p32/QR-Code-Shopping/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">QR Code Shopping</a>
+    <a href="http://www.basethings.com/p2/Privacy-Policy/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Privacy Policy</a>
+    <a href="http://www.basethings.com/contact_us.php?osCsid=b8704b59881b0a500eda83db0cab4440">Contact Us</a>
+    <a href="http://www.basethings.com/account.php?osCsid=b8704b59881b0a500eda83db0cab4440">My Account</a>
+    <a href="http://www.basethings.com/p28/Customer-Care/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Customer Care</a>
+    <a href="http://www.basethings.com/p3/Shipping-Policy/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Shipping Policy</a>
+    <a href="http://www.basethings.com/p21/Cancellations-&amp;-Returns/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Return Policy</a>
+    <a href="http://www.basethings.com/p1/Terms-and-Conditions/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Terms and Conditions</a>
+    <a href="http://www.basethings.com/p30/Pre-Shipment-Quality-Check/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">100% Quality Check</a>
+    <a href="http://www.basethings.com/p29/Collect-On-Delivery/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Collect On Delivery</a>  
+    <a href="http://www.basethings.com/p46/Coupon-Partners/pages.html?osCsid=b8704b59881b0a500eda83db0cab4440">Coupon Partners</a>
     </p>    
     <div class="subscribe">
     <label><strong>Subscribe</strong> Now &amp; Get Daily <strong>Deal Offers</strong>.</label>
