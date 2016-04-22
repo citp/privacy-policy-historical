@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coursetalk.com privacy policy that was archived on 2015-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907214955id_/https%3A//www.coursetalk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coursetalk.com privacy policy that was archived on 2016-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160422192638id_/https%3A//www.coursetalk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
         <script type="text/javascript" async="" src="//cdn.axdapi.com/wsk/track.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/81759863.js"></script>
@@ -10,6 +10,7 @@
     CourseTalk - Privacy Policy
 </title>
         <meta name="msvalidate.01" content="A13F4E80C2F6747B07194DCE5C73D0F8">
+        <meta name="p:domain_verify" content="d5690c7250e94dd926c49a77d6d554bc">
         <meta property="fb:admins" content="507151893">
         <meta name="twitter:site" content="@CourseTalk">
         <meta property="og:site_name" content="CourseTalk | MOOC Reviews &amp; Ratings">
@@ -18,9 +19,10 @@
         
         <meta name="keywords" content="MOOC, online courses, e-learning, learn, course, colleges, credit, degree, learning, professors, education, training, online classes, reviews, ratings, coursetalk, course talk">
         <link rel="icon" type="image/x-icon" href="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/img/favicon.337910a95330.ico">
-        <link rel="canonical" href="/privacy">
+        <link rel="canonical" href="https://www.coursetalk.com/privacy">
+        <link rel="publisher" href="https://plus.google.com/+CourseTalkOrg">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" data-viewport-units-buggyfill="ignore">
-        <link rel="stylesheet" href="https://d3q6qq2zt8nhwv.cloudfront.net/s/css/application.min.6a0e2549e5ef.css">
+        <link rel="stylesheet" href="https://d3q6qq2zt8nhwv.cloudfront.net/s/css/application.min.524cc71e0eac.css">
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" data-viewport-units-buggyfill="ignore">
         
         
@@ -39,6 +41,17 @@
 
       ga('create', 'UA-34400997-1', 'coursetalk.com');
       ga('send', 'pageview');
+
+      var timer = 30;
+      function pingGoogle() {
+        setTimeout(function() {
+                ga('send', 'event', 'activity', timer + ' seconds');
+                timer += 30;
+                pingGoogle();
+            },
+            30000);
+      }
+      pingGoogle();
     </script>
     <!-- End Google Analytics -->
 
@@ -59,6 +72,20 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
     mixpanel.register({ 'View': "PrivacyView" });
 </script>
 
+
+        
+            <!-- Hotjar Tracking Code for https://www.coursetalk.com -->
+            <script>
+                (function(h,o,t,j,a,r){
+                    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                    h._hjSettings={hjid:152453,hjsv:5};
+                    a=o.getElementsByTagName('head')[0];
+                    r=o.createElement('script');r.async=1;
+                    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                    a.appendChild(r);
+                })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+            </script><script async="" src="//static.hotjar.com/c/hotjar-152453.js?sv=5"></script>
+        
     </head>
     <body>
         
@@ -102,12 +129,12 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 
             </div>
             
-                <div class="topbar__search">
+                <div class="topbar__search" id="topbar-search-box">
                     <form id="search-box__form" data-analytics-location="Top bar" action="/search">
     <div class="search-box js-search-box">
         <input type="text" class="search-box__input js-search-box__input" name="q" placeholder="Search by subject, provider, school ..." value="">
         <span class="search-box__btn-wrap">
-            <button class="btn-primary search-box__btn js-search-box__btn" type="submit">
+            <button class="btn btn-primary search-box__btn js-search-box__btn" type="submit">
                 <i class="search-box__btn__icon"></i>
                 
             </button>
@@ -129,29 +156,29 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                 <a href="/">
                     
 
-<img src="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/img/logo-blue.13b099df59c1.png" alt="CourseTalk logo">
+<img src="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/img/logo-blue.13b099df59c1.png" alt="CourseTalk">
 
                 </a>
             </div>
             <div class="main-nav__browse-library">
-                <ul class="main-nav__browse-library__links" data-analytics-location="Nav bar">
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/subjects">
+                <ul class="main-nav__browse-library__links" role="navigation" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" data-analytics-location="Nav bar">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/subjects">
             Subject
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/providers">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/providers">
             Provider
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/search?filters=start_date:starting_soon&amp;sort=start_date">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/search?filters=start_date:starting_soon&amp;sort=start_date">
             Starting soon
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/leaderboard">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/leaderboard">
             Leaderboard
         </a>
     </li>
@@ -176,24 +203,24 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                 </form>
             </div>
             <div class="fixedtopbar__browse-library">
-                <ul class="main-nav__browse-library__links" data-analytics-location="Pinned nav bar">
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/subjects">
+                <ul class="main-nav__browse-library__links" role="navigation" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" data-analytics-location="Pinned nav bar">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/subjects">
             Subject
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/providers">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/providers">
             Provider
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/search?filters=start_date:starting_soon&amp;sort=start_date">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/search?filters=start_date:starting_soon&amp;sort=start_date">
             Starting soon
         </a>
     </li>
-    <li class="main-nav__browse-library__item">
-        <a class="main-nav__browse-library__link" href="/leaderboard">
+    <li itemprop="name" class="main-nav__browse-library__item">
+        <a itemprop="url" class="main-nav__browse-library__link" href="/leaderboard">
             Leaderboard
         </a>
     </li>
@@ -340,7 +367,7 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                         <a href="/">
                             
 
-<img src="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/img/logo-white.a38feb4651b2.png" alt="CourseTalk logo">
+<img src="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/img/logo-white.a38feb4651b2.png" alt="CourseTalk">
 
                         </a>
                     </div>
@@ -362,6 +389,7 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                 <div class="row">
                     <div class="footer__section">
                         <div class="slats-section__content">
+                            <a href="http://blog.coursetalk.com/2015/10/14/happy-birthday-coursetalk/" class="footer__link">CourseTalk turns 3: What we're celebrating</a>
                             <a href="https://d3q6qq2zt8nhwv.cloudfront.net/s/coursetalk/pdf/newco/What Reviews Divulge About Online Education.0b7d48034dcd.pdf" class="footer__link">CourseTalk releases study of 70,000 reviews of online courses</a>
                             <a href="/advancingmoocs" class="footer__link">CourseTalk, U.S. government to bring online education to developing world</a>
                         </div>
@@ -399,12 +427,12 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                     </div>
                     <div class="footer__section--half">
                         <div class="slats-section__content">
-                            <a href="http://press.coursetalk.com/" class="footer__link" target="_blank">
+                            <a href="http://blog.coursetalk.com/" class="footer__link" target="_blank">
                                 Blog
                                 <i class="footer__link--arrow"></i>
                             </a>
-                            <a href="http://press.coursetalk.com/home" class="footer__link" target="_blank">
-                                Press
+                            <a href="http://blog.coursetalk.com/coursetalk-in-the-news/" class="footer__link" target="_blank">
+                                In the news
                                 <i class="footer__link--arrow"></i>
                             </a>
                             <a href="/faq" class="footer__link">
@@ -448,7 +476,7 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 
             </div>
             <div class="footer__bottom__legal">
-                <span>© 2015 CourseTalk.</span>
+                <span>© 2016 CourseTalk.</span>
                 <ul class="footer__bottom__legal__links">
                     <li><a href="/privacy">Privacy Policy</a></li>
                     <li><a href="/terms">Terms of Service</a></li>
@@ -460,19 +488,25 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 
         
 
+        <script>
+            window.GLOBAL_VARS = {
+                is_authenticated: false
+            }
+        </script>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
         
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-        <script src="https://d3q6qq2zt8nhwv.cloudfront.net/s/js/app.min.5888ed8b8070.js"></script>
-        <script src="https://d3q6qq2zt8nhwv.cloudfront.net/s/js/main.74cc46bd3591.js"></script>
+        <script src="https://d3q6qq2zt8nhwv.cloudfront.net/s/js/app.min.f16ab0959470.js"></script>
+        <script src="https://d3q6qq2zt8nhwv.cloudfront.net/s/js/main.21c4cd90fa44.js"></script>
+        <script src="//my.hellobar.com/1e22d03b26c9717fcd079f0f82bffebe4867dea9.js" type="text/javascript" charset="utf-8" async="async"></script>
+        <script type="text/javascript">
+            
+            mixpanel.register({ 'View': "PrivacyView" });
+        </script>
         <script>
-            window.GLOBAL_VARS = {
-                is_authenticated: false,
-                csrf_token: 'q0hUP3MJdsF81sv2jfZLSgtUu4GHZlla'
-            }
-
+            window.viewportUnitsBuggyfill &&
             window.viewportUnitsBuggyfill.init({refreshDebounceWait: 250});
         </script>
         
@@ -491,8 +525,20 @@ e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
                 "@context": "http://schema.org",
                 "@type": "WebSite",
                 "name": "CourseTalk",
-                "url": "http://www.coursetalk.com",
-                "description": "Find and review the best online courses and MOOCs"
+                "url": "https://www.coursetalk.com",
+                "description": "Find and review the best online courses and MOOCs",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://www.coursetalk.com/search?q={search_term_string}",
+                    "query-input": "name=search_term_string"
+                },
+                "sameAs" : [
+                    "https://www.facebook.com/pages/CourseTalk/345913568824559",
+                    "https://plus.google.com/106942975644948643070",
+                    "https://twitter.com/coursetalk",
+                    "https://www.linkedin.com/company/coursetalk",
+                    "https://www.youtube.com/user/CourseTalkOnline"
+                ]
             }
         </script>
     
