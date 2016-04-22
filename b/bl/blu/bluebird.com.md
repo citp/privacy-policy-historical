@@ -1,39 +1,33 @@
-> *The following text is extracted and transformed from the bluebird.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210111318id_/https%3A//www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebird.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422102125id_/https%3A//www.riamoneytransfer.com/bluebird/legal/privacy-policy) for the most accurate reproduction.*
 
-# American Express | US Online Privacy Statement
+# Ria Money Transfer Privacy Policy <br>American Express Bluebird®</br>
 
-** 
+Last Updated: August 7, 2015 
 
-If you have questions about our online privacy statement, call us at the number on the back of your Card or call us at the number for your product at [contact us](https://www.americanexpress.com/contactus "contact us")
+Welcome to Continental Exchange Solutions, Inc.’s, dba Ria Financial Services ("Ria") privacy policy for the Bluebird Cash Pickup Powered by Ria money transfer product. Protecting your privacy is very important to us. Therefore the intent of this policy is to inform you about our collection and use of your information. This policy is applicable to all Ria consumers transferring money through the Bluebird by American Express Mobile app or website. 
 
-**
+In order to provide services, Ria uses, collects and may disclose certain personal and nonpersonal information we receive from you (via our service providers acting on our behalf) on registration or transaction forms about you and the beneficiary of the fund transfer, such as name, address, and phone number, and financial account information. We also receive information about your transactions with us or others. In addition, depending on the services requested and/or the amount of your money transfer, Ria, through service providers acting on our behalf, may also collect and may disclose personal and nonpersonal information, such as date of birth, Social Security number or other identifying number (including type, issuer, and expiration date), and any other information necessary to verify and process the request. 
 
-Card Members can log in to their Card accounts at [americanexpress.com](https://americanexpress.com/ "American Express") to correct or update their Personal Information . They can also call the number on the back of their Card. Non Card Members can call the customer service number associated with their product.
+We (or our service providers acting on our behalf) may collect Personal Information about your use of our Services. This information may include information that may identify you as well as statistical information that does not identify you.
 
- **Aggregated Information ** \-- data or information relating to multiple people which has been combined or aggregated. Aggregated Information includes information that we create or compile from various sources, including card transactions or certain data from Cookies and Similar Technologies. 
+The use of your information is subject to this Privacy Policy and our Terms of Service. The provisions contained here supersede all previous notices or statements regarding our privacy practices. We may use your contact information, including your email and telephone number, to respond to your inquiries or to provide you information about our Services or your account.
 
-**American Express (we, our, us) ** \-- the American Express Company as identified at the beginning of this online privacy statement. 
+Ria does not disclose nonpublic personal information about its consumers or former consumers to anyone, except as permitted by law. The law permits disclosure of nonpublic personal information to unaffiliated third parties, for example, (1) where it is necessary to effect, administer, or enforce a transaction requested or authorized by the consumer, or in connection with the servicing or processing of a financial product or service requested or authorized by the consumer, (2) where it is released to protect the confidentiality or security of our records pertaining to our consumers, the services or products we offer, or the transactions we process or handle, (3) to protect against or prevent actual or potential fraud, identity theft, unauthorized transactions, claims or other liability, as well as for resolving consumer disputes or inquiries, (4) to comply with federal, state or local laws or regulations or other legal requirements, such as subpoenas or other legal processes, or (5) if you request or authorize it. This list of examples of the types of sharing of information that is permitted by law is not meant to be comprehensive, but provides you with some basic information on some of the types of sharing permitted by law.
 
-**American Express Family of Companies ** \-- any affiliate and subsidiary of, and any company owned or controlled by, the American Express Company. 
+Ria does not sell or exchange consumer lists or consumer information for marketing purposes. Ria does not use information provided by Ria consumers transferring money through the Bluebird® by American Express Mobile app or website for marketing purposes.
 
-**Business Partners ** \-- any third parties with whom we conduct business and have a contractual relationship, such as a business that accepts American Express branded cards. 
+##  Safeguards to Protect Privacy 
 
-**Co-brand Partners ** \-- businesses we partner with to offer cards featuring both brand logos. 
+Ria takes precautions to protect the information of its consumers. We maintain physical, electronic and procedural safeguards in an effort to secure your nonpublic personal information. When you enter sensitive or private consumer information, the information is encrypted and protected. Ria’s database of consumer information resides on Ria’s servers behind various firewalls to protect against loss, misuse, theft, and unauthorized modification, deletion, or alteration of the information contained in the database. 
 
-**Cookies and Similar Technologies ** \-- a cookie is a small data file that a website transfers to your computer's hard drive. We may place cookies when you visit our website or another company's websites where our ads appear or when you make purchases, request or personalize information, or register for certain services. If you accept the cookies used on our website, websites that are “powered by” another company on our behalf, or websites where our ads appear, you may give us access to information about your interests. We may use that information to personalize your experience. Similar technologies such as web beacons, pixels, gifs, and tags also do the same thing. We use the term Cookies and Similar Technologies in this statement to refer to all technologies that collect information in this way. 
+Ria has taken preventative measures to restrict access to sensitive data and private information. Only those employees and agents who need to know that information to provide services related to the processing of fund transfers are granted access to personal information. Although Ria measures conform to those of the industry, Ria makes no claim or warranty as to the security or impenetrability of Ria’s system under unusual circumstances or its resilience to future sophisticated attacks. 
 
-**De-identified Information ** \-- data or information used in a way that does not identify you to a third party. We often derive De-Identified Information from Personal Information. It includes information that we may collect from various sources, such as card transactions or certain data from Cookies and Similar Technologies. 
+## Safe Harbor Principles
 
-**IP Address ** \-- a number assigned to a device when connecting to the Internet. 
+Ria adheres to the Safe Harbor Principles issued by the United States Department of Commerce and accepted by European Data Protection Authorities for the protection of personally identifiable information and personal data received from the European Union. For further information on Safe Harbor, please go to [www.export.gov/safeharbor.](https://web.archive.org/web/20160422102125id_/https%3A//www.riamoneytransfer.com/bluebird/legal/www.export.gov/safeharbor)
 
-**Online Information ** \-- data or information collected on the American Express websites and apps as well as on websites and apps of third parties relating to topics about our business. 
+##  Questions 
 
-**Other Information ** \-- American Express internal information (for example, Card transaction data), external data that financial companies use to process applications and complete transactions, and other online and offline information we collect from or about you. 
+If you have any questions regarding this Privacy Policy, please contact Ria customer service at [ 844-698-2731](tel:). 
 
-**Personal Information ** \-- information that can identify a person, such as name, address, telephone number, and email address.  
-
-  **Service Providers ** \-- any vendor, third party and/or company that performs business operations on our behalf, such as printing, mailing, and other communications services (email, direct mail, etc.), marketing, data processing, servicing, collections, or ad management. 
-
-**Targeted Advertising ** \-- ads we, or our Service Providers, or Third-Party Ad-Servers display on websites or in apps outside the American Express Family of Companies based on the preferences or interests inferred from data collected from a particular computer or device regarding viewing behaviors over time and across different websites or apps. 
-
-**Third-Party Ad-Servers ** \-- companies that provide the technology to place ads on websites (and apps) and track how ads perform. These companies may also place and access cookies on your device. The information they collect from our websites is in a form that does not identify you personally. 
+6565 Knott Ave. Buena Park, CA 90620 
