@@ -1,102 +1,105 @@
-> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207012451id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423010822id_/http%3A//www.whatuni.com/degrees/help/privacy.htm) for the most accurate reproduction.*
 
 # Whatuni privacy policy
 
-## Privacy Policy
+## WHATUNI (HOTCOURSES) PRIVACY NOTICE
 
-## 1\. Introduction
+This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will use this information.
 
-1.1 At Whatuni.com (part of Hotcourses Ltd), we understand the importance of keeping your personal information private. We set out our privacy practices and policies in this Privacy Policy. Please read it in conjunction with [our terms of use](https://web.archive.org/degrees/help/termsAndCondition.htm) as the terms incorporate this Policy.
+This policy applies to all our website visitors whether registered or not, including people responding to surveys, competitions and writing reviews. In addition we may ask you for your personal details at one of the Hotcourses sponsored events, students fairs etc. We will always explain the purpose of our data collection before we ask you for your personal details.
 
-1.2 You do not need to give us any information to browse our website, but when you fill in the registration form to become a Member, or you contact an education provider through our site, we do ask you for information about yourself. Once you become a member or contact an institution you may also complete a profile of yourself, and include a picture (your "Profile"). 
+## What information do we collect about you on Whatuni?
 
-1.3 On registration, you will be asked to 'opt in' to our Privacy Policy i.e. to confirm that you agree to our use of any personally identifiable information that we may collect from you in connection with your use of our website. By 'opting-in' you agree to our use of your information in accordance with the terms of this Privacy Policy. If you do not provide your consent, you will not be able to become a Member or contact the institution in which you are interested.
+You can browse our websites without providing any personal information, however if you would like the enhanced website experience and thus make an enquiry to a course provider, you will need to register with us.
 
-1.4 If you have any queries about this Privacy Policy please email [Hotcourses support](mailto:support.team@whatuni.com).
+When you contact an institution, download prospectuses or a pdf help pack, you will need to supply your email address and other information. This action will automatically register you as a member of the Whatuni community.
 
-## 2\. Personal Information we collect about you
+When you register as a Member, we may collect some or all of the following information about you:
 
-2.1 As a Visitor, you can visit our website without telling us who you are or revealing any personal information about yourself.
-
-2.2 When you contact an institution and supply your email address, you will be registered automatically as a member.
-
-2.3 When you register as a Member, we may collect some or all of the following information about you:
-
-  * a) your name, username, email address, password.
-  * b) your postcode and address.
-  * c) information about your current educational status.
-  * d) your course, subject area and institution of interest.
-  * e) your grades or predicted grades.
-  * f) your phone number.
-  * g) your date of bith.
-  * h) your nationality and country of residence.
-  * i) your current school or college
+  * a)   your name, username, email address, password.
+  * b)   your postcode and address.
+  * c)   information about your current educational status.
+  * d)   your course, subject area and institution of interest.
+  * e)   your grades or predicted grades.
+  * f)   your phone number.
+  * g)   your date of birth.
+  * h)   your nationality and country of residence.
+  * i)   your current school or college
 
 
 
-2.4 In this Privacy Policy, we refer to the information above and any other personally identifiable information that we may request from you and that you may provide to us (including your Profile) as "Personal Information".
+In this Privacy Policy, we refer to the information above and any other personally identifiable information that we may request from you and that you may provide to us (including your Profile) as "Personal Information".
 
-## 3\. Our use of your Personal Information
+Hotcourses Ltd also collects potentially personally-identifying information that is collected by Google Analytics. The analytics feature Hotcourses has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/).
 
-3.1 We use Personal Information submitted by members in the following ways:
+## How we use your information?
 
-  * a) to enable you to use any services that we may from time to time provide through our website;
-  * b) to provide enquiry and application services on behalf of course providers (these are the interactive services that come up when you look up details of a particular course);
-  * c) to display your username when you leave a Course Review;
-  * d) to enable you to participate in competitions and offers for certain products and services which may be of interest to you, unless you inform us otherwise;
-  * e) to enable you to receive newsletters from us, which may include information about courses and institutions;
-  * f) to conduct market research surveys;
-  * g) to send you updates about our website;
-  * h) to provide you with information about products and services we offer;
-  * i) for general research purposes, to allow us to develop the products and services we can offer to you; and
-  * j) for website administration (including enabling us to respond to any comments on our website or feedback you may give us).
-  * k) for statistical analysis to improve the service provided to both you and course providers.
-  
+1.  When someone visits our website we use cookies to collect standard internet log information and details of visitor behaviour patterns.
 
-  * Additionally, if you make an enquiry to a course provider, you agree that we can pass your information to that provider to be used solely in relation to student recruitment.
+Cookies are used to help us:
+
+  * a)  Understand and save user's preferences for future personalised user experience and to allow us to deliver the type of content and products in which you are most interested.
+  * b)  Keep track of advertisements.
+  * c)  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future.
 
 
 
-3.2 By agreeing to our Privacy Policy, you indicate your consent for us to use your Personal Information in the ways set out above. However, if you do not wish to receive certain newsletters and other mailings from us relating to our own products and services and those of organisations with whom we have a strategic relationship, please email us at never@hotcourses.com.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your internet browser (such as like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-3.3 Hotcourses Ltd also collects potentially personally-identifying information that is collected by Google Analytics. The analytics feature Hotcourses has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings.](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/)
+If you disable cookies, some features that make your site experience more efficient will be disabled and some of our services will not function properly.
 
-## 4\. Disclosures
+You can read more about how we use cookies on our [](https://web.archive.org/degrees/cookies.html)cookies policy.
 
-4.1 Your Personal Information may be passed to and used by our group companies in connection with providing services to you over our website and delivering or making our services available to you. Please note that some of our group companies may be located overseas in countries which do not have as extensive data protection laws as in the United Kingdom - for example, our software developers require certain test data (which may consist of Personal Information) and they are based in India.
+2.  To send periodic emails about competitions, promotions, surveys or other site features.
 
-4.2 We may also disclose your Personal Information in the following instances: (i) if we are required to do so by applicable law or under a court or similar order; (ii) as deemed necessary, in our discretion, to protect our legal rights or property or the legal rights or property of a Member or third party, or to prevent personal injury; and/or (iii) in connection with a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of our assets or stock or our affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings).
+3.  To follow up an enquiry you have made to any institutions, or chase progress on a course you are interested in.
 
-## 5\. Hyperlinks to other web sites
+4.  You can change your communication preference with us at any point, by logging in to our website or by following the instructions at the bottom of each email you receive from us. You can also update your contact details by logging in to our website. These contact details are used to respond to your enquiries or, put you in touch with the course provider you are interested in.
 
-5.1 This website contains hyperlinks to websites owned and operated by third parties which are beyond our control. For example, when you use our search engine for certain courses, the search results will provide links to other sites from our website's pages that take you outside our website. These other sites have their own privacy policies and we urge you to review them - because this Privacy Policy will not apply. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+You can [email us](mailto:support.team@whatuni.com) if you have any questions regarding the search criteria on Whatuni. When you find a course you like on one of our websites, you can either request more details from the course provider or, if the option is available, book the course directly.
 
-5.2 We generally do not object to you linking directly to the homepage of our website, although we reserve the right to refuse our authorisation to such linking at our sole discretion. We do not permit our pages to be loaded into frames on your website - our web pages must load into the user's entire window.
+## Disclosure of personal information
 
-5.3 We reserve the right to move or change our website URL at any time in order to meet changing business needs and to continually improve our online service. External websites link to our website at their own risk.
+In many circumstances we will not disclose personal data without your consent unless required by law.
 
-## 6\. Cookies
+Hotcourses Limited is the principle company and the Data Controller in the Hotcourses Group of companies (Hotcourses India PVT, Hotcourses Pty Ltd (Australia), Hotcourses Inc (North America) and Complete University Guide). We may share your personal information with organisations that are part of the same group as the data controller as those companies may provide services to you over our websites.). To ensure your details are protected to the same level as in the United Kingdom, we have put agreements in place to ensure these companies comply with the Hotcourses Privacy Policy and the Data Protection Act 1998.
 
-6.1 When you view or use our website we may store information on the hard drive of your computer in the form of a "cookie" (essentially a small text file). Cookies allow us to tailor our website to your interests and preferences. For example, a cookie might contain information about the web pages you have visited on our website, which could allow us to customise your next visit to our website. However, cookies do not allow us access to the rest of your computer and we do not use them to collect personally identifiable information about you.
+Another instance when we may share your personal information is when you make an enquiry to a course provider and/or download a pdf help pack or prospectus. In these circumstances we pass on your contact details to the course provider so that they can contact you directly.
 
-6.2 Most internet browsers enable you to delete cookies or to receive a warning before a cookie is stored on your hard drive. Please refer to your browser instructions or help screen to learn more about how to do this. However, should you decide to disable any cookies we place on your computer you may not be able to use certain services or facilities on our website.
+## Links to other websites
 
-6.3 You may occasionally get cookies from our advertisers or other third parties with links on our website. We do not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+On our website there are lots of links to course provider websites. This privacy notice does not cover these links. We encourage you to read the privacy statements on the other websites you visit.
 
-## 7\. Search Engine
+## Changes to our Privacy Notice
 
-When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on our website (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. We may present search result links in a format that enables us to understand whether they have been followed and we may monitor click-throughs. We use this information to understand and improve the quality of our search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+We keep our privacy notice under regular review. This privacy notice was last updated on 22nd March 2016.
 
-## 8\. Community Areas and Course Reviews
+## Access to your personal Information 
 
-Our website allows you to leave Course Reviews. They are open to the public and if you choose to disclose personally identifiable information or reveal your Profile to other users in these areas you are consenting to its unrestricted distribution in a public forum throughout our website and to and by other users of our website. We therefore cannot be responsible for the protection or security of such information, regardless of its sensitivity. You disclose all such information entirely at your own risk.
+We would like to be as transparent as possible in terms of giving you access to your personal information. You find out if we hold any personal information by making a ‘subject access request’ under the Data Protection Act 1998. If we do hold information about you we will:
 
-Please do not disclose personal information about third parties in these forums - it is prohibited, and we reserve the right to ban you from our website if you breach this rule.
+  * \-   give you a description of it;
+  * \-   tell you why we are holding it;
+  * \-   tell you who it could be disclosed to; and
+  * \-   let you have a copy of the information in an intelligible form.
 
-## 9\. Updating Your Personal Information
 
-To the extent that you do provide us with Personal Information, we wish to keep it up-to-date. Please let us know if your Personal Information changes by sending the details to Data Protection / Marketing, First Floor, Bedford House, Fulham Green, 69-79 Fulham High Street, London SW6 3JW [support.team@whatuni.com](mailto:support.team@whatuni.com). We will try to incorporate the changes as soon as practicable.
 
-## 10\. Your right to see your Personal Information
+To make a request for any personal information we may hold you need to put the request in writing addressing it to our Data Protection Officer, or, by writing to us on the below address.
 
-You have the right to request a copy of the Personal Information that we hold on you and to have any errors in that information corrected. We may charge a reasonable fee for such requests as permitted by law. Please address your request to Data Protection / Marketing, First Floor, Bedford House, Fulham Green, 69-79 Fulham High Street, London SW6 3JW [support.team@whatuni.com](mailto:support.team@whatuni.com). We will use reasonable efforts to supply, correct or delete Personal Information about you on our files.
+If we do hold information about you, you can ask us to correct any mistakes by contacting the Data Protection Officer or by logging in to our website and updating your information.
+
+If you wish to stop receiving regular course updates, please email us at [unsubscribe@hotcourses.com](mailto:unsubscribe@hotcourses.com) or you can unsubscribe by clicking on the unsubscribe link in each email you receive from us.
+
+If you wish to delete your details completely, please email us at [delete@hotcourses.com.](mailto:delete@hotcourses.com)
+
+## How to contact us
+
+If you want to request more information about our privacy policy you can email us or write to:
+
+Data Protection Officer  
+Hotcourses Ltd  
+First Floor, Bedford House, Fulham Green  
+69-79 Fulham High Street  
+London SW6 3JW  
+privacy@hotcourses.com 
