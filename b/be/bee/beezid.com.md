@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927203018id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422153129id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### » Scope
 
-Beezid.com (hereinafter referred to as “Beezid”) is a service provided by Beezid Inc. (hereinafter referred to as “Beezid” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Beezid website (www.beezid.com), how We handle your personal information for our services and all further permissible uses of such information. By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.
+Beezid.com (hereinafter referred to as "Beezid") is a service provided by Beezid Inc. (hereinafter referred to as "Beezid" or "We"). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Beezid website (www.beezid.com), how We handle your personal information for our services and all further permissible uses of such information. By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is effective upon acceptance for new and existing users and is otherwise effective 5 days after being posted on the website.
 
 ### » Data Collection
 
@@ -32,7 +32,7 @@ Our primary purpose in collecting personal information is to provide you with a 
   * prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;
   * customize, measure and improve our services, content and advertising;
   * inform you about our services, targeted marketing, service updates, and promotional offers;
-  * contact you for market research from Beezid by phone, by email or by other means of communication. You may opt out by contacting our support team via email at [support@beezid.com](mailto:support@beezid.com) or by contacting customer service at 1-877-423-3943.
+  * contact you for market research from Beezid by phone, by email or by other means of communication. You may opt out by contacting our support team via email at support@beezid.com or by contacting customer service at 1-877-423-3943.
 
 
 
@@ -44,11 +44,11 @@ If you wish to subscribe to our newsletters or promotional emails, we will use y
 
 We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.
 
-We may also share your personal information with third parties assisting our business operations under contract, including but not limited to a credit card processer to bill you for services, live chat to assist you if you have questions, fraud investigations and debt collection. These companies are authorized to use your personal information only as necessary to provide these services to us. We will also share your personal information with law enforcement or other governmental officials if required by law, and with other business entities, should We plan to merge with or be acquired by that business entity. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, We will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when We believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+We may also share your personal information with third parties assisting our business operations under contract, including but not limited to a credit card processor to bill you for services, live chat to assist you if you have questions, fraud investigations and debt collection. These companies are authorized to use your personal information only as necessary to provide these services to us. We will also share your personal information with law enforcement or other governmental officials if required by law, and with other business entities, should We plan to merge with or be acquired by that business entity. Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, We will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when We believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
 ### » Your Information on Beezid
 
-Once you have been approved as a registered user with Beezid, you will be required to choose a user name. This user name will be displayed throughout Beezid and therefore provided to the public. Unless you associate your user name with your personal information, users will not be able to personally identify your activities on Beezid. We will retain your information for as long as your account is active or as needed to provide you services.
+Once you have been approved as a registered user with Beezid, you will be required to choose a username. This user name will be displayed throughout Beezid and therefore provided to the public. Unless you associate your user name with your personal information, users will not be able to personally identify your activities on Beezid. We will retain your information for as long as your account is active or as needed to provide you services.
 
 ### » Access, Review and Change of Personal Data
 
@@ -60,19 +60,21 @@ Upon your request, We will close your account as soon as reasonably possible, ba
 
 ### » The Use of Cookies at our Website
 
-Beezid uses so-called “cookies”, which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. The information saved supports the functionality of the site, for example by keeping track of your visual preferences or controlling the frequency of “pop-up” windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, We would like to point out that turning off these settings may reduce the quality of your experience.
+Beezid uses so-called "cookies", which are files that are stored on your computer that can be retrieved to assist in customizing your experience with the online service. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. The information saved supports the functionality of the site, for example by keeping track of your visual preferences or controlling the frequency of "pop-up" windows. You are free to prevent cookies from being saved on your hard drive by adjusting the corresponding settings in your browser. However, We would like to point out that turning off these settings may reduce the quality of your experience.
 
-The use of cookies by our affiliates, and tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates and tracking utility company use session ID cookies such as Google Analytics, LinkShare Affiliate Tracking cookies.
+The use of cookies by our affiliates, and tracking utility company is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates and tracking utility company use session ID cookies such as Google Analytics, LinkShare Affiliate Tracking cookies. You can opt out of the Google Analytical Features that we use by visiting <https://tools.google.com/dlpage/gaoptout/>
+
+. 
 
 ### » Web Beacons
 
 Our third party advertising partner employs a software technology called Web Beacons that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, Web Beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see “Newsletters”.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Newsletters".
 
 ### » Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+As is true of most Websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
 
@@ -116,11 +118,11 @@ We may use facebook.com a third party service provider to conduct these contests
 
 ### » Protection from Web Crawlers or Spam
 
-Beezid assures you that We will use your e-mail address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your e-mail address to third parties, and We will prevent your e-mail address from being recorded by “web crawlers” or “web spiders” to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.
+Beezid assures you that We will use your e-mail address with your express consent only for the purposes stated in the Terms of Use. We will not rent or sell your e-mail address to third parties, and We will prevent your e-mail address from being recorded by "web crawlers" or "web spiders" to the best of our ability. If you believe that your e-mail address has been recorded in this way, please let us know immediately.
 
 ### » General
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 10 days after they are initially posted on the site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 5 days after they are initially posted on the site. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ### » Contact Us
 
