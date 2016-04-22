@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2014-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141028075818id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422090003id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,10 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 
 We may collect, store and use the following kinds of personal data: 
 
-  * 1\. information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit, number of page views and searches you make);
-  * 2\. information relating to any transactions carried out in this website, or in relation to this website, including information relating to any purchases or requests you make of third party's goods or services using this website; and
-  * 3\. location data used to assign a location to images created by users of 360Cities mobile apps, and to display nearby images. Users can disable location services in the mobile app settings.
-  * 4\. any other information that you choose to send to us.
+  1. information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit, number of page views and searches you make);
+  2. information relating to any transactions carried out in this website, or in relation to this website, including information relating to any purchases or requests you make of third party's goods or services using this website; and
+  3. location data used to assign a location to images created by users of 360Cities mobile apps, and to display nearby images. Users can disable location services in the mobile app settings.
+  4. any other information that you choose to send to us.
 
 
 
@@ -37,13 +37,13 @@ Personal data submitted on this website will be used for the purposes specified 
 
 We may use your personal information to:
 
-  * 1\. administer the website;
-  * 2\. improve your browsing experience by personalising the website;
-  * 3\. enable your use of the services available on the website;
-  * 4\. send you general (non-marketing) commercial communications;
-  * 5\. send you email notifications which you have specifically requested;
-  * 6\. provide third parties with statistical information about our users – but this information will not be used to identify any individual user; and
-  * 7\. deal with enquiries and complaints made by or about you relating to the website;
+  1. administer the website;
+  2. improve your browsing experience by personalising the website;
+  3. enable your use of the services available on the website;
+  4. send you general (non-marketing) commercial communications;
+  5. send you email notifications which you have specifically requested;
+  6. provide third parties with statistical information about our users – but this information will not be used to identify any individual user; and
+  7. deal with enquiries and complaints made by or about you relating to the website;
 
 
 
@@ -55,14 +55,14 @@ All our website financial transactions are handled through our payment services 
 
 4\. Disclosures
 
-We may disclose information about you to any of our employees, officers, agents, suppliers, collaborators, customers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+We may disclose information about you to any of our employees, officers, agents, suppliers, collaborators, distribution partners, customers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
 In addition, we may disclose information about you:
 
-  * 1\. to the extent that we are required to do so by law;
-  * 2\. in connection with any legal proceedings or prospective legal proceedings;
-  * 3\. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
-  * 4\. to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+  1. to the extent that we are required to do so by law;
+  2. in connection with any legal proceedings or prospective legal proceedings;
+  3. in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
+  4. to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
 
 
