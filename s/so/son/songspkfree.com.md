@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songspkfree.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118013054id_/http%3A//songspkfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspkfree.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422072837id_/http%3A//songspkfree.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Songspk Free Download
+# Privacy Policy
 
 Privacy Policy of songspkfree.com.
 
