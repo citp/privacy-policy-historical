@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9cookies.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208011809id_/https%3A//modxcloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9cookies.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423084426id_/https%3A//modxcloud.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MODX Cloud
 
