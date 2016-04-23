@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908022938id_/https%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikudeck.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423151532id_/https%3A//www.haikudeck.com/privacy) for the most accurate reproduction.*
 
-# Presentation Software that Inspires | Haiku Deck
+# Presentation Software | Online Presentation Tools | Haiku Deck
 
 Thank you for visiting GiantThinkwell's ("GiantThinkwell") Internet web site located at the URL [www.haikudeck.com ](http://www.haikudeck.com/)("Site"). This Privacy Policy details certain policies implemented throughout Haiku Deck governing GiantThinkwell's use of personally identifiable information about users of our Site and users of our services and/or software that is available for download on this Site.
 
