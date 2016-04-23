@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906220246id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidney.org privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423044323id_/http%3A//www.kidney.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # NKF Web Site Privacy Policy - The National Kidney Foundation
 
-## **Privacy**
+## Data Privacy
 
 Data relating to visitors browsing this Web site is not collected. The confidentiality of visitors browsing this Web site, including their identity, is respected. The National Kidney Foundation, owners of this Web site, undertake to honor or exceed the legal requirements of the Health Insurance Portability and Accountability Act (HIPAA) and all other requirements of medical/health information privacy in the U.S.
+
+## Donor Privacy
+
+National Kidney Foundation, Inc. will not sell, share or trade our donors' names or personal information with any other entity, nor send mailings to our donors on behalf of other organizations, unless the donors have given National Kidney Foundation, Inc. specific permission to do so.
+
+This policy applies to all information received by National Kidney Foundation, Inc. both online and offline, on any Platform ("Platform", includes the National Kidney Foundation, Inc. website and mobile applications), as well as any electronic, written, or oral communications.
+
+To the extent any donations are processed through a third-party service provider, the donors’ information will only be used for purposes necessary to process the donation.
 
 ## E-mail
 
