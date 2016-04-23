@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924041813id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423165509id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # FTC Disclosure & Privacy Policy • EMPTY MIRROR
 
@@ -6,13 +6,9 @@ This page contains the required disclosures for the FTC and Amazon, as well as o
 
 ### FTC Disclosure:
 
-This website accepts forms of advertising, sponsorship, paid insertions or other forms of compensation, such as books, CDs, or other materials submitted for the purpose of a possible review.
+This website accepts banner advertising, as well as books, CDs, or other materials submitted for the purpose of a possible review. This promotional content will always be identified as such. Links on this site may include affiliate links, whereby which the owner of this website is paid a small commission when a purchase is made on the affiliate website.
 
-The compensation received may influence the advertising content, topics or posts made on this website. That content, advertising space or post may not always be identified as paid or sponsored content.
-
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. **Even though the owner(s) of this blog receives compensation for our posts or advertisements, we _always_ give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are _purely the writers’ own_.** Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
-
-This blog does contain content which might present a conflict of interest. This content may not always be identified.
+The owner(s) of this blog may be compensated to provide opinion on products and services. **Even though the owner(s) of this blog receives compensation for our posts or advertisements, we _always_ give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are _purely the writers’ own_.** Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 ### Amazon Disclosure
 
