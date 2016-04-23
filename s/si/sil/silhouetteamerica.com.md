@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905234621id_/http%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423210230id_/http%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette America - Silhouette America - Privacy Policy
 
@@ -44,7 +44,7 @@ This Privacy Policy applies to personally identifying information. Silhouette Am
 
 ### How to Update Personal Information
 
-You can help Silhouette America maintain the accuracy of your personal information by notifying us of any changes in your address, phone number, or email address. If you wish to update your information, or stop receiving communications from Silhouette America and its partners, you may access your account information through the relevant Silhouette America website or contact us as follows:
+You can help Silhouette America maintain the accuracy of your personal information by notifying us of any changes in your address, phone number, or email address. If you wish to update your information, or stop receiving communications from Silhouette America and its partners, you may access your account information through the relevant Silhouette America website or contact us as follows: 
 
   * Send an email to: [support@silhouetteamerica.com](mailto:support@silhouetteamerica.com)
   * Send a letter to: 
