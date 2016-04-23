@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829184808id_/http%3A//www.karvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423095719id_/http%3A//www.karvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
