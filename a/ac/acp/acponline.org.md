@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810201546id_/https%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423155819id_/https%3A//www.acponline.org/acp-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ACP
-
-### ACP Privacy Policy
+# ACP Privacy Policy | ACP
 
 #### Purpose
 
@@ -95,13 +93,13 @@ Your written notification (the " **Notification** ") to the above-referenced des
 
 Upon receipt of a Notification containing substantially all of the foregoing, Operator may take the following steps:
 
-  1. Remove or disable access to the allegedly infringing material; 
+  1. Remove or disable access to the allegedly infringing material;
   2. Forward the Notification to the alleged infringer (the "Impacted Party"); and
   3. Take reasonable steps to promptly notify the Impacted Party that Operator has removed or disabled access to the allegedly infringing material.
 
 
 
-##### Counter Notification 
+##### Counter Notification
 
 The Impacted Party may submit a counter notification in writing to the above-referenced designated agent of Operator. The written counter notification (the " **Counter Notification** ") must include substantially all of the following:
 
