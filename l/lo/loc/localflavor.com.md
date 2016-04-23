@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115255id_/https%3A//www.localflavor.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423031415id_/https%3A//www.localflavor.com/privacynotice) for the most accurate reproduction.*
 
 # LocalFlavor :: discover savings where you live
 
-### Last Updated: January 23, 2015
+### Last Updated: June 24, 2015
 
 We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
@@ -14,12 +14,11 @@ Please read this Privacy Notice carefully. By visiting and using the Site, you a
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Mark Faris  
-Online Privacy Coordinator  
-LocalFlavor.com  
-Gannett Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
+Melanie Simms  
+Local Flavor  
+Clipper Magazine, LLC Law Department  
+19975 Victor Parkway  
+Livonia, MI 48152
 
 ## How We Collect and Use Information
 
@@ -86,10 +85,10 @@ All information we gather on our Site is stored within a database to which only 
 
 If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
-Mark Faris  
+William Herman  
 Online Privacy Coordinator  
 Local Flavor  
-Gannett Law Department  
+Clipper Magazine, LLC Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
 
