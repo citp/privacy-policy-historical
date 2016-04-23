@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404040126id_/https%3A//www.bigmarker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmarker.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423204238id_/https%3A//www.bigmarker.com/privacy) for the most accurate reproduction.*
 
 # See our updated privacy policy here|BigMarker
 
@@ -56,7 +56,8 @@ We use the information you provide to:
   * Please note that information that you voluntarily make Public in your user profile, or which you disclose in a Public Community will become publicly available and viewable by others. It is up to BigMarker members to be aware of what information they are releasing to the public. BigMarker accepts no responsibility or liability for any private information that was inadvertently made public. If any information has been made public that was not intended to be made public, please send an email to [Report@BigMarker.com](mailto:Report@BigMarker.com). 
 
 
-  * You have the option to provide certain personal information to BigMarker. This optional personal information may be required in order to receive specific services. By providing such information, you are agreeing that BigMarker may store, process, and review such information. BigMarker may use this information for the purpose for which it was collected, and this information may be stored for as long as is necessary to provide you with our services. 
+  * You have the option to provide certain Personal Data to BigMarker. This optional Personal Data may be required in order to receive specific services. By providing such information, you are agreeing that BigMarker may store, process, and review such information. BigMarker may use this information for the purpose for which it was collected, and this information may be stored for as long as is necessary to provide you with our services. 
+  * When you purchase tickets to, register for or donate to an event or related services on the BigMarker, you consent to providing your Personal Data to the Organizers, Hosts and Presenters of such event and related page, if applicable.These Organizers are not bound to treat your Personal Data in accordance with this Privacy Policy. You agree that we are not responsible for the actions of these Organizers with respect to your Personal Data. It is important that you review the applicable policies of the Organizers of an event before providing Personal Data or other information in connection with that event. 
 
 
 
