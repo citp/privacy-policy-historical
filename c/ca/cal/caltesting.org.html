@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caltesting.org privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607031808id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caltesting.org privacy policy that was archived on 2016-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160423065400id_/http%3A//caltesting.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -17,39 +17,37 @@
 <!--<meta name="apple-mobile-web-app-title" content="">-->
 
 <link rel="icon" type="image/png" href="favicon.png">
-<link rel="stylesheet" href="css/normalize.css">
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/jquery.mobile.structure-1.3.1.css">
-<!--Uncompressed structure without a theme css file-->
-<link rel="stylesheet" href="css/site_wide_styles.css">
-<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/normalize.css" type="text/css">
+<link rel="stylesheet" href="css/main.css" type="text/css">
+<link rel="stylesheet" href="css/site_wide_styles.css" type="text/css">
+<link rel="stylesheet" href="css/animate.css" type="text/css">
 <!--CDN link for the latest TweenMax-->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="js/parse-1.2.18.min.js"></script>
-
 <script src="js/main.js"></script>
-<!--Scroll Magic-->
 <script type="text/javascript" src="js/vendor/scrollmagic/js/jquery.scrollmagic.js"></script>
-
 
 <!--[if lte IE 8]>
 		 <link rel="stylesheet" type="text/css" href="css/ie8.css" />
 		 <![endif]-->
 
-<!--Shim so I can use HTML5 elements and have them recognized in older IE browsers-->
-<!--Code came from here: http://code.google.com/p/html5shiv/-->
-<!--[if lt IE 9]><script src="js/vendor/html5_shim/dist/html5shiv.js"></script><![endif]-->
-
-
-<!--Typekit-->
-<script type="text/javascript" src="//use.typekit.net/scb1ceu.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-<!-- This script prevents links from opening in Mobile Safari. https://gist.github.com/1042026 -->
-<!--
-        <script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
-        -->
+<script type="text/javascript">
+        $(document).ready(function() {
+            
+			/*mobile nav*/
+			$("#nav-mobile").html($("#nav-main").html());
+    		$("#nav-trigger span").click(function(){
+        		if ($("nav #nav-mobile ul").hasClass("expanded")) {
+            		$("nav #nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
+            		
+        		} else {
+            $("nav #nav-mobile ul").addClass("expanded").slideDown(250);  
+				}
+			});
+			
+		});
+    </script>
 <script src="js/vendor/modernizr-2.6.2.min.js"></script>
 <script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -64,143 +62,124 @@
 </head>
 
 <body id="top">
-    <div id="scrolling_privacy_header_bg">
-        <div id="privacy_header_container">
-            <header>
-                <a tabindex="0" class="logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
-                <nav>
-                    <a tabindex="0" href="index.html">Home</a> 
-                    <a tabindex="0" href="solutions.html">Solutions</a> 
-                    <a tabindex="0" href="about.html">About</a>
-                    <a tabindex="0" href="careers.html">Careers</a> 
-                    <a tabindex="0" href="contact.html">Contact</a> 
-                </nav>
-            </header>
-        </div><!--end privacy_header_container-->
-    </div><!--end scrolling_privacy_header_bg-->
-    
-    <div id="scrolling_privacy_title_bg">
-         <div id="privacy_title_container">
-                <div class="content">
-                    <section>
-                        <div class="section_title_text">Privacy Policy</div>
-                        <p class="section_text">
-                            Built on the innovative work of researchers and experts at the University of Kansas, CA&amp;L has evolved to be the industry leader in online testing quality, security, reliability, capacity and innovation. After an initial implementation in Kansas in 2003, CA&amp;L began delivering statewide assessments. At the end of 2010, CA&amp;L was acquired by Educational Testing Service (ETS), which added CA&amp;L’s assessment delivery capability to its range of products and services designed to advance learning worldwide.
-                        </p>
-                    </section>
+<div id="scrolling_privacy_header_bg">
+    <div id="privacy_header_container">
+        <header> <a tabindex="0" class="logo" href="index.html"><img src="img/logo.png" alt="logo"></a>
+            <nav>
+                <div id="nav-main">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="solutions.html">Solutions</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="careers.html">Careers</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
                 </div>
-         </div><!--end privacy_title_container-->
-    </div><!--end scrolling_privacy_title_bg-->
-    
-    
-    <div id="privacy_container">
+                <div id="nav-trigger"> <span>&nbsp;</span> </div>
+                <div id="nav-mobile"></div>
+            </nav>
+        </header>
+    </div>
+    <!--end privacy_header_container--> 
+</div>
+<!--end scrolling_privacy_header_bg-->
+
+<div id="scrolling_privacy_title_bg">
+    <div id="privacy_title_container">
         <div class="content">
             <section>
-                    <div class="section_title_text">General Information</div>
-                    <p class="section_text">INFORMATION REGARDING THE POLICIES AND PROCEDURES OF COMPUTERIZED ASSESSMENTS AND LEARNING, LLC IN ITS COLLECTION, PROTECTION, USE AND DISCLOSURE OF CERTAIN PERSONAL INFORMATION GATHERED FROM STUDENTS IS SET FORTH IN THIS PRIVACY POLICY. IF YOU ARE A STUDENT UNDER THE AGE OF 18, PLEASE REVIEW THIS POLICY STATEMENT WITH YOUR PARENT OR GUARDIAN. IF YOU HAVE ANY CONCERNS REGARDING THE POTENTIAL DISSEMINATION OF YOUR ASSESSMENT RESULTS BY YOUR EDUCATIONAL INSTITUTION, PLEASE CONSULT THE PRIVACY POLICIES OF SUCH INSTITUTION.
-                    </p>
-                    
-                    <div class="section_title_text">Our commitment to privacy</div>
-                    <p class="section_text">Computerized Assessments and Learning, LLC (CA&amp;L) takes your privacy seriously. We are committed to protecting the privacy of personally identifiable information sent to us by students, administrators and educational institutions. It remains our policy and our commitment not to distribute, sell, rent or in any way make available any student’s name, email address or other personal information to any third party without such student’s prior written consent.
-                    </p>
-                    
-                    <div class="section_title_text">What information CA&amp;L might collect</div>
-                    <p class="section_text">CA&amp;L provides online formative, interim, and summative testing for assessment by various educational institutions. Certain information is collected in this process from the student participating in the testing process, the account administrator administering the test(s), and the educational institution participating in this process. Set forth below is a description of the information that may be collected by CA&amp;L in connection with CA&amp;L’s services:
-                    </p>
-                    <ul>
-                            <li><strong>Students</strong>: A student participating in any testing or 
-                            assessment program will be required to access the testing materials online. 
-                            Student information collected in connection with the testing process typically 
-                            includes the following: <br><br>
-                                <ul>
-                                    <li>Name</li>
-                                    <li>Student Identification number</li>
-                                    <li>Student demographic information</li>
-                                    <li>Student Test Scores</li>
-                                    <li>System Access Information</li>
-                                    <li>IP Address of computers used for testing</li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <ul>
-                            <li><strong>Administrators</strong>: Information collected from administrators 
-                            monitoring the testing program typically includes the following:<br><br>
-                                <ul>
-                                    <li>Name</li>
-                                    <li>Administrator Identification number</li>
-                                    <li>Work mail address</li>
-                                    <li>Work phone number</li>
-                                    <li>Email Address</li>
-                                    <li>System Access Information</li>
-                                    <li>IP Address of computers used to administer the assessments</li>
-                                </ul>
-                            </li>
-                        </ul>
-                        <ul>
-                            <li><strong>Educational Institutions</strong>: Information collected from educational 
-                            institutions typically includes:<br><br>
-                                <ul>
-                                    <li>Name</li>
-                                    <li>ID Number</li>
-                                    <li>Contact Information (Contact Name, Address, Phone number, Email, Fax)</li>
-                                    <li>Employee list (system users must be associated with an educational institution)</li>
-                                    <li>Student list</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    <div class="section_title_text">CA&amp;L disclosure of information</div>
-                    <p class="section_text">CA&amp;L shall not knowingly sell, lend, or disclose to third parties any information collected from students, administrators and educational institutions, except as disclosed in this Privacy Policy or in the event CA&amp;L is required by law to do so. CA&amp;L may disclose information to its employees, consultants and agents who have a legitimate need to know the information for the purpose of providing quality service to our customers, and monitoring and improving the security of our network. CA&amp;L reserves the right to disclose this information when special circumstances call for it, such as when disclosure is required by law or court order or when disclosure is, in our sole discretion, necessary to protect our legal rights, including intellectual property rights.
-                    </p>
-                    
-                    <div class="section_title_text">Protection</div>
-                    <p class="section_text">CA&amp;L servers are hosted in a high security data center which is staffed 24/7 and monitored by surveillance cameras. All equipment is securely locked and only authorized personnel have access. The data center has completed a SAS 70 audit. All logins and registrations are communicated via HTTPS, protected by an SSL certificate with a 2048 bit key. All data is completely private to the account administrator and is protected by secure servers.
-                    </p>
-                    
-                    <div class="section_title_text">Links</div>
-                    <p class="section_text">The CA&amp;L website may contain links to other websites. CA&amp;L does not control the privacy policies or practices of these websites, and therefore users should review those policies before providing any information to a website linked from the CA&amp;L site. CA&amp;L is not responsible for the content or practices of any linked websites, and CA&amp;L provides these links solely for the convenience and information of our visitors.
-                    </p>
-                    
-                    <div class="section_title_text">Acceptance of Terms</div>
-                    <p class="section_text">CA&amp;L is committed to protecting the privacy of all students, administrators and educational institutions utilizing CA&amp;L’s assessment tools. By using the CA&amp;L website, services, and applications, the user consents to the collection and use of the information provided in accordance with this Privacy Policy.
-                    </p>
-                    
-                    <div class="section_title_text">General</div>
-                    <p class="section_text">
-                        CA&amp;L may amend this policy from time to time. If such amendments affect how CA&amp;L 
-                        uses or discloses personal information already hosted by CA&amp;L in a material way, 
-                        CA&amp;L will obtain consent. New versions will be posted on the CA&amp;L web site; 
-                        users should check periodically for updates.
-                    </p>
-                    
-                    <p class="section_text">
-                        Queries regarding the CA&amp;L privacy policy may be sent directly to CA&amp;L: <br><br>
-                        1202 East 23rd Street, Suite D<br>
-                        Lawrence, KS 66046<br>
-                        785-856-3850<br>
-                        http://www.caltesting.org/<br>
-                    </p>
-                </section></div>
-            
-    </div><!--end privacy_container-->
-    
-    
-    <div id="scrolling_footer_light_bg">
-    	<footer>
-            <nav> 
-                <a tabindex="0" href="http://ncea.caltesting.org">Acre</a>
-                <a tabindex="0" href="privacy.html" class="selected">Privacy</a>
-                <a tabindex="0" href="#top">Top</a> 
-            </nav><!--end nav--> 
-            <span class="copyright">Copyright © <span class="copyright_date"></span> Computerized Assessments and Learning</span><!--date comes from JS--> 
-        </footer>
+                <div class="section_title_text">Privacy Policy</div>
+                <p class="section_text"> Built on the innovative work of researchers and experts at the University of Kansas, CA&amp;L has evolved to be the industry leader in online testing quality, security, reliability, capacity and innovation. After an initial implementation in Kansas in 2003, CA&amp;L began delivering statewide assessments. At the end of 2010, CA&amp;L was acquired by Educational Testing Service (ETS), which added CA&amp;L’s assessment delivery capability to its range of products and services designed to advance learning worldwide. </p>
+            </section>
+        </div>
     </div>
+    <!--end privacy_title_container--> 
+</div>
+<!--end scrolling_privacy_title_bg-->
 
+<div id="privacy_container">
+    <div class="content">
+    <section>
+        <div class="section_title_text">General Information</div>
+        <p class="section_text">INFORMATION REGARDING THE POLICIES AND PROCEDURES OF COMPUTERIZED ASSESSMENTS AND LEARNING, LLC IN ITS COLLECTION, PROTECTION, USE AND DISCLOSURE OF CERTAIN PERSONAL INFORMATION GATHERED FROM STUDENTS IS SET FORTH IN THIS PRIVACY POLICY. IF YOU ARE A STUDENT UNDER THE AGE OF 18, PLEASE REVIEW THIS POLICY STATEMENT WITH YOUR PARENT OR GUARDIAN. IF YOU HAVE ANY CONCERNS REGARDING THE POTENTIAL DISSEMINATION OF YOUR ASSESSMENT RESULTS BY YOUR EDUCATIONAL INSTITUTION, PLEASE CONSULT THE PRIVACY POLICIES OF SUCH INSTITUTION. </p>
+        <div class="section_title_text">Our commitment to privacy</div>
+        <p class="section_text">Computerized Assessments and Learning, LLC (CA&amp;L) takes your privacy seriously. We are committed to protecting the privacy of personally identifiable information sent to us by students, administrators and educational institutions. It remains our policy and our commitment not to distribute, sell, rent or in any way make available any student’s name, email address or other personal information to any third party without such student’s prior written consent. </p>
+        <div class="section_title_text">What information CA&amp;L might collect</div>
+        <p class="section_text">CA&amp;L provides online formative, interim, and summative testing for assessment by various educational institutions. Certain information is collected in this process from the student participating in the testing process, the account administrator administering the test(s), and the educational institution participating in this process. Set forth below is a description of the information that may be collected by CA&amp;L in connection with CA&amp;L’s services: </p>
+        <ul>
+            <li><strong>Students</strong>: A student participating in any testing or 
+                assessment program will be required to access the testing materials online. 
+                Student information collected in connection with the testing process typically 
+                includes the following: <br>
+                <br>
+                <ul>
+                    <li>Name</li>
+                    <li>Student Identification number</li>
+                    <li>Student demographic information</li>
+                    <li>Student Test Scores</li>
+                    <li>System Access Information</li>
+                    <li>IP Address of computers used for testing</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li><strong>Administrators</strong>: Information collected from administrators 
+                monitoring the testing program typically includes the following:<br>
+                <br>
+                <ul>
+                    <li>Name</li>
+                    <li>Administrator Identification number</li>
+                    <li>Work mail address</li>
+                    <li>Work phone number</li>
+                    <li>Email Address</li>
+                    <li>System Access Information</li>
+                    <li>IP Address of computers used to administer the assessments</li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li><strong>Educational Institutions</strong>: Information collected from educational 
+                institutions typically includes:<br>
+                <br>
+                <ul>
+                    <li>Name</li>
+                    <li>ID Number</li>
+                    <li>Contact Information (Contact Name, Address, Phone number, Email, Fax)</li>
+                    <li>Employee list (system users must be associated with an educational institution)</li>
+                    <li>Student list</li>
+                </ul>
+            </li>
+        </ul>
+        <div class="section_title_text">CA&amp;L disclosure of information</div>
+        <p class="section_text">CA&amp;L shall not knowingly sell, lend, or disclose to third parties any information collected from students, administrators and educational institutions, except as disclosed in this Privacy Policy or in the event CA&amp;L is required by law to do so. CA&amp;L may disclose information to its employees, consultants and agents who have a legitimate need to know the information for the purpose of providing quality service to our customers, and monitoring and improving the security of our network. CA&amp;L reserves the right to disclose this information when special circumstances call for it, such as when disclosure is required by law or court order or when disclosure is, in our sole discretion, necessary to protect our legal rights, including intellectual property rights. </p>
+        <div class="section_title_text">Protection</div>
+        <p class="section_text">CA&amp;L servers are hosted in a high security data center which is staffed 24/7 and monitored by surveillance cameras. All equipment is securely locked and only authorized personnel have access. The data center has completed a SAS 70 audit. All logins and registrations are communicated via HTTPS, protected by an SSL certificate with a 2048 bit key. All data is completely private to the account administrator and is protected by secure servers. </p>
+        <div class="section_title_text">Links</div>
+        <p class="section_text">The CA&amp;L website may contain links to other websites. CA&amp;L does not control the privacy policies or practices of these websites, and therefore users should review those policies before providing any information to a website linked from the CA&amp;L site. CA&amp;L is not responsible for the content or practices of any linked websites, and CA&amp;L provides these links solely for the convenience and information of our visitors. </p>
+        <div class="section_title_text">Acceptance of Terms</div>
+        <p class="section_text">CA&amp;L is committed to protecting the privacy of all students, administrators and educational institutions utilizing CA&amp;L’s assessment tools. By using the CA&amp;L website, services, and applications, the user consents to the collection and use of the information provided in accordance with this Privacy Policy. </p>
+        <div class="section_title_text">General</div>
+        <p class="section_text"> CA&amp;L may amend this policy from time to time. If such amendments affect how CA&amp;L 
+            uses or discloses personal information already hosted by CA&amp;L in a material way, 
+            CA&amp;L will obtain consent. New versions will be posted on the CA&amp;L web site; 
+            users should check periodically for updates. </p>
+        <p class="section_text"> Queries regarding the CA&amp;L privacy policy may be sent directly to CA&amp;L: <br>
+            <br>
+            1202 East 23rd Street, Suite D<br>
+            Lawrence, KS 66046<br>
+            785-856-3850<br>
+            http://www.caltesting.org/<br>
+        </p>
+        </section></div>
     
-    
-  
+</div>
+<!--end privacy_container-->
 
-
-
+<div id="scrolling_footer_light_bg">
+    <footer> <a href="http://ncea.caltesting.org">ACRE</a> <a href="privacy.html">Privacy</a>
+        <div class="copyright">Copyright © 2016 Computerized Assessments and Learning</div>
+    </footer>
+</div>
 
 <!-- scripts at the bottom of the page --> 
 <script src="js/helper.js"></script> 
