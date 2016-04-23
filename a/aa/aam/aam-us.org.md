@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053136id_/http%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aam-us.org privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423090534id_/http%3A//www.aam-us.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,4 +34,4 @@ We always use industry-standard encryption technologies such as Secure Sockets L
 
 ## 5.      Questions and Contact Information
 
-If you believe that AAM may not be complying with this Privacy Policy, or you have any questions about this Privacy Policy or the PII collection and use practices of the Site, you may contact us at [membership@aam-us.org](mailto:membership@aam-us.org), (866) 226-2150, or Attn. Chief Operating Officer **,** 1575 Eye Street NW, Suite 400, Washington, DC 20005. 
+If you believe that AAM may not be complying with this Privacy Policy, or you have any questions about this Privacy Policy or the PII collection and use practices of the Site, you may contact us at [membership@aam-us.org](mailto:membership@aam-us.org), (866) 226-2150, or Attn. Vice President, Finance & Operations **,** 2451 Crystal Drive, Suite 1005 Arlington, VA 22202. 
