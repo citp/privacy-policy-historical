@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatrunswhere.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322084030id_/https%3A//www.whatrunswhere.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatrunswhere.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423090053id_/https%3A//www.whatrunswhere.com/privacy.php) for the most accurate reproduction.*
 
-# WhatRunsWhere
+# WhatRunsWhere | Display and Mobile Competitive Intelligence for Online Advertising
 
 ## Privacy Policy
 
@@ -34,6 +34,6 @@ We have implemented a number of security measures to help protect against the lo
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. If we make material changes to the manner in which we handle your personal information, we will notify you in advance of the new policy taking effect so that you have an opportunity to review and consent to the new terms.
 
-This site is owned and operated by Data Driven Marketing, Inc., 2768 Carlsbad Boulevard, #100, Carlsbad, CA 92008.
+This site is owned and operated by Data Driven Marketing, Inc., 225 Pierce Street #10, San Francisco, California, USA 94117.
 
 **Effective Date: 1/18/2011**
