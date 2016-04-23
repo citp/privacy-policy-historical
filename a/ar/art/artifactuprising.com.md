@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171220id_/http%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artifactuprising.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423094315id_/https%3A//www.artifactuprising.com/privacy) for the most accurate reproduction.*
 
 # Privacy
+
+WARNING: COOKIES REQUIRED TO USE THIS SITE
+
+IN ORDER TO BUILD AND SAVE PROJECTS, PLEASE ENABLE COOKIES OR TURN OFF PRIVATE/INCOGNITO BROWSING.
 
 Artifact Uprising LLC (“Artifact Uprising,” “we,” or “us”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through websites operated by us from which you are accessing this Privacy Policy (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and the Apps, the “Services”). By providing Personal Information to us, you acknowledge that you understand and agree to this Privacy Policy.
 
