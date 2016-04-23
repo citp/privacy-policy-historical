@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplevideopro.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033534id_/https%3A//simplevideopro.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplevideopro.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423220904id_/https%3A//simplevideopro.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Simple Video Pro
 
 Effective Date: August 1, 2014
 
@@ -104,7 +104,7 @@ This site may contain links to other websites with whom we have a business relat
 
 YOU MUST BE EIGHTEEN (18) YEARS OF AGE OR OLDER TO ACCESS THIS WEBSITE. IF YOU ARE UNDER EIGHTEEN (18) YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEBSITE, NO INFORMATION OBTAINED BY THIS WEBSITE, FALLS WITHIN THE CHILDREN’S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
 
-If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at: 
+If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
 Red Zebra Media, Inc.  
 Attn: Privacy Policy Officer  
