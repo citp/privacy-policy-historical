@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the attendify.com privacy policy that was archived on 2015-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150914183343id_/https%3A//attendify.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the attendify.com privacy policy that was archived on 2016-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160423141756id_/https%3A//attendify.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js flexbox"><head>
   <meta charset="utf-8">
@@ -23,7 +23,7 @@
   <!--CSS include-->
   <style type="text/css" media="all">
     
-      @import url(//cdn.attendify.com/website/0.2.29-production/assets/css/attendify-site-styles.min.css);
+      @import url(//cdn.attendify.com/website/0.4.31-production/assets/css/attendify-site-styles.min.css);
     
     
   </style>
@@ -52,9 +52,9 @@
       analytics.page()
     }}();
   </script>
-  <script src="//cdn.attendify.com/marketing-scripts/0.0.3-master/markevents.min.js"></script>
-  
+  <script src="//cdn.attendify.com/marketing-scripts/0.0.6-master/markevents.min.js"></script>
 
+  
 
 
 
@@ -143,7 +143,7 @@
               <div>
                 <div id="create-event-app" class="header__nav__dropdown__content">
                   <h2 class="header__nav__dropdown__content__title">Create</h2>
-                  <p>Create an event app and <br> test it instantly, free.</p>
+                  <p>Create an event app and <br> test it instantly.</p>
                   <a href="/create-event-app/" class="header__nav__dropdown__content__btn">Learn More</a>
                 </div>
                 <div id="engage-event-app" class="header__nav__dropdown__content">
@@ -177,6 +177,9 @@
           </li>
           <li class="header__nav__unit  header__nav__link-trigger  header__nav__dropdown-trigger">
             <a class="header__nav__link" href="/pricing/">Pricing</a>
+          </li>
+          <li class="header__nav__unit  header__nav__link-trigger  header__nav__dropdown-trigger">
+            <a class="header__nav__link" href="/partners/">Partners</a>
           </li>
         </ul>
       </nav>
@@ -222,6 +225,7 @@
         <li><a href="/how_it_works/" class="header-mobile__nav__unit  no-dropdown">How it Works</a></li>
         <li><a href="/customers/" class="header-mobile__nav__unit  no-dropdown">Customers</a></li>
         <li><a href="/pricing/" class="header-mobile__nav__unit  no-dropdown">Pricing</a></li>
+        <li><a href="/partners/" class="header-mobile__nav__unit  no-dropdown">Partners</a></li>
         <li><a href="/contact/" class="header-mobile__nav__unit  no-dropdown">Contact</a></li>
         <li><a href="https://attendify.com/blog" class="header-mobile__nav__unit  no-dropdown">Blog</a></li>
         <li><a href="https://attendify.zendesk.com/" class="header-mobile__nav__unit  no-dropdown">Support</a></li>
@@ -265,7 +269,7 @@
       </p><p><a href="http://safeharbor.export.gov/list.aspx">We self-certify compliance with:</a></p>
       <p>
         <a class="img-container" href="http://www.export.gov/safeharbor">
-          <img title="Safe Harbor Privacy Policy" alt="Safe Harbor Privacy Policy" src="//cdn.attendify.com/website/0.2.29-production/assets/img/content/safe-harbor-privacy.png">
+          <img title="Safe Harbor Privacy Policy" alt="Safe Harbor Privacy Policy" src="//cdn.attendify.com/website/0.4.31-production/assets/img/content/safe-harbor-privacy.png">
         </a>
       </p>
       <p>This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. 
@@ -349,6 +353,7 @@
               <li><a class="footer__nav__link" href="/how_it_works/">How it Works</a></li>
               <li><a class="footer__nav__link" href="/customers/">Customers</a></li>
               <li><a class="footer__nav__link" href="/careers/">Careers</a></li>
+              <li><a class="footer__nav__link" href="/faq/">FAQ</a></li>
             </ul>
           </li>
           <li class="footer__nav__column">
@@ -356,7 +361,7 @@
             <ul class="footer__nav__column  footer__nav__column--dropdown">
               <li><a class="footer__nav__link" href="https://developers.attendify.com/">Developers / API</a></li>
               <li><a class="footer__nav__link" href="https://attendify.zendesk.com/">Support Center</a></li>
-              <li><a class="footer__nav__link" href="/partner/">Partner Programs</a></li>
+              <li><a class="footer__nav__link" href="/partners/">Partners</a></li>
               <li><a class="footer__nav__link" href="http://attendify.com/blog">Blog</a></li>
             </ul>
           </li>
@@ -390,7 +395,7 @@
 
       <div class="footer__layout-btm">
         <div class="footer__nav__column">
-          <small class="footer__copy">© 2015 Attendify. All Rights Reserved</small>
+          <small class="footer__copy">© 2016 Attendify. All Rights Reserved</small>
         </div>
         <div class="footer__nav__column"><!-- need to contain proportions --></div>
         <div class="footer__nav__column"><!-- need to contain proportions --></div>
@@ -409,7 +414,7 @@
 <!--SCRIPTS  start-->
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <script src="//cdn.attendify.com/website/0.2.29-production/assets/js/attendify-website-scripts.min.js"></script>
+  <script src="//cdn.attendify.com/website/0.4.31-production/assets/js/attendify-website-scripts.min.js"></script>
 
 
 <!--end SCRIPTS-->
@@ -418,18 +423,21 @@
   <script type="text/javascript">
     $(function(){
       
-        $(".z-signup-form").each(function(index, item){ 
+        $(".z-signup-form").each(function(index, item){
           new SignupForm("/account/signup/", $(item));
         });
       
       $(".z-message-form").each(function(index, item){
-        new MessageForm("/contact/", $(item));  
+        new MessageForm("/contact/", $(item));
       });
       $(".z-pricing_request").each(function(index, item){
-        new PricingRequest("/pricing_request/", $(item));  
+        new PricingRequest("/pricing_request/", $(item));
       });
       $(".z-partnership_form").each(function(index, item){
-        new PartnershipForm("/partner/", $(item));  
+        new PartnershipForm("/partners/", $(item));
+      });
+      $(".z-create_app_for_me").each(function(index, item){
+        new PricingRequest("/create_app_for_me/", $(item));  
       });
     });
   </script>
