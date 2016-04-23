@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoswiper.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315230649id_/http%3A//videoswiper.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoswiper.net privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423155528id_/http%3A//videoswiper.net/privacy.html) for the most accurate reproduction.*
 
 # VideoSWIPER - Video Search Engine Web 2.0 Video Application Add Millions of Videos to Your Websites
 
