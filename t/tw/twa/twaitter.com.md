@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twaitter.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315150240id_/https%3A//www.gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twaitter.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423230710id_/https%3A//www.gremln.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
 
 # Secure Social Media Compliance and Marketing-Gremln|Gremlin-Privacy Policy
 
