@@ -1,59 +1,101 @@
-> *The following text is extracted and transformed from the freetoolbox.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018193522id_/http%3A//www.freetoolbox.com/%3Fid%3D203) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetoolbox.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423061111id_/https%3A//www.freetoolbox.com/u/pages/privacy-22) for the most accurate reproduction.*
 
-# Privacy Policy - Video Sharing Empire - VSE | Video Sharing Empire
+# Free Tool Box
 
-Your privacy is very important to us. We want to make your experience on the internet as enjoyable and rewarding as possible, and we want you to use the internet's vast array of information, tools, and opportunities with complete confidence.
+### Privacy Policy
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how the owner of this site (hereafter the "Company") collects information from all end users of our internet services (herein the "Services"), those who access some of our "Services" but do not have accounts (herein "Visitors"), as well as those who may sign up, purchase products and/or pay a monthly service fee to subscribe to the "Services" (herein "Members"). Also included is what we do with the information we collect, and the choices "Visitors" and "Members" have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
+This Privacy Policy governs the manner in which Multiplex Systems collects, uses, maintains and discloses information collected from users (each, a "User") of the www.freetoolbox.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Multiplex Systems.
 
-**Personal Information Our Company Collects and How It Is Used**
+##### Personal identification information
 
-**Introduction:** "Company" collects information in different ways from "Visitors" and "Members" who access the various parts of our "Services" and the network and web sites accessible through our "Services."
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Registration:** "Members" may be asked to provide certain personal information when they sign up for our products or "Services" including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the "Services." The personal information collected from "Members" during the registration process is used to manage each "Member's" account (such as for billing purposes). This information may be shared with third parties, as stated herein or in special circumstances.
+##### Non-personal identification information
 
-However, in instances where our company and a partner jointly promote our "Services," we may provide the partner certain professional information, such as name, address, and username of persons who subscribed to the "Services" as a result of the joint promotion for the purpose of offering you other products and services.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information "Members" provide during registration (such as the total number, but not the names, of "Members"). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the "Services."
+##### Web browser cookies
 
-Also, with purchases, we supply our "Member's" contact information to our business partners who then may contact the "Member" by telephone after the purchase. Sales proceeds are collected by that business partner company. We may also supply other companies with contact information for mail offers we believe would be of interest to our members, with or without compensation from those companies. At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Our Company Partners and Sponsors:** Some products and services may be offered to "Visitors" and "Members" in conjunction with an affiliate, independent contractor seller, or non-affiliated partner. To provide "Visitors" and "Members" some of these products and services, the partner may need to collect and maintain personal information.
+* * *
 
-**Online Shopping:** At some web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog, or new product and service updates. In many cases you may be asked to provide contact information, such as your name, address, email address, telephone number, and credit/debit card information.
+### How we use collected information
 
-If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise caution when doing so.  
-If you order services of products directly from our company, we use the personal information you provide to process that order. We do share this information with outside parties that we do business with.
+**Multiplex Systems may collect and use Users personal information for the following purposes:**
 
-**Online Advertisements:** "Company" may display our online advertisements. In those cases we share information about our "Visitors" and "Members" collected through the registration process as well as through online surveys and promotions with these advertisers.
+#### \- To improve customer service
 
-Additionally, in some instances, we use this information to deliver tailored advertisements, or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us with an advertisement tailored to that audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its "Visitors" or "Members" with these advertisers or joint venture companies.
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-**Responses to Email Inquiries:** When "Visitors" or "Members" send email inquiries to our company the return email address is used to answer the email inquiry we receive.
+#### \- To personalize user experience
 
-**Voluntary Customer Surveys:** We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us improve the types of products and services we offer and how we provide them to our customers.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
 
-We may take the information we receive from individuals responding to our Customer Surveys and combine, or aggregate, it with the responses from other customers we may have, to create broader, more generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry, or other demographic information). We then use the aggregated information to improve the quality of our services to the customers, and to develop new services and products. This aggregated, non-personally indentifying information may be shared with third parties.
+#### \- To improve our Site
 
-**Special Cases:** It is"Company's" policy to use or share the personal information about "Visitors" or "Members" in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses  
-Also, we may disclose personal information about "Visitors" or "Members," or information regarding your use of the "Services" or web sites accessible through our "Services," for any reason if, in our sole discretion, we believe it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information in order to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating the Terms of Use, or other user policies, to operate the "Services" properly, or to protect our company and our "Members."
+We may use feedback you provide to improve our products and services.
 
-**Notice to California Residents: Your California Privacy Rights**  
-Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to the administrator of this site and please include the phrase "California Privacy Request" in the subject line, the domain of the web site you are inquiring about, and your name, address, and email address. We will respond to you within 30 days of receiving such a request.
+#### \- To process payments
 
-**"Cookies" and How Our Company Uses Them:** : A cookie is a small data file that can be placed on your hard drive when you visit certain web sites."Company" may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide to manage our telecommunications networks.
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
 
-Advertisers and partners may also use their own cookies. We do not control the use of these cookies and expressly disclaim responsibility for information collected through them.
+#### \- To share your information with third parties
 
-**Our Company Commitment to Children's Privacy:** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our web sites to persons thirteen years of age and older.  
-YOU MUST BE THIRTEEN (13) YEARS OF AGE OF OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER THIRTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE. NO INFORMATION OBTAINED BY THIS WEB SITE FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO.
+We may share or sell information with third parties for marketing or other purposes.
 
-**Public Forums:** Please remember that any information you may disclose in any "Member" directory, or other public areas of our web sites, or the internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
+#### \- To run a promotion, contest, survey or other Site feature
 
-**Our Company's Commitment to Data Security:** Services and web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our networks and systems, we cannot guarantee that our security measures will prevent third-party 'hackers' from illegally obtaining this information.
+To send Users information they agreed to receive about topics we think will be of interest to them.
 
-**Where to Direct Questions About Our Privacy Policy:** : If you have any questions about this Privacy Policy or the practices described herein, you may contact us though the contact information provided on this web site.
+#### \- To send periodic emails, text or phone calls
 
-**Revisions to This Policy:** "Company" reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+We may use the this data to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Last Updated: April 5th, 2009.
+* * *
+
+##### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+##### Sharing your personal information
+
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+##### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+##### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+##### Compliance with children's online privacy protection act
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+##### Changes to this privacy policy
+
+Multiplex Systems has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+##### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+* * *
+
+### Contacting us
+
+**If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:**
+
+  
+Multiplex Systems, Inc  
+229 East 85th Street #71  
+New York, NY 10028  
+6462589400
+
+multiplexsystems@gmail.com
+
+This document was last updated on October 1, 2013
