@@ -1,100 +1,96 @@
-> *The following text is extracted and transformed from the cointent.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointent.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423130152id_/https%3A//cointent.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | CoinTent
 
-**Go Daddy Respects Your Privacy**
+#### Effective as of March 12, 2014
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### INTRODUCTION
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. We take your privacy and the privacy of our publishers very seriously. Please read this Privacy Policy to learn more about how CoinTent Inc. (“CoinTent,” “we,” our,” or “us”) treats information, including personally identifiable information when you visit our website located at https://cointent.com (this “Site”) or a publisher site that is selling content using CoinTent’s services. We provide this Privacy Policy because you have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [support@cointent.com](mailto:support@cointent.com).
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### What This Policy Covers
 
-**Information Collection and Use**
+This policy covers the ways in which CoinTent treats information, including personally identifiable information, which we obtain when you use the CoinTent. We regard personally identifiable information as information that someone can use to identify or contact you in person, such as your real name, telephone number, birth date, email address, or physical mailing address. Information that we use internally to identify you as a user in our system is not considered personally identifiable information. This policy does not cover privacy practices of third parties, such as the Publishers we work with, or third-party payment process services.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+### How We Collect Information
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+##### Information Provided By CoinTent consumers.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Content consumers must create an account with CoinTent to access content through our services. To create an account we will require your email address and will send you an email to that address to confirm you are the owner of that email address. If you choose to fund your account you will need to provide payment information. If you fund your account with a credit card, CoinTent may collect your credit card number; expiration date; name on the credit card; card security code, zip/postal code; and physical address.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+### Editing / Deleting Account Information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+##### Account access:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Any user who creates a CoinTent account can view the personally identifiable information we have collected from that user by logging in on our website and viewing their account page. To completely delete your account and accompanying personal information, please contact us at [support@cointent.com](mailto:support@cointent.com).
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Information We Do Not Collect From Any Users
 
-**Security**
+##### Children.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+ As explained further in our Consumer Terms of Service and Publisher Terms of Service, you must be 18 years of age or older – or, if you are under the age of majority in your jurisdiction, have the consent of your parent or guardian – to use the CoinTent Service. Therefore, we do not knowingly collect personally identifiable information about children. In accordance with Federal Children’s Online Privacy Protection Act of 1998 (COPPA), CoinTent will never knowingly solicit, nor will we accept, personally identifiable information from users known to be under thirteen (13) years of age. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [support@cointent.com](mailto:support@cointent.com).
 
-**Updating Your Information**
+##### Social Security Number.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ We do not require your social security number to use the CoinTent Service or to access any part of our site. CoinTent will never ask for your social security number except in the course of required tax documentation prior to publisher payments.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Information We Track
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+##### Log Files.
 
-      iii.      You may call us at: (480) 505-8800
+ Similar to many websites and internet services, we gather certain anonymous, non-personal information automatically and store it in web server log files. This information includes internet protocol addresses, browser type, internet service provider (ISP), site entry/exit pages, operating system, date/time stamp, and click stream data. We use this information to improve our site, analyze trends, administer the site, and gather aggregate information about our user base as a whole. Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed, and therefore does not include your personally identifiable information. Of course, if you complete transactions through the CoinTent site, we will collect and track payment information so that we can properly pay our publisher partners.
 
-       iv.      You may fax us at: (480) 505-8844
+##### Cookies.
 
-**Sending Emails**
+ A cookie is a small text file that is stored on a user’s computer for record- keeping purposes. It can also help us understand how our site visitors click to our site, what pages they view during their visit, and their account and preference information as users of the CoinTent Service. Similar to many websites, the CoinTent Service stores an encrypted cookie on your computer so we can remember you when you come back without requiring you to log in each time. Cookies also allow us to track and understand the interests of our users to enhance the overall experience on our site. Cookies used by CoinTent do not include your personally identifiable information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you prefer not to receive cookies, you can set your web browser software to disable them. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. Please note that your browser must be configured to accept cookies to use the CoinTent Service.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+### HOW WE USE INFORMATION
 
-**Compliance with Laws and Law Enforcement**
+##### Information Use:
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:
 
-**Third Party Service Providers**
+  * provide CoinTent Services and customer support;
+  * process transactions and send notices about your transactions;
+  * resolve disputes, collect fees, and troubleshoot problems;
+  * prevent potentially prohibited or illegal activities, and enforce our User Terms;
+  * customize, measure, and improve CoinTent Services and the content, layout, and operation of our websites and applications;
+  * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
+### HOW WE SHARE AND DISCLOSE INFORMATION
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+##### With Third-Parties.
 
-**Contests/Surveys**
+We share your personally identifiable information, i.e. user name and email address, with Publishers that use the CoinTent Service to make their content available to Consumers. We do so because when a Consumer purchases content from one of our Publisher partners they are in effect acting as a customer of the Publisher. Your data is co-owned with the Publisher and CoinTent.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Occasionally we share anonymous, non-personal, aggregate information about our user base with partners or advertisers, and we may publish these aggregate usage statistics on our website for the interest of our users. We do not tie this shared or published data to the personally identifiable information of any person.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+##### As Necessary In Certain Legal Circumstances.
 
-**Tell-A-Friend**
+ We reserve the right to disclose your information, including personally identifiable information, when we have a good faith belief that access, use, preservation or disclosure of such information is necessary to (a) comply with any law, regulation, legal process or enforceable governmental request, (b) enforce this Privacy Policy, including investigation of potential violations of this Privacy Policy, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of CoinTent, its users, or the public as required or permitted by law.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+##### Acquisition.
 
-**What Happens to my Personal Information if I Opt Out?**
+ If CoinTent becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, including bankruptcy, our assets, including user information, may be transferred to a third party. At that time, your user information may become subject to that third party’s privacy policy. Before we transfer your user information, we will notify you either by email or by posting a prominent notice on our site, and we will remind you of your ability to add, edit or delete your personally identifiable information from your account management options page in advance of any such transfer.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+### HOW WE KEEP INFORMATION SECURE
 
-**Transfer of Data Abroad**
+##### Network Security.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+ We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems. We have implemented a variety of industry standard encryption and security technologies and procedures to protect your information, including your personal information, stored in our computer systems from unauthorized access. Please be aware that no method of transmission over the internet, or method of electronic storage, is 100% secure, thus we strive to use commercially reasonable means to protect your personal information, but we cannot guarantee its absolute security.
 
-**Changes in Our Practices**
+##### Management Procedures.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+ We also maintain industry standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+### UPDATES TO OUR PRIVACY POLICY
 
-**Contacting Our Site**
+We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide notice of the changes prominently on this page of our website.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+### How you can contact us about privacy questions
 
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have questions or concerns with this policy please contact us at [support@cointent.com](mailto:support@cointent.com).
