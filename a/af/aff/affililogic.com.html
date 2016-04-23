@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the affililogic.com privacy policy that was archived on 2015-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150810081124id_/http%3A//affililogic.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the affililogic.com privacy policy that was archived on 2016-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160423075231id_/http%3A//affililogic.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" data-ng-app="affiliLogic"><head><title>
 
-</title>
+</title><meta name="viewport" content="width=device-width; height=device-height; initial-scale=1; maximum-scale=1;minimal-ui">
+
     <!--#
       <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.20/angular.min.js"></script>
@@ -12,18 +13,19 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.2/angular-route.min.js"></script>
- 
+ <link href="https://fonts.googleapis.com/css?family=Lato:400,700,300,900" rel="stylesheet" type="text/css"><link href="/font/awesome/css/font-awesome.min.css?v=&lt;%=appVersion%&gt;" rel="stylesheet"><link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,300italic,700" rel="stylesheet" type="text/css"><link rel="icon" type="image/x-icon" href="http://www.affililogic.com/favicon.ico">
 
-
-
-     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,300italic,700" rel="stylesheet" type="text/css"><link rel="icon" type="image/x-icon" href="http://www.affililogic.com/favicon.ico">
-
-    <link rel="stylesheet" href="/skins/brand1/stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="/skins/brand1/stylesheet.css?v=1.10" type="text/css">
      
     <script type="text/javascript">
         var affiliLogic = angular.module("affiliLogic", []);
         function scrollToAnchor(aid) {
             var aTag = $("a[name='" + aid + "']");
+            if (aTag.length==0)
+            {
+                location.href = "/#contactanchor"
+            }
+            else
             $('html,body').animate({ scrollTop: aTag.offset().top }, 'slow');
         }
 
@@ -63,9 +65,9 @@
             }
         }     
     </script>
-      <script src="/Controllers/home.js"></script>
-    <script src="/Partners/Directives/generic.js"></script>
-       <script src="/partners/tools.js"></script>
+      <script src="/Controllers/home.js?v=1.10"></script>
+    <script src="/Partners/Directives/generic.js?v=1.10"></script>
+       <script src="/partners/tools.js?v=1.10"></script>
 </head>
 <body data-ng-controller="homePageCtrl">
 
@@ -100,33 +102,43 @@
     </div>
 
 
-
-
-
-
-
-        <div class="prehome">
-             <div class="containerA">
-                <div class="container">
-                    <div class="subcontainer">
-                        <a class="logo" href="/"></a>
-                        <div class="headerLinks">
-
-                            <a href="javascript:void showForm('loginFormTemplate');" class="login">Login</a>
-                            
-
-
-                            <a href="Default.aspx">Contact</a>
-                            <a href="about.aspx">About</a>
-                            <a href="javascript:void showForm('signupFormTemplate');" style="margin-left:0px;">Join</a>
-                       
-                                <a href="javascript:void forgotPassword()" class="forgotPassword">Forgot Password? click here</a>
-                            
-                        </div>
+        
+        <div class="affN">
+            <div class="cyanHeader">
+                <div class="pageSize">
+                    <i class="mobileDropMenu fa fa-th-list" onclick="closeOnFocusOut();">
+                    </i>
+                    <div class="mobiledropdownMenu" id="mobiledropdownMenu" style="left:-200px;z-index:99;width:200px;">
+                        <a class="menuItem pressed" href="/">Home</a>
+                        <div class="menuItem" onclick="showForm('loginFormTemplate');">Login</div>
+                        <a class="menuItem" onclick="scrollToAnchor('contactanchor')">Contact</a>
+                        <a class="menuItem" href="/about.aspx">About us</a>
+                        <div class="menuItem" onclick="showForm('signupFormTemplate');">Sign up</div>
+                       <div class="menuItem" onclick="forgotPassword()">forgot password?</div>
+                    </div>
+                    <div class="registerbtn buttonStyleHeader" onclick="showForm('signupFormTemplate');">REGISTER</div>
+                    <div class="loginbtn buttonStyleHeader" onclick="showForm('loginFormTemplate');">LOGIN</div>           
+                    <div class="forgotpasslink" onclick="forgotPassword()">forgot password?</div>
+                </div>
+            </div>
+            <div class="headermenu"></div>
+            <div class="whiteHeader">
+                <div class="pageSize">
+                    <a class="afflogo" href="/"></a>
+            
+           
+            
+                    <div class="pcDropMenu" id="pcDropMenu">
+                        <div class="menuItem" onclick="showForm('loginFormTemplate');">Login</div>
+                        <a class="menuItem" onclick="scrollToAnchor('contactanchor')">Contact</a>
+                        <a class="menuItem" href="/about.aspx">About us</a>
+                        <div class="menuItem" onclick="showForm('signupFormTemplate');">Sign up</div>
+                        <a class="menuItem pressed" href="/">Home</a>
                     </div>
                 </div>
             </div>
         </div>
+    
 
         <div id="signupFormTemplate" style="display:none;">
             <div class="joinform" style="height:400px;display:table-cell;vertical-align:middle;text-align:center;" data-ng-show="signupFormIsPopup &amp;&amp; signupScreen=='processing'">
@@ -505,7 +517,7 @@
              <div class="footerRed">
             <div class="container">
                 <div class="subcontainer boxSizing">              
-                    <div style="float:left;">2014 Affililogic, all rigths reserved.</div>
+                    <div style="float:left;" class="allrights">2014 Affililogic, all rigths reserved.</div>
                     <div style="float:right;text-decoration:underline;"><a href="tc.aspx">Terms &amp; Conditions</a></div>
                     <div style="float:right;text-decoration:underline;padding:0px 20px;"><a href="privacy.aspx">Privacy Policy</a></div>
                 </div>
