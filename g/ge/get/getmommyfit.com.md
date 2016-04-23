@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the getmommyfit.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127172054id_/http%3A//getmommyfit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmommyfit.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423075518id_/http%3A//getmommyfit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Mommy Fit
+# Privacy Policy – Get Mommy Fit
 
 [](http://getmommyfit.com/)   
   
 
 
-**Updated September 1st, 2014**
+**Updated January 1st, 2016**
 
 BY ACCESSING THIS WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THE SITE) OR YOU ARE A “REQUESTER”. THE TERM “USER” REFERS TO A VISITOR OR A REQUESTER. “YOU” REFERS TO YOU AS A VISITOR OR A REQUESTER.  
 This policy describes the information collection, use, and dissemination practices of GetMommyFit.com, its subsidiaries and affiliates, (collectively referred herein as “SITE”) and applies to the SITE’s collection, use, storage and disclosure of information by the SITE.
