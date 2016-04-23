@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synchronyfinancial.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906233138id_/https%3A//www.synchronyfinancial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synchronyfinancial.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423050424id_/https%3A//www.synchronyfinancial.com/privacy-policy.html%3Fresolvetemplatefordevice%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ This Internet Privacy Policy describes the types of information Synchrony Financ
 
 Please read this policy carefully.
 
-  * [Information Collected](https://web.archive.org/privacy-policy.html#informationcollected)
-  * [Use of Collected Information](https://web.archive.org/privacy-policy.html#useofcollectedinformation)
-  * [Our Security Procedures](https://web.archive.org/privacy-policy.html#oursecurityprocedures)
-  * [Your Access to Information](https://web.archive.org/privacy-policy.html#youraccesstoinformation)
-  * [Links to Other Sites](https://web.archive.org/privacy-policy.html#linkstoothersites)
-  * [International Users](https://web.archive.org/privacy-policy.html#internationalusers)
-  * [Changes to this Policy](https://web.archive.org/privacy-policy.html#changestothispolicy)
+  * [Information Collected](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#informationcollected)
+  * [Use of Collected Information](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#useofcollectedinformation)
+  * [Our Security Procedures](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#oursecurityprocedures)
+  * [Your Access to Information](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#youraccesstoinformation)
+  * [Links to Other Sites](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#linkstoothersites)
+  * [International Users](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#internationalusers)
+  * [Changes to this Policy](https://web.archive.org/privacy-policy.html?resolvetemplatefordevice=true#changestothispolicy)
 
 
 
