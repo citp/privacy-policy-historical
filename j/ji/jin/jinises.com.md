@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jinises.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907190554id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinises.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423091438id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.*
 
 # Jinises Privacy Policy
 
@@ -51,15 +51,14 @@ By using our site, you consent to our Privacy Policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 2/7/2013
+This policy was last modified on 11/7/2015
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-34 N. High st.   
-suite 504  
-Columbus, Ohio 43215  
+3898 Bufflehead dr.   
+Columbus, Ohio 43230  
 United States of America  
 Jinises@jinises.com  
 614-316-8402
