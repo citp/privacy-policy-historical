@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224231628id_/http%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accengage.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423114418id_/http%3A//www.accengage.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Accengage | The #1 Mobile Engagement Solution for Push Notifications, Mobile Retargeting, Tracking & Analytics
 
@@ -74,3 +74,5 @@ Accengage.
 31, rue du 4 Septembre  
 75002 PARIS, FRANCE  
 [contact@accengage.com](http://mailto:contact@accengage.com/)
+
+En savoir plus sur la [politique de protection des données personnelles.](http://www.accengage.com/politique-de-protection-des-donnees-personnelles/)
