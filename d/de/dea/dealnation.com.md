@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealnation.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016063621id_/http%3A//dealnation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealnation.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423215453id_/http%3A//www.dealnation.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
