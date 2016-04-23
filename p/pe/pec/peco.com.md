@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peco.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906213522id_/https%3A//www.peco.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peco.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424010844id_/https%3A//www.peco.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PECO - An Exelon Company | Privacy Policy
 
