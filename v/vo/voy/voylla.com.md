@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201021345id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voylla.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423112125id_/http%3A//www.voylla.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Fashion Imitation Jewellery Shopping - Shop Online for Designer Jewellery and Accessories - Voylla.com
-
-## Privacy Policy
 
 ## Collection of Information
 
