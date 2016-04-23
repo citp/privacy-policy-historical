@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairloanrate.com privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106222626id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairloanrate.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423210215id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fair Loan Rate!
+# Privacy Policy - Fair Loan Rate!
 
 Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.
 
@@ -29,5 +29,3 @@ Our site may contain links to other websites of interest. However, once you use 
 ## Privacy Contact Information
 
 Should you have any questions, concerns, or comments about our privacy policy, please contact us by email  directly at **webmaster @ fairloanrate.com.**
-
-## Student Loan, College Loan, Auto Loan, Credit Card, Mortgage, Personal Finanace
