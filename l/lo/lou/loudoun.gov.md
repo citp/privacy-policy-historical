@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609095210id_/http%3A//www.loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423183507id_/https%3A//www.loudoun.gov/index.aspx%3FNID%3D904) for the most accurate reproduction.*
 
 # Loudoun County, VA - Official Website - Privacy Practices & Security Policy
 
@@ -33,4 +33,4 @@ Ensuring Confidentiality
 The county utilizes a system of hardware and software known as a "firewall" to regulate information that can enter and exit the county's web server(s). This ensures that only authorized access occurs and that information remains confidential. The county also utilizes SSL (Secure Sockets Layer) technology to encrypt your sensitive information that you send to us using our online forms or applications.
 
 Sending Your Comments  
-If you have questions regarding this privacy statement, the practices of the county's website, or your interaction with the county's website please contact the Webmaster at [webmaster@loudoun.gov]( "e-mail"). 
+If you have questions regarding this privacy statement, the practices of the county's website, or your interaction with the county's website please [email]() the Webmaster.
