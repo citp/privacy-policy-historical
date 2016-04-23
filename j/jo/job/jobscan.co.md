@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920134600id_/https%3A//www.jobscan.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423020235id_/https%3A//www.jobscan.co/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Jobscan
+# Privacy | Jobscan
 
-### Privacy Policy
+  
+
+
+## Privacy Policy
 
 This privacy policy discloses the privacy practices for (www.jobscan.co). This privacy policy applies solely to information collected by this web site. 
 
@@ -15,21 +18,20 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 _Your Access to and Control Over Information_   
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website: 
 
-• See what data we have about you, if any.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-• Change/correct any data we have about you.
 
-• Have us delete any data we have about you.
 
-• Express any concern you have about our use of your data.
-
-### Security
+## Security
 
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
 We also protect your information offline. Only employees who need the information to perform a specific job (for example, algorithm testing or performance checks) are granted access to personally identifiable information. 
 
-### Updates
+## Updates
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page. 
 
