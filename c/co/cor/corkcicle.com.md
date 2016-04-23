@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907215559id_/http%3A//corkcicle.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423161711id_/http%3A//corkcicle.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CORKCICLE.
 
@@ -32,4 +32,4 @@ The purpose of this site is to learn about products offered by Hewy Wine Chiller
 
 Corkcicle has the right to cancel, refund, and/or not fulfill any orders placed on this site for any reason, at any time. Corkcicle strictly prohibits the resale of product purchased on this site (www.corkcicle.com) for resale on any other third party websites or retail outlets. Any violation or perceived violation of this policy warrants Corkcicle the full right to cancel and refund, without fulfilling the order, upon any suspicious behavior that is believed to be a violation of this policy.
 
-#### Last Updated 2013-04-13
+#### Last Updated 2014-08-25
