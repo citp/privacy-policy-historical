@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218020404id_/http%3A//www.sheplers.com/customer-service-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheplers.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423220250id_/http%3A//www.sheplers.com/customer-service-privacy.html) for the most accurate reproduction.*
 
 # Customer Service - Privacy & Security Policy
 
