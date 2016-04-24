@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906043150id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424034309id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
 # Free Community-based Mapping, Traffic & Navigation App
 
@@ -224,10 +224,11 @@ Waze may permit, solicit or contract certain other companies to conduct advertis
 
 The information and advertisements that you see when accessing the Services may be targeted on the basis of:
 
-* geographic or contextual information which we collect from you; as well as 
+* geographic or contextual information which we collect from you;
+* information received from third party partners; as well as
 * your search query history.
 
-You hereby agree that we may provide such information and advertisements targeted on the basis of your search query history. However, if, when accessing the Services, you no longer wish to see information and advertisements from us targeted on the basis of your search query history, you are able to opt out of such targeting in the settings of the Application. See [here](https://support.google.com/waze/answer/6174383) for more detail. 
+You hereby agree that we may provide such information and advertisements targeted on the basis of your search query history. However, if, when accessing the Services, you no longer wish to see information and advertisements from us targeted on the basis of your search query history or on the basis of information received from third party partners, you are able to opt out of such targeting in the settings of the Application. See [here](https://support.google.com/waze/answer/6174383) for more detail. 
 
 When you visit a third party website from the Application, such third party may use cookies on your computer. The third party’s use of cookies is subject to their own privacy policies and not to this Privacy Policy.  If you wish to study the privacy policies of those third parties you should visit their services, or contact them directly.
 
@@ -255,7 +256,7 @@ Other changes will take effect 7 days after their initial posting on the Website
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
 
-Last modified: 25th June 2015
+Last modified: 13th October 2015
 
 The Company has registered a database with the Israeli Database Registrar
 
