@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222101013id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingclub.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424220924id_/https%3A//www.lendingclub.com/public/privacy-policy.action) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: November 24, 2015
+Last updated: April 20, 2016
 
 This privacy policy applies to www.lendingclub.com owned and operated by LendingClub Corporation (“Lending Club”). This privacy policy describes how Lending Club collects and uses the personal information you provide on our website: www.lendingclub.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -103,6 +103,7 @@ Information is shared with other parties in the following ways:
   * Financial and credit information about borrowers is displayed to qualified investors on loan listing pages, is filed with the Securities and Exchange Commission, and as such is made publicly available, and is contained anonymously in loan data files available on the statistics page.
   * Information is shared directly between users and other potential users. Information shared directly by users might contain personal information.
   * Lending Club may, with your consent, share required and optional information about you.
+  * Lending Club may also share anonymized information about you with third parties including government agencies, for research related to improving consumer financial products and markets.
 
 
 
@@ -114,7 +115,7 @@ If you use our blog on this site, you should be aware that any personal informat
 
 We may share your information with law enforcement or other government agencies as required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process or for the purposes of limiting fraud. We reserve the right to disclose your personal information when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
-Lending Club works with a number of trusted partners that perform vital functions as part of our operations, including credit bureaus, collection agencies, electronic payment service providers, customer support call centers, and other third party service providers. Information is shared with these third parties only to the extent necessary for us to process the transactions you initiate, or to perform other specific services, like collections or identity verification. By using a third party provider’s service, you grant that third party the right, power, and authority to act on your behalf to access and transmit personal and financial information according to the terms of the third party’s privacy policy. Our partners are legally required to keep your information private and secure and adhere to applicable state and federal laws and regulations.
+Lending Club works with a number of trusted partners that perform vital functions as part of our operations, including credit bureaus, collection agencies, electronic payment service providers, customer support call centers, and other third party service providers. Information is shared with these third parties only to the extent necessary for us to process the transactions you initiate, or to perform other specific services, like collections or identity verification. By using a third party provider's service, you grant that third party the right, power, and authority to act on your behalf to access and transmit personal and financial information from Lending Club or a relevant entity (i.e., financial institution) according to the terms of the third party's privacy policy. Our partners are legally required to keep your information private and secure and adhere to applicable state and federal laws and regulations.
 
 ### Testimonials
 
@@ -396,3 +397,9 @@ A formal agreement between nonaffiliated financial companies that together marke
 lenders, insurance companies or other consumer service providers.
 
 
+
+### Other Important Information
+
+#### Nevada Residents:
+
+We provide you this notice pursuant to Nevada state law. You may be placed on our internal Do-Not-Call List by calling (888) 596-3157. Nevada law also requires us to provide you the following to obtain additional information: Office of the Attorney General, 100 North Carson Street, Carson City, NV 89701; Telephone: 775-684-1100; Email:[AgInfo@ag.state.nev.us.](mailto:AgInfo@ag.state.nev.us) You may also contact us at LendingClub Corporation, Attn: Compliance Department, 71 Stevenson Street, Suite 300, San Francisco, CA 94105; Telephone: 888-596-3157; Email:[privacy@lendingclub.com.](mailto:privacy@lendingclub.com)
