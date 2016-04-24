@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200710id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placeit.net privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424024140id_/https%3A//blog.placeit.net/privacy-policy) for the most accurate reproduction.*
 
 # Placeit Privacy Policy | Placeit Blog
 
