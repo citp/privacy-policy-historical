@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkbingo.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919024309id_/https%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkbingo.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424153456id_/https%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For WinkBingo Users
 
