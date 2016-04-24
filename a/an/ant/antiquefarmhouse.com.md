@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920060812id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antiquefarmhouse.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424095606id_/http%3A//www.antiquefarmhouse.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Antique Farmhouse
 
