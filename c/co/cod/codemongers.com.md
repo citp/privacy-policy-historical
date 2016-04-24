@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codemongers.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220142414id_/http%3A//www.jetroulette.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemongers.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424053958id_/http%3A//www.jetroulette.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
-# privacy-cookie-policy | Live Roulette - Top UK Live Online Roulette Casinos - Sept 2015
+# privacy-cookie-policy | Live Roulette - Top UK Live Online Roulette Casinos - April 2016
 
 What is this Privacy Policy for?
 
