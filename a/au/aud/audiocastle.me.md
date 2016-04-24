@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the audiocastle.me privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017145536id_/http%3A//www.audiocastle.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiocastle.me privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424191408id_/http%3A//www.audiocastle.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
- _Privacy Policy  _  
+_Privacy Policy  _  
 
 
 The purpose of the AudioCastle Privacy Policy is to inform our listeners about the information that we collect, how we use that information and the ways listeners can control how that information is used or shared. The entire policy can be found below. To make it a bit easier to digest our Privacy Policy, we want to highlight some key items. 
