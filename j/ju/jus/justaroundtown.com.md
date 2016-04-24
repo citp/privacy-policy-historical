@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031073708id_/http%3A//justaroundtown.com/Vehicle/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justaroundtown.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424150920id_/http%3A//www.justaroundtown.com/Directory/Privacy.aspx) for the most accurate reproduction.*
 
-# Autos by JustAroundTown.com New Cars, Used Cars - Find Cars for Sale and Reviews at JustAroundTown.com
+# JustAroundTown.com Director
 
 **JustAroundTown.com is owned and operated by Just Around Town.**
 
