@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231083127id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424052610id_/https%3A//www.mcafeesecure.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 2013-10-01
+Last Updated: 2016-03-29
 
-This privacy policy (this "Policy") describes the collection of personal information by PathDefender, LLC, a Delaware limited liability corporation ("PathDefender," "we," or "us") from users of our Web site at www.pathdefender.com (the "Website"), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our "Services"). This Policy also describes our use and disclosure of such information. By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the PathDefender Terms of Use [link] and subject to the provisions of the Terms of Use.
+This privacy policy (this "Policy") describes the collection of personal information by TrustedSite, LLC, a Delaware limited liability corporation ("TrustedSite," "we," or "us") from users of our Web site at www.TrustedSite.com (the "Website"), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our "Services"). This Policy also describes our use and disclosure of such information. By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the TrustedSite [Terms of Use](https://web.archive.org/terms) and subject to the provisions of the Terms of Use.
 
 ### Personal Information
 
@@ -19,8 +19,9 @@ Personal Information does not include "aggregate" or other non-personally identi
 We collect Personal Information that our users provide to us in a variety of ways on our Services. These include the following:
 
   * E-mail Newsletters. We may offer e-mail newsletters from time to time on our Services. If you sign up to receive a newsletter from us, we collect your e-mail address. 
-  * User Accounts and Profiles. Our Services may give you the ability to register for a PathDefender account or to create and update a user profile on the applicable Service. If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile. This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you. We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional. 
+  * User Accounts and Profiles. Our Services may give you the ability to register for a TrustedSite account or to create and update a user profile on the applicable Service. If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile. This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you. We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional. 
   * Interactive Features. Our Services may contain interactive functionality that allows you to engage with other users on the Services, post comments to forums, to upload photographs and other content (the "User Materials"), participate in surveys, and otherwise to interact with the Services and with other users. If you use any interactive functionality on our Services that request or permit you to provide us with personal information (including, for example, any services that allow you to post User Materials on any of our Services), we collect the Personal Information that you provide to us in the course of using these interactive features. 
+  * Public Content. The information that you contribute through our Services is intended for public consumption, including your reviews, tips, photos, videos, check-ins, comments, likes, posts, events, bookmarks, friends, lists, compliments, and account profile. We may display this information through our Services, share it with businesses, and further distribute it to a wider audience through third party sites and services.
   * Correspondence. If you contact us by e-mail, using a contact form on the Services, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence. 
   * Contests and Sweepstakes. We or our advertisers and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our Services. Certain of these promotions may be co-branded with one of our advertisers or other business partners. In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us. The promotion will state the privacy policy or policies governing the collection of such personal information. 
 
@@ -54,7 +55,7 @@ We may disclose Personal Information to third-party service providers (e.g., pay
 
 #### Business Transfers 
 
-Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of PathDefender assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of TrustedSite assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
 
 #### To Protect our Interests
 
@@ -62,13 +63,13 @@ We also disclose Personal Information if we believe that doing so is legally req
 
 ### Choice
 
-If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at [privacy@pathdefender.com] or by writing to us at the address given at the end of this policy. Additionally, if we offer user account functionality on the Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
+If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at [privacy@TrustedSite.com] or by writing to us at the address given at the end of this policy. Additionally, if we offer user account functionality on the Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
 
 Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period. Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
 
 ### Access
 
-If we offer the ability to create user accounts or profiles on our Services, you may have the ability to access and update many categories of personal information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other personal information we hold about you, you may contact us at [privacy@pathdefender.com].
+If we offer the ability to create user accounts or profiles on our Services, you may have the ability to access and update many categories of personal information that you provide to us by logging in to your account and accessing your account settings. If you wish to access or amend any other personal information we hold about you, you may contact us at [privacy@TrustedSite.com].
 
 If you request that we delete your account on any of our Services (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
@@ -78,7 +79,7 @@ The Services may contain links to other Web sites, products, or services that we
 
 ### Children
 
-Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such personal information on our Services, please notify us at privacy@pathdefender.com.
+Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you believe that we may have collected any such personal information on our Services, please notify us at privacy@TrustedSite.com.
 
 ### International Visitors
 
@@ -96,8 +97,8 @@ We may occasionally update this Policy. When we do, we will also revise the "las
 
 If you have any questions or comments about this Policy, please contact us using the following contact information:
 
-PathDefender, LLC   
+TrustedSite, LLC   
 116 New Montgomery St  
 Suite 200  
 San Francisco, CA 94105  
-privacy@pathdefender.com
+privacy@TrustedSite.com
