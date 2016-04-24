@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209190755id_/http%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424173141id_/https%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
 
-# element14: Terms of Use | element14
+# element14 Community | Design Engineer Community | Online Electronic Resources & Support
 
 ## element14 Terms of Use and Privacy Policy
 
@@ -141,8 +141,6 @@ _In connection with element14_
 Jive Software, Inc. ( **Jive** ) is the company which provides the platform for element14. From time to time, Jive may be required to access our servers in connection with their provision of the platform for element14 and they may therefore have indirect access to all your information on element14 although they will not process your information in any way. Jive has its own privacy policy which is available at <http://www.jivesoftware.com/legal>.
 
 In connection with element14, we use the services of Fjord Network Limited ("Fjord") to carry out analysis on information on visits to element14 and to increase the efficiency of element14. Fjord may therefore use your IP address (a series of numbers that identifies a computer on the internet), operating system and browser type to collect among other things, statistical data about users' browsing actions and patterns but such data will not be used to identify you personally.
-
-If you expressly ask or allow us to, we will share your information that you authorise with specific suppliers. Any such suppliers should have their own privacy policies and should treat your information in accordance with these policies. We will not share any of your information with any suppliers unless you specifically ask or allow us to.
 
 Please note that any information that you choose to make visible when you set up your account and any information you include on your edited profile will be made available to other Contributors.Please also note that your username and information you submit or generate will be visible to all participants in element14. Your comments, postings and actions will also be public. This is an intrinsic feature of the element14 community.
 
