@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybusinesspresence.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124044539id_/http%3A//www.mybusinesspresence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinesspresence.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424054203id_/http%3A//www.mybusinesspresence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – My Business Presence – Karen Clark
 
@@ -12,7 +12,7 @@ PO Box 1264
 Rohnert Park CA 94927
 
 We can be reached via e-mail [here.](http://www.mybusinesspresence.com/contact "Contact Karen Clark")  
-or you can reach us by telephone at 1-707-939-5709
+or you can reach us by telephone at (877) 590-4840 or (707) 939-5709
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
