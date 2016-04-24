@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214222348id_/http%3A//www.actionenvelope.com/ae/control/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionenvelope.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424093834id_/https%3A//www.actionenvelope.com/ae/control/privacy) for the most accurate reproduction.*
 
-# ActionEnvelope.com
+# 
 
 ##### Privacy Policy
 
