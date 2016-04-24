@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citenkomedia.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812152147id_/http%3A//citenkomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citenkomedia.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424231600id_/https%3A//citenkomedia.com/privacy) for the most accurate reproduction.*
 
-# Citenko Media - Privacy
+# Citenko Media
 
 ### Privacy Policy of **Citenko Media**
 
@@ -68,4 +68,4 @@ The Data Controller is responsible for this privacy policy, prepared starting fr
 
 * * *
 
-Latest update: June 09, 2014
+Latest update: March 31, 2016
