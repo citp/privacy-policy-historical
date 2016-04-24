@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215142258id_/http%3A//copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.gov privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424165508id_/http%3A//copyright.gov/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Copyright Office
 
@@ -41,7 +41,7 @@ _Customization tools_
 
 ##### Email
 
-Any personally identifiable information contained in an email is used by the Copyright Office for no other purpose than to provide requested information to the individual who emailed the request. Emails sent to the U.S. Copyright Office by the public are kept according to the length of time specified in the Copyright Office’s records retention schedule and by the [National Archives and Records Administration (NARA)](http://www.archives.gov/records-mgmt/rcs/). The Copyright Office only shares the information that a user provides with another government agency if the user’s information relates to that agency or as otherwise required by law. The Copyright Office does not store any personally identifiable information independent of the email message, create individual profiles with the information provided in an email, or give it to any private organizations.
+Any personally identifiable information contained in an email is used by the Copyright Office for no other purpose than to provide requested information to the individual who emailed the request. Emails sent to the U.S. Copyright Office by the public are kept according to the length of time specified in the Copyright Office’s [records retention schedule,](http://www.archives.gov/records-mgmt/rcs/schedules/?dir=/judicial-and-legislative/rg-0297) developed in cooperation with the National Archives and Records Administration (NARA). The Copyright Office only shares the information that a user provides with another government agency if the user’s information relates to that agency or as otherwise required by law. The Copyright Office does not store any personally identifiable information independent of the email message, create individual profiles with the information provided in an email, or give it to any private organizations.
 
   
 
