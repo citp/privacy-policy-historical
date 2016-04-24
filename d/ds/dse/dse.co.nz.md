@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110214808id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dse.co.nz privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424231056id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 **Respecting Your Privacy**
 
-DSE (NZ) Limited (Company No. 37602) (referred to as “Dick Smith”, “we”, “our”, or “us”) understand the importance of protecting your right to privacy of your personal information.  We have policies and appropriate procedures in place to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and as required by the law.  We are committed to adhering to the Privacy Principles, which set clear standards for the collection, access, storage and use of personal information, which may be obtained as part of our business operations.
+DSE (NZ) Limited (Receivers and Managers Appointed) (In Administration) (referred to as “Dick Smith”, “we”, “our”, or “us”) understand the importance of protecting your right to privacy of your personal information.  We have policies and appropriate procedures in place to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and as required by the law.  We are committed to adhering to the Privacy Principles, which set clear standards for the collection, access, storage and use of personal information, which may be obtained as part of our business operations.
 
 **What Personal Information Do We Collect and Store?**
 
