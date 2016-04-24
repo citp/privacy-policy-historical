@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkemu.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203222239id_/http%3A//www.pinkemu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkemu.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424223506id_/http%3A//www.pinkemu.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
