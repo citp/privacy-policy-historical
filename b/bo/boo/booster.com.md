@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booster.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630124812id_/https%3A//www.booster.com/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booster.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425004956id_/http%3A//www.booster.com/policies) for the most accurate reproduction.*
 
-# Booster.com - Policies
+# Booster privacy policy
 
 Booster LLC ("Booster," "we," or "us") respects your privacy. This Privacy Policy explains how Booster collects, uses and safeguards information on our Site or through our Services from time to time. This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site. The other integral parts of such agreement are the Terms of Service and any legal notices that may be provided by Booster. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the Terms of Service.
 
