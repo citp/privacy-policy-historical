@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929155609id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424150258id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy-legal) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc
 
@@ -79,7 +79,6 @@ If you interact with our website by booking services, submitting feedback, joini
 
 
 
-  
 **OUR USE OF YOUR PERSONAL INFORMATION**
 
 We use the Information in order to make the Site more useful and to respond to your queries, to inform users of new promotions, products and services offered by us, to improve our level of service, and to provide notifications regarding the Site and our products and services. We restrict access to your Information to those in our organization who require access in order to provide the Site, information and services to you. We also may share your Information with the following entities:
@@ -152,3 +151,5 @@ As we grow and new features are added, or legal requirements change, this Privac
 **HOW TO CONTACT US**
 
 If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
+
+© 2015 RBDS Rubbish Boys Disposal Service Inc. D.B.A 1-800-GOT-JUNK?. All rights reserved.
