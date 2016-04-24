@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tigermobiles.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316230559id_/https%3A//www.tigermobiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermobiles.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424072421id_/https%3A//www.tigermobiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TigerMobiles.com
 
 TigerMobiles.com takes data protection of our customers very seriously.
 
-Company info. In this Privacy Policy “we”, “us” and “our” means TigerMobiles.com. TigerMobiles.com complies with and is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal data.
+Company info. In this Privacy Policy “we”, “us” and “our” means TigerMobiles.com. TigerMobiles.com complies with and is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal data. You can [download our ICO data protection registration certificate here](https://www.tigermobiles.com/wp-content/uploads/2013/07/tiger-mobiles-data-protection-registation-certificate.pdf).
 
 We respect the privacy of every individual who visits our site and have created this policy because we want you to feel confident about the privacy and security of your personal information. We maintain strict security protocol in the storage and disclosure of your information as required by law under the Data Protection Act 1998.
 
@@ -95,4 +95,4 @@ These terms of trading are subject to English law and to the exclusive jurisdict
 
 We reserve the right to amend or modify our Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation.
 
-Dated: 22/01/14
+Dated: 20/05/14
