@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3free4all.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202060018id_/http%3A//mp3free4all.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3free4all.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424061724id_/http%3A//www.mp3free4all.com/privacy-statement.html) for the most accurate reproduction.*
 
 # MP3free4all.com Privacy Statement
 
