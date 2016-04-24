@@ -1,104 +1,53 @@
-> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108020421id_/http%3A//www.solrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424135016id_/http%3A//solrepublic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SOL REPUBLIC
+# SolRepublic.com | Privacy Policy | SOL REPUBLIC
 
-#### PRIVACY POLICY
+Protecting your privacy is important to SOL Republic. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the SOL Republic Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
-Welcome to SOLREPUBLIC.com. As a visitor to SOL REPUBLIC, your trust is our most important asset. We take the protection and proper use of your personal information seriously and are committed to protecting your personal information in our possession. In order to preserve your trust, we want you to understand what personally identifiable or personal information we may collect from you when you visit our website, how we use such information, and the choices you have regarding our use of this information.
+#### Why we collect personal information
 
-**SOL REPUBLIC.com Privacy Policy**
+SOL Republic collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. Moreover, we may collect your billing and shipping information for processing an online purchase.
 
-  
-In this policy, the words "we", "our", and "us" refer to SOL REPUBLIC and the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified or contacted, such as your name (first and last), address (city, state, zip), e-mail address, telephone number, etc.
+#### How we collect personal information
 
-**Categories of Personally Identifiable Information We Collect**  
-We collect personally identifiable information, as defined above, from you when you register for an account, purchase product on our website, request that merchandise be sent to you or others, request an e-receipt, subscribe to SOLREPUBLIC.com E-mail Updates, through communications with you, or through SOL REPUBLIC. We may also collect personal information about you from other third parties, such as demographic firms, to make our future service and marketing efforts more efficient and personalized for you.
+We collect information about you in several ways. For example, we ask for your contact information when you correspond with us or ask to be included in an email mailing list. We collect and store the information you provide in a secure database.
 
-**How We Use Your Information**
+#### When we disclose personal information
 
-We use your personal information that we collect to conduct our business and to provide you with the best possible products, services and experience. Service providers, third parties who perform services on our behalf, are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from SOL REPUBLIC. We may also, in certain instances, disclose your personally identifiable information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect your rights or the rights of SOL REPUBLIC or others. We may also disclose your personally identifiable information when you ask us to do so or when we believe it is required by law.
+Your personal information may be shared with other SOL Republic business units. They will protect your personal information in accordance with the SOL Republic Customer Privacy Policy.
 
-**Cookies and Web Beacons**
+SOL Republic also works with other companies that help us provide products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your refills or replacement products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with our policies.
 
-Our website uses "cookie" and "web beacon" technology. We use cookies and web beacons to distinguish you from other visitors, track your IP address and usage of our site, and to identify the name of the Web site from which you linked to SOL REPUBLIC.com. This information is used for fulfilling contracts with our business partners, and to help us serve you better by improving our website design, as well as our products, services, and promotions. We do not otherwise track any information about your use of other websites. Non-personally identifiable information obtained through cookies and web beacons may be shared with or obtained by service providers on our behalf. More information is available under Third-Party Advertising Partners.
+SOL Republic will not obtain your consent before disclosing your information to third parties.
 
-A cookie is a small data file that is placed on the hard drive of your computer when you visit a website. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same website at a later date, the cookie information is still available. A web beacon is a small string of code that represents a clear graphic image and is used in conjunction with a cookie.
+At times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe that disclosure is necessary for the public interest.
 
-When you visit our website, we may use both a session and a persistent cookie. This SOL REPUBLIC-placed cookie may contain information (such as a unique user ID) that is used to track your usage of our website and in some cases, your e-mail address. Your e-mail address is only saved in this SOL REPUBLIC-placed cookie if you register with us. A web beacon allows us to capture certain additional types of information about a visitor's actions on a web site, such as a visitor's cookie number, the time, date, duration and number of page views, a description of the page where the Web beacon is placed, and details about any items that were purchased.
+#### How we protect your personal information
 
-If you register with us, this SOL REPUBLIC-placed cookie allows us to recognize you when you return to our website and provides you with access to your account information. If you save your information or order from us, we may also use cookies to monitor and maintain information about your use of our website. If you have not saved your information or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you. You can disable cookies at any time by using your browser options; however, if you turn off cookies, we will not be able to track your order or enable you to make a purchase from our website. In addition, we will not be able to recognize you as a registered user to allow you access to your account information.
+SOL Republic places safeguards to protect against the loss, misuse, unauthorized access and alteration of the data you send us with physical, electronic, and managerial procedures. We urge you to take every precaution to protect your personal data when you are on the Internet.
 
-**Third-Party Advertising Partners**  
-We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet.
+Our website uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions.
 
-These service providers may collect non-personally identifiable information about your visits to our website, and your interaction with our products. Such non-personally identifiable information is anonymous and does not include your name, address, e-mail address or other personal information. The anonymous information is collected through the use of a pixel tag (also known as cookies and action tags), which is industry-standard technology used by most major websites.
+#### Access to your personal information
 
-In addition to the anonymous information about your visits to our website, our service providers may also use the anonymous information about your visits to other websites to target advertisements for products available from SOL REPUBLIC as well as future events and additional material or enhancements made to our website.
+You always have access to the information we have about you. If you would like to review other personal information that SOL Republic may have about you, email us at support@solrepublic.com.
 
-If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service providers, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+#### Collecting other personal information
 
-**Links to Other Websites and Services**  
-Websites provided by SOL REPUBLIC may include links to other Internet sites maintained by third parties ('Linked Sites'). SOL REPUBLIC provides Linked Sites to you solely as a convenience, and the inclusion of Linked Sites does not imply endorsement by SOL REPUBLIC of the Linked Sites. You access Linked Sites at your own risk and by accessing them you leave SOL REPUBLIC's website. Linked Sites are not under the control of SOL REPUBLIC and SOL REPUBLIC is not responsible for the contents of any Linked Site.
+When you browse the SOL Republic web site, you are able to do so anonymously. Generally, we don't collect personal information when you browse - not even your email address. Your browser, however, does automatically tell us the type of computer and operating system you are using.
 
-**Your Information, Your Choice**  
-To update us with your information-sharing preferences, you may contact us using one of the following methods:
+Like many web sites, the SOL Republic web site uses "cookie" technology. When you first connect to our site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you. Cookies help us understand which parts of our web sites are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns on our site so we can make the site even better.
 
-• [support@SOLREPUBLIC.com](mailto:support@solrepublic.com?subject=Customer%20Support%20Inquiry)  
-• SOLREPUBLIC.com/general-contact
+In some of our email to you, we use a "click-through URL." When you click one of these URLs, you pass through our web server before arriving at the website that is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.
 
-Please note your preference as stated below:
+#### Our company-wide commitment to privacy
 
-• "I prefer not to receive e-mail advertisements, such as updates regarding products and services, special promotions or upcoming events." (You may also click the designated link at the bottom of all SOL REPUBLIC.com e-mail advertisements to be removed from future e-mail updates.)
+To make sure your personal information remains confidential, we communicate these privacy guidelines to every SOL Republic employee. SOL Republic does not knowingly solicit personal information from children or send them requests for personal information.
 
-• "I prefer not to receive direct mail advertisements, regarding products and services, special promotions or upcoming events." (Please note that direct mail requests may take up to six to eight weeks to become effective.)
+If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
 
-**Children's Privacy**  
-SOL REPUBLIC will never knowingly request or collect personal information from any person less than 13 years of age without prior verifiable parental consent.
+This Customer Privacy Policy is subject to change at any time. We encourage you to review the privacy policy regularly for any changes.
 
-If we become aware that an individual is less than the age of 13 and has submitted any information to SOL REPUBLIC for any purpose without prior verifiable parental consent, we will delete his or her information from our files.
+Please contact [support@solrepublic.com](mailto:support@solrepublic.com) to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints about privacy.
 
-**Security**  
-We maintain physical, electronic and procedural safeguards to protect the confidentiality and security of personally identifiable information transmitted to us using this website. To guard your information, our website uses Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only SOL REPUBLIC is able to decode your information. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
-
-To be sure your connection is secure, look at the bottom status bar of your browser window. If you see an unbroken key or a closed lock (depending on your browser) the SSL is active and your information is secure. Most browsers offer additional security alerts as well. If for some reason you are unable to connect to our secure server, please contact us at [support (at) SOLREPUBLIC.com](mailto:support@solrepublic.com?subject=).
-
-**International Customer Privacy**  
-The privacy and protection of information about our SOL REPUBLIC customers is a top priority. In some cases, SOL REPUBLIC partners with outside vendors to help facilitate transactions. When that is the case, we work closely with the vendor to ensure that the transaction is appropriately handled and all the information you provide is treated with the utmost care.
-
-To sell and fulfill online purchases that customers choose to ship internationally, SOL REPUBLIC contracts with companies that will carefully process your personal information, with at least the same level of privacy protection set forth in the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. Any partnering vendor also agrees not to sell, transfer, or otherwise use your information other than for executing international shipping orders. On the Checkout page you will be required to submit credit card and personal information (name, billing address, shipping address, e-mail address and phone number) to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from SOL REPUBLIC.
-
-If you choose to provide SOL REPUBLIC with personal information, you consent to the transfer and storage of that information on our servers located in the United States. SOL REPUBLIC adheres to the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. We conduct periodic self-assessments to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own SOL REPUBLIC privacy program assessments. SOL REPUBLIC has certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles.
-
-Customers shipping internationally who wish to inquire about or update personal information or change marketing preferences, or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods:
-
-• [support@SOLREPUBLIC.com](mailto:support@solrepublic.com?subject=Customer%20Support%20Inquiry)  
-• [SOLREPUBLIC.com/general-contact](https://solrepublicstaging-my.bislr.com/website/editor/page_E85871CF-A7DE-423E-8F90-2580554A7611#)
-
-In order to comply with the Safe Harbor Privacy Principles, SOL REPUBLIC commits to resolve any inquiries or complaints for all international shoppers including European Union citizens relating to privacy and our collection or use of personal information. Any complaints which cannot be resolved directly with SOL REPUBLIC will be resolved through the Council of Better Business Bureaus, Inc.'s Safe Harbor Privacy Dispute Resolution Procedures.
-
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor  
-4200 Wilson Boulevard, Suite 800  
-Arlington, VA 22203  
-Phone: 703-276-0100  
-Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-E-mail: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
-
-**Business Transitions**
-
-As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that SOL REPUBLIC, Inc. or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your Personal Information can continue to be used as set forth in this Privacy Policy.
-
-**Policy Changes**  
-This policy replaces all previous disclosures we may have provided you about our information practices. We reserve the right to change this policy, and to apply any changes to information previously collected, as permitted by law. If there are material changes to this policy or our information practices change in the future, we will notify you by posting the policy changes on our website.
-
-**Protecting Your Personal Information**  
-You may come in contact with websites, e-mails or texts that try to lure you into providing personal information with the offer of a SOL REPUBLIC gift card. SOL REPUBLIC does not sponsor these offers nor are we affiliated with the promotion originators. If you become aware of any potentially fraudulent activity on a website or in an e-mail or text, please forward the information to [support@SOLREPUBLIC.com](mailto:support@SOLREPUBLIC.com) so that we can follow up. We take these matters, and the protection of our customers' sensitive information, very seriously.
-
-**Additional Information**  
-If you're not comfortable shopping online (and would prefer to make your purchase via telephone), please feel free to buy products through our retail partners.
-
-If you have questions regarding our Privacy Policy please contact us at:  
-• [support@SOLREPUBLIC.com](mailto:support@solrepublic.com?subject=Customer%20Support%20Inquiry)  
-• [SOLREPUBLIC.com/general-contact](https://solrepublicstaging-my.bislr.com/website/editor/page_E85871CF-A7DE-423E-8F90-2580554A7611#)
-
-The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive.
+Last updated March 9, 2016
