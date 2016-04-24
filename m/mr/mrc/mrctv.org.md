@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrctv.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906024135id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrctv.org privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424184310id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MRCTV
 
@@ -12,7 +12,7 @@ We are operated entirely within the United States. If you are located outside of
 
 This Policy is incorporated by reference into our [Terms of Use Agreement](http://mrctv.org/terms-use-agreement).
 
- **I. WHAT TYPES OF INFORMATION DO WE COLLECT?**
+**I. WHAT TYPES OF INFORMATION DO WE COLLECT?**
 
 **A. Personally Identifiable Information We Collect From and About You**
 
