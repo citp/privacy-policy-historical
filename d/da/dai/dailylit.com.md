@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922043015id_/https%3A//dailylit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylit.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424032140id_/https%3A//www.dailylit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
