@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911203121id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425005336id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – ArcelorMittal
 
@@ -72,4 +72,4 @@ Information provided by you via general e-mail inquiries to ArcelorMittal such a
 
 TO THE FULLEST EXTENT PERMITTED BY LAW, YOU HEREBY EXPRESSLY AGREE THAT ANY PROCEEDINGS ARISING OUT OF OR RELATING TO YOUR USE OF THE WEB SITE, ITS INFORMATION, SERVICES AND CONTENT SHALL BE SUBJECT TO THE LAWS OF LUXEMBOURG. THE COURTS IN LUXEMBOURG SHALL HAVE EXCLUSIVE JURISDICTION.
 
-_Last updated: Oct 1 st 2014_
+_Last updated: October 2014_
