@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017095724id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugpolicy.org privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424061333id_/http%3A//www.drugpolicy.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Drug Policy Alliance
 
 We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
-_This privacy policy was revised July 23, 2015._
+_This privacy policy was revised February 10, 2016._
 
 ##  **What personal information do we collect, and how is it used?**
 
@@ -16,7 +16,7 @@ Any information collected about our webviewers is stored in offsite data centers
 
 ##  **Exchange of Drug Policy Alliance Member Addresses**
 
-Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged, except with Drug Policy Action, the advocacy and political arm of the Drug Policy Alliance.
+Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged, except with Drug Policy Action, sister organization of the Drug Policy Alliance.
 
 Like most other non-profit membership organizations, the Drug Policy Alliance obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Lists may also be exchanged with other organizations. Whether by exchange or rental, the lists are protected by strict privacy procedures. All exchanges are made on a ""blind"" basis. Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or electronic media, is sent to a mail house which prepares the mailing without the mailing organization ever seeing who is on the rented or exchanged list. The only time an organization gets possession of a name from a rented or exchanged list is when the person receiving the invitation to join responds by sending a reply back to the inviting organization. The Drug Policy Alliance will contractually ensure that vendors involved in this process hold all member addresses in strict confidence and do not offer lists to third parties.
 
@@ -27,10 +27,6 @@ We keep confidential any personal information entered during registration, thoug
 ##  **Use of Cookies**
 
 Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.
-
-Drug Policy Alliance is dedicated to providing privacy on the Internet.  In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.  
-
-Drug Policy Alliance allows third parties to place cookies on our site for advertising purposes. This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) ("NAI"). To remove yourself from some or all NAI member advertising programs, please visit the [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and follow the relevant instructions. Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
 ##  **Privacy Policy Changes**
 
