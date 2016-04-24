@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915163420id_/https%3A//www.tep.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tep.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424132305id_/https%3A//www.tep.com/legal/privacy) for the most accurate reproduction.*
 
 # Tucson Electric Power — Legal
 
@@ -24,7 +24,7 @@ When a User accesses the web site, TEP's web servers automatically record the Us
 
 #### Cookies
 
-TEP uses "cookies" to improve site performance. Cookies are random alphanumeric identifiers that are transferred through a Web browser to a User's computer hard drive. Cookies enable TEP's systems to recognize the User's browser and allow the User to quickly sign in to TEP Account Manager without having to repeatedly enter e-mail account information. Most Web browsers can be set to not accept cookies, however, TEP recommends that Users leave cookies turned on to take full advantage of all of the TEP site's features. 
+TEP uses "cookies" to improve site performance. Cookies are random alphanumeric identifiers that are transferred through a Web browser to a User's computer hard drive. Cookies enable TEP's systems to recognize the User's browser and allow the User to quickly sign in to TEP My Account without having to repeatedly enter e-mail account information. Most Web browsers can be set to not accept cookies, however, TEP recommends that Users leave cookies turned on to take full advantage of all of the TEP site's features. 
 
 #### Use of Customer Information
 
