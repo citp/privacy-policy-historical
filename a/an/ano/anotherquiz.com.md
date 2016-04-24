@@ -1,65 +1,60 @@
-> *The following text is extracted and transformed from the anotherquiz.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612085904id_/http%3A//anotherquiz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anotherquiz.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424074710id_/http%3A//anotherquiz.com/privacy) for the most accurate reproduction.*
 
-# AnotherQuiz
+# Upfriendly Entertainment
 
-## Privacy Policy
+We value your privacy and we want to make things as transparent as possible. You will find our policy detailed below, be here are our fundamental basic rules:
 
-#### 
+* We do NOT save or store any of your private data (posts, private photos, likes, friends list, email, etc.).
+* We do NOT sell or transfer any of your private data.
+* On some quizzes, a picture is generated containing information such as Facebook public profile pictures and public names. We ONLY save on our servers this final result picture. This is to allow you to share it on social media.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@anotherquiz.com.
+Upfriendly.com is committed to protecting your privacy. This Privacy Policy explains our information-gathering and dissemination practices for our service. This Privacy Policy is part of our End-User License Agreement ("EULA"). By using our website www.upfriendly.com (referenced below as “WebSite”), you acknowledge that you have reviewed both our EULA and this Privacy Policy and agree to be bound by their terms and conditions.
 
-At www.anotherquiz.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.anotherquiz.com and how it is used.
+## 1\. General Information
 
-**What information do we collect?**
+Data we collect when you do quizzes published on our website using Facebook login:  
+We may collect personally-identifying information that is unique to such users (such as their name, profile picture, gender, birthday, internet protocol (IP) address, facebook friends list, facebook images, email, location, facebook posts or any other data as delineated at the message presented to you at the time of login with Facebook).
 
-We collect information from you when you subscribe to our newsletter.
+## Other Information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+We also receive and/or collect other types of data and information about users via our services, as follows:
 
-**What do we use your information for?**
+* We regularly receive non-personally-identifying information about you or about the device you use to enhance our services, such as your browser type, language preference, referring site and any other information automatically sent to www.upfriendly.com by the user's browser.
+* We receive data about you whenever you use or interact with www.upfriendly.com, such as how and when you view, use or otherwise interact with content and materials in our WebSite. For example, we may infer data from your replies and answers to the quizzes in this WebSite or the results thereof.
+* Sometimes we get data from our partners, publishers, commercial customers and other third parties that helps us (or them) deliver ads, understand our users' online activities, provide with insight into what our users are interested in, maximize the effectiveness of ads, and generally make our services better.
 
-Any of the information we collect from you may be used in one of the following ways:
+We store data for as long as it is necessary to provide products and services to you (including those described hereunder), but some information may remain in backup copies and logs for longer periods. However, you acknowledge and agree that We may continue to use any non-personally-identifying information in accordance with this Privacy Policy (e.g., for the purpose of analysis, statistics and the like) also after the termination of your membership to this WebSite and\or use of our services, for any reason whatsoever.
 
-; To administer a contest, promotion, survey or other site feature
+We take our security responsibilities seriously and we employ the most appropriate physical and technical measures to keep your data safe.
 
-**How do we protect your information?**
+If you wish that We delete the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+If you wish to download the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
-**Do we use cookies?**
+If you wish to modify the data We received or collected on you, please contact us via e-mail at contact@upfriendly.com
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+We use the information and data We collect to operate and enhance our services and features. For example, when you login with Facebook for some quizzes, it allows us to provide you with a more relevant result at the end of the given quiz and it allows us to generate a personalized picture.
 
-www.anotherquiz.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We may use the information and data we collect about you in order to measure and understand the effectiveness of our content and offer you tailored content.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.anotherquiz.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.anotherquiz.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+## 1\. Compliance with Laws and Law Enforcement
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+Upfriendly.com may identify a user to third parties and/or share your information (including your Personal Information) if required to do so by law, or in the good-faith belief that disclosing such information is necessary to comply with any law, regulation or other governmental authority, or respond to any court order, subpoena, search warrant or equivalent, or where in our reasonable belief an action is needed in order to protect the safety or security of any personal or property. www.upfriendly.com also reserves the right to disclose any information in case it believes, in good faith, that such disclosure is appropriate or necessary in order to enforce our EULA, take precautions against liabilities, investigate and defend itself against any third party claims or allegations, assist government enforcement agencies, protect the security or integrity of the WebSite and our servers and protect the rights and property, of www.upfriendly.com, its users and\or others.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.anotherquiz.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+## 2\. Non-Personal Aggregate Information
 
-www.anotherquiz.com has no access to or control over these cookies that are used by third-party advertisers.
+Upfriendly.com may publish or share with third parties aggregate information for the purpose of analysis and statistics. Such disclosure is done anonymously and is non-personally identifiable. For example, we may share information publicly to show trends about the general use of our services.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.anotherquiz.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+## Cookies
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+A cookie is a string of information that can be stored on your computer (if your web browser is set to permit storage of cookies). We may use such cookies to help us learn about how you use this WebSite and enhance your online experience.
 
-**Do we disclose any information to outside parties?**
+## 4\. Reorganization or Insolvency
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Upfriendly.com may also transfer Personal Information to a successor entity upon a merger, consolidation, change of control or other corporate reorganization in which www.upfriendly.com participates, or to a purchaser of all or substantially all of www.upfriendly.com's shares or assets to which the WebSite relates. In the event of a bankruptcy, insolvency or equivalents, www.upfriendly.com may not be able to control how your Personal Information is handled, shared or used.
 
-**Third party links**
+We are not responsible for the practices employed by any websites or services linked to or from www.upfriendly.com, including the information or content contained within them. Please be aware that if you choose to use a link to go from www.upfriendly.com to any third party's website or service, such third party's own rules and privacy policy (and not our Privacy Policy) will apply and govern your activities and any information you disclose while interacting with such third parties. Therefore, We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your Personal Information, and you acknowledge and agree that We are not responsible for any wrongful use or disclosure made by such third parties, and that We do not have control over such third-parties. If you are using a third-party's website or service and you allow them to access your Personal Information and user content you do so at your own risk.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+www.upfriendly.com reserves the right to update this Privacy Policy from time to time, with or without notice. If so, www.upfriendly.com will post its updated Privacy Policy on its WebSite. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of our services will be subject to the then-current privacy policy. If any modification is unacceptable to you, you may cease using our services. If you do not cease using our services, you will be deemed to have accepted those modifications.
 
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
+If you have any questions or queries about this Privacy Policy or our Services in general, please do not hesitate to contact us at: contact@upfriendly.com
