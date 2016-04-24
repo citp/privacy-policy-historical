@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynkmii.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122110314id_/http%3A//lynkmii.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynkmii.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424122555id_/http%3A//lynkmii.com/policy.php) for the most accurate reproduction.*
 
 # LynkMii | Policy
 
