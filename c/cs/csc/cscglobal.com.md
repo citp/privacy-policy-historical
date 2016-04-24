@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191452id_/https%3A//www.cscglobal.com/global/web/csc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscglobal.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424144929id_/https%3A//www.cscglobal.com/service/csc/privacy) for the most accurate reproduction.*
 
-# Privacy Policy U.S. | Corporation Service Company
+# Privacy | Corporation Service Company
 
-###  Corporation Service Company Privacy Statement
+  * [Home](https://www.cscglobal.com/service/)
+  * [CSC](https://www.cscglobal.com/service/csc)
+  * Privacy 
+
+
+
+### Corporation Service Company Privacy Statement
 
 At Corporation Service Company ("we" or "CSC"), we value your relationship and respect your trust. As a result, we have chosen to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. CSC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Corporation Service Company's certification, please visit [safeharbor.export.gov](https://safeharbor.export.gov/list.aspx)
 
 To view CSC's Safe Harbor Compliance Statement for Data Privacy, please click here: [www.cscglobal.com/global/web/csc/safe-harbor.html](https://www.cscglobal.com/global/web/csc/safe-harbor.html)
 
-###  About this Privacy Statement
+### About this Privacy Statement
 
 This Privacy Statement explains how we handle and protect your personal and company data, how we gather this data, and how we manage this data to serve you. We may change this Statement from time to time as the need arises to accurately reflect how we gather and manage your data.
 
@@ -44,7 +50,7 @@ We also periodically gather certain information automatically and store it in lo
 
 Corporation Service Company is committed to transparency when it comes to the technologies we use, and we've outlined below how we use cookies when you visit our website.
 
-4.3.1. **What are a cookies?**
+4.3.1. **What are cookies?**
 
 Cookies are small pieces of code which are issued to your device when you visit a website and which store and sometimes track information about your use of our site. We use cookies to elevate your user experience and the quality of our site and service. When you enter our site our web server sends a cookie to your computer which allows us to recognize your computer.
 
@@ -67,22 +73,22 @@ Corporation Service Company's primary reason for using cookies is to make our we
 
 The cookies we may use on our website are:
 
-Cookie |  Purpose  
+Cookie| Purpose  
 ---|---  
-JSESSIONID |  This maintains session synchronization within a user's browser.  
-BIGipServer* |  This is used to keep a user's site access on the server within a cluster.  
-ObSSOCookie |  This cookie is a secure mechanism to ensure user authentication.  
-testCookie |  This is used to check whether cookies are enabled within a user's browser.  
-GUEST_LANGUAGE_ID |  This is used to recognize a user's preferred language and to ensure that that language is displayed.  
-BFP |  This maintains a log of the CSC business function programs that a user may access.  
-EID |  This remembers the email address for a logged in user.  
-UID |  This remembers the user ID for a logged in user.  
-LFR* |  This remembers the remaining Liferay session time.  
-PID |  This remembers the last CSC Dashboard tab for a logged in user.  
-QUICKLINKS |  This remembers the CSC Dashboard quick link for a logged in user.  
-logoutFeedback |  This remembers a user's ID and password if a user submits feedback after logging out.  
-Conversion Tracking |  This adds a cookie to a user's computer whenever the user clicks on an ad. The cookie tracks sales and conversions for Google paid ads.  
-Remarketing Tags |  A remarketing tag is a small snippet of code from Google AdWords that is added across all pages on cscglobal.com. This remembers site visitors and shows them targeted ads when on other sites. [Click here](https://support.google.com/adwords/answer/2454000?hl=en) for more information regarding how remarketing works. Remarketing Tags are not used on CSC's microsites (see above).  
+JSESSIONID | This maintains session synchronization within a user's browser.  
+BIGipServer* | This is used to keep a user's site access on the server within a cluster.  
+ObSSOCookie | This cookie is a secure mechanism to ensure user authentication.  
+testCookie | This is used to check whether cookies are enabled within a user's browser.  
+GUEST_LANGUAGE_ID | This is used to recognize a user's preferred language and to ensure that that language is displayed.  
+BFP | This maintains a log of the CSC business function programs that a user may access.  
+EID | This remembers the email address for a logged in user.  
+UID | This remembers the user ID for a logged in user.  
+LFR* | This remembers the remaining Liferay session time.  
+PID | This remembers the last CSC Dashboard tab for a logged in user.  
+QUICKLINKS | This remembers the CSC Dashboard quick link for a logged in user.  
+logoutFeedback | This remembers a user's ID and password if a user submits feedback after logging out.  
+Conversion Tracking | This adds a cookie to a user's computer whenever the user clicks on an ad. The cookie tracks sales and conversions for Google paid ads.  
+Remarketing Tags | A remarketing tag is a small snippet of code from Google AdWords that is added across all pages on cscglobal.com. This remembers site visitors and shows them targeted ads when on other sites. [Click here](https://support.google.com/adwords/answer/2454000?hl=en) for more information regarding how remarketing works. Remarketing Tags are not used on CSC's microsites (see above).  
   
 4.3.4. **What other cookies might you encounter on the CSC website?**
 
@@ -90,18 +96,18 @@ We may also use third-party cookies on the site. In keeping with our policies, t
 
 The third party cookies which we may use on our website are:
 
-Cookie |  Purpose/further information  
+Cookie| Purpose/further information  
 ---|---  
-s_* |  This cookie is used to track site performance and usage. It is owned by Adobe Sitecatalyst.  
-Is_returning |  This cookie is used to track site performance and usage. It is owned by Crazy Egg.  
-LivePersonID/HumanClick |  This is used to monitor chat sessions and site activity. It is owned by Live Person.  
+s_* | This cookie is used to track site performance and usage. It is owned by Adobe Sitecatalyst.  
+Is_returning | This cookie is used to track site performance and usage. It is owned by Crazy Egg.  
+LivePersonID/HumanClick | This is used to monitor chat sessions and site activity. It is owned by Live Person.  
 Google Analytics  
 _utma  
 _utmb  
 _utmc  
-_utmz |  These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For an overview of privacy at Google, see the official [Google Analytics page.](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
-j.maxmind.com |  This is a third-party cookie used to help us identify a users' location using a geo-location IP service.  
-DoubleClick |  Doubleclick uses cookies to improve advertising. DoubleClick uses cookie IDs to keep a log of which ads show to which browsers. DoubleClick can use the browser's cookie ID to check which DoubleClick ads have already been delivered to that particular browser. DoubleClick cookies contain no personally identifiable information.  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For an overview of privacy at Google, see the official [Google Analytics page.](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)  
+j.maxmind.com | This is a third-party cookie used to help us identify a users' location using a geo-location IP service.  
+DoubleClick | Doubleclick uses cookies to improve advertising. DoubleClick uses cookie IDs to keep a log of which ads show to which browsers. DoubleClick can use the browser's cookie ID to check which DoubleClick ads have already been delivered to that particular browser. DoubleClick cookies contain no personally identifiable information.  
   
 When you access our website, in certain jurisdictions, as required by law, you will receive a clear notice advising you that we intend to use cookies and that you must click an "I accept" box in order for cookies to be placed.
 
@@ -238,9 +244,8 @@ We provide you with reasonable access to the personal information we hold about 
 
 13\. **Controller and Local Representatives**
 
-Corporation Service Company, 2711 Centerville Road, Wilmington, DE 19808, United States, act as controller in the meaning of the Directive 95/46/EC when collecting, processing and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 2-5 Benjamin Street, First Floor, London EC1M 5QL. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden Germany.
+Corporation Service Company, 2711 Centerville Road, Wilmington, DE 19808, United States, act as controller in the meaning of the Directive 95/46/EC when collecting, processing and using personal data collected through this website. Our local representative in the United Kingdom is Corporation Service Company (UK) Limited, 40 Bank Street, 29th floor, London E14 5DS, United Kingdom. Our local representative in Germany is Corporation Service Company (DBS) GmbH, Borsigstrasse 20, 65205 Wiesbaden Germany.
 
 Complaints or concerns about this Statement should be directed to our legal department who can be contacted at +1 (302) 636-5400. We will investigate and attempt to resolve such complaints in accordance with the principles contained in this Statement.
 
-  
-
+**Our commitment to protecting your privacy is summarized in the policy below.**
