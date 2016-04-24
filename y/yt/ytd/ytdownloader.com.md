@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114826id_/http%3A//www.ytdownloader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytdownloader.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424043703id_/http%3A//ytdownloader.com/privacy-policy) for the most accurate reproduction.*
 
 # YTDownloader - Privacy Policy
 
@@ -17,10 +17,6 @@ We may set cookies and related standard technologies as you download, install, a
 **How we may use Information**
 
 We may use the information to optimize the performance, improve the usability, make sure things are working properly, track status indicator and enhance the experience on YTDownloader. We may also use information you have submitted to deliver the content and services you have requested. However, unless specifically indicated in this document, such information is collected and shared without any association to your personally identifying information so that you remain anonymous. We may share and/or transfer information including personally identifying information internally within our group of companies as well as with government bodies and law enforcement agencies (where lawfully instructed or required), successors in title to the respective business (i.e. if we become involved in any form of merger or acquisition) and to suppliers we engage to process data on our behalf. We may share non personally identifying information (unless specifically indicated otherwise) with third parties, such as trusted suppliers and business partners. In relation to the information we gain as part of a Communication we may use it to acknowledge your comments and/or reply to your questions and we may store it in case we need to correspond at a later date. We will not use the contact details you provide us for marketing messages without your consent.
-
-**Search**
-
-Should the Site include a search feature, the search feature will send a request to the respective services provider (auto-complete, auto-suggest, search services etc.), such requests may include additional information as required to properly process your search query.
 
 **Security**
 
