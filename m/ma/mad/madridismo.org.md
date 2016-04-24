@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madridismo.org privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107185817id_/http%3A//www.madridismo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madridismo.org privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424234126id_/http%3A//www.madridismo.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Madridismo
 
