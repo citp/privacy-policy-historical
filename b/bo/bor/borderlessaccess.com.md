@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218013558id_/http%3A//www.borderlessaccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borderlessaccess.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424225527id_/http%3A//www.borderlessaccess.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Borderless Access
 
