@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219173133id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424040331id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -113,6 +113,17 @@ For live webcasts only. Anonymous identification of a visit for statistical anal
 
 1 year  
   
+doccheck-disclaimer
+
+| 
+
+Store the authentification details for pages which are not accessible for the general public.  
+
+
+| 
+
+Duration of the session: the cookie is deleted when the browser is closed.  
+  
 ## Security
 
 Bayer uses technical and organizational security precautions to protect your data from manipulation, loss, destruction or access by unauthorized persons. Any personal data that is provided to Bayer by you will be encrypted in transit to prevent its possible misuse by third parties. Our security procedures are continuously revised based on new technological developments.
@@ -125,7 +136,7 @@ In light of the importance of protecting children's privacy, we do not collect, 
 
 If you have any problems, questions or ideas, please contact one of the following persons.
 
-Data Protection Officer of Bayer AG:  
+Data Privacy Manager of Bayer AG:  
 
 
 Andreas Euler  
@@ -135,12 +146,8 @@ Building W 11
 51368 Leverkusen, Germany  
 [E-mail](https://secure.bayer.com/bayer/data-protection-officer.aspx?lang=en)
 
-Corporate Privacy Officer of Bayer AG:  
-Dr. Rainer Schwarz  
-Building K56  
-51368 Leverkusen, Germany  
-Phone: +49 (0) 214 30 2 05 22  
-Fax: +49 (0) 214 30 2 03 46  
-[E-mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
+Head of Data Privacy  
+Eva Gardyan-Eisenlohr  
+Phone: +49 (0) 30 468 16924 
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
