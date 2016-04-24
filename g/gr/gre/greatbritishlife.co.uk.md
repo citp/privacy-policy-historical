@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatbritishlife.co.uk privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109083416id_/https%3A//www.greatbritishlife.co.uk/content/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbritishlife.co.uk privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424102011id_/http%3A//www.greatbritishlife.co.uk/content/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Great British Life
 
