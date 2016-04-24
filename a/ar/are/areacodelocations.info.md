@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206215939id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the areacodelocations.info privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424182736id_/http%3A//www.areacodelocations.info/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for AreaCodeLocations.info
 
