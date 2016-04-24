@@ -1,17 +1,12 @@
-<!--The following is the downloaded HTML source of the yroo.com privacy policy that was archived on 2015-09-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912072339id_/https%3A//yroo.com/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yroo.com privacy policy that was archived on 2016-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160424180115id_/https%3A//yroo.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3bb17b7736","applicationID":"3926503","transactionName":"ew4NEEZfVA1RRxsOClUETBRGWU4AV0w=","queueTime":0,"applicationTime":28,"agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUV5TGwAJVldXBwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/WebPage" lang="en"><head>
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=3"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"3bb17b7736","applicationID":"3926503","transactionName":"ew4NEEZfVA1RRxsOClUETBRGWU4AV0w=","queueTime":0,"applicationTime":27,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4OUV5TGwAJVldXBwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
 
-        <link data-turbolinks-track="true" href="/assets/clever-theme/clever-theme-819eb87084b64df27eb24b6e73ee2886.css" media="all" rel="stylesheet" type="text/css">
-        <link data-turbolinks-track="true" href="/assets/pixel-and-line/application-888c9331ab411fdf91d79819c9316a34.css" media="all" rel="stylesheet" type="text/css">
-        <link data-turbolinks-track="true" href="/assets/home-39d28a7c1a505f95cab4a793bfd7dfb4.css" media="all" rel="stylesheet" type="text/css">
-        
 <!-- start: Meta -->
 <meta charset="utf-8">
 
@@ -19,33 +14,33 @@
 <meta name="p:domain_verify" content="e786849fa0f90a0b95f50f507b9320c3">
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearchdescription.xml" title="yroo">
+
 <title>
-            Privacy Policy | yroo
+            Privacy Policy - Yroo
 
 </title>
 <meta name="description" content="
             Privacy policy on yroo.com
 
-    ">
+">
 <meta name="keywords" content="
             privacy policy, privacy
 
-    ">
+">
 <meta name="author" content="yroo.com">
 
         <link rel="canonical" href="https://yroo.com/privacy.html">
 
 <!-- end: Meta -->
 
-<!-- start: Mobile Specific -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<!-- end: Mobile Specific -->
-
 <!-- start: Facebook Open Graph -->
 <meta property="fb:app_id" content="364762523680488">
-<meta property="og:site_name" content="yroo">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Yroo.com">
 
-    <meta property="og:title" content="    Privacy Policy | yroo
+    <meta property="og:title" content="    Privacy Policy - Yroo
 ">
 
     <meta property="og:description" content="    Privacy policy on yroo.com
@@ -59,7 +54,7 @@
 
     <meta property="twitter:card" content="summary">
     <meta property="twitter:title" content="
-            Privacy Policy | yroo
+            Privacy Policy - Yroo
 
 ">
     <meta property="twitter:description" content="
@@ -67,7 +62,7 @@
 
 ">
     <meta property="twitter:image" content="
-    https://yroo.com/en/assets/td-logo-8f2041913c6ef90645843ab7380f9793.png
+        https://yroo.com/assets/social-image-e16a3bcce73c731f0271e3b15608293808678b8183967aa8b83e83398fbdc120.jpg
     ">
 <!-- end: Twitter Cards -->
 
@@ -77,443 +72,34 @@
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-    <!-- Favicon and touch icons -->
-    <link rel="shortcut icon" href="/assets/icons/favicon-1e7f2d6d727758249a3eb92b35b0608e.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/icons/apple-touch-icon-144-precomposed-6eb405ce23d7d2335563616eac15a8d1.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/icons/apple-touch-icon-114-precomposed-2ffe1ad8be2a603375b42f398924ac75.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/icons/apple-touch-icon-72-precomposed-ac3a2f24750f0c1c159636478cdf4096.png">
-    <link rel="apple-touch-icon-precomposed" href="/assets/icons/apple-touch-icon-57-precomposed-2f29076ed91ec693d215c6c050de9405.png">
-
-
-        <meta content="authenticity_token" name="csrf-param">
-<meta content="6tazKS6NTOawJe08WZcE4Kdgt4ZRqzF4SxQc7+U8mAs=" name="csrf-token">
-
-        <script>
-        </script>
-    </head>
-
-    <body>
-    <div id="fb-root"></div>
-
-        <header class="header">
-            <div class="navbar">
-                <a class="brand" href="/en/feed">
-                    <img alt="Yroo-logo" src="/assets/pixel-and-line/yroo-logo-66b643e786a6430b94905a6811e6d9c0.png">
-                </a>
-                <ul class="nav">
-                    <li>
-                        <a id="shop-nav" class="selected" href="#">
-                            <i class="fa fa-shopping-cart"></i>
-                            <span>Shop</span>
-                        </a>
-                    </li>
-
-                        <li>
-                            <a href="/en?ga_pos=menu">
-                                <i class="fa fa-sign-in"></i>
-                                <span>Sign in</span>
-                            </a>
-                        </li>
-                    <li class="hide-on-desktop">
-                        <a id="search-nav" class="hide-on-desktop " href="#">
-                            <i class="fa fa-search"></i>
-                            <span>Search</span>
-                        </a>
-                    </li>
-                </ul>
-
-
-                <div class="search search-bar ">
-                    <form accept-charset="UTF-8" action="/en/search/product" id="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
-                        <div class="input-group">
-                            <input class="search-field" id="q" name="q" onclick="rc.Analytics().sendEvent('engagement', 'search_nav');" placeholder="Type to search products…" type="search">
-                            <span class="input-group-addon">
-                                    <i class="fa fa-search" id="search-submit"></i>
-                            </span>
-                        </div>
-</form>                </div>
-
-            </div>
-
-            <div class="subnavbar">
-                <ul id="shop-subnav" class="subnav ">
-                    <div class="spacer"></div>
-                    <li>
-                        <a class="" href="/en/feed?ga_pos=menu">
-                            <i class="fa fa-newspaper-o"></i>
-                            <span>Feed</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="" href="/en/catalog?ga_pos=menu">
-                            <i class="fa fa-shopping-cart"></i>
-                            <span>Catalog</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="" href="/en/brands?ga_pos=menu">
-                            <i class="fa fa-th-large"></i>
-                            <span>Brands</span>
-                        </a>
-                    </li>
-                </ul>
-                <ul id="search-subnav" class="subnav hide-on-desktop hidden">
-                        <div id="lower-search-form">
-                            <form accept-charset="UTF-8" action="/en/search/product" id="search-form" method="get" onsubmit="rc.Analytics().sendEvent('engagement', 'search_nav');"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="input-group lower-search-bar"><input class="form-control" id="q" name="q" placeholder="Type to search products…" type="search"><span class="input-group-addon"><i class="fa fa-search" id="search-submit"></i></span></div></form>
-                        </div>
-                </ul>
-            </div>
-        </header>
-
-        <div id="header-spacer"></div>
-
-
-
-
-    <div class="content">
-        
-
-
-
-<section id="page">
-    <header class="page-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 text-center">
-                    <h1>Privacy Policy</h1>
-                </div>
-            </div>
-        </div>
-    </header>
-    <section id="content" class="mt30 pb30">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-8 col-md-offset-2">
-
-                    <article>
-
-                        <p>
-                            <span style="line-height: 1.2;">RETAILCOMMON Inc., the owner of yroo.com (“<span style="font-weight: bold;">yroo.com</span>,” “<span style="font-weight: bold;">us</span>” or “<span style="font-weight: bold;">we</span>”), owns and operates the yroo.com website (the “<span style="font-weight: bold;">Web Site</span>”) and the services related to or offered on the Web Site (the “<span style="font-weight: bold;">Services</span>”).</span>
-                        </p>
-
-                        <p>Your privacy and the respectful and responsible handling of your personal information is very
-                            important to us. The purpose of this privacy policy (the
-                            “<span style="font-weight: bold;">Policy</span>”) is to outline the types of information
-                            that may be collected about you when visiting the Web Site, how that information will be
-                            used and disclosed, and how you can control, correct and update the information.</p>
-
-                        <p>Each visit to the Web Site or use of the Services constitutes your acknowledgement and
-                            acceptance of the Policy. Providing personal information or authorizing a third party to
-                            disclose personal information to us signifies your consent to yroo.com’s collection, use and
-                            disclosure of your personal information in accordance with this Policy.</p>
-
-                        <p>For the purposes of this Policy, “personal information” means information that can identify
-                            an individual directly or through other reasonably available means. The meaning of “personal
-                            information” shall be interpreted in a manner that conforms with the minimum requirements of
-                            applicable provincial and federal privacy legislation.</p>
-
-                        <h2>1. Our Privacy Principles</h2>
-
-                        <p><span style="text-decoration: underline;">Type of Personal Information Collected</span></p>
-
-                        <p>The type of information we collect is linked to the purposes. For instance, when you sign up
-                            to be a Member, we may collect your name, email address, and other payment information as
-                            well as information about the products or services you view or purchase. If you are part of
-                            a referral program we keep track of who you refer and who refers you (as applicable). In
-                            addition, we sometimes host contests, so we will collect information as set forth in the
-                            contest rules.</p>
-
-                        <p>
-                            <span style="text-decoration: underline;">Identifying Purposes and Obtaining Your Consent</span>
-                        </p>
-
-                        <p>The purposes for which we collect personal information are mostly what you would reasonably
-                            expect. Where it is not reasonably evident why we’re collecting information, we would
-                            identify the purposes for collecting your personal information at or before the time it is
-                            collected. We will not collect, use or disclose your personal information without your
-                            informed consent, unless required or permitted to do so by law.</p>
-
-                        <p>To provide to you a few example of why we collect personal information, we collect, use and
-                            disclose personal information about you so we can:</p>
-
-                        <ul>
-                            <li>maintain and manage our membership;</li>
-
-                            <li>account for reward points or cash back earned under your account;</li>
-
-                            <li>allocate cash back;</li>
-
-                            <li>process payments; and</li>
-
-                            <li>target advertisements to make the Web Site and/or Services more personal and useful to
-                                you.
-                            </li>
-                        </ul>
-
-                        <p>We may also use your personal information to communicate with you about new products,
-                            Services, offerings or other information we reasonably believe may be useful to
-                            you.</p>
-
-                        <h2>2. Limiting Collection, Use and Disclosure of Your Personal Information</h2>
-
-                        <p><span style="text-decoration: underline;">Information Gathered and Used</span></p>
-
-                        <p>We collect personal information by fair and lawful means and limit collection to that
-                            information which is reasonably necessary for the purposes identified in this
-                            Policy.</p>
-
-                        <p>The choice to provide us with your personal information, either directly or through a third
-                            party, is always yours. However, your decision to withhold particular information may limit
-                            our ability to provide you with some of our products or Services.</p>
-
-                        <p><span style="text-decoration: underline;">How your Information is Collected</span></p>
-
-                        <p>Most of the personal information we collect will be done online. However, personal
-                            information may also be collected in a number of ways, including: over the phone, by mail
-                            or, yes, even by fax if necessary (and such fax machines exist). We may also collect
-                            personal information from third parties who you have authorized to disclose personal
-                            information to us (for instance, our Affiliate Stores will have information on your
-                            purchases and that information may be provided to us if necessary to audit transactions and
-                            ensure rewards are properly allocated).</p>
-
-                        <p>We make every reasonable effort to ensure that those third parties that disclose your
-                            personal information to us have first obtained your consent. If you believe that a third
-                            party has inappropriately disclosed your personal information to us, please contact that
-                            third party directly. If the third party does not sufficiently respond to your inquiries,
-                            please let us know immediately.</p>
-
-                        <p>Your personal information will only be used or disclosed in accordance with the purposes for
-                            which it was collected, unless you have otherwise consented and except where required or
-                            permitted by law.</p>
-
-                        <p>Web cookies are very small text files that are stored on your computer from a webpage to keep
-                            track of information about your browsing on that Web Site. Cookies are essential to our
-                            ability to track what you’ve viewed and your purchases. We cannot offer the Services or
-                            allocate rewards or cash back without cookies being installed in your system.</p>
-
-                        <p>In addition, through the use of web cookies, we may monitor the ads you see and the number of
-                            times you view them. The use of cookies also allows us to capture standard web traffic
-                            information, such as the time and date you visited our Web Site, your IP address, and your
-                            browser information.</p>
-
-                        <p><span style="font-weight: bold;">Information from Social Media</span>. If you access or
-                            log-in to the yroo Service through a social media service or connect yroo to a social media
-                            service, the information we collect may also include your user ID and/or user name
-                            associated with that social media service, any information or content you have permitted the
-                            social media service to share with us, such as your profile picture, email address or
-                            friends lists, and any information you have made public in connection with that social media
-                            service. When you access the Services through social media services or when you connect a
-                            Service to social media services, you are authorizing yroo to collect, store, and use such
-                            information and content in accordance with this Privacy
-                            Policy.<span class="Apple-tab-span" style="white-space:pre">	</span></p>
-
-                        <p><span style="text-decoration: underline;">Disclosure to Third Parties</span></p>
-
-                        <p>From time to time we may share your personal information with third parties, as approved by
-                            you and/or as described in this Policy. Use of this Web Site and/or Services signifies your
-                            consent to yroo.com’s collection, use and disclosure of your personal information in
-                            accordance with this Policy.</p>
-
-                        <p>The type of information we are legally required to disclose may relate to criminal
-                            investigations or government tax reporting requirements. In some instances, such as a legal
-                            proceeding or court order, we may also be required to disclose your personal information to
-                            authorities. Only the information specifically requested is disclosed and we take
-                            precautions to satisfy ourselves that the authorities that are making the disclosure request
-                            have legitimate grounds to do so.</p>
-
-                        <p>Your personal information may be disclosed in situations where we are legally permitted to do
-                            so, such as in the course of employing reasonable and legal methods to enforce your rights
-                            or to investigate suspicion of unlawful activities. We may release certain personal
-                            information when we believe that such release is reasonably necessary to protect the rights,
-                            property and safety of ourselves and others.</p>
-
-                        <p>You also understand and agree that we may use your personal information and disclose your
-                            personal information to third parties in connection with the proposed or actual financing,
-                            insuring, sale, securitization, assignment or other disposal of all or part of our business
-                            or assets (including accounts) for the purposes of evaluating and/or performing the proposed
-                            transaction. These purposes may include, for example, permitting such parties to determine
-                            whether to proceed or continue with the transaction, fulfilling any reporting or audit
-                            requirements to such parties, and/or disclosing personal information as part of concluding a
-                            sale or transfer of assets. Our successors and assigns may collect, use and disclose your
-                            personal information for substantially the same purposes as those set out in this Policy. In
-                            the event the transaction does not go through, we will require, by contract, the other party
-                            or parties to the transaction not to use or disclose your personal information in any manner
-                            whatsoever for any purpose, and to return or destroy such personal information.</p>
-
-                        <p>Personal information may also be disclosed to service providers and/or third-party
-                            contractors who we work with and/or employ on our behalf to help operate yroo.com, the Web
-                            Site and/or the Services.</p>
-
-                        <p>Information that cannot be used to reasonably identify an individual
-                            (“<span style="font-weight: bold;">Anonymous Information</span>”) may be used in aggregate
-                            form, combined with other users’ Anonymous Information, and shared with third parties.</p>
-
-                        <p>Personal information collected during a promotion, contest, sweepstake or poll
-                            (“<span style="font-weight: bold;">Promotion</span>”), in part or in its entirety, may be
-                            disclosed publicly and/or to third parties, as disclosed in the Promotion rules at the time
-                            of collection. We do not take responsibility for the privacy policy or practices of any
-                            third party. Upon participation in any Promotion, you are subject to any official rules,
-                            terms and conditions of that Promotion.</p>
-
-                        <p>Some or all of your personal information may be shared with Licensors of the Web Site and/or
-                            Services. This Policy does not cover the privacy policies or practices of the
-                            Licensors.</p>
-
-                        <p>Personal Information may also be collected and shared with third-party Sponsors, Merchants
-                            and/or Vendors. A notice at the time of collection of Personal Information on behalf of a
-                            Sponsor will be provided to you along with a link to the Sponsor’s privacy policy.</p>
-
-                        <p>Any information that you share and make publicly available may be made available to all users
-                            and third parties. We are not responsible for any information that you share, and your use
-                            of the Web Site and/or Services constitutes your acceptance of any risk involved in your
-                            disclosure of such information.</p>
-
-                        <p><span style="text-decoration: underline;">Keeping your Information Accurate</span></p>
-
-                        <p>We make every reasonable effort to keep your personal information as accurate, complete and
-                            up-to-date as necessary. If desired, you may verify the accuracy and completeness of your
-                            personal information in our records.</p>
-
-                        <p>Despite our best efforts, errors sometimes do occur. Should you identify any incorrect or
-                            out-of-date information in your file, we will remedy any such errors on a timely basis. In
-                            the event that inaccurate information is mistakenly sent to a third party, we will
-                            communicate relevant changes to the third party where appropriate.</p>
-
-                        <p>Please be aware that we may retain some or all of your Personal information in accordance
-                            with our Data Retention Policy, and such Personal information provided in accordance with
-                            this Policy may remain within our databases, access logs and/or other records. yroo.com is
-                            not responsible for correcting, updating or removing any of your Personal Information
-                            contained in any third-party’s lists or databases that was provide in accordance with this
-                            Policy.</p>
-
-                        <p><span style="text-decoration: underline;">Childrens’ Information</span></p>
-
-                        <p>The Web Site and Services are not directed toward, nor intended for, individuals under the
-                            age of 18. Individuals under the age of 18 should not register for the Web Site and/or
-                            Services, or provide any personal information. We do not knowingly collect any personal
-                            information from individuals under the age of 18. Parents and/or legal guardians of children
-                            under the age of 18 who believe their child has registered and/or provided any personal
-                            information should contact us at support@yroo.com so that we may delete and remove any such
-                            personal information.</p>
-
-                        <h2>3. Protecting Your Personal Information</h2>
-
-                        <p><span style="text-decoration: underline;">Access to your Information within yroo.com</span>
-                        </p>
-
-                        <p>Access to private, sensitive and confidential information, including your personal
-                            information, is restricted to authorized employees with legitimate business reasons. For
-                            example, when responding to customer enquiries, employees will need to access your
-                            information to verify your identity and to properly assist you.</p>
-
-                        <p>We require all of our employees to abide by yroo.com’s privacy standards. Our employees
-                            understand the importance of keeping your information private. Employees are strictly
-                            prohibited from accessing or disclosing personal information without authorization. All
-                            employees are expected to maintain the confidentiality of personal information at all times
-                            and failure to do so will result in appropriate disciplinary measures including
-                            dismissal.</p>
-
-                        <p><span style="text-decoration: underline;">Disposal and Retention</span></p>
-
-                        <p>Except as otherwise permitted or required by law, your personal information will be retained
-                            for so long as is reasonably necessary to fulfil the purposes for which it was collected and
-                            for a period of time reasonably necessary to conform with legal obligations and to protect
-                            our rights and obligations.</p>
-
-                        <p><span style="text-decoration: underline;">Safeguarding your Information</span></p>
-
-                        <p>To ensure that your personal information is protected, we utilize security safeguards that
-                            are on par with the industry standard. We use modern technologies to ensure that your
-                            confidential information is not compromised. Our server environment and firewall
-                            infrastructure are well-maintained and our security practices are reviewed on a regular
-                            basis.</p>
-
-                        <p>We keep electronic customer files in a highly-secured environment with restricted access.
-                            Paper-based files are stored in locked filing cabinets to which access is also
-                            restricted.</p>
-
-                        <p>We use Secure Socket Layer (“SSL”) and 128-bit encryption technologies to enhance security
-                            for the secured areas of our Web Site. SSL protects and maintains the security of messages
-                            transmitted over the Internet. SSL scrambles your data into an unreadable format, preventing
-                            unauthorized access by others.</p>
-
-                        <h2>4. Web Sites Governed by this Privacy Policy</h2>
-
-                        <p>Our Web Site (yroo.com) is governed by the provisions and practices stated in this Policy.
-                            Our Web Site may contain links to third-party web sites that are not governed by this
-                            Policy. Although we endeavour to only link to web sites that share our commitment to your
-                            privacy, please be aware that this Policy will no longer apply once you leave our web sites
-                            and that we are not responsible for the privacy practices of third-party web sites. We
-                            therefore suggest that you closely examine the respective privacy policies of third-party
-                            web sites to learn how they collect, use and disclose your personal information.</p>
-
-                        <p><span style="text-decoration: underline;">Addressing Your Inquiries and Concerns</span></p>
-
-                        <p>We are happy to provide you with a copy of this Policy and to discuss any of its content with
-                            you.</p>
-
-                        <p>Upon request, we will also inform you of: the type of personal information we have collected;
-                            how your personal information has been used; and any third parties to whom your personal
-                            information has been disclosed.</p>
-
-                        <p>Please direct all questions or enquiries by email to support@yroo.com</p>
-
-                        <h2>5. Updating this Privacy Policy</h2>
-
-                        <p>Any changes to our privacy standards and information handling practices will be reflected in
-                            this Policy in a timely manner. yroo.com reserves the right to change, modify, add, or
-                            remove portions of this Policy at any time. Please check this page periodically for any
-                            modifications. To determine when this Policy was last updated, please refer to the
-                            modification date at the bottom of this Policy. All material changes to this Privacy Policy
-                            shall be effective thirty (30) days after the date notice of such changes were posted on our
-                            Web Site. Each visit to the Web Site or use of the Services constitutes your acknowledgement
-                            and acceptance of the Policy. Providing personal information or authorizing a third party to
-                            disclose personal information to us signifies your consent to yroo.com’s collection, use and
-                            disclosure of your personal information in accordance with this Policy.</p>
-
-                        <h2>6. Governing Law</h2>
-
-                        <p>This Policy and all related matters are governed solely by the laws of the Province of
-                            Ontario and the applicable federal laws of Canada.</p>
-
-                        <p>yroo.com may perform activities outside of Canada through third parties, such as Affiliate
-                            Stores and third party processing agents. You acknowledge and agree that, as a result, your
-                            personal information may be processed, used, stored or accessed in other countries and may
-                            be subject to the laws of those countries. For example, information may be disclosed in
-                            response to valid demands or requests from government authorities, courts, or law
-                            enforcement in other countries. In particular, information that is processed, used, stored
-                            or accessed in the United States may be subject to the Patriot Act and applicable
-                            anti-terrorism legislation, together with other legislation applicable within the United
-                            States.</p>
-
-                        <p>Last revised Tuesday, January 27, 2015</p>
-
-                        <p>21426181.2</p>
-                    </article>
-
-                </div>
-
-            </div>
-        </div>
-    </section>
-</section>
-<!-- content -->
-    </div>
-
-
-
-    <script data-turbolinks-track="true" src="/assets/pixel_and_line/application-4911fd28f06a4f3a785525d8b6b239d8.js" type="text/javascript"></script>
-    <script data-turbolinks-track="true" src="/assets/clever-theme/clever-theme-cfbc63dcee689c24606cf5c22ece2965.js" type="text/javascript"></script>
-    <script data-turbolinks-track="true" src="/assets/home-d5008c7716c0945c40d6e17f658c81aa.js" type="text/javascript"></script>
-
-
-    
-
-    
-
-
-        <script type="text/javascript">
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-touch-icon-57x57-5db45f370d6f8a46d3acde0475248a564006f1392d85facadbc84f6bd54f7c2c.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-touch-icon-60x60-d3db6b42584c138312a569be2e08db0e5b804c0d3c52e4935cb83887e0e858d0.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-touch-icon-72x72-6b453c6df9dcd616b79c8a649ed95d6b161f53862b2ca58c8bcd28a5234988f6.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-touch-icon-76x76-891ff7928c969298d3ea051ff299ec825b2436d5f3c200bea1e9fb83908ee629.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-touch-icon-114x114-efa73b1405c2c86dbe3c43da00e0a594ad098394ce83d8518a37801e95daeb53.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-touch-icon-120x120-eda5c08d9abec4092b1a006802bb657acb040f133abd9b61e0e7e7025e6cae0c.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-touch-icon-144x144-1469476252e5b9dcada9c40084d9bee4cc49a39d326b881ec8d9ae1fd329df1c.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-touch-icon-152x152-bdc4584051991c84ceccb5b1e52e32f04c86ba4bb86ac772f6d10c6924f47520.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon-180x180-ec260d2ef183b9b7912df7d0e1273dfd154e3524058672fc34896ed9a193a4f4.png">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32-518e50fafa765c4fc5d561dbb675458346c2690c280be9de1c0e3da162d64b9b.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/favicon/android-chrome-192x192-1c60e2d75a49e7d55790726ed99d323393c7a792ae4662e24ed1c25b29425ac2.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96-edcb05d179f88e167029933343f017dcd03189ab3b073005505fa78ecf304caf.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-16x16-812f717b6b31469c95b8418cb8b0c7349d90339e7abc93f62e6bda2699a9291e.png" sizes="16x16">
+<link rel="manifest" href="/assets/favicon/manifest-d60f08fa25ff13f9f0233587a954674837ec7fba669a7df3f5a66edff4e8b3bf.json">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab-206b203df9323c023539f7bfd942686bde23faed5a467c74564dc8d82ebc33c6.svg" color="#00b9f2">
+<link rel="shortcut icon" href="/assets/favicon/favicon-3cf30a404b1de3a53e8ff915c6f9ce436c6a2e34fbe430e0c8778ff31891ab23.ico">
+<meta name="apple-mobile-web-app-title" content="Yroo">
+<meta name="application-name" content="Yroo">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144-1469476252e5b9dcada9c40084d9bee4cc49a39d326b881ec8d9ae1fd329df1c.png">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-4ad3d269e6876dab2b4a7b2d7fc88f60cc543b34a1ad0818a5332bb4880b3513.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="RHMcIJIN+sEssTacL6ufe6TP14oiQjF2a/NA3iHiiLKH80CGvDxSM9RFsi+KskRqzKGsN9dDcy4x/gYk8DNikQ==">
+<link href="/opensearchdescription.xml" rel="search" title="Yroo" type="application/opensearchdescription+xml">
+    <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -522,23 +108,556 @@
         ga('create', 'UA-50367475-2', 'auto');
         ga('require', 'displayfeatures');
 
-        ga('set', 'dimension1', 'B');
+        ga('set', 'dimension1', 'A');
 
-        ga('set', 'dimension2', 'deal_share');
 
         ga('send', 'pageview');
     </script>
 
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct:"VRK7m1aQpne1uW", domain:"yroo.com",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=VRK7m1aQpne1uW" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
 
-    <script type="text/javascript">
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq)return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq)f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window,
+                document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '743461265785949');
+        fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=743461265785949&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+</head>
+<body>
+<link rel="stylesheet" media="all" href="/assets/twentysixteen/application-6119377af0bf598121f0225181b80cd2ef84321f1890daed2fd82633a037ea04.css" data-turbolinks-track="true">
+<link rel="stylesheet" media="all" href="/assets/home-9cca480259dfc83ac4b54bcb0ff54be2f084f70283136b893eeb685726a1e298.css" data-turbolinks-track="true">
+<div id="fb-root"></div>
+<h1 class="hidden">
+    Privacy Policy - Yroo
+
+</h1>
+<p class="hidden">
+    Privacy policy on yroo.com
+
+</p>
+<div data-react-class="UserStatus" data-react-props="{&quot;currentUser&quot;:null,&quot;profileItemCounts&quot;:null}"></div>
+<!-- Navbar -->
+<nav class="nav" id="desktop-nav-2016">
+<div class="nav-inner yroo-max-width-fixed yroo-max-width-padding">
+<div class="nav-left-section pull-left">
+<div id="nav-logo">
+<a href="/"><img alt="yroo.com" src="/assets/twentysixteen/new-yroo-logo-8779d2c9cff072eb7648e5778a6451873981dc6d2fd344d278ff765865fb34d2.png">
+</a></div>
+</div>
+<div class="nav-right-section pull-right">
+<div class="login-section nav-right-section-block">
+<div class="nav-right-section-block nav-sign-in" onclick="modalsController.open('SignInModal')">
+Sign in
+</div>
+<div class="nav-right-section-block nav-sign-up" onclick="modalsController.open('SignUpModal')">
+Join
+</div>
+</div>
+</div>
+</div>
+</nav>
+
+<div id="nav-spacer"></div>
+<!-- Flash Message -->
+<!-- Content -->
+<div class="content">
+
+
+
+
+<section id="page">
+  <header class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 text-center">
+          <h1>Privacy Policy</h1>
+        </div>
+      </div>
+    </div>
+  </header>
+  <section id="content" class="mt30 pb30">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <article>
+    <h2>Who are we?</h2>
+
+    <p>
+        We are yroo (Ireland) Limited, company incorporated under the laws of Ireland with our
+        registered office at 22 Northumberland Road, Ballsbridge, Dublin 4, Ireland (“<strong>yroo</strong>”, "<strong>we</strong>" “<strong>our</strong>”
+        or “<strong>us</strong>”). We own and operate the yroo.com website and mobile platforms (the “<strong>Website</strong>”) and
+        the services related to or offered on the Website (the “<strong>Services</strong>”).
+    </p>
+
+    <p>
+        Your privacy and the appropriate handling of your personal data are important to us. The
+        purpose of this Privacy Statement is to outline the types of information that may be collected
+        from you when visiting the Website, how that information may be used and disclosed, and how
+        you can access, correct and update the information.
+    </p>
+
+    <p>
+        By accessing and/or using the Website and any of our Services you hereby acknowledge and
+        accept our collection, use and disclosure of your personal data in accordance with this Privacy
+        Statement. Any personal data which we receive from you is treated with high standards of
+        security and confidentiality, in accordance with the Data Protection Acts 1988 and 2003 (‘<strong>DPA</strong>’).
+    </p>
+
+    <p>
+        Our Website may contain links to third-party websites that are not governed by this Privacy
+        Statement. Although we endeavour to only link to websites that share our commitment to your
+        privacy, please be aware that this Privacy Statement will no longer apply once you leave our
+        Website. We are not responsible for the content, data protection or privacy practices of other
+        websites. Please closely examine the privacy policies of third-party websites to learn how they
+        collect, use and disclose your personal data.
+    </p>
+
+    <h2>Important notice</h2>
+
+    <p>
+        The terms governing the general use of our Website are set out in our <a href="/terms">Terms of Use</a>. By using
+        this Website you are deemed to fully accept this Privacy Statement, our <a href="/cookies.html">Cookies Policy</a> and our
+        <a href="/terms">Terms of Use</a>.
+    </p>
+
+    <p>
+        The Website and Services are not directed toward, nor intended for, individuals under the age of
+        18. Individuals under the age of 18 should not register for the Website and/or Services, or
+        provide any personal data to us. We do not knowingly collect personal data from individuals
+        under the age of 18. Parents and/or legal guardians of children under the age of 18 who believe
+        their child has registered and/or provided any personal data should contact us at
+        <a href="mailto:support@yroo.com">support@yroo.com</a> so that we may delete and remove any such personal data.
+    </p>
+
+    <h2>Cookies and use of technical information</h2>
+
+    <p>
+        The Website uses cookies to ensure we give you the best possible experience on our Website.
+        Please review our <a href="/cookies.html">Cookies Policy</a> as this contains important information on how we send
+        cookies and similar technologies to your web browser.
+    </p>
+
+    <h2>Information we may collect from you</h2>
+
+    <p>
+        We may collect and process the following data about you:
+    </p><ol>
+        <li>
+            Information you provide us by filling in forms on our Website. This includes the information
+            you give us when creating a user account; the information you input and when completing
+            feedback and contact forms. We may also ask you for information if you report a problem
+            with our Website.
+        </li>
+        <li>
+            If you upload an image or avatar to your profile, this may personally identify you.
+        </li>
+        <li>
+            We keep track of who you refer and who refers you (as applicable). We can also see the
+            friends you select on your account, and who you are following.
+        </li>
+        <li>
+            If you contact us, we may keep a record of that correspondence.
+        </li>
+        <li>
+            Details of your visits to the Website including, but not limited to, traffic data, weblogs and
+            other communication data and the resources that you access (such as the products or
+            services you view or purchase). We may record the ads you see and the number of times
+            you view them.
+        </li>
+        <li>
+            We may collect information about your computer, including where available, your IP
+            address, operating system and browser type, for system administration. This is statistical
+            data about our users' browsing actions and patterns, and does not personally identify you.
+        </li>
+        <li>
+            Information we collect via the use of cookies and similar technologies. You can find out
+            more in our <a href="/cookies.html">Cookies Policy</a>.
+        </li>
+        <li>
+            We sometimes host contests. We will collect personal data explained in the contest rules.
+        </li>
+        <li>
+            If you access or login to the Website through a social media service or connect our
+            Services to a social media service, we may receive your user ID and/or username
+            associated with that social media service, any information or content you have permitted
+            the social media service to share with us, such as your profile picture, email address or
+            friends lists, and any information you have made public in connection with that social media
+            service. When you access the Services through social media services or when you connect
+            a Service to social media services, you are authorising and do hereby authorise yroo to
+            collect, store, and use such information and content in accordance with this Privacy
+            Statement.
+        </li>
+    </ol>
+    <p></p>
+
+    <p>
+        If you volunteer your details to us, we may use the details you have given us, together with
+        details of how you use our Website as follows:
+    </p><ol>
+        <li>
+            to allow you access to certain features of the Website and your user account with us if you
+            have registered one via our Website;
+        </li>
+        <li>
+            to maintain and manage your membership;
+        </li>
+        <li>
+            to respond to your queries and requests, and to communicate with you;
+        </li>
+        <li>
+            to manage and improve our Services and the Website;
+        </li>
+        <li>
+            to notify you of changes to our Services, the Website, our Privacy Statement and/or any of our other
+            published notices and terms and conditions;
+        </li>
+        <li>
+            if you have consented, to provide you with newsletters and/or promotional materials as set out in this
+            Privacy Statement;
+        </li>
+        <li>
+            if applicable, to facilitate your participation in surveys you may wish to partake, or in a promotion,
+            contest, sweepstake or poll (<strong>“Promotion”</strong>);
+        </li>
+        <li>
+            to target advertisements to make the Website and/or Services more personal and useful to you;
+        </li>
+        <li>
+            to understand statistical data about user browsing actions and patterns, which does not personally identify
+            you; and
+        </li>
+        <li>
+            to communicate with you about new products, services, offerings or other information we reasonably believe
+            may be useful to you.
+        </li>
+    </ol>
+    <p></p>
+
+    <p>
+        Most of the personal data we collect from you will be done through the Website. However,
+        personal data may be collected through other means such as over the phone, email, fax or by
+        post. We may receive personal data from third parties (such as retailers linked to our Website,
+        defined as ‘Affiliate Stores’ in our <a href="/terms.html">Terms of Use</a>), who you have authorised to disclose purchase
+        and other information to us.
+    </p>
+
+    <p>
+        We make reasonable efforts to ensure that Affiliate Stores, and other parties that disclose your
+        personal data to us, have first obtained your consent to do so. If you believe that a third party
+        has inappropriately disclosed your personal data to us, please contact that third party directly. If
+        the third party does not sufficiently respond to your inquiries, please let us know immediately,
+        using the contact details provided at the bottom of this Privacy Statement.
+    </p>
+
+    <h2>Where we store your personal data</h2>
+
+    <p>
+        The data that we collect from you may be transferred to, and stored at, a destination outside the
+        European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA
+        who work for us or for one or more of our suppliers. By submitting your personal data, you agree
+        to this transfer, storing and/or processing. We will take steps reasonably necessary to ensure
+        that your data is treated securely and in accordance with this Privacy Statement.
+    </p>
+
+    <h2>
+        Disclosure of your information
+    </h2>
+
+    <p>
+        We may share your personal data with third parties, as approved by you and/or as described in this Privacy
+        Statement.
+    </p>
+
+    <p>
+        We may consider it necessary to disclose personal information without your consent or without
+        consulting you, when we believe that it is appropriate to comply with our legal obligations and/or
+        a Court Order, to cooperate with any law enforcement agencies, to enforce this Privacy
+        Statement or our Terms of Use or other legal rights, to protect the security of the Website, to
+        protect the security and safety of others, to prevent fraud, or otherwise to protect our legitimate
+        interests and/or the legitimate interests of other users. We may also transfer your personal data
+        on the sale, transfer or reorganisation of our business.
+    </p>
+
+    <p>
+        Your personal data may be disclosed to service providers and/or third-party contractors who we
+        work with and/or engage to help us operate our business, the Website and/or the Services.
+    </p>
+
+    <p>
+        Information that cannot be used to reasonably identify an individual (“<strong>Anonymous
+        Information</strong>”) may be used in aggregate form, combined with other users’ Anonymous
+        Information, and shared with third parties.
+    </p>
+
+    <p>
+        Your personal data may be disclosed publicly and/or to third parties where you enter a
+        Promotion. This will be advised to you in the Promotion rules prior to or at the time of entry.
+        Upon participation in any Promotion, you are subject to any official rules, terms and conditions
+        of that Promotion.
+    </p>
+
+    <p>
+        Your personal data may be shared with licensors of the Website and/or Services, such as when
+        you access or login to the Website through a social media service or connect our Services to a
+        social media service, or when you visit an advert that appears on the Website.  Our advertising
+        partners serve adverts on the Website, further details of which are provided in our <a href="/cookies.html">Cookies
+        Policy</a>. This Privacy Statement does not cover the data protection and privacy policies or
+        practices of third parties. If you provide a third party any personal data yroo is not responsible
+        for correcting, updating or removing any of your personal data contained in any third-party’s lists
+        or databases.
+    </p>
+
+    <p>
+        Any information that you share and make publicly available on the Website may be made
+        available to all users and third parties who access the Website. We are not responsible for any
+        information that you share, and your use of the Website and/or Services constitutes your
+        acceptance of any risk involved in your disclosure of such information.
+    </p>
+
+    <p>
+        By using the Website, you acknowledge and agree that internet transmissions are never
+        completely private or secure. You understand that any message or information you send using
+        the Website may be read or intercepted by others.
+    </p>
+
+    <h2>Newsletters and Updates</h2>
+    &nbsp;
+    <p>
+        By becoming a Member, you hereby agree to receive communications that are account and
+        Member related (e.g., that you have earned a certain number of rewards etc.). Since we need to
+        communicate account information with you in order to operate our service, you cannot
+        unsubscribe from account information emails, but rest assured that we don't send account
+        emails unnecessarily.
+    </p>
+
+    <p>
+        If you subscribe to our newsletter or any other email updates, by specifying this in sign-up or by
+        submitting your email address through a subscribe facility on the Website, and you wish to opt-
+        out of receiving these communications you opt-out by (i) visiting your account page and
+        unchecking the check boxes in the subscriptions section; or (ii) following the unsubscribe link on
+        any of the emails.
+    </p>
+
+    <p>
+        If you do not wish to ever hear from yroo, you can close your account at any time. If you
+        experience difficulty with this you can contact yroo's customer service team at
+        <a href="mailto:support@yroo.com">support@yroo.com</a>.
+    </p>
+
+    <h2>Keeping your information accurate</h2>
+
+    <p>
+        If you create a user profile on our Website you can see the personal information you’ve provided
+        to us by accessing your “Profile” page, which gives you the option to correct or update your
+        information at any time by just logging into your profile. Once you register, you will be able to
+        change most of your personal information, including your email address, profile photo / avatar,
+        email preferences and password.
+    </p>
+
+    <p>
+        If you have any difficulty updating your account information please contact us using the contact
+        details below. If inaccurate information is sent to a third party, we will endeavour to
+        communicate relevant changes to the third party where appropriate.
+    </p>
+
+    <h2>Requests&nbsp;regarding data supplied via the Website</h2>
+
+    <p>
+        On request, we supply copies of your personal data which you may have supplied via the
+        Website. If you wish to obtain such copies, you must write to us at our postal address provided
+        below and include any personal identifiers which you supplied earlier via the Website (e.g.
+        username and e-mail address). We will also require your full name and residential address in
+        the circumstances. We reserve the right to charge a statutory fee, as permitted under the DPA.
+    </p>
+
+    <p>
+        If you discover that we hold inaccurate information about you, you can request us to
+        information. These requests must be in writing and sent to us at our postal address provided
+        below, or e-mail us at
+        <a href="mailto:support@yroo.com">support@yroo.com</a>.
+    </p>
+
+    <p>
+        In certain circumstances you may also request that data which you have supplied via the
+        Website be deleted.
+    </p>
+
+    <h2>Changes to this Privacy Statement</h2>
+
+    <p>
+        We reserve the right to make changes to this Privacy Statement at any time to reflect changes
+        in the law, our data collection and use practices, the features of our Website, or advances in
+        technology. Please check this page periodically for changes. If we make any material changes
+        to this Privacy Statement, we will post the updated Privacy Statement here and notify our
+        registered users by email or by means of a notice. Save for urgent changes (such as those
+        required by law) we will post such a notice on our Website prior to the changes becoming
+        effective. Please review the changes carefully. Your continued use of the Website following the
+        posting of changes to this policy will mean you consent to and accept those changes. If you do
+        not consent to such changes you can delete your user account and stop using the Website.
+    </p>
+
+    <br>
+    <p>
+        This statement was last modified 20th January 2016
+    </p>
+
+</article>
+
+        </div>
+      </div>
+    </div>
+  </section>
+</section>
+<!-- content -->
+
+</div>
+<footer>
+<div data-react-class="SignUpCta" data-react-props="{&quot;disabled&quot;:false}"></div>
+<div class="bottom">
+<div class="inner">
+<div class="social-footer-icons shared-footer-styles">
+<a class="icon-container" href="https://www.facebook.com/shopyroo" target="_blank">
+<img class="social-icon" src="https://yroo.com/assets/yroo/facebook-8d4a3dfbff473af1d9b39eeff023405a40fa9b4efd33aab8c77a24bc89ae50b7.png" alt="Facebook">
+</a>
+<a class="icon-container" href="https://twitter.com/shop_yroo" target="_blank">
+<img class="social-icon" src="https://yroo.com/assets/yroo/twitter-831332b4ce93872564f97c85465baad2460c7a24895902aefbfb8a5ee60ebccb.png" alt="Twitter">
+</a>
+<a class="icon-container" href="https://www.instagram.com/shop_yroo/" target="_blank">
+<img class="social-icon" src="https://yroo.com/assets/yroo/instagram-69d9b2ea698071e0d87627ab1b5b4b7dcb4d766787df8366cb55f21f154c21ea.png" alt="Instagram">
+</a>
+<a class="icon-container" href="https://www.pinterest.com/shopyroo/" target="_blank">
+<img class="social-icon" src="https://yroo.com/assets/yroo/pinterest-bae63dc33b20b377fe0efb3f4443887ebd889735d5f7656c090d799ed4602084.png" alt="Pinterest">
+</a>
+<a class="icon-container" href="http://blog.yroo.com" target="_blank">
+<img class="social-icon" src="https://yroo.com/assets/yroo/blog-11b0324a479e83102a24e3853aa9777f44ff2e1a25deafab90183b73a35326c9.png" alt="Blog">
+</a>
+
+</div>
+<div class="detail-footer-links shared-footer-styles">
+<a target="_blank" href="http://blog.yroo.com/faqs">FAQ</a>
+<span class="separator">|</span>
+<a href="/policies.html">Terms</a>
+<p class="info">© 2016 Yroo</p>
+</div>
+</div>
+</div>
+</footer>
+
+
+<div id="social-modal" class="social-modal-container modal fade pl-modal" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modal-title">
+
+    <div class="pulldown visible-xs" data-dismiss="modal" aria-label="Close">
+        <i class="fa fa-angle-down "></i>
+    </div>
+
+    <!-- modal content container -->
+    <div class="internal-container">
+
+        <div class="upper">
+            
+
+  <h2 class="title" id="modal-title">
+    Shop Smart.
+  </h2>
+
+  <div data-react-class="ModalDivider" data-react-props="{}"></div>
+
+  <div class="description">
+    <p>Help us spread the word</p>
+
+    <p>Like your experience with Yroo so far? Tell your friends about it and share your experience today!</p>
+  </div>
+
+
+        </div>
+
+        <div class="social-buttons">
+                <a target="_blank" rel="nofollow" title="Facebook" href="/go/shares/ri/facebook?url=http%3A%2F%2Fwww.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fyroo.com%252Fs4">
+    <div class="facebook"><img src="/images/icon_round_facebook_blue.svg"></div>
+</a>
+<a target="_blank" rel="nofollow" title="Twitter" href="/go/shares/ri/twitter?url=http%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3DJoin+me+on+Yroo%2C+a+great+shopping+search+engine%2C+and+start+shopping+smart+today%21%26url%3Dhttps%253A%252F%252Fyroo.com%252Fs4">
+    <div class="twitter"><img src="/images/icon_round_twitter_blue.svg"></div>
+</a>
+<a target="_blank" rel="nofollow" title="Email" href="/go/shares/ri/email?url=mailto%3A%3Fsubject%3DJoin+me+on+yroo.com%26body%3DHi%21%250D%250A%250D%250A%0AI%27ve+been+doing+my+online+shopping+through+Yroo%2C+the+best+shopping+search+engine.+With+thousands+of+stores%2C+millions+of+items%2C+exclusive+coupons%2C+Yroo+makes+shopping+online+easy%2C+social%2C+and+fun%21%250D%250A%250D%250A%0AStart+shopping+smart+today%21%250D%250A%250D%250A%0Ahttps%253A%252F%252Fyroo.com%252Fs4">
+    <div class="email"><img src="/images/icon_round_email_blue.svg"></div>
+</a>
+<a target="_blank" rel="nofollow" href="/go/shares/ri/google+?url=https%3A%2F%2Fplus.google.com%2Fshare%3Furl%3Dhttps%253A%252F%252Fyroo.com%252Fs4">
+    <div class="google-plus"><img src="/images/icon_round_googleplus_blue.svg"></div>
+</a>
+<a target="_blank" rel="nofollow" title="Pinterest" href="/go/shares/ri/pinterest?url=http%3A%2F%2Fpinterest.com%2Fpin%2Fcreate%2Fbutton%2F%3Furl%3Dhttps%253A%252F%252Fyroo.com%252Fs4%26media%3Dhttps%3A%2F%2Fyroo.com%2Fassets%2Fyroo%2Fyroo-icon-d83f99daaceb9127b6624145faa3903381ff86bccc63622255f05a30324597bd.png%26description%3DJoin+me+on+Yroo%2C+a+great+shopping+search+engine%2C+and+start+shopping+smart+today%21">
+    <div class="pinterest"><img src="/images/icon_round_pintrest_blue.svg"></div>
+</a>
+        </div>
+
+        <div class="lower">
+            <p>Or copy this personalized url into any message:</p>
+
+            <div class="rectangle">
+                <span id="share-url-container">
+                    <a target="_blank" href="https://yroo.com/s4">https://yroo.com/s4</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div aria-hidden="true" aria-labelledby="share-modal-title" class="modal fade pl-modal social-modal-container" id="share-modal" role="dialog" tabindex="-1">
+<div class="spinner" style="margin-top:200px">
+<img src="/assets/ajax-loader-blue-300x400-94d92deb07ae0bdaf447a38d84f35d7c8fcf4319087b3f4a616436a64422ae13.gif" alt="Ajax loader blue 300x400" width="60" height="80">
+</div>
+
+</div>
+<!-- React Modals Controller -->
+<div data-react-class="ModalsController" data-react-props="{&quot;currentModal&quot;:null,&quot;SignUpModal&quot;:{&quot;facebookPath&quot;:&quot;/users/auth/facebook&quot;,&quot;googlePath&quot;:&quot;/users/auth/google_oauth2&quot;},&quot;SignInModal&quot;:{&quot;facebookPath&quot;:&quot;/users/auth/facebook&quot;,&quot;googlePath&quot;:&quot;/users/auth/google_oauth2&quot;}}"></div>
+<script src="/assets/twentysixteen/application-c94fa4cfc0f8d72298bf2a7686b9fdaa9b0a460fa67fabf274175a05eeb8014a.js" data-turbolinks-track="true"></script>
+<script src="/webpack/yroo-ui-d943748f6595d913ba6e.js"></script>
+<script src="/assets/clever-theme/clever-theme-d2163146fba7ac7a1fc90a916e5645e97fc964902746ab76038e23b2e6a75734.js" data-turbolinks-track="true"></script>
+<script src="/assets/home-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js" data-turbolinks-track="true"></script>
+
+
+<script>
+  I18n.fallbacks = true;
+  I18n.defaultLocale = "en";
+  I18n.locale = "en";
+  rc.layoutSettings = { name: 'twentysixteen'};
+  rc.feature_set = {"react_components":{}} || {};
+</script>
+<script type="text/javascript">
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=3';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
 </script>
 
-    
 </body></html>
