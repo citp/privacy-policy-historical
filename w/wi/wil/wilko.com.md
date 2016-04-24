@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the wilko.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716234514id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilko.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424080434id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at wilko.com
-
-  
-
 
 **1: Your Privacy**
 
@@ -23,6 +20,11 @@ Wilko Retail Limited is a company registered in England and Wales with company n
   * 3.1.3 We may also ask you to participate in surveys and other market research. Your participation in any market research is completely voluntary.
   * 3.1.3 Details of your transactions on our Website and of the fulfilment of your orders.
   * 3.1.4 Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
+  * 3.1.5 We make use of Google Analytics Demographics and Interest Reporting. We may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on our site: 
+    * You may opt out of Google Analytics for Display Advertising or customise Google Display Network ads by using the Google Ads Settings page (<https://www.google.com/settings/ads> ). You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the Google Analytics Opt-out Browser Add-on. (<https://tools.google.com/dlpage/gaoptout> )
+    * Where Wilko makes use of the Google Analytics for Display Advertising Remarketing feature, Wilko will use such Remarketing feature to advertise online and third party vendors, including Google, may show Wilko ads on sites across the Internet.
+    * Wilko and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to (a) inform, optimize and serve ads based on a user’s past visits to the Wilko site, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Wilko sites.
+    * Data from Google Analytics Demographics and Interest Reporting may be utilised by Wilko to help recognise and understand user preferences, to make improvements to the Wilko site, to choose content and advertising to display to you, and for other business purposes that will allow Wilko to better serve you.
 
 
 
@@ -81,11 +83,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
   * 11.1 If you would like to know what information we have about you please contact customer services and make an access request. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
   * 11.2 Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customer services on 08000 329 329.
 
-
-
-[ Back to top ]
-
-  
 
 
 Browse
