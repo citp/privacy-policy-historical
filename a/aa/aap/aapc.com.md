@@ -1,43 +1,42 @@
-> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2006-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061215060323id_/http%3A//www.aapc.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapc.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424191529id_/https%3A//www.aapc.com/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
-# American Academy of Professional Coders - Privacy Policy
+# Privacy Statement - AAPC
 
-**American Academy of Professional Coders  
-****Privacy Policy**  
+##  Information Collected 
+
+AAPC gathers two types of information about users: 
+
+  * Information provided through optional, voluntary submissions. These include, but are not limited to, applying for membership, purchasing products or services, participating in surveys, submitting questions or comments, or requesting information. 
+  * Information gathered through aggregated visitor tracking derived mainly by tallying page views throughout its websites. This information allows them to better tailor its services to its members and prospective members. 
 
 
-**1\. Privacy Philosophy**
 
-The American Academy of Professional Coders (the Academy) values your privacy and recognizes the sensitivity of your personal information. Our employees share the same concerns. Together, we work towards protecting your privacy. We have carefully crafted our Privacy Policy to address any concerns you might have, and to assure you that your personal information, if provided to us, will be treated carefully and appropriately.
+##  Information Usage 
 
-**2\. Collection and Use of Information**
+AAPC uses the contact information you provide to help create and continually improve its services for you. It uses payment information for payment processing purposes and takes steps to secure that information (noted in the security section below). It creates and maintains other information such as customer or member account status, choice of services, and customer or member logs in the normal course of providing service. AAPC uses your information to make your experience with its services more personalized, convenient and relevant to you. 
 
-You may view and use the Site generally without providing us with any personal information. However, in order to make purchases on the Site and, in some cases, to fully utilize certain other features and functions of the Site, you must provide us with certain personally identifiable information. By providing such information, you consent to our collection and use of it, as described in this Privacy Policy.
+AAPC uses your information to communicate with you via letter, email or phone concerning the status of your account, billing issues, and service updates. Periodically it will also send you company and industry newsletters, product updates, and promotions from its select partners because we believe this information may be valuable to you. If you wish to not receive these types of correspondence, you may opt-out, or unsubscribe by contacting us at 801-236-2200 or e-mailing [optoutpn@aapc.com](mailto:optoutpn@aapc.com). Customers may not opt-out of receiving information from AAPC that is essential for maintaining or updating customers account or system information. 
 
-The information you provide may include information provided during the purchasing process, including contact information (such as your name, address and email address) and financial information such as a credit card number. This information will be used to process your order and if necessary, to contact you regarding the status of your order. In addition, the Academy may use your contact information to get in touch with you regarding the status of your membership, if applicable, or other matters.
+##  Information Security 
 
-The Site may provide you with email capabilities for your use. In the event you voluntarily disclose personally identifiable information using such convenience services, that information, along with any substantive information disclosed in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond our control. The Academy does not monitor or review the contents of any email, bulletin board or chat room.
+AAPC has security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of personal information. It restricts access to member information by AAPC's business partners who may need to know that information in order to operate, develop, or improve its services. These parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
-**3\. Security**
+AAPC treats your personal information in a confidential manner. Its employees and other authorized personnel are required to protect the confidentiality of your personal information. It restricts access to personal information about you to only those individuals who have a business reason to know the information, such as in order to provide services for you. It also maintains physical, electronic and procedural safeguards to protect such information. All employees and other authorized personnel are required to comply with its established policies, including this Privacy Policy. 
 
-We strive to keep your personal information as secure as possible. To that end, we use Secure Socket Layer (SSL) software to encrypt your information as it is transmitted.
+## How You Can Access and Change Information
 
-**4\. Cookies**
+If you are a registered member of the AAPC website, you may review and update/correct your personal information on the [Profile/Preferences webpage](https://web.archive.org/account/accountprofile.aspx) or by contacting AAPC at (801) 236-2200. 
 
-Like most web sites, the Site uses "cookies" to allow you to move more quickly through the Site. Cookies are small text strings which are stored in your browsers memory. The Academy does not use the personal information collected by cookies except to recognize repeat users and facilitate their ongoing access to and use of the web site.
+##  Information Sharing 
 
-The Academy reserves the right to perform statistical analyses and profiling of user behavior and characteristics in order to measure interest in and use of the various areas of the Site and to inform third parties of such information.
+AAPC may share some information with select partners providing services that may be of interest to its members and prospective members. The information is shared on a very limited basis and available only with a non-disclosure agreement and single use restriction. Such third parties do not have the right to use your information for any purpose other than to inform of the applicable service. 
 
-The Site may provide you with links to the web sites of third parties. In the event you choose to access such web sites, The Academy is not responsible for any actions or policies of such third parties. We recommend that you check the applicable privacy policy of such party before providing personally identifiable information to it, as its privacy policy may differ from the Academy's.
+AAPC will not otherwise disclose personal or account information unless there is reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of AAPC, its customers, or others. It may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws or where AAPC has a good faith belief that the law requires such disclosure. 
 
-**5\. Correcting Your Information**
+AAPC also will not disclose to third parties the contents of any electronic mail or other electronic communications that AAPC stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that AAPC determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by AAPC and appear to pertain to the commission of a crime. 
 
-By following the simple instructions on the Site, you may correct or update any of the information you provide to us at any time.
+If AAPC sells, assigns or transfers the part of its business that provides a particular service to you, your personally identifiable information may be sold, assigned or transferred as apart of such transaction. 
 
-**6\. Changes in our Privacy Policy**
+##  Your Consent 
 
-Any changes to our Privacy Policy will be posted on this page so that you are always aware of our policies. We may also contact you by email with any changes.
-
-**7\. How to Contact Us**
-
-We invite your comments and questions about the Site, your experience with the Site, and our Privacy Policy. Please contact us at aapc@aapc.com.
+By using this site, becoming an AAPC member, purchasing products or services from them, or engaging AAPC in any way, you consent to the collection and use of information collected as noted in this privacy statement. If AAPC decides to change its privacy policy, it will post those changes on this page so that you are always aware of what information it collects, how it uses the information, and under what circumstances AAPC discloses it. 
