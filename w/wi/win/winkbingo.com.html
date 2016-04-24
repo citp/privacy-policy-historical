@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2015-09-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150919024309id_/https%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winkbingo.com privacy policy that was archived on 2016-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160424153456id_/https%3A//www.winkbingo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html dir="ltr" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec"><!--<![endif]--><head>
 
 <!--
 player:
 -------
-array(11) {
+array(12) {
   ["id"]=>
   string(0) ""
   ["sessionID"]=>
@@ -25,10 +25,12 @@ array(11) {
   string(0) ""
   ["preferedView"]=>
   string(0) ""
+  ["loginCountryCode"]=>
+  string(0) ""
   ["deviceType"]=>
   int(3)
   ["countryCode"]=>
-  string(3) "USA"
+  NULL
 }
 -->
 <link rel="shortcut icon" href="https://www.winkbingo.com/favicon.ico"> 
@@ -37,7 +39,7 @@ array(11) {
 <meta charset="UTF-8">
 <title>Privacy Policy For WinkBingo Users</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="https://www.winkbingo.com/wp-content/themes/wink/style.css?new7">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.winkbingo.com/wp-content/themes/wink/style.css?v1.3">
 <link rel="pingback" href="http://www.winkbingo.com/xmlrpc.php">
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.1.5 - http://yoast.com/wordpress/seo/ -->
@@ -53,7 +55,7 @@ array(11) {
 <script type="text/javascript" src="https://www.winkbingo.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <script type="text/javascript" src="https://www.winkbingo.com/wp-content/themes/wink/js/web_wp.js"></script>
 <script type="text/javascript" src="https://www.winkbingo.com/wp-content/themes/wink/js/wink_settings.js"></script>
-<script type="text/javascript" src="https://www.winkbingo.com/commonassets/js/b2cweb.js"></script>
+<script type="text/javascript" src="https://www.winkbingo.com/commonassets/js/b2cweb.js?ver=2.8"></script>
 <script type="text/javascript" src="https://www.winkbingo.com/wp-content/themes/wink/js/swfobject.js"></script>
 <script type="text/javascript" src="https://www.winkbingo.com/commonassets/js/swfobject2.js"></script>
 <script type="text/javascript" src="https://www.winkbingo.com/commonassets/js/funnel-data.js"></script>
@@ -62,7 +64,6 @@ array(11) {
 <meta name="generator" content="WordPress 3.3.2">
 <!-- Styles Added by WP Post Styling (http://www.joedolson.com/articles/wp-post-styling/) -->
 <!-- End WP Post Styling -->
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <style type="text/css" media="all">
 /* <![CDATA[ */
 @import url("https://www.winkbingo.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
@@ -79,7 +80,10 @@ array(11) {
 
 <link href="https://plus.google.com/u/0/110933577151831202702" rel="publisher">
 <script language="Javascript">
-$(document).ready(function() {
+    $(document).ready(function () {
+        setTimeout(function () {
+            initOmg();
+        }, 3500);
 	$('#password-clear').show();
 	$('#password-password').hide();
 	$('#password-clear').focus(function() {
@@ -115,6 +119,14 @@ $(document).ready(function() {
 			removalDelay: 160,
 			preloader: false,
 			fixedContentPos: false
+		});
+
+
+		$('#navigation a').hover(function () {
+		    Gtm.Trigger('Navigation', 'Hover', $(this).html());
+		});
+		$('#navigation a').click(function () {
+		    Gtm.Trigger('Navigation', 'Click', $(this).html());
 		});
 });
 function sendGAHomeParams(category,action,label) {
@@ -190,23 +202,24 @@ function openAndDownload() {
 <script type="text/javascript">
 	var serial = '229552';
 	var anid = 'IwinkI';
-	var serverTime = '2015-09-19 02:43:11';
+	var serverTime = '2016-04-24 03:34:57';
 	var newUser = '0';
 	var AffiliateID = '';
 	var AffiliateTrackerID = '';
 	var skinId = '901';
 	var siteDomain = 'www.winkbingo.com';
-	var country = 'USA';
+	var country = '';
 	var loggedInUser = '';
-	var regInfo = '?skinID=901&a=2734.229552&funnelData=eyJvcmlnLWxwIjoid3d3LndpbmtiaW5nby5jb20vYmluZ28tZ2FtZXMiLCJzciI6IjIyOTU1MiIsImFuaWQiOiJJd2lua0kiLCJhIjoiMjczNC4yMjk1NTIiLCJmbGFnIjoiMCJ9&parentHttps=on';
+	var regInfo = '?skinID=901&a=2734.229552&funnelData=eyJvcmlnLWxwIjoid3d3LndpbmtiaW5nby5jb20vcHJpdmFjeS1wb2xpY3kvIiwic3IiOiIyMjk1NTIiLCJhbmlkIjoiSXdpbmtJIiwiYSI6IjI3MzQuMjI5NTUyIiwiZmxhZyI6IjEifQ%3D%3D&parentHttps=on';
 	var SkinCustomerID = '';
 	var NetworkName = 'Wink';
 	var funded = '';
-	var queryParams = 'orig-lp=www.winkbingo.com/bingo-games&sr=229552&anid=IwinkI&a=2734.229552&flag=0';
-	var testData = '%7B%22orig-lp%22%3A%22www.winkbingo.com%2Fbingo-games%22%2C%22sr%22%3A%22229552%22%2C%22anid%22%3A%22IwinkI%22%2C%22a%22%3A%222734.229552%22%2C%22flag%22%3A%220%22%7D';
+	var queryParams = 'orig-lp=www.winkbingo.com/privacy-policy/&sr=229552&anid=IwinkI&a=2734.229552&flag=1';
+	var testData = '%7B%22orig-lp%22%3A%22www.winkbingo.com%2Fprivacy-policy%2F%22%2C%22sr%22%3A%22229552%22%2C%22anid%22%3A%22IwinkI%22%2C%22a%22%3A%222734.229552%22%2C%22flag%22%3A%221%22%7D';
 	var mkw = '';
 	var st = '';
-</script><script type="text/javascript">var Bingo = {"globals":{"Detection":{"device":"desktop","browser":"Unknown","platform":"Unknown","version":"?"},"SiteData":{"serial":"229552","mkw":null,"st":null,"anid":"IwinkI","serverTime":"2015-09-19 02:43:11","newUser":0,"AffiliateID":"","AffiliateTrackerID":"","skinId":901,"siteDomain":"www.winkbingo.com","country":"USA","loggedInUser":false,"regInfo":"?skinID=901&a=2734.229552&funnelData=eyJvcmlnLWxwIjoid3d3LndpbmtiaW5nby5jb20vYmluZ28tZ2FtZXMiLCJzciI6IjIyOTU1MiIsImFuaWQiOiJJd2lua0kiLCJhIjoiMjczNC4yMjk1NTIiLCJmbGFnIjoiMCJ9&parentHttps=on","SkinCustomerID":"","NetworkName":"Wink","Tag":"","AffiliatePlatformID":"","strCurrency":"GBP","mid":"LUB-BNGB2C-02","a":"2734.229552","funded":"","queryParams":"orig-lp=www.winkbingo.com\/bingo-games&sr=229552&anid=IwinkI&a=2734.229552&flag=0","testData":"%7B%22orig-lp%22%3A%22www.winkbingo.com%2Fbingo-games%22%2C%22sr%22%3A%22229552%22%2C%22anid%22%3A%22IwinkI%22%2C%22a%22%3A%222734.229552%22%2C%22flag%22%3A%220%22%7D"}}}</script>
+	var cid = '';
+</script><script type="text/javascript">var Bingo = {"globals":{"Detection":{"device":"desktop","browser":"Unknown","platform":"Unknown","version":"?"},"SiteData":{"serial":229552,"cid":null,"mkw":null,"st":null,"anid":"IwinkI","serverTime":"2016-04-24 03:34:57","newUser":0,"AffiliateID":"","AffiliateTrackerID":"","skinId":901,"siteDomain":"www.winkbingo.com","country":"","loggedInUser":false,"regInfo":"?skinID=901&a=2734.229552&funnelData=eyJvcmlnLWxwIjoid3d3LndpbmtiaW5nby5jb20vcHJpdmFjeS1wb2xpY3kvIiwic3IiOiIyMjk1NTIiLCJhbmlkIjoiSXdpbmtJIiwiYSI6IjI3MzQuMjI5NTUyIiwiZmxhZyI6IjEifQ%3D%3D&parentHttps=on","SkinCustomerID":"","NetworkName":"Wink","Tag":"","AffiliatePlatformID":"","strCurrency":"GBP","mid":"LUB-BNGB2C-03","a":"2734.229552","funded":"","queryParams":"orig-lp=www.winkbingo.com\/privacy-policy\/&sr=229552&anid=IwinkI&a=2734.229552&flag=1","testData":"%7B%22orig-lp%22%3A%22www.winkbingo.com%2Fprivacy-policy%2F%22%2C%22sr%22%3A%22229552%22%2C%22anid%22%3A%22IwinkI%22%2C%22a%22%3A%222734.229552%22%2C%22flag%22%3A%221%22%7D"}}}</script>
 <script type="text/javascript" src="/wp-content/themes/wink/js/jquery.magnific-popup.js"></script>
 <link rel="stylesheet" type="text/css" media="all" href="/wp-content/themes/wink/magnific-popup.css">
 <!-- Begin Inspectlet Embed Code -->
@@ -223,6 +236,9 @@ function openAndDownload() {
     })();
 </script>
 <!-- End Inspectlet Embed Code -->
+<link rel="stylesheet" type="text/css" href="https://www.winkbingo.com/commonassets/features/omg/prod/css/901_omg.css">
+<script src="//www.winkbingo.com/commonassets/features/omg/src/dep/jquery-ui.min.js"></script>
+<script src="//www.winkbingo.com/commonassets/features/omg/prod/js/bingoomg.js?ver=2.5"></script>
 
 
 
@@ -233,7 +249,7 @@ function openAndDownload() {
 		'mkw': '',
 		'st': '',
 		'anid': 'IwinkI' ,
-		'serverTime': '2015-09-19 02:43:11',
+		'serverTime': '2016-04-24 03:34:57',
 		'newUser': '0',
 		'AffiliateID': '',
 		'AffiliateTrackerID' : '',
@@ -243,9 +259,10 @@ function openAndDownload() {
 		'firedTags': '',
 		'loggedUser' : '',
 		'SkinCustomerID' : '',
-		'mid' : 'LUB-BNGB2C-02',
+		'mid' : 'LUB-BNGB2C-03',
 		'Atag' : '2734.229552',
-		'facebookId' : ''
+		'facebookId' : '',
+		'cid': ''
 	}];
 </script>
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-RXWSV"
@@ -272,12 +289,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 _kiq.push(['identify', '']);
 
 </script>
-
-
 <!--
 player:
 -------
-array(11) {
+array(12) {
   ["id"]=>
   string(0) ""
   ["sessionID"]=>
@@ -296,37 +311,117 @@ array(11) {
   string(0) ""
   ["preferedView"]=>
   string(0) ""
+  ["loginCountryCode"]=>
+  string(0) ""
   ["deviceType"]=>
   int(3)
   ["countryCode"]=>
-  string(3) "USA"
+  NULL
 }
 -->
-
-
-
 <div id="glitter">
-
 <script language="javascript">
-	<!--
 	function instantHelp(N) {
 	newWindow = window.open(N, 'instantHelp','toolbar=no,menubar=no,resizable=no,scrollbars=yes,status=no,location=no,width=520,height=600');
 	}
-	-->
 </script>
+<script>
+// --- Show PLAYER ID by Pressing F9 ---
+function playerIdPop() { $('#playerIdPop').slideToggle("slow"); }
+function f9key (e) { if (e.keyCode == 120) { $('#playerIdPop').slideToggle("slow"); } }
+if (document.addEventListener) { document.addEventListener("keyup", f9key); } // NON IE
+else if (document.attachEvent) { document.attachEvent("onkeyup", f9key); } // IE
+</script>
+<div id="playerIdPop" style="display:none;position:fixed;width:200px;left:0;right:0;margin:0 auto;padding:20px;background:#FFFBCB;border-radius:0 0 10px 10px;z-index:99999;text-align:center;">
+     Logged Out     <span style="position:absolute;top:5px;right:10px;cursor:pointer;" onclick="playerIdPop()">X</span>
+</div>
 <a id="topright" title="Live Chat" href="javascript:instantHelp('http://chat.cassava.net/c/chat_launch_winkbingo_en.php');">Wink Bingo Live Chat</a>
 
 <div id="wrap">
+<!-- deeplink popups elements -->
+<div class="bingoDeepLinkPopup" id="bingoDeepLinkPopup">
+    Click the button below to open the link    <button class="bingoDeepLinkPopupButton" id="bingoDeepLinkPopupButton" onclick="deepLinkAction(); return false;">Take me there</button>
+</div>
+<div class="bingoSiteOverlay" id="bingoSiteOverlay" onclick="hideDeepLinkPopup(); return false"></div>
+
+<style>
+
+    .bingoSiteOverlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 100000;
+        background-color: rgba(0,0,0,0.7);
+        display: none;
+    }
+
+    .bingoDeepLinkPopup {
+        width: 300px;
+        height: 200px;
+        box-sizing: border-box;
+        padding-top: 86px;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px;
+        margin-left: -150px;
+        background-color: white;
+        border-radius: 5px;
+        text-align: center;
+        z-index: 100100;
+        color: black;
+        display: none;
+    }
+
+    .bingoDeepLinkPopup .bingoDeepLinkPopupButton {
+
+        margin-top:30px;
+        cursor: pointer;
+
+    }
+
+</style>
+
+<!-- end of deeplink popups elements -->
+
 <script type="text/javascript">
-    
+
+    /* sharing features into js */
+    window.bingoFeatures = {};
+    window.bingoFeatures.CashierSClient = false;
+    window.bingoFeatures.WebDeeplinkPopup = true;
+    window.bingoFeatures.ProvidePlayerLanguageToIG = true;
+    window.bingoFeatures.RealityCheck = true;
+
+    window.bingoUser = {};
+    window.bingoUser.loginCountry = '';
+    window.bingoUser.languageISO2 = 'en';
+    window.bingoUser.languageISO3 = 'ENG';
+
     /* functions */
+    var deepLinkAction = function () {};
+
     if ( typeof launchDeepLinkCashier === 'undefined' ) {
         var launchDeepLinkCashier = function() {
 
-            if (navigator.appName.indexOf("Microsoft") != -1) {
-                wb = window.open("", "AquaPayCashier", "height=576,width=700,top=100,left=100,scrollbars=1");
+            if ( window.bingoFeatures && window.bingoFeatures.CashierSClient ) {
+
+                if ( navigator.appName.indexOf("Microsoft") != -1 ) {
+                    wb = window.open("", "AquaPayCashier", "height=768,width=1024,top=100,left=100,scrollbars=1");
+                } else {
+                    wb = window.open("", "AquaPayCashier", "height=768,width=1024,screenY=100,screenX=100,scrollbars=yes");
+                }
+
             } else {
-                wb = window.open("", "AquaPayCashier", "height=576,width=700,screenY=100,screenX=100,scrollbars=yes");
+
+                if ( navigator.appName.indexOf("Microsoft") != -1 ) {
+                    wb = window.open("", "AquaPayCashier", "height=576,width=700,top=100,left=100,scrollbars=1");
+                } else {
+                    wb = window.open("", "AquaPayCashier", "height=576,width=700,screenY=100,screenX=100,scrollbars=yes");
+                }
+
             }
 
             document.bingoCashierDeepLinkForm.submit();
@@ -334,6 +429,8 @@ array(11) {
     }
 
     if ( typeof launchIGByGameGroup === 'undefined' ) {
+
+        var igwn = null;
 
         var launchIGByGameGroup = function ( gameGroupId ) {
         
@@ -389,12 +486,36 @@ array(11) {
         }
     }
 
-	
+    if ( typeof hideDeepLinkPopup === 'undefined' ) {
+
+        var hideDeepLinkPopup = function () {
+            var popup = document.getElementById('bingoDeepLinkPopup');
+            var overlay = document.getElementById('bingoSiteOverlay');
+            popup.style.display = 'none';
+            overlay.style.display = 'none';
+        }
+
+    }
+
+    if ( typeof showDeepLinkPopup === 'undefined' ) {
+
+        var showDeepLinkPopup = function () {
+            var popup = document.getElementById('bingoDeepLinkPopup');
+            var overlay = document.getElementById('bingoSiteOverlay');
+            popup.style.display = 'block';
+            overlay.style.display = 'block';
+        }
+
+    }
+
 </script>
 
 
 
 
+<script type="text/javascript">
+
+</script>
 <form name="CashierForm" id="CashierForm" method="post" action="https://cashier.bingosys.net/start.php" target="AquaPayCashier">
 	<input type="hidden" name="oid" value="9">
 	<input type="hidden" name="kid" value="901">
@@ -410,10 +531,11 @@ array(11) {
 	<input type="hidden" name="version" value="1">
 	<input type="hidden" name="oCustomerSource" value="">
 	<input type="hidden" name="lang" value="en">
+    <input type="hidden" name="langIso3" value="ENG">
+    <input type="hidden" name="locale" value="en-GB">
 	<input type="hidden" name="oSourceAppID" value="11">
 </form>
 
-	
   
 	<div id="header">
 		  
@@ -424,7 +546,7 @@ array(11) {
 			<input name="form_action" id="Hidden5" type="hidden" value="LOGIN">
 						
 		<div id="joinnow">
-			<a href="#" onclick="smartBingo(null,null,'JoinNowTop');" class="globalBtn globalWhite globalBgOrange">JOIN NOW</a>
+			<a href="#" onclick="smartBingo(null,17411,'JoinNowTop');" class="globalBtn globalWhite globalBgOrange">JOIN NOW</a>
 		</div>	
 		<div id="login">
 			<div style="float:left;"><div class="icon_username"></div><input name="Alias" type="text" class="default-value" value="Username" id="username"></div>
@@ -469,11 +591,14 @@ array(11) {
 </li>
 <li itemprop="name" id="menu-item-1372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1372"><a itemprop="url" title="winners" href="https://www.winkbingo.com/winners/">Winners</a></li>
 <li itemprop="name" id="menu-item-4211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4211"><a itemprop="url" title="Mobile" href="https://www.winkbingo.com/mobile/">Mobile</a></li>
-<li itemprop="name" id="menu-item-12976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12976"><a itemprop="url" title="community" href="https://www.winkbingo.com/community/">Community</a></li>
+<li itemprop="name" id="menu-item-12976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12976"><a itemprop="url" title="Winkly" href="https://www.winkbingo.com/community/">Winkly</a></li>
 <li itemprop="name" id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a itemprop="url" title="help" href="https://www.winkbingo.com/help/">Help</a>
 <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="sub-menu">
 	<li itemprop="name" id="menu-item-6519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6519"><a itemprop="url" target="_blank" href="http://888-external-en.custhelp.com/app/home/prod/288" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://888-external-en.custhelp.com']);">Online Help</a></li>
 	<li itemprop="name" id="menu-item-11402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11402"><a itemprop="url" href="https://www.winkbingo.com/help/learn-90ball-bingo/">How to play Bingo</a></li>
+	<li itemprop="name" id="menu-item-18228" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18228"><a itemprop="url" href="https://www.winkbingo.com/the-complete-guide-to-bingo/">Complete Bingo Guide</a></li>
+	<li itemprop="name" id="menu-item-18804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18804"><a itemprop="url" href="https://www.winkbingo.com/the-ultimate-guide-to-online-bingo/">Online Bingo Guide</a></li>
+	<li itemprop="name" id="menu-item-19078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19078"><a itemprop="url" title="24 Hours In Bingo" href="https://www.winkbingo.com/24-hours-in-online-bingo/">24 Hours In Bingo</a></li>
 </ul>
 </li>
 </ul></div>			</nav><!-- #access -->
@@ -558,13 +683,31 @@ array(11) {
 </form><!-- #end of main form-->
 
 
-
 	<div id="sidebar">
 
-		
+		<style>
+#tcLinkLayer {
+    width: 93%;
+    height: 95px;
+    margin: 0 auto;
+    right: 2px;
+    position: relative;
+    bottom: 95px;
+}
+#regLinkLayer {
+    width: 93%;
+    height: 388px;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 4px;
+}
+</style>
 
 <div id="sidebarBanner">
-            <a href="#" onclick="smartBingo(null,null,'SpinTheWheel');" style="cursor: pointer;"><img src="/wp-content/themes/wink/images/members/SPEEN_THE_WHEEL.jpg" width="205" style="margin-left: 5px;"></a>
+    <img src="/images/promotions/stw2016/BP-6952_SideBanner_210x500.jpg" width="205" style="margin-left: 5px;">
+    <a id="tcLink" href="/bingo-promotions/spin-the-wheel/#bottomTcs"><div id="tcLinkLayer"></div></a>
+            <a id="regLink" href="#" onclick="smartBingo(null,17454,'SpinTheWheel');"><div id="regLinkLayer"></div></a>
     </div>
 
 	<!--<div id="sidebarBanner">Please Get Flash.</div>
@@ -601,9 +744,12 @@ array(11) {
             <a href="/about-us/">About Us</a>  |
             <a href="/help/">Help</a> |
             <a href="/contact-us/">Contact Us</a>  |
+            <a href="https://www.easterbingo.com/" rel="nofollow">Easter Bingo</a> | 
             <a href="http://affiliates.888.com/" target="_blank" onmousedown="this.href=this.href + '?sr=' + serial + '&amp;anid=' + anid">Affiliates</a><br>
             <!-- <a href="/bingo-resources/" target="_blank">Bingo Resources</a> | -->
-            <a href="/fair-play/">Fair Play</a>
+            <a href="/fair-play/">Fair Play</a> |
+            <a href="http://www.winkslots.com">Wink Slots</a>
+
         </div>
         <div class="social">
             <a href="http://www.facebook.com/winkbingo/" target="_blank" class="social_icon_facebook"></a>
@@ -643,7 +789,7 @@ array(11) {
                 <!-- <span class="visaDebit cursorOff" ></span> -->
                 <span class="mastercard cursorOff"></span>
                 <span class="maestro cursorOff"></span>
-                <span class="ukadhi longerIcon"></span>
+                <!--<span class="ukadhi longerIcon" ></span>-->
                 <!-- <span class="rbs"></span> -->
                 <span class="paySafe longerIcon cursorOff"></span>
                 <span class="entroPay longerIcon cursorOff"></span>
@@ -660,10 +806,19 @@ array(11) {
 	</div>
     <div id="vcard">
 	    <div class="bankingAndLicenseContainer">
-       <p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions.</p>
-    <p>As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank" style="text-decoration: underline;">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act (License Number 000-039028-R-319297-0016)</p>
-    <p>Our address: 601-701 Europort, Gibraltar.</p>
-    <p>We encourage responsible gambling and support <a href="http://www.gamcare.org.uk/" target="_blank" style="text-decoration: underline;">GamCare</a>.</p>
+        <p>
+        Copyright 1997 - 2015 Cassava Enterprises (Gibraltar) Limited, a wholly owned subsidiary of 888 Holdings plc.<br>
+        Cassava Enterprises (Gibraltar) Limited is incorporated in Gibraltar, which is part of the European Union.<br>
+        888 Holdings plc is listed on the London Stock Exchange. <br>
+        Cassava Enterprises (Gibraltar) Limited is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions.
+    </p>
+    <p>
+        Our services in the UK are operated by 888 UK Limited, a company incorporated in Gibraltar, which is licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank" style="text-decoration: underline;">Great Britain Gambling Commission</a>.<br>
+        Our services in European Union member states (except for states in which our services are provided under a local license) are operated by Virtual Digital Services Limited, a company incorporated in Gibraltar which is part of the European Union.<br>
+        Virtual Digital Services Limited operates under the auspices of a gaming license provided under the laws of Gibraltar.<br>
+        Our address: 601-701 Europort, Gibraltar.<br>
+        We encourage <a href="https://www.winkbingo.com/responsible-gaming/">responsible gambling</a> and support <a href="http://www.gamcare.org.uk/" target="_blank" style="text-decoration: underline;">GamCare</a>.
+    </p>
         </div>
     </div><!-- END vcard -->
 </div><!-- END footer -->
@@ -674,6 +829,8 @@ array(11) {
     <div class="wink_BG_pink_ball"></div>
     <div class="wink_BG_blue_ball"></div>
     <div class="wink_BG_green_ball"></div>
+    <div class="wink_BG_stw"></div>
+
 </div><!-- END #wrap -->
 </div><!-- END #glitter-->
 <script type="text/javascript">
