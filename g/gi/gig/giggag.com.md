@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggag.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219145718id_/http%3A//giggag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggag.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424230632id_/http%3A//giggag.com/privacy) for the most accurate reproduction.*
 
 # GIGGAG - Privacy Policy
 
