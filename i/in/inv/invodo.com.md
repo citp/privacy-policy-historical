@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invodo.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908104817id_/http%3A//www.invodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invodo.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424202629id_/http%3A//www.invodo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Invodo
+# 
 
 **What information do we collect?**
 
