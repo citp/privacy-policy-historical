@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivaldi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102400id_/https%3A//vivaldi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaldi.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424151329id_/https%3A//vivaldi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Vivaldi
 
@@ -19,6 +19,10 @@ Vivaldi has strict restrictions on access to user data. Only a limited number of
 ## Transfer
 
 Vivaldi cooperates with Advania data centers (see <http://www.advania.com/datacentres/>) for the hosting and running of the Vivaldi websites. Advania data centers will process and handle personal data on Vivaldi’s behalf in accordance with this Privacy Statement, and in accordance with applicable laws and regulations. Vivaldi will not transfer any personal data to any third party except as required by law or law enforcement.
+
+## Web search partners
+
+Some of the web search services provided herein are provided by Vivaldi.rocks and powered by Vivaldi.rocks partners. For information on the web search services data collection, please visit <http://info.vivaldi.rocks/privacy-policy/>, and the search providers privacy policy as applicable, which is incorporated into this Privacy Statement by reference.
 
 ## Retention and deletion
 
