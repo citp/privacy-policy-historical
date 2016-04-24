@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epochinspired.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204161755id_/http%3A//www.epochinspired.com/inspired/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epochinspired.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425003620id_/http%3A//www.epochinspired.com/inspired/privacy-notice) for the most accurate reproduction.*
 
 # The Epoch Times - Privacy Notice
 
