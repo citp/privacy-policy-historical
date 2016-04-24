@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printrove.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223145914id_/http%3A//printrove.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printrove.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425000427id_/http%3A//printrove.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Printrove - Your Brand, Our Products | Privacy Policy
+# Printrove | Privacy Policy
 
 It is our policy to respect your privacy regarding any information we may collect while operating our website.
 
