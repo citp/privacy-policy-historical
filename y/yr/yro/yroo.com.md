@@ -1,135 +1,110 @@
-> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912072339id_/https%3A//yroo.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424180115id_/https%3A//yroo.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | yroo
+# Privacy Policy - Yroo
 
-RETAILCOMMON Inc., the owner of yroo.com (“yroo.com,” “us” or “we”), owns and operates the yroo.com website (the “Web Site”) and the services related to or offered on the Web Site (the “Services”).
+## Who are we?
 
-Your privacy and the respectful and responsible handling of your personal information is very important to us. The purpose of this privacy policy (the “Policy”) is to outline the types of information that may be collected about you when visiting the Web Site, how that information will be used and disclosed, and how you can control, correct and update the information.
+We are yroo (Ireland) Limited, company incorporated under the laws of Ireland with our registered office at 22 Northumberland Road, Ballsbridge, Dublin 4, Ireland (“ **yroo** ”, " **we** " “ **our** ” or “ **us** ”). We own and operate the yroo.com website and mobile platforms (the “ **Website** ”) and the services related to or offered on the Website (the “ **Services** ”). 
 
-Each visit to the Web Site or use of the Services constitutes your acknowledgement and acceptance of the Policy. Providing personal information or authorizing a third party to disclose personal information to us signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
+Your privacy and the appropriate handling of your personal data are important to us. The purpose of this Privacy Statement is to outline the types of information that may be collected from you when visiting the Website, how that information may be used and disclosed, and how you can access, correct and update the information. 
 
-For the purposes of this Policy, “personal information” means information that can identify an individual directly or through other reasonably available means. The meaning of “personal information” shall be interpreted in a manner that conforms with the minimum requirements of applicable provincial and federal privacy legislation.
+By accessing and/or using the Website and any of our Services you hereby acknowledge and accept our collection, use and disclosure of your personal data in accordance with this Privacy Statement. Any personal data which we receive from you is treated with high standards of security and confidentiality, in accordance with the Data Protection Acts 1988 and 2003 (‘ **DPA** ’). 
 
-## 1\. Our Privacy Principles
+Our Website may contain links to third-party websites that are not governed by this Privacy Statement. Although we endeavour to only link to websites that share our commitment to your privacy, please be aware that this Privacy Statement will no longer apply once you leave our Website. We are not responsible for the content, data protection or privacy practices of other websites. Please closely examine the privacy policies of third-party websites to learn how they collect, use and disclose your personal data. 
 
-Type of Personal Information Collected
+## Important notice
 
-The type of information we collect is linked to the purposes. For instance, when you sign up to be a Member, we may collect your name, email address, and other payment information as well as information about the products or services you view or purchase. If you are part of a referral program we keep track of who you refer and who refers you (as applicable). In addition, we sometimes host contests, so we will collect information as set forth in the contest rules.
+The terms governing the general use of our Website are set out in our [Terms of Use](https://web.archive.org/terms). By using this Website you are deemed to fully accept this Privacy Statement, our [Cookies Policy](https://web.archive.org/cookies.html) and our [Terms of Use](https://web.archive.org/terms). 
 
-Identifying Purposes and Obtaining Your Consent
+The Website and Services are not directed toward, nor intended for, individuals under the age of 18\. Individuals under the age of 18 should not register for the Website and/or Services, or provide any personal data to us. We do not knowingly collect personal data from individuals under the age of 18. Parents and/or legal guardians of children under the age of 18 who believe their child has registered and/or provided any personal data should contact us at [support@yroo.com](mailto:support@yroo.com) so that we may delete and remove any such personal data. 
 
-The purposes for which we collect personal information are mostly what you would reasonably expect. Where it is not reasonably evident why we’re collecting information, we would identify the purposes for collecting your personal information at or before the time it is collected. We will not collect, use or disclose your personal information without your informed consent, unless required or permitted to do so by law.
+## Cookies and use of technical information
 
-To provide to you a few example of why we collect personal information, we collect, use and disclose personal information about you so we can:
+The Website uses cookies to ensure we give you the best possible experience on our Website. Please review our [Cookies Policy](https://web.archive.org/cookies.html) as this contains important information on how we send cookies and similar technologies to your web browser. 
 
-  * maintain and manage our membership;
-  * account for reward points or cash back earned under your account;
-  * allocate cash back;
-  * process payments; and
-  * target advertisements to make the Web Site and/or Services more personal and useful to you. 
+## Information we may collect from you
 
+We may collect and process the following data about you: 
 
+  1. Information you provide us by filling in forms on our Website. This includes the information you give us when creating a user account; the information you input and when completing feedback and contact forms. We may also ask you for information if you report a problem with our Website. 
+  2. If you upload an image or avatar to your profile, this may personally identify you. 
+  3. We keep track of who you refer and who refers you (as applicable). We can also see the friends you select on your account, and who you are following. 
+  4. If you contact us, we may keep a record of that correspondence. 
+  5. Details of your visits to the Website including, but not limited to, traffic data, weblogs and other communication data and the resources that you access (such as the products or services you view or purchase). We may record the ads you see and the number of times you view them. 
+  6. We may collect information about your computer, including where available, your IP address, operating system and browser type, for system administration. This is statistical data about our users' browsing actions and patterns, and does not personally identify you. 
+  7. Information we collect via the use of cookies and similar technologies. You can find out more in our [Cookies Policy](https://web.archive.org/cookies.html). 
+  8. We sometimes host contests. We will collect personal data explained in the contest rules. 
+  9. If you access or login to the Website through a social media service or connect our Services to a social media service, we may receive your user ID and/or username associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Services through social media services or when you connect a Service to social media services, you are authorising and do hereby authorise yroo to collect, store, and use such information and content in accordance with this Privacy Statement. 
 
-We may also use your personal information to communicate with you about new products, Services, offerings or other information we reasonably believe may be useful to you.
 
-## 2\. Limiting Collection, Use and Disclosure of Your Personal Information
 
-Information Gathered and Used
+If you volunteer your details to us, we may use the details you have given us, together with details of how you use our Website as follows: 
 
-We collect personal information by fair and lawful means and limit collection to that information which is reasonably necessary for the purposes identified in this Policy.
+  1. to allow you access to certain features of the Website and your user account with us if you have registered one via our Website; 
+  2. to maintain and manage your membership; 
+  3. to respond to your queries and requests, and to communicate with you; 
+  4. to manage and improve our Services and the Website; 
+  5. to notify you of changes to our Services, the Website, our Privacy Statement and/or any of our other published notices and terms and conditions; 
+  6. if you have consented, to provide you with newsletters and/or promotional materials as set out in this Privacy Statement; 
+  7. if applicable, to facilitate your participation in surveys you may wish to partake, or in a promotion, contest, sweepstake or poll ( **“Promotion”** ); 
+  8. to target advertisements to make the Website and/or Services more personal and useful to you; 
+  9. to understand statistical data about user browsing actions and patterns, which does not personally identify you; and 
+  10. to communicate with you about new products, services, offerings or other information we reasonably believe may be useful to you. 
 
-The choice to provide us with your personal information, either directly or through a third party, is always yours. However, your decision to withhold particular information may limit our ability to provide you with some of our products or Services.
 
-How your Information is Collected
 
-Most of the personal information we collect will be done online. However, personal information may also be collected in a number of ways, including: over the phone, by mail or, yes, even by fax if necessary (and such fax machines exist). We may also collect personal information from third parties who you have authorized to disclose personal information to us (for instance, our Affiliate Stores will have information on your purchases and that information may be provided to us if necessary to audit transactions and ensure rewards are properly allocated).
+Most of the personal data we collect from you will be done through the Website. However, personal data may be collected through other means such as over the phone, email, fax or by post. We may receive personal data from third parties (such as retailers linked to our Website, defined as ‘Affiliate Stores’ in our [Terms of Use](https://web.archive.org/terms.html)), who you have authorised to disclose purchase and other information to us. 
 
-We make every reasonable effort to ensure that those third parties that disclose your personal information to us have first obtained your consent. If you believe that a third party has inappropriately disclosed your personal information to us, please contact that third party directly. If the third party does not sufficiently respond to your inquiries, please let us know immediately.
+We make reasonable efforts to ensure that Affiliate Stores, and other parties that disclose your personal data to us, have first obtained your consent to do so. If you believe that a third party has inappropriately disclosed your personal data to us, please contact that third party directly. If the third party does not sufficiently respond to your inquiries, please let us know immediately, using the contact details provided at the bottom of this Privacy Statement. 
 
-Your personal information will only be used or disclosed in accordance with the purposes for which it was collected, unless you have otherwise consented and except where required or permitted by law.
+## Where we store your personal data
 
-Web cookies are very small text files that are stored on your computer from a webpage to keep track of information about your browsing on that Web Site. Cookies are essential to our ability to track what you’ve viewed and your purchases. We cannot offer the Services or allocate rewards or cash back without cookies being installed in your system.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one or more of our suppliers. By submitting your personal data, you agree to this transfer, storing and/or processing. We will take steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Statement. 
 
-In addition, through the use of web cookies, we may monitor the ads you see and the number of times you view them. The use of cookies also allows us to capture standard web traffic information, such as the time and date you visited our Web Site, your IP address, and your browser information.
+##  Disclosure of your information 
 
-Information from Social Media. If you access or log-in to the yroo Service through a social media service or connect yroo to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Services through social media services or when you connect a Service to social media services, you are authorizing yroo to collect, store, and use such information and content in accordance with this Privacy Policy.
+We may share your personal data with third parties, as approved by you and/or as described in this Privacy Statement. 
 
-Disclosure to Third Parties
+We may consider it necessary to disclose personal information without your consent or without consulting you, when we believe that it is appropriate to comply with our legal obligations and/or a Court Order, to cooperate with any law enforcement agencies, to enforce this Privacy Statement or our Terms of Use or other legal rights, to protect the security of the Website, to protect the security and safety of others, to prevent fraud, or otherwise to protect our legitimate interests and/or the legitimate interests of other users. We may also transfer your personal data on the sale, transfer or reorganisation of our business. 
 
-From time to time we may share your personal information with third parties, as approved by you and/or as described in this Policy. Use of this Web Site and/or Services signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
+Your personal data may be disclosed to service providers and/or third-party contractors who we work with and/or engage to help us operate our business, the Website and/or the Services. 
 
-The type of information we are legally required to disclose may relate to criminal investigations or government tax reporting requirements. In some instances, such as a legal proceeding or court order, we may also be required to disclose your personal information to authorities. Only the information specifically requested is disclosed and we take precautions to satisfy ourselves that the authorities that are making the disclosure request have legitimate grounds to do so.
+Information that cannot be used to reasonably identify an individual (“ **Anonymous Information** ”) may be used in aggregate form, combined with other users’ Anonymous Information, and shared with third parties. 
 
-Your personal information may be disclosed in situations where we are legally permitted to do so, such as in the course of employing reasonable and legal methods to enforce your rights or to investigate suspicion of unlawful activities. We may release certain personal information when we believe that such release is reasonably necessary to protect the rights, property and safety of ourselves and others.
+Your personal data may be disclosed publicly and/or to third parties where you enter a Promotion. This will be advised to you in the Promotion rules prior to or at the time of entry. Upon participation in any Promotion, you are subject to any official rules, terms and conditions of that Promotion. 
 
-You also understand and agree that we may use your personal information and disclose your personal information to third parties in connection with the proposed or actual financing, insuring, sale, securitization, assignment or other disposal of all or part of our business or assets (including accounts) for the purposes of evaluating and/or performing the proposed transaction. These purposes may include, for example, permitting such parties to determine whether to proceed or continue with the transaction, fulfilling any reporting or audit requirements to such parties, and/or disclosing personal information as part of concluding a sale or transfer of assets. Our successors and assigns may collect, use and disclose your personal information for substantially the same purposes as those set out in this Policy. In the event the transaction does not go through, we will require, by contract, the other party or parties to the transaction not to use or disclose your personal information in any manner whatsoever for any purpose, and to return or destroy such personal information.
+Your personal data may be shared with licensors of the Website and/or Services, such as when you access or login to the Website through a social media service or connect our Services to a social media service, or when you visit an advert that appears on the Website. Our advertising partners serve adverts on the Website, further details of which are provided in our [Cookies Policy](https://web.archive.org/cookies.html). This Privacy Statement does not cover the data protection and privacy policies or practices of third parties. If you provide a third party any personal data yroo is not responsible for correcting, updating or removing any of your personal data contained in any third-party’s lists or databases. 
 
-Personal information may also be disclosed to service providers and/or third-party contractors who we work with and/or employ on our behalf to help operate yroo.com, the Web Site and/or the Services.
+Any information that you share and make publicly available on the Website may be made available to all users and third parties who access the Website. We are not responsible for any information that you share, and your use of the Website and/or Services constitutes your acceptance of any risk involved in your disclosure of such information. 
 
-Information that cannot be used to reasonably identify an individual (“Anonymous Information”) may be used in aggregate form, combined with other users’ Anonymous Information, and shared with third parties.
+By using the Website, you acknowledge and agree that internet transmissions are never completely private or secure. You understand that any message or information you send using the Website may be read or intercepted by others. 
 
-Personal information collected during a promotion, contest, sweepstake or poll (“Promotion”), in part or in its entirety, may be disclosed publicly and/or to third parties, as disclosed in the Promotion rules at the time of collection. We do not take responsibility for the privacy policy or practices of any third party. Upon participation in any Promotion, you are subject to any official rules, terms and conditions of that Promotion.
+## Newsletters and Updates
 
-Some or all of your personal information may be shared with Licensors of the Web Site and/or Services. This Policy does not cover the privacy policies or practices of the Licensors.
+ 
 
-Personal Information may also be collected and shared with third-party Sponsors, Merchants and/or Vendors. A notice at the time of collection of Personal Information on behalf of a Sponsor will be provided to you along with a link to the Sponsor’s privacy policy.
+By becoming a Member, you hereby agree to receive communications that are account and Member related (e.g., that you have earned a certain number of rewards etc.). Since we need to communicate account information with you in order to operate our service, you cannot unsubscribe from account information emails, but rest assured that we don't send account emails unnecessarily. 
 
-Any information that you share and make publicly available may be made available to all users and third parties. We are not responsible for any information that you share, and your use of the Web Site and/or Services constitutes your acceptance of any risk involved in your disclosure of such information.
+If you subscribe to our newsletter or any other email updates, by specifying this in sign-up or by submitting your email address through a subscribe facility on the Website, and you wish to opt- out of receiving these communications you opt-out by (i) visiting your account page and unchecking the check boxes in the subscriptions section; or (ii) following the unsubscribe link on any of the emails. 
 
-Keeping your Information Accurate
+If you do not wish to ever hear from yroo, you can close your account at any time. If you experience difficulty with this you can contact yroo's customer service team at [support@yroo.com](mailto:support@yroo.com). 
 
-We make every reasonable effort to keep your personal information as accurate, complete and up-to-date as necessary. If desired, you may verify the accuracy and completeness of your personal information in our records.
+## Keeping your information accurate
 
-Despite our best efforts, errors sometimes do occur. Should you identify any incorrect or out-of-date information in your file, we will remedy any such errors on a timely basis. In the event that inaccurate information is mistakenly sent to a third party, we will communicate relevant changes to the third party where appropriate.
+If you create a user profile on our Website you can see the personal information you’ve provided to us by accessing your “Profile” page, which gives you the option to correct or update your information at any time by just logging into your profile. Once you register, you will be able to change most of your personal information, including your email address, profile photo / avatar, email preferences and password. 
 
-Please be aware that we may retain some or all of your Personal information in accordance with our Data Retention Policy, and such Personal information provided in accordance with this Policy may remain within our databases, access logs and/or other records. yroo.com is not responsible for correcting, updating or removing any of your Personal Information contained in any third-party’s lists or databases that was provide in accordance with this Policy.
+If you have any difficulty updating your account information please contact us using the contact details below. If inaccurate information is sent to a third party, we will endeavour to communicate relevant changes to the third party where appropriate. 
 
-Childrens’ Information
+## Requests regarding data supplied via the Website
 
-The Web Site and Services are not directed toward, nor intended for, individuals under the age of 18. Individuals under the age of 18 should not register for the Web Site and/or Services, or provide any personal information. We do not knowingly collect any personal information from individuals under the age of 18. Parents and/or legal guardians of children under the age of 18 who believe their child has registered and/or provided any personal information should contact us at support@yroo.com so that we may delete and remove any such personal information.
+On request, we supply copies of your personal data which you may have supplied via the Website. If you wish to obtain such copies, you must write to us at our postal address provided below and include any personal identifiers which you supplied earlier via the Website (e.g. username and e-mail address). We will also require your full name and residential address in the circumstances. We reserve the right to charge a statutory fee, as permitted under the DPA. 
 
-## 3\. Protecting Your Personal Information
+If you discover that we hold inaccurate information about you, you can request us to information. These requests must be in writing and sent to us at our postal address provided below, or e-mail us at [support@yroo.com](mailto:support@yroo.com). 
 
-Access to your Information within yroo.com
+In certain circumstances you may also request that data which you have supplied via the Website be deleted. 
 
-Access to private, sensitive and confidential information, including your personal information, is restricted to authorized employees with legitimate business reasons. For example, when responding to customer enquiries, employees will need to access your information to verify your identity and to properly assist you.
+## Changes to this Privacy Statement
 
-We require all of our employees to abide by yroo.com’s privacy standards. Our employees understand the importance of keeping your information private. Employees are strictly prohibited from accessing or disclosing personal information without authorization. All employees are expected to maintain the confidentiality of personal information at all times and failure to do so will result in appropriate disciplinary measures including dismissal.
+We reserve the right to make changes to this Privacy Statement at any time to reflect changes in the law, our data collection and use practices, the features of our Website, or advances in technology. Please check this page periodically for changes. If we make any material changes to this Privacy Statement, we will post the updated Privacy Statement here and notify our registered users by email or by means of a notice. Save for urgent changes (such as those required by law) we will post such a notice on our Website prior to the changes becoming effective. Please review the changes carefully. Your continued use of the Website following the posting of changes to this policy will mean you consent to and accept those changes. If you do not consent to such changes you can delete your user account and stop using the Website. 
 
-Disposal and Retention
-
-Except as otherwise permitted or required by law, your personal information will be retained for so long as is reasonably necessary to fulfil the purposes for which it was collected and for a period of time reasonably necessary to conform with legal obligations and to protect our rights and obligations.
-
-Safeguarding your Information
-
-To ensure that your personal information is protected, we utilize security safeguards that are on par with the industry standard. We use modern technologies to ensure that your confidential information is not compromised. Our server environment and firewall infrastructure are well-maintained and our security practices are reviewed on a regular basis.
-
-We keep electronic customer files in a highly-secured environment with restricted access. Paper-based files are stored in locked filing cabinets to which access is also restricted.
-
-We use Secure Socket Layer (“SSL”) and 128-bit encryption technologies to enhance security for the secured areas of our Web Site. SSL protects and maintains the security of messages transmitted over the Internet. SSL scrambles your data into an unreadable format, preventing unauthorized access by others.
-
-## 4\. Web Sites Governed by this Privacy Policy
-
-Our Web Site (yroo.com) is governed by the provisions and practices stated in this Policy. Our Web Site may contain links to third-party web sites that are not governed by this Policy. Although we endeavour to only link to web sites that share our commitment to your privacy, please be aware that this Policy will no longer apply once you leave our web sites and that we are not responsible for the privacy practices of third-party web sites. We therefore suggest that you closely examine the respective privacy policies of third-party web sites to learn how they collect, use and disclose your personal information.
-
-Addressing Your Inquiries and Concerns
-
-We are happy to provide you with a copy of this Policy and to discuss any of its content with you.
-
-Upon request, we will also inform you of: the type of personal information we have collected; how your personal information has been used; and any third parties to whom your personal information has been disclosed.
-
-Please direct all questions or enquiries by email to support@yroo.com
-
-## 5\. Updating this Privacy Policy
-
-Any changes to our privacy standards and information handling practices will be reflected in this Policy in a timely manner. yroo.com reserves the right to change, modify, add, or remove portions of this Policy at any time. Please check this page periodically for any modifications. To determine when this Policy was last updated, please refer to the modification date at the bottom of this Policy. All material changes to this Privacy Policy shall be effective thirty (30) days after the date notice of such changes were posted on our Web Site. Each visit to the Web Site or use of the Services constitutes your acknowledgement and acceptance of the Policy. Providing personal information or authorizing a third party to disclose personal information to us signifies your consent to yroo.com’s collection, use and disclosure of your personal information in accordance with this Policy.
-
-## 6\. Governing Law
-
-This Policy and all related matters are governed solely by the laws of the Province of Ontario and the applicable federal laws of Canada.
-
-yroo.com may perform activities outside of Canada through third parties, such as Affiliate Stores and third party processing agents. You acknowledge and agree that, as a result, your personal information may be processed, used, stored or accessed in other countries and may be subject to the laws of those countries. For example, information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in other countries. In particular, information that is processed, used, stored or accessed in the United States may be subject to the Patriot Act and applicable anti-terrorism legislation, together with other legislation applicable within the United States.
-
-Last revised Tuesday, January 27, 2015
-
-21426181.2
+This statement was last modified 20th January 2016 
