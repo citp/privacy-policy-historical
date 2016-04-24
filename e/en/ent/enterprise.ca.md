@@ -1,188 +1,248 @@
-> *The following text is extracted and transformed from the enterprise.ca privacy policy that was archived on 2006-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060517002647id_/http%3A//www.enterprise.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.ca privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424071532id_/http%3A//www.enterprise.ca/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Primus Telecommunicatins Canada
+# Privacy Policy
 
-### PRIVACY POLICY
+This policy was last updated on **March 14, 2016.**
 
-_Personal information includes information about an identifiable individual, presented in any form, such as:   age, name, ID number(s), income, ethnic origin, opinions, evaluations, social status, disciplinary actions, credit records, loan records, medical records._
+At Enterprise Holdings, Inc., through our [subsidiaries](https://web.archive.org/en/privacy-policy/subsidiaries.html) operating under the Enterprise Rent-A-Car, Truck Rental, Car Sales, RideShare, and CarShare, Alamo Rent A Car, National Car Rental, and at Enterprise Fleet Management, Inc., (collectively, " **EHI** ", " **we** ", " **our** " or " **us** "), we respect your privacy. We implemented this privacy policy (" **Privacy Policy** ") to explain to you how we use and protect the personal information we may gather from and about our customers by means of our websites, mobile applications, online booking widgets (i.e. online booking applications run by our third-party partners such as hotel providers, airlines, etc), our corporate, rental, and sales locations, and from third-party sources. By using our websites or mobile applications, you consent to the collection, use, and disclosure of your information, as described in this Privacy Policy.
 
-_Personal information does not include the name, title, address and telephone number of an employee of an organization._
+To identify who the data controller is in respect of your personal data, please see Data Controllers and Contact Details by Country.
 
-Primus Canada’s Privacy Policy is enacted pursuant to the _Personal Information Protection and Electronic Documents Act_ , and is effective as of January 1, 2001.
+The nature of our business and our operations may require us to share your reservation and booking information with our franchisees or licensees, which are owned and operated by independent licensees ("[Licensees](https://web.archive.org/en/privacy-policy/licensees.html)"). For these transactions, the Licensee is an independent data controller and maintains its own privacy policy in respect of the rental data that you provide to the Licensee. You are encouraged to check the privacy policy of the Licensee that is applicable to your transaction.
 
-This Primus Canada Privacy Policy is organized along ten privacy principles, which are:
+EHI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ehi.com](mailto:privacy@ehi.com) and we will respond to you within a reasonable period of time unless otherwise required by law. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or in Canada you may contact the Privacy Commissioner of Canada by visiting <https://www.priv.gc.ca/cu-cn/index_e.asp> or at Office of the Privacy Commissioner of Canada, 30 Victoria Street, Gatineau, Quebec, K1A 1H3. To view the digital properties covered by the TRUSTe program, please click [here](https://web.archive.org/en/privacy-policy/truste-certified.html).
 
-1.                   Accountability
+## The Types of Information We Collect
 
-2.                   Identifying Purposes
+### Information Collected About You
 
-3.                   Consent
+You may provide us with certain information in connection with a transaction or in your interactions with our websites and at our EHI-branded locations. When you are asked to provide personal information, you may decline. If you choose not to provide the information, you may not be able to use some products or services. The personal information we may collect includes:
 
-4.                   Limiting Collection
+  * Your name, contact information, driver’s license number and expiration date, emergency contact information, and date of birth;
+  * Vehicle rental information, including the location of where the vehicle is rented, date of rentals, type of rental, and your preferences;
+  * Your credit card details, Enterprise, Alamo, or National rewards information, online user accounts details, membership/corporate ID numbers, passport information, and frequent flyer or travel partner affiliations;
+  * Information you provide regarding your marketing preferences or in the course of participating in surveys or promotional offers;
+  * Photographs you submit of you and your driver’s license or your receipts through camera features available on some of our mobile applications and websites;
+  * Financial information that may be necessary to facilitate the purchase or lease of a vehicle from a Car Sales or Fleet Management location in the United States. (Additional notices will be provided to you at the time of that transaction.)
+  * Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents, Car Sales lead providers or similar providers).
 
-5.                   Limiting Use, Disclosure and Retention
 
-6.                   Accuracy
 
-7.                   Safeguards
+With your consent we may access location-based information from your mobile device or based on your IP address. We may also use your mobile device location information to provide you with notifications with your consent. We do not use this information to specifically locate you for any reason other than to provide you the service. If you have allowed us to utilize your location information in the past and wish to revoke the permissions, please turn off location services at the device level. With your consent, our application may utilize your device’s camera feature to upload photos (such as your receipts) to the application. If you have allowed the application to utilize your camera and wish to revoke the permissions to do so, please do so at the device level.
 
-8.                   Openness
+In certain areas of our sites, we provide you the ability to enter your friend’s name and contact information in order for EHI to send your friend a one-time email inviting him or her to visit the sites. We also provide you the ability to enter a friend’s or other individual’s name and contact information in order to make bookings for that friend or other individual. You must have obtained the consent of your friends before making such submissions. The information you provide will not be used for any further marketing purpose unless your friend requests services or we otherwise obtain consent from that person. Please be aware that when you use any send-to-a-friend functionality on our sites, your name and e-mail address may be included in the communication sent to your friend.
 
-9.                   Individual Access
+### Information Collected and Stored Automatically
 
-10.               Challenging Compliance
+By visiting our websites, certain information may be automatically provided to us by your computer. For each visitor to our websites, our webservers automatically recognize the visitor’s domain name or IP address. An IP address is a number assigned to your computer when you connect to the Internet. As part of the protocol of the Internet, webservers can identify your computer by its IP address. In addition, we may collect your browser type and operating system as well as your internet service provider (ISP), referring and exit pages, date and time stamp, and/or clickstream data. We collect similar information when visiting our websites with your mobile device, including mobile device brand, model, mobile operation system and carrier. Except as otherwise explained in this policy, we may combine the non-personal information we collect from you (as described above and as described below, under “Cookies & Pixel Tracking”) with your personal information in order to tailor our websites and enhance your online experience by saving your preferences and/or to help identify site features, advertisements and offers that may be of interest to you.
 
-## PRINCIPLE #1 -- ACCOUNTABILITY
+### Cookies & Pixel Tracking
 
-Primus Canada is responsible for personal information under its control and will designate an individual or individuals who are accountable for the organization’s compliance with the following principles.
+EHI and our partners use cookies, pixel tags, etags, HTML 5 storage and similar technologies on most of our sites and in promotional emails which we may send to you. We use them to monitor and understand your use of our websites and services; improve your user experience and enable personalized features and content; optimize our advertisements and marketing and see which email promotions were of interest to you; and assist third-party advertising companies to serve ads on our behalf across the Internet. At this time, EHI websites do not respond to automated signals regarding tracking mechanisms, including “do not track” instructions from your browser. However, you have other options for preventing or limiting the use of cookies and similar technologies. To learn how to manage privacy and storage settings for Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). To learn more, please see our [Online Tracking and Advertising](https://web.archive.org/en/privacy-policy/cookie-policy.html) page.
 
-1.1               Accountability for Primus Canada’s compliance with the principles rests with the senior management of Primus Canada and the person or persons designated by senior management as Privacy Officer, even though other individuals within the organization may be responsible for the day-to-day collection and processing of personal information.  In addition, other individuals within the organization may be delegated to act on behalf of senior management or the Privacy Officer.
+### **Vehicle Operation and Location Data**
 
-1.2               Primus Canada’s senior management has designated the following person to act as Privacy Officer to oversee the organization’s compliance with the principles:
+EHI vehicles may be equipped with OnStar or another vehicle telematics system (“Telematics System”). Some or all Telematics System functionality may or may not be active during rental periods. Telematics Systems may provide use, disclosure of, or access to (1) location information, (2) crash notification and related crash data and, (3) operational condition, mileage, diagnostic and performance reporting of vehicles (“Telematics Data”), as permitted by law.
 
-Attention:         PRIMUS LEGAL DEPARTMENT c/o Privacy Officer
+Use of the Telematics System is subject to the terms and conditions and privacy policy posted by the applicable Telematics Systems provider and/or vehicle manufacturer (in the case of OnStar, information is available at www.onstar.com), which may include system and service limitations, warranty exclusions, limitations of liability, wireless service provider terms, privacy practices, descriptions of use and sharing of information, and user responsibilities.
 
-Primus Telecommunications Canada Inc.
+### Children’s Privacy
 
-            5343 Dundas Street West Toronto, ON, M9B 6K5
+Our websites and online marketing are not directed to, and Enterprise does not knowingly collect personal information from, children under the age of 18 or your country’s age of minority. If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it, please email us at [customerservice@erac.com](mailto:customerservice@erac.com).
 
-Facsimile:        1-800-340-4919
+## How We Use This Information
 
-1.3               Primus Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing.  Primus Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
+We use the information we collect for the following purposes:
 
-1.4               Primus Canada will implement policies and practices to give effect to the principles, including:
+  * To assist the transactions that you request, such as reserving and renting motor vehicles.
+  * To verify a valid ID when submitting a photo of yourself and drivers license for one of our CarSharing, afterhours or expedited rental services. We do not store this information for any other purpose.
+  * To service your account or membership with us, respond to your questions and contact you when necessary.
+  * To provide you with discounts, coupons, sweepstakes, offers and other information, opportunities, and services that may be of interest to you. You may receive these offers in advertising that is directed to you via third-party sites and media properties, including in social media. You may be able to opt-out of these ads by clicking on an icon in the ad or through the privacy settings in each media property.
+  * To assist us in providing better products and services (for example, we may contact you by telephone, mail or email to assist us in evaluating the performance of our staff, to assess the quality of product and service received and to help us improve our websites, facilities and services).
+  * To compile statistics and analysis about our customers’ use of our websites, products and services, which statistics are only used to enable us to provide better customer service, products, features and functionality to you and other customers in the future.
+  * To protect our rights and property.
 
-(a)                 implementing procedures to protect personal information;
 
-(b)                 establishing procedures to receive and respond to complaints and inquiries;
 
-(c)                 training staff and communicating to staff information about Primus Canada’s policies and practices; and
+We may combine the information that you submit to us with information related to your transactions with us, such as rental location and vehicle type. We may also combine this information with data we receive about you from third parties who assist us in processing requests, maintaining our data, and optimizing our services.
 
-(d)                 developing information to explain Primus Canada’s policies and procedures.
+Except where prohibited by law, we retain information we collect for commercially reasonable periods of time or in accordance with specific policies. Information collected for a specified purpose will only be used for that purpose and, after a reasonable period of time, will no longer be actively stored when that purpose has been fulfilled. Inactive data may, however, continue to be used for statistical, marketing, archiving, and other analytical purposes.
 
-#### PRINCIPLE #2 – IDENTIFYING PURPOSES
+## How Your Information May Be Shared
 
-Primus Canada will identify the purposes for which personal information is collected at or before the time the information is collected.
+We may disclose the information we collect from and about you to our subsidiaries for the purpose of providing the transactions you have requested and for marketing purposes. In addition to those stated within this Policy, Telematics Data from rental vehicles may be disclosed to, accessed by or used by EHI, our affiliates, emergency service providers, others who may assist in responding to an accident, telematics service operators, or those with whom we have a legal or contractual obligation to provide such data. Our affiliates and our subsidiary employees in our IT, marketing, operations and customer service divisions may use your information, as described in this Policy. To update your marketing preferences please see the Contacting EHI section below.
 
-2.1               Primus Canada collects personal information only for the following purposes (“identified purposes”):
+We also may disclose your information to other third parties: (1) when required by law or in response to legal process; (2) without legal process in response to a request from law enforcement relating to a criminal investigation; (3) to protect our rights, privacy, safety or property, or of the public; (4) for administrative, technical support or other business purposes to facilitate our transactions with you (i.e. for your insurance replacement, corporate rental or through one of our partners), analyze our data, conduct mobile analytics services, or to maintain and improve our services (subject to confidentiality agreements as appropriate); (5) to permit us to pursue available remedies or limit damage that we may sustain; (6) to enforce the terms of any rental agreement or our websites’ terms and conditions; (7) to assist with the administration of frequent flyer or other rewards programs; (8) to process your transaction with our subsidiaries, affiliates or licensee/franchisee located in the country in which you place your reservation; (9) if the rights of another individual might be violated and (10) otherwise with your consent.
 
-(a)                 to provide service(s) and/or products to its customers;
+Personal information may also be subject to transfer to another company in the event of a transfer, change of ownership, reorganization or assignment of all or part of EHI, our subsidiaries/affiliated companies or our assets. This will occur provided that the parties have entered into an agreement under which the collection, use and disclosure of the information is limited to those purposes of the business transaction, including a determination whether or not to proceed with the business transaction. You will be notified via email or prominent notice on our websites for thirty (30) days of any such change in ownership or control of your personal information.
 
-(b)                 to maintain commercial relations and to communicate with its customers (which will include, but not be limited to:  billing, collection, advertising, promotion, account verification);
+We may disclose your personal information to third-party service providers (such as a payment processor to bill you for goods or services, an email provider to send email communications to you on our behalf, or the provider of our live chat feature in order to offer you customer service). These service providers may be located in a country different from your country of residence, such as the United States or a European Union member country. These service providers are contractually required to maintain the confidentiality and security of your information. However, your information may be accessible to U.S. or EU authorities in accordance with applicable laws.
 
-(c)                 to identify customer needs and/or preferences;
+We may also share aggregated or de-identified information about our customers with our advertising and marketing partners, and third-party media properties, including social media sites to allow them to send targeted advertising messages on our behalf. With your prior notice and consent, we may share your name and email address with our co-branded partners and affiliates in order to provide the services you have requested and for marketing purposes. If you wish to stop receiving promotional communications from these third parties, please contact the third party.
 
-(d)                 to meet legal and regulatory requirements;
+### Choices You Can Make About Your Information
 
-(e)                 to administer and manage its business operations
+Throughout our websites, we provide choices about the collection, use, and sharing of your information. For example, you must affirmatively request to receive email advertisements from us, our affiliates and/or business partners concerning information about special offers, promotions and new features, products and services. You may choose to opt back in to our email advertisements at any time, in which case your most recent action will prevail. We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information and any marketing promotions in accordance with the procedures set out in the Contacting EHI section below.
 
-2.2               Primus Canada will provide notice of the identified purposes either orally, electronically or writing prior to or at the time of collection of the personal information. 
+### Testimonials
 
-2.3               Persons collecting personal information will be able to explain to individuals the purposes for which the information is being collected, or will refer the individual to a designated person at Primus Canada who will explain the purposes.
+We may post customer testimonials/comments/reviews on our websites which may contain personally identifiable information. We will obtain your consent via email prior to posting the testimonial. To request the removal of your testimonial, please contact us through one of the methods listed below in the Contacting EHI section.
 
-2.4               When personal information that has been collected is to be used for a purpose not previously identified, the new purpose will be identified prior to use.  Unless the new purpose is required by law, Primus Canada will obtain the consent of the individual before information is used for that new purpose.
+### Linked Sites
 
-_Occasionally, Primus Canada will communicate to you special bonus and new product offers that we think may be of value to you. If you wish to opt-out of receiving targeted communications from Primus Canada in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at Primus Canada 5343 Dundas St. West, Suite 400, Toronto ON, M9B 6K5 or  by _[clicking here](http://www.primustel.ca/optout)_. _
+Our websites may contain links to other websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these websites. Accordingly, we recommend that you review the privacy policy posted on any website that you may access through our website.
 
-#### PRINCIPLE #3 – CONSENT
+## Data Security and Integrity
 
-The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
+The security of the information you provide is very important to us and we try to provide secure transmission of your information. For certain transactions on certain of our websites, we may use Secured Sockets Layer (SSL) technology to secure the transfer of information. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information transmitted over the Internet. Once we receive your information, we take steps that we believe are reasonably appropriate to protect its security, both internally and from outsiders, from loss, misuse, unauthorized access, disclosure, alteration and destruction, and to ensure the integrity of the data we collect. We use a combination of technological, physical, administrative and policy methods as well as organizational controls and non-disclosure or confidentiality agreements as we deem appropriate to protect this data.
 
-3.1               In certain circumstances, personal information can be collected, used, or disclosed without the knowledge and consent of the individual.  For example, legal, medical or security reasons may make it impossible or impractical to seek consent.  When information is being collected for the detection and prevention of fraud or for law enforcement, seeking the consent of the individual might defeat the purpose of collecting the information.  Seeking consent may be impossible or inappropriate when there is an emergency threatening the individual’s life, health or security, or where the individual is a minor, seriously ill, or mentally incapacitated.  In other instances, information may be publicly available.  Moreover, Primus Canada may provide personal information to its lawyer or agent to collect a debt, comply with a subpoena, warrant or other court order, government institution requesting the information upon lawful authority, or as may be otherwise required by law.
+If you have a user name and password for any of the features on our websites, you have the responsibility of keeping your password secret. You should not reveal your password to anyone. We will not ask you in an unsolicited telephone call or email for your password. In addition, you should take reasonable precautions when using a computer that is not your own or in a public setting.
 
-3.2               Primus Canada will generally seek consent for the use or disclosure of the information at the time of collection.  In certain circumstances, consent with respect to use or disclosure may be sought after the information has been collected but before use (for example, when Primus Canada wants to use information for a purpose not previously identified).
+## Global Data Transfers and Processing
 
-3.3               Primus Canada will make a reasonable effort to ensure that the individual is advised of the purposes for which the information will be used.  To make the consent meaningful, the purposes will be stated in such a manner that the individual can reasonably understand how the information will be used or disclosed.
+We will use your information in the country in which your service and transaction occurs. Please be aware that, unless prohibited by law, your use or continued use of our websites and mobile applications signifies your express consent that information may be transferred to or stored on servers and processed outside the country of your residence, [including any of the countries where we do business](https://web.archive.org/en/privacy-policy/licensees.html). Please also be aware that the privacy laws of the United States or other countries where information may be stored may not be as comprehensive or offer as much protection as the laws of other countries including your country of residence. You may request us not to make such transfers, but if you do, we may not be able to provide some or all of our products or services to you.
 
-3.4               Primus Canada will not, as a condition of the supply of a product or service, require an individual to consent to the collection, use, or disclosure of information beyond that required to fulfil the explicitly specified and legitimate purposes.
+When transferring personal data to countries outside the European Economic Area, we comply with European Union law by transferring to recipients who abide by Safe Harbor Principles, as set forth by the U.S. Department of Commerce, or by using standard contract clauses approved by the European Commission, or by adopting other means to ensure that adequate safeguards are applied, or by obtaining your consent.
 
-3.5               The form of consent sought by Primus Canada may vary, depending upon the circumstances and the type of information disclosed.  In determining the form of consent to use, Primus Canada will take into account the sensitivity of the information and the reasonable expectations of the individual. An authorized representative (such as a legal guardian or a person having power of attorney) can also give consent. 
+## Changes in Terms
 
-Primus Canada will seek express consent when the information is likely to be considered sensitive. 
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Implied consent will generally be appropriate when the information is less sensitive.   The use of services or products by a customer or the acceptance of employment by an employee will be considered implied consent to collect, use and disclose personal information for all identified purposes.** 
+## Contacting EHI
 
-3.6               An individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice.  Primus Canada will inform the individual of the implications of such withdrawal.  In order to withdraw consent, an individual must provide notice to Primus Canada in writing.
+The accuracy and completeness of the information we collect is very important to us and we make efforts to ensure that the information we have is accurate and up-to-date. In addition to the options provided to you in this Policy, if you wish to opt-out of direct marketing or review, amend, correct, update or delete personally identifiable information we have collected about you or limit how we use it contact us at the information provided below. In addition to rights to review, amend, correct, update and delete personal data, you may also have rights to object to some processing of personal data. Please also contact us if you have any questions about privacy on our websites. You may contact us via email at [customerservice@erac.com](mailto:customerservice@erac.com), and we will attend to your request and make any necessary revisions. If you prefer, country specific contact information is listed below. We will respond to your access request within 30 days, unless a shorter period is required. If that is the case, local legal requirements would apply.
 
-3.7        **With respect to personal information already collected by Primus Canada prior to the publication of this Privacy Policy, this Policy will constitute reasonable notice to Primus Canada’s current customers and employees of the purposes and uses for which such personal information has been collected.   Should an individual object to these ongoing uses or disclosures, consent may be withdrawn upon providing notice to Primus Canada in writing.**
+We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
-#### PRINCIPLE #4 – LIMITING COLLECTION
+### DATA CONTROLLERS AND CONTACT INFORMATION BY COUNTRY:
 
-The collection of personal information will be limited to that which is necessary for the purposes identified by Primus Canada.  Information will be collected by fair and lawful means.
-
-4.1               Primus Canada collects personal information from its customers and employees for the purposes described under Principle #2. 
-
-4.2               Primus Canada may also collect personal information from such third parties as credit bureaus, employers or personal references or other third parties that represent that they have the right to disclose the information.
-
-4.3               In connection with its Internet business, Primus Canada may use a ‘Cookie’ to collect certain information which it uses to track user patterns on its web site(s).  A Cookie is a text file containing a unique identification number that identifies a user’s browser, but not a particular individual.  A Cookie _does not_ identify an individual.  Furthermore, Primus Canada does not use Cookies in combination with other information to obtain personally identifiable information.  If an individual does not wish to use Cookies, he or she can re-set their browser to either provide notification or refuse to accept Cookies.
-
-#### PRINCIPLE #5 – LIMITING USE, DISCLOSURE, AND RETENTION
-
-Personal information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law.  Personal information will be retained only as long as necessary for the fulfillment of those purposes.
-
-5.1               Primus Canada may _collect, use or disclose_ personal information without the individual’s knowledge or consent in certain circumstances as described in Principle #3.1.
-
-5.2               Primus Canada may disclose a customer’s personal information to:
-
-(a)                 another telecommunication company for the provision of telecommunications services to that customer;
-
-(b)                 a company involved in providing communications directory services;
-
-(c)                 a person involved in the development, promotion, marketing or enhancement of Primus Canada services;
-
-(d)                 a credit collections agency;
-
-(e)                 emergency services in an emergency situation;
-
-(f)                   a person, who, in the reasonable estimation of Primus Canada, is an agent of the customer;
-
-(g)                 any other third party, upon receiving the consent of the customer or as required by law.
-
-5.3               Primus Canada may disclose an employee’s personal information in the following circumstances:
-
-(a)                 in the administration of that employee’s benefits;
-
-(b)                 in providing references to prospective employers, upon receiving the consent of the employee;
-
-(c)                 as may be required by law.
-
-5.4               Certain Primus Canada employees may be given access to customer and/or employee information in so far as their duties require access for business purposes. Primus Canada employees are governed by a non-disclosure agreement prohibiting disclosure or use of any confidential or personal information for any purposes other than the stated business purposes.
-
-5.5               Primus Canada will retain personal information for only as long as required to fulfil the identified purposes or as required by law.
-
-5.6               Personal information that is no longer required to fulfil the identified purposes will be destroyed, erased or made anonymous according to the guidelines and procedures established by Primus Canada.
-
-#### PRINCIPLE #6 – ACCURACY
-
-Personal information will be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
-
-6.1               The extent to which personal information will be accurate, complete, and up-to-date will depend upon the use of the information, taking into account the interests of the individual.  Information will be sufficiently accurate, complete, and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about the individual.
-
-6.2               Primus Canada will not routinely update personal information unless such a process is necessary to fulfil the purposes for which the information was collected.
-
-6.3               Personal information that is used on an ongoing basis, including information that is disclosed to third parties, should generally be accurate and up-to-date, unless limits to the requirement for accuracy are clearly set out.
-
-PRINCIPLE #7 – SAFEGUARDS
-
-Personal information will be protected by security safeguards appropriate to the sensitivity of the information.
-
-7.1               Primus Canada will protect personal information against loss or theft, as well as unauthorized access, disclosure, copying, use, or modification.  The nature of the safeguards will vary depending on the sensitivity of the information that has been collected, the amount, distribution and format of the information, and the method of storage. 
-
-7.2               Primus Canada protects all personal information regardless of the format in which it is held.  The methods of protection include:
-
-(a)                 physical measures, such as locked filing cabinets and restricted access to offices;
-
-(b)                 organizational measures, such as security clearances and limiting access on a “need to know” basis;
-
-(c)                 technological measures, such as the use of passwords and encryption.
-
-7.3               Primus Canada makes their employees aware of the importance of maintaining the confidentiality of personal information.  Primus Canada employees are governed by a non-disclosure agreement prohibiting disclosure or use of any confidential or personal information for any purposes other than the stated business purposes.
-
+**If you are making a rental, or visiting a website or mobile site, in the following countries, the data controller will be listed as below.**  
   
+---  
+  
+**Country**
 
+| 
 
-* * *
+**Data Controller**
 
-The _Personal Information Protection and Electronic Documents Act_ governs the collection, use and disclosure of personal information in the commercial sector.
+| 
 
-Under the Act, Primus Canada is required to adhere to **_ten privacy principles_** set out in the National Standard of Canada, _Model Code for the Protection of Personal Information_.
+**Contract Information**  
+  
+United States of America
+
+| 
+
+Enterprise Holdings, Inc.
+
+| 
+
+Enterprise, Internet Privacy Questions,  
+600 Corporate Park Drive, St. Louis, MO 63105  
+  
+Canada
+
+| 
+
+Enterprise Rent-A-Car Canada Company
+
+| 
+
+Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105
+
+Canadian Customers may also seek advise from the Office of the Privacy Commissioner of Canada (at 1-800-282-1376 or info@privcom.gc.ca)  
+  
+United Kingdom
+
+| 
+
+Enterprise Rent-A-Car UK Limited
+
+| 
+
+Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY.  
+  
+Ireland
+
+| 
+
+ERAC Ireland Limited
+
+| 
+
+ERAC Ireland, Head Office Motokov Complex, Longmile Road, West Dublin, Dublin 12.  
+  
+Germany
+
+| 
+
+Enterprise Autovermietung Deutschland GmbH
+
+| 
+
+Enterprise, Internet Privacy Questions, Mergenthaler Allee 35-37, 65760 Eschborn.  
+  
+France
+
+| 
+
+Citer, S.A.
+
+| 
+
+Enterprise, Internet Privacy Questions, 165 bis, rue de Vaugirard, B.P. 36-75721 Paris Cedex 15.  
+  
+Spain
+
+| 
+
+Autotransporte Turistico Espanol, S.A.
+
+| 
+
+Enterprise, Internet Privacy Questions, Avenida del Ensanche de Vallecas 37, 28051 Madrid  
+  
+**If you are visiting a website or mobile site for the countries listed below (i.e. with a country suffix relevant to these countries), then the controller for that site will be as listed below. If you make a rental in one of these countries, the controller for the rental will be the licensee identified in the rental agreement.**  
+  
+**Country**
+
+| 
+
+**Data Controller**
+
+| 
+
+**Contract Information**  
+  
+Albania, Austria, Belgium, Bosnia. Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Macedonia, Malta, Montenegro, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Sweden, Switzerland, Turkey
+
+| 
+
+EAN Data Services UK Limited
+
+| 
+
+Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY  
+  
+**If you are located within the European Economic Area and you use a “pre-pay” function, the controller for your payment information is listed below.**  
+  
+**Country**
+
+| 
+
+**Data Controller**
+
+| 
+
+**Contract Information**  
+  
+European Economic Area
+
+| 
+
+EAN Data Services UK Limited
+
+| 
+
+Enterprise House, Melburne Park,Vicarage Road, Egham Surrey TW20 9JY
