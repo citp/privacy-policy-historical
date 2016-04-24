@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the killscreendaily.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107225047id_/http%3A//killscreendaily.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killscreendaily.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424160801id_/https%3A//killscreen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kill Screen - Videogame Arts & Culture.
+# Privacy Policy | Kill Screen
 
 **Privacy Policy**
 
-The web site Killscreendaily.com ("Site") is a website of Kill Screen Media, Inc. ("Kill Screen”) who is committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other Kill Screen sites, products, or services.
+The web site Killscreendaily.com (“Site”) is a website of Kill Screen Media, Inc. (“Kill Screen”) who is committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other Kill Screen sites, products, or services.
 
 By using this Site, you consent to the collection and use of the information and data as described here. If we decide to change this privacy policy, we will post the changes on this page so that you will always know what information we collect, and how we use it.
 
@@ -18,22 +18,22 @@ Third parties such as Federated Media Publishing who assist Kill Screen in the m
 Kill Screen will disclose your personal information, without notice, only if required to do so or in line with applicable laws.
 
 **Advertising:  
-** First Party Ad Serving – This website’s ads are served by Google's DoubleClick. Kill Screen uses only first party data (collected during your current and recent visits) about your visits to this site to serve ads to you. We will not share your first party data with any other third parties and is only used for proprietary ad delivery and ad reporting.
+**First Party Ad Serving  This website’s ads are served by Google’s DoubleClick. Kill Screen uses only first party data (collected during your current and recent visits) about your visits to this site to serve ads to you. We will not share your first party data with any other third parties and is only used for proprietary ad delivery and ad reporting.
 
-Third Party Advertising and Cookies – Kill Screen works with third party advertising partners who may distribute cookies to users in advertisements that are provided to us from time to time. Kill Screen has no access to or control over these third party cookies.
+Third Party Advertising and Cookies  Kill Screen works with third party advertising partners who may distribute cookies to users in advertisements that are provided to us from time to time. Kill Screen has no access to or control over these third party cookies.
 
-Opt-out – In support of your privacy, you can use the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
+Opt-out  In support of your privacy, you can use the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
 
-First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google:
+First Party Opt-out  Please visit this link to opt-out of cookies from our first party ad serving vendor, Google:
 
 <http://www.google.com/privacy/ads/>
 
-Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers:
+Third Party and Online Behavioral Advertising Opt-out  Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers:
 
 <http://www.aboutads.info/choices/>
 
 **Links to Other Sites:  
-** This site contains links to other sites. Kill Screen is not responsible for the privacy practices or the content of third party web sites you may access through the Site.
+**This site contains links to other sites. Kill Screen is not responsible for the privacy practices or the content of third party web sites you may access through the Site.
 
 **Inquiries:**  
 If you have any questions about this privacy statement please contact us at [info@killscreendaily.com](mailto:info@killscreenmagazine.com).
