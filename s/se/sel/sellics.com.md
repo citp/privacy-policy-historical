@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927235123id_/http%3A//sellics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellics.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424060218id_/https%3A//sellics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sellics
 
@@ -48,7 +48,7 @@ Jordan, Vataman & Dr. Thiel GbR may update this privay policy from time to time.
 If you have any questions regarding this privacy policy you may contact us using the information below.
 
 www.Sellics.com  
-Jordan, Vataman & Dr. Thiel GbR  
+Jordan & Dr. Thiel GbR  
 Baerwarldstr.14  
 Berlin 10961  
 Germany  
