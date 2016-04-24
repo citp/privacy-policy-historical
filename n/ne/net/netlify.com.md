@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the netlify.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907204407id_/https%3A//www.netlify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlify.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424082248id_/https%3A//www.netlify.com/privacy) for the most accurate reproduction.*
 
 # Netlify: Privacy Policy
-
-[ ](https://web.archive.org/)
-
-The premium hosting service for modern static websites
-
-[ Log in ](https://app.netlify.com/)
 
 Netlify takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy.
 
