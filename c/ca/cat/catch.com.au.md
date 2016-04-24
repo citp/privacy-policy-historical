@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004223808id_/https%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424160624id_/https%3A//www.catchoftheday.com.au/privacy) for the most accurate reproduction.*
 
 # CatchOfTheDay.com.au | Privacy Policy
 
