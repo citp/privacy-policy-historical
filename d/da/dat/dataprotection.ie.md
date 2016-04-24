@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715034314id_/https%3A//www.dataprotection.ie/docs/Privacy-Statement/6.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataprotection.ie privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424073526id_/https%3A//www.dataprotection.ie/docs/Privacy-Statement/6.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Data Protection Commissioner - Ireland
 
@@ -43,5 +43,3 @@ _IP address -_ The identifying details for your computer (or your internet compa
 
   
 
-
-» [Permanent Link](https://web.archive.org/docs/Privacy-Statement/6.htm "Privacy Statement")
