@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticemail.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029194847id_/http%3A//elasticemail.com/support/usage-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticemail.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424040148id_/http%3A//elasticemail.com/support/usage-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,6 @@ Elastic Email's Anti-Spam policy tolerates only permission-based email. In addit
   
 Some communications (e.g. important account notifications and billing information) are considered transactional and are necessary for all Elastic Email customers. You must cancel your Elastic Email account to unsubscribe from these communications. To cancel your Elastic Email account, please email us at support@elasticemail.com.
 
-Some of our sites provide links to third-party websites, such as those of our business partners and online advertising partners. While on these sites, Elastic Email or its partners may collect information about you. Because Elastic Email does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personally identifiable information.
+Some of our sites provide links to third-party websites, such as those of our business partners and online advertising partners. While on these sites, our partners may collect information about you. Because Elastic Email does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personally identifiable information.  
 
-This policy is in effect as of January 2010. If we decide to change our privacy policy, we will post those changes on the Elastic Email Website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Last Updated December 17, 2015
