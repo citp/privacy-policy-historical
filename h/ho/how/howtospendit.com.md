@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227032936id_/http%3A//help.ft.com/tools-services/financial-times-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtospendit.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424032630id_/http%3A//help.ft.com/tools-services/financial-times-privacy-policy) for the most accurate reproduction.*
 
 # Financial Times privacy policy | FT Help | FT.com
 
