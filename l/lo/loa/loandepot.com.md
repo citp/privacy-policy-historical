@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116034953id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loandepot.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424025600id_/http%3A//www.loandepot.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # loanDepot |
 
