@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912142620id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarkets.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424124203id_/https%3A//smarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarkets
 
@@ -10,7 +10,13 @@ Please take a moment to read the following policy to learn how we handle your pe
 
 ## Purpose for the collection of personal information 
 
-We collect and use your personal information to satisfy legal and regulatory requirements; for historical and statistical purposes; for security and control; to provide you with our services; and, to make more of such services available to you in the future. From time to time, we may also use your personal information to contact you by mail, email, telephone or mobile phone to introduce you to our products or any events, activities, projects, plans, developments, undertakings and special offers taking place, being promoted or supported by the Company. 
+We collect and use your personal information and other information the Company (or others on its behalf) collect from or about You to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks (including checks by trusted 3rd parties). 
+
+This collection satisfies legal and regulatory requirements; for historical and statistical purposes; for security and control; to provide you with our services; and, to make more of such services available to you in the future. From time to time, we may also use your personal information to contact you by mail, email, telephone or mobile phone to introduce you to our products or any events, activities, projects, plans, developments, undertakings and special offers taking place, being promoted or supported by the Company. 
+
+The Company uses the Personal Information and other information the Company (or others on its behalf) collect from or about You to deliver the Services, to provide customer support, to undertake necessary security and identity verification checks (including checks by trusted 3rd parties). 
+
+In order to provide a better betting service, Smarkets will use your usage data in order to provide trading information to our liquidity partners. Data made available to our liquidity partners includes a unique identifier that represents counter-party information and markets accessed. 
 
 By supplying us with your information, you confirm that you do not consider use of your information in accordance with this Privacy Policy to be a breach of your rights under the Data Protection Act (Chapter 440 of the Laws of Malta). 
 
@@ -18,9 +24,11 @@ We encourage you to contact us at any time and we remind you of your right to op
 
 ## Disclosure of personal information to third parties
 
-As a policy the Company will not disclose any personal information to anyone other than those employees that need access to your data to provide you with a service. 
+As a policy the Company will not disclose any personal information to anyone other than those employees or third parties that need access to your data to provide you with a service. 
 
 We may, however, be required by law or legal process to disclose your personal information to authorities such as the local Lotteries and Gaming Authority. 
+
+As part of the registration process, supplying your information details to authorised credit reference agencies for a soft search to confirm your identity and payment card details. 
 
 ## Protection of your personal information
 
@@ -34,7 +42,9 @@ It is our right to ask you to provide us with a written request for information 
 
 ## Cookies
 
-The primary Smarkets website uses cookies only to provide authentication between page views for security reasons. The maximum lifetime of authentication cookies is twenty-four hours. 
+We only uses cookies which will improve your experience and will not interfere with your privacy. 
+
+Please refer to our [Cookie Policy](https://web.archive.org/cookie-policy/) for further information on our use of cookies and how you can disable or manage their use should you wish. 
 
 ## Commitment to privacy
 
@@ -48,4 +58,4 @@ The Company’s Privacy Policy is subject to change at any time. It is in your i
 
 References: [Data Protection Act 2001](http://www.dataprotection.gov.mt/dbfile.aspx/DPA.pdf) and [Legal Notice 16 of 2003](http://www.dataprotection.gov.mt/dbfile.aspx/LN16-2003.pdf)
 
-Last modified: May 31, 2009 
+Last modified: March 18, 2016 
