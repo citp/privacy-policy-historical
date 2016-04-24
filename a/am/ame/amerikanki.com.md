@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amerikanki.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915233901id_/http%3A//en.amerikanki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerikanki.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424183157id_/http%3A//amerikanki.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lifestyle
+# Privacy Policy | Amerikanki
 
 We understand the great importance of your privacy and we protect it when you visit our site and when you contact us. The following Privacy Policy will explain our online information practices and the choices which you can take about the way your personal information is gathered and used. You can always access the Privacy Policy, since it’s available on our homepage any time when you visit Amerikanki.com and all subdomains. Also if you are taking care about your privacy online, please read our [Disclaimer](http://en.amerikanki.com/disclaimer/).
 
