@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922091809id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aegon.co.uk privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426000104id_/https%3A//www.aegon.co.uk/support/faq/privacy.html) for the most accurate reproduction.*
 
 # Privacy, data protection and cookies
 
@@ -34,7 +34,7 @@ We may collect device-specific information (such as your hardware model, operati
 
 **Log information**
 
-When you use our services or view content provided by Aegon UK, we may automatically collect and store certain information in [server logs](https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include:
+When you use our services or view content provided by Aegon UK, we may automatically collect and store certain information in [server logs(Opens new window)](https://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include:
 
   * details of how you used our service, such as which tools you used
   * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
@@ -145,7 +145,7 @@ For Aegon Investment Solutions (Aegon Retirement Choices), if you want a copy of
 Our online services are:
 
 Our website – [aegon.co.uk](http://aegon.co.uk/)  
-Our mobile portal – [retiready.com](http://www.retiready.co.uk/)
+Our mobile portal – [retiready.com(Opens new window)](http://www.retiready.co.uk/)
 
 When you visit our website, our web server automatically records the name of your internet service provider, the website from which you visit us, the websites you actually visit and the date and length of your visit.
 
@@ -155,7 +155,7 @@ Additional personal data is only stored if volunteered by you, for example regis
 
 ### Social media
 
-We use various social media networks, such as Twitter, LinkedIn, YouTube etc for more detail please see our social media guidelines
+We use various social media networks, such as Twitter, LinkedIn, YouTube etc for more detail please see our [social media guidelines](https://www.aegon.co.uk/content/dam/ukpaw/documents/social-media-participation-guidelines.pdf)
 
 ### Recruitment
 
@@ -184,7 +184,7 @@ You have the right to request a copy of the personal data we hold about you. If 
 
 We’re committed to ensuring your information is protected and held securely. However, the internet is not a secure medium and we can’t accept responsibility for the security of an email during transmission or for non-delivery of that email.
 
-There are a few simple steps you can take to protect your computer and internet connection – view our tips here and select the 'security' tab.
+There are a few simple steps you can take to protect your computer and internet connection – [view our tips here](https://web.archive.org/support/search-results.html?searchInput=security&selectArea=%2Fcontent%2Fukpaw%2Fsupport%2Ffaq).
 
 We’ve put security policies, rules and technical measures in place to protect the personal data that we have under our control from:
 
