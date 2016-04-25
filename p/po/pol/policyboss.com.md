@@ -1,27 +1,78 @@
-> *The following text is extracted and transformed from the policyboss.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000104id_/http%3A//www.policyboss.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policyboss.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425100726id_/http%3A//www.policyboss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Policyboss
 
-  
-The privacy and the personal information of our customers, is very important for us. Kindly read this privacy policy to know how we care for your personal information in a number of ways.
+The Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (“Rules”) requires that any body corporate which collects, stores, receives and/or handles personal information of a user, shall provide a privacy policy for handling and dealing in the personal information and make available such policy on its Website.
 
-There are a number of services available at PolicyBoss and after you register for them our systems save all your personal information. Hence, by using [www.policyboss.com](http://www.policyboss.com/) you allow us to send you e-mails and notifications related to matters of insurance and policies. This way we also give you crucial information and pass on knowledge about what is available in the market for your benefit. When you visit our website you agree to all the terms and conditions.
+Sensitive personal data or information (“Personal Information”) of a person is defined under the Rules to include information relating to:-
 
-The Privacy Policy of PolicyBoss states what and how the information about our customers will be utilized. This detailed policy is available for our customers to inform them about our system so that you can make correct decisions. When you register with PolicyBoss, you give us detailed information about your name, address, birth date, gender, e-mail id, telephone number, etc. after this you are not a stranger to us. The e-mail id and mobile number can be used by us and our business associates to send you messages, e-mails and notifications on what is new, details about products, promotions of related schemes and policies which are offered by our associates.
+  * password;
+  * financial information such as Bank account or credit card or debit card or
+  * other payment instrument details;
+  * physical, physiological and mental health condition;
+  * sexual orientation;
+  * medical records and history;
+  * Biometric information;
+  * any detail relating to the above;
 
-**_INFORMATION SHARING AND DISCLOSURE_**  
-The personal information that our customers give us with trust and belief is kept with us in safe so that you are confident enough to use our services and suggest us to your friends and family. It is not sold or given on rent to any third party unless we have mentioned it here. However, our business associates and affiliates are always thinking about your good; hence this information may get transferred to them for the purpose of advertising and promoting. If we have a merger with anyone in the market then even that will be informed to you through e-mail or messages.
 
-Even if you are registered under DND or DNC service with your operator, you will receive our messages if you use [www.policyboss.com](http://www.policyboss.com/). This way you give us permission to get in touch with you directly from [www.policyboss.com](http://www.policyboss.com/) or from our affiliates for the purpose of informing you about latest products and services.
 
-The policy will also comprise of our treatment of your personally identifiable information given to us by the partners of PolicyBoss. This personally identifiable information is asked from you at the time of the registration and thus the e-mail id and the mobile number will be used to send informative emails and messages.
+Any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force is not regarded as Personal Information or data for the purposes of Rules.
 
-**_LEGAL_**  
-PolicyBoss obliges with law enforcement and regulatory investigation along with the third parties to enforce laws such as intellectual property rights, fraud and other rights with an aim to protect you and the community. As a result, in reply to a confirmed request by law enforcement or other government officials linked to an alleged illegal activity or a criminal investigation we will be able to reveal the customer’s name, address (in full), telephone number email id, history of UserID, etc. This information is utilized by us on your valid authorization. Also, we could reveal the customer’s name, address, phone number, email id, and company name to Intellectual Property rights owners under privacy agreement, as we in our solitary caution believe necessary with regard to an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity; all this is carried on your authorization. We stringently follow the rules of non disclosure agreement. This is our attempt to make sure that the websites linked to us are completely safe and secure for our customers; unfortunately we won’t have any control over the third-party websites.
+This policy (hereinafter referred to as the “Privacy Policy”) is to inform you regarding the collection and use of your Personal Information by Landmark Insurance Brokers Pvt. Ltd. (“Landmark”), which is collected during your visit to our website [www.policyboss.com](http://www.policyboss.com/) (hereinafter referred to as the “Website”).
 
-The existing regulatory environment forces us to make sure that all the personal information of the customer will never be revealed for reasons other than those which are mentioned in the policy. In case there is any kind of information that is needed by the Government of India or third parties under urgent conditions, the customer’s personal information may be revealed. Third parties may illegally stop or take the customer’s personal information or private communications or even users may use or abuse personal information that they collect from the website. Even though we are using industry standard activities to protect all the information, PolicyBoss does not promise the customer that their information or personal communication will remain private forever.
+For the purpose of these Privacy Policy, wherever the context so requires, "you" “your” or "user", shall mean any natural or legal person who has agreed to visit and access the Website anonymously or agreed to provide his/her personal information by registering on the Website. The terms, "we", "us", "our", appearing in this Privacy Policy shall mean and refer to Landmark Insurance Brokers Pvt. Ltd. and owners and proprietors of the Trademark PolicyBoss.com and domain name PolicyBoss.com.
 
-**_PRIVACY POLICY CHANGES_**  
-PolicyBoss will possibly make changes in their Privacy Policy from time to time, at our sole discretion. In the process, if we make any important changes in the manner utilize the customer’s personal information. PolicyBoss will inform you by posting the changes here on the Privacy Policy Pages.
+**What Personal Information is collected?**
 
-As soon as you buy products and access your account on the website, PolicyBoss offers the utilization of a secure server. The Secure Software encrypts all the information of the customer before it is sent to us. Along with this, the information provided by the customer is protected against unauthorized access. Hence, to prevent unauthorized access the customer is requested to maintain data accuracy and ensure correct use of information. For this PolicyBoss will utilize reasonable and current internet security procedures and technologies. By using this website you give us the permission to collect and utilize this information you give away on this website. In case we make any important changes in the manner we utilize the customer’s personal information. PolicyBoss will inform you by posting the changes here on the Privacy Policy Pages. The news articles on PolicyBoss have been compiled from public news sources accessible to us. Whilst PolicyBoss has taken all due care in preparing the articles, it admits no accountability or liability for the actuality, legitimacy, steadfastness and precision of the information. Also, we are neither responsible nor liable for any substantial damages arising in relation to relying on the contents of the news articles. Please ensure that children who are under the age of 18 years are not eligible to use this website and we request them to not to submit any kind of personal information to PolicyBoss.
+We provide a number of insurance related services through the Website. We collect personally identifiable information such as name, age, gender, email, telephone number and address when you register on our website [www.policyboss.com](http://www.policyboss.com/). You may be further requested to provide information in connection with your lifestyle preferences and health in general for the purpose of providing certain insurance related information, products and services.
+
+**What is the Personal Information used for?**
+
+Your personal information is used by us to provide you information and knowledge in relation to the various insurance schemes, policies and related services, available in the market for your benefit. We would therefore use your personal information in order to:
+
+  * respond to queries and request submitted by you;
+  * facilitate orders or applications submitted by you;
+  * use our best efforts in resolving any problems or issues in connection with the services provided by us to you;
+  * offer products and/or services that may meet your needs;
+  * to carry out any obligation in relation to any agreement that you may have with us.
+
+
+
+Your contact information such as email and telephone number can be either used by us and / or our authorized persons to send you messages, emails and notifications in connection with new products, promotions of related schemes and policies which are offered by various insurers. By registering with us therefore, you authorise us and our authorized persons/agents to contact you and offer your information related to matters of insurance and policies, notwithstanding your registration with DNC and/or the NDNC.
+
+If at any time you wish us to stop using your information for any or all of the above purposes, please contact us as set out below. We will stop the use of your information for such purposes as soon as it is reasonably possible to do so.
+
+**Information sharing & disclosure**
+
+Upon registration on our Website, your Personal Information is encrypted and stored on servers hosted with third party service providers (“Storage Servers”) under legally binding contracts, which comprise strict confidentiality related obligations. The Storage Servers are under complete control of Landmark and its authorize representatives. Additionally, the third party service providers who host our Storage Servers are required to maintain the security standards that are prescribed from time to time, under the Information Technology Act 2000 (“Act”) and Rules.
+
+The collected Personal Information will be transferred to selected third parties, such as the insurance companies, our affiliates, and business partners, after seeking appropriate consent from you at the time of collecting the Personal Information from you. The third parties with whom we will share your Personal Information will not use your Personal Information for any purposes other than for what we have agreed with them. Additionally all third parties with whom we may share your Personal Information, are also required to maintain the minimum levels of security and protection, as may be prescribed under the provision of the Act and Rules from time to time, in order to safeguard your Personal Information.
+
+We will also share your Personal Information with insurance companies (“Insurance Companies”) for the purpose of facilitating the issuance and service of your insurance policies. In addition to the Personal Information provided to us by you, the Insurance Companies may request certain additional information such as your bank details and other financial information (“Additional Information”) before a policy is issued to you. We will inform you if we are collecting this Additional Information from you on behalf of the Insurance Companies. The Additional Information collected by us on behalf of the Insurance Companies will be exclusively under the control and protection of the the Insurance Companies and we will not be responsible for the storage and protection of such Additional Information. Therefore, before submitting any such Additional Information to us or the Insurance Company directly, we recommend that you enquire with the respective Insurance Companies to understand their privacy policy and practices.
+
+We will keep your Personal Information only for for as long as is necessary for the purpose of providing you with the services mentioned hereinabove. We will not use your Personal Information for any of the purposes if you have indicated that you do not wish us to use your Personal Information by submitting your request in this regard to us at the time of collecting the Personal Information or at a later stage as set out below. If we have a merger with anyone in the market, we will notify you by making appropriate changes to this Privacy Policy or through e-mail or messages.
+
+**Changes to our records**
+
+If you would like to review, change or delete the Personal Information you have supplied us with, please contact us as set out below.
+
+**Collection of non-personal information**
+
+We may automatically collect non-personal information about you such as the type of internet browsers you use or the website from which you linked to our website upon your access to our Website. We may also aggregate details which you have submitted to the Website (for example, your age and the town where you live). You cannot be identified from this information and it is only used to assist us in providing an effective service on this web site. We may from time to time supply third parties with this non-personal and/or aggregated data in a completely anonymous way, for uses in connection with this Website.
+
+**Legal**
+
+Except as set out in this privacy policy, we will not disclose any Personally Information without your permission unless we are legally entitled or required to do so. We oblige law enforcement and regulatory investigation to enforce laws aimed to prevent intellectual property infringements, fraud and/or any other crime, if we believe that such action is necessary to protect and/or defend our rights, property or personal safety and those of our users / customers or other individuals. As a result, in reply to a confirmed request, from any law enforcement or other government agency, linked to an alleged illegal activity or a criminal investigation, we may reveal your Personal Information such as name, address (in full), telephone number email, history of userid, etc.
+
+**Use of your personal information submitted to other websites/entities**
+
+On our Website, we may have links to websites of Insurance Companies or you may be referred to our website through a link from another website. We recommend that you check the policy of each of the website you visit, especially when submitting any Personal Information to such website, to understand their policies since we cannot be responsible for the privacy policies and practices of other websites.
+
+**Changes to our Privacy Policy**
+
+From time to time, we may make changes to this Privacy Policy at our sole discretion. In the process, if we make any substantial changes in the manner in which we utilize, store or share your personal information, we will inform you by posting such changes here on this Privacy Policy page. Please check our Privacy Policy on a regular basis.
+
+**Contact**
+
+Please contact Mr. Milind Chilate (“Grievance Officer”) at [privacy@policyboss.com](mailto:privacy@policyboss.com), if you would like to review, change and/or delete the Personal Information submitted by you or discontinue our use of your personal information or generally would like to know more about our privacy policy. 
