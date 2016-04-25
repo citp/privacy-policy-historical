@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the holygrailbodytransformation.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831230551id_/http%3A//www.holygrailbodytransformation.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holygrailbodytransformation.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425035426id_/http%3A//www.holygrailbodytransformation.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Holy Grail Body Transformation Program By Tom Venuto
 
 **Holy Grail Body Transformation  
-Privacy Policy (2010)**
-
-Last Updated: June 25th, 2010
+Privacy Policy **
 
 HolyGrailBodyTransformation.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We hate spam as much as you do and we will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -63,4 +61,4 @@ We can be reached by contacting:
 C/O Fitness Renaissance, LLC  
 PO Box 5097  
 Hoboken, NJ 07030  
-[Click here to Email us](https://web.archive.org/web/20150831230551id_/http%3A//www.holygrailbodytransformation.com/contact/contact.php)
+[Click here to Email us](https://web.archive.org/web/20160425035426id_/http%3A//www.holygrailbodytransformation.com/contact/contact.php)
