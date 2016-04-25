@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveragemail.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224171414id_/http%3A//www.coveragemail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveragemail.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425041239id_/http%3A//www.coveragemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CoverageMail
 
@@ -57,7 +57,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Call (+91) 8010252572
+Call (+91) 8802275251
 
 **Pinkcelebs[at]gmail.com**
 
