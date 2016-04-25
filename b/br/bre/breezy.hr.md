@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breezy.hr privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317121118id_/https%3A//breezy.hr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezy.hr privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425211800id_/https%3A//breezy.hr/privacy) for the most accurate reproduction.*
 
 # Breezy HR - Privacy Policy
 
