@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarahpalin.com privacy policy that was archived on 2015-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150422010255id_/http%3A//www.sarahpac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahpalin.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425163640id_/http%3A//www.sarahpac.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SarahPAC
+# Privacy Policy – SarahPAC
 
 **Security**  
 The servers that house SarahPac.com are maintained in a manner that safeguards the information in our databases effectively.
