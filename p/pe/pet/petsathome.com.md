@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118083119id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425141852id_/http%3A//www.petsathome.com/shop/en/pets/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pets At Home
 
@@ -12,7 +12,7 @@
 
 
 
-Pets at Home Limited is committed to protecting and respecting your privacy. This policy (together with our [Terms and Conditions](https://web.archive.org/shop/en/pets/terms-of-business "Terms and Conditions") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
+Pets at Home Limited is committed to protecting and respecting your privacy. This policy (together with our [Terms and Conditions](https://web.archive.org/shop/en/pets/terms-and-conditions "Terms and Conditions") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.  
 For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Pets at Home Limited of Epsom Avenue, Stanley Green Trading Estate, Handforth, Cheshire SK9 3RN.
 
 ## Your consent
