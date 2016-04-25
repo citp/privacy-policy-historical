@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019001649id_/https%3A//www.bitgold.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425085117id_/https%3A//www.bitgold.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security | BitGold
 
