@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovesystems.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028104013id_/http%3A//www.lovesystems.com/shr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovesystems.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425164706id_/http%3A//www.lovesystems.com/pages/privacy-policy%3Futm_source%3Dlovesystems.com%26utm_medium%3Dnavigation%26utm_campaign%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Love Systems: Relationship Science | We teach you how to meet the girl next door.
 
 Privacy Policy
 
@@ -16,9 +16,3 @@ Love Systems
 1640 Wilcox Ave.  
 Hollywood, CA  
 90028
-
-Our site is hosted by ZeroLag Communications which can be reached at 1-877-ZERO-LAG with offices located at:
-
-289 S. Robertson Blvd #441  
-Beverly Hills, CA 90211  
-United States
