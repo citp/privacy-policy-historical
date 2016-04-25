@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gowatchit.com privacy policy that was archived on 2015-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151226115422id_/http%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gowatchit.com privacy policy that was archived on 2016-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160426011322id_/http%3A//gowatchit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" itemscope="" itemtype="http://schema.org/Organization"><head>
 		<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0026/4880.js?439019" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.feedbackify.com/f.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -13,7 +13,7 @@
 		
 	    
 	    <meta content="authenticity_token" name="csrf-param">
-<meta content="iSFHKSahPNa6SNfvKnlH89NGjLIYaEF4i8hocnWn54E=" name="csrf-token">
+<meta content="OVnMq/Hzwd3IA4xyYmoqT7E2VgVngr5pmFQ4JY6XUS4=" name="csrf-token">
 		<!--[if lte IE]>
 			<link href="http://d2a0bnlkc0czvp.cloudfront.net/assets/ie-46d89f20552fc785e17e62b1e469a2c4.css" media="screen" rel="stylesheet" type="text/css" />
 	   	<![endif]-->
@@ -49,13 +49,10 @@
       $(document).ready(function () {
         Ember.Handlebars.bootstrap(Ember.$(document));
 
-        user_hash = null;
-
-        if (user_hash == null) {
-          GoWatchIt.user = null
-        } else {
-          GoWatchIt.user = GoWatchIt.User.create(user_hash);
-        }
+        // THIS is to prevent XSS attacks. Please strip your tags when just
+        // dumping JSON into HTML!! As a matter of fact, DON'T dump JSON into
+        // HTML! Love, Michael + Dmitry
+          GoWatchIt.user = null;
 
         $(function () {
           //GoWatchIt.initialize(); // we us auto initialize so this should not be needed
@@ -72,7 +69,7 @@
 <script type="text/javascript">
 
  $(document).ready(function() {
- 	header_hash = {"root_url":"http://gowatchit.com/","search_form":"<form accept-charset=\"UTF-8\" action=\"/search\" class=\"search_form\" method=\"get\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /></div><input autocomplete=\"off\" class=\"searchInput\" id=\"query\" name=\"query\" placeholder=\"Find a movie, actor, or director\" type=\"text\" /><input class=\"searchSubmitIcon\" id=\"search_submit\" src=\"http://d2a0bnlkc0czvp.cloudfront.net/assets/controls/search_submit_icon-9ea26bec51b5cf6960ecacdde8d224cb.png\" type=\"image\" /></form>","logout_link":"<a href=\"/users/sign_out\" style=\"color:#E74E1E\">Log out</a>","channels_link":"<a href=\"/channels\" id=\"channels_link\" style=\"color:#E74E1E\">Channels</a>","page_links":"<li><a href=\"http://gowatchit.com/pages/about\" style=\"color:#E74E1E\">About</a></li>","log_in_link":"<a href=\"/users/sign_in?modality=main&amp;origin_url=http%3A%2F%2Fgowatchit.com%2F\" id=\"login_link\" style=\"color:#E74E1E\">Log in</a>","sign_up_link":"<a href=\"/users/sign_up?modality=main&amp;origin_url=http%3A%2F%2Fgowatchit.com%2F\" style=\"color:#E74E1E\">Sign up</a>","preferences_link":"<a href=\"/users/edit\" style=\"color:#E74E1E\">Preferences</a>","friends_link":"<a href=\"/friends\" style=\"color:#E74E1E\">Friends</a>","active":null}
+ 	header_hash = {"root_url":"http://gowatchit.com/","search_form":"\u003Cform accept-charset=\"UTF-8\" action=\"/search\" class=\"search_form\" method=\"get\"\u003E\u003Cdiv style=\"margin:0;padding:0;display:inline\"\u003E\u003Cinput name=\"utf8\" type=\"hidden\" value=\"\u0026#x2713;\" /\u003E\u003C/div\u003E\u003Cinput autocomplete=\"off\" class=\"searchInput\" id=\"query\" name=\"query\" placeholder=\"Find a movie, actor, or director\" type=\"text\" /\u003E\u003Cinput class=\"searchSubmitIcon\" id=\"search_submit\" src=\"http://d2a0bnlkc0czvp.cloudfront.net/assets/controls/search_submit_icon-9ea26bec51b5cf6960ecacdde8d224cb.png\" type=\"image\" /\u003E\u003C/form\u003E","logout_link":"\u003Ca href=\"/users/sign_out\" style=\"color:#E74E1E\"\u003ELog out\u003C/a\u003E","channels_link":"\u003Ca href=\"/channels\" id=\"channels_link\" style=\"color:#E74E1E\"\u003EChannels\u003C/a\u003E","page_links":"\u003Cli\u003E\u003Ca href=\"http://gowatchit.com/pages/about\" style=\"color:#E74E1E\"\u003EAbout\u003C/a\u003E\u003C/li\u003E","log_in_link":"\u003Ca href=\"/users/sign_in?modality=main\" id=\"login_link\" style=\"color:#E74E1E\"\u003ELog in\u003C/a\u003E","sign_up_link":"\u003Ca href=\"/users/sign_up?modality=main\" style=\"color:#E74E1E\"\u003ESign up\u003C/a\u003E","preferences_link":"\u003Ca href=\"/users/edit\" style=\"color:#E74E1E\"\u003EPreferences\u003C/a\u003E","friends_link":"\u003Ca href=\"/friends\" style=\"color:#E74E1E\"\u003EFriends\u003C/a\u003E","active":null}
 	GoWatchIt.header = GoWatchIt.Header.create(header_hash);
 })
 
@@ -269,13 +266,13 @@
     <div class="stdCopyBox" style="margin-top:20px;width:240px">
       <p class="copyStyle2">Log In <span class="login_and_queue">&amp; Add to Queue</span></p>
 
-      <form accept-charset="UTF-8" action="https://gowatchit.com/users/sign_in?modality=main&amp;origin_url=http%3A%2F%2Fgowatchit.com%2F" class="new_user" id="new_user" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+      <form accept-charset="UTF-8" action="https://gowatchit.com/users/sign_in?modality=main" class="new_user" id="new_user" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
 
         <div id="facebook_btnPopup" class="facebook_btn">
           <input class="facebook_button" id="facebook_login_popup" name="facebook" type="submit" value="">
         </div>
 </form>
-      <form accept-charset="UTF-8" action="https://gowatchit.com/users/sign_in?modality=main&amp;origin_url=http%3A%2F%2Fgowatchit.com%2F" class="login_form_header" data-remote="true" data-with-credentials="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSFHKSahPNa6SNfvKnlH89NGjLIYaEF4i8hocnWn54E="></div>
+      <form accept-charset="UTF-8" action="https://gowatchit.com/users/sign_in?modality=main" class="login_form_header" data-remote="true" data-with-credentials="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="OVnMq/Hzwd3IA4xyYmoqT7E2VgVngr5pmFQ4JY6XUS4="></div>
         <div style="height:40px"></div>
         <hr>
         <div id="alternatives">
@@ -303,7 +300,7 @@
 </form>
       <div id="create_account_form">
         <p>Create an account</p>
-        <form accept-charset="UTF-8" action="/users?modality=main&amp;origin_url=http%3A%2F%2Fgowatchit.com%2F" class="new_user" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="iSFHKSahPNa6SNfvKnlH89NGjLIYaEF4i8hocnWn54E="></div>
+        <form accept-charset="UTF-8" action="/users?modality=main" class="new_user" data-remote="true" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="OVnMq/Hzwd3IA4xyYmoqT7E2VgVngr5pmFQ4JY6XUS4="></div>
 
           <input class="signup_form_field" id="user_email_create" name="user[email]" size="30" type="text" value="Email">
           <input class="signup_form_field" id="user_password_create" name="user[password]" size="30" type="text" value="Password">
@@ -347,7 +344,7 @@
       function getActionEmbeddedUrl(url){
         if (getEmbeddedAction().name){
           fullUrl = url + '?' + $.param({ embedded_action: getEmbeddedAction() });
-            fullUrl = fullUrl + '&' + $.param({"modality":"main","origin_url":"http://gowatchit.com/"});
+            fullUrl = fullUrl + '&' + $.param({"modality":"main"});
           return fullUrl;
         } else {
           return url;
@@ -599,7 +596,7 @@
       }
 
       function facebook_login_url() {
-        return getActionEmbeddedUrl('/users/auth/facebook?redirect_to=http%3A%2F%2Fgowatchit.com%2Fpopup%2Flogin%3Fmodality%3Dmain%26origin_url%3Dhttp%253A%252F%252Fgowatchit.com%252F');
+        return getActionEmbeddedUrl('/users/auth/facebook?redirect_to=http%3A%2F%2Fgowatchit.com%2Fpopup%2Flogin%3Fmodality%3Dmain');
       }
 
       function openFacebookLoginPopup(){
@@ -773,7 +770,7 @@
 			// Facebook Like tracking
 			if (typeof(FB) != "undefined") { // This if is a TOTAL HACK - DKD
 			FB.Event.subscribe('edge.create', function(url) {
-				$.post('http://gowatchit.com/transactions/like/1451130862?url='+url+'&movie_id=');			
+				$.post('http://gowatchit.com/transactions/like/1461633202?url='+url+'&movie_id=');			
 				track_event('movie','like', 'movie_id', '')
 			});
 		}	
