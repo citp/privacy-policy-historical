@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gca.sh privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924083841id_/http%3A//gca.sh/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gca.sh privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425143717id_/http%3A//gca.sh/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GCASH beta
 
