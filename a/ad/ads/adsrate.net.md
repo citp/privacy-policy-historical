@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsrate.net privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923024219id_/http%3A//adsrate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsrate.net privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425040232id_/http%3A//adsrate.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Ad Networks 2013 Reviews and Guides
 
