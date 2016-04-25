@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223045120id_/http%3A//www.liveinlimbo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinlimbo.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425201902id_/http%3A//www.liveinlimbo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ You may consult this listing to find the privacy policy for each of the advertis
 
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.liveinlimbo and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-www.liveinlimbo has no access to or control over these cookies that are used by third-party advertisers.
+www.liveinlimbo.com has no access to or control over these cookies that are used by third-party advertisers.
 
  **Third Party Privacy Policies**
 
@@ -46,11 +46,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
- **Email Newsletter**
+ **Children’s Information**
 
-Addresses are stored properly using [MailChimp](http://www.mailchimp.com/). And will only be used for [LiL’s Weekly Newsletter](http://liveinlimbo.us3.list-manage.com/subscribe?u=7ec5a49a2da18629c6bd07a91&id=6845ab5022). 
-
- **Children’s Information**  
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
 www.liveinlimbo.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.liveinlimbo.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
