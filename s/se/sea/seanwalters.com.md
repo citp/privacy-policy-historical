@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seanwalters.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922142905id_/http%3A//www.youronlinebusinesshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seanwalters.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425110347id_/http%3A//www.youronlinebusinesshub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Online Business Hub
 
