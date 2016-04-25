@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the triathloninspires.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114151914id_/http%3A//www.triathloninspires.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathloninspires.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425074526id_/http%3A//www.triathloninspires.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Triathlon Inspires | Inspiration Beyond Limits!
+
+  
+
+
+**Google translations (NOT 100% accurate)**.
+
+  
+
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following information outlines our privacy policy. 
 
