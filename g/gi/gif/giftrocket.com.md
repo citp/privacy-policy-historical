@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912074400id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftrocket.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426010817id_/https%3A//www.giftrocket.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GiftRocket
 
-Last revised 1/1/2014
+Last revised 4/20/2016
 
-This Privacy Policy discloses the privacy practices for the GiftRocket websites (collectively, the “Website”). GiftRocket, Inc., the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
+This Privacy Policy discloses the privacy practices for the GiftRocket website (“Website”). GiftRocket, Inc., the provider of the Website (referred to as “us” or “we”), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us.
 
-By accessing or using our website, you acknowledge that you have read, understood, and agreed to be bound to the terms of this privacy policy and our website terms of use. If you don't agree to these terms, you probably shouldn't use our website.
+By accessing or using our website, you acknowledge that you have read, understood, and agreed to be bound to the terms of this privacy policy and our website terms of use.
 
 ### Changes to privacy policy
 
