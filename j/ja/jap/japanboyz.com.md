@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanboyz.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218161118id_/http%3A//www.japanboyz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanboyz.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425152924id_/http%3A//www.japanboyz.com/privacy.html) for the most accurate reproduction.*
 
 # Japanboyz.com Privacy Statement - Certified Safe, Secure and Discreet membership
 
