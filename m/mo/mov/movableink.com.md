@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206173952id_/http%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425101920id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
 
-# Movable Ink | Agile Email Marketing
+# Privacy Policy | Movable Ink
 
-### Privacy Policy
+## Privacy Policy
 
 **Effective Date: September 8, 2014**
 
@@ -158,11 +158,3 @@ Attn: Safe Harbor Program
 Washington, DC 20036  
 [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
 <http://thedma.org/services/dma-international-safe-harbor/>
-
-#### Something we can help with?
-
-Get in touch with any questions / comments you may have. 
-
-####  Sign up for our newsletter
-
-Get the latest news, product releases, research, and best practices guides from Movable Ink delivered straight to your inbox. 
