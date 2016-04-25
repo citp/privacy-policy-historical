@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylivechat.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060006id_/https%3A//www.mylivechat.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylivechat.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425143037id_/https%3A//mylivechat.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Live Chat Software | Free Live Chat Software
 
@@ -34,3 +34,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
   
 
+
+## Live Chat Plugins
+
+MyLiveChat works seamlessly with the apps you already use to power your business, including the most popular CRM, CMS, eCommerce, SaaS solutions.
