@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the didww.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703135154id_/https%3A//www.didww.com/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didww.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425043509id_/https%3A//www.didww.com/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement | DIDWW
-
-DIDWW Privacy Policy
 
 DIDWW has created this privacy policy in order safeguard the privacy of users of our services. By using our site and services you are consenting to the practices set forth in this Privacy Policy.
 
