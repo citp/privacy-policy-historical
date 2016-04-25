@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpayments.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003231id_/https%3A//pin.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpayments.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425032710id_/https%3A//pin.net.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pin Payments
 
@@ -25,6 +25,10 @@ Your information may be used for purposes relating to the application and operat
 ## Notification of changes to this policy
 
 Southern Payment Systems reserves the right to alter this policy and you are encouraged to check it periodically for updates.
+
+## Supplemental Data Policy
+
+[View our Supplemental Data Privacy Policy](https://www.iubenda.com/privacy-policy/622123 "Privacy Policy")
 
 ## Contact us
 
