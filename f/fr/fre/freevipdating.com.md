@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freevipdating.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322083235id_/http%3A//www.freevipdating.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevipdating.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425075856id_/http%3A//www.freevipdating.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of FreeVipDating, a site operated by Nautell Capital Limited, Stasinou, 1 Mitsi Building 1, 1st floor, Office 4 Plateia Eleftherias, Nicosia Cyprus 1060, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Freevipdating, a site operated by Nautell Capital Ltd, 12-14 Kennedy Avenue, 1st Floor, office 107, P.C. 1087, Nicosia, Cyprus, and related services (hereafter the 'Site'). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT USE THIS SITE OR THE SERVICES PROVIDED BY THIS SITE. 
 
@@ -16,7 +16,7 @@ If a Member, visitor or User sends any personal communication or correspondence,
 
 **COOKIES**
 
-FreeVipDating uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly. 
+Freevipdating uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly. 
 
 **USE OF PERSONAL INFORMATION AND DISCLAIMER**
 
@@ -32,7 +32,7 @@ The Site also offers all Members and Users a procedure for 'Opting-Out' if the M
 
 **DISCLOSURE**
 
-FreeVipDating will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or if acquired to the acquiring entity and its related companies or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or to identify, contact or bring legal action against someone who may be violating the FreeVipDating Terms and Conditions or to comply with applicable law or valid subpoenas or document productions in litigation.
+Freevipdating will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or if acquired to the acquiring entity and its related companies or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or to identify, contact or bring legal action against someone who may be violating the Freevipdating Terms and Conditions or to comply with applicable law or valid subpoenas or document productions in litigation.
 
 **REVISIONS TO THIS PRIVACY POLICY**
 
