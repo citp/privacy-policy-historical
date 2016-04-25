@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816065338id_/http%3A//www.ledsupermall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425065737id_/https%3A//www.ledsupermall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,23 +12,25 @@ Usage data is that you don’t provide actively, but it can be collected passive
 
 **3\. Change your data and revocation**
 
-We try our best to make sure your information is exact. However your data update or delete at any time if you object to use your data for the future and / or revoke your consent, we will delete all stored data from you without delay.
+We try our best to make sure your information is exact. However your data update or delete at any time if you object to use your data for the future and or revoke your consent, we will delete all stored data from you without delay.
 
 **4\. Data security**
 
 We are committed to your data security. In order to prevent unauthorized access or unauthorized disclosure, we have appropriate technical and organizational procedures to secure the data we obtain online and protect so that we can ensure the accuracy of data and its correct use of information.
 
-**5\. Providing data and information / disclaimer**
+**5\. Providing data and information disclaimer**
 
 We make every effort to make sure the information and data obtained on the website are accurate. No guarantee or liability for the timeless, accuracy and completeness of information and data provided is excluded. However, LEDsupermall has the right to change and amend without noticing the information or data provided. Unless containing future web link, the statements are based on our beliefs and estimates, therefore it will have some risk and uncertainty. All liability for such statements is expressly excluded.
 
-**6\. Links and references**  
+**6\. Links and references**
+
 From the own content of LEDsupermall cross-references links to the websites of other providers. For the content of external websites, LEDsupermall is not responsible.
 
-**7\. Copyright**  
+**7\. Copyright**
+
 Unless otherwise indicated, the content and structure LEDsupermall website are protected by copyright. This applies to texts, images, graphics, sound, video or animation files and their arrangement on the sides in particular. Any duplication or usage of this site(its contents or its parts) is not permitted without prior express consent of the copyright holder. This also applies to the usage of trademarks or trademarks which are mentioned or displayed in the website.
 
-**8\. Information / suggestions**
+**8\. Information suggestions**
 
 For the information and suggestions about this policy, please contact us by the following email address: support@ledsupermall.com
 
@@ -42,4 +44,4 @@ LEDsupermall will send you an e-mail with information of our products and promot
 
 **11\. Contact us**
 
-Email:sales@ledsupermall.com
+Email:support@ledsupermall.com
