@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2015-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151005035638id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425212019id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Retail
 
@@ -42,12 +42,8 @@ Octomedia welcomes your comments regarding this Privacy Policy. If you have any 
 
 The Privacy Officer
 
-Octomedia Pty Ltd
-
-L1, 99 Devonshire St, Surry Hills NSW 2010
-
-P O Box 2435, Strawberry Hills NSW 2012
-
-Phone: 02 9901 1800
-
-Fax: 02 9901 1833
+Octomedia Pty Ltd  
+L3, 51-57 Pitt Street, Sydney NSW 2000  
+P O Box R217, Royal Exchange NSW 1225  
+Phone: 02 9901 1800  
+Fax: 02 9251 5957
