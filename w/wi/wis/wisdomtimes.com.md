@@ -1,42 +1,107 @@
-> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207101911id_/http%3A//www.wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426112319id_/http%3A//www.wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
-**Our Commitment To Privacy** :
+**Introduction**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website wisdomtimes.com homepage and at every point where personally identifiable information may be requested.
+The purpose of this privacy policy (“ **Privacy Policy** ”) is to describe how Wisdom Planet Inc., (“Wisdom Planet”, “us”, “we” or “our”) collects, uses, maintains and shares information about you (“User” or “you”) through online interfaces (e.g., websites and mobile applications) owned and controlled by us, including [www.wisdomtimes.com](http://www.wisdomtimes.com/) and its mobile applications  (collectively referred to herein as “Wisdom Times”). Capitalized terms not defined herein shall have the same meaning as those ascribed to them in the Terms of Use.
 
- **The Information We Collect:**
+We recognize the importance of your privacy and we are committed to ensuring that you are aware of how your information is being used. Please read this notice carefully to understand what we do. Your use of Wisdom Times is also governed by our Terms of Use. If you do not understand any aspects of our Privacy Policy, please feel free to contact us at support@wisdomtimes.com. You are free to use Wisdom Times only if you agree with our policies and practices encapsulated in this Privacy Policy and the Terms of Use. Your use or access of Wisdom Times shall constitute your agreement to this Privacy Policy.
 
-This notice applies to all information collected or submitted on the wisdomtimes.com website. On some pages, you can post comments, make requests, and register to receive materials. The types of personal information collected at these pages are: Name, Email address, and Phone number where applicable.
+ **Applicability of the policy**
 
-On some pages, you can submit information about other people. For example, you can suggest agents, brokers, agencies who would want to work/advertise with us. You will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Email Address and Phone Number
+This policy shall apply to all information Wisdom Planet collects on Wisdom Times including but not limited to any information you upload, emails that you exchange with Wisdom Planet and other Users of Wisdom Times and any information submitted by you to Wisdom Planet. The policy does not apply to, nor does Wisdom Planet take any responsibility for, any information that is collected by any third party either using Wisdom Times or through any links on Wisdom Times or through any advertisements on Wisdom Times.
 
- **The Way We Use Information:**
+ **Nature Of Information Collected And Manner Of Collection**
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you). We use non-identifying and aggregate information to better design our website and to share with advertisers
-  * To administer a contest, promotion, survey or other web site feature
-  * We use return email addresses to answer the email we receive. You can register with our website if you would like to receive our materials as well as updates. Such addresses are not used for any other purpose and are not shared with outside parties.
-  * Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+In the use of Wisdom Times, as you navigate through Wisdom Times, Wisdom Planet may collect different types of information. This information could be either “Personally Identifiable Information” (that is, information that could be used to identify you such as, your name, email address etc.) or “Non-Personal Information” (that is, information that cannot be used to identify you such as the webpages that you have viewed and your usage patterns and which may include information in connection with your participation in courses, including but not limited to your interaction with the course instructor and other users, comments that are posted on course forums, answers/essays that are submitted by you to satisfy course requirements) or “Device Information”(that is, information that is automatically collected about the type of device that is used when the Wisdom Times app is downloaded or the operating system version of Wisdom Times is used, so Wisdom Times know the best application version to provide you with. Wisdom Times neither asks you for access, nor tracks any location based information from your mobile device at any time while downloading or using Wisdom Times).
 
+Wisdom Planet may also collect information about searches you have done on Wisdom Times, advertisements or third party links that you have visited, any emails or other correspondence you have exchanged on Wisdom Times or with Wisdom Planet.
 
+You are responsible for ensuring the accuracy of the Personally Identifiable Information you submit to Wisdom Planet. Inaccurate information may affect your ability to use Wisdom Times, the information you receive when using Wisdom Times, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
 
- **Our Commitment To Data Security** :
+You understand that the information collected by Wisdom Planet, may be collected directly or through tracking of your usage of Wisdom Times. The usage details may include IP addresses, details of your computer equipment, browser, location, connections, any information that Wisdom Planet may collect through the use of cookies and other tracking technologies.  The collection of data may in most cases be automatic.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+“Cookies” are files that would be placed in your system’s hard drive and are intended to improve your experience of Wisdom Times, by enabling Wisdom Planet to track your usage and preference, advertisement and links that you visit and other usage data. Most cookies Wisdom Planet uses are limited to a session, which mean they will be automatically deleted when your session closes.  You may decline these cookies by changing your browser settings, if permitted, however do note that this may impact certain features of Wisdom Times or your experience in using Wisdom Times
 
- **How we use cookies:**
+ **Note:** Advertisements on Wisdom Times may be posted by third-party advertisers, and such third parties may use cookies and other automatic tracking technologies to collect information about you, including but not limited to web behavioural information and patterns. Wisdom Planet neither controls nor takes any responsibility for such third parties, their collection and use of information or their tracking technologies or how they may be used.
 
-We do use cookies to make the site work harder for you, by remembering your preferences and session details. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. A cookie is a small file placed on your computer’s hard drive that enables us to monitor which pages you find useful and which you do not. You may choose to reject these cookies, however, in doing so, you will reduce the functionality of the site. Additionally, Google, as a third party vendor, uses cookies to serve ads on this site. Google uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) to serve ads to readers based on their visit to this and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+You also may provide information to be published or displayed or posted on Wisdom Times, or transmitted to other Users of Wisdom Times or third parties. Any such information is posted or transmitted to other parties at your own risk and will not be monitored by Wisdom Planet for its content or compliance. Please be aware that Wisdom Planet cannot control the actions of other Users of Wisdom Times with whom you may choose to share information with.
 
- **Our Commitment To Children’s Privacy:**
+ **Use of Your Information**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+The information that we collect on Wisdom Times will be used for the purposes of operating Wisdom Times, facilitating your use of Wisdom Times, studying user behavior and for other business purposes of Wisdom Planet including, but not limited to:
 
- **How You Can Access Or Correct Your Information** :
+(i) Ensuring the content from Wisdom Planet is presented in the most effective manner for you and for your computer and mobile device;
 
-You can access all your personally identifiable information that we collect online and maintain at any time. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+(ii) To provide you with information, products or Services that you request from us which we feel may interest you, where you have consented to be contacted for such purposes;
 
- **How To Contact Us:**
+(iii) To carry out obligations arising from any contracts entered into between you and us, including for billing and collection;
 
-Should you have other questions or concerns about these privacy policies, please write to us using[ contact us](http://wisdomtimes.com/contact-us/) form
+(iv) To notify you about changes to Wisdom Planet.
+
+(v) In any other way we may describe when you provide the information.
+
+Except as otherwise provided herein, no Personally Identifiable Information will be disclosed or shared with any third party without your express consent. For the purposes of this policy, Personally Identifiable Information shall mean name; age; gender; bank account information; telephone numbers; location data; email addresses; payment, billing or shipping information.
+
+Please do not include any personal information, Personally Identifiable Information or sensitive personal information unless specifically requested by Wisdom Planet as part of the registration or other applicable processes. If Wisdom Planet determines that any information you have provided or uploaded violates the terms of this Privacy Policy, Wisdom Planet has the right, in its absolute discretion, to delete or destroy such information without incurring any liability to you.
+
+Wisdom Times will not publish, sell or rent your personal information or Personally Identifiable Information to third parties for their marketing purposes without your explicit consent.
+
+Wisdom Times may also use the information for analytical purposes, including but not limited to assessing usage data, usage patterns, estimate audience sizes and other similar activities.
+
+You agree that your personal information may be used to contact you and deliver information or targeted advertisements, administrative notices and any other communication relevant to your use of Wisdom Times. If you do not wish to receive these communications, you can at any time change your profile settings.
+
+ **Disclosure of Your information**
+
+We consider the confidentiality and security of your information to be of the utmost importance. We will use industry standard physical, technical and administrative security measures to keep your User Information confidential and secure and will not share it with third parties, except as otherwise provided in this Privacy Policy, or unless we have good faith belief that such disclosure is necessary in special cases, such as a physical threat to you or others. Because the Internet is not a 100% secure environment we cannot guarantee the security of Personally Identifiable Information, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information over the Internet will be intercepted. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through Wisdom Times are not encrypted.
+
+We may disclose your User Information to our agents, employees, third party advertisers, subsidiaries and affiliates, or to other third party service providers who require the information only for the purposes of operating and maintaining Wisdom Times and for facilitating your use of our Services offered on Wisdom Times.
+
+We will comply with requests and directions of all governmental, law enforcement or regulatory authorities, which it believes in good faith to be in accordance with any applicable law. Such compliance may include providing information of Users, Personally Identifiable Information or any other information available to such agency or authority.  By providing any information on Wisdom Times, you consent to Wisdom Planet providing such information to any governmental, law enforcement or regulatory authorities, upon an order to do so under applicable law, who exercise jurisdiction over Wisdom Planet and Wisdom Times.
+
+ **Data Retention**
+
+Wisdom Planet may retain User information, whether Personally Identifiable, Non- Personal or Device Information, for such length of time as may be required in order for Wisdom Planet to provide the concerned User with Services, comply with legal obligations, resolve any disputes that may arise, enforce its rights arising out of agreements with Users, and/or for such period as may be required by legislation/orders of regulatory authorities to which Wisdom Planet is subject.
+
+ **California Privacy Rights**
+
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2014 will receive information regarding 2013 sharing activities).
+
+To obtain this information, please send an email message to supoort@wisdomtimes.com with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+ **International Privacy Rights**
+
+Wisdom Planet’s websites and mobile applications are operated and managed on servers that may be located and operated in different jurisdictions. By using and accessing Wisdom Times, you consent to the transfer to and processing of personal information on servers that may be located in a jurisdiction different from where you are located, and that the protection of such information may be different than required under the laws of your residence or location.
+
+ **Data Security**
+
+The information that you provide, subject to disclosure in accordance with this Privacy Policy and Terms of Use, shall be maintained in a safe and secure manner.  Wisdom Planet’s databases and information are stored on secure servers with appropriate firewalls owned by Wisdom Planet or by third parties.
+
+As a User of Wisdom Times, you have the responsibility to ensure data security. You should use Wisdom Times in a responsible manner. Do not share your username or password with any person. You are solely responsible for all acts done under the username you are registered under.
+
+Given the nature of internet transactions, Wisdom Planet does not take any responsibility for the transmission of information including the User Information you provide to Wisdom Times. Any transmission of your User Information on the internet is done at your risk. Wisdom Planet does not take any responsibility for you or any third party circumventing the privacy settings or security measures contained on Wisdom Times.
+
+While Wisdom Planet will use all reasonable efforts to ensure that your personal information and other information submitted by you is safe and secure, it offers no representation, warranties or other assurances that the security measures are adequate, safe, fool proof or impenetrable.
+
+ **Accessing and Updating Your Information**
+
+You can change, alter of otherwise modify or update your information at any time by accessing Wisdom Times using your registered username and accessing your user account.
+
+You may also change and/or delete any of the information you have submitted. Do note however, Wisdom Planet reserves the rights to save any usage information and you are not entitled to seek the deletion of the same.
+
+Wisdom Planet at its sole discretion may permit or deny the change of any information, if it is believed the same is required to observe applicable laws.
+
+ **Age restrictions**
+
+Wisdom Times is only intended for users who are competent to contract under applicable law. If you are not of the requisite age you are not to provide any User Information or other information. If it comes to Wisdom Planet’s attention that any User Information or information pertains to an individual who is not competent to contract under applicable law, such User Information or information will be deleted without notice to you.
+
+ **Amendments to the Privacy Policy**
+
+This Privacy Policy is subject to change at Wisdom Planet’s sole discretion. Any changes to the Privacy Policy will be notified by a notice on the home page.
+
+ **Terms of Use**
+
+This Privacy policy shall form a part of the [Terms of Use](http://www.wisdomtimes.com/terms-of-use/ "Terms of Use").
+
+Last Updated: April 25, 2016
