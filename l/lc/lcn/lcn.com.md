@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914035753id_/https%3A//www.lcn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcn.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426045440id_/https%3A//www.lcn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LCN.com
 
@@ -39,10 +39,6 @@ We may use technology to save information on your computer through a session coo
 
 You can usually modify your browser settings to prevent cookies being created/set, however by doing this you will not be able to order from our site.
 
-* * *
-
-## Third parties
-
 #### Trustpilot
 
 We have implemented the Trustpilot automatic feedback service to collect feedback from our customers as part of our commitment to improving our services. Trustpilot will only contact LCN customers for an initial feedback request, unless the customer is a registered user of Trustpilot. The following details are provided to Trustpilot for them to send the feedback request.
@@ -65,8 +61,6 @@ We have implemented the Google remarketing tool. When you browse our website we 
 
 We do not provide Google with any personally identifiable information.
 
-* * *
+## Questions & comments
 
-## Questions & Comments
-
-If you have any questions / comments about privacy, you should use the ticketing system on the [contact us page](https://web.archive.org/contact_us) or send a letter marked FAO: Privacy.
+If you have any questions / comments about privacy, you should use the ticketing system on the [contact us page](https://web.archive.org/contact) or send a letter marked **FAO: Privacy**.
