@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404094718id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getadblock.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426030625id_/https%3A//getadblock.com/privacy) for the most accurate reproduction.*
 
 # AdBlock Privacy Policy
 
-Effective Date: December 30, 2014
+Effective Date: October 2, 2015
 
 This Privacy Policy describes AdBlock's information practices for its website and browser extension. We take your privacy seriously and want you to understand exactly what information we collect, how we use that information, which pieces of information you can request us to remove, and how to contact us about this policy. Please read this policy carefully. Your continued use of the AdBlock extension and/or the AdBlock website constitues your agreement to this policy. 
 
@@ -16,7 +16,9 @@ The AdBlock website collects and stores all information, excluding the credit ca
 
 **Anonymous information**
 
-The AdBlock extension captures anonymous usage information, including but not limited to: current version of the extension, preferred language, Google search text ads opt-in, number of blocked requests, and browser and operating system type. 
+The AdBlock extension captures anonymous usage information, including but not limited to: current version of the extension, preferred language, Acceptable Ads opt-in, number of blocked requests, and browser and operating system type. 
+
+The iOS extension captures connection type (wifi or mobile) in addition to the the data that the browser extension captures. 
 
 **Extension error information**
 
@@ -24,7 +26,7 @@ An error report is automatically sent to AdBlock's servers whenever an error occ
 
 **Server logs**
 
-Logs for general requests made to getadblock.com or its infrastructure are kept for 7 days. These logs include the IP address, browser, operating system, and page address. 
+Logs for general requests made to getadblock.com or its infrastructure are kept for up to 90 days. These logs include the IP address, browser, operating system, and page address. 
 
 Logs for payment processing requests are kept for 90 days. Information in these logs includes IP address, email (if provided), address (if provided), name (if provided), browser type and version, operating system, payment amount, and card type, expiration date, and last four digits of the card if a card is used. 
 
@@ -48,13 +50,13 @@ AdBlock cooperates with all valid United States law enforcement requests and cou
 
 ## External services
 
-AdBlock uses external services that may require you to enter personal information. We currently use Tender (privacy policy [here](http://tenderapp.com/privacy/)) for AdBlock's knowledge base and support system at http://support.getadblock.com. AdBlock has used other services in the past and may use more in the future. We do not control the data on these external services and can not remove or delete the data; any data given to external services is not bound by this policy, and you should read the external service's privacy policy before providing any information. 
+AdBlock uses external services that may require you to enter personal information. We currently use Tender (privacy policy [here](http://tenderapp.com/privacy/)) for AdBlock's knowledge base and support system at http://help.getadblock.com. AdBlock has used other services in the past and may use more in the future. We do not control the data on these external services and can not remove or delete the data; any data given to external services is not bound by this policy, and you should read the external service's privacy policy before providing any information. 
 
 ## Your information choices and options
 
 **Personal information removal**
 
-If you have attempted a payment on the AdBlock website then you can request to have your email and name removed from our system. To do this, please open a private ticket [on our support site](http://support.getadblock.com/) that contains your Order ID or email for the purchase. Please note that AdBlock can only remove information from our own systems and cannot make changes to data that you give to a payment processor. 
+If you have attempted a payment on the AdBlock website then you can request to have your email and name removed from our system. To do this, please open a private ticket [on our support site](http://help.getadblock.com/) that contains your Order ID or email for the purchase. Please note that AdBlock can only remove information from our own systems and cannot make changes to data that you give to a payment processor. 
 
 ## Data security
 
@@ -66,4 +68,4 @@ AdBlock reserves the right to change this policy for any reason, and may make sm
 
 ## Contact
 
-You can always contact us with questions or feedback about our privacy policy [here](http://support.getadblock.com/). 
+You can always contact us with questions or feedback about our privacy policy [here](http://help.getadblock.com/). 
