@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204204621id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426150159id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Denver Post
 
