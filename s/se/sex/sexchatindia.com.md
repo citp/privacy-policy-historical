@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexchatindia.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318213025id_/http%3A//www.sexchatindia.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexchatindia.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426075748id_/http%3A//www.sexchatindia.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Sex Chat India
 
@@ -92,7 +92,7 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the http://www.sexchatindia.com/pagesterms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the http://www.sexchatindia.com/pages/terms.html and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
 
 ******************
