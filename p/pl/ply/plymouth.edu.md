@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003053749id_/https%3A//plymouth.edu/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plymouth.edu privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426055504id_/https%3A//plymouth.edu/policy) for the most accurate reproduction.*
 
 # policy - Plymouth State University
 
