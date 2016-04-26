@@ -1,18 +1,30 @@
-> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224010441id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgiguangzhou.gov.in privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426100926id_/http%3A//www.cgiguangzhou.gov.in/privacy-policy) for the most accurate reproduction.*
 
 # Consulate General Of India
 
+  * #### Consulate News
+
+Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 30th April, 2016 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
+
+[More News](https://web.archive.org/news/index/2)
+
+  * #### Announcements
+
+The BRICS Economic Research Annual Award has been instituted to encourage, recognize and reward economists with an outstanding doctoral dissertation in the areas related to international economics, trade, development and financing. 
+
+[More News](https://web.archive.org/news/index/8)
+
   * #### India News
 
-"Bharat ko Janiye" quiz web portal launched by Ministry of Overseas Indian Affairs. The portal is a Quiz on India aimed at Diaspora youth between 18 to 35 years of age. Website : http://www.bharatkojaniye.in/.
+"Sufism is the voice of peace, co-existence, compassion and equality; a call to universal brotherhood" said Hon'ble PM Modi in his speech at the World Sufi Forum. To view full text of speech, photos and videos of the speech, click more news. 
 
 [More News](https://web.archive.org/news/index/1)
 
-  * #### Consulate News
+  * #### Events organised by Consulate General of India, Guangzhou
 
-Consulate General of India in Guangzhou will be organizing the next Consular Camp in Shenzhen on Saturday, 26th December, 2015 from 1000-1700 hours (with lunch break from 1300-1400 hours) at the premises of Bank of India Shenzhen Branch.
+Consulate is organizing Bhangra and Gidda traditional Punjabi folk dance performances at Foshan on 29th March, 2016 and at Guangzhou on 30th March, 2016. 
 
-[More News](https://web.archive.org/news/index/2)
+[More News](https://web.archive.org/news/index/7)
 
   * #### International Day of Yoga 
 
