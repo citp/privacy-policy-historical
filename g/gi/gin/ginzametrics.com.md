@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315161825id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426091932id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
 
-# GinzaMetrics has a fully disclosed privacy policy | GinzaMetrics
+# GinzaMetrics privacy policy | GinzaMetrics
 
 Your privacy is important to us. Ginzamarkets, Inc. (“Ginzametrics” or “we”) are providing this Privacy Policy (the “Policy”) to describe and explain our online information practices and the choices you can make about the way your information is collected and used. By using [www.ginzametrics.com](http://www.ginzametrics.com/ "www.ginzametrics.com") (the “Site”), our services or our products, you consent to the processing of information as set forth herein. If you create an account for our services (a “Business Customer”), we provide hosted software to relating to each Business Customer’s employees, consumers, patients, students, donors, volunteers, clients, supplies and other business partners (“data subjects”) around the world.
 
