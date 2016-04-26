@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isoftwarereviews.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215130443id_/http%3A//www.isoftwarereviews.com/isoftwarereviews-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isoftwarereviews.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427003236id_/http%3A//www.isoftwarereviews.com/isoftwarereviews-privacy-policy) for the most accurate reproduction.*
 
 # iSoftwareReviews Privacy Policy - iSoftwareReviews
 
