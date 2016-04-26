@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the xnspy.com privacy policy that was archived on 2015-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151104041346id_/http%3A//xnspy.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xnspy.com privacy policy that was archived on 2016-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160426071357id_/http%3A//xnspy.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
         <title>XNSPY Privacy Policy – How and what information is collected</title>
         <base href="http://xnspy.com">
         <meta name="description" content="Privacy Policy governs which information from the usersXNSPY mobile spy app collects, uses, maintains and discloses. It applies to the Site and all products and services offered by XNSPY.">
         <meta name="keywords" content="Privacy Policy, XNSPY, mobile spy app">
-        <link rel="canonical" href="http://xnspy.com/">
+        <link rel="canonical" href="http://xnspy.com/privacy.html">
         <meta charset="utf-8">
         <meta name="robots" content="index, follow">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -17,20 +17,65 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- bxSlider CSS file -->
         <link rel="stylesheet" href="/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/css/main.1445964056.css">
-        <link rel="stylesheet" href="/css/main-md-sm-xs.1445954216.css">
-        <script type="text/javascript" defer="" src="https://salesiq.zoho.com/xnspylivesupport/float.ls?embedname=xnspylivesupport"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+        <link rel="stylesheet" href="js/countdown/jquery.countdown.css">
+        <link rel="stylesheet" href="/css/main.1460744379.css">
+        <link rel="stylesheet" href="/css/main-md-sm-xs.1460744379.css">
+        <link rel="stylesheet" href="/css/mobile-responsive.1460031769.css">
+        <script type="text/javascript" defer="" src="https://salesiq.zoho.com/xnspylivesupport/float.ls?embedname=xnspylivesupport"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             function toggle_full_features(element_to_hide_show, scroll_to_element)
             {
-                if ($('#' + element_to_hide_show).css('display') == 'none') {
-                    $('#' + element_to_hide_show).show();
+                if ($('.' + element_to_hide_show).css('display') == 'none') {
+                    $('.' + element_to_hide_show).show();
                 } else {
-                    $('#' + element_to_hide_show).hide();
+                    $('.' + element_to_hide_show).hide();
                     $('html, body').animate({
-                        scrollTop: $("." + scroll_to_element).offset().top - 100
+                        scrollTop: $("."+scroll_to_element+':visible').offset().top -100
                     });
                 }
             }
+			function buy_now_buttons()
+	{
+		var basic_1 = "checkout.html?app_context=buynow_from_site&typeId=1100#_ga=1.16273264.712898561.1429530688";
+		var basic_3 = "checkout.html?app_context=buynow_from_site&typeId=1200#_ga=1.16273264.712898561.1429530688";
+		var basic_12 = "checkout.html?app_context=buynow_from_site&typeId=1300#_ga=1.209266260.712898561.1429530688";
+		
+		var genders = document.getElementsByName("bnow");
+		for(var i = 0; i < genders.length; i++) {
+			if(genders[i].checked == true) {
+				window.location = eval(genders[i].value);
+			}
+		}
+	}
+	
+	function buy_now_buttons_p()
+	{
+		var premium_1 = "checkout.html?app_context=buynow_from_site&typeId=2100#_ga=1.206505813.712898561.1429530688";
+		var premium_3 = "checkout.html?app_context=buynow_from_site&typeId=2200#_ga=1.16273264.712898561.1429530688";
+		var premium_12 = "checkout.html?app_context=buynow_from_site&typeId=2300#_ga=1.218039120.712898561.1429530688";
+		
+		var genders = document.getElementsByName("bnow_p");
+		for(var i = 0; i < genders.length; i++) {
+			if(genders[i].checked == true) {
+				window.location = eval(genders[i].value);
+			}
+		}
+	}
+	
+	function buy_now_buttons_i()
+	{
+		var icloud_1 = "https://api.ccbill.com/wap-frontflex/flexforms/8a9422e3-e5a9-4c8e-a8c3-b9033b3f7e9f";
+		var icloud_3 = "https://api.ccbill.com/wap-frontflex/flexforms/f71c2a74-551a-48e0-a785-acc43c1cc9ec";
+		var icloud_12 = "https://api.ccbill.com/wap-frontflex/flexforms/4b0a22e7-c76b-41b2-8e50-181dc799ecf0";
+		
+		var genders = document.getElementsByName("bnow_i");
+		for(var i = 0; i < genders.length; i++) {
+			if(genders[i].checked == true) {
+				window.location = eval(genders[i].value);
+			}
+		}
+	}
+
+
         </script>
         <script type="text/javascript">
             (function ($) {
@@ -91,6 +136,7 @@
 
                 document.cookie = "lang=" + param + ";expires=" + expires + ";domain=." + document.domain + ";path=/";
             }
+
         </script>
         <style type="text/css">
             .post h4 a {
@@ -99,22 +145,20 @@
             }
         </style>
         <script> 
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
-	
-        ga('create', 'UA-56127606-1', 'auto', {'allowLinker': true});
-        ga('require', 'linker');    
-        ga('linker:autoLink', ['ccbill.com', 'xnspy.com', 'zoho.com'], true);
-        ga('send', 'pageview'); 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+ga('create', 'UA-56127606-1', 'auto', {'allowLinker': true});
+ga('require', 'linker');    
+ga('linker:autoLink', ['ccbill.com', 'xnspy.com', 'zoho.com'], true);
+ga('send', 'pageview');
+</script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5062751"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5062751&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript></head>
+<body class="home">
+        <!-- header -->
 
-	
-	</script>     </head>
-    <body class="home">
-                <!-- header -->
-
-        <header class="navbar navbar-inverse">
+    <header class="navbar navbar-inverse">
   <div class="container">
 <div class="languagemaincms">
 		<ul class="nav navbar-nav pull-right language">
@@ -178,12 +222,12 @@
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'FAQs');" href="/faqs.html">FAQs</a></li>
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Support');" href="/support.html">Support</a></li>
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Login');" href="http://cp.xnspy.com/">Login</a></li>
-        <li class="active"><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Buy');" href="/buy-now.html">Buy</a></li>
+        <li class="active"><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Buy');" href="/buy-now.html">Buy Now</a></li>
       </ul>
     </nav>
     <!--/.navbar-collapse --> 
-  </div>
-</header>
+  </div><div class="clear"></div>
+</header><div class="clear"></div>
 <header class="navbar navbar-inverse" id="fixed">
   <div class="container">
 <div class="languagemaincms">
@@ -248,16 +292,16 @@
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'FAQs');" href="/faqs.html">FAQs</a></li>
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Support');" href="/support.html">Support</a></li>
         <li><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Login');" href="http://cp.xnspy.com/">Login</a></li>
-        <li class="active"><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Buy');" href="/buy-now.html">Buy</a></li>
+        <li class="active"><a onclick="ga('send', 'event', 'Nav-Top', 'click', 'Buy');" href="/buy-now.html">Buy Now</a></li>
       </ul>
     </nav>
     <!--/.navbar-collapse --> 
-  </div>
-</header>
-        <!-- header --> 
+  </div><div class="clear"></div>
+</header><div class="clear"></div>
+    <!-- header --> 
 
-        <!-- Body content -->
-        <!-- Privacy Policay Area Started -->
+    <!-- Body content -->
+    <!-- Privacy Policay Area Started -->
 <div class="privacy-content">
 <div class="container">
 	<h1 class="h1-heading">PRIVACY POLICY</h1>
@@ -314,11 +358,43 @@
 </div>
 </div>
 <!-- Privacy Policay Area Ended -->
-        <!-- footer -->
-                <footer>
-  <div class="rightimg  affix"><a href="buy-now.html"><img src="/img/en/sticky-btn.png" alt="get 25 % off" height="180" width="60"></a></div>
+    <!-- footer -->
+        <section class="coupn-main"> 
+<div class="left-img-coupn"><span class="coupn-50"></span><span class="off-all-count">OFF</span></div> 
+<i id="cros" class="fa fa-times"></i> 
+
+<h4>Weekend Flash Sale </h4> 
+
+<p>Use This Discount Code</p> 
+
+<div class="coupn-code"></div> 
+
+<div class="counter-main"> 
+
+<div class="toptext"> 
+<ul> 
+<li>Days</li> 
+<li>Hours</li> 
+<li>Minutes</li> 
+<li>Sec</li> 
+</ul> 
+</div> 
+<div id="countdown"> 
+
+<div class="clear"></div>      </div> 
+</div> 
+
+<div class="clear"></div> 
+</section> 
+<div class="rightimg  affix right-fade"><ul class="right-tag"><li class="dis-coude">Discount Code</li><li class="ccode"></li> 
+<div class="right-b-tag">
+<h6 class="right-h6"></h6><span class="off-all">OFF</span></div>
+</ul> 
+</div>
+
+<footer>
   <div class="container footer-menus">
-    <div class="col-md-2 posts col-sm-2">
+    <div class="col-md-2 posts col-sm-2 hidden-xs">
       <h2>XNSPY</h2>
       <ul>
         <!--				<li><a href="#">About Us</a></li>--> 
@@ -328,7 +404,7 @@
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Blog');" href="http://xnspy.com/blog/">Blog</a></li>
       </ul>
     </div>
-    <div class="col-md-3 posts col-sm-3">
+    <div class="col-md-3 posts col-sm-3 col-xs-6">
       <h2>Why XNSPY</h2>
       <ul>
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Cell Phone Parental Control');" href="/parental-control.html">Cell Phone Parental Control</a></li>
@@ -338,7 +414,7 @@
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Cell phone tracker');" href="/cell-phone-tracker.html">Cell phone tracker</a></li>
       </ul>
     </div>
-    <div class="col-md-3 posts col-sm-3">
+    <div class="col-md-3 posts col-sm-3 col-xs-6">
       <h2>Features</h2>
       <ul>
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'WhatsApp Spy');" href="/features/whats-app.html">WhatsApp Spy</a></li>
@@ -348,7 +424,8 @@
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Record Phone Surroundings');" href="/features/record-surroundings.html">Record Phone Surroundings</a></li>
       </ul>
     </div>
-    <div class="col-md-2 posts col-sm-2">
+    <div class="clear-767"></div>
+    <div class="col-md-2 posts col-sm-2 col-xs-6">
       <h2>Quick Links</h2>
       <ul>
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Product Tour');" href="/product-tour.html">Product Tour</a></li>
@@ -357,7 +434,7 @@
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'How to Install');" href="/how-to-install.html">How to Install</a></li>
       </ul>
     </div>
-    <div class="col-md-2 posts col-sm-2">
+    <div class="col-md-2 posts col-sm-2 col-xs-6">
       <h2>Socials</h2>
       <ul>
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Facebook');" href="https://www.facebook.com/XNSPYapp" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a></li>
@@ -371,7 +448,7 @@
   <div class="signature footer-menus">
     <div class="container">
       <div class="row">
-        <div class="col-md-4 col-sm-4"> <a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Logo');" class="footer-img" href="/"><img src="/img/en/grey-logo.png" alt=""></a> © 2015 XNSPY.COM. All Rights Reserved. </div>
+        <div class="col-md-4 col-sm-4"> <a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Logo');" class="footer-img" href="/"><img src="/img/en/grey-logo.png" alt=""></a> © 2016 XNSPY.COM. All Rights Reserved. </div>
         <div class="col-md-6 col-sm-6 paddingleft0">
           <div class="languagemain">
           </div>
@@ -379,12 +456,13 @@
       </div>
     </div>
     <div class="container disclaimer">
+    <div class="hidden-xs">
       <h4>Disclaimer</h4>
       <p>XNSPY is a smartphone and tablet monitoring software designed for parents who wish to monitor their children under 18 years and employers who want to keep track of their employees through company-owned smartphones and tablets. The buyer of the XNSPY software must either own the
         smartphone or tablet or must have written consent from their children or employees. </p>
       <p>Failure to do so is likely to result in violation of
         applicable law and XNSPY will cooperate with the law-enforcing authorities to the full extent. Therefore, it is the responsibility of the buyer to adhere to the local laws of their country or region. The software is only to be used for
-        ethical monitoring purposes.</p>
+        ethical monitoring purposes.</p></div>
       <ul class="legal">
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Terms');" href="/terms.html">Terms</a>&nbsp; | </li>
         <li><a onclick="ga('send', 'event', 'Nav-Bottom', 'click', 'Privacy');" href="/privacy.html">Privacy</a>&nbsp; | </li>
@@ -394,110 +472,240 @@
     </div>
   </div>
 </footer>
-        <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.0.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.11.0.min.js"></script> 
-        <script src="/js/jquery.min.js"></script> 
-        <script src="/js/vendor/bootstrap.min.js"></script> 
-        <script src="/js/ui.js"></script> 
-        <!-- bxSlider Javascript file --> 
-        <script src="/js/jquery.bxslider/jquery.bxslider.min.js"></script> 
-        <!--<script src="js/jquery.appear.js"></script> 
-        <script src="js/jquery.countTo.js"></script> 
-        <script src="js/wow.min.js"></script> --> 
-        <script src="/js/main.1432635634.js"></script> 
-        <script src="/js/wow.min-appear-countTo.js"></script> 
-        <script type="text/javascript" src="/js/jquery.colorbox.js"></script> 
+    <!--<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script> --> 
+        <script type="text/javascript" src="js/jquery.min.js"></script> 
+        <script src="js/ui.js"></script>
+        <script src="js/js.cookie.js"></script>
 
-<!--<script src="js/jquery.parallax.js"></script> --> 
+        <!-- bxSlider Javascript file --> 
+        <script src="js/jquery.bxslider/jquery.bxslider.min.js"></script> 
+        <script src="js/wow.min-appear-countTo.js"></script> 
+        <script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.colorbox.js"></script>
+        <script src="js/countdown/jquery.countdown.js"></script>  
+        <script type="text/javascript" src="/js/main.1457716400.js"></script> 
+        <script type="text/javascript" src="/js/custom-js-cms.1458139979.js"></script> 
 
         <script type="text/javascript">
-            $(document).ready(function () {
+        $(document).ready(function () {
 
-                var $elem = $("#device_search").autocomplete({
-                    source: "index.php?action=search_devices",
-                    minLength: 2, //search after two characters
-                    select: function (event, ui) {
-                        //do something
-                    }
-                }),
-                        elemAutocomplete = $elem.data("ui-autocomplete") || $elem.data("autocomplete");
-                if (elemAutocomplete) {
-                    elemAutocomplete._renderItem = function (ul, item) {
-                        var newText = String(item.value).replace(
-                                new RegExp(this.term, "gi"),
-                                "<span class='ui-state-highlight'>$&</span>");
 
-                        return $("<li></li>")
-                                .data("item.autocomplete", item)
-                                .append("<a>" + newText + "</a>")
-                                .appendTo(ul);
-                    };
+          $.ajax({
+              // url: 'https://xnspy.local',
+              url: 'function_ajax.php',
+              type: 'POST',
+              dataType: 'json',
+              data: {flag: 'get_coupon_credentials'},
+              success: function(data){
+
+                if(data.returns == true){
+
+                  // console.log('page.html line:428');
+                  $(".coupn-code").text(data.coupon_code);
+                  $(".coupn-50").text(data.percentage+"%");
+                  $(".ccode").text(data.coupon_code);
+                  $(".right-h6").text(data.percentage+"%");
+                  var cokkie = Cookies.get('coupon'); 
+
+                  if(cokkie == 1){
+                  $(".rightimg").show();
+					                  $(".coupn-main").hide();
+                  }
+                  else if(cokkie == 2){
+                    
+                  $(".coupn-main").show();
+				                    $(".rightimg").hide();
+                  }
+                  else{
+                    
+                  $(".coupn-main").show();
+                  }
+
                 }
 
 
-
-
-                $("#device_search").click(function () {
-                    $("#compatibility-message").hide();
-                });
-
-                checkCompatibilityAjax = function ()
-                {
-                    $.ajax({
-                        url: 'index.php?action=check',
-                        type: 'POST',
-                        data: new FormData($("#check_compatibility_ajax_form")[0]),
-                        processData: false,
-                        contentType: false,
-                        beforeSend: function () {
-                            //$("#check-compatibility-ajax-ajax-loading").show();
-                        },
-                        success: function (data) {
-                            //$("#check-compatibility-ajax-ajax-loading").hide();
-                            var json = jQuery.parseJSON(data);
-                            $('#compatibility-message').addClass(json['class']);
-                            $('#compatibility-message').html(json['message']);
-                            $("#compatibility-message").show();
-                        }
-                    });
-                }
-
-                $(".youtube").colorbox({iframe: true, innerWidth: "70%", innerHeight: "70%"});
-
+              },
+              error: function(){
+                console.log("i m not working");
+              },
 
             });
-        </script>
-                    <script>(function () {
-                    var _fbq = window._fbq || (window._fbq = []);
-                    if (!_fbq.loaded) {
-                        var fbds = document.createElement('script');
-                        fbds.async = true;
-                        fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                        var s = document.getElementsByTagName('script')[0];
-                        s.parentNode.insertBefore(fbds, s);
-                        _fbq.loaded = true;
-                    }
-                    _fbq.push(['addPixelId', '895036763848135']);
-                })();
-                window._fbq = window._fbq || [];
-                window._fbq.push(['track', 'PixelInitialized', {}]);
-            </script>
-            <noscript>
-            <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=895036763848135&amp;ev=PixelInitialized" />
-            </noscript>
-            <script type="text/javascript">var $zoho = $zoho || {salesiq: {values: {}, ready: function () {
-                        }}};
-                var d = document;
-                s = d.createElement("script");
-                s.type = "text/javascript";
-                s.defer = true;
-                s.src = "https://salesiq.zoho.com/xnspylivesupport/float.ls?embedname=xnspylivesupport";
-                t = d.getElementsByTagName("script")[0];
-                t.parentNode.insertBefore(s, t);
-                $zoho.salesiq.ready = function () {
-                    $zoho.salesiq.tracking.domain("xnspy.com");
-                }
-            </script>
+
+
+          $("body").click(function(event) {
+            $('.coupn-popover').hide();
+          });
+            $("#check_coupen").click(function(event) {
+
+            var plan = $("#plan").val();
+            var text = $( "#plan option:selected" ).text();
+            var price = text.substr(text.indexOf("$") + 1);
+            var coupon = $("#coupen").val();
+            var tt = 'new';
             
+            if(coupon == ''){
+              $('.coupn-popover').text("Enter Coupon");
+                  $('.coupn-popover').show();
+              return false;
+            }
+            $.ajax({
+              // url: 'https://xnspy.local',
+              url: 'function_ajax.php',
+              type: 'POST',
+              dataType: 'json',
+              data: {flag: 'check_coupen',plan: plan, coupon: coupon,price: price,tt: tt},
+              success: function(data){
+
+                if(data.returns == true){
+                  var new_text = text.replace(price,data.amount);
+                  $("#coupon_amount").val(data.amount);
+                  $("#coupon").val(data.coupon);
+                  $("#discounted_amount").val(data.discounted_amount);
+                  
+                  $('#plan option:contains('+text+')').text(new_text);
+                  $('#check_coupen').prop('disabled', true);
+                  $('.coupn-popover').text(data.message);
+                  $('.coupn-popover').show();
+                  // $('#check_coupen').attr('id', 'abc');
+                }
+                else{
+                  $('.coupn-popover').text(data.message);
+                  $('.coupn-popover').show();
+                }
+
+              },
+              error: function(){
+                console.log("i m not working");
+              },
+
+            });
+            
+            
+          });
+
+           var $elem =  $(".device_search").autocomplete({
+		source: "index.php?action=search_devices",
+		minLength: 2,//search after two characters
+		select: function(event,ui){
+			//do something
+			}
+	}),
+			elemAutocomplete = $elem.data("ui-autocomplete") || $elem.data("autocomplete");
+		if (elemAutocomplete) {
+				elemAutocomplete._renderItem = function (ul, item) {
+				var newText = String(item.value).replace(
+						new RegExp(this.term, "gi"),
+						"<span class='ui-state-highlight'>$&</span>");
+		
+				return $("<li></li>")
+					.data("item.autocomplete", item)
+					.append("<a>" + newText + "</a>")
+					.appendTo(ul);
+			};
+		}
+		
+	$(".device_search").click(function() {
+		$(".compatibility-message").hide();
+	});
+	
+	checkCompatibilityAjax = function(form)
+	{	
+		$.ajax( {
+				  url: 'index.php?'+$(form).serialize(),
+				  type: 'POST',
+				  processData: false,
+				  contentType: false,
+				  beforeSend: function(){
+					 $(".check-compatibility-ajax-ajax-loading").show();
+				  },
+				  success: function(data){
+					 $(".check-compatibility-ajax-ajax-loading").hide();
+					 var json = jQuery.parseJSON( data );
+					 $('.compatibility-message').addClass(json['class']);
+					 $('.compatibility-message').html(json['message']);
+					 $(".compatibility-message").show();
+				 }
+			} );
+	}
+
+  // checkdis = function()
+  // { 
+  //      var plan = $("#plan").val();
+  //      console.log(plan);
+
+  //   $.ajax( {
+  //         url: 'home.php',
+  //         type: 'POST',
+  //         data: {flag: 'check_coupen',plan: plan},
+  //         processData: false,
+  //         contentType: false,
+  //         beforeSend: function(){
+  //          $(".check-compatibility-ajax-ajax-loading").show();
+  //         },
+  //         success: function(data){
+  //          $(".check-compatibility-ajax-ajax-loading").hide();
+  //          var json = jQuery.parseJSON( data );
+  //          $('.compatibility-message').addClass(json['class']);
+  //          $('.compatibility-message').html(json['message']);
+  //          $(".compatibility-message").show();
+  //        }
+  //     } );
+  // }
+	populate_prices = function(div_id, months, total_price)
+	{
+		per_month = total_price;
+		if (months > 1) {
+			per_month = ((total_price/months)-0.01).toFixed(2);
+		}
+		
+		per_month += '';
+		price_array = per_month.split(".");
+		price_html = "$"+price_array[0]+"."+"<font size='4px'>"+price_array[1]+"</font>";
+		$("."+div_id+"_per_month").html(price_html)
+	}
+
+            $(".youtube").colorbox({iframe: true, innerWidth: "70%", innerHeight: "70%"});
+
+        });
+		$('.panel-heading').click(function(){elm=$(this);setTimeout("$('html,body').animate({scrollTop: elm.offset().top},500);",370);});
+    </script>
+    
+            <script>(function () {
+                var _fbq = window._fbq || (window._fbq = []);
+                if (!_fbq.loaded) {
+                    var fbds = document.createElement('script');
+                    fbds.async = true;
+                    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(fbds, s);
+                    _fbq.loaded = true;
+                }
+                _fbq.push(['addPixelId', '895036763848135']);
+            })();
+            window._fbq = window._fbq || [];
+            window._fbq.push(['track', 'PixelInitialized', {}]);
+        </script>
+        <noscript>
+        <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=895036763848135&amp;ev=PixelInitialized" />
+        </noscript>
+        <script type="text/javascript">var $zoho = $zoho || {salesiq: {values: {}, ready: function () {
+                    }}};
+            var d = document;
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.defer = true;
+            s.src = "https://salesiq.zoho.com/xnspylivesupport/float.ls?embedname=xnspylivesupport";
+            t = d.getElementsByTagName("script")[0];
+            t.parentNode.insertBefore(s, t);
+            $zoho.salesiq.ready = function () {
+                $zoho.salesiq.tracking.domain("xnspy.com");
+            }
+            
+        </script>
+        
+        
+        
+    
 
 
 <script type="text/javascript">
