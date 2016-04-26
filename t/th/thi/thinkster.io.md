@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkster.io privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320061606id_/https%3A//thinkster.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkster.io privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426082721id_/https%3A//thinkster.io/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Thinkster
 
 ## Privacy Policy
 
@@ -69,6 +69,8 @@ If Thinkster learns of a security systems breach, then we may attempt to notify 
 This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of thinkster.io constitutes your agreement to this Privacy Policy and any future revisions.
 
 For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+
+## 9\. How to Contact Us
 
 If you have any questions about this Privacy Policy or thinkster.io, please contact us at [support@thinkster.io](mailto:support@thinkster.io) or 2443 Fillmore St #380-7122, San Fransisco, CA 94115.
 
