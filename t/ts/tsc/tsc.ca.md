@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905135723id_/https%3A//www.theshoppingchannel.com/go/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426161045id_/https%3A//www.theshoppingchannel.com/go/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Customer Service - TSC - Online Shopping for Canadians
 
