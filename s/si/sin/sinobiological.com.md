@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917032144id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinobiological.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426132258id_/http%3A//www.sinobiological.com/privacy-policy-a-02.html) for the most accurate reproduction.*
 
 # aboutTemplate模版
 
@@ -76,4 +76,4 @@ We may change the Privacy Policy under reasonable circumstances at any time. Cha
 
 ##  Contact information
 
-If you have any questions about this Privacy Policy or requests with regard to the information you provide to us, pleas contact us by email: [order@sinobiological.com](http://www.sinobiological.com/Sino-Biological-Inc-Privacy-Policy-a-106.html)
+If you have any questions about this Privacy Policy or requests with regard to the information you provide to us, pleas contact us by email: [order@sinobiological.com](https://web.archive.org/Sino-Biological-Inc-Privacy-Policy-a-106.html)
