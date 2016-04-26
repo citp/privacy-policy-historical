@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215082711id_/http%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427000605id_/https%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | EDF Energy
 
 ## Privacy and Cookie Policy for www.edfenergy.com (the Website)
 
- **Last updated: 16 November 2015**
+ **Last updated: 4 March 2016**
 
 This Privacy and Cookie Policy tells you how we will use information provided by you or collected about you when you use the Website (which includes, but is not limited to, MyAccount and MyCampus). It also explains what cookies we use on this Website.
 
@@ -63,6 +63,10 @@ We may share your personal information with third parties in the following ways:
 
 
 
+### Email Communications
+
+To unsubscribe from marketing e-mails, simply click on the ‘unsubscribe’ link in the footer of the emails or update your communication preferences by logging in to or registering for MyAccount and going to the About Me section.
+
 ### edfenergy.com Cookies
 
 This section tells you how we use cookies and how you can manage them
@@ -83,3 +87,7 @@ Our website currently uses cookies and some of our third party suppliers use our
 While on this Website your web browser may interact with content from different servers and therefore cookies from other sources may be set on your computer during a visit to this site.
 
 Use the tabs below to view a description of the types of cookie that are used, why they are used and details of the individual cookies.
+
+##  EDF Energy registered address 
+
+EDF Energy Customers plc. Reg. No. 02228297. Registered office is 40 Grosvenor Place, London SW1X 7EN
