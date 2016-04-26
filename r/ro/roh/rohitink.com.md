@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215117id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426231823id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rohitink.com
 
@@ -49,7 +49,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
@@ -87,6 +87,6 @@ Rohit Tripathi,
 Sector 33-B,  
 Chandigarh, India  
 Postal Code: 160030  
-<https://rohitink.com/contact-me/>
+https://rohitink.com/contact-me/
 
 This document was last updated on Feb 15, 2015
