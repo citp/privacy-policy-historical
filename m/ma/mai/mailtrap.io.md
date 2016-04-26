@@ -1,52 +1,6 @@
-> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927181426id_/https%3A//mailtrap.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtrap.io privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426064544id_/https%3A//mailtrap.io/privacy) for the most accurate reproduction.*
 
 # Privacy — Mailtrap
-
-## Railsware Products, Inc. Privacy Policy
-
-#### Who We Are and What This Is
-
-Railsware Products, Inc. (“Railsware”) is the producer and owner of Mailtrap (collectively referred to here as the/our "Software" or the/our "Services"), which are web and mobile based applications that help teams and individuals test their emails.
-
-We take the private nature of your personal information very seriously, and are committed to protecting it. To do that, we've set up procedures to ensure that your information is handled responsibly and in accordance with applicable data protection and privacy laws. We're grateful for your trust, and we'll act that way.
-
-This privacy policy describes what information we collect when you visit our Services, how we use that information, and what choices we offer you to access, update, and control it. This version of the policy is effective as of January 25, 2015.
-
-#### Types of Information
-
-**"Personal information"** is any information that we could use to identify an individual. It does not include personal information that is encoded or anonymized, or publicly available information that has not been combined with non-public information.
-
-**"Sensitive personal information"** is information that meets the "personal information" criteria and also a.) reveals race, ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or b.) concerns health or sex life, information about Social Security benefits, or information on criminal or administrative proceedings other than in the context of pending legal proceedings.
-
-#### How We Collect Information
-
-We collect information two ways: Information we get from your use of our Services, and information you provide to us directly.
-
-**Information we get from your use of the Services** is primarily non-personally-identifying information of the sort that web browsers, servers, and services like Google Analytics* typically make available, such as the browser type, language preference, referring site, and the time of each visit. Other non-identifying information that we might have access to includes how you use the Service (e.g. search queries), your approximate location, cookies, etc.
-
-We collect this non-personally-identifying information in order to better understand how visitors use the Services and, where possible, to improve their experience. For instance, we log the time it takes to run database queries so that we can improve performance. In some cases, we may publicly display information that is not personally identifying in the aggregate, (e.g., by publishing a report on trends in the usage of our Services) or may provide the aggregate data to third parties.
-
-When you use the Services, we also collect potentially personally identifying information in the form of Internet Protocol (IP) addresses, the Uniform Resource Locator (URL) accessed (which may reference the name of a board, card, case, wiki, or organization), and the unique identification number associated with the account. We don't use that information to identify you, with one exception: we may discover, by reviewing log files, that a particular account is using the Services in a way that is degrading the experience for all the Services’ users. If this is discovered, we may look up personally identifiable information associated with that account in order to contact the account owner. We handle and disclose this information in the same way we handle other potentially personally identifying information as described below.
-
-**Information you provide to us directly**. Certain visitors to our Services choose to interact with them in ways that may require them to provide us with personally identifying information. The amount and type of information that is provided depends on the nature of the interaction. For example, we ask visitors who sign up for our Services to provide a real name, username, and email address. Organizations and individuals who engage in financial transactions to purchase paid services are asked to provide additional information, such as the personal and financial information required to process those transactions. In each case, we only collect as much information as is necessary or appropriate given the type of interaction. We do not disclose personally identifying information other than as described below. And you can always refuse to supply personally identifying information, with the caveat that it may prevent you from engaging in certain activities.
-
-If you send us a request, such as emailing us for support, we reserve the right to publish it (absent any personally identifying information) in order to help us clarify or respond to your request or help other users.
-
-In the process of supporting our Services, we may discover personally identifiable information associated with your account. The only personally identifiable information we may discover during the support process without your consent includes your email address and the names of any organizations to which you belong. Any further information will not be discovered without your consent.
-
-In the process of supporting our Services, we may need to investigate the data within your account, including data you have entered into private boards, cases, wikis, etc. If this occurs, we will always request your explicit permission before looking at the data in your account.
-
-A cookie is a small piece of data that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us track visitors' use of the Services and their preferences. If you do not wish to have cookies placed on your computer, you should set your browser to refuse cookies, but should be aware that certain features of our Services may not function properly without them.
-
-If you are outside the United States, you should know that any personally identifiable information you enter into the Services will be transferred out of your country and into the United States, and possibly to other countries. By using the Services, you consent to such transfer and are representing that you have the right to transfer such information outside your country.
-
-We do not collect any personally identifiable information from children under the age of 13. If you believe that a child has provided us with personally identifiable information without the consent of his or her parent or guardian, please contact us at [support@mailtrap.io](mailto:support@mailtrap.io). If we become aware that a child under age 13 has provided us with personally identifiable information, we'll delete it.
-
-#### Information You Give to Other People
-
-This Policy only applies to information collected by Railsware. It does not apply to the practices of companies that we don't own or control, or employees that we don't manage. Please be sure to read the privacy policies of any third-party sites you visit. It is those sites' responsibility to protect any information you give them, so we can't be held liable for their wrongful use of your personally identifying information.
-
-#### How We Use Information We Collect
 
 **Notice** — Notice is what this privacy policy that you're reading is all about. You are reading it, right? It's important! When we collect your personal information, we'll tell you how we're using it, any types of third parties to which we might disclose it, (other than "agents," such as vendors or contractors, who are only processing such information for us or at our direction), and the choices we offer you to limit the use of your information.
 
@@ -95,15 +49,3 @@ All interactions with our Services use the Transport Layer Security/Secure Socke
 **Enforcement** — We will conduct internal audits of our compliance with this privacy policy, including an annual self-assessment. Our employees take your privacy as seriously as we do, and we will take all reasonable measures against any employee found to be in violation of this policy.
 
 If you have any concerns or complaints about how you think we've handled your personal information, please contact [support@mailtrap.io](mailto:support@mailtrap.io). We will work hard to investigate and resolve any complaints you might have.
-
-#### How to Contact Us
-
-If you have any questions about this policy or our site in general, please contact us at [support@mailtrap.io](mailto:support@mailtrap.io)
-
-Written Inquiries can be sent to:
-
-**Railsware Products, Inc.**  
-679 Titicus Road North-Salem,  
-New York 10560, USA
-
-* Google Analytics is a registered trademark of Google, Inc.
