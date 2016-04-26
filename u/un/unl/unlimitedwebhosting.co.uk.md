@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unlimitedwebhosting.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317183831id_/https%3A//www.unlimitedwebhosting.co.uk/privacy-and-cookies-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlimitedwebhosting.co.uk privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426065623id_/https%3A//www.unlimitedwebhosting.co.uk/terms/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Unlimited Web Hosting UK
+# Privacy and Cookies Policy - Unlimited Web Hosting
 
 Unlimited Web Hosting UK Limited ("we", "us" or "our") is committed to protecting and respecting your privacy. We own and operate the Website.
 
@@ -16,7 +16,7 @@ When you visit the Website, you may have done so having accessed one of the foll
 
 By accessing any of the above domain names, you will be guided to the Website. This Privacy and Cookies Policy applies to all use of the Website, regardless of which of the above domain names you use to gain access to the Website.
 
-This Privacy and Cookies Policy (together with our [Terms of Use](https://www.unlimitedwebhosting.co.uk/terms-of-use.php) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy and Cookies Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy and Cookies Policy (together with our [Terms and Conditions](https://web.archive.org/terms-and-conditions.php) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy and Cookies Policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 We will only use your personal data in the manner set out in this Privacy and Cookies Policy. We will only use your personal data in a way that is fair to you. We will only collect personal data where it is necessary for us to do so and where it is relevant to our dealings with you. We will only keep your personal data for as long as it is relevant to the purpose for which it was collected or for as long as we are required to keep it by law.
 
@@ -93,7 +93,7 @@ We use information held about you in the following ways:
 
 
 
-We also need to use your contact details and other information for any aspect of the Website (including, without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms of Use](https://www.unlimitedwebhosting.co.uk/terms-of-use.php) and verifying information).
+We also need to use your contact details and other information for any aspect of the Website (including, without limitation, providing customer support, preventing or investigating prohibited activity, enforcing the [Terms of Use](https://web.archive.org/terms-of-use.php) and verifying information).
 
 We may transfer our databases containing your personal information if we sell our business or part of it to an actual or potential purchaser.
 
