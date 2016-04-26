@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newvistalive.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322135634id_/https%3A//www.newvistalive.com/Portal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newvistalive.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426120150id_/https%3A//www.newvistalive.com/Portal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # newvistalive - Privacy-Policy
 
