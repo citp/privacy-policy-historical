@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925123333id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426112407id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at King & McGaw
 
