@@ -1,43 +1,61 @@
-> *The following text is extracted and transformed from the discoverrecipes.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017063518id_/http%3A//discoverrecipes.com/pages/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverrecipes.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427123410id_/http%3A//www.discoverrecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Discover Recipes
+# Privacy Policy – DiscoverRecipes.com
 
-AMM Group Inc. ("AMM") is committed to protecting the privacy of all individuals who utilize our site or services. Please read the following policy to understand how we collect, use and safeguard the information you may provide to us via this site. This statement may be revised from time to time, so please revisit this page often to remain fully informed of our commitment. 
+### 1\. INTRODUCTION
 
-**What Information Does AMM Collect From You?**  
-When you browse our website, you do so anonymously; no personally identifiable information is collected. While you are browsing our site, however, we automatically log your IP address (a number assigned to your computer when you use the Internet) and your activity while using our site. We use the activity information solely to improve your user experience. In addition, parties displaying advertisements on our site may separately collect non-personally identifiable information via "cookies." Cookies are small strings of text that are sent by the advertisements to your browser and then stored by your browser on your computer's hard drive. Also, you may choose to register as a member of our site. If you become a registered member of DiscoverRecipes.com, we collect personal information as provided by registering members. 
+**1.1. PURPOSE OF POLICY.** DiscoverRecipes.com (“us”, “we,” “Company”) is committed to respecting the privacy rights of visitors and other users of DiscoverRecipes.com (the “Site”). We created this Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
-**How Is Your Information Used?**   
-Our Use of Information. We collect, retain, and use the information we collect via our site for legitimate business purposes only, including the following: to monitor site visitor traffic patterns and site usage, to comply with applicable laws, to enforce our Terms of Use, and to protect the rights, property, or safety of AMM, our users, and others. 
+**1.2. NOTICE CONCERNING CHILDREN**
 
-**Sharing Information.**  
-We may share personal information regarding the visitors to our site, with our partners, affiliates or advertisers. In addition, we will disclose information we maintain when required to do so by law, or may disclose such information in response to a request from a law enforcement agency or authority. 
+PLEASE NOTE: We are a general audience site, and do not direct any of our content specifically at children under 13 years of age pursuant to the Children’s Online Privacy Protection Act of 1998.
 
-**Product Purchases.**  
-If you choose to purchase products displayed on our site via third parties' websites accessed through links on our site, you may be required to provide personally identifiable information for the purpose of fulfillment of your order. The privacy of such information is subject to the privacy policies and procedures of those third parties. 
+### 2\. INFORMATION COLLECTION PRACTICES
 
-**Modifications**  
-We strive to maintain the accuracy of any personally identifiable information that may be collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is not accurate. If you wish to make any changes to the information you have provided to us, please contact us at info@DiscoverRecipes.com. 
+**2.1. WHAT BASIC INFORMATION DOES THE COMPANY COLLECT?**
 
-**Children**  
-In compliance with the Childrens Online Privacy Protection Act, 15 U.S.C. �� 6501-06 and 16 C.F.R. �� 312.1-312.12, our site does not permit children under 13 years of age to become users, and we do not collect information from children. By using our site, you represent that you are not under 13 years of age. 
+In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the “contact” page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site. 
 
-**Third Party Web Sites**  
-AMM may reference or provide links to third party websites. We are not responsible for the third party websites, and you should review the privacy policies posted on such sites. Please be aware that AMM does not control, nor are we responsible for, the privacy policies or information practices of third parties or their websites. 
+**2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?**
 
-**Email-a-friend**  
-When you elect to use our referral service for emailing a recipe or other content to a friend, we ask you for your friend's name and email address. DiscoverRecipes.com will automatically send your friend a one-time email on your behalf which contains the recipe or other content, and which invites your friend to visit the Website. DiscoverRecipes.com uses your friend's name and email address only to send this one-time email, and does not store this information. If your friend does not wish to receive "email-a-friend" messages to be sent on your behalf, he or she must contact you directly. DiscoverRecipes.com users may not use our referral service to send unwanted spam to others. 
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-**Acceptance Of These Terms**  
-This General Privacy Statement is incorporated into and subject to the terms of the DiscoverRecipes.com Terms of Use. By using the DiscoverRecipes.com Site, you consent to the collection and use of your information as set forth in this General Privacy Statement. If you do not agree to the terms of this General Privacy Statement, please do not use this site. 
+(b) COOKIES. From time to time, we may use the standard “cookies” feature of major browser applications that allows us to store a small piece of data on your computer about your visit to our Site. Cookies help us learn which areas of our Site are useful and which areas need improvement through programs including, but not limited to, Google Analytics. We may also use cookies from third party social sites and programs including, but not limited to, Facebook, Google Plus and Twitter. You can choose to disable cookies through your browser or independent programs available online. However, if you choose to disable this function, your experience at our Site may be diminished as some features may not work as they were intended.
 
-**Effectiveness**  
-This General Privacy Statement is effective as of November 16, 2006. We reserve the right, at any time, to modify, alter, or update this statement, and any such modifications, alterations, or updates will be effective upon posting. In the event we modify this General Privacy Statement, your continued use of this site in light of changes to this General Privacy Statement will signify your acceptance of the modified General Privacy Statement. 
+(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and advertisements on the Site. Should this occur, you should assume said sponsors and advertisers will be given access to the impressions and click data on their marketing pieces. Your personally identifiable information will never be revealed to them by us. 
 
-**Questions?**  
-Questions regarding this General Privacy Statement should be directed to info@DiscoverRecipes.com. AMM may also be contacted directly at the following address: 
+### 3\. USE AND SHARING OF INFORMATION
 
-AMM Group Inc.  
-864 Grand Ave.  
-Suite 440  
-San Diego, CA 92109 
+**3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?**
+
+(a) PERSONAL INFORMATION. We do not disclose the personally identifiable information to any third parties other than those that we use to facilitate the functioning of the site such as a hosting company and email program for mailings. 
+
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+
+(c) USE OF COOKIES. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose any information we have for you if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of the Site or our company, including the information collected through this Site. If Company or substantially all of its assets are acquired by a third party, user information will be one of the assets transferred to the acquirer.
+
+### 4\. SECURITY
+
+The Site has security measures in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss to you or to any third party arising out of any such loss, misuse, or alteration.
+
+### 5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
+
+**5.1. THIRD PARTY WEBSITES**
+
+From time-to-time, the Site may contain links to other websites. If you choose to visit those websites, it is important to understand our privacy practices and terms of use do not extend to those sites. It is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their practices.
+
+### 6\. CONTACT INFORMATION AND POLICY UPDATES
+
+**6.1. CONTACTING US**
+
+If you have any questions about this Policy or our practices related to this Site, please feel contact us using the “Contact” link on the menu located at the top of the site. 
+
+**6.2. UPDATES AND CHANGES**
+
+We reserve the right, at any time, to add to, change, update, or modify this Policy to reflect changes in our Privacy Policy. We shall post any such changes on the Site in a conspicuous area. You may then choose whether you wish to accept said policy changes or discontinue using the Site. Any such change, update, or modification will be effective 30 days after posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+(a) If you have signed up for email communications from us, we will notify you of the privacy policy changes by email as well. 
