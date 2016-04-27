@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avenue.io privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723104343id_/https%3A//avenue.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue.io privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428010118id_/https%3A//avenue.io/privacy) for the most accurate reproduction.*
 
 # Avenue.io
 
@@ -16,7 +16,7 @@ Avenue.io will collect information of three types about you: (1) Personal Inform
 
   * Personal Information refers to information that you provide us directly (i.e. through the forms on the site). This includes but is not limited to your name, photo, your date of birth, your e-mail address, your country, your interests, your profile information, etc.
   * Web Site Information is information that Avenue.io collects about you during use of the Website. This can be information obtained from posts on your profile pages, your private messaging, and other account activity. It may also be collected about you from the messages and posts and account activity of others regarding you. It also includes information like your browser type and IP address. We may use "cookies" to help us store and collect other information based on your browsing.[1]
-  * When you register as a [Registered User](https://web.archive.org/terms), Avenue.io will enable you to provide us with your login information for various third party sites (including but not limited to Empire Avenue, Facebook, Twitter, Flickr and your Blog site). Avenue.io will then access your account and gather all necessary information from these third party sites as dictated by your Privacy Settings on those sites and as required in providing analytics, scores, recommendations and share prices. This information is called Third Party Information. 
+  * When you register as a [Registered User](https://web.archive.org/terms), Avenue.io will enable you to provide us with your login information for various third party sites (including but not limited to Empire.Kred, Facebook, Twitter, Flickr and your Blog site). Avenue.io will then access your account and gather all necessary information from these third party sites as dictated by your Privacy Settings on those sites and as required in providing analytics, scores, recommendations and share prices. This information is called Third Party Information. 
 
 
 
@@ -28,7 +28,7 @@ Avenue.io does not knowingly collect or solicit personal information from anyone
 
 #### Internal Use of Information
 
-When you use Avenue.io, certain information you post or share with third parties (e.g., a friend or someone in your network), such as Personal Information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the [Privacy Settings](https://web.archive.org/account?privacy) you select. Information regarding your network scores and your Empire Avenue virtual stock price may be shared and searchable to services and users outside of Avenue.io.
+When you use Avenue.io, certain information you post or share with third parties (e.g., a friend or someone in your network), such as Personal Information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the [Privacy Settings](https://web.archive.org/account?privacy) you select. Information regarding your network scores and your Empire.Kred virtual stock price may be shared and searchable to services and users outside of Avenue.io.
 
 In addition to this, Avenue.io reserves the right to access, utilize, and reproduce personal information it collects about you, though it will obey any restrictions set up in your [Privacy Settings](https://web.archive.org/account?privacy).
 
