@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstartv.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807165931id_/http%3A//www.morningstartv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstartv.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427053836id_/http%3A//www.morningstartv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MorningStar TV
 
