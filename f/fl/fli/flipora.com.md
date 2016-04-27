@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipora.com privacy policy that was archived on 2015-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151130002651id_/http%3A//feedshare.flipora.com/new/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipora.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428001502id_/http%3A//feedshare.flipora.com/new/privacy.html) for the most accurate reproduction.*
 
 # Flipora - Terms of Service and Privacy Policy
 
@@ -24,7 +24,7 @@ If you have any questions about this Privacy Policy, the practices of this websi
 
 If you would like access to your personal information to correct, update, or delete it, please contact us at [support@flipora.com](mailto:support@flipora.com).
 
-Infoaxe is located at 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085. You can cancel your Flipora account, unsubscribe from all emails by following the instructions [here](https://web.archive.org/web/20151130002651id_/http%3A//feedshare.flipora.com/new/cancelAccount.html). To uninstall the addon, follow the instructions [here](http://blog.flipora.com/2013/12/06/how-to-uninstall-flipora/).
+Infoaxe is located at 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085. You can cancel your Flipora account, unsubscribe from all emails by following the instructions [here](https://web.archive.org/web/20160428001502id_/http%3A//feedshare.flipora.com/new/cancelAccount.html). To uninstall the addon, follow the instructions [here](http://blog.flipora.com/2013/12/06/how-to-uninstall-flipora/).
 
 Infoaxe Inc's application Flipora 2.0 is certified as a Trusted Download Program by TRUSTe signifying that the Flipora application has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the Flipora application, please contact us at Infoaxe Inc., 440 N Wolfe Rd MS#153, Sunnyvale, CA 94085 or by email at [support@flipora.com](mailto:support@flipora.com). If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=510&sealid=112). The TRUSTe Trusted Download program covers only Flipora application and does not cover other applications such as mobile versions, Facebook or Twitter apps.
 
