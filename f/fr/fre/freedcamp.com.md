@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedcamp.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906202745id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/vvaab%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedcamp.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427045646id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/vvaab%23privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service
 
@@ -139,7 +139,7 @@ Freedcamp may disclose any information we have about you(including identity) if 
 
 If Freedcamp ever take legal action against you as a result of your violations of our Terms and Conditions, Freedcamp is entitled to recover from you all attorney fees and cost of legal action including any damages and fees incurred by Freedcamp. Freedcamp is not liable for you or any third party as a result of your Account termination due to your violation of our Terms and Conditions.
 
-This Privacy Policy governs the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users (each, a "User") of the [](http://www.freedcamp.com/)[](http://www.freedcamp.com/)[http://www.freedcamp.com](http://www.freedcamp.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC..
+This Privacy Policy governs the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users (each, a "User") of the [](http://www.freedcamp.com/)[http://www.freedcamp.com](http://www.freedcamp.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC..
 
 ## Personal  Identification Information
 
@@ -192,7 +192,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [Freedcamp](http://www.freedcamp.com/)
 
-[](http://www.freedcamp.com/)[](http://www.freedcamp.com/)[http://www.freedcamp.com](http://www.freedcamp.com/)
+[](http://www.freedcamp.com/)[http://www.freedcamp.com](http://www.freedcamp.com/)
 
 3066 Foothill Rd Santa Barbara, CA 93105
 
