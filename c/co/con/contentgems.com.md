@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentgems.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908040952id_/https%3A//contentgems.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentgems.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427060738id_/https%3A//contentgems.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # ContentGems
 
@@ -66,4 +66,4 @@ Our Services contains links to other websites and online services. If you choose
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at contact@contentgems.com.
+If you have any questions about this Privacy Policy, please contact us at [contact@contentgems.com](mailto:contact@contentgems.com).
