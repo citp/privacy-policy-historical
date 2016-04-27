@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccworldcuplivescore.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226113438id_/http%3A//iccworldcuplivescore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccworldcuplivescore.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427203818id_/http%3A//iccworldcuplivescore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Buzz !
 
@@ -59,9 +59,3 @@ http://iccworldcuplivescore.com/
 
 Delhi  
 India
-
-#### Incoming search terms:
-
-  * Dhara dhara sa(yoyo singar) video
-
-
