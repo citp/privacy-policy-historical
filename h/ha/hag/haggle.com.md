@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haggle.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106005238id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haggle.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427225746id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
