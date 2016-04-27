@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lkqcorp.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910152344id_/http%3A//www.lkqcorp.com/en-us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkqcorp.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427151533id_/http%3A//www.lkqcorp.com/en-us/Privacy) for the most accurate reproduction.*
 
-# LKQ Corporation | Provider of aftermarket and recycled auto parts
+# LKQ Corporation | Auto Parts, Aftermarket, Recycled
 
 LKQCorp is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the LKQCorp Web site and governs data collection and usage. By using the LKQCorp website, you consent to the data practices described in this statement.
 
