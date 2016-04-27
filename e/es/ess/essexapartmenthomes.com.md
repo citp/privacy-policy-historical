@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929210727id_/http%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essexapartmenthomes.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428000952id_/http%3A//www.essexapartmenthomes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essex Apartment Homes
 
@@ -13,7 +13,7 @@ This web site (the “Web Site”) is provided by Essex.  Unless specifically s
 
 ## What Information Does Essex Gather About Me?
 
- **Information You Provide**
+**Information You Provide**
 
 We collect from you certain Personal Information you voluntarily provide in order to deliver the best possible service.  For example, you may be asked to provide Personal Information  when you fill out and submit forms (such as forms requesting information needed to consider you for apartment rentals or potential employment opportunities), when you initiate payments to us through the Web Site, when you participate in promotions, contests, or sweepstakes on the Web Site, when you post to any interactive forum, bulletin board, chat room that we may make available on the Web Site, when you register for email communications, and when you submit a survey response, question or request to the Web Site using a form or the email address links on the Web Site.  If you choose to schedule a tour, request more information or seek potential employment, we may ask you to provide us with information necessary to contact you or mail you information including without limitation your name, physical address, telephone number and email address.  We may collect your email address so that we can send you information you have requested. We may use your email address to inform you about current events or to send you updates regarding information that was previously sent to you.
 
@@ -86,7 +86,7 @@ This privacy statement applies only to Personal Information collected by this We
 
 ## Framing
 
-This Web Site may utilize framing techniques to make it appear that the user is still on the Web Site when the user is actually on a third party Web site.  For example, if you are on a page that has the look and feel of [www.essexapartmenthomes.com,](http://www.essexapartmenthomes.com%2C/) but the URL listed in your browser is a different URL than [www.](http://www/) essexapartmenthomes.com, then know that any information you provide is being collected by this third party and not governed by this Privacy Policy.  We encourage you to read the privacy statements of each and every web site that collects personally identifiable information.
+This Web Site may utilize framing techniques to make it appear that the user is still on the Web Site when the user is actually on a third party Web site.  For example, if you are on a page that has the look and feel of [www.essexapartmenthomes.com,](http://www.essexapartmenthomes.com/) but the URL listed in your browser is a different URL than [www.essexapartmenthomes.com](http://www.essexapartmenthomes.com/), then know that any information you provide is being collected by this third party and not governed by this Privacy Policy.  We encourage you to read the privacy statements of each and every web site that collects personally identifiable information.
 
   
 
@@ -114,7 +114,7 @@ Depending on the functionality associated with the Web Site feature you are usin
 
 ## How does Essex use Personal Information?
 
- **Business Purposes**
+**Business Purposes**
 
 We retain and use Personal Information for the following business purposes: (1) to provide you with services or process transactions that you have requested; (2) to communicate with you regarding information, features or offers that we believe will be of interest to you; (3) to respond to your questions or other requests; (4) to contact you with regard to the Web Site; (5) to process any applications, payments or changes to your account information; (6) to process other information or Personal Information that you submit through the Web Site; (7) to conduct user surveys; (8) to contact you regarding a sweepstakes, contest or promotion in which you have participated, (9) to evaluate your application for employment and (10) to fulfill other purposes disclosed at the time you provide your Personal Information. We may also use the information you provide to improve the Web Site or Essex’s services, to customize your experience on the Web Site, to serve you specific content, or for other business purposes.
 
