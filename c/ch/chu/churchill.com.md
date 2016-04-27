@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918195344id_/http%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchill.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427072237id_/https%3A//www.churchill.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Churchill Insurance UK
 
@@ -128,7 +128,7 @@ Persons (including his or her appointed representatives) pursuing a claim in res
 
 It is vital that the MID holds your correct registration number. It is our responsibility to update your policy to the MID. We fully comply with the agreements in place with the MIB to update your details within seven days; however it is important that you check your policy documents ensuring that the registration number is recorded correctly.
 
-If it is incorrectly shown on the MID you are at risk of having your car seized by the Police. You can check that your correct registration number is shown on the MID at [www.askMID.com](http://www.askmid.com/).
+If it is incorrectly shown on the MID you are at risk of having your car seized by the Police. You can check that your correct registration number is shown on the MID at [www.askmid.com](https://www.askmid.com/).
 
 If the registration number is not shown correctly on your policy documents, or you cannot find your car on the MID, please contact us immediately.
 
@@ -146,9 +146,9 @@ We take security very seriously and we use one of the strongest available securi
 
 *There are two minor problems with Microsoft Internet Explorer. Neither problem has any effect on the actual security in force, but may make it appear to you as if it is not fully secure.
 
-Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <http://support.microsoft.com/support/kb/articles/Q154/6/21.asp>.
+Internet Explorer 4. The padlock symbol does not always appear at the bottom when it should. A full description of this error, number Q154621, is at <https://support.microsoft.com/support/kb/articles/Q154/6/21.asp>.
 
-Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <http://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
+Internet Explorer 5. If you click on the padlock symbol to view the security certificate the following message may be displayed: "This certificate has failed to verify for all of its intended purposes". The other details of the certificate shown are correct. A full description of this error, number Q233479, is at <https://support.microsoft.com/support/kb/articles/Q233/4/79.asp>.
 
 ## Cookies
 
