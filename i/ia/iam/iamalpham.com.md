@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamalpham.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318155956id_/http%3A//www.iamalpham.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamalpham.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427162132id_/http%3A//www.iamalpham.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
