@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007043726id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427193659id_/http%3A//www.spinlife.com/en/Privacy.cfm) for the most accurate reproduction.*
 
-# SpinLife Privacy Policy
+# SpinLife® Privacy Policy
 
-At SpinLife™, we are committed to protecting your privacy both before and after the purchase process. We use the information we collect to process your medical equipment orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
+At SpinLife®, we are committed to protecting your privacy both before and after the purchase process. We use the information we collect to process your medical equipment orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
 **What information do we collect? How do we use it?**
 
@@ -16,7 +16,7 @@ We may personalize your shopping experience by using your purchases to shape our
 
 We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new SpinLife.com services, and special offers we think you'll find valuable. If you would rather not receive this information, visit the registration page to change your preferences. Make sure to change your preferences for each account or e-mail address you have left with us.
 
-**How does SpinLife™ protect customer information?**
+**How does SpinLife ® protect customer information?**
 
 When you place orders we offer the use of a secure server. The information you provide to us is sent via a secure socket layer (SSL) transmission. Furthermore, all of this data is protected against unauthorized access, and is stored with 128 bit encryption on our servers, the strongest industry standard encryption.
 
