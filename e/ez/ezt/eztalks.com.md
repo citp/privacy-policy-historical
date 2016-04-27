@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314230724id_/http%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eztalks.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427235746id_/http%3A//www.eztalks.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-**Privacy Policy**
+Privacy Policy
 
  **Introduction:**
 
@@ -10,7 +10,7 @@ This privacy policy statement applies to EZTalks websites that links to this Sta
 
  **Information We Collect:**
 
-When you register for a EZTalks product, we will need to collect personal information such as first name, surname, street address, email address, telephone number, and when applicable, credit card information. We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, personalizing your experience, or in connection with a job application, surveys or as feedback etc. Information is collected during the use of some of our products as needed to provide the service. We use common Internet technologies, such as cookies and web beacons, to keep track of interactions with our sites and services.
+When you register for a EZTalks product, we will need to collect personal information such as first name, surname, street address, email address, telephone number. We collect personal information for a variety of reasons, such as processing your order, providing you with a newsletter subscription, personalizing your experience, or in connection with a job application, surveys or as feedback etc. Information is collected during the use of some of our products as needed to provide the service. We use common Internet technologies, such as cookies and web beacons, to keep track of interactions with our sites and services.
 
  **How We Use Your Information:**
 
