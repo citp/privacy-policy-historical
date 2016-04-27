@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2015-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151118032449id_/https%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427195712id_/https%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
 
 # LifeTips Privacy Statement
 
