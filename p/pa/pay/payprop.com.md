@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the payprop.com privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412175049id_/http%3A//za.payprop.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payprop.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427091117id_/https%3A//za.payprop.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # PayProp Privacy Policy
+
+[Promotion of Access to Information Act (PAIA)](https://web.archive.org/docs/payprop_paia_manual.pdf "Download the PayProp PAIA Manual")
 
 ## Website Visitors
 
