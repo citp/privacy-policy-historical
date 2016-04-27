@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228061413id_/http%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428004336id_/http%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Bourbon & Boots
 
@@ -57,7 +57,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -69,10 +69,17 @@ By using our site, you consent to our [website’s privacy policy](http://www.fr
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email and update the Privacy Policy modification date below.
 
-This policy was last modified on 6/24/2015
+This policy was last modified on 03/24/2016
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us through our Contact Us Page.
+If there are any questions regarding this privacy policy you may contact us through our Contact Us Page. 
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+
+**Address**
+
+Bourbon & Boots  
+314 N Main St, Suite B  
+North Little Rock, AR 72114  
+(877) 791-8079
