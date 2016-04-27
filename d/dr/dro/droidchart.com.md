@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidchart.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226082525id_/http%3A//droidchart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidchart.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427061654id_/http%3A//droidchart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for DroidChart.com
 
