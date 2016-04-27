@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926162028id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427030730id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy / IPSW Downloads
 
