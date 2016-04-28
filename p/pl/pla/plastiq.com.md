@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906054521id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428154254id_/https%3A//www.plastiq.com/c/privacy) for the most accurate reproduction.*
 
 # Pay for tuition, taxes, utilities and more with credit card
 
@@ -26,7 +26,7 @@ By using the Website or our Services you consent to the use of your Personal Dat
 
 If this Policy raises any further privacy questions, comments, or suggestions or if you wish to request a copy of the Personal Data we hold about you, we encourage you to reach out to us at privacy@plastiq.com. Our policies will continually adjust to the exciting and ever-changing landscape of credit card payments and will be informed by the valuable feedback of our visitors and users.
 
-Please also review the [Terms of Service](https://web.archive.org/terms) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
+Please also review the [Terms of Service](https://web.archive.org/c/terms) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
 
 ### A note for children under 13 years old.
 
