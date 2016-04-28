@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006040811id_/https%3A//www.lastminute.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428182146id_/https%3A//www.lastminute.com.au/privacy) for the most accurate reproduction.*
 
 # lastminute.com.au Privacy Policy
 
