@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinesemov.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813121907id_/http%3A//chinesemov.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesemov.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428194324id_/http%3A//chinesemov.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - chinesemov.com
 
@@ -16,6 +16,8 @@ Cookies
 -Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Our cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are.   
 -The "Help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies.   
 -Third parties may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. 
+
+chinesemov.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
 
 Changes to this Policy  
 This information will be revised or updated if practices change.
