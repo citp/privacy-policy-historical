@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotjar.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915031200id_/https%3A//www.hotjar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjar.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428103445id_/https%3A//www.hotjar.com/privacy) for the most accurate reproduction.*
 
 # Hotjar – Privacy Policy
 
@@ -27,7 +27,7 @@ By evaluating and analyzing feedback and behavioural patterns across a website's
 
 Although this might sound scary, we ensure you that by sharing your behavioural patterns and any other information as described in this policy, with us and with our clients, you would be helping our clients provide you with a better experience and service.
 
-Hotjar is run by Hotjar Ltd, a European startup incorporated in and headquartered in Malta. You can reach out with any questions or feedback by contacting us here.
+Hotjar is run by Hotjar Ltd, a European startup incorporated in and headquartered in Malta. You can reach out with any questions or feedback by [contacting us here](https://web.archive.org/contact).
 
 ### What information we collect:
 
@@ -47,7 +47,7 @@ The following information may be collected through your device and browser:
 
       * your device's IP address (collected and stored in an anonymized format);
       * device screen size;
-      * device type (unique device identifiers) and bowser information;
+      * device type (unique device identifiers) and browser information;
       * geographic location (country only);
       * preferred language used to display the webpage.
     * **Log data**
@@ -114,7 +114,7 @@ Measures include:
 
 ### Choice
 
-You may opt-out from having Hotjar collect your information when visiting a Hotjar website at any time. [Contact us for instructions](https://web.archive.org/contact).
+You may opt-out from having Hotjar collect your information when visiting a Hotjar website at any time by using a ‘Do Not Track’ header. You can read more on how to do that by [clicking here](https://web.archive.org/opt-out).
 
 You may deactivate your Hotjar account and / or unsubscribe from receiving content or offers from us at any time, by [contacting us here](https://web.archive.org/contact).
 
@@ -124,4 +124,4 @@ We may revise this policy from time to time. The most current version of the pol
 
 ### Further Information
 
-If you have any questions about our Privacy Policy or our privacy practices, please [contacting us here](https://web.archive.org/contact). 
+If you have any questions about our Privacy Policy or our privacy practices, please [contact us here](https://web.archive.org/contact). 
