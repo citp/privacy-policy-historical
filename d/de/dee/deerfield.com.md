@@ -1,55 +1,46 @@
-> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170722id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428034019id_/http%3A//deerfield.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# privacy statement from Deerfield.com
+# Deerfield Management > PrivacyPolicy
 
-  
+Please read the following Privacy Policy prior to using the website located at [www.deerfield.com](https://web.archive.org/web/20160428034019id_/http%3A//deerfield.com/www.deerfield.com) (the “Site”). By using or otherwise accessing the Site, you agree to the terms, conditions, policies and restrictions governing the use of the Site, which thus constitute a legal agreement between you and Deerfield Management Company, L.P., a Delaware series limited partnership (Series C) (“Deerfield”). Deerfield may change, suspend or discontinue any aspect of the Site at any time, including the availability of any feature, database or content therein. Deerfield may modify this Privacy Policy without notice to you, and such modified Privacy Policy shall be effective immediately upon posting. IF YOU DO NOT AGREE TO ABIDE BY THIS PRIVACY POLICY, DO NOT USE THE SITE. YOUR CONTINUED USE OF THE SITE FOLLOWING THE POSTING OF ANY CHANGES TO THIS PRIVACY POLICY CONSTITUTES ACCEPTANCE OF SUCH CHANGES. 
 
+This Privacy Policy explains the manner in which Deerfield collects, utilizes and maintains information about visitors to the Site. 
 
-Deerfield.com is firmly committed to protecting the privacy of its customers and those who sample Deerfield.com products. Deerfield.com is the sole owner of the information collected on this site. We will not share, sell, or otherwise distribute the financial or personal information of our customers or those who otherwise provide personal information to sample our products, to any other organizations in any way other than what is disclosed in this document. 
+Collection of Information
 
-This privacy statement discloses the privacy practices for http://www.deerfield.com. If you have questions or concerns regarding this statement, you should first contact the Deerfield.com Privacy Department by email at [privacy@deerfield.com](mailto:privacy@deerfield.com).  In accordance with COPPA, Deerfield.com does not, at any time, knowingly collect information from, or market our products to, children under the age of 13. 
-
-All financial and personal information collected by, and on behalf of, Deerfield.com is held in the strictest confidentiality. Any information, such as an email address, billing and shipping addresses, and other contact information, submitted via a download form, purchase form, beta team registration, or newsletter subscription, remains the sole property of Deerfield.com. If a purchase is made via the Deerfield.com website in a currency other than US Dollars and/or a language other than English, information (such as an email address, billing and shipping addresses, financial details, and other contact information) is collected by our international transaction affiliate element5. This information is used to help us process payment and to send registration information to our customers. 
-
-Further, any third party personally identifiable information, submitted on your behalf by an outside party (e.g. in the case of the "tell-a-friend" feature, or a gift purchase) is treated with the same care as primary information. Any email addresses collected via a third party will be used to send a one time, invitation email. If you decide you do not want to be contacted again by Deerfield.com, you can remove yourself from our mailing lists at [Unsubscribe](http://www.deerfield.com/news/sub_unsub/index.htm). 
-
-If, at any time, Deerfield.com is going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via email. You will have a choice as to whether or not we may use your information in this different manner. In addition, if Deerfield.com makes any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our website notifying users of the change. In some cases when we post the notice we will also email those users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-There are also instances when Deerfield.com will use a "cookie" in order to track website usage. These cookies do not collect personal information and are usually terminated once customers leave the site. These cookies record the time of your visit, the date, the "referring" page that brought you to our site, and the IP address that your ISP has assigned to your computer at the time of your visit. This anonymous information is used to assist us in refining our websites to create a better user experience. 
-
-The information gathered for the Deerfield.com User Forums is completely voluntary. A user need only enter a name and email address. Whether or not this information is displayed on the website is up to the user. This simply provides a means to interact with other Forum Users. This information is not required by Deerfield.com. Any information posted to a Users Forum is considered in the public domain. 
-
-When using online chat programs to speak with Deerfield.com sales and support associates, your correspondence is not broadcast in any way. This is a one-on-one interaction. The screen name is any you choose. These are not logged or recorded. 
-
-Deerfield.com also operates SecureCC, a secure transaction site dedicated to completing secure online orders. When a purchase is made, using a credit card, via the Internet, the transaction will be automatically redirected to SecureCC. All of the Privacy policies of Deerfield.com would apply to SecureCC as well. 
-
-SecureCC uses Public Key Infrastructure (PKI) to make the Internet a safe place to do business. This system integrates a number of different technologies to ensure that the information you transmit remains private and confidential. The typical PKI is made up of: 
-
-  * A certificate authority (CA), who issues and verifies digital certificates. These digital certificates contain information about the public keys that shoppers will use. 
-  * A registration authority (RA), the entity that acts as a verifier for the CA before a digital certificate goes out to a requestor. One (or more) directory where the certificates, and therefore the public keys as well, are stored. 
-  * A system of certificate management 
+  1. _Information collected automatically._ Deerfield may collect information about you using automated methods when you visit the Site. That information may include non-personally identifiable information such as your computer's or mobile device’s IP address or other unique identifier, your domain server, your type of computer or mobile device, your type of web browser, and statistical information regarding the pages that you visit, as well as the items viewed on the Site.
+  2. _Information collected using “cookies”._ Deerfield may collect information about you through cookies. “Cookies” are pieces of information that the Site sends to your device while you are visiting and using the Site. These pieces of information allow the Site to remember important information that will make your use of the Site more useful and efficient. You can choose to have your device warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Safari, Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help Menu to learn the correct way to modify your cookies.
 
 
 
-A company using the PKI system is given a digital certificate. This certificate can automatically tell your browser that the site is a secure and legitimate business. Along with this certificate comes a number of Public Keys. The vendor site gives your computer one of the Public Keys to use during the transaction. Using this Public Key, you are able to send and receive secure information with the vendor by encrypting your data. The real strength of this system is in the Company Key. The vendor has a private key, known only to their system. It is able to decode the information that the Company's Public Keys encrypt. This Company Key is the only tool able to understand the encrypted messages. 
+Tracking
 
-For more details about the security measures on SecureCC, please visit the SecureCC website. 
+The Site does not currently recognize automated web browser tracking method signals, such as “do not track” instructions. You can change your privacy preferences regarding the use of cookies and other technologies through your browser, including blocking all cookies; however blocking all cookies may affect your use of the Site and other websites and services online, and may prevent you from using all the features and elements of the Site and other websites and services.
 
-When a purchase is made via the Internet with a credit card, Deerfield.com uses a third party commerce service to verify credit card details. This company is sent the total price of the purchase, the card number and expiration date, and the cardholders name and billing address. All information transmitted to this third party is sent using SSL (Secure Socket Layer) encryption. Using this method of information encryption further insures the privacy and security of all our customers. This information is used only to verify the account and clear the transaction. 
+Use and Disclosure of Information
 
-In some areas of the website, Deerfield.com may choose to link to another website. We cannot be responsible for any of the content on these external sites. We are also not responsible for the privacy policies in place on that site. We would encourage any user to read and understand the privacy policy of any third party website before searching too deeply into that content. 
+Deerfield may use the general information we collect about your through your use of the Site in the aggregate to better understand general usage of the Site and to improve the Site, our products and services.
 
-To further protect the privacy of our customers, access to information by our employees is restricted within the company. Only select employees with an absolute need to use that information, in order to better serve customers, are able to view any personal details submitted. 
+Deerfield may disclose such Site usage information as follows: (i) to third parties with whom Deerfield works to enhance the Site and services that Deerfield provides; (ii) to respond to a subpoena or court order, judicial process or regulatory inquiry; (iii) to protect or defend against fraud, law suits, claims or other liabilities; (iv) to protect the security of our systems, or to protect our rights or property; (v) in connection with a proposed or actual sale, merger, or transfer of all or a portion of Deerfield’s business; and (vi) to otherwise assist Deerfield in offering products and services.
 
-From time to time, Deerfield.com will request more specific information about our customers. This is done in the form of surveys and is completely voluntary. The information gathered in these surveys helps us determine who our customer base is and what their needs are. By compiling this data we can work to improve customer experiences with the company. 
+Security Measures
 
-Personal information provided by customers, or those who sample Deerfield.com products, is sometimes used to contact individuals regarding new information about Deerfield.com products. Anyone contacted by Deerfield.com with product information can request to be removed from further updates at any time. To be removed from Deerfield.com's mailing list or to modify your information previously provided, please refer to the Corporate website at [Mailing List](http://www.deerfield.com/news/sub_unsub/index.htm)
+Deerfield restricts access to your personal information (if any) to those employees who need to know that information to provide products and services to you. Deerfield maintains generally accepted industry security standards, including physical, electronic and procedural safeguards, to protect your non-public personal information (if any). No method of safeguarding information is 100% secure. While Deerfield uses commercially reasonable efforts to try to ensure the protection of your personal information, Deerfield cannot assure that all such safeguards will be effective.
 
-The same utility that will allow you to unsubscribe from any of our mailing lists will also allow you to change your valid email address. Visit [Mailing List](http://www.deerfield.com/news/sub_unsub/index.htm) , and log in with the email address originally used. From there you may update your email address. 
+Children’s Policy
 
-More than anything, Deerfield.com tries to treat its customers as each one of us would like to be treated. We value our privacy and we value yours, too. It is our goal to make your experience with Deerfield.com a safe and positive one. 
+Deerfield does not allow submissions of personally identifiable information by any person Deerfield actually knows is a child under the age of 13. By submitting information to Deerfield (whether or not through the Site), you represent and warrant that you are not under the age of 13. If Deerfield learns that any personally identifiable information has been submitted by any child under the age of 13, then Deerfield will take the appropriate steps to delete this information. 
 
-For more information on Deerfield.com's privacy policy, please feel free to contact us at: [privacy@deerfield.com](mailto:privacy@deerfield.com) or by calling 989.732.8856. 
+California Privacy Rights
 
-  
+Under California law, if you are a resident of California, you are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes. In response to your written request, we will identify the categories of information shared, if any, and will include a list of the third parties and affiliates with which it was shared, as well as their addresses. If you want to submit such a written request, please submit it by email to kheidelberger@deerfield.com or by U.S. mail at the address set forth below.
 
+Changes to This Privacy Policy
+
+Deerfield reserves the right to change this Privacy Policy at any time and without notice. If Deerfield does change this Privacy Policy, Deerfield will update the “Last Updated” date at the bottom of this Privacy Policy and will post any such modified Privacy Policy on the Site. Any change will be effective immediately upon posting on the Site. You should review this Privacy Policy each time you access the Site to see the most recent version of this Privacy Policy.
+
+Questions About This Privacy Policy
+
+If you have any questions about this Privacy Policy, please call Karen Heidelberger at 212-551-1600 or send an email to Karen Heidelberger at kheidelberger@deerfield.com or a letter to Deerfield Management Company, 780 Third Avenue, 37th floor, New York, New York 10017. 
+
+Last Updated: January 19, 2016
