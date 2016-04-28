@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720161512id_/https%3A//www.sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sertifi.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428231737id_/https%3A//sertifi.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Sertifi Privacy Policy | Sertifi: Electronic Signatures & eSignatures
 
