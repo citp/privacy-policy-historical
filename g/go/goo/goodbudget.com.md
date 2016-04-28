@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907172617id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428053127id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Budget Software | Goodbudget
 
