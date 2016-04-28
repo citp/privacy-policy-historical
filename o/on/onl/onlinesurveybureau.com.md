@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesurveybureau.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502084923id_/http%3A//www.onlinesurveybureau.com/OSBT/Privacy-Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesurveybureau.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428165226id_/http%3A//www.onlinesurveybureau.com/OSBT/Privacy-Policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Internet Research Bureau Private Limited (commonly known "IRB") is an Indian com
 * * *
 
 **Our Commitment**  
-IRB is an online market research data collection company dedicated to provide high quality data to market research firms and other data collection companies. To protect your privacy and confidentiality is IRBâ€™s top priority. The data that IRB collects is only for market research purpose and IRB always reviews or publishes it as an aggregate information (about group). Individual information is never disclosed without your prior consent as it is irrelevant to the research conducted by IRB or IRBâ€™s clients. Registering as a member of Online Survey Bureau doesnâ€™t constitute the consent. Also this information is not disclosed to any other individual directly from IRB.   
+IRB is an online market research data collection company dedicated to provide high quality data to market research firms and other data collection companies. To protect your privacy and confidentiality is IRB's top priority. The data that IRB collects is only for market research purpose and IRB always reviews or publishes it as an aggregate information (about group). Individual information is never disclosed without your prior consent as it is irrelevant to the research conducted by IRB or IRB's clients. Registering as a member of Online Survey Bureau doesn't constitute the consent. Also this information is not disclosed to any other individual directly from IRB.   
 **Personal Identifiable Information**  
 At the time of registration site asks you to provide your basic personal information and once you are registered, it further asks you to update more personal and consumer information which helps us to find suitable surveys for you.  
 
@@ -33,8 +33,8 @@ So that we can invite you to participate in a research survey with the qualifyin
 * * *
 
 **Use of Personal Information**  
-The personal identifiable information collected by IRB is only used for the market research studies and not for any other purposes. We donâ€™t sell or share personal identifiable information of its panel members or the individuals who are not registered with us to any individual or its clients without your prior consent. If personal indefinable information is required in any of the research surveys, there will be a DND Agreement (Do Not Disclose Agreement) signed between IRB and the client to avoid the further usage and dissemination of the data. Also we ask you for your consent to participate in such surveys before sending you to the clientâ€™s end. Participating in such surveys is completely your discretion.   
-**Childrenâ€™s Privacy Policy**  
+The personal identifiable information collected by IRB is only used for the market research studies and not for any other purposes. We don't sell or share personal identifiable information of its panel members or the individuals who are not registered with us to any individual or its clients without your prior consent. If personal indefinable information is required in any of the research surveys, there will be a DND Agreement (Do Not Disclose Agreement) signed between IRB and the client to avoid the further usage and dissemination of the data. Also we ask you for your consent to participate in such surveys before sending you to the client's end. Participating in such surveys is completely your discretion.   
+**Children's Privacy Policy**  
 Children under age of 15 years are not eligible to join IRB panel. If we need responses from the children under age of 15 years, we seek their parents/guardians approval.  
 **Data Validation Policy**  
 We time to time conduct the data validation of our panel members and non-panel members with the help of third party(s) involvement, to ensure the quality of survey data, honesty and integrity of responses and uniqueness of members. We reserve the rights to terminate the membership of any panelist(s) and restrict the user(s) to participate in future surveys from Online Survey Bureau, if any discrepancy is found in the process of data validation. IRB signs the DND Agreement with third party before sharing the personal information of users for the purpose of data validation.  
@@ -54,7 +54,7 @@ Our members can update their personal information anytime they want by Logging i
 **E-mail Opt-In Policy**  
 As soon as you register with Online Survey Bureau, you authorize us to send you the account activation link and once you activate your account by clicking on the link sent in the account activation e-mail, you authorize us to send survey invitations, newsletters, reward information, notifications and company updates to the e-mail address you provided to us at the time of registration.  
 **Opt-Out or Unsubscribe Policy**  
-If you choose to terminate your membership or de-activate your account from Online Survey Bureau, you can do this by simply clicking on the â€œunsubscribeâ€ button in My Accounts section on the website after logging in. The termination will take effect within four business days after the receipt of your notice. As soon as your account is de-activated, you will not be receiving any e-mail from us in future and your record will be deleted from our database. Once you unsubscribe from our site, the balance reward amount will get automatically lapsed.   
+If you choose to terminate your membership or de-activate your account from Online Survey Bureau, you can do this by simply clicking on the "unsubscribe" button in My Accounts section on the website after logging in. The termination will take effect within four business days after the receipt of your notice. As soon as your account is de-activated, you will not be receiving any e-mail from us in future and your record will be deleted from our database. Once you unsubscribe from our site, the balance reward amount will get automatically lapsed.   
 **Change or Modification of Privacy Policy**  
 IRB reserves the right to change its privacy policy anytime. As soon as the privacy policy is changed or modified, it would be updated on the website under privacy policy section so kindly review it time to time. If we make any significant changes in the privacy policy, you will be notified via email.  
 **Security Policy**  
