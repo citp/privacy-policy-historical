@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandcastles.ae privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316061333id_/http%3A//www.sandcastles.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandcastles.ae privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428214145id_/http%3A//www.sandcastles.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Sandcastles.ae
 
