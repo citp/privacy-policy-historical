@@ -1,74 +1,47 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606233359id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429014434id_/http%3A//connexity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connexity
 
-Last modified on: December 17th 2014
+Last modified on: January 22nd 2016
 
-Connexity is committed to consumer privacy and relevant advertising in support of a safe, free Internet experience. Similar to television, radio, newspapers and magazines, most of the content and services you enjoy online are advertising supported, that is why you do not have to pay a subscription to use them. Our goal is to continuously improve the online experience by improving the relevance of advertising in support of free content. Most people agree, given that advertising is here to stay, it should be more relevant to your interests.
+Welcome to the website of Connexity, Inc. (hereinafter: “Connexity”). This policy aims to inform you as to the type, extent and purpose of the collection and use of personal data during your visit our website. If you have any questions, you can contact us at any time by email or by post. You can find our contact information in our Imprint. 
 
-Connexity is at the forefront of making advertising more interesting through audience technology. That’s you, the audience, but we don’t know who you are. We do our best to match ads to your individual interests, but always in an anonymous way. We don’t use personal or sensitive information like name, email address or phone number. To us, you are just a random number, a reference to a browser on a particular computer or other interactive device.
+The information here can be read at any time on our website, at <http://connexity.com/privacy-policy/> or via the link to “Privacy Policy”. 
 
-The cornerstone of any relationship is trust, and we believe that full transparency is the only way to earn your trust. Connexity is a new breed of interactive media company, incorporating privacy by design and enhanced notice from inception. We intend to earn your trust by providing details about what we do, how we do it and the choices available to you.
+## Data Controller
 
-Insights powered by Bizrate users, please see the privacy policy found [here](http://about.bizrate.com/privacy-policy).
+The data controller for the collection, processing and use of data in connection with the use of our internet site is Connexity, Inc., 12200 West Olympic Boulevard, Suite 300, Los Angeles, CA 90064, California, USA, Tel: (310) 571-1235. 
 
-## What we do and why we collect data
+## General
 
-Connexity conducts business with advertisers (those who sell products and services, create the ads and buy the ad space) and publishers (those who provide the free content and services and sell the ad space). We are an intermediary in this process. Given lots of ads and lots of ad space, we provide technology that strives to match up the ads with the ad space and deliver the best ad at the best time. We improve performance for the advertiser and the publisher by reducing the clutter of ads that are not interesting to you.
+The use of our website does not require any prior registration and/or other provision of personal data. Whilst you are visiting our website, we collect and process information which is automatically sent to us by you (see clause 3) and/or personal data which you send to us voluntarily, in particular via our contact form (see clause 4) or when ordering our newsletter
 
-Our approach to this is based on many variables, most of which involve the collection of data from things like IP address, browser settings and browsing activity on the websites we work with (the network). The data is individualized to provide the best user experience through the most relevant ads, but remains strictly anonymous, confidential, and is never reviewed by a person. All of our technology uses computer algorithms to match ads to audience. We target these audiences directly or make them available to third parties. Aggregate data is shared in report format with our clients as a normal course of business.
+## Automatically collected data during visits to the website
 
-## How we collect data
+When you visit our website or use our services, the device and the internet browser you are using to access the site automatically send log files to our servers. These log files contain, in particular, the name of the file accessed (internet page), the volume of data transmitted, the type and version of the browser used, the operating system (type and version), the date and time of the visit, the referrer URL (website containing the link through which you arrived at our site) as well as the IP address of the requesting computer. Once it is no longer technically required for the provision of access to the website, the IP address is only stored for statistics purposes in an abbreviated (anonymized) form. 
 
-We only collect data from websites we have a business relationship with. We anonymously collect data over time and across the network. We also use anonymous data from third party data providers who are contractually obligated to adhere to comparable privacy principles. This additional anonymous data is used to improve our audience database and make ads more interesting to you.
+The aforementioned, automatically transmitted data is collected and analyzed solely for the purpose of enabling a normal and optimized presentation of the information and for the purpose of statistical analysis. It is not possible for us to associate the data transmitted to the server with specific natural persons, i.e. it is not possible to identify you directly on the basis of the data transmitted automatically. However, we advise you that it is theoretically possible, with the assistance of your access provider and for a certain time, to identify the owner of the internet connection through which you access our website, on the basis of the communicated IP address. Your access provider can inform you of the length of time they store and use associated IP addresses. 
 
-Connexity uses a number of common technologies to identify devices that have been on the network before. These include HTTP cookies, HTML5 cookies, browser cache and entity tags. These are collectively called “persistence files” and are only used to synchronize the browser session with our server-side audience database. When you voluntarily Opt-Out of receiving behaviorally targeted advertising from Connexity, we also use these persistence tools to maintain your Opt-Out state indefinitely.
+## Contact form 
 
-## What data we collect
+You have the possibility of communicating with us via the contact form available on our website. The use of that contact form as well as the provision of personal data on that form is, naturally, wholly voluntary. Any personal data communicated by you in that way will be used for the sole purpose of processing your enquiry, insofar as you have not expressly consented to a use beyond that purpose. 
 
-All audience data is anonymous, and relates to a device rather than a person. Connexity collects a number of types of anonymous session data including approximate geographic location from IP address, browser type, primary language, websites visited, ads clicked on and actions taken with our advertising partners. Additionally, if you access the network from a mobile device, we may collect a unique device identifier, device type, carrier and location information if you have opted in and chosen to share that data with your carrier or a mobile application. We retain collected data for up to 10 years, and aggregated data indefinitely, to continuously improve our technology and services.
+## Newsletter
 
-## What data we DO NOT collect
+On our website, you have the possibility of registering to receive our Newsletter or email update, which is sent out monthly by email. This communication contains information and news on our products and services. In order to register to receive that newsletter or email, a separate declaration of consent is required, including the provision of an email address, which is stored solely for the purpose of sending the newsletter to the specified address. The consent to store and use the email address for the purpose of sending the publication may be revoked at any time by the person concerned, directly via a link at the end of every newsletter, via the Connexity website or by sending a message to Connexity. 
 
-**Connexity does not collect, buy, sell, share or use Personally Identifiable Information (PII) about consumers such as name, address, telephone number, email address, or any other data used, or intended to be used, to identify or contact a person.**  The only PII we collect is done in the normal course of business directly on this website from advertisers and publishers who are our clients.
+## Disclosure to third parties
 
-Regarding the websites and products you encounter while browsing the Internet, you should read each of their privacy policies to learn how they collect and use data. If you choose to provide personally identifiable information to an advertiser or publisher who participates in our network, that information is not shared with Connexity.
+Any disclosure to third parties of personal data communicated during use of our website will only occur under observance of the strict requirements of applicable national law. This would only be if you have consented to the disclosure of such data, if we are entitled to such disclosure under the statutory provisions and/or if such disclosure is required on the basis of laws, regulations, official or court orders. Disclosure to third parties for the purposes of advertising will not occur. 
 
-## Consumer choice
+## Links to external websites
 
-Connexity adheres to the principles of the [IAB Member Code of Conduct](http://www.iab.net/public_policy/codeofconduct). To Opt-Out of only Connexity behavioral targeting, please click on the Opt-Out link at right.
+Our website contains links to third party websites. We advise that we have no influence on whether any external website observes the relevant data protection rules. We are responsible as the provider of our own content according to the general laws. We do not accept responsibility for third party content, which is made available via links, and do not adopt their content as our own. 
 
-It is important to understand that opting out does not mean you will no longer see ads. It means ads will no longer be selected based on your interests.  **If you Opt-Out, you may receive   _more  _advertising and it may be  _less interesting  _to you. You can Opt back in at any time.**
+## Access to information, rectification, blocking and erasure
 
-Connexity also participates in the Enhanced Notice program of the [Digital Advertising Alliance](http://www.aboutads.info/) and adheres to the Self-Regulatory Principles for Online Behavioral Advertising (OBA). When required, the program utilizes a clickable icon for behaviorally targeted ads providing both transparency and choice. It links to information about how the ad was targeted, as well as ways to Opt-Out. Participating associations for this program include:
+You have the right to demand information from us, free of charge, as to the personal data we have stored about you, the recipients or categories of recipient to which we have disclosed that data as well as the purpose of storage. Beyond that, you have, where applicable, the right to rectification, blocking or erasure of personal data within the statutory requirements. You can find contact information in the website’s Imprint.
 
-Connexity’s compliance with self-regulation can be monitored by one of several OBA compliance providers at the client’s discretion.
+## Connexity shopping data use in Online Behavioral Advertising (“OBA”)
 
-[TRUSTe](http://www.truste.com/privacy_seals_and_services/enterprise_privacy/trusted-ads.html)
-
-[Evidon](http://www.evidon.com/)
-
-[DoubleVerify – Trust in Advertising](http://www.doubleverify.com/solutions/ad-networks/oba-compliance/)
-
-## A Special Note about the European Union
-
-Connexity complies with the EU and Swiss Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens can learn more here [www.youronlinechoices.com](http://www.youronlinechoices.com/) and should submit inquiries or complaints regarding this Privacy Policy to privacy@connexity.com.
-
-[We self-certify compliance with  
-](https://safeharbor.export.gov/list.aspx)
-
-## Security
-
-We use commercially reasonable safeguards to preserve the integrity and security of all anonymous consumer OBA data. If you are a client of Connexity and you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, we use commercially reasonable safeguards to preserve the integrity and security of your information. We may share advertiser or publisher personal information when we believe such action is appropriate to comply with the law. Anyone who has provided personal contact information through this website may e-mail us at [accounts@connexity](mailto:%20accounts@connexity.com) to update, delete, and/or correct their personal contact information.
-
-## Children’s privacy
-
-Connexity does not knowingly collect information from children under the age of 13. Our services are neither developed for, nor directed at, children. Connexity does not employ or offer targeting towards anyone under the age of 18.
-
-## Notice of changes to the privacy policy
-
-This Privacy Policy may change from time to time. In the event that we make material changes to the Privacy Policy which require either more prominent notification or your explicit consent, we will do so.
-
-## Questions & Comments
-
-Connexity technology, and the way we use it, meets or exceeds all industry standards and legal requirements for protecting privacy online. Questions and comments about our privacy policy, OBA compliance or opt-out procedure should be directed to [privacy@connexity](mailto:%20privacy@connexity.com).
+Connexity believes that relevant advertising is a good thing for consumers, and so we leverage shopping and other data we know about consumer to help power more relevant advertising across the Internet. Our OBA is cookie based and does not collect or use any personally identifiable information. We do collect and share behavioral data (such as what products you viewed, what categories you browsed, or what stores and brands you visited). This information can power both advertising on our own platform as well as advertising on other third party platforms. If you want to learn about ways to opt out of OBA, please visit our [opt out page](http://connexity.com/opt-out/).
