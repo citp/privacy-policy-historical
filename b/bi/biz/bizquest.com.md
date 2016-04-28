@@ -1,25 +1,10 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201143id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428224623id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Statement - BizQuest.com
 
 [Home](http://www.bizquest.com/) > **Privacy Policy**
 
-[ ](https://privacy.truste.com/privacy-seal/LoopNet-Inc-/validation?rid=de6d393c-1c94-4a87-bd83-99d58938c744 "TRUSTe online privacy certification")
-
-Last Updated: January 5, 2015 
-
-BizQuest has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.bizquest.com does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information 
-
-  * The personal information collected and which organization is collecting the information 
-  * How the information is used and with whom the information may be shared 
-  * Choices available to you regarding collection, use and distribution of the information 
-  * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control 
-  * How you can correct any inaccuracies in the information 
-
-
-
-Questions regarding this statement can be submitted via this [contact form](http://www.bizquest.com/support/contact.aspx "Contact Form"). Alternatively, please contact us by mail at BizQuest Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at 888-280-3815.   
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Businesses for sale on BizQuest"). For more information on TRUSTe, please go to [http://www.truste.com](http://www.truste.org/ "TRUSTe"). 
+Last Updated: October 2, 2015 
 
 ##  **BizQuest's Privacy Statement**
 
@@ -33,13 +18,13 @@ BizQuest collects user information from several areas of the BizQuest site inclu
 
 **Use of Information Collected:**
 
-Collected information helps BizQuest better understand its users' needs in order to improve its product and service offerings. Email addresses are used to communicate with members through the BizQuest Buyer, Broker and Franchise Newsletters (weekly or bi-weekly email news summaries); Promotional emails; Partner emails and for site administration purposes. Users may be deleted from LoopNews, Promotional email and Partner email lists at their request. Personal information may be used to contact users for the purpose of research, product development, marketing, or customer service, if the user has opted to receive such communication. User search activity is collected and analyzed and may be utilized by BizQuest in the aggregate or in the abstract for a variety of business purposes. Financial information is used to bill users for products and services purchased. Within BizQuest, only accounting managers have access to the credit card account information. This information is not shared with anyone outside of BizQuest. IP address and cookie log data is analyzed to better understand traffic flows and user preferences. BizQuest may retain the data it collects indefinitely. You may have your personal information deleted or deactivated by sending an email to [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com). You may be asked to confirm your identity. You will receive a response within 10 business days. 
+Collected information helps BizQuest better understand its users' needs in order to improve its product and service offerings. Email addresses are used to communicate with members through the BizQuest Buyer, Broker and Franchise Newsletters (weekly or bi-weekly email news summaries); Promotional emails; Partner emails and for site administration purposes. Users may be deleted from LoopNews, Promotional email and Partner email lists at their request. Personal information may be used to contact users for the purpose of research, product development, marketing, or customer service, if the user has opted to receive such communication. User search activity is collected and analyzed and may be utilized by BizQuest in the aggregate or in the abstract for a variety of business purposes. Financial information is used to bill users for products and services purchased. Within BizQuest, only accounting managers have access to the credit card account information. This information is not shared with anyone outside of BizQuest. IP address and cookie log data is analyzed to better understand traffic flows and user preferences. BizQuest may retain the data it collects indefinitely. You may have your personal information deleted or deactivated by sending an email to [service@bizquest.com](mailto:service@bizquest.com). You may be asked to confirm your identity. You will receive a response within 10 business days. 
 
 **Use of Email Tools:**
 
 You may NOT use the Email the Broker, Email a Listing service or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate BizQuest's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send an email using the Email a Listing to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email, and for us to automatically send your friend a one-time email inviting him or her to visit the site. BizQuest stores this information for the sole purpose of sending this one-time email and for tracking the success of our referral program. We also do not rent or sell these email addresses of un-registered users. 
 
-Your friend may contact us at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com) to request that we remove this information from our database. 
+Your friend may contact us at [service@bizquest.com](mailto:service@bizquest.com) to request that we remove this information from our database. 
 
 **Shared information:**
 
@@ -87,7 +72,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 **Testimonials**
 
-We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why? 
+We post customer testimonials on our web site which may contain personal information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us at [service@bizquest.com](mailto:service@bizquest.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why? 
 
 **Social Media Widgets**
 
@@ -103,7 +88,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 **Public Member Directory**
 
-We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com). 
+We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at [service@bizquest.com](mailto:service@bizquest.com). 
 
 **Opting-out, editing, updating or deleting personal information:**
 
@@ -111,15 +96,15 @@ BizQuest utilizes email as a vital and primary communication channel with regist
 
 Users who do not wish to receive marketing emails including the BizQuest Newsletters, BizQuest Promotional Emails, or Sponsor Emails are requested to contact [BizQuest Client Services](http://www.bizquest.com/support/contact.aspx "BizQuest Client Services"), or select the opt-out option that is available on all email correspondence. Additionally, users may also opt out of Saved Search Email Alerts by returning to the Saved Search section and clicking on the "Remove this Search" button. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. BizQuest occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features. 
 
-If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by emailing our Customer Support at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com) or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personal information changes, or if you no longer desire our service, you may correct, delete or update your personal information by making the change on your member profile page or by emailing our Customer Support at [service@bizquest.com](mailto:service@bizquest.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
-Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription on the BizQuest Web site at http://www.BizQuest.com/myaccount/ three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. Once the cancellation is processed, a confirmation email will be sent via the customer's email account on record with BizQuest. If Customer has a question about a cancellation, Customer should contact [BizQuest Client Services](http://www.bizquest.com/support/contact.aspx "Contact Us") at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com) or at 888-280-3815. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes. 
+Subscriptions will automatically renew using the Customer's current credit card account number unless Customer cancels their subscription on the BizQuest Web site at http://www.BizQuest.com/myaccount/ three (3) days prior to the renewal date to cancel such subscription. All cancellation requests will be processed within five (5) business days. Once the cancellation is processed, a confirmation email will be sent via the customer's email account on record with BizQuest. If Customer has a question about a cancellation, Customer should contact [BizQuest Client Services](http://www.bizquest.com/support/contact.aspx "Contact Us") at [service@bizquest.com](mailto:service@bizquest.com) or at 888-280-3815. The Company reserves the right to change its fees or billing methods at any time. The Company will provide timely notice to the affected Customers of any such changes. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [service@bizquest.com](mailto:service@bizquest.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Notification Procedures:**
 
-BizQuest may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice (including via fax), or through posting of such notice on our website, as determined by BizQuest in our sole discretion. BizQuest reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification as described herein.  BizQuest is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us.  We recommend that you add [bizquestcs@bizquest.com](mailto:bizquestcs@bizquest.com) to your email address book to help ensure you receive email notifications from us. 
+BizQuest may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice (including via fax), or through posting of such notice on our website, as determined by BizQuest in our sole discretion. BizQuest reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification as described herein.  BizQuest is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us.  We recommend that you add [service@bizquest.com](mailto:service@bizquest.com) to your email address book to help ensure you receive email notifications from us. 
 
 **Changes to this Privacy Statement:**
 
