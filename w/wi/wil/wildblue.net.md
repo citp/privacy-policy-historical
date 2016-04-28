@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216031643id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428182635id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
-                                       Exede® Subscriber Privacy Policy
+                                      Exede® Subscriber Privacy Policy
 ViaSat, Inc. and its subsidiaries and affiliates (collectively, “ViaSat,” “we,” “us,” or “our”) respect and value your
                                                                                                                       ®
 privacy. In this Privacy Policy (“Policy”), we describe the information that we obtain about users of ViaSat’s Exede
@@ -27,8 +27,8 @@ SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS
 ACCESS TO YOUR PERSONAL INFORMATION
 CHANGES TO THIS PRIVACY POLICY
 HOW TO CONTACT US
-INFORMATION COLLECTION            	  
-  •         Information You Provide to Us
+INFORMATION COLLECTION
+           Information You Provide to Us
 ViaSat collects personal information from you when you use our Services, create an account with us, request
 information from us, or otherwise contact us. The personal information we collect may include your name, address,
 email address, phone number, account login credentials (such as a username and password), and a credit or debit
@@ -38,7 +38,7 @@ information that we automatically collect when you visit the Sites.
 You may update or change your contact and billing information by calling our customer care number at 1-855-463-
 9333 (Exede Residential customers) or 1-855-313-4111 (Exede Business customers) or accessing our customer
 portals at http://exede.net or https://my.exede.net.
-  •          Information Automatically Collected
+            Information Automatically Collected
 When you use our Sites, we may use cookies, log files, or other similar technologies to conduct analytics of our Sites.
 For example, we may automatically collect certain non-personal information from you such as your browser type,
 operating system, software version, Internet Protocol (IP) address, Internet service provider and platform types. We
@@ -62,14 +62,14 @@ population in order to deliver internet traffic more efficiently.
 
 
                                       Exede® Subscriber Privacy Policy
- •          Information You Post
+           Information You Post
 Any comments or personal information that you post on public pages (such as social media sites), within the Sites or
 otherwise, is publicly available and may be viewed, collected, and used by others, including ViaSat. ViaSat is not
 responsible for the accuracy of any information contained in those postings. When you post on the Exede Internet
 Community forum at community.exede.com, which is hosted by Get Satisfaction, your posts are governed by Get
 Satisfaction’s posted privacy policy, and not this Policy. We generally use the information you provide on that site to
 respond to customer inquiries or otherwise assist our customers.
- •          Cookies and Other Tracking
+           Cookies and Other Tracking
 We and our service providers may use cookies and other tracking mechanisms to track information about your use of
 our Services and may combine this information with other Information we or our service providers collect from you.
 Cookies. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to
@@ -100,10 +100,10 @@ Clear Graphics Interchange Formats (“GIFs”). Clear GIFs are tiny graphics wi
 to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly
 on web pages. In addition, we or our service providers may also use clear GIFs in HTML emails to our customers to
 help us track email response rates, identify when our emails are viewed and track whether our emails are forwarded.
- •          How We Respond to Do Not Track Signals
+           How We Respond to Do Not Track Signals
 While most browsers will allow you to block cookies by enabling a Do Not Track header within the browser, our
 system does not recognize Do Not Track headers. However, we only use cookies as described in this Policy.
-ADVERTISEMENTS AND THIRD PARTY ADVERTISING                   	  
+ADVERTISEMENTS AND THIRD PARTY ADVERTISING
 We may offer promotions through our Services. Some of these promotions may be based on your Information or your
 use of the Services and others may be based on your Information or your use of the Services combined with other
 customer information. We also use third parties such as network advertisers to assist us in displaying our
@@ -118,7 +118,7 @@ sponsors and/or traffic measurement services may use cookies, JavaScript, web be
 Flash LSOs and other technologies to measure the effectiveness of the ads they place for us and to personalize
 advertising content. These third party cookies and other technologies are governed by each third party’s specific
 privacy policy, not this Policy.
-YOUR CHOICES        	  
+YOUR CHOICES
 If, at any time, you would like to stop receiving marketing emails from us, you may follow the opt-out instructions
 contained in any such email or make an opt-out request by visiting www.exede.com/opt-out. Please note that it may
 take up to 10 business days for us to process marketing email opt-out requests. If you opt-out of receiving marketing
@@ -131,45 +131,45 @@ You may opt-out of our collection of the complete URLs you visit by calling us a
 may take up to 10 business days for us to process complete URL opt-out requests. We will honor such requests not
 to collect complete URLs, although we may utilize information about websites that our subscribers visit, in the
 aggregate, for purposes of internal network management and service performance optimization.
-HOW WE USE INFORMATION COLLECTED                  	  
+HOW WE USE INFORMATION COLLECTED
 ViaSat may use the Information we collect from and about you for any of the following purposes:
-  •        To fulfill orders, provide Services and communicate with customers;
-  •        To develop new products or services;
-  •        To respond to your inquiries;
-  •        To market our Services to you and engage third parties to help us market our Services;
-  •        To contact you with information, newsletters and promotional materials from ViaSat or on behalf of our
+          To fulfill orders, provide Services and communicate with customers;
+          To develop new products or services;
+          To respond to your inquiries;
+          To market our Services to you and engage third parties to help us market our Services;
+          To contact you with information, newsletters and promotional materials from ViaSat or on behalf of our
            partners and affiliates;
-  •        To contact you when necessary;
-  •        To troubleshoot your home network and to optimize, troubleshoot, measure and monitor the performance
+          To contact you when necessary;
+          To troubleshoot your home network and to optimize, troubleshoot, measure and monitor the performance
            of our network and Services, including performing de-bugging, measuring service levels and identifying
            loading trends and websites that are statistically significant to our user population in order to deliver internet
            traffic more efficiently;
-  •        To address problems with the Sites or our business;
-  •        To protect the security or integrity of the Sites and our business;
-  •        As described to you at the point of data collection; and/or
-  •        To use and disclose your credit/debit card information or other financial information only to process
+          To address problems with the Sites or our business;
+          To protect the security or integrity of the Sites and our business;
+          As described to you at the point of data collection; and/or
+          To use and disclose your credit/debit card information or other financial information only to process
            payments and prevent fraud.
 Please also note that in accordance with applicable laws, your Information may be stored and used for the purposes
 described in this Policy in the United States or in any other country in which ViaSat or its subsidiaries, affiliates or
 service providers conduct operations.
-INFORMATION SHARING AND DISCLOSURE                     	  
+INFORMATION SHARING AND DISCLOSURE
 ViaSat may send your Information to third parties, including under any of the following circumstances:
-  •        We may disclose your Information to third party vendors, service providers, contractors or agents who
+          We may disclose your Information to third party vendors, service providers, contractors or agents who
            perform functions on our behalf related to the Sites or Services. For example, these providers may help us
            deliver our current Services to new customers or new Services to existing customers.
                                                               3
 
 
-                                       Exede® Subscriber Privacy Policy
- •         We may disclose your Information to outside auditors, professional advisors, potential business transition
+                                      Exede® Subscriber Privacy Policy
+          We may disclose your Information to outside auditors, professional advisors, potential business transition
            partners, and regulators.
- •         If we are acquired by or merged with another company, or in the event of a consolidation or reorganization
+          If we are acquired by or merged with another company, or in the event of a consolidation or reorganization
            involving ViaSat, or if all or a portion of our assets are transferred to another company, or as part of a
            bankruptcy proceeding or as part of a similar transaction, we may transfer the Information to the acquiring
            company or other involved third party.
- •         We may disclose your Information to respond to legal process, such as a subpoena or court order, to
+          We may disclose your Information to respond to legal process, such as a subpoena or court order, to
            comply with the law or to protect our rights in litigation or arbitration.
- •         We may disclose your Information where we believe it is necessary to investigate, prevent, or take action
+          We may disclose your Information where we believe it is necessary to investigate, prevent, or take action
            regarding illegal activities, suspected fraud, situations involving potential threats to the safety or property of
            any person or entity (including ViaSat), or violations of our Customer Agreements or policies..
 DATA SECURITY
@@ -185,12 +185,12 @@ Our Sites and online applications are for the sole use of ViaSat customers in ma
 products and services they receive. If you choose to provide access to certain of your account data to third parties,
 ViaSat cannot be held responsible for any release of account or personal data that occurs as a result of the access
 that you provide to others.
-LINKS TO OTHER WEBSITES           	  
+LINKS TO OTHER WEBSITES
 At times, our Sites may contain links to third party websites or applications, including third party products or
 services. Any access to and use of such linked products or services is not governed by this Policy, but, instead, is
 governed by the privacy policies or terms of use of those third parties, even though some of these other products or
 services may be co-branded with us. We are not responsible for the information practices of such third parties.
-CUSTOMER PROPRIETARY NETWORK INFORMATION                         	  
+CUSTOMER PROPRIETARY NETWORK INFORMATION
 ViaSat collects and maintains certain customer proprietary network information ("CPNI") as part of our Exede Voice
 service. CPNI includes, among other things, how you use the Exede Voice service (for example, calling records) and
 your billing information. Your Exede Voice telephone number, name, and address do not constitute CPNI. Federal
@@ -203,7 +203,7 @@ does not sell or trade your CPNI with anyone outside of ViaSat and those third p
 on ViaSat's behalf related to the performance of the Exede Voice service, except as the law may require or permit or
 you may otherwise authorize. Neither ViaSat, nor any third party to whom ViaSat has provided CPNI, uses CPNI for
 marketing purposes, except as may be permitted by law.
-SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS                       	  
+SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS
 California residents may request a list of all third parties to which we have disclosed certain Information about you for
 the third party’s direct marketing purposes. ViaSat does not currently disclose any Information to third parties for their
 direct marketing purposes.
