@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myitreturn.com privacy policy that was archived on 2015-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151023054929id_/https%3A//myitreturn.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myitreturn.com privacy policy that was archived on 2016-04-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160428070356id_/https%3A//myitreturn.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="utf-8">
@@ -356,8 +356,11 @@
                         <h5>Useful Links</h5>
                         <ul class="list icons list-unstyled">
                             <li><i class="fa fa-caret-right"></i> <a href="https://incometaxindiaefiling.gov.in/e-Filing/Services/KnowYourPanLink.html" target="_blank">Find your PAN</a></li>
-                            <li><i class="fa fa-caret-right"></i> <a href="https://incometaxindiaefiling.gov.in/e-Filing/Services/KnowYourTanLink.html" target="_blank">Find your TAN</a></li>
                             <li><i class="fa fa-caret-right"></i> <a href="https://onlineservices.tin.egov-nsdl.com/etaxnew/tdsnontds.jsp" target="_blank">TDS on sale of Property</a></li>
+                            <li><i class="fa fa-caret-right"></i> <a href="/refund_status.php" target="_blank">Check Refund Status</a></li>
+                            <li><i class="fa fa-caret-right"></i> <a href="/rent_receipt_hra.php" target="_blank">Generate Rent Receipts</a></li>
+                            <li><i class="fa fa-caret-right"></i> <a href="/assessing_officer.php" target="_blank">Locate Assessing Officer</a></li>
+                            <li><i class="fa fa-caret-right"></i> <a href="/tax_calculator.php" target="_blank">Income Tax Calculator</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
@@ -367,6 +370,7 @@
                             <li><i class="fa fa-caret-right"></i> <a href="/contactus.php">Contact Us</a></li>
                             <li><i class="fa fa-caret-right"></i> <a href="/faq.php" target="_blank">FAQ's</a></li>
                             <li><i class="fa fa-caret-right"></i> <a href="/feedback.php" target="_blank">Feedback</a></li>
+                            <li><i class="fa fa-caret-right"></i> <a href="http://blog.myitreturn.com" target="_blank">Income Tax Blog</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
@@ -379,7 +383,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        © 2015 Skorydov Systems Private Limited - myITreturn.com. All rights reserved.
+                        © 2016 Skorydov Systems Private Limited - myITreturn.com. All rights reserved.
                     </div>
                 </div>
             </div>
@@ -387,11 +391,11 @@
                 <div class="newsletter">
                     <h4>Newsletter</h4>
                     <p>Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.</p>
-                    <form name="form_subscribe" id="form_subscribe" onsubmit="return subscribe('#form_subscribe'); return false;">
+                    <form name="form_subscribe" id="form_subscribe" onsubmit="return captchaPopup(); return false;">
                         <div class="input-group">
                             <input type="text" class="form-control" name="email_subscribe" id="email_subscribe">
                             <span class="input-group-btn">
-                                <button class="btn btn-default" type="button" onclick="subscribe('#form_subscribe');">Go!</button>
+                                <button class="btn btn-default" type="button" onclick="captchaPopup();">Go!</button>
                             </span>
                         </div>
                     </form>
@@ -458,6 +462,31 @@
             </div>
         </div>
     </div>
+    <div aria-hidden="false" aria-labelledby="defaultModalLabel" role="dialog" id="captcha_form_modal" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"></button>
+                    <span class="modal-title">Enter Captcha Code</span>
+                </div>
+                <div class="modal-body" id="captcha_div">
+                    <form id="form_captcha" onsubmit="checkCaptchaCode('#form_subscribe'); return false;">
+                        <div class="form-group">
+                            <img id="captcha_img" src="/capcha/image.php" alt="CAPTCHA Image">
+                        </div>
+                        <div class="form-group">
+                            <input id="captcha" type="text" placeholder="Enter the number you see above" maxlength="5" required="" class="form-control reg_input" value="" name="captcha">
+                            <span id="errorMsg" style="color:red;"></span>
+                        </div>
+                    </form>    
+                </div>
+                <div class="modal-footer">
+                    <button data-dismiss="modal" class="btn btn-default btn_subscribe" type="button">Cancel</button>
+                    <button class="btn btn-primary btn_subscribe" type="button" onclick="checkCaptchaCode('#form_subscribe');">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <div aria-hidden="false" id="please_wait" class="modal">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -503,7 +532,16 @@
          }
         </script>
     <!--End of Zopim Live Chat Script-->
-    </footer>	
+    	<!--
+			<script type="text/javascript" src="/js/fullstory.js" ></script>
+		<script type="text/javascript" >
+			FS.identify('10.150.26.27', {
+				displayName: '10.150.26.27',
+				email: '10.150.26.27'
+			});
+		</script>
+		-->
+</footer>	
 <!-- Vendor -->
 <script src="https://myitreturn.com/js/outer/jquery.js"></script>
 <script src="https://myitreturn.com/js/outer/jquery.appear.js"></script>
@@ -531,7 +569,7 @@
 <script src="https://myitreturn.com/js/outer/custom.js"></script>
 <!-- Theme Initialization Files -->
 <script src="https://myitreturn.com/js/outer/theme.init.js"></script>
-<script src="https://myitreturn.com/js/outer/newsletter.js?v=0.0.1"></script>
+<script src="https://myitreturn.com/js/outer/newsletter.js?v=0.0.2"></script>
 
 <script type="text/javascript">
 var blockUI = function(el, centerY) {
