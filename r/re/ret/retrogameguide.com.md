@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrogameguide.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203220933id_/http%3A//www.retrogameguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrogameguide.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428021412id_/http%3A//www.retrogameguide.com/privacy.php) for the most accurate reproduction.*
 
 # Retro Game Guide - Privacy
 
