@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919032408id_/https%3A//www.softsurroundingsoutlet.com/FAQ/Customer_Care/Privacy_Policy_%26_Terms_of_Use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softsurroundingsoutlet.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428203317id_/https%3A//www.softsurroundingsoutlet.com/FAQ/Customer_Care/Privacy_Policy_%26_Terms_of_Use) for the most accurate reproduction.*
 
 # Soft Surroundings - Customer Care - Privacy Policy & Terms Of Use'
 
 **Privacy Policy & Terms of Use**
 
-Last updated: February 25, 2010
+Last updated: February 2, 2016
 
 We appreciate the trust you place in Soft Surroundings, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it. SoftSurroundings.com and SoftSurroundingsOutlet.com are owned by Triad Catalog Co., LLC. Every effort has been made to check our information for accuracy. Descriptive or typographical errors are subject to correction.
 
@@ -20,32 +20,36 @@ Fax: 1-314-521-5780
 **Information We Collect**  
 We may collect the following information: first and last name, street address, city, telephone number, e-mail address and, when necessary, credit card information, when you: 
 
-* Place an order from our catalogs or on our website
-* Make a purchase at one of our retail stores 
-* Return an item or make an exchange 
-* Inquire about our services 
-* Request a catalog 
-* Receive a gift package 
-* Create an account at SoftSurroundings.com or SoftSurroundingsOutlet.com 
-* Subscribe to our e-newsletters or e-mail promotions 
-* Enter a contest or sweepstakes 
-* Are referred to us through a marketing promotion 
-* Participate in a marketing survey, promotion or event 
+  * Place an order from our catalogs or on our website
+  * Make a purchase at one of our retail stores
+  * Return an item or make an exchange
+  * Inquire about our services
+  * Request a catalog
+  * Receive a gift package
+  * Create an account at SoftSurroundings.com or SoftSurroundingsOutlet.com
+  * Subscribe to our e-newsletters or e-mail promotions
+  * Enter a contest or sweepstakes
+  * Are referred to us through a marketing promotion
+  * Participate in a marketing survey, promotion or event
+
+
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. 
 
 **Using Information We Collect**   
 At Soft Surroundings, we always want to provide you with the best possible shopping experience and fulfill your orders exactly as you've requested. In order to do this, we collect information that allows us to: 
 
-* Process and track your order 
-* Provide the services you request 
-* Contact you about the status of an order 
-* Send you catalogs or promotional offers we believe will be of interest to you 
-* Send you e-mail promotions 
-* Identify your product and service preferences 
-* Customize our communications to you 
-* Provide information concerning product recalls or products you have purchased 
-* Improve our merchandise selection and customer service 
+  * Process and track your order
+  * Provide the services you request
+  * Contact you about the status of an order
+  * Send you catalogs or promotional offers we believe will be of interest to you
+  * Send you e-mail promotions
+  * Identify your product and service preferences
+  * Customize our communications to you
+  * Provide information concerning product recalls or products you have purchased
+  * Improve our merchandise selection and customer service
+
+
 
 **Information We Share with Others**  
 We contract with other companies to provide certain services, including credit card processing, affiliate marketing and shipping. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
@@ -101,6 +105,9 @@ We also use cookies and pixel tags (tiny graphic images) to tell us what parts o
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We may share your personally identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, [click here.](http://networkadvertising.org/managing/opt_out.asp)
 
 We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Soft Surroundings.
+
+ **California Privacy Rights**  
+Under California Civil Code Section 1798.83, Soft Surroundings customers living in the State of California can request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For requests, please contact Soft Surroundings via the contact information below.
 
 **How We Use E-mail**   
 When you provide us your e-mail address, we may send you e-mails necessary to process your order or respond to a request. For example, after you place an order at SoftSurroundings.com and SoftSurroundingsOutlet.com, you will receive an e-mail confirmation and, in most cases, an e-mail with delivery tracking information.
