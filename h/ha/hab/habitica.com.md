@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the habitica.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803060449id_/https%3A//habitica.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitica.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428175355id_/https%3A//habitica.com/static/privacy) for the most accurate reproduction.*
 
-# HabitRPG | Privacy
+# Habitica | Privacy
 
 Last updated July 27, 2015  
 (Corrected grammar errors and updated company name)
 
  **PLEASE READ THIS PRIVACY POLICY CAREFULLY.**  
-By accessing or otherwise using habitrpg.com or any sub domains thereto ("the Sites"), or using a habitrpg.com or HabitRPG application on a mobile device ("the Applications"), you agree to be bound contractually by this Privacy Policy. Individually or collectively, the Applications and the Sites may be referred to as the "Services."
+By accessing or otherwise using habitica.com or any sub domains thereto ("the Sites"), or using a habitica.com or Habitica application on a mobile device ("the Applications"), you agree to be bound contractually by this Privacy Policy. Individually or collectively, the Applications and the Sites may be referred to as the "Services."
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -73,7 +73,7 @@ Upon request, we will permit you to request or make changes or updates to your p
 If you supply us with your e-mail address you may receive periodic messages from us with information specific to the Services and required for the normal functioning of the Services as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email.
 
  **13\. Children's Online Policy.**  
-We are committed to preserving online privacy for all of our website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please email us at [admin@habitrpg.com](mailto:admin@habitrpg.com) and be sure to include in your message the same login information that your child submitted.
+We are committed to preserving online privacy for all of our website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please email us at [admin@habitica.com](mailto:admin@habitica.com) and be sure to include in your message the same login information that your child submitted.
 
  **14\. Email And Other Messages Through This Site; ECPA Notice.**  
 This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA.
@@ -84,4 +84,4 @@ If you have any questions regarding this Privacy Policy, please contact the owne
  **HabitRPG, Inc.**  
 11870 Santa Monica Blvd., Suite 106-577  
 Los Angeles, CA 90025  
-Email: [admin@habitrpg.com](mailto:admin@habitrpg.com)
+Email: [admin@habitica.com](mailto:admin@habitica.com)
