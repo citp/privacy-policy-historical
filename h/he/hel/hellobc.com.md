@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216231236id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobc.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428163130id_/http%3A//www.hellobc.com/british-columbia/about-bc/destination-bc-information/legal-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Legal & Privacy Policy | British Columbia | Destination BC - Official Site
 
@@ -133,13 +133,10 @@ Destination British Columbia may, from time to time, review and revise its priva
 
 General questions or comments about our online privacy policy can be directed to:
 
-Angela Scammell, Business Services Manager  
+Dean Skinner, Chief Financial Officer  
 Destination British Columbia  
-1200-510 Burrard Street  
-Vancouver, BC   
-V6C 3A8  
-(604) 660-2861  
-[angela.scammell@destinationbc.ca](mailto:angela.scammell@destinationbc.ca)
+(250) 356-5648  
+dean.skinner@destinationbc.ca
 
 #### Where Can I Find Information on British Columbia's _Freedom of Information and Protection of Privacy Act_?
 
