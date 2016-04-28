@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810230956id_/http%3A//www.japancentre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428024333id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
 
 # Japan Centre - Japanese Food Hall since 1976
 
@@ -8,8 +8,6 @@ We use cookies to give you the best possible experience on our website. Read our
   * PRIVACY POLICY
 
 
-
-## PRIVACY POLICY
 
 ### Japan Centre Privacy & Security Statement
 
@@ -48,7 +46,7 @@ If you do not wish to receive information about our products or services, please
 
 In order to put the goods you want into the correct basket, we must put a cookie onto your computer. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. These cookies are deleted as soon as you leave our site.
 
-### Disclosures
+### Communications and Further Enquiries
 
 You can also stop receiving any information about us and our services by updating your details after creating an account with us.
 
