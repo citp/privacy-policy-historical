@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unifiedremote.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403032754id_/http%3A//www.unifiedremote.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unifiedremote.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428033051id_/https%3A//www.unifiedremote.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy – Unified Remote
 
