@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igodigital.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225015108id_/http%3A//www.exacttarget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igodigital.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428034348id_/http%3A//www.exacttarget.com/privacy-policy) for the most accurate reproduction.*
 
 # ExactTarget Privacy Policy | ExactTarget
 
