@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calgarypubliclibrary.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928161714id_/http%3A//calgary.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgarypubliclibrary.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429005715id_/http%3A//calgary.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Calgary Public Library | BiblioCommons
 
@@ -38,7 +38,7 @@ If you participate in some optional services, for example youth and literacy pro
 
 We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content. We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use. 
 
-If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [My Settings](https://web.archive.org/web/20150928161714id_/http%3A//calgary.bibliocommons.com/info/user/account).
+If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [My Settings](https://web.archive.org/web/20160429005715id_/http%3A//calgary.bibliocommons.com/info/user/account).
 
 BiblioCommons may disclose your personal information and any content associated with your account if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, or (b) enforce the Terms of Use, including investigation of potential violations hereof.
 
@@ -109,7 +109,7 @@ When you contribute content to an individual title, that title is automatically 
 
 ### Can Shared Content be viewed by the public?
 
-Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your [Privacy Settings](https://web.archive.org/user/privacy). In addition, messages sent directly to other users through the service are not publically viewable.
+Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your [Privacy Settings](https://web.archive.org/user/privacy). In addition, messages sent directly to other users through the service are not publicly viewable.
 
 If you are uncomfortable with the idea of sharing content with others, you may decide not to use My Shelves or contribute ratings, comments, guides, or other types of Shared Content. You do not need to create Shared Content in order to use the BiblioCommons Service.
 
