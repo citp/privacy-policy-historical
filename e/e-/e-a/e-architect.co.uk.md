@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204025546id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428220536id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - e-architect
 
@@ -12,7 +12,7 @@ Website Information : Privacy Policy
 
 Please note that your use of this site is governed by the Legal Information available here and elsewhere on the site. By proceeding to access this site, you are deemed to have accepted those terms.
 
-Last updated on 13 March 2014
+Last updated on 28 December 2015
 
 You must read the following information before proceeding. It provides information on some of the laws and regulations applicable to this web site.
 
@@ -22,6 +22,7 @@ This site uses cookies – small text files that are placed on your machine to h
 
 We take the privacy of our customers very seriously and we are concerned to protect your personal data. We believe it is important that you know how we treat the information about you that we receive through this web site. Therefore we will only use your personal information as set out in this Privacy Policy. If you have any questions in relation to the information we hold about you or our use of that information, please feel free to contact us.  
 Google, as a third-party vendor, uses cookies to serve ads on your site.  
+By enabling Google Analytics Advertising Features we enable Google Analytics to collect data about our traffic in addition to data collected through a standard Google Analytics implementation.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
