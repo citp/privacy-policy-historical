@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013194328id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428100328id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
 ### Privacy Policy
 
-**Effective On 09/04/2014**
+**Effective On 11/13/2015**
 
-[](http://privacy.truste.com/privacy-seal/McMillion-Research/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe online privacy certification")
+[](http://privacy.truste.com/privacy-seal/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe Privacy Certification")
 
-This privacy policy applies to [http://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [http://mindfieldline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [http://mindfieldonline.com]() owned and operated by McMillion Research. This privacy policy describes how McMillion Research collects and uses the personal information you provide on our web site: [http://mindfieldonline.com](). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com]().
+The TRUSTe program covers only information that is collected through this website, www.mindfieldonline.com and does not cover information that may be collected through software downloaded from the website and through our mobile application.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 **Email Address:**  
 [privacy@mindfieldonline.com](mailto:privacy@mindfieldonline.com)
@@ -30,13 +32,11 @@ Charleston, WV 25301
 
 *** Please note in any correspondence that the inquiry is in regard to the** [Privacy Policy](http://mindfieldonline.com/page/privacy)
 
-If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
-
 ## Information Collection and Use
 
 **Registration**
 
-To use this website, first complete the registration form and create a user name and password. During registration, you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest such as participating in our surveys.
+To use this website, first complete the registration form and create a user name and password. During registration, you are required to give contact information (such as name, address, date of birth, ethnicity, and email address). We use this information to contact you about the services on our site in which you have expressed interest such as participating in our surveys.
 
 You have the option to provide demographic information (such as income level, gender and zip code). We encourage you to submit this information since omission of this information may hinder your being eligible to participate in certain surveys.
 
@@ -49,12 +49,6 @@ We provide you the opportunity to participate in multiple surveys on our site. W
 **Facebook**
 
 Information obtained via Facebook integration is the sole property of McMillion Research as long as the member chooses to associate the information. The member has complete control within the Facebook application of what information is shared and integration with MindField Online. This information is not required for MindField Online membership. All privacy statements, policies, and business related actions with information obtained via Facebook fall under the same distinctions as the remainder of this privacy policy, in full and in part. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
-
-**Referral System**
-
-If you choose to use our referral service to tell friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. McMillion Research stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-Your friend may contact us at [privacy@mindfieldonline.com](mailto:privacy@mindfieldonline.com) to request that we remove this information from our database.
 
 ## Communications from the Site
 
@@ -80,7 +74,7 @@ As a data collection facility, we share aggregated demographic information about
 
 **Personally Identifiable Information**
 
-We do not share, sell, or rent personally identifiable information with third parties only in the ways that are described in this privacy policy without first providing you notice. Such information is needed for online focus groups and recruitments. If personal information is required, you will be notified before you participate. Your continued participation in the study after this notification acknowledges that you agree to the sharing of your personal information.
+We do not share, sell, or rent personally identifiable information with third parties only in the ways that are described in this privacy policy. Such information is needed for online focus groups and recruitments. If personal information is required, you will be notified before you participate. Your continued participation in the study after this notification acknowledges that you agree to the sharing of your personal information.
 
 **Service Providers**
 
@@ -100,7 +94,9 @@ If you no longer wish to participate in our surveys and receive survey invitatio
 
 ## Log Files
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, analytics, and site functionality.
 
 ## Cookies
 
@@ -130,7 +126,7 @@ Co-branding is the method of having a user connect with a different website but 
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at [helpdesk@mindfieldonline.com](mailto:helpdesk@mindfieldonline.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
