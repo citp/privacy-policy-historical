@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyecology.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223840id_/http%3A//bodyecology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyecology.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428164120id_/http%3A//bodyecology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,5 +89,3 @@ By using this site, you consent to the collection and use of this information by
 **Body Ecology Inc.**  
 7850 Ruffner Ave  
 Van Nuys CA 91406 
-
-Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration and are not intended to diagnose, treat, cure, or prevent any disease. Information on this web site is provided for informational purposes only and is a result of years of practice experience by the author. This information is not intended as a substitute for the advice provided by your physician or other healthcare professional or any information contained on or in any product label or packaging. Do not use the information on this web site for diagnosing or treating a health problem or disease, or prescribing medication or other treatment. Always speak with your physician or other healthcare professional before taking any medication or nutritional, herbal or homeopathic supplement, or using any treatment for a health problem. If you have or suspect that you have a medical problem, contact your health care provider promptly. Do not disregard professional medical advice or delay in seeking professional advice because of something you have read on this web site.
