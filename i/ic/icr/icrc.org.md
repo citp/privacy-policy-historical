@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icrc.org privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230232809id_/https%3A//www.icrc.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrc.org privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428225525id_/https%3A//www.icrc.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | International Committee of the Red Cross
 
