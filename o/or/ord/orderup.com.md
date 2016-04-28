@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230204130id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428152327id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
