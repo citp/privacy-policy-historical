@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivertuner.com privacy policy that was archived on 2015-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151107013329id_/http%3A//www.drivertuner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivertuner.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428045853id_/http%3A//www.drivertuner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DriverTuner ™
 
