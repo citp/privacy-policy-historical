@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630184335id_/http%3A//www.digikey.com/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428115233id_/http%3A//www.digikey.in/en/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey Electronics
 
@@ -28,11 +28,11 @@
 > 
 > Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you.
 > 
-> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
+> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
 
 > ### Email Addresses
 > 
-> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://www.digikey.com/classic/forms/dkc/www/servicesoptout.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
+> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
 > 
 > Emails may be sent by Digi-Key or an authorized agent working for Digi-Key. All authorized agents operate with a confidentiality agreement. Information sent in this manner will always include "opt out" options.
 > 
@@ -89,7 +89,7 @@
 > Please contact us if you have any questions, concerns or comments.  
 >  Use the [Communications Center](https://web.archive.org/us/en/info/contact-us.html) (forms based method of communicating with Digi-Key), or by contacting us at:
 >
->> Digi-Key Electronics  
+>> Digi-Key Corporation  
 >  701 Brooks Avenue South  
 >  P.O. BOX 677  
 >  Thief River Falls, MN 56701-0677  
