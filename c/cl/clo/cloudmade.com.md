@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907042655id_/http%3A//cloudmade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428212017id_/http%3A//cloudmade.com/privacy-policy) for the most accurate reproduction.*
 
-# CloudMade Privacy Policy | CloudMade - Connected Car Platform for Automotive OEMs
+# Privacy Policy | CloudMade
 
 CloudMade ( **"CloudMade"** ) values the privacy of our users, members, and others who visit and use cloudmade.com and its associated products and services (the **"CloudMade Service"** ) (collectively or individually **"Users"** ). This statement governs information you provide to us or that we learn from your use of the CloudMade Service and tells you how we may collect, use, and in some instances share this information.
 
