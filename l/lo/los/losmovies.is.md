@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the losmovies.is privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926002543id_/http%3A//losmovies.is/blog/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losmovies.is privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428104618id_/http%3A//losmovies.es/blog/policy) for the most accurate reproduction.*
 
-# 🎬 Los Movies Privacy Policy
+# Los Movies Privacy Policy
 
 #### Privacy Policy
 
