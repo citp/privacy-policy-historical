@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamanalyst.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425001611id_/http%3A//csgo.steamanalyst.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamanalyst.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429223014id_/http%3A//csgo.steamanalyst.com/privacy-policy) for the most accurate reproduction.*
 
 # SteamAnalyst.com - CS:GO Skins, Prices, Trends, Trade Calculator, Inventory Worth
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to [support@SteamAnalyst.com](mailto:support@SteamAnalyst.com) for further clarification.
+Concerns or questions about this privacy policy can be directed to [steamanalyst@gmail.com](mailto:steamanalyst@gmail.com) for further clarification.
