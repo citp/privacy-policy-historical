@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dear.pk privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204110922id_/http%3A//www.dear.pk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dear.pk privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429214816id_/http%3A//dear.pk/privacypolicy) for the most accurate reproduction.*
 
 # dear | Unblock Youtube
 
