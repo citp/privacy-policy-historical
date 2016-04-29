@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueglobalmedia.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116194931id_/http%3A//www.blueglobalmedia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueglobalmedia.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429093734id_/http%3A//www.blueglobalmedia.com/privacy-statement) for the most accurate reproduction.*
 
 # Blue Global Media | Privacy Statement
 
