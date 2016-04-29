@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholemom.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319104116id_/http%3A//wholemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholemom.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429020614id_/http%3A//wholemom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 Effective Since and Last Edited on: Feb. 11, 2015
 
