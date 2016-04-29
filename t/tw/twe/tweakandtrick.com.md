@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707162626id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429204026id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
-
-Privacy Policy
 
 _We value your privacy and hence, do all that is possible to protect it. This document describes in detail what information do we collect from you and how we use it._
 
@@ -26,19 +24,19 @@ We do not sell, trade, or otherwise transfer to outside parties your information
 
 **Third party products, links and services**
 
-We may include or offer third party links, products or services on our website. These third party sites have individual privacy policies. We have no responsibility or liability for the content and activities of these third party products and websites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+We may include or offer third party links, products or services on our website. These third party sites have individual privacy policies. We have no responsibility or liability for the content and activities of these third party products and websites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these third party resources.
 
 **Log Files**
 
-Like many other Web sites, we make use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, we make use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information. 
 
 **Do we use cookies?**
 
 We use cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to analyze our website traffic and serve ads. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-If you wish to disable cookies, you may do so through your browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' website.
+If you wish to disable cookies, you may do so through your browser options. More detailed information about cookie management with specific web browsers can be found at your web browsers' website.
 
 Terms of Use
 
@@ -52,7 +50,7 @@ By using our site, you consent to our privacy policy and terms of use.
 
 This document is subject to change without prior notice and changes will be effective immediately. In case of any issue, the latest version of this document will be used. If we decide to change our policies, we will post those changes on this page, and/or update the Policy modification date below. 
 
-This policy was last modified on 1 July 2014.
+This policy was last modified on 13 August 2015.
 
 **Contacting Us**
 
