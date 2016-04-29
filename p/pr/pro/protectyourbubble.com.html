@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the protectyourbubble.com privacy policy that was archived on 2015-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150929045617id_/https%3A//us.protectyourbubble.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the protectyourbubble.com privacy policy that was archived on 2016-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160429062742id_/https%3A//us.protectyourbubble.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,7 @@
  <meta name="description" content="">
  <meta name="keywords" content="">
  <meta name="robots" content="all">
- <link rel="stylesheet" href="/content/css/combined/c.css?v=1443502577" type="text/css" media="screen">
+ <link rel="stylesheet" href="/content/css/combined/c.css?v=1461911262" type="text/css" media="screen">
  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N8FSLL"></script><script type="text/javascript">
  (function(){
  'use strict';
@@ -59,7 +59,92 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 .htmlelementholder{position: relative; outline: #F66 dashed 1px }
 .htmlelementname{position: absolute; top:0; left: 0; font-size: 15px; color: #000; background-color: #F66; display:none;}
 .htmlelementholder:hover .htmlelementname{display:block;}
-</style> 
+
+
+</style>
+<script type="text/javascript">
+$(document).ready(function(){
+ if(window.location.hostname == 'coveryourdevice.com' || window.location.hostname == 'www.coveryourdevice.com' || window.location.pathname == "/cover-your-device.html"){
+ createACookie("ptr","coveryourdevice");
+ }
+ if(readACookie("ptr") == "coveryourdevice"){
+ var CYDStyle= ".as-heading > span,#product-dr-top-section .list-fa-icons{color:#333!important}.dr-ci-right:before{border-right:12px solid #006acd!important}#logo-bubble{background:transparent url(/uploads/images/logos/as_weave.png) no-repeat 50% 50%!important}#compare-us .fa,.icon-holder,#protection-reasons h2,.hcw-item-num,.dr-ci-left h4,.as-item .as-item-text p strong,ol.breadcrumb-list.hidden-xs a,.show-content,#product-dr-top-section h2,.db-item .fa,.as-heading,.text-purple,.fg-icon-box,.sel-holder.stds .cust-sel:after,.qoute-price,.show-more,.db-item-sm .fa,#quotes-holder .popup,.fs-heading span,#phone-coverage .cust-sel,.policy-el.active-policy,pp-price-new,print-content h2,.confirmation-details-box .fa,.account label,.print-content h2, .policy-details-label, .print-content span,.confirmation-details-box h2{color:#006acd!important}.db-item.active .fa,.db-item.active .db-item-name,#protection-history-btn{color:#fff!important}.plan-best-value > .compare-el-heading,.dr-ci-right,.heading-price,.db-item.active,.db-item.active .fa,.db-item.active .db-item-name,.heading-price p,#fs-progress .fs-progress-line,.reviews-purple-xs,.confirmation-details,.account-details{background:#006acd!important}#logo-bubble{background:transparent url(/uploads/images/logos/as_weave.png) no-repeat 50% 50%!important}#login-box,.lr-box,#mybubble-account-container,.policy-box{background:rgba(0,0,0,0.8)!important}#fs-progress{background:#71B7FA!important}.fs-nav a.active:after{border-top:solid 8px #333!important}.has-error .err-msg div{background:rgba(0,106,205,0.8)!important}.has-error .err-msg div:after{border-bottom:rgba(0,106,205,0.8)!important}.breadcrumb-list,#quote-bar,.fxs-top,#btn-nav-open,btn-explore{display:none!important}.reviews-purple-xs .review-xs{background:#3388d7!important}.reviews-purple-xs .review-xs:before{border-top-color:rgba(255,255,255,0.2)!important}.tabs-buttons a{background:rgba(255,255,255,0.1)!important}";
+ $(' #get-quote').wrapAll("<a href='/protection-plans/get-quote?PTR=coveryourdevice'>");
+ $('.top-nav>ul>li').not('.top-nav>ul>li:eq(3)').hide();
+ $('#ppForm a').attr('href','/protection-plans/get-quote?PTR=coveryourdevice');
+ $('.logo > img').attr({width:'',height:'40px',src:'/uploads/images/logos/as_logo.png'}).css({height:'40px'});
+ $('.logo').css('width','auto');
+ $('#social-bar').html('<a style="font-size: 1.5em;color:#666666;line-height: 1.2em;text-decoration: inherit;" href="tel:+1-866-778-1041">+1-866-778-1041</a>');
+ $('.call-invite > a').attr('href','tel:+1-866-778-1041').text('(866) 778-1041');
+ $('#compare-us, .header-btm').css('background','#333333');
+ $('#compare-us .fa, .icon-holder, #protection-reasons h2, .hcw-item-num > .fa, .dr-ci-left h4,.as-item .as-item-text p strong, ol.breadcrumb-list.hidden-xs a, #product-dr-top-section h2, .as-heading, .review-owner, .list-fa-icons i, .list-fa-icons em').not('.fa-times-circle, .db-item .fa, .fg-icon-box, .text-purple').css('color','#006acd');
+ $('body').prepend("<style type='text/css'>"+CYDStyle+"</style>");
+
+ }
+ else{
+ }
+});
+
+
+$(document).ready(function(){
+ if(readACookie("ptr") == "coveryourdevice"){
+ var ptr = readACookie("ptr");
+ $('a[href$="get-quote"],a[href$="get-quote.html"]').each(function() {
+ var href = this.href;
+ if (href.indexOf('?') != -1) {
+ href = href + '&PTR=' +ptr;
+ }
+ else {
+ href = href + '?PTR=' +ptr;
+ }
+ $(this).attr('href', href);
+ });
+ }
+});
+ function createACookie(name,value,days) {
+ if (days) {
+ var date = new Date();
+ date.setTime(date.getTime()+(days*24*60*60*1000));
+ var expires = "; expires="+date.toGMTString();
+ }
+ else var expires = "";
+ document.cookie = name+"="+value+expires+"; path=/";
+ }
+
+ function readACookie(name) {
+ var nameEQ = name + "=";
+ var ca = document.cookie.split(';');
+ for(var i=0;i < ca.length;i++) {
+ var c = ca[i];
+ while (c.charAt(0)==' ') c = c.substring(1,c.length);
+ if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+ }
+ return null;
+ }
+
+ function eraseCookie(name) {
+ createCookie(name,"",-1);
+ }
+
+
+
+$(document).ready(function(){
+var isProtection = window.location.href.indexOf('protection');
+var isLoggedIn = dataLayer[0].loggedInUser;
+if( isProtection > 0 && isLoggedIn == 'Anon'){
+ $('.btn-green').attr('href','available-products.html');
+ console.log('new user PP');
+}
+if($('.badges-holder').length > 0 && readACookie != "coveryourdevice"){
+ var proTel = $('.link-cta:eq(0)').attr('href');
+ $('.call-invite > a').attr('href',proTel).text(proTel);
+}
+if(window.location.pathname.indexOf('confirmation')> 0 ){
+ $('.account:eq("1") > p > a').not('.showMe').hide('');
+ }
+});
+
+</script> 
  <!--[if IE 9]>
  <link rel="stylesheet" href="/content/css/ie/ie9.css" type="text/css" media="all" />
  <![endif]-->
@@ -87,22 +172,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  </li>
  <li class="">
  
- <a href="/smartphone-protection.html">Smartphone Protection</a>
- </li>
- <li class="">
- 
- <a href="/tablet-protection.html">Tablet Protection</a>
- </li>
- <li class="">
- 
- <a href="/electronics-protection.html">Electronics Protection</a>
- </li>
- <li class="">
- 
- <a href="/appliance-protection.html">Appliance Protection</a>
- </li>
- <li class="">
- 
  <a href="/travel-insurance.html">Travel Insurance</a>
  </li>
  <li class="">
@@ -111,7 +180,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  </li>
  <li class="">
  
- <a href="/renters-insurance.html">Renters Insurance</a>
+ <a href="/smartphone-protection.html">Smartphone Protection</a>
+ </li>
+ <li class="">
+ 
+ <a href="/electronics-protection.html">Electronics Protection</a>
  </li>
  </ul>
  </div>
@@ -180,7 +253,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <a href="https://plus.google.com/+protectyourbubble/posts" title="Google+" target="_blank"><i class="fa fa-google-plus"></i></a>
  <a href="http://www.facebook.com/pybusa" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
  <a href="https://twitter.com/#!/pybusa" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
- <a href="http://www.youtube.com/user/ProtectYourBubbleUSA" title="lbl_social_youtube" target="_blank"><i class="fa fa-youtube"></i></a>
+ <a href="http://www.youtube.com/user/ProtectYourBubbleUSA" title="YouTube" target="_blank"><i class="fa fa-youtube"></i></a>
  </div>
  </div>
 </div>
@@ -192,7 +265,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <div id="get-quote">
  <div id="btn-quote-group">
  <ul>
- <li><button type="button" id="btn-close-quote" class="btn-el" title="lbl_close_quote"></button></li>
+ <li><button type="button" id="btn-close-quote" class="btn-el" title="Close quote"></button></li>
  <li><button type="button" id="btn-get-quote" class="btn-el"><span>Get a quote</span></button></li>
  </ul>
  </div>
@@ -210,22 +283,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  </li>
  <li class="">
  
- <a href="/smartphone-protection.html">Smartphone Protection</a>
- </li>
- <li class="">
- 
- <a href="/tablet-protection.html">Tablet Protection</a>
- </li>
- <li class="">
- 
- <a href="/electronics-protection.html">Electronics Protection</a>
- </li>
- <li class="">
- 
- <a href="/appliance-protection.html">Appliance Protection</a>
- </li>
- <li class="">
- 
  <a href="/travel-insurance.html">Travel Insurance</a>
  </li>
  <li class="">
@@ -234,7 +291,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  </li>
  <li class="">
  
- <a href="/renters-insurance.html">Renters Insurance</a>
+ <a href="/smartphone-protection.html">Smartphone Protection</a>
+ </li>
+ <li class="">
+ 
+ <a href="/electronics-protection.html">Electronics Protection</a>
  </li>
  </ul>
  </div>
@@ -431,12 +492,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  
  <li>
  
- <a href="/smartphone-protection.html"> Smartphone Protection</a>
- </li>
- 
- <li>
- 
- <a href="/smartphone-protection/iphone.html"> iPhone Protection</a>
+ <a href="/protection-plans.html">Protections Plans</a>
  </li>
  
  <li>
@@ -447,11 +503,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <li>
  
  <a href="/travel-insurance.html">Travel Insurance</a>
- </li>
- 
- <li>
- 
- <a href="/renters-insurance.html">Renters Insurance</a>
  </li>
  
  <li>
@@ -475,7 +526,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <div class="container">
  <div class="row">
  <div class="col-xs-6"><p>Need help?</p>
- <a class="link-cta" href="tel:18557922355"><i class="fa fa-mobile"></i>Call us</a>
+ <a class="link-cta" href="+1-855-792-2355"><i class="fa fa-mobile"></i>Call us</a>
  <a class="link-cta" href="mailto:customersupport@protectyourbubble.com"><i class="fa fa-envelope"></i>Email us</a>
  </div>
  <div class="col-xs-6"><p>Follow us</p>
@@ -494,7 +545,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
  
  
- <script type="text/javascript" src="/content/js/combined/j.js?v=1443502577"></script> <script>
+ <script type="text/javascript" src="/content/js/combined/j.js?v=1461911262"></script> <script>
  $('.mobile_jump_link').on('click', function(e){
  e.preventDefault();
  $('html').attr('class', '');
