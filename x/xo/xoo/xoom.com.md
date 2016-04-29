@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905201642id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429095607id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Xoom
+# Privacy Policy | Xoom, a PayPal Service
 
 Effective Date: **2015-06-09**
 
@@ -12,9 +12,7 @@ We are committed to protecting our customers' privacy and security. This Privacy
 
 If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-xoom-customer-service). If you are not satisfied with our response you can please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-## INFORMATION WE COLLECT
-
-We may collect the following information about you, your Recipient, or your Beneficiary, which may include non-public Personal Information:
+* We may collect the following information about you, your Recipient, or your Beneficiary, which may include non-public Personal Information:
 
   * Information that you provide us in the course of using the Service, such as your name, mailing address, email address, and telephone number(s). We may also collect certain sensitive information from you including your bank account number, credit or debit card number, date of birth and social security number; 
   * Information that you provide us in the course of your participation in various partner promotional programs; 
@@ -43,9 +41,7 @@ We may use mobile analytics software to allow us to better understand the functi
 
 We currently do not recognize "do-not-track" signals from your browser. We engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our websites. We use local storage objects, such as Flash Cookies ( **"LSOs"** ) and Local Storage, such as HTML5, to prevent unauthorized or fraudulent sign ups. Third parties, with whom we partner to provide certain features on our websites or to display advertising based upon your Web browsing activity also use Flash Cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. Disabling LSOs may affect the performance of our Service.
 
-## WHY WE COLLECT INFORMATION
-
-We collect information for the following purposes:
+* We collect information for the following purposes:
 
   * To process your Transactions;
   * To verify your identity;
@@ -61,9 +57,7 @@ We collect information for the following purposes:
 
 We will retain your account information, including but not limited to your payment source information and Personal Information about you, your Recipient, or your Beneficiary, as needed to provide you Service, as required by applicable law, to resolve disputes and to enforce our agreements. Xoom abides by strict security standards, but if you wish to cancel your account and stop using Xoom's Service, contact us at [https://www.xoom.com/contact-xoom-customer-service](https://web.archive.org/contact-xoom-customer-service). We will continue to retain your account information after your account is cancelled as required under applicable law, regulations, and rules.
 
-## HOW WE SHARE INFORMATION WITH OTHERS
-
-We do not sell or rent the information we collect to third parties for their promotional purposes unless we receive your permission to do so. Nevertheless, we may share information about you, your Recipient, or your Beneficiary (including nonpublic, Personal Information) with:
+* We do not sell or rent the information we collect to third parties for their promotional purposes unless we receive your permission to do so. Nevertheless, we may share information about you, your Recipient, or your Beneficiary (including nonpublic, Personal Information) with:
 
   * Third-party service providers under contract with Xoom that help us with our business operations, such as transaction processing, fraud prevention, and marketing. We share your Personal Information with these companies only as necessary to provide you with our Service; 
   * Third-parties that we partner with to offer additional products and services, such as long-distance telephone minutes, gift cards or loyalty points, but only when you elect to participate, and/or to receive information about those additional products and services. If you do not want us to share your Personal Information with these partners, contact us at [https://www.xoom.com/contact-xoom-customer-service](https://web.archive.org/contact-xoom-customer-service); 
@@ -76,45 +70,27 @@ We do not sell or rent the information we collect to third parties for their pro
 
 Our websites offer publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Please do not post any information you prefer to keep private, including but not limited to your email address, mailing address, or Xoom Transaction information.
 
-## ACCESS TO YOUR INFORMATION
+* If your personal information changes, or if you no longer wish to use our Service, you can access, modify, delete or update your Personal Information submitted on our websites by logging in to your account and changing your preferences or by contacting Xoom Customer Service at 1-877-815-1531. We will respond to your request within a reasonable timeframe.
 
-If your personal information changes, or if you no longer wish to use our Service, you can access, modify, delete or update your Personal Information submitted on our websites by logging in to your account and changing your preferences or by contacting Xoom Customer Service at 1-877-815-1531. We will respond to your request within a reasonable timeframe.
+* We employ industry-accepted standards in protecting the information you submit to us on our websites. We have put in place SSL [Secure Socket Layer] encryption technology to protect your sensitive information transmitted on our websites. We also require a username and password from each user who wants to access his or her information on our websites. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-## SECURITY
-
-We employ industry-accepted standards in protecting the information you submit to us on our websites. We have put in place SSL [Secure Socket Layer] encryption technology to protect your sensitive information transmitted on our websites. We also require a username and password from each user who wants to access his or her information on our websites. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-## CHOICES YOU CAN MAKE ABOUT OUR USE OF YOUR INFORMATION
-
-Federal and state laws allow you to restrict the sharing of your Personal Information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your Personal Information that you may restrict is as follows:
+* Federal and state laws allow you to restrict the sharing of your Personal Information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your Personal Information that you may restrict is as follows:
 
   * If, after giving us your permission to share your Personal Information with third parties with whom we market our jointly offered products, you later decide that you no longer want us to share such information, you may contact us by email at [https://www.xoom.com/contact-xoom-customer-service](https://web.archive.org/contact-xoom-customer-service); fax at 415-777-8690; or by mail at Xoom Corporation, attn: Customer Service, 425 Market Street, 12th Floor, San Francisco, CA 94105-5404, USA. 
   * You may also opt-out from promotional email messages to you or your blog subscription by accessing your Email Preferences under "My Account" or selecting the "Unsubscribe" function present in each promotional or blog email message we send out and providing the required information or you may contact us at [https://www.xoom.com/contact-xoom-customer-service](https://web.archive.org/contact-xoom-customer-service). 
 
 
 
-## COMPLAINTS
+* If you have a complaint, first contact **Xoom Customer Service at 1-877-815-1531**. If you are a Texas resident and you still have an unresolved complaint regarding Xoom's money transmission activity, please direct your complaint to: Texas Department of Banking: 2601 North Lamar Boulevard; Austin, Texas 78705; 1-877-276-5554 (toll free); [www.dob.texas.gov](http://www.dob.texas.gov/) or email [consumer.complaints@dob.texas.gov](mailto:consumer.complaints@dob.texas.gov). 
 
-If you have a complaint, first contact **Xoom Customer Service at 1-877-815-1531**. If you are a Texas resident and you still have an unresolved complaint regarding Xoom's money transmission activity, please direct your complaint to: Texas Department of Banking: 2601 North Lamar Boulevard; Austin, Texas 78705; 1-877-276-5554 (toll free); [www.dob.texas.gov](http://www.dob.texas.gov/) or email [consumer.complaints@dob.texas.gov](mailto:consumer.complaints@dob.texas.gov). 
-
-## THIRD PARTY SITES
-
-Our websites contain links to other websites. Xoom Corporation is not responsible for the privacy practices or the content of these other websites. We encourage you to familiarize yourself with the privacy practices of these other websites prior to submitting your Personal Information to them.
+* Our websites contain links to other websites. Xoom Corporation is not responsible for the privacy practices or the content of these other websites. We encourage you to familiarize yourself with the privacy practices of these other websites prior to submitting your Personal Information to them.
 
 Our websites include social media features, such as the Facebook Like button, and widgets, such as the Share button or interactive mini-programs that run on our websites. These features may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-## REFERRALS
+* If you choose to use our Refer a Friend program to tell a friend about our Service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the websites. We store this information for the sole purpose of sending this one-time email and tracking the success of our Refer a Friend program. Your friend may request removal from our Refer a Friend program by following the instructions in the promotional email message we send out and providing the required information. 
 
-If you choose to use our Refer a Friend program to tell a friend about our Service, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the websites. We store this information for the sole purpose of sending this one-time email and tracking the success of our Refer a Friend program. Your friend may request removal from our Refer a Friend program by following the instructions in the promotional email message we send out and providing the required information. 
+* You can import contacts from your Outlook or other email account address book in connection with using our Service. We collect the username and password for the email account from which you import your contacts and will only use it for that purpose. We may also collect the name, mailing address, email address, and telephone number(s) of any contacts that you import in order to facilitate the Service. 
 
-## IMPORT CONTACTS
+* We may amend this policy at any time, and shall notify you by posting a revised version on our websites. Should we make a material change to the manner in which we collect, use, or store Personal Information about you, your Recipient, or your Beneficiary, we shall provide prior notice on our websites, or by email. 
 
-You can import contacts from your Outlook or other email account address book in connection with using our Service. We collect the username and password for the email account from which you import your contacts and will only use it for that purpose. We may also collect the name, mailing address, email address, and telephone number(s) of any contacts that you import in order to facilitate the Service. 
-
-## CHANGES TO THIS POLICY
-
-We may amend this policy at any time, and shall notify you by posting a revised version on our websites. Should we make a material change to the manner in which we collect, use, or store Personal Information about you, your Recipient, or your Beneficiary, we shall provide prior notice on our websites, or by email. 
-
-## CONTACT
-
-You can contact us with any questions or concerns at: Xoom Corporation, 425 Market Street, 12th Floor, San Francisco, CA 94105-5404 or by email: [https://www.xoom.com/contact-xoom-customer-service](https://web.archive.org/contact-xoom-customer-service)
+* 
