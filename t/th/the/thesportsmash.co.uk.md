@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportsmash.co.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226080500id_/http%3A//thesportsmash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportsmash.co.uk privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429095705id_/http%3A//thesportsmash.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Sports Mash
 
