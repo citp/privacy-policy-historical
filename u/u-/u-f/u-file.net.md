@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212193916id_/http%3A//uf.pe/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-file.net privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429053227id_/http%3A//u-file.net/privacypolicy.php) for the most accurate reproduction.*
 
-# Your Sharing Park - Free File Hosting (U-fiLe 2014)
+# Your Sharing Park - Free File Hosting (U-fiLe 2016)
 
 For copyright infringement issue, please contact [webmaster@uf.pe](mailto:webmaster@uf.pe) / pressing "Abuse this file" for a rapid investigation and action. Thank you very much.
 
