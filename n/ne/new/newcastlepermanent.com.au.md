@@ -1,34 +1,29 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207021232id_/http%3A//www.newcastlepermanent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429071849id_/https%3A//www.newcastlepermanent.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Newcastle Permanent - Privacy Policy
-
-## 1\. Purpose
-
-Newcastle Permanent Building Society Limited (ACN 087 651 992) AFSL and Australian Credit Licence 238273 and its related body corporates (‘we’, ‘our’, ‘us’) are bound by the _Privacy Act_ 1988 (Cth) (Privacy Act). This Privacy Policy outlines:
-
-  * how we deal with your personal information;
-  * how you may access and seek correction of that personal information; and
-  * how you may complain about a breach of the Australian Privacy Principles.
-
-
-
-## 2\. Scope
-
-This policy applies to all personal information collected, held used or disclosed by us.
-
-## 3\. Policy
-
-### 3.1 Key types of information
+# Privacy Policy – Newcastle Permanent
 
 Certain words have special meanings when used in this Privacy Policy. These are shown below. Personal information includes credit information. When we refer to personal information in this Privacy Policy we may also be referring to any credit information that we may collect about you.
 
-Term | Definition  
----|---  
-Credit information | Information which is used to assess your eligibility to be provided with finance and may include any finance that you have outstanding, your repayment history, and any defaults.  Usually, credit information is exchanged between credit and finance providers and credit reporting bodies.  
-Personal information  | Information or an opinion about you which is identified, or which can reasonably be identified, from the information and may include credit information.  
-  
-###  3.2 Collection (Solicited)
+**Term**
 
+| 
+
+**Definition**  
+  
+---|---  
+  
+Credit information
+
+| 
+
+Information which is used to assess your eligibility to be provided with finance and may include any finance that you have outstanding, your repayment history, and any defaults.  Usually, credit information is exchanged between credit and finance providers and credit reporting bodies.  
+  
+Personal information 
+
+| 
+
+Information or an opinion about you which is identified, or which can reasonably be identified, from the information and may include credit information.  
+  
 Wherever possible, we collect your personal information directly from you. For example, we may collect personal information when you open an account, fill in an application form, deal with us over the telephone, send us a letter or email, visit our website, post any information on our Facebook page, or visit us in a branch. The types of personal information we collect and hold will depend on the particular products and services you request from us. If you do not provide your personal information we cannot provide our products or services to you.
 
 There may be occasions when we need to collect personal information about you from a third party. For example, we may collect personal information from any referees that you provide, your employer, other credit providers, and third party service providers including credit reporting bodies or insurers.
@@ -47,8 +42,6 @@ In certain circumstances, for example when you apply for a life insurance produc
 
 If you use our website or Facebook page, we collect the personal information that you tell us about yourself. For example, by completing an online form such as a loan application, by sending us an email, or making any postings.
 
-### 3.3 Credit Information
-
 We may collect the following kinds of credit information and exchange this information with credit reporting bodies and other entities including our insurers, valuers, and debt collection agencies:
 
   * credit liability information, being information about your existing finance arrangements (including the name of the credit provider, whether the credit provider holds an Australian Credit Licence, the type of finance, the day the finance was entered into, the terms and conditions of the finance, the maximum amount of finance available, and the day on which finance was terminated);
@@ -65,15 +58,13 @@ This credit information may be held by us in electronic form on our secure serve
 
 When we obtain credit information from a credit reporting body about you, we may also seek publicly available information and information about any serious credit infringement that you may have committed.
 
-### 3.4 Disclosures to credit reporting bodies
-
-The law requires us to advise you of disclosures we may make to credit reporting bodies in relation to how we may use your credit information. You may request to have this Privacy Policy provided to you in an alternative form.
+The law requires us to advise you of disclosures we may make to credit reporting bodies in relation to how we may use your credit information.
 
 We exchange your credit information with credit reporting bodies. We use the credit information that we exchange with the credit reporting bodies to assess your creditworthiness, assess your application for finance, and manage your finance.
 
 If you fail to meet your payment obligations in relation to any finance that we have provided or arranged, or you have committed a serious credit infringement, then we may disclose this information to credit reporting bodies.
 
-You have the right to request access to the credit information that we hold about you and request for us to correct that credit information if needed. (Please see the heading _Access and correction of personal information_ , below.)
+You have the right to request access to the credit information that we hold about you and request for us to correct that credit information if needed. (Please see the heading  _Access and correction of personal information_ , below.)
 
 To help us reach the right people with our credit direct marketing, we may ask credit reporting bodies to 'pre-screen' a list of potential recipients against our eligibility criteria to remove recipients that do not meet those criteria. The credit reporting bodies cannot use credit information about your existing loans or repayment history in carrying out its pre-screening and it must destroy its pre-screening assessment once it has been given to us, or a contractor acting on our behalf.
 
@@ -83,17 +74,13 @@ You may contact the credit reporting bodies to advise them that you believe that
 
   * [veda.com.au](http://veda.com.au/),
   * [dnb.com.au](http://dnb.com.au/), or
-  * [experian.com.au ](http://experian.com.au/)
+  * [experian.com.au](http://experian.com.au/)
 
 
-
-### 3.5 Collection (Unsolicited)
 
 In circumstances where we receive your personal information without requesting it, we will decide whether or not we could have collected the information by fair and lawful means. If so, we will treat the information in the same manner we treat all solicited personal information.
 
 If personal information is unsolicited, and we determine that we could not have collected it by lawful means, we will destroy or de-identify the information.
-
-### 3.6 Use
 
 We may hold and use your personal information for the primary purpose of providing products and services to you and managing our business. Other purposes may include:
 
@@ -112,8 +99,6 @@ In general, we do not use or disclose your personal information other than for:
   * purposes required or permitted by law.
 
 
-
-### 3.7 Disclosure
 
 We may disclose your personal information to other organisations, for example:
 
@@ -136,9 +121,7 @@ We may disclose your personal information to other organisations, for example:
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information.
 
-Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Philippines. Such overseas recipients may not be bound by the Privacy Act. If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
-
-### 3.8 Security
+Some of the recipients to whom we disclose your personal information may be based overseas. It is not practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Phillipines. Such overseas recipients may not be bound by the Privacy Act. If we disclose your personal information outside Australia, we will do so on the basis that the information will be used only for the purposes it was collected for.
 
 We will take reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification, or disclosure. We do this by:
 
@@ -153,15 +136,11 @@ We store your personal information in paper and electronic form. We take reasona
 
 If we no longer need your personal information for any purpose for which the information may be used or disclosed, it will be destroyed or permanently de-identified.
 
-### 3.9 Updating your personal information
-
 If we have accurate personal information about you, it enables us to provide the best possible service.
 
 It is important to us that the personal information we hold about you is accurate and up to date. During the course of our relationship with you, we may ask you to inform us if any of your personal information has changed.
 
 If you wish to make any changes to your personal information, you may contact us. We will generally rely on you to assist us by informing us if the information we hold about you is inaccurate or incomplete.
-
-### 3.10 Access and correction of personal information
 
 You may request access to the personal or credit information that we hold about you at any time. Generally, we will acknowledge your request for access within seven days of receiving your request. Depending on the type of request that you make we may respond to your request immediately. We will aim to provide you with the outcome of our investigation within 30 days. We may charge a fee for our costs of retrieving and supplying the information to you.
 
@@ -175,42 +154,24 @@ If we refuse to correct personal information that is not credit information and 
 
 We will not charge you for a request to correct personal information held by us or for correcting such information.
 
-### 3.11 Using government identifiers
-
 If we collect government related identifiers, such as your tax file number, we do not use or disclose this information other than required by law. We will never adopt a government related identifier as our own identifier for you.
 
-### 3.12 Business without identifying you
-
 In most circumstances, it will be necessary for us to identify you in order to successfully do business with you. However, where it is lawful and practicable to do so, we will offer you the opportunity of doing business with us without providing us with personal information. For example, where you make general inquiries about interest rates or current promotional offers.
-
-### 3.13 Marketing
 
 We may use your personal information to provide you with information about products and services, including those of third parties, which we consider may be of interest to you.
 
 You may ‘opt out’ at any time if you no longer wish to receive marketing information. You may make this request by contacting us, or by ‘unsubscribing’ from our email marketing messages.
 
-### 3.14 Destruction of personal information
-
 All personal information collected from you adds to the ongoing and changing picture of the banking relationship between you and us. However, when your personal information is no longer needed for the purposes for which it was collected we will permanently de-identify or destroy your personal information.
-
-### 3.15 Further information and complaints
 
 If you have any questions, concerns or complaints about this Privacy Policy, our handling of your personal information or you believe that the privacy of your personal information has been compromised or is not adequately protected then please contact us.
 
-You can raise your concerns or complaint through any of our branches, by contacting our member Support Centre on 13 19 87, or by putting your concerns in writing. Once a complaint has been lodged we will acknowledge your complaint within seven days. We will provide you with a decision on your complaint within 30 days.
+You can raise your concerns or complaint through any of our branches, by contacting our Member Support Centre on 13 19 87, or by putting your concerns in writing. Once a complaint has been lodged we will acknowledge your complaint within seven days. We will provide you with a decision on your complaint within 30 days.
 
-If you are dissatisfied with the response of our complaints officer you may make a complaint to the Privacy Commissioner who can be contacted at [www.oaic.gov.au ](http://www.oaic.gov.au/)or by phoning 1300 363 992. Alternately, you can contact our External Dispute Resolution Scheme at:
+If you are dissatisfied with the response of our complaints officer you may make a complaint to the Privacy Commissioner who can be contacted at [www.oaic.gov.au ](http://www.oaic.gov.au/)or by phoning 1300 363 992. Alternately, you can contact our External Dispute Resolution Scheme at:
 
 Credit and Investments Ombudsman Ltd  
 PO Box A252  
-South Sydney NSW 1235   
-Complaints: 1800 138 422   
+South Sydney NSW 1235   
+Complaints: 1800 138 422   
 [www.cio.org.au](http://www.cio.org.au/)
-
-## 4\. Changes to this Privacy Policy
-
-We are constantly reviewing all of our policies and attempt to keep up to date with market expectations. Technology is constantly changing, as is the law and market place practices.
-
-As a consequence we may change this Privacy Policy from time to time or as the need arises. This Privacy Policy came into existence on 12 March 2014.
-
-Download Pdf version [here](https://web.archive.org/Portals/1/Personal/PDFs/PrivacyPolicy2015.pdf).
