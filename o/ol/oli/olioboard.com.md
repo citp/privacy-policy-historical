@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319141449id_/https%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429120025id_/https%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Olioboard
 
@@ -75,6 +75,14 @@ We may allow third-parties, including IAC companies, advertising companies, and 
 **Web Beacons:**  
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.  
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+
+Close
+
+Create 2D & 3D rooms that you can save, shop2 & share.
+
+Close
+
+Create 2D & 3D rooms that you can save, shop1 & share.
 
 ## 1\. Your Acceptance
 
