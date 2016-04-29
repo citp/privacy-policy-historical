@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odyssys.net privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221051628id_/http%3A//www.globalreachtech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odyssys.net privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429084444id_/https%3A//www.globalreachtech.com/privacy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Global Reach Technology - Information
+# Privacy & Cookie Policy | Information
 
 **Global Reach Technology Ltd is an English company incorporated and registered in England and Wales with company number 07048157 whose registered office is at Craven House, 121 Kingsway, London WC2B 6PA, United Kingdom.**
 
@@ -59,6 +59,10 @@ These cookies are used to collect information about how visitors use our site. W
 [Google Analytics' Privacy Policy](http://www.google.com/intl/en/policies/privacy/)  
 [Opt out of being tracked by Google Analytics across all websites](https://tools.google.com/dlpage/gaoptout)
 
+#### Push Notifications
+
+Global Reach Technology Ltd sends Push Notifications. “Push Notification” means a message which is delivered directly by Global Reach Technology Ltd to your device during the course of providing the Services to you. You can change your Push Notifications preferences to opt out (or to request and enable Push Notifications) at any time by modifying the settings within your computer or device’s notification settings.
+
 #### Links to other websites
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
@@ -69,7 +73,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 The information you provide to us will be held on our computers and may be accessed by any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries from time to time (if any). We may also use your information to send you offers and news about our services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes. 
 
-You have the right to ask us not to process your personal data for marketing purposes.  If you do not wish to be contacted by us with information about our services or those of other companies or you want to limit the way in which we  may contact you please e-mail [info@globalreachtech.com](mailto:info@globalreachtech.com "Email Global Reach Technology")
+You have the right to ask us not to process your personal data for marketing purposes. If you do not wish to be contacted by us with information about our services or those of other companies or you want to limit the way in which we  may contact you please e-mail [info@globalreachtech.com](mailto:info@globalreachtech.com "Email Global Reach Technology")
 
 We may also pass your information on to any successor or potential successor in title to our business and suppliers that process data on our behalf both in the United Kingdom and abroad. We may also use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic purposes. 
 
