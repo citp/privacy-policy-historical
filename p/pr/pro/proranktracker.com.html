@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proranktracker.com privacy policy that was archived on 2015-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150921185231id_/http%3A//www.proranktracker.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proranktracker.com privacy policy that was archived on 2016-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160429231718id_/http%3A//proranktracker.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="content-type" content="text/html; charset=utf8">
@@ -7,7 +7,7 @@
 <link rel="shortcut icon" type="image/png" href="/prt_favicon.png">
 <meta property="og:image" content="http://proranktracker.com/assets/extSite/images/logo.png">
 <title>Privacy Policy - Pro Rank Tracker</title>
-
+<link rel="canonical" href="https://proranktracker.com/privacy-policy">
 <!--Start Css Files-->
 <link rel="stylesheet" href="https://proranktracker.com/assets/extSite/js/SlickNav/slicknav.css">
 <link href="https://proranktracker.com/assets/extSite/js/prettyPhoto/css/prettyPhoto.css" rel="stylesheet">
@@ -19,15 +19,13 @@
 
 
 <!--Start JS Files-->
-<script type="text/javascript" src="https://proranktracker.com/assets/extSite/js/jquery.js"></script>
+<script async="" charset="utf-8" src="//v2.zopim.com/?3PLzinCfU3Mgpz4sbl8Z3b6AUZaXUgaY" type="text/javascript"></script><script type="text/javascript" src="https://proranktracker.com/assets/extSite/js/jquery.js"></script>
 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script src="https://proranktracker.com/assets/extSite/js/jquery.bxslider.min.js"></script>
 
 <script src="https://proranktracker.com/assets/extSite/js/SlickNav/jquery.slicknav.js"></script>
 <script type="text/javascript" src="https://proranktracker.com/assets/extSite/js/prettyPhoto/js/jquery.prettyPhoto.js"></script>
 <script type="text/javascript" src="https://proranktracker.com/assets/extSite/js/magnificPopup/js/jquery.magnific-popup.min.js"></script>
-
-
 
 <!--End JS Files-->
   <script type="text/javascript">
@@ -106,6 +104,45 @@
 			infiniteLoop:true
 		});
 
+	// Sliding Topbar Metro Menu
+	var menu = $('#topbar-dropmenu');
+	var items = menu.find('.metro-tile');
+	var metroBG = $('.metro-modal');
+
+	$('.helppp').on('click', function() {
+	if ($(this).hasClass('lang_select')){
+		$('.help_row').hide();
+		$('.lang_row').show();
+	} else {
+		$('.help_row').show();
+		$('.lang_row').hide();
+	}
+
+		menu.slideToggle(230).toggleClass('topbar-menu-open');
+		$(items).addClass('animated animated-short fadeInDown').css('opacity', 1);
+
+		// Create Modal for hover effect
+		if (!metroBG.length) {
+		metroBG = $('<div class="metro-modal"></div>').appendTo('body');
+		}
+		setTimeout(function() {
+			metroBG.fadeIn();
+		}, 380);
+
+	});
+
+	// If modal is clicked close menu
+	$('body').on('click', '.metro-modal', function() {
+		metroBG.fadeOut('fast');
+		setTimeout(function() {
+			menu.slideToggle(150).toggleClass('topbar-menu-open');
+		}, 250);
+	});	
+
+	/*$('#live_chat').click(function(e){
+		$zopim.livechat.button.hide();
+	});	 */
+		
 		//END HOMEPAGE
 		//START FEATURES
 		$( "#featureselect" ).tabs({
@@ -125,7 +162,10 @@
 		<div class="in_wrp">
 			<span class="sp_welcome">welcome to pro rank tracker</span>
 			<div id="top_login">
-							<ul class="">
+							<div class="helppp not_login lang_select"><img class="us-uk-flag" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALAQMAAAB1Sy4hAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAAtJREFUeNpjYCAAAAAhAAFUy6pzAAAAAElFTkSuQmCC"></div>
+				<span class="helppp not_login glyphicons glyphicons-circle_question_mark"></span>
+				<ul class="login_sign_up">
+					<li id="sign_up"><span><a href="https://proranktracker.com/plans">Sign up</a></span></li>
 					<li id="login">
 						<span><a href="#" id="toggle">Login</a></span>
 						<div class="ht_sub" id="showme" style="display: none;">
@@ -138,12 +178,118 @@
 							</form>
 						</div>
 					</li>
-					<li id="sign_up"><span><a href="https://proranktracker.com/plans">Sign up</a></span></li>
 				</ul>
 						</div>
 		</div>
 	</div>
 
+	<div id="topbar-dropmenu">
+		<div class="in_wrp">
+			<div class="topbar-menu row lang_row" style="display:none;">
+				
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://es.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_spanish" alt="Spanish Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Español</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://fr.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_french" alt="French Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Français</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://de.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_german" alt="Germany Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Deutsch</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://nl.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_dutch" alt="Netherlands Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Nederlands</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://it.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_italian" alt="Italy Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Italiano</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://jp.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_japanese" alt="Japan Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">日本語</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://pt.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_portuguese" alt="Portuguese/Brazil Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Português</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://sv.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_swedish" alt="Sweden Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Svenska</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://dk.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_danish" alt="Denmark Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Dansk</p>
+					</a>
+				</div>
+				
+				<div class="col-xs-4 col-sm-2">
+					<a href="https://tr.proranktracker.com/" class="metro-tile">
+						<img class="metro-icon flag_turkish" alt="Turkey Flag" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAA5AQMAAAB9DfU4AAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAAA9JREFUeNpjYBgFo2BoAAACrAABUPSpPAAAAABJRU5ErkJggg==">
+						<p class="metro-title">Türkçe</p>
+					</a>
+				</div>
+			</div>
+			<div class="topbar-menu row help_row" style="display:none;">
+				<div class="col-xs-4 col-sm-2">
+					<a href="/members/knowledgebase" class="metro-tile bg-success">
+						<span class="metro-icon glyphicons glyphicons-book_open"></span>
+						<p class="metro-title">Knowledgebase</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="/video_tutorials" class="metro-tile bg-info">
+						<span class="metro-icon glyphicons glyphicons-facetime_video"></span>
+						<p class="metro-title">Video Tutorials</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a href="/members/submitticket.php?step=2&amp;deptid=1" class="metro-tile bg-alert">
+						<span class="metro-icon glyphicons glyphicons-envelope"></span>
+						<p class="metro-title">Contact Us</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a id="live_chat" href="#" class="metro-tile bg-primary">
+						<span class="metro-icon glyphicons glyphicons-chat"></span>
+						<p class="metro-title">Live Chat Support</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a target="_blank" href="https://twitter.com/ProRanktracker" class="metro-tile bg-warning">
+						<span class="metro-icon glyphicons glyphicons-twitter"></span>
+						<p class="metro-title">Twitter</p>
+					</a>
+				</div>
+				<div class="col-xs-4 col-sm-2">
+					<a target="_blank" href="https://www.facebook.com/pages/Proranktracker/246803945495785" class="metro-tile bg-system">
+						<span class="metro-icon glyphicons glyphicons-facebook"></span>
+						<p class="metro-title">Facebook</p>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	
 	<div id="menu_wrap">
 		<div class="in_wrp">
 			<div id="logo">
@@ -157,7 +303,7 @@
 								
 					<li style="width:110px;"><a href="https://proranktracker.com/features" class="gradient" id="menu_2">Features</a></li>
 					<li><a href="/solutions" class="gradient" id="menu_3">Solutions</a></li>
-					<li><a href="https://proranktracker.com/se-list" class="gradient" id="menu_4">SE List</a></li>
+					<li><a href="https://proranktracker.com/se-list" class="gradient" id="menu_4">Track On</a></li>
 					<li style="width:140px;"><a href="https://proranktracker.com/plans" class="gradient" id="menu_5">Plans &amp; Pricing</a></li>
 					<li><a href="https://proranktracker.com/members/submitticket.php?step=2&amp;deptid=1" class="gradient" id="menu_6">Contact</a></li>
 				</ul>
@@ -174,90 +320,90 @@
 Pro Rank Tracker having a mailing address at P.O Box 22602, Tel Aviv 61226, Israel (hereinafter, referred to as “we”, “our, “us”, “Company”) collects from the individual user (hereinafter, referred to as “you” or “your”) certain information through the Website http://proranktracker.com/ (hereinafter, referred to as “Website”). This Privacy Policy contains our policies and procedures governing the collection and handling of information that identifies an individual user or that could be used to contact or locate him or her (hereinafter, referred to as “Personal Information”). This Privacy Policy applies only to the Website. It does not apply to any other websites.
 </p>
 
-<h4 class="custh4">1. Personal Information collected by us</h4>
+<h4 class="custh4" style="font-weight:bold">1. Personal Information collected by us</h4>
 
 <p class="txt">1.1 The Website may contain online forms that ask users to provide their: (1) first and second name; (2) company name; (3) email address; (4) Physical address; (5) phone number; and (6) PayPal account.</p>
 
-<h4 class="custh4">2. Non-personal information collected by us</h4>
+<h4 class="custh4" style="font-weight:bold">2. Non-personal information collected by us</h4>
 
-<p class="txt">2.1 When you visit the Website, the Company may automatically collect non-personal information, such as information related to keywords tracked through the Website, browser types, operating systems, and the URL addresses of websites clicked to and from the Website, pages views, and the average time spent on the Website.</p><br>
+<p class="txt">2.1 When you visit the Website, the Company may automatically collect non-personal information, such as information related to keywords tracked through the Website, browser types, operating systems, and the URL addresses of websites clicked to and from the Website, pages views, and the average time spent on the Website.</p>
 
-<p class="txt">2.2 The non-personal information collected by us will be aggregated and de-personalized. The non-personal information collected by us will not allow the identification of individuals. </p><br>
+<p class="txt">2.2 The non-personal information collected by us will be aggregated and de-personalized. The non-personal information collected by us will not allow the identification of individuals. </p>
 
 <p class="txt">2.3 The Company may use cookies to automatically collect and use certain non-personal information.</p>
 
 
-<h4 class="custh4">3. The purpose of collection of Personal Information</h4>
+<h4 class="custh4" style="font-weight:bold">3. The purpose of collection of Personal Information</h4>
 
 <p class="txt">3.1 We use your Personal Information to provide you with the services you request and to communicate with you. We also use that information to the extent necessary to enforce this Privacy Policy and to prevent imminent harm to persons or property. Moreover, the Company may use aggregated Personal Information for industry research and academic research. </p>
 <p class="txt">3.2 We may use your Personal Information to send you advertisements of our services or products which may be of interest to you. If you do not want to receive such advertisements, please contact us by using the contact details mentioned in Section 13 of this Privacy Policy. </p>
 <p class="txt">3.3 The Company will not use any personal or non-personal information collected by you through the Website to send offers of services or products to your clients.</p>
 
 
-<h4 class="custh4">4. The purpose of collection of non-personal information</h4>
+<h4 class="custh4" style="font-weight:bold">4. The purpose of collection of non-personal information</h4>
 
 <p class="txt">4.1 The Company collects the non-personal information mentioned in Section 2 in order to analyze the keywords tracked through the Website and create statistics of such keywords. In addition, the Company collects the non-personal information to analyze what kind of users visit the Website, how they find it, how long they stay, from which other websites they come to the Website, what pages they look at, to which other websites they go from the Website. </p>
 
 <p class="txt">4.2 We may share the non-personal information collected by us with our partners. </p>
 
 
-<h4 class="custh4">5. Merger, acquisition or sale of all or a portion of its assets</h4>
+<h4 class="custh4" style="font-weight:bold">5. Merger, acquisition or sale of all or a portion of its assets</h4>
 
 <p class="txt">5.1 If the Company is involved in a merger, acquisition or sale of all or a portion of its assets, the Company reserves the right to transfer personal information or non-personal information to a party involved in the merger, acquisition or sale, to the extent such information is necessary to carry out the merger, acquisition or sale.</p>
 
-<h4 class="custh4">6. Protection of Personal Information</h4>
+<h4 class="custh4" style="font-weight:bold">6. Protection of Personal Information</h4>
 
 <p class="txt">6.1 We employ information security tools to protect Personal Information collected by us. Such information security tools include Secure Sockets Layer (“SSL”), firewalls, and secure server facilities. SSL is a protocol for encrypting information over the Internet. </p>
 
 <p class="txt">6.2 However, even with the use of such tools, we cannot guarantee the security of Personal Information. By using the Website, you acknowledge and agree that we make no such guarantee, and that your use of the Website is at your own risk.</p>
 
 
-<h4 class="custh4">7. Third party access to Personal Information</h4>
+<h4 class="custh4" style="font-weight:bold">7. Third party access to Personal Information</h4>
 
 <p class="txt">7.1 We give certain independent contractors access to your Personal Information. Those contractors assist us with the maintenance of the Website. All those contractors are required to sign contracts in which they promise to protect Personal Information using procedures reasonably equivalent to ours.</p> 
 <p class="txt">7.2 We will disclose your Personal Information to courts, law enforcement agencies, and parties in legal disputes only if we are compelled by law or a court to do so. Unless we are compelled by law or by a court, we will not share any Personal Information to courts, law enforcement agencies, and parties in legal disputes. </p>
 
 
-<h4 class="custh4">8. Accessing and correcting your Personal Information</h4>
+<h4 class="custh4" style="font-weight:bold">8. Accessing and correcting your Personal Information</h4>
 
 <p class="txt">8.1 If you would like to access or modify your Personal Information, please log into your account on the Website and click on the “Edit Account Details” page.</p> 
 <p class="txt">8.2 If you would like to delete your Personal Information stored on our servers, please contact us at the address mentioned in Section 13 of this Privacy Policy. We will respond within seven days from receiving your request for deleting your Personal Information.</p>
 
 
-<h4 class="custh4">9. Cookies</h4>
+<h4 class="custh4" style="font-weight:bold">9. Cookies</h4>
 
 <p class="txt">9.1 We use cookies to make use of the Website as convenient as possible. Cookies are pieces of information that a website transfers to a computing device for record keeping purposes. The majority of web browsers are set to accept cookies. The cookies do not themselves personally identify users. However, they identify users' browsers. The cookies allow the Company to remember your preferences and improve your experience of the Website.</p>
 <p class="txt">9.2 It is possible to set your browser to refuse cookies. Please note that this may limit the services provided by us through the Website. If you would like to stop receiving cookies, check your browser's help information or visit the following links for further information:</p>
 
-<ul class="list">
+<ul class="list" style="padding-left:22px;">
 	<li><a href="http://www.aboutcookies.org/">Aboutcookies.org</a></li>
 	<li><a href="http://windows.microsoft.com/en-GB/windows7/How-to-manage-cookies-in-Internet-Explorer-9">Internet Explorer</a></li>
 	<li><a href="http://support.mozilla.org/en-US/kb/Cookies">Firefox</a></li>
 	<li><a href="https://support.google.com/chrome/bin/answer.py?hl=en-GB&amp;answer=95647&amp;p=cpn_cookies">Chrome</a></li>
 	<li><a href="http://www.opera.com/browser/tutorials/security/privacy/">Opera</a></li>
-</ul>
+</ul><br>
 
 
-<h4 class="custh4">10. Amendment of this Privacy Policy</h4>
+<h4 class="custh4" style="font-weight:bold">10. Amendment of this Privacy Policy</h4>
 
 <p class="txt">10.1 We may change this Privacy Policy at any time by posting a new version on the Website. The new version will become effective on the date it is posted.</p>
 
-<h4 class="custh4">11. Retention period</h4>
+<h4 class="custh4" style="font-weight:bold">11. Retention period</h4>
 
 <p class="txt">11.1 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
 
-<h4 class="custh4">12. Your consent</h4>
+<h4 class="custh4" style="font-weight:bold">12. Your consent</h4>
 
 <p class="txt">12.1 By using the Website, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. The term “Processing” includes, but is not limited to, collecting, storing, deleting, using, combining and disclosing information.</p>
 
 
-<h4 class="custh4">13. Contacting us</h4>
+<h4 class="custh4" style="font-weight:bold">13. Contacting us</h4>
 
 <p class="txt">13.1 If you have any questions about this Privacy Policy, please send us a message by using the online form available on Contact us page , or please write to the following mailing address:<br>
 P.O Box 22602, Tel Aviv 61226, Israel</p>
 
 
-<h4 class="custh4">14. Last amendment</h4>
+<h4 class="custh4" style="font-weight:bold">14. Last amendment</h4>
 
 <p class="txt">14.1 This Privacy Policy has been last amended on 7th of February 2015.</p>
 <!-- ====== END Privacy Policy ====== -->	
@@ -270,28 +416,165 @@ P.O Box 22602, Tel Aviv 61226, Israel</p>
 				<h3>stay connected</h3>
 				<a href="https://www.facebook.com/pages/ProRankTracker/246803945495785" title="Like us on Facebook" target="_blank"><span class="stay_connected_b fb"></span></a>
 				<a href="https://twitter.com/ProRanktracker" title="Follow us on Twitter" target="_blank"><span class="stay_connected_b tw"></span></a>
-				<a href="https://www.linkedin.com/company/proranktracker" title="Follow us on LinkedIn" target="_blank"><span class="stay_connected_b in"></span></a>
+				<a href="http://blog.proranktracker.com/" title="Read PRT Blog"><span class="stay_connected_b in" target="_blank"></span></a>
 				<a href="https://proranktracker.com/members/submitticket.php?step=2&amp;deptid=1" title="Contact Us"><span class="stay_connected_b em" target="_blank"></span></a>
 
 			</div>
 			<img class="payments_b" src="/assets/extSite/images/payments_b.png" alt="">
-			<p id="copyright">Copyright ©  2015 Pro Rank Tracker<sup style="font-size: 90%;">®</sup> . All rights reserved.</p>
+			<p id="copyright">Copyright ©  2016 Pro Rank Tracker<sup style="font-size: 90%;">®</sup> . All rights reserved.</p>
 			<ul id="sub_ftr_menu">
-
 				<li><a href="/privacy-policy">Privacy Policy</a></li>
 				<li>|</li>
 				<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
+				<li>|</li>
+				<li><a href="/affiliates">Affiliates</a></li>				
 			</ul>
 		</div>
 	</div>
 <!-- ====== End Footer ====== -->
 </div>
 
+					
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+var ua = navigator.userAgent.toLowerCase(),
+platform = navigator.platform.toLowerCase();
+platformName = ua.match(/ip(?:ad|od|hone)/) ? 'ios' : (ua.match(/(?:webos|android)/)/* || ua.match(/(?:webkit|blackberry)/) */|| platform.match(/mac|win|linux/) || ['other'])[0],
+//isMobile = /ios|android|webos|webkit|blackberry/.test(platformName);
+isMobile = /ios|android|webos/.test(platformName);
 
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?3PLzinCfU3Mgpz4sbl8Z3b6AUZaXUgaY";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+
+
+$zopim(function() {
+	zopim_last_status = '';
+	
+	$zopim.livechat.departments.filter('Sales');
+	$zopim.livechat.departments.setVisitorDepartment('Sales');
+
+	$zopim.livechat.button.setHideWhenOffline(true);
+	 
+	$zopim.livechat.setOnStatus(bubble);
+
+	$('#live_chat').click(function(e){
+		if (zopim_last_status == "online") {
+			$zopim.livechat.button.hide();
+		} else if(zopim_last_status =='offline') {
+			location.href = '/members/submitticket.php?step=2&deptid=1';
+		}
+	
+		return false;
+	});	
+
+	function bubble(status){
+
+		var status_changed = status != zopim_last_status;
+		zopim_last_status = status;
+		
+		if (!status_changed)
+		  return;
+		
+		if(status=='online'){
+
+
+
+			
+			$('#live_chat p').text('Live Chat Support');
+			
+			if (isMobile){
+				$('.jx_ui_Widget').show().prev().show();
+			}
+			$('.submit_link').remove();			
+		}
+		else if(status=='offline'){
+
+			$('#live_chat p').text('Chat Support offline');//temp
+		
+
+ 
+			$zopim.livechat.button.show();
+			$('#live_chat p').text('Chat Support offline');
+			
+			if (isMobile){
+				$('.jx_ui_Widget').hide().prev().hide();
+			}
+			
+			setTimeout(function(){
+			  $('#ext_site').append( '\
+				<div class="submit_link" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; overflow: hidden; position: fixed; z-index: 16000002; width: 180px; height: 30px; right: 10px; bottom: 0px; background: transparent;">\
+					<a href="/members/submitticket.php?step=2&amp;deptid=1" class="zopim2submit">\
+						<div class="zopim2submit_wrap">\
+								<div class="zopim2submit_envelope_wrap">\
+									<span class="glyphicons glyphicons-envelope"></span>\
+								</div>\
+								<div class="zopim2submit_mes_wrap">\
+									<label>Leave a message</label>\
+								</div>\
+						</div>\
+					</a>\
+				</div>\
+				' );
+			}, 0);
+
+		}
+	}
+});
+
+</script>
+<!--End of Zopim Live Chat Script-->
 <!-- Clicky -->
 <script src="//static.getclicky.com/js" type="text/javascript"></script>
 <script type="text/javascript">try{ clicky.init(100872040); }catch(e){}</script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100872040ns.gif" /></p></noscript>
 
+<style>
 
+.zopim2submit{
+	background: red;
+	display: block;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	font-weight: bold;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+    max-height: 30px;
+    position: absolute;
+    bottom: 0;	
+}
+.zopim2submit_wrap{
+	min-width: 180px;
+	max-width: 300px;
+	height: 30px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.zopim2submit_envelope_wrap{
+	font-size: 16px;
+	speak: none;
+	line-height: 1;
+	text-align: center;
+	padding-top: 6px;
+	width: 36px;
+	background: #ee0000;
+	color: #ffffff;
+	float: left;
+	border-top-left-radius: 5px;
+}
+.zopim2submit_mes_wrap{
+	float: left;
+}
+.zopim2submit_mes_wrap label{
+	line-height: 30px;
+	padding-left: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+</style> 					
+					
 </body></html>
