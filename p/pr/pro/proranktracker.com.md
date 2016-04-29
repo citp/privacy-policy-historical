@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proranktracker.com privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921185231id_/http%3A//www.proranktracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proranktracker.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429231718id_/http%3A//proranktracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pro Rank Tracker
 
@@ -66,6 +66,7 @@ Pro Rank Tracker having a mailing address at P.O Box 22602, Tel Aviv 61226, Isra
   * [Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
   * [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
+  
 
 
 #### 10\. Amendment of this Privacy Policy
