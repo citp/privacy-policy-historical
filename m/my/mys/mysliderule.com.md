@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the mysliderule.com privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914212116id_/https%3A//www.mysliderule.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysliderule.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429034120id_/https%3A//www.springboard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SlideRule
+# Privacy Policy | Springboard
 
-SlideRule Labs, Inc.  
-PRIVACY POLICY
+  
 
-This privacy policy ( **“Policy”** ) describes how SlideRule Labs, Inc. and its related companies ( **“Company”** ) collect, use and share personal information of consumer users of this website, www.mysliderule.com (the **“Site”** ). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements. 
+
+### SlideRule Labs, Inc.
+
+##### PRIVACY POLICY
+
+* * *
+
+This privacy policy ( **“Policy”** ) describes how SlideRule Labs, Inc. and its related companies ( **“Company”** ) collect, use and share personal information of consumer users of this website, www.springboard.com (the **“Site”** ). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements. 
 
 ##### WHAT WE COLLECT
 
@@ -63,7 +69,7 @@ We take steps to help protect personal information. No company can fully prevent
 
 ##### CONTACT INFORMATION
 
-We welcome your comments or questions about this privacy policy. You may also contact us at our address: privacy[at]mysliderule.com 
+We welcome your comments or questions about this privacy policy. You may also contact us at our address: privacy[at]springboard.com 
 
 ##### CHANGES TO THIS PRIVACY POLICY
 
