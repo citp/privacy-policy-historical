@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbargains.com.au privacy policy that was archived on 2015-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150914161633id_/http%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbargains.com.au privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429073528id_/https%3A//www.topbargains.com.au/page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -51,7 +51,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.topbargains.com.au/go/79a0c32b1c4c77857cecde15c40c5d61)
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.topbargains.com.au/go/d8f50ff6b7499de62fdecffc0dc2ac6d)
 
 Changes to this privacy policy
 
