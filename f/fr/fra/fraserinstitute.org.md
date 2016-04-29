@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116104744id_/http%3A//www.fraserinstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fraserinstitute.org privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429041301id_/https%3A//www.fraserinstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fraser Institute
 
@@ -80,7 +80,7 @@ To ensure the protection of personal information collected by us, the FRASER INS
 
 
 
- **10\. Openess**  
+ **10\. Openness**  
 The FRASER INSTITUTE is committed to making readily available to individuals information on our policies and practices.
 
  **11\. Individual Access**  
