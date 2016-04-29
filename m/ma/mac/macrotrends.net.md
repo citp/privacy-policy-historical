@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405004239id_/http%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429025140id_/http%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
 
 # MacroTrends | Privacy Policy
 
@@ -67,4 +67,4 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please use our Contact Form
 
-This document was last updated on December 22, 2014
+This document was last updated on April 23, 2016
