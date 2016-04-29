@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905184328id_/https%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430004211id_/https%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
 
 # Legal | Bitium | Manage Your Apps and Passwords
 
@@ -8,7 +8,7 @@
 
 Bitium is committed to protecting the privacy of your Personal Information and our practice regarding use of your Personal Information is set forth below in this Privacy Policy. As a condition to use of Bitium Services, you consent to the terms of this Privacy Policy as it may be updated from time to time. In the event of a material change, we will provide notice via email or a prominent notice on the relevant Bitium website. This Privacy Policy applies exclusively to websites owned and controlled by Bitium that link to this Privacy Policy (“Bitium Websites”). Bitium Websites may contain links and access to other third-party websites. Bitium is not responsible for the information practices or the content of such other websites, and you should review the privacy statements of other websites to understand their information practices. 
 
-Bitium complies with the provisions of the U.S-E.U. Safe Harbor framework as set forth by the United States Department of Commerce, with regards to the collection, use and storage of Personal Information received from the European Union. To learn more about the U.S-E.U. Safe Harbor program, please visit <http://export.gov/safeharbor/>. 
+Bitium complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Bitium has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Bitium’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 ### Information Collected by Bitium:
 
