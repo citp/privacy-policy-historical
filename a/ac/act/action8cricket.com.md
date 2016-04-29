@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,14 +41,14 @@ If anybody feels that Watch Live Cricket is not adhering to its privacy policy i
 ---  
 | Recent Cricket Matches  
 ---  
-| [Friday, 15 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-15_May_2015.htm)  
+| [Friday, 06 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-06_May_2016.htm)  
 ---  
-[Thursday, 14 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-14_May_2015.htm)  
-[Wednesday, 13 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-13_May_2015.htm)  
-[Tuesday, 12 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-12_May_2015.htm)  
-[Monday, 11 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-11_May_2015.htm)  
-[Sunday, 10 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-10_May_2015.htm)  
-[Saturday, 09 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-09_May_2015.htm)  
-[Friday, 08 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-08_May_2015.htm)  
-[Thursday, 07 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-07_May_2015.htm)  
-[Wednesday, 06 May 2015](https://web.archive.org/web/20150510170721id_/http%3A//www.realcricketscore.com/cricketshowdate-06_May_2015.htm)
+[Thursday, 05 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-05_May_2016.htm)  
+[Wednesday, 04 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-04_May_2016.htm)  
+[Tuesday, 03 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-03_May_2016.htm)  
+[Monday, 02 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-02_May_2016.htm)  
+[Sunday, 01 May 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-01_May_2016.htm)  
+[Saturday, 30 Apr 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-30_Apr_2016.htm)  
+[Friday, 29 Apr 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-29_Apr_2016.htm)  
+[Thursday, 28 Apr 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-28_Apr_2016.htm)  
+[Wednesday, 27 Apr 2016](https://web.archive.org/web/20160429140023id_/http%3A//www.realcricketscore.com/cricketshowdate-27_Apr_2016.htm)
