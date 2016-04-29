@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090246id_/http%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standup2cancer.org privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429152524id_/http%3A//www.standup2cancer.org/privacypolicy) for the most accurate reproduction.*
 
 # Stand Up To Cancer — Privacy Policy
 
@@ -95,6 +95,8 @@ As stated above in **Personally Identifiable Information That We Collect** \- Sp
 Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
 SU2C will not share, sell, rent, or disclose any personally identifiable information that we have collected except as stated herein, or in the following instances: 1) we have been given your consent to disclose; 2) we have previously informed you of the disclosure, including by means of our Privacy Policy or on Site, or through the Service where you provided your information; 3) we are required by law, legal process, or court order to disclose; 4) disclosure is necessary to identify, contact, or bring legal action against someone who may cause or be causing harm to, or interference with, SU2C’s rights or property, other SU2C Web site users, or anyone else; or 5) to respond to an inquiry, request or complaint that you have made. SU2C may also use IP addresses in cooperation with Internet service providers to identify users if we deem it necessary to comply with law, to enforce compliance with this Privacy Policy or our Terms of Service, or to protect our sites, customers, or others.
+
+**_Also, please note that if you opt to make a donation in connection with SU2C’s promotion with American Airlines in which donors receive AAdvantage® bonus miles in return for their donation, SU2C will share the information we collect from you - including your name, email address, American Airlines AAdvantage account information, and your donation amount – with American Airlines._**
 
 **SU2C reserves the right to retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the TOS, and take other actions otherwise permitted by law.**
 
