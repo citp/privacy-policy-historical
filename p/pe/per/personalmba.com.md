@@ -1,44 +1,149 @@
-> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227181535id_/http%3A//worldlywisdomventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmba.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429194323id_/http%3A//worldlywisdomventures.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Worldly Wisdom Ventures
+# Privacy Policy - Worldly Wisdom Ventures LLC
 
 * * *
 
-[
+**Last updated:** April 18, 2016
 
-## Privacy Policy
+Worldly Wisdom Ventures LLC (“us”, “we”, or “our”) operates the http://worldlywisdomventures.com website (the “Service”).
 
-](https://web.archive.org/privacy-policy/)
+## Services
 
-**Last updated: January 8, 2014**
+The following websites (“Services”) are owned and operated by Worldly Wisdom Ventures LLC:
 
-The intent of this privacy policy is to clarify policies about how Worldly Wisdom Ventures LLC handles customer and website visitor data.
+  * [joshkaufman.net](https://joshkaufman.net/)
+  * [personalmba.com](https://personalmba.com/) and [book.personalmba.com](http://book.personalmba.com/)
+  * [first20hours.com](http://first20hours.com/)
+  * [personalstartup.com](http://personalstartup.com/)
+  * [boringadvice.net](http://boringadvice.net/)
+  * [worldlywisdom.com](http://worldlywisdom.com/)
 
-For each visitor to our web page, our web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
-We collect the domain name and e-mail address (where possible) of visitors to our web page, the e-mail addresses of those who post messages or commends to our bulletin board or web page comment features, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
-The information we collect is used to improve the content of our web page, used to notify consumers about updates to our web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+Please read this Privacy Policy (“Privacy Policy”, “Policy”) carefully before using any of the Services operated by Worldly Wisdom Ventures LLC (“us”, “we”, or “our”). These terms apply to each of the Services listed above.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use any of our Services.
 
-We do not share e-mail addresses or other personally identifiable information with third-party companies.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or choosing to “unsubscribe” via links provided in each email.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/terms-of-service/).
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address.
+## Information Collection And Use
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us. Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding orders they have placed on-line, coaching calls, new products and services, or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, and other other personally identifiable information (“Personal Information”). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+## Log Data
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them. Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+## Cookies
 
-### Questions or concerns?
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+
+If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+
+## Behavioral Remarketing
+
+Worldly Wisdom Ventures LLC may use remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+### Google Remarketing
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - https://tools.google.com/dlpage/gaoptout - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
+
+### Twitter Remarketing
+
+Twitter remarketing service is provided by Twitter Inc.
+
+You can opt-out from Twitter’s interest-based ads by following their instructions: https://support.twitter.com/articles/20170405
+
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
+
+### Facebook Remarketing
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/about/ads/#568137493302217
+
+Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
+
+### Perfect Audience Remarketing
+
+Perfect Audience remarketing service is provided by NowSpots Inc.
+
+You can opt-out of Perfect Audience remarketing by visiting these pages: Platform Opt-out (http://pixel.prfct.co/coo) and Partner Opt-out (http://ib.adnxs.com/optout).
+
+For more information on the privacy practices of Perfect Audience, please visit the Perfect Audience Privacy Policy & Opt-out web page: https://www.perfectaudience.com/privacy/index.html
+
+## Do Not Track Disclosure
+
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+
+## Communications
+
+We may use your Personal Information to contact you with newsletters, marketing, or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us at `support@worldlywisdomventures.com`.
+
+## Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+## Security
+
+The security of User and Subscriber Personal Information is covered in Worldly Wisdom Ventures LLC’s [Security Policy](https://web.archive.org/security-policy).
+
+## International Transfer
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us at `support@worldlywisdomventures.com`.
+
+If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of the date listed at the top of this page (“Last updated…“) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+## Contact Us
 
 If you have any questions or concerns about this policy, please contact:
 
@@ -50,5 +155,4 @@ Cheyenne, WY 82001
 **Phone:** +1-307-459-2650  
 **Fax:** +1-307-939-7094 
 
-  
-
+* * *
