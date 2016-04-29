@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everykidinapark.gov privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009103400id_/https%3A//www.doi.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everykidinapark.gov privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429131717id_/https%3A//www.doi.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Department of the Interior
 
@@ -93,13 +93,13 @@ We use virus protection measures on our computer systems and regularly update th
 
 ## For further information
 
-  * [Children's Privacy Policy](https://web.archive.org/privacy_children)
+  * [Children's Privacy Policy](https://web.archive.org/privacy/children)
 
 
   * [Copyright, Restrictions and Permissions Notice](https://web.archive.org/copyright)
 
 
-  * [Departmental Privacy Program](https://web.archive.org/ocio/policy-mgmt-support/privacy)
+  * [Departmental Privacy Program](https://web.archive.org/privacy/privacy-program)
 
 
   * [Departmental Linking Policy](https://web.archive.org/notices/linking)
