@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927062333id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430015740id_/https%3A//www.dosomething.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DoSomething.org | Volunteer for Social Change
+
+**We at Do Something, Inc. and DoSomething.org (collectively "Do Something") love teens.**  
+They are creative, active, wired… and frustrated that our world is so messed up. Do Something harnesses that awesome energy and unleashes it on causes teens care about. Almost every week, we launch a new campaign. The call to action is always something that has a real impact and doesn't require money, an adult, or a car. With a goal of 5 million active members by the end of 2015, Do Something is one of the largest organizations in the US for teens and social change.
+
+Because we believe in teens so much, we're also super-passionate about their safety, security, privacy, and other stuff like that.
+
+Do Something has a privacy policy ("Privacy Policy") that governs our website (http://www.dosomething.org) and any other products, services, and/or content provided by Do Something (collectively, the "Services"). It's here to protect one of our greatest assets: trust. We've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. The following explains our online information gathering and dissemination practices. (And we've tried to keep the lawyers' paws off it, instead writing it such that you can actually understand how much we genuinely care about your safety and what we're doing to protect it.)
+
+This policy may change over time, so please check back every once in a while. (Like, the next time you are waiting in line to score Hunger Games movie tickets and you are totally bored? Come back and re-read this policy to pass the time.)
+
+Do Something is a closed community and email addresses are requested to participate in some of our member-only features. Our promise to you: If we collect information from you, we use it only for the purposes for which it was collected and the limited purposes outlined below. We will not sell or share your personally identifiable information with any third party. (Read: you're not going to be receiving random credit card offers in the mail because of us. Ew. We'd never do that.)
+
+As a not-for-profit organization exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, Do Something is exempt from compliance with the Children's Online Privacy Protection Act of 1998. However, we take children's privacy seriously, and encourage users and their parents to review our Privacy Policy and Terms of Service to understand our information collection practices.
 
 **1\. When Does Do Something Collect My Personal Information?**  
 When you share it with us by, for example: (1) sharing your email address, birthdate, phone number, or other information when subscribing to our newsletter or registering with us to form an account ("Account"), (2) sharing personal information when you submit a report via our contact form, (3) sharing personal information when you post comments, (4) sharing contact information (e.g.., Twitter username and Facebook account name) through our contests or platform, (5) signing up to be a member online by email or Facebook Connect or sms, (6) participating in a survey where an email address is requested; (7) sharing other personal information with us through forms, contest entries, or other communications with us.
