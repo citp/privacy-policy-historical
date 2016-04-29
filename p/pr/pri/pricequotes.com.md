@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508221134id_/http%3A//www.pricequotes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429053233id_/http%3A//www.pricequotes.com/privacypolicy) for the most accurate reproduction.*
 
-# PrivacyPolicy | PriceQuotes
+# PrivacyPolicy | PriceQuotesPriceQuotes
 
 **PriceQuotes.com** respects the privacy rights of its online visitors and is committed to providing a secure environment for them. To demonstrate our commitment, we have adopted an Online Privacy Policy that governs the information collection practices of our Web site.
 
