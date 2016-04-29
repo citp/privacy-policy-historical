@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215030026id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430002437id_/http%3A//postandcourier.com/section/privacy) for the most accurate reproduction.*
 
 # The Post and Courier | Charleston SC, News, Sports, Entertainment
-
-#### Latest News
-
-* * *
-
-[](http://www.postandcourier.com/article/20151214/PC1603/151219654/1031/joe-riley-puts-faith-in-learning-from-history-x2014-all-of-it-x2014-in-speech-to-usc-graduates "Joe Riley puts faith in learning from history — all of it — in speech to USC graduates")
-
-* * *
-
-[](http://www.postandcourier.com/article/20151214/PC1603/151219662/1031/trump-x2019-s-doctor-declares-gop-candidate-is-in-excellent-health "Trump’s doctor declares GOP candidate is in excellent health")
-
-#### Latest From Charleston Scene
-
-[](http://www.postandcourier.com/article/20151212/PC1201/151219868/1007/on-frank-sinatra-x2019-s-100th-birthday-local-woman-reminisces-about-her-lucky-encounter "On Frank Sinatra’s 100th birthday, local woman reminisces about her lucky encounter")
-
-* * *
-
-* * *
-
-[](http://www.postandcourier.com/article/20151212/PC11/151219897/1007/nyc-x2019-s-santacon-aims-to-put-an-end-to-naughty-or-nice-debate "NYC’s SantaCon aims to put an end to naughty-or-nice debate")
 
 ## PRIVACY STATEMENT
 
