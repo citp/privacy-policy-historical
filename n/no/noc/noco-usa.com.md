@@ -1,109 +1,59 @@
-> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210223749id_/http%3A//www.nocousa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429192625id_/https%3A//no.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NOCO
+# NOCO - Privacy Policy
 
-## About our Privacy Policy
+### The NOCO Company Privacy Policy was updated on October 15, 2015.
 
-NOCO is committed to protecting your privacy. That is because we base our business on the trust you place in us. This policy describes our practices regarding personal information collected through our Website. In this policy, "personal information" means your name, company name, address, telephone number, and e-mail address plus any other information that you share with us, or would permit us to contact you, and "we" and "us" means NOCO as well as its affiliated companies.
+The NOCO Company ("us", "we", or "our") operates the http://www.no.co website (the "Service"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy. We use your Personal Information for providing and improving the Service. **By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.no.co.**[View Terms and Conditions](https://no.co/terms-and-conditions/)
 
-We reserve the right to modify this privacy policy from time to time; the effective date noted below will indicate the date that this policy was last updated. You should visit our Website periodically to review any changes.
+### Information Collection And Use.
 
-### Summary of Privacy Policy
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-How much information must I share?
-    
+### Log Data.
 
-The amount and type of information we collect from you depends on your activities and use of our Website. Below, we explain what information we collect.
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-Back to Top
+### Cookies.
 
-When you browse our Website
-    
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-**IP address:** We collect your IP address to measure our Website traffic and to help provide a relevant users experience.
+### Behavioral Remarketing.
 
-**Referral Website:** If you come to our Website via a link, we collect the location of the link that referred you.
+The NOCO Company uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service. Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads. Google also recommends installing the Google Analytics Opt-out Browser Add-on - https://tools.google.com/dlpage/gaoptout - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/. AdRoll remarketing service is provided by Semantic Sugar, Inc. You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false. For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: http://www.adroll.com/about/privacy.
 
-**Browser type:** We collect information about the browser you are using to help optimize our Website for visitors.
+### Do Not Track Disclosure.
 
-**Movements through our Website:** We keep track of pages you visit to help provide you with a more personalized shopping experience.
+We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-Back to Top
+### Service Providers.
 
-When you request a catalog through our website
-    
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-We collect your name, address, telephone number and email address.
+### Communications.
 
-Back to Top
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-When you communicate through our website
-    
+### Business Transaction.
 
-We collect your e-mail address and the other information that you provide in order to respond to your communication.
+If The NOCO Company is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
 
-Back to Top
+### Security.
 
-Is my personal or account information used for any other purpose?
-    
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
+### International Transfer.
 
-We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by sending us an email at [opt-out@noco-usa.com](mailto:opt-out@noco-usa.com).
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-We may also analyze and act upon your personal information as part of our standard business practices. We occasionally purchase from third parties commercial information such as company size, number of employees and annual sales of other companies. We may use this commercial information along with your personal information to customize our offerings to you, as well as for our internal use.
+### Links To Other Sites.
 
-In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we may contact you by telephone or e-mail and solicit your participation in research.
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-If you become our customer, we may send you updates on important information about our company and products.
+### Children's Privacy.
 
-Back to Top
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers.
 
-Will my personal and account information be provided to any other party?
-    
+### Changes To This Privacy Policy.
 
-We restrict access to your personal information to those who need access to use it as set forth in this policy. Only authorized personnel are permitted to see your information. Your other personal and account information may be disclosed to third parties in limited circumstances. For example, we may share your personal information with our service providers and strategic partners and with suppliers and other entities involved in transactions you have initiated. We may disclose your personal information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
-
-Back to Top
-
-How do you protect my personal and account information?
-    
-
-We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal information is required. Our Website is certified by [VeriSign](http://www.verisign.com/), which verifies that our Website is authentic and that we use SSL security.
-
-In addition, your personal information is kept behind our firewall on separate servers. All information is processed under encrypted channels, although you may choose unencrypted processing.
-
-Back to Top
-
-How can I give you feedback or contact you?
-    
-
-Simply [click here](https://web.archive.org/web/20151210223749id_/http%3A//www.nocousa.com/contact.aspx). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
-
-Back to Top
-
-### About Your Order
-
-For questions regarding an order, please call 1-800-456-6626.
-
-### Technical Issues
-
-Experiencing problems with our website. [Report problems](https://web.archive.org/contact.aspx).
-
-### Write to NOCO
-
-The NOCO Company
-
-30339 Diamond Parkway #102 Glenwillow, OH 44139-5400 United States of America
-
-### Phone Numbers
-
-Toll Free: 800-456-6626
-
-Work: 216-464-8131
-
-Fax: 216-464-8172
-
-### Hours of Operation
-
-Between 8AM and 5PM (EST), Monday through Friday 
+This Privacy Policy is effective as of October 15, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
