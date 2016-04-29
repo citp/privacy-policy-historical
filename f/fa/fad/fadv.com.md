@@ -1,28 +1,8 @@
-> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215213917id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fadv.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429131320id_/http%3A//fadv.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Online Privacy Policy  **  
-First Advantage has a separate privacy statement that applies to personal information pertaining to an identified or identifiable individual that is received by First Advantage from: (i) the European Union, called the European Union Safe Harbor Privacy Policy, (ii) from Switzerland, called the Switzerland Safe Harbor Privacy Policy, (iii) from Australia and New Zealand, called the Australian and New Zealand Privacy Policy, and (iv) from Japan, called the Japanese Privacy Policy. 
-
-* * *
-
-**Canada & Singapore Data Protection Officer**  
-Our **Data Protection Officer** for Canada and Singapore is **Bret Jardine, Esq.**
-
-To request information or receive **help with data protection issues** , contact our Data Protection Officer at: 
-
-Bret Jardine, Esq.  
-Singapore: +1.678.710.7260 direct: +65 6534 3262  
-Canada: 800.833.7511
-
-**India - Grievance Officer**  
-As required under **The Information Technology Act of India** , the name and contact details of the **Grievance Officer for addressing discrepancies and grievances** are as under: 
-
-Anselm Pinto  
-Regional Compliance Officer   
-Phone: +91 8039909614  
-Email: privacy.napac@fadv.com
+The Grievance Officer is designated exclusively for addressing discrepancies and grievances of data providers with respect to processing of information in a time bound manner. Please do NOT use the contact information for login issues for any portal of First Advantage. 
 
 **All other requests, including customer and job applicant, help, support or additional information please [visit our contact page](https://web.archive.org/our-company/contact-support.aspx) or call:**
 
@@ -535,3 +515,6 @@ Email: [privacy@fadv.com.au](mailto:privacy@fadv.com.au)
 **Japan Privacy Policy**
 
 [http://www.fadv.com/global-presence/asia-pacific/japan/privacy-policy.aspx ](https://web.archive.org/global-presence/asia-pacific/japan/privacy-policy.aspx)
+
+  
+
