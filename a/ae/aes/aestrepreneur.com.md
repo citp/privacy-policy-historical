@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aestrepreneur.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810215946id_/http%3A//aestrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aestrepreneur.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429124226id_/http%3A//www.jadeneaston.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aestrepreneur
+# Privacy Policy | Jaden Easton
 
 #### Collecting Information
 
