@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318232215id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429204935id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at DogTuff.com
 
@@ -62,8 +62,8 @@ This policy was last modified on 1/3/2010
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 https://www.dogtuff.com/contact  
-5885 Cumming Hwy STE 108-314  
-Sugar Hill, GA 30518  
+3245 PEACHTREE PKWY STE D-445  
+SUWANEE GA 30024-6054  
 USA  
 [bark@dogtuff.com](mailto:bark@dogtuff.com)  
 1-877-341-0633
