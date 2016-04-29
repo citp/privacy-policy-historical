@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003044029id_/https%3A//www.citibank.co.uk/personal/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.co.uk privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429053657id_/https%3A//www.citibank.co.uk/personal/privacy.do) for the most accurate reproduction.*
 
-# Privacy and cookies
+# Privacy and Cookie Policy | Personal Information | Citi
 
 This Online Privacy and Cookies Policy describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on third-party websites
 
@@ -118,10 +118,10 @@ To request a copy of the information we hold on you please contact us at the add
 For Citi Customers:
 
 Data Request Team  
-Citibank International Limited  
-PO Box 49930  
-London  
-SE5 7XT
+Citibank Europe plc, UK Branch  
+PO Box 4012  
+Swindon  
+SN4 4JZ
 
 For CitiFinancial Customers:
 
