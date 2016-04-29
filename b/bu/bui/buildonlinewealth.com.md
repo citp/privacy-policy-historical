@@ -1,46 +1,79 @@
-> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811052213id_/http%3A//buildonlinewealth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429233902id_/http%3A//www.danamwebdesign.com/service/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Danam Web Design
 
 **Privacy Policy**
 
-We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
+Your privacy is important to us. This privacy statement provides information about the personal information that This Website collects, and the ways in which This Website uses that personal information.
 
-1\. What Personal Information Do We Collect?
+**Personal information collection**
 
-* Information You Provide. We receive and store information you enter. 
+This Website may collect and use the following kinds of personal information:
 
-For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. 
+– information about your use of this website (including name and email);  
+– information that you provide using for the purpose of registering with the website (including name and email);  
+– information about transactions carried out over this website (including financial transactions);  
+– information that you provide for the purpose of subscribing to the website services (including name and email); and  
+– any other information that you send to Danam.
 
-We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition we may share your information with other companies who provide goods or services that you are interested in. 
+**Using personal information**
 
-* Cookies. Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. 
+Danam may use your personal information to:
 
-If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
+– administer this website;  
+– personalize the website for you;  
+– enable your access to and use of the website services;  
+– send to you products that you purchase;  
+– supply to you services that you purchase;  
+– send you statements and invoices;  
+– collect payments from you; and  
+– send you marketing communications.
 
-* Other Information: Every computer has an IP (Internet Protocol) address. IP addresses of computers used to visit this site are noted. In addition, we automatically collect other information such as email addresses, browser types, operating systems, and the URL addresses of sites clicked to and from this site.
+Where Danam discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
-* Information from Other Sources. We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. 
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, Danam may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
-2\. How Do We Use Your Information?
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service. We may also transfer information about you if Danam is acquired by, merged or joint ventured with another company.
 
-* Customized Shopping. We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
+**Securing your data**
 
-* Agents. We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+Danam will take reasonable technical and organizational precautions to prevent the loss, misuse or alteration of your personal information.
 
-* Special Offers. We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may “opt-out”. If we send you offers from other businesses, we do not share your personal information with them. The offers come directly through us. Please see the “opt-in/opt-out” selection at the end of this policy. 
+Danam will store all the personal information you provide on its secure servers.
 
-* Business Transfers. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets. We may rent,sell or trade any personal information collected at any time without warning.
+**Cross-border data transfers**
 
-* Law Enforcement. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Information that Danam collects may be stored and processed in and transferred between any of the countries in which Danam operates to enable the use of the information in accordance with this privacy policy.
 
-3\. Children 
+In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.
 
-We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian. 
+You agree to such cross-border transfers of personal information.  
+**Information Gathering and Usage**
 
-4\. Other Websites 
+When you register for a Danam service we ask for information such as your name, email address, billing address, credit card information.
 
-Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
+Danam uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-Copyright © 2010 All Rights Reserved  
-[Earnings Disclaimer](https://web.archive.org/web/20150811052213id_/http%3A//buildonlinewealth.com/earnings-disclaimer.html) | [Privacy Policy](https://web.archive.org/web/20150811052213id_/http%3A//buildonlinewealth.com/privacy-policy.html)
+**Cookies**
+
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site’s computers and stored on your computer’s hard drive.
+
+Cookies are required to use the Danam service.
+
+We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Danam Project Site after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+**Data Storage**
+
+Danam uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Danam Marketing. Although Danam owns the code, databases, and all rights to the Danam applications, you retain all rights to your data.
+
+Danam may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+**Other websites**
+
+This website contains links to other websites.
+
+This Website is not responsible for the privacy policies or practices of any third party.
+
+**Changes**
+
+Danam may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Danam primary account holder account or by placing a prominent notice on our site.
