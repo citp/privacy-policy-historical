@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055632id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429130212id_/http%3A//www.religionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Religion News Service
+# Privacy Policy | Religion News Service
 
 Last Revised  **February 3, 2010**
 
-[Kids and parents click here!](http://www.religionnews.com/about/privacy-policy/#kidsandparents)
+The following Privacy Policy summarizes the various ways that Religion News Service LLC (“Service Provider,” “we” or “our”) treats the information you provide while using religionnews.com (“Website”).  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-The following Privacy Policy summarizes the various ways that Religion News Service LLC (“Service Provider,” “we” or “our”) treats the information you provide while using www.religionnews.com (“Website”).  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://religionnews.com/index.php?/privacypolicy.  **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.**   If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.religionnews.com/index.php?/privacypolicy.  **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.**   If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
-
-In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.religionnews.com/index.php?/useragreement). Your use of the Website constitutes agreement to its terms and conditions as well.
+In addition to reviewing this Privacy Policy, please read our [User Agreement](http://religionnews.com/index.php?/useragreement). Your use of the Website constitutes agreement to its terms and conditions as well.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -60,8 +58,9 @@ If you’re worried about your children’s activities or their privacy on our s
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
-**Yonat Shimron  
-Religion News Service, LLC**  
-**1930 18th St NW**  
-**Washington, DC   20009**  
-[ **Yonat.Shimron@ReligionNews.com**](mailto:yonat.shimron@religionnews.com)
+Yonat Shimron **  
+Religion News Service**  
+National Press Club Building  
+529 14th Street N.W., Suite 1009  
+Washington, DC  200045  
+[ Yonat.Shimron@ReligionNews.com](mailto:yonat.shimron@religionnews.com)
