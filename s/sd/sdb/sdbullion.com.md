@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdbullion.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024200838id_/https%3A//sdbullion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdbullion.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430010837id_/https%3A//sdbullion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SD Bullion
 
@@ -57,9 +57,11 @@ We do not share your personal information with individuals, organizations, or co
 
 3\. For legal reasons. We will share information with individuals, organizations, or companies pursuant to a warrant or meeting applicable law, regulation, legal process, or enforceable government request. We will also share your information if we feel it is necessary to protect against harm to the rights, property, or safety of SD Bullion, our users, our employees, or the public as required by law.
 
-4\. Non-personally identifiable information (aggregated data) may be shared with our partners including advertisers and connected sites.
+4\. For payment collections on an order that is unpaid past our terms and conditions agreed upon at checkout.
 
-5\. If SD Bullion is involved in a merger, acquisition, or sale we will continue to ensure your privacy until it is transferred or is subject to a new privacy policy.
+5\. Non-personally identifiable information (aggregated data) may be shared with our partners including advertisers and connected sites.
+
+6\. If SD Bullion is involved in a merger, acquisition, or sale we will continue to ensure your privacy until it is transferred or is subject to a new privacy policy.
 
 **Information Security**
 
