@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheetz.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923224233id_/https%3A//www.sheetz.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheetz.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429140111id_/https%3A//www.sheetz.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Sheetz :: Privacy Policy : Mobile App
 
