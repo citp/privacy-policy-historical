@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014441id_/http%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcentralstation.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430001755id_/https%3A//www.itcentralstation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Central Station
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy was last updated on August 15, 2015.
 
-IT Central Station Ltd. (“IT Central Station”, “we”, or “us”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“Privacy Policy”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20151208014441id_/http%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you use the Services. 
+IT Central Station Ltd. (“IT Central Station”, “we”, or “us”) takes the privacy and protection of personal information very seriously. By visiting the Site, registering as a Member, or using the Services, you acknowledge and accept the practices and policies outlined in this privacy policy (“Privacy Policy”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the IT Central Station Terms of Use, which can be found [here](https://web.archive.org/web/20160430001755id_/https%3A//www.itcentralstation.com/tos) and which incorporate this Privacy Policy by reference. This Privacy Policy describes IT Central Station's practices with respect to Personal Information that we collect when you use the Services. 
 
 “Personal Information” is information that is personally identifiable such as names, addresses, e-mail addresses, or phone numbers, as well as other non-public information that is associated with the foregoing. We collect and use Personal Information as described in this Privacy Policy from the Users of our Services. 
 
