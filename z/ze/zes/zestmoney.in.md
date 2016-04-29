@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224102402id_/http%3A//zestmoney.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zestmoney.in privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429055937id_/http%3A//zestmoney.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zest Money
 
@@ -72,12 +72,3 @@ As part of the application process, we ask you whether we may contact you about 
 ## Age
 
 To register with us you must be 18 years of age or older and Indian Resident. Minors are strictly forbidden from using the service. 
-
-  
-
-
-Zest offers the above basis its association with third parties, conditions apply.
-
-© 2015 Chalk Farm Ventures Private Limited   |   Zest and ZestMoney are Trademarks under application of Chalk Farm Ventures Private Limited
-
-Registered Address: Office No 7, Achalgiri, Padmavati Nagar, Near Maxus Mall, 150 Feet Road, Bhayander West - 401101, Thane, Maharashtra, India. CIN : U65923MH2015PTC264459
