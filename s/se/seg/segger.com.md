@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the segger.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229031027id_/https%3A//www.segger.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segger.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430002514id_/https%3A//www.segger.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SEGGER - The Embedded Experts for RTOS and Middleware, Debug Probes and Production Programmers - Privacy Policy
+# SEGGER - The Embedded Experts - About us - Privacy Policy
 
-By using a SEGGER website, you consent to the collection and use of your data in the manner and for the purposes set out below. Any personal information which may be collected from a SEGGER website will be treated in accordance with this privacy policy
+By using a SEGGER website, you consent to the collection and use of your data in the manner and for the purposes set out below. Any personal information which may be collected from a SEGGER website will be treated in accordance with this privacy policy.
 
 ## What personal information is collected when visiting the SEGGER website?
 
@@ -10,7 +10,11 @@ When you visit a SEGGER website, we may collect personal information, including 
 
 ## What personal information is collected when subscribing to the SEGGER newsletter?
 
-Our website offers the opportunity to subscribe to SEGGER notifications. You can select by check boxes for which products you would like to receive news. You need to provide a valid email address. When subscribing to our newsletter, we will store your name, company name, email address, IP address as well as the date and time you subscribed to prevent unauthorized or improperly use of the submitted email address. We will not collect any other data. The data thereby collected is used solely for the purpose of providing you with the related product news. You may cancel your subscription to the newsletter at any time. You will find additional details in the email confirming your subscription as well as in each newsletter.
+Our website offers the opportunity to subscribe to SEGGER notifications. You can select by check boxes for which products you would like to receive news. You need to provide a valid email address. When subscribing to our newsletter, we will store your name, company name, email address, IP address as well as the date and time you subscribed. We will not collect any other data. The data thereby collected is used solely for the purpose of providing you with the related product news. You may cancel your subscription to the newsletter at any time. You will find additional details in the email confirming your subscription as well as in each newsletter.
+
+## What personal information is collected when registering an account at SEGGER?
+
+Our website offers the opportunity to register a user account in order to get access to software downloads from our web server. Some information such as your email address, first name and last name are mandatory, others such as country, company name, address, city, zip / postal code, job title and work phone are optional. When registering an account, we will store your submitted information, IP address as well as the date and time you subscribed We will not collect any other data. The data thereby collected is used solely for the purpose of providing you with the related product news.
 
 ## What personal information is collected when purchasing through SEGGER's web shop?
 
