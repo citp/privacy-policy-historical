@@ -1,57 +1,59 @@
-> *The following text is extracted and transformed from the geniuschargers.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206102044id_/http%3A//www.geniuschargers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniuschargers.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429192625id_/https%3A//no.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Genius Battery Chargers
+# NOCO - Privacy Policy
 
-**How much information must I share?**  
-The amount and type of information we collect from you depends on your activities and use of our Website. Below, we explain what information we collect.
+### The NOCO Company Privacy Policy was updated on October 15, 2015.
 
-**When you browse our Website**  
-IP address: We collect your IP address to measure our Website traffic and to help provide a relevant users experience. 
+The NOCO Company ("us", "we", or "our") operates the http://www.no.co website (the "Service"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy. We use your Personal Information for providing and improving the Service. **By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.no.co.**[View Terms and Conditions](https://no.co/terms-and-conditions/)
 
-Referral Website: If you come to our Website via a link, we collect the location of the link that referred you.
+### Information Collection And Use.
 
-Browser type: We collect information about the browser you are using to help optimize our Website for visitors.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address, other information ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
 
-Movements through our Website: We keep track of pages you visit to help provide you with a more personalized shopping experience.
+### Log Data.
 
-**When you make purchases through our Website**  
-We collect your name, address and payment information to process your order. However, you may provide credit card and purchase order numbers by telephone.
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-We collect information contained in "cookies," such as your purchases and log in data, to personalize your shopping experience. Your browser must be set to accept cookies if you wish to add items to a shopping cart.
+### Cookies.
 
-**When you create an Account through our Website**  
-We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your E-Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password.
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
-**When you subscribe to our E-mail Update through our Website**  
-You must create an Account to subscribe to our e-mail update. We use your Account information in connection with your subscription. To manage your E-mail Update subscription, [click here](https://web.archive.org/unsubscribe).
+### Behavioral Remarketing.
 
-**When you enter contests, participate in surveys, or register for other activities on our Website**  
-We collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity.
+The NOCO Company uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service. Google AdWords remarketing service is provided by Google Inc. You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads. Google also recommends installing the Google Analytics Opt-out Browser Add-on - https://tools.google.com/dlpage/gaoptout - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/. AdRoll remarketing service is provided by Semantic Sugar, Inc. You can opt-out of AdRoll remarketing by visiting this AdRoll Advertising Preferences web page: http://info.evidon.com/pub_info/573?v=1&nt=1&nw=false. For more information on the privacy practices of AdRoll, please visit the AdRoll Privacy Policy web page: http://www.adroll.com/about/privacy.
 
-**When you communicate with us through our Website**  
-We collect your e-mail address and the other information that you provide in order to respond to your communication.
+### Do Not Track Disclosure.
 
-**Is my personal or account information used for any other purpose?**  
-We may use your personal and account information to provide products or services you have requested, respond to a communication from you, contact you, and as otherwise described in this policy.
+We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by sending us an email at [opt-out@geniuschargers.com](mailto:opt-out@geniuschargers.com). 
+### Service Providers.
 
-We may also analyze and act upon your personal information as part of our standard business practices. We occasionally purchase from third parties commercial information such as company size, number of employees and annual sales of other companies. We may use this commercial information along with your personal information to customize our offerings to you, as well as for our internal use.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
 
-In addition, in order to measure how we are doing and to better understand how we can improve our product offerings, we may contact you by telephone or e-mail and solicit your participation in research.
+### Communications.
 
-If you become our customer, we may send you updates on important information about our company and products.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-**Will my personal and account information be provided to any other party?**  
-We restrict access to your personal information to those who need access to use it as set forth in this policy. Only authorized personnel are permitted to see your information. Your other personal and account information may be disclosed to third parties in limited circumstances. For example, we may share your personal information with our service providers and strategic partners and with suppliers and other entities involved in transactions you have initiated. We may disclose your personal information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims. Your personal information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
+### Business Transaction.
 
-**How do you protect my personal and account information?**  
-We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal information is required. Our Website is certified by Network Solutions, which verifies that our Website is authentic and that we use SSL security. To view our Network Solutions certificate, click the site seal below. Our Website security information will appear.
+If The NOCO Company is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
 
-In addition, your personal information is kept behind our firewall on separate servers. All information is processed under encrypted channels, although you may choose unencrypted processing.
+### Security.
 
-**How can I give you feedback or contact you?**  
-Simply click here. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
 
-**How can I correct inaccurate information?**  
-You may correct some personal and account information maintained in your Account through your My Account. To correct any other information, please contact NOCO at [myaccount@geniuschargers.com](mailto:myaccount@geniuschargers.com) or 800-456-6626.
+### International Transfer.
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+### Links To Other Sites.
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Children's Privacy.
+
+Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers.
+
+### Changes To This Privacy Policy.
+
+This Privacy Policy is effective as of October 15, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
