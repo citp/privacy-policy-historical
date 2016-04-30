@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pebblego.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007171101id_/http%3A//www.pebblego.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pebblego.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430050330id_/https%3A//pebblego.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # PebbleGo | Capstone Digital
 
@@ -8,7 +8,7 @@
 **User Supplied Information** You may be asked to supply contact information in order to receive information or materials that you request from the Web site. We use contact information to send you the information you request when you submit the form.   
 PebbleGo may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) PebbleGo rights or property or other users of the Web site, or anyone else that could be harmed by such activities. PebbleGo may use or disclose user information to address violations or possible violations of the 
 
-_[Terms of Use](http://www.pebblego.com/info/termsofuse.html)_ of the Web site. PebbleGo may disclose user information when we believe in good faith that the law requires the disclosure.   
+_[Terms of Use](https://www.pebblego.com/info/termsofuse.html)_ of the Web site. PebbleGo may disclose user information when we believe in good faith that the law requires the disclosure.   
 PebbleGo may share aggregate information about our users with business partners and other third parties. For example, we may disclose that the Web site audience comes x percent from east of the Mississippi River and y percent from west of the Mississippi River. 
 
 **Children's Information**   
@@ -22,12 +22,13 @@ PebbleGo does not use cookies.
 
   3. **ACCESS/PARTICIPATION**  
 You may access the data collected by PebbleGo about you by sending a request to the address listed below. If you believe that an error has been made in the accuracy of the data collected from you, PebbleGo will correct such error upon adequate verification of the error and the identity of the person seeking the correction. If you wish to access, remove or correct any personally identifying data you have supplied to PebbleGo you may do so either by: 
-    1. sending an e-mail request to [PebbleGo@capstonepress.com](mailto:PebbleGo@capstonepress.com); or 
+    1. sending an e-mail request to [support@capstonepub.com ](mailto:support@capstonepub.com); or 
     2. sending a letter via the U.S. Mails to:  
 Manager of Web Site Development  
-PebbleGo  
-151 Good Counsel Drive  
-Mankato, MN 56002 
+Pebble Go  
+1710 Roe Crest Drive  
+North Mankato, MN 56003  
+
 Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections. 
   4. **INTEGRITY/SECURITY OF THE DATA COLLECTED**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, PebbleGo has put in place commercially reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
