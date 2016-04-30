@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosippme.com privacy policy that was archived on 2014-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141206094706id_/http%3A//goo.gl/j0riyg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosippme.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430204425id_/http%3A//goo.gl/j0riyg) for the most accurate reproduction.*
 
 # Read Celebrity Gossip And News Stories-Latest Entertainment News
 
@@ -25,6 +25,3 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by GossippMeBlog 
-
-  
-
