@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichess.net privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926002858id_/https%3A//www.ichess.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichess.net privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430101015id_/https%3A//www.ichess.net/privacy-policy) for the most accurate reproduction.*
 
 # Legal/Privacy Policy | Chess Videos, Chess DVDs, Chess Software and more.
 
@@ -6,22 +6,26 @@ What information do we collect?We collect information from you when you register
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 What do we use your information for?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-To personalize your experience  
+To personalize your experience
+
 (your information helps us to better respond to your individual needs)
 
-To improve our website  
+To improve our website
+
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-To improve customer service  
+To improve customer service
+
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-To process transactions  
+To process transactions
+
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 How do we protect your information?
@@ -34,7 +38,7 @@ After a transaction, your private information (credit cards, social security num
 
 Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -70,6 +74,8 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.ichess.NET  
-info (a) ichess.net  
+www.ichess.NET
+
+info (a) ichess.net
+
 +1-678-894-0081
