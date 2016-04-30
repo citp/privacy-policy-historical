@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkinprofile.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226033425id_/http%3A//linkinprofile.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkinprofile.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430033252id_/https%3A//linkinprofile.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Link In Profile
 
-_updated: September 12, 2015_
+_updated: March 17, 2016_
 
 ## Link in Profile Account Privacy Policies
 
@@ -27,6 +27,8 @@ If you have a private Instagram account, be very careful how you use our service
  **If you find any abuse within Link in Profile, please reach out immediately to us at legal@linkinprofile.com.**
 
 When you use Link in Profile, we may ask you for information such as your name, phone number or email address. The information we collect allows us to provide customer support and assist you in the use of Link in Profile. We may also use your personal information to contact you about important notices, such as changes to our terms, conditions and policies. Again, we encourage you to pause and reflect on the information you give us.
+
+Finally, if you decide to become a Link in Profile customer (HOORAY!) we will ask you for your credit card information. This information is encrypted and stored with our third-party credit card processor, Stripe. If you are interested in their privacy policy, we’ve linked it here: [Stripe’s Privacy Policy](https://stripe.com/us/privacy). 
 
 As always, your privacy is paramount to Link in Profile. We will never disclose your personal information without your consent.
 
