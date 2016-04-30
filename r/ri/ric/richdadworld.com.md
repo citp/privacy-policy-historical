@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318163020id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430083706id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Rich Dad World PowerPack Privacy Statement | Rich Dad World PowerPack
 
@@ -31,6 +31,10 @@ We use your IP address and other standard log file information to help diagnose 
 ### Cookies and Click Trail Information
 
 Our site uses cookies for a number of reasons, such as (a) to keep track of your shopping cart, (b) to recognize you when you return to our site and (c) to recognize whether a customer came to our site as a result of a promotion on one of our partners’ sites. Some of these cookies may be placed by our third party service providers to recognize when a user visits this site. The information collected and shared through this technology is non-personally identifiable. We also collect anonymous visitor information about how you utilize our site, such as IP addresses, browser types (such as Chrome or Firefox), referring pages and pages visited. We use this information (a) to perform anonymous statistical analysis of Web page traffic patterns, (b) to administer our Web site and servers, and (c) to improve our services.
+
+Rich Dad World uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Rich Dad World website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. 
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](https://www.google.com/settings/ads/plugin). 
 
 ### Registration Form
 
