@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkbuild.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116235850id_/http%3A//www.backlinkbuild.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkbuild.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430084517id_/http%3A//www.backlinkbuild.com/privacy) for the most accurate reproduction.*
 
 # Backlink Build : Privacy Policy
 
