@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ininbox.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917184016id_/http%3A//www.ininbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ininbox.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430082541id_/http%3A//www.ininbox.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | INinbox
 
