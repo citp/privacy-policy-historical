@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttech.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917093528id_/http%3A//www.smarttech.com/Home%2BPage/Legal/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttech.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430061658id_/http%3A//smarttech.com/Legal/Privacy%2BPolicy%23cookie) for the most accurate reproduction.*
 
 # Privacy policy - SMART Technologies
 
@@ -301,7 +301,7 @@ This cookie is written to your browser when you sign into SMART amp. Signing out
 
 **SMART amp™**
 
-For more information on using SMART amp please see our SMART amp [Terms of Use](https://web.archive.org/web/20150917093528id_/http%3A//www.smarttech.com/Home%2BPage/Legal/~/link.aspx?_id=CF95F47210E34D4582B9E4CD2A5B4136&_z=z).
+For more information on using SMART amp please see our SMART amp [Terms of Use](https://web.archive.org/web/20160430061658id_/http%3A//smarttech.com/Legal/~/link.aspx?_id=CF95F47210E34D4582B9E4CD2A5B4136&_z=z).
 
 **Collection of Personal and Other Information**
 
