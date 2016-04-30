@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411112148id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430144705id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # GoMage - Privacy Policy
+
+Last updated on December 10st, 2013
 
 ## Privacy Statement
 
@@ -14,7 +16,7 @@ All information received from the User is used exclusively to improve the qualit
 
 GoMage.com guarantees the confidentiality of any and all data supplied by the User when utilizing the GoMage.com software or services and when visiting the GoMage.com website. We do not disclose any information provided by the User to any third party unless ordered to by a court of law, during the investigation of a criminal offense or as required under other provisions of disclosure of personal data.
 
-### IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON PAYMENT INFORMATION SUCH AS CREDIT CARDS, PAYPAL OR CHECKING. 
+**IMPORTANT! GOMAGE.COM DOES NOT COLLECT DATA ON  PAYMENT INFORMATION SUCH AS CREDIT CARDS, PAYPAL OR CHECKING. **
 
 ## How We Use Cookies
 
@@ -47,24 +49,25 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 GoMage.com takes all necessary steps to safeguard Your data including the use of specialized services to secure payment of all Software or Services purchased through the website. All confidential information transmitted and received by us from the specialized services is encrypted with the help of software that uses Secure Sockets Layer (SSL).
 
-### Children Using this Website
+## Children Using this Website
 
 This website is not meant to be used by children who are under the age of thirteen (13). If you become aware that your child(ren) has provided us with their personal data, please contact us at sales@gomage.com.
 
-### Jurisdiction
+## Jurisdiction
 
 Your use of this site is on your own initiative and at your own risk. You are responsible for complying with all local laws, rules and regulations. We do not represent or warrant that GoMage website is appropriate or available for use in any particular country or jurisdiction.
 
 We are free to limit the availability of the website to a particular jurisdiction at any time in our sole discretion.
 
-### Contacting Us
+## Contacting Us
 
-If you have any questions regarding this Privacy Policy, please contact us by email at sales@gomage.com, or please write to the following address:  
+If you have any questions regarding this Privacy Policy, please contact us by email at sales@gomage.com, or please write to the following address:
+
 EASYVEASY Sp. z o.o.,  
 Trzcinowa str. 23/49  
 02-446  
 Warsaw, Poland  
-+48 22 219-51-63
++48 22 219-51-63 
 
 ## List of Cookies We Collect
 
@@ -72,30 +75,28 @@ The table below lists the cookies we collect and what information they store.
 
 COOKIE name| COOKIE Description  
 ---|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
+CART | tde association witd your shopping cart.  
+CATEGORY_INFO | Stores tde category info on tde page, tdat allows to display pages more quickly.  
+COMPARE | tde items tdat you have in tde Compare Products list.  
 CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
+CUSTOMER | An encrypted version of your customer id witd tde store.  
+CUSTOMER_AUtd | An indicator if you are currently logged into tde store.  
+CUSTOMER_INFO | An encrypted version of tde customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores tde Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whetder caching is disabled or not.  
+FRONTEND | You sesssion ID on tde server.  
+GUEST-VIEW | Allows guests to edit tdeir orders.  
+LAST_CATEGORY | tde last category you visited.  
+LAST_PRODUCT | tde most recent product you have viewed.  
+NEWMESSAGE | Indicates whetder a new message has been received.  
+NO_CACHE | Indicates whetder it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked tde site.  
+POLL | tde ID of any polls you have recently voted in.  
 POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
+RECENTLYCOMPARED | tde items tdat you have recently compared.  
 STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+STORE | tde store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whetder a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | tde products tdat you have recently viewed.  
 WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.  
-  
-### Last updated on December 10st, 2013.
+WISHLIST_CNT | tde number of items in your Wishlist.
