@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmtools.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215145740id_/http%3A//www.filmtools.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmtools.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430110130id_/http%3A//www.filmtools.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy Filmtools
+# Privacy Policy - Filmtools
 
 Privacy Policy for Filmtools.com
 
