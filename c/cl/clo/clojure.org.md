@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the clojure.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907115645id_/http%3A//clojure.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clojure.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430220406id_/http%3A//clojure.org/privacy) for the most accurate reproduction.*
 
-# Clojure - privacy
-
-This website is administered by Cognitect, Inc. and our Privacy Policy explains how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and services. By visiting the site, you expressly consent to the use and disclosure of your information as described below. We will neither sell personal or anonymous data to any third party, nor distribute personal data to a third party for any reason other than as may be required by law.
-
-## Types of information we collect
+# Clojure - Privacy
 
 We may collect, store and use personal data about your visits to and use of this website. Additionally, we may collect, store, and use personal data such as your name, email address, and phone number that you submit to us. By submitting such information, you authorize Cognitect to contact you with more information about our business services.
 
@@ -15,29 +11,3 @@ We use cookies on this website. A cookie is a text file sent by a web server to 
 We may send a cookie which may be stored on by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of this website, to improve the website’s usability and for marketing purposes. We may also use that information to recognize your computer when you visit our website, and to personalize our website for you.
 
 We may use anonymous cookies to record non-personal information such as website activity, date and time of visit, and domain type. We may use this information for retargeting purposes. Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This may have a negative impact upon the usability of many websites, including this one.
-
-## Using your personal data
-
-Personal data submitted on this website will be used for the purposes specified in this privacy policy. In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to improve your browsing experience by personalizing the website or send you information (other than marketing communications) which we think may be of interest as well as marketing communications relating to our business. If you wish to opt-out of receiving such communications you may do so by contacting us at [privacy@cognitect.com](mailto:privacy@cognitect.com).
-
-## Using your non-personal data
-
-Non-personal data may be collected and shared with 3rd party services to provide relevant and targeted advertisements through retargeting. All data is anonymous and cannot be used to identify the visitor. Retargeting recognizes that the internet browser has visited the website in the last 90 days. If you would like to not participate in retargeting, you may opt-out by contacting us at [privacy@cognitect.com](mailto:privacy@cognitect.com).
-
-## Other disclosures
-
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you to the extent that we are required to do so by law in connection with any legal proceedings or prospective legal proceedings or in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
-
-## Security of your personal data
-
-We will take reasonable precautions and follow industry standard security protocols to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
-
-## Policy updates
-
-We may update this privacy policy when appropriate by posting a new version on our website, and will update the "Last Updated" date to reflect the date the changes take effect. By continuing to use this site after we post any such changes, you are indicating acceptance of the current privacy policy.
-
-## Contact
-
-If you have any questions about this privacy policy or our treatment of your personal data, or wish to opt-out of data collection by this site, please email us at [privacy@cognitect.com](mailto:privacy@cognitect.com), or send mail to Cognitect, Inc., 303 S. Roxboro St. Suite #20, Durham, NC 27701.
-
-_Last Updated: 7/07/2014_
