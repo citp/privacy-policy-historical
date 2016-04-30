@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413124754id_/http%3A//www.teaching.com.au/page%3Fpage%3Dmta-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430102034id_/http%3A//www.teaching.com.au/page%3Fpage%3Dmta-privacy.jsp) for the most accurate reproduction.*
 
-# 
+# Modern Teaching Aids Privacy Policy
 
 This is the Privacy Policy of Modern Teaching Aids Pty Ltd. Modern Teaching Aids will observe this Privacy Policy for the collection, storage and use of personal information. For the purpose of this policy document, we are referred to as "Modern Teaching Aids" or "We".
 
