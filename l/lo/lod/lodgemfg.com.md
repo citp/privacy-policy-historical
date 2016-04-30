@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231040620id_/http%3A//www.lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgemfg.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430205543id_/http%3A//lodgemfg.com/page.asp%3Fp_key%3D0A23CFF9980440FC8D283BC55A36328C) for the most accurate reproduction.*
 
 # Lodge Cast Iron
 
