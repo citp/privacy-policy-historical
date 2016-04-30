@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativepost.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910043752id_/http%3A//conservativepost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativepost.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430021027id_/http%3A//conservativepost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Conservative Post
 
