@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainline.com.au privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213091853id_/http%3A//www.mainline.com.au/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainline.com.au privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430203612id_/http%3A//www.mainline.com.au/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Mainline Security Products Pty Ltd :: Help zone
 
