@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortpixel.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926144703id_/http%3A//shortpixel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortpixel.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501014216id_/https%3A//shortpixel.com/privacy) for the most accurate reproduction.*
 
 # ShortPixel - Privacy Policy
 
@@ -55,9 +55,9 @@ As is true of most web sites, the Company gathers certain information automatica
 
 The Company employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that helps it better manage content on its web sites by informing the Company what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. The Company uses clear gifs in its HTML-based e-mails to inform itself of which e-mails have been opened by you. This allows the Company to gauge the effectiveness of certain communications and the effectiveness of the Company's marketing campaigns. If you would like to opt-out of these e-mails, please see "Choice and Opt-Out" section of this Privacy Policy. 
 
-#### Information from Third Party Sources
+###### Information from Third Party Sources
 
-To improve services and enhance personalization, the Company may periodically obtain information about you from other independent third party sources and add it to our account information. For example, when you visit a site on which the Company advertises, and click through such advertisement, the Company may place cookies on your computer. 
+To improve services and enhance personalization, the Company may periodically obtain information about you from other independent third party sources and add it to our account information. []()For example, when you visit a site on which the Company advertises, and click through such advertisement, the Company may place cookies on your computer. 
 
 ### Use of Information
 
