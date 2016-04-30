@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908031114id_/http%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimemailbox.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430231949id_/https%3A//www.anytimemailbox.com/privacy) for the most accurate reproduction.*
 
-# Anytime Mailbox Privacy Policy
+# Anytime Mailbox® Privacy Policy
 
-Last Revision: June 23 2014
+Last Revision: November 1, 2015
 
 AnytimeMailbox ("ATMB") values your online privacy. Please read the following policy ("Privacy Policy") to learn what information we collect from you ("You" or "User") when you access or use our website, www.anytimemailbox.com ("Site") and how we use that information. By accessing or using our Site, you acknowledge and agree that you have read, understood, accept and agree to be bound by this Privacy Policy, and you expressly consent to our collection, storage, use and disclosure of your information as set forth herein. 
 
