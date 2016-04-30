@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebd24.com privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104045450id_/http%3A//ebd24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebd24.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430171947id_/http%3A//ebd24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
