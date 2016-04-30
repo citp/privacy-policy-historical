@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106023712id_/http%3A//en-us.nintex.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintex.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430220956id_/http%3A//www.nintex.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nintex® - Workflow for Everyone
+# Privacy Policy - Nintex
 
 December 19, 2013
 
-We view your personal privacy as an important issue, and are committed to respecting and protecting your personal information. This online Privacy Policy is provided to inform you of the kinds of personal information that Nintex gathers; and how it is held, used and managed. As this online Privacy Policy forms part of the terms of use of the www.nintex.com website ("Site"), we encourage you to periodically check for updates.
+We view your personal privacy as an important issue, and are committed to respecting and protecting your personal information. This online Privacy Policy is provided to inform you of the kinds of personal information that Nintex gathers; and how it is held, used and managed. As this online Privacy Policy forms part of the terms of use of the nintex.com website ("Site"), we encourage you to periodically check for updates.
 
-[](https://privacy.truste.com/privacy-seal/Nintex-Pty-Ltd/validation?rid=040392bc-22a3-4b4b-9141-d700ab4ccc04)
+[](https://privacy.truste.com/privacy-seal/Nintex-Pty-Ltd/validation?rid=040392bc-22a3-4b4b-9141-d700ab4ccc04 "Truste certified")
 
-Nintex has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements "TRUSTe’s Program Requirements") and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirement") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Questions%20Regarding%20Privacy%20Policy). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
+Nintex has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/program-requirements "TRUSTe's Program Requirements") and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirement") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Questions%20Regarding%20Privacy%20Policy). If you are not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe").
 
 The TRUSTe certification covers our collection, use and disclosure of information we collect through our website www.nintex.com and our service Nintex Live. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Nintex. The TRUSTe certification does not cover the Nintex downloadable software.
 
 **We Self-Certify Compliance with:**
 
-[](https://safeharbor.export.gov/list.aspx)
+[](https://safeharbor.export.gov/list.aspx "Safe Harbor")
 
 Nintex complies with the U.S. – E.U. Safe Harbor Framework and the U.S. Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Nintex has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Nintex’s certification, please visit <http://export.gov/safeharbor/>.
 
@@ -55,7 +55,7 @@ The use of cookies by third parties is not covered by our privacy policy. We do 
 
 In addition to cookies we may use Pixel Gifs/web beacons, images and scripts which work with cookies. These may be used by us or third parties in respect of your use of the Nintex website or within the body of our newsletters so we or third parties can understand which parts of the Site are visited or whether particular content is of interest.
 
-[Detailed descriptions of all the cookies used on our websites, including third party cookies](https://web.archive.org/company/legal/cookies-policy "Detailed descriptions of all the cookies used on our websites").
+[Detailed descriptions of all the cookies used on our websites, including third party cookies](https://web.archive.org/company/legal "Detailed descriptions of all the cookies used on our websites").
 
 You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Learn more about cookies") which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on the Nintex website, certain features of the website may not function correctly and you may not be able to take full advantage of the website.
 
@@ -131,7 +131,7 @@ Information that you submit via the Site is held on servers in the USA and Austr
 
 The security of your personal information is important to us. When you enter sensitive information (such as accessing our platforms), we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Security%20Questions).
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at [inquiries@nintex.com](mailto:inquiries@nintex.com?subject=Security%20Questions "Contact Us For Questions About Security").
 
 ###  Updating This Privacy Policy
 
@@ -139,27 +139,78 @@ We may update this privacy policy to reflect changes to our information practice
 
 ###  Resolving Privacy Issues
 
-Should you have any concerns regarding the Nintex Privacy Policy or you wish to access or update your information or raise any issues with Nintex, please contact us and we will do our best to resolve your issue.
+Should you have any concerns regarding the Nintex Privacy Policy or you wish to access or update your information or raise any issues with Nintex, please [contact us](https://web.archive.org/company/contact-us "Contact Us For Privacy Policy Questions") and we will do our best to resolve your issue.
 
-**USA**   
-Plaza Center  
-10900 NE 8th Street, Suite 230  
+### Nintex Offices
+
+* * *
+
+#### Americas Offices
+
+**Nintex Corporate/HQ**  
+10800 NE 8th Street, Suite 400  
 Bellevue, WA 98004  
-United States  
-Phone: +1 (425) 324 2400  
-Fax: +1 (425) 458 0105 
+**Phone** : +1 (425) 324 2400  
+**Fax** : +1 (425) 458 0105
 
-**UK**   
-Level 4, 36 Broadway  
-London SW1H 0BH  
+**Drawloop  
+**_**Now Part of Nintex**_  
+1 Post, Suite 175  
+Irvine, California 92618  
+**Phone** : +1 (949) 242-0455, option 1  
+**Toll Free** : +1 (877) 462-LOOP (5667), option 1
+
+#### Europe, Middle East and Africa Office
+
+Nintex UK Ltd  
+Ground Floor  
+138 Fetter Lane  
+London, EC4A 1BT  
 United Kingdom  
-Phone: +44 (0) 20 3693 0200  
-Fax: +44 (0) 20 7799 4869
+**Phone** : +44 (0) 20 3693 0200  
+**Fax** : +44 (0) 20 3002 5613
 
-**Australia**  
-Level 9, 451 Little Bourke Street  
-Melbourne, Victoria 3000  
-Australia  
-Phone: +613 9606 9222  
-Fax: +613 8678 2499  
-See the [Contact Us](https://web.archive.org/company/contact-us "Contact Nintex") page for contact details.
+#### Middle East Office
+
+Nintex Middle East FZ-LLC  
+Dubai Internet City, Building 16  
+Ground Floor, Office 09  
+Dubai, United Arab Emirates
+
+#### Asia Pacific Office
+
+Nintex Pty Ltd  
+Level 15, 595 Collins Street  
+Melbourne 3000  
+Victoria, Australia  
+**Phone** : +61 3 9912 1800  
+**Fax** : +61 3 9912 1812
+
+#### Hong Kong Office
+
+28/F., AIA Central, No. 1 Connaught Road  
+Central, Hong Kong  
+**Phone** : +852 2824 8468
+
+#### Japan Office
+
+Nintex Japan K.K.  
+4/F Shinagawa East One Tower  
+2-16-1 Konan, Minato-ku, Tokyo 108-0075  
+Japan  
+**Phone** : +81 3 6890 8247
+
+#### Malaysia Office
+
+Suite 8-3  
+Level 8, Menara Cimb  
+Jalan Stesen Sentral 2  
+KL Sentral  
+Kuala Lumpur 50470  
+Malaysia
+
+#### Singapore Office
+
+Level 17-01, 12 Marina Boulevard  
+Marina Bay Financial Centre Tower 3  
+Singapore 01982
