@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resumup.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512015544id_/http%3A//resumup.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumup.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430024620id_/http%3A//resumup.com/pages/policy) for the most accurate reproduction.*
 
-# ResumUP.com | Go Visual — Get Visible
+# ResumUP.com | Privacy Policy
 
 At New Recruiting Solutions, Inc. we concerned about your privacy. By visiting the Resumup.com website (the "Website"), submitting information or using any of our services, or creating an account to use Resumup.com, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
