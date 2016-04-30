@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shootinggames60.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322043553id_/http%3A//www.shootinggames60.com/index.php%3Ftask%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootinggames60.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501010409id_/http%3A//www.shootinggames60.com/index.php%3Ftask%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
