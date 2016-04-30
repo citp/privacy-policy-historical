@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyworldnews.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209095844id_/http%3A//www.beautyworldnews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyworldnews.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430135729id_/http%3A//www.beautyworldnews.com/privacypolicy) for the most accurate reproduction.*
 
 # Beauty World News
 
