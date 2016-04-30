@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611082841id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430102606id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
 
 # Privacy Policy at Evolution Slimming
 
@@ -34,7 +34,7 @@ We require this information to understand your needs and provide you with a bett
 
 From time to time, we may contact you regarding offers and updates on our products and services. These emails may be personalised to contain your name for promotional reasons.
 
-To stop receiving from marketing emails, you can [**click here**](http://www.evolution-slimming.com/store/index.php?_a=newsletter) to manage your marketing preferences & [**click here**](http://www.evolution-slimming.com/store/index.php?_a=unsubscribe) to unsubscribe from marketing emails.
+To stop receiving from marketing emails, you can [**click here**](https://www.evolution-slimming.com/store/index.php?_a=newsletter) to manage your marketing preferences & [**click here**](https://www.evolution-slimming.com/store/index.php?_a=unsubscribe) to unsubscribe from marketing emails.
 
 You may also follow the ' **Unsubscribe** ' link in the footer of marketing emails to unsubscribe from them directly.  
 
@@ -98,7 +98,7 @@ We're Trusted
 
 Evolution Slimming is a certified online shop with **Trusted Shops Buyer Protection**
 
-](https://www.trustedshops.co.uk/shop/certificate.php?shop_id=X8C0D7582BA427C5A28D37674FE7C65BB)
+](https://www.trustedshops.co.uk/buyerrating/info_X8C0D7582BA427C5A28D37674FE7C65BB.html)
 
 30 Day
 
@@ -107,19 +107,17 @@ Excellent Customer
 Services and we guarantee  
 satisfaction.
 
-[
-
 100% Safe & Secure
 
 Secure Payments secured by HTTPS or PayPal Checkout & Bank Transfer
 
-](https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.evolution-slimming.com)   
+  
 [
 
 Royal Mail   
 1-2 Days Free Delivery Available, Same Day Dispatch & Plain Packaging 
 
-](http://www.evolution-slimming.com/store/delivery/info_4.html)
+](https://www.evolution-slimming.com/store/delivery/info_4.html)
 
 We're Approved
 
@@ -129,5 +127,6 @@ We're Mobile
 
 Check your order status. Read product reviews - all from your mobile device. 
 
+  
   
 
