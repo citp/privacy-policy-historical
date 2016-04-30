@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2015-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151124082142id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvox.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430050255id_/http%3A//localvox.com/privacy-policy) for the most accurate reproduction.*
 
-# LocalVox - Privacy Policy
+# Privacy Policy | LocalVox
 
 **Privacy Policy**
 
