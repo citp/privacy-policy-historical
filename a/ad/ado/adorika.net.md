@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adorika.net privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021214231id_/http%3A//cdn.adorika.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adorika.net privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430062820id_/http%3A//cdn.adorika.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Welcome to Adorika Media Group - Where Brand Meets Performance
 
