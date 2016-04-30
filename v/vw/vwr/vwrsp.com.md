@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906063625id_/https%3A//us.vwr.com/store/content/externalContentPage.jsp%3Fpath%3D/en_US/about_vwr_privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwrsp.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430102921id_/https%3A//us.vwr.com/store/content/externalContentPage.jsp%3Fpath%3D/en_US/about_vwr_privacy.jsp) for the most accurate reproduction.*
 
-# Privacy | VWR International
+# Privacy | VWR
 
 VWR International respects your privacy. Our guidelines for protecting the information you provide us with during your visit to our web site are listed below. 
 
@@ -59,4 +59,4 @@ VWR makes every effort to ensure that data is secure. In the event that our proc
   * Following any event that involves compromised data, we will collect feedback from the impacted customers. This feedback will be used to adjust this process to better serve our customers in any future event. 
 
   
-[ Manage your print and e-mail subscriptions. ](https://web.archive.org/store/content/externalContentPage.jsp?path=/en_US/literature_manage_subscriptions.jsp)
+[ Manage your print and e-mail subscriptions. ](https://web.archive.org/store/content/externalContentPage.jsp;jsessionid=A88BBBC28A42F6E4F5A8CDFE6803B066.estore8d?path=/en_US/literature_manage_subscriptions.jsp)
