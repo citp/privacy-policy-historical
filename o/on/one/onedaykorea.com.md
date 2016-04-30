@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229140358id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedaykorea.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430165937id_/http%3A//www.onedaykorea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Korea Travelers by One Day Korea
 
-You are here: [Home](http://www.onedaykorea.com/ "Korea Tour : Seoul City Tour, Package Tours by Korea Travel Agency") / Privacy Policy
+You are here: [Home](http://www.onedaykorea.com/) / Privacy Policy
 
 ## Privacy Policy
 
