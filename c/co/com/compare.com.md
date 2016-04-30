@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221155839id_/http%3A//www.compare.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430185850id_/http%3A//www.compare.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Compare.com Privacy Policy
 
@@ -6,7 +6,7 @@ As a valued visitor and user of our site, your happiness with our service and tr
 
 We would also like to make you aware that you may be contacted by one of our insurance partners. These partners could include the insurance company that you showed an interest in purchasing from, the one that provided you the lowest rate, or an insurance professional who has additional savings opportunities for you.  Please also be aware that this privacy policy only applies to compare.com. Should you navigate to a site other than our own, you will be subject to that site’s privacy policy and our policy will cease to be in effect. 
 
-Please also be aware that by your continued use of compare.com, you consent to the terms stated in this privacy policy. If you have any questions or concerns, please feel free to [Contact Us](http://www.compare.com/contact-us.aspx).
+Please also be aware that by your continued use of compare.com, you consent to the terms stated in this privacy policy. If you have any questions or concerns, please feel free to [Contact Us](http://www.compare.com/contact-us).
 
 That’s the nutshell version.  Below you'll find the nuts-and-bolts and some of that legalese we know you’re dying to read, as well as more detailed information on emails we send, our security, and things you might like to know about your personal information and our partners. 
 
