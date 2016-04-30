@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175228id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430033322id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
 
 # Scentbird Service Privacy Policy
 
