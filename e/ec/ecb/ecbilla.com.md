@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecbilla.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231005455id_/http%3A//www.ecbilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecbilla.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430215348id_/http%3A//www.ecbilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Create online store, Ecommerce website builder, E-Com store | Ecbilla.com Privacy policy
 
