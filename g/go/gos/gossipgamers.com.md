@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipgamers.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226033847id_/http%3A//www.gossipgamers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipgamers.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430182203id_/http%3A//www.gossipgamers.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
