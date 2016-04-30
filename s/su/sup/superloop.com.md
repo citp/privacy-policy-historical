@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2015-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151202042101id_/http%3A//superloop.com/global-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superloop.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430160527id_/http%3A//superloop.com/global-privacy-policy.html) for the most accurate reproduction.*
 
 # Superloop - Global Privacy Policy
 
