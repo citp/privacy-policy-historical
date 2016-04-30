@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710101046id_/https%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430071637id_/https%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Swing Surgeon
+# Privacy Policy | Swing Surgeon - Don Trahan Peak Performance Golf Swing
 
-**Last Updated: 18 June  2014**
+**Last Updated: 20 November 2014**
 
 Your information is safe with SwingSurgeon.com.  We value your infomation and your privacy greatly.  We will _**never**_ sale, rent, trade, loan, or in any way give your information out (unless legally compelled).  Now for the details if you care to read them...
 
@@ -79,7 +79,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.swingsurgeon.com/contact-us](https://web.archive.org/contact-us)
+<https://www.swingsurgeon.com/support>
 
 The Swing Surgeon Golf Management LLC   
 P.O. Box 1025   
