@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohesity.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231001840id_/http%3A//www.cohesity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohesity.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430204309id_/http%3A//www.cohesity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cohesity
 
