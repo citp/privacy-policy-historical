@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007002634id_/http%3A//www.vegansociety.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430195637id_/http%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | The Vegan Society
+# Privacy and cookie policy | The Vegan Society
 
-This is the website of _The Vegan Society_.  _The Vegan Society_ is a registered charity, number 279228, and a Company Limited by Guarantee, company number 1468880 in England and Wales, both of which are data controllers of your information under the Data Protection Act 1998. 
+This is the website of The Vegan Society. The Vegan Society is a registered charity, number 279228, and a Company Limited by Guarantee, company number 1468880 in England and Wales, both of which are data controllers of your information under the Data Protection Act 1998. 
 
 ## Contact information
 
@@ -75,7 +75,7 @@ This website is designed to be accessible to visitors with disabilities, and to 
 
 ## Updates
 
-We may use your contact information to send further information about our organisation or to contact you when necessary. You may always opt-out of receiving future mailings; see the "Opt Out" section below.
+We may use your contact information to send further information about our organisation or to contact you when necessary. You may always opt-out of receiving future mailings; see the 'Opt out' section below.
 
 ## Sending us an email
 
@@ -83,7 +83,7 @@ You also may decide to send us personally identifying information, for example, 
 
 If you sign up to one of our email lists, we will only send you the kinds of information you have requested. We won't share your name or email address with any outside parties.
 
-## Opt-Out
+## Opt out
 
 If you wish to opt out of specific online or offline communications, or for us to remove you from our database altogether, please contact us using the above contact information.
 
@@ -190,15 +190,15 @@ Further information about cookies, including steps you can take to refuse their 
 
 ## Changes
 
-We may make changes to this Policy from time to time. If we change our Privacy Policy we will post the changes on this page. Please revisit the policy each time you consider giving personal information. 
+We may make changes to this policy from time to time. If we change our privacy policy we will post the changes on this page. Please revisit the policy each time you consider giving personal information. 
 
-## Your acceptance of this Policy
+## Your acceptance of this policy
 
-By using our sites, you consent to the collection and use of information by The Vegan Society in accordance with our Privacy Policy. If you do not agree to this Policy, please do not use our sites.
+By using our sites, you consent to the collection and use of information by The Vegan Society in accordance with our privacy policy. If you do not agree to this policy, please do not use our sites.
 
 ## Your rights
 
-Any personal information submitted via our websites is treated in accordance with the Data Protection Act 1998. To find out more about your entitlements under the data protection legislation, visit the [website](http://ico.org.uk/) of the _Information Commissioner's Office_.
+Any personal information submitted via our websites is treated in accordance with the Data Protection Act 1998. To find out more about your entitlements under the data protection legislation, visit the [website](http://ico.org.uk/) of the Information Commissioner's Office.
 
 ## Access to your personal information
 
