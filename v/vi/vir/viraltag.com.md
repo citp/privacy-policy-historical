@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2015-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151220093238id_/http%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltag.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430232119id_/https%3A//www.viraltag.com/privacy) for the most accurate reproduction.*
 
-# Viraltag | Manage Your Brand on Pinterest
+# Viraltag | The Best Pinterest & Instagram Marketing Platform for Brands, Businesses & Bloggers
 
-Nipunah Labs, LLC (viraltag.com (formerly pingraphy.com)) - Privacy Policy 
+Viraltag Inc. (viraltag.com) - Privacy Policy 
 
-PinGraphy cares about your privacy. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Our programs and services provided may gather your email IDs, user IDs, Passwords and other personally identifiable information. Our website uses cookies for various purposes. By using our website and agreeing to this policy, you consent to our use of cookies and other software modules installed in accordance with the terms of this policy. 
+Viraltag cares about your privacy. We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. Our programs and services provided may gather your email IDs, user IDs, Passwords and other personally identifiable information. Our website uses cookies for various purposes. By using our website and agreeing to this policy, you consent to our use of cookies and other software modules installed in accordance with the terms of this policy. 
 
 Credits This document was created using an SEQ Legal template. 
 
@@ -85,7 +85,7 @@ You may instruct us to provide you with any personal information we hold about y
 (a) the payment of a fee (currently fixed at USD($)15.00); and   
 (b) the supply of appropriate evidence of your identity for this purpose;   
 We may withhold such personal information to the extent permitted by law.   
-You may instruct us not to process your personal information for marketing purposes, by sending an email to us at pingraphyhelp@gmail.com. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes. 
+You may instruct us not to process your personal information for marketing purposes, by sending an email to us at privacy@viraltag.com. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes. 
 
 Third party websites 
 
@@ -93,7 +93,7 @@ The website contains links to other websites or interacts with other websites an
 
 Children of age 13 years and below 
 
-PinGraphy website and related services are not available to anyone under the age of thirteen (13). 
+Viraltag website and related services are not available to anyone under the age of thirteen (13). 
 
 Updating information 
 
@@ -101,6 +101,6 @@ Please let us know if the personal information which we hold about you needs to 
 
 Contact 
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to pingraphyhelp@gmail.com. 
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to privacy@viraltag.com. 
 
-Last updated on: May, 07, 2013 
+Last updated on: Jan, 01, 2016 
