@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officesexjp.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230222112id_/http%3A//www.officesexjp.com/officesexjp-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officesexjp.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430050105id_/http%3A//www.officesexjp.com/officesexjp-privacy.html) for the most accurate reproduction.*
 
 # OfficeSexJp.com - Privacy Statement
 
