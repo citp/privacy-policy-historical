@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jigsy.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912015222id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsy.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430030802id_/http%3A//jigsy.com/about/privacy) for the most accurate reproduction.*
 
-# Free website builder | website maker | website creator | Jigsy
+# The Easy Website Builder, it's free!
 
 ## Disclosure of how we use your data.
 
