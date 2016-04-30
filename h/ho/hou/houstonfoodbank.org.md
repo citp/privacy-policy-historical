@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonfoodbank.org privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425011502id_/http%3A//www.houstonfoodbank.org/media/25239/HFB_Web_Privacy_Code_rev_4_30_13.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonfoodbank.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430045034id_/http%3A//www.houstonfoodbank.org/media/25239/HFB_Web_Privacy_Code_rev_4_30_13.pdf) for the most accurate reproduction.*
 
 # The Houston Food Bank Web Site Privacy Policy
 
