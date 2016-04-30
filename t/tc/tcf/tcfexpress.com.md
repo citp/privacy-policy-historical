@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095801id_/https%3A//www.tcfbank.com/%7E/media/TCFBank/Documents/TCF-Online-Privacy-and-Security-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcfexpress.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430023948id_/https%3A//www.tcfbank.com/%7E/media/TCFBank/Documents/TCF-Online-Privacy-and-Security-Policy.pdf) for the most accurate reproduction.*
 
 # TCF Online Privacy and Security Policy
 
