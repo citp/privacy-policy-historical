@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105024055id_/http%3A//www.paulfredrick.com/CustService/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulfredrick.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430212543id_/http%3A//www.paulfredrick.com/CustService/Privacy.aspx) for the most accurate reproduction.*
 
 # Men's Clothing, Smart Style for Professional Men | Paul Fredrick
 
@@ -42,7 +42,15 @@ Secure Sockets Layer (SSL) technology is used by Paul Fredrick to encrypt your o
 
 ### Paul Fredrick Guarantee
 
-If, for any reason, your selection does not meet your expectations, simply return it for a prompt exchange, credit or refund of your purchase price.
+We GUARANTEE a perfect fit. If you are not completely satisfied, we want to make it right.
+
+Exchanges are free within 90 days, domestic shipping fees waived.
+
+Return it within 90 days and receive a prompt refund of the purchase price.
+
+After 90 days, a merchandise credit for the lowest sales price within the last three months will be issued for any item returned in original condition.
+
+Custom dress shirts cannot be exchanged or returned.
 
 ### Contact Information
 
