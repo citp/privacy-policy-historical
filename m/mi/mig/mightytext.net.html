@@ -1,9 +1,13 @@
-<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2015-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151225020210id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mightytext.net privacy policy that was archived on 2016-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160430074226id_/http%3A//mightytext.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/ctJuGCNDIBXM3owx5KcIIA.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>//putting js globals set by php in these script tags.
+    
+    if(window.location.protocol != "https:"){window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);}
+    
       var absolutePath = '/mighty-website/'; //need this to absolute reference the lazy load of images later.
-      var optionalReferralCode = '';
+      var optionalReferralCode = '';//this is a url encoded string
+      var optionalReferralCodeStr = '';//this is the plain referral code (everything after the capital R)
       //The function below is being used in both installredirect.js and main.js to determine whether or not the user is loading the prod website on an Android Device, and if so, whether its a phone or tablet. 11/17/14 KL 
       function checkIfUserIsOnMobilePhoneOrTablet()
     	{
@@ -36,10 +40,29 @@
 
 	<link rel="shortcut icon" type="image/png" href="/mighty-website/img/128x128_MT_logo_boom_gradient_white.png">
 
+    <link rel="manifest" href="/mighty-website/manifest.json">
 
 	<!-- TYPEKIT LINKING -->
 	<script type="text/javascript" src="https://use.typekit.com/mri1kqf.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!-- KL commented the my font js include below because we have not decided on whether or not to include this new Avenir font yet -->
+<!--
+
+<script type="text/javascript">
+    (function() {
+        var path = '//easy.myfonts.net/v2/js?sid=10336(font-family=Avenir+35+Light)&sid=10338(font-family=Avenir+55+Roman)&sid=10340(font-family=Avenir+85+Heavy)&sid=10344(font-family=Avenir+65+Medium)&key=cH1g9v22BS',
+            protocol = ('https:' == document.location.protocol ? 'https:' : 'http:'),
+            trial = document.createElement('script');
+        trial.type = 'text/javascript';
+        trial.async = true;
+        trial.src = protocol + path;
+        var head = document.getElementsByTagName("head")[0];
+        head.appendChild(trial);
+    })();
+</script>
+-->
+
 
 
 	<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/dkfhfaphfkopdgpbfkebjfcblcafcmpi">
@@ -67,7 +90,7 @@
 
 	<link rel="stylesheet" href="/mighty-website/css/foundation.css">
 	<link rel="stylesheet" href="/mighty-website/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/mighty-website/css/style.css">
+	<link rel="stylesheet" href="/mighty-website/css/style.css?02022016">
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
 	<script src="/mighty-website/js/vendor/custom.modernizr.js"></script>
@@ -87,18 +110,13 @@
 
 	</script>
 
-    <script>_gaq.push(["_trackEvent","StaticWebsite","MT-Conversion","Website-Load-Computer-Only"])</script>
-
-
-
-
-
+    <script>_gaq.push(["_trackEvent","StaticWebsite","MT-Conversion","Website-Load-Computer-Only"]);</script>
 
 </head>
 <body>
 
 
-	<div class="screensize"><p>1366</p></div>
+	<div class="screensize"></div>
 
 	<!-- FB ROOT SCRIPT -->
 	<div id="fb-root"></div>
@@ -122,9 +140,7 @@
 <!-- 				<li><a href="aboutus.php" class="navitem ">About</a></li> -->
 
 				<li><a href="#" class="navitem" id="login" onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Login-From-HomePage','New-Website-June-2013']);pauseThenRedirect('Login');">Login</a></li>
-
-
-				<li id="liinstall"><a href="#" id="anchorinstall" class="navitem " onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Install','Top-Nav']);pauseThenRedirect();">Get The App</a></li>
+				<li id="liinstall"><a href="#" id="anchorinstall" class="navitem " onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Install','Top-Nav']);pauseThenRedirect(null, 'header');">Get The App</a></li>
 <!-- 				<li id="liinstall"><a href="#" id="anchorinstall" class="navitem " onclick="_gaq.push(['_trackEvent','StaticWebsite','Click-Install','Top-Nav']);pauseThenRedirect(null,'header');">Get The App</a></li> -->
 
 			</ul>
@@ -224,7 +240,7 @@
 			</div>
 				<div class="socialitem" id="gpluswrap">
 				<!-- Google Plus Social -->
-				<div class="g-plusone" data-size="medium" data-href="http://mightytext.net"></div>
+				<div class="g-plusone" data-size="medium" data-href="//mightytext.net"></div>
 
 				<script type="text/javascript">
 				  (function() {
@@ -243,7 +259,7 @@
 			</div>
 
 
-				<p>© 2015 MightyText</p>
+				<p>© 2016 MightyText</p>
 			</div>
 
 			<ul class="flatlist footlist-small">
@@ -254,7 +270,7 @@
 				<li><a href="http://blog.mightytext.net">Blog</a></li>
 				<li><a href="http://twitter.com/mightytext">Twitter</a></li>
 				<li><a href="http://facebook.com/mightytext">Facebook</a></li>
-				<li><a href="http://mightytext.net/updates">Product Updates</a></li>
+				<li><a href="updates">Product Updates</a></li>
 				<li><a href="love">♥ MightyLove ♥</a></li>
 			</ul>
 			<ul class="footlist">
@@ -264,7 +280,7 @@
 				<li><a target="_blank" href="http://facebook.com/mightytext">Facebook</a></li>
 				<li><a href="javascript:UserVoice.showPopupWidget();" title="Open feedback &amp; support dialog (powered by UserVoice)">Contact Us</a></li>
 				<li><a target="_blank" href="http://help.mightytext.net/knowledgebase">Help</a></li>
-				<li><a target="_blank" href="http://mightytext.net/updates">Get Product Updates</a></li>
+				<li><a target="_blank" href="updates">Get Product Updates</a></li>
 			</ul>
 			<ul class="footlist">
 				<li>MightyText</li>
@@ -278,12 +294,12 @@
 			</ul>
 			<ul class="footlist">
 				<li>Features</li>
-				<li><a target="_blank" href="http://mightytext.net/-send-sms">Send SMS</a></li>
-				<li><a target="_blank" href="http://mightytext.net/-send-mms">Send MMS</a></li>
-				<li><a target="_blank" href="http://mightytext.net/-send-group-text-message">Send Group Message</a></li>
-				<li><a target="_blank" href="http://mightytext.net/-sync-android-notifications">See Phone Notifications</a></li>
-				<li><a target="_blank" href="http://mightytext.net/-schedule-message">Schedule Message</a></li>
-				<li><a target="_blank" href="http://mightytext.net/-call-from-android-phone">Call from Phone</a></li>
+				<li><a target="_blank" href="-send-sms">Send SMS</a></li>
+				<li><a target="_blank" href="-send-mms-picture-message">Send MMS</a></li>
+				<li><a target="_blank" href="-send-group-text-message">Send Group Message</a></li>
+				<li><a target="_blank" href="-sync-android-notifications">See Phone Notifications</a></li>
+				<li><a target="_blank" href="-schedule-sms-text-message">Schedule Message</a></li>
+				<li><a target="_blank" href="-call-from-android-phone">Call from Phone</a></li>
 			</ul>
 		</div>
 	</div>
@@ -298,7 +314,7 @@
 	<script src="/mighty-website/js/bootstrap.min.js"></script>
 	<script src="/mighty-website/js/foundation.min.js"></script>
 <!-- 	 -->
-	<script src="/mighty-website/js/main.js"></script>
+	<script src="/mighty-website/js/main.js?03282016"></script>
 	<script>
 		$(document).foundation();
 	</script>
