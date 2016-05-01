@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231331id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502011603id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Majestic
 
@@ -35,8 +35,6 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily. 
 
-We do not use third party cookies, or attempt to facilitate control of cookies by any third party. 
-
 You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites. 
 
 ### WHERE WE STORE YOUR PERSONAL DATA
@@ -70,7 +68,7 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 ### DISCLOSURE OF YOUR INFORMATION
 
-We use reputable third party technologies to manage elements of our activities including Salesforce and Mailchimp. We may therefore be required to disclose your information to these companies for such purposes. Mailchimp's privacy policy is available at the time of writing at [http://mailchimp.com/legal and Salesforce’s privacy](http://mailchimp.com/legal%20and%20Salesforce%E2%80%99s%20privacy) policy is available at the time of writing at <http://www.salesforce.com/company/privacy/>
+We use reputable third party technologies to manage elements of our activities including Salesforce and Google Analytics. We may therefore be required to disclose your information to these companies for such purposes. Google Analytic’s terms at the time of writing are at <http://www.google.com/analytics/terms/gb.html> and the Salesforce privacy policy is available at the time of writing at <http://www.salesforce.com/company/privacy/>
 
 We may disclose your personal information to third parties:
 
