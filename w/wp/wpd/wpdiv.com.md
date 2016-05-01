@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wpdiv.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230163708id_/http%3A//www.wpdiv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdiv.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501022237id_/https%3A//wpdiv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which WPDIV collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.wpdiv.com](http://www.wpdiv.com/ "WPDIV") website (“Site”). This privacy policy applies to the Site and all products and services offered by WPDIV.
+This Privacy Policy governs the manner in which WPDIV collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://wpdiv.com](https://wpdiv.com/ "WPDIV") website (“Site”). This privacy policy applies to the Site and all products and services offered by WPDIV.
 
  **Personal identification information**
 
@@ -58,4 +58,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us via **claim@wpdiv.com**
 
-This document was last updated on January 01, 2015
+This document was last updated on January 01, 2016
