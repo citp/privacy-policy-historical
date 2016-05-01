@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024091959id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501075735id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Squishy Cash - privacy_policy
 
@@ -71,7 +71,7 @@ or
 | 
 
   
-[](http://squishycash.com/banner/bannerClick.php?bid=69)  
+[](http://squishycash.com/banner/bannerClick.php?bid=60)  
 [Advertise Here](https://web.archive.org/banner/index.php)
 
 Privacy Policy
@@ -96,7 +96,7 @@ Please note this Privacy Policy will change from time to time. We expect most su
 
 | 
 
-[](https://web.archive.org/forumpaymentproofs)
+[](https://web.archive.org/news/view.php?id=4016)
 
 [](https://web.archive.org/HowitWorks)
 
@@ -104,52 +104,52 @@ You must be logged in to post messages.
 
 [](https://web.archive.org/slots)
 
--10/23 Congrats to the winners of Thursday's promotions!
+-04/30 Congrats to the winners of Friday's promotions!
 
   
 
 
--10/23 Earn $3, Win $1 on Friday!
+-04/30 Earn $0.25, Win $0.25 on Saturday!
 
   
 
 
--10/22 Congrats to the winners of Wednesday's promotions!
+-04/29 Congrats to the winners of Thursday's promotions!
 
   
 
 
--10/22 The 1-Day Offer Walls Completion Contest for Thursday!
+-04/29 Do 10 Offer Walls, Win 10 Chips & the 1-Day Offers Completion Contest for Friday!
 
   
 
 
--10/21 Congrats to the winners of Tuesday's Daily Cash Earnings Bonus!
+-04/28 Congrats to the winners of Wednesday's contest!
 
   
 
 
--10/21 The Survey Promotion for Wednesday!
+-04/28 Earn $0.25, Win $0.25 on Thursday!
 
   
 
 
--10/20 Congrats to the winners of Monday's promotions!
+-04/27 Congrats to the winners of Tuesday's promotion!
 
   
 
 
--10/20 Earn $5, Win $2 on Tuesday!
+-04/27 1-Day Survey Completion Contest for Wednesday!
 
   
 
 
--10/19 Congrats to the winners of Sunday's promotions!
+-04/26 Congrats to the winner of Monday's promotion!
 
   
 
 
--10/19 Do 5 Surveys, Win $1 on Monday!
+-04/26 Do 3 Surveys, Win $0.50 on Tuesday!
 
   
 
@@ -159,87 +159,6 @@ You must be logged in to post messages.
 [](https://web.archive.org/members/buyPTC.php)  
 [](https://web.archive.org/banner/index.php)  
 [](https://web.archive.org/members/statsPTC.php) [](https://web.archive.org/members/statsBanner.php)
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-  
-  
-  
-  
-  
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-  
-  
-  
-  
-  
-  
-
-
-[SaySoForGood (US, CA, AU, UK, DE, FR, ES, IT, MX, JP, CN, BR, AR) - Complete a survey. You can do...](http://squishycash.com/members/signupPTS.php?search=15635&by=ptsID)
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 
   
 [](https://web.archive.org/members/ticket.php)  
