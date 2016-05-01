@@ -1,69 +1,63 @@
-> *The following text is extracted and transformed from the pdfexpert.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512014546id_/http%3A//pdfexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfexpert.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501161140id_/https%3A//readdle.com/privacy) for the most accurate reproduction.*
 
-# pdfexpert.com
+# Readdle
 
-**Last updated November 15, 2010**
-
-This Privacy Policy discloses the privacy practices of this domain (This Website and other websites where this privacy policy is displayed, collectively, the "Website"). Please read the following to learn what information we collect from customers and consumer visitors to our Website (the “User”) and how we use and share that information. In this Privacy Policy, personal information means information that is about an identifiable person. If you have any questions about our Privacy Policy, please use the contact us functionality on the site.
-
-## 1\. Changes to Privacy Policy
-
-We may change this Privacy Policy at any time. If we make changes to this Privacy Policy, we will change the "Last Updated" date above. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.
-
-## 2\. Types of Information Collected and Uses of Collected Information
-
-We collect information about you in various ways when you use our Website. We collect personal information you provide to us, when you request information about our services . If you decide to engage in these activities with us, we may ask you to provide us with certain personal information about yourself, such as your first and last name, email address. Please understand that if you publicly post personal information about yourself, this information may be accessible by other consumers and companies and may appear on other websites or web searches, and, therefore, this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other Users may do with the information you voluntarily post, so please use caution when posting any personal information.
-
-When you visit our Website, some information is also automatically collected, including the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags.
-
-**_Cookies_**. To facilitate and customize your experience with the Website, we may store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect non-personal information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
-
-**_Other Tracking Devices_**. We may use other industry standard technologies like pixel tags and Web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and Web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates and/or marketing partners for the same purposes.
-
-## 3\. Use of Personal Information
-
-We use personal information collected through our Website for purposes described in this Privacy Policy or disclosed to you on our Website or in connection with our services. For example, we may use your information to:
-
-  * analyze, operate and improve our Website;
-  * provide products and services to you;
-  * respond to your comments and questions and provide customer service;
-  * improve our marketing and promotional efforts;
-  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
-  * troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+  1. Our Privacy Principles
+  2. General Readdle Privacy Policy
+  3. Information Collection and Use
+  4. Information Disclosure
+  5. Cookies
+  6. Use of Emails
+  7. Use of App Analytics Services and third party Software
+  8. Confidentiality and Security
+  9. Changes to this Privacy Policy
+  10. Questions and Suggestions
 
 
 
-## 4\. Disclosure of Personal Information
+Readdle takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-We will not disclose your personal information to other parties except as provided below:
+We are at the business of making best productivity tools out there and selling them directly to you, our customer. While other companies might base their entire existence on selling their users data, we decided that we will never base our business on activities like this and we are committed to this decision.
 
-  * with your consent; for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
-  * with third party vendors, consultants and other service providers (collectively, “Third Party Service Providers”) who are working on our behalf and need access to your information to carry out their work for us;
-  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  * (i) to comply with lawful requests, court orders or other legal process; (ii) to protect the rights and property of this website, our agents, customers, members, and others including to enforce our policies, Terms of Use or other agreements; or (iii) in an emergency to protect the personal safety of our employees, vendors, Users or any other person.
+That's why we treat your data very seriously and always try to avoid having access to your data if it is possible by nature of the application or service we provide to you.
+
+Most of our mobile app products collect only anonymized or personally unidentifiable usage data that help us make our products better. Some products like Spark have access to more information and thus have their own or additional privacy policies. Below you can find more detailed description of information that we collect at Readdle and how we use it. By using any of our products, you accept the terms of this privacy policy. If you do not agree with our policies and practices, your choice is not to use our website or our products.
+
+Readdle takes your privacy seriously. This privacy policy covers how Readdle treats personal information that Readdle collects and receives when you use the Readdle website (“Website”) or products, except Spark and Fluix. If you are using our Spark or Fluix products, please refer to [Spark Privacy Policy](https://sparkmailapp.com/privacy) and [Fluix Privacy Policy](https://fluix.io/privacy-policy) respectively. Please read the following to learn more about our privacy policy.
+
+Readdle collects information when you use Readdle products or services, when you visit Website pages or the pages of certain Readdle partners. Readdle may combine information about you that we have with information we obtain from business partners or other companies.
+
+Readdle automatically receives and records information on our server logs from your browser, including your IP address, Readdle cookie information, and the page you request.
+
+We may collect additional information related to your contact with our customer support team or store results when you respond to a survey. Also, we receive and store your email when you subscribe to Readdle newsletters and marketing communications.
+
+You also may provide information, such as reviews, feedback, comments, etc., which may be published or displayed (" **posted** ") on public areas of the our Website or our blogs or forum, via our products, or transmitted to other users of the Website or third parties (collectively, " **Content** "). Your Content is posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your Content. Therefore, we cannot and do not guarantee that your Content will not be viewed by unauthorized persons.
+
+We may collect information about your mobile device and internet connection, including the application-specific device identifier, IP address, operating system, browser type, mobile network information, location, installed email, etc.
+
+Readdle does not rent, sell, or share personally identifiable information about you with non-affiliated third parties (other than our subsidiaries and affiliates), except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share personally identifiable information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Readdle's terms of use, this privacy policy, or as otherwise required by law.
+  * We believe disclosure is necessary or appropriate to protect the rights, property, or safety of our company, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+  * We transfer your information in the event a merger, divestiture, restructuring, reorganization, dissolution or sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding and you agree to and do hereby consent to our assignment or transfer of rights to your personal information.
 
 
 
-We may disclose information, including in an aggregated form, in ways that do not directly identify you.
+We also use standard technologies, which may include cookies, flash cookies, and other technologies, to collect and track information about how you use our Website and to record certain information. For example, we may collect and/or log Internet protocol addresses, Internet domain names, the Web browser and operating system used to access our Website, the files visited, the time spent in each file, and the time and date of each visit. We may collect these through the use of log files and Web beacons that could enable us to track your activity. Cookies are files that can be sent from a Website via your browser to be placed on your computer's hard drive. Thereafter, when you visit a Website, a message is sent back to the Web server by the browser accessing the Website. You may elect not to accept cookies by changing the designated settings on your Web browser. The information collected from the use of cookies is used and analyzed to improve our Website, such as by gaining a better understanding of your interests and requirements regarding our Website. You can set your browser to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
 
-## 5\. Third Party Uses of Non-Personally Identifiable Information
+Some our products allows you to subscribe to Readdle newsletters. This process is completely opt-in and you can always opt-out of receiving future e-mail messages and newsletters by ending your subscription. Unsubscribe instructions are located within each newsletter and on our website, or you may contact our [customer support](https://web.archive.org/support) team and ask them to unsubscribe you manually.
 
-We may disclose or share non-personally identifiable information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any personally identifiable information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
+When you contact our customer support via email or using our online form your email will be retained in our customer support system. We may use this email to contact you later with updates about your request, with information about related features and other announcements or to request your feedback.
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to take steps to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp.
+The safety and security of your information also depends on you. You should not share your email user name and password with anyone. If you find out that anyone has improperly obtained your login credentials and accesses your email account through Spark, you should immediately change your password. We are not responsible for such unauthorized access unless the access is our fault.
 
-We also use third party analytics service providers to track and analyze non-personally identifiable usage and volume statistical information from our Users to among other things help us administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or to describe a representative audience for Advertisers. Please note that this is not personally identifiable information, only general summaries of the activities of our Users. 
+We use third party Software and services such as Google Analytics, Facebook Analytics and Amplitude to collect and analyze how people use Readdle applications. This data helps us improve our products and services and better tailor our advertising campaigns on Google, Facebook and other platforms. Also, we use third party software from Dropbox, Evernote and others to provide you with various useful functions across our apps. All these third parties may collect information about you and your usage of our applications in accordance with their respective privacy policies.
 
-## 6\. Updating and Correcting Information
+We limit access to personally identifiable information about you to employees, contractors and service providers who we believe reasonably need have access to that information to provide products or services to you or in order to do their jobs.
 
-You may request to access or change your personal information by using the contact us functionality on this website. Please indicate your name, address and email address, and what information you would like to access or update when you contact us. We encourage you to promptly update your personal information if it changes. 
+We have physical, electronic, and procedural safeguards that are designed to comply with federal regulations to protect personal information about you.
 
-## 7\. Choices on Use of Information
+It is our policy to post any changes we make to our privacy policy on this page. Your continued use of our Website or products after we make changes is deemed to be acceptance of those changes, so please check the privacy policy (posted at [readdle.com/privacy](https://readdle.com/privacy)) periodically for updates.
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in certain activities on the Website.
-
-## 8\. Security of Information
-
-We take reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, collection, use, disclosure, alteration and destruction. 
-
-* * *
+If you have any questions about this Privacy Policy or don't see your concerns addressed here, please [contact us.](https://web.archive.org/support)
