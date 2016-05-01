@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018120832id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501172737id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BarkShop
+# Shop Collections of Dog Toys, Beds, Collars & More | BarkShop
 
 ### Bark&Co   
 Privacy Policy
 
-We respect the privacy of our users. This Privacy Policy (“Policy”) describes our privacy practices concerning information collected in connection with the Bark & Co family of websites, including without limitation BarkBox (located at [www.barkbox.com](http://www.barkbox.com/)), BarkPost (including the BarkShop) (located at [www.barkpost.com](http://www.barkpost.com/)), and BarkBuddy ([www.barkbuddy.com](http://www.barkbuddy.com/)) (the “Sites”). This Policy also describes our privacy practices with respect to any downloadable applications that Bark & Co makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the “Apps” and, together with the Sites, the “Platforms”).
+We respect the privacy of our users. This Privacy Policy (“Policy”) describes our privacy practices concerning information collected in connection with the Bark & Co family of websites, including without limitation BarkBox (located at [www.barkbox.com](http://www.barkbox.com/)), BarkPost (including the BarkShop) (located at [www.barkpost.com](http://www.barkpost.com/)), BarkBuddy ([www.barkbuddy.com](http://www.barkbuddy.com/)), and BarkGive ([www.barkgive.com](http://www.barkgive.com/)) (the “Sites”). This Policy also describes our privacy practices with respect to any downloadable applications that Bark & Co makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the “Apps” and, together with the Sites, the “Platforms”).
 
 This Policy is intended to explain the conditions under which Bark & Co collects, uses, and discloses personal and other information in connection with the Platforms, and your rights in relation to that information. By visiting our Sites, downloading or using our Apps, and/or using the features made available to you through the Platforms, you are agreeing to the terms of this Policy.
 
