@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123131656id_/https%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubularlabs.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501125434id_/https%3A//tubularlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy > Tubular Labs
 
