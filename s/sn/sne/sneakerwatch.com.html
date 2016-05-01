@@ -1,319 +1,135 @@
-<!--The following is the downloaded HTML source of the sneakerwatch.com privacy policy that was archived on 2015-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151102055039id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sneakerwatch.com privacy policy that was archived on 2016-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160501185058id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8"> 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0031/3310.js?438999" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=274010239466617"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAAUVZaGwIEXFNbAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script> 
-		<title>Privacy Policy | SneakerWatch.com</title>
-										<meta name="keywords" content="">
-										<meta name="description" content="">
-										<link rel="alternate" media="only screen and (max-width: 640px)" href="http://www.sneakerwatch.com/mobile/page/privacy/">    <link rel="stylesheet" type="text/css" href="/includes/css/site.css">
-    <link rel="shortcut icon" href="http://www.sneakerwatch.com/favicon.ico">
-    	<script>
-    	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    	ga('create', 'UA-19578033-1', 'auto');
-    	ga('send', 'pageview');
-    </script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	<script>
-		
-		/* -- MENU VARIABLES ------------------------ */
-		var show 		= false;
-		var prev_id 	= '';
-		var current 	= '';
-		var _counter 	= 0;
-		var _seconds 	= 0;
-			
-		function openMenu() {
-
-			_seconds++;
-
-			if(_seconds == 2) { 
-				showMenu();
-				clearInterval(_counter);
-			}
-		
-		}
-		
-		function showMenu() {
-							
-			var ts = current;
-			var id = '#'+ ts.attr('rel');
-			var li = ts.parent();
-			var pr = $('.current-menu');
-			var pe = li.prev().find("a");
-			var pc = pr.find("a");
-			var pw = pr.prev().find("a");
-			
-			pw.css('background-position', 'right 0px');
-			pc.css('background-position', 'right 0px');
-			
-			ts.css('background-position', 'right -36px');
-			pe.css('background-position', 'right -72px');
-							
-			pr.removeClass('current-menu');
-			li.addClass('current-menu');
-			
-			if (!show) {
-				$("#menu-arrow").show();
-				$(id).slideDown(500);
-				show = true;
-				prev_id = id;
-			} else {
-				if (id != prev_id) {
-					$(prev_id).hide();
-					$(id).show();
-					prev_id = id;
-				}
-				$(".menu-sub-entries").hide();
-				$(id).find("#sub-menu-main").show();	
-			}
-			
-			var pos 	= li.position();
-			var left 	= (id == '#menu-front-page') 	? pos.left 		 	: (pos.left - 12)
-			var width	= (id == '#menu-front-page') 	? (li.width() - 14) : (li.width() - 2);
-				width	= (id == '#menu-celebrities')	? (li.width() + 12) : width;
-				
-			$("#menu-arrow").css("width", width + "px");
-			$("#menu-arrow").css("left",  left  + "px");
-
-		}
-		
-		/* -- PAGE VARIABLES ------------------------ */
-		var category = 'privacy';
-			
-		$(document).ready(function() {
-			
-			// CHECK FOR ANALYTICS EVENT DETECTION ------------ //
-			$("body").on("click", "a[data-event]", function(e) {
-				var ev = 'desktop-'+category+'-' + $(this).attr('data-event');
-				ga('send', 'event', 'linksource', ev);
-				return true;
-			});
-			
-			// VALIDATE SEARCH FORM SUBMIT ----------------------------------------------- //
-			$("#form-search").submit(function(e){
-				var val = $("#ff_search").val();
-				if (!val || val == 'SEARCH') {
-					e.preventDefault();
-					alert('Please Enter Search Term');	
-				} 
-			});
-			
-			$(".menu-category-link").hover(function(e){
-
-				var id = $(this).attr("rel");
-				var dv = $(this).parentsUntil('#menu-sub-area');
-				
-				$(".menu-sub-entries").hide();
-				$("#"+id).show();
-					
-			});
-			
-			if (screen.width <= 768) {
-				
-				$('.menu-link').click(function(e) { 
-					current = $(this);
-					var id 	= '#' + current.attr('rel');
-					if (id != prev_id) {
-						e.preventDefault();
-						showMenu();
-					}
-				});
-
-			} else {
-			
-				$(".menu-link").hover(function(){
-				
-					current = $(this);
-					
-					if (!show) {
-						 _counter = setInterval(openMenu, 250);
-					} else {
-						showMenu()
-					}
-		
-				}, function() {
-					clearInterval(_counter);
-				});
-			
-			}
-			
-			/* -- FACEBOOK RENDER FOR HIDDEN DIV ------- */	
-			var subscribe	= document.getElementsByClassName("social-media-icon-h")[0];
-			var fb_wrap		= document.getElementsByClassName("fb-wrap")[0]; 
-    		var rendered 	= false;
-
-			window.fbAsyncInit = function () {
-    			subscribe.onmouseover = function () {
-        			if (!rendered) {
-            			FB.XFBML.parse(fb_wrap);
-           				rendered = true;
-        			}
-    			};
-			};
-			
-			/* -- SOCIAL MEDIA ROLLOVERS --------------- */
-			$(".social-media-icon-h").hover(function(e) {
-				var $em = $(this).find(".social-media-badge");
-				$em.css("z-index", '101');
-				$em.hide();
-				$em.slideDown(250);
-			}, function(e) {
-				$(this).find(".social-media-badge").slideUp(250);
-			});
-
-		});
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="//toolbar.complex.com/dist/ctoolbar.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAAUVZaGwIEXFNbAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta name="viewport" content="width=1046, maximum-scale=1.0">
+	<title>Privacy Policy | SneakerWatch.com // SneakerWatch</title><meta name="description" content="">
+	<link rel="icon" href="/images/site/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/includes/css/desktop.css?ver=1">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700">
+	<script>var cmnunt_site = 'cmn_sneakerwatch'; var cmnunt_silo = 's_sne'; var cmnunt_subsilo = ''; var cmnunt_tier = 't2,internal'; var cmnunt_zone = 'internal'; var cmnunt_kw = ''; var cmnunt_exclude = ''; </script><script src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script>
+    <script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-19578033-1', 'auto');
+		ga('send', 'pageview');
 	</script>
-	<script type="text/javascript">
-         cmnunt_site 		= 'cmn_sneakerwatch';
-         cmnunt_silo 		= 's_sne';		
-         cmnunt_subsilo 	= '';	
-         cmnunt_tier 		= 'to,t2,internal';				
-         cmnunt_zone		= 'system';					
-         cmnunt_kw 			= '';						
-         cmnunt_exclude		= '';						
-    </script>
-    <script type="text/javascript" src="http://cdn.complexmedianetwork.com/js/cmnUNT.js"></script></head>
+<script async="" type="text/javascript" src="http://sneakerwatch.disqus.com/count.js"></script></head>
 
 <body><script type="text/javascript">
 //<![CDATA[
 try{(function(a){var b="http://",c="www.sneakerwatch.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
 //]]>
 </script>
-	
-    	<div id="fb-root"></div>
-	<div id="cmn_ad_tag_head" class="fw_sneakerwatch clearfix">
-		<script>cmnUNT('3x3', tile_num++, 1);</script>
+    <div id="cmn_wrap">
+        <div class="header">
+            <div class="container clearfix">
+            	
+                <a href="/" data-event="logo"><img src="/images/site/logo-sneakerwatch-demo.png" alt="Logo: SneakerWatch" height="30"></a>
+                <div class="search">
+                	<form action="/" method="get" id="form-search"><input type="text" name="search" placeholder="SEARCH" id="ff_search"><button type="submit"><span class="icon-search"></span></button></form>
+                </div>
+                <div class="release-dates">
+                	<a href="/channel/release-dates" data-event="menu-release-dates" class="social-media-icon icon-calendar"></a><a href="/channel/release-dates" data-event="menu-release-dates">Release Dates</a>
+                </div>
+                <div class="feed">
+                	<a href="/user/feed" data-event="menu-feed" class="social-media-icon icon-inbox"></a><a href="/user/feed" data-event="menu-feed" class="update-count"></a>
+                </div>
+                <div class="social-media">
+                    <a href="https://youtube.com/SneakerWatchTV" target="_blank" data-event="menu-sm-youtube" class="social-media-icon icon-youtube"></a>
+                    <a href="https://twitter.com/SneakerWatchCom" target="_blank" data-event="menu-sm-twitter" class="social-media-icon icon-twitter"></a>
+                    <a href="https://facebook.com/SneakerWatch" target="_blank" data-event="menu-sm-facebook" class="social-media-icon icon-facebook"></a>
+                    <a href="https://instagram.com/SneakerWatch" target="_blank" data-event="menu-sm-instagram" class="social-media-icon icon-instagram"></a>
+                    <a href="/page/contact" data-event="menu-contact" class="social-media-icon icon-mail-alt"></a>
+                </div>
+            </div>
+        </div>
+        <div id="notification"></div>
+        <div id="email-overlay">
+            <a href="#" id="email-overlay-close">X</a>            
+            <div id="email-overlay-wrapper" class="clearfix">
+                <h2>Get the Latest Sneaker News, Release Info and Videos from SneakerWatch Daily!</h2>
+                <div id="email-form-overlay">
+                    <input type="text" name="email" placeholder="Enter Your Email Address" id="ff-email-overlay"><button type="button" id="ff-subscribe-overlay" class="button-email"> SUBSCRIBE </button>
+                </div>
+            </div>
+        </div>
+    	<div class="container">    
+            <div id="cmn_ad_tag_head" class="fw_sneakerwatch clearfix"><script>cmnUNT('3x3', tile_num++, 0);</script></div>
+        	<div class="body clearfix">
+            	<div id="gallery-overlay"><a href="#" id="gallery-close">X</a><img id="gallery-overlay-image"></div>
+            	<a href="#" data-event="arrow-scroll-up" id="arrow-overlay-u"><span class="icon-up-big"></span></a>
+        		<div id="content" class="column-full clearfix"><div class="column-main"><h1>Privacy Policy</h1><p>Thank you for visiting SneakerWatch.com (the “Site”), a Hot In Here, INC (“SNW”) Website.&nbsp; We take your privacy seriously, and have created this Privacy Policy in order to demonstrate our firm commitment to online privacy gathered on the Site.&nbsp; Keep reading to learn more about our information gathering and dissemination practices, and our use of your personal information.<br><strong><br>Information We Collect</strong><br><br>This Site collects information from you in a variety of ways, including User Registration, contests, products, online forums and user polls. Thus in visiting this Site we may collect some personal information, including your name, address, e-mail address, telephone number and information about your interests in and use of various products, programs, and services.&nbsp; <br>We also collect certain non-personal information when you visit this Site, such certain types of Web site usage information. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, or other similar information.&nbsp; When analyzed, Web site usage information helps us determine how visitors arrive at the Site, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.<br><br><strong>How We Use Your Information</strong><br><br>We use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, or to contact you about your account with us.&nbsp; We also use this information to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.&nbsp; <br><br>We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of SNW (or its parents, subsidiaries or affiliates), the Site or a transfer of all or substantially all of its assets to that successor in interest.&nbsp; We also reserve the right to permit any parents, subsidiaries and affiliates to use your information, although such parties shall be subject to the restrictions under this Privacy Policy.<br>We use the non personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience.&nbsp; Examples include hosting our web servers, analyzing Site Usage, providing marketing assistance, and providing customer service.<br>Moreover, if you submit to SNW and/or Site comments, photographs, videos, music, text or other content, it may be published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities.&nbsp; Please also see our Terms of Use, which governs any content you submit through the Site. <br><br>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you the personal information we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. <br><br><strong>Third Party Links and Advertisements </strong><br><br>We expect our sponsors, partners and affiliates to respect the privacy of our users.&nbsp; However, when you are on the Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Site, you should consult that Web site's privacy policy before providing any personal information.<br><br><strong>Cookies and Other Technical Information </strong><br><br>Personal information collected by this Site can be linked to other data stored in Cookies on your computer.&nbsp; ”Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data).&nbsp; Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).&nbsp; We send Cookies to your computer primarily to enhance your online experience</p>
+<p>By accepting this Privacy Policy, you specifically agree to our use of Cookies as described herein. You may adjust your browser to reject cookies from us or from any other sites.&nbsp; Please consult the "Help" section of your browser for more information.&nbsp; However, certain areas of the Site can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. <br>As mentioned above, we sometimes use third party content providers and advertisers. These third-parties may use Cookies or similar devices to help present, better target, and measure the effectiveness of their advertisements.&nbsp; You should check the applicable privacy policy of the third party advertiser site to determine how you may be affected by the third parties’ use of Cookies.<br><strong><br>User Comments</strong><br><br>This Site may allow users to make comments on the site (“User Comments”). If you post User Comments containing personal information online, it will be publicly available and you may receive unsolicited messages from other parties.&nbsp; We cannot ensure the security of any information you choose to make public on a comment board.&nbsp; Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.&nbsp; Please exercise caution when disclosing personal information in these areas.&nbsp; Any User Comments are also subject to our Terms of Use.<br><br><strong>Changes in Our Privacy Policy</strong><br><br>From time to time, we may update this Privacy Policy.&nbsp; If we make material changes in the way we treat your personal information, we will place a notice to that effect on this Site.&nbsp; We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.<br><br><strong>How to Contact Us</strong><br><br>If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: <a href="mailto:info@sneakerwatch.com">info@sneakerwatch.com</a><br><br></p></div><div class="column-side"><div class="ad-300"><script>cmnUNT("300x250", tile_num++, 1);</script></div><div class="nav-pages"><h2>Other Pages</h2><ul><li><a href="/page/contact" data-event="additional-page">Contact Us</a></li><li><a href="/page/jobs" data-event="additional-page">Jobs</a></li><li><a href="/page/terms" data-event="additional-page">Terms of Service</a></li></ul></div></div></div>
+    		</div>
+    	</div>
 	</div>
-	<div id="cmn_wrap">
-
-    <div id="container">
-    
-    	<div id="header" class="clearfix">
-            <a href="/" data-event="logo"><img src="/images/site/logo-sneakerwatch-v3.png" alt="Logo: Sneakerwatch" width="242" height="125" id="header-logo"></a>
-            <div id="header-right">
-                <div id="social-media-icons-h" class="clearfix">
-                    <div class="social-media-icon-h" style="width:63px;">
-                    	<span class="social-media-icon" id="icons-facebook"></span>
-                    	<span class="social-media-count">81k</span>
-                        <div class="social-media-badge fb-wrap">
-                            <div class="fb-like" data-href="http://www.facebook.com/SneakerWatch" data-send="false" data-layout="button_count" data-width="80" data-show-faces="false" data-action="like"></div>
-						</div>
-                    </div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-twitter"></span>
-                    	<span class="social-media-count">133k</span>
-                    	<div class="social-media-badge tw-wrap">
-                        	<a href="https://twitter.com/sneakerwatchcom" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @sneakerwatchcom</a>
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-instagram"></span>
-                    	<span class="social-media-count">487k</span>
-                    	<div class="social-media-badge">
-							<a href="http://instagram.com/sneakerwatch?ref=badge" class="instagram-follow-button" target="_blank"><img src="//badges.instagram.com/static/images/ig-badge-16.png" alt="Image: Instagram Icon">Follow</a>		
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h">
-                    	<span class="social-media-icon" id="icons-youtube"></span>
-                    	<span class="social-media-count">184k</span>
-                    	<div class="social-media-badge yt-wrap">
-							<script src="https://apis.google.com/js/platform.js"></script>
-							<div class="g-ytsubscribe" data-channel="sneakerwatchtv" data-layout="default" data-count="hidden"></div>
-						</div>
-                   	</div>
-                    <div class="social-media-icon-h" style="width:30px;">
-                    	<a href="/page/contact/" class="social-media-icon" id="icons-contact"></a>
-                   	</div>
-                </div>
-                <div id="search" class="clearfix">
-                    <form action="/search.php" method="get" id="form-search">
-                        <input type="text" name="title" placeholder="Search" id="ff_search" class="text-field"><input type="image" name="submit" src="/images/site/button-search-v2.png" class="image-field">
-                    </form>
-                </div>
-            </div>
-        </div> <div id="body">
-
-            <div id="menu" class="clearfix">
-            	<div id="menu-arrow"></div>
-				<ul><li id="m-front-page"><a href="/" rel="menu-front-page" class="menu-link" data-event="menu-home">HOME</a></li><li id="m-release-dates"><a href="/channel/release-dates/" rel="menu-release-dates" class="menu-link " data-event="menu-main-release-dates">Release Dates</a></li><li id="m-exclusives"><a href="/channel/exclusives/" rel="menu-exclusives" class="menu-link " data-event="menu-main-exclusives">Exclusives</a></li><li id="m-air-jordan"><a href="/channel/air-jordan/" rel="menu-air-jordan" class="menu-link " data-event="menu-main-air-jordan">Jordan</a></li><li id="m-nike"><a href="/channel/nike/" rel="menu-nike" class="menu-link " data-event="menu-main-nike">Nike</a></li><li id="m-brand"><a href="/channel/brand/" rel="menu-brand" class="menu-link " data-event="menu-main-brand">Brand</a></li><li id="m-celebrities"><a href="/channel/celebrities/" rel="menu-celebrities" class="menu-link right" data-event="menu-main-celebrities">Celebrities</a></li></ul><div id="menu-front-page" class="menu-top-entries clearfix"><div class="menu-highlight-text"><p><a href="/article/030741/air-jordan-1-pinnacle-brown-croc-purchase-links/" data-event="menu-article-">Air Jordan 1 'Pinnacle Brown Croc' -..</a></p><p><a href="/article/030805/adidas-john-wall-20-purchase-links-/" data-event="menu-article-">adidas John Wall 2.0 - Purchase Links..</a></p><p><a href="/article/029837/more-images-of-the-air-jordan-4-alternate-surface/" data-event="menu-article-">More Images of the Air Jordan 4..</a></p><p><a href="/article/031233/more-nike-kobe-x-colorways-are-on-the-way/" data-event="menu-article-">More Nike Kobe X Colorways Are on the..</a></p></div><div class="menu-highlight-entry"><a href="/article/031227/adidas-yeezy-season-1-collection-purchase-links/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031227.jpg" alt="adidas Yeezy Season 1 Collection - Purchase Links"><p>adidas Yeezy Season 1 Collection - Purchase Links</p></a></div><div class="menu-highlight-entry"><a href="/article/031239/eye-candy-here-are-the-flyest-chicksinkicks-on-instagram/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031239.jpg" alt="Eye Candy! Here Are the Flyest #ChicksInKicks on Instagram"><p>Eye Candy! Here Are the Flyest #ChicksInKicks on Instagram</p></a></div><div class="menu-highlight-entry"><a href="/article/030115/air-jordan-4-og-cement-new-images-/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-030115.jpg" alt="Air Jordan 4 OG 'Cement' - New Images "><p>Air Jordan 4 OG 'Cement' - New Images </p></a></div></div><div id="menu-release-dates" class="menu-top-entries clearfix"><div class="menu-highlight-text menu-highlight-sub">	<p><a href="/channel/release-dates/" rel="submenu-most-popular" class="menu-category-link" data-event="menu-category-release-dates">Most Popular</a></p>
-						<p><a href="/channel/release-dates/" rel="submenu-coming-soon" class="menu-category-link" data-event="menu-category-release-dates">Coming Soon</a></p>
-						<p><a href="/channel/release-dates?page=upcoming" rel="submenu-no-release-date" class="menu-category-link" data-event="menu-category-release-dates">No Release Date</a></p></div><div id="menu-sub-area"><div id="sub-menu-main" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/029172/get-ready-for-the-air-jordan-11-72-10/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-029172.jpg" alt="Get Ready for the Air Jordan 11 '72-10'"><p>Get Ready for the Air Jordan 11..<br><strong>Dec:19th:2015<br>Price: $220</strong></p></a></div><div class="menu-highlight-entry"><a href="/article/029458/air-jordan-6-maroon-release-info-revealed-/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-029458.jpg" alt="Air Jordan 6 'Maroon' - Release Info Revealed "><p>Air Jordan 6 'Maroon' - Release Info..<br><strong>Dec:05th:2015<br>Price: $220</strong></p></a></div><div class="menu-highlight-entry"><a href="/article/030534/nike-air-foamposite-one-hologram-officially-unveiled-/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-030534.jpg" alt="Nike Air Foamposite One 'Hologram' - Officially Unveiled "><p>Nike Air Foamposite One 'Hologram' -..<br><strong>Nov:25th:2015<br>Price: $250</strong></p></a></div></div><div id="submenu-most-popular" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/029172/get-ready-for-the-air-jordan-11-72-10/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-029172.jpg" alt="Get Ready for the Air Jordan 11 '72-10'"><p>Get Ready for the Air Jordan 11..<br><strong>Dec:19th:2015<br>Price: $220</strong></p></a></div><div class="menu-highlight-entry"><a href="/article/029458/air-jordan-6-maroon-release-info-revealed-/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-029458.jpg" alt="Air Jordan 6 'Maroon' - Release Info Revealed "><p>Air Jordan 6 'Maroon' - Release Info..<br><strong>Dec:05th:2015<br>Price: $220</strong></p></a></div><div class="menu-highlight-entry"><a href="/article/030534/nike-air-foamposite-one-hologram-officially-unveiled-/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-030534.jpg" alt="Nike Air Foamposite One 'Hologram' - Officially Unveiled "><p>Nike Air Foamposite One 'Hologram' -..<br><strong>Nov:25th:2015<br>Price: $250</strong></p></a></div></div><div id="submenu-coming-soon" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031164/nike-officially-unveils-men-and-womens-boot-collection/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-031164.jpg" alt="Nike Officially Unveils Men and Women's Boot Collection"><p>Nike Officially Unveils Men and Women's..<br><strong>Nov:05th:2015<br></strong></p></a></div><div class="menu-highlight-entry"><a href="/article/030877/adidas-d-rose-6-away-release-date/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-030877.jpg" alt="adidas D Rose 6 'Away' - Release Date"><p>adidas D Rose 6 'Away' - Release..<br><strong>Nov:05th:2015<br>Price: $140</strong></p></a></div><div class="menu-highlight-entry"><a href="/article/031231/the-nike-dunk-high-gets-fitted-for-halloween/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-031231.jpg" alt="The Nike Dunk High Get's Fitted for Halloween"><p>The Nike Dunk High Get's Fitted for..<br><strong>Nov:06th:2015<br></strong></p></a></div></div><div id="submenu-no-release-date" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/022912/detailed-images-of-drake-x-air-jordan-12-ovo/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-022912.jpg" alt="Detailed Images Of Drake x Air Jordan 12 &quot;OVO&quot;"><p>Detailed Images Of Drake x Air Jordan 12 "OVO"</p></a></div><div class="menu-highlight-entry"><a href="/article/025240/new-images-of-the-air-jordan-6-oreo/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-025240.jpg" alt="New Images of the Air Jordan 6 &quot;Oreo&quot;"><p>New Images of the Air Jordan 6 "Oreo"</p></a></div><div class="menu-highlight-entry"><a href="/article/025144/is-the-og-air-jordan-4-cement-making-a-return-in-2015/" data-event="menu-article-release-dates"><img src="/images/g_image_thumb/video-025144.jpg" alt="Is the OG Air Jordan 4 'Cement' Making a Return in 2015?"><p>Is the OG Air Jordan 4 'Cement' Making a Return in 2015?</p></a></div></div></div></div><div id="menu-exclusives" class="menu-top-entries clearfix"><div class="menu-highlight-text menu-highlight-sub"><p><a href="/channel/videos/" rel="submenu-videos" class="menu-category-link" data-event="menu-category-videos">Exclusive Videos</a></p><p><a href="/channel/photos/" rel="submenu-photos" class="menu-category-link" data-event="menu-category-photos">Exclusive Photos</a></p><p><a href="/channel/lists/" rel="submenu-lists" class="menu-category-link" data-event="menu-category-lists">Exclusive Lists</a></p></div><div id="menu-sub-area"><div id="sub-menu-main" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031238/mayor-pulls-out-aj-heat-everything-aint-gotta-be-exclusive/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031238.jpg" alt="Mayor Pulls Out AJ Heat: &quot;Everything Ain't Gotta Be Exclusive!&quot;"><p>Mayor Pulls Out AJ Heat: "Everything Ain't Gotta Be Exclusive!"</p></a></div><div class="menu-highlight-entry"><a href="/article/031223/soleyghost-lebrons-and-kobes-just-take-up-room-on-shelves/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031223.jpg" alt="SoleyGhost: LeBrons and Kobes Just Take Up Room on Shelves"><p>SoleyGhost: LeBrons and Kobes Just Take Up Room on Shelves</p></a></div><div class="menu-highlight-entry"><a href="/article/031193/soundwave-thered-be-a-riot-if-air-mags-have-in-store-release/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031193.jpg" alt="SoundWave: There'd Be a Riot If Air Mags Have In-Store Release"><p>SoundWave: There'd Be a Riot If Air Mags Have In-Store Release</p></a></div></div><div id="submenu-videos" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031238/mayor-pulls-out-aj-heat-everything-aint-gotta-be-exclusive/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031238.jpg" alt="Mayor Pulls Out AJ Heat: &quot;Everything Ain't Gotta Be Exclusive!&quot;"><p>Mayor Pulls Out AJ Heat: "Everything Ain't Gotta Be Exclusive!"</p></a></div><div class="menu-highlight-entry"><a href="/article/031223/soleyghost-lebrons-and-kobes-just-take-up-room-on-shelves/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031223.jpg" alt="SoleyGhost: LeBrons and Kobes Just Take Up Room on Shelves"><p>SoleyGhost: LeBrons and Kobes Just Take Up Room on Shelves</p></a></div><div class="menu-highlight-entry"><a href="/article/031188/mayor-on-oct-21st-air-mag-release-it-probably-wont-happen/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031188.jpg" alt="Mayor on Oct. 21st Air Mag Release: It Probably Won't Happen"><p>Mayor on Oct. 21st Air Mag Release: It Probably Won't Happen</p></a></div></div><div id="submenu-photos" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031160/heres-why-you-should-give-other-sneaker-brands-a-chance-/" data-event="menu-article-image-"><img src="/images/g_image_thumb/video-031160.jpg" alt="Here's Why You Should Give Other Sneaker Brands a Chance! "><p>Here's Why You Should Give Other Sneaker Brands a Chance! </p></a></div></div></div></div><div id="menu-air-jordan" class="menu-top-entries clearfix"><div class="menu-highlight-text"><p><a href="/article/030222/air-jordan-2-alternate-first-live-look-/" data-event="menu-article-air-jordan">Air Jordan 2 'Alternate' - First Live..</a></p><p><a href="/article/031163/air-jordan-13-cp3-pe-hornets-new-images-/" data-event="menu-article-air-jordan">Air Jordan 13 CP3 PE 'Hornets' - New..</a></p><p><a href="/article/030707/take-a-better-look-at-the-eminem-air-jordan-4-/" data-event="menu-article-air-jordan">Take a Better Look at the 'Eminem' Air..</a></p><p><a href="/article/030774/theres-a-release-date-for-the-air-jordan-12-flu-game-/" data-event="menu-article-air-jordan">There's a Release Date for the Air..</a></p></div><div class="menu-highlight-entry"><a href="/article/030115/air-jordan-4-og-cement-new-images-/" data-event="menu-article-image-air-jordan"><img src="/images/g_image_thumb/video-030115.jpg" alt="Air Jordan 4 OG 'Cement' - New Images "><p>Air Jordan 4 OG 'Cement' - New Images </p></a></div><div class="menu-highlight-entry"><a href="/article/029837/more-images-of-the-air-jordan-4-alternate-surface/" data-event="menu-article-image-air-jordan"><img src="/images/g_image_thumb/video-029837.jpg" alt="More Images of the Air Jordan 4 'Alternate' Surface"><p>More Images of the Air Jordan 4 'Alternate' Surface</p></a></div><div class="menu-highlight-entry"><a href="/article/030741/air-jordan-1-pinnacle-brown-croc-purchase-links/" data-event="menu-article-image-air-jordan"><img src="/images/g_image_thumb/video-030741.jpg" alt="Air Jordan 1 'Pinnacle Brown Croc' - Purchase Links"><p>Air Jordan 1 'Pinnacle Brown Croc' - Purchase Links</p></a></div></div><div id="menu-nike" class="menu-top-entries clearfix"><div class="menu-highlight-text"><p><a href="/article/031120/nike-kobe-x-elite-low-draft-pick-purchase-links/" data-event="menu-article-nike">Nike Kobe X Elite Low 'Draft Pick' -..</a></p><p><a href="/article/031217/nike-lebron-13-on-court-purchase-links/" data-event="menu-article-nike">Nike LeBron 13 'On Court' - Purchase..</a></p><p><a href="/article/031236/heres-a-nike-huarache-that-hasnt-hit-retailers-yet/" data-event="menu-article-nike">Here's a Nike Huarache That Hasn't Hit..</a></p><p><a href="/article/031234/the-nike-air-force-1-white-chocolate-gets-a-retro/" data-event="menu-article-nike">The Nike Air Force 1 'White Chocolate'..</a></p></div><div class="menu-highlight-entry"><a href="/article/031233/more-nike-kobe-x-colorways-are-on-the-way/" data-event="menu-article-image-nike"><img src="/images/g_image_thumb/video-031233.jpg" alt="More Nike Kobe X Colorways Are on the Way"><p>More Nike Kobe X Colorways Are on the Way</p></a></div><div class="menu-highlight-entry"><a href="/article/031237/nike-air-max-cb34s-most-popular-colorway-is-back-/" data-event="menu-article-image-nike"><img src="/images/g_image_thumb/video-031237.jpg" alt="Nike Air Max CB34's Most Popular Colorway Is Back! "><p>Nike Air Max CB34's Most Popular Colorway Is Back! </p></a></div><div class="menu-highlight-entry"><a href="/article/031172/nike-kd-8-road-game-purchase-links/" data-event="menu-article-image-nike"><img src="/images/g_image_thumb/video-031172.jpg" alt="Nike KD 8 'Road Game' - Purchase Links"><p>Nike KD 8 'Road Game' - Purchase Links</p></a></div></div><div id="menu-brand" class="menu-top-entries clearfix"><div class="menu-hightlight-submenu"><p><a href="/channel/adidas/" data-event="menu-subcategory-adidas">Adidas</a></p><p><a href="/channel/asics/" data-event="menu-subcategory-asics">Asics</a></p><p><a href="/channel/converse/" data-event="menu-subcategory-converse">Converse</a></p><p><a href="/channel/newbalance/" data-event="menu-subcategory-newbalance">New Balance</a></p></div><div class="menu-hightlight-submenu"><p><a href="/channel/air-force-1/" data-event="menu-subcategory-air-force-1">Nike Air Force 1</a></p><p><a href="/channel/air-max/" data-event="menu-subcategory-air-max">Nike Air Max</a></p><p><a href="/channel/nike-basketball/" data-event="menu-subcategory-nike-basketball">Nike Basketball</a></p><p><a href="/channel/nike-durant/" data-event="menu-subcategory-nike-durant">Nike Durant</a></p></div><div class="menu-hightlight-submenu"><p><a href="/channel/nike-foamposites/" data-event="menu-subcategory-nike-foamposites">Nike Foamposites</a></p><p><a href="/channel/nike-griffey/" data-event="menu-subcategory-nike-griffey">Nike Griffey</a></p><p><a href="/channel/nike-kobe/" data-event="menu-subcategory-nike-kobe">Nike Kobe</a></p><p><a href="/channel/nike-lebron/" data-event="menu-subcategory-nike-lebron">Nike Lebron</a></p></div><div class="menu-hightlight-submenu"><p><a href="/channel/nike-penny/" data-event="menu-subcategory-nike-penny">Nike Penny</a></p><p><a href="/channel/nike-sb/" data-event="menu-subcategory-nike-sb">Nike SB</a></p><p><a href="/channel/nike-other/" data-event="menu-subcategory-nike-other">Nike - Other</a></p><p><a href="/channel/puma/" data-event="menu-subcategory-puma">Puma</a></p></div><div class="menu-hightlight-submenu"><p><a href="/channel/reebok/" data-event="menu-subcategory-reebok">Reebok</a></p><p><a href="/channel/supra/" data-event="menu-subcategory-supra">Supra</a></p><p><a href="/channel/custom/" data-event="menu-subcategory-custom">Custom</a></p><p><a href="/channel/other/" data-event="menu-subcategory-other">Other</a></p></div></div><div id="menu-celebrities" class="menu-top-entries clearfix"><div class="menu-highlight-text menu-highlight-sub"><p><a href="/channel/athletes/" rel="submenu-athletes" class="menu-category-link" data-event="menu-category-athletes">Athletes</a></p><p><a href="/channel/actors-musicians/" rel="submenu-actors-musicians" class="menu-category-link" data-event="menu-category-actors-musicians">Actors / Musicians</a></p></div><div id="menu-sub-area"><div id="sub-menu-main" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031207/fabolous-laces-up-one-of-best-sneaker-collabs-this-year/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031207.jpg" alt="Fabolous Laces Up One of Best Sneaker Collabs This Year"><p>Fabolous Laces Up One of Best Sneaker Collabs This Year</p></a></div><div class="menu-highlight-entry"><a href="/article/031228/in-case-you-missed-it-another-celebrity-has-their-own-shoe-deal/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031228.jpg" alt="In Case You Missed It: Another Celebrity Has Their Own Shoe Deal"><p>In Case You Missed It: Another Celebrity Has Their Own Shoe Deal</p></a></div><div class="menu-highlight-entry"><a href="/article/031238/mayor-pulls-out-aj-heat-everything-aint-gotta-be-exclusive/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031238.jpg" alt="Mayor Pulls Out AJ Heat: &quot;Everything Ain't Gotta Be Exclusive!&quot;"><p>Mayor Pulls Out AJ Heat: "Everything Ain't Gotta Be Exclusive!"</p></a></div></div><div id="submenu-athletes" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031185/kevin-durant-previews-an-unreleased-nike-kd-8-colorway/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031185.jpg" alt="Kevin Durant Previews an Unreleased Nike KD 8 Colorway"><p>Kevin Durant Previews an Unreleased Nike KD 8 Colorway</p></a></div><div class="menu-highlight-entry"><a href="/article/031129/stephon-marbury-says-jordan-doesnt-care-about-robbing-the-hood/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031129.jpg" alt="Stephon Marbury Says Jordan Doesn't Care About Robbing the Hood"><p>Stephon Marbury Says Jordan Doesn't Care About Robbing the Hood</p></a></div></div><div id="submenu-actors-musicians" class="menu-sub-entries clearfix"><div class="menu-highlight-entry"><a href="/article/031201/tinker-reveals-2016-nike-air-mag-in-letter-to-michael-j-fox/" data-event="menu-article-image-celebrities"><img src="/images/g_image_thumb/video-031201.jpg" alt="Tinker Reveals 2016 Nike Air Mag in Letter to Michael J. Fox"><p>Tinker Reveals 2016 Nike Air Mag in Letter to Michael J. Fox</p></a></div></div></div></div>            </div>
-
-            <div id="content" class="clearfix">
-            	<div id="detail-left">
-                   	<div id="area-title">
-                    	<h1>Privacy Policy</h1>
-                	</div>
-					<p>Thank you for visiting SneakerWatch.com (the “Site”), a Hot In Here, INC (“SNW”) Website.&nbsp; We take your privacy seriously, and have created this Privacy Policy in order to demonstrate our firm commitment to online privacy gathered on the Site.&nbsp; Keep reading to learn more about our information gathering and dissemination practices, and our use of your personal information.<br><strong><br>Information We Collect</strong><br><br>This Site collects information from you in a variety of ways, including User Registration, contests, products, online forums and user polls. Thus in visiting this Site we may collect some personal information, including your name, address, e-mail address, telephone number and information about your interests in and use of various products, programs, and services.&nbsp; <br>We also collect certain non-personal information when you visit this Site, such certain types of Web site usage information. For example, we may collect the page served, the time, the source of the request, the type of browser making the request, the preceding page view, or other similar information.&nbsp; When analyzed, Web site usage information helps us determine how visitors arrive at the Site, what type of content is most popular, and what type of visitors are interested in particular kinds of content and advertising.<br><br><strong>How We Use Your Information</strong><br><br>We use this information to communicate with you, such as to notify you when we make changes to our subscriber agreements, or to contact you about your account with us.&nbsp; We also use this information to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.&nbsp; <br><br>We reserve the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of SNW (or its parents, subsidiaries or affiliates), the Site or a transfer of all or substantially all of its assets to that successor in interest.&nbsp; We also reserve the right to permit any parents, subsidiaries and affiliates to use your information, although such parties shall be subject to the restrictions under this Privacy Policy.<br>We use the non personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience.&nbsp; Examples include hosting our web servers, analyzing Site Usage, providing marketing assistance, and providing customer service.<br>Moreover, if you submit to SNW and/or Site comments, photographs, videos, music, text or other content, it may be published online or offline (including on-air, on a CD or DVD, through wireless distribution, and transmission of soft copies, or any other media or format currently existing or hereafter developed), and we may publish your name, voice, likeness and other personal information in connection with publishing the content or a portion of the content, and we may use the content and any excerpt from the content in connection with advertising, marketing, publicity and promotional activities.&nbsp; Please also see our Terms of Use, which governs any content you submit through the Site. <br><br>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you the personal information we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. <br><br><strong>Third Party Links and Advertisements </strong><br><br>We expect our sponsors, partners and affiliates to respect the privacy of our users.&nbsp; However, when you are on the Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Web site. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Web sites may independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Site, you should consult that Web site's privacy policy before providing any personal information.<br><br><strong>Cookies and Other Technical Information </strong><br><br>Personal information collected by this Site can be linked to other data stored in Cookies on your computer.&nbsp; ”Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data).&nbsp; Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser).&nbsp; We send Cookies to your computer primarily to enhance your online experience</p>
-<p>By accepting this Privacy Policy, you specifically agree to our use of Cookies as described herein. You may adjust your browser to reject cookies from us or from any other sites.&nbsp; Please consult the "Help" section of your browser for more information.&nbsp; However, certain areas of the Site can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. <br>As mentioned above, we sometimes use third party content providers and advertisers. These third-parties may use Cookies or similar devices to help present, better target, and measure the effectiveness of their advertisements.&nbsp; You should check the applicable privacy policy of the third party advertiser site to determine how you may be affected by the third parties’ use of Cookies.<br><strong><br>User Comments</strong><br><br>This Site may allow users to make comments on the site (“User Comments”). If you post User Comments containing personal information online, it will be publicly available and you may receive unsolicited messages from other parties.&nbsp; We cannot ensure the security of any information you choose to make public on a comment board.&nbsp; Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.&nbsp; Please exercise caution when disclosing personal information in these areas.&nbsp; Any User Comments are also subject to our Terms of Use.<br><br><strong>Changes in Our Privacy Policy</strong><br><br>From time to time, we may update this Privacy Policy.&nbsp; If we make material changes in the way we treat your personal information, we will place a notice to that effect on this Site.&nbsp; We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it.<br><br><strong>How to Contact Us</strong><br><br>If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: <a href="mailto:info@sneakerwatch.com">info@sneakerwatch.com</a><br><br></p> 
-                </div>
-                <div id="detail-right">
-                	<div id="ad-300">
-                		<script type="text/javascript">cmnUNT('300x250, 300x600', tile_num++, 1);</script> 
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-	        <div id="footer">
-            Copyright © 2010-2015 Hot In Here, Inc. All Rights Reserved. <a href="/page/terms/">Terms of Service</a> | <a href="/page/privacy/">Privacy</a> | <a href="/page/contact/">Contact</a>
-        </div>
-    
-    </div>
-    
-        
-    <!-- Start comScore Tag --> 
-    <script>
-        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+   	<script src="/includes/template/js/lib-desktop.js"></script>
+	<script>
+			var config			= JSON.parse('{"time":1462128658}');
+					var pagename		= 'privacy';
+					var uri				= '/page/privacy';
+				  	var search			= '';
+				  	var pageT			= 0;
+				  	var pageB			= 0;
+				  	var id				= '';
+					var last_id			= '';
+	</script>
+    <script src="/includes/template/js/page.js"></script>
+	<script>
+        var disqus_shortname = 'sneakerwatch';
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+	</script>
+	<script>
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
     </script><script src="https://sb.scorecardresearch.com/beacon.js"></script> 
-    <script>   
+ 	<script> 
         COMSCORE.beacon({     
-            c1:2,     
-            c2:6685975,     
-            c3:"",     
-            c4:"www.sneakerwatch.com/page/privacy/",     
-            c5:"",     
-            c6:"",     
-            c15:""   
+        	c1: 	2,     
+        	c2: 	6685975,     
+        	c3: 	"",     
+        	c4: 	"",     
+        	c5: 	"",     
+        	c6: 	"",     
+        	c15: 	""   
         });
-     </script> 
-    <noscript>
-        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" />
-    </noscript> 
-    <!-- End comScore Tag -->   
-    
-    <script type="text/javascript">			
-        cmnTB();
-        cmnUNT('tover', tile_num++);
-    </script>
-    
+    </script> 
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript> 
+	<script>
+        cmnUNT('tover', tile_num++, 1);
+	</script>
     <script>
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=274010239466617";
-        fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
+		(function() {
+			window.cToolbarInit = function() {
+				cToolbar.load({
+					mobileRightButton: 		'youtube', 
+					facebookUsername: 		'SneakerWatch',
+					facebookName: 			'SneakerWatch',
+					twitterHandle: 			'sneakerwatchcom',
+					twitterName: 			'SneakerWatch',
+					youtubeChannel: 		'sneakerwatchtv',
+					youtubeChannelName: 	'SneakerWatch',
+					desktopBackground: 		'solid', 
+					desktopSocialButtons: 	["twitter","facebook", "youtube"],
+					channel: 				'Sneakers'
+				});
+			};
+			var ns = document.createElement('script');       
+				ns.type = 'text/javascript';
+				ns.async = true;
+				ns.src = '//toolbar.complex.com/dist/ctoolbar.min.js';
+			var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ns, s);
+		})();
     </script>
-    
-    <script type="text/javascript">
-		setTimeout(function(){var a=document.createElement("script");
-		var b=document.getElementsByTagName("script")[0];
-		a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0031/3310.js?"+Math.floor(new Date().getTime()/3600000);
-		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-	</script> 
-    
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5a103dc51c","applicationID":"1482965","transactionName":"MwBTNxAFX0EEBkxcCwpKZBELS0FTAgAWRQwU","queueTime":0,"applicationTime":30,"atts":"H0dQQVgfTE8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-</div></body></html>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5a103dc51c","applicationID":"1482965","transactionName":"MwBTNxAFX0EEBkxcCwpKZBELS1hcAQBAGxQMFQ==","queueTime":0,"applicationTime":40,"atts":"H0dQQVgfTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+</body></html>
