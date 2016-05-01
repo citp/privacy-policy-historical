@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102055039id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerwatch.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501185058id_/http%3A//www.sneakerwatch.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SneakerWatch.com
+# Privacy Policy | SneakerWatch.com // SneakerWatch
 
 Thank you for visiting SneakerWatch.com (the “Site”), a Hot In Here, INC (“SNW”) Website.  We take your privacy seriously, and have created this Privacy Policy in order to demonstrate our firm commitment to online privacy gathered on the Site.  Keep reading to learn more about our information gathering and dissemination practices, and our use of your personal information.  
  **  
