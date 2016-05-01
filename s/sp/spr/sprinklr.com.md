@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122001612id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklr.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501164726id_/https%3A//www.sprinklr.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-
-_Last Updated: June 20, 2015_.
+_Last Updated: February 2, 2016_.
 
 This policy covers Sprinklr’s privacy practices for our public website, accessible at [https://www.sprinklr.com](https://www.sprinklr.com/).
 
@@ -26,7 +25,7 @@ Through this website we may collect information that can identify you (“Identi
 •    Your name;  
 •    Your address;  
 •    Your telephone number;  
-•    Your email address;   
+•    Your email address;  
 •    Your IP address; and,  
 •    Other similar information.
 
@@ -60,7 +59,7 @@ This website may use a technology called a “cookie”. A cookie is a piece of 
 
 **Interacting With You.**
 
- We will use your Identifiable Information to respond to requests you may make of us. We may also use your Identifiable Information to contact you and/or provide you with general information about our products and services. We may also enhance or merge your Identifiable Information with data obtained from third parties for the same purposes.
+We will use your Identifiable Information to respond to requests you may make of us. We may also use your Identifiable Information to contact you and/or provide you with general information about our products and services. We may also enhance or merge your Identifiable Information with data obtained from third parties for the same purposes.
 
 **Making Our Platform Better.**
 
