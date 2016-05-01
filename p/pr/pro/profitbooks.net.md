@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102062034id_/http%3A//www.profitbooks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitbooks.net privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501164924id_/http%3A//www.profitbooks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProfitBooks.net
 
@@ -29,4 +29,4 @@ If you wish to cancel the service, your data will be retained on our system for 
 
 **  
 Refund policy**  
-If you are not satisfied with our services, within 120 days from the purchase date, we will refund the money you have paid us for remaining period of your subscription.
+If you are not satisfied with our services, within 30 days from the purchase date, we will refund the money you have paid us for remaining period of your subscription.
