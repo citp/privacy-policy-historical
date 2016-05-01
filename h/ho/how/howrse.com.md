@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108072552id_/http%3A//www.owlient.eu/2013/10/29/pp-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501084427id_/http%3A//www.owlient.com/pp/us) for the most accurate reproduction.*
 
-# PRIVACY STATEMENT | Owlient
+# PRIVACY STATEMENT
 
-Last updated March 2, 2015
+**Last updated March 2, 2015**
 
 OUR PRIVACY COMMITMENT
 
@@ -30,11 +30,11 @@ Q8. How can you update your personal information and profile?
 
 Q9. How can you ask questions, or send us comments, about this Privacy Policy?
 
-**Q1. What is Personal Information?**
+## Q1. What is Personal Information? 
 
 A1. As used herein, the term “personal information” means information that specifically identifies any individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number), or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate information”, which is data we collect about the use of the Services or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. Personal information also does not include a Device Identifier (as defined below) that is not connected to personal information.
 
-**Q2. What types of personally identifiable information do we collect about our guests?**
+## Q2. What types of personally identifiable information do we collect about our guests?
 
 A2. We collect several types of personal information about our guests in a number of ways when you visit or use the Services:
 
@@ -81,7 +81,7 @@ We also may obtain certain non-personal information about you from third parties
 
 We also may supplement the information we collect about you through the Services with our information from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from these third parties with information we collect through the Services. In those cases, we will apply this Policy to any personal information received, unless we have disclosed otherwise.
 
-**Q3. How is your personally identifiable information used and shared?**
+## Q3. How is your personally identifiable information used and shared? 
 
 A3. We don’t sell or rent your personal information to third parties without your consent. We don’t require personal information to access our website. However, if you prefer not to disclose personal information, you will not be able to enjoy certain features of our website.
 
@@ -103,13 +103,13 @@ We use personal information we collect through the Site for the purposes describ
 We will not share the personal information we collect from you through the Services with third parties, except as described in this Policy or on the Site. For example, we may share personal information as follows:
 
   * With vendors, consultants, and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site and who need access to such information to carry out their work for us From time to time, we may share your personal information with technical partners which help Owlient with the operation of the Services, including, without limitation, payment processing, and products delivery. To the extent that our technical partners have access to your information, they will follow practices that are at least as restrictive as the practices described in this Policy ; 
-    * Upon your request or with your consent, we will share your information with other users of the Site;
-    * When you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information;
-    * With Advertising Partners to send you coupons, promotions, rewards, awards and advertisements you request;
-    * To enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
-    * To enter you into a sweepstakes, contest, or promotion; and
-    * To respond to your questions.
-    * 
+  * Upon your request or with your consent, we will share your information with other users of the Site;
+  * When you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information;
+  * With Advertising Partners to send you coupons, promotions, rewards, awards and advertisements you request;
+  * To enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
+  * To enter you into a sweepstakes, contest, or promotion; and
+  * To respond to your questions.
+
 
 
 **Aggregate Information**
@@ -132,13 +132,13 @@ You understand that when you use the Services, any information you post in any i
 
 We are not responsible for the actions of third party service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
 
-**Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?**
+## Q4. What choices do you have about the collection, use, and sharing of your personally identifiable information?
 
 A4. As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by visiting your profile section or contacting us at http://support.owlient.eu/wizard. **** When you contact us, please include the name of the website you used to register and the email address you used to register with us so we can verify your request.
 
 **Your California Privacy Rights** : The following applies solely to California residents who have an established business relationship with Owlient. If we collect personal information from you, we may make the personal information available to third parties for their marketing and promotional purposes. If you decide that you do not want us to share your personal information with these companies for their marketing and promotional purposes, please contact us at http://support.owlient.eu/wizard. When you contact us, please state that you would like Owlient to not share your personal information with third parties for their marketing purposes. You opt out request will be processed within thirty (30) days of the date of which we receive it.
 
-**Q5. Do we collect information for children under the age of 13?**
+## Q5. Do we collect information for children under the age of 13?
 
 A5. Owlient is very sensitive to privacy issues. We are especially careful in any communications with children under the age of 13 (“Child” or “Children”). Owlient restricts access to certain Services on age grounds and, in certain jurisdictions, for certain Services and functions, asks for parent approval when a Child wishes to register for the Services.
 
@@ -166,19 +166,19 @@ In all cases, use of the Services by Children must take place under the responsi
 
 IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR OTHER OF THE SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF THE SERVICES BY YOUR CHILD.
 
-**Q6. Does this privacy policy apply to other websites linked to this Site?**
+## Q6. Does this privacy policy apply to other websites linked to this Site?
 
 A6. The services may contain links to other websites. For instance, purchases of Virtual Currency or Virtual Items for Owlient Services may be transacted on a third party processors site. Any personal information you provide on linked pages or applications is provided directly to that third party and is subject to that third party’s privacy policy. This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to or from the Services. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
-**Q7. What kinds of security measures do we take to safeguard your personally identifiable information?**
+## Q7. What kinds of security measures do we take to safeguard your personally identifiable information? 
 
-A7. The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. ****
+A7. The security and confidentiality of your personal information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect your personal information from unauthorized access and improper use. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable.
 
 To protect the confidentiality of personal information maintained in your account, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Services by any person using your password. Please advise us immediately if you believe your password has been misused.
 
 DESPITE OUR EFFORTS TO KEEP YOUR PERSONAL INFORMATION SECURE, NO COMPANY CAN GUARANTY THE SECURITY AND PRIVACY OF ITS SERVICES, INFORMATION AND OTHER DATA. ACCORDINGLY, OWLIENT DISCLAIMS AND DOES NOT REPRESENT AND WARRANT THAT IT WILL BE ABLE TO MAINTAIN YOUR PRIVACY OR THE SECURITY OF ITS DATA IN REGARD TO YOUR PERSONAL INFORMATION. OUR PRIVACY POLICIES AND PROCEDURES ARE “AS IS” AND OWLIENT MAKES NO REPRESENTATIONS AS TO THE FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY.
 
-**Q8. How can you update your personal information and profile?**
+## Q8. How can you update your personal information and profile? 
 
 A8. You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by logging in and clicking the Profile section, or contacting us at http://support.owlient.eu/wizard. When you contact us, please include the name of the website you used to register so we can verify your request.
 
@@ -188,12 +188,10 @@ If you do not wish to receive promotional e-mails, texts, or other communication
 
 2\. When you receive an e-mail, text, or other communications from us, it will contain a link or other instruction that allows you to stop the delivery of such messages from us. If you decide to use this opt-out method, you will no longer receive special offers, valuable coupons, new product introductions or e-newsletters from Owlient; however, you will continue to receive non-promotional communications from us, such as order confirmations.
 
-**Q9. How can you ask questions, or send us comments, about this Privacy Policy?**
+## Q9. How can you ask questions, or send us comments, about this Privacy Policy? 
 
 A9. If you have questions or wish to send us comments about this Privacy Policy, please contact Owlient at <http://support.owlient.eu/wizard> and/or at the address below:
 
 Owlient SAS 28 rue de Chambery 75015 Paris, France
 
 Please be assured that any personal information that you provide in communications to the above addresses will not be used to send you promotional materials, unless you request it.
-
-Last updated March 1, 2014
