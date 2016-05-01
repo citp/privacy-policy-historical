@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineinsider.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215074355id_/http%3A//www.onlineinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineinsider.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501145259id_/http%3A//www.onlineinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Insider
 
@@ -189,5 +189,5 @@ If there are any questions regarding this privacy policy you may [Contact Us](ht
 
 OnlineInsider.com  
 Tightrope Interactive  
-425 Bush Street, Suite 500,  
-San Francisco, CA 94108
+588 Sutter St. #551,  
+San Francisco, CA 94102
