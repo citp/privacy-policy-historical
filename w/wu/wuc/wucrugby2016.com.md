@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wucrugby2016.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907220249id_/http%3A//wucrugby2016.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wucrugby2016.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501084833id_/http%3A//wucrugby2016.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Rugby 7s 2016
 
