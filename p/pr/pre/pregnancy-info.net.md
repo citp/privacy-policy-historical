@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancy-info.net privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154233id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancy-info.net privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501194818id_/http%3A//www.pregnancy-info.net/privacy.html) for the most accurate reproduction.*
 
 # SELECTED: Privacy Policy PREGNANT
 
