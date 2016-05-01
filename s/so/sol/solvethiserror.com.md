@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the solvethiserror.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008050924id_/http%3A//www.solvethiserror.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvethiserror.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501121707id_/http%3A//www.solvethiserror.com//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SolveThisError.com
 
-This Privacy Policy governs the manner in which We collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.solvethiserror.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Us. 
+This Privacy Policy governs the manner in which We collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.solvethiserror.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by Us. 
 
 **Personal identification information**
 
@@ -45,4 +45,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [click here](https://web.archive.org/contact-us.asp) to contact us.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [click here](http://www.solvethiserror.com/contact-us) to contact us.
