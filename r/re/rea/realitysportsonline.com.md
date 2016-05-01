@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231103858id_/http%3A//realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitysportsonline.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501202312id_/http%3A//www.realitysportsonline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,9 +28,11 @@ On your league page, you may voluntarily enter contact information that makes it
 
 
 
-**Any information that is provided to a third party unaffiliated with Reality Sports Online (an “Unaffiliated Third Party”), including without limitation, League Safe, Pay Pal or any other entity, shall be provided pursuant to the Privacy Policies of such Unaffiliated Third Party, and RSO shall not be liable for any special, indirect, or consequential damages that are directly or indirectly related to the providing of such information to such Unaffiliated Third Party.**
+**Any information that is provided to a third party unaffiliated with Reality Sports Online (an “Unaffiliated Third Party”), including without limitation, League Safe, Pay Pal, AdRoll, or any other entity, shall be provided pursuant to the Privacy Policies of such Unaffiliated Third Party, and RSO shall not be liable for any special, indirect, or consequential damages that are directly or indirectly related to the providing of such information to such Unaffiliated Third Party.**
 
-**The Way We Use Information:**
+**For the avoidance of doubt, it is understood that by visiting our website, such Unaffiliated Third Parties may at any point in time and on any webpage place cookies on users’ browsers for targeted advertising purposes. Cookies are small data files  that are served by us or an Unaffiliated Third Party and stored on your device. That data can then be used by us or an Unaffiliated Third Party to target advertising on other sites (e.g. Facebook.com) based on your online activity. If you would like instructions on how to opt out of receiving such advertisements, please visit the [DAA opt-out site](http://www.aboutads.info/) or the [NAI opt-out site](http://networkadvertising.org/choices). **
+
+**The Way We (RSO) Use Information:**
 
 We use the information you provide about yourself when signing up to become a Registered User or for registering for the RSO Fantasy Platform only to successfully make you a Registered User or register you for the RSO Fantasy Platform, as the case may be. We do not share this information with outside parties except to the extent necessary to complete the applicable process.
 
