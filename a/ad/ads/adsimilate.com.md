@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsimilate.com privacy policy that was archived on 2015-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151105031454id_/http%3A//adsimilate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsimilate.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501155423id_/http%3A//www.adsimilate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : PPC : Online Ads : Pay Per Click Advertising : Adsimilate.com
 
@@ -56,16 +56,5 @@ Our Privacy Policy may change from time to time. Be sure to visit this page freq
 **Effective Date**  
 This Privacy Policy is effective and was last updated on November 9th, 2009.
 
-|  |   
----  
-| 
-
-**Adsimilate Community**  
-Adsimilate Marketing, Inc is excited to announce the launch of our new proprietary ad platform! [Adsimilate Community](http://www.adsimilatecommunity.com/) brings you targeted and low cost traffic to make your online marketing a success. Experts in PPC search engine marketing, remarketing, display advertising and online marketing. We offer the best service and solutions to suit your business needs.  
-
-
-**PriceAndShop.com**  
-We are proud to announce our new shopping comparison website! Please visit [www.priceandshop.com](http://www.priceandshop.com/) to find the best prices on products from national retailers before you buy! Also, visit our[ facebook page](http://www.facebook.com/PriceAndShop)!   
-
-
-| 
+|   
+---|---
