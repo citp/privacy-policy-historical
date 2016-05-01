@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brickfish.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217122532id_/http%3A//brickfish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickfish.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501183741id_/http%3A//brickfish.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Brickfish®
 
