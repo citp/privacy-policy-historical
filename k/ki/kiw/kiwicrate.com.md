@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101002537id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501211745id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Kiwi Crate
+# Privacy Policy by Kiwi Crate | Get STEAM & STEM Projects
 
 Kiwi Crate, Inc. ("Company," "we," or "us") provides access to information through our website accessible at the URL <http://www.kiwicrate.com/> (the “Site”) and we may provide the ability to use certain functionalities of the Site or provide services of various kinds (the "Services").  This privacy policy describes our information collection and use practices in connection with our Site and Service, as well as circumstances under which we disclose information collected from you.  Our commitment to you is that we will not use or disclose information collected from you other than as described in this policy.
 
