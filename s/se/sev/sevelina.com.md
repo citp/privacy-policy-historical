@@ -1,43 +1,59 @@
-> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031151507id_/http%3A//sevelina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501160128id_/http%3A//sevelina.com/privacy-policy) for the most accurate reproduction.*
 
-# • Privacy Policy • • Sevelina Games for girls •
+# Privacy Policy | • Sevelina Games for girls •
 
-**Personal Information**
+Sevelina Games respects the privacy rights of our online visitors and mobile customers and recognises the importance of protecting the information collected about you.
 
-[www.sevelina.com](http://www.sevelina.com/) does not collect any personal information.
+**Children’s privacy: personal information is not collected from children.**   Currently, Sevelina Games does not knowingly collect any personal information from children under 13 years of age. If we were to collect and store personal information from children, we would obtain the consent of a parent or legal guardian before such collection. 
 
-**IP address and data logging**
+This Privacy Policy applies to the collection, use and disclosure of personal information by Sevelina Games and its affiliates through the sevelina.com and sevelina.ru websites, and through Sevelina Games mobile apps. This Privacy Policy does not apply to the collection, use or disclosure of personal information through any apps for which Sevelina Games is not the publisher.
 
-Your IP address can be used to gather statistic information and to track your general visiting patterns (how many pages you view while at one website, what was downloaded, etc).
+**What is personal information and what personal information does Sevelina Games** **collect?  **Sevelina.com does not collect any personal information.
 
-**Third Party Advertising**
+_Statistical and Usage Data_ : When you play our games on your mobile device, we may retrieve information about your hardware system and how your game is used, including your Internet Protocol Address or device identifier. We may also collect information about your computer, hardware, software, platform, media, address and connection, information about online activity such as feature usage, game play statistics and scores, user rankings, click paths, and in-app purchases. We use this information to enable you to play your game over the Internet. We also use this information to better understand the behaviour and preferences of our customers, so that we can improve our products and services.
 
-Third-party companies allowed serving and collecting certain anonymous information when you visit our web site; and also may use non-personally identifiable information (like., click stream information, type of your browser, time&date, how advertisements was clicked or scrolled over) during your visits to sevelina.com or other followed-up Web sites in order to provide advertisements about goods and services you may be interesting. These companies typically use a cookie or third party web tools to collect such information.
+_Other Uses_ _:_ We may also use your information for other purposes, with your consent. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfil the purposes for which it was collected and our legitimate business objectives or as permitted or required by law.
 
-**Third Party Cookies**
+_Use of “Cookies”_ :  Our website may use cookies to enhance your experience while using our website. Cookies are pieces of information that some websites transfer to the computer that is browsing that website and are used for record-keeping purposes at many websites. Use of cookies makes Web-surfing easier by performing certain functions such as saving language preferences and maintaining your sessions while you are on our website. The cookies used on our website contain generic information used for page navigation. If you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, some areas of our website may not function properly.  We also use cookies related to the use of Google Analytics on our website. Google Analytics uses first-party cookies to report on visitor interactions. **** These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. You can opt out of tracking by Google Analytics by visiting: **http://tools.google.com/dlpage/gaoptout?hl=en-GB**.  In any event, we do not link information collected through cookies with any personally identifiable information.
 
-Third-party advertisers on sevelina.com may place or recognize special cookie on your browser.
+_Internet Protocol Address_ : We collect an IP address from every visitor to our website. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our website, analyse trends, track users’ movement on our website, gather broad demographic information for aggregate use in order for us to improve the website, and deliver customised, personalised content. We do not link IP addresses with any personally identifiable information.
 
-**Liability**
+_In-Game Advertising_ : Our games may incorporate dynamic advertisement serving technology offered by our Advertising Network Providers ( **AdProviders** ), which enables advertising to be temporarily uploaded into the game and replaced while you play. Logged data may include Internet Protocol Address or players’ user name, in game location, length of time an advertisement was visible, size of the advertisements, and angle of view. Your game may be assigned an ID number, which is stored on your device, and used by Ad Providers to calculate the number of unique and repeat views of dynamic in-game advertising. The ID number is not associated with any personal data and for children-directed games is not used for behavioral advertising purposes. No logged information is used to personally identify you. The servers used by the Ad Providers may be located outside your country of residence. This ad serving technology is integrated into the game; if you do not want to use this technology, do not play the game while connected to the Internet.
 
-sevelina.com will respond quickly to claims of intellectual property violation. Once we notified in accordance with any related copyright organization or owner, sevelina.com will immediately disable and remove such content.
+_Public Data_ : Your participation in online game events is conditional upon you agreeing to us collecting, using, storing, transmitting and publicly displaying non-identifiable statistical data (such as your scores, rankings and achievements) generated through your participation.
 
-**External Links**
+_Information about Children_ _:_ Sevelina Games does not disclose any personal information about children under 13 years of age who have registered on any of our websites to third parties, regardless of parental consent.
 
-sevelina.com web site contains links to other partner’s sites and that is why not responsible for activity and practices or the content of partner’s web sites.
+**How does Sevelina Games Share Information?**
 
-**Terms of Use**
+_Third Parties_ : **** You may register for other services from our website(s). If you opt in to any of these services, we may collect additional information requested by a third party and pass this information, together with all other registration information (including personal information), to that third party. Use of your information by a third party will be governed by that third party’s terms of service and privacy policy. Participation in these other related services is optional and is not required to play Sevelina games, or participate in any of our other websites.
 
-When visiting sevelina.com website and/or using its any software, game, you are fully agree with its “Privacy Policy” and “Terms of Use” conditions. sevelina.com has the right to update and modify the policies at any time, so visitors always advised to check the “Privacy Policy” page updated changes.
+_Marketing_ : **** The personal information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; and contests and events of interest. From time to time, we are approached by companies and organisations that provide products or services that we believe may be of interest to you, and we may provide your personal information (except that of children under 13 years old) to such third parties. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving. You may opt out of this service by contacting us as set out in the opt-out provision below.
 
-**Access Restrictions**
+_Legal Rights and Obligations_ : Finally, we may use and/or disclose your personal information to enforce legal rights and comply with the law, or to comply with an order from a government entity or other competent authority, or when we have reason to believe that a disclosure is necessary to address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage, we may also disclose personal information to law enforcement, or to the appropriate civil authorities.
 
-sevelina.com website is suitable to visitors over 12 year age. For younger visitors we suggest to use its service and games together with their parents, or persons empowered by their parents.
+Sevelina Games does not knowingly share or disclose personal information other than as set forth in this Privacy Policy.
+
+**Opt-Out Provision:** Currently, Sevelina.com does not share personal information with third parties for marketing purposes (except to the extent required by law, court order, or as requested by other government or law enforcement authority). In the event this was to happen, Sevelina Games would obtain your consent prior to any such disclosure.   In addition, if you do not want Sevelina Games to send you postal mail about our products and services, you can opt out at any time and choose to have your name removed from our mailing list, you can do so by contacting Sevelina Games Privacy Officer:
+
+            Email: privacy@sevelina.com
+
+You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice, by contacting us as described above. Please note that if you withdraw your consent to certain uses of your personal information, we may no longer be able to provide certain of our products or services.
+
+**Safeguarding Your Personal Information:** We will only collect and use personal information in accordance with this Privacy Policy to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity, accuracy and privacy of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any personal information will provide sufficient protection of that information.
+
+**Business Transactions:** We reserve the right to transfer any Personal Information we have about you in connection with the sale or transfer of all or a portion of our business or assets or rights relating thereto.
+
+**Third Party Sites:** If you click on a link to a third party site, including on an advertisement, an Ad Provider, or other third party service, you will leave the Sevelina.com site you are visiting and go to the site you selected.  Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as Sevelina.com. We encourage you to review the privacy policies of these third party sites from whom you request services. If you visit a third party website that is linked to a Sevelina.com website, you should consult that site’s privacy policy before providing any personal information.
+
+**Reviewing, Correcting and Deleting Your Information, Requesting Removal from Mailing Lists and Deactivating Your Account:** If you wish to request access to your personal information or request that such information be corrected or deleted, or if you have any questions, comments, or concerns about this Privacy Policy or the information practices of Sevelina.com, please contact Sevelina.com Privacy Officer as described above. Your right to access or correct your personal information is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections.
+
+If we have collected and stored any personal information from children under 13, parents can request access to review such information, have it deleted, or stop our further collection or use of such information.  To make any of these requests, please use the contact information above.
+
+**Consent:** Generally, by providing us with personal information, we will assume that you consent to our collection, use and disclosure of such information for the purposes identified at the time that we collect the information from you or as otherwise described in this Privacy Policy. In the case of children under 13, as applicable, we will obtain a parent or legal guardian’s prior verifiable consent.
+
+In addition, by using this website or purchasing or using any Sevelina games mobile product, you signify your assent to the Sevelina.com Privacy Policy. If you do not agree to this Privacy Policy, please do not use any Sevelina website or mobile product. We reserve the right to make changes in this Privacy Policy at any time. Please check the Privacy Policy each time you use our website to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Also, if there is a substantive change in the way that we use your personal information, we will notify you via email of the relevant changes. If such change affects children under 13, we will first obtain verifiable parental consent.  If you choose to opt-out of or not opt-in to our changed practice, our email will contain instructions on how to do so. Your continued use of our website will signify your acceptance of the changes to our Privacy Policy.
 
 **Proprietary Rights of the Games**
 
 All published games under SEVELINA bar are created by SEVELINA, with all proprietary rights (USPTO Reg. No. 3,733,659). Any part of this website or a game cannot be used without owner permission.
-
-**Advertisements**
-
-sevelina.com does not accept any responsibility for advertisements which are published at the website, though the reasonable control for ads content is permanently monitored.
