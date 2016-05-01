@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icd9data.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828024424id_/http%3A//www.icd9data.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icd9data.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502011202id_/http%3A//www.icd9data.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
