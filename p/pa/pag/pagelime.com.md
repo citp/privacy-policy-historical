@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagelime.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225080525id_/http%3A//www.pagelime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagelime.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501221851id_/http%3A//pagelime.com/privacy-policy) for the most accurate reproduction.*
 
 # PageLime - Privacy Policy
 
