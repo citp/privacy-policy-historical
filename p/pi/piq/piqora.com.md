@@ -1,113 +1,139 @@
-> *The following text is extracted and transformed from the piqora.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013064248id_/http%3A//www.piqora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piqora.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501052234id_/http%3A//www.piqora.com/privacy) for the most accurate reproduction.*
 
-# Piqora - Privacy Policy
+# Privacy Policy | Olapic | Visual Commerce Platform | Visual Marketing Platform
 
-Welcome to Piqora, the online and mobile service of Piqora, Inc. (“Piqora,” “we, ”or, “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+### Privacy Policy
 
-### How we collect and use information
+This privacy policy applies to [www.olapic.com](http://www.olapic.com/) and [www.photorank.me](http://www.photorank.me/) (individually and collectively, the “Site”) operated by Olapic, Inc., a Delaware corporation, and its subsidiaries (collectively, “Olapic”, “We”, “Us” or “Our”). The privacy policy also applies to the content management services (the “Services”) provided by Olapic. This privacy policy describes how Olapic collects and uses the personal information you provide on the Site or through the Services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. By accessing the Site or using the Olapic Platform: Photorank (the “Platform”) or other Services offered by Olapic, you agree to be and acknowledge that you are bound by this Privacy Policy. The use of the Olapic Site or Services and any personal information you provide on the Site or Services is and remains subject to this Privacy Policy and our Content Upload Terms of Use.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use www.piqora.com/terms.
+Olapic has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program and TRUSTed Cloud Program requirements viewable on the validation page available by clicking on the  TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.olapic.com](http://www.olapic.com/), and [www.photorank.me](http://www.photorank.me/) and does not cover information that may be collected through software downloaded from the website.  The use of information collected through our Services shall be limited to the purposes of (i) providing the services for which Olapic’s customers (“Customers”) have engaged Olapic and (ii) maintaining Olapic’s TRUSTe certification.
 
-We collect the following types of information about you:
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
-### Information you provide us directly:
+[](https://privacy.truste.com/privacy-seal/validation?rid=3aa964a2-c9d3-4d8d-b614-2f4ddd5afaba "TRUSTe Privacy Certification")
 
-We ask for certain information such as your email address and Pinterest board URL when you register for a Piqora account. We may also collect any information you choose to provide if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. If you choose to sign up for a premium account, any payment information you provide will be collected and stored by our third party payment processor. We use this information to operate, maintain, and provide to you the features and functionality of the Service.
+ **Olapic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Olapic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Olapic’s certification, please visit**<http://www.export.gov/safeharbor> **.**
 
-### Information we may receive from third parties:
+ **Changes to this Policy**
 
-We may receive information about you from third parties. For example, if you connect your User account to a third-party connection or log-in, for example, by linking your Facebook or Twitter account to the Piqora Service, that third party may pass certain information about your use of its service to Piqora. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Piqora Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will remove the information collected about you in connection with that service.
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify Customers by email (sent to the e-mail address specified in a Customer’s account) or users, including Customers, by means of a prominent notice on the Site or Services prior to the change becoming effective. Any access or use of the Site or Services by you after such notice shall be deemed to constitute acceptance by you of such changes, modifications or additions. We encourage you to periodically review this page for the latest information on our privacy practices. If you do not agree to abide by these practices or any future privacy policy, please do not use or access the Site or Services.
 
-### Analytics information:
+ **Personal Information We Collect**
 
-We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+When you visit the Site or use the Services we may collect information from you such as your name, email address and phone number (from prospective and existing Customers) and information regarding your social media accounts, uploads and posts (from end users who upload user-generated content to Customer digital properties or use Customer hashtags on their social media posts). We collect this information in order to provide end users and Customers with access to our Services and our Platform, in order for prospective and existing Customers to download information such as whitepapers, and in order for anyone to contact us with questions regarding our Site or Services. You can connect your social media accounts, such as Facebook, to your Platform account. The social media services will authenticate your identity and provide you the option to (i) include Platform elements on Facebook Fan Pages, (ii) follow, like, or comment on others’ social profiles from within your Platform account.
 
-### Cookies information:
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. Olapic does not collect IP addresses of end users on behalf of Customers. We may combine automatically collected log information with other information we collect about end users.
 
-When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Piqora help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+ **Use of Personal Information**
 
-Piqora.com uses the AdRoll display advertising network to collect visitor data on our site and then serve targeted display ads to you on other sites. Our partners use technology such as cookies and web beacons to collect this data. For more information or to opt-out of this type of advertising, please visit AdRoll’s privacy policy. Use of our site implies consent to this privacy policy, which is designed for residents of the US. Any changes to the policy will be posted on this page.
+If you upload user-generated content to your social media accounts which you tag with our Customers’ brand hashtags, Olapic may collect that content on behalf of our Customers, including your photo, social media username, caption information (if any) and location information (if any). If you upload user-generated content directly to an Olapic Customer digital property, Olapic may collect your email address, prior to the upload, as well as your photo. Generally, the information Olapic collects from end users helps us and our Customers to communicate with end users regarding content that they have submitted through the Olapic Services. For instance, we may use your email address to provide you with an email confirmation of your registration or to notify you of the status of the content you have submitted. Furthermore, our Customers to whom you have submitted content through the Olapic Services or whose brand hashtags you have included in your social media posts may use your username or email address to communicate with you.
 
-### Log file information:
+If you are a prospective or existing Olapic Customer, we use the personal information we have collected from you to provide you with information about and access to our Services.
 
-Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+We use the information we collect automatically from end users of our Site and Services to improve the Services we offer to our Customers, and to improve marketing, analytics and the functionality of the Services.
 
-### Clear gifs/web beacons information:
+ **Access to Personal Information**
 
-When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information is allows for more accurate reporting and improvement of the Service.
+Olapic has no direct relationship with the individuals whose personal data it processes. If your personally identifiable information changes, or if you no longer desire to receive communications from us, or you cease to be an Olapic Customer, you may correct, update, delete or deactivate your information from our records by (for Customers) logging into your account and making the appropriate changes or emailing your Account Manager directly or (for non-Customers) contacting us at [privacy@olapic.com](mailto:%20privacy@olapic.com). We will respond to your request to access within 30 days.
 
-### Commercial and marketing communications:
+ **Transfer of Personal Information**
 
-We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails.
+Olapic may transfer personal information to those Customers on whose behalf we have collected it and to companies that help us provide our Services. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and our service agreements with our Customers.
 
-### Use of certain service type information we collect about you:
+ **Choice and Access to Personal Information**
 
-We use or may use cookies, log file, and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; and (g) to provide advertising to your browser or device.
+If you have provided us with information and would no longer like to be contacted by us, or you would like to update your information, please contact us at privacy@olapic.com (for end users) or through your Account Manager (for Customers) to let us know. If you are an end user of a Customer site or have posted user-generated content with a Customer’s brand hashtags and would no longer like to be contacted by that Customer, please contact that Customer directly. If the Customer requests that Olapic remove the information from our records, we will respond to the Customer’s request within 30 business days.
 
-### SHARING OF YOUR INFORMATION
+ **Cookies, Tracking Technologies and Frames**
 
-We will not rent or sell your information into third parties outside Piqora and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
+Technologies such as cookies, beacons, tags and scripts are used by Olapic and our marketing partners, affiliates, and analytics providers. These technologies are used in analyzing trends, administering the Site and Services, tracking users’ movements around the Site and Services, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-### Who we may share your information with:
+We use cookies to analyze end user interactions with our Services and purchases on the sites of those Customers who have chosen to implement them _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use the Services, but your ability to use some features or areas of our Services may be limited.
 
-We may share your information with third- party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our Site and Services or to display advertising based upon your web browsing activity use LS such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LS.
 
-### Who you may choose to share your User Content with:
+We partner with third parties to manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile setting. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
+Some of our Site pages, such as those listing job openings, utilize framing techniques to serve content to from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties and not to www.olapic.com.
 
-### What happens in the event of a change of control:
+ **Retention of Personal Information**
 
-We may buy or sell/divest/transfer the Piqora (including any shares in the Piqora), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the Piqora.
+Olapic will retain personal data provided by our end users and the data we process on behalf of our Customers for as long as needed to provide the Services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Instances where we are required to share your information:
+ **Release of Personal Information**
 
-Piqora will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use www.piqora.com/ terms or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Piqora, our Users or others.
+Our policy is to only release the data we collect in the following circumstances:
 
-### Sharing certain service type information we collect about you:
+• To our Customers to whose digital properties you have directly uploaded content or whose brand hashtags you have included in your social media posts.
 
-We may share certain service type information, including information obtained through tools such as cookies, log files, and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+• To designated third parties to resolve or investigate abuse complaints.
 
-### HOW WE STORE AND PROTECT YOUR INFORMATION
+• When the information is related to spiders or bots, usually when investigating technical issues.
 
-### Storage and Processing:
+• For abusive users, we may release information to assist in attempting to block the abusive user or to complain to that user’s Internet Service Provider.
 
-Your information collected through the Service may be stored and processed in the United States or any other country in which Piqora or its subsidiaries, affiliates or service providers maintain facilities. Piqora may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Piqora or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+• If necessary to defend against legal claims.
 
-### Keeping your information safe:
+• When we deem it necessary to protect the property or rights of the user community, or this Site or the Services.
 
-Piqora cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Piqora, at all times. However, Piqora cannot ensure or warrant the security of any information you transmit to Piqora or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the Piqora Service, such as social networks. Piqora is not responsible for the functionality or security measures of any third party.
+• As required by law, such as to comply with a subpoena, or similar legal process
 
-### Compromise of information:
+• When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
 
-In the event that any information under our control is compromised as a result of a breach of security, Piqora will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+• To any other third party with your prior consent to do so
 
-### YOUR CHOICES ABOUT YOUR INFORMATION
+ **Sharing of Personal Information with Service Providers**
 
-### You control your account information and settings:
+We may use third party partners to help operate the Site and deliver our features and Services, and may share your information with our affiliates, service providers and other third parties that provide products or Services for or through this Site or for our business (such as website or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, job application processor partners, and other similar service providers that use such information on our behalf). When you sign up for our Services or provide information to us through the Site, we will share your personal information to those third party service providers only as necessary for the third party to provide the applicable service. These companies are authorized to use your personally identifiable information _only as necessary to provide_ these services to us.
 
-You may update your account information and email-communication preferences at any time by logging in to your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service- related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at support@Piqora.com.
+We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We will not sell, lease or give your personally identifiable information collected via this Site or the Services to third parties except as otherwise explicitly stated in this Policy or with your consent prior to doing so.
 
-### Opting out of collection of your information for Tracking / Advertising:
+ **Securing Your Personal Information**
 
-Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Piqora or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at support@Piqora.com.
+Olapic is very concerned about safeguarding the confidentiality of your personally identifiable information. When you enter sensitive information (such as Customer log in credentials entered onto the Olapic dashboard), we encrypt the transmission of that information using secure socket layer technology (SSL). Although we employ administrative, physical and electronic measures designed to protect your information from unauthorized access, due to the inherent nature of the Internet as an open global communications vehicle, we make no guarantee as to the security of your information or that your information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. If you contact us by e-mail or a “contact us” or similar feature on the Site, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit. If you have any questions regarding security you can contact us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
 
-### How long we keep your User Content:
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-Following termination or deactivation of your User account, Piqora may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+ **Communications From Olapic**
 
-### Children's Privacy
+If you opt in to receive marketing communications from Olapic, subscribe to our newsletter(s) or become a Customer of our Services, we will use your name and email address to send communications to you. If you no longer wish to receive these communications you can follow the unsubscribe instructions contained in those emails or contact us at [support@olapic.com](mailto:%20support@olapic.com).We will send Customers service-related announcements when it is necessary or useful to do so. For instance, if our Services are temporarily suspended for maintenance, we might send you an email. Generally, Customers may not opt-out of service-related communications which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account, or provide an alternative email address for contact by contacting us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
 
-Piqora does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at support@Piqora.com.
+ **Social Media Features**
 
-### Links to other web sites and services
+Our Web site includes social media features, such as the Facebook Like button. These features may collect your IP address and which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing them.
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
+ **Testimonials**
 
-### How to contact us
+We may post Customer testimonials/comments/reviews on our Site which may contain personally identifiable information. We obtain the Customer’s consent prior to posting the testimonial if we include personal information, such as a name, of the Customer along with the testimonial. If you are the subject of a testimonial and want your testimonial removed, please contact us at [privacy@olapic.com](mailto:%20privacy@olapic.com).
 
-If you have any questions about this Privacy Policy or the Service, please contact us at support@Piqora.com.
+ **Public Forums**
 
-### Changes to our privacy policy
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@olapic.com](mailto:%20support@olapic.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
-Piqora may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
+ **Phishing**
+
+It has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity is known as “phishing”. If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your password or credit card information) via e-mail or to a Web site that does not seem to be affiliated with Olapic, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [info@olapic.com](mailto:%20info@olapic.com).
+
+ **Third Party Links**
+
+Our Site or Services may contain links to third party websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. If you submit personal information to any of those sites, your information is governed by their privacy policies. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+ **Business Transfer**
+
+Olapic regards its databases of user and Customer information (including personal information) as a valuable asset. In the event that Olapic is or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, such databases containing personal information may be one of the transferred assets. In the event of such a transfer, you will be notified via email or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. ~~~~
+
+ **Our Policy Toward Minors**
+
+The Olapic Site and Services are in no way directed to persons under the age of 18. If you have reason to believe that a child under the age of 18 has provided personal information to us, please contact us at [legal@olapic.com](mailto:legal@olapic.com), and we will endeavor to delete that information and terminate the child’s information from our databases.
+
+ **Contact Us**
+
+If you have any questions or comments about this Privacy Policy or about our use of your personally identifiable information, please contact us at [privacy@olapic.com](mailto:privacy@olapic.com) or you can contact us at:
+
+ **Olapic, Inc.  
+Attn: Legal  
+250 Vesey Street, 4th Floor,  
+New York, NY 10281  
+Copyright 2016 Olapic, Inc. All rights reserved.**
+
+This Privacy Policy is effective as of January 7, 2016.
