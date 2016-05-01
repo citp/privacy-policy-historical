@@ -1,80 +1,106 @@
-> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134203id_/http%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501074242id_/http%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
 
 # Go Overseas Privacy Policy
 
-We at Go Overseas respect the privacy of our online visitors and recognize the importance of providing a secure environment for them. The information detailed below will help explain how we collect, store and use the information you provide us. By using or accessing Go Overseas you voluntarily acknowledge that you have read and understood the terms of this privacy policy.
+_Last updated: March 1, 2016_
 
-Go Overseas adheres to the [Safe Harbor Principles](http://www.export.gov/safeharbor/eg_main_018236.asp) that were established by the U.S Department of Commerce to help safeguard personal data online. Please visit their website for further information.
+Go Overseas is dedicated to protecting your personal information and informing you about how we use your information. This privacy policy applies to your use of the Go Overseas services including our website [www.gooverseas.com](http://www.gooverseas.com/ "www.gooverseas.com") (collectively "Platform"). This Privacy Policy should be read in conjunction with the Go Overseas Terms of Service. All capitalized proper nouns will have the same definitions and meanings as defined by the Terms of Service. Please review this Privacy Policy periodically as we may revise it from time to time without notice. If you do not agree with or accept our Privacy Policy in its entirety, you must not access or use the Platform.
 
-If you have any questions, complaints, or comments regarding our privacy policy, please contact us at [Privacy@GoOverseas.com](mailto:Privacy@GoOverseas.com).
+As Go Overseas respects your privacy rights, we adhere to the [Safe Harbor Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp) that were established by the U.S Department of Commerce to help safeguard personal data online. Additionally, we intend to comply with all US laws relating to online privacy and the EU Data Protection Directive (94/56/EC).
 
-### What personal information is collected?
+If you have any questions, complaints, or comments regarding our privacy policy, please contact us at [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com).
 
-Go Overseas only collects information on a voluntary basis. If a visitor submits information to Go Overseas, it will only take the form of either: 1) account registration, 2) message boards, 3) contest registration, 4) consumer complaint, 5) surveys, 6) customer service, 7) newsletter, 8) the purchase of goods or services. Personal information collected may include your name, phone number and/or email address. We do not require this information to access the site, however, you may not be able to utilize certain features of the site that require registration or receive materials such as newsletters unless such information is provided.
+### What types of information do we collect?
 
-Visitors purchasing products or services will be required to provide further information such as a valid credit card number and expiration date.
+At Go Overseas, we collect personally identifiable information ("PII") and non-personally identifiable ("Non-PII") information from you. PII is information that can be used to identify you personally. Non-PII is information that cannot be used individually to identify you but must be combined with other information to identify you personally. Generally PII may be submitted in the following manner: 1) account registration, 2) message boards, 3) contest registration, 4) consumer complaint, 5) surveys, 6) customer service, 7) newsletter, 8) the purchase of goods or services.
 
-### What other information may we collect?
+### What PII is collected?
 
-To create an account with Go Overseas you will be asked to create a username, password and other non-personal information such as your age, gender, location and program preferences. In addition, your web browser or client software may transmit certain information about your computer and site usage. Go Overseas may use this information to generate statistics about our user community and provide such information to our advertisers. Go Overseas may also use this information for security, system integrity or enforcement purposes.
+Go Overseas only collects PII on a voluntary basis and as required to provider our services to you. If you decide to use or access our Platform, we may collect the following PII from you: your name, username, phone number, physical address and/or email address, age/date of birth. If you wish to purchase or book anything via the Platform we may collect your payment information via a third party payment processor which may include your credit card number and other payment details. We do not require you to submit any PII to access the site, however, you may not be able to utilize certain features of the site that require registration or receive materials such as newsletters unless such information is provided.
+
+### What Non-PII is collected?
+
+In addition to the PII collected, we may collect non-PII. In order to create an account with Go Overseas you will be asked to submit a password and other non-personal information such as your gender, location and program preferences. In addition, your web browser or client software may transmit certain information about your computer and site usage, including but not limited to your IP address, zip code, gender, browsing history, search history, and registration history, interactions with the website, location, referring URL, browser, operating system, data usage, data transferred, and Internet Service Provider.
+
+Go Overseas may use this information to generate statistics about our user community and provide such information to our advertisers. Go Overseas may also use this information for security, system integrity or enforcement purposes.
 
 ### How do we use your personal information?
 
-The personal information you provide Go Overseas will allow us to fulfill your customer services; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; and/or notify you of contests, promotions, or special events and offers. Go Overseas may enhance or merge the personal information collected with data from third parties. Go Overseas may also provide your personal information to other companies or organizations that offer products or services that may be of interest to you. In such cases, we will notify you that the information will be shared and provide you with an opportunity to opt-out.
+The personal information you provide Go Overseas will allow us to fulfill your customer services; alert you of new products or services, features, or enhancements; handle/route your customer service or technical support questions or issues; assist us in providing our services to you; to share with third parties that you have indicated an interest in; and/or notify you of contests, promotions, or special events and offers.
 
-Lastly, we may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve the community.
+Go Overseas may enhance or merge the personal information collected with data from third parties. We may use your personal information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We do this to better understand and serve the community.
 
 Please be advised that personal information submitted by individuals acting solely in a business capacity (e.g., personal information contained in job applicant's resume) is not subject to the uses set forth above or to any other practices stated in this Privacy Policy.
 
 ### With whom may your personal information be shared?
 
-Go Overseas may need to disclose your personal information to third party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, and/or store data. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+Go Overseas may need to disclose your PII to third party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, and/or store data. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy.
 
-We reserve the right to disclose your personal information as required by law or in special cases when we have reason to believe that disclosing such information is necessary to identify, contact, or bring legal action against you if you are violating the Terms of Service or Use Agreements, or may be causing injury to or interference (intentionally or unintentionally) with Go Overseas rights or property, other users of the Go Overseas site, or anyone else who could be harmed by your activities.
+For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. We will attempt to ensure that these entities do not use your PII for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
 
-As with any business, your personal information is also an asset of Go Overseas and will become part of our normal business records. As such, we may also disclose your personal information to a third party if we decide to sell a line of business to that third party, so you can continue to receive service and information in connection with that line of business with as little disruption as possible. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Go Overseas successor or assign.
+We reserve the right to disclose your PII if you are violating the Terms of Service , or may be causing injury to or interference (intentionally or unintentionally) with Go Overseas rights or property, other users of the Go Overseas site, or anyone else who could be harmed by your activities.
 
 Go Overseas may also have message boards and/or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board or chat area, please be aware that the information is being made publicly available on-line and the user does so at his or her own risk.
 
+### When will my information be shared with law enforcement?
+
+We reserve the right to disclose your PII o authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated US laws or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.
+
+We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, where your actions violate any law of the United States or any other country having jurisdiction over us, our Platform, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or federal authorities, as required.
+
 ### What choices do I have regarding the collection, use, and distribution of my personal information?
 
-Go Overseas allows you to control the way that we use personal identifying information that we might obtain. At the time you provide personal information, Go Overseas may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Go Overseas may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings.
+Go Overseas allows you to control the way that we use PII that we might obtain. At the time you provide personal information, Go Overseas may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the "mailings" Go Overseas may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings.
+
+Additionally, you may opt out of some communications by using controls in your Go Overseas account dashboard or update your PII by changing information listed in your account. We currently do not offer functionality for you to opt out through "do not track" listings. If you wish to opt out of certain communications or information collection, please contact us at [privacy@gooverseas.com](mailto:privacy@gooverseas.com).
 
 ### What are cookies and how do you use them?
 
-Cookies are a feature of your Web browser that allows Web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration. In addition, Go Overseas may use cookies to retrieve user information for promotional, marketing, or security purposes.
+Cookies are a feature of your Web browser that allows Web sites to transfer bits of information to your computer for record-keeping purposes. A cookie stored on your computer can be used to "remember" things like your password, your preferences, or that you have already registered. This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration.
 
-### What are Internet protocol addresses?
+In addition, Go Overseas may use cookies to retrieve user information for promotional, marketing, or security purposes. If you decide to disable cookies from loading on your Web browser portions of the Platform may not be able to function properly. Please be aware that some cookies loaded onto our Platform may be accessible by third parties.
 
-An Internet protocol ("IP") address is the unique number assigned to your server or Internet Service Provider ("ISP"). Go Overseas may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused.
+Our Platform uses cookies from Google to deliver its services to you and to personalize ads and analyze traffic. Information about your use of this Platform is shared with Google. To find out more about the Google Double Click cookie please visit: <https://support.google.com/adsense/answer/2839090?hl=en>
 
 ### What do I do if I want to correct or delete my personal information?
 
-If for any reason you are concerned with the way we are using your personal information, or would like to correct or request that we delete such personal information, please contact us by e-mailing us at [Privacy@GoOverseas.com](mailto:Privacy@GoOverseas.com).
+If you wish to alter any PII you may be able to do so via your account dashboard located on the Go Overseas Platform. If for any reason you are concerned with the way we are using your PII, or would like to correct or request that we delete such personal information, please contact us by e-mailing us [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com).
 
-Please note that the deletion of your data will lead to the termination of your account and applicable services.
+Please note that the deletion of your data will lead to the termination of your account and applicable services. After you have deleted your PII, please be aware that we may keep inaccessible copies of your information for a reasonable period of time for legal purposes.
 
 ### How secure is my personal information?
 
 Go Overseas has taken steps to assure that all information collected will remain secure and in its original form, i.e. free from any alteration. As such, access to all personal information is strictly controlled. When credit card information is transmitted, for example, we use industry standard, SSL (secure sockets layer) encryption. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of personal information.
 
-### Privacy Policy Regarding Online Payments
+though we attempt to keep your information safe and secure, you must understand that electronic transmission of information over the internet is never 100% secure and thus we cannot guarantee the absolute safety and security of any information provided.
 
-Customer information is collected for the purpose of processing your order. This information is kept confidential and is not shared.
+### California Users
 
-### Refund Policy
+Go Overseas permits residents of the State of California to use its Service, and complies with the California Business and Professions Code SSSS 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact ush3>Privacy@GoOverseas.comwany questions.
 
-For subscription clients you can easily cancel your subscription at any time. There are no cancellation fees, though no refunds are provided for pro-rated periods.
+### Are there age requirements?
 
-### What if I have a question or complaint?
+We intend to fully comply with US and international laws respecting children's privacy including COPPA. Therefore, we do not collect or process any information for any persons under the age of 13. If you are under 13 and using our Platform, please stop immediately and do not submit any information to us. In the event that we have inadvertently collected any information from users under the age of 13 please contact us immediately.
 
-If you have any questions or wish to file a complaint, please feel free to e-mail us at [Privacy@GoOverseas.com](mailto:Privacy@GoOverseas.com), call us at +1 (415) 796-6456, or send a letter addressed to Go Overseas Privacy Policy:
+### Where is my information stored?
+
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. PII and Non-PII that is submitted to Go Overseas will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law and this policy.
+
+you are a non-U.S. member, you acknowledge and agree that Go Overseas may collect and use your Information and disclose it to other entities outside your resident jurisdiction. In addition, such information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for information that is available in other countries.
+
+### Mergers and Acquisitions
+
+As with any business, your PII is also an asset of Go Overseas and will become part of our normal business records. As such, we may also disclose your PII to a third party if we decide to sell any portion of our business to a third party. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to Go Overseas successor or assign.
+
+### How are changes made?
+
+Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Privacy Policy or we may contact you if such changes are material. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com).
+
+### Contact and Inquiry Information
+
+If you have any questions or wish to file a complaint, please feel free to e-mail us at [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com), call us at +1 (415) 796-6456, or send a letter addressed to Go Overseas Privacy Policy:
 
 Attention: Privacy Policy Administrator  
 2040 Bancroft Way Suite #200  
 Berkeley, CA  
 94704 USA
-
-By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the Go Overseas website will signify your acceptance of these changes.
-
-This Privacy Policy was last updated on March 7, 2010.
