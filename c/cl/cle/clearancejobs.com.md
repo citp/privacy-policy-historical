@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191112id_/https%3A//www.clearancejobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearancejobs.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501104034id_/https%3A//www.clearancejobs.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ClearanceJobs.com
+# Privacy Policy - ClearanceJobs
 
 [](https://privacy.truste.com/privacy-seal/Dice-Holdings-Inc/validation?rid=2390deca-e49d-4208-91a2-18ccb61c6d19 "TRUSTe online privacy certification")
 
