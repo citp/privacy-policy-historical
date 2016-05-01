@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127184254id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501083856id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Growthink
 
-_Last Updated 1/25/2014_
+_Last Updated 1/25/2016_
 
 We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines our policies and procedures we utilize to safeguard your personal information. 
 
