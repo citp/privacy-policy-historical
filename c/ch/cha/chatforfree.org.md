@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008140433id_/http%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501195942id_/http%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,4 +47,4 @@ Chatforfree.org is not responsible for any webcams that has been streaming in ou
 
   
 Contacting the Web Site   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can fill in our [contact form.](http://contact.chatforfree.org/contact.php "contact")
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can fill in our [contact form.](http://contact.chatforfree.org/form-955181/Contact "contact")
