@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230220131id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501164908id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HP Drivers Downloads | Hewlett-Packard | hpdriver.net
+# Privacy Policy | HP Drivers Downloads | Hewlett-Packard | Hpdriver.net
 
 We belong to all the drivers and software manufacturers. After you install the downloaded files for viruses. Our system(webpage) is not responsible for problems that may have downloaded the files to your computer.
 
