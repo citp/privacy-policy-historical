@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the baseballmonkey.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014100609id_/http%3A//baseballmonkey.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballmonkey.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501135401id_/http%3A//www.baseballmonkey.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Baseball Monkey.com - #1 Online Baseball Equipment Store Privacy Policy
 
-* **Overview**
+Ordering online at BaseballMonkey.com™ is safe and easy – guaranteed! Our secure servers will protect your information using the most advanced encryption and firewall technology throughout the ordering process. Our Web site protects the security of personal information transmitted to us by using Secure Sockets Layer (SSL) software, which encrypts the information you input during the transmission to us using a unique session key. These layers of privacy protection ensure that information cannot be viewed even if intercepted by unauthorized parties.
 
-Thank you for visiting baseballmonkey.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Please note that email is not encrypted and is not a safe and secure way to transmit credit numbers or other confidential information. If for any reason you prefer to order by phone, please call (888) 771-3111 and we will be happy to assist you.
 
-* **What Type of Information We Collect**
+If you're ever a victim of credit card fraud, the Fair Credit Act specifies that your credit card company cannot hold you liable for more than $50 in fraudulent charges to your account. With BaseballMonkey.com™, you'll be reimbursed for any amount up to $50 billed to you by your credit card company for unauthorized charges to your account if those charges result from an order you've placed on our secure server. For this protection, you must promptly notify your credit card company of any fraudulent charges and follow the procedures for doing so as outlined in your credit card agreement.
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+At BaseballMonkey.com™, we know that your online privacy is as important to you as the products, prices, and customer service we provide. We posted this privacy notice in an effort to answer your privacy-related questions, and to demonstrate our adherence to the privacy practices commonly found at the most reputable and consumer credited online companies. 
 
-The Web Site and third party advertisers may use cookies and other technologies such as web beacons to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Cookies used by the Web Site may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. 
+While shopping on the BaseballMonkey.com™ site, we ask you to provide information using online forms. We use this information to process your order, contact you regarding your order, or to answer any questions/concerns you might have expressed. We will not sell, or share any of your personal information to any outside parties, except as outlined in this policy.
 
-In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+When you purchase something from us we send your credit card information, name, billing address and the order dollar amount to your credit card company for authorization and approval. Your name, telephone number and shipping information must be provided to third party shippers such as UPS to deliver your package.
 
-* **Uses**
+We reserve the right to release personally identifiable information if required by law or to comply with a judicial proceeding, court order, or legal process, and when we believe it is necessary for fraud protection or credit risk reduction.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+We customize and personalize certain Web page content based upon your browser type and other information provided by a "cookie." A cookie remembers information about a visitor from one page to the next and from one visit to the next. A cookie does not contain any of your personal information, and is only a "trigger" that retrieves information when you visit our site.
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+As an example, cookies enable us to provide better service to you by maintaining your shopping cart between visits so that you are not required to enter each of the items again. On most Internet browsers, the cookie function can be turned off, and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our website if you use this software but you will be unable to use our shopping cart to purchase items online. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+When a visitor comes to our website we collect information about the visitor's computer such as its IP address, operating system and browser software, click-stream information such as the address (URL) of the web site that directed you to our site, which pages and the order in which they were visited on our site for the purpose of assessing our site traffic and the effectiveness of the content. This data allows us to improve the quality of your visit by streamlining your ability to navigate the site and to develop featured programs and content that will be of interest to all our visitors.
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+Our web site may contain helpful links to other websites, such as the manufacturer or product review websites. We are not responsible or liable for the privacy practices or content found on these websites.
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+You may choose to receive special promotion emails during the order checkout process on our website, or by providing your email address in the “Product Alert" box found on the right side of our home page. You may unsubscribe from BaseballMonkey.com’s email updates and specials from within any E-Mail. Simply click the Unsubscribe link at the bottom of the e-mail and follow the prompt. Please recognize that by unsubscribing, you'll miss our exclusive offers and notices on special savings. Please allow up to 10 days for your e-mail address to be removed from our subscriber database.
 
+BaseballMonkey.com™ sells merchandise intended for purchase by adults. In accordance with the Children's Online Privacy Protection Act, BaseballMonkey.com™ will not knowingly collect personal information on the internet from children under the age of thirteen. When placing an order on the BaseballMonkey.com™ website, you are affirming that you are an adult. Users under the age of thirteen must ask a parent or guardian for assistance while placing an order online.
 
+BaseballMonkey.com™ will always remain committed to protecting your privacy online. We may change our Privacy Policy at any time. When such a change is made, we will post the revised Privacy policy on our website.
+
+BaseballMonkey.com™ is owned and operated by MonkeySports, Inc.™. Unless otherwise specified, all materials appearing on this site, including, but not limited to text, site design, logos, graphics, icons, images, audio, video clips, software, and accessories used on the site as well as the selection, assembly and arrangement thereof, are the sole property of BaseballMonkey.com™. You may use the content of this site only for the purpose of shopping on this site or placing an order, and for no other purpose. No materials from this site may be copied, reproduced, modified, republished, uploaded, posted, transmitted, or distributed in any form or by any means without prior written permission from BaseballMonkey.com™. All rights not expressly granted herein are reserved. Any unauthorized use of the materials appearing on this site may violate copyright, trademark and other applicable laws and could result in criminal or civil penalties.
+
+The trademarks, logos, custom graphics, and service marks displayed on this site are registered trademarks of BaseballMonkey.com™. All other trademarks or service marks are property of their respective owners. The use of any BaseballMonkey.com™ trademark or service mark without our express written consent is strictly prohibited.
