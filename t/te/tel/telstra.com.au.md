@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telstra.com.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132303id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telstra.com.au privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501155120id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.*
 
 # Telstra - Privacy statement (including Credit Reporting Policy)
 
@@ -6,9 +6,11 @@ This statement is our privacy policy which sets out how we manage your personal 
 
 Your information: When we refer to your information, we are referring to both your personal information, as defined under the Privacy Act 1988 (Cth), and customer information, which is protected by Part 13 of the Telecommunications Act 1997 (Cth).
 
+Sensitive information: The Privacy Act 1988 (Cth) defines some types of personal information as sensitive. We don’t commonly collect sensitive information, which includes information about a person's race, ethnic origin, political opinions, health, religious or philosophical beliefs and criminal history.  In the event we require any sensitive information we would only collect this with your permission, and we will only use it for the purpose for which you provided it.
+
 Credit Reporting Policy: This sets out how we manage your credit information and credit eligibility information where this is relevant to you, and is our credit reporting policy for the purposes of Part IIIA of the Privacy Act.
 
-_ _[Download the Privacy Statement (including Credit Reporting Policy) (PDF, 58KB)](https://web.archive.org/content/dam/tcom/personal/privacy/pdf/Privacy-statement-Nov-2014.pdf)
+_ _[Download the Privacy Statement (including Credit Reporting Policy) (PDF, 98KB)](https://web.archive.org/content/dam/tcom/personal/privacy/pdf/privacy-statement-2015.pdf)
 
 ### The kinds of information we collect and hold
 
@@ -37,22 +39,23 @@ We may also collect information from you online. For more information, please go
 
 ### How we hold your information
 
-We may store your information in hard copy or electronic format, in storage facilities that we own and operate ourselves, or that are owned and operated by our service providers. We take reasonable steps to maintain the security of your information and to protect it from unauthorised disclosures.
+We may store your information in hard copy or electronic format, in storage facilities that we own and operate ourselves, or that are owned and operated by our service providers. We take the privacy and security of your information seriously and we are committed to maintaining the security of your information under our control.  We use a combination of technical solutions, security controls and internal processes to help us protect your information and our network from unauthorised access and disclosure.  To read more about your data security click [here](https://www.telstra.com.au/privacy/data-security).
 
-While we take these steps to maintain the security of your information, you should be aware of the many information security risks that exist today and take appropriate care to help safeguard your information. We encourage you to read some of our helpful tips and hints on how to protect your information through [online safety](https://www.telstra.com.au/privacy/online-safety), available on our website.
+While we take these steps to maintain the security of your information, you should be aware of the range of information security risks that exist today and take appropriate care to help safeguard your information. We encourage you to read some of our helpful tips and hints on how to protect your information through [online safety](https://www.telstra.com.au/privacy/online-safety), available on our website.
 
 ### How we use your information
 
-We may use your information for a range of different purposes, including
+We may use your information for a range of different purposes, including:
 
   * to verify your identity, or to conduct appropriate checks for credit-worthiness and for fraud checking
   * to provide products and services to you, to provide you with information about those products and services, to assist you with enquiries or purchases, to enhance your experience on our network, or to provide you with better customer service
   * to administer and manage the products and services we provide to you, to charge and bill you for them, and to collect any amounts you may owe us
-  * to gain an understanding of your information and communication needs, to perform research and analysis, and to improve or develop our products and services
+  * to gain an understanding of your information and communication needs, to improve or develop our products and services, or to perform research and analysis, to read more about how we might use your information in these ways, (click [here](https://www.telstra.com.au/privacy/online-privacy))
   * to monitor network use, quality and performance, and to operate, maintain, develop, test and upgrade our systems and infrastructure
-  * conduct appropriate checks for credit-worthiness and for fraud
-  * as authorised or required by the Telecommunications Act 1997 (Cth) and other laws applicable to us
+  * to conduct appropriate checks for credit-worthiness and for fraud
+  * as required or authorised by law (including the Telecommunications Act 1997 (Cth) and the Telecommunications (Interception and Access) Act 1979 (Cth) and other laws applicable to us).
   * to produce and distribute an alphabetical public number directory (known as the White Pages) in compliance with our Carrier Licence Conditions
+  * as required by or in accordance with any industry code or industry standard registered under the Telecommunications Act 1997 (Cth).
 
 
 
@@ -79,19 +82,87 @@ We may also disclose your information:
   * our dealers, our related entities or our business partners
   * to other telecommunication and information service providers or to our wholesale and other customers from or through whom you may acquire products or services (for example, we may need to disclose your information for billing purposes)
   * to the manager of the Integrated Public Number Database, and other organisations as required or authorised by law
-  * to law enforcement and national security agencies, and other government and regulatory authorities as required or authorised by law
+  * as required or authorised by law, including to law enforcement and national security agencies, and other government and regulatory authorities
   * to third parties who assist us to manage or develop our business and corporate strategies and functions, including our corporate risk or funding functions
   * for the purposes of facilitating or implementing a transfer/sale of all or part of our assets or business
   * to our contractors, Sensis, to enable us to meet our Carrier Licence Conditions to produce and distribute an alphabetical public number directory (known as the White Pages). Note, if you have requested a silent line number your number won't be published in the White pages.
+  * to third parties as required by or in accordance with any industry code or industry standard registered under the Telecommunication Act 1997 (Cth).
 
 
 
-In some cases, the organisations to who we may disclose your information may be based outside Australia. For example, we may disclose your information to our service providers in Canada, Hong Kong, India, Japan, Malaysia, Philippines, Singapore, United Kingdom, Spain and the United States of America.
+In some cases, the organisations to who we may disclose your information may be based outside Australia. For example, we may disclose your information to our service providers in Canada, China, Hong Kong, countries within the European Union, India, Japan, Malaysia, Philippines, Singapore and the United States of America.
 
 ### How to access or correct your personal information or make a privacy complaint
 
-If you wish to access any of your personal information that we hold or would like to correct any errors in that information, please contact us using the contact details set out in the how to contact us section of this Statement, so that we can consider and respond to your request. We may apply an administrative charge for providing access to your personal information in response to a request.
+If you wish to access any of your personal information that we hold or would like to correct any errors in that information, please contact us using the contact details set out in the **how to contact us section** of this Statement, so that we can consider and respond to your request. We may apply an administrative charge for providing access to your personal information in response to a request.
 
 You may also use these contact details to notify us of any privacy complaint you have against us, including if you think that we have failed to comply with the Australian Privacy Principles (APP) or any binding APP code that has been registered under the Privacy Act. We are committed to acknowledging your complaint in a prompt manner and will give you an estimated timeframe for when we will respond to your complaint.
 
 While we hope that we will be able to resolve any complaints you may have without needing to involve third parties, you may also be able to lodge a complaint with a relevant regulator such as the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)) or the Telecommunications Industry Ombudsman ([www.tio.com.au](http://www.tio.com.au/)).
+
+### About this Statement
+
+This Statement has been issued by Telstra Corporation Limited, effective as at September 2015. From time to time, we may need to change this Statement. If we do so, we will post the updated version on our [website](https://www.telstra.com.au/privacy) (www.telstra.com.au/privacy) and it will apply to all of your information held by us at the time.
+
+### How to contact us
+
+If you have any questions in relation to this Statement or our management of your information, please let us know by contacting us on 1800 039 059 or writing to us at [privacy@online.telstra.com.a](mailto:privacy@online.telstra.com.au)u.
+
+If you’d like this statement on CD or in Braille please call Telstra's Disability Enquiry Hotline on 1800 068 424 (office hours are Monday-Friday 8 am-5 pm EST) for assistance. You can also obtain a pdf copy of this statement on our website ([www.telstra.com.au/privacy/privacy-statement](https://www.telstra.com.au/privacy/privacy-statement))
+
+We may provide credit as contemplated in the Privacy Act to our customers in connection with our products and services (for example, post-paid accounts) and, as a result, we may collect credit information and credit eligibility information about you as referred to in the Privacy Act. Our Credit Reporting Policy sets out how we manage that information. This credit reporting policy relates to Telstra and to our related entities that are deemed to be credit providers or affected information recipients for the purposes of the Privacy Act 1988 (Cth).
+
+### How we collect and hold credit information and credit eligibility information about you
+
+Credit information relates primarily to your credit related dealings with us and covers various types of information that can be collected by Credit Reporting Bodies ( **CRBs** ) that report on consumer credit worthiness.
+
+Credit information includes:
+
+  * identification information
+  * basic information about your credit account (for example when it was opened)
+  * details about information requests we make about you to CRBs
+  * information about certain overdue payments and about serious credit infringements and information about payments or subsequent arrangements in relation to either of these
+  * various publicly available information like bankruptcy and credit-related court judgements
+
+
+
+We may collect credit information about you in any of the circumstances relating to other personal information described in our Privacy Statement under **How we collect your information**. Credit eligibility information is information equivalent to the kinds listed above that we generally collect from CRBs.
+
+This information relates primarily to your dealings with other credit providers (for example, banks, other financial institutions, or other organisations that may provide you with credit in connection with their products or services). It may also include certain credit worthiness information that we derive from the data that we receive from a CRB. Sometimes we may also collect credit eligibility information about you from other credit providers.
+
+We store and safeguard your credit information and credit eligibility information in the ways described in our Privacy Statement under **How we hold your information**.
+
+### How we use and when we disclose your credit information and credit eligibility information
+
+We may disclose your credit information to CRBs. Those CRBs may then include that information in credit reporting information that they provide to other credit providers to assist them to assess your credit worthiness.
+
+We may also use and disclose your credit information for other purposes and in other circumstances as described in our Privacy Statement under **How we use your information** and **When we disclose your information** , when permitted to do so by the Privacy Act.
+
+Our use and disclosure of credit eligibility information is regulated by Part IIIA of the Privacy Act and the Credit Reporting Privacy Code. We will only use or disclose such information for purposes permitted by these laws, such as:
+
+  * processing credit-related applications and managing credit that we provide
+  * assisting you to avoid defaults
+  * collecting amounts you may owe us in relation to such credit and dealing with serious credit infringements
+  * assigning our debts
+  * participating in the credit reporting system
+  * dealing with complaints or regulatory matters relating to credit or credit reporting
+  * as required or authorised by another law.
+
+
+
+In some cases, the people to whom we may disclose your credit information or credit eligibility information may be based outside Australia – for more information please see the details in our Privacy Statement under **When we disclose your information**.
+
+### How to access or correct your credit information or credit eligibility information
+
+If you wish to access or correct errors in any of your credit information or credit eligibility information that we hold, please contact us using the contact details in the How to contact us section in our Privacy Statement.
+
+We may apply an administrative charge for providing access to your credit eligibility information, depending on the request.
+
+### How to make a complaint regarding our compliance with Part IIIA of the Privacy Act and the Credit Reporting Privacy Code
+
+If you think that we have not complied with Part IIIA of the Privacy Act or with the Credit Reporting Privacy Code (which regulates credit reporting) you can make a complaint by using the contact details in the How to contact us section of our Privacy Statement.
+
+We will acknowledge your complaint in writing as soon as practicable within 7 days. We will aim to investigate and resolve your complaint within 30 days of receiving it. If we need more time, we will notify you about the reasons for  
+the delay and ask for your agreement to extend this 30 day period (if you do not agree, we may not be able to resolve your complaint).
+
+We may need to consult with a CRB or another credit provider to investigate your complaint. While we hope that we will be able to resolve any complaint without needing to involve third parties, if you are not satisfied with the outcome of your complaint you can access our external dispute resolution scheme, the Telecommunications Industry Ombudsman ([www.tio.com.au](http://www.tio.com.au/)), or make a complaint to the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)).
