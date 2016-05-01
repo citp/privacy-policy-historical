@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the donorbox.org privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918021257id_/https%3A//donorbox.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorbox.org privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501145214id_/https%3A//donorbox.org/privacy) for the most accurate reproduction.*
 
-# Donorbox | Free Online Donation Form & Fundraising Software
+# Free Online Fundraising Software & Donate Button | Donorbox
 
 Donorbox created this application to make it simple for users to explore and support organizations they care about with their friends and others with similar interests. We give you control of your information because you may not want to share your information with everyone. You choose what information you provide, including contact and personal information, interests, and causes. You control the sharing of that information by using the privacy settings on the application.
 
 This Privacy Policy is designed to help you understand what information you may provide, how we use and share the information and how we will not use or share information, and your choices when using the Donorbox application, located at donorbox.org and wordpress.org/plugins/donorbox-donation-form, (the "Application"). We will not use or share your information with anyone, except as described in this Privacy Policy.
 
-If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at privacy@donorbox.org or at Donorbox, 620 Folsom St, Ste #100, San Francisco, CA 94013.
+If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at support@donorbox.org or at Donorbox, 620 Folsom St, Ste #100, San Francisco, CA 94013.
 
 We operate under the principle that you should have control over your information including how it is shared with others. To learn more about our privacy practices, read on!
 
@@ -62,11 +62,11 @@ If you choose to use the Application, your use is subject to the current Terms o
 
 ## Security
 
-Donorbox takes reasonable precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. Although we allow you to set privacy setting that limit access to your information, please be aware that no security measures are perfect or 100% effective. We cannot control the actions of other users with whom you may choose to share your pages and information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of Donorbox Application, please contact us at privacy@donorbox.org.
+Donorbox takes reasonable precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. Although we allow you to set privacy setting that limit access to your information, please be aware that no security measures are perfect or 100% effective. We cannot control the actions of other users with whom you may choose to share your pages and information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of Donorbox Application, please contact us at support@donorbox.org.
 
 ## Opting out of communications
 
-You can choose to opt out of receiving emails from Donorbox by clicking on the "unsubscribe" link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe or e-mail preference change will be processed promptly, and in no event longer than 10 business days. Alternatively, you may email us at privacy@donorbox.org or reach us at the following contact information:
+You can choose to opt out of receiving emails from Donorbox by clicking on the "unsubscribe" link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe or e-mail preference change will be processed promptly, and in no event longer than 10 business days. Alternatively, you may email us at support@donorbox.org or reach us at the following contact information:
 
 Donorbox  
 620 Folsom St, Ste #100  
