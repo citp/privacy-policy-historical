@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the working.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108202409id_/https%3A//www.workopolis.com/content/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the working.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501093432id_/https%3A//about.workopolis.com/privacy) for the most accurate reproduction.*
 
 # Workopolis Privacy Policy - About
 
