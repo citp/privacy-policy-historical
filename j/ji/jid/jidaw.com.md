@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227034955id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jidaw.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502015701id_/http%3A//www.jidaw.com/privacy.html) for the most accurate reproduction.*
 
 # Jidaw Systems - Privacy Policy
 
