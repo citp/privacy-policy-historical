@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glamourpost.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324115158id_/http%3A//www.glamourpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamourpost.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501072729id_/http%3A//www.glamourpost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Glamour Post
+# Privacy Policy - Glamour PostGlamour Post
 
 Our team here at Glamour Post is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
