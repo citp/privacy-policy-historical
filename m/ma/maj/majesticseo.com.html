@@ -1,21 +1,7 @@
-<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905231331id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2016-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160502011603id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<!-- 
-		Hello there.
-		
-		We need help to make all of this code better.  
-		
-		If you're fluent in English, love everything HTML5, CSS3 and JS, consider yourself a Senior Front End Developer, will be eligible to work in the UK, and can stay within commute of our lovely offices in Birmingham, we'd really, really love to hear from you. 		
-		
-		Here's the job advert
-		https://blog.majestic.com/careers-at-majesticseo/
-	
-		Good luck!
-		
-		Oh - be sure to let us know that you found our advert in the site source code. There may be extra points for that. 		
-	-->	
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -27,6 +13,7 @@
 	<title>Privacy Policy - Majestic</title>
 	
 	<link rel="icon" type="image/png" href="/static/images/majestic/favicon.png">
+	<meta name="theme-color" content="#2d526d">
 	
 	<link rel="stylesheet" type="text/css" href="/static/css/bootstrap/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-1.10.3.custom.min.css">
@@ -34,7 +21,8 @@
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
 	
-	<link rel="stylesheet" type="text/css" href="/static/production/css/508eaf60.majestic.seo.min.cache.css">
+	<link rel="stylesheet" type="text/css" href="/static/production/css/c4db20.majestic.seo.min.cache.css">
+	
 	<!--[if lt IE 9]>	
 		<link rel="stylesheet" type="text/css" href="/static/css/ie/ie.css">
 	<![endif]-->
@@ -89,12 +77,27 @@
 		
 	
 
-	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
 	<script type="text/javascript" src="/static/scripts/bootstrap/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/highcharts/highcharts-3.0.4.js"></script>
 	
-	<script type="text/javascript" src="/static/production/js/17cc94ef.majestic.seo.min.cache.js"></script>
+	<!--[if lte IE 8]>
+	    <script src="/static/scripts/d3/r2d3.min.js" charset="utf-8"></script>
+	    <script src="/static/scripts/d3/d3-function-ie8.js"></script>
+	<![endif]-->
+
+    <!--[if gte IE 9]>
+        <script src="/static/scripts/d3/d3.v3.min.js"></script>
+        <script src="/static/scripts/d3/d3-function.js"></script>
+    <![endif]-->
+
+    <!--[if !IE]-->
+		<script src="/static/scripts/d3/d3.v3.min.js"></script>
+        <script src="/static/scripts/d3/d3-function.js"></script>
+	<!--[endif]-->
+
+	<script type="text/javascript" src="/static/production/js/67cd5e.majestic.seo.min.cache.js"></script>
 	
 	<!--[if IE]>
 		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
@@ -110,6 +113,13 @@
 		{
 			$(".concertina").concertina();
 			$("a.youtube").YouTubePopup();
+			
+			$.fn.userNotifications({
+				
+				uxGroup: 'a',
+				currentPath: '/support/privacy-policy',
+				currentPathEncoded: '/support/privacy-policy'
+			});
 			
 			
 			
@@ -150,10 +160,131 @@
 				updateStatusFunction: updatePopoverBucketStatus											// The function to use when updating the notification popover
 			}));
 		}
+		
+		
+
+function openDownloadAllBacklinksDialog(query, index)
+{
+	var width = 400;
+
+	$.post(
+		'/data-output/download-all-backlinks',
+		{'query': query, 'index_data_source': index},
+		function(response)
+		{
+			hideAllPopovers();
+			
+			$('<div id="dialog-container" title="Download All Backlinks"></div>')
+				.html(response)
+				.dialog({
+					modal: true,
+					resizable: false,
+					draggable: false,
+					width: width,
+					close: function()
+					{
+						$(this).dialog('destroy').remove();
+						hideAllPopovers();
+					}
+				});
+			
+			bindDefaultEvents();
+		}
+	);
+}
+
+function showDownloadReadyState(downloadPath)
+{
+	$('.download-all-backlinks.active #downloadButton')
+		.removeClass("loading_gif")
+		.addClass("download_ready")
+		.val("Download Ready")
+		.off('click')
+		.on('click', function()
+		{
+			location.href = downloadPath;
+		});
+	
+	$('.download-all-backlinks.active .beforeReady').hide();
+	$('.download-all-backlinks.active .statusContent').html('<b>Your download is ready,</b> please use the "Download Ready" button. We have also added your file to your <a href="/reports/downloads">downloads</a> folder, should you need it later.');
+}
+
+function openDownloadAllBacklinksDialogNoSubscription()
+{
+	hideAllPopovers();
+	
+	$.post(
+		'/data-output/download-all-backlinks/no-subscription',
+		function(response)
+		{
+			$('<div id="dialog-container" title="Download All Backlinks"></div>')
+				.html(response)
+				.dialog({
+					modal: true,
+					resizable: false,
+					draggable: false,
+					width: 600,
+					close: function()
+					{
+						$(this).dialog('destroy').remove();
+						hideAllPopovers();
+					}
+				});
+		}
+	);
+}
+
+function updateAllowanceCharts(verified)
+{
+	if(! verified)
+	{
+		$('.download-all-backlinks.active #allowance_before').hide();
+		$('.download-all-backlinks.active #allowance_after').show();
+		$('.download-all-backlinks.active .allowance_before_label').hide();
+		
+		var percentLeft = 0;
+		
+		if(totalInitialAnalysisUnits != 0)
+			percentLeft = ((analysisUnitsRemaining - analysisUnitsCost) / totalInitialAnalysisUnits) * 100;
+		
+		if(percentLeft == 0)
+		{
+			$('.download-all-backlinks.active .allowance_after_label').html('No allowance<br>remaining');
+		}
+		else if(percentLeft < 1)
+		{
+			$('.download-all-backlinks.active .allowance_after_label').html('less than <b>1%</b><br>remaining');
+		}
+		else if(percentLeft > 99)
+		{
+			$('.download-all-backlinks.active .allowance_after_label').html('almost <b>100%</b><br>remaining');
+		}
+		else 
+		{
+			$('.download-all-backlinks.active .allowance_after_label').html('<b>' + percentLeft.toFixed(0) + '%</b><br />remaining');
+		}
+	}
+	
+	$('.download-all-backlinks.active .statusContent').html('<b>You can safely close this message box.</b>');
+}
 	</script>
 
 	
 	
+	
+
+	
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66791310-1', 'auto');
+  ga('set', 'dimension1', 'a');
+  ga('send', 'pageview');
+
+</script>
 	
 	
 </head>
@@ -161,72 +292,8 @@
 <body class="en" style="">
 	
 
-	<div id="feedbackForm">
-	<div id="innerFeedbackForm">
-		<div>
-			<div style="float:left; width:429px;">
-				<h3 style="text-align:center;">Feedback</h3>
-			</div>
-			<div style="float:right;">
-				<div id="feedbackCloseButton" onclick="feedbackFormToggle()"></div>
-			</div>
-		</div>
-		<br class="clearfloat">
-		<p style="padding:5px 20px 10px 25px;">
-			Do you have a suggestion that will improve this page? We would love to hear it.
-		</p>
-		<p id="feedbackError" style="display:none; margin-left:20px;">
-			<span id="feedbackErrorMessage" style="font-weight:bold; color:red">Please complete all required fields.</span>
-		</p>
-		<p id="sendEmailError" style="display:none; margin-left:20px;">
-			<span style="font-weight:bold; color:red">There was an error sending your message. Please try again.</span>
-		</p>
-		<p id="feedbackSuccess" style="display:none; margin-left:20px;">
-			<span id="feedbackSuccessMessage" style="font-weight:bold; color:green">Thank you for your feedback.</span>
-		</p>
-		
-		<div style="padding:8px 10px 10px 20px;">
-			<table style="margin-bottom:5px">
-				
-				<tbody><tr>
-					<td class="padded">Name:</td>
-				</tr>
-				<tr>
-					<td><input id="feedbackName" type="text" class="midTextBox" value=""></td>
-				</tr>
-				<tr>
-					<td class="padded">Email Address:</td>
-				</tr>
-				<tr>
-					<td><input id="feedbackEmailAddress" type="text" class="longTextBox" value=""></td>
-				</tr>
-				
-				<tr>
-					<td class="padded">Feedback:</td>
-				</tr>
-				<tr>
-					<td>							
-						<textarea id="feedback" class="marginsEqual" style="width:400px; margin-top:0px; resize:none;" rows="6" onblur="clearIfEmpty(this);"></textarea>
-					</td>
-				</tr>
-				<tr>
-					<td align="left">
-						<input name="submitted" type="hidden" value="1">
-						<div class="contentPanelTools" style="padding-top:3px;">
-							<input type="button" value="Send Feedback" onclick="sendFeedback(false, 'Please enter your query details here...', '/support/privacy-policy')">
-						</div>
-						<div style="margin-top:10px;">
-							No replies are given for feedback. For support, please click <a href="/support/contact-us">here</a>.
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-		</div>
-	</div>
-	<div style="float:right;">
-		<input id="feedbackButton" type="button" onclick="feedbackFormToggle()">
-	</div>
-</div>
+	
+	
 	<div id="header_bg">
 		<div id="top"></div>
 		<div id="bottom"></div>		
@@ -265,8 +332,10 @@
 			if($(".signin").hasClass("menu-open") && !showingLogout)
 			{
 				arrow.css("background-position", "-80px 0");
+				$("#signin input[name='EmailAddress']").focus();
 			}else{
 				arrow.css("background-position", "-65px 0").css("padding-right", "0px");
+				$("#search_text").focus();
 			}
 		});
 		
@@ -313,12 +382,46 @@
 			$(this).parent().siblings("ul.dd_menu").slideToggle();	
 			var text = $(this).text();		
 			$(this).text(text == "SECTIONS" ? "CLOSE" : "SECTIONS").toggleClass('close');		
-		});	
-		$("#header ul.horzMenu li.dd-link a.head,#header ul.horzMenu li.dd-link ul.dd-content li a.dd-sub-head, ul.dd_menu li.dd a.dd_head").click(function() {  	
-			$(this).toggleClass('up');	
-			$(this).siblings("ul, div ul").slideToggle();		
-		});	
+		});
+		
+		// handling hover menus for switch between mobile & desktop
+		$(window).resize(function()
+		{
+			var menuLinks = "#header ul.horzMenu li.dd-link a.head, #header ul.horzMenu li.dd-link ul.dd-content li a.dd-sub-head, ul.dd_menu li.dd a.dd_head";
+			if($(window).width() <= 640)
+			{
+				makeMobMenuTogglable();
+				$(menuLinks).removeClass('up');
+				$(menuLinks).siblings("ul, div ul").hide();
+			}
+			else
+			{
+				$(menuLinks).off("click").removeClass('toggle-set');
+				$(menuLinks).toggleClass('up');
+				$(menuLinks).siblings("ul, div ul").show();
+			}
+		});
+		
+		if($(window).width() <= 640)
+		{
+			makeMobMenuTogglable();
+		}
 	});	
+	
+	// changing hover dropdown menus to clickable slidey ones for mobile
+	function makeMobMenuTogglable()
+	{
+		var menuLinks = "#header ul.horzMenu li.dd-link a.head, #header ul.horzMenu li.dd-link ul.dd-content li a.dd-sub-head, ul.dd_menu li.dd a.dd_head";
+		
+		$(menuLinks)
+			.not('.toggle-set')
+			.on("click", function() 
+			{
+				$(this).toggleClass('up');	
+				$(this).siblings("ul, div ul").slideToggle();		
+			})
+			.addClass('toggle-set');
+	}	
 	
 	var tagsToReplace = {
 		'&': '&amp;',
@@ -370,7 +473,7 @@
 
 <div id="mob-account-menu" class="mob-dd-menu mob" style="display:none;">		  
 	<ul class="horzMenu">		
-		<li class="account"><a href="/account">Account</a></li>
+		<li class="account "><a href="/account">Dashboard</a></li>
 		
 		<li class="dd-link">
 			<a class="head" aria-haspopup="true">My Details<span class="left-arrow"></span></a>
@@ -407,7 +510,10 @@
 <div id="menu_list" class="mob-dd-menu">
 	<ul class="horzMenu">
 	
-		<li><a href="http://blog.majestic.com/">Blog</a></li>			
+        
+			<li><a href="https://blog.majestic.com/">Blog</a></li>
+        
+		
 		<li class="dd-link separator">					
 			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>							  
 			<ul class="dd-content">
@@ -488,37 +594,39 @@
 		
 			<li class="separator"><a href="/account/register">Sign Up</a></li>
 
-			<noscript>
-				<li class="separator"><a href="/account/login?redirect=%2Fsupport%2Fprivacy-policy">Login</a></li>
-				<style type="text/css">#header ul.horzMenu li.login{display:none;}</style>
-			</noscript>
+			
+				<noscript>
+					<li class="separator"><a href="/account/login?redirect=%2Fsupport%2Fprivacy-policy">Login</a></li>
+					<style type="text/css">#header ul.horzMenu li.login{display:none;}</style>
+				</noscript>
 
-			<li class="login separator">
-				<div id="topnav" class="topnav"> 
-					<a id="login_header_dropdown" href="https://majestic.com/account/login" class="signin">Login<img id="login_arrow_image" class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>  
-				</div>
-				<div id="signin_menu">
-					<form method="post" id="signin" action="https://majestic.com/account/login">
-						<input type="hidden" name="redirect" value="/support/privacy-policy"><label for="username">Email Address</label>
-						<input name="EmailAddress" value="" title="Email Address" type="email">
-						
-						<label for="password">Password</label>
-						<input name="Password" value="" title="password" type="password">
-						
-						<p class="remember">
-							<span>
-								<input id="signin_submit" value="Login" type="submit">
-							</span>
-							<span>
-								<input name="RememberMe" id="RememberMe" value="1" type="checkbox">
-								<label for="RememberMe">Remember me</label>
-							</span>
-						</p>
-						<p class="forgot"><a href="/account/reset-password?EmailAddress=">Forgot your password?</a></p>
-						
-					</form>
-				</div>
-			</li>
+				<li class="login separator">
+					<div id="topnav" class="topnav"> 
+						<a id="login_header_dropdown" href="https://majestic.com/account/login" class="signin">Login<img id="login_arrow_image" class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>  
+					</div>
+					<div id="signin_menu">
+						<form method="post" id="signin" action="https://majestic.com/account/login">
+							<input type="hidden" name="redirect" value="/support/privacy-policy"><label for="username">Email Address</label>
+							<input name="EmailAddress" value="" title="Email Address" type="email">
+							
+							<label for="password">Password</label>
+							<input name="Password" value="" title="password" type="password">
+							
+							<p class="remember">
+								<span>
+									<input id="signin_submit" value="Login" type="submit">
+								</span>
+								<span>
+									<input name="RememberMe" id="RememberMe" value="1" type="checkbox">
+									<label for="RememberMe">Remember me</label>
+								</span>
+							</p>
+							<p class="forgot"><a href="/account/reset-password?EmailAddress=">Forgot your password?</a></p>
+							
+						</form>
+					</div>
+				</li>
+			
 		
 
 		<li id="lang" class="dd-link separator">
@@ -608,10 +716,10 @@
 	
 
 
-<!--[if lt IE 7]>
+<!--[if lt IE 8]>
 
-<div style="background:#ffffff;clear:both;height:45px;padding:10px;position:relative;">
-	<a style="display:block;margin:0 auto;width:820px;"href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
+<div class="browser-warning">
+	<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="/static/images/banners/upgrade-ie.jpg" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
 </div>
 
 <![endif]--> 
@@ -637,8 +745,8 @@
 	<div class="contentPanelWhite brdBottom noTopPad">
 		<h3>Privacy Policy</h3>
 		<p>
-			<b>This policy applies from:</b> 3<super>rd</super> November 2014.<br>
-			The <a href="/support/privacy-policy/privacy-policy-pre-november2014">earlier version of the Privacy Policy</a> is available for your convenience.
+			<b>This policy applies from:</b> 1<super>st</super> October 2015.<br>
+			The <a href="/support/privacy-policy/privacy-policy-pre-october2015">earlier version of the Privacy Policy</a> is available for your convenience.
 		</p>
 		<p>
 			Should you have any queries regarding this privacy policy please feel free to contact us using our <a href="/support/contact-us">support system</a>.
@@ -690,11 +798,7 @@
 			<p>
 				The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 			</p>
-		 
-			<p>
-				We do not use third party cookies, or attempt to facilitate control of cookies by any third party.
-			</p>
-		 
+		 		 
 			<p>
 				You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.
 			</p>
@@ -747,10 +851,9 @@
 		<h3>DISCLOSURE OF YOUR INFORMATION</h3>
 
 			<p>
-				We use reputable third party technologies to manage elements of our activities including Salesforce and Mailchimp.
-				We may therefore be required to disclose your information to these companies for such purposes.
-				Mailchimp's privacy policy is available at the time of writing at <a href="http://mailchimp.com/legal and Salesforce’s privacy">http://mailchimp.com/legal and Salesforce’s privacy</a>
-				policy is available at the time of writing at <a href="http://www.salesforce.com/company/privacy/">http://www.salesforce.com/company/privacy/</a>
+				We use reputable third party technologies to manage elements of our activities including Salesforce and Google Analytics. We may therefore be required to disclose your information to these
+				companies for such purposes. Google Analytic’s terms at the time of writing are at <a href="http://www.google.com/analytics/terms/gb.html">http://www.google.com/analytics/terms/gb.html</a>
+				and the Salesforce privacy policy is available at the time of writing at <a href="http://www.salesforce.com/company/privacy/">http://www.salesforce.com/company/privacy/</a>
 			</p>
 
 			<p>We may disclose your personal information to third parties:</p>
@@ -806,25 +909,62 @@
 	<div id="footer_container">
 		<div id="pad"></div>
 		<div id="footer">
-			
-		<div id="social_links">
-			
-				<a href="https://twitter.com/tryMajestic" title="Twitter" target="_blank"><img class="twitter" height="30" width="30" alt="Majestic on Twitter" src="/static/images/backgrounds/1px.png"></a>
-			
-			
-			<a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank"><img class="fb" height="30" width="30" alt="Majestic on Facebook" src="/static/images/backgrounds/1px.png"></a>
-			<a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank"><img class="yt" height="30" width="30" alt="Majestic on Youtube" src="/static/images/backgrounds/1px.png"></a>
-			<a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank"><img class="gplus" height="30" width="30" alt="Majestic on Google+" src="/static/images/backgrounds/1px.png"></a>
-			<a href="http://pinterest.com/majestic_12/" title="Pinterest" rel="publisher" target="_blank"><img class="pinterest" height="30" width="30" alt="Majestic on Pinterest" src="/static/images/backgrounds/1px.png"></a>
-			<a href="/support/forums" title="Forums"><img class="forums" height="30" width="30" alt="Forums" src="/static/images/backgrounds/1px.png"></a>
-		</div>					
-		<ul class="horzMenu footerlist">
-			<li><a href="http://majesticanalytics.com">Enterprise</a></li>
-			<li class="separator"><a href="/support/about">About</a></li>
-			<li class="separator"><a href="/support/terms">Terms and Conditions</a></li>
-			<li class="separator"><a href="/support/privacy-policy">Privacy Policy</a></li>
-			<li class="separator"><a href="/support/contact-us">Contact Us</a></li>
-		</ul>
+			<div class="find-us footer-column">
+	<h5>Social</h5>
+	<ul>
+		<li class="twitter">
+			<a href="https://twitter.com/Majestic" title="Twitter" target="_blank">
+			Twitter</a>
+		</li>
+		<li class="facebook"><a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank">Facebook</a></li>
+		<li class="youtube"><a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank">YouTube</a></li>
+		<li class="google"><a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank">Google</a></li>
+		<li class="pinterest"><a href="http://pinterest.com/majestic_12/" title="Pinterest" rel="publisher" target="_blank">Pinterest</a></li>
+		<li class="forums"><a href="/support/forums" title="Forums"></a></li>
+	</ul>
+</div>
+	
+<div class="company footer-column">
+	<h5>Company</h5>
+	<ul>
+		<li><a href="/plans-pricing">Plans &amp; Pricing</a></li>
+		<li><a href="/support/about">About</a></li>
+		<li><a href="/support/terms">Terms and Conditions</a></li>
+		<li><a href="/support/privacy-policy">Privacy Policy</a></li>
+		<li><a href="/support/contact-us">Contact Us</a></li>
+	</ul>
+</div>	
+
+<div class="empty footer-column">
+	<h5>Tools</h5>
+	<ul>
+		<li><a href="/reports/site-explorer?q=example.com">Site Explorer</a></li>
+		<li><a href="/reports/comparator?q1=example.com">Compare Domains</a></li>
+		<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
+		<li><a href="/reports/search-explorer?q=google">Search Explorer</a></li>
+		<li><a href="http://developer-support.majestic.com/" target="_blank">Developer API</a> <img src="/static/images/icons/external-link.png" title="External Link "></li>
+	</ul>	
+</div>	
+
+<div class="empty footer-column">
+	<h5>Majestic is for</h5>
+	<ul>
+		<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
+		<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
+		<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
+		<li><a href="/support/tools/for-developers">Developers</a></li>
+		<li><a href="http://majesticanalytics.com" target="_blank">Enterprise</a> <img src="/static/images/icons/external-link.png" title="External Link"></li>
+	</ul>		
+</div>	
+
+<div class="awards footer-column">
+	<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award-for-enterprise-innovation-2016-trans.png" title="The Queen's Award For Enterprise: Innovation, 2016"></a>
+</div>	
+
+<div class="up">
+	<a href="javascript:scrollToTop()">top ^</a>
+</div>
+
 
 
 		</div>
@@ -876,6 +1016,77 @@
 	
 
 	
+	
+	
+	
+	<div id="feedbackForm">
+	<div id="innerFeedbackForm">
+		<div>
+			<div style="float:left; width:429px;">
+				<h3 style="text-align:center;">Feedback</h3>
+			</div>
+			<div style="float:right;">
+				<div id="feedbackCloseButton" onclick="feedbackFormToggle()"></div>
+			</div>
+		</div>
+		<br class="clearfloat">
+		<p style="padding:5px 20px 10px 25px;">
+			Do you have a suggestion that will improve this page? We would love to hear it.
+		</p>
+		<p id="feedbackError" style="display:none; margin-left:20px;">
+			<span id="feedbackErrorMessage" style="font-weight:bold; color:red">Please complete all required fields.</span>
+		</p>
+		<p id="sendEmailError" style="display:none; margin-left:20px;">
+			<span style="font-weight:bold; color:red">There was an error sending your message. Please try again.</span>
+		</p>
+		<p id="feedbackSuccess" style="display:none; margin-left:20px;">
+			<span id="feedbackSuccessMessage" style="font-weight:bold; color:green">Thank you for your feedback.</span>
+		</p>
+		
+		<div style="padding:8px 10px 10px 20px;">
+			<table style="margin-bottom:5px">
+				
+				<tbody><tr>
+					<td class="padded">Name:</td>
+				</tr>
+				<tr>
+					<td><input id="feedbackName" type="text" class="midTextBox" value=""></td>
+				</tr>
+				<tr>
+					<td class="padded">Email Address:</td>
+				</tr>
+				<tr>
+					<td><input id="feedbackEmailAddress" type="text" class="longTextBox" value=""></td>
+				</tr>
+				
+				<tr>
+					<td class="padded">Feedback:</td>
+				</tr>
+				<tr>
+					<td>							
+						<textarea id="feedback" class="marginsEqual" style="width:400px; margin-top:0px; resize:none;" rows="6" onblur="clearIfEmpty(this);"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td align="left">
+						<input name="submitted" type="hidden" value="1">
+						<div class="contentPanelTools" style="padding-top:3px;">
+							<input type="button" value="Send Feedback" onclick="sendFeedback(false, 'Please enter your query details here...', '/support/privacy-policy')">
+						</div>
+						<div style="margin-top:10px;">
+							No replies are given for feedback. For support, please click <a href="/support/contact-us">here</a>.
+						</div>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	</div>
+	<div style="float:right;">
+		<input id="feedbackButton" type="button" onclick="feedbackFormToggle()">
+	</div>
+</div>
+
+<div id="feedback-form-background" style="display: none;"></div>
 
 
 </body></html>
