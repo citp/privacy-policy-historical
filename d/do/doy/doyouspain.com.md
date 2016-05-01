@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907064603id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouspain.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501172455id_/http%3A//www.doyouspain.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Spain car hire with All Inclusive Prices, Spain car hire with 100% Peace of Mind, Car hire in Spain with No Hidden Costs!
 
@@ -26,8 +26,8 @@ If you have any questions about this privacy statement, the practices of this si
   
 **Gesmarket S.L.**   
 B12630620   
-C/ Barrachina 15 Bis   
-12006 Castellón   
+C/ Ronda Mijares 190 Bis   
+12002 Castellón   
 Spain   
 GENERAL INFORMATION IN COMPLIANCE WITH THE LAW 34/2002:   
 Registration data: Tomo: 1191, Libro: 754, Folio: 192, Sección: 8, Hoja: CS 21393 Inscripción: 1 / Fecha: 05/01/2004 Año Pre.: 2003 
