@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108133506id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplcricketlive.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502133310id_/http%3A//www.iplcricketlive.com/privacy-policy) for the most accurate reproduction.*
 
-# IPL 2015, Indian Premier League 2015 - Privacy Policy
+# IPL 2016, Indian Premier League 2016 - Privacy Policy
 
 The following Privacy Statement discloses the information gathering and dissemination practices for iplcricketlive.com
 
