@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920000451id_/https%3A//spreedly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502185211id_/https%3A//spreedly.com/privacy) for the most accurate reproduction.*
 
 # Spreedly Privacy Policy
 
@@ -58,7 +58,7 @@ We may occasionally email you with information about new service. You may opt ou
 
 We are not allowed to disclose personal information without your written permission and will never sell or rent your personal information to marketers. 
 
-Certain information collected about you and your customers is used within the context of providing Spreedly services. These third parties may include our agents, related body corporates, contractors, financial institutions, payment processors, fraud services, and any third parties that you have directly authorized to receive your personal information. We may store personal information with third parties in locations outside our direct control, for example on offsite servers or databases. Some of the third parties to whom we disclose your personal information may be located outside your country of residence. By visiting our Website or using our service, you acknowledge that we may share payment transaction data and related information with third parties to the extent necessary to process transactions via the Spreedly service. The use of personal information by such third party will be subject to their applicable privacy policy, which we recommend you carefully review. 
+Certain information collected about you and your customers may be shared with third parties within the context of providing Spreedly services. These third parties may include our agents, related body corporates, contractors, financial institutions, payment processors, fraud services, and any third parties that you have directly authorized to receive your personal information. We may store personal information with third parties in locations outside our direct control, for example on offsite servers or databases. Some of the third parties to whom we disclose your personal information may be located outside your country of residence. By visiting our Website or using our service, you acknowledge that we may share payment transaction data and related information with third parties to the extent necessary to process transactions via the Spreedly service. The use of personal information by such third party will be subject to their applicable privacy policy, which we recommend you carefully review. 
 
 In certain circumstances we may be required to disclose personal information to government officials, law enforcement or other third parties: (i) in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Spreedly's terms of use, or as otherwise required by law; (ii) if we are compelled to do so by subpoena, court order or other legal process; or (iii) if we are required to do so to comply with any law, statute, or set of rules or regulations. 
 
@@ -80,9 +80,9 @@ The security of your personal information is important to us. We take all reason
 
 You are responsible for the use and safeguarding of any login ID that we issue to you regarding the use of the Website or our service and any associated passwords. It is important for you to protect against unauthorized access to your login ID and password, to other sensitive data regarding your account with us, and to your computer and systems. 
 
-Spreedly provides some or all of its service from systems located outside of Europe. Accordingly, any European merchants using Spreedly’s service must disclose to their customers that personally identifiable information may be transferred, processed and stored outside of Europe. 
+Spreedly provides some or all of its service from systems located outside of Europe. Accordingly, any European merchants and/or merchants collecting information from European persons by using Spreedly’s service must disclose to their customers that personally identifiable information may be transferred, processed and stored outside of Europe. 
 
-Spreedly maintains strict administrative technical, and physical procedures to protect information stored in our servers, which are located to the United States, and access to personal information is limited to only those employees who require it to perform their job functions. 
+Spreedly maintains strict administrative technical, and physical procedures to protect information stored in our servers, which are located in the United States, and access to personal information is limited to only those employees who require it to perform their job functions. 
 
 No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
@@ -98,10 +98,10 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ##  8\. Questions; Access, Corrections and Complaints 
 
-If you have any questions about this Privacy Policy or would like to access or seek correct of your personal information, or if you have any complaints regarding our privacy practices, please contact us at support@spreedly.com. 
+If you have any questions about this Privacy Policy or would like to access or seek correction of your personal information, or if you have any complaints regarding our privacy practices, please contact us at support@spreedly.com. 
 
 Merchants can correct their personal information by logging into their Spreedly account and updating their account information. For all other corrections please contact us at support@spreedly.com. 
 
 We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Framework. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using JAMS as a third party resolution provider. For more information on filing a complaint with JAMS, please visit: http://www.jamsadr.com/file-safe-harbor-claim/ 
 
-This Privacy Policy was last updated on September 17, 2015. As our service continues to evolve, we may update this policy so please check back frequently. 
+This Privacy Policy was last updated on September 21, 2015. As our service continues to evolve, we may update this policy so please check back frequently. 
