@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521130030id_/http%3A//www.rootvinn.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsin.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502045734id_/http%3A//www.rootvinn.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Rootvinn
 
