@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games144.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210110941id_/http%3A//games144.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games144.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502155747id_/http%3A//games144.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
