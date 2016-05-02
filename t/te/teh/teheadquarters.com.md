@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teheadquarters.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102173330id_/http%3A//www.teheadquarters.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teheadquarters.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503011259id_/http%3A//www.teheadquarters.com/privacy-policy.php) for the most accurate reproduction.*
 
-# TeHeadQuarters.com | Privacy Policy
+# TeHeadQuarters.com - Privacy Policy
 
 This privacy policy sets out how TeHeadquarters.com uses and protects any information that you give TeHeadquarters.com when you use this website.
 
