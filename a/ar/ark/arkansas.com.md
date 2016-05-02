@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627184659id_/http%3A//www.arkansas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansas.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502135742id_/http%3A//www.arkansas.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Arkansas.com Privacy Policy - Arkansas Tourism
 
 ## About Us
 
-This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [http://www.arkansas.com](https://web.archive.org/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
+This is a privacy policy for the Arkansas Department of Parks and Tourism and its entities. Our homepage on the Web is located at [http://www.arkansas.com](http://arkansas.com/). This policy was created to meet the requirements of Arkansas Act 1713 of 2003. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
@@ -79,6 +79,14 @@ Information is retained for an indeterminate period of time.
 
 All personally identifiable information.
 
-## Did you know?
+## Google AdWords/Doubleclick
 
-**Witts Springs** \-- _Witts Springs, AR_ : We have had at least 1000 or more people attend our parade. We have vendors, music, we have a huge cookout by our local EH club and then around 5pm our Volunteer Firefighters have a fish dinner. [Learn More ... ](http://www.arkansas.com/calendar/event_detail.asp?id=4903 "Learn more about: Hillbilly Daze")
+Arkansas.com uses Google AdWords and Google DoubleClick services. In addition to complying with the terms above, Arkansas.com complies with Google’s [policy requirements.](https://support.google.com/adwordspolicy/answer/143465)
+
+Google’s remarketing and similar audiences AdWords features permit the Arkansas Department of Parks and Tourism (ADPT) to reach people who previously visited its websites. Google’s interest categories, interest-based advertising, and demographic and location targeting features are similarly used to reach people who are likely to have interest in ADPT advertising based on previous web searches. Google and its vendors display ADPT advertising across the Internet to IP addresses that have visited ADPT websites.
+
+Google’s DoubleClick service uses the ADPT ads to collect analytical data for planning purposes. The service does not collect personally identifiable information. 
+
+Google and its vendors use cookies to serve ads based on past visits to ADPT websites. A “cookie” is a small piece of information that a website can store in a designated file on your computer or Web-enabled device.  Cookies can be used, among other things, to identify your computer or device when you log into a website and may track your IP address in order to do so. Information about how you can opt out of Google's use of cookies is available at Google's [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/) or, to opt out of only DoubleClick’s use of cookies, by visiting the[ DoubleClick opt-out page](https://www.google.com/settings/u/0/ads/authenticated#display_optout).
+
+ADPT does not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers. Furthermore, ADPT does not use or associate targeting information, such as demographics or location, with any personally identifiable information collected from ads or their landing pages. ADPT does not share any personally identifiable information with Google through its remarketing tags or any product data feeds which might be associated with its ads, nor does it send Google precise location information without obtaining your consent.
