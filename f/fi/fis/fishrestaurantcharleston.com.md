@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishrestaurantcharleston.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119092723id_/http%3A//www.fishrestaurantcharleston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishrestaurantcharleston.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502110203id_/http%3A//www.fishrestaurantcharleston.com/privacy-policy) for the most accurate reproduction.*
 
 # Fish
 
