@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longislandfirearms.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101112637id_/http%3A//www.longislandfirearms.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandfirearms.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502083903id_/http%3A//www.longislandfirearms.com/cart/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : LIF Store, The Official Store
 
