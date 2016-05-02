@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031193815id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asce.org privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502105036id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ASCE
 
