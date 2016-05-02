@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordwatch.com privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109153518id_/http%3A//www.wordwatch.com/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordwatch.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503011929id_/http%3A//www.wordwatch.com/resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordWatch Resources
 
