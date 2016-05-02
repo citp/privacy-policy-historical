@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantdomainsearch.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908092223id_/https%3A//instantdomainsearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantdomainsearch.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502183628id_/https%3A//instantdomainsearch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
