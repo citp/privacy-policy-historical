@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musicsubmit.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612192253id_/http%3A//www.musicsubmit.com/public.privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicsubmit.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502093849id_/http%3A//www.musicsubmit.com/privacy) for the most accurate reproduction.*
 
 # MusicSUBMIT | Internet Music Promotion | Privacy Policy
 
 MusicSUBMIT LLC ("MusicSUBMIT") has created this web site to provide an online platform for musicians, music promoters and other music professionals.  
 
-To assist you in using our www. MusicSUBMIT.com web site (the "Web Site" or the "Site"), and to ensure a clear understanding of the relationship arising from your use of our Site, we have created a Privacy Policy and a set of [_Terms and Conditions of Use_](http://www.musicsubmit.com/public.terms.cfm). Our Privacy Policy explains how we protect and treat contact and other information you provide to us through the Site, and our Terms and Conditions of Use govern your use of our Site generally. Please read our Privacy Policy and our Terms and Conditions of Use carefully \- they impose legal obligations on you. By using or accessing our Site, you are acknowledging that you have read and understood these terms and agree to be legally bound by them.
+To assist you in using our www. MusicSUBMIT.com web site (the "Web Site" or the "Site"), and to ensure a clear understanding of the relationship arising from your use of our Site, we have created a Privacy Policy and a set of [_Terms and Conditions of Use_](http://www.musicsubmit.com/terms). Our Privacy Policy explains how we protect and treat contact and other information you provide to us through the Site, and our Terms and Conditions of Use govern your use of our Site generally. Please read our Privacy Policy and our Terms and Conditions of Use carefully \- they impose legal obligations on you. By using or accessing our Site, you are acknowledging that you have read and understood these terms and agree to be legally bound by them.
 
 **Privacy Policy**
 
