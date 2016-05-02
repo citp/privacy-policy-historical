@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yomiprof.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044645id_/http%3A//www.yomiprof.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yomiprof.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502181515id_/http%3A//www.yomiprof.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Wealth Creation: Privacy Policy
 
@@ -27,6 +27,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**To EU Users:**    
+Please read our disclosure notice as part of our compliance to the EU user consent policy:  
+  
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: [http://www.google.com/intl/en/policies/privacy/partners/](http://www.google.com/intl/en/policies/privacy/partners/)
 
 **Online Privacy Policy Only**  
 This online privacy policy applies only to information collected through our website and not to information collected offline.
