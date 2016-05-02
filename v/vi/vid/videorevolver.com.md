@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030173656id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videorevolver.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502131847id_/http%3A//videorevolver.com/privacy) for the most accurate reproduction.*
 
 # Privacy - VideoRevolver: Create Amazing Web Videos That Sell More of Your Stuff Online
 
