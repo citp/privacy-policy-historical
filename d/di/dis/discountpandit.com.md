@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountpandit.com privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227042911id_/http%3A//www.discountpandit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountpandit.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502020923id_/http%3A//www.discountpandit.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobile Phone Latest Prices in India, Compare Mobile, Tablets, Books Prices in India - www.discountpandit.com | DiscountPandit
+# Mobile Phone Latest Prices in India, Compare Mobile, Tablets, Books Prices in India - discountpandit.com | DiscountPandit
 
 This Privacy Policy discloses the privacy practices for the DiscountPandit website. We are committed to protecting your privacy online. Please read the following to learn what information we collect from you (the “User” or the “End User”) and how we use that information. If you have any questions about our privacy policy, please email us at info@discountpandit.com
 
