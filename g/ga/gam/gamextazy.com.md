@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529234939id_/http%3A//gamextazy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502175026id_/http%3A//gamextazy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GamexTazy
+# Privacy Policy - GamexTazy
 
-[](https://addthis.com/bookmark.php?v=300)
+[ ](https://addthis.com/bookmark.php?v=300)
 
 A-DIGI EUROPE Online Privacy Policy
 
