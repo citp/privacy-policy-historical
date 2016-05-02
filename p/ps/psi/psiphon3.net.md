@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906165006id_/http%3A//www.psiphon3.net/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psiphon3.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502101324id_/http%3A//psiphon3.net/en/privacy.html) for the most accurate reproduction.*
 
 # Psiphon | Privacy Policy
 
@@ -15,7 +15,27 @@ Psiphon is designed to provide you with open access to online content. Psiphon d
 
 ## What user information does Psiphon collect?
 
-From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20150906165006id_/http%3A//www.psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+From time to time Psiphon may have to record additional information in order to resolve a problem with our service. When this occurs, we will add an entry to the [Privacy Bulletin](https://web.archive.org/web/20160502101324id_/http%3A//psiphon3.net/en/privacy-bulletin.html) describing what was recorded, how long it was kept, and why. 
+
+### Psiphon Client Software
+
+#### Advertising Networks
+
+We sometimes use advertisements to support our service, which may use technology such as cookies and web beacons. Our advertising partners' use of cookies enable them and their partners to serve ads based on your usage data. Any information collected through this process is handled under the terms of our advertising partners' privacy policies: 
+
+  * <http://www.mopub.com/legal/privacy/>
+  * <http://www.inmobi.com/privacy-policy/>
+  * <http://www.millennialmedia.com/privacy-policy>
+
+
+
+You can opt out of the use of cookies for interest-based advertising by visiting: 
+
+  * <http://www.mopub.com/optout/>
+  * <http://www.inmobi.com/page/opt-out/>
+  * <http://www.millennialmedia.com/privacy-policy/opt-out>
+
+
 
 ### Websites
 
