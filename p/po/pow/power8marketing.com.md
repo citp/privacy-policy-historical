@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the power8marketing.com privacy policy that was archived on 2015-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151102025251id_/http%3A//profitalchemy.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the power8marketing.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502123138id_/http%3A//profitalchemy.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Profit Alchemy Privacy
 
