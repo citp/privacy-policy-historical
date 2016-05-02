@@ -1,84 +1,79 @@
-> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603093142id_/http%3A//lewishowes.com/your-privacy-is-important) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502200525id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy Is Important
+# Privacy Policy – Lewis Howes
 
-Lewis Howes and www.lewishowes.com are committed to maintaining and protecting the privacy of your personal information. Collectively Lewis Howes and www.lewishowes.com will be referred to as either “we,” “our” or “us.” The following discloses our policy for gathering and disseminating personal information collected by Lewis Howes and www.lewishowes.com. If you have any questions about your rights as a user of our services, you may contact Lewis Howes, Owner at www.lewishowes.com, via [email](http://www.lewishowes.com/contact/).
+This Privacy Policy was last modified on June 17, 2015.
 
-This privacy policy contains information about our commitment to your privacy, including:
+We at 418 Media, LLC are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors while offering a high-quality user experience. By using [www.LewisHowes.com](http://www.lewishowes.com/) (the “Website”), you agree to the terms of this Privacy Policy. We know that you care about how the information you provide to us is used and shared. We have developed this Privacy Policy to inform you of our policies regarding the collection, use, and disclosure of Information we receive from users of the Website. 418 Media, LLC (the “Company”) operates the Website.
 
-  * The information we collect and how we use it;
-  * Your right to access or update your personally identifiable information;
-  * Your right to opt-out of receiving communications from us; and
-  * Our pledge to have reasonable security measures in place to protect against loss, misuse, or alteration of information under our control.
+**Information We Collect**
 
+You can visit our Website, read materials, and browse the Website’s contents without giving us any personally identifiable information. In order to provide you with the most efficient and enhanced personalized service and attention, and to accommodate certain requests which you make, we request information about you in certain circumstances and collect certain information automatically.
 
+We may collect and/or receive the following types of information from you:
 
-Note: This privacy policy applies to (i) personal information collected on [www.lewishowes.com](http://www.lewishowes.com/ "www.lewishowes.com") (the “Site”): and (ii) personal information collected offline or through other sources, unless otherwise noted. This privacy policy does not apply to the collection practices of any other company, including the web sites of other companies, individuals, or organizations to which we may provide links. These web sites may have different polices relating to your privacy and information they collect about you. Visitors should consult other sites’ privacy policies, as we have no control over information that is submitted to, or controlled by, third parties.
+**Information Provided Voluntarily**
 
-A. Information We Collect  
-We may collect two types of information about you when you visit the Site, contact us, place an order, or in any other communication we may have with you: personal information such as, your name, address, telephone number, e-mail address, and credit card number), and, via the Site only, non-personal, aggregate information (such as information regarding the pages on our site you have visited and your IP address).
+**Personal Information**. You may be asked to provide personal information including your name, address, email address and phone number when you sign up for any of our newsletters, respond to a survey, register for a class, or purchase a product or service. Visitors are not required to provide this information. And we do not collect any personal information from Visitors who simply visit the Website, unless they provide such information voluntarily by registering at our Website or signing up for information. This information is collectively called “Personal Information.”
 
-1\. Personally Identifiable Information  
-The only personally identifying information that we collect and store about you is the information that you have chosen to provide to us. For example, if you place an order with us, we may collect your name, mailing address, and credit card information. IN the alternative, if you register on the Site, we may collect your name, store name, your address, store address, e-mail address and other personal information so that we can process your registration. In addition, if you contact us via phone or send us e-mail requesting information about us or otherwise ask us a question, we may collect your name, phone number, address, e-mail address and other personal information so that we can respond to your request or question. We may also from time to time send you e-mail and postal correspondence regarding products and services that we believe may be of interest to you.
+**Order & Billing Information. **If you place an order through our Website, we track certain information about the products and services you purchase. This is called the Order Information. At checkout, you may also be required to provide additional information including a debit or credit card or other payment information, expiration dates, card security codes, your billing address or similar information (collectively called the Billing Information). This information is provided to us, and it will also be collected and processed by third-party payment vendors pursuant to the terms and conditions of their privacy policies and terms of use.
 
-2\. Non-Personally Identifiable Information  
-From the Site, we may collect and use non-personally identifiable information about you in the following ways:
+**Information Collected Automatically.** In addition to the information described above, we may collect other information as follows:
 
-  * Your Internet Protocol (IP) address or the proxy address of your Internet Service Provider (e.g. AOL, CompuServe, Comcast, Time Warner, etc.);
-  * The resource on our server accessed as a result of the request, such as the web page, image, etc.;
-  * The query in the request;
-  * The name and version of your web browser;
-  * The content of any sent or received cookie, as defined below;
-  * The Uniform Resource Locator (“URL”) that was accessed before making the request for our web server.
+**From Your Activity (Log Data).** Information may be collected based on your use of the Website, including, without limitation:
 
+**–** Internet Protocol (“IP”) addresses, which may consist of a static or dynamic IP address and will sometimes point to a specific identifiable computer or device; browser type, version and language; referring and exit pages and URLS; date and time; the pages of our Website that you visit; the time spent on those pages, and other statistics;
 
+**–** Information about your device, device type, universally unique identifiers (“UUID”), advertising identifier (“IDFA”), operating system and version, carrier and country location, hardware and processor information, network type, and similar data.
 
-a. Cookies  
-Some parts of this Site web site may use a “cookie” – a file placed on your computer hard drive allowing our server to log the pages accessed in the Site to determine if you have visited before. This cookie captures no personally identifying information. You may set your browser to warn you when placement of a cookie is requested, and decide whether or not to accept it. Please not that by rejecting a cookie some of the features available on the site may not function properly.
+**From Cookies.** Our website may use cookies in order to deliver a better experience for you. Cookies are files with small amounts of data that a website stores on your computer’s or mobile device’s hard drive so that certain information about your visit and web-browsing preferences will be recognized upon a return visit. Cookies serve functions such as “remembering” log-in names and passwords, or enabling or saving shopping cart contents. Like many websites, we may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to help us improve the experience you have with our Website. Most web browsers have a function that allows you to delete existing cookies on your device or you can set your browser options to that your device does not receive or accept cookies. Doing this may interfere with your ability to use the Website.
 
-b. Referrers, IP Addresses and Environmental Variables  
-We may also collect information through “referrers,” IP addresses and various environmental variables. A “referrer” is information the web browser passes along to the Beehive Books web server that references the URL from which you came. An “IP Address” is a number used by computers on a network to identify your computer so that data can be transmitted to you. An “environmental variable” may include, among other things, the domain from which you access the Internet, the time you accessed the web site, the type of web browser and operating system or platform used, the Internet address or the web site you left to visit the web site, the pages you visit while at the web site and the Internet address of the web site you then visit. We may collect IP address information in order to administer the web site and to gather broad demographic information.
+**Third-Party Analytics.** We use third-party analytics services (such as Google Analytics) to evaluate and aggregate visitor data. These services help us evaluate Visitors’ use of the Website, including time spent on certain pages, which areas of the Website receive the most traffic, how often visitors visit pages within the Website, and also provide general geographic location about visitors, the source of referred traffic (from other websites, vs search engines, etc). These third party analytic services use cookies and other technologies to help analyze and provide us the data. By visiting and using the Website, you consent to the collection and review of data about you by these analytics providers in the manner and for the purposes set out in this Privacy Policy.
 
-B. Sharing Your Information with Third Parties
+For more information on Google Analytics, including how to opt out from certain data collection, please visit <https://www.google.com/analytics>. If you opt out of any service, you may not enjoy the full functionality of the Website.
 
-1\. Disclosure of Information by Us  
-We may share your personally identifiable information with any affiliates, partners, agents or other parties whose products and services may be of interest to you. If you do not want us to share your information in this manner, please see the “CHOICE” section below. We also reserve the right to disclose your personal and non-personal information if we reasonably believe we are required to do so by law; to protect our self or to protect the rights of another user; to reduce the risk of credit or other kind of fraud; or to comply with a court order.
+**From Third Parties.** We may also collect or receive information from third parties, such as Facebook and/or other third-party social media sites.
 
-We may also share your personally and non-personally identifiable information with third parties that help manage our web site, databases, credit card processing companies, and affiliate relationships.
+**Accessing Personal Information and Communication Preferences**
 
-We may share your information with third parties in order to fulfill your request or otherwise complete a service provided to you.
+If you have provided personal, billing or other voluntarily provided information, you may access, review and make changes to it via instructions found on the Website. To manage your receipt of marketing and non-transactional communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any related email from the Company. Emails related to the purchase or delivery of orders are provide automatically – Customers are not able to opt out of transactional emails. We will use commercially reasonable efforts to process any requests related to the management of Personal Information in a timely manner. However, it is not always possible to completely remove or modify information in our subscription databases.
 
-In the unlikely event that all or substantially all of our assets are sold or transferred to another party, your personally identifiable information may be transferred to this acquiring entity.
+**How We Use and Share the Information**
 
-Though we may also from time to time share your personal information with third parties for research and development purposes, we will not sell your personal information to any third parties, other than as specifically disclosed in this policy.
+We use the collected Information to evaluate and administer our Website, fulfill your requests, respond to any problems that may arise, such as difficulties in navigating our Website or accessing certain features, and to gauge user trends. As in any transaction, when you purchase products, services, or programs, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission. We may also access or utilize information collected to provide our services, process orders, administer our programs, maintain and improve our Website and services to you, solicit your feedback, and to inform you about our products and services and those of our third-party marketing partners.
 
-2\. Online Blogs and Forums  
-Our Site also may offer blogs, chatrooms and forums that allow you to post information for other users to read. You may publish information on electronic bulletin boards generally accessible to other Site subscribers. We do not assume any responsibility for the privacy or security of any such communications, and you assume all risks of publishing such information on the system for examination by others, including our employees and persons who gain unauthorized access to the site (“hackers”). Furthermore, any such information published by you will pass through and be stored upon one or more of our servers. We will access the information stored on our server(s) for three purposes: first, to verify that the Site program and system is operating properly; second, to police the content of publications in response to any customer complaints about inappropriate content, and, third, to gather information for statistical purposes. No information published by a user is to be considered an expression of opinion or fact by us. We do not adopt, ratify, guarantee or endorse the contents or accuracy of any such publications. If you believe a communication published through such a forum or blog violates your privacy, you may report the same to us by e-mailing us for investigation or by mail to Lewis Howes, 853 Pearl Alley, Columbus, OH 43215.
+We may also utilize and share Information collected as required to process Customer Orders and provide necessary support. We may share Information collected with joint venture partners, businesses under common control, third-party businesses or partners participating in administering our programs or services, or to those providing business functions such as technical support, customer service, marketing assistance, etc. These businesses will only have access to information as necessary to perform their functions and to the extent permitted by law. We may also analyze Order Information and other information in aggregate in order to improve our business products and services, and operate, maintain and manage the Website. Where necessary, we may share this aggregate data with our affiliates, agents and business partners. We may also disclose aggregated statistics in describing our products and services to current and prospective business partners and to other third parties for other lawful purposes.
 
-C. Third Party Links  
-The Site may contain links to other web sites. Additionally, third party sites may from time to time link to the Site. PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY OTHER SITES. We encourage our users to read the privacy statements of each and every web site that they visit. Our privacy policy applies solely to the Site.
+Under certain circumstances we may be obligated or compelled to disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable to protect the rights, property, or safety of the Company or others.
 
-D. Choice  
-We provide you with the following choices regarding the use of your personal information:
+**Information You Share**
 
-  * You may choose not to provide us with any personal information;
-  * If you are a user of the Site, you may set your browser not to accept cookies, or to warn you when a cookie is being placed on your computer. If you choose not to accept cookies, however, your ability to navigate this web site may be hindered;
-  * If you would like to unsubscribe to any of our services or would like us to remove you from any of our on-line mailing lists, please email us with the subject heading “unsubscribe from Beehive Books information”;
-  * LewisHowes.com staff may access the personal information we have collected about you and correct any inaccuracies by emailing us;
-  * If you do not want us to share your information, please send e-mail.
+When you voluntarily make your Personal Information available online in an environment shared by third parties – for example on message boards or web logs; through email; during webinars, classes, telephone conferences, or coaching calls; or in comment or chat areas – that information can be viewed, saved, collected, heard, and/or used by others outside of the Company. We are not responsible for any unauthorized third-party use of information provided in these contexts. Please be mindful whenever you share any information online.
 
+**Security of Your Information**
 
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we incorporate standard industry practices internally and with our services providers, which we believe suits the degree of sensitivity of the information involved, we cannot guarantee its absolute security. Because we work with third-party businesses and vendors in various aspects of our business including operating this website, database management, website security, etc., we cannot guarantee the absolute security of our databases, nor can we guarantee that the Information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Website may not be secure, and you should therefore take special care in deciding what information you send to us via email.
 
-E. Security  
-We make every effort to have reasonable security measures in place to protect the loss, misuse, or alteration of information under our control, including using Secure Sockets Layer (SSL) technology to collect and transmit your information.
+**Children**
 
-If you have any questions about the security of this web site, please contact Lewis Howes, 853 Pearl Alley, Columbus, OH 43215.
+We are strongly committed to protecting the safety and privacy of children who visit our website. We do not knowingly collect Personal Information from children under the age of 13 through the Website. If you are under 13, please do not give us any Personal Information. We encourage all parents to talk to their children about online safety and to monitor their children’s use of the Internet. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will make best efforts to delete that information from our databases.
 
-F. Notification of Changes  
-If we decide to change our privacy policy, we will post those changes on our privacy policy so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. If at any point we decide to use personally identifiable information in a manner materially different from that stated at the time it was collected, we will notify you by way of e-mail if you provided us your email address or by posting notice on our website if we do not have your email address.You will then have a choice as to whether or not we may use your information in this manner. We will use information in accordance with the privacy policy under which the information was collected.
+**External Websites**
 
-G. Special Policy Regarding Information from Children Under Thirteen Years of Age
+We do not control and are not responsible for the privacy practices or content of third-party websites, including those of affiliates, business partners, sponsors, advertisers, or other websites to which we may link from time to time. When visiting any third-party websites, you are responsible for reviewing the privacy policy and terms of use applicable to each site. They may be different than those that you see here.
 
-We are not targeted to children under the age of 13, and we do not knowingly collect personally identifiable information from any child under the age of 13 without parental consent. When we receive such information, we delete it as soon as we discover it and do not use it or share it with third parties.
+**California Privacy Rights**
 
-Effective March 2009
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with whom the California has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by the Company pursuant to this provision, please contact us via email at support@lewishowes.com.
+
+**Visitors Outside the U.S.**
+
+Our Website and the servers that make this Website available worldwide our located in the United States. The Internet laws in the United States govern all matters relating to this Website. Any information you provide in subscribing to or visiting our Website will be transferred to the United States. By visiting our Website and submitting information, you authorize this transfer, processing, and use.
+
+**  Changes to This Privacy Policy**
+
+The Company may update this Privacy Policy from time to time as necessary to protect our users and to comply with a changing environment. We recommend that you check the Privacy Policy when you visit our Website to be sure that you are aware of and understand our current policy. We have no intentions of making any changes to our Privacy Policy and practices to make them less protective of personal information collected in the past. By accessing the Website and/or using our services after making any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the information. You are advised to review this Privacy Policy periodically for any changes.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us via email at support@lewishowes.com with “Privacy Policy” in the subject line
