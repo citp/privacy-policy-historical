@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2015-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151018231540id_/http%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetrysoup.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502203701id_/http%3A//www.poetrysoup.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - PoetrySoup
 
