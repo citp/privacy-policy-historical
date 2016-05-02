@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaymotorspro.co.uk privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617170258id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaymotorspro.co.uk privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502182122id_/http%3A//pages.ebay.co.uk/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay UK: Help : Topics : Policies and Guidelines : Privacy Policies
 
