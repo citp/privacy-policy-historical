@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atchuup.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229103619id_/http%3A//atchuup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atchuup.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502103819id_/http%3A//atchuup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Atchuup! - Cool Stories Daily
 
