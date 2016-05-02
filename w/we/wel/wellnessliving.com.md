@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034100id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502061054id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - WellnessLiving
 
@@ -86,4 +86,4 @@ WellnessLiving Systems Inc.
 Richmond Hill, ON  
 L4C3B2
 
-Tel: 1-800-580-9232 
+Tel: 1-888-654-7277 
