@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrissyscritiques.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223002515id_/http%3A//chrissyscritiques.com/policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrissyscritiques.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502152335id_/http%3A//chrissyscritiques.com/policy-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chrissy's Critiques
 
