@@ -1,82 +1,167 @@
-> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110012101id_/http%3A//www.smallworldfs.com/small-world/generic/en-gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallworldfs.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502172145id_/http%3A//www.smallworldfs.com/choice/usa/en-us/us-privacy-policy) for the most accurate reproduction.*
 
-# Small World's privacy policy ensures security and confidentiality
+# US Privacy Policy
 
-Effective Date: 01/03/2014 This privacy policy applies to[ www.smallworldfs.com](http://www.smallworldfs.com/) owned and operated by Small World Financial Services Group Limited (“SWFS”, “We”, “Us”, “Our”). This privacy policy describes how Small World Financial Services Group Limited collects and uses the personal data you provide on our website: [www.smallworldfs.com](http://www.smallworldfs.com/). It also describes the choices available to you regarding our use of your personal data and how you can access and update this data.
+​
 
-Pursuant to the Organic Law 15/1999 of December 13th, on the Protection of Data of a Personal Nature (“LOPD, according to its Spanish abbreviation ”), and in the Royal Decree 1720/2007, of December 21st, in which the Regulation for the Development of the Organic Law 15/1999 of December 13th, on the Protection of Data of a Personal Nature was passed (“LOPD, according to its Spanish abbreviation ”), the users are informed about the following: in order to access, subscribe or register in any of the services offered by the Small World Financial Services website, the user may be requested to give some personal data. In this case, providing the data will always be voluntary and with the user’s express consent. This information page will appear for this purpose whenever personal data is required before accessing the corresponding form, which the user must expressly accept by choosing the option "I HAVE READ SMALL WORLD FINANCIAL SERVICES PRIVACY POLICY AND I EXPRESSLY ACCEPT IT".
+Effective Date: 10th December 2015
 
-Small World Financial Services Group Limited has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.smallworldfs.com.](http://www.smallworldfs.com/)  
+This Privacy Policy (the “ **Policy** ”), applies to all subsidiaries owned and operated by Small World Financial Services Group Limited (“SWFS”, “We”, “Us”, “Our”).  Please click this link to access the list of our subsidiaries in the EU*. This Policy describes how we collect and use the Personal Data you provide on our website [www.smallworldfs.com](http://www.smallworldfs.com/), and on our mobile websites and mobile applications.  This Policy also applies for the Personal Data collected offline. The Policy describes the choices available to you regarding our use of your Personal Data and how you can access and update this data.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+Personal Data is data which can identify you, directly or indirectly, either from that data or from that data combined with other information that is in, or likely to come into, our possession, it includes data such as your name, your location or online identifiers, and as further identified in this Policy (“ **Personal Data** ”).  By submitting your Personal Data to us you are accepting and consenting to the practices described in this Policy.
 
-## Information Collection and Use
+## SCOPE OF PRIVACY POLICY
 
-The personal data given voluntarily by users of this website will be included in the automated personal data file, of which SWFS is responsible, and meets all the enforceable safety measures. The collected personal data shall include your first and last name, mobile number and email address. We may also collect sensitive information such as your passport number and driving license. The purpose of this personal data collection is to create a user account, offer a customized and direct service to the user in order to satisfy the services he/she may request. 
+This Policy applies to Personal Data collected by us in connection with services we offer.  This Policy applies to Personal Data we may collect via electronic channels and in hard copies (for example letters you post to us).
 
-## Information Sharing
+Our website may contain links to and from the websites of our partner networks, advertisers and affiliates (for example Google, Twitter).  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any Personal Data to these websites.
 
-The data included in the file will only and exclusively be used by SWFS and will not be shared, rented or sold to third parties under any circumstances. We may provide your personal data to companies that provide services to help us with our business activities such as processing your order or offering customer service. These companies are authorized to use your personal data only as necessary to provide these services to us. We may also disclose your personal data:
+Our website is not directed at minors (those under the age of 18 years) and minors are not eligible to use our services.  We ask that minors refrain from using our service or submitting any Personal Data to us.
 
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if SWFS is involved in a merger, acquisition, or sale of all or a portion of its assets,  you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data,
-  * to any other third party with your prior consent to do so
+## DATA WE COLLECT ABOUT YOU
+
+We collect Personal Data which you disclosure to us via online and offline means:
+
+We collect your Personal Data and Personal Data of your beneficiaries when you create money transfer account with us by completing online forms.  Personal Data we collect about you may include: name, surname, home address, email address, date of birth, mobile number, email address, credit and payment history, financial information, such as bank account numbers and credit/debit card numbers, and other Personal Data, including government identification numbers such as a driver’s license, state identification, passport, visa, Social Security and tax identification number, which may be required to complete the transaction.
+
+We do not knowingly collect and process sensitive Personal Data such as Personal Data revealing racial or ethnic origin, political opinion, religious philosophical beliefs, trade union membership and data concerning health and sexual preference.
+
+## Technical data
+
+We may collect technical information about your visit such as Internet Protocol Address (IP); clickstreams to, through and from our website (including date and time); products you viewed or searched for; page response times, download errors; length of visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs); your login information, browser type and version; time zone setting; browser plug-in types and versions; operating system and platform and etc.
+
+## Third-party sources
+
+·         We may lawfully obtain information about you from other sources, including but not limited to: computer systems and mobile devices; and third-party sources, such as government agencies, identity verification services, electronic database services and consumer credit reporting agencies.
+
+## PURPOSES WE USE YOUR DATA
+
+Personal Data held about you will be used for our core business and our marketing purposes, including joint marketing with other financial companies, such as follows:
+
+to facilitate your monetary transaction;
+
+to respond to any queries or provide you with information, products or services that you request;
+
+·         to prevent or detect fraud, including fraudulent transactions, or abuses of our website;
+
+·         to ensure that content from our website is presented in the most effective manner for you and for your device;
+
+to administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+
+as part of our efforts to keep our website safe and secure;
+
+to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+
+to manage our account and records;
+
+to conduct research and analysis; and
+
+to comply with court orders and applicable laws and regulations such as those relating to “know-your-customer,” and anti-money laundering requirements.
+
+We will retain your information for as long as required to provide the services and as necessary to comply with our legal obligations and to enforce our agreements.
+
+## INFORMATION SHARING
+
+We may share your Personal Data about your transactions and experiences with our affiliates for their everyday business purposes.  We may provide your Personal Data to trusted third parties who help us with our business activities such as processing your monetary transaction or offering customer service. These companies are authorized to use your Personal Data only as necessary to provide these services to us. We may also disclose your Personal Data:
+
+in the event of a  merger, acquisition, or sale of all or a portion of its assets, we will share your Personal Data with our successor; 
+
+with analytics and search engine providers that assist us in the improvement and optimisation of our website;
+
+to any other third party with your prior consent to do so; and
+
+if we are under a duty to disclose or share your Personal Data in order to comply with any legal obligation, or in order to enforce or apply our Website Terms of Use and other agreements; or to protect the rights, property, or protect our safety, our members, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+## YOUR RIGHTS
+
+## Data protection law gives rights to individuals in respect of the Personal Data that organisations collect and hold about them: for example you have the right to ask us not to share your Personal Data (a) with our affiliates and non-affiliates to market to you, and (b) with our affiliates for their everyday business purposes concerning your creditworthiness. If your Personal Data changes or if you no longer desire our service, you may exercise your rights to access, correct, modify, delete or cancel your account, by making the change on the member information page or by e-mail to the following address: [info@smallworldfs.com](mailto:info@smallworldfs.com?subject=Contact%20email). You may also call us on our customer service number at 877-268-1900.
+
+Receiving emails from us is part of our service. You will only receive service related email from us in order for us to manage and administer your account.
+
+Because we have chosen to refrain from certain types of data sharing, such as providing your Personal Data (a) for our affiliates and non-affiliates to market to you, and (b) for our affiliates for everyday business concerning your creditworthiness, the only type of sharing of your Personal Data that you may restrict is as follows:
+
+  * You may opt-out from promotional emails to you by accessing your email preferences or selecting the “Unsubscribe” function present in each email we send you.
 
 
 
-## User Access and Choice
+State laws may give you additional rights to limit sharing of Personal Data.  See the STATE PRIVACY LAW section below for more regarding your rights under state laws.
 
-If the user’s personal data changes or if you no longer desire our service, the user may exercise his/her rights to access, correct, modify, delete or cancel his/her account, by making the change on the member information page or by e-mail to the following address:[ ](mailto:%20info@smallworldfs.com?subject=Contact%20email)[info@smallworldfs.com](mailto:info@smallworldfs.com?subject=Contact%20email). You may also call us on our customer service number at +44 800 019 5030. We will respond to your request to access within 30 days.
+## TRANSFER OF YOUR PERSONAL DATA
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We are a global company; your Personal Data may be transferred outside of the country in which you live. All international transfers of Personal Data are done in accordance with applicable data protection laws for the purposes set out in this Policy.
 
-Receiving emails from us is part of our service. You will only receive service related email from us in order for us to manage and administer your account. You do not have an option to opt out of these emails. We have no intentions in sending you marketing or any promotional emails.
+## SECURITY
 
-## Cookies / Tracking Technologies
+We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Policy.  We implement technical and organisation measures to protect your Personal Data and follow data retention practises in line with applicable law.  These measures can include physical, electronic and procedural safeguards.  We also limit access to your Personal Data to only employees, agents and representatives who need to know.  We have put in place SSL (Secure Socket Layer) encryption technology to protect your sensitive information such as bank account number, credit card number, date of birth and Social Security Number, transmitted through our website. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
 
-In order to improve the service and bring it into line with the preferences of the user, SWFS's website uses cookies in the navigation of its portal. Cookies are information about the user that web servers install on the user's hard disk so that it can be remembered subsequently. However, these cookies are only associated with an anonymous user and his computer, and do not permit the user's personal identification. We use persistent cookies on our website. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once if you so choose]. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file .The user can choose to configure his browser in such a way that he is notified when cookies are received and the cookies are not installed on the hard disk, although this may entail a reduction in the quality of the web page's functioning.
+## LINKS TO THIRD PARTY SITES
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users’ movements around the website and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personal data.
+Our website includes links to other sites whose privacy practices may differ from those of SWFS. If you submit Personal Data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use both session ID cookies and persistent cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc.]
-
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personal data.
-
-## Security
-
-The security of your personal data is important to us. We follow generally accepted standards to protect the personal data submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-## Links to 3rd Party Sites
-
-Our website includes links to other sites whose privacy practices may differ from those of SWFS. If you submit personal data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any site you visit.
-
-## Testimonials
+## TESTIMONIALS
 
 We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [info@smallworldfs.com](mailto:info@smallworldfs.com?subject=Contact%20email).
 
-## Referrals
+## REFERRALS
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. SWFS stores  this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@smallworldfs.com](mailto:info@smallworldfs.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. SWFS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [info@smallworldfs.com](mailto:info@smallworldfs.com) to request that we remove this information from our database.
 
-## Collection and Use of 3rd Party Personal Data
+## COLLECTION AND USE OF THIRD PARTY PERSONAL DATA
 
-You may also provide personal data about other people, such as their name, email address, beneficiary account number and mobile number. This information is only used for the sole purpose of adding a new beneficiary to send money to.
+You may also provide Personal Data about other people, such as their name, email address, beneficiary account number and mobile number. This information is only used for the sole purpose of adding a new beneficiary to send money to.
 
-## Social Media Widgets
+## SOCIAL MEDIA WIDGETS
 
-Our website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our website. These Features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our website. Your interactions with these Features are governed by the privacy policy of the company providing it. Please refer to our Cookie Policy to obtain more information about cookies we use.
 
-## Changes To This Policy
+## STATE PRIVACY LAWS
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We will comply with state privacy laws to the extent they apply to our services.
 
-## Contact Us
+United States, California residents: In accordance with California law, we will not share information we collect about you with companies outside of SWFS except as required or permitted by law. For example, we may share information to service your accounts, complete requested transactions, or to provide rewards or benefits to which you are entitled.
 
-If you have questions or concerns about this privacy policy, please contact us through the information below:
+United States, Nevada residents: This notice is provided to you pursuant to state law. Nevada state privacy laws permit us to make marketing calls to existing customers, but if you prefer not to receive marketing calls, you may be placed on our internal opt-out list by contacting us at [info@smallworldfs.com](mailto:info@smallworldfs.com) or you may also contact the Nevada Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Ste 3900, Las Vegas, NV 89101; telephone 702-486-3132; email: BCPINFO@ag.state.nv.us.
+
+United States, Texas residents: If you have a complaint, first contact us at [info@smallworldfs.com](mailto:info@smallworldfs.com).  If you still have an unresolved complaint regarding the company’s money transmission or currency exchange activity, please direct your complaint to the Texas Department of Banking: 2601 North Lamar Boulevard, Austin, TX 78705-4294; 1-877-276-5554 (toll free); www.dob.texas.gov.
+
+United States, Vermont residents: In accordance with Vermont law, we will not share information we collect about you with companies outside of SWFS except as required or permitted by law. For example, we may share information to service your accounts, complete requested transactions, or to provide rewards or benefits to which you are entitled.
+
+## CHANGES TO THIS POLICY
+
+Any changes we may make to Policy in the future will be posted on this page, and where appropriate notified to you by email.  We encourage you to periodically review this page for the latest information on our privacy practices.
+
+## CONTACT US
+
+If you have questions or concerns about this Policy, please contact us by email:
+
+[info@smallworldfs.com](mailto:info@smallworldfs.com)
+
+Or sending us a letter:
 
 Small World Financial Services Group Limited Units 3 & 4 Sycamore Court Royal Oak Yard  
 168-170 Bermondsey Street London SE1 3TQ  
 England
 
-Email Address: [info@smallworldfs.com](mailto:info@smallworldfs.com) 
+Or you may also call us on our customer service number at 877-268-1900.
+
+*Belgium - LCC Trans - Envoi SPRL
+
+  Bulgaria - Choice Bulgaria Limited
+
+  Portugal - LCC Transferencia De Dinheiro, Unipessoal LDA
+
+  Spain - Small World Exchange Services, Spain SLU
+
+  Spain - Small World Financial Services Spain, SAU
+
+  Sweden - Small World Financial Services Sweden AB
+
+  Switzerland Swiss Transfers GmbH
+
+  Norway - Small World Financial Services Norway AS
+
+  United Kingdom - Small World Card Services Limited (UK)
+
+  United Kingdom - LCC Trans-Sending Holdings Limited
+
+  United Kingdom - LCC Trans-Sending Limited (UK)
