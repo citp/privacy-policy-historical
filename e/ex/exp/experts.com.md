@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209035518id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503015817id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=360)
+[](https://web.archive.org/Resources/Detail?ID=212)
 
-[](https://web.archive.org/Resources/Detail?ID=632)
+[](https://web.archive.org/Resources/Detail?ID=547)
 
-Vivian Begali, PsyD
+Joye M. Carter, MD
 
-[](https://web.archive.org/Resources/Detail?ID=326)
+[](https://web.archive.org/Resources/Detail?ID=498)
 
-Guy H. Haskell, PhD, JD, NREMT-P, Robert C. Allen
+Ray Turner, EdD
 
 ### Our Commitment To Privacy
 
