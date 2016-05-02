@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdoodle.co.uk privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203173950id_/http%3A//www.dealdoodle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdoodle.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503012715id_/http%3A//www.dealdoodle.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DealDoodle UK
 
