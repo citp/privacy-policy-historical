@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balmerlawrie.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231133349id_/http%3A//balmerlawrie.com/pages/viewpages/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balmerlawrie.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502091958id_/http%3A//balmerlawrie.com/pages/viewpages/35) for the most accurate reproduction.*
 
 # Privacy Policy of Balmer Lawrie
 
