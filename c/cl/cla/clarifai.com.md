@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025114255id_/http%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarifai.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502073349id_/http%3A//www.clarifai.com/privacy) for the most accurate reproduction.*
 
 # Clarifai: Privacy Policy
 
