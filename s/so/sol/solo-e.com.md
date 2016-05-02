@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904122623id_/http%3A//www.solo-e.com/mainfiles/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-e.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502043257id_/http%3A//www.solo-e.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ This privacy policy covers the site www.Solo-E.com and addresses:
 
 
 
-If users have questions or concerns regarding this privacy policy, please [contact us](https://web.archive.org/web/20150904122623id_/http://contact). 
+If users have questions or concerns regarding this privacy policy, please [contact us](https://web.archive.org/web/20160502043257id_/http://www.solo-e.com/contact). 
 
 Solo-Entrepreneur.com respects each individual’s right to personal privacy. We collect and use information through our  
 Web site only in the ways disclosed in this policy statement.
@@ -51,11 +51,11 @@ Like most standard Web site servers, we use log files. This includes internet pr
 
 * * *
 
-When you subscribe to our newsletter you are giving us permission to send you commercial email, including promotional material from third parties. You may [unsubscribe](https://web.archive.org/web/20150904122623id_/http://newsletter) at any time. (If you are not receiving the emails you requested from Solo-E.com, please visit our FAQs for possible solutions.) 
+When you subscribe to our newsletter you are giving us permission to send you commercial email, including promotional material from third parties. You may [unsubscribe](https://web.archive.org/web/20160502043257id_/http://www.solo-e.com/newsletter) at any time. (If you are not receiving the emails you requested from Solo-E.com, please visit our FAQs for possible solutions.) 
 
 Solo-E does NOT share email addresses or any personally identifiable information including site usage information with third party advertisers.
 
-Users who no longer wish to receive our announcements may opt-out of receiving these communications by clicking the unsubscribe link present in every email communication we send or visiting our [Newsletter Management link](https://web.archive.org/web/20150904122623id_/http://newsletter).
+Users who no longer wish to receive our announcements may opt-out of receiving these communications by clicking the unsubscribe link present in every email communication we send or visiting our [Newsletter Management link](https://web.archive.org/web/20160502043257id_/http://www.solo-e.com/newsletter).
 
 * * *
 
@@ -77,4 +77,4 @@ If users have any questions about the security at our Web site, users can send a
 [abuse@solo-e.com](mailto:abuse@solo-e.com)  
 .
 
-If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20150904122623id_/http://contact).
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/web/20160502043257id_/http://www.solo-e.com/contact).
