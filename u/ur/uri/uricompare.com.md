@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uricompare.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627183826id_/http%3A//uricompare.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uricompare.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502104236id_/http%3A//www.uricmpr.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
