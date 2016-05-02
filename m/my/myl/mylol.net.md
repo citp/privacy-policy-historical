@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504050221id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502020441id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
 # Teen Dating - MyLOL - Teen APP
 
-**This web site is owned and managed by Mylol.**
+Privacy Policy
 
-  
+ **This web site is owned and managed by Mylol.**
+
 To reach us via e-mail, you can email support@mylol.com 
 
 This privacy policy sets out how Mylol.net uses and protects any information that you give Mylol when you use this website.
@@ -70,6 +71,8 @@ Personal information collected may be transferred and shared in the event of a s
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@mylol.com](mailto:support@mylol.com) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ support@mylol.com](mailto:support@mylol.com). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
+
+
 
 We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
