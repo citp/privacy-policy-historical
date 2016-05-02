@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the d-papa.com privacy policy that was archived on 2014-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141003180754id_/http%3A//d-papa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d-papa.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502223125id_/http%3A//d-papa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Privacy Policy for d-papa.com_**
+It's only fair to share...  
+0000
+
+ ** _Privacy Policy for d-papa.com_**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **dpapa[at]d-papa.com**
 
@@ -33,3 +36,6 @@ You should consult the respective privacy policies of these third-party ad serve
 You can opt out of all communication with **  _d-papa.com_** simply by leaving this page.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+It's only fair to share...  
+0000
