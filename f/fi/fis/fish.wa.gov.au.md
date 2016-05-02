@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fish.wa.gov.au privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101164346id_/http%3A//www.fish.wa.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish.wa.gov.au privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502180626id_/http%3A//fish.wa.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
