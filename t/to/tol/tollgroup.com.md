@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tollgroup.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108114057id_/http%3A//www.tollgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tollgroup.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502055150id_/http%3A//www.tollgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toll Group - Providing Global Logistics
 
