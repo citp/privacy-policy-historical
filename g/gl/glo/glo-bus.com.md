@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glo-bus.com privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101065938id_/http%3A//www.glo-bus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glo-bus.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502101203id_/http%3A//www.glo-bus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Global Business Strategy Simulation Game
 
