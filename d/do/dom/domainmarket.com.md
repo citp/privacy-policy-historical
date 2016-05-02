@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127025329id_/https%3A//www.domainmarket.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmarket.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503012922id_/http%3A//www.domainmarket.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Domain Name Privacy Policy & Protection Information | DomainMarket.com
 
