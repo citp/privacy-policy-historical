@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053725id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502213345id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Terms and Conditions: Privacy Policy - Freddie Mac
 
 Freddie Mac is a government-sponsored enterprise chartered by Congress to provide a continuous flow of funds for residential mortgages. We achieve our public purpose by purchasing, securitizing, and investing in home mortgages, in effect acting as a conduit between the residential mortgage market and the investment community. We may receive personal information about you in the ordinary course of carrying out our business. We are committed to protecting the privacy of this information.
 
 This policy describes the types of personally identifiable information we receive and maintain in the ordinary course of business (Covered Information) and what we do with that information. This policy also describes how we safeguard that information. Freddie Mac may provide links to third-party websites which have differing privacy and security practices. The policy does not apply to information that may be collected by third parties through websites that link to or from this website.
-
-We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the update will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
 Our website is not directed to individuals under the age of 13. We do not knowingly collect any information from children under the age of 13. If we become aware that information is or has been submitted by or collected from a child under the age of 13, we will delete that information.
 
@@ -54,7 +52,7 @@ Freddie Mac has administrative, technical and physical safeguards to protect the
 
 
 
-We restrict access to Covered Information to those who need to know the information for our business purposes. We destroy, erase, or make unreadable such information prior to disposal as required by applicable law. Our policies and our agreements with third parties require appropriate security and confidentiality standards to protect the confidentiality of Covered Information (including Website Visitor Information) and prohibit its unlawful disclosure.
+We restrict access to Covered Information to those who need to know the information for our business purposes. We destroy, erase, or make unreadable such information prior to disposal as required by applicable law. Our policies and our agreements with third parties require appropriate security and confidentiality standards to protect the confidentiality of Covered Information (including Website Visitor Information) and prohibit its unlawful disclosure. 
 
 We strive to maintain a high standard of security and privacy. However, no information can be guaranteed to be completely secure, and we make no such warranty or guarantee. In addition, we do not commit to protecting publicly available or non-confidential information except as may be required by applicable law or regulation.
 
@@ -62,16 +60,14 @@ We strive to maintain a high standard of security and privacy. However, no infor
 
 In connection with the federal _Making Home Affordable_ program, Freddie Mac provides a web form and related self-service tool on Freddiemac.com that enables individual borrowers to determine whether or not Freddie Mac owns their mortgage (the "Look-up Tool"). In order for Freddie Mac to be able to respond to those inquiries, individuals are asked to provide information that includes the last four digits of their Social Security Number, first name, last name, property-related information and contact information. 
 
-Freddie Mac uses and discloses the information (excluding Social Security Number) collected via the Look-up Tool only (i) to respond to the individual's inquiry, (ii) to provide services and fulfill Freddie Mac's obligations under the federal _Making Home Affordable_ program and similar programs, and (iii) in connection with other loss mitigation activities. All information that you enter into the Look-up Tool is transmitted from the Look-up Tool to Freddie Mac via an encrypted communication channel.
+Freddie Mac uses and discloses the information (excluding Social Security Number) collected via the Look-up Tool only (i) to respond to the individual's inquiry, (ii) to provide services and fulfill Freddie Mac's obligations under the federal _Making Home Affordable_ program and similar programs, and (iii) in connection with other loss mitigation activities. All information that you enter into the Look-up Tool is transmitted from the Look-up Tool to Freddie Mac via an encrypted communication channel. 
 
 We do not store, use or distribute the last four digits of your Social Security Number collected via the Look-up Tool for any purpose other than to respond to the inquiry.
 
 ## How to Reach Us
 
+We reserve the right to change this policy in the future. Any changes to this policy will be posted on this section of the website. When this policy is updated, the date of the 'Last updated' will appear at the bottom of this page. In addition, a copy of this policy is available upon request by writing to Freddie Mac, Chief Privacy Officer, 8200 Jones Branch Drive, Mailstop 434, McLean, Virginia 22102-3110 or by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
+
 If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_mailbox@freddiemac.com](mailto:privacy_mailbox@freddiemac.com).
 
-Last updated: September 8th, 2014
-
- 
-
-Print This Page
+Last updated: December 9, 2015
