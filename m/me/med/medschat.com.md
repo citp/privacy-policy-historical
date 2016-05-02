@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2015-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151009120408id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502160445id_/http%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat
 
@@ -11,9 +11,8 @@ Our site MedsChat.com ("MedsChat") operates an online community for our users to
 MedsChat.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website, medschat.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
 MedsChat.com  
-The People's Medicine Community  
-3835R E. Thousand Oaks Blvd. # 175  
-Westlake Village, CA 91362
+340 S Lemon Ave # 1443  
+Walnut, CA 91789
 
 Google+: [https://gp.medschat.com](https://gp.medschat.com/)  
 Facebook: [https://fb.medschat.com](https://fb.medschat.com/)  
