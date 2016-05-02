@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122072809id_/http%3A//ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ministryofsupply.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502120126id_/https%3A//www.ministryofsupply.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# MINISTRY OF SUPPLY — Privacy Policy
+# Privacy Policy
 
 Thank you for visiting our Website www.ministryofsupply.com (the “Site”). The Site is operated by Ministry of Supply (collectively, “Ministry of Supply,” “we,” or “us”). Ministry of Supply is serious about protecting your privacy. We understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This policy (this “Privacy Policy”) describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it. This Privacy Policy is incorporated into and is a part of the ministryofsupply.com Terms of Use. By accessing and using the Site, you agree that you have read and understand this Privacy Policy, and you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
 
