@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetinfluences.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217135512id_/http%3A//www.internetinfluences.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetinfluences.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502225928id_/http%3A//www.internetinfluences.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Influences
 
