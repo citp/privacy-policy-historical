@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcincome.com privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030104859id_/http%3A//dcincome.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcincome.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502170122id_/http%3A//dcincome.com/privacypolicy.html) for the most accurate reproduction.*
 
 # DCincome.com Privacy Policy
 
