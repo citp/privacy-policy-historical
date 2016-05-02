@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the componentbuy.com privacy policy that was archived on 2015-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151007232335id_/http%3A//www.componentbuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentbuy.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502213908id_/http%3A//componentbuy.com/privacy-policy) for the most accurate reproduction.*
 
 # Component Buy
 
