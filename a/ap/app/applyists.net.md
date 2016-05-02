@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applyists.net privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006094126id_/https%3A//www.applyists.net/Account/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applyists.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502090659id_/https%3A//aim.applyists.net/Account/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
