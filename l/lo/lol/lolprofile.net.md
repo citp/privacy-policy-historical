@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117111030id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolprofile.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502110559id_/http%3A//lolprofile.net/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LoLProfile
 
