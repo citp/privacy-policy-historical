@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredboy.com privacy policy that was archived on 2015-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151003084458id_/http%3A//inspiredboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredboy.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502102215id_/http%3A//inspiredboy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Inspired Boy
 
