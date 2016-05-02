@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026143251id_/http%3A//baja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baja.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502164540id_/http%3A//baja.com/privacy-policy) for the most accurate reproduction.*
 
 # Baja.com Privacy Policy - Baja.com
 
