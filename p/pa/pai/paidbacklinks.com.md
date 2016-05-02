@@ -1,17 +1,84 @@
-> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221343id_/http%3A//www.paidbacklinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502022313id_/http%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
 
-# PaidBacklinks.com, Get Backlinks, One Way Text Links, Build Backlinks Fast
+# Privacy Policy - The HOTH
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
+  * **What information do we collect?**
 
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+We collect information from you when you place an order, respond to a survey, visit our website or opt-in.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+To improve our website
+
+> We continually strive to improve our website offerings based on the information and feedback we receive from you.
+
+To improve customer service
+
+> Your information helps us to more effectively respond to your customer service requests and support needs.
+
+To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+To send periodic emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+We use cookies to help us remember and process the items in your shopping cart, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.thehoth.com
+
+The HOTH  
+1907 Gulf Way #1  
+St. Pete Beach, Fl. 33706
+
+support@thehoth.com
+
+This Agreement is governed by and shall be construed in accordance with the laws of the United States of America, in the state of Nevada. The parties submit all their disputes arising out of or in connection with this Agreement to the exclusive jurisdiction of the Courts of Nevada.
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
