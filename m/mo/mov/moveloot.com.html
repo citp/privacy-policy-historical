@@ -1,16 +1,24 @@
-<!--The following is the downloaded HTML source of the moveloot.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910093703id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moveloot.com privacy policy that was archived on 2016-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160503014710id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
+<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"497d706d62","applicationID":"4765126","transactionName":"cFlbFkRdVFxXExZKQ1JCXAEZQkpZRABaQGhDWVkLVUs=","queueTime":0,"applicationTime":61,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIAVl5aGwcHUlRTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<script src="//cdn.optimizely.com/js/3763891021.js"></script>
 <title>Move Loot</title>
-<meta content="Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup, storage and delivery." name="description">
+<script type="text/javascript">
+    var reset_referrer = false;
+</script>
+<meta content="Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup and delivery." name="description">
+<meta content="buy furniture, sell furniture, used furniture, online furniture, move loot" name="keywords">
 <meta content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
-<link data-turbolinks-track="false" href="/assets/application-cab93ccbb05c1936e8f4d61e415da07c.css" media="all" rel="stylesheet">
+<link data-turbolinks-track="false" href="/assets/application-94baad7cf8b609b8c630de3931b99599.css" media="all" rel="stylesheet">
 <script data-turbolinks-track="false" src="//js.honeybadger.io/v0.2/honeybadger.min.js"></script>
-<script data-turbolinks-track="false" src="/assets/application-12820b4772fc1ff2e5d0eed706dd3abb.js"></script>
+<script data-turbolinks-track="false" src="/assets/application-06cf4e8a0203869e9141a9b7eed8efb3.js"></script>
 <script data-turbolinks-track="false" src="https://js.braintreegateway.com/v2/braintree.js"></script>
-<link href="/assets/favicon-8755b3120ef54754b07c9804832a01eb.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link href="/assets/mobile-ml-icon-a9f1045ae77269f34fd67698df22b548.png" rel="apple-touch-icon" type="image/png">
+<script src="//my.hellobar.com/5cccd23f41dde31b7b380a4e523afcda0e73f256.js?id=3c6215ce5bae56c4e19b8f00e42573d8817ccc0e6f512efc6b48b87712403b84"></script>
+<link href="/assets/favicon-1ac88c716693be645d9ec58c4581129e.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/assets/mobile-ml-icon-286542f90aa50a05ef5a572178020016.png" rel="apple-touch-icon" type="image/png">
 <link rel="apple-touch-icon" href="/custom_icon.png">
 <meta content="86042db404eabf78b79683908fe4d502" name="p:domain_verify">
 <meta content="5iZ9cAy-RDKVrm5RN9Dhe-QjfkarIvP3Z7BUjiZDes4" name="google-site-verification">
@@ -21,12 +29,12 @@
 
 <meta content="Move Loot" property="og:title">
 <meta content="website" property="og:type">
-<meta content="https://www.moveloot.com/assets/logo/logo_fb_aspect-d75b447c1fa5b7afa22a5d541303228c.png" property="og:image">
-<meta content="Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup, storage and delivery." property="og:description">
+<meta content="https://www.moveloot.com/assets/logo/logo_fb_aspect-837e4ea7a44c3907549067108c58600d.png" property="og:image">
+<meta content="Move Loot is the easiest way to buy and sell furniture online. List furniture on our marketplace or browse for pieces in your area and enjoy a hassle-free experience, inclusive of pickup and delivery." property="og:description">
 <meta content="603599019681614" property="fb:app_id">
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w=" name="csrf-token">
+<meta content="Px2afZDYFtt97Qn1N/4Jtqm+zQwANZHiPxNVSOdo3gA=" name="csrf-token">
     <script type="text/javascript">
         adroll_adv_id = "OSH3ZVYUDZCORGPFKYDRZ6";
         adroll_pix_id = "TD2MM3EZAFGC3FCZP7Q5TP";
@@ -46,7 +54,7 @@
     </script>
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="static-controller privacy_policy-action" data-action="static#privacy_policy" style="background-image: url(/assets/sf_skyline_background-1e56fa084c79c25b0f0e72e57c50d0fa.png)">
+<body class="static-controller privacy_policy-action" data-action="static#privacy_policy" style="background-image: url(/assets/sf_skyline_background-609a6e1ab63691268a4fc9e5964105e4.png)">
 <div id="fb-root"></div>
 <div id="turbolinks-toggle">
 
@@ -60,8 +68,7 @@
 
 
 
-
-        window.analytics.page(page_params);
+        mlAnalyticsPage(page_params);
 // sends "page view" to segment
 
 
@@ -71,12 +78,12 @@
     page_params['hash'] = window.location.hash;
     page_params['params'] = window.location.search;
     page_params['userAgent'] = navigator.userAgent;
-    page_params['request_referrer'] = 'https://www.moveloot.com/sf';
+    page_params['request_referrer'] = 'https://www.moveloot.com/clt?service_area=se';
     page_params['request_method'] = 'GET';
     page_params['request_domain'] = 'moveloot.com';
     page_params['request_subdomain'] = 'www';
-    page_params['ip_address'] = '199.27.133.102';
-    page_params['analytics_id'] = '779ed983-e87f-420f-a3ab-d5c1870f3f47';
+    page_params['ip_address'] = '199.27.128.137';
+    page_params['analytics_id'] = '1550ff67-5591-4955-a9a5-6e08bad1df49';
     page_params['region_id'] = 1
     page_params['service_area_id']= 1
 
@@ -93,42 +100,36 @@
 
 
 
-<div class="container hidden-sm hidden-xs">
-<div class="active" id="sell-furniture-sticky">
-<div class="large" id="sell-furniture-text">
-<a class="sticky-sell btn btn-primary" href="/sell">SELL FURNITURE</a>
-</div>
-</div>
-</div>
+<!-- -unless controller.controller_name == "submissions" -->
+<!-- .container.hidden-sm.hidden-xs -->
+<!-- #sell-furniture-sticky.active -->
+<!-- #sell-furniture-text.large -->
+<!-- =link_to 'SELL FURNITURE', sell_path, :class => 'sticky-sell btn btn-primary' -->
+<div class="hidden-sm hidden-xs" id="top-navbar-placeholder"></div>
 <div class="hidden-sm hidden-xs" id="top-navbar">
 <div id="top-navbar-container">
-<div id="top-navbar-info">
-<div class="active rotating-display">
-<div class="display-option delivery" data-type="Delivery">
-<a class="unstyled" href="/shop">Free delivery over $99</a>
-</div>
-<div class="display-option delivery-sell" data-type="Delivery_sell">
-<a class="unstyled" href="/sell">Sit back, relax, and we sell for you</a>
-</div>
-<div class="display-option sell" data-type="Sell">
-<a class="unstyled" href="/sell">Sell Your Furniture and Get Paid</a>
-</div>
-</div>
-
-</div>
 <div id="top-navbar-logo">
-<a href="/" id="main-logo-link"><img alt="Movelootweblogo" id="main-logo" src="/assets/MoveLootWebLogo-62503fd197db98e08112f3dd0cec954c.png"></a>
-<div id="service-area-switcher">
-<a class="unstyled" data-show-service-area-modal="#service-area-switch-modal" href="#">SF BAY AREA
-<b class="caret"></b>
+<a class="pull-left" href="/" id="main-logo-link"><img alt="Newmovelootlogo" id="main-logo" src="/assets/NewMovelootLogo-4a2978011e5579a3dc21c0b47f53634b.svg"></a>
+</div>
+<div id="postal-code-switcher">
+<a class="unstyled pull-left position switcher postal-code-switcher" href="#">San Francisco, CA
+<div class="fa fa-caret-right"></div>
 </a></div>
+<div id="top-navbar-search">
+<div class="normal-search">
+<form accept-charset="UTF-8" action="/shop" class="search-products-form" data-analytics_location="header" id="search-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<input class="search-input" id="desktop-q" name="q" placeholder="SEARCH" type="text">
+</form>
 
+<div class="lens-icon-red ml-icon"></div>
+</div>
 </div>
 <div id="top-navbar-account-cart">
-<a class="unstyled right-divider" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up
+<a class="unstyled action-menu" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up
 </a>
 <div class="dropdown" id="cart-dropdown">
-<a class="btn dropdown-toggle" href="/orders/new">
+<div class="left-divider"></div>
+<a class="btn dropdown-toggle" href="/my_cart">
 <span class="cart-icon">
 <i class="ml-icon empty-cart"></i>
 <div class="number_of_items">0</div>
@@ -139,6 +140,12 @@
 <div class="dropdown-tab-inner"></div>
 </div>
 <div class="cart-menu dropdown-menu dropdown-menu-right">
+<div class="cart-controls visible-xs visible-sm">
+<a class="unstyled" data-toggle-body-class="cart-open" data-toggle-sidebar="#top-navbar-mobile-cart" href="#">
+<img alt="Close grey mobile" class="close-menu" src="/assets/icons/close_grey_mobile-2545228a2a6b43193f3d93a521e56077.svg">
+</a>
+</div>
+<div class="cart-content">
 <h3>
 Your Cart
 </h3>
@@ -146,7 +153,7 @@ Your Cart
 <tbody>
 <tr class="subtotal">
 <td class="text">
-<b>SUBTOTAL</b>
+<b>Item Subtotal</b>
 </td>
 <td class="value">
 <b>$0.00</b>
@@ -156,15 +163,12 @@ Your Cart
 </tr>
 </tbody>
 </table>
-<p class="free_delivery">
-$100.00 left until
-<span class="green">free delivery</span>
-</p>
 <div class="hidden-xs hidden-sm hidden-print">
-<a class="btn btn-main checkout-button" href="/orders/new">Check Out</a>
+<a class="btn btn-main checkout-button" href="/my_cart">Check Out</a>
 </div>
 <div class="visible-xs visible-sm hidden-print">
-<a class="btn btn-main checkout-button" href="/orders/new" style="background: none">Check Out</a>
+<a class="btn btn-main checkout-button" href="/my_cart" style="background: none">Check Out</a>
+</div>
 </div>
 
 </div>
@@ -176,80 +180,72 @@ $100.00 left until
 
 <div class="visible-sm visible-xs hidden-print" id="top-navbar-mobile">
 <div class="mobile-menu-link">
-<a class="unstyled" data-toggle-body-class="menu-open" data-toggle-sidebar="#top-navbar-mobile-menu" href="#"></a>
+<a class="unstyled" data-toggle-body-class="menu-open" data-toggle-sidebar="#top-navbar-mobile-menu" href="#">
+<img alt="Hamburger grey mobile" class="menu" src="/assets/icons/hamburger_grey_mobile-c275bab5160d3509567d14a7cf4ce202.svg">
+<img alt="Close grey mobile" class="close-menu" src="/assets/icons/close_grey_mobile-2545228a2a6b43193f3d93a521e56077.svg">
+</a>
 </div>
-<div id="mobile-logo" style="margin-top: 16px">
+<div id="mobile-logo">
 <a class="unstyled" href="/">
 <i class="ml-icon plain-logo"></i>
 </a>
 </div>
 <div class="mobile-cart-link">
 <a class="unstyled" data-toggle-body-class="cart-open" data-toggle-sidebar="#top-navbar-mobile-cart" href="#">
-<span class="mobile-cart-icon">
-<i class="ml-icon empty-cart"></i>
+<span class="empty mobile-cart-icon">
+<i class="ml-icon empty-cart hidden-sm hidden-xs"></i>
 <div class="mobile-number-of-items">0</div>
 </span>
 
 </a>
 </div>
 <div id="top-navbar-mobile-menu">
+<div class="sign-in-links" style="margin-top: 1rem">
+<a class="btn-alt" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up</a>
+</div>
+<hr>
+<div class="text-center">
+<a class="btn postal-code-switcher" href="#">San Francisco, CA
+<br>
+[Change Location]
+</a></div>
+<hr>
 <div id="mobile-search">
-<form accept-charset="UTF-8" action="/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<i class="ml-icon lens-icon"></i>
-<input class="form-control search-input" id="mobile-q" name="q" placeholder="TYPE TO SEARCH" type="text">
+<form accept-charset="UTF-8" action="/products" class="search-products-form" data-analytics_location="mobile-web" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<i class="fa fa-search"></i>
+<input class="form-control search-input" id="mobile-q" name="q" placeholder="SEARCH" type="text">
 </form>
 
 </div>
-<hr class="hr2">
-<a class="btn-alt" data-show-service-area-modal="#service-area-switch-modal" href="#">CURRENT LOCATION
-<br>
-WEST COAST
-<b class="caret"></b>
-</a><div class="sign-in-links" style="margin-top: 1rem">
-<a class="btn-alt" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up</a>
-</div>
-<h5>Categories</h5>
 <ul>
-<li><a class="unstyled" href="/shop/new">NEW</a></li>
-<li><a class="unstyled" href="/shop/sofas">SOFAS</a></li>
-<li><a class="unstyled" href="/shop/chairs">CHAIRS</a></li>
-<li><a class="unstyled" href="/shop/tables">TABLES</a></li>
-<li><a class="unstyled" href="/shop/dressers">DRESSERS</a></li>
-<li><a class="unstyled" href="/shop/storage">STORAGE</a></li>
-<li><a class="unstyled" href="/shop/beds">BEDS</a></li>
-<li><a class="unstyled" href="/shop/decor">DECOR</a></li>
-<li><a class="unstyled" href="/shop/office">OFFICE</a></li>
-<li><a class="unstyled" href="/shop/collections">COLLECTIONS</a></li>
-<li><a class="unstyled" href="/shop/sale">SALE</a></li>
+<li><a class="unstyled" href="/shop/new">New</a></li>
+<li><a class="unstyled" href="/shop/sofas">Sofas</a></li>
+<li><a class="unstyled" href="/shop/chairs">Chairs</a></li>
+<li><a class="unstyled" href="/shop/tables">Tables</a></li>
+<li><a class="unstyled" href="/shop/dressers">Dressers</a></li>
+<li><a class="unstyled" href="/shop/storage">Storage</a></li>
+<li><a class="unstyled" href="/shop/beds">Beds</a></li>
+<li><a class="unstyled" href="/shop/decor">Decor</a></li>
+<li><a class="unstyled" href="/shop/office">Office</a></li>
+<li><a class="unstyled" href="/shop/collections">Collections</a></li>
+<li><a class="unstyled" href="/shop/sale">Sale</a></li>
 </ul>
-<a class="btn-main" href="/sell">sell furniture</a>
-<h5>Support</h5>
+<a class="btn-main" href="/sell">START SELLING</a>
 <ul>
-<li><a href="/contact">CONTACT</a></li>
-<li><a href="/how_it_works">HOW IT WORKS</a></li>
-<li><a href="http://support.moveloot.com" target="_blank">FAQ</a></li>
-<li><a href="/delivery_policy">DELIVERY</a></li>
-<li><a href="/return_policy">RETURNS</a></li>
-<li><a href="/seller_details">SELLING DETAILS</a></li>
-<li><a href="/buyer_details">BUYING DETAILS</a></li>
-</ul>
-<h5>Company</h5>
-<ul>
-<li><a href="/about_us">ABOUT</a></li>
-<li><a href="http://blog.moveloot.com">BLOG</a></li>
-<li><a href="/gift_cards">GIFT CARDS</a></li>
-<li><a href="/press">PRESS</a></li>
-<li><a href="/careers">CAREERS</a></li>
-</ul>
-<h5>Legal</h5>
-<ul>
-<li><a href="/consignment_agreement">CONSIGNMENT AGREEMENT</a></li>
-<li><a href="/terms">TERMS &amp; CONDITIONS</a></li>
-<li><a href="/privacy_policy">PRIVACY POLICY</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/how_it_works">How it works</a></li>
+<li><a href="/seller_details">Selling Details</a></li>
+<li><a href="/about_us">About Move Loot</a></li>
 </ul>
 
 </div>
 <div id="top-navbar-mobile-cart">
+<div class="cart-controls visible-xs visible-sm">
+<a class="unstyled" data-toggle-body-class="cart-open" data-toggle-sidebar="#top-navbar-mobile-cart" href="#">
+<img alt="Close grey mobile" class="close-menu" src="/assets/icons/close_grey_mobile-2545228a2a6b43193f3d93a521e56077.svg">
+</a>
+</div>
+<div class="cart-content">
 <h3>
 Your Cart
 </h3>
@@ -257,7 +253,7 @@ Your Cart
 <tbody>
 <tr class="subtotal">
 <td class="text">
-<b>SUBTOTAL</b>
+<b>Item Subtotal</b>
 </td>
 <td class="value">
 <b>$0.00</b>
@@ -267,15 +263,12 @@ Your Cart
 </tr>
 </tbody>
 </table>
-<p class="free_delivery">
-$100.00 left until
-<span class="green">free delivery</span>
-</p>
 <div class="hidden-xs hidden-sm hidden-print">
-<a class="btn btn-main checkout-button" href="/orders/new">Check Out</a>
+<a class="btn btn-main checkout-button" href="/my_cart">Check Out</a>
 </div>
 <div class="visible-xs visible-sm hidden-print">
-<a class="btn btn-main checkout-button" href="/orders/new" style="background: none">Check Out</a>
+<a class="btn btn-main checkout-button" href="/my_cart" style="background: none">Check Out</a>
+</div>
 </div>
 
 </div>
@@ -283,6 +276,361 @@ $100.00 left until
 
 
 <div id="wrapper">
+<div class="hidden-sm hidden-xs">
+<div id="categories-navbar-outline">
+<div class="navbar-section"></div>
+<div id="categories-navbar-outline-inner"></div>
+<div data-no-turbolink="" id="categories-navbar-container">
+<ul class="categories">
+<li class="dropdown menu new-arrival-menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/new"><span>NEW ARRIVALS</span>
+</a></li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/sofas"><span>SOFAS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas/classic_sofas">Classic Sofas</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas/loveseats">Loveseats</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas/sectionals">Sectionals</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas/chaises">Chaises</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas/sofa_sets">Sofa Sets</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Sizes</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas?size=2+Seater">2 Seater</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas?size=3+Seater">3 Seater</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/sofas?size=4+Seater">4 Seater</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/chairs"><span>CHAIRS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/accent_chairs">Accent Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/home_office_chairs">Home Office Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/dining_chairs">Dining Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/benches">Benches</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/stools">Stools</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs/ottomans">Ottomans</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs?room=Entryway">Entryway</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs?room=Dining+Room">Dining Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/chairs?room=Outdoor">Outdoor</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/tables"><span>TABLES</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/dining_sets">Dining Sets</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/coffee_tables">Coffee Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/end_tables">End Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/dinner_tables">Dinner Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/utility_tables">Utility Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/accent_tables">Accent Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables/home_office_desks">Home Office Desks</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables?room=Bedroom">Bedroom</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables?room=Dining+Room">Dining Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/tables?room=Outdoor">Outdoor</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/dressers"><span>DRESSERS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/dressers/chests_of_drawers">Chests of Drawers</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/dressers/dresser_sets">Dresser Sets</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/dressers/wardrobes">Wardrobes &amp; Armoires</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/dressers/trunks">Trunks</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/storage"><span>STORAGE</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/wardrobes">Wardrobes &amp; Armoires</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/media_units">Media Units</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/filing_bins">Filing &amp; Bins</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/cabinets">Cabinets &amp; Sideboards</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/trunks">Trunks</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage/bookcases">Bookcases &amp; Shelving</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Rooms</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage?room=Bedroom">Bedroom</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage?room=Living+Room">Living Room</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage?room=Kitchen">Kitchen</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage?room=Home+Office">Home Office</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/storage?room=Dining+Room">Dining Room</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/beds"><span>BEDS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds/headboards">Headboards</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds/bed_frames">Bed Frames</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds/bed_sets">Bed Sets</a>
+</div>
+</div>
+<div class="subcategory-container">
+<div class="subcategory-item-header">Sizes</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds?size=Twin">Twin</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds?size=Full">Full</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds?size=Queen">Queen</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds?size=King">King</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/beds?size=Cal+King">Cal King</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/decor"><span>DECOR</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/decor/rugs">Rugs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/decor/wall_art">Wall Art</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/decor/mirrors">Mirrors</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/decor/lamps">Lamps</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/decor/decorative">Decorative Accents</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/office"><span>OFFICE</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/office/desks">Desks</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/office/chairs">Chairs</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/office/tables">Tables</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/office/storage">Storage</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/office/accessories">Accessories</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/collections"><span>FEATURED</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" data-analytics_event="Designer's Corner" data-analytics_location="Nav Bar" href="/shop/designers_corner">Designer's Corner</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/scenes">Curated Collections</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/themes">Styles</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/shop/rooms">Rooms</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled-light" href="/neighborhoods">Neighborhoods</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown menu nav-categories">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/sale"><span>SALE</span>
+</a><ul class="subcategory dropdown-menu" role="menu" style="">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Section</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/shop/sale?sort=new"><span>New to Sale</span>
+</a></div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/shop/sale"><span>Recent Markdowns</span>
+</a></div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/shop/sale?sort=estimated_savings"><span>Biggest Markdowns</span>
+</a></div>
+</div>
+</li>
+</ul>
+</li>
+<li class="green-menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sell"><span>SELL FURNITURE</span>
+</a></li>
+</ul>
+</div>
+<div class="navbar-section"></div>
+</div>
+
+</div>
 <div id="messages">
 <div id="flash-messages">
 </div>
@@ -294,361 +642,6 @@ $100.00 left until
 <div id="cart-expiration-messages">
 </div>
 
-
-</div>
-<div class="hidden-sm hidden-xs">
-<div id="categories-navbar-outline">
-<div id="categories-navbar-outline-inner"></div>
-<div data-no-turbolink="" id="categories-navbar-container">
-<ul class="categories">
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/all"><span>SHOP</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Section</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/all"><span>All</span>
-</a></div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/new"><span>New</span>
-</a></div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/sofas"><span>SOFAS</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas/classic_sofas">Classic Sofas</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas/loveseats">Loveseats</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas/sectionals">Sectionals</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas/chaises">Chaises</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas/sofa_sets">Sofa Sets</a>
-</div>
-</div>
-<div class="subcategory-container">
-<div class="subcategory-item-header">Sizes</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas?size=2+Seater">2 Seater</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas?size=3+Seater">3 Seater</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/sofas?size=4+Seater">4 Seater</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/chairs"><span>CHAIRS</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/accent_chairs">Accent Chairs</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/home_office_chairs">Home Office Chairs</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/dining_chairs">Dining Chairs</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/benches">Benches</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/stools">Stools</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs/ottomans">Ottomans</a>
-</div>
-</div>
-<div class="subcategory-container">
-<div class="subcategory-item-header">Rooms</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs?room=Living+Room">Living Room</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs?room=Entryway">Entryway</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs?room=Dining+Room">Dining Room</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/chairs?room=Outdoor">Outdoor</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/tables"><span>TABLES</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/dining_sets">Dining Sets</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/coffee_tables">Coffee Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/end_tables">End Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/dinner_tables">Dinner Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/utility_tables">Utility Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/accent_tables">Accent Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables/home_office_desks">Home Office Desks</a>
-</div>
-</div>
-<div class="subcategory-container">
-<div class="subcategory-item-header">Rooms</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables?room=Bedroom">Bedroom</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables?room=Living+Room">Living Room</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables?room=Dining+Room">Dining Room</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/tables?room=Outdoor">Outdoor</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/dressers"><span>DRESSERS</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/dressers/chests_of_drawers">Chests of Drawers</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/dressers/dresser_sets">Dresser Sets</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/dressers/wardrobes">Wardrobes &amp; Armoires</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/dressers/trunks">Trunks</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/storage"><span>STORAGE</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/wardrobes">Wardrobes &amp; Armoires</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/media_units">Media Units</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/filing_bins">Filing &amp; Bins</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/cabinets">Cabinets &amp; Sideboards</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/trunks">Trunks</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage/bookcases">Bookcases &amp; Shelving</a>
-</div>
-</div>
-<div class="subcategory-container">
-<div class="subcategory-item-header">Rooms</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage?room=Bedroom">Bedroom</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage?room=Living+Room">Living Room</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage?room=Kitchen">Kitchen</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage?room=Home+Office">Home Office</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/storage?room=Dining+Room">Dining Room</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/beds"><span>BEDS</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds/headboards">Headboards</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds/bed_frames">Bed Frames</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds/bed_sets">Bed Sets</a>
-</div>
-</div>
-<div class="subcategory-container">
-<div class="subcategory-item-header">Sizes</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds?size=Twin">Twin</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds?size=Full">Full</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds?size=Queen">Queen</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds?size=King">King</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/beds?size=Cal+King">Cal King</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/decor"><span>DECOR</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/decor/rugs">Rugs</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/decor/wall_art">Wall Art</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/decor/mirrors">Mirrors</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/decor/lamps">Lamps</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/decor/decorative">Decorative Accents</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/sf/shop/office"><span>OFFICE</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/desks">Desks</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/chairs">Chairs</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/tables">Tables</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/storage">Storage</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/accessories">Accessories</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="dropdown menu">
-<div class="spacer"></div>
-<a class="unstyled" href="/shop/collections"><span>COLLECTIONS</span>
-</a><ul class="subcategory dropdown-menu" role="menu">
-<li class="subcategory-menu">
-<div class="subcategory-container">
-<div class="subcategory-item-header">Types</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" data-analytics_event="Designer's Corner" data-analytics_location="Nav Bar" href="/sf/shop/designers_corner">Designer's Corner</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/themes">Themes</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/scenes">Scenes</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/rooms">Rooms</a>
-</div>
-<div class="subcategory-menu-item">
-<a class="unstyled" href="/neighborhoods">Neighborhoods</a>
-</div>
-</div>
-</li>
-</ul>
-</li>
-<li class="">
-<a class="unstyled" href="/sf/shop/sale"><span>SALE</span>
-</a></li>
-<li class="search">
-<form accept-charset="UTF-8" action="/products" id="search-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<div class="ml-icon lens-icon-red-lg"></div>
-<input id="sort" name="sort" type="hidden" value="best_match">
-<input class="search-input" id="desktop-q" name="q" placeholder="SEARCH" type="text">
-<div class="ml-icon x-black"></div>
-</form>
-
-<div class="lens-icon-red ml-icon lens-icon-inactive"></div>
-</li>
-</ul>
-</div>
-</div>
 
 </div>
 </div>
@@ -755,34 +748,32 @@ $100.00 left until
 <a href="/how_it_works">How it works</a>
 </div>
 <div class="footer-link">
-<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8"><img alt="Appstore download" src="/assets/appstore_download-77a7b176fcdc95e250756526bd44bdc3.png" style="width: 140px; margin-top: 1rem; margin-bottom: 1rem;">
+<a href="/privacy_policy">Privacy Policy</a>
+</div>
+<div class="footer-link">
+<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8"><img alt="Appstore download" src="/assets/appstore_download-43ee3de5c0b35000cf1969c0f9f0a525.png" style="width: 140px; margin-top: 1rem;">
+</a><a href="https://play.google.com/store/apps/details?id=com.moveloot.movelootapp"><img alt="Playstore download" src="/assets/playstore_download-e6e9d13c6e642a7c79735b97e5581c88.png" style="width: 140px; margin-bottom: 1rem;">
 </a></div>
 <div class="share-icons">
 <p>
 <span>
 <a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
-<img alt="Pinterest" src="/assets/icons/pinterest-6f2492bbefbe1675a8c316db93ffcbf9.png">
+<img alt="Pinterest" src="/assets/icons/pinterest-538c8b721fe9f20dbf1c4729b846e74a.png">
 </a>
 <a class="facebook" href="http://facebook.com/moveloot" target="_blank">
-<img alt="Facebook" src="/assets/icons/facebook-2c05a7e7ee747ba8bbe366daf3ef690a.png">
+<img alt="Facebook" src="/assets/icons/facebook-36552a6ee4426566041b1f0873b2a761.png">
 </a>
 <a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
-<img alt="Twitter" src="/assets/icons/twitter-52664180b8814a0a600f1cce5187bc53.png">
+<img alt="Twitter" src="/assets/icons/twitter-c9432efd79a6f7137803b20c66ae92f8.png">
 </a>
 <a class="instagram" href="http://instagram.com/moveloot" target="_blank">
-<img alt="Instagram" src="/assets/icons/instagram-f41d690297d35469f497ec48862852db.png">
+<img alt="Instagram" src="/assets/icons/instagram-5747ce4f9fac2c59193bfef5273fa019.png">
 </a>
 </span>
 </p>
 </div>
 </div>
 <div class="hidden-sm hidden-xs page_bg_white" id="footer">
-<div id="sell-link">
-<h3>
-<a href="/sell">Want to sell some furniture?</a>
-<img alt="Truck icon sm" src="/assets/icons/truck_icon_sm-9cd2a45b48a1634beebc4e51a15c104d.png">
-</h3>
-</div>
 <div class="container">
 <div class="row footer-row">
 <div class="col-xs-4 col-sm-2">
@@ -802,14 +793,14 @@ $100.00 left until
 <li><a href="http://blog.moveloot.com">Blog</a></li>
 <li><a href="/press">Press</a></li>
 <li><a href="https://jobs.lever.co/moveloot/">Careers</a></li>
-<li><a href="/events">Events</a></li>
-<li><a href="/partnership_program">Partnerships</a></li>
+<li><a href="/partnerships">Partnerships</a></li>
 </ul>
 </div>
 <div class="col-xs-4 col-sm-3">
 <h5>LEGAL</h5>
 <ul class="footer-link-list">
-<li><a href="/consignment_agreement">Consignment Agreement</a></li>
+<li><a href="/seller_agreement">Seller Participation Agreement</a></li>
+<li><a href="/buyer_agreement">Buyer Participation Agreement</a></li>
 <li><a href="/terms">Terms and Conditions</a></li>
 <li><a href="/privacy_policy">Privacy Policy</a></li>
 <li><a href="/delivery_policy">Delivery Policy</a></li>
@@ -818,7 +809,7 @@ $100.00 left until
 </div>
 <div class="col-xs-12 col-sm-4 col-sm-offset-1">
 <h5>SIGN UP FOR OUR NEWSLETTER</h5>
-<form accept-charset="UTF-8" action="/mailing_list/signup" class="form-standard mailing-list-signup " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w="></div>
+<form accept-charset="UTF-8" action="/mailing_list/signup" class="form-standard mailing-list-signup " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Px2afZDYFtt97Qn1N/4Jtqm+zQwANZHiPxNVSOdo3gA="></div>
 <input id="event_source" name="event_source" type="hidden" value="footer">
 <div class="form-group">
 <div class="input-group email">
@@ -839,23 +830,24 @@ $100.00 left until
 <p>
 <span>
 <a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
-<img alt="Pinterest" src="/assets/icons/pinterest-6f2492bbefbe1675a8c316db93ffcbf9.png">
+<img alt="Pinterest" src="/assets/icons/pinterest-538c8b721fe9f20dbf1c4729b846e74a.png">
 </a>
 <a class="facebook" href="http://facebook.com/moveloot" target="_blank">
-<img alt="Facebook" src="/assets/icons/facebook-2c05a7e7ee747ba8bbe366daf3ef690a.png">
+<img alt="Facebook" src="/assets/icons/facebook-36552a6ee4426566041b1f0873b2a761.png">
 </a>
 <a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
-<img alt="Twitter" src="/assets/icons/twitter-52664180b8814a0a600f1cce5187bc53.png">
+<img alt="Twitter" src="/assets/icons/twitter-c9432efd79a6f7137803b20c66ae92f8.png">
 </a>
 <a class="instagram" href="http://instagram.com/moveloot" target="_blank">
-<img alt="Instagram" src="/assets/icons/instagram-f41d690297d35469f497ec48862852db.png">
+<img alt="Instagram" src="/assets/icons/instagram-5747ce4f9fac2c59193bfef5273fa019.png">
 </a>
 </span>
 </p>
 </div>
 <div class="app-download" style="margin-top: 1rem;">
 <h5>DOWNLOAD OUR MOBILE APP</h5>
-<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8"><img alt="Appstore download" src="/assets/appstore_download-77a7b176fcdc95e250756526bd44bdc3.png" style="width: 120px">
+<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8" style="text-decoration: none"><img alt="Appstore download" src="/assets/appstore_download-43ee3de5c0b35000cf1969c0f9f0a525.png" style="width: 120px">
+</a><a href="https://play.google.com/store/apps/details?id=com.moveloot.movelootapp"><img alt="Playstore download" src="/assets/playstore_download-e6e9d13c6e642a7c79735b97e5581c88.png" style="width: 106px">
 </a></div>
 </div>
 </div>
@@ -863,103 +855,9 @@ $100.00 left until
 <div class="col-md-12">
 <p>
 </p><div class="copyright-notice">
-Copyright © 2015 Move Loot Inc. All Rights Reserved.
+Copyright © 2016 Move Loot Inc. All Rights Reserved.
 </div>
 <p></p>
-</div>
-</div>
-</div>
-</div>
-
-<div id="service-area-switch-modal">
-<a data-close-service-area-modal="#service-area-switch-modal" href="#">
-<div class="ml-icon x-black"></div>
-</a>
-<div class="container">
-<div class="row">
-<div class="col-sm-10 col-sm-offset-1">
-<div class="service-area-switch-menu">
-<div class="header">
-<h3>PICK YOUR LOCATION</h3>
-</div>
-<ul class="service-areas panel-group" id="service-area-accordion">
-<div class="service-area wc panel">
-<div class="name">
-West Coast
-</div>
-<div class="collapse in" id="wc-collapse-menu">
-<div class="regions">
-<a href="/sf?service_area=wc" id="change-region-to-sf"><div class="region-tile">
-<div class="region-graphic sf text-center">
-<p>SF Bay Area</p>
-</div>
-</div>
-</a><a href="/la?service_area=wc" id="change-region-to-la"><div class="region-tile">
-<div class="region-graphic la">
-<p>Los Angeles</p>
-</div>
-</div>
-</a></div>
-</div>
-</div>
-<div class="service-area ec panel">
-<div class="name">
-East Coast
-</div>
-<div class="collapse in" id="ec-collapse-menu">
-<div class="regions">
-<a href="/ny?service_area=se" id="change-region-to-atl"><div class="region-tile">
-<div class="region-graphic ny">
-<p>New York</p>
-</div>
-</div>
-</a><a href="/rdu?service_area=se" id="change-region-to-rdu"><div class="region-tile">
-<div class="region-graphic rdu">
-<p>Raleigh-Durham</p>
-</div>
-</div>
-</a><a href="/clt?service_area=se" id="change-region-to-clt"><div class="region-tile">
-<div class="region-graphic clt">
-<p>Charlotte</p>
-</div>
-</div>
-</a><a href="/atl?service_area=se" id="change-region-to-atl"><div class="region-tile">
-<div class="region-graphic atl">
-<p>Atlanta</p>
-</div>
-</div>
-</a></div>
-</div>
-</div>
-</ul>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-sm-8 col-sm-offset-2">
-<div class="cant-find">
-<h5 class="center">Can't find your city?</h5>
-<p>
-If your city isn't listed, fret not! We are expanding quickly so check back soon to see if we are
-coming your way or sign up for our newsletter to hear updates about new Move Loot locations.
-</p>
-<form accept-charset="UTF-8" action="/mailing_list/signup" class="form-standard mailing-list-signup " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w="></div>
-<input id="event_source" name="event_source" type="hidden" value="service_area_switcher">
-<div class="form-group">
-<div class="input-group email">
-<div class="input-group-addon">
-<div class="fa fa-envelope"></div>
-</div>
-<input class="form-control" id="email" name="email" type="email" value="">
-<div class="input-group-btn">
-<input class="btn btn-primary" name="commit" type="submit" value="JOIN">
-</div>
-</div>
-</div>
-</form>
-
-
-</div>
 </div>
 </div>
 </div>
@@ -1165,11 +1063,49 @@ coming your way or sign up for our newsletter to hear updates about new Move Loo
 </div>
 </div>
 </div>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
+<div class="modal fade" id="postal-code-modal">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-body">
+<div class="landing-page" id="location-landing">
+<div class="row">
+<div class="zip-code section">
+<div class="enter-zip alt-section active">
+<h2 class="red2">
+<i class="fa fa-map-marker"></i>
+<br>
+<br>
+<div class="splash-header-text">
+Welcome to the party!
+</div>
+</h2>
+<h5 class="black2">
+Based on your location, we believe that this is your zip code. Please let us know if we're right so we can show you the Loot available in your area
+</h5>
+<div class="form center welcome">
+<form accept-charset="UTF-8" action="/zip_codes/switch" id="check-zip-form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="Px2afZDYFtt97Qn1N/4Jtqm+zQwANZHiPxNVSOdo3gA="></div>
+<div class="input-group">
+<label for="Zip_Code">Zip code</label>
+<br>
+<div class="input-wrapper">
+<input autofocus="autofocus" id="zip_code" maxlength="5" minlength="5" name="zip_code" placeholder="55555" type="tel" value="94103">
+</div>
+</div>
+<br>
+<input class="btn btn-primary postal-code-first-input" data-analytics_event="ZIP code check" name="commit" type="submit" value="Get Started">
+</form>
 
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
