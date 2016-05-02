@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lankaentrepreneur.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321163605id_/https%3A//www.extreme-seo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lankaentrepreneur.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502192912id_/https%3A//www.extreme-seo.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Extreme SEO Internet Solutions
 
 ## Privacy Policy
 
@@ -24,9 +24,9 @@ Personally Identifiable Information collected by EXTREME-SEO.NET is used to enha
 
  **WITH WHOM MAY THE PERSONALLY IDENTIFIABLE INFORMATION BE SHARED?**
 
-We may share your PII with the following people:
+We may share and communicate your PII with the following people:
 
-  *  **Agents / Service Providers –** We divulge your PII to third parties, including agents / service providers, independent contractors and affiliates that execute functions on our behalf for your assignments / projects. Some Examples are – delivering packages, fulfilling orders, sending postal email and letters, deleting repetitive info from customer lists (includes paid lists and links) and credit card links. These individuals / organizations are legally bound to protect your PII.
+  *  **Agents / Service Providers –** We divulge your PII to third parties, including agents / service providers,Strategic Partners, independent contractors and affiliates that execute functions on our behalf for your assignments / projects. Some Examples are – delivering packages, fulfilling orders, sending postal email and letters, Writing contents, Integrate contents, creating Video, Visuals and deleting repetitive info from customer lists (includes paid lists and links) and credit card links. These individuals / organizations are legally bound to protect your PII.
   *  **Trading Partners –** Our product / services are offered globally in conjunction with select trading partners. We may share your PII with our trading partners under this policy.
   *  **Affiliates –** Your PPI may be used by our affiliates or their subsidiaries for their own marketing, research and other purposes.
   *  **Non-Affiliated Parties –** We do not disclose your PII to non-affiliates for their own marketing purposes.
@@ -40,17 +40,17 @@ Your Personally Identifiable Information may also be shared under the following 
 
 
 
- **NOTE –** _You may at anytime decide to “opt-out” of receiving information / beings contacted by us or any agency or organization acting on our behalf. Please get in touch with_ _support@extreme-seo.net_ _for doing the aforementioned._
+ **NOTE –** _You may at anytime decide to “opt-out” of receiving information / beings contacted by us or any agency or organization acting on our behalf. Please get in touch with_ _support@extreme-seo.net_ _  for doing the aforementioned. _
 
- **How Is Personally Identifiable Information Stored?**
+**How Is Personally Identifiable Information Stored?**
 
 Personally Identifiable Information collected by EXTREME-SEO.NET is securely stored and encrypted for maximum protection. This information is inaccessible to any third-party member or the employees, except as mentioned above.
 
  **What Choices Are Available To Visitors Regarding Collection, Use And Distribution Of The Information?**
 
-Clients may choose to unsubscribe from promotional email or postal mail (applicable only within the boundaries of Sri Lanka) any time. You need to update your preferences by logging into your profile or by following the steps to unsubscribe, mentioned in every email. Please note that it can take up to 10 working days to process and activate a request to unsubscribe. To unsubscribe from postal mail, please contact our Customer Care executives at- #196, 1st Lane, Goodshed Road, Vavuniya, NP, Sri Lanka. If you unsubscribe from promotional email or postal mail about recommendations or services that we think might interest you, you will still receive email pertaining to your Account, or Services that you have requested or received from us. ****
+Clients may choose to unsubscribe from promotional email or postal mail (applicable only within the boundaries of Sri Lanka) any time. You need to update your preferences by logging into your profile or by following the steps to unsubscribe, mentioned in every email. Please note that it can take up to 10 working days to process and activate a request to unsubscribe. To unsubscribe from postal mail, please contact our Customer Care executives at- #196, 1st Lane, Goodshed Road, Vavuniya, NP, Sri Lanka. If you unsubscribe from promotional email or postal mail about recommendations or services that we think might interest you, you will still receive email pertaining to your Account, or Services that you have requested or received from us. ** **
 
-**DOES THIS SITE USE COOKIES?**
+ **DOES THIS SITE USE COOKIES?**
 
 Yes. The Extreme-SEO.Net.Net website uses cookies. We use ‘Cookies’ to acquire information about the individual preferences of our visitors, resellers, clients and affiliates and about the services they select. Cookies help in keeping the preferences stored on your personal hard drives, so that we can identify repeat visitors and directly select their preferred settings. For Example, due to our ‘Cookie’ use, you would not have to log into the website more than once, saving time the next time you visit the website. Usage of ‘Cookie’ is in no way linked to PII (Personally Identifiable Information) which is stored in our website servers.
 
@@ -68,7 +68,7 @@ Every individual at Extreme SEO Internet Solutions is familiar with the Terms an
 
  **How Can Visitors Correct Any Inaccuracies in Personally Identifiable Information?**
 
-Viewers, visitors, members, subscribers and customers can contact us at support@extreme-seo.net with a request to update Personally Identifiable Information.
+Viewers, visitors, members, subscribers and customers can contact us at support@extreme-seo.net with a request to update Personally Identifiable Information.
 
  **Can A Visitor Delete Or Deactivate Personally Identifiable Information Collected By The Site?**
 
@@ -76,13 +76,13 @@ All Personally Identifiable Information stored on our secure database is accessi
 
 ## FTC Statement
 
-The disclosure that follows is intended to ensure Extreme-SEO.Net full compliance with the Federal Trade Commission’s policy that demands Extreme-SEO.Net be transparent about any affiliate relations Extreme-SEO.Net may have on this website. In simple English, you, the visitor or customer, should understand that all links on this site are affiliate links. If you click on these links and go visit the subsequent site, a cookie will be set in your web browser that will make us receive a commission “IF” you purchase a product on the other end. This is a genuine way to monetize and pay for the operation of web sites and Extreme-SEO.Net gladly reveals our affiliate relationships to you.
+The disclosure that follows is intended to ensure Extreme-SEO.Net full compliance with the Federal Trade Commission’s policy that demands Extreme-SEO.Net be transparent about any affiliate relations Extreme-SEO.Net may have on this website. In simple English, you, the visitor or customer, should understand that all links on this site are affiliate links. If you click on these links and go visit the subsequent site, a cookie will be set in your web browser that will make us receive a commission “IF” you purchase a product on the other end. This is a genuine way to monetize and pay for the operation of web sites and Extreme-SEO.Net gladly reveals our affiliate relationships to you.
 
-In addition, Extreme-SEO.Net fully discloses that hyperlinks on this site are in most cases abbreviated, and in some cases cloaked to hide long ugly links for functionality and tracing purposes. Extreme-SEO.Net have nothing to hide and Extreme-SEO.Net are proud of our relationship with the products, services and vendors found on this site. Link abbreviation, cloaking and tracking is a very common practice on all types of web sites.
+In addition, Extreme-SEO.Net fully discloses that hyperlinks on this site are in most cases abbreviated, and in some cases cloaked to hide long ugly links for functionality and tracing purposes. Extreme-SEO.Net have nothing to hide and Extreme-SEO.Net are proud of our relationship with the products, services and vendors found on this site. Link abbreviation, cloaking and tracking is a very common practice on all types of web sites.
 
-Further, Extreme-SEO.Net does not receive cash or real products in exchange for any reviews or posts you find on this site. We are not paid to do review posts for any services or products. Extreme-SEO.Net has to tell you that it is possible that our reviews and posts are partial to our affiliate relationships and may create a clash between personal interests. Extreme-SEO.Net do not believe a clash of interest exists, but you, the customer or visitor, must decide by considering the affiliate relationships and link techniques Extreme-SEO.Net have labeled. Obviously, Extreme-SEO.Net would like you to buy the service or products Extreme-SEO.Net writes about and Extreme-SEO.Net is influenced by that fact. Extreme-SEO.Net avoids conflict by only reviewing or posting about products and services, Extreme-SEO.Net trusts. There are plenty of products that Extreme-SEO.Net can choose from to promote, and Extreme-SEO.Net focuses on the ones that Extreme-SEO.Net thinks will cause you to develop trust on us and come back to read more of our feedback. Extreme-SEO.Net strives to always give our honest findings, opinions and beliefs or experiences on topics or products Extreme-SEO.Net write about and promote.
+Further, Extreme-SEO.Net does not receive cash or real products in exchange for any reviews or posts you find on this site. We are not paid to do review posts for any services or products. Extreme-SEO.Net has to tell you that it is possible that our reviews and posts are partial to our affiliate relationships and may create a clash between personal interests. Extreme-SEO.Net do not believe a clash of interest exists, but you, the customer or visitor, must decide by considering the affiliate relationships and link techniques Extreme-SEO.Net have labeled. Obviously, Extreme-SEO.Net would like you to buy the service or products Extreme-SEO.Net writes about and Extreme-SEO.Net is influenced by that fact. Extreme-SEO.Net avoids conflict by only reviewing or posting about products and services, Extreme-SEO.Net trusts. There are plenty of products that Extreme-SEO.Net can choose from to promote, and Extreme-SEO.Net  focuses on the ones that Extreme-SEO.Net thinks will cause you to develop trust on us and come back to read more of our feedback. Extreme-SEO.Net strives to always give our honest findings, opinions and beliefs or experiences on topics or products Extreme-SEO.Net write about and promote.
 
-Other vendors may also pay to place advertising on our sites in the form of banners, widgets, and hyperlinks. These are paid advertisements and while Extreme-SEO.Net does its best to only allow superior quality services and/or products to be advertised on our site, Extreme-SEO.Net is not responsible for claims or testimonials made on paid advertising links.
+Other vendors may also pay to place advertising on our sites in the form of banners, widgets, and hyperlinks. These are paid advertisements and while Extreme-SEO.Net does its best to only allow superior quality services and/or products to be advertised on our site, Extreme-SEO.Net  is not responsible for claims or testimonials made on paid advertising links.
 
 ## Anti-Spam Policy
 
@@ -105,7 +105,7 @@ In obedience to the CAN-SPAM Act of 2003 (15 U.S.C 7701, et seq., Public Law No.
 
 Extreme-SEO.Net does not allow the collection of email ids or other information from or through the website or through its services. Extreme SEO does not authorize or permit others to use the Extreme-SEO.Net services to compile, collect, harvest or mine any information about its subscribers or customers, including but not limited to subscriber email-ids.
 
-Extreme-SEO.Net does not allow or authorize any effort to use its services in a manner that could disable, damage, and overburden or harm any aspect of any of the services, or that could hamper any other party’s use and amusement of any Extreme-SEO.Net service.
+ Extreme-SEO.Net does not allow or authorize any effort to use its services in a manner that could disable, damage, and overburden or harm any aspect of any of the services, or that could hamper any other party’s use and amusement of any Extreme-SEO.Net service.
 
 If Extreme-SEO.Net believes that illegal or improper use is being made of any service, it may without notice, take such action as it deems fit, in its full discretion, including but not limited to stopping messages from a particular domain on the internet, mail server of Internet Protocol (IP) Address. Extreme-SEO.Net reserves the right to immediately terminate any service or account which it determines, in its full discretion, is relaying or is otherwise linked to any email activity that violates this policy.
 
