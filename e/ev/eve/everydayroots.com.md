@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908020030id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayroots.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502054543id_/http%3A//everydayroots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Roots
 
@@ -42,10 +42,10 @@ Although most changes are likely to be minor, Everyday Roots may change its Priv
 
 **P.S.** Take a look at the [Everyday Roots Book](http://go.everydayrootsbook.com/). It's a Book that we created to help you replace the toxic products and medications in your home with healthier, all-natural alternatives. It contains 215+ effective home remedies and covers everything you will need to protect your family and save money every month.
 
-[ ](https://everydayroots.leadpages.net/leadbox/14000b173f72a2%3A11403d646346dc/5649391675244544/)
+**+** [Click Here to Get a FREE Bottle of Organic Virgin Coconut Oil](http://everydayroots.com/free/coconut-oil) (while supplies last!)
 
 By Claire Goodall
 
-Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything :) [Meet Claire→](http://everydayroots.com/claire)
+Claire is a lover of life, the natural world, and wild blueberries. On the weekend you can find her fiddling in the garden, playing with her dogs, and enjoying the great outdoors with her horse. Claire is very open-minded, ask her anything :) [Meet Claire](http://everydayroots.com/claire)
 
 [](http://go.everydayrootsbook.com/)
