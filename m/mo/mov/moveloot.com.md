@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveloot.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910093703id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveloot.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503014710id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.*
 
 # Move Loot
 
