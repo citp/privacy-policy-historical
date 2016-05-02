@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2015-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151031201353id_/http%3A//www.raring2go.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502113637id_/http%3A//raring2go.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Your privacy is very important to us at Mojo Publishing Ltd ("Mojo Publishing Ltd", "Mojo Publishing", "Mojo", "Raring2go!", "we", "us" or "our"). Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have any queries concerning your personal information please contact us at info@Raring2go.co.uk.
+Your privacy is very important to us at Mojo Publishing Ltd ("Mojo Publishing Ltd", "Mojo Publishing", "Mojo", "Raring2go!", "we", "us" or "our"). Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. If you have any queries concerning your personal information please contact us at [info@raring2go.co.uk](mailto:info@raring2go.co.uk).
 
 By browsing and using our web site you expressly consent to this Privacy Policy governing your use of the web site and our use and disclosure of your personal information. If you no not accept this use and disclosure, you must not use our web site.
 
@@ -44,7 +44,7 @@ Upon your written request, we will deactivate your account, contact information,
 
 We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Service. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests.
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information Raring2go! holds about you, please write to us at the following address: Privacy Officer, Mojo Publishing Ltd, Unit 84, Mackley Industrial Estate, Small Dole, West Sussex, BN5 9XR enclosing your postal details and a cheque for £10 payable to Mojo Publishing Ltd.
+You have a right to access the personal data that is held about you. To obtain a copy of the personal information Raring2go! holds about you, please write to us at the following address: Privacy Officer, Mojo Publishing Ltd. 9A Gate Lane, Boldmere, Sutton Coldfield, West Midlands, B73 5TR enclosing your postal details and a cheque for £10 payable to Mojo Publishing Ltd.
 
 ## Safeguard of personal information
 
