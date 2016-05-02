@@ -1,64 +1,76 @@
-> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008091908id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502061440id_/https%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-FantasyKnuckleheads.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
+Absolute Networks LLC (DBA Fantasy Knuckleheads, hereafter referred to as FKH) has created this privacy policy to demonstrate our commitment to the privacy of the users of our website (FantasyKnuckleheads.com). Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-This Privacy Policy covers FantasyKnuckleheads.com's treatment of personal information that FantasyKnuckleheads.com gathers when you are on the FantasyKnuckleheads.com website and when you use FantasyKnuckleheads.com services. This policy does not apply to the practices of third parties that FantasyKnuckleheads.com does not own or control, or to individuals that FantasyKnuckleheads.com does not employ or manage.
+## What this Privacy Policy Covers
 
-Information Collected by FantasyKnuckleheads.com
+This privacy policy covers treatment of personally identifiable information collected by FKH through the FantasyKnuckleheads.com website.
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our FantasyKnuckleheads.com users:
+This privacy policy does not apply to the practices of companies that FKH does not own or control, or of any persons that FKH does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which FantasyKnuckleheads.com websites link.
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+## Collection and Use of Personal Information
 
-2\. Automatic Information:
+You can visit the FantasyKnuckleheads.com without revealing any personal information. However, FantasyKnuckleheads.com needs certain personal information if you wish to purchase our service, register for an affiliate account, receive FantasyKnuckleheads.com newsletters or use other FantasyKnuckleheads.com services.
 
-  * We receive and store certain types of information whenever you interact with us. FantasyKnuckleheads.com and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, FantasyKnuckleheads.com cookie information, and the page you requested. FantasyKnuckleheads.com uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
-  * As you browse FantasyKnuckleheads.com, advertising cookies will be placed on your computer so that we can understand what you are interested in.  Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with FantasyKnuckleheads.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
-  * FantasyKnuckleheads.com may collect and, on any page, display the total counts that page has been viewed.
-  * Many companies offer programs that help you to visit websites anonymously. While FantasyKnuckleheads.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+When required, this information may include your personal contact information and/or your company contact information. FantasyKnuckleheads.com will use this information to reply to your inquiries, to provide you with requested products and services, to set up your members account, and contact you regarding new products and services.
+
+By accessing the services of FantasyKnuckleheads.com and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in the accordance with this privacy policy.
+
+## Collection and Use of Non-Personal Information
+
+FantasyKnuckleheads.com automatically receives and records non-personal information on our server logs from your browser including your IP address, website recording, cookie information and the page(s) you requested. FantasyKnuckleheads.com may use this information to customize the advertising and content you see and to fulfill your requests for certain services. However, FantasyKnuckleheads.com does not connect this non-personal data to any personal information collected from you.
+
+## Website Recording
+
+FKH may use software to record and track mouse clicks, mouse movements, page scrolling and any text keyed into website forms.
+
+Data collected by FKH is used to improve our website usability and user experience. The information collected is stored and is used for aggregated and statistical reporting.
+
+## Email Updates
+
+FantasyKnuckleheads.com does not send unsolicited mail. We send fantasy football news updates during the offseason to people who have opted in to our email newsletter or otherwise subscribed to our services. During the season, we send selected content and breaking news updates to our subscribers by email. If you do not wish to receive these messages, you may unsubscribe from the mailing list by clicking on the unsubscribe link in the email, or by sending an email to [kurt@fantasyknuckleheads.com](mailto:kurt@fantasyknuckleheads.com).
+
+FKH does not rent, sell, or in any ways share the names or email addresses of our email list to any third party.
+
+## Information Sharing and Disclosure
+
+FKH may disclose your personal information to third parties who work on behalf of FKH to provide service, development, improvements or maintenance to the FantasyKnuckleheads.com website. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours, and who agree to abide by our policies with respect to personal information.
+
+FKH may otherwise disclose your personal information when:
+
+  * We have your consent to share the information for a specific purpose;
+  * We need to respond to subpoenas, court orders or such other legal process;
+  * We need to protect the personal safety of the users of our websites or defend the rights or property of FKH;
+  * We, at our sole discretion, find that your actions in conjunction with your use of the FantasyKnuckleheads.com website and/or service, interrupt, degrade or hinder our ability to carry out normal business operations and/or interfere with our ability to provide quality user experience.
 
 
 
-E-mail Communications
+## Display Advertising
 
-FantasyKnuckleheads.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. FantasyKnuckleheads.com may send out e-mails with FantasyKnuckleheads.com-related news, products, offers, surveys or promotions.
+FKH has implemented Display advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the internet.
 
-Cookies
+FKH along with third-party vendors including Google, use first-party cookies (such as Google Analytics cookie) and third-party cookies (such as the Double Click cookie) together to inform, optimize and serve ads based on your past visits to our website.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. FantasyKnuckleheads.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+If you want to opt-out of Google Analytics for Display Advertising, just customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en) or using [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) that will instruct the Google Analytics JavaScript not to send any information about the website visit to Google Analytics.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of FantasyKnuckleheads.com's coolest features.
+## Consent
 
-FantasyKnuckleheads.com's advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A's privacy policy and opt-out page.
+If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to FantasyKnuckleheads.com. If you have provided personal information to FantasyKnuckleheads.com and no longer consent to its use or disclosure as outlined herein, please notify FantasyKnuckleheads.com at [kurt@fantasyknuckleheads.com](mailto:kurt@fantasyknuckleheads.com).
 
-Sharing Your Information
+## Security
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+Unfortunately, no data transmission over the Internet can be considered 100% secure. However, FKH relies on reasonable industry practices to protect your privacy and security. In certain areas of our website, as identified on the site, FKH uses industry-standard SSL-encryption to protect data transmissions.
 
-FantasyKnuckleheads.com Personnel: FantasyKnuckleheads.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of FantasyKnuckleheads.com business.
+We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if FantasyKnuckleheads.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+Further, FKH retains your personal information only as long as necessary to fulfill the purposes identified above or as required by law.
 
-Protection of FantasyKnuckleheads.com and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of FantasyKnuckleheads.com, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+## Changes to this Privacy Policy
 
-Syndication: FantasyKnuckleheads.com allows for the RSS syndication of all of its public content within the FantasyKnuckleheads.com website.
+FKH may at any time, without notice to you and in its sole discretion, adjust this policy from time to time as we expand our services to our subscribers. Please review this policy periodically. Your continued use of FantasyKnuckleheads.com websites after any such amendments signifies your acceptance thereof.
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+## Questions or Suggestions
 
-Children Under 18 Years of Age
-
-You must be 13 years and older to register to use the FantasyKnuckleheads.com website. As a result, FantasyKnuckleheads.com does not specifically collect information about children. If we learn that FantasyKnuckleheads.com has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using FantasyKnuckleheads.com or sending information about themselves or anyone else over the Internet.
-
-Changes to this Privacy Policy
-
-FantasyKnuckleheads.com may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the FantasyKnuckleheads.com website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
-
-Conditions of Use
-
-If you decide to visit FantasyKnuckleheads.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Mississippi state law.
-
-Effective Date of this Privacy Policy
-
-This Privacy Policy is effective as of 2/12/2010 and last updated 8/19/2015.
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [kurt@fantasyknuckleheads.com](mailto:kurt@fantasyknuckleheads.com).
