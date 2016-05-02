@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postalert.in privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209032716id_/http%3A//postalert.in/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postalert.in privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502053055id_/http%3A//postalert.in/sample-page) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Post Alert
 
 As like web site, we use of log files.The info inside the log files includes IP address, type of browser, ISP, date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site , and gather demographic information . IP address, and other such information are not linked to any information that is personally identifiable.
 
