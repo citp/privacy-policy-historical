@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voteridstatuslist.in privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221122244id_/http%3A//www.voteridstatuslist.in/p/privacy-policy-for-voter-id-status-if.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voteridstatuslist.in privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502120928id_/http%3A//www.voteridstatuslist.in/p/privacy-policy-for-voter-id-status-if.html) for the most accurate reproduction.*
 
 # Privacy Policy - Check Voter Id Status Online | Ration Card
 
