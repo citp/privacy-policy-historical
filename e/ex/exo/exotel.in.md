@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exotel.in privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910233543id_/http%3A//exotel.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exotel.in privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502055241id_/http%3A//exotel.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Exotel
 
