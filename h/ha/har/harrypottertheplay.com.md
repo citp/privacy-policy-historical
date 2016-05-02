@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the harrypottertheplay.com privacy policy that was archived on 2015-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150928004219id_/http%3A//www.harrypottertheplay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypottertheplay.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502103255id_/http%3A//www.harrypottertheplay.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Harry Potter And The Cursed Child - Privacy Policy
+# Privacy Policy | Harry Potter And The Cursed Child
 
 ### 1 PRIVACY AND YOUR PERSONAL DATA
 
-1.1 The AKA Group Limited (“AKA”, “us”, “we” or “our” for short) is committed to protecting the privacy of our users. This Privacy Policy (“Policy”) is intended to inform you how we gather, define, and utilise your Information (as defined below). This Policy is intended to assist you in making informed decisions when using the website, http://www.harrypottertheplaylondon.com (the “Website”). Please take a minute to read and understand the Policy.
+1.1 AKA Promotions Limited (“AKA”, “us”, “we” or “our” for short) is committed to protecting the privacy of our users. This Privacy Policy (“Policy”) is intended to inform you how we gather, define, and utilise your Information (as defined below). This Policy is intended to assist you in making informed decisions when using the website, http://www.harrypottertheplaylondon.com (the “Website”). Please take a minute to read and understand the Policy.
 
 1.2 This Policy, and our separate Cookies Policy are incorporated into and form part of our Website Terms of Use.
 
@@ -32,8 +32,7 @@
 
 (c) in accordance with your authorisation as expressed when you subscribe to any online service provided by us or when you correspond with us.
 
-### 3.2 In limited circumstances we may pass your Information to other third party organisations:  
-
+### 3.2 In limited circumstances we may pass your Information to other third party organisations:
 
 (a) if we buy or sell any business or assets in which case we may disclose your Information to the seller or buyer of such business or assets;
 
