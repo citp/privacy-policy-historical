@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225164238id_/http%3A//affiliates.wakanow.com/AffiliatePage/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504002409id_/http%3A//affiliates.wakanow.com/AffiliatePage/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
