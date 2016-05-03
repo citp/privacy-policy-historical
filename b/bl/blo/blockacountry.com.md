@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockacountry.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222103242id_/http%3A//www.blockacountry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockacountry.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503233507id_/http%3A//blockacountry.com/privacy.php) for the most accurate reproduction.*
 
 # block a country
 
@@ -36,4 +36,4 @@ Our service may contain links to other websites and software. We are not respons
 
 We may amend this policy occasionally. It is your responsibility to check this page for any notices of change. 
 
-By accessing the Block A Country website and using this website you are agreeing to this [Privacy Policy](https://web.archive.org/web/20151222103242id_/http%3A//www.blockacountry.com/privacy.php) and also to the [Terms & Conditions](https://web.archive.org/web/20151222103242id_/http%3A//www.blockacountry.com/terms.php) and [Earnings Disclaimer](https://web.archive.org/web/20151222103242id_/http%3A//www.blockacountry.com/disclaimer.php) that you should have also read.
+By accessing the Block A Country website and using this website you are agreeing to this [Privacy Policy](https://web.archive.org/web/20160503233507id_/http%3A//blockacountry.com/privacy.php) and also to the [Terms & Conditions](https://web.archive.org/web/20160503233507id_/http%3A//blockacountry.com/terms.php) and [Earnings Disclaimer](https://web.archive.org/web/20160503233507id_/http%3A//blockacountry.com/disclaimer.php) that you should have also read.
