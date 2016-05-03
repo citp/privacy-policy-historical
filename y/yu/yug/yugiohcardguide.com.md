@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2015-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151010013233id_/http%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503144943id_/https%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # YuGiOhCardGuide.com Privacy Statement
 
 **YuGiOhCardGuide.com:**  
-This is a web site owned and operated by [Chakra Sites, Inc.](http://www.chakrasites.com/)  
+This is a web site owned and operated by [Chakra Sites, Inc.](http://www.chakrasites.net/)  
 Chakra Sites, Inc. can be reached by e-mail via our [web form here](https://web.archive.org/contact.html). 
 
 **Collection of Information:**  
