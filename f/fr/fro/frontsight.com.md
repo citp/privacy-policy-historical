@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908150949id_/https%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontsight.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503163038id_/https%3A//www.frontsight.com/privacy-policy-pop-up.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
