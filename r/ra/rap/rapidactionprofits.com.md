@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidactionprofits.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116165055id_/http%3A//rapidactionprofits.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidactionprofits.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503212227id_/http%3A//rapidactionprofits.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Rapid Action Profits
 
