@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sensedigital.in privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002170715id_/http%3A//www.sensedigital.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensedigital.in privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503191918id_/http%3A//sensedigital.in/privacy.php) for the most accurate reproduction.*
 
 # About Us - Sense. Digital
 
