@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facenow.in privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103180903id_/http%3A//www.facenow.in/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facenow.in privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504004405id_/http%3A//www.facenow.in/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy | FACENOW - Online Test Series
 
