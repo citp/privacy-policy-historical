@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homesnap.com privacy policy that was archived on 2015-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151013011700id_/http%3A//www.homesnap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesnap.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503115958id_/http%3A//www.homesnap.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: Homesnap
+# Privacy Policy | Homesnap
 
 Homesnap is committed to protecting your privacy. We will never send spam to you, nor will we sell or distribute your email address or other personal information to unaffiliated parties without your consent. We have put in place suitable, industry-standard physical, electronic and managerial procedures to keep safe and secure any information we may collect from our users. Please read the following to learn more about our privacy policy, which applies to the use of [www.homesnap.com](http://www.homesnap.com/) and our mobile apps. 
 
-If you have any questions or comments regarding this privacy policy, please feel free to contact us at [info@homesnap.com](mailto:info@homesnap.com). Our corporate address is: Sawbuck Realty, Inc., d/b/a Homesnap, 4733 Bethesda Avenue Suite 650 Bethesda, MD 20814. 
+If you have any questions or comments regarding this privacy policy, please feel free to contact us at [info@homesnap.com](mailto:info@homesnap.com). Our corporate address is: Sawbuck Realty, Inc., d/b/a Homesnap, 5640 Nicholson Lane Suite 300 Rockville, MD 20852. 
 
 ## Information We Collect
 
