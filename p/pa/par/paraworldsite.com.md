@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paraworldsite.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611151745id_/http%3A//travelfeatured.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paraworldsite.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503162141id_/http%3A//travelfeatured.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Explore The World With Us
 
