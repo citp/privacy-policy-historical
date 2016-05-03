@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831232415id_/http%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldenglishinstitute.org privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503223537id_/https%3A//www.worldenglishinstitute.org/privacy) for the most accurate reproduction.*
 
 # World English Institute - Free English Lessons
 
-This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20150831232415id_/http%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
+This Privacy Policy governs the manner in which World English Institute collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.worldenglishinstitute.org](https://web.archive.org/web/20160503223537id_/https%3A//www.worldenglishinstitute.org/www.worldenglishinstitute.org) website ("Site"). This privacy policy applies to the Site and all products and services offered by World English Institute.
 
 ### Personal identification information
 
