@@ -1,61 +1,114 @@
-> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629181712id_/http%3A//www.avanade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avanade.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003415id_/http%3A//www.avanade.com/sitecore/content/Home/Footer/SubFooter/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
-# Avanade > Privacy Policy
+# Privacy Policy | Avanade
 
-|  | 
+Privacy Policy (Last revised: July 20, 2015)  
 
-**Privacy Policy** (Last Revised – 6/2/2009)
 
-Thank you for visiting the Avanade website. This online privacy policy is designed to tell you about how we will collect and use information from our site so that you can make an informed choice about using this site. The primary purpose of Avanade is to develop and deliver Internet and technology solutions to help businesses improve profitability, deepen customer and supplier relationships, gain speed to market, and fuel growth.
+Your privacy on Avanade site
 
-Please be advised that your use of this site constitutes your acceptance of the provisions of this privacy policy. If you do not agree to these provisions, you should immediately terminate your access to and not use the site. Avanade reserves the right to change the provisions of this privacy policy at any time but will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the site following the posting of such changes or revised policy shall constitute your acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our website to make sure that you understand how your information will be used. 
+Thank you for visiting the Avanade website (“the website” or “site”). This online privacy policy is designed to tell you about how we will collect and use information from our website so that you can make an informed choice about using this site.
 
-Avanade Inc, is a company incorporated in State of Washington and controls this site from its U.S. offices, according to U.S. law.
+The privacy policy (together with our [Terms of Use](http://www.avanade.com/en-us/utility/terms-of-use) and [Cookies policy](http://www.avanade.com/en/cookies)) explains how any personal data we may collect from or about you through this site will be processed and protected by Avanade. By using our website, you are agreeing to allow Avanade to collect, store, and use your information as described below. If you do not agree to these provisions, you should immediately terminate your access to the website and not engage in further activities on the site. 
 
- **What information do we gather?**
+Information We collect
 
-Information on Avanade is gathered in two ways: (1) passively (for example, through our site's technology), and (2) actively (for example, if you send us an e-mail request).
+Avanade collects information from the website in two ways: (1) passively (for example, through cookies and similar technology), and (2) actively (for example, if you send us an e-mail request).
 
-When you visit our site, our software automatically collects some information from your computer. The information includes the unique Internet address assigned to your computer, your Internet service provider, your browser type and version, and your operating system.
+When you visit our website, we automatically collect some information from your computer. The information includes:
 
-We also collect information when you voluntarily submit it to us. For example, if you ask for more information on the services that Avanade provides, we may store and use the information you provide for marketing purposes. If you submit a technical question to us, we may store your question and we may contact you if we need clarification on the question. Also, we may post your question along with our answer on our site. However, we will not include your last name or email address if we post an answer to your question.
+  * Information about your computer, including (where available) your IP address, operating system and browser type. This is used for system administration, to filter traffic, to look up user domains and to report on statistics. 
+  * Details of your visits to our website and the resources that you access (including but not limited to, traffic data, location data, weblogs and other communication data). Please see our [Cookies policy](http://www.avanade.com/en/cookies) for more information. 
 
-Similarly, if you contact us through our site to inquire about employment opportunities with Avanade, we may collect and store the information you provide for recruiting purposes. On the recruiting site, you will be asked for information necessary for the recruiting process such as your name, contact information and technical experience. Because different jurisdictions have different privacy laws and Avanade is committed to complying with such laws, when applying for positions in some locations before you can submit your CV/Resume you will need to indicate your consent to the following uses of your CV/Resume by Avanade: (1) Avanade, its affiliates, and agents will store, access, and use the information in any jurisdiction, including jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; and (2) Avanade, its affiliates and agents, may use this information to evaluate your eligibility for employment and to contact you for recruiting purposes. Please note that people under 18 years old are not authorized to submit recruiting information.
 
- **What about sensitive personal data?  
-**  
-We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this privacy policy. The references to "sensitive personal data" are to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities).
 
- **Do we give you access to your information?** You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by [sending us an e-mail. ](mailto:information@avanade.com)****
+We also collect information when you voluntarily submit it to us. For example, 
 
-**How do we use the information we collect?**
+  * Information that you provide by submitting forms on our website. This includes registering to use the site, subscribing to services, newsletters and alerts, registering for an event, requesting a white paper or applying for a job. Pages that collect this type of information may provide further explanation as to why your data is needed and how it will be used. It is completely up to you whether you want to provide it.
+  * Information that you submit to us when you want to engage in business with us.
+  * If you contact us, we may keep a record of that correspondence.
+  * Responses to surveys that we distribute in which you elect to participate.
+  * Any postings, comments or other content that you upload or post to an Avanade site. 
 
-We may collect the information you voluntarily submit to us and use it for the purposes for which it was submitted. We may also use the information that you voluntarily submit to us in the following ways:
 
-To provide you with information about Avanade; to request feedback and to enable us to develop and improve the features and content of the site and the services available from Avanade; to contact you regarding your use of the site; changes to the terms of use, privacy policy, or other policies; and our use of the information you submit; and to contact you regarding new site features, news about Avanade, events, marketing offers, products, services, and other opportunities. If we wish to use the information for other purposes, we will notify you prior to such use. If you object to any such use, you can e-mail us at 
 
-[information@avanade.com](mailto:information@avanade.com) and let us know of your objection, and we will not use your information for such purpose. If you wish to have any personal information you have sent to us removed from our database, please e-mail us at [information@avanade.com](http://dotcomstager/_admin/footer/information@avanade.com).
+When this information relates to or identifies you, we will treat it as “personal data.”
 
- **What are cookies and how do we use them?**
+Sensitive Information
 
-A cookie is a small file of information that our server may send to your computer when you visit our site. Cookies allow our server to track how you navigate through our site, such as what pages you viewed. If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in the preferences or options menu in your browser. However, disabling cookies may impair your ability to participate in certain activities on our site.
+We do not generally seek to collect sensitive personal data through our website. If we do seek to collect such data, we will ask you to expressly consent to our proposed uses of the data. If you provide us with unsolicited sensitive personal data, you are consenting to our use of that data subject to applicable law. The term “sensitive personal data” refers to the various categories of personal data identified by European and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, data about personality and private life, financial account information, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, biometric or genetic data, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities). 
 
- **How do we use the information we collect passively and with cookies?**
+Information Use
 
-We may analyze the information we collect passively and with cookies to determine what is most effective about our site, to help us identify ways to improve it and, eventually, to determine how we can make it more effective.
+Cookies and Automatically Collected Information
 
-Avanade will not sell, lease, or rent information we collect passively or with cookies. Nor will we sell, lease, or rent information you provide to us directly. Avanade may disclose information it has collected if required to do so by law or in the good-faith belief that such action is reasonably necessary to (1) comply with legal process, (2) respond to any claims, or (3) protect the rights, property, or personal safety of Avanade, our customers, or the public. In addition, if Avanade or substantially all of its assets are acquired, information you have provided to us will be one of the assets that is transferred.
+We analyze your IP and browser information to determine what is most effective about our website, to help us identify ways to improve it and, eventually, to determine how we can tailor our website to make it a more positive and relevant user experience. Please see our [Cookies policy](http://www.avanade.com/en/cookies) for more details. 
 
- **Disclosure of Personal Information.**
+Information You Provide
 
-We will not disclose to unaffiliated companies any information we gather from you that could be used to personally identify or contact you ("Personal Information"), except as set forth in this privacy policy or as disclosed to you at the time you provide such information. Avanade may disclose such Personal Information to independent contractors, service providers or consultants who are engaged by or working with Avanade. We request that any third parties who obtain access to such information comply with the terms of this privacy policy.
+We use personal data that you submit to us to provide you with relevant information, process requests you submit through the website, and for other purposes which we describe at the point where it is collected. For example, we use personal data to:
 
- **Disclosure of Aggregate Information.**
+  * Fulfill your requests for white papers, articles, newsletters or other content.
+  * Create and analyze surveys or research questionnaires.
+  * Personalize your site experience.
+  * Process job applications you submit.
+  * Determine your suitability as an Avanade business partner.
+  * Provide you with additional information about Avanade services.
+  * Respond to technical questions you submit and request clarification if needed.
+  * Contact you for marketing purposes (with your consent, when required). 
 
-We may provide information we collect that does not allow you to be personally identified or contacted ("Aggregate Information") to third parties, including without limitation, information about your access and use of the site. For example, we might provide such Aggregate Information to a third party to inform the party of the number of users of the site and the activities they conduct while on the site.
 
- **Questions?**
 
-If you have any questions now or during your visit, please contact us at 
+If you submit technical questions, we may post them to our website to help other users. However, we will not associate your full name with any posted questions.
 
-[information@avanade.com](http://dotcomstager/_admin/footer/information@avanade.com). 
+Recruiting Information 
+
+If you contact us through our website to apply for employment opportunities with Avanade, we may collect and store the personal data that you provide for recruiting purposes. We may ask you for information necessary for the recruiting process such as your name, contact information and technical experience. We may also process your personal data if we are required to do by law or legal process. However, before you can submit your CV/Resume, you may be required to consent to the following conditions respecting the use of your CV/Resume by Avanade: 
+
+  * Avanade, its affiliates, and agents will store, access, and use the information in any jurisdiction, including jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; and 
+  * Avanade, its affiliates and agents, may use this information to evaluate your eligibility for employment and to contact you for recruiting purposes. 
+
+
+
+Please note that people under 18 years old are not authorized to submit recruiting information on our website.
+
+  * _Targeted Emails_ \-- We send emails to individuals with whom we want to develop or maintain a relationship. Our targeted email messages typically include cookies and similar technologies that allow us to know whether you open, read, or delete the message, and links you may click. When you click a link in an email you receive from Avanade, we will also use a cookie to log what pages you view and what content you download from our websites, even if you are not registered at or signed into our site. 
+  * _Combining and Analyzing Personal Data_ \-- We may combine personal data from publicly available sources, and from our email, website, and personal interactions with you. We combine this personal data to better assess the suitability of our employment opportunities with your qualifications, to send you relevant information about careers and opportunities at Avanade, and to analyze the effectiveness of our recruitment efforts and resources. 
+
+
+
+Information Sharing
+
+We will not sell personal data to third parties. We generally only share personal data with our contracted service providers and advisors. However, there will be other times when we need to share or disclose personal data you provide for a specific purpose. For example: 
+
+  * We may need to share certain personal data, like food preferences and special accommodation requirements, to caterers, hotels, and to other business partners, if we are managing a jointly sponsored event and these other parties have a business need to know this information. We will inform you at the time of collection that the personal data will be shared with our partners and you will have the option of providing it or not providing it. 
+  * We may need to disclose your personal data to third parties if we sell or liquidate any part of our business or assets. Clients’ personal data can be one of the transferred business assets in such circumstances. 
+  * We may need to disclose or share your personal data to comply with a legal obligation, or to enforce or apply our Terms of Use; or to protect the rights, property, or safety of Avanade, our clients, or others. 
+
+
+
+We also may provide aggregate, non-personally identifiable data (“Aggregate Information”) to third parties, including information about your access and use of the website. For example, we might provide such Aggregate Information to a third party to inform the party of the number of users of the site and the activities that they conduct while on the site. 
+
+Data Security
+
+We take reasonable steps to maintain the security of personal data collected via Avanade’s website. Further, we make reasonable efforts to delete or destroy personal data when there is no longer a business need to retain it. 
+
+Our website may, from time to time, contain links to and from the sites of our partner networks, advertisers and affiliates. If you follow a link to any of these sites, please note that these sites have their own privacy policies and that we do not accept any responsibility or liability for these policies or sites. Please check these policies before you submit any personal data to these sites. 
+
+Avanade also uses mobiles applications, which have their own privacy policies. If an Avanade app does not have its own privacy policy, then this privacy policy will apply. 
+
+Processing Personal Information
+
+As a global organization, personal data that we collect may be routed, stored, or transferred internationally throughout Avanade’s worldwide organization. We have internal policies in place that are designed to ensure an equivalent level of protection is in place across our organization.
+
+Your Rights
+
+You are entitled to know whether we hold personal data about you and, if we do, to have access to that personal data and require it to be corrected if it is inaccurate. You can do this by using our [Contact Us form](http://www.avanade.com/us/pages/contact.aspx). 
+
+You can exercise your right to prevent marketing communications sent to you at any time by using the unsubscribe link included in every marketing email footer. In addition, you may submit your request through our [Contact Us form](http://www.avanade.com/us/pages/contact.aspx).
+
+If you cannot find what you are looking for here, or have a concern about our use of your personal data, please contact Data Privacy. In addition, to find the Avanade affiliate in your country, visit our [Contact Us](http://www.avanade.com/en/contact) page. 
+
+Privacy Policy Updates
+
+Avanade reserves the right to change the provisions of this privacy policy at any time, but will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the website following the posting of such changes or revised policy shall constitute your acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our website to make sure that you understand how your information will be used. 
