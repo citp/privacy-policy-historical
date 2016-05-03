@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203191711id_/http%3A//reachoutrecovery.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachoutrecovery.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503110139id_/http%3A//www.reachoutrecovery.com/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - Reach Out Recovery
 
