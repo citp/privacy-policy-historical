@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2015-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151212122107id_/http%3A//www.krystalskitsch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystalskitsch.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503045617id_/http%3A//sunnysweetdays.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Disclosures - Krystal's Kitsch
+# Privacy Policy and Disclosures - Sunny Sweet Days
 
 This Privacy Policy governs the manner in which Krystal’s Kitsch collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.krystalskitsch.com](http://www.krystalskitsch.com/)website (“Site”).
 
