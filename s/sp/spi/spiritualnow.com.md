@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualnow.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622135909id_/http%3A//www.spiritualnow.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualnow.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003734id_/http%3A//www.spiritualnow.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Spiritual Now
 
