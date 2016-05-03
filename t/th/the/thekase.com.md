@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekase.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218044211id_/http%3A//www.thekase.com/us/default/page-infos-privacy-US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekase.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035545id_/http%3A//www.thekase.com/us/en/page-infos-privacy-US.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -137,7 +137,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * • To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * • To enforce or apply our [terms of use](http://www.thekase.com/us/default/page-infos-terms-US.html) and other agreements, including for billing and collection purposes.
+  * • To enforce or apply our [terms of use](http://www.thekase.com/us/en/page-infos-terms.html) and other agreements, including for billing and collection purposes.
   * • If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of THE KASE USA, LLC, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
