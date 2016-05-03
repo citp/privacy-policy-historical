@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920150648id_/https%3A//datahero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datahero.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503041150id_/https%3A//datahero.com/privacy-policy) for the most accurate reproduction.*
 
-# Datahero Privacy Policy
+# Privacy Policy
 
 #### Effective Date: September 2014
 
