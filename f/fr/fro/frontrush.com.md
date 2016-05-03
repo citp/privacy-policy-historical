@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616180517id_/http%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503233301id_/http%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
 
 # Front Rush::Privacy Policy
 
@@ -76,14 +76,14 @@ Front Rush reserves the right to change or update this Policy, or any other of t
 
 ##### (iii) Contact Us
 
-If you have any questions or comments regarding our privacy practices, you may contact us at Front Rush, LLC 287 South Main Street Suite 12 Lambertville, NJ 08530 (215) 489-2100
+If you have any questions or comments regarding our privacy practices, you may contact us at Front Rush, LLC 62 South Main Street Yardley, PA 19067 (215) 489-2100
 
 ##### (iv) More Information
 
 Want more information? Check out these helpful links…
 
 (v)Your California Privacy Rights. A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes. If you are a California resident and would like to make such a request, please submit your request in writing to:   
-Front Rush, LLC 287 South Main Street Suite 12 Lambertville, NJ 08530   
+Front Rush, LLC 62 South Main Street Yardley, PA 19067   
 Please note that under California law, businesses are only required to respond to a customer request once during any calendar year.
 
 (vi)Governing Law/Consent to Jurisdiction. This Privacy Policy shall be construed in accordance with the laws of the Commonwealth of Pennsylvania without regard to any conflict of laws analysis. The parties hereto mutually agree and consent to the exclusive jurisdiction and venue of the Court of Common Pleas of Bucks County, PA and/or the United States District Court for the Eastern District of Pennsylvania with respect to any proceedings arising out of, related to, or in connection with this Agreement. The parties further agree that mailing to either party by certified or registered mail shall constitute lawful and valid service of process.
