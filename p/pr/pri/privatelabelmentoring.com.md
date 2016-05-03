@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the privatelabelmentoring.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623010849id_/http%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatelabelmentoring.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503140821id_/http%3A//www.jobcrusher.com/privacy) for the most accurate reproduction.*
 
-# Job Crusher » Privacy
+# Job Crusher Privacy - Job Crusher
 
-## Privacy
+### Privacy
 
 We respect your interest in your privacy and as a result we have created this informational disclosure.
 
