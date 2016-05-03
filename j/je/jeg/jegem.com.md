@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegem.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209173707id_/http%3A//www.jegem.com/1/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegem.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503104941id_/http%3A//www.jegem.com/1/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
