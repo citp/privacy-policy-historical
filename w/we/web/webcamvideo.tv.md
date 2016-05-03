@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webcamvideo.tv privacy policy that was archived on 2015-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151104110912id_/http%3A//www.webcamvideo.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamvideo.tv privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503212538id_/http%3A//www.webcamvideo.tv/privacy) for the most accurate reproduction.*
 
 # Privacy policy / Webcamvideo - free video from popular adult webcam
 
-Effective date: 03 November 2015. 
+Effective date: 03 May 2016. 
 
 #### I. General 
 
