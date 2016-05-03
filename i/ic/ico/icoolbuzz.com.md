@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2015-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151223225305id_/http%3A//icoolbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icoolbuzz.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503204750id_/http%3A//www.icoolbuzz.com/privacy) for the most accurate reproduction.*
 
 # Privacy ⋆ C00l Things
 
