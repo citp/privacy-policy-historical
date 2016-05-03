@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristolpost.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032630id_/http%3A//www.bristolpost.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristolpost.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503105525id_/http%3A//www.bristolpost.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Bristol Post | Privacy Policy
 
