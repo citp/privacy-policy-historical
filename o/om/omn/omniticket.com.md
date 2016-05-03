@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omniticket.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317214418id_/http%3A//www.omniticket.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omniticket.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503232746id_/http%3A//www.omniticket.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy - OmniTicket Network
 
