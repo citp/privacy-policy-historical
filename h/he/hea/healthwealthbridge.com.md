@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530010014id_/http%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwealthbridge.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503063422id_/http%3A//healthwealthbridge.com/about-me/healthwealthbridge-com-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -58,7 +58,3 @@ Agreeing to Terms
 If you do not Healthwealthbridge.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
-
-Get the perfect Prescription to zap Acidity
-
-This special pdf, is exclusive for my VIP subscribers of The Healthletter
