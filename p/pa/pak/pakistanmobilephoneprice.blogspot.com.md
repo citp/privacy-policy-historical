@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pakistanmobilephoneprice.blogspot.com privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216222616id_/http%3A//www.pakistanmobilephoneprice.com/2010/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanmobilephoneprice.blogspot.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504001500id_/http%3A//www.pakistanmobilephoneprice.com/2010/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Price in Pakistan Tech Specifications 
+Privacy Policy 
+
+[](http://www.pakistanmobilephoneprice.com/2010/11/privacy-policy.html)
 
 Privacy Policy  
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[](mailto:info@gsmarena.com)[pkmobphoneprice@hotmail.com](mailto:pkmobphoneprice@hotmail.com)**.
@@ -28,11 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-  * **Title :** [Privacy Policy](http://www.pakistanmobilephoneprice.com/2010/11/privacy-policy.html "Privacy Policy")
-  * **Category :**
-  * **Rating :** 100% based on 10 ratings. 5 user reviews. 
-
-
-
-
-Item Reviewed: Privacy Policy 9 out of 10 based on 10 ratings. 9 user reviews. 
+**Disclaimer**. Mobile Phone Prices / price list is updated daily from local Mobile shops and dealers in Pakistan but we can't guarantee that mobile prices / price list on this page is 100% correct (Human error is possible). Always visit your local shop for exact mobile prices : PakistanmobilephonePrice.com : Mobile Pakistan - Nokia mobile prices / LG mobile prices / Samsung mobile prices / Sony Ericsson mobile prices / HTC mobile prices - PakistanmobilephonePrice.com Mobile Prices in Pakistan
