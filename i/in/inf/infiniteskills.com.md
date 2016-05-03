@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209185709id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503084707id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # O'Reilly Privacy and Security Policy
 
-This is the web site of Infinite Skills Inc.
+This is the web site of O'Reilly Media Canada, Inc.
 
-We can be reached via e-mail at [info@infiniteskills.com](mailto:info@infiniteskills.com) or you can reach us by telephone at 1-858-866-9147
+We can be reached via e-mail at [support@infiniteskills.com](mailto:support@infiniteskills.com) or you can reach us by telephone at 1-800-889-8969
 
 Customer Data  
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -34,7 +34,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for O'Reilly
 
-[Learning To Program In Java] I've been through 46 lectures so far, and wish all my college and graduate courses had been offered in this format (and taught by Mike McMillan!). He dives into the meat of the topic, no long-winded digressions, no classroom diversions. I can pause to take extensive notes, replay if I want hear what he said again, and revisit any lecture any time. I love that Mike doesn't edit out his mistakes, but instead shows us the common gotchas that even experienced programmers like him run into. I also love that he uses the cmd prompt to compile and run the program. (I first tried to learn java using a book and NetBeans, and subsequently never fully grasped the basic java environment). Excellent, excellent course, worth every penny. Amanda T.
+I have purchased learning photoshop cs6 ( author: Andy Anderson) and I just had to write on what an excellent course. Andy does a wonderful job teaching such a complex software look easy and with humor. He provides so much information that I occasionally have to go back to the lessons for notes. Please continue making such excellent courses and tell Mr. Anderson to please make another photoshop course part 2. Richard A.
 
 [
 
