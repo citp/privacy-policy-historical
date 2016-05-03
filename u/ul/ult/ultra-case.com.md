@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultra-case.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215154207id_/http%3A//www.ultra-case.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultra-case.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503203726id_/http%3A//www.ultra-case.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Ultra-case.com – UltraCase
 
