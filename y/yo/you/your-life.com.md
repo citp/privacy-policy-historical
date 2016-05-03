@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221120323id_/http%3A//www.your-life.com/en/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503084446id_/http%3A//www.your-life.com/en/privacy-statement.php) for the most accurate reproduction.*
 
 # WCD - Privacy Statement
 
@@ -27,7 +27,9 @@ Data Retention
 We only retain personal data for as long as is necessary for us to render a service you have requested or to which you have given your consent, except where otherwise provided by law (e.g. in connection with pending litigation). 
 
 Use of Cookies  
-In some Websites, so-called cookies are used in order for us to improve the efficiency of your individual use of the Website. Cookies are identifiers that our Web server could send to your computer in order to identify the computer being used for the duration of the session. Most browsers are setup to accept these cookies automatically. In addition, you can deactivate the storing of cookies or adjust your browser to inform you before the cookie is stored on your computer. 
+Cookies are small text files that are stored in the visitor’s local browser cache. Using such cookies it is possible to recognize the visitor’s browser in order to optimize the website and simplify its use. Data collected via cookies will not be used to determine the personal identity of the website visitor.
+
+Most browsers are configured to accept cookies automatically. You can configure your browser to reject them, or to inform you when they are being set.
 
 Security  
 Bayer uses technical and organizational security precautions to protect your data from manipulation, loss, destruction or access by unauthorized persons. Any personal data that is provided to Bayer by you will be encrypted in transit to prevent its possible misuse by third parties. Our security procedures are continuously revised based on new technological developments. 
@@ -39,16 +41,20 @@ Websites of third-party vendors/links
 This website contains links/references to third-party websites. By providing such links, BAYER does not give its approval to their contents. Neither does BAYER accept any responsibility for the availability or the contents of such websites or any liability for damage or injury resulting from the use of such contents, of whatever form. BAYER offers no guarantee that pages linked to provide information of consistent quality. Links to other websites are provided to website users merely for the sake of convenience. Users access such websites at their own risk. The choice of links should in no way restrict users to the linked pages. 
 
 Contacts  
-If you have any problems, questions or ideas, please contact the following person. 
+Please contact the Corporate Data Protection Officer with any problems, questions or suggestions that you may have. The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary.
 
-Corporate Data Protection Officer Bayer AG:
+If you have any problems, questions or ideas, please contact one of the following persons. 
 
-Dr. Rainer Schwarz  
-Building K56  
-51368 Leverkusen, Germany  
-Phone: +49 (0) 214 30 2 05 22  
-Fax: +49 (0) 214 30 2 03 46  
-[E-Mail](mailto:cor.privacy@bayer-ag.de)  
-[Contact form](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
+Data Protection Officer of Bayer Pharma AG  
+Georg Schwonek  
+Bayer Pharma AG  
+Müllerstr. 178,  
+13353 Berlin, Deutschland  
+[E-mail](mailto:georg.Schwonek@bayer.com)
 
-The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
+Head of Data Privacy of Bayer AG  
+Eva Gardyan-Eisenlohr  
+Müllerstr. 178,  
+13353 Berlin, Deutschland  
+Phone: +49 (0) 30 468 16924  
+E-mail
