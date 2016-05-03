@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2015-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150920153227id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sync.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503102210id_/https%3A//www.sync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sync
 
@@ -137,14 +137,7 @@ Sync maintains procedures for addressing and responding to all inquiries or comp
 
 ### For More Information
 
-We appreciate hearing any comments, questions or concerns that you may have about our policies, practices and customer service. Please contact our Privacy Office at [privacyofficer@sync.com](mailto:privacyofficer@sync.com), or by mail at: 
-
-Sync.com Inc.  
-7030 Woodbine Avenue. Suite 800  
-Markham, ON L3R 6G2  
-Canada  
-Attention: Privacy Officer  
-
+We appreciate hearing any comments, questions or concerns that you may have about our policies, practices and customer service. Please contact our Privacy Office at [privacyofficer@sync.com](mailto:privacyofficer@sync.com).
 
 * * *
 
