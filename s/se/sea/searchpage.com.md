@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchpage.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218052735id_/http%3A//www.searchpage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchpage.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503020612id_/http%3A//www.searchpage.com/privacy.php) for the most accurate reproduction.*
 
 # SearchPage
 
@@ -75,7 +75,7 @@ A SPECIAL NOTE FOR PARENTS AND LEGAL GUARDIANS: SearchPage respects the U.S Chil
     * We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you with a prompt message the next time you open SearchPage Tab and will also post a prominent notice on our website pages prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
   11. ### Limitation of Liability.
 
-    * YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS [THE TERMS OF SERVICE](https://web.archive.org/web/20151218052735id_/http://www.searchpage.com/terms.php) FOR THE WEBSITE AND THE SEARCHPAGE TAB APPLICATION (INCLUDING THE LIMITATION OF LIABILITY PROVISIONS).
+    * YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS [THE TERMS OF SERVICE](https://web.archive.org/web/20160503020612id_/http://www.searchpage.com/terms.php) FOR THE WEBSITE AND THE SEARCHPAGE TAB APPLICATION (INCLUDING THE LIMITATION OF LIABILITY PROVISIONS).
   12. ### Language.
 
     * The parties hereto acknowledge having expressly required that this Privacy Policy is to be drawn up in the English language. Les parties aux présentes reconnaissent avoir expressément exigé que la présente Politique relative à la protection des renseignements personnels soit rédigée en anglais.
