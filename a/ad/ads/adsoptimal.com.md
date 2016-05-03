@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsoptimal.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315181256id_/https%3A//www.adsoptimal.com/tos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsoptimal.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503072711id_/https%3A//www.adsoptimal.com/tos/privacy) for the most accurate reproduction.*
 
 # Monetize your web traffic on mobile today - AdsOptimal
 
@@ -53,7 +53,7 @@ AdsOptimal is committed to continually examining and reviewing its privacy pract
 If you have any questions or concerns about our privacy practices, you may contact us:
 
 AdsOptimal Inc.  
-Phone: (650) 733-GO-AD  
+Phone: (415) 993-VR-AD  
 Email: [privacy@adsoptimal.com](mailto:privacy@adsoptimal.com)
 
 **This Privacy Policy was last updated on August 5, 2013**
