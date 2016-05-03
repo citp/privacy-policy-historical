@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbts.edu privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225042858id_/http%3A//www.sbts.edu/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbts.edu privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003458id_/http%3A//www.sbts.edu/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SBTS
 
@@ -10,4 +10,4 @@ Form data is collected when visitors submit requests for information or services
 
 When visitors submit forms that require private data to be supplied, such as student ID’s or credit card information (for the Online Giving form only), standard precautions have been taken. The website uses a secure certificate to encrypt the transfer of such data and Campus Technology actively provides measures to protect digital information stored on its computers. You can take additional precautions by closing all browsers used after you have finished submitting forms on the website.
 
-If you have any concerns about the privacy of your information, contact the Office of Campus Technology at (502) 897-4106 or [campustechnology@sbts.edu](mailto:campustechnology@sbts.edu).
+If you have any concerns about the privacy of your information, contact the Office of Campus Technology at (502) 897-4006 or [campustechnology@sbts.edu](mailto:campustechnology@sbts.edu).
