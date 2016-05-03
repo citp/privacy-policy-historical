@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weissinc.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175338id_/http%3A//www.weissinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weissinc.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503100208id_/http%3A//www.weissinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Weiss Research, Inc.
 
@@ -51,7 +51,7 @@ If we are legally required to notify you about a security incident we will eithe
 This site supplements the information that you provide with information that is received from third parties. For example, your address may be run against the U.S. postal service database in an effort to correct any typographical errors, so that the publications you seek will indeed arrive at the right location. 
 
 **UPDATING AND REMOVAL OF DATA**  
-You may have your name removed from our e-mail marketing lists at any time, by visiting the [_Money and Markets_ e-mail preference control center](http://www.emailpreferencecenter.com/) at [http://www.emailpreferencecenter.com](http://www.emailpreferencecenter.com/) and adjusting your communication preferences. Please read the information in this area very carefully so that you do not inadvertently discontinue the receipt of materials that you actually do wish to receive. You can send a request by mail to the following postal address: Weiss Research, Inc., 15430 Endeavour Dr., Jupiter, FL 33478 
+You may have your name removed from our e-mail marketing lists at any time, by visiting the [_Money and Markets_ e-mail preference control center](http://www.emailpreferencecenter.com/) at [http://www.emailpreferencecenter.com](http://www.emailpreferencecenter.com/) and adjusting your communication preferences. Please read the information in this area very carefully so that you do not inadvertently discontinue the receipt of materials that you actually do wish to receive. You can send a request by mail to the following postal address: Weiss Research, Inc., 4400 Northcorp Parkway, Palm Beach Gardens, FL 33410 
 
 **CONTACTING THE WEBSITE**  
 If you have any questions about this statement, the practices of this website, or your dealings with this website, you can [use our online form](http://www.weissinc.com/contact), call 1-800-291-8545, or write to:  
@@ -59,8 +59,8 @@ If you have any questions about this statement, the practices of this website, o
 
 **Weiss Research, Inc.**  
 re: www.weissinc.com Website  
-15430 Endeavour Drive  
-Jupiter, FL 33478 USA 
+4400 Northcorp Parkway  
+Palm Beach Gardens, FL 33410 USA 
 
 **CHANGES AND CLARIFICATIONS**  
 We reserve the right to modify, amend, or clarify this policy at any time by posting a revised privacy policy on our website. 
