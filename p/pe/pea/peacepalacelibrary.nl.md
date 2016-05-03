@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101035117id_/http%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacepalacelibrary.nl privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503232317id_/http%3A//www.peacepalacelibrary.nl/privacy) for the most accurate reproduction.*
 
 # Peace Palace Privacy statement | Peace Palace Library
 
@@ -16,3 +16,5 @@ The Peace Palace Library respects your privacy and seeks to protect your persona
 The Peace Palace website may contain links to other websites that are beyond our control. This privacy policy applies solely to the information you provide while visiting this website. Other websites to which you link may contain privacy policies that are different from this privacy policy.
 
 The current privacy policy statement is in accordance with the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). If you feel that this site is not following its stated information policy, please contact the Peace Palace Library.
+
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Accept [Read More](http://www.peacepalacelibrary.nl/privacy/)
