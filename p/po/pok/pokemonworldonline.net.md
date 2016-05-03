@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pokemonworldonline.net privacy policy that was archived on 2015-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151022171827id_/http%3A//www.pokemon-world-online.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemonworldonline.net privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503233810id_/http%3A//www.pokemon-world-online.net/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy · Pokémon World Online
 
-[Register Free](http://playerdex.pokemon-world-online.net/index.php?REG) [Download the Game](http://forum.pokemon-world-online.net/viewtopic.php?f=1&t=26679) [Forums](http://forum.pokemon-world-online.net/) [Playerdex](http://playerdex.pokemon-world-online.net/) [Wiki](http://pwo-wiki.info/)
+[Register Free](http://playerdex.pokemon-world-online.net/register.php) [Download the Game](http://forum.pokemon-world-online.net/viewtopic.php?f=1&t=26679) [Forums](http://forum.pokemon-world-online.net/) [Playerdex](http://playerdex.pokemon-world-online.net/) [Wiki](http://pwo-wiki.info/)
 
 PWO Updates
 
-[View Updates from Twitter](https://twitter.com/PWO_/timelines/400699466845417472)
+[View Updates from Twitter](https://twitter.com/PWO_/timelines/572545499917627392)
 
 Your personal information and privacy are important to Pokémon World Online. Establishing and maintaining a trusting relationship between our service and our players is crucial to the success of our games, and this Privacy Policy has been created and enforced with the intent of allowing our users to feel comfortable and safe while participating in our services.
 
