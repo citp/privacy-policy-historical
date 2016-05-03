@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227035443id_/https%3A//www.virginiamason.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiamason.org privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503104717id_/https%3A//www.virginiamason.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Notice of Privacy Practices - Downloadable and Translation Materials**
 
-  * [English](https://web.archive.org/web/20151227035443id_/https%3A//www.virginiamason.org/workfiles/privacy_notice.pdf "English - Notice of Privacy Practices")
-  * [Korean](https://web.archive.org/web/20151227035443id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_korean.pdf) 
-  * [Spanish](https://web.archive.org/web/20151227035443id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_spanish.pdf)
+  * [English](https://web.archive.org/web/20160503104717id_/https%3A//www.virginiamason.org/workfiles/privacy_notice.pdf "Notice of Privacy Practices - English")
+  * [Korean](https://web.archive.org/web/20160503104717id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_korean.pdf "Notice of Privacy Practices - Korean") 
+  * [Russian](https://web.archive.org/web/20160503104717id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_russian.pdf "Notice of Privacy Practices - Russian")
+  * [Spanish](https://web.archive.org/web/20160503104717id_/https%3A//www.virginiamason.org/workfiles/interpreter/VM_privacy_spanish.pdf "Notice of Privacy Practices - Spanish")
 
 
 
