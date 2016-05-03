@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222120245id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503232239id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of AllUsefulInfo.com
 
-Here at _[www.allusefulinfo.com](http://allusefulinfo.com/ "All Useful Info")_ , privacy of visitors are extremely important. That’s why we are publishing this Privacy Policy page to make all the visitors know about the important terms about our privacy. This Privacy Policy page provides you the type of information we collect or receive at _www.allusefulinfo.com_ and how these information are used.
+Here at _[allusefulinfo.com](http://allusefulinfo.com/ "All Useful Info")_ , privacy of visitors are extremely important. That’s why we are publishing this Privacy Policy page to make all the visitors know about the important terms about our privacy. This Privacy Policy page provides you the type of information we collect or receive at _www.allusefulinfo.com_ and how these information are used.
 
 ### Log Files
 
@@ -12,7 +12,7 @@ IP Addresses and other information we collects are not linked to any information
 
 ### Cookies and Web Beacons
 
- **All Useful Info**  makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other information that the visitor sends via their browser.
+**All Useful Info**  makes use of cookies to store information about visitors’ preferences, record user-specific information on which user visit, customize Web Page content according to users browser type or other information that the visitor sends via their browser.
 
 ### DoubleClick DART Cookies
 
