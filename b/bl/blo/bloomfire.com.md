@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloomfire.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221130017id_/https%3A//bloomfire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomfire.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503034934id_/https%3A//bloomfire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bloomfire
+# Privacy Policy | Bloomfire
 
 ### 1\. Introduction
 
@@ -22,7 +22,7 @@ From Subscribers we collect all information as for Users and Administrators. In 
 
 We store and use personal information for many purposes. The information we collect is used to improve the content of our Site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission or it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Use](https://web.archive.org/terms-of-use/), or as otherwise required by law.
 
-We may use your email address or other personal information to send occasional commercial, educational, or marketing messages. Bloomfire is compliant with the CAN-SPAM Act of 2003. However, if you wish to opt-out of these emails you can easily unsubscribe with the ‘unsubscribe’ or ‘opt-out’ links contained within them or with an email to [](mailto:communications@bloomfire.com)ommunications@bloomfire.com (1). We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major system updates, customer service needs, or items for which you have requested communication).
+We may use your email address or other personal information to send occasional commercial, educational, or marketing messages. Bloomfire is compliant with the CAN-SPAM Act of 2003. However, if you wish to opt-out of these emails you can easily unsubscribe with the ‘unsubscribe’ or ‘opt-out’ links contained within them or with an email to ommunications@bloomfire.com (1). We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major system updates, customer service needs, or items for which you have requested communication).
 
 We use cookies, web beacons, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit Bloomfire; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
 
@@ -55,4 +55,4 @@ The above contact information may also be used to request access to the informat
 As a convenience to our Visitors and Users, the Site may contain links to a number of sites that we believe may offer useful information. The policies and procedures we  
 described here do not apply to those sites. We suggest contacting those sites directly for information on their privacy, security, data collection, and distribution policies.
 
-1)E-mails from communications[@bloomfire.com](https://bloomfire.com/ "https://bloomfire.com/") (or any other internal @bloomfire address are represented in the statement above. If you become a member of an independent free trial or owned Bloomfire community, you have direct control of those messages within your Bloomfire profile page.See more information here <https://community.bloomfire.com/posts/524060>on how to control those notification settings.
+1)E-mails from communications@bloomfire.com (or any other internal @bloomfire address are represented in the statement above. If you become a member of an independent free trial or owned Bloomfire community, you have direct control of those messages within your Bloomfire profile page. See more information here https://community.bloomfire.com/ on how to control those notification settings.
