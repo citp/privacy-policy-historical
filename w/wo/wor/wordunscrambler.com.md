@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordunscrambler.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208203931id_/http%3A//www.wordunscrambler.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordunscrambler.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503123728id_/http%3A//www.wordunscrambler.com/private.html) for the most accurate reproduction.*
 
 # Word Unscrambler privacy policy
 
