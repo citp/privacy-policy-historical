@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the royallittlelambs.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219215641id_/http%3A//royallittlelambs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royallittlelambs.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503035539id_/http%3A//royallittlelambs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.christianbook.com/page/homeschool/history/draw-and-write-through-history?event=AFF&p=1162639)
-
-Don't forget to use eBates to earn cash back for all your holiday shopping!   
-[](http://www.ebates.com/rf.do?referrerid=jMKOvKjB8DqksuqcGuvmKg%3D%3D&eeid=28585)
 
 I use third-party advertising companies to serve advertisements when you visit this website. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -23,5 +18,10 @@ I am not responsible for the republishing of the content found on this blog on o
 This privacy policy will be updated as necessary.
 
 If there are any questions regarding this privacy policy, you may contact me at jenalambert@royallittlelambs.com
+
+Don't forget to use eBates to earn cash back for all your holiday shopping!   
+[](http://www.ebates.com/rf.do?referrerid=jMKOvKjB8DqksuqcGuvmKg%3D%3D&eeid=28585)
+
+[](http://www.christianbook.com/page/homeschool/alpha-omega?event=AFF&p=1162639)
 
 [Yum](https://yummly.com/)
