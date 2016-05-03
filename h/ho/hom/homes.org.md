@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2015-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151103061533id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes.org privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503025538id_/http%3A//www.homes.org/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,10 +6,6 @@
 
 
 ## Last modified: August 27, 2010 
-
-Star Nine Ventures, Inc., who provides Homes.org ("we" "us" "Homes.org" or "Star Nine Ventures, Inc."), is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.Homes.org., including any and all free or paid services. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first email Customer Service at [CustomerService@Homes.org](mailto:CustomerService@Homes.org). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [contact TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). 
 
 Because we understand how important your privacy and security are, Homes.org has provided the following security guidelines for your review so that you will understand how the information you give us is used. 
 
