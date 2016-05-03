@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228130940id_/http%3A//www.cambridgema.gov/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503233119id_/http%3A//www.cambridgema.gov/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement - City of Cambridge, Massachusetts
 
@@ -40,9 +40,9 @@ The City will not rent, sell or give away any personally identifying information
 
 This site provides links to other governmental web sites including those run by the Commonwealth of Massachusetts, the Federal Government and various state authorities. This privacy policy applies only to the www.cambridgema.gov and to the third-party sites that provide Internet-related services for the City under contract. All links are reviewed for appropriateness prior to being included. Non-governmental links are generally not included in the site. Exceptions to this linking policy can be made by the MIS Department when it is determined by the Director that a public need exists. Such examples could include citywide events or public-private partnerships that impact City programs. 
 
-### Disclosure to third parties 
+### Disclosure to third parties and the Massachusetts Public Records Law
 
-As a governmental agency, the Public Records Law, M.G.L. c. 66, sec. 10 governs our activities. Any information received through use of the site is subject to the same provisions as information provided on paper. Otherwise we do not share any personally identifying information with any third party. For a more complete discussion of the implications of the Public Records Law, please refer to Commonwealth of Massachusetts, Secretary of State's Office that include FAQs as well as the text of the statute. 
+As a governmental entity, the Massachusetts Public Records Law applies to records made or received by the City. Any information received through use of this site is subject to the same provisions as information provided on paper. Otherwise we do not share any personally identifying information with any third party. For more complete information regarding the Public Records Law, please refer to the [Commonwealth of Massachusetts, Secretary of State’s office website](https://www.sec.state.ma.us/ "Opens in a new window") as well as the text of the Public Records Law.
 
 ### Security 
 
