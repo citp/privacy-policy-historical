@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnileonline.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910155407id_/http%3A//playnileonline.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnileonline.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503141427id_/http%3A//playnileonline.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Immortal Cities: Nile Online » Ancient Egyptian browser-based Empire Builder
 
@@ -21,7 +21,7 @@ No Collection of Information from Children
 We do not knowingly collect personally identifiable information from children under the age of 13. 
 
 Third Party Sites  
-If you click on a link to a third party site, including on an advertisement, you will leave the Company site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as the Company. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a site that is linked to the Company�s site, you should review the privacy policy before providing any personal information. 
+If you click on a link to a third party site, including on an advertisement, you will leave the Company site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as the Company. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a site that is linked to the Company’s site, you should review the privacy policy before providing any personal information. 
 
 Communications from the Company 
 
@@ -37,7 +37,7 @@ We store information that we collect through cookies, log files and clear gifs t
 Information Sharing and Disclosure 
 
 Sharing of Information  
-We do not share aggregate information (non-personally identifiable) or personally identifiable information with any third parties other than as set forth in this policy, however, in the event of merger, acquisition or bankruptcy, management of the Company�s customer information may be transferred to its successor or assign. 
+We do not share aggregate information (non-personally identifiable) or personally identifiable information with any third parties other than as set forth in this policy, however, in the event of merger, acquisition or bankruptcy, management of the Company’s customer information may be transferred to its successor or assign. 
 
 Legal Disclaimer  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process. 
@@ -47,7 +47,7 @@ We use cookies and other technologies to passively collect demographic informati
 
 Most browsers are automatically set to accept cookies whenever you visit a website. You can disable cookies or set your browser to alert you when cookies are being sent. However, your ability to use some areas of our site will be limited. This privacy statement covers the use of cookies by www.tiltedmill.com and www.playnileonline.com only and does not cover the use of cookies by any advertisers. 
 
-When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this site and other websites. They may use this data to show you advertisements on this site and elsewhere on the Internet about the products and services you might like. These advertisements may contain cookies. Cookies received with advertisements are collected by our ad companies and we may not have access to this information and we do not control the content of the advertisements that you will see. You may be able to opt out of the use of Google�s DART cookie by visiting the Google Ad and Content Network Privacy Policy (http://www.google.com/privacy_ads.html ). Your use of this site without opting out means that you understand and agree to data collection to provide you with interest-based advertising. 
+When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this site and other websites. They may use this data to show you advertisements on this site and elsewhere on the Internet about the products and services you might like. These advertisements may contain cookies. Cookies received with advertisements are collected by our ad companies and we may not have access to this information and we do not control the content of the advertisements that you will see. You may be able to opt out of the use of Google’s DART cookie by visiting the Google Ad and Content Network Privacy Policy (http://www.google.com/privacy_ads.html ). Your use of this site without opting out means that you understand and agree to data collection to provide you with interest-based advertising. 
 
 Bulletin Boards/Chat Rooms  
 If you use a bulletin board or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should be aware that information you disclose on these forums in public information and there is no expectation of privacy or confidentiality there. 
