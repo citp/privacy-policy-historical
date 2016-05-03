@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sciencerecorder.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127140018id_/http%3A//www.sciencerecorder.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencerecorder.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503101022id_/https%3A//www.sciencerecorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Science Recorder
 
-This Privacy Policy governs the manner in which Science Recorder collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.sciencerecorder.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Science Recorder.
+This Privacy Policy governs the manner in which Science Recorder collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.sciencerecorder.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Science Recorder.
 
 ### Personal identification information
 
