@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rootsrated.com privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929222815id_/https%3A//rootsrated.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootsrated.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504003515id_/https%3A//rootsrated.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | RootsRated
+# Privacy Policy
 
 This privacy policy applies to all visitors to or users of RootsRated’s applications, websites, products and services. Please read this privacy policy carefully. By setting up an account with us or accessing our website or application, you agree to this privacy policy. If you do not agree, do not set up an account or access our website or application. You are welcome to contact us if you have any questions.
 
