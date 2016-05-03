@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicgames.cc privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206003646id_/http%3A//www.sonicgames.cc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicgames.cc privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503211932id_/http%3A//www.sonicgames.cc/privacy.html) for the most accurate reproduction.*
 
 # sonicgames.cc - Privacy Policy
 
