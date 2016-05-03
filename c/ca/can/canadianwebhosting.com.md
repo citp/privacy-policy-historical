@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianwebhosting.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115002742id_/http%3A//www.canadianwebhosting.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianwebhosting.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503124316id_/http%3A//canadianwebhosting.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Canadian Web Hosting
 
