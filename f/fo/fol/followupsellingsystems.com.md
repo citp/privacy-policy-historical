@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupsellingsystems.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142805id_/http%3A//www.followupsellingsystems.com/disclaimers/714) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupsellingsystems.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503203045id_/http%3A//www.followupsellingsystems.com/disclaimers/714) for the most accurate reproduction.*
 
 # 
 
