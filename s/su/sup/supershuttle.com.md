@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910120938id_/http%3A//www.supershuttle.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503094853id_/http%3A//www.supershuttle.com/Privacy) for the most accurate reproduction.*
 
 # SuperShuttle® Online Reservations - LAX SFO LAS DIA PHX BWI DFW TPA JFK JAX CDG IAD SAN DCA SMF MCI IAH LGA MSP EWR AUS SNA HOU BUR DAL OAK ONT LGB SJC ISP PTP PIE ORY MIA MCO Airport
 
